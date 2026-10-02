@@ -1,0 +1,702 @@
+<<PAGE 1>>
+1 
+Mock Test Paper - Series I: March 2026 
+Date of Paper: 27th March, 2026 
+Time of Paper: 10 A.M. – 1 P.M. 
+ 
+INTERMEDIATE: GROUP – II 
+PAPER – 6A : FINANCIAL MANAGEMENT & STRATEGIC MANAGEMENT 
+PAPER 6A: FINANCIAL MANAGEMENT 
+Time Allowed – 3 Hours (Total time for 6A and 6B)  
+Maximum Marks – 50 
+1. 
+The question paper comprises two parts, Part I and Part II. 
+2. 
+Part I comprises Case Scenario based Multiple Choice Questions (MCQs) 
+3. 
+Part II comprises questions which require descriptive type answers. 
+4. 
+Working note should form part of the answer. Wherever necessary, suitable assumptions 
+may be made by the candidates and disclosed by way of note. However, in answers to 
+Questions in Division A, working notes are not required. 
+PART I – Case Scenario based MCQs (15 Marks) 
+Write the most appropriate answer to each of the following multiple choice questions by 
+choosing one of the four options given. All questions are compulsory. 
+Case Scenario 
+XYZ Limited is a mid-sized manufacturing company operating in the industrial equipment sector. 
+The company has been in operation for over 15 years and has established a strong market 
+presence. As part of the annual financial review, the CFO has tasked you, a financial analyst, 
+with analyzing the company's capital structure, determining the cost of capital components and 
+evaluate a proposed investment project. The finance team has compiled the following 
+information from the company's latest financial statements and market data: 
+Balance Sheet Data (Book Values) 
+• 
+Equity Share Capital: ` 15 lakhs 
+• 
+Reserves & Surplus: ` 5 Lakhs 
+• 
+Book Value of Debt: ` 10 lakhs 
+ 
+ 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 2>>
+2 
+Market Data 
+The market has assigned different valuations to the company's securities: 
+• 
+Market Value of Equity: The current market valuation of equity is 3 times its book value 
+• 
+Market Value of Debt: The current market valuation of debt is 2 times its book value 
+Weighted Average cost of capital(WACC) 
+The finance team has calculated the Weighted Average cost of capital of the firm under two 
+different approaches: 
+1. 
+As per Book Value: 10% 
+2. 
+As per Market Value: 10.5% 
+The company is considering a new project requiring an initial investment of ` 20 lakhs. The 
+project has the following additional features: 
+• 
+Working Capital Requirement: ` 3 lakhs (fully recoverable at end of Year 3)  
+• 
+Salvage Value: ` 2 lakhs (end of Year 3)  
+• 
+Depreciation: Straight-line over 3 years. 
+Expected Cash Inflows (before depreciation & tax): 
+Year 
+Cash Inflows (` lakhs) 
+1 
+8 
+2 
+9 
+3 
+10 
+Assume the tax rate is 25% and the investment rate is 2% more than the Pre tax cost of debt. 
+The project is evaluated based investment rate. 
+Year 1 
+Year 2 
+Year 3 
+6% 
+0.943 
+0.890 
+0.840 
+8% 
+0.926 
+0.857 
+0.794 
+10% 
+0.909 
+0.826 
+0.751 
+12% 
+0.893 
+0.797 
+0.712 
+ 
+ 
+ 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 3>>
+3 
+You are required to answer the following questions (MCQs 1 to 5): 
+1. 
+Cost of equity is – 
+(a) 
+Ke = 6% 
+(b) 
+Ke = 8%  
+(c) 
+Ke = 12% 
+(d) 
+Ke = 10% 
+2. 
+Cost of debt is – 
+(a) 
+Kd = 12% 
+(b) 
+Kd = 10% 
+(c) 
+Kd = 12% 
+(d) 
+Kd = 6% 
+3.  
+The Net Present Value (NPV) of the project is – 
+(a)  
+` 1.35 lakhs 
+(b)  
+-` 0.55 lakhs 
+(c)  
+` 1.14 lakhs 
+(d)  
+-` 0.95 lakhs 
+4.  
+The Profitability Index (PI) of the project is – 
+(a)  
+1.05 
+(b)  
+1.08 
+(c)  
+1.10 
+(d)  
+0.98 
+5.  
+The Discounted Payback Period is approximately – 
+(a)  
+2.32 years 
+(b)  
+2.60 years 
+(c)  
+2.95 years 
+(d)  
+2.89 years 
+(5 x 2 = 10 Marks) 
+ 
+ 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 4>>
+4 
+6.  
+The capital structure of JKL Limited consists of 12% debentures of ` 50 lakhs, 10% 
+preference shares of ` 25 lakhs, 14% term loan of ` 15 lakhs and equity share capital of 
+` 48 lakhs. Its reserves & surpluses are ` 24 lakhs. What would be the capital-gearing 
+ratio? 
+(a)  
+1.04 
+(b)  
+1.25 
+(c)  
+1.33 
+(d)  
+1.56 
+(2 Marks) 
+7.  
+The following information is given for QB Ltd. 
+ 
+Earnings per share 
+ 
+ 
+ 
+` 180 
+Dividend per share 
+ 
+ 
+ 
+` 45 
+Cost of capital 
+ 
+ 
+ 
+ 
+17% 
+Internal Rate of Return on investment 
+ 
+20% 
+What is the market price per share using Walter’s formula: 
+(a) 
+` 1,200 
+(b) 
+` 1,800 
+(c) 
+` 2,250 
+(d) 
+` 1,960 
+(2 Marks) 
+8.  
+A firm has sales of ` 75,00,000, variable cost of ` 42,00,000 and fixed cost of ` 6,00,000. 
+ 
+It has a debt of ` 45,00,000 at 9% and equity of ` 55,00,000. Does it have favourable 
+financial leverage? 
+(a) 
+ROI is less than interest on loan funds and hence it has no favourable financial 
+leverage. 
+(b)  
+ROI is equal to interest on loan funds and hence it has favourable financial 
+leverage. 
+(c)  
+ROI is greater than interest on loan funds and hence it has favourable financial 
+leverage. 
+(d)  
+ROI is greater than interest on loan funds and hence it has unfavourable financial 
+leverage. 
+(1 Marks) 
+ 
+ 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 5>>
+5 
+PART II – Descriptive Questions (35 Marks) 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+1. 
+(a)  
+The following information pertains to P Limited for the year ended 31st March, 
+2025: 
+Particulars 
+Amount 
+Sales 
+` 3,60,00,000 
+Rate of Income Tax 
+40% 
+Return on Net Worth 
+30% 
+Share Capital to Reserves Ratio 
+6 : 4 
+Current Ratio 
+2 : 1 
+Percentage of Net Profit to Sales 
+8% 
+Inventory Turnover (based on cost of goods sold) 
+12 
+Cost of goods sold 
+` 1,44,00,000 
+Sundry Debtors 
+` 12,00,000 
+Sundry Creditors 
+` 16,00,000 
+Interest on 14% debentures 
+` 3,36,000 
+You are required to CALCULATE: 
+(i)  
+Operating Expenses 
+(ii)  
+Share Capital and Reserves 
+(iii)  
+Closing Stock 
+(iv)  
+Fixed Assets 
+(5 Marks) 
+(b)  
+Mr. Raman, a portfolio manager, is analyzing a set of securities using the Capital 
+Asset Pricing Model (CAPM). He has gathered the following information: 
+Security 
+Beta 
+CAPM Return 
+A Ltd 
+1.2 
+15.20% 
+B Ltd 
+0.8 
+12.80% 
+C Ltd 
+1.1 
+? 
+Cash in hand 
+? 
+Nil 
+Treasury Bill  
+? 
+? 
+Stock Market i.e. Nifty  
+? 
+? 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 6>>
+6 
+(i) 
+Complete the above table with all missing values. 
+(ii) 
+CAPM explains the relationship between systematic risk and expected 
+return on a security. DISCUSS the nature of the relationship between Beta 
+and expected return under CAPM. 
+  (5 Marks) 
+(c)  
+A company wants to invest in a machinery that would cost ` 50,000 at the 
+beginning of year 1.  It is estimated that the net cash inflows from operations will 
+be ` 18,000 per annum for 3 years, if the company opts to service a part of the 
+machine at the end of year 1 at ` 10,000. In such a case, the scrap value at the 
+end of year 3 will be ` 12,500.  However, if the company decides not to service 
+the part, then it will have to be replaced at the end of year 2 at ` 15,400.  But in 
+this case, the machine will work for the 4th year also and get operational cash 
+inflow of ` 18,000 for the 4th year.  It will have to be scrapped at the end of year 4 
+at ` 9,000.  Assuming cost of capital at 10% and ignoring taxes, will you 
+RECOMMEND the purchase of this machine based on the net present value of its 
+cash flows? 
+ 
+If the supplier gives a discount of ` 5,000 for purchase, WHAT would be your 
+decision?  (The present value factors at the end of years 0, 1, 2, 3, 4, 5 and 6 are 
+respectively 1, 0.9091, 0.8264, 0.7513, 0.6830, 0.6209 and 0.5644). 
+(5 Marks) 
+2. 
+(a) 
+Zanshu Ltd. is an all equity financed company with a market value of ` 25,00,000 
+and cost of equity (Ke) 21%.  The company wants to buyback equity shares worth 
+`5,00,000 by issuing and raising 15% perpetual debt of the same amount.  Rate 
+of tax may be taken as 30%.  After the capital restructuring and applying MM 
+Model (with taxes), you are required to CALCULATE: 
+(i)  
+Market value of Zanshu Ltd. 
+(ii)  
+Cost of Equity (Ke) 
+(iii)  
+Weighted average cost of capital (using market weights) and comment on 
+it. 
+(6 Marks) 
+(b)  
+The following particulars are related to PQR Ltd: 
+Sales ` 1,50,00,000 
+Variable Cost ` 84,00,000 
+Fixed Cost ` 12,00,000 
+ 
+The company has borrowed ` 90,00,000 at 10% and its equity capital is  
+` 1,10,00,000. 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 7>>
+7 
+You are required to CALCULATE: 
+(i)  
+Return on Investment (ROI). 
+(ii)  
+Operating and Financial Leverages. 
+(iii)  
+Combined Leverage. 
+(iv)  
+Earnings Before Interest and Taxes (EBIT), if the sale is dropped to  
+` 1,00,00,000.  
+(4 Marks) 
+3.  
+Being a financial controller of Shilpa Limited, they have provided you with the debt 
+collection policy of the debtors’ ageing analysis as on the date of analysis – 
+Name of Customers 
+Current  
+31 – 60 
+Days 
+61 – 90 
+Days 
+91 or More 
+Days 
+Total 
+Customer A 
+3,12,500 
+1,05,000 
+- 
+- 
+4,17,500 
+Customer B 
+- 
+- 
+3,11,200 
+- 
+3,11,200 
+Customer C 
+6,81,600 
+- 
+- 
+- 
+6,81,600 
+Customer D 
+- 
+- 
+- 
+1,62,000 
+1,62,000 
+Customer E 
+ 
+- 
+3,01,500 
+2,10,000 
+  38,000   5,49,500 
+ 
+9,94,100 
+4,06,500 
+5,21,200 
+2,00,000 21,21,800 
+Collection Policy – 
+(a) 
+Normal Credit terms are for 30 days 
+(b) 
+Interest of 2% is charged on accounts overdue for 45 days 
+(c) 
+Interest of 4% is charged on accounts overdue for more than 75 days 
+(d) 
+Cash Discount of 2% is given to customers who make payment within 10 days of 
+invoice getting due. 
+Additional Information – 
+(a) 
+40% of the invoice value after bad debt falling in the ageing criteria of 31-60 days’ 
+pay after 45th day but pay within the 60th day with 1.5% of the total being 
+uncollectible  
+(b) 
+25% of the invoice value after bad debt falling in the ageing criteria of 61-90 days’ 
+pay after 75th day but pay within the 90th day with 3% of the total being 
+uncollectible. 
+(c) 
+15% of the total invoice value overdue for 91 days or more are uncollectible. 
+(d) 
+50% of the customers (invoice value) avail the cash discount. 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 8>>
+8 
+(e) 
+Administration cost for managing the above customers would also be involved 
+amounting to ` 50,000. 
+(i) 
+CALCULATE the effective cost involved in the collection process assuming 
+that the operating cost of sales ratio is 0.75. 
+(ii) 
+EXPLAIN three aspects of management of receivables.  
+(10 Marks) 
+4.  
+(a)  
+“The profit maximization is not an operationally feasible criterion.” COMMENT on 
+it.   
+ 
+(4 Marks) 
+(b) 
+EXPLAIN any four types of Preference Shares along with its Salient Features. 
+ 
+(4 Marks) 
+(c)  
+A company is analyzing its risk profile using combined leverage. It observes that 
+its Degree of Operating Leverage (DOL) is low while its Degree of Financial 
+Leverage (DFL) is high. The management believes this combination helps balance 
+overall risk. Based on the concept of combined leverage, EXPLAIN whether this 
+is a suitable risk combination and JUSTIFY your answer briefly. 
+ (2 Marks) 
+OR 
+(c)  
+Pecking order theory suggests that managers may use various sources for raising 
+of fund in an order. EXPLAIN the preferred order of financing sources suggested 
+by this theory. 
+ (2 Marks) 
+ 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 9>>
+9 
+PAPER 6B: STRATEGIC MANAGEMENT 
+1. 
+The question paper comprises two parts, Part I and Part II. 
+2. 
+Part I comprises case scenario based multiple choice questions (MCQs) 
+3. 
+Part II comprises questions which require descriptive answers. 
+PART I – Case scenario based MCQs (15 Marks) 
+1. (A) (Compulsory) 
+1. 
+(A) 
+PlaySphere Interactive was founded in Bangalore in 2010 as a small startup 
+developing mobile puzzle games for local users. For several years, its growth 
+remained modest, as the Indian gaming industry was still in its infancy. 
+ 
+In 2015, the new CEO redefined the company ’s vision as  “To be India ’s leading 
+creator of immersive gaming experiences,” and its mission as  “To design 
+culturally relevant games with global quality.” This gave PlaySphere both long-
+term direction and concrete operational purpose. 
+ 
+The company ’s breakthrough came when it launched a fantasy role-playing game, 
+MythQuest, based on Indian mythology. Within a year, it reached millions of 
+downloads. Success was partly due to its core competitive advantage an in-house 
+game engine optimized for low-bandwidth conditions, which allowed seamless 
+multiplayer play. This helped PlaySphere survive intense industry rivalry and the 
+threat of substitutes from foreign gaming platforms, both of which are key forces 
+in Porter ’s Five Forces model. 
+ 
+As player volumes increased, PlaySphere benefited from the experience curve 
+costs per unit declined as developers became more efficient and processes 
+standardized. This improved profitability despite rising competition. 
+ 
+To manage its expanding portfolio, the company restructured into two Strategic 
+Business Units (SBUs): Mobile Games (casual and puzzle titles) and Immersive 
+Games (RPGs and multiplayer). Each SBU was given autonomy for faster 
+decision-making, while the corporate office focused on resource allocation. 
+ 
+Leadership also played a role. The CEO adopted a participative leadership style, 
+involving development teams in key creative and technical decisions, which 
+boosted morale and innovation. 
+ 
+In 2020, sudden regulations on in-app purchases threatened revenues. 
+PlaySphere responded using special alert control, adjusting its monetization 
+models quickly to stay compliant. At the same time, it relied on premise control to 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 10>>
+10 
+monitor assumptions about growth in internet penetration and youth 
+demographics, ensuring its strategies remained valid. 
+ 
+Today, PlaySphere stands as one of Bangalore ’s fastest-growing gaming 
+companies, with revenues crossing ` 4,000 crore, symbolizing how strategic 
+clarity and adaptive execution can turn a startup into a national leader. 
+Based on the above Case Scenario, answer the Multiple-Choice Questions. 
+(i)  
+PlaySphere ’s declaration  “To be India ’s leading creator of immersive 
+gaming experiences” is best classified as which element of strategic intent, 
+and why? 
+(a)  
+Mission – because it defines operational purpose 
+(b)  
+Objective – because it is short-term and measurable 
+(c)  
+Vision – because it describes long-term aspirations 
+(d)  
+Corporate Strategy – because it defines resource allocation  
+ 
+(2 Marks) 
+(ii)  
+The success of MythQuest despite foreign competitors highlights which 
+forces from Porter ’s Five Forces model that PlaySphere managed to 
+withstand? 
+(a)  
+Bargaining Power of Suppliers and Threat of New Entrants 
+(b)  
+Industry Rivalry and Threat of Substitutes 
+(c)  
+Bargaining Power of Buyers and Threat of New Entrants 
+(d)  
+Industry Rivalry and Bargaining Power of Suppliers  
+(2 Marks) 
+(iii)  
+As PlaySphere scaled up, development costs per unit declined due to 
+learning efficiencies and process standardization. Which strategic 
+management concept explains this phenomenon? 
+(a)  
+Economies of Scale 
+(b)  
+Value Chain Analysis 
+(c)  
+Experience Curve 
+(d)  
+Cost Leadership 
+(2 Marks) 
+ 
+ 
+ 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 11>>
+11 
+(iv)  
+The restructuring of PlaySphere into two SBUs (Mobile Games and 
+Immersive Games) represents which level of strategy, and how does it help 
+execution? 
+(a) 
+Functional-level – focuses on departmental activities 
+(b) 
+Corporate-level – manages a portfolio of businesses 
+(c) 
+Business-level – defines competitive positioning in one industry 
+(d) 
+Operational-level – deals with day-to-day activities 
+(2 Marks) 
+(v)  
+When regulations on in-app purchases suddenly changed, PlaySphere 
+applied which type of strategic control and why? 
+(a) 
+Premise Control – checking underlying assumptions 
+(b) 
+Implementation Control – tracking key projects 
+(c) 
+Special Alert Control – responding to sudden events 
+(d) 
+Strategic Surveillance – scanning broad signals 
+(2 Marks) 
+(B)  
+Compulsory Application Based Independent MCQs 
+(i)  
+Bright Screens’ LED TV division has high market share in a fast-growing 
+electronics segment. It invests heavily in advertising and R&D to stay 
+ahead of competitors. How should this division be classified in the BCG 
+Matrix? 
+(a) 
+Dog 
+(b) 
+Star 
+(c) 
+Cash Cow 
+(d) 
+Question Mark 
+(2 Marks) 
+(ii)  
+A company has strong R&D capability, but competitors can easily replicate 
+its products. However, its organisational culture enables continuous 
+innovation which competitors cannot imitate. What is MOST likely the firm’s 
+core competency? 
+(a) 
+R&D capability 
+(b) 
+Product design 
+(c) 
+Organisational culture enabling innovation 
+(d) 
+Manufacturing efficiency 
+(2 Marks) 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 12>>
+12 
+(iii)  
+What is the critical final step in Kurt Lewin’s three-step model for 
+institutionalizing organizational change? 
+(a) 
+Unfreeze (Creating the motivation to change)  
+(b) 
+Change (Implementing the new processes)  
+(c) 
+Refreeze (Stabilizing the change by institutionalizing new norms)  
+(d) 
+Innovate (Creating a brand-new process) 
+(1 Mark) 
+ 
+PART II – Descriptive Questions (35 Marks) 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+1. 
+(a)  
+A strategic analyst wants to study the competitive positioning of companies in the 
+smartphone industry based on price range and product features. Explain how the 
+analyst can use Strategic Group Mapping to analyse the industry. Also, state the 
+insights that can be derived from such a map. 
+(5 Marks) 
+(b)  
+A Mumbai-based conglomerate, PQR Ltd., has announced a major restructuring 
+of its business operations. The company has decided to split its business into four 
+separate units: Manufacturing, Retail, Services, and Technology. Each unit will 
+operate as a separate business, with delegated responsibility for day-to-day 
+operations and strategy to the respective unit managers. Identify the organization 
+structure that PQR Ltd. has planned to implement. Discuss any four attributes and 
+the benefits the firm may derive by using this organization structure. 
+(5 Marks) 
+(c)  
+GreenHarvest Foods, a well-established organic food company in the domestic 
+market, is planning to expand globally. As part of its international strategy, the 
+company is introducing region-specific organic products by adapting ingredients, 
+flavours and packaging to suit local consumer preferences in different countries. 
+Through this approach, GreenHarvest Foods aims to cater to diverse markets and 
+strengthen its global footprint. Which expansion strategy from Ansoff’s Product-
+Market Growth Matrix best aligns with GreenHarvest Foods' approach?  
+ 
+(5 Marks) 
+2.  
+(a)  
+“A well-defined vision and mission statement provide direction and purpose to an 
+organization." Explain the significance of vision and mission statements in 
+strategic planning. 
+(5 Marks) 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 13>>
+13 
+(b)  
+“A close and continuous interaction between a business and its environment helps 
+in strengthening the business firm and using its resources more effectively." 
+Explain Business environment and discuss how does the interaction between a 
+business and its environment helps the business firm.  
+(5 Marks) 
+3.  
+(a)  
+Write a short note on the Key Strategic Drivers of an organization.  
+(5 Marks) 
+(b)  
+"International development is expensive and challenging". In the context of the 
+statement, explain the internationalization of business and the steps involved in 
+such strategic planning. 
+(5 Marks) 
+4.  
+(a)  
+Explain the 'product market growth matrix' as propagated by Igor Ansoff as a 
+device for identifying growth opportunities for the future. 
+(5 Marks) 
+(b)  
+Why Strategic Performance Measures are essential for organizations? 
+OR 
+ 
+Why is change management crucial during digital transformation, and what are some key 
+strategies for navigating change effectively? 
+(5 Marks) 
+ 
+CA Study Shop - Best Place to Buy Online CA Classes

@@ -1,0 +1,1306 @@
+{
+ "F01.01": {
+  "ref": "§1",
+  "title": "1. Introduction"
+ },
+ "F01.02": {
+  "ref": "§2",
+  "title": "2. Meaning of Financial Management"
+ },
+ "F01.02.01": {
+  "ref": "§2.1",
+  "title": "2.1 Procurement of Funds"
+ },
+ "F01.02.02": {
+  "ref": "§2.2",
+  "title": "2.2 Effective Utilisation of Funds"
+ },
+ "F01.03": {
+  "ref": "§3",
+  "title": "3. Evolution of Financial Management"
+ },
+ "F01.04": {
+  "ref": "§4",
+  "title": "4. Finance Functions / Finance Decision"
+ },
+ "F01.05": {
+  "ref": "§5",
+  "title": "5. Importance of Financial Management"
+ },
+ "F01.06": {
+  "ref": "§6",
+  "title": "6. Scope of Financial Management"
+ },
+ "F01.07": {
+  "ref": "§7",
+  "title": "7. Objectives of Financial Management"
+ },
+ "F01.07.01": {
+  "ref": "§7.1",
+  "title": "7.1 Profit Maximisation"
+ },
+ "F01.07.02": {
+  "ref": "§7.2",
+  "title": "7.2 Wealth Maximisation / Value Creation"
+ },
+ "F01.08": {
+  "ref": "§8",
+  "title": "8. Conflicts in Profit versus Value Maximisation Principle"
+ },
+ "F01.09": {
+  "ref": "§9",
+  "title": "9. Role of Finance Executive"
+ },
+ "F01.09.01": {
+  "ref": "§9.1",
+  "title": "9.1 Role of Finance Executive in Today's World vis-a-vis in the Past"
+ },
+ "F01.10": {
+  "ref": "§10",
+  "title": "10. Financial Distress and Insolvency"
+ },
+ "F01.11": {
+  "ref": "§11",
+  "title": "11. Relationship of Financial Management with Related Disciplines"
+ },
+ "F01.11.01": {
+  "ref": "§11.1",
+  "title": "11.1 Financial Management and Accounting"
+ },
+ "F01.11.02": {
+  "ref": "§11.2",
+  "title": "11.2 Financial Management and Other Related Disciplines"
+ },
+ "F01.12": {
+  "ref": "§12",
+  "title": "12. Agency Problem and Agency Cost"
+ },
+ "S01.01": {
+  "ref": "§1.1",
+  "title": "1.1 Introduction"
+ },
+ "S01.02": {
+  "ref": "§1.2",
+  "title": "1.2 Meaning and Nature of Strategic Management"
+ },
+ "S01.03": {
+  "ref": "§1.3",
+  "title": "1.3 Concept of Strategy"
+ },
+ "S01.04": {
+  "ref": "§1.4",
+  "title": "1.4 Strategic Management - Importance and Limitations"
+ },
+ "S01.04.01": {
+  "ref": "§1.4.1",
+  "title": "1.4.1 Importance of Strategic Management"
+ },
+ "S01.04.02": {
+  "ref": "§1.4.2",
+  "title": "1.4.2 Limitations of Strategic Management"
+ },
+ "S01.05": {
+  "ref": "§1.5",
+  "title": "1.5 Strategic Intent (Vision, Mission, Goals, Objectives and Values)"
+ },
+ "S01.05.01": {
+  "ref": "§1.5.1",
+  "title": "1.5.1 Vision"
+ },
+ "S01.05.02": {
+  "ref": "§1.5.2",
+  "title": "1.5.2 Mission"
+ },
+ "S01.05.03": {
+  "ref": "§1.5.3",
+  "title": "1.5.3 Goals and Objectives"
+ },
+ "S01.05.04": {
+  "ref": "§1.5.4",
+  "title": "1.5.4 Values"
+ },
+ "S01.06": {
+  "ref": "§1.6",
+  "title": "1.6 Strategic Levels in Organisations"
+ },
+ "S01.06.01": {
+  "ref": "§1.6.1",
+  "title": "1.6.1 Network of Relationship between the Three Levels"
+ },
+ "F02.01": {
+  "ref": "§1",
+  "title": "1. Financial Needs and Sources of Finance of a Business"
+ },
+ "F02.02": {
+  "ref": "§2",
+  "title": "2. Classification of Financial Sources"
+ },
+ "F02.03": {
+  "ref": "§2.1",
+  "title": "2.1 Sources of Finance based on Basic Sources"
+ },
+ "F02.04": {
+  "ref": "§2.2",
+  "title": "2.2 Sources of Finance based on Maturity of Payment"
+ },
+ "F02.05": {
+  "ref": "§2.3",
+  "title": "2.3 Sources of Finance based on Ownership and Control"
+ },
+ "F02.06": {
+  "ref": "§3",
+  "title": "3. Long-term Sources of Finance"
+ },
+ "F02.07": {
+  "ref": "§3.1",
+  "title": "3.1 Owners Capital or Equity Capital"
+ },
+ "F02.08": {
+  "ref": "§3.2",
+  "title": "3.2 Preference Share Capital"
+ },
+ "F02.09": {
+  "ref": "§3.3",
+  "title": "3.3 Retained Earnings"
+ },
+ "F02.10": {
+  "ref": "§3.4",
+  "title": "3.4 Debentures"
+ },
+ "F02.11": {
+  "ref": "§3.5",
+  "title": "3.5 Bond"
+ },
+ "F02.12": {
+  "ref": "§3.6",
+  "title": "3.6 Loans from Financial Institutions"
+ },
+ "F02.13": {
+  "ref": "§3.7",
+  "title": "3.7 Loans from Commercial Banks"
+ },
+ "F02.14": {
+  "ref": "§4",
+  "title": "4. Venture Capital Financing"
+ },
+ "F02.15": {
+  "ref": "§4.1",
+  "title": "4.1 Meaning of Venture Capital Financing"
+ },
+ "F02.16": {
+  "ref": "§4.2",
+  "title": "4.2 Characteristics of Venture Capital Financing"
+ },
+ "F02.17": {
+  "ref": "§4.3",
+  "title": "4.3 Methods of Venture Capital Financing"
+ },
+ "F02.18": {
+  "ref": "§5",
+  "title": "5. Debt Securitisation"
+ },
+ "F02.19": {
+  "ref": "§6",
+  "title": "6. Lease Financing"
+ },
+ "F02.20": {
+  "ref": "§6.1",
+  "title": "6.1 Types of Lease Contracts"
+ },
+ "F02.21": {
+  "ref": "§6.2",
+  "title": "6.2 Other Types of Leases"
+ },
+ "F02.22": {
+  "ref": "§7",
+  "title": "7. Short-term Sources of Finance"
+ },
+ "F02.23": {
+  "ref": "§8",
+  "title": "8. Other Sources of Financing"
+ },
+ "F02.24": {
+  "ref": "§9",
+  "title": "9. International Financing"
+ },
+ "F02.25": {
+  "ref": "§10",
+  "title": "10. Contemporary Sources of Funding"
+ },
+ "F03.01": {
+  "ref": "§1",
+  "title": "1. Introduction"
+ },
+ "F03.02": {
+  "ref": "§2",
+  "title": "2. Ratio and Ratio Analysis"
+ },
+ "F03.03": {
+  "ref": "§2.1",
+  "title": "2.1 Definition of Ratio"
+ },
+ "F03.04": {
+  "ref": "§2.2",
+  "title": "2.2 Ratio Analysis"
+ },
+ "F03.05": {
+  "ref": "§2.3",
+  "title": "2.3 Sources of Financial Data for Analysis"
+ },
+ "F03.06": {
+  "ref": "§3",
+  "title": "3. Types of Ratios"
+ },
+ "F03.07": {
+  "ref": "§3.1",
+  "title": "3.1 Liquidity Ratios"
+ },
+ "F03.08": {
+  "ref": "§3.2",
+  "title": "3.2 Long-term Solvency Ratios / Leverage Ratios"
+ },
+ "F03.09": {
+  "ref": "§3.2.1",
+  "title": "3.2.1 Capital Structure Ratios"
+ },
+ "F03.10": {
+  "ref": "§3.2.2",
+  "title": "3.2.2 Coverage Ratios"
+ },
+ "F03.11": {
+  "ref": "§3.3",
+  "title": "3.3 Activity / Efficiency / Performance / Turnover Ratios"
+ },
+ "F03.12": {
+  "ref": "§3.4",
+  "title": "3.4 Profitability Ratios"
+ },
+ "F03.13": {
+  "ref": "§3.4.1",
+  "title": "3.4.1 Profitability Ratios based on Sales"
+ },
+ "F03.14": {
+  "ref": "§3.4.2",
+  "title": "3.4.2 Profitability Ratios related to Overall Return on Assets / Investments"
+ },
+ "F03.15": {
+  "ref": "§3.4.3",
+  "title": "3.4.3 Profitability Ratios from the Owner's Point of View"
+ },
+ "F03.16": {
+  "ref": "§3.4.4",
+  "title": "3.4.4 Profitability Ratios related to Market / Valuation / Investors"
+ },
+ "F03.17": {
+  "ref": "§4",
+  "title": "4. Users and Objective of Financial Analysis: A Bird's Eye View"
+ },
+ "F03.18": {
+  "ref": "§5",
+  "title": "5. Application of Ratio Analysis in Financial Decision Making"
+ },
+ "F03.19": {
+  "ref": "§5.1",
+  "title": "5.1 Financial Ratios for Evaluating Performance"
+ },
+ "F03.20": {
+  "ref": "§6",
+  "title": "6. Limitations of Financial Ratios"
+ },
+ "F03.21": {
+  "ref": "§7",
+  "title": "7. Financial Analysis"
+ },
+ "F03.22": {
+  "ref": "§8",
+  "title": "8. Summary of Ratios"
+ },
+ "F04.01": {
+  "ref": "§1",
+  "title": "1. Introduction"
+ },
+ "F04.02": {
+  "ref": "§2",
+  "title": "2. Meaning of Cost of Capital"
+ },
+ "F04.03": {
+  "ref": "§3",
+  "title": "3. Significance of Cost of Capital"
+ },
+ "F04.04": {
+  "ref": "§4",
+  "title": "4. Determination of Cost of Capital"
+ },
+ "F04.05": {
+  "ref": "§5",
+  "title": "5. Cost of Long-Term Debt (Kd)"
+ },
+ "F04.06": {
+  "ref": "§5.1",
+  "title": "5.1 Features of Debentures or Bonds"
+ },
+ "F04.07": {
+  "ref": "§5.2",
+  "title": "5.2 Cost of Irredeemable Debentures"
+ },
+ "F04.08": {
+  "ref": "§5.3",
+  "title": "5.3 Cost of Redeemable Debentures (approximation method)"
+ },
+ "F04.09": {
+  "ref": "§5.3.1",
+  "title": "5.3.1 Cost of Debt using Present Value Method (YTM approach)"
+ },
+ "F04.10": {
+  "ref": "§5.3.2",
+  "title": "5.3.2 Amortisation of Bond"
+ },
+ "F04.11": {
+  "ref": "§5.4",
+  "title": "5.4 Cost of Convertible Debentures"
+ },
+ "F04.12": {
+  "ref": "§6",
+  "title": "6. Cost of Preference Share Capital (Kp)"
+ },
+ "F04.13": {
+  "ref": "§6.1",
+  "title": "6.1 Cost of Irredeemable Preference Shares"
+ },
+ "F04.14": {
+  "ref": "§6.2",
+  "title": "6.2 Cost of Redeemable Preference Shares"
+ },
+ "F04.15": {
+  "ref": "§7",
+  "title": "7. Cost of Equity Share Capital (Ke)"
+ },
+ "F04.16": {
+  "ref": "§7.1",
+  "title": "7.1 Dividend Price Approach"
+ },
+ "F04.17": {
+  "ref": "§7.2",
+  "title": "7.2 Earnings Price Approach"
+ },
+ "F04.18": {
+  "ref": "§7.3",
+  "title": "7.3 Growth Approach or Gordon's Model"
+ },
+ "F04.19": {
+  "ref": "§7.4",
+  "title": "7.4 Realized Yield Approach"
+ },
+ "F04.20": {
+  "ref": "§7.5",
+  "title": "7.5 Capital Asset Pricing Model (CAPM) Approach"
+ },
+ "F04.21": {
+  "ref": "§8",
+  "title": "8. Cost of Retained Earnings (Kr)"
+ },
+ "F04.22": {
+  "ref": "§9",
+  "title": "9. Weighted Average Cost of Capital (WACC)"
+ },
+ "F04.23": {
+  "ref": "§9.1",
+  "title": "9.1 Choice of Weights"
+ },
+ "F04.24": {
+  "ref": "§10",
+  "title": "10. Marginal Cost of Capital"
+ },
+ "F05.01": {
+  "ref": "§1",
+  "title": "1. Meaning of Capital Structure"
+ },
+ "F05.02": {
+  "ref": "§2",
+  "title": "2. Capital Structure Theories"
+ },
+ "F05.03": {
+  "ref": "§2.1",
+  "title": "2.1 Net Income (NI) Approach"
+ },
+ "F05.04": {
+  "ref": "§2.2",
+  "title": "2.2 Traditional Approach"
+ },
+ "F05.05": {
+  "ref": "§2.3",
+  "title": "2.3 Net Operating Income (NOI) Approach"
+ },
+ "F05.06": {
+  "ref": "§2.4",
+  "title": "2.4 Modigliani-Miller (MM) Approach"
+ },
+ "F05.07": {
+  "ref": "§2.5",
+  "title": "2.5 The Trade-off Theory"
+ },
+ "F05.08": {
+  "ref": "§2.6",
+  "title": "2.6 Pecking Order Theory"
+ },
+ "F05.09": {
+  "ref": "§3",
+  "title": "3. Factors Determining Capital Structure"
+ },
+ "F05.10": {
+  "ref": "§3.1",
+  "title": "3.1 Choice of Source of Funds"
+ },
+ "F05.11": {
+  "ref": "§3.2",
+  "title": "3.2 Factors Affecting Capital Structure"
+ },
+ "F05.12": {
+  "ref": "§4",
+  "title": "4. Optimal Capital Structure"
+ },
+ "F05.13": {
+  "ref": "§5",
+  "title": "5. EBIT-EPS-MPS Analysis"
+ },
+ "F05.14": {
+  "ref": "§5.1",
+  "title": "5.1 Relationship between EBIT-EPS-MPS"
+ },
+ "F05.15": {
+  "ref": "§5.2",
+  "title": "5.2 Financial Break-Even Point and Indifference Point Analysis"
+ },
+ "F05.16": {
+  "ref": "§6",
+  "title": "6. Over-Capitalisation and Under-Capitalisation"
+ },
+ "F05.17": {
+  "ref": "§6.1",
+  "title": "6.1 Over-Capitalisation"
+ },
+ "F05.18": {
+  "ref": "§6.2",
+  "title": "6.2 Under-Capitalisation"
+ },
+ "F05.19": {
+  "ref": "§6.3",
+  "title": "6.3 Over-Capitalisation vis-a-vis Under-Capitalisation"
+ },
+ "F06.01": {
+  "ref": "§1",
+  "title": "1. Introduction"
+ },
+ "F06.02": {
+  "ref": "§2",
+  "title": "2. Meaning and Types of Leverages"
+ },
+ "F06.03": {
+  "ref": "§2.1",
+  "title": "2.1 Meaning of Leverage"
+ },
+ "F06.04": {
+  "ref": "§2.2",
+  "title": "2.2 Types of Leverage"
+ },
+ "F06.05": {
+  "ref": "§2.3",
+  "title": "2.3 Chart showing Degree of Operating, Financial and Combined Leverage"
+ },
+ "F06.06": {
+  "ref": "§3",
+  "title": "3. Operating Leverage"
+ },
+ "F06.07": {
+  "ref": "§3.1",
+  "title": "3.1 Degree of Operating Leverage (DOL)"
+ },
+ "F06.08": {
+  "ref": "§3.2",
+  "title": "3.2 Break-Even Analysis and Operating Leverage"
+ },
+ "F06.09": {
+  "ref": "§3.3",
+  "title": "3.3 Margin of Safety (MOS) and Operating Leverage"
+ },
+ "F06.10": {
+  "ref": "§4",
+  "title": "4. Financial Leverage"
+ },
+ "F06.11": {
+  "ref": "§4.1",
+  "title": "4.1 Degree of Financial Leverage (DFL)"
+ },
+ "F06.12": {
+  "ref": "§4.2",
+  "title": "4.2 Financial Leverage as 'Trading on Equity'"
+ },
+ "F06.13": {
+  "ref": "§4.3",
+  "title": "4.3 Financial Leverage as a 'Double edged Sword'"
+ },
+ "F06.14": {
+  "ref": "§5",
+  "title": "5. Combined Leverage"
+ },
+ "F06.15": {
+  "ref": "§5.1",
+  "title": "5.1 Degree of Combined Leverage (DCL)"
+ },
+ "F06.16": {
+  "ref": "§5.2",
+  "title": "5.2 Analysis of Combined Leverage"
+ },
+ "F07.01": {
+  "ref": "§1",
+  "title": "1. Introduction"
+ },
+ "F07.02": {
+  "ref": "§2",
+  "title": "2. Purpose of Capital Budgeting"
+ },
+ "F07.03": {
+  "ref": "§3",
+  "title": "3. Capital Budgeting Process"
+ },
+ "F07.04": {
+  "ref": "§4",
+  "title": "4. Types of Capital Investment Decisions"
+ },
+ "F07.05": {
+  "ref": "§4.1",
+  "title": "4.1 On the basis of firm's existence"
+ },
+ "F07.06": {
+  "ref": "§4.2",
+  "title": "4.2 On the basis of situations"
+ },
+ "F07.07": {
+  "ref": "§4.3",
+  "title": "4.3 Steps of Capital Budgeting Procedure"
+ },
+ "F07.08": {
+  "ref": "§5",
+  "title": "5. Estimation of Project Cash Flows"
+ },
+ "F07.09": {
+  "ref": "§6",
+  "title": "6. Basic Principles for Measuring Project Cash Flows"
+ },
+ "F07.10": {
+  "ref": "§6.1",
+  "title": "6.1 Block of Assets and Depreciation"
+ },
+ "F07.11": {
+  "ref": "§6.2",
+  "title": "6.2 Exclusion of Financing Costs Principle"
+ },
+ "F07.12": {
+  "ref": "§6.3",
+  "title": "6.3 Post-tax Principle"
+ },
+ "F07.13": {
+  "ref": "§7",
+  "title": "7. Capital Budgeting Techniques"
+ },
+ "F07.14": {
+  "ref": "§8",
+  "title": "8. Traditional or Non-Discounting Techniques"
+ },
+ "F07.15": {
+  "ref": "§8.1",
+  "title": "8.1 Payback Period"
+ },
+ "F07.16": {
+  "ref": "§8.1.1",
+  "title": "8.1.1 Payback Reciprocal"
+ },
+ "F07.17": {
+  "ref": "§8.2",
+  "title": "8.2 Accounting (Book) Rate of Return / Average Rate of Return (ARR)"
+ },
+ "F07.18": {
+  "ref": "§9",
+  "title": "9. Discounting Techniques"
+ },
+ "F07.19": {
+  "ref": "§9.1",
+  "title": "9.1 Net Present Value Technique (NPV)"
+ },
+ "F07.20": {
+  "ref": "§9.2",
+  "title": "9.2 Profitability Index / Desirability Factor / Present Value Index (PI)"
+ },
+ "F07.21": {
+  "ref": "§9.3",
+  "title": "9.3 Internal Rate of Return Method (IRR)"
+ },
+ "F07.22": {
+  "ref": "§9.3.1",
+  "title": "9.3.1 Acceptance Rule"
+ },
+ "F07.23": {
+  "ref": "§9.3.2",
+  "title": "9.3.2 IRR and Mutually Exclusive Projects"
+ },
+ "F07.24": {
+  "ref": "§9.3.3",
+  "title": "9.3.3 The Reinvestment Assumption"
+ },
+ "F07.25": {
+  "ref": "§9.3.4",
+  "title": "9.3.4 Multiple Internal Rate of Return"
+ },
+ "F07.26": {
+  "ref": "§9.4",
+  "title": "9.4 Discounted Payback Period Method"
+ },
+ "F07.27": {
+  "ref": "§9.5",
+  "title": "9.5 Modified Internal Rate of Return (MIRR)"
+ },
+ "F07.28": {
+  "ref": "§9.6",
+  "title": "9.6 Comparison of NPV and IRR Methods"
+ },
+ "F07.29": {
+  "ref": "§9.7",
+  "title": "9.7 Different conclusions in specific scenarios"
+ },
+ "F07.30": {
+  "ref": "§10",
+  "title": "10. Summary of Decision Criteria of Capital Budgeting Techniques"
+ },
+ "F07.31": {
+  "ref": "§11",
+  "title": "11. Special Cases of Capital Budgeting"
+ },
+ "F07.32": {
+  "ref": "§11.1",
+  "title": "11.1 Capital Budgeting under Capital Rationing"
+ },
+ "F07.33": {
+  "ref": "§11.2",
+  "title": "11.2 Projects with unequal lives"
+ },
+ "F08.01": {
+  "ref": "§1",
+  "title": "1. Introduction"
+ },
+ "F08.02": {
+  "ref": "§2",
+  "title": "2. Meaning of Dividend"
+ },
+ "F08.03": {
+  "ref": "§3",
+  "title": "3. Forms of Dividend"
+ },
+ "F08.04": {
+  "ref": "§4",
+  "title": "4. Significance of Dividend Policy"
+ },
+ "F08.05": {
+  "ref": "§5",
+  "title": "5. Relationship between Retained Earnings and Growth"
+ },
+ "F08.06": {
+  "ref": "§6",
+  "title": "6. Determinants of Dividend Decisions"
+ },
+ "F08.07": {
+  "ref": "§7",
+  "title": "7. Practical Considerations in Dividend Policy"
+ },
+ "F08.08": {
+  "ref": "§8",
+  "title": "8. Theories of Dividend"
+ },
+ "F08.09": {
+  "ref": "§8.1",
+  "title": "8.1 Dividend's Irrelevance Theory"
+ },
+ "F08.10": {
+  "ref": "§8.2",
+  "title": "8.2 Dividend's Relevance Theory"
+ },
+ "F08.11": {
+  "ref": "§9",
+  "title": "9. Stock Splits"
+ },
+ "F08.12": {
+  "ref": "§9.1",
+  "title": "9.1 Meaning of Stock Split"
+ },
+ "F08.13": {
+  "ref": "§9.2",
+  "title": "9.2 Advantages of Stock Splits"
+ },
+ "F08.14": {
+  "ref": "§9.3",
+  "title": "9.3 Limitations of Stock Splits"
+ },
+ "F08.15": {
+  "ref": "§10",
+  "title": "10. Share Buyback"
+ },
+ "F08.16": {
+  "ref": "§10.1",
+  "title": "10.1 Meaning of Share Buyback"
+ },
+ "F09.01": {
+  "ref": "§1",
+  "title": "Unit I · 1. Meaning and Concept of Working Capital"
+ },
+ "F09.02": {
+  "ref": "§2",
+  "title": "Unit I · 2. Significance of Working Capital"
+ },
+ "F09.03": {
+  "ref": "§2.1",
+  "title": "2.1 Importance of Adequate Working Capital"
+ },
+ "F09.04": {
+  "ref": "§2.2",
+  "title": "2.2 Optimum Working Capital"
+ },
+ "F09.05": {
+  "ref": "§3",
+  "title": "Unit I · 3. Determinants of Working Capital"
+ },
+ "F09.06": {
+  "ref": "§4",
+  "title": "Unit I · 4. Management of Working Capital"
+ },
+ "F09.07": {
+  "ref": "§4.1",
+  "title": "4.1 Liquidity and Profitability"
+ },
+ "F09.08": {
+  "ref": "§4.2",
+  "title": "4.2 Investment and Financing"
+ },
+ "F09.09": {
+  "ref": "§4.3",
+  "title": "4.3 Approaches of Working Capital Investment"
+ },
+ "F09.10": {
+  "ref": "§4.4",
+  "title": "4.4 Current Assets to Fixed Assets Ratio"
+ },
+ "F09.11": {
+  "ref": "§5",
+  "title": "Unit I · 5. Estimating Working Capital Needs"
+ },
+ "F09.12": {
+  "ref": "§6",
+  "title": "Unit I · 6. Operating or Working Capital Cycle"
+ },
+ "F09.13": {
+  "ref": "§6.1",
+  "title": "6.1 Working Capital Based on Operating Cycle"
+ },
+ "F09.14": {
+  "ref": "§6.2",
+  "title": "6.2 Estimation of Components of Current Assets and Current Liabilities"
+ },
+ "F09.15": {
+  "ref": "§6.3",
+  "title": "6.3 Working Capital Requirement Estimation based on Cash Cost"
+ },
+ "F09.16": {
+  "ref": "§6.4",
+  "title": "6.4 Effect of Double Shift Working on Working Capital Requirements"
+ },
+ "F09.17": {
+  "ref": "§7",
+  "title": "Unit II · 7. Treasury Management: Meaning"
+ },
+ "F09.18": {
+  "ref": "§8",
+  "title": "Unit II · 8. Functions of Treasury Department"
+ },
+ "F09.19": {
+  "ref": "§9",
+  "title": "Unit II · 9. Management of Cash"
+ },
+ "F09.20": {
+  "ref": "§9.1",
+  "title": "9.1 The Need for Cash"
+ },
+ "F09.21": {
+  "ref": "§9.2",
+  "title": "9.2 Cash Planning"
+ },
+ "F09.22": {
+  "ref": "§9.3",
+  "title": "9.3 Cash Budget"
+ },
+ "F09.23": {
+  "ref": "§10",
+  "title": "Unit II · 10. Methods of Cash Flow Budgeting"
+ },
+ "F09.24": {
+  "ref": "§10.1",
+  "title": "10.1 Cash budget for short period"
+ },
+ "F09.25": {
+  "ref": "§10.2",
+  "title": "10.2 Cash Budget for long period"
+ },
+ "F09.26": {
+  "ref": "§10.3",
+  "title": "10.3 Managing Cash Collection and Disbursements"
+ },
+ "F09.27": {
+  "ref": "§10.4",
+  "title": "10.4 Accelerating Cash Collections"
+ },
+ "F09.28": {
+  "ref": "§10.5",
+  "title": "10.5 Controlling Payments"
+ },
+ "F09.29": {
+  "ref": "§10.6",
+  "title": "10.6 Determining the Optimum Cash Balance"
+ },
+ "F09.30": {
+  "ref": "§11",
+  "title": "Unit II · 11. Cash Management Models"
+ },
+ "F09.31": {
+  "ref": "§11.1",
+  "title": "11.1 William J. Baumol's Economic Order Quantity Model (1952)"
+ },
+ "F09.32": {
+  "ref": "§11.2",
+  "title": "11.2 Miller-Orr Cash Management Model (1966)"
+ },
+ "F09.33": {
+  "ref": "§12",
+  "title": "Unit II · 12. Recent Developments in Cash Management"
+ },
+ "F09.34": {
+  "ref": "§12.1",
+  "title": "12.1 Electronic Fund Transfer"
+ },
+ "F09.35": {
+  "ref": "§12.2",
+  "title": "12.2 Zero Balance Account"
+ },
+ "F09.36": {
+  "ref": "§12.3",
+  "title": "12.3 Money Market Operations"
+ },
+ "F09.37": {
+  "ref": "§12.4",
+  "title": "12.4 Petty Cash Imprest System"
+ },
+ "F09.38": {
+  "ref": "§12.5",
+  "title": "12.5 Management of Temporary Cash Surplus"
+ },
+ "F09.39": {
+  "ref": "§12.6",
+  "title": "12.6 Electronic Cash Management System"
+ },
+ "F09.40": {
+  "ref": "§12.7",
+  "title": "12.7 Virtual Banking"
+ },
+ "F09.41": {
+  "ref": "§13",
+  "title": "Unit II · 13. Management of Marketable Securities"
+ },
+ "F09.42": {
+  "ref": "§14",
+  "title": "Unit III · 14. Inventory Management"
+ },
+ "F09.43": {
+  "ref": "§15",
+  "title": "Unit IV · 15. Meaning and Objective (Receivables)"
+ },
+ "F09.44": {
+  "ref": "§16",
+  "title": "Unit IV · 16. Aspects of Management of Debtors"
+ },
+ "F09.45": {
+  "ref": "§17",
+  "title": "Unit IV · 17. Factors Determining Credit Policy"
+ },
+ "F09.46": {
+  "ref": "§18",
+  "title": "Unit IV · 18. Factors under the Control of the Finance Manager"
+ },
+ "F09.47": {
+  "ref": "§19",
+  "title": "Unit IV · 19. Approaches to Evaluation of Credit Policies"
+ },
+ "F09.48": {
+  "ref": "§20",
+  "title": "Unit IV · 20. Financing Receivables"
+ },
+ "F09.49": {
+  "ref": "§20.1",
+  "title": "20.1 Pledging and Factoring"
+ },
+ "F09.50": {
+  "ref": "§20.2",
+  "title": "20.2 Forfaiting"
+ },
+ "F09.51": {
+  "ref": "§21",
+  "title": "Unit IV · 21. Innovations in Receivable Management"
+ },
+ "F09.52": {
+  "ref": "§22",
+  "title": "Unit IV · 22. Monitoring of Receivables"
+ },
+ "F09.53": {
+  "ref": "§23",
+  "title": "Unit V · 23. Introduction (Payables)"
+ },
+ "F09.54": {
+  "ref": "§24",
+  "title": "Unit V · 24. Cost and Benefits of Trade Credit"
+ },
+ "F09.55": {
+  "ref": "§25",
+  "title": "Unit V · 25. Computation of Cost of Payables"
+ },
+ "F09.56": {
+  "ref": "§26",
+  "title": "Unit VI · 26. Introduction (Financing of Working Capital)"
+ },
+ "F09.57": {
+  "ref": "§27",
+  "title": "Unit VI · 27. Sources of Finance"
+ },
+ "F09.58": {
+  "ref": "§27.1",
+  "title": "27.1 Spontaneous Sources of Finance"
+ },
+ "F09.59": {
+  "ref": "§27.2",
+  "title": "27.2 Inter-corporate Loans and Deposits"
+ },
+ "F09.60": {
+  "ref": "§27.3",
+  "title": "27.3 Commercial Papers"
+ },
+ "F09.61": {
+  "ref": "§27.4",
+  "title": "27.4 Funds Generated from Operations"
+ },
+ "F09.62": {
+  "ref": "§27.5",
+  "title": "27.5 Public Deposits"
+ },
+ "F09.63": {
+  "ref": "§27.6",
+  "title": "27.6 Bills Discounting"
+ },
+ "F09.64": {
+  "ref": "§27.7",
+  "title": "27.7 Bill Rediscounting Scheme"
+ },
+ "F09.65": {
+  "ref": "§27.8",
+  "title": "27.8 Factoring"
+ },
+ "F09.66": {
+  "ref": "§28",
+  "title": "Unit VI · 28. Working Capital Finance from Banks"
+ },
+ "F09.67": {
+  "ref": "§28.1",
+  "title": "28.1 Instructions on Working Capital Finance by Banks"
+ },
+ "F09.68": {
+  "ref": "§29",
+  "title": "Unit VI · 29. Forms of Bank Credit"
+ },
+ "S02.01": {
+  "ref": "§2.1",
+  "title": "2.1 Introduction"
+ },
+ "S02.02": {
+  "ref": "§2.2",
+  "title": "2.2 Strategic Analysis"
+ },
+ "S02.03": {
+  "ref": "§2.2.1",
+  "title": "2.2.1 Issues to consider for Strategic Analysis"
+ },
+ "S02.04": {
+  "ref": "§2.3",
+  "title": "2.3 Strategic and Business Environment"
+ },
+ "S02.05": {
+  "ref": "§2.3.1",
+  "title": "2.3.1 Micro and Macro Environment"
+ },
+ "S02.06": {
+  "ref": "§2.3.2",
+  "title": "2.3.2 Elements of Macro Environment"
+ },
+ "S02.07": {
+  "ref": "§2.3.3",
+  "title": "2.3.3 PESTLE – a tool to analyse Macro Environment"
+ },
+ "S02.08": {
+  "ref": "§2.3.4",
+  "title": "2.3.4 Internationalization of Business"
+ },
+ "S02.09": {
+  "ref": "§2.3.5",
+  "title": "2.3.5 International Environment"
+ },
+ "S02.10": {
+  "ref": "§2.4",
+  "title": "2.4 Understanding Product and Industry"
+ },
+ "S02.11": {
+  "ref": "§2.4.1",
+  "title": "2.4.1 Product Life Cycle"
+ },
+ "S02.12": {
+  "ref": "§2.4.2",
+  "title": "2.4.2 Value Chain Analysis"
+ },
+ "S02.13": {
+  "ref": "§2.5",
+  "title": "2.5 Industry Environment Analysis"
+ },
+ "S02.14": {
+  "ref": "§2.5.1",
+  "title": "2.5.1 Porter's Five Forces Model"
+ },
+ "S02.15": {
+  "ref": "§2.5.2",
+  "title": "2.5.2 Attractiveness of Industry"
+ },
+ "S02.16": {
+  "ref": "§2.5.3",
+  "title": "2.5.3 Experience Curve"
+ },
+ "S02.17": {
+  "ref": "§2.5.4",
+  "title": "2.5.4 Value Creation"
+ },
+ "S02.18": {
+  "ref": "§2.6",
+  "title": "2.6 Market & Customer"
+ },
+ "S02.19": {
+  "ref": "§2.6.1",
+  "title": "2.6.1 Customer"
+ },
+ "S02.20": {
+  "ref": "§2.6.2",
+  "title": "2.6.2 Customer Analysis"
+ },
+ "S02.21": {
+  "ref": "§2.6.3",
+  "title": "2.6.3 Customer Behaviour"
+ },
+ "S02.22": {
+  "ref": "§2.7",
+  "title": "2.7 Competitive Strategy"
+ },
+ "S02.23": {
+  "ref": "§2.7.1",
+  "title": "2.7.1 Competitive Landscape"
+ },
+ "S02.24": {
+  "ref": "§2.7.2",
+  "title": "2.7.2 Key Factors for Competitive Success"
+ },
+ "S03.01": {
+  "ref": "§3.1",
+  "title": "3.1 Introduction"
+ },
+ "S03.02": {
+  "ref": "§3.2",
+  "title": "3.2 Understanding Key Stakeholders"
+ },
+ "S03.03": {
+  "ref": "§3.2.1",
+  "title": "3.2.1 Mendelow's Matrix"
+ },
+ "S03.04": {
+  "ref": "§3.3",
+  "title": "3.3 Strategic Drivers"
+ },
+ "S03.05": {
+  "ref": "§3.3.1",
+  "title": "3.3.1 Industry and Markets"
+ },
+ "S03.06": {
+  "ref": "§3.3.2",
+  "title": "3.3.2 Customers"
+ },
+ "S03.07": {
+  "ref": "§3.3.3",
+  "title": "3.3.3 Product / Services"
+ },
+ "S03.08": {
+  "ref": "§3.3.4",
+  "title": "3.3.4 Channels"
+ },
+ "S03.09": {
+  "ref": "§3.4",
+  "title": "3.4 Role of Resources and Capabilities: Building Core Competency"
+ },
+ "S03.10": {
+  "ref": "§3.4.1",
+  "title": "3.4.1 Criteria for building Core Competencies"
+ },
+ "S03.11": {
+  "ref": "§3.5",
+  "title": "3.5 Combining External and Internal Analysis (SWOT Analysis)"
+ },
+ "S03.12": {
+  "ref": "§3.6",
+  "title": "3.6 Competitive Advantage: Michael Porter's Generic Strategies"
+ },
+ "S03.13": {
+  "ref": "§3.6.1",
+  "title": "3.6.1 Sustainability of Competitive Advantage"
+ },
+ "S03.14": {
+  "ref": "§3.6.2",
+  "title": "3.6.2 Michael Porter's Generic Strategies"
+ },
+ "S04.01": {
+  "ref": "§4.1",
+  "title": "4.1 Introduction"
+ },
+ "S04.02": {
+  "ref": "§4.2",
+  "title": "4.2 Strategic Choices"
+ },
+ "S04.03": {
+  "ref": "§4.2.1",
+  "title": "4.2.1 Stability Strategy"
+ },
+ "S04.04": {
+  "ref": "§4.2.1.1",
+  "title": "4.2.1.1 Characteristics of Stability Strategy"
+ },
+ "S04.05": {
+  "ref": "§4.2.1.2",
+  "title": "4.2.1.2 Major Reasons for Stability Strategy"
+ },
+ "S04.06": {
+  "ref": "§4.2.2",
+  "title": "4.2.2 Growth / Expansion Strategy"
+ },
+ "S04.07": {
+  "ref": "§4.2.2.1",
+  "title": "4.2.2.1 Characteristics of Growth / Expansion Strategy"
+ },
+ "S04.08": {
+  "ref": "§4.2.2.2",
+  "title": "4.2.2.2 Major Reasons for Growth / Expansion Strategy"
+ },
+ "S04.09": {
+  "ref": "§4.2.2.3",
+  "title": "4.2.2.3 Types of Growth / Expansion Strategy (internal and external)"
+ },
+ "S04.10": {
+  "ref": "§4.3",
+  "title": "4.3 Strategic Exits"
+ },
+ "S04.11": {
+  "ref": "§4.4",
+  "title": "4.4 Strategic Options"
+ },
+ "S04.12": {
+  "ref": "§4.4.1",
+  "title": "4.4.1 Ansoff's Product Market Growth Matrix"
+ },
+ "S04.13": {
+  "ref": "§4.4.2",
+  "title": "4.4.2 ADL Matrix"
+ },
+ "S04.14": {
+  "ref": "§4.4.3",
+  "title": "4.4.3 Boston Consulting Group (BCG) Growth-Share Matrix"
+ },
+ "S04.15": {
+  "ref": "§4.4.4",
+  "title": "4.4.4 General Electric Matrix (\"Stop-Light\" Strategy Model)"
+ },
+ "S05.01": {
+  "ref": "§5.1",
+  "title": "5.1 Introduction"
+ },
+ "S05.02": {
+  "ref": "§5.2",
+  "title": "5.2 Strategic Management Process"
+ },
+ "S05.03": {
+  "ref": "§5.2.1",
+  "title": "5.2.1 Stages in Strategic Management"
+ },
+ "S05.04": {
+  "ref": "§5.2.2",
+  "title": "5.2.2 Strategy Formulation"
+ },
+ "S05.05": {
+  "ref": "§5.2.3",
+  "title": "5.2.3 Strategy Implementation"
+ },
+ "S05.06": {
+  "ref": "§5.2.4",
+  "title": "5.2.4 Difference between Strategy Formulation and Implementation"
+ },
+ "S05.07": {
+  "ref": "§5.2.5",
+  "title": "5.2.5 Linkages and Issues in Strategy Implementation"
+ },
+ "S05.08": {
+  "ref": "§5.3",
+  "title": "5.3 Strategic Change through Digital Transformation"
+ },
+ "S05.09": {
+  "ref": "§5.3.1",
+  "title": "5.3.1 Strategic Change"
+ },
+ "S05.10": {
+  "ref": "§5.3.2",
+  "title": "5.3.2 How does Digital Transformation work?"
+ },
+ "S05.11": {
+  "ref": "§5.3.3",
+  "title": "5.3.3 Change Management Strategies for Digital Transformation"
+ },
+ "S05.12": {
+  "ref": "§5.3.4",
+  "title": "5.3.4 How to manage change during Digital Transformation?"
+ },
+ "S05.13": {
+  "ref": "§5.4",
+  "title": "5.4 Organizational Framework"
+ },
+ "S05.14": {
+  "ref": "§5.4.1",
+  "title": "5.4.1 Organization Structure"
+ },
+ "S05.15": {
+  "ref": "§5.4.2",
+  "title": "5.4.2 Organization Culture"
+ },
+ "S05.16": {
+  "ref": "§5.5",
+  "title": "5.5 Strategic Leadership"
+ },
+ "S05.17": {
+  "ref": "§5.6",
+  "title": "5.6 Strategic Control"
+ },
+ "S05.18": {
+  "ref": "§5.7",
+  "title": "5.7 Strategic Performance Measures"
+ }
+}

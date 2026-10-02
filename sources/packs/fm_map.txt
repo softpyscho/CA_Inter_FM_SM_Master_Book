@@ -1,0 +1,484 @@
+
+########## MTP-J25-S1_Q  (9 parts)
+  Q1a      (a) ABC Industries is a mid-sized company manufacturing consumer goods. Last quarter, the company reported sales of ₹ 2,
+  Q1b      (b) P Ltd. has the following capital structure at book-value as on 31st March, 2024: Particulars (`) Equity share capita
+  Q1c      (c) Vyom Limited, an IT conglomerate, is planning to take over Aryayash Limited, a startup company incorporated 2 years 
+  Q2a      (a) From the following information pertaining to M/s Anya Co. Ltd., PREPARE its trading, Profit & Loss Account for the y
+  Q2b      (b) Paras TMT Ltd. is a TMT manufacturing company with a face value of ` 10 per share. The following information is give
+  Q3a      (a) A company is evaluating two options for financing its current assets: using short-term loans or long-term loans. HOW
+  Q3b      (b) You are a financial consultant for a company that has a very high capital base but low earnings per share (EPS). EXP
+  Q3c      (c) "XYZ Corp. has adopted a strategy to maximize short-term profits by increasing product prices significantly. ANALYZE
+  Q3c      (c) DEFINE Modified Internal Rate of Return method. (2 Marks)
+
+########## MTP-J25-S2_Q  (9 parts)
+  Q1a      (a) The financial statement and operating results of Alpha Limited revealed the following position as on 31st March, 202
+  Q1b      (b) Theta Limited is expecting an annual earning of Rs. 3 Lakhs before paying any interest and taxes. The company has Rs
+  Q1c      (c) The following data relates to Beta Limited: Rs. Sales 2,00,000 Less: Variable Expenses (30%) 60,000 Contribution 1,4
+  Q2a      (a) ABC Ltd., a newly formed company has applied to the Private Bank for the first time for financing it’s Working Capit
+  Q2b      (b) Return on Equity (ROE) is Satva Limited is 15% and the capitalization rate applicable to the company is at 20%. Satv
+  Q3a      (a) EXPLAIN the difference between factoring and forfaiting (4 Marks)
+  Q3b      (b) DESCRIBE some of the tasks that demonstrate the importance of good financial management (4 Marks)
+  Q3c      (c) EXPLAIN the concept of Drop – Lock Bond (DL Bonds) (2 Marks) OR
+  Q3c      (c) MENTION any one advantage of stock dividend – to the company as well as to the investor (2 Marks)
+
+########## MTP-J26-S1_Q  (11 parts)
+  Q1a      (a) Divine Limited has the following capital structure, which it considers to be optimal: Capital Structure Weightage (i
+  Q1b      (b) Following information is given for Prashuk Ltd.: Fixed assets turnover ratio (Based on cost of sales) 8 times Capita
+  Q1c      (c) Perfact Ltd. has 8 lakhs equity shares outstanding at the beginning of the year. The current market price per share 
+  Q2a      (a) A newly formed company has applied to the commercial bank for the first time for financing its working capital requi
+  Q2b      (b) DIFFERENTIATE between Business risk and Financial risk. (2 Marks) 3.
+  Q3a      (a) Vastupal Limited is currently a levered a company having 15% convertible debt of ` 250 lakhs in its capital structur
+  Q3b      (b) The Capital structure of Magnus Ltd. is as follows: (`) Equity Share of ` 10 each 8,00,000 10% Preference Share of `
+  Q4a      (a) DIFFERENTIATE between Financial Management and Financial Accounting. (4 Marks)
+  Q4b      (b) EXPLAIN the methods of venture capital financing. (4 Marks)
+  Q4c      (c) STATE the Limitations of Walter’s Model (2 Marks) OR
+  Q4c      (c) DISCUSS financial break-even and EBIT-EPS indifference analysis. (2 Marks)
+
+########## MTP-J26-S2_Q  (9 parts)
+  Q1a      (a) Following information relate to a concern: Debtors Velocity 3 months Credits Velocity 2 months Stock Turnover Ratio 
+  Q1b      (b) Deepa Limited has Earnings Before Interest and Taxes (EBIT) amounting to ` 60,00,000. The company is considering the
+  Q1c      (c) Orion Aerospace Ltd. manufactures highly customized components for satellites launched by the France and Germany. Th
+  Q2a      (a) ShirtCo is a garment manufacturing company producing and selling 10,000 shirts every year. The company’s cost and re
+  Q2b      (b) In October, 2025 AB Co.'s share was sold for ` 146 per share. A long term earnings growth rate of 7.5% is anticipate
+  Q3a      (a) Oceanic Retail Pvt. Ltd., a fast-growing chain of supermarkets, is planning to expand its presence across multiple c
+  Q3b      (b) TechWave Ltd. plans to buy new machinery worth ` 50 lakh to increase production. The Finance Manager says that befor
+  Q3c      (c) HOW do we measure the value/wealth of a firm? (2 Marks) OR
+  Q3c      (c) EXPLAIN any common form of dividend. (2 Marks)
+
+########## MTP-M24-S1_Q  (10 parts)
+  Q1a      (a) The following figures have been extracted from the annual report of Xee Ltd.: Net Profit ` 54 lakhs Outstanding 12% 
+  Q1b      (b) Capital structure (in market-value terms) of AN Ltd is given below: Company Debt Equity AN Ltd. 50% 50% The borrowin
+  Q1c      (c) ANVY Ltd. has furnished the following ratios and information for the year end 31st March, 2023: Equity share capital
+  Q2a      (a) NC Ltd. Is considering purchasing a new machine to increase its production facility. At present, it uses an old mach
+  Q2b      (b) WRITE a short note on “Cut-off Rate”. (2 Marks) 3.
+  Q3a      (a) Ram Ltd evaluates all its capital projects using discounting rate of 16%. Its capital structure consists of equity s
+  Q3b      (b) DISCUSS the dividend-price approach to estimate cost of equity capital. (2 Marks) 4.
+  Q4a      (a) EXPLAIN the limitations of profit maximization objective of Financial Management. (4 Marks)
+  Q4b      (b) WHAT are the methods of venture capital financing? (4 Marks)
+  Q4c      (c) WHAT is ‘Optimum Capital Structure’? (2 Marks) OR EXPLAIN the concept of Financial Leverage as ‘Trading on Equity’. 
+
+########## MTP-M24-S2_Q  (12 parts)
+  Q1a      (a) The below information for Lever Ltd is provided on annual basis: ` Sales at 3 months credit 48,00,000 Materials cons
+  Q1b      (b) SOC Ltd has 10 lakh equity shares outstanding at the beginning of the accounting year 2024. The existing market pric
+  Q1c      (c) An existing profitable company, RMC World Ltd. is considering a new project for manufacture of home automation gadge
+  Q2a      (a) From the following PREPARE Income statement of company P and Q. P Q No. of Equity Shares 1,00,000 70,000 Financial l
+  Q2b      (b) The GT Limited is willing to expand its business for which it requires an additional finance of ` 50,00,000. At pres
+  Q2b      (b) To raise funds by issuing 1,00,000 equity shares at ` 20 per share and balance by issuing 11% debentures at par. Req
+  Q3a      (a) EOC Ltd is a listed company and has presented the below abridged financial statements below. Statement of Profit and
+  Q3b      (b) NAME the various financial instruments dealt with in the International market. (2 Marks) 4.
+  Q4a      (a) WRITE short notes on Inter relationship between investment, financing and dividend decisions. (4 Marks)
+  Q4b      (b) DISCUSS the liquidity vs. profitability issue in management of working capital. (4 Marks)
+  Q4c      (c) EXPLAIN the concept of discounted payback period. (2 Marks) OR
+  Q4c      (c) EXPLAIN the concept of Indian depository receipts. (2 Marks) INTERMEDIATE COURSE: GROUP II
+
+########## MTP-M25-S1_Q  (11 parts)
+  Q1a      (a) M Ltd. belongs to a risk class for which the capitalization rate is 12%. It has 40,000 outstanding shares and the cu
+  Q1b      (b) The following information is available for Punyakalash Limited Margin of Safety 0.40 Financial Leverage 1.50 Debt 1,
+  Q1c      (c) From the following information for financial year 2023-24, Financial Leverage (FL) = 4 P/V Ratio = 40% Tax rate = 30
+  Q2a      (a) Q Ltd. has the following capital structure at book-value as on 31st March 2024: Particulars (`) Equity share capital
+  Q2b      (b) ABC Pvt. Ltd. is considering relaxing its present credit policy for accounts receivable and is in the process of eva
+  Q3a      (a) Perfact Limited is considering a total investment of ` 27 lakhs. You are required to CALCULATE the level of earnings
+  Q3b      (b) Millenial Limited, a Quick commerce (Q-Comm) startup company engaged into the business of deliveries is in a need of
+  Q4a      (a) EXPLAIN Agency Problem. Also EXPLAIN, how it can be addressed. (4 Marks)
+  Q4b      (b) WHAT is debt securitisation? EXPLAIN the basics of debt securitisation process. (4 Marks)
+  Q4c      (c) EXPLAIN the concept of “Double edged sword” in Financial leverage analysis. (2 Marks) OR
+  Q4c      (c) DISCUSS optimal capital structure and HOW to analyse it. (2 Marks)
+
+########## MTP-M25-S2_Q  (11 parts)
+  Q1a      (a) A firm can make investment in either of the following two projects. The firm anticipates its cost of capital to be 1
+  Q1b      (b) Bhanu Limited has issued 50,000; 10% convertible bonds of ` 100 each with a maturity period of 5 years. At the matur
+  Q1c      (c) CALCULATE the operating leverage, financial leverage and combined leverage from the following data under Situation I
+  Q2a      (a) The following information is supplied to you: (`) Total Earnings 2,00,000 No. of equity shares (of ` 100 each) 20,00
+  Q2b      (b) Zordon Ltd. has net operating income of ` 5,00,000 and total capitalization of ` 50,00,000 during the current year. 
+  Q3a      (a) Following information and ratios are given in respect of Simandhar Limited for the year ended 31.03.2025: Particular
+  Q3b      (b) WRITE a short note on internal rate of return. (2 Marks) 4.
+  Q4a      (a) EXPLAIN following types of leases: (i) Sales and Lease Back (ii) Leveraged Lease (iii) Sales-Aid Lease (iv) Close-En
+  Q4b      (b) EXPLAIN any four Features of Debentures or Bonds. (4 Marks)
+  Q4c      (c) DISCUSS the conflicts in Profit versus Wealth maximization principle of the firm. (2 Marks) OR
+  Q4c      (c) EXPLAIN in brief the concept of Over Capitalisation. (2 Marks)
+
+########## MTP-M26-S1_Q  (17 parts)
+  Q1a      (a) The following information pertains to P Limited for the year ended 31st March, 2025: Particulars Amount Sales ` 3,60
+  Q1b      (b) Mr. Raman, a portfolio manager, is analyzing a set of securities using the Capital Asset Pricing Model (CAPM). He ha
+  Q1c      (c) A company wants to invest in a machinery that would cost ` 50,000 at the beginning of year 1. It is estimated that t
+  Q2a      (a) Zanshu Ltd. is an all equity financed company with a market value of ` 25,00,000 and cost of equity (Ke) 21%. The co
+  Q2b      (b) The following particulars are related to PQR Ltd: Sales ` 1,50,00,000 Variable Cost ` 84,00,000 Fixed Cost ` 12,00,0
+  Q2b      (b) Interest of 2% is charged on accounts overdue for 45 days
+  Q2c      (c) Interest of 4% is charged on accounts overdue for more than 75 days
+  Q2d      (d) Cash Discount of 2% is given to customers who make payment within 10 days of invoice getting due. Additional Informa
+  Q3a      (a) 40% of the invoice value after bad debt falling in the ageing criteria of 31-60 days’ pay after 45th day but pay wit
+  Q3b      (b) 25% of the invoice value after bad debt falling in the ageing criteria of 61-90 days’ pay after 75th day but pay wit
+  Q3c      (c) 15% of the total invoice value overdue for 91 days or more are uncollectible.
+  Q3d      (d) 50% of the customers (invoice value) avail the cash discount.
+  Q3e      (e) Administration cost for managing the above customers would also be involved amounting to ` 50,000. (i) CALCULATE the
+  Q4a      (a) “The profit maximization is not an operationally feasible criterion.” COMMENT on it. (4 Marks)
+  Q4b      (b) EXPLAIN any four types of Preference Shares along with its Salient Features. (4 Marks)
+  Q4c      (c) A company is analyzing its risk profile using combined leverage. It observes that its Degree of Operating Leverage (
+  Q4c      (c) Pecking order theory suggests that managers may use various sources for raising of fund in an order. EXPLAIN the pre
+
+########## MTP-S24-S1_Q  (10 parts)
+  Q1a      (a) You are required to CALCULATE the Total Current Assets of Ananya Limited from the given information: Stock Turnover 
+  Q1b      (b) Gitarth Limited has a current debt equity ratio of 3:7. The company is presently considering several alternative inv
+  Q1c      (c) From the following details of X Ltd, PREPARE the Income Statement for the year ended 31st December: Financial Levera
+  Q2a      (a) The financial statements of Gurunath Ltd is furnished below – Balance Sheet as at 31st March Particulars as at 31st 
+  Q2b      (b) The following information is given for QB Ltd. Earnings per share ` 180 Dividend per share ` 45 Cost of capital 17% 
+  Q3a      (a) Parmarth Limited is a manufacturer of computers. Owing to recent developments in Artificial Intelligence (AI), it is
+  Q3b      (b) DISCUSS the parameters of Lintner’s Model. (2 Marks) 4.
+  Q4a      (a) DISCUSS the Costs of Availing Trade Credit (4 Marks)
+  Q4b      (b) Briefly EXPLAIN the following – i. Fully Hedged Bonds ii. Medium Term Notes iii. Floating Rate Notes iv. Euro Commer
+  Q4c      (c) WHAT is the range of DOL? (2 Marks) OR DISCUSS the role of a chief financial officer. (2 Marks)
+
+########## MTP-S24-S2_Q  (11 parts)
+  Q1a      (a) X Ltd is willing to raise funds for its New Project which requires an investment of ` 84 Lakhs. The Company has two 
+  Q1b      (b) Mr. Anand is thinking of buying a Share at ` 500 whose Face Value per share is ` 100. He is expecting a bonus at the
+  Q1c      (c) Paarath Limited had recently repurchased 20,000 equity shares at a premium of 10% to its prevailing market price. Th
+  Q2a      (a) Sukrut Limited has annual credit sales of ` 75,00,000/-. Actual credit terms are 30 days, but its management of rece
+  Q2b      (b) Determining the amount to be invested in current assets as working capital is a crucial policy decision for any enti
+  Q3a      (a) Calculate the WACC using the following data by using Market Value weights: Particulars ` Equity Shares (` 10 per equ
+  Q3b      (b) EPL Ltd. has furnished the following information relating to the year ended 31st March 2023 and 31st March, 2024: 31
+  Q4a      (a) The agency problem is one of the key concepts in corporate governance and financial management. On the light of this
+  Q4b      (b) Operating leases and financial leases are traditionally the most important types of leases in financial management. 
+  Q4c      (c) EXPLAIN the Relationship between EBIT-EPS-MPS (2 Marks) OR
+  Q4c      (c) EXPLAIN Financial Leverage as a ‘Double edged Sword’ (2 Marks)
+
+########## MTP-S25-S1_Q  (13 parts)
+  Q1a      (a) Profitable FMCG company PQR Ltd. is examining its dividend policy considering potential future investment opportunit
+  Q1b      (b) Gagan Pvt. Ltd. gives you the following information relating to the year ending 31st March, 2025: (1) Current Ratio 
+  Q1c      (c) Wint Limited is a mid-sized manufacturing company specializing in industrial equipment parts. It operates on a just-
+  Q2a      (a) Majestic Ltd., a manufacturing company, is evaluating its financial performance and considering an expansion plan. T
+  Q2b      (b) What is venture capital financing? Briefly describe its characteristics. (2 Marks) 3.
+  Q3a      (a) A company issues: • 15% convertible debentures of ` 100 each at par with a maturity period of 6 years. On maturity, 
+  Q3b      (b) The following data relates to two companies belonging to the same risk class: Particulars A Ltd. B Ltd. Expected Net
+  Q4a      (a) Determine the total market value, Equity capitalization rate and weighted average cost of capital for each company a
+  Q4b      (b) Determine the total market value, Equity capitalization rate and weighted average cost of capital for each company a
+  Q5a      (a) A finance executive of XYZ company claims that “Increasing the firm’s current ratio by accumulating more inventory i
+  Q5b      (b) Write a short note on financial distress and insolvency. (4 Marks)
+  Q5c      (c) A company is looking to raise funds through an instrument that provides fixed periodic returns to the investor but d
+  Q5c      (c) A firm is managing its finances and aims to ensure that it has access to funds for the long term. It evaluates vario
+
+########## MTP-S25-S2_Q  (14 parts)
+  Q1a      (a) ABC Ltd. is a listed company operating in the FMCG sector. The company is currently facing a dilemma regarding its d
+  Q1b      (b) Fortune Ltd. has furnished the following information relating to the year ended 31st March, 2024 and 31st March, 202
+  Q1c      (c) ABC Ltd. has the following capital structure, which is considered to be optimum as on 31st March, 2025. Particulars 
+  Q2a      (a) ABC Engineering Ltd., a mid-sized capital-intensive manufacturing company, is evaluating the risk-return profile of 
+  Q3a      (a) CALCULATE EPS by filling the missing figures.
+  Q3b      (b) CALCULATE Degree of Operating Leverage (DOL), Degree of Financial Leverage (DFL) and Degree of Combined Leverage (DC
+  Q3b      (b) Revised EPS. (iii) ADVICE as to whether the company proceed with the capacity expansion and debt issue. (5 Marks)
+  Q3b      (b) The following data are presented in respect of Excellent Automation Ltd.: (`) Profit before interest and tax 78,00,0
+  Q4a      (a) Oggy Limited has a current credit sales of ` 7,20,000. It is considering revising its credit policy. The proposed te
+  Q4b      (b) Briefly EXPLAIN the process for analysing Optimal Capital Structure. (2 Marks) 4.
+  Q5a      (a) ABC Ltd. is evaluating two investment opportunities. Project X offers high short- term accounting profits with aggre
+  Q5b      (b) Is there any difference between crowd funding and peer to peer lending? EXPLAIN briefly. (4 Marks)
+  Q5c      (c) A company is currently debt-free and is considering raising `10 crore. As a finance manager, what practical factors 
+  Q5c      (c) A company owns a large asset (a commercial building) and is facing a cash crunch. The CFO suggests a sale and leaseb
+
+########## MTP-S26-S2_Q  (12 parts)
+  Q1a      (a) The current credit sales of a firm is ` 20,00,000 and the firm still has an unutilized capacity. In order to boost i
+  Q1b      (b) The following information is supplied to you: Particulars Amount (`) Total Earnings 8,00,000 Equity Shares (of ` 100
+  Q1c      (c) Nova Green Mobility Ltd., a well-established and profitable manufacturer of electrical components, is evaluating a p
+  Q2a      (a) Vertex Industries Ltd. is evaluating the cost of equity for its upcoming expansion project. The company's finance ma
+  Q3a      (a) Calculate the cost of equity (Ke) for Vertex Industries Ltd. using CAPM.
+  Q3b      (b) Calculate and compare the cost of equity for two competitor firms: Competitor A (β = 1.2) and Competitor B (β = 0.8)
+  Q3b      (b) Sunrise Foods Limited, a mid-sized packaged-foods company, is reviewing its cost structure and capital mix before ap
+  Q4a      (a) ABC Limited is a manufacturing company with an all-equity capital structure. The firm is experiencing growth opportu
+  Q4b      (b) Name the various financial instruments dealt with in the international market. (2 Marks) 4.
+  Q5a      (a) WRITE short notes on Inter relationship between investment, financing and dividend decisions. (4 Marks)
+  Q5b      (b) DISCUSS the liquidity vs. profitability issue in management of working capital. (4 Marks)
+  Q5c      (c) EXPLAIN: Callable bonds and Puttable bonds. (2 Marks) Or Briefly DESCRIBE bridge finance (2 Marks)
+
+########## RTP-J25  (7 parts)
+  Q1a      (a) Customers are not currently overdue for more than 5 days to the net period
+  Q1b      (b) Average aging (payment period) of the customer should not exceed 15 days past the net period. If any of the above co
+  Q1b      (b) Effective Interest cost (%) to the company 11. (a) LIST the emerging issues (any four) affecting the future role of 
+  Q1b      (b) EXPLAIN any four Methods for Computation of Cost of Equity Capital.
+  Q1c      (c) Do the profitability index and the NPV criterion of evaluating investment proposals lead to the same acceptance-reje
+  Q1b      (b) Cost of equity capital is the rate of return which equates the present value of expected dividends with the market s
+  Q1c      (c) In the most of the situations the Net Present Value Method (NPV) and Profitability Index (PI) yield same accept or r
+
+########## RTP-J26  (9 parts)
+  Q0e      (e) Current Liabilities - 25% Term Loan is repayable in 5 instalments starting from 31.03.2025. Since the first instalme
+  Q1a      (a) Write the main features of Bulldog Bond.
+  Q1b      (b) What do you understand by Spontaneous Sources of finance and explain its sources of finance?
+  Q1c      (c) What are the causes of over-capitalization?
+  Q1d      (d) What are disadvantages of Profit Maximization? INTERMEDIATE EXAMINATION REVISION TEST PAPERS JANUARY 2026 EXAMINATIO
+  Q2a      (a) Features of Bulldog Bond • It is denominated in Bulldog Pound Sterling/Great Britain Pound (GBP) • Issued in London 
+  Q2b      (b) Spontaneous sources of finance are those which naturally arise in the course of business operations. Trade credit, c
+  Q2c      (c) Over-capitalisation arises due to following reasons: (i) Raising more money through issue of shares or debentures th
+  Q2d      (d) Disadvantages of Profit Maximisation objective of financial management. (i) Emphasizes the short-term gains (ii) Ign
+
+########## RTP-M24  (8 parts)
+  Q1a      (a) Stock of materials 2 months’ average consumption
+  Q1d      (d) Creditors for supply of materials 1 month’s average purchase during the year.
+  Q1e      (e) Expenses All expenses will be paid 1 month in advance during the year. Goods equal to 15% of the year’s production (
+  Q2a      (a) New 14% Debentures (Kd) = I(1-t) NP = ` ` 14(1-0.5) = 0.0707 or 7.07% New 12% Preference Shares (Kp) = PD NP = ` ` 1
+  Q2b      (b) Equity Shares (Retained Earnings) (Ke) = Expecteddividend(D ) +Growthrate(G) Currentmarketprice(P ) = ` ` 50%of 3.02
+  Q3a      (a) × (b) 14% Debenture 0.15 7.07 1.0605 12% Preference shares 0.05 12.63 0.6315 Equity shares 0.80 16.00 12.800 Margina
+  Q4a      (a) × (b) 14% Debenture 0.15 7.07 1.0605 12% Preference shares 0.05 12.63 0.6315 Equity shares 0.80 17.87 14.296 Margina
+  Q4b      (b) The maximisation of firm’s value / wealth. The maximisation of profit is often considered as an implied objective of
+
+########## RTP-M25  (6 parts)
+  Q0b      (b) Explain some common methods of venture capital financing. SUGGESTED ANSWERS 1. i. A. ` 5,20,000 ii. B. ` 5,98,000 Wo
+  Q1a      (a) Working Capital is estimated on Cash Cost Basis
+  Q1b      (b) Other Overheads are assumed to be the part of production.
+  Q1c      (c) In absence of information on % completion for wages, manufacturing and other overheads, it is assumed to be 50% comp
+  Q1d      (d) Other Overheads are also assumed to be outstanding for a period of ½ month. In absence of specific information, it c
+  Q1b      (b) Some common methods of venture capital financing are as follows: (i) Equity financing: The venture capital undertaki
+
+########## RTP-M26  (10 parts)
+  Q1a      (a) DETERMINE the total market value, equity capitalization rate and weighted average cost of capital for each company a
+  Q1b      (b) DETERMINE the total market value, equity capitalization rate and weighted average cost of capital for each company a
+  Q1b      (b) “The treasury department of a business concern has evolved its importance over the years from being responsible for 
+  Q1c      (c) STATE the acceptance rule under Internal Rate of Return (IRR) method of capital budgeting. SUGGESTED ANSWERS 1. (i) 
+  Q1c      (c) = (a)×(b) Equity Share Capital X 0.5 0.5X Long term debts Y 0.5 0.5Y FINANCIAL MANAGEMENT AND STRATEGIC MANAGEMENT M
+  Q1c      (c) = (a)×(b) Equity Share Capital X 3/4 = 0.75 0.75X Long term debts Y 1/4 = 0.25 0.25Y 11+1.5 = 12.5 0.5X + 0.5Y = 11 
+  Q2a      (a) Assuming no tax as per MM Approach. Calculation of Value of Firms ‘A Ltd.’ and ‘B Ltd’ according to MM Hypothesis Ma
+  Q3a      (a) International Funding: With liberalization and globalization a business enterprise has options to raise capital from
+  Q3b      (b) The fundamental tasks for which treasury department of any enterprise is responsible are: 1. Cash Management: It inv
+  Q3c      (c) Acceptance Rule of IRR method. The use of IRR, as a criterion to accept capital investment decision involves a compa
+
+########## RTP-S24  (28 parts)
+  Q0d      (d) ` 40.74 Crores (ii) NPV of the project is:
+  Q0d      (d) ` 2.4700 Cr (iii) Pay Back period of the project to recover the initial investment is:
+  Q0d      (d) 4.46 years (iv) Estimated Recurring accounting profit/(loss) for first three years are:
+  Q0d      (d) ` 9.6120 Cr p.a (v) IRR of the project is:
+  Q0d      (d) 12% INTERMEDIATE EXAMINATION REVISION TEST PAPER SEPTEMBER 2024 EXAMINATION Ratio Analysis 2. KT Ltd.’s opening stoc
+  Q0d      (d) 13.75 Leverage 3. A firm has sales of ` 75,00,000, variable cost of ` 42,00,000 and fixed cost of ` 6,00,000. It has
+  Q1a      (a) ROI is less than interest on loan funds and hence it has no favourable financial leverage.
+  Q1b      (b) ROI is equal to interest on loan funds and hence it has favourable financial leverage.
+  Q1c      (c) ROI is greater than interest on loan funds and hence it has favourable financial leverage.
+  Q1d      (d) ROI is greater than interest on loan funds and hence it has unfavourable financial leverage. Division B: Descriptive
+  Q2a      (a) DETERMINE the total market value, Equity capitalization rate and weighted average cost of capital for each company a
+  Q2b      (b) DETERMINE the total market value, Equity capitalization rate and weighted average cost of capital for each company a
+  Q3a      (a) EXPLAIN the advantages and disadvantages of both profit maximization and wealth maximization goals
+  Q3b      (b) EXPLAIN in brief the features of various types of preference shares. INTERMEDIATE EXAMINATION REVISION TEST PAPER SE
+  Q3b      (b) ` 34.887 Crores Amount Initial Investment required: (A) Cost of Land & Construction Cost = 250 + 100 = 350 million i
+  Q3b      (b) 19.39% DF @ 15% NPV = ` 7.0532 Cr DF @ 20% NPV = 34,10,68,926.17 - 35,07,57,719.00 = (` 0.9688 Cr) INTERMEDIATE EXAM
+  Q3d      (d) 13.75 Creditors Turnover Ratio = Purchases / Average Accounts Payable Cost of Goods Sold = Opening Stock+ Purchases 
+  Q3c      (c) ROI is greater than interest on loan funds and hence it has favourable financial leverage. EBIT = 75,00,000 - 42,00,
+  Q4a      (a) × (b) Equity share capital (W.N.1) 3,00,00,000 0.652 10.00 6.52 11.5% Preference share capital 60,00,000 0.130 11.50
+  Q5a      (a) x (b) Equity share capital (W.N.3) 3,00,00,000 0.588 13.00 7.64 11.5% Preference share capital 60,00,000 0.118 11.50
+  Q6a      (a) Assuming no tax as per MM Approach. Calculation of Value of Firms ‘A Ltd.’ and ‘B Ltd’ according to MM Hypothesis Ma
+  Q7a      (a) Situation 1 1.14 x 1.09 = 1.24 1.14 x 1.04 = 1.19
+  Q7b      (b) Situation 2 1.33 x 1.11 = 1.48 1.33 x 1.05 = 1.40
+  Q7c      (c) Situation 3 1.60 x 1.14 = 1.82 1.60 x 1.06 = 1.70 The above calculations suggest that the highest value is in Situat
+  Q7b      (b) Total Cost other than Bad Debts: Variable Costs other than manager salary 135.00 165.00 210.00 INTERMEDIATE EXAMINAT
+  Q7e      (e) Expected Profit [(a)-(b)-(c)-(d)] 82.50 87.50 86.50 B Opportunity Cost of Investment in Receivables* 5.40 8.25 14.40
+  Q8a      (a) The table below highlights some of the advantages and disadvantages of both profit maximization and wealth maximizat
+  Q8b      (b) Various types of Preference shares can be as below: Sl. No. Type of Preference Shares Salient Features 1. Cumulative
+
+########## RTP-S25  (27 parts)
+  Q0d      (d) 2,74,29,367 (ii) What is the CFAT for year 5?
+  Q0b      (b) 1,00,17,000 FINANCIAL MANAGEMENT AND STRATEGIC MANAGEMENT SEPTEMBER 2025 EXAMINATION REVISION TEST PAPER
+  Q0d      (d) 2,74,29,367 (iii) Calculate the terminal value
+  Q0d      (d) ` 21,32,20,955 (iv) What is the total present value of the mint technologies?
+  Q0d      (d) ` 89,97,791 (v) Calculate the IRR for the company
+  Q0d      (d) 24.68% Ratio Analysis and Leverages 2. A manufacturing company which is presently growing at a good rate has a Finan
+  Q0b      (b) 1.5 © The Institute of Chartered Accountants of India INTERMEDIATE EXAMINATION REVISION TEST PAPER SEPTEMBER 2025 EX
+  Q0d      (d) 2.5 Cost of Capital 3. Consider the below mentioned statements: 1. A debt-equity ratio of 2:1 indicates that for eve
+  Q0d      (d) 1-True, 2-False Division B: Descriptive Questions Financial Analysis & Planning – Ratio Analysis 4. Jamunapati Limit
+  Q1a      (a) CALCULATE the operating expenses for the year ended 31st March, 2024.
+  Q1b      (b) PREPARE a Balance Sheet as on 31st March, 2024 in the following format: Balance Sheet as on 31st March, 2024 Liabili
+  Q2a      (a) DETERMINE the pattern for raising the additional finance. © The Institute of Chartered Accountants of India INTERMED
+  Q2b      (b) DETERMINE the post-tax average cost of additional debt.
+  Q2c      (c) DETERMINE the cost of retained earnings and cost of equity.
+  Q2d      (d) COMPUTE the overall weighted average after tax cost of additional finance. Financing Decision – Capital Structure 6.
+  Q2b      (b) Trade credit and bank overdraft are two commonly used short- term financing sources but each has distinct features. 
+  Q2c      (c) ABC Ltd. is a manufacturing company experiencing rapid sales growth. To meet the increased demand, the company has s
+  Q2d      (d) 24.68% © The Institute of Chartered Accountants of India INTERMEDIATE EXAMINATION REVISION TEST PAPER SEPTEMBER 2025
+  Q2b      (b) Working Notes Calculation of Interest 12% Term Loan ` 7,20,000 Bank borrowings@10% ` 4,00,000 Public Deposits@8% ` 1
+  Q3a      (a) Calculation of Operating Expenses for the year ended 31st March, 2024 (`) Net Profit [@ 7% of Sales] 4,90,000 Add: I
+  Q3b      (b) Balance Sheet as on 31st March, 2024 Liabilities ` Assets ` Share Capital 13,72,000 Fixed Assets 23,60,000 Reserve a
+  Q4a      (a) Pattern for raising the additional finance: Equity 70% of ` 20,00,000 = `14,00,000 Debt 30% of ` 20,00,000 = ` 6,00,
+  Q4b      (b) Determination of post-tax average cost of additional debt: Kd = I (1 – t) Where, I = Interest Rate t = Corporate tax
+  Q4c      (c) Determination of cost of retained earnings and cost of equity by applying Dividend growth model: Ke or Kr = D1 P0 +g
+  Q4d      (d) Computation of overall weighted average after tax cost of additional finance: Particulars Amount (`) Weights Cost of
+  Q4b      (b) Trade credit and bank overdraft are two commonly used short- term financing sources but each has distinct features w
+  Q4c      (c) The trade-off between the components of working capital can be summarised as follows: Component of Working Capital A
+
+########## RTP-S26  (25 parts)
+  Q0d      (d) 11% (ii) What will be the existing Weighted Average Cost of Capital (WACC) of the company?
+  Q1a      (a) 9.12% FINANCIAL MANAGEMENT AND STRATEGIC MANAGEMENT SEPTEMBER 2026 EXAMINATION REVISION TEST PAPERS
+  Q1d      (d) 10.20% (iii) What will be the revised Cost of Equity (Ke) after raising additional debt?
+  Q1d      (d) 14% (iv) What will be the after-tax cost of the newly issued debentures?
+  Q1d      (d) 8.40% (v) What will be the revised Weighted Average Cost of Capital (WACC) after the proposed debt financing?
+  Q1d      (d) 11.62% 2. Total Assets & Current liabilities of the Manju Limited are 50 lakhs & 10 lakhs respectively. ROCE is 15%,
+  Q1d      (d) 40 lakhs INTERMEDIATE EXAMINATION REVISION TEST PAPERS SEPTEMBER 2026 EXAMINATION 3. MT Ltd.’s opening stock was ` 3
+  Q1d      (d) 15.50 Ratio 4. The following information of ASD Ltd. relate to the year ended 31st March, 2026: Net profit 8% of sal
+  Q2a      (a) Profit & Loss Statement of ASD Limited for the year ended 31st March, 2026 in the following format. FINANCIAL MANAGE
+  Q2b      (b) Balance Sheet as on 31st March, 2026 in the following format. Liabilities (`) Assets (`) Share Capital ? Fixed Asset
+  Q2b      (b) Global Infra Ltd., an Indian infrastructure company, plans to raise funds from international markets for its expansi
+  Q2c      (c) Sunrise Healthcare Pvt. Ltd. operates a chain of pharmacies across India. The company has recently experienced risin
+  Q2b      (b) 10% Using Dividend Growth Model: Ke = D1 P0 + g Where: • D₁ = ` 15 • P₀ = ` 300 • g = 5% Ke = 300 +0.05 = 0.05 + 0.0
+  Q2b      (b) 9.43% Cost of Preference Shares Kp = 11.5/100 = 11.5% After-tax Cost of Debentures Kd = 10% (1 - 0.35) = 6.5% FINANC
+  Q2c      (c) 11.04% Revised Capital Structure Particulars Amount (`) Equity Share Capital 30,00,00,000 Preference Shares 6,00,00,
+  Q2b      (b) ROCE = EBIT / Total Capital Employed Total Capital Employed = Total Assets – Current Liabilities = 50 lakhs – 10 lak
+  Q3a      (a) 11.83 Creditors Turnover Ratio = Purchases / Average Accounts Payable Cost of Goods Sold = Opening Stock+ Purchases 
+  Q4a      (a) Importance of Financial Management cannot be over-emphasized. It is, indeed, the key to successful business operatio
+  Q5a      (a) Taking care not to over-invest in fixed assets
+  Q5b      (b) Balancing cash-outflow with cash-inflows
+  Q5c      (c) Ensuring that there is a sufficient level of short-term working capital
+  Q5d      (d) Setting sales revenue targets that will deliver growth
+  Q5e      (e) Increasing gross profit by setting the correct pricing for products or services (f) Controlling the level of general
+  Q5b      (b) Foreign Bonds Sl. No. Name of Bond Salient Features 1. Foreign Currency Convertible Bond (FCCB) • This bond comes at
+  Q5c      (c) Some of the factors which need to be considered while planning for working capital requirement are: 1. Need for Cash
+
+########## SA-J25  (22 parts)
+  Q1a      (a) KP Ltd. has provided the following information: (i) Estimated monthly sales: Month ` in Lakh April-2024 May-2024 Jun
+  Q1b      (b) Following is the Balance Sheet of EXIM Ltd. as on 31stMarch, 2024: Liabilities ` Assets ` Equity Share Capital of ` 
+  Q1c      (c) Following information have been provided by LP Ltd.: Profit before Tax ` 40 Lakh Tax Rate 30% Equity Share Capital (
+  Q2a      (a) Cash Budget (` in lakh) Particulars July August September Opening Balance 1.5 Add: Receipts Collection from debtors 
+  Q2b      (b) Workings: Total Assets = ` 80 lakhs Total Asset Turnover Ratio = 2.5 Hence, Total Sales = 80 × 2.5 = ` 200 lakhs Com
+  Q2c      (c) (i) Price per share as per Walter’s Model ` in lakhs Profit before tax Less: tax @ 30% Earning for equity shareholde
+  Q3a      (a) The following information pertain to CMC Limited: Number of Equity Shares 20,00,000 Book Value of 10% Convertible De
+  Q3b      (b) The following information pertain to MSD Limited for the year ending 31st March, 2024: Particulars Number of days Ra
+  Q4a      (a) (i) Cost of equity share RF = 4.5% Rm – Rf = 9% Β = 1.5 Using CAPM, Ke = Rf + β (Rm – Rf) = 4.5% + 1.5 (9%) = 18% (i
+  Q4b      (b) (i) Net Operating Cycle Period = R + W + F + D – C Where, R = Raw material storage period. W = Work-in-progress hold
+  Q5a      (a) SRT Limited manufactures steel rods and is now considering to purchase a new aluminium smelting and moulding plant. 
+  Q5b      (b) The equity share capital of Sky Pack Ltd. as on 31st March, 2024 was ` 2,00,000. The relevant ratios of the company 
+  Q6a      (a) Calculation Net Present Value (NPV) Years Total Units 1,00,000 1,00,000 1,00,000 1,00,000 1,00,000 (I) Sales (` 150 
+  Q6b      (b) Sky Pack Ltd Balance Sheet Liabilities ` Assets ` Equity share capital 2,00,000 Fixed assets 1,10,000 Current debt 4
+  Q7a      (a) Explain the Environmental, Social and Governance linked Bonds. (4 Marks)
+  Q7b      (b) Discuss the objectives and advantages of wealth maximization goal of Financial Management. (4 Marks)
+  Q7c      (c) State any two advantages of virtual banking. (2 Marks) OR
+  Q7c      (c) State the concept of exclusion of Financing Cost Principle. (2 Marks) Answer
+  Q8a      (a) Environmental, Social and Governance-linked bonds (ESG): These bonds carry a responsibility of the issuer company to
+  Q8b      (b) Objective of Wealth Maximisation: Highest market value of shares. Advantages of Wealth Maximisation: (i) Emphasizes 
+  Q8c      (c) Following are the advantages of virtual banking- (i) Lower cost of handling a transaction. (ii) The increased speed 
+  Q8c      (c) The exclusion of financing costs principle means that: (i) The interest on long-term debt is ignored while computing
+
+########## SA-J26  (28 parts)
+  Q1a      (a) From the books of AIL Limited following information is taken for the year 2024-25: Gross profit margin (25% of Sales
+  Q1b      (b) X Ltd. has average debtors of ` 90,00,000. The company's average collection period is 60 days. At present, it incurs
+  Q1c      (c) PQR Ltd. is a leading company operating in the coal sector, engaged in the extraction, processing, and distribution 
+  Q2a      (a) The current market price of the share.
+  Q2b      (b) Number of issued shares, if market price per share (MPS) is equal to face value per share. (ii) Using Modigliani and
+  Q3a      (a) The market price of the share at the end of year if dividend is paid. Use the current market price calculated in Gor
+  Q3b      (b) What will be the amount of earnings required for the company so that the MM hypothesis holds true, if the company ha
+  Q4a      (a) (i) Sales = 30,00,000 0.25 = ` 1,20,00,000 Gross Profit = ` 30,00,000 Cost of goods sold (COGS) = Sales - Gross Prof
+  Q4b      (b) (i) Working notes: Credit Sales= 90,00,000×360 = ` 5,40,00,000 Particulars ` A. Annual Savings (Benefit) on taking F
+  Q4c      (c) (i) (a) e E (1-b) P = K -br = e D K -g D0 = 10 Ke = 25% g = 20% 10(1 0.20) + P = 0.25-0.20 = 240
+  Q4b      (b) Number of Shares = 24,00,000 = 10,000 shares (ii) (a) As per MM Hypothesis, Pₒ = P +D 1+Ke 240 = 1+12 1+0.25 P P1 = 
+  Q4b      (b) Calculation of Amount of earning required Vf or nP₀ = e (n +Δn)P - I + E (1+K ) Where, Vf = Value of firm in the beg
+  Q5a      (a) RK Limited provided following data for the year ended on 31-03-2025: Sales ` 50,00,000 EPS ` 2.50 Tax Rate ` 40% Fix
+  Q5b      (b) Algo Steel Ltd. is a well-established company in the steel manufacturing sector, successfully operating for the past
+  Q6a      (a) (i) Calculation of Earnings before Interest and Tax (EBIT) Particulars Amount (`) Sales Revenue 50,00,000 Less: Vari
+  Q6b      (b) Annual Depreciation = 21,60,000 (24,00,000 - 2,40,000) = ` 5,40,000 Tax Saving on Depreciation = Depreciation × Tax 
+  Q7a      (a) The Balance Sheet extract of ST Ltd. as on March 31 (current year) is as follows: Liabilities Amount (` in lakh) Ass
+  Q7b      (b) Explain in what ways financial leverage operates as a "double edged sword". (2 Marks) Answer
+  Q8a      (a) (i) External Funds Requirement (EFR) Particulars ` in lakhs Expected sales (` 900 + 20% of ` 900) 1,080.00 Net profi
+  Q8b      (b) When the cost of ‘fixed cost fund’ is less than the return on investment, financial leverage will help to increase r
+  Q9a      (a) Discuss briefly the key features of seed capital assistance as a source of finance. (4 Marks)
+  Q9b      (b) Why the Virtual banking service is popular among the customers? Discuss the advantages of Virtual Banking. (4 Marks)
+  Q9c      (c) Define financial distress. Briefly explain the consequences of a prolonged financial distress. (2 Marks) OR
+  Q9c      (c) BEE Ltd. has a current ratio of 2:1, showing enough short-term liquidity in the company. You are required to comment
+  Q10a     (a) Seed Capital Assistance: The Seed Capital Assistance scheme is designed by IDBI for professionally or technically qu
+  Q10b     (b) The popularity which virtual banking services have won among customers is due to the speed, convenience and round th
+  Q10c     (c) Financial distress is a position where Cash inflows of a firm are inadequate to meet all its current obligations. If
+  Q10c     (c) Sr. No. Transaction Impact on Current Ratio (i) A debtor owing ` 60,000 becomes insolvent and only 75% is recovered 
+
+########## SA-M24  (22 parts)
+  Q1a      (a) Theme Ltd provides you the following information: 12.5 % Debt ` 45,00,000 Debt to Equity ratio 1.5 : 1 Return on Sha
+  Q1b      (b) Alpha Limited has provided following information: Equity Share Capital 25,000 Shares @ ` 100 per Share 15% Debenture
+  Q1c      (c) Following is the sales information in respect of Bright Ltd: Annual Sales (90 % on credit) ` 7,50,00,000 Credit peri
+  Q2a      (a) Working Notes: Debt = ` 45,00,000 FINANCIAL MANAGEMENT AND STRATEGIC MANAGEMENT SUGGESTED ANSWER Interest = ` 45,00,
+  Q2b      (b) Income Statement with required calculations Particulars (`) (`) (`) Existing Sales declined by 15% Sales declined by
+  Q2c      (c) Evaluation of Factoring Proposal Particulars ` ` A. Savings due to factoring Bad Debts saved 0.75% x 7.5 crores x 90
+  Q3a      (a) The capital structure of Shine Ltd. as on 31.03.2024 is as under: Particulars Amount (`) Equity share capital off 10
+  Q3b      (b) Following data is available in respect of Levered and Unlevered companies having same business risk: Capital employe
+  Q4a      (a) (i) Cost of Equity Share capital As per CAPM Model Ke = Rf + ß (Rm − Rf) Rf = 6% B = 1.54 Rm-Rf = 8% Ke = 6% + 1.54(
+  Q4b      (b) 1. Valuation of firms Particulars Levered Firm (`) Unlevered Firm (`) EBIT 25,000 25,000 Less: Interest on debt (8% 
+  Q5a      (a) HCP Ltd. is a leading manufacturer of railway parts for passenger coaches and freight wagons. Due to high wastage of
+  Q5b      (b) Vista Limited's retained earnings per share for the year ending 31.03.2023 being 40% is ` 3.60 per share. Company is
+  Q6a      (a) Calculation of Net Initial Cash Outflows: Particulars ` Cost of new machine 24,00,000 Less: Sale proceeds of existin
+  Q6b      (b) As per Dividend discount model, the price of share is calculated as follows: Retained earning per share = ` 3.60 Div
+  Q7a      (a) State with brief reasons whether the following statements are true or false: (i) Maximising Market Price Per Share (
+  Q7b      (b) ABC Ltd. is approaching the banks for financing its business activity. You are required to describe any four forms o
+  Q7c      (c) Discuss the relevance of Payback reciprocal in capital budgeting decisions. INTERMEDIATE EXAMINATION: MAY 2024 SUGGE
+  Q7c      (c) Explain the features of crowd funding. Answer
+  Q8a      (a) Statement True or False Reason Maximising Market Price Per Share (MPS) as the financial objective which maximises th
+  Q8b      (b) Some of the forms of bank credit are: (i) Cash Credit: This facility will be given by the banker to the customers by
+  Q8c      (c) Reciprocal of the payback would be a close approximation of the Internal Rate of Return if the life of the project i
+  Q8c      (c) Crowd funding: crowdfunding means raising money for an individual or organisation from a group of people to fund a p
+
+########## SA-M25_6A  (23 parts)
+  Q1a      (a) The following information is available for S Ltd. for the year ended 31st March, 2025: Raw Material consumed 20% of 
+  Q1b      (b) Y Ltd. produces energy drinks in different flavours. Due to high demand of its product, the rate of return on its ea
+  Q1c      (c) Following information relates to A Ltd. for the year ended 31st March, 2025: Profit volume ratio 24% Operating lever
+  Q2a      (a) Workings: (i) Calculation of Sales, Cost of Goods Sold and Gross Profit Fixed Assets Turnover = Sales Fixed Assets F
+  Q2b      (b) The question can be solved with the help of Justified P/E Ratio linked to Gordon Growth Model. (i) Calculation of Re
+  Q3a      (a) Financial Leverage = EBIT EBT i.e EBIT – Interest So, 1.5 = EBIT EBIT– 12,000 Or, 1.5 (EBIT – 12,000) = EBIT Or, 0.5
+  Q3b      (b) Operating Leverage = Contribution EBIT Or, 2 = Contribution ` 36,000 Or, Contribution = ` 72,000 Sales = Contributio
+  Q3c      (c) Fixed Cost = Contribution – EBIT = 72,000 – 36,000 Or, Fixed cost = ` 36,000 (i) Income Statements for the year ende
+  Q4a      (a) Capital structure of B Ltd. for the year ended 31st March, 2025 are as follows: Particulars Amount (`) Equity share 
+  Q4b      (b) Following details are related to H Ltd.: EPS ` 3.00 Return on investment 20% Cost of equity 15% As per Walter's Mode
+  Q5a      (a) (i) Calculation of Cost of Equity Ke = Rf + β (Rm – Rf) = 14% + 1.2 (19% - 14%) = 20% (ii) Calculation of Cost of Pr
+  Q5b      (b) In this question, since r>Ke, as per the Walter’s Model, the price will be maximum when the company retains all the 
+  Q6a      (a) Following data are given for a capital project: Annual interim cash inflows for first two years ` 1,00,000 Annual in
+  Q6b      (b) Z Ltd. is an unlevered company. It wants to repurchase its equity shares of ` 300 lakhs by issue of 12% debentures o
+  Q7a      (a) (i) Initial Investment Using IRR = 12%, the NPV is zero. So, the initial investment is equal to the present value of
+  Q7b      (b) Market Value of Equity = Net income (NI) for equity holders Ke ` 1,400 lakhs = Net income (NI) for equity holders 0.
+  Q8a      (a) What is agency cost and what are its types? How can a company minimize agency cost and align the interest of manager
+  Q8b      (b) What are key features of bridge financing? (4 Marks)
+  Q8c      (c) What is hierarchy of financing under 'Pecking Order' theory, and why does it exist? (2 Marks) FINANCIAL MANAGEMENT A
+  Q8c      (c) "The total risk of any business is the combination of degree of operating and financial risk". In the light of the a
+  Q9a      (a) Meaning of Agency Cost: Agency Problem is the chances that managers may place personal goals ahead of the goal of ow
+  Q9b      (b) Key features of Bridge Financing (i) Bridge finance refers to loans taken by a company normally from commercial bank
+  Q9c      (c) Hierarchy of financing Pecking order: Pecking order theory suggests that managers may use various sources for raisin
+
+########## SA-M26  (26 parts)
+  Q1a      (a) Finance manager of A Ltd. noticed that a 5% increase in sales leads to increase of ` 9,000 in operating profit. The 
+  Q1b      (b) Z Ltd. has issued 8% convertible debentures of ` 100 each with a remaining maturity period of five years. The curren
+  Q1c      (c) Following information is related to Exe Ltd. for the year ended 31st March, 2026: Total dividend coverage ratio 2.86
+  Q2a      (a) (i) Current level of Sales: Let the present sales be = `X or 5% of Sales×40% = 9,000 or 0.05X x 0.40 = 9,000 or 0.02
+  Q2b      (b) Calculation of growth rate in dividend 8.03 = 5 (1+g)7 1.606 = (1+g)7 g = 7% Price of share after 5 years P5 = 16 x 
+  Q2c      (c) Dividend per Equity Share (DPS) = 4 % of `40.00 = `1.60 No. of Equity Shares = `12,00,000 / `10 = 1,20,000 shares (i
+  Q3a      (a) R Ltd. wants to reduce the dependency of manual workforce in the operation of its factory by adopting automatic mach
+  Q3b      (b) B Ltd. has received an offer to get a discount of 2% on an invoice value of `75,000, if payment is made within one m
+  Q4a      (a) Evaluation of Alternatives Working Notes: Depreciation on Machine M = (4,50,000 - 45,000) = ` 81,000 FINANCIAL MANAG
+  Q4b      (b) Discount on early payment = 2% x 75,000 = `1,500 Net Benefit (A) = ` 1,500 - Tax (30%) = ` 1,050 The company must bo
+  Q5a      (a) K Ltd. provides the following information: Net profit ` 50,00,000 10% Preference share capital @ `100 each ` 2,00,00
+  Q5b      (b) AR Ltd. has given following data for the year ended 31st March, 2026: • Receivables are collected on an average afte
+  Q6a      (a) (`) in lakhs Net Profit Less: Preference dividend Earning for equity shareholders (i) Earning per share = 30,00,000/
+  Q6b      (b) (i) Cash cycle = 60 days + 90 days – 30 days =120 days (4 months) Cash turnover = 12 months (360 days)/4months (120 
+  Q7a      (a) MM Hypothesis of dividend policy is based on certain assumptions. What are those assumptions without which the hypot
+  Q7b      (b) An Indian exporter has shipped goods to a foreign buyer, but the export proceeds are yet to be realised. He approach
+  Q7c      (c) How do the concepts of profit maximization and wealth maximization differ in terms of objective, risk, time horizon 
+  Q7c      (c) What are Junk Bonds and why are they called 'High Yield Bonds'? (2 Marks) Answer
+  Q8a      (a) MM hypothesis is based on the following assumptions: • Perfect capital markets: The firm operates in a market in whi
+  Q8b      (b) Post-shipment Finance is the type of finance involved: It takes the following forms:
+  Q9a      (a) Purchase/discounting of documentary export bills: Finance is provided to exporters by purchasing export bills drawn 
+  Q9b      (b) E.C.G.C. Guarantee: Post-shipment finance, given to an exporter by a bank through purchase, negotiation or discount 
+  Q9c      (c) Advance against export bills sent for collection: Finance is provided by banks to exporters by way of advance agains
+  Q9d      (d) Advance against duty draw backs, cash subsidy, etc.: To finance export losses sustained by exporters, bank advance a
+  Q9c      (c) Particular Profit Maximization Wealth Maximisation Objective Large amount of profits. Highest market value of shares
+  Q9c      (c) High Yield Bonds (or Junk Bonds): Junk Bond is a bond that is rated below investment grade by credit rating agencies
+
+########## SA-S25  (28 parts)
+  Q1a      (a) The capital structure of RSA Limited is as under: (`) Equity Shares (` 10 per share) 1,00,00,000 8% Irredeemable Pre
+  Q1b      (b) Diwan Limited has outlined its financial projections for the fiscal year 2025-26. The company plans to utilize total
+  Q1c      (c) Global Beverage Corporation is considering replacing one of its bottling machines with a newer and more efficient mo
+  Q2a      (a) (i) Ke = D +g P -F = 2(1 0.05) + + 60-4 = 8.75% (ii) KP = PD P INTERMEDIATE EXAMINATION: SEPTEMBER 2025 SUGGESTED AN
+  Q2c      (c) = (a)×(b) Equity shares 6,00,00,000 0.6857 0.0875 0.0600 Preference shares 2,75,00,000 0.3143 0.1778 0.0559 8,75,00,
+  Q2c      (c) = (a)×(b) Equity shares 6,00,00,000 0.6857 0.0875 0.06 Preference shares 2,75,00,000 0.3143 0.1455 0.0457 8,75,00,00
+  Q2b      (b) (i) Income Statement Particulars (`) Sales 55,00,000 Less: Direct Cost 30,00,000 Gross Profit 25,00,000 Less: Operat
+  Q2c      (c) Calculation of Net Initial Cash Outflows: Particulars ` Cost of new machine 32,00,000 Less: Sale proceeds of existin
+  Q3a      (a) M/s KRY Limited is a mid-sized company engaged in manufacturing and sales of Industrial equipment. The capital struc
+  Q3b      (b) Saraswati Ltd. has started its business a year back with a paid-up equity capital of ` 50,00,000. The other details 
+  Q4a      (a) (i) Operating Leverage = Contribution EBIT 2.4 = 75,00,000 x 0.40 EBIT EBIT = 12,50,000 (ii) Fixed Cost excluding in
+  Q4b      (b) (i) P0 = e E(1-b) K -br 159.09 = 10(1-b) 0.08-0.12b 159.09(0.08−0.12b) = 10(1−b) 12.7272−10 = 19.0908b−10b 2.7272 = 
+  Q5a      (a) AVS Limited is planning to diversify its cotton manufacturing business. The Chief Financial Officer (CFO) intends to
+  Q5b      (b) A company issues 20,000, 18% Debentures of `100 each. The debentures are redeemable after a period of 8 years. The c
+  Q6a      (a) Particulars Options Option-I: 60% Debt Option-II: 50% Debt Option-III: 40% Debt ` ` ` Debt 13,20,000 11,00,000 8,80,
+  Q6b      (b) (i) Cost of Redeemable Debenture (Kd) = ( ) ( ) ( ) RV-NP I 1-t + n RV+NP 0.1458 = ( ) ( ) ( ) -NP 1-0.3 + +NP 0.145
+  Q7a      (a) Discuss any 2 advantages and limitations of Stock Splits. (4 Marks)
+  Q7b      (b) Explain in brief the following types of bonds: (i) Callable Bonds (ii) Puttable Bonds (iii) Masala Bonds (iv) Drop L
+  Q7c      (c) Explain two basic functions of Financial Management. (2 Marks) OR
+  Q7c      (c) Explain any two limitations of profit maximization objective of Financial Management. (2 Marks) Answer
+  Q8a      (a) Advantages of Stock Splits 1. It makes the share affordable to small investors. 2. Number of shares may increase the
+  Q8b      (b) (i) Callable bonds: A callable bond has a call option which gives the issuer the right to redeem the bond before mat
+  Q8c      (c) Basic function of financial management:
+  Q9a      (a) Investment decisions (I): These decisions relate to the selection of assets in which funds will be invested by a fir
+  Q9b      (b) Financing decisions (F): These decisions relate to acquiring the optimum finance to meet financial objectives and se
+  Q9c      (c) Dividend decisions (D): These decisions relate to the determination as to how much and how frequently cash can be pa
+  Q9d      (d) Working Capital Management (WCM): Generally short term decision are reduced to management of current asset and curre
+  Q9c      (c) Limitations of profit maximisation objective: (i) The term profit is vague. It does not clarify what exactly it mean

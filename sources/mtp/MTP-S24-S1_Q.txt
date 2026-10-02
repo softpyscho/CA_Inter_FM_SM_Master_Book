@@ -1,0 +1,632 @@
+<<PAGE 1>>
+1 
+Mock Test Paper - Series I: July, 2024 
+Date of Paper: 3rd August, 2024 
+Time of Paper: 2 P.M. to 5 P.M. 
+ 
+INTERMEDIATE: GROUP – II 
+PAPER – 6A : FINANCIAL MANAGEMENT & STRATEGIC MANAGEMENT 
+PAPER 6A: FINANCIAL MANAGEMENT 
+Time Allowed – 3 Hours (Total time for 6A and 6B)  
+Maximum Marks – 50 
+1. 
+The question paper comprises two parts, Part I and Part II. 
+2. 
+Part I comprises Case Scenario based Multiple Choice Questions (MCQs) 
+3. 
+Part II comprises questions which require descriptive type answers. 
+4. 
+Working note should form part of the answer. Wherever necessary, suitable 
+assumptions may be made by the candidates and disclosed by way of note. 
+However, in answers to Questions in Division A, working notes are not 
+required. 
+PART I – Case Scenario based MCQs (15 Marks) 
+Write the most appropriate answer to each of the following multiple choice 
+questions by choosing one of the four options given. All questions are 
+compulsory. 
+ 
+Kaivalyabodhi Limited (KbL) has completed 35 years of operations in India. It has 
+many subsidiary & associate companies in more than 100 countries. KbL’s 
+business s include home and personal care, foods and beverages, and industrial, 
+agricultural and other products. It is one of the largest producers of soaps and 
+detergents in India. The company has grown organically as well as through 
+acquisitions. Over the years, the company has built a diverse portfolio of powerful 
+brands, some being household names. 
+It is planning to acquire one of its competitors named Prestige Limited, which would 
+enhance the growth of ‘KbL’. The consideration amount will be 1.5X of its average 
+Market Capitalization. Prestige limited has 1,30,000 outstanding equity shares and 
+its shares were traded at an average market price of ` 45 as on the valuation date. 
+The consideration amount will be paid equally in 5 years where the first installment 
+is to be paid immediately. Prestige Limited has Ko of 15% 
+KbL will raise the funds required through debt and equity in the ratio of 30:70. The 
+company requires the cost of capital estimates for evaluating its acquisitions, 
+investment decisions and the performance of its businesses. 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 2>>
+2 
+KbL’s share price has grown from ` 150 to ` 301 in the last 5 years and it will 
+continue to grow at the same rate. KbL pays dividends regularly. The company has 
+recently paid a dividend of ` 8. For the calculation of equity, an average of 52 weeks 
+high market price in the last 5 years is to be considered, which is as follows: 
+Yr 1 
+Yr 2 
+Yr 3 
+Yr 4 
+Yr 5 
+MPS 185 
+MPS 210 
+MPS 252 
+MPS 325 
+MPS 280 
+Ke calculated as per growth model holds a weight of 0.6. 
+The company also wishes to calculate the equity’s expectation using CAPM which 
+holds a weight of 0.4. The risk-free rate is assumed as the yield on long-term 
+government bonds that the company regards as about 8%. KbL regards the market-
+risk premium to be equal to 11 per cent. Its estimation on the Beta is 0.78.  
+KbL will issue debentures with FV of ` 10,500 which is to be amortised equally over 
+the life of 7 years. The company considers the effective rate of interest applicable 
+to an ‘AAA’ rated company with a markup of 200 basis points as its coupon rate. It 
+thinks that considering the trends over the years, ‘AAA’ rate is 7.5%.  
+Ignore taxation. Based on the above details, answer the question 1 to 5: 
+1.  
+Calculate the cost of equity under both the methods 
+(a) 
+11%, 16% 
+(b) 
+18.65%, 10.34%      
+(c) 
+18.65%, 16.58%       
+(d) 
+16.5%, 9% 
+2.  
+Calculate the overall cost of equity  
+(a) 
+17.82%            
+(b) 
+17.63%                   
+(c) 
+15.37%                       
+(d) 
+35.25% 
+3.  
+Calculate the cost of debt, if the intrinsic value of debenture today is close to 
+` 9,740 
+(a) 
+15%                 
+(b) 
+12%                       
+(c) 
+9.5%                            
+(d) 
+7.5% 
+4.  
+Calculate the WACC & the amount of purchase consideration  
+(a) 
+18%, ` 90,00,000     
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 3>>
+3 
+(b) 
+15.21%, ` 87,75,000      
+(c) 
+16.07%, ` 87,75,000    
+(d) 
+15.94%, ` 58,50,000 
+5.   Present Value of Purchase consideration is close to ` 
+(a) 
+58,83,032              
+(b) 
+67,65,487                 
+(c) 
+57,35,680                  
+(d) 
+66,58,997 
+(5 x 2 = 10 Marks) 
+6.  
+X ltd has actual Sales of ` 20 lakhs and its Break-even sales are at ` 15 lakhs. 
+The degree of total risk involved in the company is 6.5. Calculate the % impact 
+on EPS, if EBIT is affected by 12%. 
+(a) 
+40% 
+(b) 
+78% 
+(c) 
+312% 
+(d) 
+19.5% 
+(2 Marks) 
+7.  
+Assuming Ke = 11%, Kd = 8% and Ko = 10%, Debt Equity ratio of the company 
+(a) 
+2:3 
+(b) 
+3:2 
+(c) 
+1:2 
+(d) 
+2:1 
+(2 Marks) 
+8.  
+Given:  
+Earnings available to the equity shareholders ` 30 Lakhs,  
+Cost of equity is 15%,  
+Debt outstanding ` 150 Lakhs 
+Value of the firm will be – 
+(a) 
+` 200 Lakhs 
+(b) 
+` 250 Lakhs 
+(c) 
+` 350 Lakhs 
+(d) 
+` 300 Lakhs 
+(1 Mark) 
+ 
+ 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 4>>
+4 
+PART II – Descriptive Questions (35 Marks) 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+1. 
+(a)  You are required to CALCULATE the Total Current Assets of Ananya 
+Limited from the given information: 
+Stock Turnover 
+= 5 times 
+Sales (All credit) 
+= ` 7,20,000 
+Gross Profit Ratio 
+= 25% 
+Current Liabilities 
+= 2,40,000 
+Liquidity Ratio 
+= 1.25 
+Stock at the end is ` 30,000 more than stock in the beginning. 
+(5 Marks) 
+(b)  Gitarth Limited has a current debt equity ratio of 3:7. The company is 
+presently considering several alternative investment proposals costing 
+less than ` 25 lakhs. The company will always raise the funds required 
+without disturbing its current capital structure ratio.  
+ 
+The cost of raising debt and equity are as follows- 
+Cost of Project 
+Kd 
+Ke 
+Upto 5 lakhs 
+10% 
+12% 
+Above 5 lakhs & upto 10 lakhs 
+12% 
+13.5% 
+Above 10 lakhs & upto 20 lakhs 
+13% 
+15% 
+Above 20 lakhs  
+14% 
+16% 
+ 
+Corporate tax rate is 30%, CALCULATE: 
+i) 
+Cut off rate for two Projects I & Project II whose fund requirements 
+are 15 lakhs & ` 26 lakhs respectively. 
+ii) 
+If a project is expected to give an after-tax return of 13%, determine 
+under what conditions it would be acceptable. 
+    (5 Marks) 
+(c)  From the following details of X Ltd, PREPARE the Income Statement for 
+the year ended 31st December: 
+Financial Leverage 
+2 
+Interest  
+` 2,000 
+Operating Leverage 
+3 
+Variable Cost as a Percentage of Sales 
+75% 
+Income Tax Rate 
+30% 
+ (5 Marks) 
+ 
+ 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 5>>
+5 
+2. 
+(a) 
+The financial statements of Gurunath Ltd is furnished below – 
+Balance Sheet as at 31st March  
+Particulars as at 31st March 
+Note 
+` 
+I 
+EQUITY AND LIABILITIES: 
+ 
+ 
+(1) Shareholders’ Funds: 
+ 
+10,00,000 
+(2) Non–Current Liabilities: 10% Debt 
+ 
+6,00,000 
+(3) Current Liabilities 
+ 
+1,56,000 
+ 
+Total 
+ 
+17,56,000 
+II 
+ASSETS 
+ 
+ 
+(1) Non–Current Assets 
+ 
+16,56,000 
+(2) Current Assets – Trade Receivables 
+ 
+1,00,000 
+ 
+Total 
+ 
+17,56,000 
+Additional Information: 
+1. 
+The existing credit terms are 1/10, net 45 days and average 
+collection period is 30 days. The current bad debts loss is 1.5%. In 
+order to accelerate the collection process further as also to 
+increase sales, the company is contemplating liberalization of its 
+existing credit terms to 2/10, net 45 days.  
+2. 
+It is expected that sales are likely to increase by 1/3 of existing 
+sales, bad debts increase to 2% of sales and average collection 
+period to decline to 20 days.  
+3. 
+Credit period allowed by the supplier is 60 days. Generally, 
+operating expenses are paid 2 months in arrears. Total Variable 
+expenses of the company constitute Purchases of stock in trade 
+and operating expenses only.  
+4. 
+Opportunity cost of investment in receivables is 15%. 50% and 80% 
+of customers in terms of sales revenue are expected to avail cash 
+discount under existing and liberalization scheme respectively. The 
+tax rate is 30%. 
+5. 
+The Company considers only the relevant or variable costs for 
+calculating the opportunity costs on the funds blocked in 
+receivables. Assume 360 days in a year and 30 days in a month. 
+Should the company change its credit terms? 
+(6 Marks) 
+(b) 
+The following information is given for QB Ltd. 
+ 
+Earnings per share 
+ 
+ 
+ 
+` 180 
+Dividend per share 
+ 
+ 
+ 
+` 45 
+Cost of capital  
+ 
+ 
+ 
+17% 
+Internal Rate of Return on investment 
+20% 
+CALCULATE the market price per share using - 
+(a) 
+Gordon’s formula  
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 6>>
+6 
+(b) 
+Walter’s formula 
+ (4 Marks) 
+3.  
+(a)  Parmarth Limited is a manufacturer of computers. Owing to recent 
+developments in Artificial Intelligence (AI), it is planning to introduce AI 
+in its computer process. This would  
+result 
+into 
+an 
+estimated 
+annual savings as follows: 
+(i)  
+Savings of ` 3,50,000 in production delays caused by inventory 
+problem. 
+(ii)  Savings in Salaries of 5 employees with an annual pay of ` 4,20,000 
+per annum 
+(iii)  Reduction in Lost sales of ` 1,75,000 
+(iv)  Gain due to timely billing is ` 3,25,000 
+ 
+The project would result in annual maintenance and operating costs as 
+follows, which are to be paid in advance (at the beginning) 
+YEAR 
+1 
+2 
+3 
+4 
+5 
+COST 
+1,80,000 
+2,00,000 
+1,20,000 
+1,10,000 
+1,30,000 
+ 
+Furthermore, the new system would need 2 AI specialists' professional 
+drawing salaries of ` 6,50,000 per annum per person. The purchase 
+price of the new system for installing AI into computers would involve an 
+outlay of ` 21,50,000 and installation cost of ` 1,50,000.  
+ 
+75% of the total value for depreciation would be paid in the year of 
+purchase and the balance would be paid at the end of the 1st year. The 
+new system will be sold for ` 1,90,000. This is the only asset in the block 
+for Income tax purpose. 
+ 
+The life of the system would be 5 years with the hurdle rate of 12%. 
+Depreciation will be charged at 40% on WDV basis, corporate tax rate is 
+25% and capital gains tax rate is at 20%. 
+ 
+CALCULATE NPV and advise the management on the acceptability of 
+the proposal. Also calculate ARR & PI.  
+(8 Marks) 
+(b)  DISCUSS the parameters of Lintner’s Model.  
+ (2 Marks) 
+4.  
+(a)  DISCUSS the Costs of Availing Trade Credit 
+(4 Marks) 
+(b) 
+Briefly EXPLAIN the following – 
+i. 
+Fully Hedged Bonds 
+ii. 
+Medium Term Notes 
+iii. 
+Floating Rate Notes 
+iv. 
+Euro Commercial Papers 
+(4 Marks) 
+(c)  WHAT is the range of DOL? 
+ (2 Marks) 
+OR 
+ 
+DISCUSS the role of a chief financial officer.    
+ (2 Marks) 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 7>>
+7 
+PAPER 6B: STRATEGIC MANAGEMENT 
+1. 
+The question paper comprises two parts, Part I and Part II. 
+2. 
+Part I comprises case scenario based multiple choice questions (MCQs) 
+3. 
+Part II comprises questions which require descriptive type answers. 
+PART I – Case scenario based MCQs (15 Marks) 
+Question 1. (A) (Compulsory) 
+1. 
+(A)  Kriti Pvt. Ltd. has been importing French gourmet cheeses under the 
+brand name of 'Fromage' since 2017. The company was amongst the 
+first in India to introduce innovative unbreakable cheese packaging. 
+Their affiliate, a French company owning Fromage, had entered into a 
+progressive deal, wherein products would be sourced to India via their 
+logistics, and all marketing expenditures would be covered by them. 
+However, customer management and nationwide distribution would be 
+taken care of by Kriti Pvt. Ltd. This required an English-speaking skilled 
+workforce, which has been a constant challenge for the company in 
+India. 
+ 
+The owners of Kriti Pvt. Ltd. have been regular attendees at industry-
+relevant conclaves, both national and international. Leaders of the 
+company are passionate readers of business magazines. Following that, 
+it was observed that the recent sentiment of the country towards ‘Vocal 
+for Local’ could disrupt their French brand’s marketability. An 
+extraordinary meeting was set up, and the steps ahead were planned. 
+ 
+The outcome of the meeting was to partner with local producers of 
+traditional Indian cheeses in phase one of the change strategy. For this, 
+seven state governments were approached. The team was successful in 
+taking contracts from all the government departments of these seven 
+states and could position themselves fairly in the market. To fund this 
+new investment, they have planned to slowly sell off their French 
+business assets as well as the brand, to probable buyers. 
+ 
+This timely shift is proving to be a game-changer for the company, and 
+the leadership is quite happy with better than before earnings and a 
+much greater response from the customers. They find it easier to operate 
+with domestic producers and vendors, and a sense of patriotism is 
+instilled in the consumers’ minds. 
+ 
+Based on the above Case Scenario, answer the Multiple-Choice 
+Questions. 
+(i)  
+Which of the following actions taken by Kriti Pvt. Ltd. is an example 
+of a proactive strategy? 
+(a)  Selling off their French business assets. 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 8>>
+8 
+(b)  Responding to the 'Vocal for Local' sentiment by partnering 
+with local cheese producers. 
+(c)  Managing customer relations and nationwide distribution. 
+(d)  Covering all marketing expenditures for 'Fromage' in India. 
+(2 Marks) 
+(ii)  Which of the following types of strategic control did the owners and 
+leadership of Kriti Pvt. Ltd. deploy that eventually turned out to be 
+one of the most effective strategic decisions for the company? 
+(a)  Premise control 
+(b)  Special alert control 
+(c)  Implementation control 
+(d)  Strategic surveillance 
+(2 Marks) 
+(iii)  ‘Vocal for Local’ is a market sentiment that changed customers’ 
+preferences for the majority of products across all industries. Based 
+on that, Kriti Pvt. Ltd. gauged the competition it might face in the 
+coming months and agreed to change its own product. Which of the 
+following forces, as per Michael Porter’s five forces of competitive 
+analysis, is most relevant in this case?  
+(a)  Threat of new entrants 
+(b)  Nature of rivalry in the industry 
+(c)  Threat of substitutes 
+(d)  Bargaining power of the buyer 
+(2 Marks) 
+(iv)  Which of the following aspects of value chain analysis was the most 
+challenging for Kriti Pvt. Ltd. at the time of selling the Fromage 
+brand?  
+(a)  Manufacturing 
+(b) 
+Outsourcing 
+(c)  Customer service 
+(d)  Procurement 
+(2 Marks) 
+(v)  To strategically revamp their business, partnerships were done with 
+Indian local producers from seven states, and to fund it, the existing 
+arm of the business was to be sold off. Which of the following 
+strategies has Kriti Pvt. Ltd. opted for?  
+(a)  Turnaround strategy 
+(b)  Divestment strategy 
+(c)  Liquidation strategy 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 9>>
+9 
+(d)  Intensification strategy 
+(2 Marks) 
+(B)  Compulsory Application Based Independent MCQs 
+(i)  
+TechWave, a software development firm, aims to gain a 
+competitive edge in the rapidly evolving tech industry. To achieve 
+this, they focus on building their strength in artificial intelligence (AI) 
+and machine learning (ML). TechWave invests heavily in R&D, 
+hires top talent with specialized skills, and forms partnerships with 
+leading AI research institutions. They also provide continuous 
+training for their employees to keep them updated with the latest 
+advancements. By developing these, TechWave can create 
+innovative AI-driven solutions that differentiate them from 
+competitors and attract a growing number of clients seeking 
+cutting-edge technology. What strategy is TechWave using to gain 
+a competitive edge in the tech industry? 
+(a)  Market segmentation 
+(b)  Diversification 
+(c)  Core competency building 
+(d)  Cost leadership 
+(2 Marks) 
+(ii) 
+StreamlineCo is examining its internal capabilities to ensure that 
+employees 
+possess 
+advanced 
+knowledge 
+of 
+emerging 
+technologies crucial for the company's future success. This 
+involves investing in specialized training programs and updating job 
+roles to match the latest industry standards. Which aspect of 
+StreamlineCo is being enhanced through specialized training and 
+updated job roles? 
+(a)  Structure 
+(b)  Systems 
+(c)  Skills 
+(d)  Style 
+(2 Marks) 
+(iii)   XYZ Corporation has launched AlphaTech to enter the consumer 
+electronics industry with a focus on offering high-performance 
+devices and innovative features at competitive prices. Which 
+competitive strategy is AlphaTech employing? 
+(a)  Differentiation strategy 
+(b)  Cost leadership strategy 
+(c)  Best-cost provider strategy 
+(d)  Focus strategy 
+(1 Mark) 
+ 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 10>>
+10 
+PART II – Descriptive Questions (35 Marks) 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+1. 
+(a)  Mr. Arun has been hired as the CEO by ABC Ltd, a pharmaceutical 
+company that has diversified into affordable wellness supplements. The 
+company intends to launch the HealthPlus brand of supplements. ABC 
+wishes to enhance the well-being of people with its products that are 
+beneficial for health and are produced in an environmentally sustainable 
+manner using natural ingredients. Draft a vision and mission statement 
+that may be formulated by Arun. 
+(5 Marks) 
+(b) 
+GreenGardens, a small but growing organic farm, is assessing its 
+business environment to strategically plan for future growth. The farm 
+boasts high-quality, pesticide-free crops, but faces challenges with its 
+limited distribution channels. As the demand for organic products 
+continues to rise, GreenGardens recognizes the potential to broaden its 
+market reach. However, unpredictable weather conditions and 
+competition from larger farms present significant obstacles. To 
+effectively navigate these challenges and opportunities, GreenGardens 
+needs to conduct a comprehensive evaluation. Identify the type of 
+analysis GreenGardens should conduct to strategically plan for its future 
+growth and outline the grid. 
+(5 Marks) 
+(c)  FreshDelight, renowned for its organic fruit juices, aims to expand its 
+market presence by identifying emerging markets in countries where 
+organic products are gaining popularity. To achieve this, FreshDelight 
+launches targeted marketing campaigns and partners with local 
+distributors to introduce its juices to these new regions. This strategy 
+involves adapting product packaging and marketing messages to align 
+with local preferences and regulations. By entering these new markets, 
+FreshDelight hopes to increase its customer base and drive sales 
+growth. What strategy is FreshDelight using to expand its market 
+presence? 
+(5 Marks) 
+2.  
+(a)  The CEO of a textile mill is convinced that his loss-making company can 
+be turned around. Suggest an action plan for a turnaround to the CEO. 
+   
+(5 Marks) 
+(b)  Write a short note on Matrix Structure. 
+     (5 Marks) 
+3. 
+(a) 
+"Understanding the competitive landscape is important to build upon a 
+competitive advantage". Explain. 
+    (5 Marks) 
+ 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 11>>
+11 
+(b)  XYZ Corporation operates in a diverse range of industries, including 
+fashion, lifestyle products, furniture, real estate, and electrical goods. 
+The company is seeking to hire a suitable Chief Executive Officer. As 
+the HR consultant for XYZ Corporation, you have been tasked with 
+outlining the activities involved in the role of the Chief Executive Officer. 
+Identify the strategic level associated with this role and list the activities 
+it encompasses. 
+(5 Marks) 
+4.  
+(a)  Buyers can exert considerable pressure on business. Do you agree? 
+Discuss. 
+(5 Marks) 
+(b)  Major core competencies are identified in three areas - competitor 
+differentiation, customer value and application to other markets. 
+Discuss. 
+OR 
+ 
+What factors should organizations consider when choosing strategic 
+performance measures, and why are these factors important?  
+(5 Marks) 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com

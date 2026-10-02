@@ -1,0 +1,624 @@
+<<PAGE 1>>
+1 
+Mock Test Paper - Series I: November, 2025 
+Date of Paper: 28th November, 2025 
+Time of Paper: 10 A.M. to 1 P.M. 
+ 
+INTERMEDIATE GROUP – II  
+PAPER – 6A : FINANCIAL MANAGEMENT & STRATEGIC MANAGEMENT 
+PAPER 6A: FINANCIAL MANAGEMENT 
+Time Allowed – 3 Hours (Total time for 6A and 6B)  
+Maximum Marks – 50 
+1. 
+The question paper comprises two parts, Part I and Part II. 
+2. 
+Part I comprises Case Scenario based Multiple Choice Questions (MCQs) 
+3. 
+Part II comprises questions which require descriptive type answers. 
+4. 
+Working note should form part of the answer. Wherever necessary, suitable assumptions 
+may be made by the candidates and disclosed by way of note. However, in answers to 
+Questions in Division A, working notes are not required. 
+PART I – Case Scenario based MCQs (15 Marks) 
+Write the most appropriate answer to each of the following multiple choice questions by 
+choosing one of the four options given. All questions are compulsory. 
+Case Scenario I 
+ABC Ltd is a growing renewable energy manufacturing company specializing in Parabolic Solar 
+Cookers, which are widely used for rural cooking programs, NGO sustainability projects, and 
+government-sponsored green initiatives. Over the past few years, ABC Ltd has seen a steady 
+rise in demand due to increasing awareness of clean energy solutions and state-level subsidies. 
+Currently, ABC Ltd fabricates the metal frame, stand, and support structures of the solar cooker 
+at their facility. However, one critical component—the Concentrator Dish (the reflective parabola 
+that focuses sunlight)—is being purchased from an external vendor, PQR Ltd, at a cost of  
+` 2,000 per unit. 
+Recently, ABC Ltd has faced several operational challenges with the outsourced dish supplier 
+like Supply Delays, Quality Inconsistency, Rising Procurement Costs, large government order 
+requiring strict timelines and quality standards. 
+ 
+Downloaded from castudyweb.com
+<<PAGE 2>>
+2 
+Because of these concerns, management is considering backward integration—bringing dish 
+manufacturing in-house to gain greater control over cost, quality, and delivery. 
+To produce the concentrator dishes internally, management is evaluating the cost structure: 
+• 
+Raw Material: ` 700 per unit 
+• 
+Labour Cost: ` 300 per unit 
+• 
+Other Variable Costs: ` 100 per unit 
+Total Variable Cost per unit = ` 1,100 
+To manufacture the dish internally, ABC Ltd must purchase new machinery costing ` 25,00,000 
+with: 
+• 
+Useful life: 5 years 
+• 
+Depreciation rate: 20% per year (straight-line) 
+• 
+Tax rate: 30% 
+• 
+Discount rate: 10% 
+• 
+Expected annual production: 1,000 units 
+• 
+Present value annuity factor for 10% over 5 years: 3.7908 
+The leadership team wants to understand whether in-house manufacturing is financially viable 
+compared to continuing purchases from PQR Ltd. Based on the above facts you are required to 
+answer the following questions (MCQs 1 to 5): 
+1. 
+What is present value of outflow incase of concentrator dish purchased from PQR Ltd for 
+5 years after considering taxes? 
+(A) 
+50,40,325 
+(B) 
+43,52,789 
+(C) 
+31,25.852 
+(D) 
+53,07,120 
+2. 
+What is present value of outflow after considering taxes if ABC Ltd is planning to 
+manufacture concentrator dish? 
+(A) 
+45,80,296 
+(B) 
+48,50,296 
+(C) 
+46,85,029 
+(D) 
+53,25,841 
+Downloaded from castudyweb.com
+<<PAGE 3>>
+3 
+3.  
+Suppose only 700 units are needed in a particular year. Which conclusion is correct? 
+(A)  
+The investment is still cash-positive even at 700 units 
+(B) 
+The investment becomes cash-negative at 700 units 
+(C) 
+The depreciation cancels out tax benefits at 700 units 
+(D)  
+ABC should outsource if output falls below 900 units 
+4.  
+ABC Ltd has found 2 new vendors selling concentrator dish. XYZ Ltd for ` 2100/- per 
+unit and UVW Ltd for `1900/- per unit. Which option should ABC Ltd choose to minimize 
+the cost? 
+(A)  
+Manufacture the Concentrator dish inhouse 
+(B)  
+Purchase from PQR Ltd 
+(C)  
+Purchase from XYZ Ltd 
+(D)  
+Purchase from UVW Ltd 
+5.  
+UVW Ltd is negotiating with ABC Ltd and asking for final price for which they would want 
+to purchase it. What should be price per unit at which ABC Ltd can purchase it from UVW 
+Ltd? 
+(A) 
+2,000 
+(B) 
+1,965 
+(C) 
+1,828 
+(D) 
+1,900 
+(5 x 2 = 10 Marks) 
+6. 
+Consider the following information for Atharv Ltd.: 
+ 
+` in lakhs 
+EBIT (Earnings before Interest and Tax) 
+15,750 
+Earnings before Tax (EBT): 
+7,000 
+Fixed Operating costs: 
+1,575 
+Calculate percentage change in earnings per share, if sales increase by 5%.  
+(A) 
+20% 
+(B) 
+19.65% 
+(C) 
+18.5% 
+(D) 
+12.375% 
+(2 Marks) 
+Downloaded from castudyweb.com
+<<PAGE 4>>
+4 
+7. 
+Calculate number of operating cycles in a year from the information given below: 
+Raw material inventory consumed during the year 
+` 6,00,000 
+Average stock of raw material 
+` 41,667 
+Work-in-progress holding period 
+18 days 
+Finished Goods storage period 
+25 days 
+Average collection period from debtors 
+45 days 
+Average credit period availed 
+30 days 
+No. of days in a year 
+360 days 
+(A) 
+67 
+(B) 
+5.37 
+(C) 
+74 
+(D) 
+4.34 
+(2 Marks) 
+8. 
+A company has a financial structure where equity is 60% of its total debt plus equity. Its 
+cost of equity is 10% and gross loan interest is 9%. Corporation tax is paid at 30%. 
+What is the company’s weighted average cost of capital (WACC)? 
+(A)  
+7.55% 
+(B)  
+7.80% 
+(C)  
+8.52% 
+(D)  
+8.05% 
+(1 Mark) 
+PART II – Descriptive Questions (35 Marks) 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+1. 
+(a)  
+Divine Limited has the following capital structure, which it considers to be optimal: 
+Capital Structure 
+Weightage (in percentage) 
+Debt 
+25 
+Preference Shares 
+15 
+Equity Shares 
+60 
+ 
+100 
+ 
+Divine Limited’s expected net income this year is `34,285.72, its established 
+dividend payout ratio is 30 per cent, its tax rate is 40 per cent, and investors expect 
+Downloaded from castudyweb.com
+<<PAGE 5>>
+5 
+earnings and dividends to grow at a constant rate of 9 per cent in the future.  It 
+paid a dividend of ` 3.60 per share last year, and its shares currently sell at a 
+price of ` 54 per share. 
+ 
+Divine Limited requires additional funds which it can obtain in the following ways:   
+• 
+Preference Shares: New preference shares with a dividend of ` 11 can be 
+sold to the public at a price of `95 per share. 
+• 
+Debt: Debt can be sold at an interest rate of 12 per cent. 
+ 
+You are required to: 
+(i) 
+DETERMINE the cost of each capital structure component; and 
+(ii) 
+COMPUTE the weighted average cost of capital (WACC) of Divine Limited.  
+ (5 Marks) 
+(b)  
+Following information is given for Prashuk Ltd.: 
+Fixed assets turnover ratio (Based on cost of sales) 
+8 times 
+Capital turnover ratio (Based on cost of sales) 
+2 times 
+Inventory Turnover 
+8 times 
+Receivable turnover 
+4 times 
+Payable turnover 
+6 times 
+GP Ratio 
+25% 
+ 
+Gross profit during the year amounts to ` 8,00,000. There is no long-term loan or 
+overdraft. Reserve and surplus amount to ` 2,00,000. Ending inventory of the year 
+is ` 20,000 above the beginning inventory. Based on the above information, 
+DETERMINE the various assets and liabilities of the company. 
+(5 Marks) 
+(c)  
+Perfact Ltd. has 8 lakhs equity shares outstanding at the beginning of the year. 
+The current market price per share is ` 120. The Board of Directors of the 
+company is contemplating ` 6.4 per share as dividend.  The rate of capitalisation, 
+appropriate to the risk-class to which the company belongs, is 9.6%: 
+(i)   
+Based on M-M Approach, CALCULATE the market price of the share of the 
+company, when the dividend is – (a) declared; and (b) not declared. 
+(ii)  
+DETERMINE, how many new shares are to be issued by the company, if 
+the company desires to fund an investment budget of ` 3.20 crores by the 
+end of the year assuming net income for the year will be ` 1.60 crores? 
+(5 Marks) 
+Downloaded from castudyweb.com
+<<PAGE 6>>
+6 
+2.  
+(a) 
+A newly formed company has applied to the commercial bank for the first time for 
+financing its working capital requirements. The following information is available 
+about the projections for the current year: 
+ 
+Estimated level of activity: 1,04,000 completed units of production plus 4,000 units 
+of work-in-progress. Based on the above activity, estimated cost per unit is: 
+Raw material 
+` 80 per unit 
+Direct wages 
+` 30 per unit 
+Overheads (exclusive of depreciation) 
+` 60 per unit 
+Total cost 
+` 170 per unit 
+Selling price 
+` 200 per unit 
+ 
+Raw materials in stock: Average 4 weeks consumption, work-in-progress (assume 
+50% completion stage in respect of conversion cost) (materials issued at the start 
+of the processing). 
+Finished goods in stock 
+8,000 units 
+Credit allowed by suppliers 
+Average 4 weeks 
+Credit allowed to debtors/receivables 
+Average 8 weeks 
+Lag in payment of wages 
+Average 1 1
+2
+ weeks 
+ 
+Cash at banks (for smooth operation) is expected to be ` 25,000 
+ 
+Assume that production is carried on evenly throughout the year (52 weeks) and 
+wages and overheads accrue similarly. All sales are on credit basis only. 
+ 
+CALCULATE Net Working Capital. 
+(8 Marks) 
+(b)  
+DIFFERENTIATE between Business risk and Financial risk. 
+(2 Marks) 
+3. 
+(a) 
+Vastupal Limited is currently a levered a company having 15% convertible debt of 
+` 250 lakhs in its capital structure. The current market value of Vastupal Limited 
+stands at ` 1500 lakhs with the overall capitalization rate for the common stock 
+holders is at 20% considering financial and non-financial risks.  
+ 
+Owing to the regulatory norms applicable to Vastupal Limited, the company is 
+planning to become an all equity financed company gradually over a period of 
+time. Currently, company plans to convert 70% of debt to equity and the balance 
+after 3 years. It’s Earnings before Interest & Taxes (EBIT) are expected to remain 
+constant in future as well. The entire earnings are distributed to the common stock 
+holders and the applicable corporate tax rate is at 20%.  
+Downloaded from castudyweb.com
+<<PAGE 7>>
+7 
+ 
+You are required to calculate the impact on the following on account of the change 
+in the capital structure as per Modigliani and Miller (MM) Hypothesis:  
+(i) 
+The market value of the company and its impact 
+(ii) 
+It's cost of equity, and its impact 
+(iii) 
+It’s cost of capital and its impact 
+ 
+Also CALCULATE the market value of the totally unlevered company & the cost 
+of equity i.e. after 3 years when the balance 30% convertible debt is also fully 
+converted to equity.  
+(6 Marks) 
+(b)  
+The Capital structure of Magnus Ltd. is as follows: 
+ 
+(`) 
+Equity Share of ` 10 each 
+8,00,000 
+10% Preference Share of ` 100 each 
+5,00,000 
+12% Debentures of ` 100 each 
+7,00,000 
+ 
+20,00,000 
+ 
+Additional Information: 
+- 
+Profit after tax (Tax Rate 30%) are ` 2,80,000 
+- 
+Operating Expenses (including Depreciation ` 96,800) are 1.5 times of EBIT 
+- 
+Equity Dividend paid is 15% 
+- 
+Market price of Equity Share is ` 23 
+ 
+CALCULATE: 
+(i)  
+Operating and Financial Leverage 
+(ii)  
+Cover for preference and equity dividend 
+(4 Marks) 
+4. 
+(a)  
+DIFFERENTIATE between Financial Management and Financial Accounting. 
+(4 Marks) 
+(b)  
+EXPLAIN the methods of venture capital financing.  
+(4 Marks) 
+(c)  
+STATE the Limitations of Walter’s Model 
+(2 Marks) 
+OR 
+(c)  
+DISCUSS financial break-even and EBIT-EPS indifference analysis.  (2 Marks) 
+Downloaded from castudyweb.com
+<<PAGE 8>>
+8 
+PAPER 6B: STRATEGIC MANAGEMENT 
+1. 
+The question paper comprises two parts, Part I and Part II. 
+2. 
+Part I comprises case scenario based multiple choice questions (MCQs) 
+3. 
+Part II comprises questions which require descriptive type answers. 
+PART I – Case scenario based MCQs (15 Marks) 
+Question 1. (A) (Compulsory) 
+(A)  
+Zenith Global Enterprises (ZGE), a diversified conglomerate based in Dubai, operates 
+across five distinct industries: renewable energy, luxury real estate, fashion retail, 
+healthcare and digital services. With a revenue of $12 billion in 2024, ZGE is recognized 
+for its ability to adapt and thrive in competitive global markets. However, the 
+conglomerate ’s leadership is now focusing on streamlining operations and leveraging 
+digital channels to sustain growth. 
+ 
+To address operational complexity, ZGE ’s management highlights the advantages of its 
+Strategic Business Unit (SBU) structure. Each business unit operates autonomously with 
+dedicated leadership teams, enabling tailored strategies for market-specific needs. For 
+example, the renewable energy SBU recently secured a $500 million contract with a 
+European government for solar power solutions, while the fashion retail SBU launched a 
+luxury e-commerce platform that grew sales by 45% year-on-year. 
+ 
+ZGE ’s overarching strategy emphasizes the best-cost provider approach. By balancing 
+premium quality with competitive pricing, the healthcare SBU, for instance, has 
+introduced telemedicine services that cost 30% less than competitors without 
+compromising service quality. This approach resonates strongly with middle-income 
+consumers across Asia and Africa. 
+ 
+Digital marketing has become a cornerstone of ZGE ’s customer engagement strategy. 
+In 2024, the company allocated $200 million to develop AI-driven marketing campaigns, 
+leveraging predictive analytics to personalize ads. This resulted in a 20% higher 
+customer acquisition rate across all SBUs. The luxury real estate division also adopted 
+virtual reality (VR) tours, allowing global customers to explore properties remotely, driving 
+a 35% increase in international sales. 
+ 
+A key challenge for ZGE lies in balancing the needs of customers (the direct purchasers) 
+and consumers (the end users). In the digital services SBU, this tension is evident in 
+pricing decisions for their cloud computing solutions. While enterprise customers demand 
+cost-efficient packages, end users prioritize seamless, high-speed performance. ZGE ’s 
+leadership employs customer insights and feedback loops to align pricing with both 
+groups ’expectations. 
+Downloaded from castudyweb.com
+<<PAGE 9>>
+9 
+ 
+Finally, ZGE ’s channel of distribution heavily relies on e-commerce platforms. The 
+fashion retail SBU ’s recent collaboration with a major e-commerce marketplace 
+increased distribution efficiency by 40%. Meanwhile, the healthcare SBU ’s direct-to-
+consumer online pharmacy has achieved $100 million in annual revenue by offering 
+home delivery of essential medicines. 
+ 
+With these strategies, ZGE aims to achieve 10% annual growth while maintaining its 
+commitment to innovation and quality. However, as the conglomerate scales, it must 
+address potential challenges such as inter-SBU competition and digital transformation 
+risks. 
+ 
+Based on the above Case Scenario, answer the Multiple-Choice Questions. 
+(i)  
+The decision of the renewable energy SBU to secure a $500 million European 
+solar contract is an example of: 
+(a)  
+Reactive response to market uncertainty 
+(b)  
+Proactive expansion into international government partnerships 
+(c)  
+Reactive change based on customer feedback 
+(d)  
+Delayed adaptation to global competition 
+(2 Marks) 
+(ii)  
+How does ZGE ’s best-cost provider strategy benefit its healthcare SBU? 
+(a)  
+By offering the lowest-priced services in the market 
+(b)  
+By maintaining high service quality at competitive prices 
+(c)  
+By targeting only premium customers in developed markets 
+(d)  
+By focusing solely on cost-cutting measures 
+(2 Marks) 
+(iii)  
+What role does digital marketing play in ZGE ’s growth strategy? 
+(a)  
+It reduces the need for traditional marketing channels. 
+(b)  
+It drives personalized customer engagement and higher acquisition rates. 
+(c)  
+It replaces in-person customer interactions entirely. 
+(d)  
+It focuses solely on promoting the renewable energy SBU.  
+(2 Marks) 
+(iv)  
+How has the reliance on e-commerce benefited ZGE ’s distribution strategy? 
+(a)  
+By completely eliminating traditional retail outlets 
+(b)  
+By improving efficiency and expanding market reach 
+(c)  
+By reducing the importance of product quality 
+Downloaded from castudyweb.com
+<<PAGE 10>>
+10 
+(d)  
+By focusing only on domestic markets 
+(2 Marks) 
+(v)  
+What potential challenge could arise from ZGE ’s SBU structure? 
+(a)  
+Difficulty in digital transformation across the conglomerate 
+(b)  
+Increased competition between SBUs 
+(c)  
+Limited autonomy for each business unit 
+(d)  
+Reduced innovation within individual SBUs 
+(2 Marks) 
+(B)  
+Compulsory Application Based Independent MCQs 
+(i)  
+A manufacturing company's success is rooted in its proven ability to consistently 
+adhere to ISO quality standards, deliver products with zero defects, and effectively 
+manage its global supply chain. This inherent capability is a result of years of 
+rigorous, standardized production schedules, quality audits, and logistical 
+processes. Which "S" in the McKinsey 7S Framework best reflects these 
+established, recurring daily activities and formal procedures?  
+(a)  
+Staff  
+(b)  
+Style  
+(c)  
+Systems  
+(d)  
+Skills  
+(2 Marks) 
+(ii) 
+In the Indian smartphone market, Chinese brands completely captured the budget 
+segment. Which of Porter's Five Forces is intensified by the presence of numerous 
+players offering functionally similar, low-priced products? 
+(a)  
+Rivalry Among Existing Competitors  
+(b)  
+Bargaining Power of Suppliers  
+(c)  
+Threat of New Entrants  
+(d)  
+Bargaining Power of Buyers 
+(2 Marks) 
+(iii)  
+Which characteristic highlights the inspirational aspect of a Mission Statement? 
+(a)  
+It is short, concise, and focused on current market share.  
+(b)  
+It provides a sense of direction.  
+(c)  
+It strictly follows efficiency over effectiveness approach.  
+(d)  
+It focuses on annual profit targets which are motivation for employees  
+ 
+(1 Mark) 
+Downloaded from castudyweb.com
+<<PAGE 11>>
+11 
+PART II – Descriptive Questions (35 Marks) 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+1.
+(a)  
+The Board of Directors of Gromax Industries Ltd., a diversified conglomerate with
+six business units—Agritech, Pharmaceuticals, Construction Materials, Consumer 
+Electronics, Renewable Energy and Logistics—recently held a strategic review 
+meeting. The board discussed allocating the highest capital budget for the next 
+five years to the most promising business unit to enhance long-term shareholder 
+value. They also considered divesting the loss-making Logistics division and 
+reviewed a unified dividend policy for the entire group. These decisions will 
+significantly shape the firm’s long-term direction and resource distribution. Which 
+level of strategy is being addressed? Explain with reasons. 
+(5 Marks) 
+(b)
+ABC Corp, a multinational consumer electronics company, is planning to expand
+its operations into a new country. The company's senior management is
+evaluating the potential risks and opportunities of entering this new market. As
+part of their analysis, they decide to use the PESTLE framework to assess the
+external factors that could impact their decision. How can the PESTLE framework
+help ABC Corp assess the external factors affecting its decision to expand into a
+new country?  
+(5 Marks)
+(c)
+Organic Beverages has been manufacturing various soft drinks for over a decade.
+It has developed a sugar free beverage to cater to the needs of specific customers
+by spending heavily on research and development for this product. In addition, a
+lot of money was spent on marketing (branded as 'Say no to Sugar') and on
+obtaining licence for it. In a span of five months, company has gained a major
+share of the market for this new product, and it is growing rapidly. Profitability of
+this product is also better. In order to take advantage of best opportunity for
+expansion, it has to make heavy investment to maintain its position in current and
+new market.
+Classify 'Say no to Sugar' product in the most related category in the
+two-dimensional growth share matrix as per Boston Consulting Group. Explain the
+strategies which can be pursued post identification and classification of products
+in such matrix. Also state the limitations of this technique as one of the strategic
+options. 
+(5 Marks)
+Downloaded from castudyweb.com
+<<PAGE 12>>
+12 
+2.  
+(a)  
+Connect Group was one of the leading makers of mobile handsets till a few years 
+ago and which went at the bottom of the heap. Connect Group didn't adapt to the 
+current market trends, which eventually led to its downfall. What would have 
+helped Connect Group to change, adapt and survive? Explain the steps to initiate 
+the change. 
+(5 Marks) 
+(b)  
+Define strategic management. Also discuss the limitations of strategic 
+management.  
+(5 Marks) 
+3. 
+(a)  
+"A manager as a strategic leader has to play many leadership roles", while 
+explaining the statement in brief, delineate the leadership roles which a manager 
+has to play in pushing for a good strategy execution. 
+ (5 Marks) 
+(b)  
+Distinguish between Concentric Diversification and Conglomerate Diversification. 
+(5 Marks) 
+4.  
+(a)  
+What do you mean by value chain analysis? Delineate the support activities in 
+value chain analysis, as stated by Michael Porter. 
+ (5 Marks) 
+(b)  
+"Managing stakeholders is critical to the success of a project". Explain how 
+Mendelow's Matrix helps in managing stakeholders and categorizing the 
+stakeholders into groups. 
+OR 
+ 
+Major core competencies are identified in three areas - competitor differentiation, 
+customer value and application to other markets. Discuss. 
+(5 Marks) 
+Downloaded from castudyweb.com

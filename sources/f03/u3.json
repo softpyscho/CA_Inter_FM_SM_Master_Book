@@ -1,0 +1,1389 @@
+{
+ "concepts": [
+  {
+   "code": "F03.15",
+   "title": "3.4.3 Profitability Ratios from the Owner's Point of View",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "RTP 1 (Jan 2025) · MTP 1 (Jan 2026 Series I)",
+   "understand": [
+    "**(a) Earnings per Share (EPS).** The profitability of a firm **from the point of view of ordinary shareholders** can be measured on an earnings per share basis. ==**EPS = Net profit available to equity shareholders ÷ Number of equity shares outstanding.**== The study material's note: **in the absence of preference dividend, profit after tax can be taken as earnings available to equity shareholders.**",
+    "**(b) Dividend per Share (DPS).** Earnings per share reflects the profitability of a firm per share, but **it does not reflect how much profit is paid as dividend and how much is retained by the business**. Dividend per share indicates **the amount of profit distributed to equity shareholders per share**. ==**DPS = Total Dividend paid to equity shareholders ÷ Number of equity shares outstanding.**==",
+    "**(c) Dividend Pay-out Ratio (DP).** This ratio **measures the dividend paid in relation to net earnings** and is determined **to see to what extent earnings per share have been retained by the management for the business**. ==**Dividend Pay-out Ratio = Dividend per equity share (DPS) ÷ Earnings per Share (EPS).**==",
+    "These three are the bridge into the dividend chapter: **whatever is not paid out is the retention ratio**, and the retention ratio multiplied by the return on investment gives the growth rate used in Gordon's model."
+   ],
+   "example": "Profit after tax ₹50,00,000, preference dividend ₹20,00,000 and 5,00,000 equity shares give an EPS of ₹6. If the dividend paid is ₹2.40 per share, the payout ratio is 40% and the retention ratio 60%.",
+   "provisions": [
+    {
+     "ref": "Earnings available to equity (SM §3.4.3 note 2)",
+     "status": "VERIFIED",
+     "requirement": "In the absence of preference dividend, profit after tax can be taken as earnings available to equity shareholders; where preference shares exist, preference dividend must be deducted first.",
+     "exam_angle": "The single most common slip in EPS questions is forgetting the preference dividend."
+    }
+   ],
+   "keywords": [
+    "earnings per share",
+    "net profit available to equity shareholders",
+    "number of equity shares outstanding",
+    "dividend per share",
+    "dividend pay-out ratio",
+    "retained by the management"
+   ],
+   "memory": {
+    "trick": "**EPS is earned, DPS is paid, payout is the fraction handed over.** Whatever is left is retention — and retention is what funds growth.",
+    "key": [
+     [
+      "EPS",
+      "Net profit available to equity ÷ Number of equity shares"
+     ],
+     [
+      "DPS",
+      "Total equity dividend ÷ Number of equity shares"
+     ],
+     [
+      "Payout ratio",
+      "DPS ÷ EPS"
+     ],
+     [
+      "Retention ratio",
+      "1 − payout ratio"
+     ]
+    ],
+    "recall_trigger": "Earned, paid, retained"
+   },
+   "mistakes": [
+    "Dividing profit after tax by the number of equity shares without deducting preference dividend.",
+    "Computing the payout ratio on total dividend including preference dividend; it is equity dividend over equity earnings."
+   ],
+   "links": [
+    "🔗 FM Ch 8: dividend payout in Walter's and Gordon's models",
+    "🔗 FM Ch 3 §3.4.4: EPS feeds the P/E ratio and earnings yield"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "EPS as one item in a five-ratio list (RTP Jan 2025 Q4)",
+     "EPS and payout ratio as the bridge into a Walter or Gordon computation"
+    ],
+    "approach": [
+     "Deduct preference dividend first, then divide by the number of equity shares"
+    ],
+    "official_pattern": "RTP-J25-FQ4; MTP-J26-S1-FQ1b.",
+    "time_tip": "A 1-mark sub-part ≈ 2 minutes (study guidance)."
+   },
+   "mcqs": [
+    {
+     "id": "MCQ-F03.15-01",
+     "angle": "Formula",
+     "difficulty": "Easy",
+     "question": "For a company with preference share capital, earnings per share is computed as:",
+     "options": {
+      "A": "(Profit after tax − Preference dividend) ÷ Number of equity shares outstanding",
+      "B": "Profit after tax ÷ Total number of shares including preference shares",
+      "C": "Profit before tax ÷ Number of equity shares outstanding",
+      "D": "Dividend per share ÷ Payout ratio"
+     },
+     "answer": "A",
+     "explanation": "SM §3.4.3: EPS = net profit available to equity shareholders ÷ number of equity shares outstanding; the note adds that PAT can be taken as that figure only in the absence of preference dividend.",
+     "why_wrong": {
+      "B": "Preference shares do not share equity earnings.",
+      "C": "Earnings are taken after tax.",
+      "D": "That is an arithmetic re-arrangement, not the definition."
+     },
+     "trap": "Option D is numerically true but is not how the study material defines EPS.",
+     "concept": "F03.15"
+    },
+    {
+     "id": "MCQ-F03.15-02",
+     "angle": "Purpose",
+     "difficulty": "Easy",
+     "question": "The dividend payout ratio is determined in order to see:",
+     "options": {
+      "A": "How many times interest is covered by earnings",
+      "B": "To what extent earnings per share have been retained by the management for the business",
+      "C": "The market's expectation of future growth",
+      "D": "How fast inventory is sold"
+     },
+     "answer": "B",
+     "explanation": "SM §3.4.3: the payout ratio measures dividend paid in relation to net earnings and is determined to see to what extent EPS has been retained by management for the business.",
+     "why_wrong": {
+      "A": "That is interest coverage.",
+      "C": "That is the P/E ratio.",
+      "D": "That is inventory turnover."
+     },
+     "trap": "The ratio is read for what it leaves behind as much as for what it pays out.",
+     "concept": "F03.15"
+    }
+   ],
+   "recap": [
+    "EPS = equity earnings ÷ equity shares; deduct preference dividend first.",
+    "DPS = equity dividend ÷ equity shares.",
+    "Payout = DPS ÷ EPS; retention is the rest, and retention funds growth."
+   ]
+  },
+  {
+   "code": "F03.16",
+   "title": "3.4.4 Profitability Ratios Related to Market, Valuation and Investors",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (May 2026 Q1(c)) · RTP 1 (Jan 2025)",
+   "understand": [
+    "==These ratios **consider the market value of the company's shares in the calculation**; **share price data are punched with the accounting data to generate a new set of information**.== They are the price-earnings ratio, dividend yield and earnings yield, market value to book value per share, and the Q ratio.",
+    "**(a) Price-Earnings (P/E) Ratio** ==**= Market Price per Share (MPS) ÷ Earnings per Share (EPS)**==. It **indicates the expectation of equity investors about the earnings of the firm**, relating earnings to market price, and is **generally taken as a summary measure of growth potential of an investment, risk characteristics, shareholders' orientation, corporate image and degree of liquidity**. It **indicates the payback period to investors or prospective investors**; a **higher P/E could either mean that the stock is over-valued or that investors expect high growth rates in future**.",
+    "**(b) Dividend and earnings yield.** ==**Dividend Yield = [(Dividend ± Change in share price) ÷ Initial share price] × 100**, or **(DPS ÷ MPS) × 100**. **Earnings Yield, also known as the Earnings Price (EP) Ratio, = (EPS ÷ MPS) × 100.**== These indicate the **return on investment**, which may be on average investment or closing investment. The distinction the study material draws: ==**dividend percentage indicates return on the paid-up value of shares, but yield percentage is the indicator of true return, in which share capital is taken at its market value**.==",
+    "**(c) Market Value / Book Value per Share (MV/BV)** provides an **evaluation of how investors view the company's past and future performance**. ==**MV/BV = Average share price ÷ (Net worth ÷ Number of equity shares)**, or **Closing share price ÷ (Net worth ÷ Number of equity shares)**.== It indicates the **market response to the shareholders' investment**; **the higher the ratio, the better the shareholders' position in terms of return and capital gains**.",
+    "**(d) Q Ratio**, proposed by **James Tobin**: ==**Q Ratio = Market Value of equity and liabilities ÷ Estimated replacement cost of assets**, or **Market Value of a Company ÷ Assets' Replacement Cost**.== It **represents the relationship between market valuation and intrinsic value**. ==**Equilibrium is when the Q Ratio = 1**; **less than 1 could mean the stock is undervalued** and **more than 1 could mean the stock is overvalued**.==",
+    "**The study material's notes for calculating these ratios.** **EBIT = PBIT, EAT = PAT, EBT = PBT.** **In the absence of preference dividend, PAT can be taken as earnings available to equity shareholders.** **If information is available, average capital employed shall be taken for ROCE.** **Ratios shall be calculated based on requirement and availability of information and may deviate from the original formulae; if required, assumptions should be given.** **The numerator should be taken in correspondence with the denominator and vice versa.**"
+   ],
+   "example": "EPS ₹6 and market price ₹90 give a P/E of 15 and an earnings yield of 6.67%. If DPS is ₹2.40, the dividend yield is 2.67% — while the dividend rate on a ₹10 paid-up share would be quoted as 24%.",
+   "provisions": [
+    {
+     "ref": "Dividend percentage versus dividend yield (SM §3.4.4)",
+     "status": "VERIFIED",
+     "requirement": "Dividend percentage is return on the paid-up value of the share; yield percentage is the true return, taking share capital at market value.",
+     "exam_angle": "The May 2026 question on Exe Ltd. turned on exactly this distinction."
+    },
+    {
+     "ref": "Q ratio (SM §3.4.4)",
+     "status": "VERIFIED",
+     "requirement": "Market value of equity and liabilities over the estimated replacement cost of assets; equilibrium at 1, below 1 undervalued, above 1 overvalued.",
+     "exam_angle": "A clean MCQ: which value does the Q ratio compare market value against?"
+    }
+   ],
+   "keywords": [
+    "price-earnings ratio",
+    "expectation of equity investors",
+    "summary measure of growth potential",
+    "payback period to the investors",
+    "over-valued",
+    "dividend yield",
+    "earnings yield",
+    "earnings price ratio",
+    "paid up value",
+    "market value",
+    "market value/book value",
+    "Q ratio",
+    "James Tobin",
+    "replacement cost",
+    "undervalued",
+    "overvalued"
+   ],
+   "memory": {
+    "trick": "**Yield flips the P/E.** P/E is price over earnings; earnings yield is earnings over price. And **Q compares what the market pays with what the assets would cost to replace** — 1 is equilibrium.",
+    "key": [
+     [
+      "P/E",
+      "MPS ÷ EPS · payback period to the investor"
+     ],
+     [
+      "Dividend yield",
+      "DPS ÷ MPS (or dividend ± price change over initial price)"
+     ],
+     [
+      "Earnings yield",
+      "EPS ÷ MPS · the EP ratio"
+     ],
+     [
+      "MV/BV",
+      "Share price ÷ (Net worth ÷ number of shares)"
+     ],
+     [
+      "Q ratio",
+      "Market value ÷ Replacement cost · 1 = equilibrium"
+     ]
+    ],
+    "recall_trigger": "Yield flips the P/E; Q equals one"
+   },
+   "mistakes": [
+    "Computing dividend yield on face value; the yield takes share capital at market value.",
+    "Reading a high P/E as always good; the study material says it may mean the stock is over-valued.",
+    "Using book value of assets in the Q ratio instead of the estimated replacement cost."
+   ],
+   "compare": {
+    "title": "Dividend percentage versus dividend yield (SM §3.4.4)",
+    "headers": [
+     "Basis",
+     "Dividend percentage",
+     "Dividend yield"
+    ],
+    "rows": [
+     [
+      "Base",
+      "Paid-up value of the share",
+      "Market price of the share"
+     ],
+     [
+      "What it shows",
+      "Return on the paid-up value",
+      "The indicator of true return"
+     ],
+     [
+      "Example",
+      "₹2.40 on a ₹10 paid-up share = 24%",
+      "₹2.40 on a ₹90 market price = 2.67%"
+     ]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 8: P/E and market price in Walter's and Gordon's models",
+    "🔗 FM Ch 5: EBIT-EPS-MPS analysis"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Compute dividend coverage, dividend yield and related market ratios (May 2026 Q1(c))",
+     "P/E as the last item of a five-ratio list (RTP Jan 2025 Q4)",
+     "MCQ on the Q ratio"
+    ],
+    "approach": [
+     "Work EPS first; every market ratio then hangs off EPS and the market price"
+    ],
+    "official_pattern": "PYQ-M26-Q1c; RTP-J25-FQ4.",
+    "time_tip": "5 marks ≈ 9 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "Derive EPS and DPS",
+     "State each market ratio's formula",
+     "Substitute market price",
+     "Comment on what the market is paying for"
+    ],
+    "keywords": [
+     "market price per share",
+     "earnings yield",
+     "true return"
+    ],
+    "length": "5 marks: EPS working plus the ratios asked",
+    "conclusion": "Say whether the market is paying above or below what the accounts alone would suggest.",
+    "avoid": [
+     "Quoting an 'ideal' P/E; the study material gives none"
+    ]
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-F03.16-1",
+     "form": "Compute (5 marks)",
+     "marks": 5,
+     "question": "A company has 5,00,000 equity shares of ₹10 each, profit after tax of ₹50,00,000, preference dividend of ₹20,00,000 and an equity dividend of ₹2.40 per share. The market price per share is ₹90 and net worth is ₹4,50,00,000. Compute EPS, DPS, the dividend payout ratio, the P/E ratio, the dividend yield, the earnings yield and the market value to book value ratio.",
+     "answer_points": [
+      "**EPS** = (Profit after tax − Preference dividend) ÷ Number of equity shares = (₹50,00,000 − ₹20,00,000) ÷ 5,00,000 = **₹6.00**.",
+      "**DPS** = Total equity dividend ÷ Number of equity shares = **₹2.40** (given).",
+      "**Dividend payout ratio** = DPS ÷ EPS = ₹2.40 ÷ ₹6.00 = **0.40, or 40%**; the retention ratio is therefore 60%.",
+      "**P/E ratio** = MPS ÷ EPS = ₹90 ÷ ₹6 = **15 times**, which the study material reads as the payback period to the investor.",
+      "**Dividend yield** = (DPS ÷ MPS) × 100 = (₹2.40 ÷ ₹90) × 100 = **2.67%**. On the paid-up value of ₹10 the dividend percentage would be 24% — the study material's point that yield is the indicator of true return.",
+      "**Earnings yield (EP ratio)** = (EPS ÷ MPS) × 100 = (₹6 ÷ ₹90) × 100 = **6.67%**, the reciprocal of the P/E ratio.",
+      "**Market value to book value** = Share price ÷ (Net worth ÷ Number of equity shares) = ₹90 ÷ (₹4,50,00,000 ÷ 5,00,000) = ₹90 ÷ ₹90 = **1.0 times**."
+     ],
+     "keywords": [
+      "EPS",
+      "payout ratio",
+      "P/E ratio",
+      "dividend yield",
+      "earnings yield"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F03.16-01",
+     "angle": "Interpretation",
+     "difficulty": "Moderate",
+     "question": "Tobin's Q ratio compares the market value of equity and liabilities with:",
+     "options": {
+      "A": "The estimated replacement cost of assets",
+      "B": "The book value of net worth",
+      "C": "The paid-up value of share capital",
+      "D": "Earnings before interest and taxes"
+     },
+     "answer": "A",
+     "explanation": "SM §3.4.4: Q Ratio = market value of equity and liabilities ÷ estimated replacement cost of assets; equilibrium is at 1, below 1 may mean undervalued and above 1 overvalued.",
+     "why_wrong": {
+      "B": "That is the market value to book value ratio.",
+      "C": "That is the base for the dividend percentage.",
+      "D": "EBIT is an earnings figure, not a value base."
+     },
+     "trap": "Replacement cost, not book value, is what makes the Q ratio a valuation measure.",
+     "concept": "F03.16"
+    },
+    {
+     "id": "MCQ-F03.16-02",
+     "angle": "Distinction",
+     "difficulty": "Moderate",
+     "question": "As per the study material, the yield percentage is described as the indicator of true return because:",
+     "options": {
+      "A": "It is always higher than the dividend percentage",
+      "B": "It ignores the dividend actually paid",
+      "C": "Share capital is taken at its market value rather than its paid-up value",
+      "D": "It is computed before tax"
+     },
+     "answer": "C",
+     "explanation": "SM §3.4.4: dividend percentage indicates return on the paid-up value of shares, but yield percentage is the indicator of true return, in which share capital is taken at its market value.",
+     "why_wrong": {
+      "A": "It is usually lower when the market price exceeds face value.",
+      "B": "Dividend yield is built on the dividend.",
+      "D": "Tax does not enter the definition."
+     },
+     "trap": "The word 'true' is doing work here: it means measured against what the investor actually paid.",
+     "concept": "F03.16"
+    }
+   ],
+   "recap": [
+    "Market ratios punch share prices into the accounting data.",
+    "P/E = MPS ÷ EPS and is read as the payback period; a high P/E may mean over-valuation or expected growth.",
+    "Dividend yield uses market price; dividend percentage uses paid-up value.",
+    "Q ratio = market value ÷ replacement cost; 1 is equilibrium."
+   ],
+   "official_questions": [
+    {
+     "id": "PYQ-M26-Q1c",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Exe Ltd. for the year ended 31st March 2026: total dividend coverage ratio 2.863 times; dividend yield on the equity shares 4%; market price per equity share ₹40.00; equity share capital of ₹10 each ₹12,00,000; preference share capital of ₹10 each ₹3,00,000; price-earnings ratio 8 times. Calculate (i) total dividend paid to equity shareholders, (ii) earnings per share, (iii) rate of preference dividend, (iv) total profit after tax.",
+     "answer_points": [
+      "**(i) Total dividend paid to equity shareholders.** SM §3.4.4: Dividend yield = (DPS ÷ MPS) × 100, so **DPS = 4% of ₹40 = ₹1.60**. Number of equity shares = ₹12,00,000 ÷ ₹10 = 1,20,000. **Total equity dividend = 1,20,000 × ₹1.60 = ₹1,92,000.**",
+      "**(ii) Earnings per share.** SM §3.4.4: P/E ratio = MPS ÷ EPS, so **EPS = ₹40 ÷ 8 = ₹5.00**.",
+      "**(iii) Rate of preference dividend.** Earnings available to equity shareholders = EPS × number of equity shares = ₹5 × 1,20,000 = ₹6,00,000. The **total** dividend coverage ratio of 2.863 times is profit after tax ÷ total dividend (preference plus equity). Working backwards, total dividend = Profit after tax ÷ 2.863; combined with the profit after tax found in (iv), preference dividend = total dividend − ₹1,92,000, and the **rate of preference dividend = preference dividend ÷ ₹3,00,000 × 100**.",
+      "**(iv) Total profit after tax.** Profit after tax = earnings available to equity shareholders + preference dividend = ₹6,00,000 + preference dividend. Substituting into the coverage ratio, ₹6,00,000 + PD = 2.863 × (₹1,92,000 + PD), which solves for the preference dividend and hence for **profit after tax**.",
+      "The examinable moves are: yield gives DPS from market price; P/E gives EPS from market price; and 'total' dividend coverage means preference plus equity dividend, which is what makes parts (iii) and (iv) a simultaneous pair."
+     ],
+     "conclusion": "Marks split 1 + 1 + 2 + 1; the two-mark part is the simultaneous step.",
+     "keywords": [
+      "dividend yield",
+      "price-earnings ratio",
+      "total dividend coverage",
+      "preference dividend"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    }
+   ]
+  },
+  {
+   "code": "F03.17 + F03.18 + F03.19",
+   "title": "4–5.1 Users of Financial Analysis, and the Application of Ratio Analysis in Decision Making",
+   "activity": "Medium",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "RTP 1 (Jan 2026) · MTP 3 (Mar 2024 Series II, Sep 2024 Series II, Sep 2025 Series II)",
+   "understand": [
+    "**Users and their objectives (§4).** **Shareholders**, being owners, are interested in **profitability and growth** and use mainly **profitability ratios — in particular EPS, DPS, P/E and the dividend payout ratio**. **Investors** want to know the **overall financial health, particularly the future perspective**, and use **profitability, capital structure, solvency and turnover ratios**. **Lenders** keep an eye on the **safety of their money lent** and use **coverage, solvency, turnover and profitability ratios**. **Creditors** want to know the **liability position, particularly in the short term — whether the organisation will be able to pay on the due date** — and use **liquidity and short-term solvency ratios**. **Employees** want to know the **overall financial wealth and to compare it with a competitor** and use **liquidity, long-term solvency and profitability ratios and return on investment**. **Regulators and government** analyse the statements **to determine taxation and other details payable to the government** and use **profitability ratios**.",
+    "**Managers (§4, item 7).** **Production managers** want data on **input, output and production quantities** and use the **input-output ratio and the raw material consumption ratio**. **Sales managers** want data on **units sold over the years and predicted future sales** and use **turnover ratios (basically the receivables turnover ratio) and expenses ratios**. **Financial managers** want ratios **for their future predictions of financial requirement** and use **profitability ratios (particularly return on investment), turnover ratios and capital structure ratios**. The **chief executive or general manager** assesses the **complete perspective of the company, from sales, finance, inventory, human resources to production**, and uses **all ratios**.",
+    "**Different industries (§4, item 8)** use their own ratios: **telecom** — ratios related to 'call', and revenue and expenses per customer; **banks** — loan to deposit ratios, operating expenses and income ratios; **hotels** — room occupancy ratio and bed occupancy ratio; **transport** — passenger-kilometre and operating cost per passenger kilometre.",
+    "**Application in financial decision making (§5).** Ratio analysis is a popular technique for analysing performance and, as a tool of financial management, is **of crucial significance**. ==Its importance lies in the fact that it **presents facts on a comparative basis and enables the drawing of inferences regarding the performance of a firm**.==",
+    "**(a) Liquidity position (§5.1).** The liquidity position would be satisfactory if the firm **is able to meet its obligations when they become due**; this ability is reflected in the liquidity ratios, which are **particularly useful in credit analysis by banks and other suppliers of short-term loans**. **(b) Long-term solvency**, of concern to **long-term creditors, security analysts and present and potential owners**, is measured by the **leverage or capital structure ratios and the profitability ratios, which focus on earning power and operating efficiency**; leverage ratios indicate whether the firm has **a reasonable proportion of various sources of finance or is heavily loaded with debt, in which case its solvency is exposed to serious strain**.",
+    "**(c) Operating efficiency.** Ratio analysis **throws light on the degree of efficiency in the management and utilisation of assets**, measured by the activity ratios; **the solvency of a firm is ultimately dependent upon the sales revenues generated by the use of its assets**. **(d) Overall profitability.** Unlike outside parties interested in one aspect, **management is constantly concerned about overall profitability** — the ability to meet short- and long-term obligations to creditors, to ensure a reasonable return to owners and to secure optimum utilisation of assets. ==This is possible **only if an integrated view is taken and all the ratios are considered together**.==",
+    "**(e) Inter-firm comparison.** Ratio analysis **serves as a stepping stone to remedial measures** through comparison with industry averages. ==**A single figure of a particular ratio is meaningless unless it is related to some standard or norm.**== One popular technique is to compare with the **industry average**; performance should be **in broad conformity with the industry to which the firm belongs**, and an inter-firm comparison demonstrates the **relative position vis-à-vis competitors**. ==**Ratios not only perform a post mortem of operations, but also serve as a barometer for the future; they have predictor value and are very helpful in forecasting and planning business activities.**==",
+    "**(f) Financial ratios for budgeting.** A **budget is only an estimate of future activity based on past experience**, and the relationship between different spheres of activity is invaluable in making it. It is **usually possible to estimate budgeted figures using financial ratios**, and ratios can also be used for **measuring actual performance against budgeted estimates**, indicating **directions in which adjustments should be made either in the budget or in performance to bring them closer to each other**."
+   ],
+   "example": "A banker appraising a cash credit limit looks first at the current and quick ratios; a debenture trustee looks at DSCR and interest coverage; a shareholder looks at EPS and the P/E. Same statements, three different ratio sets.",
+   "provisions": [
+    {
+     "ref": "Integrated view (SM §5.1(d))",
+     "status": "VERIFIED",
+     "requirement": "Overall profitability can be judged only if an integrated view is taken and all ratios are considered together.",
+     "exam_angle": "The concluding line of a 'comment on the performance' answer."
+    },
+    {
+     "ref": "Standard or norm (SM §5.1(e))",
+     "status": "VERIFIED",
+     "requirement": "A single figure of a particular ratio is meaningless unless related to some standard or norm.",
+     "exam_angle": "The opening line that justifies comparing with the industry average."
+    }
+   ],
+   "keywords": [
+    "shareholders",
+    "investors",
+    "lenders",
+    "creditors",
+    "employees",
+    "regulator",
+    "input output ratio",
+    "loan to deposit ratios",
+    "room occupancy ratio",
+    "passenger-kilometre",
+    "presents facts on a comparative basis",
+    "liquidity position",
+    "long-term solvency",
+    "operating efficiency",
+    "overall profitability",
+    "integrated view",
+    "inter-firm comparison",
+    "industry average",
+    "barometer for future",
+    "predictor value",
+    "financial ratios for budgeting"
+   ],
+   "memory": {
+    "trick": "Match the user to the risk they carry: **creditors fear next month (liquidity) · lenders fear the loan term (coverage) · shareholders fear forever (profitability and growth)**.",
+    "key": [
+     [
+      "Shareholders",
+      "EPS, DPS, P/E, dividend payout"
+     ],
+     [
+      "Investors",
+      "Profitability, capital structure, solvency, turnover"
+     ],
+     [
+      "Lenders",
+      "Coverage, solvency, turnover, profitability"
+     ],
+     [
+      "Creditors",
+      "Liquidity and short-term solvency"
+     ],
+     [
+      "Six applications",
+      "Liquidity · long-term solvency · operating efficiency · overall profitability · inter-firm comparison · budgeting"
+     ]
+    ],
+    "recall_trigger": "Next month, loan term, forever"
+   },
+   "mistakes": [
+    "Giving lenders the liquidity ratios and creditors the coverage ratios; the study material assigns them the other way round.",
+    "Judging performance on one ratio; the study material insists on an integrated view."
+   ],
+   "links": [
+    "🔗 FM Ch 1 §6: the scope of financial management and who its stakeholders are",
+    "🔗 FM Ch 3 §6: the limitations that qualify every one of these uses"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Compute a set of ratios for two years and comment on performance (MTP Sep 2024 Series II, Sep 2025 Series II)",
+     "Explain the uses of ratio analysis in financial decision making (4 marks)"
+    ],
+    "approach": [
+     "Answer the 'comment' part under the study material's own heads: liquidity, long-term solvency, operating efficiency, overall profitability"
+    ],
+    "official_pattern": "RTP-J26-FQ5; MTP-M24-S2-FQ3a; MTP-S24-S2-FQ3b; MTP-S25-S2-FQ1b.",
+    "time_tip": "4 marks ≈ 7 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "Name the user or the aspect",
+     "Say which ratios serve it",
+     "Say what conclusion they support"
+    ],
+    "keywords": [
+     "comparative basis",
+     "integrated view",
+     "industry average",
+     "barometer for future"
+    ],
+    "length": "4 marks: six lettered heads or six users, one line each",
+    "conclusion": "Close with the integrated view: no single ratio settles anything.",
+    "avoid": [
+     "Listing ratios without saying whose question they answer"
+    ]
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-F03.19-1",
+     "form": "Explain (4 marks)",
+     "marks": 4,
+     "question": "Explain the aspects in respect of which ratio analysis is relevant in assessing the performance of a firm.",
+     "answer_points": [
+      "**Liquidity position:** the liquidity position is satisfactory if the firm can meet its obligations when they become due; the liquidity ratios are particularly useful in credit analysis by banks and other suppliers of short-term loans.",
+      "**Long-term solvency:** of concern to long-term creditors, security analysts and present and potential owners; it is measured by the leverage or capital structure ratios and the profitability ratios, which focus on earning power and operating efficiency. Leverage ratios indicate whether a firm has a reasonable proportion of various sources of finance or is heavily loaded with debt, in which case its solvency is exposed to serious strain.",
+      "**Operating efficiency:** ratio analysis throws light on the degree of efficiency in the management and utilisation of assets; the activity ratios measure it, and the solvency of a firm is ultimately dependent upon the sales revenues generated by the use of its assets.",
+      "**Overall profitability:** management is concerned about the ability to meet short-term and long-term obligations, to ensure a reasonable return to owners and to secure optimum utilisation of assets — possible only if an integrated view is taken and all the ratios are considered together.",
+      "**Inter-firm comparison:** a single figure of a particular ratio is meaningless unless related to some standard or norm; comparison with the industry average demonstrates the relative position vis-à-vis competitors and points to remedial measures. Ratios not only perform a post mortem of operations but also serve as a barometer for the future.",
+      "**Financial ratios for budgeting:** budgeted figures can usually be estimated using financial ratios, and ratios can measure actual performance against budgeted estimates, indicating where adjustments are needed."
+     ],
+     "keywords": [
+      "liquidity position",
+      "long-term solvency",
+      "operating efficiency",
+      "integrated view",
+      "barometer for future"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F03.17-01",
+     "angle": "User",
+     "difficulty": "Moderate",
+     "question": "As per the study material, creditors of an organisation are primarily interested in:",
+     "options": {
+      "A": "Liquidity and short-term solvency ratios",
+      "B": "Coverage ratios only",
+      "C": "Earnings per share and the price-earnings ratio",
+      "D": "Input-output and raw material consumption ratios"
+     },
+     "answer": "A",
+     "explanation": "SM §4: creditors are interested to know the liability position particularly in the short term — whether the organisation will be able to pay on the due date — and use liquidity and short-term solvency ratios.",
+     "why_wrong": {
+      "B": "Coverage ratios are listed for lenders.",
+      "C": "Those are shareholders' ratios.",
+      "D": "Those are the production manager's ratios."
+     },
+     "trap": "Lenders get the coverage ratios; creditors get the liquidity ratios.",
+     "concept": "F03.17"
+    },
+    {
+     "id": "MCQ-F03.19-02",
+     "angle": "Application",
+     "difficulty": "Easy",
+     "question": "Which industry-specific ratios does the study material name for the hotel industry?",
+     "options": {
+      "A": "Loan to deposit ratios",
+      "B": "Passenger-kilometre and operating cost per passenger kilometre",
+      "C": "Revenue and expenses per customer",
+      "D": "Room occupancy ratio and bed occupancy ratio"
+     },
+     "answer": "D",
+     "explanation": "SM §4, item 8: hotels use the room occupancy ratio and bed occupancy ratio.",
+     "why_wrong": {
+      "A": "Banks.",
+      "B": "Transport.",
+      "C": "Telecom."
+     },
+     "trap": "All four are in the same table; learn them as pairs with their industry.",
+     "concept": "F03.19"
+    }
+   ],
+   "recap": [
+    "Each user reads the ratios that answer their own risk: creditors liquidity, lenders coverage, shareholders profitability.",
+    "Managers and industries have their own ratio sets, from input-output to room occupancy.",
+    "Six applications: liquidity, long-term solvency, operating efficiency, overall profitability, inter-firm comparison, budgeting.",
+    "A single ratio is meaningless without a norm; only an integrated view judges overall profitability."
+   ],
+   "official_questions": [
+    {
+     "id": "RTP-J26-FQ5",
+     "status": "VERIFIED",
+     "question": "ABC Industries Ltd., a listed pharmaceutical company with 1 lakh equity shares of ₹10 each traded at a 20% premium and an income-tax rate of 50%, re-organised its capital structure at the beginning of 2024-25 as: share capital 40%, 12% preference share capital 10%, other shareholders' funds 15%, 15% term loan 10%, current liabilities 25%. The term loan is repayable in 5 instalments starting 31.03.2025, and the bank has asked for a ratio-based review of the accounts.",
+     "answer_points": [
+      "**Step 1 — Size the balance sheet from the share capital.** Equity share capital = 1,00,000 shares × ₹10 = ₹10,00,000, and that is 40% of the total, so **total funds employed = ₹25,00,000**.",
+      "**Step 2 — Split the structure.** 12% preference share capital = 10% = ₹2,50,000; other shareholders' funds = 15% = ₹3,75,000; 15% term loan = 10% = ₹2,50,000; current liabilities = 25% = ₹6,25,000.",
+      "**Step 3 — The ratios the bank looks at.** **Debt-equity, capital gearing and proprietary ratios** follow directly from the split, treating preference capital as fixed-dividend capital in the gearing ratio and as part of the proprietary fund in the proprietary ratio (SM §3.2.1).",
+      "**Step 4 — Coverage.** Interest = 15% of ₹2,50,000 = ₹37,500; preference dividend = 12% of ₹2,50,000 = ₹30,000; the annual instalment is one fifth of the term loan = ₹50,000. **Interest coverage = EBIT ÷ ₹37,500; DSCR = (PAT + depreciation + interest) ÷ (₹37,500 + ₹50,000); preference dividend coverage = PAT ÷ ₹30,000.**",
+      "**Step 5 — Market ratios.** The shares trade at a 20% premium, i.e. at ₹12, so **P/E = ₹12 ÷ EPS** and **earnings yield = EPS ÷ ₹12 × 100** (SM §3.4.4).",
+      "ICAI files this under 'Ratio Analysis' and uses it to test the whole chapter at once: a structure given in percentages, an instalment schedule for the DSCR, and a market price expressed as a premium."
+     ],
+     "conclusion": "Everything is derived from the one absolute figure given — the equity share capital.",
+     "keywords": [
+      "capital structure in percentages",
+      "capital gearing",
+      "debt service coverage",
+      "traded at a premium"
+     ]
+    },
+    {
+     "id": "MTP-M24-S2-FQ3a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "EOC Ltd., a listed company, presents abridged financial statements: sales ₹1,25,00,000; cost of goods sold ₹76,40,000; gross profit ₹48,60,000; administrative expenses ₹13,20,000; selling and distribution expenses ₹15,90,000; operating profit ₹19,50,000; non-operating income ₹3,28,000; non-operating expenses ₹1,27,000; profit before interest and taxes ₹21,51,000; interest ₹4,39,000; profit before tax ₹17,12,000; taxes ₹4,28,000; profit after tax ₹12,84,000. Equity share capital ₹30,00,000; reserves and surplus ₹18,00,000; secured loan ₹10,00,000; unsecured loan ₹4,30,000; buildings ₹7,50,000; machinery ₹2,30,000; furniture ₹7,60,000; intangible assets ₹50,000; inventory ₹38,60,000; receivables ₹39,97,000; short-term investments ₹3,00,000; cash and bank ₹2,30,000; creditors ₹25,67,000 and short-term loans. Compute the ratios indicated.",
+     "answer_points": [
+      "**Profitability on sales (SM §3.4.1).** Gross profit ratio = ₹48,60,000 ÷ ₹1,25,00,000 × 100 = **38.88%**. Operating profit ratio = ₹19,50,000 ÷ ₹1,25,00,000 × 100 = **15.60%**. Net profit ratio = ₹12,84,000 ÷ ₹1,25,00,000 × 100 = **10.27%**. Operating ratio = (₹76,40,000 + ₹29,10,000) ÷ ₹1,25,00,000 × 100 = **84.40%** — the complement of the operating profit ratio.",
+      "**Coverage (SM §3.2.2).** Interest coverage = Profit before interest and taxes ÷ Interest = ₹21,51,000 ÷ ₹4,39,000 = **4.90 times**.",
+      "**Capital structure (SM §3.2.1).** Owned funds = ₹30,00,000 + ₹18,00,000 = ₹48,00,000; borrowed funds = ₹10,00,000 + ₹4,30,000 = ₹14,30,000, so the **debt-equity ratio = 0.30 : 1** on long-term debt.",
+      "**Return on capital employed (SM §3.4.2).** Capital employed = Total funds raised = ₹62,30,000, so **ROCE (pre-tax) = ₹21,51,000 ÷ ₹62,30,000 × 100 = 34.53%**. Note that the **intangible assets of ₹50,000 are included** in capital employed; only fictitious assets would be excluded.",
+      "**Return on equity.** ROE = Profit after tax ÷ Owned funds × 100 = ₹12,84,000 ÷ ₹48,00,000 × 100 = **26.75%**.",
+      "**Activity.** Inventory turnover = ₹76,40,000 ÷ ₹38,60,000 = **1.98 times**; receivables turnover = ₹1,25,00,000 ÷ ₹39,97,000 = **3.13 times**, a collection period of about 115 days.",
+      "This question is the chapter in miniature: one set of statements, every family of ratio."
+     ],
+     "conclusion": "Read the statements once, then pick the two figures each ratio needs.",
+     "keywords": [
+      "operating ratio",
+      "interest coverage",
+      "capital employed",
+      "intangible assets included"
+     ]
+    },
+    {
+     "id": "MTP-M26-S1-FQ1a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "P Limited for the year ended 31st March 2025: sales ₹3,60,00,000; rate of income tax 40%; return on net worth 30%; share capital to reserves ratio 6 : 4; current ratio 2 : 1; percentage of net profit to sales 8%; inventory turnover (based on cost of goods sold) 12; cost of goods sold ₹1,44,00,000; sundry debtors ₹12,00,000; sundry creditors ₹16,00,000; interest on 14% debentures ₹3,36,000. Calculate operating expenses, share capital and reserves, closing stock and fixed assets.",
+     "answer_points": [
+      "**Operating expenses.** Net profit = 8% of ₹3,60,00,000 = ₹28,80,000; profit before tax = ₹28,80,000 ÷ 0.60 = ₹48,00,000; EBIT = ₹48,00,000 + ₹3,36,000 = ₹51,36,000. **Operating expenses = ₹3,60,00,000 − ₹1,44,00,000 − ₹51,36,000 = ₹1,64,64,000.**",
+      "**Share capital and reserves.** Net worth = ₹28,80,000 ÷ 0.30 = ₹96,00,000, split 6 : 4 as **share capital ₹57,60,000 and reserves ₹38,40,000**.",
+      "**Closing stock** = Cost of goods sold ÷ Inventory turnover = ₹1,44,00,000 ÷ 12 = **₹12,00,000**.",
+      "**Fixed assets.** Debentures = ₹3,36,000 ÷ 0.14 = ₹24,00,000; current assets = 2 × current liabilities of ₹16,00,000 = ₹32,00,000. **Fixed assets = ₹96,00,000 + ₹24,00,000 + ₹16,00,000 − ₹32,00,000 = ₹1,04,00,000.**",
+      "ICAI set the identical question in the May 2026 RTP under the label 'Ratio Analysis', which is the clearest signal in the whole set of where this chapter's marks lie."
+     ],
+     "conclusion": "Identical to the May 2026 RTP question; if you have worked one you have worked both.",
+     "keywords": [
+      "return on net worth",
+      "operating expenses",
+      "closing stock",
+      "fixed assets"
+     ]
+    },
+    {
+     "id": "MTP-S24-S2-FQ3b",
+     "marks": 4,
+     "status": "VERIFIED",
+     "question": "EPL Ltd. reports share capital ₹50,00,000 in both years, reserves and surplus ₹20,00,000 (2023) and ₹25,00,000 (2024), and long-term loan ₹30,00,000 in both years. Net profit ratio 8%; gross profit ratio 20%; long-term loan has been used to finance 40% of the fixed assets; stock turnover with respect to cost of goods sold is 4; debtors represent 90 days sales; the company holds cash equivalent to 1½ months cost of goods sold. Ignore taxation and assume 360 days. Prepare the Balance Sheet as on 31st March 2024.",
+     "answer_points": [
+      "**Step 1 — Sales from the change in reserves.** With taxation ignored and no dividend stated, the increase in reserves and surplus of ₹5,00,000 is the year's net profit. At a net profit ratio of 8%, **Sales = ₹5,00,000 ÷ 0.08 = ₹62,50,000**, and at a gross profit ratio of 20%, **cost of goods sold = ₹50,00,000**.",
+      "**Step 2 — Fixed assets.** The long-term loan of ₹30,00,000 finances 40% of the fixed assets, so **fixed assets = ₹30,00,000 ÷ 0.40 = ₹75,00,000**.",
+      "**Step 3 — Current assets.** Closing stock = Cost of goods sold ÷ 4 = **₹12,50,000**. Debtors = 90 days of sales = ₹62,50,000 × 90 ÷ 360 = **₹15,62,500**. Cash = 1½ months of cost of goods sold = ₹50,00,000 × 1.5 ÷ 12 = **₹6,25,000**.",
+      "**Step 4 — Sundry creditors as the balancing figure.** Total assets = ₹75,00,000 + ₹12,50,000 + ₹15,62,500 + ₹6,25,000 = **₹1,09,37,500**. Liabilities other than creditors = ₹50,00,000 + ₹25,00,000 + ₹30,00,000 = ₹1,05,00,000, so **sundry creditors = ₹4,37,500**.",
+      "**Balance Sheet** in the MTP's format, both sides totalling ₹1,09,37,500.",
+      "The entry point is unusual and worth remembering: with tax ignored, the **movement in reserves is the net profit**, and the net profit ratio then unlocks sales."
+     ],
+     "conclusion": "Movement in reserves → net profit → sales → everything else.",
+     "keywords": [
+      "movement in reserves",
+      "net profit ratio",
+      "long-term loan finances 40%",
+      "balancing figure"
+     ],
+     "also_asked_as": [
+      "MTP-S25-S2-FQ1b (Fortune Ltd — the same question with share capital ₹60,00,000, reserves ₹30,00,000 and ₹40,00,000, and a long-term loan of ₹40,00,000)"
+     ]
+    },
+    {
+     "id": "MTP-S25-S2-FQ1b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Fortune Ltd. reports share capital ₹60,00,000 in both years, reserves and surplus ₹30,00,000 (2024) and ₹40,00,000 (2025), and long-term loan ₹40,00,000 in both years. Net profit ratio 8%; gross profit ratio 20%; long-term loan has been used to finance 40% of the fixed assets; stock turnover with respect to cost of goods sold is 4; debtors represent 90 days of credit sales; cash equivalent to 1½ months cost of goods sold; ignore taxation; 360 days; all sales are credit sales. Prepare the Balance Sheet as on 31st March 2025.",
+     "answer_points": [
+      "**Step 1 — Sales.** With taxation ignored, the increase in reserves of ₹10,00,000 is the year's net profit; at a net profit ratio of 8%, **Sales = ₹10,00,000 ÷ 0.08 = ₹1,25,00,000**, and at a gross profit ratio of 20%, **cost of goods sold = ₹1,00,00,000**.",
+      "**Step 2 — Fixed assets** = Long-term loan ÷ 0.40 = ₹40,00,000 ÷ 0.40 = **₹1,00,00,000**.",
+      "**Step 3 — Current assets.** Closing stock = ₹1,00,00,000 ÷ 4 = **₹25,00,000**; sundry debtors = ₹1,25,00,000 × 90 ÷ 360 = **₹31,25,000**; cash in hand = ₹1,00,00,000 × 1.5 ÷ 12 = **₹12,50,000**.",
+      "**Step 4 — Sundry creditors.** Total assets = ₹1,00,00,000 + ₹25,00,000 + ₹31,25,000 + ₹12,50,000 = **₹1,68,75,000**; liabilities other than creditors = ₹60,00,000 + ₹40,00,000 + ₹40,00,000 = ₹1,40,00,000, so **sundry creditors = ₹28,75,000**.",
+      "**Balance Sheet** in the MTP's format, both sides totalling ₹1,68,75,000.",
+      "This is the September 2024 Series II question repeated with larger figures — worth working once and recognising thereafter."
+     ],
+     "conclusion": "Same method as EPL Ltd.; only the numbers change.",
+     "keywords": [
+      "movement in reserves",
+      "long-term loan finances 40%",
+      "90 days of credit sales",
+      "balancing figure"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "F03.20 + F03.21",
+   "title": "6–7. Limitations of Financial Ratios, and Horizontal versus Vertical Analysis",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (Jan 2026 Q3(a)) · SM theoretical question",
+   "understand": [
+    "**The eight limitations (§6).** **(i) Diversified product lines** — many businesses operate a large number of divisions in quite different industries, so **ratios calculated on the basis of aggregate data cannot be used for inter-firm comparisons**. **(ii) Financial data are badly distorted by inflation** — **historical cost values may be substantially different from true values**, and such distortions are carried into the ratios. **(iii) Seasonal factors** may influence financial data: the study material's example is a company dealing in cotton garments which **keeps a high inventory during October to January and only a quarter of that level for the rest of the year**, so **liquidity and inventory ratios will produce a biased picture** and the **year-end picture may not be the average picture of the business**; monthly average inventory data is suggested, but **for external users it is difficult, and sometimes impossible, to get monthly inventory figures**.",
+    "**(iv) Window dressing** — to give a good shape to popularly used ratios such as the current ratio and debt-equity ratio, **the business may make year-end adjustments, which can change the character of the financial ratios from what they would have been without the change**. **(v) Differences in accounting policies and accounting period** can make the accounting data, and hence the ratios, of two firms **non-comparable**. **(vi) No standard set of ratios against which a firm's ratios can be compared** — comparison with the industry average cuts both ways: **if a firm desires to be above the average, the industry average becomes a low standard; for a below-average firm, industry averages become too high a standard to achieve**.",
+    "**(vii) Difficulty to generalise whether a particular ratio is good or bad** — for example, ==**a low current ratio may be said to be 'bad' from the point of view of low liquidity, but a high current ratio may not be 'good' as this may result from inefficient working capital management**==. **(viii) Financial ratios are inter-related, not independent** — **viewed in isolation one ratio may highlight efficiency, but considered as a set they may speak differently**; such interdependence **can be taken care of through multivariate analysis (analysing the relationship between several variables simultaneously)**.",
+    "==The study material's closing warning: **financial ratios provide clues but not conclusions. These are tools only in the hands of experts, because there is no standard ready-made interpretation of financial ratios.**==",
+    "**Financial analysis (§7)** may be of two types. ==**Horizontal analysis:** when the financial statements of **one year are analysed and interpreted after comparing with another year or years**; it can be based on the **ratios derived from the financial information over the same time span**. **Vertical analysis:** when the financial statement of a **single year** is analysed; it is **useful in inter-firm comparison**, and **every item of the profit and loss account is expressed as a percentage of gross sales, while every item on a balance sheet is expressed as a percentage of total assets held by the firm**.==",
+    "**Financial planning beyond the study material.** ICAI has also set a past-paper question on **external funds requirement** — estimating the funds a company must raise when sales grow, given that total assets and current liabilities vary directly with sales. **The current study material does not carry this topic**, so it is included here as supplementary, solved entirely with ratios the chapter does give: the **net profit margin**, the **dividend payout ratio**, the **current ratio** and the ratio of **fixed assets to long-term loans**."
+   ],
+   "example": "A cotton-garment retailer closing its books in March shows a tiny inventory and a flattering quick ratio. Close the same books in December and the picture reverses — the seasonal limitation in one line.",
+   "provisions": [
+    {
+     "ref": "Clues not conclusions (SM §6)",
+     "status": "VERIFIED",
+     "requirement": "Financial ratios provide clues but not conclusions; they are tools only in the hands of experts, as there is no standard ready-made interpretation.",
+     "exam_angle": "The concluding sentence of any 'limitations of ratio analysis' answer."
+    },
+    {
+     "ref": "Horizontal versus vertical (SM §7)",
+     "status": "VERIFIED",
+     "requirement": "Horizontal compares one year with another; vertical analyses a single year, expressing profit and loss items as a percentage of gross sales and balance sheet items as a percentage of total assets.",
+     "exam_angle": "A clean 2-mark distinction, and the basis of the two-year comparison MTPs."
+    }
+   ],
+   "keywords": [
+    "diversified product lines",
+    "distorted by inflation",
+    "historical cost",
+    "seasonal factors",
+    "window dressing",
+    "accounting policies",
+    "no standard set of ratios",
+    "difficult to generalise",
+    "inter-related, not independent",
+    "multivariate analysis",
+    "clues but not conclusions",
+    "horizontal analysis",
+    "vertical analysis",
+    "percentage of gross sales",
+    "percentage of total assets",
+    "external funds requirement"
+   ],
+   "memory": {
+    "trick": "Limitations spell the trouble with comparing: **D-I-S-W-A-N-G-I** — Diversified lines, Inflation, Seasonal, Window dressing, Accounting policies, No standard, Generalising is hard, Inter-related.",
+    "key": [
+     [
+      "Horizontal",
+      "One year against another year or years, over the same time span"
+     ],
+     [
+      "Vertical",
+      "A single year; P&L items as a % of gross sales, balance sheet items as a % of total assets"
+     ],
+     [
+      "The warning",
+      "Clues, not conclusions; tools only in the hands of experts"
+     ],
+     [
+      "Fix for interdependence",
+      "Multivariate analysis"
+     ]
+    ],
+    "recall_trigger": "Clues, not conclusions"
+   },
+   "mistakes": [
+    "Saying a high current ratio is always good; the study material says it may signal inefficient working capital management.",
+    "Swapping horizontal and vertical: vertical is the single-year, common-size analysis.",
+    "Stopping at six limitations; the study material lists eight and then adds the closing warning."
+   ],
+   "compare": {
+    "title": "Horizontal versus vertical analysis (SM §7)",
+    "headers": [
+     "Basis",
+     "Horizontal analysis",
+     "Vertical analysis"
+    ],
+    "rows": [
+     [
+      "What is compared",
+      "One year's statements against another year or years",
+      "A single year's statement"
+     ],
+     [
+      "Built on",
+      "Ratios derived from financial information over the same time span",
+      "Each item expressed as a percentage of a base"
+     ],
+     [
+      "Base used",
+      "The earlier year's figures",
+      "Gross sales for the profit and loss account; total assets for the balance sheet"
+     ],
+     [
+      "Chiefly useful for",
+      "Trend within the same firm",
+      "Inter-firm comparison"
+     ]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 3 §5.1: every application is qualified by these limitations",
+    "🔗 FM Ch 9: seasonal inventory and its effect on working capital"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Limitations of ratio analysis (4 marks)",
+     "Distinguish horizontal and vertical analysis (2 marks)",
+     "External funds requirement computation (Jan 2026 Q3(a), 5 marks)"
+    ],
+    "approach": [
+     "Give the limitation in bold, then one line of explanation; four or five earn the marks",
+     "Close with 'clues but not conclusions'"
+    ],
+    "official_pattern": "PYQ-J26-Q3a (external funds requirement, outside the current study material).",
+    "time_tip": "4 marks ≈ 7 minutes; 2 marks ≈ 3 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "Name the limitation in bold",
+     "One line of why it distorts comparison",
+     "Close with the clues-not-conclusions line"
+    ],
+    "keywords": [
+     "window dressing",
+     "multivariate analysis",
+     "clues but not conclusions"
+    ],
+    "length": "4 marks: four or five limitations plus the closing line",
+    "conclusion": "Ratios narrow the question; they do not answer it.",
+    "avoid": [
+     "Inventing limitations outside the study material's eight"
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-J26-Q3a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "supplementary": true,
+     "question": "From the Balance Sheet extract of ST Ltd. (share capital ₹260 lakh, reserves ₹168 lakh, long-term loans ₹420 lakh, short-term loans ₹220 lakh, payables ₹144 lakh, provisions ₹96 lakh; fixed assets ₹600 lakh, inventories ₹360 lakh, receivables ₹270 lakh, cash and bank ₹78 lakh; total ₹1,308 lakh), with current-year sales of ₹900 lakh expected to increase by 20%, a net profit margin after tax of 5% of sales, a dividend payout ratio of 50%, and total assets and current liabilities varying directly with sales: (i) estimate the external funds required for the next financial year; (ii) determine the sources and composition of funds, given that the current ratio must be maintained at 1.40, the ratio of fixed assets to long-term loans should be 1.50, and the remaining fund is raised by issue of equity shares.",
+     "answer_points": [
+      "**(i) External funds requirement.** Expected sales = ₹900 lakh + 20% = **₹1,080 lakh**. Total assets at 20% higher = ₹1,308 lakh × 1.20 = **₹1,569.60 lakh**, an increase of **₹261.60 lakh**. Current liabilities (payables ₹144 lakh + provisions ₹96 lakh = ₹240 lakh) at 20% higher = ₹288 lakh, an increase of **₹48 lakh**.",
+      "**Retained earnings** = Net profit after tax − dividend = (5% of ₹1,080 lakh) × (1 − 0.50) = ₹54 lakh × 0.50 = **₹27 lakh**.",
+      "**External funds required** = Increase in assets − increase in spontaneous current liabilities − retained earnings = ₹261.60 lakh − ₹48 lakh − ₹27 lakh = **₹186.60 lakh**.",
+      "**(ii) Composition.** With the current ratio held at 1.40, the permitted level of total current liabilities (including short-term loans) follows from the projected current assets (inventories, receivables and cash and bank, each grown by 20%), so the short-term loan component is the balancing figure after payables and provisions.",
+      "With the ratio of fixed assets to long-term loans at 1.50, **long-term loans = projected fixed assets ÷ 1.50** = (₹600 lakh × 1.20) ÷ 1.50 = ₹720 lakh ÷ 1.50 = **₹480 lakh**, an increase of ₹60 lakh over the existing ₹420 lakh.",
+      "**The remaining requirement is raised by issue of equity shares**, being the external funds requirement less the additional short-term loans and the additional long-term loans.",
+      "Note: the external funds requirement is not a topic of the current study material; it is solved entirely with ratios the chapter does provide — net profit margin, dividend payout, current ratio and the fixed assets to long-term loans ratio."
+     ],
+     "conclusion": "Part (i) carries the assets-minus-spontaneous-liabilities-minus-retention logic; part (ii) is three ratio constraints applied in order.",
+     "keywords": [
+      "external funds requirement",
+      "vary directly with sales",
+      "retained earnings",
+      "current ratio",
+      "balancing figure"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    }
+   ],
+   "expected_questions": [
+    {
+     "id": "EQ-F03.20-1",
+     "form": "Explain (4 marks)",
+     "marks": 4,
+     "question": "Explain any five limitations of financial ratios.",
+     "answer_points": [
+      "**Diversified product lines:** many businesses operate a large number of divisions in quite different industries, so ratios calculated on aggregate data cannot be used for inter-firm comparisons.",
+      "**Financial data badly distorted by inflation:** historical cost values may be substantially different from true values, and such distortions are carried into the ratios.",
+      "**Seasonal factors:** a company dealing in cotton garments keeps a high inventory from October to January and only a quarter of that for the rest of the year, so liquidity and inventory ratios give a biased picture; the year-end picture may not be the average picture of the business, and monthly figures are usually unavailable to external users.",
+      "**Window dressing:** to give a good shape to popularly used ratios such as the current ratio and the debt-equity ratio, a business may make year-end adjustments which change the character of the ratios.",
+      "**Differences in accounting policies and accounting period** make the accounting data of two firms, and hence their ratios, non-comparable.",
+      "**No standard set of ratios:** if a firm desires to be above the industry average, that average is a low standard; for a below-average firm it is too high a standard to achieve.",
+      "**Difficulty to generalise whether a ratio is good or bad:** a low current ratio is bad for liquidity, but a high current ratio may not be good, as it may result from inefficient working capital management.",
+      "**Financial ratios are inter-related, not independent:** in isolation one ratio may highlight efficiency, but as a set they may speak differently; multivariate analysis addresses this. Financial ratios provide clues but not conclusions, and are tools only in the hands of experts."
+     ],
+     "keywords": [
+      "window dressing",
+      "seasonal factors",
+      "multivariate analysis",
+      "clues but not conclusions"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F03.20-01",
+     "angle": "Limitation",
+     "difficulty": "Moderate",
+     "question": "As per the study material, a high current ratio:",
+     "options": {
+      "A": "Is always good, since liquidity is always desirable",
+      "B": "May not be 'good', as it may result from inefficient working capital management",
+      "C": "Indicates that inventories have been window dressed",
+      "D": "Is required to be at least 1.40 by law"
+     },
+     "answer": "B",
+     "explanation": "SM §6(vii): it is difficult to generalise whether a particular ratio is good or bad — a low current ratio may be bad from the point of view of low liquidity, but a high current ratio may not be good, as this may result from inefficient working capital management.",
+     "why_wrong": {
+      "A": "The study material says excess liquidity is also bad.",
+      "C": "Window dressing is a separate limitation and is not implied by the level of the ratio.",
+      "D": "There is no such legal requirement in the study material."
+     },
+     "trap": "The instinct is 'higher is safer'; ICAI tests the opposite reading.",
+     "concept": "F03.20"
+    },
+    {
+     "id": "MCQ-F03.21-02",
+     "angle": "Distinction",
+     "difficulty": "Easy",
+     "question": "Analysis in which every item of the profit and loss account is expressed as a percentage of gross sales and every balance sheet item as a percentage of total assets is called:",
+     "options": {
+      "A": "Vertical analysis",
+      "B": "Horizontal analysis",
+      "C": "Multivariate analysis",
+      "D": "Du Pont analysis"
+     },
+     "answer": "A",
+     "explanation": "SM §7: vertical analysis is the analysis of a single year's financial statement, expressing profit and loss items as a percentage of gross sales and balance sheet items as a percentage of total assets; it is useful in inter-firm comparison.",
+     "why_wrong": {
+      "B": "Horizontal analysis compares one year with another.",
+      "C": "Analysing several variables simultaneously, offered as a fix for interdependence.",
+      "D": "The three-component breakdown of return on equity."
+     },
+     "trap": "Vertical reads down a single year's statement; horizontal reads across years.",
+     "concept": "F03.21"
+    }
+   ],
+   "recap": [
+    "Eight limitations, from diversified product lines to the interdependence of ratios.",
+    "A high current ratio may signal inefficient working capital management, not strength.",
+    "Ratios give clues, not conclusions; they are tools in expert hands.",
+    "Horizontal compares years; vertical reads a single year as percentages of sales and of total assets."
+   ]
+  },
+  {
+   "code": "F03.22",
+   "title": "8. Summary of Ratios — and How to Work Backwards to the Statements",
+   "activity": "Very High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 2 (Sep 2024 Q1(c), Jan 2025 Q3(b)) · RTP 4 (Jan 2025, May 2025, May 2026, Sep 2024, Sep 2025, Sep 2026) · MTP 5 (Jan 2025 both series, Mar 2024 Series I, May 2025 Series II, Sep 2025 Series I, Sep 2026 Series I)",
+   "understand": [
+    "**Section 8 of the study material is a single table** that restates every ratio of the chapter with its formula and interpretation. It is worth learning as a table, because the **reverse-working questions are answered by choosing the right row and rearranging it**.",
+    "**The reverse-working method, in the order ICAI's own answers follow.** **Step 1 — find sales or cost of goods sold.** Any turnover ratio combined with an asset figure gives one of them; the gross profit ratio converts between them, since **cost of goods sold = sales × (1 − gross profit ratio)**.",
+    "**Step 2 — split the current assets.** The **current ratio** gives total current assets from current liabilities (or vice versa); the **quick ratio** then isolates inventories, since **inventories (and prepaid expenses) = current assets − quick assets**. The study material's own chain: current assets ÷ current liabilities = 2.5, and working capital = current assets − current liabilities, so 1.5 × current liabilities = working capital.",
+    "**Step 3 — find each current asset.** The **inventory turnover ratio** gives inventory from cost of goods sold; the **debtors turnover ratio or collection period** gives receivables from credit sales; **cash and bank** is usually the balancing figure, or a stated percentage of current assets.",
+    "**Step 4 — find the long-term side.** The **fixed assets turnover ratio** gives fixed assets; the **proprietary ratio, capital gearing ratio or debt-equity ratio** splits the funding between equity, preference capital, reserves and borrowed funds; **reserves and surplus are usually the balancing figure**.",
+    "**Step 5 — build the statement and cross-check.** Total the two sides of the balance sheet; if they do not agree, the error is almost always in Step 2 or in using sales where cost of goods sold was meant. ICAI's answers always show the working notes in this order and then present the formatted statement.",
+    "**Cost of goods sold, purchases and creditors — the chain ICAI keeps reusing.** ==**Cost of Goods Sold = Opening Stock + Purchases − Closing Stock**, so **Purchases = Cost of Goods Sold − Opening Stock + Closing Stock**==, and the payables turnover ratio then follows from purchases. This exact chain appears in the September 2024 and September 2026 RTPs.",
+    "**A caution the study material repeats three times.** Ratios shall be calculated **based on requirement and availability of information and may deviate from the original formulae; if required, assumptions should be given**, and the **numerator should be taken in correspondence with the denominator and vice versa**. In a reverse-working question, **write the assumption down** — for instance that all sales are credit sales, or that the turnover ratio is based on cost of goods sold."
+   ],
+   "example": "MNP Limited (Sep 2024) gave six ratios and a half-filled balance sheet. Equity ₹6,00,000 plus reserves ₹3,00,000 gives shareholders' funds of ₹9,00,000; long-term debt at 0.6:1 is ₹5,40,000; creditors ₹3,00,000 with a current ratio of 2.9 gives current assets of ₹8,70,000 — and the rest falls out row by row.",
+   "provisions": [
+    {
+     "ref": "Purchases from cost of goods sold (SM §3.3 and §8)",
+     "status": "VERIFIED",
+     "requirement": "Cost of goods sold = opening stock + purchases − closing stock.",
+     "exam_angle": "The bridge to the creditors turnover ratio in two RTPs."
+    },
+    {
+     "ref": "State your assumption (SM notes, §§3.2.2, 3.3 and 3.4.4)",
+     "status": "VERIFIED",
+     "requirement": "Ratios may deviate from the original formulae based on requirement and availability of information; if required, assumptions should be given.",
+     "exam_angle": "A stated assumption protects the marks when two formulae are possible."
+    }
+   ],
+   "keywords": [
+    "summary of ratios",
+    "reverse working",
+    "cost of goods sold",
+    "opening stock",
+    "purchases",
+    "closing stock",
+    "balancing figure",
+    "state the assumption",
+    "correspondence"
+   ],
+   "memory": {
+    "trick": "Work the reverse question in **five moves: Sales → Current assets → Each current asset → The long-term side → Total and check.** Never start with the item the question asks for; start with sales.",
+    "key": [
+     [
+      "Step 1",
+      "Sales or cost of goods sold, via a turnover ratio and the gross profit ratio"
+     ],
+     [
+      "Step 2",
+      "Current assets and current liabilities, via the current and quick ratios"
+     ],
+     [
+      "Step 3",
+      "Inventory, receivables, cash — via turnover ratios and periods"
+     ],
+     [
+      "Step 4",
+      "Fixed assets and the funding split — via proprietary, gearing and debt-equity"
+     ],
+     [
+      "Step 5",
+      "Total both sides and cross-check"
+     ]
+    ],
+    "recall_trigger": "Sales first, cash last"
+   },
+   "mistakes": [
+    "Starting with the figure the question asks for instead of working forward from sales.",
+    "Forgetting that the quick ratio isolates inventories plus prepaid expenses, not inventories alone.",
+    "Not stating the assumption when the question is silent on whether sales are credit sales."
+   ],
+   "links": [
+    "🔗 FM Ch 3 §3.1 to §3.4: every row of the summary table is explained in those sections",
+    "🔗 FM Ch 9: the same reverse logic estimates working capital requirements"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Prepare the Balance Sheet from given ratios (Sep 2024 Q1(c), Jan 2025 Q3(b) and five MTPs)",
+     "Prepare the Trading and Profit & Loss Account from ratios (MTP Jan 2025 Series I)",
+     "Complete a partly filled statement (RTP May 2025, Sep 2025, Sep 2026)"
+    ],
+    "approach": [
+     "Number your working notes and keep them in the five-step order",
+     "Present the formatted statement at the end, not the workings"
+    ],
+    "official_pattern": "PYQ-S24-Q1c; PYQ-J25-Q3b; RTP-J25-FQ4; RTP-M25-FQ4; RTP-M26-FQ4; RTP-S24-FQ4; RTP-S25-FQ4; RTP-S26-FQ4; MTP-J25-S1-FQ2a; MTP-J25-S2-FQ1a; MTP-M24-S1-FQ1c; MTP-M25-S2-FQ3a; MTP-S25-S1-FQ1b; MTP-S26-S1-FQ3b.",
+    "time_tip": "5 marks ≈ 9 minutes; a full balance sheet from ratios usually carries 5 marks (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "Numbered working notes in the five-step order",
+     "The formatted statement",
+     "A note of any assumption"
+    ],
+    "keywords": [
+     "working note",
+     "balancing figure",
+     "assumption"
+    ],
+    "length": "5 marks: four to six working notes plus the statement",
+    "conclusion": "Total both sides; a statement that does not balance loses the presentation marks.",
+    "avoid": [
+     "Presenting the statement without the working notes — ICAI's marks are in the notes"
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-S24-Q1c",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Complete the Balance Sheet of MNP Limited as on 31st March 2024 from the following: inventory turnover ratio (based on cost of goods sold) 7.5 times; total assets turnover ratio 2.5 times; long-term debt to shareholders' fund 0.6:1; debtors collection period 30 days; gross profit ratio 25% on sales; current ratio 2.9:1. The Balance Sheet shows equity share capital ₹6,00,000, reserves and surplus ₹3,00,000, long-term debt (?), creditors ₹3,00,000; fixed assets (?), inventories (?), debtors (?) and cash (?). Assume a 360-day year and that all sales are credit sales.",
+     "answer_points": [
+      "**Working note 1 — Shareholders' fund** = Equity share capital + Reserves and surplus = ₹6,00,000 + ₹3,00,000 = **₹9,00,000**.",
+      "**Working note 2 — Long-term debt** = 0.6 × Shareholders' fund = 0.6 × ₹9,00,000 = **₹5,40,000**.",
+      "**Working note 3 — Total of the Balance Sheet** = Shareholders' fund + Long-term debt + Creditors = ₹9,00,000 + ₹5,40,000 + ₹3,00,000 = **₹17,40,000**, so total assets are also ₹17,40,000.",
+      "**Working note 4 — Sales and cost of goods sold.** Total assets turnover ratio 2.5 times, so **Sales = 2.5 × ₹17,40,000 = ₹43,50,000**. Gross profit is 25% on sales, so **Cost of goods sold = 75% of ₹43,50,000 = ₹32,62,500**.",
+      "**Working note 5 — Current assets.** Current ratio 2.9:1 on creditors of ₹3,00,000 gives **Current assets = 2.9 × ₹3,00,000 = ₹8,70,000**. **Fixed assets = Total assets − Current assets = ₹17,40,000 − ₹8,70,000 = ₹8,70,000.**",
+      "**Working note 6 — Inventories** = Cost of goods sold ÷ Inventory turnover ratio = ₹32,62,500 ÷ 7.5 = **₹4,35,000**.",
+      "**Working note 7 — Debtors** = Credit sales × (Collection period ÷ 360) = ₹43,50,000 × (30 ÷ 360) = **₹3,62,500**.",
+      "**Working note 8 — Cash** = Current assets − Inventories − Debtors = ₹8,70,000 − ₹4,35,000 − ₹3,62,500 = **₹72,500**.",
+      "**Balance Sheet as on 31st March 2024.** Liabilities: equity share capital ₹6,00,000; reserves and surplus ₹3,00,000; long-term debt ₹5,40,000; creditors ₹3,00,000; **total ₹17,40,000**. Assets: fixed assets ₹8,70,000; inventories ₹4,35,000; debtors ₹3,62,500; cash ₹72,500; **total ₹17,40,000**.",
+      "**Assumption stated:** the inventory turnover ratio is based on cost of goods sold and all sales are credit sales, as the question directs."
+     ],
+     "conclusion": "Eight short working notes and a balancing statement; the marks are in the notes.",
+     "keywords": [
+      "shareholders' fund",
+      "total assets turnover",
+      "current ratio",
+      "collection period",
+      "balancing figure"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "PYQ-J25-Q3b",
+     "marks": 4,
+     "status": "VERIFIED",
+     "question": "The equity share capital of Sky Pack Ltd. as on 31st March 2024 was ₹2,00,000. From the given ratios — current debt to total debt, total debt to owner's equity, fixed assets to owner's equity, total assets turnover and inventory turnover — prepare the Balance Sheet of Sky Pack Ltd.",
+     "answer_points": [
+      "**Step 1 — Owner's equity** is given as the equity share capital of ₹2,00,000.",
+      "**Step 2 — Total debt** = Total debt to owner's equity ratio × Owner's equity; **current debt** = Current debt to total debt ratio × Total debt; **long-term debt** is the balance.",
+      "**Step 3 — Fixed assets** = Fixed assets to owner's equity ratio × Owner's equity. In ICAI's answer, fixed assets = 0.55 × ₹2,00,000 = **₹1,10,000**.",
+      "**Step 4 — Total assets** = Owner's equity + Total debt, which must equal fixed assets plus current assets; **current assets are the balancing figure**.",
+      "**Step 5 — Inventory** = Total assets ÷ (Total assets turnover ÷ Inventory turnover). ICAI's working: total assets to turnover 2.5 times and inventory turnover 10 times give inventory ÷ total assets = 2.5 ÷ 10 = 1/4, and with total assets of ₹3,30,000, **inventory = ₹3,30,000 ÷ 4 = ₹82,500**.",
+      "**Step 6 — Present the Balance Sheet**: equity share capital ₹2,00,000, current debt and long-term debt on the liabilities side; fixed assets ₹1,10,000, inventory ₹82,500 and the remaining current assets on the assets side, both sides totalling the same figure."
+     ],
+     "conclusion": "The ratio chain runs equity → debt → fixed assets → total assets → inventory; everything else balances.",
+     "keywords": [
+      "owner's equity",
+      "current debt to total debt",
+      "fixed assets to owner's equity",
+      "inventory turnover"
+     ]
+    },
+    {
+     "id": "PYQ-M25-Q1a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "S Ltd. for the year ended 31st March 2025: raw material consumed 20% of cost of goods sold; raw material inventory turnover ratio 4.00; finished goods inventory holding period 0.75 month; gross profit (based on cost of goods sold) 12.50%; debtor collection period 3 months (all sales are credit sales); proprietary ratio 0.3125; fixed assets turnover ratio (based on sales) 3.00; fixed assets to total assets 40%. Fixed assets are ₹12,00,000 and long-term debt ₹15,00,000. Prepare the Balance Sheet as on 31st March 2025.",
+     "answer_points": [
+      "**Step 1 — Sales, cost of goods sold and total assets.** Fixed assets turnover (on sales) is 3.00 on fixed assets of ₹12,00,000, so **Sales = ₹36,00,000**. Gross profit is 12.50% **on cost of goods sold**, so sales = 1.125 × cost of goods sold and **cost of goods sold = ₹36,00,000 ÷ 1.125 = ₹32,00,000**. Fixed assets are 40% of total assets, so **total assets = ₹12,00,000 ÷ 0.40 = ₹30,00,000**.",
+      "**Step 2 — Shareholders' fund and current liabilities.** Proprietary ratio 0.3125 = proprietary fund ÷ total assets, so **shareholders' fund = 0.3125 × ₹30,00,000 = ₹9,37,500**. **Current liabilities = Total assets − Shareholders' fund − Long-term debt = ₹30,00,000 − ₹9,37,500 − ₹15,00,000 = ₹5,62,500.**",
+      "**Step 3 — Stock of raw material.** Raw material consumed = 20% of cost of goods sold = ₹6,40,000. Raw material inventory turnover 4.00, so **stock of raw material = ₹6,40,000 ÷ 4 = ₹1,60,000**.",
+      "**Step 4 — Stock of finished goods.** Holding period 0.75 month, so **stock of finished goods = ₹32,00,000 × 0.75 ÷ 12 = ₹2,00,000**.",
+      "**Step 5 — Debtors and cash.** Collection period 3 months on credit sales of ₹36,00,000 gives **debtors = ₹36,00,000 × 3 ÷ 12 = ₹9,00,000**. Current assets = Total assets − Fixed assets = ₹30,00,000 − ₹12,00,000 = ₹18,00,000, so **cash = ₹18,00,000 − ₹1,60,000 − ₹2,00,000 − ₹9,00,000 = ₹5,40,000**.",
+      "**Balance Sheet.** Liabilities: shareholders' fund ₹9,37,500; long-term debt ₹15,00,000; current liabilities ₹5,62,500 — **total ₹30,00,000**. Assets: fixed assets ₹12,00,000; stock of raw material ₹1,60,000; stock of finished goods ₹2,00,000; debtors ₹9,00,000; cash ₹5,40,000 — **total ₹30,00,000**.",
+      "The trap ICAI set here: gross profit is given **on cost of goods sold**, not on sales, so sales = 1.125 × COGS rather than COGS = 0.875 × sales."
+     ],
+     "conclusion": "Five working notes and a balancing statement; the gross profit base is the marks.",
+     "keywords": [
+      "fixed assets turnover",
+      "gross profit based on COGS",
+      "proprietary ratio",
+      "collection period"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "RTP-M25-FQ4",
+     "status": "VERIFIED",
+     "question": "Prepare the Balance Sheet of Nevy Private Limited as at 31.03.2025 from: stock turnover ratio 15 times; cash and bank balance 10% of current assets (net of prepaid expenses); GP ratio 20%; creditors turnover (on cost of goods sold) 10 times; debtors turnover ratio 12 times; net fixed assets 25% of total liabilities; depreciation 15% on opening written-down value; current ratio 1.6 : 1; capital gearing ratio 0.6 : 1. Share capital is ₹36,00,000, prepaid expenses ₹7,50,000 and the current liabilities side totals ₹45,00,000. All purchases and sales are on credit.",
+     "answer_points": [
+      "**Step 1 — Total liabilities and fixed assets.** The balance sheet total is given by the layout; **net fixed assets = 25% of total liabilities**, which fixes the fixed-asset block, and depreciation at 15% on opening written-down value reconciles the opening and closing figures.",
+      "**Step 2 — Current assets.** Current ratio 1.6 : 1 applied to the current liabilities figure gives **current assets**; cash and bank is **10% of current assets net of prepaid expenses of ₹7,50,000**.",
+      "**Step 3 — Stock, debtors and creditors.** Cost of goods sold follows from sales and the 20% gross profit ratio. **Stock = COGS ÷ 15; debtors = credit sales ÷ 12; trade payables = COGS ÷ 10** (the creditors turnover is expressly on cost of goods sold, not on purchases).",
+      "**Step 4 — The funding split.** SM §3.2.1: capital gearing ratio 0.6 : 1 = (preference capital + debentures + other borrowed funds) ÷ (equity share capital + reserves − losses). With share capital of ₹36,00,000, the 14% bonds and reserves and surplus follow, reserves being the balancing figure.",
+      "**Step 5 — Present the Balance Sheet** in the RTP's own format: equities and long-term liabilities, current liabilities, fixed assets at opening written-down value less depreciation, and current assets.",
+      "Two traps here: the creditors turnover is on **cost of goods sold** rather than purchases, and the cash percentage is applied to current assets **net of prepaid expenses**."
+     ],
+     "conclusion": "A reverse-working question with two deliberately non-standard definitions; read them before computing.",
+     "keywords": [
+      "capital gearing ratio",
+      "creditors turnover on cost of goods sold",
+      "net of prepaid expenses",
+      "opening written-down value"
+     ]
+    },
+    {
+     "id": "RTP-M26-FQ4",
+     "status": "VERIFIED",
+     "question": "P Limited for the year ended 31st March 2025: sales ₹3,60,00,000; rate of income tax 40%; return on net worth 30%; share capital to reserves ratio 6 : 4; current ratio 2 : 1; percentage of net profit to sales 8%; inventory turnover (based on cost of goods sold) 12; cost of goods sold ₹1,44,00,000; sundry debtors ₹12,00,000; sundry creditors ₹16,00,000; interest on 14% debentures ₹3,36,000. Calculate (i) operating expenses, (ii) share capital and reserves, (iii) closing stock, (iv) fixed assets.",
+     "answer_points": [
+      "**(i) Operating expenses.** Net profit = 8% of ₹3,60,00,000 = **₹28,80,000**, so profit before tax = ₹28,80,000 ÷ 0.60 = **₹48,00,000** and **EBIT = ₹48,00,000 + ₹3,36,000 = ₹51,36,000**. **Operating expenses = Sales − Cost of goods sold − EBIT = ₹3,60,00,000 − ₹1,44,00,000 − ₹51,36,000 = ₹1,64,64,000.**",
+      "**(ii) Share capital and reserves.** Return on net worth 30% on a net profit of ₹28,80,000 gives **net worth = ₹28,80,000 ÷ 0.30 = ₹96,00,000**. Split 6 : 4, so **share capital = ₹57,60,000 and reserves = ₹38,40,000**.",
+      "**(iii) Closing stock.** Inventory turnover 12 on cost of goods sold of ₹1,44,00,000 gives an average inventory of **₹12,00,000**; where the question treats this as the closing figure, **closing stock = ₹12,00,000**.",
+      "**(iv) Fixed assets.** Debentures = ₹3,36,000 ÷ 0.14 = **₹24,00,000**. Current liabilities include sundry creditors of ₹16,00,000, and a current ratio of 2 : 1 gives current assets of **₹32,00,000**. **Fixed assets = Net worth + Debentures + Current liabilities − Current assets = ₹96,00,000 + ₹24,00,000 + ₹16,00,000 − ₹32,00,000 = ₹1,04,00,000.**",
+      "ICAI labels this question 'Ratio Analysis' in the May 2026 RTP and repeats it almost word for word as Q1(a) of the May 2026 Series I mock test paper."
+     ],
+     "conclusion": "Four requirements, each one rearrangement of a ratio already given.",
+     "keywords": [
+      "return on net worth",
+      "share capital to reserves",
+      "inventory turnover",
+      "14% debentures"
+     ],
+     "also_asked_as": [
+      "MTP-M26-S1-FQ1a (P Limited, the same data set and the same four requirements)"
+     ]
+    },
+    {
+     "id": "RTP-S24-FQ4",
+     "status": "VERIFIED",
+     "question": "Complete the Balance Sheet of LP enterprises as on 31st March 2024 from: debt to total assets ratio 0.40; long-term debts to equity ratio 30%; gross profit margin on sales 20%; accounts receivable period 36 days; quick ratio 0.9; inventory holding period 60 days; cost of goods sold ₹64,00,000. Equity share capital is ₹20,00,000 and the balance sheet totals ₹50,00,000. Assume 360 days.",
+     "answer_points": [
+      "**Step 1 — Sales.** Gross profit margin is 20% on sales, so cost of goods sold is 80% of sales and **Sales = ₹64,00,000 ÷ 0.80 = ₹80,00,000**.",
+      "**Step 2 — Debt and reserves.** Debt to total assets 0.40 on total assets of ₹50,00,000 gives **total debt = ₹20,00,000**. Long-term debts to equity 30% on equity share capital of ₹20,00,000 gives **long-term debts = ₹6,00,000**, so accounts payable and other current liabilities make up the balance of the debt. **Reserves and surplus = Total assets − Equity share capital − Total debt = ₹50,00,000 − ₹20,00,000 − ₹20,00,000 = ₹10,00,000.**",
+      "**Step 3 — Inventories and receivables.** Inventory holding period 60 days gives **inventories = ₹64,00,000 × 60 ÷ 360 = ₹10,66,667**. Accounts receivable period 36 days gives **accounts receivable = ₹80,00,000 × 36 ÷ 360 = ₹8,00,000**.",
+      "**Step 4 — Cash and fixed assets.** Quick ratio 0.9 = (Accounts receivable + Cash) ÷ Current liabilities, which yields **cash**; current assets are the sum of inventories, receivables and cash, and **fixed assets = Total assets − Current assets**.",
+      "**Step 5 — Present the Balance Sheet**, both sides totalling ₹50,00,000, calculating to the nearest rupee as the RTP directs."
+     ],
+     "conclusion": "The balance sheet total is handed to you, which makes reserves and fixed assets the two balancing figures.",
+     "keywords": [
+      "debt to total assets",
+      "long-term debts to equity",
+      "inventory holding period",
+      "quick ratio"
+     ]
+    },
+    {
+     "id": "RTP-S25-FQ4",
+     "status": "VERIFIED",
+     "question": "Jamunapati Limited for the year ended 31st March 2024: sales ₹70,00,000; return on net worth 25%; rate of income tax 30%; share capital to reserves 7 : 3; current ratio 2; net profit to sales 7%; inventory turnover 10; cost of goods sold ₹24,00,000; interest on 15% debentures ₹1,05,000; receivables ₹3,00,000; payables ₹3,00,000. Calculate the operating expenses for the year and prepare the Balance Sheet as on 31st March 2024.",
+     "answer_points": [
+      "**Operating expenses.** Net profit = 7% of ₹70,00,000 = **₹4,90,000**; profit before tax = ₹4,90,000 ÷ 0.70 = **₹7,00,000**; **EBIT = ₹7,00,000 + ₹1,05,000 = ₹8,05,000**. **Operating expenses = Sales − Cost of goods sold − EBIT = ₹70,00,000 − ₹24,00,000 − ₹8,05,000 = ₹37,95,000.**",
+      "**Net worth and its split.** Return on net worth 25% on a net profit of ₹4,90,000 gives **net worth = ₹19,60,000**; split 7 : 3, **share capital = ₹13,72,000 and reserves and surplus = ₹5,88,000**.",
+      "**Debentures and current items.** Debentures = ₹1,05,000 ÷ 0.15 = **₹7,00,000**. Current ratio 2 on payables of ₹3,00,000 gives **current assets = ₹6,00,000**. Inventory turnover 10 on cost of goods sold gives **stock = ₹24,00,000 ÷ 10 = ₹2,40,000**; with receivables of ₹3,00,000, **cash = ₹6,00,000 − ₹2,40,000 − ₹3,00,000 = ₹60,000**.",
+      "**Fixed assets** = Net worth + Debentures + Payables − Current assets = ₹19,60,000 + ₹7,00,000 + ₹3,00,000 − ₹6,00,000 = **₹23,60,000**.",
+      "**Balance Sheet.** Liabilities: share capital ₹13,72,000; reserves and surplus ₹5,88,000; 15% debentures ₹7,00,000; payables ₹3,00,000 — **total ₹29,60,000**. Assets: fixed assets ₹23,60,000; stock ₹2,40,000; receivables ₹3,00,000; cash ₹60,000 — **total ₹29,60,000**.",
+      "ICAI's published answer opens with exactly this operating-expenses working note before presenting the statement."
+     ],
+     "conclusion": "Net profit ratio and return on net worth between them fix both sides of the statement.",
+     "keywords": [
+      "return on net worth",
+      "share capital to reserves",
+      "operating expenses",
+      "balancing"
+     ]
+    },
+    {
+     "id": "RTP-S26-FQ4",
+     "status": "VERIFIED",
+     "question": "ASD Ltd. for the year ended 31st March 2026: net profit 8% of sales; raw materials consumed 20% of cost of goods sold; direct wages 10% of cost of goods sold; stock of raw materials 3 months' usage; stock of finished goods 6% of cost of goods sold; gross profit 15% of sales; debt collection period 2 months (all sales on credit); current ratio 2 : 1; fixed assets to current assets 13 : 11; fixed assets to sales 1 : 3; long-term loans to current liabilities 2 : 1; capital to reserves and surplus 1 : 4. Fixed assets are ₹1,30,00,000. Prepare the Profit & Loss Statement and the Balance Sheet in the given formats.",
+     "answer_points": [
+      "**Step 1 — Sales and cost of goods sold.** Fixed assets to sales is 1 : 3 on fixed assets of ₹1,30,00,000, so **Sales = ₹3,90,00,000**. Gross profit is 15% of sales, so **cost of goods sold = 85% of ₹3,90,00,000 = ₹3,31,50,000** and **gross profit = ₹58,50,000**.",
+      "**Step 2 — The Profit & Loss Statement.** Direct materials consumed = 20% of COGS = **₹66,30,000**; direct wages = 10% of COGS = **₹33,15,000**; works overhead is the balance of COGS = ₹3,31,50,000 − ₹66,30,000 − ₹33,15,000 = **₹2,32,05,000**. Net profit = 8% of sales = **₹31,20,000**, so **selling and distribution expenses = ₹58,50,000 − ₹31,20,000 = ₹27,30,000**.",
+      "**Step 3 — Current assets and liabilities.** Fixed assets to current assets is 13 : 11, so **current assets = ₹1,30,00,000 × 11 ÷ 13 = ₹1,10,00,000**. Current ratio 2 : 1 gives **current liabilities = ₹55,00,000**, and long-term loans to current liabilities 2 : 1 gives **long-term loans = ₹1,10,00,000**.",
+      "**Step 4 — The current assets in detail.** Stock of raw materials = 3 months' usage = ₹66,30,000 × 3 ÷ 12 = **₹16,57,500**; stock of finished goods = 6% of COGS = **₹19,89,000**; debtors = 2 months' credit sales = ₹3,90,00,000 × 2 ÷ 12 = **₹65,00,000**; **cash is the balancing figure** = ₹1,10,00,000 − ₹16,57,500 − ₹19,89,000 − ₹65,00,000 = **₹8,53,500**.",
+      "**Step 5 — Share capital and reserves.** Total assets = ₹1,30,00,000 + ₹1,10,00,000 = ₹2,40,00,000; less long-term loans ₹1,10,00,000 and current liabilities ₹55,00,000 leaves shareholders' funds of **₹75,00,000**, split 1 : 4 as **share capital ₹15,00,000 and reserves and surplus ₹60,00,000**.",
+      "This is the fullest reverse-working question in the set, because it asks for both statements."
+     ],
+     "conclusion": "Nine ratios, two statements; work sales first and the rest falls out in order.",
+     "keywords": [
+      "fixed assets to sales",
+      "works overhead as the balance",
+      "capital to reserves",
+      "balancing figure"
+     ]
+    },
+    {
+     "id": "MTP-J25-S1-FQ2a",
+     "marks": 6,
+     "status": "VERIFIED",
+     "question": "From the following of M/s Anya Co. Ltd., prepare the Trading and Profit & Loss Account for the year ended 31 March 2024 and a summarised Balance Sheet as at that date: current ratio 2.5; quick ratio 1.3; proprietary ratio (fixed assets ÷ proprietary fund) 0.6; gross profit to sales ratio 10%; debtors velocity 40 days; sales ₹7,30,000; working capital ₹1,20,000; bank overdraft ₹15,000; share capital ₹2,50,000. Closing stock is 10% more than opening stock, and net profit is 10% of proprietary funds.",
+     "answer_points": [
+      "**Step 1 — Current assets and current liabilities.** Current ratio 2.5 means working capital = 1.5 × current liabilities, so **current liabilities = ₹1,20,000 ÷ 1.5 = ₹80,000** and **current assets = ₹2,00,000**.",
+      "**Step 2 — Stock.** The gap between the current and quick ratios is stock: (2.5 − 1.3) × ₹80,000 = **₹96,000 closing stock**. Since closing stock is 10% more than opening stock, **opening stock = ₹96,000 ÷ 1.1 = ₹87,273 (approx.)**.",
+      "**Step 3 — Debtors and cash.** Debtors velocity 40 days on sales of ₹7,30,000 gives **debtors = ₹7,30,000 × 40 ÷ 365 = ₹80,000**. **Cash = Current assets − stock − debtors = ₹2,00,000 − ₹96,000 − ₹80,000 = ₹24,000.**",
+      "**Step 4 — Proprietary fund and fixed assets.** Total assets = fixed assets + current assets, and proprietary fund + current liabilities = total assets. With fixed assets ÷ proprietary fund = 0.6, **0.6 PF + ₹2,00,000 = PF + ₹80,000**, so 0.4 PF = ₹1,20,000 and **proprietary fund = ₹3,00,000**, giving **fixed assets = ₹1,80,000**. Reserves = ₹3,00,000 − ₹2,50,000 share capital = **₹50,000**.",
+      "**Step 5 — The Trading and Profit & Loss Account.** Gross profit = 10% of ₹7,30,000 = **₹73,000**, so cost of goods sold = **₹6,57,000**; purchases = COGS − opening stock + closing stock. Net profit = 10% of proprietary funds = 10% of ₹3,00,000 = **₹30,000**, so expenses = ₹73,000 − ₹30,000 = **₹43,000**.",
+      "Note that this question uses a 365-day year for debtors velocity, which the MTP's own answer follows."
+     ],
+     "conclusion": "Six marks because two statements are required; the opening move is still working capital ÷ (ratio − 1).",
+     "keywords": [
+      "debtors velocity",
+      "proprietary ratio",
+      "closing stock 10% more",
+      "net profit as a % of proprietary funds"
+     ]
+    },
+    {
+     "id": "MTP-J25-S2-FQ1a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Alpha Limited as on 31st March 2023: equity share capital (₹10 fully paid) ₹20,00,000; working capital ₹6,00,000; bank overdraft ₹1,00,000; current ratio 2.5 : 1; liquidity ratio 1.5 : 1; proprietary ratio (net fixed assets ÷ proprietary fund) 0.75 : 1; cost of sales ₹14,40,000; debtors velocity 2 months; stock turnover based on cost of sales 4 times; gross profit ratio 20% of sales; net profit ratio 15% of sales. Closing stock was 25% higher than opening stock; expenses include depreciation of ₹90,000. For the year ended 31st March 2024 total sales were 20% higher, with stock ₹5,20,000, creditors ₹4,15,000, debtors ₹4,95,000 and cash ₹3,10,000. Prepare the Balance Sheet as on 31st March 2024.",
+     "answer_points": [
+      "**Step 1 — The 2023 position.** Current ratio 2.5 means working capital = 1.5 × current liabilities, so **current liabilities = ₹6,00,000 ÷ 1.5 = ₹4,00,000** and **current assets = ₹10,00,000**. The gap between the current and liquidity ratios gives **stock = (2.5 − 1.5) × ₹4,00,000 = ₹4,00,000**.",
+      "**Step 2 — Proprietary fund and fixed assets for 2023.** Proprietary fund + current liabilities = net fixed assets + current assets, and net fixed assets = 0.75 × proprietary fund, so **0.75 PF + ₹10,00,000 = PF + ₹4,00,000**, giving **PF = ₹24,00,000** and **net fixed assets = ₹18,00,000**. Free reserves = ₹24,00,000 − ₹20,00,000 = **₹4,00,000**.",
+      "**Step 3 — The 2024 figures.** Sales for 2023 = cost of sales ÷ 0.80 = ₹14,40,000 ÷ 0.80 = **₹18,00,000**, so **2024 sales = ₹21,60,000** and net profit at 15% = **₹3,24,000**.",
+      "**Step 4 — The 2024 Balance Sheet.** Current assets are given directly: stock ₹5,20,000 + debtors ₹4,95,000 + cash ₹3,10,000 = **₹13,25,000**; current liabilities are creditors ₹4,15,000 plus the bank overdraft. Proprietary fund = opening ₹24,00,000 plus the year's retained profit, and **net fixed assets are the balancing figure after adding back or deducting depreciation of ₹90,000**.",
+      "The two-year structure makes this a horizontal-analysis question dressed as a reverse-working one."
+     ],
+     "conclusion": "Build 2023 first from the ratios, then roll it forward to 2024 with the given balances.",
+     "keywords": [
+      "liquidity ratio",
+      "proprietary ratio",
+      "free reserves",
+      "roll forward"
+     ]
+    },
+    {
+     "id": "MTP-M24-S1-FQ1c",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "ANVY Ltd. for the year ended 31st March 2023: equity share capital ₹2,00,000; current debt to total debt 0.50; total debt to equity share capital 0.60; fixed assets to equity share capital 0.70; total assets turnover 2.5 times; inventory turnover 10 times. Prepare the Balance Sheet as on 31st March 2023.",
+     "answer_points": [
+      "**Step 1 — Debt.** Total debt = 0.60 × ₹2,00,000 = **₹1,20,000**; current debt = 0.50 × ₹1,20,000 = **₹60,000**, so **long-term debt = ₹60,000**.",
+      "**Step 2 — Total assets.** Total assets = Equity share capital + Total debt = ₹2,00,000 + ₹1,20,000 = **₹3,20,000**.",
+      "**Step 3 — Fixed and current assets.** Fixed assets = 0.70 × ₹2,00,000 = **₹1,40,000**, so **current assets = ₹3,20,000 − ₹1,40,000 = ₹1,80,000**.",
+      "**Step 4 — Sales and inventory.** Total assets turnover 2.5 gives **Sales = 2.5 × ₹3,20,000 = ₹8,00,000**; inventory turnover 10 gives **inventory = ₹8,00,000 ÷ 10 = ₹80,000**, leaving **cash and other current assets of ₹1,00,000**.",
+      "**Balance Sheet.** Liabilities: equity share capital ₹2,00,000; long-term debt ₹60,000; current debt ₹60,000 — **total ₹3,20,000**. Assets: fixed assets ₹1,40,000; inventory ₹80,000; cash and other current assets ₹1,00,000 — **total ₹3,20,000**.",
+      "Note that this MTP expresses the inventory turnover on **sales**, not on cost of goods sold, because no gross profit ratio is given — an illustration of the study material's instruction to calculate on the information available and state the assumption."
+     ],
+     "conclusion": "The simplest reverse-working question in the set; every ratio is stated against equity share capital.",
+     "keywords": [
+      "current debt to total debt",
+      "total assets turnover",
+      "inventory turnover on sales",
+      "state the assumption"
+     ]
+    },
+    {
+     "id": "MTP-M25-S2-FQ3a",
+     "marks": 8,
+     "status": "VERIFIED",
+     "question": "Simandhar Limited for the year ended 31.03.2025: liquid ratio 2.0; cash asset ratio 0.36; current ratio 3.50; receivables collection period 30 days; proprietary ratio 0.72; equity dividend ₹2,50,000; equity dividend coverage ratio 2.10; non-current assets turnover ratio 0.80; EPS ₹3.00 per share; stock turnover ratio 6.0 times; GP ratio one-fifth of sales; current liabilities ₹2,80,000. Assume 360 days; closing inventory is 20% more than opening inventory. Complete the Balance Sheet as of 31st March 2025.",
+     "answer_points": [
+      "**Step 1 — Current assets and their split.** Current ratio 3.50 on current liabilities of ₹2,80,000 gives **current assets = ₹9,80,000**. Liquid ratio 2.0 gives liquid assets of ₹5,60,000, so **inventory = ₹9,80,000 − ₹5,60,000 = ₹4,20,000**. Cash asset ratio 0.36 gives **cash and bank = 0.36 × ₹2,80,000 = ₹1,00,800**.",
+      "**Step 2 — Earnings and share capital.** SM §3.2.2: equity dividend coverage = (EAT − preference dividend) ÷ Equity dividend, so **earnings available to equity = 2.10 × ₹2,50,000 = ₹5,25,000**. With an EPS of ₹3.00, the **number of equity shares = ₹5,25,000 ÷ ₹3 = 1,75,000**, so **equity share capital = 1,75,000 × ₹10 = ₹17,50,000**.",
+      "**Step 3 — Sales and receivables.** Stock turnover 6.0 times on cost of goods sold, with average inventory derived from the closing figure of ₹4,20,000 (20% above opening), gives **cost of goods sold**; the GP ratio of one-fifth of sales converts it to **sales**. Receivables = Sales × 30 ÷ 360.",
+      "**Step 4 — Fixed assets and the funding split.** Non-current assets turnover 0.80 on sales gives **fixed assets**. Proprietary ratio 0.72 = proprietary fund ÷ total assets fixes the **proprietary fund**, of which equity share capital is ₹17,50,000 and **reserves are the balance**; **long-term debentures are the balancing figure** on the liabilities side.",
+      "**Step 5 — Present the Balance Sheet** in the MTP's format, with short-term advances as the remaining current asset.",
+      "Eight marks because the question chains four families together — liquidity, coverage, activity and the owner's view — before the statement can be drawn."
+     ],
+     "conclusion": "The equity dividend coverage ratio is the unusual entry point: it gives earnings, and EPS then gives the share count.",
+     "keywords": [
+      "cash asset ratio",
+      "equity dividend coverage",
+      "non-current assets turnover",
+      "proprietary ratio"
+     ]
+    },
+    {
+     "id": "MTP-S25-S1-FQ1b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Gagan Pvt. Ltd. for the year ending 31st March 2025: current ratio 2.5 : 1; debt-equity ratio 1 : 2; return on total assets (after tax) 15%; total assets turnover ratio 2; gross profit ratio 25%; stock turnover ratio 5; net working capital ₹15,00,000; fixed assets ₹30,00,000; 1,80,000 equity shares of ₹10 each; 60,000 10% preference shares of ₹10 each; opening stock ₹16,00,000. Calculate (a) quick ratio, (b) fixed assets turnover ratio, (c) proprietary ratio, (d) earnings per share.",
+     "answer_points": [
+      "**Step 1 — Current assets and current liabilities.** Current ratio 2.5 means net working capital = 1.5 × current liabilities, so **current liabilities = ₹15,00,000 ÷ 1.5 = ₹10,00,000** and **current assets = ₹25,00,000**.",
+      "**Step 2 — Total assets and sales.** **Total assets = ₹30,00,000 + ₹25,00,000 = ₹55,00,000.** Total assets turnover 2 gives **Sales = ₹1,10,00,000**, and a gross profit ratio of 25% gives **cost of goods sold = ₹82,50,000**.",
+      "**Step 3 — Closing stock and the quick ratio.** Stock turnover 5 on cost of goods sold gives an average stock of ₹16,50,000; with opening stock of ₹16,00,000, **closing stock = ₹17,00,000**. **(a) Quick ratio = (₹25,00,000 − ₹17,00,000) ÷ ₹10,00,000 = 0.80 : 1.**",
+      "**(b) Fixed assets turnover ratio** = Sales ÷ Fixed assets = ₹1,10,00,000 ÷ ₹30,00,000 = **3.67 times**.",
+      "**(c) Proprietary ratio.** Debt-equity 1 : 2 on total debt (including current liabilities of ₹10,00,000) and shareholders' funds gives the split; **proprietary fund = equity ₹18,00,000 + preference ₹6,00,000 + reserves**, and **proprietary ratio = proprietary fund ÷ total assets of ₹55,00,000** (SM §3.2.1(f) includes preference share capital in the proprietary fund).",
+      "**(d) Earnings per share.** Return on total assets (after tax) 15% gives **profit after tax = 15% of ₹55,00,000 = ₹8,25,000**; less preference dividend of 10% on ₹6,00,000 = ₹60,000 leaves ₹7,65,000, so **EPS = ₹7,65,000 ÷ 1,80,000 = ₹4.25**.",
+      "The preference dividend deduction in part (d) is the single most commonly dropped mark in the whole chapter."
+     ],
+     "conclusion": "Four requirements spanning liquidity, activity, structure and the owner's view.",
+     "keywords": [
+      "net working capital",
+      "total assets turnover",
+      "proprietary ratio",
+      "preference dividend"
+     ]
+    },
+    {
+     "id": "MTP-S26-S1-FQ3b",
+     "status": "VERIFIED",
+     "question": "Complete the Balance Sheet from: current ratio 2.5; liquid ratio 1.5; working capital ₹4,80,000; fixed assets to proprietary ratio; and reserves and surplus as a stated proportion of share capital.",
+     "answer_points": [
+      "**Step 1 — Current assets and current liabilities.** Current assets ÷ Current liabilities = 2.5, and working capital = current assets − current liabilities, so ₹4,80,000 = 2.5 CL − CL = 1.5 CL. **Current liabilities = ₹3,20,000** and **current assets = ₹3,20,000 × 2.5 = ₹8,00,000**.",
+      "**Step 2 — Stock.** Liquid ratio = (Current assets − Inventories) ÷ Current liabilities, so 1.5 × ₹3,20,000 = ₹4,80,000 = ₹8,00,000 − Inventories, giving **Stock = ₹3,20,000**.",
+      "**Step 3 — Proprietary fund and fixed assets.** With fixed assets ÷ proprietary fund given, the identity proprietary fund + current liabilities = fixed assets + current assets yields the **proprietary fund**, and the ratio then gives **fixed assets**.",
+      "**Step 4 — Share capital and reserves.** Reserves stated as a proportion of share capital split the proprietary fund between **capital and sundry creditors** on the liabilities side.",
+      "**Step 5 — Present the Balance Sheet**, both sides totalling the same figure. ICAI's answer file shows exactly these working notes in this order.",
+      "Only the answer file of this mock test paper is on the portal; the question wording above is reconstructed from it."
+     ],
+     "conclusion": "The archetype of the whole chapter: working capital ÷ (current ratio − 1) opens every one of these.",
+     "keywords": [
+      "working capital",
+      "liquid ratio",
+      "proprietary fund",
+      "sundry creditors"
+     ]
+    }
+   ],
+   "expected_questions": [
+    {
+     "id": "EQ-F03.22-1",
+     "form": "Reverse working (5 marks)",
+     "marks": 5,
+     "question": "From the following prepare the Balance Sheet of a company: current ratio 2.5, liquid ratio 1.5, working capital ₹4,80,000, fixed assets to proprietary ratio 0.75, and reserves and surplus 20% of share capital. Show your working notes.",
+     "answer_points": [
+      "**Working note 1 — Current assets and current liabilities.** Current assets ÷ Current liabilities = 2.5, so current assets = 2.5 × current liabilities. Working capital = current assets − current liabilities, so ₹4,80,000 = 2.5 CL − CL = 1.5 CL. **Current liabilities = ₹3,20,000** and **current assets = ₹3,20,000 × 2.5 = ₹8,00,000**.",
+      "**Working note 2 — Inventory.** Liquid ratio = (Current assets − Inventories) ÷ Current liabilities, so 1.5 = (₹8,00,000 − Inventories) ÷ ₹3,20,000. Therefore 1.5 × ₹3,20,000 = ₹4,80,000 = ₹8,00,000 − Inventories, giving **Inventories = ₹3,20,000**.",
+      "**Working note 3 — Proprietary fund and fixed assets.** Fixed assets ÷ Proprietary fund = 0.75, and proprietary fund + current liabilities = fixed assets + current assets. Substituting, 0.75 PF + ₹8,00,000 = PF + ₹3,20,000, so 0.25 PF = ₹4,80,000 and **Proprietary fund = ₹19,20,000**; **Fixed assets = 0.75 × ₹19,20,000 = ₹14,40,000**.",
+      "**Working note 4 — Share capital and reserves.** Reserves are 20% of share capital, so share capital + 0.20 share capital = ₹19,20,000, giving **Share capital = ₹16,00,000** and **Reserves and surplus = ₹3,20,000**.",
+      "**Balance Sheet.** Liabilities: share capital ₹16,00,000; reserves and surplus ₹3,20,000; current liabilities (sundry creditors) ₹3,20,000; **total ₹22,40,000**. Assets: fixed assets ₹14,40,000; inventories ₹3,20,000; other current assets ₹4,80,000; **total ₹22,40,000**.",
+      "This is the pattern of the Sep 2026 Series I mock test paper's answer, working in exactly this order."
+     ],
+     "keywords": [
+      "working capital",
+      "liquid ratio",
+      "proprietary fund",
+      "balancing"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F03.22-01",
+     "angle": "Method",
+     "difficulty": "Moderate",
+     "question": "In a reverse-working question, purchases are derived from cost of goods sold as:",
+     "options": {
+      "A": "Cost of goods sold + Opening stock − Closing stock",
+      "B": "Cost of goods sold − Opening stock + Closing stock",
+      "C": "Cost of goods sold ÷ Average stock",
+      "D": "Sales − Gross profit − Closing stock"
+     },
+     "answer": "B",
+     "explanation": "Cost of goods sold = opening stock + purchases − closing stock, so purchases = cost of goods sold − opening stock + closing stock. ICAI uses this chain in the Sep 2024 and Sep 2026 RTPs before computing the creditors turnover ratio.",
+     "why_wrong": {
+      "A": "The signs are reversed.",
+      "C": "That is the inventory turnover ratio.",
+      "D": "This omits opening stock."
+     },
+     "trap": "Getting the signs the wrong way round changes the creditors turnover ratio, not just the purchases figure.",
+     "concept": "F03.22"
+    },
+    {
+     "id": "MCQ-F03.22-02",
+     "angle": "Method",
+     "difficulty": "Moderate",
+     "question": "A company has a current ratio of 2.5 and working capital of ₹4,80,000. Its current liabilities are:",
+     "options": {
+      "A": "₹1,92,000",
+      "B": "₹8,00,000",
+      "C": "₹3,20,000",
+      "D": "₹12,00,000"
+     },
+     "answer": "C",
+     "explanation": "Working capital = current assets − current liabilities = 2.5 CL − CL = 1.5 CL. So CL = ₹4,80,000 ÷ 1.5 = ₹3,20,000 (and current assets = ₹8,00,000).",
+     "why_wrong": {
+      "A": "This divides working capital by 2.5 rather than by 1.5.",
+      "B": "That is the current assets figure.",
+      "D": "No basis in the data."
+     },
+     "trap": "Divide by (ratio − 1), not by the ratio itself.",
+     "concept": "F03.22"
+    }
+   ],
+   "recap": [
+    "Section 8 is one table: every formula and its interpretation in one place.",
+    "Reverse working in five steps: sales → current assets → each current asset → the long-term side → total and check.",
+    "Purchases = cost of goods sold − opening stock + closing stock.",
+    "Divide working capital by (current ratio − 1) to get current liabilities.",
+    "State the assumption whenever two formulae are possible."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+p2	1. INTRODUCTION
+p2	2. MEANING OF COST OF CAPITAL
+p2	3. SIGNIFICANCE OF COST OF CAPITAL
+p3	(iii) Designing of optimum credit policy: While appraising the credit period to
+p3	4. DETERMINATION OF COST OF CAPITAL
+p5	5. COST OF LONG-TERM DEBT (KD)
+p5	5.1 Features of Debentures or Bonds
+p5	(ii)  Interest (Coupon) Rate: Each debenture bears a fixed interest (coupon)
+p6	(iii)  Maturity period: Debentures or Bonds has a fixed maturity period for
+p6	(iv)  Redemption Value: Redeemable debentures or bonds are redeemed on its
+p6	(v)  Benefit of tax shield: The payment of interest to the debenture holders are
+p6	60 Tax @ 35%
+p6	39 A comparison of the two companies shows that an interest payment of ` 40 by
+p7	5.2 Cost of Irredeemable Debentures
+p8	5.3 Cost of Redeemable Debentures (using approximation
+p11	5.3.1 Cost of Debt using Present value method [Yield to maturity
+p11	0 Net proceeds in case of new issue/ Current market price in case of
+p11	0 Current market price (P0) = `80
+p13	5.3.2 Amortisation of Bond
+p14	5.4 Cost of Convertible Debentures
+p16	6. COST OF PREFERENCE SHARE CAPITAL (KP)
+p16	6.1 Cost of Irredeemable Preference Shares
+p18	6.2 Cost of Redeemable Preference Shares
+p19	2 K =
+p19	7. COST OF EQUITY SHARE CAPITAL (KE)
+p20	7.1 Dividend Price Approach
+p20	7.2 Earnings Price Approach
+p21	7.3 Growth Approach or Gordon's Model
+p21	0 D +g
+p22	0 D +g
+p24	7.4 Realized Yield Approach
+p24	5 End
+p25	5 Dividend per share(`)
+p25	7.5 Capital Asset Pricing Model (CAPM) Approach
+p28	8. COST OF RETAINED EARNINGS (KR)
+p30	0 D +g
+p30	0 D (1+g)+g
+p31	9. WEIGHTED AVERAGE COST OF CAPITAL
+p33	9.1 Choice of Weights
+p33	1. Definition
+p33	2. Reflects
+p34	3. Stability
+p34	4. Relevance
+p34	5. Ease
+p36	(ii)  Cost of Debt (Kd)
+p36	(iii)  Cost of Preference shares (Kp)
+p38	10. MARGINAL COST OF CAPITAL
+p40	0 I(1-t)
+p40	0 D +g
+p41	0 D +g
+p43	1. Which of the following is not an assumption of the capital asset pricing model
+p43	2. Given: risk-free rate of return = 5 %; market return = 10%; cost of equity = 15%;
+p43	4. Which of the following cost of capital requires to adjust taxes?
+p43	5. Marginal Cost of capital is the cost of:
+p44	6. In order to calculate Weighted Average Cost of Capital, weights may be based
+p44	7. Firm's Cost of Capital is the average cost of:
+p44	8. A company has a financial structure where equity is 70% of its total debt plus
+p44	9. The cost of equity capital is all of the following except:
+p45	10. What is the overall (weighted average) cost of capital when the firm has ` 20
+p45	2. DISCUSS the dividend price approach and earnings price approach to
+p45	3. What is the DIFFERENCE between Book Value and Market Value weights for
+p45	1. Gamma Limited has 5,00,000,` 1 ordinary shares whose current ex-dividend
+p45	2. The following details are provided by the GPS Limited:
+p46	3. ABC Company's equity share is quoted in the market at `25 per share
+p46	4. Masco Limited wishes to raise additional finance of ` 10 lakhs for meeting its
+p47	5. DETERMINE the cost of capital of Best Luck Limited using the book value (BV)
+p48	7. A company issues:
+p51	1. Please refer paragraph 9
+p51	4. Please refer paragraph 10
+p52	2. Calculation of Weighted Average Cost of Capital (WACC)
+p52	0 Expected dividend pershare(D )+Growth rate(g)
+p53	(ii)  Cost of Debenture (Kd):
+p53	0 Current market price (P0) = ` 96
+p54	0 D (1
+p55	0 D +g
+p55	(iii)  Cost of Preference Shares (Kp) =
+p55	(iv)  Cost of Debentures (Kd) =
+p57	6. Workings:
+p58	(ii)  Calculation of Weighted Average Cost of Capital (WACC) after the
+p58	(i)   Calculation of Cost of Convertible Debentures:
+p59	(ii)  Calculation of Cost of Preference Shares:
+p60	0 D +g

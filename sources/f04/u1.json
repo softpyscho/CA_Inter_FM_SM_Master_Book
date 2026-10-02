@@ -1,0 +1,724 @@
+{
+ "meta": {
+  "chapter_no": 4,
+  "section": "FM",
+  "paper": "CA Intermediate · Paper 6A · Financial Management",
+  "chapter_title": "FM Chapter 4 — Cost of Capital",
+  "short_title": "FM Ch 4 Cost of Capital",
+  "module": "Paper 6A Financial Management · Module 1",
+  "attempt": "January 2027",
+  "sm_edition": "ICAI BoS Study Material, Paper 6A (relevant for May 2026 examination onwards), Module 1, Chapter 4",
+  "last_verified": "18-09-2026",
+  "status_summary": "SM headings 24/24 · official atoms 31/31"
+ },
+ "sections_before": [
+  {
+   "heading": "Examiner Mindset — FM Chapter 4",
+   "blocks": [
+    {
+     "type": "box",
+     "tag": "pyq",
+     "title": "What ICAI's published papers tell us",
+     "bullets": [
+      "ICAI has published no examiners' comments for Paper 6; the guidance below comes from its suggested answers, RTPs and MTPs.",
+      "**This is the highest-scoring chapter of the paper.** A cost-of-capital question has appeared in every past paper from May 2024 to May 2026, usually as a 5 to 10 mark part of Question 1 or Question 2, and in every RTP and almost every MTP.",
+      "The standard question gives a capital structure and asks for the cost of each source and then the **weighted average cost of capital** — eight of the thirty-five official questions here take exactly that form.",
+      "**CAPM is the single most tested formula** in the chapter: it opened the January 2025, January 2026 and September 2024 papers.",
+      "**Convertible debentures** are the favourite twist: you must first decide the redemption value as the higher of the cash value and the value of the shares on conversion."
+     ]
+    },
+    {
+     "type": "box",
+     "tag": "face",
+     "title": "How ICAI marks this chapter (study guidance)",
+     "bullets": [
+      "Marks follow the **formula, the working note and the answer**. Each cost — Kd, Kp, Ke, Kr — is usually worth one to two marks, and the WACC table one to three.",
+      "**Say which weights you are using.** Book value and market value weights give different answers and ICAI accepts the one the question asks for; if the question is silent, state your assumption.",
+      "Where the study material offers two formulae (redeemable debt with and without tax relief on discount and premium), it says expressly: 'in absence of any specific information, students may use any of the above formulae with logical assumption'.",
+      "**Present the WACC as a four-column table** — source, amount, weight, cost, product — exactly as the study material's own illustration does."
+     ]
+    }
+   ]
+  }
+ ],
+ "snapshot": {
+  "about": "What each rupee of capital costs the company: the cost of long-term debt (irredeemable, redeemable, by yield to maturity, amortised and convertible), of preference capital (irredeemable and redeemable), of equity (five approaches) and of retained earnings — and how they combine into the weighted average and marginal cost of capital.",
+  "why": "It appears in every attempt, and the WACC it produces is the discount rate for capital budgeting (Ch 7) and the benchmark for capital structure (Ch 5).",
+  "core_concepts": [
+   "F04.02–F04.04 What cost of capital means, why it matters and how it is determined",
+   "F04.07–F04.11 Cost of debt: irredeemable, redeemable by approximation, by yield to maturity, amortised bonds and convertibles",
+   "F04.13–F04.14 Cost of preference capital, irredeemable and redeemable",
+   "F04.16–F04.20 Cost of equity: dividend price, earnings price, growth (Gordon), realised yield and CAPM",
+   "F04.21 Cost of retained earnings and why it is lower than the cost of equity",
+   "F04.22–F04.24 Weighted average cost of capital, the choice of weights, and marginal cost of capital"
+  ],
+  "key_provisions": [
+   "Cost of capital is also known as the cut-off rate, hurdle rate or minimum rate of return",
+   "Net proceeds = issue price less floatation cost; if the issue price is not given, assume it equals the current market price; if issue expenses are not given, assume they are zero",
+   "Preference dividend is not tax deductible, so no (1 − t) appears in Kp",
+   "Floatation cost is not used in computing the cost of retained earnings",
+   "Marginal weights are the proportions the firm intends to employ, so the book-value versus market-value choice does not arise"
+  ],
+  "tested_areas": [
+   {
+    "text": "Compute each cost and then the WACC on book or market value weights",
+    "evidence": "PYQ Jan 2025 Q2(a), May 2024 Q2(a), Sep 2024 Q2(a), May 2025 Q2(a), Sep 2025 Q1(a), Jan 2026 Q1(c); RTPs Jan 2025, Sep 2024, May 2025, Jan 2026; MTPs Jan 2025 S1, Mar 2024 S1, May 2025 S1, Sep 2024 S2, Sep 2025 S2"
+   },
+   {
+    "text": "Cost of equity by CAPM",
+    "evidence": "PYQ Jan 2025 Q2(a), Sep 2024 Q2(a), Jan 2026 Q1(c); RTP May 2026; MTP Sep 2026 Series II"
+   },
+   {
+    "text": "Cost of convertible debentures — redemption value as the higher of cash and shares",
+    "evidence": "PYQ May 2024 Q2(a), May 2026 Q1(b); MTP May 2025 Series II, Sep 2025 Series I"
+   },
+   {
+    "text": "Marginal cost of capital and the cut-off rate",
+    "evidence": "RTP May 2024, Sep 2025; MTP Mar 2024 both series, Sep 2024 Series I, Jan 2026 Series I"
+   },
+   {
+    "text": "Cost of redeemable debt by the approximation method and by yield to maturity",
+    "evidence": "PYQ Sep 2024 Q2(a), Sep 2025 Q3(b)"
+   }
+  ],
+  "mistakes": [
+   "Applying (1 − t) to the preference dividend. Preference dividend is an appropriation of after-tax profit, so there is no tax shield.",
+   "Using the face value instead of net proceeds. Net proceeds are the issue price less floatation cost.",
+   "Deducting floatation cost when computing the cost of retained earnings; the study material says the concept is not used there.",
+   "Taking the cash value as the redemption value of a convertible debenture when the share value on conversion is higher."
+  ],
+  "links": [
+   "🔗 FM Ch 2: the sources whose costs are computed here",
+   "🔗 FM Ch 5: WACC is minimised at the optimum capital structure",
+   "🔗 FM Ch 7: WACC is the discount rate for net present value",
+   "🔗 FM Ch 8: Gordon's model and the growth rate g = b × r"
+  ],
+  "revision_path": "5 min: the formula for each of Kd, Kp, Ke, Kr and WACC · 15 min: add the redeemable variants and CAPM · 30 min: work one full WACC question on both book and market value weights."
+ },
+ "evidence": {
+  "pyq_table": [
+   {
+    "id": "PYQ-M24-Q2a",
+    "question": "Shine Ltd: cost of convertible debentures, redeemable preference, term loan and the WACC",
+    "concept": "F04.22",
+    "marks": 7,
+    "type": "Compute",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S24-Q2a",
+    "question": "T Limited: CAPM, debentures on yield to maturity, redeemable preference and the WACC",
+    "concept": "F04.22",
+    "marks": 7,
+    "type": "Compute",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-J25-Q2a",
+    "question": "CMC Limited: CAPM, convertible debenture by approximation, bank term loan and the WACC on market value weights",
+    "concept": "F04.22",
+    "marks": 7,
+    "type": "Compute",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M25-Q2a",
+    "question": "B Ltd: cost of each source and the WACC",
+    "concept": "F04.22",
+    "marks": 5,
+    "type": "Compute",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S25-Q1a",
+    "question": "RSA Limited: cost of each source and the WACC",
+    "concept": "F04.22",
+    "marks": 5,
+    "type": "Compute",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S25-Q3b",
+    "question": "20,000 18% debentures redeemable after 8 years: cost by the approximation method",
+    "concept": "F04.08",
+    "marks": 5,
+    "type": "Compute",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-J26-Q1c",
+    "question": "PQR Ltd: CAPM, irredeemable preference, convertible debentures, WACC and market price per share",
+    "concept": "F04.22",
+    "marks": 10,
+    "type": "Case MCQs",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M26-Q1b",
+    "question": "Z Ltd: 8% convertible debentures with five years to maturity",
+    "concept": "F04.11",
+    "marks": 5,
+    "type": "Compute",
+    "repeat": "R5"
+   }
+  ],
+  "trend": [
+   "Every attempt from May 2024 to May 2026 carried a cost-of-capital question, six of them as a full WACC computation.",
+   "January 2026 turned the whole topic into a five-part case scenario in Part I, worth 10 marks — the first time the chapter has been examined entirely through MCQs.",
+   "Convertible debentures appeared in May 2024, January 2025, January 2026 and May 2026: four attempts out of six."
+  ],
+  "rtp_takeaways": [
+   "Every RTP in the set carries a question ICAI labels 'Cost of Capital' or 'Financing Decision — Cost of Capital'.",
+   "The September 2026 RTP opened with a five-part case scenario on existing and revised WACC — the same format January 2026 then used in the exam.",
+   "Marginal cost of capital appears in the May 2024 and September 2025 RTPs, both times as a 'how much can be spent before new shares must be issued' question."
+  ],
+  "mtp_takeaways": [
+   "Thirteen MTPs carry a cost-of-capital question; six of them ask for the WACC twice — before and after a change in the capital structure.",
+   "The dividend-price approach was asked as a standalone 2-mark theory part in March 2024 Series I.",
+   "Two MTPs set the cut-off rate for projects of different sizes, which is the marginal cost of capital in disguise."
+  ],
+  "note": "Counting method: every official part mapped to this chapter from ICAI suggested answers (May 2024 to May 2026), RTPs (May 2024 to Sep 2026, using ICAI's own topic labels) and MTPs (Mar 2024 to Aug 2026)."
+ },
+ "concepts": [
+  {
+   "code": "F04.01 + F04.02 + F04.03",
+   "title": "1–3. Introduction, the Meaning of Cost of Capital and its Significance",
+   "activity": "Medium",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 0",
+   "understand": [
+    "**Why the chapter exists (§1).** The basic task of a finance manager is **procurement of funds and their effective utilisation**, and the objective of financial management is **maximisation of the wealth of shareholders**. ==Here **wealth or value is equal to performance divided by expectations**.== The finance manager must therefore select a capital structure **in which the expectation of investors is minimum, hence shareholders' wealth is maximum** — and for that he first needs to calculate the cost of each source of finance.",
+    "**Meaning (§2).** ==**Cost of capital is the return expected by the providers of capital — shareholders, lenders and debt-holders — to the business, as compensation for their contribution to the total capital.**== When an entity procures finance it has to pay some **additional amount of money besides the principal**, either as a **one-off payment or a regular payment at specified intervals**. This additional money is the **cost of using the capital**, and **expressed as a rate it is used to discount or compound the cash flow or stream of cash flows**.",
+    "==Cost of capital is also known as the **'cut-off' rate, 'hurdle rate' or 'minimum rate of return'**.== It is used as a **benchmark for framing debt policies of an entity and for taking capital budgeting decisions**.",
+    "**Significance (§3).** The correct cost of capital helps in three decisions. **(i) Evaluation of investment options:** the estimated future cash flows from available opportunities are **converted into present value by discounting them with the relevant cost of capital**; since **every investment option may have a different cost of capital**, it is important to use the one relevant to the option. **(ii) Financing decision:** when choosing between two sources of finance, the manager can **compare their cost and choose the source which has the lower cost**, and besides cost may also consider **financial risk and control**. **(iii) Designing of optimum credit policy:** while appraising the credit period to be allowed to customers, **the cost of allowing credit is compared against the benefit or profit earned**, and cost of capital is used to arrive at **the present value of costs and benefits received**."
+   ],
+   "example": "A project promising 14% is accepted if the company's cost of capital is 11% and rejected if it is 16% — the same project, two answers, because the hurdle rate changed.",
+   "provisions": [
+    {
+     "ref": "Cost of capital (SM §2)",
+     "status": "VERIFIED",
+     "requirement": "The return expected by the providers of capital as compensation for their contribution; also called the cut-off rate, hurdle rate or minimum rate of return; used as a benchmark for debt policy and capital budgeting.",
+     "exam_angle": "A short note, and the definition line that opens any 'significance of cost of capital' answer."
+    }
+   ],
+   "keywords": [
+    "return expected by the providers of capital",
+    "compensation for their contribution",
+    "cut-off rate",
+    "hurdle rate",
+    "minimum rate of return",
+    "framing debt policies",
+    "capital budgeting decisions",
+    "evaluation of investment options",
+    "financing decision",
+    "optimum credit policy"
+   ],
+   "memory": {
+    "trick": "Three names, three uses: it is the **cut-off, hurdle or minimum rate**, used to **evaluate investments, choose between sources, and price credit to customers**.",
+    "key": [
+     [
+      "What",
+      "The return expected by providers of capital"
+     ],
+     [
+      "Other names",
+      "Cut-off rate · hurdle rate · minimum rate of return"
+     ],
+     [
+      "Used for",
+      "Framing debt policies · capital budgeting decisions"
+     ],
+     [
+      "Significance",
+      "Evaluating investment options · financing decision · optimum credit policy"
+     ]
+    ],
+    "recall_trigger": "Cut-off, hurdle, minimum"
+   },
+   "mistakes": [
+    "Defining cost of capital as what the company pays; the study material insists it is what stakeholders expect.",
+    "Using one cost of capital for every project; every investment option may have a different one."
+   ],
+   "links": [
+    "🔗 FM Ch 1 §7.2: wealth maximisation, which this chapter serves",
+    "🔗 FM Ch 7: cost of capital as the discount rate",
+    "🔗 FM Ch 9: credit policy appraisal"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Short note on the significance of cost of capital (4 marks)",
+     "MCQ on the alternative names for cost of capital"
+    ],
+    "approach": [
+     "Give the definition, then the three decisions in the study material's order"
+    ],
+    "official_pattern": "Not yet asked directly; it is the vocabulary every numerical question assumes.",
+    "time_tip": "4 marks ≈ 7 minutes (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-F04.03-1",
+     "form": "Explain (4 marks)",
+     "marks": 4,
+     "question": "Explain the meaning and significance of the cost of capital.",
+     "answer_points": [
+      "Cost of capital is the return expected by the providers of capital — shareholders, lenders and debt-holders — as compensation for their contribution to the total capital; it is the additional money paid besides the principal, either as a one-off payment or at specified intervals.",
+      "Expressed as a rate, it is used to discount or compound cash flows, and is also known as the cut-off rate, hurdle rate or minimum rate of return. It is a benchmark for framing debt policies and for capital budgeting decisions.",
+      "**Evaluation of investment options:** estimated future cash flows are converted into present value by discounting at the relevant cost of capital; since every option may have a different cost of capital, the relevant one must be used.",
+      "**Financing decision:** where a finance manager must choose between two sources, he can compare their costs and choose the lower, considering also financial risk and control.",
+      "**Designing of optimum credit policy:** while appraising the credit period allowed to customers, the cost of allowing credit is compared with the benefit earned, using the cost of capital to arrive at the present value of costs and benefits."
+     ],
+     "keywords": [
+      "return expected by the providers of capital",
+      "cut-off rate",
+      "relevant cost of capital",
+      "optimum credit policy"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F04.02-01",
+     "angle": "Definition",
+     "difficulty": "Easy",
+     "question": "Cost of capital is best described as:",
+     "options": {
+      "A": "The return expected by the providers of capital as compensation for their contribution",
+      "B": "The interest actually paid by the company during the year",
+      "C": "The dividend declared by the board",
+      "D": "The average of the coupon rates on the company's borrowings"
+     },
+     "answer": "A",
+     "explanation": "SM §2: cost of capital is the return expected by the providers of capital — shareholders, lenders and debt-holders — as compensation for their contribution to the total capital.",
+     "why_wrong": {
+      "B": "SM §4: cost is not the amount the company plans to pay or actually pays.",
+      "C": "A dividend is one payment, not the expectation.",
+      "D": "Coupon rates ignore issue price, floatation cost and tax."
+     },
+     "trap": "The study material is explicit that cost is an expectation, not a payment.",
+     "concept": "F04.02"
+    },
+    {
+     "id": "MCQ-F04.03-02",
+     "angle": "Use",
+     "difficulty": "Easy",
+     "question": "Which of the following is NOT listed in the study material as a decision helped by the correct cost of capital?",
+     "options": {
+      "A": "Evaluation of investment options",
+      "B": "Financing decision",
+      "C": "Designing of optimum credit policy",
+      "D": "Fixing the selling price of the product"
+     },
+     "answer": "D",
+     "explanation": "SM §3 lists exactly three: evaluation of investment options, financing decision and designing of optimum credit policy.",
+     "why_wrong": {
+      "A": "Named in the study material.",
+      "B": "Named in the study material.",
+      "C": "Named in the study material."
+     },
+     "trap": "Pricing is a costing decision, not one the study material attributes to the cost of capital.",
+     "concept": "F04.03"
+    }
+   ],
+   "recap": [
+    "Value = performance ÷ expectations; the cost of capital is that expectation.",
+    "Also called the cut-off rate, hurdle rate or minimum rate of return.",
+    "Three uses: evaluating investments, choosing a source, pricing credit."
+   ]
+  },
+  {
+   "code": "F04.04",
+   "title": "4. Determination of Cost of Capital — and What Moves It",
+   "activity": "Medium",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "RTP 1 (Sep 2025)",
+   "understand": [
+    "==**Cost is not the amount which the company plans to pay or actually pays — rather it is the expectations of stakeholders.**== Stakeholders here include the **providers of capital** (shareholders, debenture holders, money lenders), **intermediaries** (brokers, underwriters, merchant bankers) and the **Government** (for taxes).",
+    "**The study material's own example.** If a company issues **9% coupon debentures but the expectation of investors is 10%**, investors will **subscribe at a discount and not at par**, so the **cost to the company will not be 9% but 10%**. Besides the return to investors, the company must also pay **commission, brokerage and fees to intermediaries**, which **increases the cost above 10%**. On the other hand, **payment of interest is a deductible expense under the Income-tax Act, which reduces the cost of capital to the company**.",
+    "**The cash flows to identify.** Cost of any source of finance is **expressed as a percentage per annum**. To calculate it, identify: **(1) inflow of the amount received at the beginning; (2) outflows of interest, dividend and redemption amount; (3) inflow of tax benefit on interest, or outflow of dividend tax.** Then **use the trial and error method to arrive at the rate where the present value of outflows equals the present value of inflows — that rate is basically IRR**.",
+    "==In investment decisions **IRR indicates income**, because there an initial outflow is followed by a series of inflows. In the cost of capital chapter, **this IRR represents cost**, because here an **initial inflow is followed by a series of net outflows**.==",
+    "**Alternatively, shortcut formulas may be used.** The study material's caution: **though these shortcut formulas are easy to use, they give an approximate answer and not the exact answer**.",
+    "**Factors affecting the cost of capital (§4).** **Supply and demand** — like any good, the cost of capital is influenced by supply and demand; **when there are many exciting business opportunities there is more competition for funding, driving the cost up**, and when opportunities are scarce **investors are more willing to lend at lower rates**. **Investor preferences** — cultural factors and personal savings habits affect the overall pool of available capital, and **higher potential returns generally lead to more savings**. **Risk and return** — there is always a trade-off; **high-risk ventures must offer a higher potential return**, but **if the cost of capital becomes too high it can make the project unprofitable**. **Inflation** — investors look for **returns that outpace inflation so their money retains its buying power**. **Exchange rates** — for multinational companies, **fluctuations add an extra layer of risk and affect the overall cost of capital**."
+   ],
+   "example": "A 9% debenture sold at a discount to yield 10%, plus 1% issue expenses, costs the company more than 10% before tax — and less than that after the interest tax shield.",
+   "provisions": [
+    {
+     "ref": "Cost is an expectation (SM §4)",
+     "status": "VERIFIED",
+     "requirement": "Cost is not what the company plans to pay or actually pays, but the expectations of providers of capital, intermediaries and the Government.",
+     "exam_angle": "The reason net proceeds, not face value, go in the denominator of every formula."
+    },
+    {
+     "ref": "IRR means cost here (SM §4)",
+     "status": "VERIFIED",
+     "requirement": "In investment decisions IRR indicates income (outflow then inflows); in cost of capital it represents cost (inflow then net outflows).",
+     "exam_angle": "The conceptual bridge to the yield-to-maturity method of §5.3.1."
+    }
+   ],
+   "keywords": [
+    "expectations of stakeholders",
+    "intermediaries",
+    "subscribe it at discount",
+    "commission, brokerage, fees",
+    "deductible expense",
+    "trial & error method",
+    "IRR represents cost",
+    "shortcut formulas",
+    "approximate answer",
+    "supply and demand",
+    "investor preferences",
+    "risk and return",
+    "inflation",
+    "exchange rates"
+   ],
+   "memory": {
+    "trick": "Five factors: **S-I-R-I-E** — Supply and demand, Investor preferences, Risk and return, Inflation, Exchange rates.",
+    "key": [
+     [
+      "Cost is",
+      "What investors expect, not what the company pays"
+     ],
+     [
+      "Three cash flows",
+      "Amount received · interest, dividend, redemption · tax benefit"
+     ],
+     [
+      "Exact method",
+      "Trial and error to the rate where PV of outflows = PV of inflows, i.e. IRR"
+     ],
+     [
+      "Shortcut",
+      "Approximation formulae — easy but approximate"
+     ]
+    ],
+    "recall_trigger": "S-I-R-I-E"
+   },
+   "mistakes": [
+    "Treating the coupon rate as the cost of debt; the coupon is a payment, the cost is an expectation.",
+    "Forgetting that intermediaries' fees raise the cost while the tax shield lowers it."
+   ],
+   "links": [
+    "🔗 FM Ch 4 §5.3.1: the yield-to-maturity method is this IRR applied to debt",
+    "🔗 FM Ch 7: the same IRR read as income rather than cost"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "True or false statements on cost of capital (RTP Sep 2025)",
+     "Short note on the factors affecting the cost of capital"
+    ],
+    "approach": [
+     "For statement-based questions, test each against the study material's own wording"
+    ],
+    "official_pattern": "RTP-S25-FQ3.",
+    "time_tip": "2 marks ≈ 3 minutes (study guidance)."
+   },
+   "official_questions": [
+    {
+     "id": "RTP-S25-FQ3",
+     "status": "VERIFIED",
+     "format": "MCQ",
+     "question": "Consider the following statements and state whether each is true or false: (1) a debt-equity ratio of 2:1 indicates that for every rupee of equity there are two rupees of debt; (2) the cost of floating a debt is greater than the cost of floating an equity issue.",
+     "answer_points": [
+      "**Statement 1 is true.** A debt-equity ratio of 2:1 means that for every one rupee of shareholders' funds there are two rupees of outside liabilities (SM Ch 3 §3.2.1).",
+      "**Statement 2 is false.** The cost of floating a debt issue is generally **lower** than that of an equity issue, because debt carries less risk for the investor and the issue process is simpler; floatation cost is the underwriting or brokerage fees, legal and administrative charges, registration fees and printing expenses incurred to make securities available to investors (SM §5.2).",
+      "Beyond the floatation cost, the cost of debt itself is lower because **interest is a deductible expense under the Income-tax Act**, giving a tax shield that dividends do not."
+     ],
+     "conclusion": "One mark; both halves must be right.",
+     "keywords": [
+      "debt-equity ratio",
+      "floatation cost",
+      "tax shield"
+     ]
+    }
+   ],
+   "expected_questions": [
+    {
+     "id": "EQ-F04.04-1",
+     "form": "Explain (4 marks)",
+     "marks": 4,
+     "question": "\"Cost is not the amount which the company plans to pay or actually pays.\" Explain, and state the factors that may affect the cost of capital.",
+     "answer_points": [
+      "Cost is the expectation of stakeholders — the providers of capital, the intermediaries and the Government. If a company issues 9% coupon debentures but investors expect 10%, they will subscribe at a discount and not at par, so the cost to the company is 10%, not 9%.",
+      "Commission, brokerage and fees paid to intermediaries increase the cost above that figure, while interest being a deductible expense under the Income-tax Act reduces it.",
+      "**Supply and demand:** when there are many exciting business opportunities there is more competition for funding, driving the cost of capital up; when opportunities are scarce, investors lend at lower rates.",
+      "**Investor preferences:** cultural factors and savings habits affect the pool of available capital, and higher potential returns generally lead to more savings.",
+      "**Risk and return:** high-risk ventures must offer a higher potential return, but if the cost of capital becomes too high it can make the project unprofitable.",
+      "**Inflation** — investors seek returns that outpace inflation so their money retains its buying power — and **exchange rates**, which for multinational companies add an extra layer of risk."
+     ],
+     "keywords": [
+      "expectations of stakeholders",
+      "subscribe at discount",
+      "supply and demand",
+      "risk and return"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F04.04-01",
+     "angle": "Concept",
+     "difficulty": "Moderate",
+     "question": "In the cost of capital chapter, the internal rate of return represents cost rather than income because:",
+     "options": {
+      "A": "The rate is always lower than in investment decisions",
+      "B": "Here an initial inflow is followed by a series of net outflows",
+      "C": "Tax is ignored in the computation",
+      "D": "The cash flows are always uneven"
+     },
+     "answer": "B",
+     "explanation": "SM §4: in investment decisions IRR indicates income because an initial outflow is followed by inflows; in cost of capital this IRR represents cost, because an initial inflow is followed by a series of net outflows.",
+     "why_wrong": {
+      "A": "The level of the rate is irrelevant to the direction of the flows.",
+      "C": "Tax is expressly built into the cash flows.",
+      "D": "Evenness of flows does not change the meaning."
+     },
+     "trap": "Same arithmetic, opposite sign convention — that is the whole distinction.",
+     "concept": "F04.04"
+    },
+    {
+     "id": "MCQ-F04.04-02",
+     "angle": "Factor",
+     "difficulty": "Easy",
+     "question": "As per the study material, when there are many exciting business opportunities, the cost of capital tends to:",
+     "options": {
+      "A": "Fall, because investors compete to lend",
+      "B": "Stay unchanged, being a contractual rate",
+      "C": "Rise, because there is more competition for funding",
+      "D": "Depend only on the tax rate"
+     },
+     "answer": "C",
+     "explanation": "SM §4: when there are lots of exciting business opportunities there is more competition for funding, driving the cost of capital up; when opportunities are scarce, investors are more willing to lend at lower rates.",
+     "why_wrong": {
+      "A": "That is the scarce-opportunity case.",
+      "B": "Cost of capital is an expectation, not a contractual rate.",
+      "D": "Tax is only one of several influences."
+     },
+     "trap": "It is the borrowers who compete when opportunities are plentiful, not the lenders.",
+     "concept": "F04.04"
+    }
+   ],
+   "recap": [
+    "Cost is an expectation, raised by intermediaries' fees and lowered by the tax shield.",
+    "Identify three cash flows, then find the rate where inflows equal outflows — that IRR is the cost.",
+    "Shortcut formulae are approximate; the study material says so twice.",
+    "Five factors: supply and demand, investor preferences, risk and return, inflation, exchange rates."
+   ]
+  },
+  {
+   "code": "F04.05 + F04.06 + F04.07",
+   "title": "5–5.2 Cost of Long-term Debt, the Features of Debentures, and Irredeemable Debentures",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "MTP 1 (Sep 2026 Series I)",
+   "understand": [
+    "**What long-term debt is (§5).** External borrowings or debt instruments **do not confer ownership** on the providers of finance. The providers **do not participate in the affairs of the company but enjoy the charge on the profit before taxes**. Long-term debt includes **long-term loans from financial institutions and capital from issuing debentures or bonds**. ==The **calculation of the cost of a loan from a financial institution is similar to that of redeemable debentures**.==",
+    "**Features of debentures or bonds (§5.1).** **Face value** — the denominated value, on which interest is calculated (a 9% non-convertible debenture of ₹100 carries interest of 9% on ₹100). **Interest or coupon rate** — each debenture bears a fixed rate **except zero coupon and deep discount bonds**, payable periodically. **Maturity period** — a fixed period for redemption; **for irredeemable debentures the maturity period is not defined and is taken as infinite**. **Redemption value** — determined by the debt covenants and **may vary from the face value**. **Benefit of tax shield** — **interest paid to debenture holders is allowed as an expense for corporate tax, so it saves tax liability; that saving is known as the tax shield**.",
+    "**The study material's tax-shield illustration.** X Ltd. is fully equity financed and Y Ltd. uses debt. Both have **EBIT of ₹100 lakh**. Y Ltd. pays **interest of ₹40 lakh**, so its profit before tax is ₹60 lakh against X Ltd.'s ₹100 lakh. At **35% tax**, X Ltd. pays ₹35 lakh and Y Ltd. ₹21 lakh, giving profit after tax of ₹65 lakh and ₹39 lakh. ==The interest payment of ₹40 lakh results in a **tax shield of ₹14 lakh** (₹40 lakh × 35%), so the **effective interest is ₹26 lakh only**.==",
+    "**Two categories by redemption:** **irredeemable debts** and **redeemable debts**.",
+    "**Cost of irredeemable debentures (§5.2).** Debentures not redeemed by the issuer during the life of the company. ==**Kd = I(1 − t) ÷ NP**, where **Kd** is the cost of debt after tax, **I** the annual interest payment, **NP** the net proceeds of debentures or the current market price, and **t** the tax rate.==",
+    "==**Net proceeds means issue price less issue expenses or floatation cost.** If the **issue price is not given, assume it equals the current market price**. If **issue expenses are not given, assume them to be zero**.==",
+    "**Floatation cost.** ==A new issue of a security, debt or equity, involves expenditure in the form of **underwriting or brokerage fees, legal and administrative charges, registration fees and printing expenses**; the sum of these is the **floatation cost**, incurred **to make the securities available to the investors**, and it is **adjusted to arrive at net proceeds** for the calculation of cost of capital.==",
+    "**The study material's floatation illustration.** A company issues **1,000 15% debentures of face value ₹100 each at a discount of ₹5**, with **underwriting and other costs of ₹5,000**. It actually realises **₹90,000** — ₹1,00,000 less ₹5,000 discount and ₹5,000 underwriting expenses. The **annual interest of ₹15,000 is therefore the cost of obtaining the ₹90,000 actually received**."
+   ],
+   "example": "A 12% irredeemable debenture of ₹100 issued at ₹95 with ₹2 of issue expenses has net proceeds of ₹93; at 30% tax, Kd = 12 × 0.70 ÷ 93 = 9.03%.",
+   "provisions": [
+    {
+     "ref": "Net proceeds (SM §5.2)",
+     "status": "VERIFIED",
+     "requirement": "Issue price less issue expenses or floatation cost; if the issue price is not given assume it equals the current market price; if issue expenses are not given assume zero.",
+     "exam_angle": "This single sentence resolves most of the ambiguity students see in these questions."
+    },
+    {
+     "ref": "Tax shield (SM §5.1)",
+     "status": "VERIFIED",
+     "requirement": "Interest is allowed as an expense for corporate tax, so the effective interest is I(1 − t).",
+     "exam_angle": "The (1 − t) that appears in Kd and never in Kp."
+    }
+   ],
+   "keywords": [
+    "do not confer ownership",
+    "charge on the profit before taxes",
+    "face value",
+    "coupon rate",
+    "maturity period",
+    "redemption value",
+    "tax shield",
+    "effective interest",
+    "irredeemable",
+    "net proceeds",
+    "floatation cost",
+    "underwriting or brokerage fees",
+    "registration fees"
+   ],
+   "memory": {
+    "trick": "Kd is the only cost with a **(1 − t)** in it, because interest is the only return the tax authorities help pay for.",
+    "key": [
+     [
+      "Kd irredeemable",
+      "I(1 − t) ÷ NP"
+     ],
+     [
+      "Net proceeds",
+      "Issue price − floatation cost"
+     ],
+     [
+      "If issue price missing",
+      "Use the current market price"
+     ],
+     [
+      "If issue expenses missing",
+      "Assume zero"
+     ],
+     [
+      "Tax shield",
+      "Interest × tax rate"
+     ]
+    ],
+    "recall_trigger": "Only debt gets the (1 − t)"
+   },
+   "mistakes": [
+    "Dividing by face value instead of net proceeds.",
+    "Forgetting that a discount on issue reduces net proceeds just as floatation cost does.",
+    "Applying (1 − t) to preference dividend by analogy with debt."
+   ],
+   "compare": {
+    "title": "Irredeemable versus redeemable debt (SM §5)",
+    "headers": [
+     "Basis",
+     "Irredeemable debentures",
+     "Redeemable debentures"
+    ],
+    "rows": [
+     [
+      "Maturity",
+      "Not defined; taken as infinite",
+      "A fixed maturity date"
+     ],
+     [
+      "Formula",
+      "Kd = I(1 − t) ÷ NP",
+      "Approximation formula, or yield to maturity"
+     ],
+     [
+      "Redemption value",
+      "Not applicable",
+      "May differ from face value"
+     ],
+     [
+      "Nature",
+      "A perpetuity",
+      "An annuity plus a lump sum"
+     ]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 2 §3.4: the debenture features described in finance terms",
+    "🔗 FM Ch 4 §5.3: the redeemable variant"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Cost of debt as one line of a WACC computation",
+     "Explain floatation cost and its effect on the cost of capital"
+    ],
+    "approach": [
+     "Write the formula, state net proceeds in a working note, then substitute"
+    ],
+    "official_pattern": "MTP-S26-S1-FQ1b.",
+    "time_tip": "A 1 to 2 mark sub-part ≈ 2 to 4 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "State the formula",
+     "Derive net proceeds in a working note",
+     "Substitute and give the percentage"
+    ],
+    "keywords": [
+     "net proceeds",
+     "floatation cost",
+     "tax shield"
+    ],
+    "length": "2 marks: formula, working note, answer",
+    "conclusion": "State the cost as a percentage to two decimals.",
+    "avoid": [
+     "Using face value where the question gives an issue price or market price"
+    ]
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-F04.07-1",
+     "form": "Compute (4 marks)",
+     "marks": 4,
+     "question": "A company issues 1,000 15% irredeemable debentures of face value ₹100 each at a discount of ₹5. Underwriting and other costs are ₹5,000 for the total issue. The tax rate is 35%. Compute the cost of the debentures, and explain what floatation cost is.",
+     "answer_points": [
+      "**Net proceeds.** The company realises ₹1,00,000 less ₹5,000 discount and ₹5,000 underwriting expenses = **₹90,000**, so net proceeds per debenture are ₹90.",
+      "**Annual interest** = 15% of ₹1,00,000 = **₹15,000**, which is the cost of obtaining the ₹90,000 actually received.",
+      "**Cost of irredeemable debentures** = I(1 − t) ÷ NP = ₹15,000 × (1 − 0.35) ÷ ₹90,000 = ₹9,750 ÷ ₹90,000 = **0.1083, or 10.83%**.",
+      "**Floatation cost** is the expenditure a new issue of a security, debt or equity, involves in the form of underwriting or brokerage fees, legal and administrative charges, registration fees and printing expenses. It is incurred to make the securities available to investors and is adjusted to arrive at net proceeds for the calculation of cost of capital.",
+      "Note that net proceeds means issue price less issue expenses; if the issue price is not given it may be assumed equal to the current market price, and if issue expenses are not given they may be assumed to be zero."
+     ],
+     "keywords": [
+      "net proceeds",
+      "floatation cost",
+      "I(1 − t) ÷ NP"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F04.07-01",
+     "angle": "Assumption",
+     "difficulty": "Easy",
+     "question": "If the issue price of a debenture is not given in a question, the study material says students may assume it to be equal to:",
+     "options": {
+      "A": "The face value",
+      "B": "The redemption value",
+      "C": "The current market price",
+      "D": "The net proceeds after tax"
+     },
+     "answer": "C",
+     "explanation": "SM §5.2: net proceeds means issue price less issue expenses; if the issue price is not given, students can assume it to be equal to the current market price, and if issue expenses are not given, assume them to be zero.",
+     "why_wrong": {
+      "A": "Face value is the base for interest, not the amount realised.",
+      "B": "Redemption value belongs at the end of the life, not the start.",
+      "D": "Circular; net proceeds is what is being derived."
+     },
+     "trap": "Face value is the instinctive answer and is the one ICAI is testing against.",
+     "concept": "F04.07"
+    },
+    {
+     "id": "MCQ-F04.05-02",
+     "angle": "Tax shield",
+     "difficulty": "Moderate",
+     "question": "A company pays interest of ₹40 lakh and is taxed at 35%. Its effective interest cost is:",
+     "options": {
+      "A": "₹40 lakh, since interest is a contractual payment",
+      "B": "₹14 lakh, being the tax saved",
+      "C": "₹54 lakh, being interest plus tax",
+      "D": "₹26 lakh, being interest less the tax shield"
+     },
+     "answer": "D",
+     "explanation": "SM §5.1: an interest payment of ₹40 lakh at a 35% tax rate results in a tax shield of ₹14 lakh, so the effective interest is ₹26 lakh only.",
+     "why_wrong": {
+      "A": "It ignores the tax shield.",
+      "B": "That is the shield itself, not the effective cost.",
+      "C": "Interest reduces tax; it does not add to it."
+     },
+     "trap": "The tax shield is the saving; the effective cost is what is left after it.",
+     "concept": "F04.05"
+    }
+   ],
+   "recap": [
+    "Long-term debt confers no ownership but a charge on profit before taxes.",
+    "Five features: face value, coupon rate, maturity period, redemption value, tax shield.",
+    "Kd (irredeemable) = I(1 − t) ÷ NP, where NP is issue price less floatation cost.",
+    "Missing issue price → use market price; missing issue expenses → assume zero."
+   ]
+  }
+ ]
+}

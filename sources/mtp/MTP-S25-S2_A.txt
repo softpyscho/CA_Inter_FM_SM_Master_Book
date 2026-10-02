@@ -1,0 +1,1479 @@
+<<PAGE 1>>
+1 
+Mock Test Paper - Series II: August, 2025 
+Date of Paper: 11th August, 2025 
+Time of Paper: 10 A.M. to 1 P.M. 
+INTERMEDIATE: GROUP – II 
+PAPER – 6: FINANCIAL MANAGEMENT & STRATEGIC MANAGEMENT 
+PAPER 6A : FINANCIAL MANAGEMENT 
+Suggested Answers/ Hints 
+DIVISION A 
+1.  
+(d)  
+Sonex: ` 76,800; EchoMed: ` 68,400 
+(a)  
+Scrap Value of Machine of Brand Sonex 
+ 
+= ` 7,20,000 – ` 2,40,000 – (` 7,20,000 × 0.04 × 14) 
+ 
+= ` 7,20,000 – ` 2,40,000 – ` 4,03,200 = ` 76,800 
+(b) Scrap Value of Machine of Brand EchoMed 
+ 
+= ` 5,40,000 – ` 1,80,000 – (` 5,40,000 × 0.06 × 9) 
+ 
+= ` 5,40,000 – ` 1,80,000 – ` 2,91,600 = ` 68,400 
+2. 
+(d)  
+` 1,34,230 
+Present Value (PV) of Cost if Machine of Brand Sonex is Purchased 
+Period 
+Cash Outflow 
+(`) 
+PVF @ 12% 
+Present Value (`) 
+0 
+7,20,000 
+1 
+7,20,000 
+1 – 5 
+24,000 
+3.605 
+86,520 
+6 – 10 
+34,000 
+2.045 
+69,530 
+11 – 15 
+45,000 
+1.161 
+52,245 
+15 
+(76,800) 
+0.183 
+(14,054) 
+9,14,241 
+PVAF for 1-15 years  
+6.811 
+Equivalent Annual Cost  
+= 9,14,241
+6.811
+`
+  = ` 1,34,230 
+ 
+Downloaded from castudyweb.com
+<<PAGE 2>>
+2 
+3.  
+(b)  
+` 1,35,640 
+ 
+Present Value (PV) of Cost if Machine of Brand EchoMed is Purchased 
+Period 
+Cash Outflow (`) 
+PVF @ 12% 
+Present Value (`) 
+0 
+5,40,000 
+1 
+5,40,000 
+1 – 5 
+36,000 
+3.605 
+1,29,780 
+6 – 10 
+58,000 
+2.045 
+1,18,610 
+10 
+(68,400) 
+0.322 
+(22,025) 
+ 
+ 
+ 
+7,66,365 
+PVAF for 1-10 years  
+5.65 
+Equivalent Annual Cost  
+= 7,66,365
+5.65
+`
+  = ` 1,35,640 
+4.  
+(b)  
+` 1,35,977 
+Present Value (PV) of Cost if Machine of Brand EchoMed is Taken on Rent 
+Period Cash Outflow (`) PVF @ 12% Present Value (`) 
+0 
+1,18,000 
+1.000 
+1,18,000 
+1 – 4 
+1,18,500 
+3.037 
+3,59,880 
+5 – 9 
+1,26,750 
+2.291 
+2,90,389 
+ 
+ 
+ 
+7,68,269 
+PVAF for 1-10 years  
+5.65 
+Equivalent Annual Cost  
+= 7,68,269 
+5.65
+`
+  = ` 1,35,977 
+5.  
+(b)  
+Purchase EchoMed 
+If Machine is Used for 5 Years 
+(a)  
+Scrap Value of Machine of Brand Sonex 
+ 
+= ` 7,20,000 – ` 2,40,000 – (` 7,20,000 × 0.04 × 4) 
+ 
+= ` 7,20,000 – ` 2,40,000 – ` 1,15,200 = ` 3,64,800 
+(b)  
+Scrap Value of Machine of Brand EchoMed 
+ 
+= ` 5,40,000 – ` 1,80,000 – (` 5,40,000 × 0.06 × 4) 
+ 
+= ` 5,40,000 – ` 1,80,000 – ` 1,29,600 = ` 3,09,600 
+Downloaded from castudyweb.com
+<<PAGE 3>>
+3 
+Present Value (PV) of Cost if Machine of Brand Sonex is Purchased 
+Period 
+Cash Outflow 
+(`) 
+PVF @ 12% 
+Present Value 
+(`) 
+0 
+7,20,000 
+1 
+7,20,000 
+1 – 5 
+24,000 
+3.605 
+86,520 
+5 (Scrap) 
+(3,64,800) 
+0.567 
+(2,06,842) 
+` 5,99,678 
+Present Value (PV) of Cost if Machine of Brand EchoMed is Purchased 
+Period 
+Cash Outflow (`) 
+PVF @ 12% 
+Present Value (`) 
+0 
+5,40,000 
+1 
+5,40,000 
+1 – 5 
+36,000 
+3.605 
+1,29,780 
+5 (Scrap) 
+(3,09,600) 
+0.567 
+(1,75,543) 
+` 4,94,237 
+Present Value (PV) of Cost if Machine of Brand EchoMed is Taken on Rent 
+Period 
+Cash Outflow (`) 
+PVF @ 12% 
+Present Value (`) 
+0 
+1,18,000 
+1 
+1,18,000 
+1 – 4 
+1,18,500 
+3.037 
+3,59,885 
+5 (Penalty) 
+55,000 
+0.567 
+31,185 
+` 5,09,070 
+ 
+Since the Present Value of total cost is least in case of purchase of EchoMed 
+scanner, Medilab should purchase EchoMed if the machine is to be used for only 
+5 years. 
+6.  
+(a) 
+WACC will increase to 11.8% 
+ 
+ 
+Initial WACC (using retained earnings): 
+= 
+60
+60
+40
++
+× 14% + 
+40
+60
+40
++
+ × 10% × (1 - 0.30) 
+= 0.6 × 14% + 0.4 × 7% 
+= 8.4% + 2.8% = 11.2% 
+WACC with new equity (15% cost of equity due to flotation cost): 
+= 0.6 × 15% + 0.4 × 7% 
+= 9% + 2.8% = 11.8% 
+Downloaded from castudyweb.com
+<<PAGE 4>>
+4 
+7. 
+(d) 
+40% 
+Calculation of Degree of Operating Leverage (DOL) 
+Contribution = Sales - Variable Costs  
+ 
+ 
+ 
+= ₹ 50,00,000 - ₹30,00,000 = ₹ 20,00,000 
+EBIT = Contribution - Fixed Costs  
+ 
+ 
+ 
+= ₹ 20,00,000 - ₹ 10,00,000 = ₹ 10,00,000 
+Calculation of Degree of Combined Leverage (DCL) 
+DCL = Contribution
+EBT
+ 
+ 
+= ₹ 20,00,000 / ₹ 5,00,000 = 2 
+Applying DCL to % change in sales   
+If sales increase by 10%, EPS will increase by: 
+DCL × % change in sales = 4 × 10% = 40% 
+8. 
+(b) 
+Market price per share will decrease  
+According to Gordon’s Model: 
+P = [E × (1 – b)] / (ke – b × r) 
+Where: 
+E = EPS = ₹10 
+b = Retention ratio = 1 – Dividend payout ratio 
+r = ROE = 18% 
+ke = Cost of equity = 15%  
+If payout ratio increases from 60% to 80%, then: 
+Retention ratio b falls from 40% to 20% 
+ 
+Hence, b × r i.e. growth rate becomes smaller (i.e., 0.2 × 18% = 3.6% instead of 
+7.2%) 
+ 
+Denominator (ke – b×r) becomes larger so price decreases. 
+ 
+So, increasing payout leads to a decrease in market price, since the firm is 
+reducing investment in high-return (18%) projects while the cost of capital is lower 
+(15%). 
+Downloaded from castudyweb.com
+<<PAGE 5>>
+5 
+Division B: Descriptive Question 
+1. 
+(a)  
+(i)  
+Calculation of value of the share using Walter’s Model 
+ 
+P  
+= 
+(
+)
+
+
+
+
+
+
+r
+D + 
+E - D
+ke
+Ke
+  
+ 
+ 
+= 
+(
+)
+
+
+
+
+
+
+0.15
+6 + 
+10 - 6
+0.12
+0.12 
+   
+ 
+ 
+= [
+]
+6 + 1.25 x 4 
+0.12 
+= [
+]
+6 + 5 
+0.12 
+= ₹ 91.67 
+ 
+Since the market price is ₹100, and Walter's model gives ₹91.67, the current 
+dividend policy is not optimal. 
+(ii)  
+Calculation of value of the share using Gordon’s Model 
+ 
+P = 
+(
+)
+(
+)
+
+
+
+
+E 1 - b
+  
+Ke - br 
+ 
+ 
+g = br = 0.4 x 0.15 = 0.06 
+ 
+So, P = [
+]
+(
+)
+10 x 0.6   
+0.12 - 0.06  
+= ₹100 
+ 
+This supports the current market price. Since the model gives the same value 
+as the market, the current retention and dividend policy appears acceptable. 
+(iii)  
+MM’s Dividend Irrelevance Theory  
+ 
+P0 = [
+]
+(
+)
+D1 + P1   
+1 + Ke  
+ 
+ 
+Situation 1:  
+ 
+D = ₹6, P1 = ₹100, Ke = 12%  
+ 
+So, P0 = [
+]
+(
+)
+6 + 100   
+1.12   
+= ₹94.64  
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 6>>
+6 
+ 
+Situation 2:  
+ 
+D = ₹7, P1 = ₹104, Ke = 12%  
+ 
+P0 = [
+]
+(
+)
+7 + 104   
+1.12   
+= ₹99.11 
+ 
+Situation 3:  
+ 
+D = ₹4, P1 = ₹95, Ke = 12%  
+ 
+P0 = [
+]
+(
+)
+4 + 95   
+1.12   
+= ₹88.39 
+ 
+So, a change in dividend payout has indeed impacted the firm’s valuation. 
+ 
+(b)  
+(i) 
+Change in Reserve & Surplus = ` 40,00,000 – ` 30,00,000 = ` 10,00,000 
+ 
+So, Net profit  
+ = ` 10,00,000 
+ 
+Net Profit Ratio  = 8% 
+ 
+ 
+∴Sales  
+ = 
+10,00,000
+8%
+= ` 1,25,00,000 
+(ii)   
+Cost of Goods sold 
+ 
+= Sales – Gross profit Margin 
+ 
+= ` 1,25,000,000 – 20% of ` 1,25,00,000 
+ 
+= ` 1,00,00,000  
+(iii)  
+Fixed Assets       =  
+` 40,00,000
+40%
+ = ` 1,00,00,000 
+(iv)  
+Stock                  = 
+Cost of Goods Sold
+Stock Turnover ratio =
+1,00,00,000
+4
+= ` 25,00,000  
+(v)   
+Debtors              = 
+1,25,00,000
+360
+  x 90 = ` 31,25,000 
+(vi)   Cash Equivalent =  
+1,00,00,000
+12
+×1.5= ` 12,50,000 
+Balance Sheet as on 31st March 2025 
+Liabilities 
+(`) Assets 
+(`) 
+Share Capital 
+60,00,000 Fixed Assets 
+1,00,00,000 
+Reserve and Surplus 
+40,00,000 Sundry Debtors 
+31,25,000 
+Downloaded from castudyweb.com
+<<PAGE 7>>
+7 
+Long-term loan 
+40,00,000 Closing Stock 
+25,00,000 
+Sundry Creditors 
+(Balancing Figure) 
+28,75,000 Cash in hand 
+12,50,000 
+ 
+1,68,75,000  
+1,68,75,000 
+ 
+(c)  
+(A)  
+(i) 
+Cost of new debt 
+ 
+Kd 
+= 
+0
+I(1-t)
+P
+ 
+ 
+ 
+=
+16 (1 -0.5) = 0.0833
+96
+ ` 
+` 
+ 
+(ii)  
+Cost of new preference shares 
+ 
+Kp 
+= 
+0
+PD
+P
+1.1
+ = 
+  =  0.12
+9.2
+  
+  
+`
+`
+ 
+(iii) 
+Cost of new equity shares 
+ 
+Ke  
+= 
+1
+0
+D +g
+P
+ 
+ 
+ 
+= ` 1.18
+` 19.67 + 0.10 = 0.06 + 0.10 = 0.16 
+ 
+Calculation of g when there is a uniform trend (on the basis of EPS) 
+ 
+ 
+= EPS (2016) – EPS (2015)
+EPS (2015)
+ 
+ 
+ 
+=
+ 1.10-  1.00
+ 1.00
+` 
+` 
+` 
+= 0.10 or 10% 
+ 
+Calculation of D1  
+ 
+D1  
+= 50% of 2024EPS = 50% of 2.36 = ` 1.18 
+(B) 
+Calculation of marginal cost of capital 
+Type of Capital 
+Proportion 
+Specific Cost 
+Product 
+(1) 
+(2) 
+(3) 
+(2) × (3) = (4) 
+Debenture 
+0.15 
+0.0833 
+0.0125 
+Preference Share 
+0.05 
+0.1200 
+0.0060 
+Equity Share 
+0.80 
+0.1600 
+0.1280 
+Marginal cost of capital 
+0.1465 
+Downloaded from castudyweb.com
+<<PAGE 8>>
+8 
+(C) 
+The company can spend the following amount without increasing marginal 
+cost of capital and without selling the new shares: 
+ 
+ 
+Retained earnings = 50% of EPS of 2024 × outstanding equity shares 
+ 
+ 
+ 
+                   = 0.50 × `2.36 × 10,000 shares = ` 11,800 
+ 
+ 
+The ordinary equity (Retained earnings in this case) is 80% of total capital 
+ 
+ 
+So, `11,800          = 80% of Total Capital 
+∴ Capital  investment before issuing equity shares =  ` 11,800
+0.80
+ = ` 14,750 
+(D) 
+If the company spends in excess of ` 14,750, it will have to issue new 
+equity shares at `25 per share. 
+ 
+ 
+∴The cost of new issue of equity shares will be = 
+1
+0
+D +g
+P
+ 
+ 
+= 
+` 1.18
+` 25 + 0.10 = 0.1472 
+ 
+The marginal cost of capital will be:  
+Type of Capital 
+Proportion 
+Specific Cost 
+Product 
+(1) 
+(2) 
+(3) 
+(2) × (3) = (4) 
+Debentures 
+0.15 
+0.0833 
+0.0125 
+Preference Shares 
+0.05 
+0.1200 
+0.0060 
+Equity Shares (New) 
+0.80 
+0.1472 
+0.1178 
+ 
+0.1363 
+2.  
+(a) 
+(i)  
+Current Scenario at 75% Capacity 
+(a)  
+Calculation of EBIT, EBT, Profit after tax and Earning Per Share 
+Particulars  
+Amount (₹) 
+Sales Revenue 
+7,50,00,000 
+Less: Variable Cost 
+4,50,00,000 
+Contribution 
+3,00,00,000 
+Less: Fixed Cost 
+1,20,00,000 
+EBIT 
+1,80,00,000 
+Less: Interest (1,50,00,000 x 12%) 
+18,00,000 
+EBT 
+1,62,00,000 
+Downloaded from castudyweb.com
+<<PAGE 9>>
+9 
+Less: Tax@30% 
+48,60,000 
+Profit after tax 
+1,13,40,000 
+No. of Equity Shares 
+20,00,000 
+Earnings Per Share 
+5.67 
+(b)  
+Calculation of Various Leverages 
+ 
+Degree of Operating Leverage (DOL): 
+ 
+DOL = Contribution
+EBIT
+= 3,00,00,000 / 1,80,00,000 = 1.67 
+ 
+Degree of Financial Leverage (DFL): 
+ 
+DFL = EBIT
+EBT
+= 1,80,00,000 / 1,62,00,000 = 1.11 
+ 
+Degree of Combined Leverage (DCL): 
+ 
+DCL = DOL × DFL = 1.67 × 1.11 = 1.85 
+(ii)  
+New Scenario at 90% Capacity 
+(a)  
+Revised calculation of EBIT, EBT, Profit after tax and Earning 
+Per Share: 
+Particulars  
+Amount 
+(₹) 
+Sales Revenue [7,50,00,000 × (90/75)] 
+9,00,00,000 
+Less: Variable Cost [4,50,00,000 × (90/75)] 
+5,40,00,000 
+Contribution  
+3,60,00,000 
+Less: Fixed Cost (1,20,00,000 + 10,00,000) 
+1,30,00,000  
+EBIT 
+2,30,00,000 
+Less: Interest (1,50,00,000 × 12%) + (50,00,000 × 
+13%) 
+24,50,000 
+EBT 
+2,05,50,000  
+Less: Tax@30% 
+61,65,000 
+Profit after tax 
+1,43,85,000 
+No. of Equity Shares 
+20,00,000 
+Earning Per Share (1,43,85,000 / 20,00,000) 
+7.19 
+Downloaded from castudyweb.com
+<<PAGE 10>>
+10 
+(b)  
+Revised Calculation of Various Leverages 
+ 
+DOL = 3,60,00,000 / 2,30,00,000 = 1.57   
+ 
+DFL = 2,30,00,000 / 2,05,50,000 = 1.12   
+ 
+DCL = 1.57 × 1.12 = 1.76 
+(c)  
+At higher capacity utilization, the company is able to generate higher 
+EBIT and EPS. However, it takes on slightly more financial risk by 
+issuing 13% debentures. The company should go ahead with the 
+capacity expansion and new financing plan, as the overall risk has 
+been slightly reduced as indicated in the combined leverage while 
+shareholder return by way of EPS has significantly increased. 
+(b)  
+In this question, EBIT after proposed extension is not given. Therefore, we can 
+assume that existing return on capital employed will be maintained.  
+Working notes: 
+1. 
+EBIT
+Return on Capital Employed = Capital Employed
+78,00,000
+ = 4,50,00,000
+= 17.33% 
+ 
+Capital Employed  
+= Debt + Equity  
+ 
+ 
+ 
+ 
+= ` 1,50,00,000 + (` 1,20,00,000 + ` 1,80,00,000)  
+ 
+ 
+ 
+ 
+= ` 4,50,00,000 
+2. 
+Proposed EBIT  
+= Proposed Capital Employed x Return on capital  
+ 
+ 
+ 
+   employed 
+ 
+ 
+ 
+       
+= (` 4,50,00,000 + ` 60,00,000) x 17.33% 
+ 
+ 
+ 
+       
+= ` 88,38,300 
+3. 
+Debt Equity Ratio  
+=
+Debt
+Debt + Equity 
+ 
+Option1: Loan option 
+ 
+Debt  
+ 
+ = ` 1,50,00,000 + ` 60,00,000 = ` 2,10,00,000 
+ 
+Equity  
+ 
+= ` 3,00,00,000 
+Debt Equity ratio           =
+2.1 cr.
+2.1 cr.+ 3 cr. = 41.18% 
+ 
+Debt equity ratio has crossed the limit of 35%, hence, PE ratio in this 
+case will be 8 times and additional borrowing will be at the rate of 14%. 
+Downloaded from castudyweb.com
+<<PAGE 11>>
+11 
+ 
+Option2: Equity option 
+ 
+Debt    
+ 
+= ` 1,50,00,000  
+ 
+Equity  
+ 
+= ` 3,00,00,000 + ` 60,00,000 = ` 3,60,00,000 
+ 
+Debt Equity Ratio 
+=
+` 1.5 cr.
+` 1.5 cr .+ ` 3.6 cr. = 29.41% 
+ 
+Debt equity ratio has not crossed the limit of 35% hence PE ratio in this 
+case will remain at 10 times. 
+4. 
+Number of equity shares to be issued in case of equity option @ ` 25 per 
+share = ` 60,00,000 / ` 25 = 2,40,000 
+ 
+Calculation of EPS and MPS under two financial options 
+Particulars 
+Financial Options 
+Option I 
+Option II 
+14% 
+additional 
+loan of 
+60,00,000  
+(`) 
+12,00,000 equity 
+shares @ ` 10 and 
+2,40,000 equity 
+shares @ ` 25  
+(`) 
+Profit before interest and Tax (PBIT) 
+88,38,300 
+88,38,300  
+Less: Interest on old debentures  
+@ 12% 
+18,00,000 
+18,00,000 
+Less: Interest on additional loan (new) 
+@ 14% on ` 60,00,000 
+8,40,000 
+Nil 
+Profit before tax 
+61,98,300 
+70,38,300 
+Less: Taxes @ 50% 
+30,99,150 
+35,19,150 
+Earnings for equity shareholders 
+(EAT/Profit after tax) 
+30,99,150 
+35,19,150  
+Number of Equity Shares 
+12,00,000 
+14,40,000 
+Earnings per Share (EPS) 
+2.58  
+2.44  
+Price/ Earnings ratio 
+8 
+10 
+Market price per share (MPS) 
+20.64 
+24.40 
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 12>>
+12 
+3.  
+(a)  
+Advise to Oggy Limited regarding Change in Credit Policy 
+Particulars 
+(`) 
+Current Credit Sales  
+7,20,000 
+Increase in Credit Sales  
+20,000 
+New Level of Credit Sales 
+7,40,000 
+Current Average Collection Period (Days) 
+30 
+New Average Collection Period (Days) 
+20 
+Current Level of Receivables 
+30
+ 7,20,000
+360
+
+
+×
+
+
+
+
+`
+ 
+60,000 
+New Level of Receivables 
+20
+ 7,40,000
+360
+
+
+×
+
+
+
+
+`
+ 
+41,111 
+Cash Discount 
+2% 
+Discount Period (Days) 
+10 
+Percentage of Customers Taking Discount 
+50% 
+Bad Debt Losses 
+2% 
+Variable Cost 
+70% 
+Corporate Tax Rate 
+50% 
+Opportunity Cost of Capital 
+10% 
+(A)  Increased Credit Sales 
+20,000 
+(B)  Contribution from Increased Credit Sales [A x (1-0.70)] 
+6,000 
+(C)  Bad Debt Loss [A x 2%] 
+400 
+(D)  Cost of Cash Discount [ ` 740,000 x 0.02 x 0.5] 
+7,400 
+(E)  After-tax Profit [ (B - C - D) x (1-0.5)] 
+(900) 
+(F)  Decrease in Receivable Investment [` 41,111 - ` 60,000] 
+(18,889) 
+(G)  Expected Return (E/F) 
+4.8% 
+(H)  Net Gain % [10% -G] 
+5.2% 
+ 
+Therefore, Oggy Limited should change the credit policy because it results in net 
+gain of 5.2%. 
+Downloaded from castudyweb.com
+<<PAGE 13>>
+13 
+(b)  
+Objective of financial management is to maximize wealth. Therefore, one should 
+choose a capital structure which maximizes wealth. For this purpose, following 
+analysis should be done: 
+(1) 
+EBIT-EPS-MPS analysis: Chose a capital structure which maximizes 
+market price per share. For that, start with same EBIT for all capital 
+structures and calculate EPS. Thereafter, either multiply EPS by price 
+earning ratio or divide it by cost of equity to arrive at MPS. 
+(2) 
+Indifference Point analysis: In above analysis, we have considered value 
+at a given EBIT only. What will happen if EBIT changes? Will it change your 
+decision also? To answer this question, you can do indifference point 
+analysis.  
+(3) 
+Financial Break-Even Point (BEP) analysis: With change in capital 
+structure, financial risk also changes. Though this risk has already been 
+considered in PE ratio or in cost of equity in point one above, but one may 
+calculate and consider it separately also by calculating Financial BEP.  
+4.  
+(a)  
+Project Y should be chosen by the financial manager to ensure long-term 
+value creation. 
+ 
+Profit maximization focuses on increasing short-term profits, often ignoring risk, 
+sustainability, and timing of returns. Project X aligns with this approach by 
+maximizing current profits, but may harm the firm’s reputation, employee morale, 
+and customer satisfaction. 
+ 
+Wealth maximization, on the other hand, is concerned with increasing the net 
+present value of shareholders’ wealth over the long run. It considers cash flows, 
+risk, and time value of money. Project Y, despite lower immediate profits, 
+enhances long-term cash flows and strengthens brand equity, which contributes 
+to shareholder wealth. 
+ 
+Value creation refers to making strategic decisions that generate sustainable 
+returns exceeding the cost of capital. Project Y builds intangible assets like 
+customer loyalty and goodwill, which leads to long-term competitive advantage 
+and value creation. 
+Downloaded from castudyweb.com
+<<PAGE 14>>
+14 
+ 
+Therefore, based on wealth maximization and value creation principles, Project Y 
+is the strategically sound choice. 
+(b)  
+Difference between Crowd funding and Peer-to-Peer (P2P) lending 
+ 
+Crowd funding: In simple terms, crowdfunding means raising money for an 
+individual or organisation from a group of people to fund a project, typically via 
+internet (social media and crowdfunding websites). It generally involves collecting 
+funds from family, friends, strangers, corporates and many more in exchange of 
+equity (known as Equity funding), loans (known as P2P lending) or nothing at all 
+(i.e. donation). This source of funding also helps start-up to substantiate demand 
+for their product before entering into production. 
+ 
+Peer-to-Peer (P2P) lending: It is that category of crowdfunding where lenders 
+match with the borrowers in order to provide unsecured loans through online 
+platform. The fund raised are paid back by the borrowers with interest, though this 
+kind of lending involves certain risk of defaults (just as the banks bear in the case 
+of conventional method of lending). Anyone interested in investing money under 
+P2P lending can visit the P2P lending platforms and choose amongst borrowers 
+considering risk & returns. Some of the platforms offering P2P lending are 
+i2iFunding, Lendbox, Faircent, Rupee Circle, etc.  
+ 
+Hence, we can say that the crowd funding is a broader concept and P2P lending 
+is basically a part of crowd funding.  
+(c)  
+Before deciding the capital structure, one should evaluate: 
+(i)  
+Cost of capital – Debt is cheaper due to tax shield, but excessive debt 
+increases financial risk. 
+(ii)  
+Control considerations – Equity dilutes ownership; debt doesn’t. 
+(iii)  
+Current interest rate and market conditions – Favorable debt terms or 
+bullish equity market can guide the choice. 
+(iv)  
+Cash flow stability – If the company has stable cash flows, it can safely 
+take on debt. 
+ 
+If the company has stable earnings and wants to retain control, a mix with 
+a reasonable portion of debt to optimize cost is favourable. 
+Downloaded from castudyweb.com
+<<PAGE 15>>
+15 
+OR 
+(c)  
+Benefits of sale and leaseback arrangement: 
+(i) 
+Immediate cash inflow to ease the cash crunch. 
+(ii) 
+Continued use of the asset without ownership, avoiding disruption. 
+(iii) 
+Off-balance sheet financing improves capital structure ratios. 
+Risks of sale and leaseback arrangement: 
+(i) 
+Loss of ownership may mean higher long-term costs. 
+(ii) 
+Lease obligations add to fixed costs and reduce flexibility. 
+ 
+Hence, sale and leaseback decision can be applied only if the lease terms are 
+favorable and the company lacks better financing options. 
+Downloaded from castudyweb.com
+<<PAGE 16>>
+16 
+PAPER 6B: STRATEGIC MANAGEMENT 
+ANSWERS 
+PART I 
+1. (A) 
+(i)  
+(d) 
+(ii) 
+(b) 
+(iii)  
+(c) 
+(iv)  
+(a) 
+(v)  
+(a) 
+    (B) 
+(i)  
+(c) 
+(ii) 
+(d) 
+(iii)  
+(d) 
+ 
+ 
+ 
+ 
+ 
+PART II 
+1.  
+(a)  
+The PESTLE framework can help ABC Corp assess the external factors affecting 
+its decision to expand into a new country by considering the following aspects: 
+• 
+Political Factors: These include the stability of the government, 
+government policies on foreign investment, trade agreements, and 
+regulatory frameworks. By analyzing these factors, ABC Corp can assess 
+the political risks associated with entering the new market. 
+• 
+Economic Factors: Economic factors such as GDP growth rate, inflation 
+rate, exchange rates, and economic stability can impact ABC Corp's 
+decision. By analyzing these factors, the company can understand the 
+economic environment of the new market and its potential impact on 
+business operations. 
+• 
+Social Factors: Social factors such as cultural norms, demographics, 
+and lifestyle trends can influence consumer behavior and demand for ABC 
+Corp's products. Understanding these factors can help the company tailor 
+its marketing strategies to the new market. 
+• 
+Technological Factors: Technological factors such as infrastructure, 
+technological advancements, and the level of technology adoption in the 
+new market can impact ABC Corp's operations. By assessing these factors, 
+the company can determine the technological requirements for entering the 
+new market. 
+• 
+Legal Factors: Legal factors such as laws and regulations related to 
+foreign investment, intellectual property rights, and labor laws can impact 
+ABC Corp's decision. By analyzing these factors, the company can ensure 
+compliance with legal requirements in the new market. 
+Downloaded from castudyweb.com
+<<PAGE 17>>
+17 
+• 
+Environmental Factors: Environmental factors such as climate change, 
+environmental regulations, and sustainability practices can impact ABC 
+Corp's operations and reputation. By considering these factors, the 
+company can assess the environmental risks and opportunities in the new 
+market. 
+ 
+Overall, the PESTLE framework can provide ABC Corp with a comprehensive 
+analysis of the external factors that could impact its decision to expand into a new 
+country, helping the company make informed and strategic decisions. 
+(b)  
+The form of cooperative strategy in this scenario is a Strategic Alliance. A 
+strategic alliance is a relationship between two or more businesses that enables 
+each to achieve certain strategic objectives which neither would be able to achieve 
+on its own. The strategic partners remain independent entities, share the benefits 
+and control of the partnership and contribute resources until the alliance is 
+terminated. 
+In this case, the smartphone manufacturer brings hardware design expertise, 
+manufacturing capacity and an established distribution network, while the 
+software firm contributes AI capabilities, software development skills and 
+technological innovation. By collaborating on the AI-enabled operating system, 
+both companies benefit from: 
+• 
+Organizational advantages – Learning new skills, combining 
+complementary strengths and enhancing credibility in the market. 
+• 
+Economic advantages – Sharing costs and risks of development, 
+achieving economies of scale and improving efficiency. 
+• 
+Strategic advantages – Pooling resources to accelerate innovation, 
+create a competitive advantage and potentially enter new markets. 
+(c)  
+Strategic Performance Measures (SPM) are metrics organizations use to evaluate 
+and track the effectiveness of their strategies in achieving their goals and 
+objectives. SPM provides a framework for monitoring key areas critical to the 
+organization’s success, ensuring progress toward desired outcomes and enabling 
+timely adjustments to improve performance. 
+ 
+For GreenEdge Solutions, various types of SPM can be utilized: 
+Downloaded from castudyweb.com
+<<PAGE 18>>
+18 
+• 
+Financial Measures: Metrics like revenue growth, return on investment 
+(ROI), and profit margins help evaluate the company’s financial health and 
+profitability. 
+• 
+Customer Satisfaction Measures: Assessments of customer satisfaction, 
+retention, and loyalty indicate how well the company meets customer 
+needs. 
+• 
+Market Measures: Market share, customer acquisition, and referral rates 
+reflect competitiveness and market position. 
+• 
+Employee Measures: Employee satisfaction, engagement, and turnover 
+rate help track workplace culture and talent retention. 
+• 
+Innovation Measures: R&D spending, patent filings, and new product 
+launches gauge the company’s innovation capabilities. 
+• 
+Environmental Measures: Monitoring energy consumption, waste 
+reduction, and carbon emissions ensures the company aligns with 
+sustainability goals. 
+ 
+Using these measures, GreenEdge Solutions can systematically assess its 
+strategy and make informed decisions to drive sustainable growth and success. 
+2. 
+(a)  
+The retail company can develop a strategic approach that is both proactive and 
+reactive to address the challenge of increasing competition from online retailers. 
+To achieve this, the company can:   
+• 
+Proactive Strategy: The company can proactively analyze market trends 
+and customer preferences to identify opportunities for growth. For example, 
+it can invest in market research to understand what customers value in a 
+retail experience and tailor its offerings to meet those needs. This proactive 
+approach can help the company stay ahead of competitors and attract new 
+customers. 
+• 
+Reactive Strategy: In addition to proactive measures, the company 
+should also be prepared to react to changes in the market environment. 
+For example, if a competitor launches a new online shopping platform, the 
+company should quickly assess the impact on its business and develop a 
+response. This reactive strategy can help the company adapt to changing 
+market conditions and maintain its competitiveness. 
+Downloaded from castudyweb.com
+<<PAGE 19>>
+19 
+ 
+By combining proactive and reactive strategies, the retail company can develop a 
+comprehensive approach to addressing the challenge of increasing competition 
+from online retailers. This approach will allow the company to capitalize on 
+opportunities for growth while also mitigating risks and responding to threats in 
+the market. 
+(b)  
+The changes in the environmental forces often require businesses to make 
+modifications in their existing strategies and bring out new strategies. Strategic 
+change is a complex process that involves a corporate strategy focused on 
+new markets, products, services and new ways of doing business. 
+ 
+For initiating strategic change, three steps can be identified as under: 
+(i) 
+Recognize the need for change: The first step is to diagnose facets of the 
+corporate culture that are strategy supportive or not. The idea is to 
+determine where the lacuna lies and scope for change exists. 
+(ii) 
+Create a shared vision to manage change: Objectives and vision of both 
+individuals and organization should coincide.  Senior managers need to 
+constantly and consistently communicate the vision not only to inform but 
+also to overcome resistance. 
+(iii) 
+Institutionalize the change: Creating and sustaining a different attitude 
+towards change is essential to ensure that the firm does not slip back into 
+old ways of thinking or doing things. All these changes should be set up as 
+practice to be followed by the organization and be able to transfer from one 
+level to another as a well-settled practice.  
+3.  
+(a)  
+The Chief Executive Officer (CEO) position within CDE Holdings operates at the 
+Corporate Level. This executive level is key in leading the overall direction, 
+performance, and success of the entire organization. The CEO assumes a central 
+role in shaping the company's strategic vision, overseeing diverse business 
+sectors, and ensuring alignment with organizational goals.  
+ 
+Key Duties and Responsibilities of the CEO: 
+ 
+The CEO's role encompasses various strategic responsibilities at the Corporate 
+Level, involving: 
+1. 
+oversee the development of strategies for the whole organization; 
+2. 
+defining the mission and goals of the organization; 
+Downloaded from castudyweb.com
+<<PAGE 20>>
+20 
+3. 
+determining what businesses, it should be in; 
+4. 
+allocating resources among the different businesses; 
+5. 
+formulating and implementing strategies that span individual 
+businesses; 
+6. 
+providing leadership for the organization;  
+7. 
+ensuring that the corporate and business level strategies which company 
+pursues are consistent with maximizing shareholders wealth; and 
+8. 
+managing the divestment and acquisition process.  
+ 
+Given the diverse nature of CDE Holdings, spanning manufacturing, organic 
+foods, eco-friendly products, and children's educational tools, the CEO's 
+responsibilities are tailored to navigate the unique challenges and opportunities 
+presented by each sector. In conclusion, the CEO at the Corporate Level plays a 
+critical role in guiding CDE Holdings strategically, ensuring cohesive leadership 
+and driving sustainable success across its diverse business domains.  
+(b)  
+Experience curve akin to a learning curve which explains the efficiency increase 
+gained by workers through repetitive productive work. Experience curve is based 
+on the commonly observed phenomenon that unit costs decline as a firm 
+accumulates experience in terms of a cumulative volume of production. It is based 
+on the concept, “we learn as we grow”. 
+ 
+The implication is that larger firms in an industry tend to have lower unit costs 
+compared to those for smaller companies, thereby gaining a competitive cost 
+advantage.  
+ 
+Experience curve results from a variety of factors such as learning effects, 
+economies of scale, product redesign and technological improvements in 
+production. 
+ 
+Experience curve has following features: 
+♦ 
+As business organisation grow, they gain experience. 
+♦ 
+Experience may provide an advantage over the competition. Experience is 
+a key barrier to entry. 
+♦ 
+Large and successful organisation possess stronger “experience effect”. 
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 21>>
+21 
+ 
+A typical experience curve may be depicted as follows: 
+ 
+Figure: Experience curve 
+ 
+As a business grows, it understands the complexities and benefits from its 
+experiences.  
+ 
+The concept of experience curve is relevant for a number of areas in strategic 
+management. For instance, the experience curve is considered a barrier for new 
+firms contemplating entry into an industry. It is also used to build market share 
+and discourage competition. 
+4.  
+(a)  
+The following are the principal points of distinction between concentric 
+diversification and conglomerate diversification: 
+(i) 
+Concentric diversification occurs when a firm adds related products or 
+markets. On the other hand, conglomerate diversification occurs when a 
+firm diversifies into areas that are unrelated to its current line of business. 
+(ii) 
+In concentric diversification, the new business is linked to the existing 
+businesses through process, technology or marketing. In conglomerate 
+diversification, no such linkages exist; the new business/product is 
+disjointed from the existing businesses/ products. 
+(iii) 
+The most common reasons for pursuing concentric diversification are that 
+opportunities in a firm’s existing line of business are available. However, 
+common reasons for pursuing a conglomerate growth strategy are that 
+opportunities in a firm's current line of business are limited or opportunities 
+outside are highly lucrative.  
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 22>>
+22 
+(b)  
+Mendelow's Matrix can be used effectively to analyze and manage stakeholders 
+through a grid-based approach by the following steps:  
+1.  
+Identify Stakeholders: Begin by identifying all relevant stakeholders for 
+your project or organization. This includes individuals, groups, or 
+organizations that may be impacted by or have an impact on your activities. 
+2.  
+Assess Power and Interest: For each stakeholder, assess their power to 
+influence your project or organization and their level of interest in its 
+success. Power can be assessed based on factors such as authority, 
+resources, and expertise, while interest can be gauged by their level of 
+involvement, expectations, and potential benefits or risks. 
+3.  
+Plot Stakeholders on the Grid: Create a grid with Power on one axis and 
+Interest on the other. Plot each stakeholder on the grid based on your 
+assessment. Stakeholders with high power and high interest are placed in 
+the "Key Players" quadrant, those with high power but low interest are in 
+the "Keep Satisfied" quadrant, those with low power but high interest are 
+in the "Keep Informed" quadrant, and those with low power and low interest 
+are in the "Low Priority" quadrant. 
+Downloaded from castudyweb.com
+<<PAGE 23>>
+23 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. 
+Develop Strategies for each Quadrant: Based on the placement of 
+stakeholders in the grid, develop specific strategies for managing each 
+quadrant: 
+• 
+Key Players: Fully engage with these stakeholders, seek their 
+input, and keep them informed. They are crucial for the success of 
+your project, so their needs and expectations should be a top 
+priority. 
+• 
+Keep Satisfied: These stakeholders have significant power but may 
+not be as interested in your project. Keep them satisfied by providing 
+regular updates and addressing any concerns they may have to 
+prevent them from becoming detractors. 
+• 
+Keep Informed: While these stakeholders may not have much 
+power, they are highly interested in your project. Keep them 
+informed to ensure they remain supportive and to leverage their 
+insights and feedback. 
+ 
+KEEP 
+SATISFIED 
+Consult often  
+Increase their interest 
+Can be hindrance to new 
+ideas or strategic choices 
+KEY PLAYER 
+Manage Closely  
+Involve in decision making 
+Engage regularly and 
+build strong relationship 
+LOW 
+PRIORITY 
+Monitor only,  
+no engagement 
+General occasional 
+communication 
+KEEP 
+INFORMED 
+Utilise the high interest by 
+engaging in decisions 
+Consult in their areas of 
+expertise and interest 
+Interest in the Organisation 
+Power / Influence 
+Low
+High 
+High 
+Downloaded from castudyweb.com
+<<PAGE 24>>
+24 
+• 
+Low Priority: These stakeholders have low power and interest. 
+Monitor them for any changes but allocate minimal resources to 
+managing their expectations. 
+5.  
+Monitor and Adapt: Continuously monitor the power and interest of 
+stakeholders and adjust your strategies accordingly. Stakeholders may 
+move between quadrants based on changing circumstances, so it's 
+important to remain flexible and responsive. 
+ 
+By using Mendelow's Matrix as a grid-based tool, you can effectively analyze and 
+manage stakeholders by tailoring your engagement strategies to their specific 
+needs and expectations, ultimately increasing the likelihood of project success. 
+OR 
+ 
+To study the market position of rival companies in the energy drink segment, the 
+strategic manager can use strategic group mapping. This tool helps identify 
+strategic groups, which consist of rival firms with similar competitive approaches 
+and positions in the market. The procedure for implementing strategic group 
+mapping effectively is as follows: 
+1. 
+Identify the competitive characteristics that differentiate firms in the 
+industry typical variables that are price/quality range (high, medium, low); 
+geographic coverage (local, regional, national, global); degree of vertical 
+integration (none, partial, full); product-line breadth (wide, narrow); use of 
+distribution channels (one, some, all); and degree of service offered (no-
+frills, limited, full). 
+2. 
+Plot the firms on a two-variable map using pairs of these differentiating 
+characteristics. 
+3. 
+Assign firms that fall in about the same strategy space to the same 
+strategic group. 
+4. 
+Draw circles around each strategic group making the circles 
+proportional to the size of the group's respective share of total industry 
+sales revenues. 
+ 
+By following these steps, the strategic manager can gain valuable insights into the 
+competitive landscape of the energy drink segment and identify potential 
+positioning strategies for the new line of energy drinks targeted at health-
+conscious consumers. 
+Downloaded from castudyweb.com

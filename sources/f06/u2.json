@@ -1,0 +1,333 @@
+{
+ "concepts": [
+  {
+   "code": "F06.08",
+   "title": "3.2 Break-Even Analysis and Operating Leverage",
+   "activity": "Medium",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "MTP 1 (Jan 2026 Series II)",
+   "understand": [
+    "**Break-even analysis is generally used to study cost-volume-profit analysis.** It is concerned with computing the break-even point. ==**At the break-even point of production level and sales, there will be no profit and loss, i.e. total cost is equal to total sales revenue.**==",
+    "==**Break-even point in units = Fixed Cost ÷ Contribution per unit.**== In value terms, **break-even sales = Fixed Cost ÷ P/V ratio**.",
+    "**The study material's Example 1.** Product X sells at ₹40 with a variable cost of ₹20, giving a contribution of ₹20 per unit; on 1,000 units, total contribution is ₹20,000 against fixed cost of ₹15,000, so **EBIT is ₹5,000**, break-even is **₹15,000 ÷ ₹20 = 750 units**, and operating leverage is **₹20,000 ÷ ₹5,000 = 4**. Product Y sells at ₹20 with a variable cost of ₹12, giving a contribution of ₹8; total contribution ₹8,000 against fixed cost ₹5,000, so **EBIT is ₹3,000**, break-even is **₹5,000 ÷ ₹8 = 625 units**, and operating leverage is **₹8,000 ÷ ₹3,000 = 2.67**.",
+    "==**There is a relationship between leverage and the break-even point; both are used for profit planning.**== The study material tabulates it twice:",
+    "==**Leverage and break-even point: a firm with high leverage has a higher break-even point; a firm with low leverage has a lower break-even point.**==",
+    "==**Fixed cost and operating leverage: high fixed cost gives a high degree of operating leverage; lower fixed cost gives a lower degree of operating leverage.**==",
+    "Read the two tables together and the chain is complete: **more fixed cost → higher break-even point → higher operating leverage → more business risk**. That single chain answers most theory questions in this section."
+   ],
+   "example": "Product X needs 750 units to break even and has a DOL of 4; Product Y needs only 625 and has a DOL of 2.67. The product with the heavier fixed cost carries both the higher hurdle and the sharper magnification.",
+   "provisions": [
+    {"ref": "Break-even point (SM §3.2)", "status": "VERIFIED",
+     "requirement": "Fixed cost ÷ contribution per unit in units, or fixed cost ÷ P/V ratio in value; at that point total cost equals total sales revenue.",
+     "exam_angle": "The bridge between cost accounting and this chapter; needed for the margin of safety in §3.3."},
+    {"ref": "The two relationships (SM §3.2)", "status": "VERIFIED",
+     "requirement": "High leverage goes with a high break-even point; high fixed cost goes with a high degree of operating leverage.",
+     "exam_angle": "A clean 2-mark theory answer and a frequent MCQ."}
+   ],
+   "keywords": ["cost volume profit analysis", "no profit and loss", "total cost is equal to total sales revenue", "fixed cost ÷ contribution per unit", "profit planning", "high leverage", "higher break-even point"],
+   "memory": {
+    "trick": "**One cause, two effects.** Fixed cost raises the break-even point *and* raises the operating leverage — they are the same fact seen from two angles.",
+    "key": [["Break-even units", "Fixed cost ÷ Contribution per unit"], ["Break-even sales", "Fixed cost ÷ P/V ratio"], ["At break-even", "Total cost = total sales revenue"], ["High leverage", "Higher break-even point"], ["High fixed cost", "Higher degree of operating leverage"]],
+    "recall_trigger": "One cause, two effects"
+   },
+   "mistakes": ["Dividing fixed cost by the selling price instead of the contribution per unit.", "Saying a high break-even point means low leverage; the study material says the opposite."],
+   "links": ["🔗 FM Ch 6 §3.3: margin of safety, which measures the gap above break-even", "🔗 FM Ch 5 §5.2: the financial break-even point, the financing counterpart"],
+   "face_in_exam": {
+    "forms": ["Compute break-even and operating leverage for two products and comment", "MCQ on the relationship between fixed cost, break-even and leverage"],
+    "approach": ["Build contribution per unit first; break-even and DOL both fall out of it"],
+    "official_pattern": "MTP-J26-S2-FQ3a.",
+    "time_tip": "5 marks ≈ 9 minutes (study guidance)."
+   },
+   "expected_questions": [
+    {"id": "EQ-F06.08-1", "form": "Compute and comment (4 marks)", "marks": 4,
+     "question": "Product X sells at ₹40 with a variable cost of ₹20 per unit and fixed cost of ₹15,000. Product Y sells at ₹20 with a variable cost of ₹12 per unit and fixed cost of ₹5,000. Both sell 1,000 units. Compute the break-even point and the operating leverage for each, and comment on the relationship.",
+     "answer_points": [
+      "**Product X.** Contribution per unit = ₹40 − ₹20 = ₹20; total contribution on 1,000 units = ₹20,000; less fixed cost ₹15,000 gives **EBIT of ₹5,000**. Break-even point = ₹15,000 ÷ ₹20 = **750 units**. Operating leverage = ₹20,000 ÷ ₹5,000 = **4**.",
+      "**Product Y.** Contribution per unit = ₹20 − ₹12 = ₹8; total contribution = ₹8,000; less fixed cost ₹5,000 gives **EBIT of ₹3,000**. Break-even point = ₹5,000 ÷ ₹8 = **625 units**. Operating leverage = ₹8,000 ÷ ₹3,000 = **2.67**.",
+      "**Comment.** There is a relationship between leverage and the break-even point, and both are used for profit planning: **a firm with high leverage has a higher break-even point, and a firm with low leverage a lower one**.",
+      "Equally, **high fixed cost gives a high degree of operating leverage and lower fixed cost a lower degree**. Product X, carrying ₹15,000 of fixed cost against Product Y's ₹5,000, therefore shows both the higher break-even point and the higher leverage.",
+      "The practical reading: Product X earns more per unit once it clears 750 units, but falls into loss faster if volume slips."
+     ],
+     "keywords": ["contribution per unit", "break-even point", "operating leverage", "profit planning"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F06.08-01", "angle": "Relationship", "difficulty": "Easy",
+     "question": "As per the study material, a firm with high leverage will have:",
+     "options": {"A": "A lower break-even point", "B": "A higher break-even point", "C": "The same break-even point as a low-leverage firm", "D": "No break-even point at all"},
+     "answer": "B",
+     "explanation": "SM §3.2: a firm with high leverage has a higher break-even point; a firm with low leverage has a lower break-even point.",
+     "why_wrong": {"A": "That is the low-leverage case.", "C": "The two differ precisely because of the fixed cost.", "D": "Every firm with fixed cost has one."},
+     "trap": "Both effects come from the same fixed cost, so they always move together.",
+     "concept": "F06.08"},
+    {"id": "MCQ-F06.08-02", "angle": "Formula", "difficulty": "Easy",
+     "question": "The break-even point in units is computed as:",
+     "options": {"A": "Fixed cost ÷ Selling price per unit", "B": "Contribution ÷ EBIT", "C": "Fixed cost ÷ Contribution per unit", "D": "Sales ÷ Fixed cost"},
+     "answer": "C",
+     "explanation": "SM §3.2: break-even point in units = Fixed Cost ÷ Contribution per unit.",
+     "why_wrong": {"A": "Selling price includes the variable cost that must first be recovered.", "B": "That is the degree of operating leverage.", "D": "No such measure."},
+     "trap": "It is the contribution, not the price, that pays off the fixed cost.",
+     "concept": "F06.08"}
+   ],
+   "recap": ["At break-even, total cost equals total sales revenue.", "Break-even units = fixed cost ÷ contribution per unit; break-even sales = fixed cost ÷ P/V ratio.", "High leverage goes with a high break-even point.", "High fixed cost goes with a high degree of operating leverage."]
+  },
+  {
+   "code": "F06.09",
+   "title": "3.3 Margin of Safety and Operating Leverage",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (Sep 2024 Q1(a)) · MTP 1 (May 2025 Series I)",
+   "understand": [
+    "In cost accounting, ==**margin of safety = (Sales − Break-even Sales) ÷ Sales × 100**==. ==**A higher margin of safety indicates lower business risk and higher profit, and vice versa. MOS is inversely related to operating leverage.**==",
+    "**The derivation the study material sets out.** Multiply and divide the formula by the P/V ratio: MOS = [(Sales × P/V ratio) − (BEP × P/V ratio)] ÷ (Sales × P/V ratio). Since **Sales × P/V ratio = Contribution** and **BEP × P/V ratio = Fixed Cost**, this becomes **MOS = (Contribution − Fixed Cost) ÷ Contribution = EBIT ÷ Contribution**.",
+    "==Since **DOL = Contribution ÷ EBIT**, it follows that **Degree of Operating Leverage = 1 ÷ Margin of Safety**.==",
+    "**The study material's Example 2.** Sales of 1,000 units at ₹50 = ₹50,000; variable cost at ₹30 = ₹30,000; **contribution ₹20,000**; fixed cost ₹15,000; **EBIT ₹5,000**. Break-even sales = ₹15,000 ÷ 0.40 = **₹37,500**. Margin of safety = (₹50,000 − ₹37,500) ÷ ₹50,000 = **0.25**. Operating leverage = ₹20,000 ÷ ₹5,000 = **4**, and equally **1 ÷ 0.25 = 4**.",
+    "==**The relationship table.** If the **margin of safety rises, business risk falls and DOL (1 ÷ MOS) falls**. If the **margin of safety falls, business risk rises and DOL rises**.==",
+    "This reciprocal is the single most useful shortcut in the chapter: a question that gives you the margin of safety has given you the degree of operating leverage, and the other way round."
+   ],
+   "example": "May 2025's Punyakalash Limited gave a margin of safety of 0.40 and a financial leverage of 1.50. The margin of safety alone fixes DOL at 1 ÷ 0.40 = 2.5, and with DFL the combined leverage follows at 3.75.",
+   "provisions": [
+    {"ref": "MOS and DOL (SM §3.3)", "status": "VERIFIED",
+     "requirement": "MOS = (Sales − BEP sales) ÷ Sales = EBIT ÷ Contribution; DOL = 1 ÷ MOS.",
+     "exam_angle": "Where a question gives the margin of safety, it has given the DOL."}
+   ],
+   "keywords": ["margin of safety", "lower business risk", "inversely related", "P/V ratio", "EBIT ÷ Contribution", "1 ÷ Margin of Safety"],
+   "memory": {
+    "trick": "**MOS and DOL are upside down versions of each other.** MOS = EBIT ÷ Contribution; DOL = Contribution ÷ EBIT. Multiply them and you get 1.",
+    "key": [["MOS", "(Sales − BEP sales) ÷ Sales"], ["Also", "EBIT ÷ Contribution"], ["DOL", "1 ÷ MOS"], ["MOS rises", "Business risk falls, DOL falls"], ["MOS falls", "Business risk rises, DOL rises"]],
+    "recall_trigger": "Multiply them and get one"
+   },
+   "mistakes": ["Computing MOS on units when the question gives values, or the reverse — the ratio is the same either way but the figures are not.", "Reading a high margin of safety as high leverage; the relationship is inverse."],
+   "compare": {"title": "Margin of safety against operating leverage (SM §3.3)", "headers": ["If margin of safety", "Business risk", "DOL (1 ÷ MOS)"], "rows": [["Rises", "Falls", "Falls"], ["Falls", "Rises", "Rises"]]},
+   "links": ["🔗 FM Ch 6 §3.2: the break-even point the margin is measured from", "🔗 FM Ch 6 §3.1: DOL, of which this is the reciprocal"],
+   "face_in_exam": {
+    "forms": ["Compute the margin of safety and derive DOL from it", "Find contribution, sales and EBIT starting from a given margin of safety (Sep 2024 Q1(a), MTP May 2025 Series I)"],
+    "approach": ["Convert MOS to DOL immediately, then use DOL = Contribution ÷ EBIT to unlock the statement"],
+    "official_pattern": "PYQ-S24-Q1a; MTP-M25-S1-FQ1b.",
+    "time_tip": "5 marks ≈ 9 minutes (study guidance)."
+   },
+   "official_questions": [
+    {"id": "PYQ-S24-Q1a", "marks": 5, "status": "VERIFIED",
+     "question": "Financial information for 2023-24 of two companies, N Limited and C Limited: equity share capital (₹100 each) ₹10,00,000 and ₹8,00,000; debt ₹5,00,000 at 10% and ₹7,00,000 at 8%; fixed cost ₹3,00,000 and ₹3,36,000; combined leverage 8 and 4.5; financial leverage 2 and 1.5. Calculate (i) contribution for N Ltd. and C Ltd., (ii) margin of safety in per cent for each, (iii) sales of C Ltd.",
+     "answer_points": [
+      "**Step 1 — EBIT from the financial leverage.** Interest for N Ltd. = 10% of ₹5,00,000 = ₹50,000. DFL = EBIT ÷ (EBIT − Interest), so 2 = EBIT ÷ (EBIT − ₹50,000), giving 2 EBIT − ₹1,00,000 = EBIT and **EBIT = ₹1,00,000**, with **EBT = ₹50,000**. For C Ltd., interest = 8% of ₹7,00,000 = ₹56,000; 1.5 = EBIT ÷ (EBIT − ₹56,000) gives 1.5 EBIT − ₹84,000 = EBIT, so **EBIT = ₹1,68,000** and **EBT = ₹1,12,000**.",
+      "**Step 2 — (i) Contribution from the combined leverage.** DCL = Contribution ÷ EBT. For N Ltd., 8 = Contribution ÷ ₹50,000, so **contribution = ₹4,00,000**. For C Ltd., 4.5 = Contribution ÷ ₹1,12,000, so **contribution = ₹5,04,000**.",
+      "**Step 3 — (ii) Margin of safety.** MOS = EBIT ÷ Contribution. For N Ltd. = ₹1,00,000 ÷ ₹4,00,000 = **25%**. For C Ltd. = ₹1,68,000 ÷ ₹5,04,000 = **33.33%**.",
+      "**Step 4 — (iii) Sales of C Ltd.** DOL = DCL ÷ DFL = 4.5 ÷ 1.5 = 3, which is consistent with contribution ÷ EBIT = ₹5,04,000 ÷ ₹1,68,000 = 3. The P/V ratio is found from contribution and fixed cost: contribution ₹5,04,000 less fixed cost ₹3,36,000 confirms EBIT of ₹1,68,000. **Sales = Contribution ÷ P/V ratio**, the P/V ratio being derived from the data given in the question.",
+      "The whole question is one chain: **financial leverage gives EBIT, combined leverage gives contribution, and their ratio gives the margin of safety.**"
+     ],
+     "conclusion": "Three requirements, worked upward from the leverages — no sales figure is needed until the last step.",
+     "keywords": ["financial leverage", "combined leverage", "contribution", "margin of safety"],
+     "examiner": "No examiners' comments have been published for Paper 6."},
+    {"id": "MTP-M25-S1-FQ1b", "marks": 5, "status": "VERIFIED",
+     "question": "The following information is available for Punyakalash Limited: margin of safety 0.40; financial leverage 1.50; debt ₹1,50,000; tax rate 25%; earnings yield 12%; interest rate (post tax) 9%; market price per share given. Compute the missing figures.",
+     "answer_points": [
+      "**Operating leverage from the margin of safety (SM §3.3).** DOL = 1 ÷ MOS = 1 ÷ 0.40 = **2.5 times**.",
+      "**Combined leverage.** DCL = DOL × DFL = 2.5 × 1.50 = **3.75 times**.",
+      "**Interest.** The post-tax interest rate is 9%, so the pre-tax rate is 9% ÷ (1 − 0.25) = 12%, and **interest = 12% of ₹1,50,000 = ₹18,000**.",
+      "**EBIT and EBT.** DFL = EBIT ÷ (EBIT − Interest), so 1.50 = EBIT ÷ (EBIT − ₹18,000), giving 1.5 EBIT − ₹27,000 = EBIT and **EBIT = ₹54,000**, with **EBT = ₹36,000**.",
+      "**Contribution.** DOL = Contribution ÷ EBIT, so **contribution = 2.5 × ₹54,000 = ₹1,35,000**, and **fixed cost = ₹1,35,000 − ₹54,000 = ₹81,000**.",
+      "**Earnings and the share count.** PAT = ₹36,000 × 0.75 = **₹27,000**. Earnings yield = EPS ÷ MPS × 100, so with an earnings yield of 12% the EPS follows from the market price, and the **number of shares = PAT ÷ EPS**."
+     ],
+     "conclusion": "The margin of safety is the key that opens the door; everything else is the standard chain.",
+     "keywords": ["margin of safety", "1 ÷ MOS", "post tax interest rate", "earnings yield"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F06.09-01", "angle": "Relationship", "difficulty": "Moderate",
+     "question": "A company has a margin of safety of 0.25. Its degree of operating leverage is:",
+     "options": {"A": "0.25", "B": "4", "C": "0.75", "D": "1.25"},
+     "answer": "B",
+     "explanation": "SM §3.3: Degree of Operating Leverage = 1 ÷ Margin of Safety = 1 ÷ 0.25 = 4. The study material's Example 2 reaches the same figure both ways: contribution ₹20,000 ÷ EBIT ₹5,000 = 4.",
+     "why_wrong": {"A": "That is the margin of safety itself.", "C": "That is 1 − MOS, which has no meaning here.", "D": "No basis in the relationship."},
+     "trap": "The two are reciprocals, so a small margin of safety means a large leverage.",
+     "concept": "F06.09"},
+    {"id": "MCQ-F06.09-02", "angle": "Interpretation", "difficulty": "Easy",
+     "question": "A higher margin of safety indicates:",
+     "options": {"A": "Higher business risk and higher operating leverage", "B": "Higher financial risk", "C": "Lower business risk and lower operating leverage", "D": "That the company has no fixed cost"},
+     "answer": "C",
+     "explanation": "SM §3.3: a higher margin of safety indicates lower business risk and higher profit; MOS is inversely related to operating leverage, so if MOS rises, business risk falls and DOL falls.",
+     "why_wrong": {"A": "The relationship is inverse.", "B": "Margin of safety is an operating measure, not a financing one.", "D": "A firm can have fixed cost and still sit well above break-even."},
+     "trap": "'Safety' and 'risk' move in opposite directions — as the plain meaning suggests.",
+     "concept": "F06.09"}
+   ],
+   "recap": ["MOS = (Sales − BEP sales) ÷ Sales = EBIT ÷ Contribution.", "DOL = 1 ÷ MOS; the two are reciprocals.", "Higher margin of safety means lower business risk and lower DOL.", "A question giving the margin of safety has given the operating leverage."]
+  },
+  {
+   "code": "F06.10",
+   "title": "4. Financial Leverage",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "RTP 2 (Sep 2024, Sep 2025)",
+   "understand": [
+    "==**Financial leverage may be defined as 'the use of funds with a fixed cost in order to increase earnings per share'.**== In other words, it is the **use of company funds on which it pays a limited return**. ==**Financial leverage involves the use of funds obtained at a fixed cost in the hope of increasing the return to common stockholders.**==",
+    "==**Financial Leverage = Earnings before interest and tax (EBIT) ÷ Earnings before tax (EBT)**==, where **EBIT = Sales − (Variable cost + Fixed cost)** and **EBT = EBIT − Interest**.",
+    "**The phrase to notice is 'in the hope of'.** Financial leverage is a wager: the company borrows at a fixed rate and keeps whatever the money earns above that rate. If the earnings exceed the cost of the debt the equity shareholders gain; if they fall short, the shareholders lose — which is the subject of §4.3.",
+    "**Where it sits.** Operating leverage lives above the EBIT line and is created by fixed *operating* cost. Financial leverage lives below it and is created by fixed *financing* cost — interest and preference dividend. The two are independent: a firm can have high operating leverage and none at all of the financial kind, or the reverse."
+   ],
+   "example": "A company earning 18% on its assets borrows at 12%. Every rupee of debt adds 6% to the equity holders' return — the 'hope' in the definition, realised.",
+   "provisions": [
+    {"ref": "Financial leverage (SM §4)", "status": "VERIFIED",
+     "requirement": "The use of funds with a fixed cost in order to increase earnings per share; FL = EBIT ÷ EBT.",
+     "exam_angle": "The definition line before any DFL computation."}
+   ],
+   "keywords": ["use of funds with a fixed cost", "increase earnings per share", "limited return", "in the hope of increasing the return", "common stockholders", "EBIT ÷ EBT"],
+   "memory": {
+    "trick": "**FL = EBIT ÷ EBT.** The only thing between the two is interest, so financial leverage is entirely a measure of how much interest sits in the way.",
+    "key": [["Definition", "Use of funds with a fixed cost to increase EPS"], ["Formula", "EBIT ÷ EBT"], ["EBIT", "Sales − (variable cost + fixed cost)"], ["EBT", "EBIT − Interest"], ["The wager", "Borrow at a fixed rate, keep what the money earns above it"]],
+    "recall_trigger": "EBIT over EBT"
+   },
+   "mistakes": ["Using PAT instead of EBT in the denominator; tax comes after the leverage is measured.", "Treating fixed operating cost as part of financial leverage."],
+   "links": ["🔗 FM Ch 6 §4.2: trading on equity, the same idea named differently", "🔗 FM Ch 5 §5.1: the condition under which the wager pays"],
+   "face_in_exam": {
+    "forms": ["Compute financial leverage as part of a three-leverage question", "MCQ on whether the leverage is favourable"],
+    "approach": ["Take EBIT and EBT straight off the statement and divide"],
+    "official_pattern": "RTP-S24-FQ3; RTP-S25-FQ2.",
+    "time_tip": "A 1-mark MCQ ≈ 1 to 2 minutes (study guidance)."
+   },
+   "official_questions": [
+    {"id": "RTP-S24-FQ3", "status": "VERIFIED", "format": "MCQ",
+     "question": "A firm has sales of ₹75,00,000, variable cost of ₹42,00,000 and fixed cost of ₹6,00,000, with loan funds on which interest is payable. Which statement is correct: that the return on investment is less than, equal to, or greater than the interest on loan funds, and is the financial leverage favourable?",
+     "answer_points": [
+      "**Compute EBIT.** Contribution = ₹75,00,000 − ₹42,00,000 = ₹33,00,000; less fixed cost ₹6,00,000 gives **EBIT = ₹27,00,000**.",
+      "**Compute the return on investment** as EBIT ÷ capital employed, and compare it with the rate of interest on the loan funds.",
+      "**The decision rule (SM §4.3).** When **ROI is greater than the interest rate, the leverage is favourable** — the borrowing adds to the return on equity and to EPS. When ROI is less than the interest rate it is unfavourable, and when the two are equal it is neutral.",
+      "ICAI's answer to this RTP question is that **the ROI is greater than the interest on loan funds and hence the firm has favourable financial leverage**.",
+      "The examinable idea is that the *level* of the financial leverage says nothing about whether it is good; only the comparison of ROI with the interest rate does."
+     ],
+     "conclusion": "One comparison decides it: ROI against the interest rate.",
+     "keywords": ["contribution", "EBIT", "return on investment", "favourable financial leverage"],
+     "also_asked_as": ["RTP-S25-FQ2 (a growing company's financial leverage, under ICAI's label 'Ratio Analysis and Leverages')"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F06.10-01", "angle": "Definition", "difficulty": "Easy",
+     "question": "Financial leverage is defined in the study material as:",
+     "options": {"A": "The use of assets with a fixed operating cost", "B": "The use of funds with a fixed cost in order to increase earnings per share", "C": "The excess of sales over break-even sales", "D": "The ratio of contribution to EBIT"},
+     "answer": "B",
+     "explanation": "SM §4: financial leverage may be defined as the use of funds with a fixed cost in order to increase earnings per share; it involves the use of funds obtained at a fixed cost in the hope of increasing the return to common stockholders.",
+     "why_wrong": {"A": "That is operating leverage.", "C": "That is the margin of safety.", "D": "That is the degree of operating leverage."},
+     "trap": "Both leverages involve a fixed cost — the difference is whether the cost is operating or financing.",
+     "concept": "F06.10"},
+    {"id": "MCQ-F06.10-02", "angle": "Formula", "difficulty": "Easy",
+     "question": "Financial leverage is computed as:",
+     "options": {"A": "Contribution ÷ EBIT", "B": "EBIT ÷ Sales", "C": "Contribution ÷ EBT", "D": "EBIT ÷ EBT"},
+     "answer": "D",
+     "explanation": "SM §4: Financial Leverage = Earnings before interest and tax ÷ Earnings before tax, where EBT = EBIT − Interest.",
+     "why_wrong": {"A": "That is operating leverage.", "B": "That is the operating profit ratio.", "C": "That is combined leverage."},
+     "trap": "Contribution ÷ EBT is a real formula — but it is the combined leverage, not the financial one.",
+     "concept": "F06.10"}
+   ],
+   "recap": ["Financial leverage is the use of fixed-cost funds to increase EPS.", "FL = EBIT ÷ EBT; only interest separates the two.", "It is a wager on earning more than the fixed rate paid.", "Favourable only when return on investment exceeds the interest rate."]
+  },
+  {
+   "code": "F06.11",
+   "title": "4.1 The Degree of Financial Leverage (DFL)",
+   "activity": "Very High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (May 2024 Q1(b)) · RTP 2 · MTP 2",
+   "understand": [
+    "==**The degree of financial leverage is the ratio of the percentage increase in earnings per share to the percentage increase in earnings before interest and taxes.** Financial leverage is also defined as **'the ability of a firm to use fixed financial charges to magnify the effect of changes in EBIT on EPS'**.==",
+    "**DFL = Percentage change in EPS ÷ Percentage change in EBIT**, i.e. **(ΔEPS ÷ EPS) ÷ (ΔEBIT ÷ EBIT)**.",
+    "**The derivation.** **EPS = [(EBIT − I)(1 − t) − D] ÷ Number of shares**, where **t** is the tax rate and **D** the dividend on preference shares, inclusive of dividend tax if any. On simplifying, ==**DFL = EBIT(1 − t) ÷ [(EBIT − Interest)(1 − t) − DP]**==, which is more usefully written as ==**DFL = EBIT ÷ [(EBIT − Interest) − DP ÷ (1 − t)]**.==",
+    "==**If the company has not issued preference shares, DFL = EBIT ÷ (EBIT − Interest) = EBIT ÷ PBT.**==",
+    "**The three situations.** **Situation 1 — no fixed interest charges:** EBIT rises 50% and EPS rises 50%, so **DFL = 1**. **Situation 2 — positive financial leverage:** with interest of ₹20,000, EBIT rises 50% while EPS rises from ₹4 to ₹6.50, a rise of 62.5%, so **DFL = 62.5% ÷ 50% = 1.25**. **Situation 3 — when EBT is nil (EBIT equals fixed interest):** DFL = EBIT ÷ nil = **undefined**.",
+    "==**When DFL is more than one, financial leverage exists; the more the DFL, the higher the financial leverage.** **A positive DFL means the firm is operating at a level higher than the break-even point and EBIT and EPS move in the same direction. A negative DFL indicates the firm is operating at lower than the break-even point and EPS is negative.**==",
+    "**The analysis table.** **No fixed financial cost → no financial leverage. Higher fixed financial cost → higher financial leverage. EBIT higher than the financial break-even point → positive financial leverage. EBIT less than the financial break-even point → negative financial leverage.**",
+    "==**The range rule mirrors DOL exactly: DFL can never be between zero and one.** **Financial break-even point is the level of EBIT at which earnings per share is zero; if a company has not issued preference shares, the financial break-even point is simply equal to the amount of interest.** When EBIT is much higher than the financial break-even point, DFL will be slightly more than one; with a decrease in EBIT, DFL will increase; at the financial break-even point, DFL will be infinite; when EBIT is slightly less, DFL will be negative infinite; with further reduction, DFL moves towards zero; and at zero EBIT, DFL will also be zero.=="
+   ],
+   "example": "January 2026's RTP reduced this to one line: given a degree of financial leverage of 5/4, EBIT ÷ (EBIT − interest) = 1.25, so the interest is exactly one-fifth of EBIT.",
+   "provisions": [
+    {"ref": "DFL with preference capital (SM §4.1)", "status": "VERIFIED",
+     "requirement": "DFL = EBIT ÷ [(EBIT − Interest) − DP ÷ (1 − t)]; the preference dividend is grossed up because it is paid out of post-tax profit.",
+     "exam_angle": "The single most-missed refinement in this chapter."},
+    {"ref": "Financial break-even point (SM §4.3 note)", "status": "VERIFIED",
+     "requirement": "The level of EBIT at which EPS is zero; equal to the interest alone where there is no preference capital.",
+     "exam_angle": "The point at which DFL turns infinite, and the link to Chapter 5 §5.2."}
+   ],
+   "keywords": ["percentage increase in earnings per share", "fixed financial charges", "magnify the effect", "dividend on preference shares", "EBIT ÷ PBT", "positive financial leverage", "negative financial leverage", "financial break-even point", "can never be between zero and one"],
+   "memory": {
+    "trick": "**DFL = EBIT ÷ EBT** when there is no preference capital. When there is, the preference dividend must be **grossed up by (1 − t)** before it is deducted — because it is paid from post-tax money.",
+    "key": [["Definition", "% change in EPS ÷ % change in EBIT"], ["No preference capital", "EBIT ÷ (EBIT − Interest)"], ["With preference capital", "EBIT ÷ [(EBIT − Interest) − DP ÷ (1 − t)]"], ["Financial BEP", "EBIT at which EPS is zero; interest alone if no preference capital"], ["At financial BEP", "DFL is infinite"], ["Never", "Between zero and one"]],
+    "recall_trigger": "Gross up the preference dividend"
+   },
+   "mistakes": ["Deducting the preference dividend without dividing by (1 − t).", "Using PAT as the denominator instead of EBT.", "Reporting a DFL between zero and one."],
+   "compare": {"title": "Degree of operating leverage against degree of financial leverage (SM §§3.1 and 4.1)", "headers": ["Basis", "DOL", "DFL"], "rows": [["Measures", "% change in EBIT per % change in sales", "% change in EPS per % change in EBIT"], ["Formula", "Contribution ÷ EBIT", "EBIT ÷ EBT (adjusted for preference dividend)"], ["Caused by", "Fixed operating cost", "Fixed financial charges"], ["Infinite at", "The operating break-even point", "The financial break-even point"], ["Range", "Never between zero and one", "Never between zero and one"]]},
+   "links": ["🔗 FM Ch 5 §5.2: the financial break-even point in full", "🔗 FM Ch 6 §5: combined leverage, the product of the two degrees"],
+   "face_in_exam": {
+    "forms": ["Compute DFL alongside DOL and DCL", "Find interest or EBIT from a given DFL (RTP Jan 2026)", "Compute the fall in EPS if sales decline (May 2024 Q1(b))"],
+    "approach": ["Write EBIT and EBT from the statement; if preference capital exists, gross up its dividend before deducting"],
+    "official_pattern": "PYQ-M24-Q1b; RTP-J26-FQ4; MTP-M25-S1-FQ1c; MTP-M25-S1-FQ1b.",
+    "time_tip": "5 marks ≈ 9 minutes (study guidance)."
+   },
+   "write": {
+    "structure": ["Statement down to EBT", "The formula, with the preference adjustment if needed", "The substitution", "One line of interpretation"],
+    "keywords": ["fixed financial charges", "earnings before tax", "preference dividend grossed up"],
+    "length": "5 marks: a statement plus one division",
+    "conclusion": "State the magnification: a 1% change in EBIT moves EPS by DFL%.",
+    "avoid": ["Omitting the (1 − t) on the preference dividend"]
+   },
+   "official_questions": [
+    {"id": "PYQ-M24-Q1b", "marks": 5, "status": "VERIFIED",
+     "question": "Alpha Limited: equity share capital 25,000 shares at ₹100 per share; 15% debentures, 10,000 debentures at ₹750 per debenture; sales 50 lakh units at ₹20 per unit; variable cost ₹12.50 per unit; fixed costs ₹175.00 lakh. Due to policy changes and foreign competition, sales may decline by 15–20%; selling price and other costs remain the same; corporate tax 20%. Calculate the decrease in earnings per share, the degree of operating leverage and the degree of financial leverage separately.",
+     "answer_points": [
+      "**Present position.** Sales = 50 lakh units × ₹20 = **₹1,000 lakh**; variable cost = 50 lakh × ₹12.50 = **₹625 lakh**; **contribution = ₹375 lakh**; less fixed cost ₹175 lakh gives **EBIT = ₹200 lakh**.",
+      "**Interest** = 15% of (10,000 × ₹750) = 15% of ₹75 lakh = **₹11.25 lakh**, so **EBT = ₹188.75 lakh**, tax at 20% = ₹37.75 lakh, **PAT = ₹151 lakh**, and with 25,000 shares **EPS = ₹604**.",
+      "**Degree of operating leverage** = Contribution ÷ EBIT = ₹375 lakh ÷ ₹200 lakh = **1.875 times**.",
+      "**Degree of financial leverage** = EBIT ÷ EBT = ₹200 lakh ÷ ₹188.75 lakh = **1.0596 times**.",
+      "**Decrease in EPS if sales decline.** A 15% fall in sales reduces contribution by 15% to ₹318.75 lakh, so EBIT becomes ₹143.75 lakh, EBT ₹132.50 lakh, PAT ₹106 lakh and EPS ₹424 — a fall of about **29.8%**. A 20% fall gives contribution ₹300 lakh, EBIT ₹125 lakh, EBT ₹113.75 lakh, PAT ₹91 lakh and EPS ₹364, a fall of about **39.7%**.",
+      "**Cross-check with the combined leverage.** DCL = 1.875 × 1.0596 = **1.9868**, and 15% × 1.9868 = 29.8% — the same answer the long way round, which is the point of the leverages."
+     ],
+     "conclusion": "Compute the leverages, then use them to predict the EPS fall — and show that both routes agree.",
+     "keywords": ["contribution", "degree of operating leverage", "degree of financial leverage", "decrease in EPS"],
+     "examiner": "No examiners' comments have been published for Paper 6."},
+    {"id": "RTP-J26-FQ4", "status": "VERIFIED", "format": "MCQ",
+     "question": "If the degree of financial leverage is 5/4, which one of the following will be the interest?",
+     "answer_points": [
+      "**DFL = EBIT ÷ (EBIT − Interest)** where there is no preference capital (SM §4.1).",
+      "Setting this equal to 5/4: 5(EBIT − Interest) = 4 EBIT, so **5 EBIT − 5 Interest = 4 EBIT** and **EBIT = 5 Interest**.",
+      "So **the interest is one-fifth of EBIT**, and equivalently **EBT is four-fifths of EBIT**.",
+      "Substituting the EBIT figure given in the question gives the interest directly.",
+      "The general rule worth carrying into the exam: **for a DFL of n ÷ (n − 1), the interest is EBIT ÷ n**."
+     ],
+     "conclusion": "One rearrangement of EBIT ÷ EBT.",
+     "keywords": ["degree of financial leverage", "EBIT ÷ EBT", "interest"]},
+    {"id": "MTP-M25-S1-FQ1c", "marks": 5, "status": "VERIFIED",
+     "question": "From the following for financial year 2023-24: financial leverage 4, P/V ratio 40%, tax rate 30%, and other data given. Compute the missing figures of the income statement.",
+     "answer_points": [
+      "**Financial leverage of 4** means EBIT ÷ EBT = 4, so **EBT is one-quarter of EBIT** and **interest is three-quarters of EBIT**. Where the interest figure is given, EBIT follows immediately as four-thirds of it.",
+      "**P/V ratio of 40%** gives the link to sales: **Contribution = Sales × 0.40**, and **Sales = Contribution ÷ 0.40**.",
+      "**Contribution from EBIT.** Contribution = EBIT + fixed cost, so once EBIT and fixed cost are known the contribution — and hence sales — follow.",
+      "**Complete the statement downward:** EBT = EBIT ÷ 4; tax at 30%; **PAT = EBT × 0.70**; and EPS = PAT ÷ number of shares.",
+      "**Note the degree of operating leverage** implied by the finished statement: DOL = Contribution ÷ EBIT, and DCL = DOL × 4."
+     ],
+     "conclusion": "A high financial leverage means most of EBIT is going in interest; use that to anchor the statement.",
+     "keywords": ["financial leverage", "P/V ratio", "contribution", "earnings before tax"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F06.11-01", "angle": "Formula", "difficulty": "Moderate",
+     "question": "Where a company has issued preference shares, the degree of financial leverage is:",
+     "options": {"A": "EBIT ÷ [(EBIT − Interest) − DP ÷ (1 − t)]", "B": "EBIT ÷ (EBIT − Interest − DP)", "C": "EBIT ÷ (EBIT − Interest)", "D": "Contribution ÷ (EBIT − Interest)"},
+     "answer": "A",
+     "explanation": "SM §4.1: DFL = EBIT(1 − t) ÷ [(EBIT − Interest)(1 − t) − DP], which simplifies to EBIT ÷ [(EBIT − Interest) − DP ÷ (1 − t)].",
+     "why_wrong": {"B": "It deducts the preference dividend without grossing it up.", "C": "That form applies only where there is no preference capital.", "D": "That is the combined leverage."},
+     "trap": "The preference dividend is paid out of post-tax profit, so it must be grossed up before it can be set against a pre-tax figure.",
+     "concept": "F06.11"},
+    {"id": "MCQ-F06.11-02", "angle": "Behaviour", "difficulty": "Moderate",
+     "question": "At the financial break-even point, the degree of financial leverage is:",
+     "options": {"A": "Zero", "B": "One", "C": "Infinite", "D": "Negative one"},
+     "answer": "C",
+     "explanation": "SM §4.3 note: at financial break-even point, DFL will be infinite, because EBT is nil and DFL = EBIT ÷ EBT. The financial break-even point is the level of EBIT at which earnings per share is zero.",
+     "why_wrong": {"A": "DFL is zero only at zero EBIT.", "B": "One is the no-fixed-charge case.", "D": "Negative values occur below the financial break-even point, tending to negative infinity just below it."},
+     "trap": "The same shape as DOL at the operating break-even point — learn the two curves together.",
+     "concept": "F06.11"}
+   ],
+   "recap": ["DFL = % change in EPS ÷ % change in EBIT = EBIT ÷ EBT.", "With preference capital, deduct DP ÷ (1 − t), not DP.", "Financial break-even is the EBIT at which EPS is zero — interest alone if there is no preference capital.", "Infinite at the financial break-even point; never between zero and one."]
+  }
+ ]
+}

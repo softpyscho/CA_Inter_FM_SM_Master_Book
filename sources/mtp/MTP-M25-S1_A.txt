@@ -1,0 +1,1713 @@
+<<PAGE 1>>
+1 
+Mock Test Paper - Series I: March 2025 
+Date of Paper: 19th March, 2025 
+Time of Paper: 10 A.M. – 1 P.M. 
+ 
+INTERMEDIATE: GROUP – II 
+PAPER – 6: FINANCIAL MANAGEMENT & STRATEGIC MANAGEMENT 
+PAPER 6A : FINANCIAL MANAGEMENT 
+Suggested Answers/ Hints 
+DIVISION A 
+1. 
+(b)  
+2.33 times 
+Liquid Ratio  
+ 
+= 
+Liquid  assets
+Current  liabilities  
+Liquid Assets  
+ 
+= Current Assets − Inventories 
+= 33,000
+77,000 
+= 2.33 times 
+2. 
+(a)  
+0.5 : 1 and 6 times   
+Sales to Proprietary Ratio  
+= 
+Sales
+Proprietary fund 
+= 2,00,000
+1,00,000 = 0.5 : 1 
+Proprietor’s fund or Shareholder’s fund  
+= Equity share capital + Preference share capital + Reserve and surplus  
+= 1,00,000 + 20,000 + 80,000 = 2,00,000 
+Interest Coverage Ratio 
+= Earnings before interest and taxes(EBIT)
+Interest
+ 
+ 
+ 
+ 
+= 24,000/4000 = 6 times 
+EBIT   
+ 
+ 
+= 20,000 + 4,000 = 24,000 
+Fixed interest charges  
+= 8% on debentures of ` 50,000 = ` 4,000 
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 2>>
+2 
+3. 
+(c)  
+3.33 times and 6 times 
+Debtors Turnover Ratio  
+= 
+Credit Sales
+Average Accounts Receivable
+ 
+ 
+ 
+= 1,00,000/30,000 = 3.33 times 
+In the absence of credit sales and opening debtors, total sales is considered as 
+credit sales and closing debtors as average debtors. 
+Creditors Turnover Ratio  
+= Annual Net Credit Purchases
+Average Accounts Payables 
+= 60,000/10,000 = 6 times 
+In the absence of opening creditors, closing creditors are treated as average 
+creditors. 
+Credit Purchase  
+ 
+= Creditors x 360 / 60  
+= 10,000 x 360/60 = 60,000  
+4. 
+(a)  
+1.06 times 
+ 
+Working Capital Turnover Ratio = 
+Sales
+Working Capital 
+ 
+ 
+ 
+ 
+ 
+     = 1,00,000/94,000 = 1.06 times 
+Net Working Capital  
+     = Current assets – Current liabilities 
+ 
+ 
+ 
+ 
+     = 1,27,000 – 33,000 = 94,000 
+5. 
+(d)  
+7% 
+ 
+Return on Investment  
+     = 
+Net Profit after taxes 
+Shareholders'Funds ×100 
+ 
+ 
+ 
+ 
+ 
+     = 14,000/ 2,00,000 x 100 
+ 
+ 
+ 
+ 
+ 
+     = 7% 
+Proprietor’s fund or Shareholder’s fund  
+= Equity share capital + Preference share capital + Reserve and surplus  
+= 1,00,000 + 20,000 + 80,000 = 2,00,000 
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 3>>
+3 
+6. 
+(a)  
+13.3% 
+Calculation of Cost of Equity 
+Calculation of value of firm (v) = 
+(
+)
+o
+K
+ 
+capital
+ 
+of
+cost 
+ 
+Overall
+EBIT
+ 
+ 
+ 
+ 
+ 
+00
+Rs.75,00,0
+0.12
+9,00,000 =
+=
+ 
+Market value of equity (S)      = V – Debts  
+ 
+ 
+ 
+ 
+= 75,00,000 – 30,00,000 = `. 45,00,000 
+Market value of debts (D)      = 30,00,000 
+
+
+
+
+
+
+−
+
+
+
+
+
+
+=
+S
+D
+K 
+S
+V
+K
+equity)
+of
+(Cost
+K
+d
+o
+e
+ 
+
+
+
+
+
+
+−
+
+
+
+
+
+
+=
+45,00,000
+30,00,000
+0.10
+ 
+45,00,000
+75,00,000
+0.12
+ 
+     
+ 
+         = 0.20 − 0.067 = 0.133 × 100 
+ 
+ 
+Ke     = 13.3%. 
+7. 
+(b)  
+`1,750 
+ 
+Computation of Earnings after tax 
+ 
+Contribution   
+= ` 60 × 1,000 = ` 60,000  
+ 
+Operating Leverage (OL) × Financial Leverage (FL) = Combined Leverage (CL) 
+6 × Financial Leverage  
+= 24 
+∴ Financial Leverage    
+= 4 
+Operating Leverage  
+= Contribution
+ 60,000
+ 
+ = 
+ = 6
+EBIT
+EBIT
+`
+ 
+EBIT  
+ 
+ 
+= 60,000
+ 
+ = 10,000 
+6
+`
+ 
+Financial Leverage    
+= EBIT
+ 
+ = 4
+EBT
+ 
+ EBIT
+10,000
+EBT = 
+ = 
+ = 2,500
+4
+4
+ 
+
+`
+ 
+EBIT- Earnings before Interest and tax. 
+Downloaded from castudyweb.com
+<<PAGE 4>>
+4 
+EBT- Earnings before tax. 
+Since tax rate = 30%  
+Earnings after Tax (EAT)  
+= EBT (1 − 0.30) [ 30% is tax rate] 
+= `2,500 (0.70) 
+∴  Earnings after Tax (EAT) = `1,750 
+8. 
+(d)  
+6.07% 
+Calculation of Cost of Debt after tax: 
+Cost of Debt (Kd) = 
+  
+Cost of 12% Debentures, if issued at 10% Premium: 
+Kd  
+= 
+= 
+  
+= 0.0607 or 6.07% 
+Division B: Descriptive Question 
+1. 
+(a)  
+Given, 
+Cost of Equity (Ke) 
+12% 
+Number of shares in the beginning (n) 
+40,000 
+Current Market Price (P0) 
+`200 
+Net Profit (E) 
+`5,00,000 
+Expected Dividend (D1) 
+`10 per share 
+Investment (I) 
+`10,00,000 
+ 
+Situation 1 – When dividends are paid 
+(i)  P0 = P1 D1
+1 Ke
++
++
+ 
+ 
+200 = P1 10
+1 0.12
++
++
+ 
+ 
+P1 + 10 = 200 x 1.12 
+Situation 2 – When dividends are not 
+paid 
+(i)  P0 = P1 D1
+1 Ke
++
++
+ 
+ 
+200 = P1 0
+1 0.12
++
++
+ 
+RV
+NP
+I(1 t)
+n
+RV
+NP
+2
+−
+−
++
++
+10,00,000
+11,00,000
+1,20,000(1 0.35)
+7years
+10,00,000
+11,00,000
+2
+−
+−
++
++
+`
+`
+`
+`
+`
+78,000
+14,286
+10,50,000
+−
+`
+`
+`
+Downloaded from castudyweb.com
+<<PAGE 5>>
+5 
+ 
+P1 = 224 – 10 = 214 
+(ii)  Calculation of funds required 
+= Total Investment - (Net profit - 
+Dividend) 
+ 
+= 10,00,000 - (5,00,000 – 4,00,000) 
+ 
+= 9,00,000 
+(iii)  No. of shares required to be issued for 
+balance fund 
+ 
+No. of shares = FundsRequired
+Priceatend(P1)
+ 
+ 
+∆n = 9,00,000
+214
+= 4,205.61 
+(iv)  Calculation of value of firm 
+ 
+Vf = (n
+n)P1 I E
+1 Ke
++
+−+
++
+
+ 
+=
+9,00,000
+(40,000
+)214 10,00,000 5,00,000
+214
+1 0.12
++
+−
++
++
+ 
+= 94,60,000 – 5,00,000 
+1.12
+= 80,00,000 
+ 
+P1 + 0 = 200 x 1.12 
+ 
+P1 = 224 – 0 = 224 
+(ii)  Calculation of funds required 
+= Total Investment - (Net profit - 
+Dividend) 
+ 
+= 10,00,000 – (5,00,000 - 0) 
+ 
+= 5,00,000 
+(iii)  No. of shares required to be issued 
+for balance fund 
+ 
+No. of shares = FundsRequired
+Priceatend(P1)
+ 
+ 
+∆n = 5,00,000
+224
+= 2,232.14 
+(iv)  Calculation of value of firm 
+ 
+Vf = (n
+n)P1 I E
+1 Ke
++
+−+
++
+
+ 
+= 
+5,00,000
+(40,000
+)224 10,00,000 5,00,000
+224
+1 0.12
++
+−
++
++
+ 
+= 94,60,000 – 5,00,000 
+1.12
+= 80,00,000 
+(b)  
+Income Statement Punyakalash Limited          
+Particulars 
+Amount (`) 
+Sales           (WN 4) 
+ 4,50,000  
+(-) VC 
+ 3,15,000  
+Contribution (WN 4) 
+ 1,35,000  
+(-) Fixed Cost 
+ 81,000  
+EBIT            (WN 3) 
+ 54,000  
+(-) Interest   (WN 2) 
+ 18,000  
+Downloaded from castudyweb.com
+<<PAGE 6>>
+6 
+EBT 
+ 36,000  
+(-) Tax 
+ 9,000  
+EAT / Net profit available to equity shareholders 
+ 27,000  
+ 
+No of Equity shares   
+=   Net profit available to equity shareholders
+EPS
+ 
+ 
+ 
+ 
+  
+= 27,000 / 15 
+                                      
+= 1,800 shares                   
+WN 1 Calculation of EPS using Earnings yield ratio 
+Earnings yield ratio   
+= EPS / MPS   X   100 
+Therefore, EPS  
+ 
+= 15 
+WN 2 Calculation of Interest cost 
+Interest rate (pre-tax)    
+= 
+(
+)
+−
+Interest rate post tax   
+1
+t
+ 
+Therefore, Int Rate (pre-tax)  = 9 / 0.75 = 12% 
+Interest Cost  
+ 
+= 1,50,000 X 12% = 18,000 
+WN 3 Calculation of EBIT using FL 
+FL   
+ 
+ 
+= 
+EBIT
+EBIT
+Int
+−
+   
+1.5  
+ 
+ 
+= 
+EBIT
+EBIT
+18,000
+−
+ 
+Therefore EBIT = 54,000 
+WN 4 Calculation of Operating Leverage (OL), Contribution & Sales 
+OL  
+ 
+ 
+= 
+1
+MOS
+= 1
+0.4
+ =   2.5 
+OL  
+ 
+ 
+= Contribution
+EBIT
+  
+Downloaded from castudyweb.com
+<<PAGE 7>>
+7 
+2.5    
+ 
+ 
+= Contribution
+54,000
+ 
+Therefore Contribution  
+= 1,35,000 
+Sales   
+ 
+ 
+= Contribution
+PV Ratio
+= 1,35,000 / 0.3  = 4,50,000 
+(c)   
+WN1 – Calculation of EBIT using Financial Leverage 
+FL=
+EBIT
+(EBIT-Int.) - 
+DP
+1-t
+      
+Let EBIT be ‘X’ 
+Preference Dividend (Dp) 
+= 0.15X 
+4   
+ 
+ 
+= 
+X
+(X-57,400) - 0.15X
+1-0.3
+  
+3.16X – 2,29,600  
+ 
+= X 
+X  
+ 
+ 
+= EBIT = ` 1,06,296 
+Preference Dividend = 1,06,296 x 0.15 = ` 15,944 
+WN2 – Calculation of Total Fixed Cost 
+Cash Fixed Cost  
+= Cash Breakeven sales x PV Ratio 
+        
+= 2,25,000 x 0.40 
+       
+= ` 90,000 
+Total Fixed Cost  
+= 90,000 + 10,000 (Depreciation) 
+      
+= ` 1,00,000 
+Therefore Contribution = 1,06,296 + 1,00,000 = 2,06,296 
+i. 
+Income Statement for FY 2023-24: 
+Particulars 
+Amount (`) 
+Sales                        (2,06,296 / 0.40) 
+ 5,15,740 
+(-) Variable Cost 
+ (3,09,444) 
+Contribution 
+ 2,06,296 
+Downloaded from castudyweb.com
+<<PAGE 8>>
+8 
+(-) Fixed Cost             (See Wn 2) 
+ (1,00,000) 
+EBIT                           (See Wn 1) 
+ 1,06,296 
+(-) Interest Exp 
+  (57,400) 
+EBT 
+   48,896 
+(-) Tax 
+  (14,669) 
+EAT 
+  34,227 
+(-) Preference Dividend (1,06,296 X 15%) 
+ (15,944) 
+Earnings For Equity Shareholders 
+  18,283 
+ii. 
+Operating Leverage = Contribution
+EBIT
+ 
+ 
+ 
+ 
+ 
+            = 2,06,296 / 1,06,296 
+       = 1.94 times 
+Combined Leverage  = OL x FL 
+       = 4 x 1.94 
+       = 7.76 times  
+iii. 
+Combined leverage is the study from Sales to Eps, where combined 
+leverage measures the % change in EPS due to increase/decrease in 
+% change in sales 
+CL  = % Change in EPS / % Change in sales 
+7.76 = % Change in EPS / 7 
+Therefore, % Change in EPS = 54.32% 
+If sales increase by 7%, then EPS will rise by 54.32% and on the contrary 
+if sales decrease by 7%, then EPS will fall by 54.32%. 
+iv. 
+Return on Equity shareholders’ funds 
+= Earnings for Equity holders 
+Total Eq. Shareholders’ funds
+  
+= 18,283 / 1,53,920 
+= 11.88% 
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 9>>
+9 
+v. 
+Calculation of Amount of Debt 
+Pre-tax Interest % = 
+(
+)
+−
+Interest rate post tax   
+1
+t
+ 
+  = 6.65/0.70 
+  = 9.5% 
+Debt Amount = 
+(
+)
+Interest Rs.   
+Interest(%)
+ 
+= 57,400 / 0.095 
+= ` 6,04,210 
+2. 
+(a)  
+(i) 
+Computation of Weighted Average Cost of Capital based on existing 
+capital structure 
+Source of Capital 
+Existing 
+Capital 
+structure 
+(`) 
+Weights 
+ 
+ 
+(a) 
+After tax 
+cost of 
+capital (%) 
+(b) 
+WACC 
+(%) 
+ 
+(a) × (b) 
+Equity share capital (W.N.1) 
+4,00,00,000 
+0.588 
+10.00 
+5.88 
+12% Preference share capital 
+80,00,000 
+0.118 
+12.00 
+1.42 
+11% Debentures (W.N.2) 
+2,00,00,000 
+0.294 
+7.70 
+2.26 
+Total 
+6,80,00,000 
+1.000 
+ 
+9.56 
+Working Notes: 
+1. 
+Cost of Equity Capital: 
+Ke    =
+1
+0
+Expecteddividend(D )
+Growth(g)
+CurrentMarketPrice(P ) +
+ 
+ 
+       = 20 + 0.05
+400
+ 
+       = 10% 
+2. 
+Cost of 10% Debentures 
+Kd  
+= Interest(1 t)
+Netproceeds
+−
+ 
+Downloaded from castudyweb.com
+<<PAGE 10>>
+10 
+   
+ 
+= 22,00,000 (1- 0.30)
+2,00,00,000
+ 
+  
+= 0.077 or 7.7% 
+(ii)  
+Computation of Weighted Average Cost of Capital based on new 
+capital structure 
+Source of Capital 
+New Capital 
+structure 
+(`) 
+Weights 
+ 
+(a) 
+After tax cost 
+of capital (%) 
+(b) 
+WACC (%) 
+ 
+(a) x (b) 
+Equity 
+share 
+capital 
+(W.N.3) 
+4,00,00,000 
+0.548 
+13.33 
+7.30 
+12% Preference share 
+capital 
+80,00,000 
+0.110 
+12.00 
+1.32 
+11% Debentures (W.N.2) 
+2,00,00,000 
+0.274 
+7.70 
+2.11 
+12% Debentures (W.N.4) 
+50,00,000 
+0.068 
+8.40 
+0.57 
+Total 
+7,30,00,000 
+1.000 
+ 
+11.30 
+Working Notes: 
+3. 
+Cost of Equity Capital: 
+Ke  
+= 25
+300
++ 0.05 
+  
+ 
+= 13.33% 
+4. 
+Cost of 12% Debentures 
+Kd 
+= 6,00,000 (1- 0.30)
+50,00,000
+ 
+     
+= 0.084 or 8.4% 
+(b)  
+Statement showing the Evaluation of Accounts Receivable Policies 
+(Amount in `) 
+ 
+Particulars 
+Present 
+Policy 
+Proposed 
+Policy 1 
+Proposed 
+Policy 2 
+A Expected Profit: 
+ 
+ 
+ 
+ 
+(a) Credit Sales 
+50,00,000 
+60,00,000 
+67,50,000 
+ 
+(b) Total Cost other than Bad 
+Debts: 
+ 
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 11>>
+11 
+ 
+     (i)  Variable Costs (70%) 
+35,00,000 
+42,00,000 
+47,25,000 
+ 
+(c) Bad Debts 
+1,50,000 
+3,00,000 
+4,50,000 
+ 
+(d) Expected Profit [(a) – (b) – (c)] 
+13,50,000 
+15,00,000 
+15,75,000 
+B Opportunity Cost of Investments 
+in Accounts Receivable (Working 
+Note) 
+1,75,000 
+2,80,000 
+3,93,750 
+C Net Benefits (A – B) 
+11,75,000 
+12,20,000 
+11,81,250 
+ 
+Recommendation: The Proposed Policy 1 should be adopted since the net 
+benefits under this policy are higher as compared to other policies. 
+ 
+Working Note: 
+ 
+Calculation of Opportunity Cost of Average Investments 
+ 
+Opportunity Cost     = Total Cost × Collection period/12 × Rate of Return/100 
+ 
+Present Policy         = ` 35,00,000 × 3/12 × 20% = ` 1,75,000  
+ 
+Proposed Policy 1   = ` 42,00,000 × 4/12 × 20% = ` 2,80,000  
+ 
+Proposed Policy 2   = ` 47,25,000 × 5/12 × 20% = ` 3,93,750 
+3.  
+(a)  
+At Indifference Point, EPS of Plan (i)   =   EPS of Plan (ii)      
+Plan (i)                                              Plan (ii) 
+1
+1
+(EBIT
+I )(1
+T)
+E
+−
+−
+                    
+2
+2
+(EBIT
+I )(1
+T) PD
+E
+−
+−
+−
+=
+ 
+(EBIT
+1,26,000)(1
+0.25)
+(EBIT
+98,000)(1
+0.25)
+80,000
+1,80,000
+1,50,000
+−
+−
+−
+−
+−
+=
+ 
+0.75 EBIT      
+ 
+    = 4,48,500 
+EBIT = Indifference point = 5,98,000 
+A) 
+Financial BEP  
+= Int + (Pref Div / 1-t) 
+Plan (i)  
+ 
+= 1,26,000 + 0 
+FBEP for Plan (i)  
+= 1,26,000 
+Plan (ii)   
+ 
+= 98,000 + {80,000/ (1 - 0.25)} 
+FBEP for Plan (ii)  
+= 2,04,666 
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 12>>
+12 
+(b)  
+Evaluation of option A – buying brand new vehicles 
+ 
+The cash inflows would be in the form of ‘cash flows from operations’, government 
+subsidy, scrap value and tax savings on capital loss if any. 
+A]  
+Calculation of PV Cash Inflows from Operations -  
+Year 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+Revenue 
+15,00,000 15,00,000 15,00,000 15,00,00
+0 
+15,00,000 15,00,000 15,00,000 15,00,000 15,00,000 15,00,000 
+Less: Cash 
+Exp 
+10,00,000 10,00,000 10,00,000 10,00,00
+0 
+ 10,00,000  10,00,000 10,00,000 10,00,000 10,00,000 10,00,000 
+NPBDT 
+  5,00,000   5,00,000   5,00,000 5,00,000   5,00,000   5,00,000 
+5,00,000   5,00,000   5,00,000   5,00,000 
+Less: Depre 
+1,26,000 
+1,00,800 
+80,640 
+64,512 
+51,610 
+41,288 
+33,030 
+26,424 
+21,139 
+16,911 
+NPBT 
+ 3,74,000 
+ 3,99,200  4,19,360 4,35,488   4,48,390   4,58,712   4,66,970   4,73,576  4,78,861   4,83,089 
+Less: Tax @ 
+15% 
+56,100 
+59,880 
+62,904 
+65,323 
+67,259 
+68,807 
+70,046 
+71,036 
+71,829 
+72,463 
+NPAT 
+ 3,17,900   3,39,320   3,56,456 3,70,165   3,81,132   3,89,905  3,96,925   4,02,540  4,07,032   4,10,626 
+Add: Depre 
+1,26,000 
+1,00,800 
+80,640 
+64,512 
+51,610 
+41,288 
+33,030 
+26,424 
+21,139 
+16,911 
+Cash 
+flow 
+after tax from 
+operation 
+4,43,900 
+4,40,120 4,37,096 4,34,677 
+4,32,742 
+4,31,193 
+4,29,955 4,28,964 4,28,171 4,27,537 
+PVAF 
+@ 
+15% 
+0.870 
+0.757 
+0.658 
+0.572 
+0.497 
+0.432 
+0.376 
+0.327 
+0.284 
+0.247 
+PV of Cash 
+flows 
+3,86,193 
+3,33,171 2,87,609 2,48,635 
+2,15,073 
+1,86,275 
+1,61,663 1,40,271 1,21,601 1,05,602 
+PV = ` 21,86,092 
+ 
+Since GST on purchase of electric vehicle is not eligible for set off, it would 
+be added to the cost of vehicle 
+Initial Outflow  = 1,50,000 x 4    
+ 
+ 
+=  ` 6,00,000 
+(+) 5% GST                                          
+ 
+=  ` 30,000 
+Purchase price / Gross Cost          
+ 
+ 
+=  ` 6,30,000  
+B]  
+Calculation of PV on Government subsidy –  
+Government subsidy received at the end of Year 1 = 20,000 x 4 = ` 80,000 
+PVIF at 15%, Year 1    
+ 
+ 
+   = 0.870 
+ 
+ 
+Therefore, PV on Government subsidy   
+   = ` 69,600          
+C]  
+Calculation of PV of Scrap value 
+Scrap value received at the end of Year 10  
+= 10% on Gross Cost    
+Downloaded from castudyweb.com
+<<PAGE 13>>
+13 
+= 6,30,000 x 0.1 
+= 63,000 
+Therefore, PV of scrap = 63,000 x 0.247 =  ` 15,561   
+D]  
+Calculation of PV on Tax savings due to Capital Loss at the end of 
+10th year 
+WDV of assets at the end of 10th year = 6,30,000 - 5,62,354 = ` 67,646 
+Less : Sale Value        
+ 
+ 
+ 
+ = ` 63,000 
+Capital Loss    
+ 
+ 
+ 
+ 
+ = ` 4,646 
+Tax savings at 15% on above loss  
+ 
+ 
+ = ` 697 
+PV on Tax savings due to Capital Loss = 697 x 0.247        = ` 172 
+NPV of Net Outflow = PV on Cash Inflows from Operations + PV on govt 
+subsidy + PV on Scrap + PV on Tax Savings due to Capital Loss - Initial 
+Outflow 
+= 21,86,092 + 69,600 + 15,561 + 172 - 6,30,000 
+NPV = ` 16,41,425 
+Evaluation of option B – buying second hand vehicles 
+A]  
+Calculation of PV of Cash Outflow 
+Purchase of 4 vehicles at the beginning = 1,00,000 x 4 = ` 4,00,000 
+Rework of 4 vehicles at the end of 5th year = (70,000 x 4) x 0.497  
+= ` 1,39,160 
+Total Gross Cash Outflow = 4,00,000 + 1,39,160 = ` 5,39,160 
+B]  
+Calculation of PV of Cash Inflows from Operations – 
+Year 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+Revenue 
+15,00,000 15,00,000 15,00,000 15,00,000 15,00,000 15,00,000 15,00,000 15,00,000 15,00,000 15,00,000 
+Less: 
+Cash Exp 
+ 
+10,00,000 
+10,00,000 10,00,000 10,00,000 10,00,000 10,00,000 10,00,000 10,00,000 10,00,000 10,00,000 
+NPBDT 
+  5,00,000 5,00,000 5,00,000   5,00,000 5,00,000   5,00,000 5,00,000 5,00,000   5,00,000 5,00,000 
+Less: 
+Depre 
+  80,000 
+64,000 
+51,200 
+40,960 
+32,769 
+75,814 
+60,652 
+48,521 
+38,817 
+31,054 
+NPBT 
+  4,20,000 4,36,000 4,48,800 4,59,040 4,67,231  4,24,186  4,39,348 4,51,479   4,61,183 4,68,946 
+Downloaded from castudyweb.com
+<<PAGE 14>>
+14 
+Less: Tax 
+@ 15% 
+ 63,000 
+ 65,400 
+ 67,320 
+ 68,856 
+ 70,085 
+ 63,628 
+ 65,902 
+67,722 
+69,177 
+70,342 
+NPAT 
+  3,57,000  3,70,600   3,81,480   3,90,184   3,97,146   3,60,558   3,73,446  3,83,757   3,92,006   3,98,604 
+Add: 
+Depre 
+80,000 
+64,000 
+51,200 
+40,960 
+32,769 
+75,814 
+60,652 
+48,521 
+38,817 
+31,054 
+Cash flow 
+after tax 
+from 
+operation 
+4,37,000 4,34,600 4,32,680 4,31,144 4,29,915 4,36,372 4,34,098 4,32,278 4,30,823 4,29,658 
+PVAF @ 
+15% 
+0.870 
+0.757 
+0.658 
+0.572 
+0.497 
+0.432 
+0.376 
+0.327 
+0.284 
+0.247 
+PV of 
+Cash 
+flows 
+3,80,190 3,28,992 2,84,703 2,46,614 2,13,668 1,88,513 1,63,221 1,41,355 1,22,354 1,06,126 
+PV = ` 21,75,736  
+C]  
+Calculation of WDV at the end 5th year (for depreciation purpose) 
+WDV at the end of 5th Year              
+= ` 1,31,072(4,00,000 – 2,68,928) 
+Add: Rework                 
+ 
+= ` 2,80,000 (70,000 x 4) 
+Less: Sale Value    
+ 
+ 
+= (` 32,000)     
+WDV on which Depreciation will be calculated = ` 3,79,072 
+D]  
+Calculation of PV of Scrap 
+PV of Scrap sale at the end of 5th Year   = ` (8,000 x 4) x 0.497 = ` 15,904 
+PV of Scrap sale at the end of 10th year = ` (4,000 x 4) x 0.247 = ` 3,952 
+Total PV on Scrap Sale = 15,904 + 3,952 = ` 19,856 
+E]  
+Calculation of PV on Tax savings due to Capital Loss (At Year 10) 
+WDV as per Income tax at the end of 10th Year  = ` 1,24,214(3,79,072  
+– 2,54,858)   
+Less: Sale Value   (4,000 x 4)  
+ 
+= (` 16,000) 
+Capital Loss  
+ 
+ 
+ 
+= ` 1,08,214 
+Tax @ 15% on Capital Loss 
+ 
+ 
+= ` 16,232 
+PV on Tax Savings (16,232 x 0.247) 
+ 
+= ` 4,009 
+NPV = PV on Cash Inflows from operations + PV on Scrap + PV on Tax 
+Savings due to Capital Loss - Initial Outflow   
+= 21,75,736 + 19,856 + 4,009 - 5,39,160 
+Downloaded from castudyweb.com
+<<PAGE 15>>
+15 
+NPV = ` 16,60,441 
+Comment - Since NPV for Option B is more, Millenial Limited should go for 
+buying second hand e-delivery vehicles instead every 5 years instead of 
+owning brand new vehicles. 
+4. 
+(a)  
+Though in a sole proprietorship firm, partnership etc., owners participate in 
+management but in corporates, owners are not active in management so, there is 
+a separation between owner/ shareholders and managers. In theory managers 
+should act in the best interest of shareholders however in reality, managers may 
+try to maximise their individual goal like salary, perks etc., so there is a principal 
+agent relationship between managers and owners, which is known as 
+Agency Problem. 
+Agency Problem can be addressed through following efforts: 
+♦ 
+Managerial compensation is linked to profit of the company to some extent 
+and also with the long term objectives of the company. 
+♦ 
+Employee is also designed to address the issue with the underlying 
+assumption that maximisation of the stock price is the objective of the 
+investors. 
+♦ 
+Effecting monitoring can be done. 
+(b)  
+Debt Securitisation: It is a method of recycling of funds. It is especially beneficial 
+to financial intermediaries to support the lending volumes. Assets generating 
+steady cash flows are packaged together and against this asset pool, market 
+securities can be issued, e.g. housing finance, auto loans, and credit card 
+receivables. 
+Process of Debt Securitisation 
+(i) 
+The origination function – A borrower seeks a loan from a finance company, 
+bank, HDFC. The credit worthiness of borrower is evaluated and contract 
+is entered into with repayment schedule structured over the life of the loan. 
+(ii) 
+The pooling function – Similar loans on receivables are clubbed together 
+to create an underlying pool of assets. The pool is transferred in favour of 
+Special purpose Vehicle (SPV), which acts as a trustee for investors. 
+(iii) 
+The securitisation function – SPV will structure and issue securities on the 
+basis of asset pool. The securities carry a coupon and expected maturity 
+which can be asset-based/mortgage based. These are generally sold to 
+Downloaded from castudyweb.com
+<<PAGE 16>>
+16 
+investors through merchant bankers. Investors are – pension funds, mutual 
+funds, insurance funds. 
+ 
+The process of securitization is generally without recourse i.e. investors bear the 
+credit risk and issuer is under an obligation to pay to investors only if the cash 
+flows are received by him from the collateral. The benefits to the originator are 
+that assets are shifted off the balance sheet, thus giving the originator recourse 
+to off-balance sheet funding. 
+(c)  
+When the cost of ‘fixed cost fund’ is less than the return on investment, financial 
+leverage will help to increase return on equity and EPS. The firm will also benefit 
+from the saving of tax on interest on debts etc. However, when cost of debt will 
+be more than the return it will affect return of equity and EPS unfavourably and as 
+a result firm can be under financial distress. Therefore, financial leverage is also 
+known as “double edged sword”. 
+Effect on EPS and ROE: 
+When, ROI > Interest – Favourable – Advantage 
+When, ROI < Interest – Unfavourable – Disadvantage 
+When, ROI = Interest – Neutral – Neither advantage nor disadvantage 
+OR 
+(c)  
+Objective of financial management is to maximize wealth. Therefore, one should 
+choose a capital structure which maximizes wealth. For this purpose, following 
+analysis should be done: 
+(1) 
+EBIT-EPS-MPS analysis: Chose a capital structure which maximizes 
+market price per share. For that, start with same EBIT for all capital 
+structures and calculate EPS. Thereafter, either multiply EPS by price 
+earning ratio or divide it by cost of equity to arrive at MPS. 
+(2) 
+Indifference Point analysis: In above analysis, we have considered value 
+at a given EBIT only. What will happen if EBIT changes? Will it change your 
+decision also? To answer this question, you can do indifference point 
+analysis.  
+(3) 
+Financial Break-Even Point (BEP) analysis: With change in capital 
+structure, financial risk also changes. Though this risk has already been 
+considered in PE ratio or in cost of equity in point one above, but one may 
+calculate and consider it separately also by calculating Financial BEP.  
+ 
+Downloaded from castudyweb.com
+<<PAGE 17>>
+17 
+PAPER 6B: STRATEGIC MANAGEMENT 
+ANSWERS 
+PART I 
+1. (A) 
+(i)  
+(c) 
+(ii) 
+(c) 
+(iii)  
+(d) 
+(iv)  
+(c) 
+(v)  
+(c) 
+    (B) 
+(i)  
+(b) 
+(ii) 
+(b) 
+(iii)  
+(c) 
+ 
+ 
+ 
+ 
+ 
+PART II PART II – Descriptive Questions  
+1.  
+(a)  
+XYZ Enterprises employs different network relationships across its divisions to 
+optimize efficiency and innovation. 
+• 
+Automobile Division – Functional and Divisional Relationship: The 
+automobile division operates independently, with distinct teams handling 
+electric and fuel-based vehicles. Each division is managed by a business-
+level head who directly reports to the corporate-level management. This 
+structure ensures clear accountability, specialization, and focused 
+decision-making. By maintaining independent divisions, XYZ Enterprises 
+can cater to different market segments effectively. 
+• 
+IT Division – Matrix Relationship: The IT division follows a matrix 
+structure where employees report to both project heads and functional 
+managers. This setup allows for efficient resource utilization, as employees 
+contribute to multiple projects while maintaining alignment with their 
+respective departments. The matrix relationship helps manage complex 
+software development projects that require cross-functional expertise, 
+ensuring seamless collaboration among teams like development, 
+marketing, and finance. 
+• 
+Startup Incubator – Horizontal Relationship: The startup incubator 
+promotes a horizontal structure where all employees, regardless of 
+hierarchy, collaborate and share ideas openly. This nurtures transparency, 
+quick decision-making, and innovation, which are essential for startups. 
+Since speed and adaptability are crucial in early-stage ventures, this 
+relationship structure ensures that creative solutions are implemented 
+without bureaucratic delays. 
+By adopting these network relationships, XYZ Enterprises maximizes 
+efficiency, agility, and innovation across its diverse operations. 
+Downloaded from castudyweb.com
+<<PAGE 18>>
+18 
+(b)  
+PQR Ltd. has planned to implement the Strategic Business Unit (SBU) structure. 
+Very large organisations, particularly those running into several products, or 
+operating at distant geographical locations that are extremely diverse in terms of 
+environmental factors, can be better managed by creating strategic business 
+units. SBU structure becomes imperative in an organisation with an increase in 
+number, size and diversity.  
+ 
+The attributes of an SBU and the benefits a firm may derive by using the SBU 
+Structure are as follows: 
+♦ 
+A scientific method of grouping the businesses of a multi – business 
+corporation which helps the firm in strategic planning. 
+♦ 
+An improvement over the territorial grouping of businesses and strategic 
+planning based on territorial units. 
+♦ 
+Strategic planning for SBU is distinct from rest of businesses. Products/ 
+businesses within an SBU receive same strategic planning treatment and 
+priorities. 
+♦ 
+Each SBU will have its own distinct set of competitors and its own distinct 
+strategy. 
+♦ 
+The CEO of SBU will be responsible for strategic planning for SBU and its 
+profit performance. 
+♦ 
+Products/businesses that are related from the standpoint of function are 
+assembled together as a distinct SBU. 
+♦ 
+Unrelated products/ businesses in any group are separated into separate 
+SBUs. 
+♦ 
+Grouping the businesses on SBU lines helps in strategic planning by 
+removing the vagueness and confusion. 
+♦ 
+Each SBU is a separate business and will be distinct from one another on 
+the basis of mission, objectives etc.   
+(c)  
+ABC Fashion's expansion into international markets, offering different products 
+tailored to the unique preferences of various customer segments, aligns with the 
+diversification strategy in Ansoff’s Product-Market Growth Matrix. This strategy 
+involves introducing new products to new markets, which represents the highest 
+level of risk and reward in the matrix. 
+Downloaded from castudyweb.com
+<<PAGE 19>>
+19 
+By entering international markets, ABC Fashion is stepping into unfamiliar 
+territories where it must navigate different cultural preferences, market dynamics, 
+and consumer behaviours. The decision to offer a variety of products that cater to 
+the specific needs and tastes of each region demonstrates the company's 
+commitment to localizing its offerings, which is a hallmark of diversification. 
+This strategy is particularly beneficial for companies like ABC Fashion that seek 
+to maximize their growth potential by not only expanding their geographical 
+footprint but also by innovating and adapting their product lines. It allows the 
+company to tap into new revenue streams and diversify its business risk by not 
+relying solely on its domestic market. However, it also requires significant market 
+research, investment, and adaptation to different regulatory environments. 
+In summary, ABC Fashion’s approach reflects a strategic diversification, enabling 
+the brand to establish a strong international presence while meeting the diverse 
+needs of global customers. 
+2. 
+(a)  
+Businesses sell products. A product can be either a good or a service. It might be 
+physical good or a service, an experience.  
+Following are the key characteristics of business products: 
+1.   
+Products are either tangible or intangible. A tangible product can be 
+handled, seen, and physically felt, such as a car, book, pen, table, mobile 
+handset and so on. Alternatively, an intangible product is not a physical 
+good, such as telecom services, banking, insurance, or repair services. 
+2.  
+Product has a price. Businesses determine the cost of their products and 
+charge a price for them. The dynamics of supply and demand influence the 
+market price of an item or service. The market price is the price at which 
+quantity provided equals quantity desired. The price that may be paid is 
+determined by the market, the quality, the marketing, and the targeted 
+group. In the present competitive world prices are often given by the market 
+and businesses have to work on costs to maintain profitability. 
+3.  
+Products have certain features that deliver satisfaction. A product 
+feature is a component of a product that satisfies a consumer’s need. 
+Features determine product pricing, and businesses alter features during 
+the development process to optimize the user experience. Products should 
+be able to provide value satisfaction for the customers for whom they are 
+meant. Features of the product will distinguish between terms of function, 
+design, quality and experience. A customer’s cumulative experience with a 
+product from its purchase to the end of its useful life is an important 
+component of a product feature. 
+Downloaded from castudyweb.com
+<<PAGE 20>>
+20 
+4.  
+Product is pivotal for business. The product is at the centre of business 
+around which all strategic activities revolve. The product enables 
+production, quality, sales, marketing, logistics and other business 
+processes. Product is the driving force behind business activities. 
+5.  
+A product has a useful life. Every product has a usable life after which it 
+must be replaced, as well as a life cycle after which it is to be reinvented 
+or may cease to exist. We have observed that fixed-line telephone 
+instruments have largely been replaced by mobile phones. 
+(b)  
+A company's mission statement is typically focused on its present business scope, 
+who we are and what we do. Mission statements broadly describe an 
+organization's present capability, customer focus, activities, and business make 
+up. Mission for an organization is significant for the following reasons: 
+• 
+It ensures unanimity of purpose within the organization. 
+• 
+It develops a basis, or standard, for allocating organizational resources. 
+• 
+It provides a basis for innovating the use of the organisation’s 
+resources. 
+• 
+It establishes a general tone or organizational climate, to suggest a 
+business-like operation. 
+• 
+It serves as a focal point for those who can identify with the 
+organisation's purpose and direction. 
+• 
+It facilitates the translation of objectives and goals into a work 
+structure involving the assignment of tasks to responsible elements within 
+the organization. 
+• 
+It specifies organizational purposes and the translation of these 
+purposes into goals in such a way that cost, time, and performance 
+parameters can be assessed and controlled. 
+3.  
+(a)  
+Any organisation may find the work of digital transformation challenging and 
+overwhelming. To ensure that a digital transition is effective, change management 
+is essential. Here are some pointers for navigating change during the digital 
+transformation: 
+1. 
+Specify the digital transformation’s aims and objectives: What is the 
+intended outcome? What are the precise objectives that must be 
+accomplished? It will be easier to make sure that everyone is on the same 
+page and pursuing the same aims if everyone has a clear grasp of their goals. 
+Downloaded from castudyweb.com
+<<PAGE 21>>
+21 
+2. 
+Always, always, always communicate: It might be challenging for people 
+to accept change and adjust to it. Ensure that you routinely and honestly 
+discuss the objectives of digital transformation and how they will affect 
+stakeholders, including employees, clients, and other parties. 
+3. 
+Be ready for resistance: Even when a change is for the better, it can be 
+challenging for people to embrace it. Have a strategy in place for dealing 
+with any resistance that may arise. 
+4. 
+Implement changes gradually: Changes should ideally be implemented 
+gradually rather than all at once. In order to avoid overwhelming individuals 
+with too much change at once, this will give people time to become used 
+to the new way of doing things. 
+5. 
+Offer assistance and training: Workers will need guidance in the new 
+procedures, software applications, etc. 
+In conclusion, effective completion of the massive project known as digital 
+transformation depends on meticulous planning and change management. Digital 
+transformation efforts are more likely to fail without change management. 
+Organizations can successfully integrate a new digital system by planning for and 
+managing the changes that must take place. Any project involving digital 
+transformation must include it. 
+(b)  
+The following are the principal points of distinction between concentric 
+diversification and conglomerate diversification: 
+(i) 
+Concentric diversification occurs when a firm adds related products or 
+markets. On the other hand, conglomerate diversification occurs when a 
+firm diversifies into areas that are unrelated to its current line of business. 
+(ii) 
+In concentric diversification, the new business is linked to the existing 
+businesses through process, technology or marketing. In conglomerate 
+diversification, no such linkages exist; the new business/product is 
+disjointed from the existing businesses/ products. 
+(iii) 
+The most common reasons for pursuing concentric diversification are that 
+opportunities in a firm’s existing line of business are available. However, 
+common reasons for pursuing a conglomerate growth strategy are that 
+opportunities in a firm's current line of business are limited or opportunities 
+outside are highly lucrative.  
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 22>>
+22 
+4.  
+(a)  
+The company went through the following stages of the product life cycle (PLC): 
+ 
+Introduction stage: Initially, the company faced slow sales growth, limited 
+markets, and high prices, which are characteristic of the introduction stage. During 
+this stage, competition is almost negligible, and customers have limited 
+knowledge about the product. 
+ 
+Growth stage: Over time, the demand for the product expanded rapidly, prices 
+fell, and competition increased. These are typical features of the growth stage in 
+the PLC. In this stage, the product gains market acceptance, and customers 
+become more aware of the product's benefits and show interest in purchasing it. 
+(b)  
+Four specific criteria of sustainable competitive advantage that firms can use to 
+determine those capabilities that are core competencies. Capabilities that are 
+valuable, rare, costly to imitate, and non-substitutable are core competencies. 
+i. 
+Valuable: Valuable capabilities are the ones that allow the firm to exploit 
+opportunities or avert the threats in its external environment. A firm created 
+value for customers by effectively using capabilities to exploit opportunities. 
+Finance companies build a valuable competence in financial services. In 
+addition, to make such competencies as financial services highly 
+successful requires placing the right people in the right jobs. Human capital 
+is important in creating value for customers. 
+ii. 
+Rare: Core competencies are very rare capabilities and very few of the 
+competitors possess these. Capabilities possessed by many rivals are 
+unlikely to be sources of competitive advantage for any one of them. 
+Competitive advantage results only when firms develop and exploit 
+valuable capabilities that differ from those shared with competitors. 
+iii. 
+Costly to imitate: Costly to imitate means such capabilities that competing 
+firms are unable to develop easily.  
+iv. 
+Non-substitutable: Capabilities that do not have strategic equivalents are 
+called non-substitutable capabilities. This final criterion for a capability to 
+be a source of competitive advantage is that there must be no strategically 
+equivalent valuable resources that are themselves either not rare or 
+imitable. 
+OR 
+Stakeholders through a grid-based approach by the following steps:  
+1.  
+Identify Stakeholders: Begin by identifying all relevant stakeholders for 
+your project or organization. This includes individuals, groups, or 
+organizations that may be impacted by or have an impact on your activities. 
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 23>>
+23 
+2.  
+Assess Power and Interest: For each stakeholder, assess their power to 
+influence your project or organization and their level of interest in its 
+success. Power can be assessed based on factors such as authority, 
+resources, and expertise, while interest can be gauged by their level of 
+involvement, expectations, and potential benefits or risks. 
+3.  
+Plot Stakeholders on the Grid: Create a grid with Power on one axis and 
+Interest on the other. Plot each stakeholder on the grid based on your 
+assessment. Stakeholders with high power and high interest are placed in 
+the "Key Players" quadrant, those with high power but low interest are in 
+the "Keep Satisfied" quadrant, those with low power but high interest are 
+in the "Keep Informed" quadrant, and those with low power and low interest 
+are in the "Low Priority" quadrant. 
+ 
+ 
+ 
+ 
+KEEP SATISFIED 
+Consult often  
+Increase their interest 
+Can be hindrance to new 
+ideas or strategic choices 
+KEY PLAYER 
+Manage Closely  
+Involve in decision making 
+Engage regularly and build 
+strong relationship 
+LOW PRIORITY 
+Monitor only,  
+no engagement 
+General occasional 
+communication 
+KEEP INFORMED 
+Utilise the high interest by 
+engaging in decisions 
+Consult in their areas of 
+expertise and interest 
+Interest in the Organisation
+Power / Influence 
+Low 
+High 
+High 
+Downloaded from castudyweb.com
+<<PAGE 24>>
+24 
+4. 
+Develop Strategies for each Quadrant: Based on the placement of 
+stakeholders in the grid, develop specific strategies for managing each 
+quadrant: 
+• 
+Key Players: Fully engage with these stakeholders, seek their 
+input, and keep them informed. They are crucial for the success of 
+your project, so their needs and expectations should be a top 
+priority. 
+• 
+Keep Satisfied: These stakeholders have significant power but may 
+not be as interested in your project. Keep them satisfied by providing 
+regular updates and addressing any concerns they may have to 
+prevent them from becoming detractors. 
+• 
+Keep Informed: While these stakeholders may not have much 
+power, they are highly interested in your project. Keep them 
+informed to ensure they remain supportive and to leverage their 
+insights and feedback. 
+• 
+Low Priority: These stakeholders have low power and interest. 
+Monitor them for any changes but allocate minimal resources to 
+managing their expectations. 
+ 
+Downloaded from castudyweb.com

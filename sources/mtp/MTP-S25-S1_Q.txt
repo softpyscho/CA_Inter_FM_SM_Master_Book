@@ -1,0 +1,775 @@
+<<PAGE 1>>
+1 
+Mock Test Paper - Series I: July 2025 
+Date of Paper: 26th July, 2025 
+Time of Paper: 10 A.M. – 1 P.M. 
+INTERMEDIATE: GROUP – II 
+PAPER – 6A : FINANCIAL MANAGEMENT & STRATEGIC MANAGEMENT 
+PAPER 6A: FINANCIAL MANAGEMENT 
+Time Allowed – 3 Hours (Total time for 6A and 6B)  
+Maximum Marks – 50 
+1. 
+The question paper comprises two parts, Part I and Part II. 
+2. 
+Part I comprises Case Scenario based Multiple Choice Questions (MCQs) 
+3. 
+Part II comprises questions which require descriptive type answers. 
+4. 
+Working note should form part of the answer. Wherever necessary, suitable assumptions 
+may be made by the candidates and disclosed by way of note. However, in answers to 
+Questions in Division A, working notes are not required. 
+PART I – Case Scenario based MCQs (15 Marks) 
+Write the most appropriate answer to each of the following multiple-choice questions by 
+choosing one of the four options given. All questions are compulsory. 
+ 
+ABC Ltd., a high-end furniture manufacturer specializes in classic, handcrafted designs that 
+combine style and utility. The company, which was founded with a passion for quality 
+craftsmanship and environmentally friendly methods, provides a wide variety of furniture for 
+homes and workplaces, such as dining tables, living room sets, bedroom collections, and 
+custom-built items. 
+However, lately the company has been facing delays in product delivery due to limited storage 
+and inefficient distribution. To enhance its supply chain and improve customer satisfaction, the 
+company has decided to establish two strategically located warehouses. This move aims to 
+reduce delivery time, optimize inventory management, and streamline logistics operations. 
+ABC Ltd. previously relied on a single warehouse near its production facility, causing bottlenecks 
+in order fulfillment and increasing transportation costs for distant markets. After analyzing 
+demand trends and logistics inefficiencies, the company plans to set up one warehouse – Baton 
+either in the northern region, closer to key suppliers, and or in the southern region- Katon, near 
+major customer hubs. 
+The further details of either of the two warehouses to be introduced are as follows: 
+Download from castudyweb.com
+<<PAGE 2>>
+2 
+Warehouse Baton 
+The Initial cost of the warehouse is ` 40,00,000 and its useful life is 5 years. It’s annual net 
+savings before tax is projected as follows: 
+Year 1: ` 12,00,000 
+Year 2: ` 14,00,000 
+Year 3: ` 10,00,000 
+Year 4: ` 10,00,000 
+Year 5: ` 13,00,000 
+Further, the Mid-life major maintenance is expected to be ` 5,00,000 in Year 3, salvage value - 
+` 5,00,000 and Shutdown and disposal cost - ` 1,00,000 in Year 5. 
+Warehouse Katon:   
+The Initial cost of the warehouse is ` 60,00,000 and its useful life is 8 years. It’s annual net 
+savings before tax is projected as follows:  
+Year 1–2: ` 10,00,000 
+Year 3–6: ` 15,00,000 
+Year 7–8: ` 12,00,000 
+Maintenance cost details: 
+Year 4: ` 2,00,000 
+Year 7: ` 3,00,000 
+Further, the salvage value is expected to be ` 8,00,000, and shutdown and disposal cost to be 
+` 1,50,000 in Year 8. The company is subject to tax rate of 30% and considers 10% to be an 
+appropriate after-tax cost of capital. The company follows straight-line method of depreciation.  
+You are being a finance manager, has been asked the following questions: 
+(i)  
+The NPV of Baton, factoring in tax shields from depreciation and expenses is …………… 
+(a)  
+` (79,590) 
+(b)  
+` (53,365) 
+(c)  
+` (45,365) 
+(d)  
+` (36,834) 
+ 
+Download from castudyweb.com
+<<PAGE 3>>
+3 
+(ii) 
+The Equivalent Annual Cost (EAC) of Baton is ………….. 
+(a)  
+` (12,310) 
+(b) 
+` (14,071) 
+(c) 
+` (16,834) 
+(d) 
+` (18,535) 
+(iii) 
+The NPV of Katon, factoring in tax shields from depreciation and expenses is …………… 
+(a)  
+` (41,667) 
+(b)  
+` (6,91,666) 
+(c)  
+` (8,41,667) 
+(d)  
+` (9,62,789) 
+(iv) 
+The Equivalent Annual Cost (EAC) of Katon is …………..  
+(a)  
+` (7810) 
+(b)  
+` (1,29,646) 
+(c)  
+` (1,57,763) 
+(d)  
+` (7,235) 
+(v) 
+Which among the following is correct? 
+(a)  
+Warehouse Baton should be chosen as it has the lower Equivalent Annual Cost 
+despite having higher upfront cost. 
+(b)  
+Warehouse Katon should be chosen as it has the lower Equivalent Annual Cost 
+despite having higher upfront cost. 
+(c)  
+Warehouse Baton should be chosen as it has the lower Equivalent Annual Cost 
+and upfront cost.   
+(d)  
+Warehouse Katon should be chosen as it has the lower Equivalent Annual Cost 
+and upfront cost. 
+(5 x 2 = 10 Marks) 
+(vi)  
+A company has a debt-to-equity ratio of 2:1. It plans to raise additional capital such that 
+the overall debt-to-equity ratio becomes 1:1. Assuming the company raises only equity 
+for this purpose, by what percentage must the equity increase? 
+(a)  
+50% 
+(b) 
+100% 
+Download from castudyweb.com
+<<PAGE 4>>
+4 
+(c)  
+200% 
+(d)  
+300% 
+(2 Marks) 
+(vii)  A company has annual credit sales of ` 6,00,00,000. The average collection period is 90 
+days. A factor offers to buy the receivables with a 2% commission. The factor will 
+advance on receivables to the company at an interest rate of 18% per annum after 
+withholding 10% as reserve. Calculate the amount of advance to be paid assuming 360 
+days in a year. 
+(a)  
+` 1,32,00,000 
+(b)  
+` 1,28,92,500 
+(c)  
+` 1,40,38,500 
+(d)  
+` 1,26,06,000 
+(2 Marks) 
+(viii)  A company's current market price per share is ` 200. It just paid a dividend of ` 10, and 
+dividends are expected to grow at a constant rate of 5% per annum. What is the cost of 
+equity as per the Dividend Discount Model (DDM)? 
+(a) 
+10.5% 
+(b) 
+5.0% 
+(c) 
+11.0% 
+(d) 
+10.25% 
+(1 Mark) 
+PART II – Descriptive Questions (35 Marks) 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+1. 
+(a)  
+Profitable FMCG company PQR Ltd. is examining its dividend policy considering 
+potential future investment opportunities. The company's objective is to maintain 
+a good financial strategy by balancing market valuation, financing requirements, 
+and shareholder expectations.  
+Following information has been provided: 
+Equity Share Capital: ` 20,00,000 (` 10 per share fully paid) 
+Reserves and Surplus: ` 30,00,000 
+Earnings After Tax (EAT): ` 10,00,000 
+Return on Investment (r): 15% 
+Download from castudyweb.com
+<<PAGE 5>>
+5 
+Cost of Equity (Ke): 12% 
+Market Price per Share: `80 
+Number of Equity Shares: 2,00,000 
+Current Debt-Equity Ratio: 0.5:1 
+Planned Investment Requirement: `12,00,000 (next financial year) 
+ 
+The Board of Directors of the company is considering three dividend payout 
+options. Option A – 100% payout; Option B – 50% payout; and Option C – 0% 
+payout. 
+ 
+Further, because of the market conditions, no fresh equity will be raised. Any 
+financial shortage must be covered by debt, but not more than a 1:1 debt-to-equity 
+ratio. The corporate tax rate is 30%. Interest on debt is 10% per annum.  
+ 
+You are required to: 
+(i)   
+Calculate the market price per share under each dividend payout option 
+using Walter’s Model. 
+(ii)  
+Evaluate the feasibility of internally funding the ` 12,00,000 investment 
+under each payout scenario. 
+(iii)  
+Determine the revised Debt-Equity Ratio assuming the shortfall is met 
+through borrowing if the company adopts a 50% payout. 
+(iv)  
+Recommend the most suitable dividend policy. 
+(5 Marks) 
+(b)  
+Gagan Pvt. Ltd. gives you the following information relating to the year ending  
+31st March, 2025: 
+(1) 
+Current Ratio  
+ 
+ 
+2.5 : 1 
+(2) 
+Debt-Equity Ratio 
+ 
+ 
+1 : 2 
+(3) 
+Return on Total Assets (After Tax) 
+15% 
+(4) 
+Total Assets Turnover Ratio 
+ 
+2 
+(5) 
+Gross Profit Ratio 
+ 
+ 
+25% 
+(6) 
+Stock Turnover Ratio  
+ 
+5 
+(7) 
+Net Working Capital  
+ 
+` 15,00,000 
+(8) 
+Fixed Assets  
+ 
+ 
+` 30,00,000 
+(9) 
+1,80,000 Equity Shares of  
+ 
+` 10 each 
+Download from castudyweb.com
+<<PAGE 6>>
+6 
+(10) 
+60,000, 10% Preference Shares of  
+` 10 each  
+(11) 
+Opening Stock 
+ 
+ 
+` 16,00,000 
+You are required to CALCULATE: 
+(a) 
+Quick Ratio 
+(b) 
+Fixed Assets Turnover Ratio 
+(c) 
+Proprietary Ratio 
+(d)  
+Earnings per Share 
+(5 Marks) 
+(c)  
+Wint Limited is a mid-sized manufacturing company specializing in industrial 
+equipment parts. It operates on a just-in-time procurement strategy but has 
+recently faced delays in raw material deliveries due to supply chain disruptions in 
+global markets. To maintain production continuity, the management has decided 
+to maintain slightly higher inventories and build in a contingency reserve. 
+ 
+The following forecasted financial information is provided for the year ending  
+31st March, 2025: 
+Particulars 
+Balance as at 31st March, 
+2025  
+(` in lakh) 
+Balance as at 31st March, 
+2024  
+(` in lakh) 
+Raw Material 
+845 
+585 
+Work-in-progress 
+663 
+455 
+Finished goods 
+910 
+780 
+Receivables 
+1,755 
+1,456 
+Payables 
+923 
+884 
+ 
+Additional details for the year ending 31st March, 2025: 
+• 
+Annual purchases of raw materials (on credit): ` 5,200 lakh 
+• 
+Annual cost of production: ` 5,850 lakh 
+• 
+Annual cost of goods sold (COGS): ` 6,825 lakh 
+• 
+Annual operating cost (includes admin, manufacturing, distribution):  
+` 4,225 lakh 
+• 
+Annual sales (on credit): ` 7,605 lakh 
+Download from castudyweb.com
+<<PAGE 7>>
+7 
+ 
+The finance team is currently evaluating the company’s working capital 
+requirement due to a planned expansion and potential volatility in receivables 
+collection caused by credit extensions to new clients. 
+ 
+Management wants to set aside a 10% contingency reserve in the working capital 
+to deal with unforeseen cash flow constraints (e.g., delayed collections, inventory 
+build-up, or supplier hold-ups). 
+ 
+Assume one year = 365 days. 
+ 
+You are required to: 
+(i)  
+Calculate the Net Operating Cycle Period (in days). 
+(ii)  
+Determine the Number of Operating Cycles in the year. 
+(iii)  
+Calculate the Working Capital Requirement including a 10% contingency 
+reserve.  
+(5 Marks) 
+2.  
+(a)  
+Majestic Ltd., a manufacturing company, is evaluating its financial performance 
+and considering an expansion plan. The financial controller provides the following 
+information for the financial year 2025: 
+Equity Share Capital  
+ 
+ 
+` 10,00,000 (` 10 per share) 
+Retained Earnings 
+ 
+ 
+ 
+` 10,00,000 
+12% Debentures 
+ 
+ 
+ 
+` 41,66,667 
+EBIT  
+ 
+ 
+ 
+ 
+` 20,00,000 
+Interest Expense 
+ 
+ 
+ 
+` 5,00,000 
+Contribution Margin Ratio 
+ 
+ 
+40% 
+Tax Rate 
+ 
+ 
+ 
+ 
+30% 
+Operating Leverage  
+ 
+ 
+2.5 
+Financial Leverage  
+ 
+ 
+1.333 
+Combined Leverage  
+ 
+ 
+3.333 
+Working Capital  
+ 
+ 
+ 
+20,00,000 
+Current Ratio  
+ 
+ 
+ 
+2 
+Fixed Asset Turnover Ratio   
+ 
+3 
+ 
+Download from castudyweb.com
+<<PAGE 8>>
+8 
+ 
+The company is now considering an expansion project costing ` 25,00,000. It 
+anticipates the following changes post-expansion in 2026: 
+(i)  
+Sales are expected to increase by `50,00,000. 
+(ii)  
+Variable costs will constitute 55% of sales. 
+(iii)  
+Additional fixed costs due to expansion are ` 10,00,000. 
+The company is evaluating two financing options for the expansion: 
+Option 1: Raise ` 25,00,000 by issuing new equity shares at ` 10 each.   
+Option 2: Raise ` 25,00,000 by issuing new debt at 12% interest. 
+From the above information, you are required to: 
+(1)  
+Prepare the Income Statement and Balance Sheet of 2025 based on the 
+data provided.  
+(3 Marks) 
+(2)  
+Compute the EPS under each financing option. 
+(2 Marks) 
+(3)  
+Compute the Operating Leverage, Financial Leverage and Combined 
+Leverage of both the financing options.   
+(2 Marks) 
+(4)  
+Recommend the best financing option based on the EPS and impact of 
+leverage giving reasons.  
+(1 Mark) 
+(b)  
+What is venture capital financing? Briefly describe its characteristics. (2 Marks) 
+3.  
+(a)  
+A company issues: 
+• 
+15% convertible debentures of ` 100 each at par with a maturity period of 
+6 years. On maturity, each debenture will be converted into 2 equity shares 
+of the company. The risk-free rate of return is 8%, market risk premium is 
+16% and beta of the company is 1.20. The company has paid dividend of 
+` 13.38 per share. Five years ago, it paid dividend of ` 10 per share. 
+Flotation cost is 6% of issue amount. 
+• 
+5% preference shares of ` 100 each at premium of 10%. These shares are 
+redeemable after 10 years at par. Flotation cost is 5% of issue amount. 
+Assuming corporate tax rate is 40%. 
+(i)  
+CALCULATE the cost of convertible debentures using the approximation 
+method. 
+Download from castudyweb.com
+<<PAGE 9>>
+9 
+(ii)  
+Use YTM method to CALCULATE cost of preference shares. 
+(5 Marks) 
+(b)  
+The following data relates to two companies belonging to the same risk class:  
+Particulars  
+A Ltd.  
+        B Ltd.  
+Expected Net Operating Income  
+` 19,00,000  
+` 19,00,000  
+12% Debt  
+` 57,00,000  
+         - 
+Equity Capitalization Rate  
+- 
+            19% 
+ 
+REQUIRED:  
+(a)  
+Determine the total market value, Equity capitalization rate and weighted 
+average cost of capital for each company assuming no taxes as per  
+M.M. Approach.  
+(b)  
+Determine the total market value, Equity capitalization rate and weighted 
+average cost of capital for each company assuming 40% taxes as per  
+M.M. Approach. 
+(5 Marks) 
+4.  
+(a)  
+A finance executive of XYZ company claims that “Increasing the firm’s current 
+ratio by accumulating more inventory is a sound strategy for improving working 
+capital efficiency.” 
+ 
+As a financial analyst, do you agree with the statement? Justify your answer using 
+relevant working capital concepts, and explain the potential risks associated with 
+the strategy mentioned. 
+(4 Marks) 
+(b) 
+Write a short note on financial distress and insolvency.  
+(4 Marks) 
+(c)  
+A company is looking to raise funds through an instrument that provides fixed 
+periodic returns to the investor but does not grant voting rights. Interestingly, this 
+instrument is considered to have characteristics of both equity and debt. It ranks 
+above equity shareholders but below debenture holders in case of liquidation. 
+Which type of financing instrument should the company use and why? (2 Marks) 
+OR 
+(c)  
+A firm is managing its finances and aims to ensure that it has access to funds for 
+the long term. It evaluates various sources like equity, debt, retained earnings, 
+and also credit offered by suppliers. 
+ 
+Which of the above mentioned sources should be classified as a short-term source 
+of finance and why by mentioning its characteristics in brief? 
+(2 Marks) 
+ 
+Download from castudyweb.com
+<<PAGE 10>>
+10 
+PAPER 6B: STRATEGIC MANAGEMENT 
+1. 
+The question paper comprises two parts, Part I and Part II. 
+2. 
+Part I comprises case scenario based multiple choice questions (MCQs) 
+3. 
+Part II comprises questions which require descriptive answers. 
+PART I – Case scenario based MCQs (15 Marks) 
+1.  
+(A)  
+(Compulsory) 
+1.  
+(A) 
+Introducing "UrbanScape Developers", a new-age contemporary real estate 
+developers, reshaping urban landscapes with groundbreaking projects across 
+three dynamic Indian cities of Mumbai, Bangalore, and Delhi. 
+ 
+In the bustling metropolis of Mumbai, UrbanScape is coming up with "CitySquare 
+Mall," a futuristic retail destination poised to redefine shopping experiences. 
+Boasting state-of-the-art facilities and a modern mix of brands, it promises to be 
+a benchmark of today’s retailing, attracting shoppers from across the globe. 
+ 
+In Bangalore, UrbanScape is shaping up "GreenVista Residency," an eco-
+conscious housing society that sets new standards in sustainable living. Nested 
+in the middle of lush greenery and equipped with eco-friendly amenities, it offers 
+residents a peaceful blend of luxury and environmental responsibility. 
+ 
+Meanwhile, in the vibrant capital city of Delhi, UrbanScape is building "MetroBiz 
+Institute", a global-desi MBA college dedicated to nurturing the leaders of 
+tomorrow. With innovative curriculum, industry-aligned programs, and world-class 
+faculty, it aims to cultivate a new generation of business visionaries and 
+changemakers. 
+ 
+However, despite these visionary projects, UrbanScape is facing challenges in 
+attracting pre-bookings from potential customers. A market study revealed that 
+high interest rates and soaring gold prices have created an environment where 
+individuals are hesitant to invest in real estate, opting instead for more liquid 
+assets. 
+ 
+To tackle this issue smartly, UrbanScape initiated strategic collaborations with 
+leaders in the banking sector. Leveraging their influence and expertise, they 
+strategized an effort to lobby for interest rate subsidies targeted towards new-age 
+technology-based real estate developers like themselves. By aligning themselves 
+strategically and positioning their cause as essential for driving economic growth 
+and urban development, they aim to generate decent demand and incentivize 
+investment in the real estate sector. 
+Download from castudyweb.com
+<<PAGE 11>>
+11 
+ 
+Furthermore, they recognize the shifting dynamics of consumer behavior and 
+preferences towards spending more on travel and experiences. In response, they 
+are adopting a proactive approach to engage potential buyers in innovative ways. 
+They are launching an immersive, AI-based website that offers virtual experiences 
+of their projects. Prospective buyers can explore apartments, wander through the 
+mall's corridors, or attend virtual classes at the MBA college - all from the comfort 
+of their living rooms. This revolutionary platform not only increases customer 
+engagement but also generates significant word-of-mouth marketing, as 
+impressive visitors share their experiences with friends and family. 
+ 
+With a comprehensive strategy in place, UrbanScape Developers is navigating 
+the ever-evolving real estate landscape with confidence and foresight. As they 
+continue to shape the urban areas of India's most dynamic cities, the future holds 
+endless possibilities for its visionary endeavors. 
+ 
+Based on the above Case Scenario, answer the Multiple-Choice Questions. 
+(i) 
+To evaluate how projects like "CitySquare Mall" and "MetroBiz Institute" 
+are positioned relative to competitors in terms of market share and 
+business focus, which tool would help UrbanScape make informed 
+strategic decisions?  
+(a)  
+Strategic Group Mapping 
+(b)  
+SWOT Analysis 
+(c)  
+Product Life Cycle 
+(d)  
+PESTLE Analysis 
+(2 Marks) 
+(ii) 
+To understand how rising interest rates and increasing gold prices are 
+impacting buyer behavior in real estate, which analytical tool should 
+UrbanScape use to assess macro-environmental factors and adapt its 
+strategy accordingly? 
+(a)  
+Value Chain Analysis 
+(b)  
+GE Matrix 
+(c)  
+PESTLE Analysis 
+(d)  
+Ansoff Matrix 
+(2 Marks) 
+(iii) 
+UrbanScape introduced an AI-powered website offering immersive 
+experiences of their properties to engage tech-savvy customers who prefer 
+virtual interactions. What strategic benefit is UrbanScape most likely 
+Download from castudyweb.com
+<<PAGE 12>>
+12 
+aiming to achieve through this technological investment? 
+(a)  
+Compliance with government policy 
+(b)  
+Differentiation and enhanced customer experience 
+(c)  
+Reduction in production costs 
+(d)  
+Price leadership strategy 
+(2 Marks) 
+(iv)  
+UrbanScape’s eco-friendly housing project and emphasis on innovation 
+show a strong internal culture of sustainability and forward-thinking. Which 
+component of the 7S Framework does this reflect? 
+(a)  
+Strategy 
+(b)  
+Structure 
+(c)  
+Shared Values 
+(d)  
+Skills 
+(2 Marks) 
+(v)  
+After receiving poor pre-booking responses, UrbanScape re-evaluated its 
+economic assumptions and initiated lobbying efforts. This indicates use of 
+which control type to verify the ongoing validity of external assumptions? 
+(a)  
+Implementation Control 
+(b)  
+Premise Control 
+(c)  
+Feedback Control 
+(d)  
+Strategic Surveillance 
+(2 Marks) 
+(B)  
+Compulsory Application Based Independent MCQs 
+(i)  
+StarLite Electronics noticed changing consumer preferences for energy-
+efficient appliances. It invested in R&D to develop such products. Months 
+later, a new government regulation mandated energy efficiency, which it 
+easily complied with. Which strategies best describe StarLite's approach? 
+(a)  
+Proactive and Reactive 
+(b)  
+Only Reactive 
+(c)  
+Cost leadership 
+(d)  
+Defensive strategy 
+(2 Marks) 
+(ii)  
+PrintPro’s laser printer division has stable revenue and a high market 
+share, but operates in a slow-growing market. It generates steady cash 
+Download from castudyweb.com
+<<PAGE 13>>
+13 
+with minimal investment needs. Where does this division fall in the BCG 
+Matrix?  
+(a)  
+Dog 
+(b)  
+Question Mark 
+(c)  
+Star 
+(d)  
+Cash Cow 
+(2 Marks) 
+(iii)  
+Which of the following is a limitation of strategic management? 
+(a)  
+It sometimes provides a clear roadmap for the organization 
+(b)  
+It disregards allocating resources effectively 
+(c)  
+It can be time-consuming and complex 
+(d)  
+It doesn’t ensure immediate results 
+(1 Mark) 
+ 
+PART II – Descriptive Questions (35 Marks) 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+1. 
+(a)  
+ABC Corporation, a global technology company, is known for its innovative 
+products and solutions. The company's strategic vision emphasizes being at the 
+forefront of technological advancements and providing cutting-edge solutions to 
+improve people's lives with a strong commitment to integrity and accountability in 
+all its operations. Their mission is to create products that are user-friendly, 
+sustainable and contribute positively to society. Values can be derived by 
+analysing the vision and mission statements. Based on the scenario, what are the 
+values of ABC Corporation?  
+(5 Marks) 
+(b)  
+ZymaTech Pvt. Ltd., a growing player in the smart home devices industry, seeks 
+to increase its market share amidst strong competition from HomeEdge, AutoNest 
+and IntelliSpace. Each competitor holds a distinct edge—brand loyalty, pricing & 
+distribution reach and AI driven product innovation respectively. However, 
+IntelliSpace faces criticism regarding post-sales service. ZymaTech, while offering 
+decent product quality, struggles with brand visibility and customer service. As a 
+strategist at ZymaTech, how would Mr. Anoj Dass apply the steps involved in 
+understanding the competitive landscape to help the company build a sustainable 
+competitive advantage?  
+(5 Marks) 
+Download from castudyweb.com
+<<PAGE 14>>
+14 
+(c)  
+ZephyrFit Pvt. Ltd., a startup founded by three young business graduates, 
+launched a fitness app offering diverse wellness content, including regional 
+formats like Kerala Ayurveda, Punjabi workouts and local diet plans. Initially 
+popular, the company later discovered that certain regional segments incurred 
+high costs but had low user engagement. To improve profitability, the leadership 
+sold the rights to this underperforming content and halted further development in 
+these areas. Instead, they focused on widely accessed and cost-effective 
+offerings. Identify and explain the type of corporate strategy adopted by the 
+leadership of ZephyrFit Pvt. Ltd. in this situation.    
+(5 Marks) 
+2.  
+(a)  
+“Each organization must build its competitive advantage keeping in mind the 
+business warfare. This can be done by following the process of strategic 
+management.” Considering this statement, explain major benefits of strategic 
+management. 
+(5 Marks) 
+(b)  
+"International development is expensive and challenging". In the context of the 
+statement, explain the internationalization of business and the steps involved in 
+such strategic planning.  
+(5 Marks) 
+3.  
+(a)  
+Write a short note on the Key Strategic Drivers of an organization. 
+(5 Marks) 
+(b)  
+Differentiation between Strategic Planning and Operational Planning. (5 Marks) 
+4.  
+(a)  
+Explain the 'product market growth matrix' as propagated by Igor Ansoff as a 
+device for identifying growth opportunities for the future. 
+(5 Marks) 
+(b)  
+Explain the pointers for navigating change during digital transformation.  
+OR 
+(b)  
+Aarav Textiles Pvt. Ltd., a global apparel company, faced a revenue decline due 
+to a pandemic. To sustain operations, it outsourced key functions like production, 
+logistics and customer support. Now, it functions with a lean head office digitally 
+connected to dispersed units. What organisational structure is this? Discuss its 
+features and disadvantages. 
+(5 Marks) 
+ 
+Download from castudyweb.com

@@ -1,0 +1,279 @@
+{
+ "chapter": "F02",
+ "note": "Official questions mapped to FM Chapter 2 (Types of Financing). Primary code first.",
+ "atoms": [
+  {
+   "id": "PYQ-J25-Q4a",
+   "codes": [
+    "F02.24"
+   ],
+   "marks": 4,
+   "format": "Descriptive",
+   "src": "SA-J25 Q4(a) ESG bonds"
+  },
+  {
+   "id": "PYQ-J26-Q4a",
+   "codes": [
+    "F02.23"
+   ],
+   "marks": 4,
+   "format": "Descriptive",
+   "src": "SA-J26 Q4(a) seed capital assistance"
+  },
+  {
+   "id": "PYQ-M24-Q4c-OR",
+   "codes": [
+    "F02.25"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "SA-M24 Q4(c) OR crowd funding"
+  },
+  {
+   "id": "PYQ-M25-Q4b",
+   "codes": [
+    "F02.13"
+   ],
+   "marks": 4,
+   "format": "Descriptive",
+   "src": "SA-M25 Q4(b) bridge financing"
+  },
+  {
+   "id": "PYQ-M26-Q4b",
+   "codes": [
+    "F02.22"
+   ],
+   "marks": 4,
+   "format": "Identify + explain",
+   "src": "SA-M26 Q4(b) post-shipment finance"
+  },
+  {
+   "id": "PYQ-M26-Q4c-OR",
+   "codes": [
+    "F02.23"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "SA-M26 Q4(c) OR junk bonds"
+  },
+  {
+   "id": "PYQ-S24-Q4a",
+   "codes": [
+    "F02.10"
+   ],
+   "marks": 4,
+   "format": "Descriptive",
+   "src": "SA-S24 Q4(a) debentures"
+  },
+  {
+   "id": "PYQ-S24-Q4c",
+   "codes": [
+    "F02.21"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "SA-S24 Q4(c) leveraged lease"
+  },
+  {
+   "id": "PYQ-S25-Q4b",
+   "codes": [
+    "F02.11"
+   ],
+   "marks": 4,
+   "format": "Descriptive",
+   "src": "SA-S25 Q4(b) four types of bonds"
+  },
+  {
+   "id": "RTP-J26-FQ11a",
+   "codes": [
+    "F02.24"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-J26 FM Q11(a) bulldog bond"
+  },
+  {
+   "id": "RTP-M25-FQ10b",
+   "codes": [
+    "F02.17"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-M25 FM Q10(b) venture capital methods"
+  },
+  {
+   "id": "RTP-S24-FQ12b",
+   "codes": [
+    "F02.08"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-S24 FM Q12(b) preference shares"
+  },
+  {
+   "id": "MTP-J26-S1-FQ4b",
+   "codes": [
+    "F02.17"
+   ],
+   "marks": 4,
+   "format": "Descriptive",
+   "src": "MTP-J26-S1 FM Q4(b)"
+  },
+  {
+   "id": "MTP-J26-S2-FQ4a",
+   "codes": [
+    "F02.21"
+   ],
+   "marks": 4,
+   "format": "Case descriptive",
+   "src": "MTP-J26-S2 FM Q4(a)"
+  },
+  {
+   "id": "MTP-M24-S1-FMCQ4",
+   "codes": [
+    "F02.22"
+   ],
+   "marks": 1,
+   "format": "MCQ",
+   "key": "C",
+   "src": "MTP-M24-S1 FM MCQ 4 public deposits"
+  },
+  {
+   "id": "MTP-M24-S1-FQ4b",
+   "codes": [
+    "F02.17"
+   ],
+   "marks": 4,
+   "format": "Descriptive",
+   "src": "MTP-M24-S1 FM Q4(b)"
+  },
+  {
+   "id": "MTP-M24-S2-FQ4c-OR",
+   "codes": [
+    "F02.24"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-M24-S2 FM Q4(c) OR IDRs"
+  },
+  {
+   "id": "MTP-M25-S1-FQ4b",
+   "codes": [
+    "F02.18"
+   ],
+   "marks": 4,
+   "format": "Descriptive",
+   "src": "MTP-M25-S1 FM Q4(b) debt securitisation"
+  },
+  {
+   "id": "MTP-M25-S2-FQ4a",
+   "codes": [
+    "F02.21"
+   ],
+   "marks": 4,
+   "format": "Descriptive",
+   "src": "MTP-M25-S2 FM Q4(a) types of leases"
+  },
+  {
+   "id": "MTP-M25-S2-FQ4b",
+   "codes": [
+    "F02.10",
+    "F02.11"
+   ],
+   "marks": 4,
+   "format": "Descriptive",
+   "src": "MTP-M25-S2 FM Q4(b) features of debentures/bonds"
+  },
+  {
+   "id": "MTP-M26-S1-FQ4b",
+   "codes": [
+    "F02.08"
+   ],
+   "marks": 4,
+   "format": "Descriptive",
+   "src": "MTP-M26-S1 FM Q4(b) preference shares"
+  },
+  {
+   "id": "MTP-S24-S1-FQ4b",
+   "codes": [
+    "F02.24"
+   ],
+   "marks": 4,
+   "format": "Descriptive",
+   "src": "MTP-S24-S1 FM Q4(b) international instruments"
+  },
+  {
+   "id": "MTP-S24-S2-FQ4b",
+   "codes": [
+    "F02.21"
+   ],
+   "marks": 4,
+   "format": "Descriptive",
+   "src": "MTP-S24-S2 FM Q4(b) other lease types"
+  },
+  {
+   "id": "MTP-S25-S1-FQ2b",
+   "codes": [
+    "F02.15",
+    "F02.16"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-S25-S1 FM Q2(b) venture capital"
+  },
+  {
+   "id": "MTP-S25-S2-FQ4b",
+   "codes": [
+    "F02.25"
+   ],
+   "marks": 4,
+   "format": "Distinguish",
+   "src": "MTP-S25-S2 FM Q4(b) crowd funding vs P2P"
+  },
+  {
+   "id": "MTP-S26-S1-FQ4a",
+   "codes": [
+    "F02.18"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "MTP-S26-S1 answer file, FM Q4(a)"
+  },
+  {
+   "id": "MTP-S26-S1-FQ4b",
+   "codes": [
+    "F02.21"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "MTP-S26-S1 answer file, FM Q4(b)"
+  },
+  {
+   "id": "MTP-S26-S2-FQ4c",
+   "codes": [
+    "F02.11"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-S26-S2 FM Q4(c) callable and puttable bonds"
+  },
+  {
+   "id": "MTP-S26-S2-FQ4c-OR",
+   "codes": [
+    "F02.13"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-S26-S2 FM Q4(c) OR bridge finance"
+  },
+  {
+   "id": "RTP-J26-FQ11b",
+   "codes": [
+    "F02.22"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-J26 FM Q11(b) spontaneous sources of finance"
+  }
+ ]
+}

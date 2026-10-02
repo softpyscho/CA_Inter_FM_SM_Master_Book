@@ -1,0 +1,1055 @@
+{
+ "meta": {
+  "chapter_no": 3,
+  "section": "FM",
+  "paper": "CA Intermediate · Paper 6A · Financial Management",
+  "chapter_title": "FM Chapter 3 — Financial Analysis and Planning: Ratio Analysis",
+  "short_title": "FM Ch 3 Ratio Analysis",
+  "module": "Paper 6A Financial Management · Module 1",
+  "attempt": "January 2027",
+  "sm_edition": "ICAI BoS Study Material, Paper 6A (relevant for May 2026 examination onwards), Module 1, Chapter 3",
+  "last_verified": "18-09-2026",
+  "status_summary": "SM headings 22/22 · official atoms 33/33"
+ },
+ "sections_before": [
+  {
+   "heading": "Examiner Mindset — FM Chapter 3",
+   "blocks": [
+    {
+     "type": "box",
+     "tag": "pyq",
+     "title": "What ICAI's published papers tell us",
+     "bullets": [
+      "ICAI has published no examiners' comments for Paper 6; the guidance below comes from its suggested answers, RTPs and MTPs.",
+      "**This is the most reliably examined chapter in Section A.** A ratio question has appeared in Q1 of every past paper from May 2024 to May 2026, and in every RTP and every MTP in the set.",
+      "The dominant form is **reverse working**: you are given ratios and asked to build the Balance Sheet, the Trading and Profit & Loss Account, or a missing figure. Ten of the thirty-three official questions here are of that type.",
+      "The second form is **compute and comment**: calculate five named ratios from a given set of figures (Jan 2026, May 2025, Sep 2025, May 2024).",
+      "Two-mark parts test the **effect of a transaction on a ratio** (Jan 2026 asked whether the current ratio improves, declines or stays unchanged)."
+     ]
+    },
+    {
+     "type": "box",
+     "tag": "face",
+     "title": "How ICAI marks this chapter (study guidance)",
+     "bullets": [
+      "Marks are for the **formula, the working note and the answer** — in that order. A correct number with no working rarely gets full marks; a correct formula with an arithmetic slip usually keeps most of them.",
+      "Always **state the formula before substituting**. ICAI's own answers do this every time.",
+      "Where the study material allows more than one formula (debt-equity, ROCE), ICAI accepts either — but says: 'ratios shall be calculated based on requirement and availability of information', and **if you deviate, state your assumption**.",
+      "The numerator must correspond to the denominator: cost of goods sold with average inventory, credit sales with average receivables, credit purchases with average payables."
+     ]
+    }
+   ]
+  }
+ ],
+ "snapshot": {
+  "about": "Reading financial statements through ratios: liquidity, long-term solvency (capital structure and coverage), activity or turnover, and profitability (on sales, on investment, from the owner's view and from the market's view) — who uses them, what they can and cannot show, and how to work backwards from ratios to the statements.",
+  "why": "It is the one chapter that appears in Question 1 of every attempt, and its ratios reappear in leverage (Ch 6), capital structure (Ch 5) and working capital (Ch 9).",
+  "core_concepts": [
+   "F03.03–F03.05 What a ratio is, what ratio analysis compares, and where the data comes from",
+   "F03.07 Liquidity: current, quick, cash, basic defense interval, net working capital",
+   "F03.09 Capital structure: equity, debt, debt-equity, debt to total assets, capital gearing, proprietary",
+   "F03.10 Coverage: DSCR, interest coverage, preference dividend coverage, fixed charges coverage",
+   "F03.11 Activity: inventory, receivables, payables, asset, capital and working capital turnover",
+   "F03.13–F03.16 Profitability on sales, on investment, from the owner's view, and market ratios",
+   "F03.20 Limitations, and F03.21 horizontal versus vertical analysis"
+  ],
+  "key_provisions": [
+   "Generally acceptable current ratio 2:1; acid-test 1:1",
+   "DSCR of 1.5 to 2 is normally satisfactory",
+   "Fixed charges coverage of more than 1 is considered safe",
+   "Quick assets = current assets − inventories − prepaid expenses",
+   "Net working capital = current assets − current liabilities (excluding short-term bank borrowing)"
+  ],
+  "tested_areas": [
+   {
+    "text": "Build the Balance Sheet or the Trading and P&L Account from given ratios",
+    "evidence": "PYQ Sep 2024 Q1(c), Jan 2025 Q3(b); RTP May 2025, Sep 2024, Sep 2025, Sep 2026; MTP Jan 2025 both series, Mar 2024 Series I, May 2025 Series II, Sep 2025 Series I, Sep 2026 Series I"
+   },
+   {
+    "text": "Compute a named list of ratios and comment",
+    "evidence": "PYQ May 2024 Q1(a), Jan 2026 Q1(a), May 2025 Q1(a), Sep 2025 Q1(b), May 2026 Q1(c)"
+   },
+   {
+    "text": "Effect of a transaction on the current ratio",
+    "evidence": "PYQ Jan 2026 Q4(c) OR"
+   },
+   {
+    "text": "Coverage ratios: DSCR, interest coverage, fixed charges coverage",
+    "evidence": "PYQ May 2024 Q1(a); RTP Jan 2025 Q4, Jan 2026 Q6"
+   },
+   {
+    "text": "External funds requirement from a projected balance sheet",
+    "evidence": "PYQ Jan 2026 Q3(a) — the topic is not in the current study material"
+   }
+  ],
+  "mistakes": [
+   "Using sales instead of cost of goods sold in the inventory turnover ratio when the question says 'based on cost of goods sold'.",
+   "Forgetting to deduct prepaid expenses as well as inventories when computing quick assets.",
+   "Using total sales rather than credit sales for the receivables turnover ratio.",
+   "Writing the answer without the formula; ICAI's marks follow the formula and the working note."
+  ],
+  "links": [
+   "🔗 FM Ch 5: debt-equity and capital gearing in capital structure decisions",
+   "🔗 FM Ch 6: the same EBIT and EBT figures drive operating and financial leverage",
+   "🔗 FM Ch 8: EPS, DPS, dividend payout and P/E in the dividend decision",
+   "🔗 FM Ch 9: turnover ratios convert into the operating cycle"
+  ],
+  "revision_path": "5 min: the four ratio families and their headline formulae · 15 min: add the interpretation lines and the benchmark figures · 30 min: work one reverse-Balance-Sheet question end to end."
+ },
+ "evidence": {
+  "pyq_table": [
+   {
+    "id": "PYQ-M24-Q1a",
+    "question": "Theme Ltd: compute interest coverage, gross profit and other ratios from debt, debt-equity and return on shareholders' fund",
+    "concept": "F03.10",
+    "marks": 5,
+    "type": "Compute",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-J25-Q3b",
+    "question": "Sky Pack Ltd: prepare the Balance Sheet from the given ratios",
+    "concept": "F03.22",
+    "marks": 4,
+    "type": "Reverse working",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S24-Q1c",
+    "question": "MNP Limited: complete the Balance Sheet from six ratios",
+    "concept": "F03.22",
+    "marks": 5,
+    "type": "Reverse working",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M25-Q1a",
+    "question": "S Ltd: turnover and holding-period ratios",
+    "concept": "F03.11",
+    "marks": 5,
+    "type": "Compute",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S25-Q1b",
+    "question": "Diwan Limited: PAT, net profit margin, return on assets, asset turnover and return on equity",
+    "concept": "F03.14",
+    "marks": 5,
+    "type": "Compute",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-J26-Q1a",
+    "question": "AIL Limited: operating-cycle ratios from gross profit margin and holding periods",
+    "concept": "F03.11",
+    "marks": 5,
+    "type": "Compute",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-J26-Q3a",
+    "question": "ST Ltd: estimate external funds required and the composition of the funds",
+    "concept": "F03.21",
+    "marks": 5,
+    "type": "Planning",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-J26-Q4c-OR",
+    "question": "BEE Ltd: will the current ratio improve, decline or stay unchanged after four transactions",
+    "concept": "F03.07",
+    "marks": 2,
+    "type": "Effect on ratio",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M26-Q1c",
+    "question": "Exe Ltd: dividend coverage, dividend yield and related market ratios",
+    "concept": "F03.16",
+    "marks": 5,
+    "type": "Compute",
+    "repeat": "R5"
+   }
+  ],
+  "trend": [
+   "Question 1 of Section A has carried a ratio part in every attempt from May 2024 to May 2026 — nine parts in six papers.",
+   "ICAI alternates between 'compute these five ratios' and 'build the statement from these ratios'; both have appeared three times each in the period.",
+   "Market and valuation ratios (dividend yield, P/E, dividend coverage) surfaced for the first time in May 2026."
+  ],
+  "rtp_takeaways": [
+   "Every RTP in the set carries a question ICAI itself labels 'Ratio Analysis'; three of them also put a ratio MCQ in the case-scenario section.",
+   "RTP Jan 2025 Q4 is the widest single question in the set: quick ratio, fixed assets turnover, debt service coverage, EPS and P/E in one go.",
+   "RTP Jan 2026 introduced Du Pont analysis as an MCQ (ROE = net profit margin × total asset turnover × equity multiplier)."
+  ],
+  "mtp_takeaways": [
+   "Thirteen of the fourteen MTPs carry a ratio question, almost always as Q1(a), Q1(b) or Q3(a).",
+   "The reverse-working form dominates: Anya Co., Alpha, ANVY, Simandhar, Gagan and the Sep 2026 Series I question all ask for a statement built from ratios.",
+   "Two MTPs (Sep 2024 Series II, Sep 2025 Series II) give two years of data and ask for a comparison — the horizontal analysis of §7."
+  ],
+  "note": "Counting method: every official part mapped to this chapter from ICAI suggested answers (May 2024 to May 2026), RTPs (May 2024 to Sep 2026, using ICAI's own topic labels) and MTPs (Mar 2024 to Aug 2026)."
+ },
+ "concepts": [
+  {
+   "code": "F03.01 + F03.02 + F03.03 + F03.04 + F03.05",
+   "title": "1–2. Introduction, Ratio and Ratio Analysis, and the Sources of Financial Data",
+   "activity": "Foundation",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 0",
+   "understand": [
+    "**Why ratios at all (§1).** The basis for financial analysis, planning and decision making is the **financial statements**, which mainly consist of the **Balance Sheet and the Profit and Loss Account**. The profit and loss account shows the **operating activities of the concern over a period of time**; the balance sheet depicts the **balance value of the acquired assets and of liabilities**, i.e. the **financial position of an organisation at a particular point of time**.",
+    "However, these statements **do not disclose all of the necessary and relevant information**. To obtain the material and relevant information necessary for **ascertaining the financial strengths and weaknesses** of an enterprise, the data depicted in the financial statement has to be analysed. The financial manager has analytical tools for this; **one of the main tools is ratio analysis**.",
+    "**Definition of a ratio (§2.1).** ==A ratio is defined as **\"the indicated quotient of two mathematical expressions and as the relationship between two or more things\"**.== Here, ratio means **financial ratio or accounting ratio, which is a mathematical expression of the relationship between two accounting figures**.",
+    "**Ratio analysis (§2.2).** The term financial ratio is explained by how it is calculated and what the objective of the calculation is. **Basis of calculation:** a relationship **expressed in mathematical terms**, **between two individual figures or groups of figures**, **connected with each other in some logical manner**, **selected from the financial statements of the concern**. **Objective:** so that all stakeholders — owners, investors, lenders, employees and others — can draw conclusions about the **performance (past, present and future)** and the **strengths and weaknesses of a firm**, and **can take decisions in relation to the firm**.",
+    "==Ratio analysis rests on the fact that **a single accounting figure by itself may not communicate any meaningful information, but when expressed relative to some other figure it may provide significant information**.==",
+    "Ratio analysis is **not just comparing different numbers** from the balance sheet, income statement and cash flow statement. It is comparing the number against **previous years (intra-firm comparison)**, against **other companies (inter-firm comparison)**, against the **industry**, or even against **the economy in general**.",
+    "**Sources of financial data for analysis (§2.3)** — six sources: **(i) annual reports, (ii) interim financial statements, (iii) notes to accounts, (iv) statement of cash flows, (v) business periodicals, (vi) credit and investment advisory services**."
+   ],
+   "example": "A profit of ₹50 lakh means nothing on its own. Against sales of ₹10 crore it is a 5% net profit ratio; against capital employed of ₹2 crore it is a 25% return. The second figure is what gives the first its meaning.",
+   "provisions": [
+    {
+     "ref": "Basis of calculation (SM §2.2)",
+     "status": "VERIFIED",
+     "requirement": "Mathematical relationship between two figures or groups of figures, logically connected, selected from the financial statements of the concern.",
+     "exam_angle": "A short note or an MCQ on what ratio analysis compares (intra-firm, inter-firm, industry, economy)."
+    }
+   ],
+   "keywords": [
+    "indicated quotient of two mathematical expressions",
+    "financial ratio",
+    "accounting ratio",
+    "connected with each other in some logical manner",
+    "intra-firm comparison",
+    "inter-firm comparison",
+    "annual reports",
+    "interim financial statements",
+    "notes to accounts",
+    "statement of cash flows",
+    "business periodicals",
+    "credit and investment advisory services"
+   ],
+   "memory": {
+    "trick": "Compare against **four mirrors**: your own past (intra-firm), your rivals (inter-firm), your industry, and the economy.",
+    "key": [
+     [
+      "What",
+      "A mathematical relationship between two logically connected accounting figures"
+     ],
+     [
+      "Why",
+      "So stakeholders can judge performance, strengths and weaknesses, and decide"
+     ],
+     [
+      "Against what",
+      "Previous years, other companies, the industry, the economy"
+     ],
+     [
+      "From where",
+      "Annual reports · interim statements · notes to accounts · cash flow statement · business periodicals · credit and investment advisory services"
+     ]
+    ],
+    "recall_trigger": "Four mirrors, six sources"
+   },
+   "mistakes": [
+    "Saying ratio analysis uses only the balance sheet; the profit and loss account and the cash flow statement are equally sources.",
+    "Listing only annual reports as the source; the study material names six."
+   ],
+   "links": [
+    "🔗 FM Ch 1 §11.1: financial management and accounting",
+    "🔗 FM Ch 3 §7: horizontal and vertical analysis"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Short note on ratio analysis and its objectives",
+     "MCQ on the sources of financial data"
+    ],
+    "approach": [
+     "Give the definition, then the four-point basis of calculation and the three-point objective"
+    ],
+    "official_pattern": "Not yet asked directly; it is the vocabulary the numerical questions assume.",
+    "time_tip": "2 marks ≈ 3 minutes (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-F03.04-1",
+     "form": "Explain (4 marks)",
+     "marks": 4,
+     "question": "Explain ratio analysis: how a financial ratio is calculated, what its objective is, and what a ratio is compared against.",
+     "answer_points": [
+      "A ratio is the indicated quotient of two mathematical expressions and the relationship between two or more things; a financial or accounting ratio is a mathematical expression of the relationship between two accounting figures.",
+      "**Basis of calculation:** a relationship expressed in mathematical terms, between two individual figures or groups of figures, connected with each other in some logical manner, selected from the financial statements of the concern.",
+      "**Objective:** so that all stakeholders — owners, investors, lenders, employees and others — can draw conclusions about performance (past, present and future) and about the strengths and weaknesses of the firm, and can take decisions in relation to it.",
+      "A single accounting figure by itself may not communicate any meaningful information, but expressed relative to another figure it may provide significant information.",
+      "Ratios are compared against previous years (intra-firm comparison), against other companies (inter-firm comparison), against the industry, or even against the economy in general."
+     ],
+     "keywords": [
+      "indicated quotient",
+      "logically connected",
+      "intra-firm",
+      "inter-firm"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F03.04-01",
+     "angle": "Concept",
+     "difficulty": "Easy",
+     "question": "As per the study material, ratio analysis compares a figure against all of the following EXCEPT:",
+     "options": {
+      "A": "The company's own previous years",
+      "B": "The audit fee paid by the company",
+      "C": "Other companies in the same line",
+      "D": "The industry or the economy in general"
+     },
+     "answer": "B",
+     "explanation": "SM §2.2: ratios are compared against previous years (intra-firm), other companies (inter-firm), the industry, or the economy in general.",
+     "why_wrong": {
+      "A": "Intra-firm comparison.",
+      "C": "Inter-firm comparison.",
+      "D": "Both are named in the study material."
+     },
+     "trap": "Any plausible accounting item can be inserted as a distractor; stick to the four named comparisons.",
+     "concept": "F03.04"
+    },
+    {
+     "id": "MCQ-F03.05-02",
+     "angle": "Source",
+     "difficulty": "Easy",
+     "question": "Which of the following is NOT listed in the study material as a source of financial data for analysis?",
+     "options": {
+      "A": "Interim financial statements",
+      "B": "Notes to accounts",
+      "C": "Credit and investment advisory services",
+      "D": "The company's internal costing records"
+     },
+     "answer": "D",
+     "explanation": "SM §2.3 lists annual reports, interim financial statements, notes to accounts, statement of cash flows, business periodicals, and credit and investment advisory services.",
+     "why_wrong": {
+      "A": "Named in the list.",
+      "B": "Named in the list.",
+      "C": "Named in the list."
+     },
+     "trap": "Internal records sound obvious but are not among the six.",
+     "concept": "F03.05"
+    }
+   ],
+   "recap": [
+    "A ratio is a mathematical relationship between two logically connected accounting figures.",
+    "It exists so stakeholders can judge performance and strengths or weaknesses and act.",
+    "Compare against your past, your rivals, the industry and the economy.",
+    "Six sources of data, from annual reports to advisory services."
+   ]
+  },
+  {
+   "code": "F03.06 + F03.07",
+   "title": "3–3.1 Types of Ratios and the Liquidity Ratios",
+   "activity": "Very High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (Jan 2026 Q4(c) OR) · MTP 1 (Sep 2024 Series I)",
+   "understand": [
+    "**Four families (§3).** Ratios are classified as **liquidity ratios (short-term solvency)**; **leverage ratios (long-term solvency)**, split into **capital structure ratios and coverage ratios**; **activity ratios (also called efficiency, performance or turnover ratios)**; and **profitability ratios**, split into those **related to sales**, those **related to overall return on investment (assets, capital employed, equity)**, those **required for analysis from the owner's point of view**, and those **related to market, valuation and investors**. The study material adds a footnote: ==**liquidity ratios should be examined taking the relevant turnover ratios into consideration**.==",
+    "**Liquidity (§3.1).** The terms **'liquidity' and 'short-term solvency' are used synonymously**: the **ability of the business to pay its short-term liabilities**. Inability affects **credibility as well as credit rating**; continuous default leads to **commercial bankruptcy**, which may lead to **sickness and dissolution**. Short-term lenders and creditors are very interested in the state of liquidity because of their financial stake. ==**Both lack of sufficient liquidity and excess liquidity is bad for the organisation.**==",
+    "**(a) Current ratio** = **Current Assets ÷ Current Liabilities**. It is **one of the best known measures of short-term solvency** and the most common measure of short-term liquidity. The question it addresses: *does the business have enough current assets to meet the payment schedule of its current debts with a margin of safety for possible losses in current assets?* **Current assets** = inventories + sundry debtors + cash and bank balances + receivables/accruals + loans and advances + disposable investments + any other current assets. **Current liabilities** = creditors for goods and services + short-term loans + bank overdraft + cash credit + outstanding expenses + provision for taxation + proposed dividend + unclaimed dividend + any other current liabilities. ==A **generally acceptable current ratio is 2:1**, but whether a specific ratio is satisfactory depends on the **nature of the business and the characteristics of its current assets and liabilities**.==",
+    "**(b) Quick ratio or acid-test ratio** = **Quick Assets ÷ Current Liabilities**, where ==**Quick Assets = Current Assets − Inventories − Prepaid expenses**==. It is a **much more conservative measure** than the current ratio and answers: *if all sales revenues should disappear, could the business meet its current obligations with the readily convertible quick funds on hand?* Inventories are deducted on the belief that they are **not near-cash assets** and because **in times of financial difficulty inventory may be saleable only at liquidation value** — though **in a seller's market inventories are also near-cash assets**. ==An **acid-test of 1:1 is considered satisfactory** unless the majority of quick assets are in accounts receivable and the pattern of collection lags behind the schedule for paying current liabilities.==",
+    "**(c) Cash ratio or absolute liquidity ratio** = **(Cash and Bank balances + Marketable Securities) ÷ Current Liabilities**, or **(Cash and Bank balances + Current Investments) ÷ Current Liabilities**. It **measures the absolute liquidity of the business** and **tests short-term liquidity only in terms of cash and marketable securities or current investments**.",
+    "**(d) Basic defense interval or interval measure** = **(Cash and Bank balances + Net Receivables + Marketable Securities) ÷ (Operating Expenses ÷ number of days, say 360)**, or **(Current Assets − Prepaid expenses − Inventories) ÷ Daily Operating Expenses**, where **daily operating expenses = (cost of goods sold + selling, administration and other general expenses − depreciation and other non-cash expenditure) ÷ number of days in a year**. ==If all the company's revenues were suddenly to cease, this ratio tells you **the number of days for which the company can cover its cash expenses without additional financing**.==",
+    "**(e) Net working capital** = **Current Assets − Current Liabilities (excluding short-term bank borrowing)**. It is **more a measure of cash flow than a ratio**; the result **must be a positive number**, though in certain business models it may be negative. **Bankers look at net working capital over time** to judge a company's **ability to weather financial crises**, and **loans are often tied to minimum working capital requirements**."
+   ],
+   "example": "Current assets ₹8,00,000 and current liabilities ₹3,20,000 give a current ratio of 2.5. If inventory is ₹3,20,000, quick assets are ₹4,80,000 and the quick ratio is 1.5 — comfortably above the 1:1 benchmark.",
+   "provisions": [
+    {
+     "ref": "Benchmarks (SM §3.1)",
+     "status": "VERIFIED",
+     "requirement": "Generally acceptable current ratio 2:1; acid-test 1:1; net working capital must normally be positive.",
+     "exam_angle": "MCQs quote the benchmark; reverse-working questions use the current and quick ratios to split current assets between inventory and the rest."
+    },
+    {
+     "ref": "Quick assets (SM §3.1)",
+     "status": "VERIFIED",
+     "requirement": "Current assets less inventories less prepaid expenses.",
+     "exam_angle": "The commonest slip in the chapter is forgetting prepaid expenses."
+    }
+   ],
+   "keywords": [
+    "liquidity",
+    "short-term solvency",
+    "commercial bankruptcy",
+    "margin of safety",
+    "2:1",
+    "acid test",
+    "quick assets",
+    "prepaid expenses",
+    "liquidation value",
+    "seller's market",
+    "absolute liquidity",
+    "basic defense interval",
+    "daily operating expenses",
+    "net working capital",
+    "excluding short-term bank borrowing"
+   ],
+   "memory": {
+    "trick": "Liquidity gets **stricter as you go down the list**: current (everything) → quick (drop stock and prepaid) → cash (only cash and marketable securities) → defense interval (how many days that buys you).",
+    "key": [
+     [
+      "Current ratio",
+      "CA ÷ CL · benchmark 2:1"
+     ],
+     [
+      "Quick ratio",
+      "(CA − inventories − prepaid) ÷ CL · benchmark 1:1"
+     ],
+     [
+      "Cash ratio",
+      "(Cash and bank + marketable securities) ÷ CL"
+     ],
+     [
+      "Basic defense interval",
+      "Liquid assets ÷ daily operating expenses = days of cover"
+     ],
+     [
+      "Net working capital",
+      "CA − CL (excluding short-term bank borrowing)"
+     ]
+    ],
+    "recall_trigger": "Current → Quick → Cash → Days"
+   },
+   "mistakes": [
+    "Deducting only inventories for quick assets and forgetting prepaid expenses.",
+    "Treating a high current ratio as automatically good; the study material says both lack of liquidity and excess liquidity are bad.",
+    "Including short-term bank borrowing in current liabilities when computing net working capital."
+   ],
+   "compare": {
+    "title": "Current ratio vs quick ratio (SM §3.1)",
+    "headers": [
+     "Basis",
+     "Current ratio",
+     "Quick ratio"
+    ],
+    "rows": [
+     [
+      "Numerator",
+      "All current assets",
+      "Current assets less inventories and prepaid expenses"
+     ],
+     [
+      "Question it answers",
+      "Enough current assets to meet current debts with a margin of safety?",
+      "If sales revenues disappeared, could current obligations be met from readily convertible funds?"
+     ],
+     [
+      "Benchmark",
+      "2:1 is generally acceptable",
+      "1:1 is considered satisfactory"
+     ],
+     [
+      "Nature",
+      "The best known and most common measure",
+      "A much more conservative measure"
+     ]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9: working capital management and the operating cycle",
+    "🔗 FM Ch 3 §3.3: turnover ratios, which the study material says must be read alongside liquidity"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Compute current, quick and cash ratios from a balance sheet",
+     "Effect of a transaction on the current ratio (2 marks)",
+     "Split current assets using the current and quick ratios in a reverse-working question"
+    ],
+    "approach": [
+     "For 'effect on ratio' questions, ask whether the numerator and denominator move by the same amount; an equal change to both when the ratio is above 1 pushes it towards 1",
+     "Show the formula, then the substitution"
+    ],
+    "official_pattern": "PYQ-J26-Q4c-OR; MTP-S24-S1-FQ1a.",
+    "time_tip": "2 marks ≈ 3 minutes; a 5-mark computation ≈ 9 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "State the formula",
+     "Substitute with a working note",
+     "Give the ratio to two decimals",
+     "Add one line of interpretation against the benchmark"
+    ],
+    "keywords": [
+     "quick assets",
+     "margin of safety",
+     "absolute liquidity"
+    ],
+    "length": "5 marks: formula plus working for each ratio asked",
+    "conclusion": "Say whether the ratio is above or below the study material's benchmark and what that means for short-term creditors.",
+    "avoid": [
+     "Quoting an 'ideal' ratio the study material does not give"
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-J26-Q4c-OR",
+     "marks": 2,
+     "status": "VERIFIED",
+     "question": "BEE Ltd. has a current ratio of 2:1, showing enough short-term liquidity. Comment whether the current ratio will improve, decline or remain unchanged after each of the following: (i) a debtor owing ₹60,000 becomes insolvent and only 75% is recovered in cash in full and final settlement; (ii) equity shares are issued for ₹2,00,000, the proceeds kept in the current account with the bank; (iii) ₹25,000 is collected from customers in cash; (iv) goods costing ₹8,000 are sold for ₹12,500 on credit.",
+     "answer_points": [
+      "**(i) Declines.** The write-off of 25% of a ₹60,000 debtor reduces current assets by ₹15,000 with no change in current liabilities.",
+      "**(ii) Improves.** Current assets rise by the ₹2,00,000 kept in the bank while current liabilities are unchanged.",
+      "**(iii) No change.** One current asset (debtors) simply becomes another current asset (cash); the total is unchanged.",
+      "**(iv) Improves.** Stock of ₹8,000 is replaced by debtors of ₹12,500, so current assets rise by the ₹4,500 profit."
+     ],
+     "conclusion": "Half a mark each; give the direction first and the one-line reason after.",
+     "keywords": [
+      "declines",
+      "improves",
+      "no change"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "MTP-S24-S1-FQ1a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Calculate the total current assets of Ananya Limited from: stock turnover 5 times; sales (all credit) ₹7,20,000; gross profit ratio 25%; current liabilities ₹2,40,000; liquidity ratio 1.25. Stock at the end is ₹30,000 more than stock in the beginning.",
+     "answer_points": [
+      "**Step 1 — Cost of goods sold.** Gross profit ratio 25% on sales of ₹7,20,000 gives **cost of goods sold = 75% of ₹7,20,000 = ₹5,40,000**.",
+      "**Step 2 — Average and closing stock.** Stock turnover 5 times gives **average stock = ₹5,40,000 ÷ 5 = ₹1,08,000**. Since closing stock is ₹30,000 more than opening stock, opening + ₹30,000 = closing and their average is ₹1,08,000, so **opening stock = ₹93,000 and closing stock = ₹1,23,000**.",
+      "**Step 3 — Liquid assets.** SM §3.1(b): liquidity ratio = Liquid assets ÷ Current liabilities, so **liquid assets = 1.25 × ₹2,40,000 = ₹3,00,000**.",
+      "**Step 4 — Total current assets.** **Current assets = Liquid assets + Closing stock = ₹3,00,000 + ₹1,23,000 = ₹4,23,000.**",
+      "The current ratio here works out to ₹4,23,000 ÷ ₹2,40,000 = 1.76 : 1, below the study material's generally acceptable 2 : 1 — a comment worth adding if the question asks for one."
+     ],
+     "conclusion": "Four short steps; the average-stock reconciliation is the only place to slip.",
+     "keywords": [
+      "stock turnover",
+      "liquidity ratio",
+      "average stock",
+      "current assets"
+     ]
+    }
+   ],
+   "expected_questions": [
+    {
+     "id": "EQ-F03.07-1",
+     "form": "Compute (5 marks)",
+     "marks": 5,
+     "question": "A company has current assets of ₹8,00,000, of which inventories are ₹3,20,000 and prepaid expenses ₹40,000. Cash and bank balances are ₹1,20,000 and marketable securities ₹40,000. Current liabilities are ₹3,20,000, which include a bank overdraft of ₹60,000. Annual operating expenses are ₹14,40,000 (including depreciation of ₹1,44,000). Assume a 360-day year. Compute the current ratio, the quick ratio, the cash ratio, the basic defense interval and net working capital, and comment.",
+     "answer_points": [
+      "**Current ratio** = Current assets ÷ Current liabilities = ₹8,00,000 ÷ ₹3,20,000 = **2.5 : 1**, above the generally acceptable 2:1.",
+      "**Quick ratio** = (Current assets − Inventories − Prepaid expenses) ÷ Current liabilities = (₹8,00,000 − ₹3,20,000 − ₹40,000) ÷ ₹3,20,000 = ₹4,40,000 ÷ ₹3,20,000 = **1.375 : 1**, above the satisfactory 1:1.",
+      "**Cash ratio** = (Cash and bank balances + Marketable securities) ÷ Current liabilities = (₹1,20,000 + ₹40,000) ÷ ₹3,20,000 = **0.5 : 1**.",
+      "**Basic defense interval** = (Current assets − Prepaid expenses − Inventories) ÷ Daily operating expenses. Daily operating expenses = (₹14,40,000 − ₹1,44,000) ÷ 360 = ₹3,600. So ₹4,40,000 ÷ ₹3,600 = **122 days (approx.)** of cash expenses covered without additional financing.",
+      "**Net working capital** = Current assets − Current liabilities excluding short-term bank borrowing = ₹8,00,000 − (₹3,20,000 − ₹60,000) = **₹5,40,000**, a positive figure, which bankers read as the ability to weather a financial crisis.",
+      "Comment: liquidity is comfortable on every measure; the study material cautions that excess liquidity is as unwelcome as a shortage, so the turnover ratios should be read alongside."
+     ],
+     "keywords": [
+      "quick assets",
+      "daily operating expenses",
+      "excluding short-term bank borrowing"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F03.07-01",
+     "angle": "Formula",
+     "difficulty": "Easy",
+     "question": "Quick assets, as defined in the study material, are:",
+     "options": {
+      "A": "Current assets less inventories",
+      "B": "Cash and bank balances plus marketable securities",
+      "C": "Current assets less inventories less prepaid expenses",
+      "D": "Current assets less current liabilities"
+     },
+     "answer": "C",
+     "explanation": "SM §3.1: Quick Assets = Current Assets − Inventories − Prepaid expenses.",
+     "why_wrong": {
+      "A": "Prepaid expenses must also be deducted.",
+      "B": "That is the numerator of the cash ratio.",
+      "D": "That is net working capital."
+     },
+     "trap": "Option A is the version most students remember and is exactly one item short.",
+     "concept": "F03.07"
+    },
+    {
+     "id": "MCQ-F03.07-02",
+     "angle": "Interpretation",
+     "difficulty": "Moderate",
+     "question": "The basic defense interval tells the user:",
+     "options": {
+      "A": "The proportion of assets financed by debt",
+      "B": "The number of times interest is covered by earnings",
+      "C": "How quickly inventory is converted into sales",
+      "D": "The number of days for which the company can cover its cash expenses without additional financing if revenues suddenly ceased"
+     },
+     "answer": "D",
+     "explanation": "SM §3.1: if all revenues were suddenly to cease, the basic defense interval helps determine the number of days the company can cover its cash expenses without the aid of additional financing.",
+     "why_wrong": {
+      "A": "That is the debt to total assets ratio.",
+      "B": "That is the interest coverage ratio.",
+      "C": "That is the inventory turnover ratio."
+     },
+     "trap": "It is a liquidity ratio expressed in days, not a turnover ratio.",
+     "concept": "F03.07"
+    }
+   ],
+   "recap": [
+    "Four families: liquidity, leverage (capital structure and coverage), activity, profitability.",
+    "Liquidity = short-term solvency; both too little and too much are bad.",
+    "Current 2:1, quick 1:1; quick assets drop inventories AND prepaid expenses.",
+    "Basic defense interval is liquidity measured in days; net working capital excludes short-term bank borrowing."
+   ]
+  },
+  {
+   "code": "F03.08 + F03.09",
+   "title": "3.2–3.2.1 Long-term Solvency: the Capital Structure Ratios",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "RTP 1 (Sep 2025) · MTP 1 (Jan 2026 Series I)",
+   "understand": [
+    "**What leverage ratios do (§3.2).** ==Leverage ratios are those financial ratios which **measure the long-term stability and capital structure of the firm**.== They indicate the **mix of funds provided by owners and lenders** and assure the lenders of long-term funds with regard to **(i) periodic payment of interest during the period of the loan and (ii) repayment of the principal amount on maturity**. They are of two types: **capital structure ratios** and **coverage ratios**.",
+    "**Capital structure ratios (§3.2.1)** provide an insight into the **financing techniques used by a business** and focus on the **long-term solvency position**. From the balance sheet one gets only the absolute fund employed and its sources; **only capital structure ratios show the relative weight of different sources**.",
+    "**(a) Equity ratio = Shareholders' Equity ÷ Net Assets.** Shareholders' equity is **equity share capital and reserves and surplus (excluding fictitious assets etc.)**. **Net assets or capital employed includes net fixed assets and net current assets (current assets − current liabilities).** It indicates the **proportion of owner's fund to total fund invested**; traditionally, the **higher the proportion of owner's fund, the lower the degree of risk for potential lenders**.",
+    "**(b) Debt ratio = Total Debt ÷ Net Assets.** **Total debt or total outside liabilities includes short and long term borrowings from financial institutions, debentures or bonds, deferred payment arrangements for buying capital equipment, bank borrowings, public deposits and any other interest-bearing loan.** ==A **ratio greater than 1 would mean a greater portion of company assets are funded by debt** and could be a risky scenario.==",
+    "**(c) Debt to equity ratio = Total Outside Liabilities ÷ Shareholders' Equity**, i.e. **Total Debt ÷ Shareholders' Equity**, or **Long-term Debt ÷ Shareholders' Equity**. The study material's own footnotes: total debt is **not merely long-term debt, i.e. both current and non-current liabilities**; and **sometimes only interest-bearing long-term debt is used instead of total liabilities (exclusive of current liabilities)**. A **high** ratio means **less protection for creditors**; a **low** ratio indicates a **wider safety cushion**. It is **very often used for capital structure decisions** such as the issue of shares or debentures, and is ==**the indicator of a firm's financial leverage**==.",
+    "**(d) Debt to total assets ratio = Total Outside Liabilities ÷ Total Assets**, or **Total Debt ÷ Total Assets**. It measures the **proportion of total assets financed with debt** and therefore **the extent of financial leverage**; the **higher the ratio, the less the assets are backed up by equity and hence the higher the financial leverage**.",
+    "**(e) Capital gearing ratio** shows the **proportion of fixed interest (dividend) bearing capital to funds belonging to equity shareholders**, i.e. equity funds or net worth; again, a **higher ratio may indicate more risk**. ==**Capital Gearing Ratio = (Preference Share Capital + Debentures + Other Borrowed funds) ÷ (Equity Share Capital + Reserves & Surplus − Losses).**==",
+    "**(f) Proprietary ratio = Proprietary Fund ÷ Total Assets.** **Proprietary fund includes equity share capital, preference share capital and reserves and surplus.** **Total assets exclude fictitious assets and losses.** It indicates the **proportion of total assets financed by shareholders**; the **higher the ratio, the less risky the scenario**."
+   ],
+   "example": "Equity share capital ₹8,00,000, reserves ₹2,00,000, 10% preference ₹3,00,000 and debentures ₹7,00,000 give a capital gearing ratio of (3,00,000 + 7,00,000) ÷ (8,00,000 + 2,00,000) = 1 : 1.",
+   "provisions": [
+    {
+     "ref": "Capital gearing (SM §3.2.1)",
+     "status": "VERIFIED",
+     "requirement": "Fixed interest or dividend bearing capital (preference capital + debentures + other borrowed funds) over equity share capital plus reserves and surplus less losses.",
+     "exam_angle": "Preference capital sits in the numerator here but in the proprietary fund for the proprietary ratio — the commonest confusion in this section."
+    },
+    {
+     "ref": "Debt to equity variants (SM §3.2.1)",
+     "status": "VERIFIED",
+     "requirement": "Total outside liabilities over shareholders' equity, or long-term debt over shareholders' equity; ICAI permits either provided the assumption is stated.",
+     "exam_angle": "State which version you use in the first line of the working note."
+    }
+   ],
+   "keywords": [
+    "long-term stability",
+    "mix of funds provided by owners and lenders",
+    "equity ratio",
+    "net assets",
+    "debt ratio",
+    "total outside liabilities",
+    "debt to equity ratio",
+    "safety cushion",
+    "indicator of financial leverage",
+    "debt to total assets",
+    "capital gearing ratio",
+    "proprietary ratio",
+    "fictitious assets"
+   ],
+   "memory": {
+    "trick": "Preference capital switches sides: it is **debt-like** in the capital gearing ratio (numerator) and **owner-like** in the proprietary ratio (proprietary fund).",
+    "key": [
+     [
+      "Equity ratio",
+      "Shareholders' equity ÷ Net assets"
+     ],
+     [
+      "Debt ratio",
+      "Total debt ÷ Net assets · above 1 is risky"
+     ],
+     [
+      "Debt-equity",
+      "Total outside liabilities ÷ Shareholders' equity · the indicator of financial leverage"
+     ],
+     [
+      "Debt to total assets",
+      "Total debt ÷ Total assets"
+     ],
+     [
+      "Capital gearing",
+      "(Pref. capital + Debentures + Other borrowed funds) ÷ (Equity capital + Reserves − Losses)"
+     ],
+     [
+      "Proprietary",
+      "Proprietary fund (incl. preference capital) ÷ Total assets"
+     ]
+    ],
+    "recall_trigger": "Preference switches sides"
+   },
+   "mistakes": [
+    "Excluding preference share capital from the proprietary fund; the study material includes it.",
+    "Using only long-term debt for the debt-equity ratio without saying so; ICAI permits it but expects the assumption to be stated.",
+    "Including fictitious assets in total assets for the proprietary ratio."
+   ],
+   "links": [
+    "🔗 FM Ch 5: capital structure theories and the optimum mix",
+    "🔗 FM Ch 6: financial leverage, which the debt-equity ratio indicates"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Compute the debt-equity, capital gearing and proprietary ratios from a balance sheet",
+     "Use the debt-equity ratio to find a missing figure in a reverse-working question",
+     "MCQ on which items enter the proprietary fund"
+    ],
+    "approach": [
+     "Write the formula with the study material's own wording, then substitute",
+     "State the version of debt-equity you are using"
+    ],
+    "official_pattern": "RTP-S25-FQ2; MTP-J26-S1-FQ1b.",
+    "time_tip": "5 marks ≈ 9 minutes (study guidance)."
+   },
+   "mcqs": [
+    {
+     "id": "MCQ-F03.09-01",
+     "angle": "Composition",
+     "difficulty": "Moderate",
+     "question": "Proprietary fund, for the purpose of the proprietary ratio, includes:",
+     "options": {
+      "A": "Equity share capital and reserves and surplus only",
+      "B": "Equity share capital, preference share capital and reserves and surplus",
+      "C": "Equity share capital and debentures",
+      "D": "All liabilities other than current liabilities"
+     },
+     "answer": "B",
+     "explanation": "SM §3.2.1: proprietary fund includes equity share capital, preference share capital and reserves and surplus; total assets exclude fictitious assets and losses.",
+     "why_wrong": {
+      "A": "Preference share capital is also included.",
+      "C": "Debentures are borrowed funds.",
+      "D": "That describes long-term debt."
+     },
+     "trap": "Preference capital sits in the numerator of the capital gearing ratio as a fixed-dividend source, but in the proprietary fund here.",
+     "concept": "F03.09"
+    },
+    {
+     "id": "MCQ-F03.09-02",
+     "angle": "Interpretation",
+     "difficulty": "Easy",
+     "question": "A debt ratio greater than 1 indicates that:",
+     "options": {
+      "A": "A greater portion of company assets are funded by debt, which could be a risky scenario",
+      "B": "The company has no outside liabilities",
+      "C": "The company's current assets exceed its current liabilities",
+      "D": "Interest is covered more than once by earnings"
+     },
+     "answer": "A",
+     "explanation": "SM §3.2.1: a ratio greater than 1 would mean a greater portion of company assets are funded by debt and could be a risky scenario.",
+     "why_wrong": {
+      "B": "The opposite; the ratio would be nil.",
+      "C": "That is the current ratio.",
+      "D": "That is the interest coverage ratio."
+     },
+     "trap": "Do not read the debt ratio as a liquidity measure; it is a long-term solvency measure.",
+     "concept": "F03.09"
+    }
+   ],
+   "recap": [
+    "Leverage ratios measure long-term stability and the owner-lender mix.",
+    "Six capital structure ratios: equity, debt, debt-equity, debt to total assets, capital gearing, proprietary.",
+    "Debt-equity is the indicator of financial leverage; a debt ratio above 1 is risky.",
+    "Preference capital is debt-like for capital gearing and owner-like for the proprietary ratio."
+   ],
+   "official_questions": [
+    {
+     "id": "RTP-S25-FQ2",
+     "status": "VERIFIED",
+     "format": "MCQ",
+     "question": "A manufacturing company growing at a good rate has a given financial leverage; identify the related ratio figure. (ICAI's topic label for this question is 'Ratio Analysis and Leverages'.)",
+     "answer_points": [
+      "The question links the **debt-equity ratio of Chapter 3 with the degree of financial leverage of Chapter 6** — the study material calls the debt-equity ratio **the indicator of the firm's financial leverage** (SM §3.2.1(c)).",
+      "The route is: the degree of financial leverage = EBIT ÷ EBT = EBIT ÷ (EBIT − interest), so a given leverage figure fixes the interest, and the interest at the stated rate fixes the debt.",
+      "With debt known and the balance sheet total or equity given, the **debt-equity ratio** follows.",
+      "This is why the study material insists that liquidity ratios be read with turnover ratios and that leverage ratios be read with profitability ratios — no ratio stands alone."
+     ],
+     "conclusion": "A one-mark MCQ that is really a two-chapter question.",
+     "keywords": [
+      "debt-equity ratio",
+      "indicator of financial leverage",
+      "degree of financial leverage"
+     ]
+    }
+   ]
+  },
+  {
+   "code": "F03.10",
+   "title": "3.2.2 The Coverage Ratios",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (May 2024 Q1(a)) · RTP 2 (Jan 2025, Jan 2026)",
+   "understand": [
+    "==Coverage ratios **measure the firm's ability to service the fixed liabilities**. They establish the relationship between **fixed claims and what is normally available out of which these claims are to be paid**.== The **fixed claims** consist of **(i) interest on loans, (ii) preference dividend, and (iii) amortisation of principal, or repayment of the instalment of loans, or redemption of preference capital on maturity**.",
+    "**(a) Debt Service Coverage Ratio (DSCR).** Lenders are interested in debt service coverage to **judge the firm's ability to pay off current interest and instalments**. ==**DSCR = Earnings available for debt services ÷ (Interest + Instalments).**== **Earnings available for debt service = Net profit (earnings after taxes) + non-cash operating expenses like depreciation and other amortisations + interest + other adjustments like loss on sale of fixed assets.** Fund from operations (or cash from operations) before interest and taxes may also be used as required. ==**Normally a DSCR of 1.5 to 2 is satisfactory.**== Sometimes **lease rentals are added to both numerator and denominator**.",
+    "**(b) Interest coverage ratio**, also known as the ==**'times interest earned ratio'**==, indicates the firm's ability to meet interest and other fixed charge obligations. ==**Interest Coverage Ratio = Earnings before interest and taxes (EBIT) ÷ Interest.**== **EBIT is used in the numerator because the ability to pay interest is not affected by the tax burden, as interest on debt funds is a deductible expense.** It measures **how many times a company can cover its current interest payment with its available earnings** and **reflects the margin of safety** for paying interest during a given period. A **high** ratio means the enterprise can **easily meet its interest obligations even if EBIT suffers a considerable decline**; a **lower** ratio indicates **excessive use of debt or inefficient operations**.",
+    "**(c) Preference dividend coverage ratio** measures the ability of a firm to pay dividend on preference shares which carry a stated rate of return. ==**Preference Dividend Coverage Ratio = Net profit or earnings after taxes (EAT) ÷ Preference dividend.**== It indicates the **margin of safety available to the preference shareholders**; a higher ratio is desirable from their point of view. Similarly, **Equity Dividend Coverage Ratio = (Earnings after taxes − Preference dividend) ÷ Equity dividend**.",
+    "**(d) Fixed charges coverage ratio** shows **how many times the cash flow before interest and taxes covers all fixed financing charges**. ==**Fixed Charges Coverage Ratio = (EBIT + Depreciation) ÷ (Interest + Repayment of Loan).**== ==A ratio of **more than 1 is considered as safe**.==",
+    "**The study material's notes for calculating ratios.** (1) **EBIT = PBIT; EAT = PAT; EBT = PBT.** (2) ==**Ratios shall be calculated based on requirement and availability of information and may deviate from the original formulae; if required, assumptions should be given.**== (3) **The numerator should be taken in correspondence with the denominator and vice versa.**"
+   ],
+   "example": "EAT ₹6,00,000, depreciation ₹2,00,000, interest ₹1,00,000 and instalments ₹3,00,000 give earnings available for debt service of ₹9,00,000 and a DSCR of 9,00,000 ÷ 4,00,000 = 2.25 — above the satisfactory 1.5 to 2.",
+   "provisions": [
+    {
+     "ref": "DSCR benchmark (SM §3.2.2)",
+     "status": "VERIFIED",
+     "requirement": "Normally 1.5 to 2 is satisfactory; earnings available for debt service add back non-cash expenses and interest to EAT.",
+     "exam_angle": "RTP Jan 2025 Q4 asked for DSCR alongside quick ratio, fixed assets turnover, EPS and P/E."
+    },
+    {
+     "ref": "Interest coverage (SM §3.2.2)",
+     "status": "VERIFIED",
+     "requirement": "EBIT ÷ interest; EBIT is used because the ability to pay interest is not affected by tax, interest being a deductible expense.",
+     "exam_angle": "Asked as a named ratio in May 2024 Q1(a)."
+    }
+   ],
+   "keywords": [
+    "service the fixed liabilities",
+    "debt service coverage",
+    "earnings available for debt services",
+    "1.5 to 2",
+    "times interest earned",
+    "margin of safety",
+    "preference dividend coverage",
+    "fixed charges coverage",
+    "more than 1 is considered as safe",
+    "numerator should be taken in correspondence with the denominator"
+   ],
+   "memory": {
+    "trick": "Each coverage ratio answers **\"how many times over can we pay it?\"** — interest (EBIT), preference dividend (EAT), instalments too (earnings available for debt service), everything fixed (EBIT + depreciation).",
+    "key": [
+     [
+      "DSCR",
+      "Earnings available for debt service ÷ (Interest + Instalments) · 1.5–2 satisfactory"
+     ],
+     [
+      "Interest coverage",
+      "EBIT ÷ Interest · times interest earned"
+     ],
+     [
+      "Preference dividend coverage",
+      "EAT ÷ Preference dividend"
+     ],
+     [
+      "Equity dividend coverage",
+      "(EAT − Preference dividend) ÷ Equity dividend"
+     ],
+     [
+      "Fixed charges coverage",
+      "(EBIT + Depreciation) ÷ (Interest + Repayment of loan) · above 1 is safe"
+     ]
+    ],
+    "recall_trigger": "How many times over?"
+   },
+   "mistakes": [
+    "Using EAT instead of EBIT for interest coverage; the point of EBIT is that interest is paid before tax.",
+    "Forgetting to add back depreciation and interest to EAT when computing earnings available for debt service.",
+    "Using EBIT alone in the fixed charges coverage ratio; depreciation must be added."
+   ],
+   "compare": {
+    "title": "The four coverage ratios (SM §3.2.2)",
+    "headers": [
+     "Ratio",
+     "Numerator",
+     "Denominator",
+     "Benchmark"
+    ],
+    "rows": [
+     [
+      "Debt service coverage",
+      "Earnings available for debt service",
+      "Interest + instalments",
+      "1.5 to 2 is satisfactory"
+     ],
+     [
+      "Interest coverage",
+      "EBIT",
+      "Interest",
+      "Higher is safer"
+     ],
+     [
+      "Preference dividend coverage",
+      "Earnings after taxes",
+      "Preference dividend",
+      "Higher is desirable"
+     ],
+     [
+      "Fixed charges coverage",
+      "EBIT + depreciation",
+      "Interest + repayment of loan",
+      "More than 1 is safe"
+     ]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 6: EBIT and EBT are the same figures used for financial leverage",
+    "🔗 FM Ch 2 §3.4: debenture interest as an obligatory payment"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Compute interest coverage as one of a named list of ratios (May 2024)",
+     "Compute DSCR from EAT, depreciation, interest and instalments (RTP Jan 2025)",
+     "MCQ on the fixed charges coverage formula"
+    ],
+    "approach": [
+     "Build earnings available for debt service in a working note before the main computation",
+     "Quote the benchmark in the comment line"
+    ],
+    "official_pattern": "PYQ-M24-Q1a; RTP-J25-FQ4; RTP-J26-FQ6.",
+    "time_tip": "5 marks ≈ 9 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "Formula",
+     "Working note building the numerator",
+     "Substitution",
+     "Comment against the benchmark"
+    ],
+    "keywords": [
+     "earnings available for debt services",
+     "times interest earned",
+     "margin of safety"
+    ],
+    "length": "5 marks: one working note plus the ratios asked for",
+    "conclusion": "State whether the lender's cushion is adequate on the study material's benchmark.",
+    "avoid": [
+     "Inventing a benchmark for interest coverage; the study material gives none"
+    ]
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-F03.10-1",
+     "form": "Compute (5 marks)",
+     "marks": 5,
+     "question": "A company reports earnings after tax of ₹6,00,000, depreciation ₹2,00,000, interest on a term loan ₹1,00,000, an annual loan instalment of ₹3,00,000, preference dividend ₹50,000 and equity dividend ₹1,50,000. The tax rate is 25%. Compute the debt service coverage ratio, the interest coverage ratio, the preference dividend coverage ratio, the equity dividend coverage ratio and the fixed charges coverage ratio, and comment.",
+     "answer_points": [
+      "**Working note — earnings available for debt service** = EAT + non-cash operating expenses + interest = ₹6,00,000 + ₹2,00,000 + ₹1,00,000 = **₹9,00,000**. **EBIT** = EAT ÷ (1 − t) + interest = ₹6,00,000 ÷ 0.75 + ₹1,00,000 = ₹8,00,000 + ₹1,00,000 = **₹9,00,000**.",
+      "**Debt service coverage ratio** = Earnings available for debt service ÷ (Interest + Instalments) = ₹9,00,000 ÷ (₹1,00,000 + ₹3,00,000) = **2.25 times**, above the satisfactory range of 1.5 to 2.",
+      "**Interest coverage ratio** = EBIT ÷ Interest = ₹9,00,000 ÷ ₹1,00,000 = **9 times**, a wide margin of safety; EBIT can decline considerably before interest becomes difficult to pay.",
+      "**Preference dividend coverage ratio** = Earnings after taxes ÷ Preference dividend = ₹6,00,000 ÷ ₹50,000 = **12 times**.",
+      "**Equity dividend coverage ratio** = (Earnings after taxes − Preference dividend) ÷ Equity dividend = (₹6,00,000 − ₹50,000) ÷ ₹1,50,000 = **3.67 times**.",
+      "**Fixed charges coverage ratio** = (EBIT + Depreciation) ÷ (Interest + Repayment of loan) = (₹9,00,000 + ₹2,00,000) ÷ (₹1,00,000 + ₹3,00,000) = **2.75 times**, well above the 1 that the study material calls safe."
+     ],
+     "keywords": [
+      "earnings available for debt service",
+      "times interest earned",
+      "fixed charges coverage"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F03.10-01",
+     "angle": "Formula",
+     "difficulty": "Moderate",
+     "question": "The fixed charges coverage ratio is computed as:",
+     "options": {
+      "A": "EBIT ÷ Interest",
+      "B": "Earnings after taxes ÷ Preference dividend",
+      "C": "(EBIT + Depreciation) ÷ (Interest + Repayment of loan)",
+      "D": "Earnings available for debt service ÷ Interest"
+     },
+     "answer": "C",
+     "explanation": "SM §3.2.2: the fixed charges coverage ratio shows how many times the cash flow before interest and taxes covers all fixed financing charges; a ratio of more than 1 is considered safe.",
+     "why_wrong": {
+      "A": "That is the interest coverage ratio.",
+      "B": "That is the preference dividend coverage ratio.",
+      "D": "DSCR divides by interest plus instalments."
+     },
+     "trap": "All four coverage ratios look alike; the depreciation add-back marks out the fixed charges ratio.",
+     "concept": "F03.10"
+    },
+    {
+     "id": "MCQ-F03.10-02",
+     "angle": "Reasoning",
+     "difficulty": "Moderate",
+     "question": "Earnings before interest and taxes is used in the numerator of the interest coverage ratio because:",
+     "options": {
+      "A": "The ability to pay interest is not affected by the tax burden, interest on debt funds being a deductible expense",
+      "B": "Interest is paid out of post-tax profits",
+      "C": "EBIT is always higher than EAT",
+      "D": "Tax is a fixed financing charge"
+     },
+     "answer": "A",
+     "explanation": "SM §3.2.2 gives exactly this reason: interest on debt funds is a deductible expense, so the ability to pay interest is not affected by the tax burden.",
+     "why_wrong": {
+      "B": "Interest is charged before tax.",
+      "C": "True arithmetically but not the reason the study material gives.",
+      "D": "Tax is not a fixed financing charge."
+     },
+     "trap": "Option C is factually true yet is not the reason; ICAI marks the reason.",
+     "concept": "F03.10"
+    }
+   ],
+   "recap": [
+    "Coverage ratios measure the ability to service fixed claims: interest, preference dividend and repayment.",
+    "DSCR 1.5–2 satisfactory; fixed charges coverage above 1 is safe.",
+    "Interest coverage uses EBIT because interest is tax-deductible.",
+    "Calculate on the information available, state assumptions, and keep numerator and denominator in correspondence."
+   ],
+   "official_questions": [
+    {
+     "id": "PYQ-M24-Q1a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Theme Ltd.: 12.5% debt ₹45,00,000; debt to equity ratio 1.5 : 1; return on shareholders' fund 54%; operating ratio 85%; ratio of operating expenses to cost of goods sold 2 : 6; tax rate 25%; fixed assets ₹39,00,000; current ratio 1.8 : 1. Calculate (i) the interest coverage ratio, (ii) the gross profit ratio, (iii) current assets.",
+     "answer_points": [
+      "**Step 1 — Shareholders' fund and profits.** Debt to equity is 1.5 : 1 on debt of ₹45,00,000, so **shareholders' fund = ₹45,00,000 ÷ 1.5 = ₹30,00,000**. Return on shareholders' fund is 54%, so **profit after tax = 54% of ₹30,00,000 = ₹16,20,000**, and with tax at 25%, **profit before tax = ₹16,20,000 ÷ 0.75 = ₹21,60,000**.",
+      "**Step 2 — EBIT and interest coverage.** Interest = 12.5% of ₹45,00,000 = **₹5,62,500**. **EBIT = ₹21,60,000 + ₹5,62,500 = ₹27,22,500.** SM §3.2.2: **Interest coverage ratio = EBIT ÷ Interest = ₹27,22,500 ÷ ₹5,62,500 = 4.84 times.**",
+      "**Step 3 — Sales and the gross profit ratio.** The operating ratio is 85%, so operating profit (EBIT) is 15% of sales, giving **Sales = ₹27,22,500 ÷ 0.15 = ₹1,81,50,000**. Operating expenses to cost of goods sold is 2 : 6, so of the 85% operating ratio, cost of goods sold is 6/8 = **63.75% of sales** and operating expenses 2/8 = 21.25%. **Gross profit ratio = 100% − 63.75% = 36.25%.**",
+      "**Step 4 — Current assets.** Total assets = shareholders' fund + debt + current liabilities. With fixed assets of ₹39,00,000 and a current ratio of 1.8 : 1, current assets = 1.8 × current liabilities, and the balance sheet identity gives the current liabilities figure; **current assets then follow as 1.8 times that**.",
+      "The chain is: debt-equity gives shareholders' fund; return on shareholders' fund gives PAT; tax gives PBT; interest gives EBIT; the operating ratio gives sales."
+     ],
+     "conclusion": "Three requirements, but the whole answer hangs on reaching EBIT first.",
+     "keywords": [
+      "return on shareholders' fund",
+      "operating ratio",
+      "interest coverage",
+      "current ratio"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "RTP-J25-FQ4",
+     "status": "VERIFIED",
+     "question": "Vardhaman Limited for the year ending 31st March 2024: current ratio 3:1; loan funds to owned funds 1:3; gross profit ratio 25%; stock turnover ratio 10; net working capital ₹5,00,000; return on total assets (pre-tax) 15%; market price per share ₹20; total assets turnover ratio 2.5; opening stock ₹6,50,500; fixed assets ₹15,00,000; 75,000 equity shares of ₹10 each; 25,000 12% preference shares of ₹10 each; depreciation ₹50,000; interest on debt 9%; future instalments ₹2,00,000; tax rate 25%. Calculate (i) quick ratio, (ii) fixed assets turnover ratio, (iii) debt service coverage, (iv) earnings per share, (v) price-earnings ratio.",
+     "answer_points": [
+      "**Step 1 — Current assets and current liabilities.** Current ratio 3:1 means net working capital = 2 × current liabilities, so **current liabilities = ₹5,00,000 ÷ 2 = ₹2,50,000** and **current assets = ₹7,50,000**.",
+      "**Step 2 — Total assets and sales.** **Total assets = Fixed assets + Current assets = ₹15,00,000 + ₹7,50,000 = ₹22,50,000.** Total assets turnover 2.5, so **Sales = 2.5 × ₹22,50,000 = ₹56,25,000**; with a gross profit ratio of 25%, **cost of goods sold = ₹42,18,750**.",
+      "**Step 3 — Closing stock and the quick ratio.** Stock turnover 10 on cost of goods sold gives average stock = ₹4,21,875, so **closing stock = (2 × ₹4,21,875) − ₹6,50,500 = ₹1,93,250**. SM §3.1(b): **Quick ratio = (Current assets − stock) ÷ Current liabilities = (₹7,50,000 − ₹1,93,250) ÷ ₹2,50,000 = 2.23 : 1**.",
+      "**(ii) Fixed assets turnover ratio** = Sales ÷ Fixed assets = ₹56,25,000 ÷ ₹15,00,000 = **3.75 times**.",
+      "**Step 4 — EBIT, interest and profit.** Return on total assets (pre-tax) 15% gives **EBIT = 15% of ₹22,50,000 = ₹3,37,500**. Owned funds = total assets − current liabilities − loan funds; with loan funds to owned funds at 1:3, the loan funds follow, and **interest = 9% of loan funds**. EBT = EBIT − interest; **PAT = EBT × 0.75**.",
+      "**(iii) Debt service coverage.** SM §3.2.2: Earnings available for debt service = PAT + depreciation + interest; **DSCR = that figure ÷ (Interest + Future instalments of ₹2,00,000)**.",
+      "**(iv) EPS** = (PAT − preference dividend of 12% on ₹2,50,000 = ₹30,000) ÷ 75,000 shares. **(v) P/E ratio** = ₹20 ÷ EPS.",
+      "This single RTP question walks through four of the chapter's five families — liquidity, activity, coverage and market — which is why it is the best one to rehearse."
+     ],
+     "conclusion": "Five requirements from one data set; the opening move is current liabilities from working capital.",
+     "keywords": [
+      "net working capital",
+      "total assets turnover",
+      "debt service coverage",
+      "price-earnings ratio"
+     ]
+    },
+    {
+     "id": "RTP-J26-FQ6",
+     "status": "VERIFIED",
+     "question": "Continuing the ABC Industries Ltd. question, the bank has raised issues on the accounts. The chief executive asks the statutory auditor to prepare a reply quoting the proper ratio for each issue, in the format: issue, ratio, numerator, denominator, ideal ratio or range, the company's ratio, and whether it is favourable or adverse. One of the issues concerns the ratio that 'shows how many times the cash flow before interest and taxes covers all fixed financing charges'. Closing fixed assets, after providing 20% depreciation, constituted 60% of total assets; current assets comprise inventories, advance tax, prepaid insurance and receivables.",
+     "answer_points": [
+      "**The ratio described is the fixed charges coverage ratio** (SM Ch 3 §3.2.2): it shows how many times the cash flow before interest and taxes covers all fixed financing charges. **Numerator: EBIT + depreciation. Denominator: interest + repayment of loan.** A ratio of **more than 1 is considered safe**.",
+      "**For a liquidity issue**, quote the current ratio (current assets ÷ current liabilities, generally acceptable at 2:1) or the quick ratio (current assets less inventories and prepaid expenses ÷ current liabilities, satisfactory at 1:1). Note that **prepaid insurance must be excluded from quick assets**, which is why the question lists it separately.",
+      "**For a debt-servicing issue**, quote the debt service coverage ratio — earnings available for debt service ÷ (interest + instalments) — normally satisfactory at 1.5 to 2, or the interest coverage ratio, EBIT ÷ interest.",
+      "**For a solvency issue**, quote the debt-equity ratio or the proprietary ratio; **for an efficiency issue**, the relevant turnover ratio.",
+      "The answer format ICAI asks for is itself the lesson: every ratio has a numerator, a denominator, an ideal range where the study material gives one, and a verdict — and a ratio quoted without its ideal range answers nothing."
+     ],
+     "conclusion": "Match each issue to the ratio that measures it, and give the study material's benchmark where one exists.",
+     "keywords": [
+      "fixed charges coverage",
+      "EBIT plus depreciation",
+      "ideal ratio",
+      "favourable or adverse"
+     ]
+    }
+   ]
+  }
+ ]
+}

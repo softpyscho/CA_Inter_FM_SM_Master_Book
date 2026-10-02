@@ -1,0 +1,24 @@
+{
+  "title": "CA Intermediate · Paper 6 · Financial Management & Strategic Management — Master Book",
+  "attempt": "January 2027",
+  "sm_edition": "ICAI BoS Study Material relevant for May 2026 examination onwards — Paper 6A FM (Modules 1 & 2) and Paper 6B SM",
+  "built_on": "17-09-2026",
+  "last_verified": "17-09-2026",
+  "depth_mode": "STANDARD",
+  "chapter_plan": [
+    { "no": 1, "file": "Ch01", "section": "FM", "module": "Module 1", "title": "Scope and Objectives of Financial Management" },
+    { "no": 2, "file": "Ch02", "section": "FM", "module": "Module 1", "title": "Types of Financing" },
+    { "no": 3, "file": "Ch03", "section": "FM", "module": "Module 1", "title": "Financial Analysis and Planning – Ratio Analysis" },
+    { "no": 4, "file": "Ch04", "section": "FM", "module": "Module 1", "title": "Cost of Capital" },
+    { "no": 5, "file": "Ch05", "section": "FM", "module": "Module 1", "title": "Financing Decisions – Capital Structure" },
+    { "no": 6, "file": "Ch06", "section": "FM", "module": "Module 1", "title": "Financing Decisions – Leverages" },
+    { "no": 7, "file": "Ch07", "section": "FM", "module": "Module 2", "title": "Investment Decisions" },
+    { "no": 8, "file": "Ch08", "section": "FM", "module": "Module 2", "title": "Dividend Decision" },
+    { "no": 9, "file": "Ch09", "section": "FM", "module": "Module 2", "title": "Management of Working Capital" },
+    { "no": 1, "file": "Ch10", "section": "SM", "module": "Paper 6B", "title": "Introduction to Strategic Management" },
+    { "no": 2, "file": "Ch11", "section": "SM", "module": "Paper 6B", "title": "Strategic Analysis: External Environment" },
+    { "no": 3, "file": "Ch12", "section": "SM", "module": "Paper 6B", "title": "Strategic Analysis: Internal Environment" },
+    { "no": 4, "file": "Ch13", "section": "SM", "module": "Paper 6B", "title": "Strategic Choices" },
+    { "no": 5, "file": "Ch14", "section": "SM", "module": "Paper 6B", "title": "Strategy Implementation and Evaluation" }
+  ]
+}

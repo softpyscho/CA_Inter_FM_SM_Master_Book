@@ -1,0 +1,293 @@
+{
+ "chapter": "F01",
+ "note": "Internal register of every official question (atom) mapped to FM Chapter 1. Codes: primary first. Keys only for MCQs.",
+ "atoms": [
+  {
+   "id": "MTP-J25-S1-FQ4c",
+   "codes": [
+    "F01.07.01"
+   ],
+   "marks": 2,
+   "format": "Case analysis",
+   "src": "MTP-J25-S1 Q p7 / A p12"
+  },
+  {
+   "id": "MTP-J25-S2-FQ4b",
+   "codes": [
+    "F01.05"
+   ],
+   "marks": 4,
+   "format": "Descriptive",
+   "src": "MTP-J25-S2"
+  },
+  {
+   "id": "MTP-J26-S1-FQ4a",
+   "codes": [
+    "F01.11.01"
+   ],
+   "marks": 4,
+   "format": "Differentiate",
+   "src": "MTP-J26-S1 Q p7 / A p14"
+  },
+  {
+   "id": "MTP-J26-S2-FQ4c",
+   "codes": [
+    "F01.07.02"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-J26-S2"
+  },
+  {
+   "id": "MTP-M24-S1-FQ4a",
+   "codes": [
+    "F01.07.01"
+   ],
+   "marks": 4,
+   "format": "Descriptive",
+   "src": "MTP-M24-S1 Q p5 / A p6"
+  },
+  {
+   "id": "MTP-M24-S2-FQ4a",
+   "codes": [
+    "F01.04"
+   ],
+   "marks": 4,
+   "format": "Short note",
+   "src": "MTP-M24-S2 A p10"
+  },
+  {
+   "id": "MTP-M25-S1-FQ4a",
+   "codes": [
+    "F01.12"
+   ],
+   "marks": 4,
+   "format": "Descriptive",
+   "src": "MTP-M25-S1"
+  },
+  {
+   "id": "MTP-M25-S2-FQ4c",
+   "codes": [
+    "F01.08"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-M25-S2 Q p9"
+  },
+  {
+   "id": "MTP-M26-S1-FQ4a",
+   "codes": [
+    "F01.07.01"
+   ],
+   "marks": 4,
+   "format": "Comment",
+   "src": "MTP-M26-S1 Q p8 / A p11"
+  },
+  {
+   "id": "MTP-S24-S1-FQ4c-OR",
+   "codes": [
+    "F01.09"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-S24-S1 Q p6 / A p9-10"
+  },
+  {
+   "id": "MTP-S24-S2-FQ4a",
+   "codes": [
+    "F01.12"
+   ],
+   "marks": 4,
+   "format": "Descriptive",
+   "src": "MTP-S24-S2 Q p6 / A p8-9"
+  },
+  {
+   "id": "MTP-S25-S1-FQ4b",
+   "codes": [
+    "F01.10"
+   ],
+   "marks": 4,
+   "format": "Short note",
+   "src": "MTP-S25-S1 Q p9 / A p16-17"
+  },
+  {
+   "id": "MTP-S25-S2-FQ4a",
+   "codes": [
+    "F01.08",
+    "F01.07.02"
+   ],
+   "marks": 4,
+   "format": "Case analysis",
+   "src": "MTP-S25-S2 Q p9 / A p13"
+  },
+  {
+   "id": "MTP-S26-S1-FQ4c",
+   "codes": [
+    "F01.07.01"
+   ],
+   "marks": null,
+   "format": "Comment",
+   "src": "MTP-S26-S1 answer file only (question paper not on PC)"
+  },
+  {
+   "id": "MTP-S26-S2-FQ4a",
+   "codes": [
+    "F01.04"
+   ],
+   "marks": 4,
+   "format": "Short note",
+   "src": "MTP-S26-S2 A p10-11"
+  },
+  {
+   "id": "PYQ-J25-Q4b",
+   "codes": [
+    "F01.07.02"
+   ],
+   "marks": 4,
+   "format": "Descriptive",
+   "src": "SA-J25 p21-22"
+  },
+  {
+   "id": "PYQ-J26-Q4c",
+   "codes": [
+    "F01.10"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "SA-J26 p22-23"
+  },
+  {
+   "id": "PYQ-M24-Q4a",
+   "codes": [
+    "F01.07.02",
+    "F01.08",
+    "F01.10",
+    "F01.02.01"
+   ],
+   "marks": 4,
+   "format": "True/False with reasons",
+   "src": "SA-M24 p19-20"
+  },
+  {
+   "id": "PYQ-M25-Q4a",
+   "codes": [
+    "F01.12"
+   ],
+   "marks": 4,
+   "format": "Descriptive",
+   "src": "SA-M25_6A p23-24"
+  },
+  {
+   "id": "PYQ-M26-Q4c",
+   "codes": [
+    "F01.08",
+    "F01.07.02"
+   ],
+   "marks": 2,
+   "format": "Descriptive (table)",
+   "src": "SA-M26 p22-23"
+  },
+  {
+   "id": "PYQ-S24-Q2b",
+   "codes": [
+    "F01.02.01"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "SA-S24 Q2(b) angel financing"
+  },
+  {
+   "id": "PYQ-S25-Q4c",
+   "codes": [
+    "F01.04"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "SA-S25 p19"
+  },
+  {
+   "id": "PYQ-S25-Q4c-OR",
+   "codes": [
+    "F01.07.01"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "SA-S25 p19"
+  },
+  {
+   "id": "RTP-J25-FQ11a",
+   "codes": [
+    "F01.09.01"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-J25 p28-29 (list not in current SM)"
+  },
+  {
+   "id": "RTP-J26-FQ11d",
+   "codes": [
+    "F01.07.01",
+    "F01.08"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-J26 p25-26"
+  },
+  {
+   "id": "RTP-M24-FQ8-i",
+   "codes": [
+    "F01.07.02",
+    "F01.08"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-M24 p27-29"
+  },
+  {
+   "id": "RTP-M25-FQ10a",
+   "codes": [
+    "F01.07.02",
+    "F01.08"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-M25 p30"
+  },
+  {
+   "id": "RTP-M26-FQ10a",
+   "codes": [
+    "F01.02.01"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-M26 p27-28"
+  },
+  {
+   "id": "RTP-S24-FQ12a",
+   "codes": [
+    "F01.08"
+   ],
+   "marks": null,
+   "format": "Descriptive (table)",
+   "src": "RTP-S24 p29-30"
+  },
+  {
+   "id": "RTP-S25-FQ10a",
+   "codes": [
+    "F01.02.01"
+   ],
+   "marks": null,
+   "format": "Identify (match)",
+   "src": "RTP-S25"
+  },
+  {
+   "id": "RTP-S26-FQ10a",
+   "codes": [
+    "F01.05"
+   ],
+   "marks": null,
+   "format": "Case-based descriptive",
+   "src": "RTP-S26 answers 10(a)"
+  }
+ ]
+}

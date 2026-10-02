@@ -1,0 +1,155 @@
+{
+ "confusing": [
+  {"title": "Vision vs Mission", "headers": ["Basis", "Vision", "Mission"],
+   "rows": [["Question answered", "Where do we want to go?", "What business are we in and what do we do?"], ["Time", "Future position and time frame", "Present business scope; time-independent guide"], ["Content", "Aspirations, product-customer-market-technology focus", "Present capability, customer focus, activities, business make-up"], ["Stability", "Changes as the desired future changes", "Can remain the same for decades if crafted well"], ["Case clue", "'aspires to be', 'by 2030', 'leading creator of…'", "'exists to', 'provides…to customers', 'best user experience through timely delivery'"]],
+   "spot_it": "Both may sound inspiring. Ask: does the sentence describe a future position (vision) or today's business and customers (mission)?"},
+  {"title": "Goals vs Objectives", "headers": ["Basis", "Goals", "Objectives"],
+   "rows": [["Nature", "Open-ended attributes denoting future states or outcomes", "Close-ended attributes, precise and in specific terms"], ["Measurement", "End results attempted", "Time-based measurable targets; yardsticks of performance"], ["Usage", "Often used interchangeably in practice", "Often used interchangeably in practice"]],
+   "spot_it": "Percentages, deadlines and year-on-year growth in the facts point to objectives."},
+  {"title": "Proactive vs Reactive strategy", "headers": ["Basis", "Proactive", "Reactive"],
+   "rows": [["Meaning", "Planned and deliberate actions to improve market position and performance", "Adaptive responses to unforeseen changes"], ["Nature", "Planned and intentional", "Responsive and adaptive"], ["Objective", "Competitive advantage through advance planning", "Cope with changing circumstances and uncertainty"], ["Example wording", "'first-mover', 'while competitors hesitated', 'anticipated the trend'", "'in response to', 'after the competitor launched', 'a new regulation came'"]],
+   "spot_it": "If both appear, answer 'partly proactive and partly reactive' — the actual strategy is a blend."},
+  {"title": "The three strategic levels", "headers": ["Basis", "Corporate", "Business", "Functional"],
+   "rows": [["Question", "Where to compete?", "How to compete?", "How to implement?"], ["Who", "CEO, senior executives, board, corporate staff", "SBU / divisional head", "Marketing, finance, HR, production heads"], ["Decisions", "Portfolio, acquisitions, divestments, resource allocation, group policies", "Competitive advantage and profitability of one business", "Functional strategies, execution, customer information"]],
+   "spot_it": "Restructuring into SBUs, entering new industries and group dividend policy are corporate decisions even though they mention divisions."},
+  {"title": "Importance vs Limitations of strategic management", "headers": ["Importance (seven benefits)", "Limitations (four)"],
+   "rows": [["Direction; goals and mission defined", "Environment is highly complex and turbulent"], ["Proactive instead of reactive", "Time-consuming; impedes daily operations"], ["Framework for all major decisions", "Costly, especially for small and medium organisations"], ["Prepares for the future; pathfinder to opportunities", "Difficult to estimate competitive responses"], ["Corporate defence mechanism; longevity; core competencies", "Yet the importance outweighs the shortcomings"]],
+   "spot_it": "A case where a strategically managed firm still fails (online competition, EV safety fears) is asking for limitations, not benefits."}
+ ],
+ "cases": [
+  {"id": "CASE-S01-INT-1", "title": "Integrated Case 1 — Sanskriti Weaves Ltd.",
+   "facts": [
+    "Sanskriti Weaves Ltd. runs three businesses: handloom apparel, home furnishings and a small export unit. The board, chaired by the CEO, has decided to exit the loss-making export unit, invest the proceeds in home furnishings and frame a single dividend policy for the group.",
+    "The head of the home furnishings division has been asked to decide how the division will win against imported brands. She plans premium designs and a two-year warranty.",
+    "Ms. Rao, the marketing manager, is designing a festival campaign and gathers dealer feedback that customers now want washable fabrics; she passes this to the division head, who changes the product plan.",
+    "The company's statement of purpose reads: 'We bring handcrafted Indian textiles to everyday homes at fair prices, supporting weaver families.' Its stated aspiration is 'to be the most trusted handloom brand in India by 2032'. The founders insist that no order will ever be accepted from a buyer using child labour."
+   ],
+   "questions": [
+    {"q": "The board's decisions to exit the export unit, reallocate funds and frame a group dividend policy are taken at which level?", "options": {"A": "Functional level", "B": "Business level", "C": "Corporate level", "D": "Operational level"}, "answer": "C", "reasoning": ["Corporate-level managers decide what businesses the organisation should be in, allocate resources among businesses and set policies for the whole enterprise (SM §1.6).", "Divestment and acquisition decisions are specifically listed as corporate-level responsibilities."]},
+    {"q": "The division head's plan to beat imported brands with premium designs and a warranty is:", "options": {"A": "Corporate strategy answering 'where to compete'", "B": "Functional strategy answering 'how to implement'", "C": "Operational control", "D": "Business strategy answering 'how to compete'"}, "answer": "D", "reasoning": ["Business-level managers translate corporate direction into concrete strategies for their business and decide how to create competitive advantage (SM §1.6 figure: business strategy = how to compete)."]},
+    {"q": "Ms. Rao's role in passing customer insight upward illustrates which point from the study material?", "options": {"A": "Functional managers provide most of the information that lets business- and corporate-level managers formulate realistic strategies", "B": "Functional managers set the mission and goals of the organisation", "C": "Functional managers are guardians of shareholders' welfare", "D": "Functional managers decide the corporate portfolio"}, "answer": "A", "reasoning": ["SM §1.6: functional managers are closer to the customer and provide most of the information that makes realistic, attainable strategies possible; their ideas may become major strategies."]},
+    {"q": "'To be the most trusted handloom brand in India by 2032' and 'We bring handcrafted Indian textiles to everyday homes at fair prices' are respectively:", "options": {"A": "Mission and vision", "B": "Vision and mission", "C": "Objective and goal", "D": "Value and objective"}, "answer": "B", "reasoning": ["A statement of desired future position is the vision; a statement of present business scope, customers and purpose is the mission (SM §1.5.1 and §1.5.2)."]},
+    {"q": "Explain how the founders' refusal to deal with buyers using child labour fits into strategic intent, and why such principles matter to the company.", "marks": 5, "answer": "It is a core value — a deep-rooted principle that guides decisions, sits at the centre of strategic intent and can never be compromised for short-term gain.", "reasoning": [
+     "Values are the deep-rooted principles which guide an organisation's decisions and actions; Collins and Porras describe core values as inherent and sacrosanct, never compromised for convenience or short-term economic gain.",
+     "Values sit at the centre of strategic intent: intent, vision, mission and goals are all put into action through values.",
+     "Internally, values set the tone for how people think and behave, especially in dilemmas such as a profitable order from an unethical buyer, and create a sense of shared purpose supporting longevity.",
+     "Externally, values shape how customers, investors and society perceive the company; most consumers prefer companies whose purpose reflects their own beliefs.",
+     "Values are wider than intent: intent is the purpose of doing business, while values are the principles guiding how that business is conducted."
+    ]}
+   ],
+   "concepts": ["S01.05.01", "S01.05.02", "S01.05.04", "S01.06"],
+   "trap": "The same case carries vision, mission, values and all three levels; read what each question asks for."},
+  {"id": "CASE-S01-INT-2", "title": "Integrated Case 2 — Bharat Cycles Pvt. Ltd.",
+   "facts": [
+    "Bharat Cycles has sold sturdy, low-priced bicycles for 30 years. Three years ago its planners forecast a shift to premium fitness cycles and began developing a geared model, investing in R&D while rivals waited.",
+    "Last year an imported e-bike brand entered suddenly with aggressive pricing, and a new state rule required BIS certification for imported parts. Bharat Cycles quickly changed suppliers and launched a budget e-bike.",
+    "The company spends heavily on annual strategy retreats. The finance head complains that planning consumes weeks of management time and that consultants' fees are large for a mid-sized firm, and that no one could predict the imported brand's pricing move.",
+    "Its objectives for next year are: raise revenue by 12%, cut warranty complaints by 20% and train every dealer by March."
+   ],
+   "questions": [
+    {"q": "Developing the geared premium model three years before rivals reacted is an example of:", "options": {"A": "Reactive strategy", "B": "Adaptive strategy", "C": "Retrenchment strategy", "D": "Proactive strategy"}, "answer": "D", "reasoning": ["Proactive strategy is planned strategy: deliberate actions by managers to improve the company's market position and financial performance (SM §1.3)."]},
+    {"q": "Changing suppliers and launching a budget e-bike after the import entry and the new rule is:", "options": {"A": "Proactive strategy", "B": "Corporate governance", "C": "Reactive strategy", "D": "A limitation of strategic management"}, "answer": "C", "reasoning": ["Reactive strategy is an adaptive reaction to changing circumstances — here an unanticipated competitor and a regulatory change (SM §1.3)."]},
+    {"q": "The finance head's three complaints (time, cost, unpredictability of rivals) correspond to which part of the chapter?", "options": {"A": "Limitations of strategic management", "B": "Benefits of strategic management", "C": "Components of strategic intent", "D": "Networks of relationship"}, "answer": "A", "reasoning": ["SM §1.4.2: strategic management is time-consuming and costly (especially for small and medium organisations) and it is difficult to estimate competitive responses."]},
+    {"q": "The targets of 12% revenue growth, 20% fewer complaints and dealer training by March are best described as:", "options": {"A": "Vision", "B": "Objectives, because they are concrete, specific, measurable and time-framed", "C": "Values", "D": "Mission"}, "answer": "B", "reasoning": ["Objectives are performance targets that are concrete and specific, related to a time frame and measurable and controllable (SM §1.5.3)."]},
+    {"q": "The managing director asks whether the company should stop investing in strategic management given the finance head's complaints. Advise him.", "marks": 5, "answer": "No. Continue managing strategically: the limitations are real but the importance outweighs the shortcomings.", "reasoning": [
+     "The presence of strategic management cannot counter all hindrances or always achieve success; its limitations are a complex and turbulent environment, a time-consuming process that may impede daily operations, a costly process (a real burden for small and medium organisations) and difficulty in estimating competitive responses, which are decided behind closed doors.",
+     "However, its importance outweighs its shortcomings: a business cannot operate and succeed without proper strategic management.",
+     "Benefits visible in this case: it gives direction and defines goals and mission; it made the company proactive rather than reactive (the geared model); it provides a framework for major decisions on products and markets; it prepares the firm for the future and acts as a pathfinder to opportunities.",
+     "It also serves as a corporate defence mechanism against costly mistakes, enhances longevity and helps build core competencies and competitive advantage.",
+     "Practical advice: continue strategic management but control its cost and time, since challenging times demand more effort, and use experts selectively to understand customer preferences."
+    ]}
+   ],
+   "concepts": ["S01.03", "S01.04.01", "S01.04.02", "S01.05.03"],
+   "trap": "The cost and time complaints tempt you to recommend abandoning strategic management; ICAI's answer is always to continue, because importance outweighs shortcomings."}
+ ],
+ "chapter_test": {
+  "mcqs": [
+   {"id": "CT-MCQ-S01-01", "question": "The overall objectives of strategic management are to:", "options": {"A": "Reduce cost and increase dividend", "B": "Formulate budgets and control variances", "C": "Create competitive advantage and guide the company through all changes in the environment", "D": "Increase market share and reduce employee attrition"}, "answer": "C", "explanation": "SM §1.4: two-fold objective."},
+   {"id": "CT-MCQ-S01-02", "question": "'Strategy is not always perfect, flawless and optimal' — this statement is:", "options": {"A": "Incorrect; strategy must be optimal", "B": "Incorrect; strategy is always pragmatic but never flexible", "C": "Correct only for small organisations", "D": "Correct; strategy is flexible and pragmatic, with allowances for miscalculations"}, "answer": "D", "explanation": "SM §1.3 and SM MCQ 2."},
+   {"id": "CT-MCQ-S01-03", "question": "Reactive strategy can also be termed as:", "options": {"A": "Adaptive strategy", "B": "Planned strategy", "C": "Sound strategy", "D": "Dynamic strategy"}, "answer": "A", "explanation": "SM §1.3: proactive is planned strategy; reactive is adaptive reaction to changing circumstances (SM MCQ 4)."},
+   {"id": "CT-MCQ-S01-04", "question": "Which of the following is a limitation of strategic management?", "options": {"A": "It provides a framework for major decisions", "B": "It is a costly process, particularly for small and medium organisations", "C": "It helps develop core competencies", "D": "It enhances the longevity of the business"}, "answer": "B", "explanation": "SM §1.4.2; the others are benefits."},
+   {"id": "CT-MCQ-S01-05", "question": "'Where we are to go' is answered by:", "options": {"A": "The mission statement", "B": "The values statement", "C": "The strategic vision", "D": "The functional strategy"}, "answer": "C", "explanation": "SM §1.5.1: strategic vision gives a panoramic view of where we are to go."},
+   {"id": "CT-MCQ-S01-06", "question": "Which is NOT one of the seven reasons for having a mission, as per the study material?", "options": {"A": "To ensure unanimity of purpose within the organisation", "B": "To develop a basis for allocating organisational resources", "C": "To establish a general tone or organisational climate", "D": "To fix the dividend policy of the organisation"}, "answer": "D", "explanation": "SM §1.5.2 lists seven reasons; dividend policy is not one of them."},
+   {"id": "CT-MCQ-S01-07", "question": "Objectives are best described as:", "options": {"A": "An organisation's performance targets — the results and outcomes it wants to achieve", "B": "Open-ended attributes denoting future states", "C": "Deep-rooted principles guiding decisions", "D": "Statements of present business scope"}, "answer": "A", "explanation": "SM §1.5.3; option B describes goals, C describes values, D describes the mission."},
+   {"id": "CT-MCQ-S01-08", "question": "Long-term objectives are commonly established in seven areas. Which of these is one of them?", "options": {"A": "Debtors turnover", "B": "Public responsibility", "C": "Cash conversion cycle", "D": "Break-even point"}, "answer": "B", "explanation": "SM §1.5.3: profitability, productivity, competitive position, employee development, employee relations, technological leadership, public responsibility."},
+   {"id": "CT-MCQ-S01-09", "question": "Core values, as per Collins and Porras quoted in the study material, are:", "options": {"A": "Reviewed every year with the budget", "B": "Applicable only to listed companies", "C": "Inherent and sacrosanct; they can never be compromised for convenience or short-term economic gain", "D": "The same as objectives"}, "answer": "C", "explanation": "SM §1.5.4."},
+   {"id": "CT-MCQ-S01-10", "question": "A self-contained division with its own finance, purchasing, production and marketing functions, providing a product for a particular market, is called:", "options": {"A": "A functional department", "B": "A corporate office", "C": "A horizontal team", "D": "A strategic business unit"}, "answer": "D", "explanation": "SM §1.6."},
+   {"id": "CT-MCQ-S01-11", "question": "In which network of relationship do teams from various departments come together for temporary, task-based projects?", "options": {"A": "Matrix relationship", "B": "Horizontal relationship", "C": "Functional and divisional relationship", "D": "Network structure"}, "answer": "A", "explanation": "SM §1.6.1."},
+   {"id": "CT-MCQ-S01-12", "question": "Strategic intent, as per the study material, is best described as:", "options": {"A": "The annual budget of the organisation", "B": "The philosophical base of strategic management, expressing what the organisation strives or stands for", "C": "The organisation chart", "D": "The control system used to monitor strategies"}, "answer": "B", "explanation": "SM §1.5."}
+  ],
+  "descriptive": [
+   {"id": "CT-D-S01-01", "marks": "5", "question": "\"Strategy is partly proactive and partly reactive.\" Discuss, and explain why an organisation needs both.", "answer_points": ["A company's strategy is typically a blend of proactive actions to improve market position and performance, and reactions to unanticipated developments and fresh market conditions.", "Proactive strategy is planned strategy; reactive strategy is adaptive reaction to changing circumstances.", "Crafting a strategy involves stitching together a proactive/intended strategy based on prior successful experience and then adapting pieces of successful reactions as circumstances change.", "Both are needed because: proactive strategies achieve planned objectives and build competitive advantage; reactive strategies cope with uncertainty from competition, technology, regulation or customer preferences; together they give flexibility and adaptability and ensure survival."], "conclusion": "The realised strategy is always a blend of deliberate and adaptive elements.", "keywords": ["planned strategy", "adaptive reaction", "blend"]},
+   {"id": "CT-D-S01-02", "marks": "5", "question": "A newly appointed CEO of a diversified group asks what her strategic role will be. Identify her level and outline its duties and responsibilities.", "answer_points": ["The CEO operates at the corporate level, which consists of the CEO, senior executives, the board of directors and corporate staff.", "Oversee the development of strategies for the whole organisation; define the mission and goals.", "Determine what businesses the organisation should be in; allocate resources among the different businesses.", "Formulate and implement strategies that span individual businesses; provide leadership for the organisation.", "Ensure corporate and business-level strategies are consistent with maximising shareholders' wealth; manage the divestment and acquisition process."], "conclusion": "Corporate-level managers, particularly the CEO, are the guardians of shareholders' welfare.", "keywords": ["corporate level", "mission and goals", "allocate resources", "shareholders' wealth"]},
+   {"id": "CT-D-S01-03", "marks": "5", "question": "Explain the significance of a mission statement for an organisation.", "answer_points": ["A mission statement is focused on the present business scope — who we are and what we do — describing present capability, customer focus, activities and business make-up.", "It ensures unanimity of purpose; develops a basis or standard for allocating organisational resources; provides a basis for motivating the use of resources.", "It establishes a general tone or organisational climate suggesting a businesslike operation; serves as a focal point for those who identify with the organisation's purpose and direction.", "It facilitates translation of objectives and goals into a work structure with assignment of tasks; specifies organisational purposes so that cost, time and performance parameters can be assessed and controlled."], "keywords": ["present business scope", "unanimity of purpose", "organisational climate", "focal point"]}
+  ]
+ },
+ "recall": {
+  "quick": [
+   {"q": "State the two-fold objective of strategic management.", "a": "Create competitive advantage; guide the company successfully through all changes in the environment."},
+   {"q": "Name the four limitations of strategic management.", "a": "Complex and turbulent environment; time-consuming; costly; difficult to estimate competitive responses."},
+   {"q": "What was strategic management originally called?", "a": "Business policy."},
+   {"q": "Who defined strategy as 'a unified, comprehensive and integrated plan'?", "a": "William F. Glueck."},
+   {"q": "What does a vision answer, and what does a mission answer?", "a": "Vision: where we want to go. Mission: what business are we in and what we do."},
+   {"q": "Name any four of the ten characteristics of meaningful objectives.", "a": "Concrete and specific; related to a time frame; measurable and controllable; challenging (others: environment relationship, facilitative to mission, basis for decisions, standards for appraisal, correlated with each other, within resource constraints)."},
+   {"q": "Name the seven areas of long-term objectives.", "a": "Profitability, productivity, competitive position, employee development, employee relations, technological leadership, public responsibility."},
+   {"q": "Who described core values as inherent and sacrosanct?", "a": "Collins and Porras."},
+   {"q": "Name the three strategic levels and their key questions.", "a": "Corporate (where to compete), business (how to compete), functional (how to implement)."},
+   {"q": "Name the three networks of relationship between levels.", "a": "Functional and divisional, horizontal, matrix."}
+  ],
+  "fill": [
+   {"q": "Proactive strategy is ______ strategy, whereas reactive strategy is an ______ reaction to changing circumstances.", "a": "planned; adaptive"},
+   {"q": "A strategic business unit is a ______ division with its own functions serving a particular market.", "a": "self-contained"},
+   {"q": "Corporate-level managers, particularly the CEO, can be viewed as the guardians of ______.", "a": "shareholders' welfare"},
+   {"q": "Values are ______ than intent, because intent is the purpose of doing business while values guide decision-making.", "a": "wider"},
+   {"q": "In a ______ relationship, all positions from top management to staff level share the same hierarchical status.", "a": "horizontal"}
+  ],
+  "true_false": [
+   {"s": "Strategic management guarantees success in every environment.", "a": "False", "reason": "It cannot counter all hindrances and always achieve success."},
+   {"s": "The matrix relationship is best suited to very small organisations.", "a": "False", "reason": "It is complex for smaller organisations but extremely useful for large ones."},
+   {"s": "A mission statement can remain the same for decades if crafted well.", "a": "True", "reason": "ICAI's vision-versus-mission answer."},
+   {"s": "Functional managers are responsible for the overall performance of the organisation.", "a": "False", "reason": "They are not, though they play a major strategic role and supply key information."},
+   {"s": "Objectives should be set within the constraints of organisational resources and the external environment.", "a": "True", "reason": "Tenth characteristic in SM §1.5.3."}
+  ],
+  "one_word": [
+   {"q": "The philosophical base of strategic management.", "a": "Strategic intent"},
+   {"q": "The example used in the SM for a vision that captured imagination.", "a": "Henry Ford's 'a car in every garage'"},
+   {"q": "The marketing-oriented answer for Lakme's business.", "a": "In the retail outlet, we sell hope"},
+   {"q": "The approach where decisions are made solely by leadership at the top.", "a": "Top-down"},
+   {"q": "The company example used in the SM for a multi-divisional organisation with healthcare, FMCG and organic foods.", "a": "Patanjali"}
+  ],
+  "match": {"left": ["Igor H. Ansoff", "Collins and Porras", "Drucker and Levitt", "Hewlett-Packard", "Adani Group"], "right": ["'What business are we in?'", "Common thread among activities and product-markets", "Corporate-level portfolio decisions across mining, ports, power and cement", "Core values are inherent and sacrosanct", "The 'HP Way' reflecting founders' values"], "key": ["1-b", "2-d", "3-a", "4-e", "5-c"]},
+  "differentiate": [
+   {"q": "Vision vs mission", "a": "Vision describes a future identity; mission is an ongoing, time-independent guide to present business scope."},
+   {"q": "Business level vs functional level", "a": "Business level decides how to compete in one business; functional level develops strategies within one function to implement it."},
+   {"q": "Horizontal vs matrix relationship", "a": "Horizontal: flat, everyone at the same hierarchical status, suits start-ups. Matrix: grid of cross-department project teams with more than one business-level manager per functional team, suits large organisations."}
+  ],
+  "flowchart": {"steps": ["Strategic intent", "Vision", "Mission", "Goals and objectives", "Strategies and execution"], "blanks": [1, 3]}
+ },
+ "revision": {
+  "five": ["Two-fold objective: competitive advantage + guide through change.", "Four limitations: turbulent environment, time-consuming, costly, competitive responses.", "Strategy = partly proactive (planned) and partly reactive (adaptive).", "Intent ladder: vision → mission → goals and objectives, with values at the core.", "Levels: corporate (where), business (how), functional (implement)."],
+  "fifteen": ["Seven benefits of strategic management (direction, proactive, framework, future-ready, defence, longevity, core competencies).", "Vision: definition, four essentials; mission: seven reasons; 'what business are we in' with the marketing-oriented answer.", "Objectives: ten characteristics; short- vs long-term; seven long-term areas.", "Values: meaning, examples, internal and external implications, values wider than intent.", "Three networks: functional and divisional, horizontal, matrix, with benefits and drawbacks."],
+  "thirty": ["Management in two senses; the strategic management process (vision → analysis → objectives → strategies → evaluation).", "Definitions of strategy: Ansoff, Glueck; strategy is not perfect, flexible and pragmatic; UPI and ketchup examples.", "Case drill: label facts as proactive or reactive and recommend a blend.", "Case drill: identify the level of a decision (SBU restructuring = corporate; pricing shift = business; marketing tactics = functional).", "CEO duties at corporate level; functional managers as information providers."],
+  "sixty": ["Write full 5-mark answers for: significance of mission; characteristics of objectives; limitations of strategic management; levels and networks.", "Attempt both integrated cases and the chapter test, then check the answer keys.", "Redo every past-paper MCQ in this chapter and justify why the other three options fail."]
+ },
+ "one_page": {"sections": [
+  {"title": "Strategy", "points": ["Response to dynamic, hostile forces while pursuing vision and mission", "Ansoff: common thread; Glueck: unified, comprehensive, integrated plan", "Never perfect or optimal; flexible and pragmatic", "Actual strategy = proactive + reactive"]},
+  {"title": "Strategic management", "points": ["Process: vision → objectives → crafting → implementing → evaluating → corrective adjustments (cyclic)", "Objective: competitive advantage + guide through change", "Originally called business policy"]},
+  {"title": "Benefits (7)", "points": ["Direction; goals and mission", "Proactive not reactive", "Framework for major decisions", "Prepares for future; pathfinder", "Defence against mistakes", "Longevity", "Core competencies"]},
+  {"title": "Limitations (4)", "points": ["Complex and turbulent environment", "Time-consuming; impedes operations", "Costly, especially for SMEs", "Competitive responses hard to estimate", "Importance still outweighs shortcomings"]},
+  {"title": "Strategic intent", "points": ["Vision: blueprint of future position; 4 essentials", "Mission: present scope; 7 reasons; precise, clear, feasible, distinctive, motivating", "Objectives: performance targets; 10 characteristics; 7 long-term areas", "Values: deep-rooted principles; wider than intent"]},
+  {"title": "Levels & networks", "points": ["Corporate: portfolio, mission and goals, resources, shareholders' welfare", "Business: SBU head; how to compete", "Functional: functional strategies, information, execution", "Networks: functional-divisional, horizontal, matrix"]}
+ ]},
+ "verification": {
+  "sources": ["ICAI SM Paper 6B Ch 1 (May 2026 onwards edition)", "Suggested answers May 2024 – May 2026", "RTPs May 2024 – Sep 2026", "MTPs Mar 2024 – Aug 2026 (third-party copies of ICAI MTPs; Sep 2026 Series I question paper not available)"],
+  "open_items": [
+   {"id": "OV-S01-01", "item": "MTP Sep 2026 Series I question paper unavailable; SM Q1(a) and Q2(a) wording reconstructed from ICAI's answers.", "resolve_with": "Download the question paper from the ICAI BoS mock test portal"},
+   {"id": "OV-S01-02", "item": "May 2024 suggested answers do not contain the MCQ part, so May 2024 MCQs are not included.", "resolve_with": "Check whether ICAI publishes the May 2024 MCQ key separately"}
+  ],
+  "qa": [
+   {"check": "SM headings covered", "result": "PASS", "note": "13/13"},
+   {"check": "Official atoms placed", "result": "PASS", "note": "102/102"},
+   {"check": "Official MCQ keys", "result": "PASS", "note": "All keys taken from ICAI answer keys"},
+   {"check": "Examiner comments", "result": "PASS", "note": "None published for Paper 6; none invented"}
+  ]
+ }
+}

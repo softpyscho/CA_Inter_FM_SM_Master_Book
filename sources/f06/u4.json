@@ -1,0 +1,532 @@
+{
+ "confusing": [
+  {
+   "title": "The pairs that cost marks in leverage questions",
+   "headers": ["Looks similar", "The real difference", "Give-away word"],
+   "rows": [
+    ["Operating leverage vs financial leverage", "DOL = Contribution ÷ EBIT and measures business risk; DFL = EBIT ÷ EBT and measures financial risk", "Does the line above EBIT or below it move?"],
+    ["Financial leverage vs combined leverage", "DFL spans EBIT to EBT; DCL spans contribution to EBT", "'Effect of a change in sales on EPS' means combined"],
+    ["Contribution vs EBIT", "Contribution is sales less variable cost; EBIT is contribution less fixed cost", "Fixed cost is the only line between them"],
+    ["EBT vs PAT in the formulae", "Every leverage stops at EBT; tax never enters a leverage", "If you divided by PAT, you divided one line too low"],
+    ["DOL of 6 vs a 6% change", "DOL is a multiplier, not a percentage", "Multiply the percentage change in sales by the DOL"],
+    ["Business risk vs financial risk", "Business risk comes from the operating cost structure; financial risk from the fixed financial charges", "Interest means financial"],
+    ["Margin of safety vs break-even", "BEP is a level of sales; MOS is the excess of actual sales over it", "MOS = 1 ÷ DOL"],
+    ["Trading on equity vs double edged sword", "The first names the technique; the second names its two-way effect", "'Distress' means the sword"],
+    ["High DOL–low DFL vs low DOL–high DFL", "Both carry moderate total risk, but ICAI calls the first 'not a good combination' and the second 'best'", "Which risk is the one being taken?"],
+    ["Interest vs preference dividend in DFL", "Interest is deducted as it is; a preference dividend is divided by (1 − t) before deduction", "Only the post-tax charge is grossed up"]
+   ],
+   "spot_it": "Two questions settle nearly all of them: which two lines of the statement does the ratio span, and is the charge before tax or after it?"
+  },
+  {
+   "title": "Every formula and rule in the chapter",
+   "headers": ["Item", "Formula or rule", "Note from the study material"],
+   "rows": [
+    ["Contribution", "Sales − Variable cost", "The top line of every leverage"],
+    ["EBIT", "Contribution − Fixed cost", "Also called operating profit"],
+    ["EBT", "EBIT − Interest", "Preference dividend, if any, is grossed up by (1 − t) first"],
+    ["Operating leverage", "Contribution ÷ EBIT", "The potential use of fixed operating costs to magnify the effect of changes in sales on EBIT"],
+    ["Degree of operating leverage", "% change in EBIT ÷ % change in sales", "Measures business risk"],
+    ["Break-even point (units)", "Fixed cost ÷ Contribution per unit", "Where EBIT is nil and DOL is undefined"],
+    ["Margin of safety", "(Sales − BEP sales) ÷ Sales, or EBIT ÷ Contribution", "MOS = 1 ÷ DOL, so DOL = 1 ÷ MOS"],
+    ["Financial leverage", "EBIT ÷ EBT", "The use of fixed financial charges to magnify the effect of changes in EBIT on EPS"],
+    ["DFL with preference dividend", "EBIT ÷ [(EBIT − Interest) − DP ÷ (1 − t)]", "The preference dividend is grossed up because it is paid out of post-tax profit"],
+    ["Degree of financial leverage", "% change in EPS ÷ % change in EBIT", "Measures financial risk"],
+    ["Range of DOL and DFL", "Zero or less, or one or more", "Neither can lie between zero and one"],
+    ["Financial break-even point", "The level of EBIT at which EPS is zero", "Above it the leverage is positive, below it negative"],
+    ["Combined leverage", "DOL × DFL = Contribution ÷ EBT", "The EBIT cancels"],
+    ["Degree of combined leverage", "% change in EPS ÷ % change in sales", "Measures total risk"],
+    ["Trading on equity", "Fixed-cost funds used alongside equity capital", "Favourable when earnings exceed the cost of debt"],
+    ["Double edged sword", "ROI > interest: advantage · ROI < interest: disadvantage · ROI = interest: neutral", "The same fixed charge magnifies good years and bad"],
+    ["Best DOL–DFL combination", "Low DOL with high DFL", "Higher financial risk is balanced by lower total business risk"]
+   ],
+   "spot_it": "If the formula has EBIT on top it is financial or combined; if EBIT is underneath it is operating."
+  }
+ ],
+ "cases": [
+  {
+   "id": "CASE-F06-INT-1",
+   "title": "Integrated Case 1 — Saraswati Textiles Ltd. reads its own statement",
+   "facts": [
+    "Saraswati Textiles Ltd. sold 40,000 units in the year at ₹150 each. Variable cost is ₹90 per unit and fixed operating cost is ₹15,00,000.",
+    "The company carries a term loan of ₹50,00,000 at 12% per annum and has 1,00,000 equity shares of ₹10 each in issue. The tax rate is 30%.",
+    "The marketing head expects sales volume to rise by 20% next year, with no change in the selling price or the cost structure.",
+    "A director, looking at the same figures, says that because both leverages are above one the company is already in danger, and proposes repaying the whole loan from a fresh equity issue.",
+    "The finance director wants to know how far sales could fall before the company reaches its break-even point."
+   ],
+   "questions": [
+    {
+     "q": "Contribution, EBIT and EBT for the year are respectively:",
+     "options": {
+      "A": "₹24,00,000, ₹9,00,000 and ₹3,00,000",
+      "B": "₹60,00,000, ₹45,00,000 and ₹39,00,000",
+      "C": "₹24,00,000, ₹9,00,000 and ₹6,30,000",
+      "D": "₹24,00,000, ₹15,00,000 and ₹9,00,000"
+     },
+     "answer": "A",
+     "reasoning": [
+      "**Contribution** = 40,000 × (₹150 − ₹90) = 40,000 × ₹60 = **₹24,00,000**.",
+      "**EBIT** = ₹24,00,000 − ₹15,00,000 = **₹9,00,000**.",
+      "**EBT** = ₹9,00,000 − interest of 12% on ₹50,00,000 = ₹9,00,000 − ₹6,00,000 = **₹3,00,000**.",
+      "Option C stops at the post-tax figure, which belongs below EBT; no leverage in this chapter uses it. Option B treats sales as contribution, forgetting the variable cost altogether."
+     ]
+    },
+    {
+     "q": "The degree of operating leverage and the degree of financial leverage are:",
+     "options": {
+      "A": "1.67 and 2.67",
+      "B": "2.67 and 2.67",
+      "C": "0.375 and 0.333",
+      "D": "2.67 and 3.00"
+     },
+     "answer": "D",
+     "reasoning": [
+      "**DOL** = Contribution ÷ EBIT = ₹24,00,000 ÷ ₹9,00,000 = **2.67 times**.",
+      "**DFL** = EBIT ÷ EBT = ₹9,00,000 ÷ ₹3,00,000 = **3.00 times**.",
+      "Option C inverts both ratios — and the study material's own range rule catches the error at once: **DOL and DFL can never be between zero and one**, so any answer below one is wrong on its face."
+     ]
+    },
+    {
+     "q": "If sales volume rises by 20% as expected, EPS will rise by:",
+     "options": {
+      "A": "20%",
+      "B": "160%",
+      "C": "53.4%",
+      "D": "8%"
+     },
+     "answer": "B",
+     "reasoning": [
+      "**DCL** = DOL × DFL = 2.67 × 3.00 = **8 times**, which cross-checks as Contribution ÷ EBT = ₹24,00,000 ÷ ₹3,00,000 = 8.",
+      "The degree of combined leverage is the ratio of the percentage change in EPS to the percentage change in sales, so the change in EPS = 8 × 20% = **160%**.",
+      "Option C applies only the operating leverage, giving the change in EBIT (2.67 × 20% = 53.4%) and stopping one line too early. Option D adds the leverages instead of multiplying them."
+     ]
+    },
+    {
+     "q": "The director's inference that both leverages being above one signals danger is:",
+     "options": {
+      "A": "Wrong, because a leverage above one simply means fixed costs exist; the danger depends on whether return on investment exceeds the cost of debt",
+      "B": "Right, since any leverage above one magnifies losses",
+      "C": "Right, because the combined leverage of 8 exceeds the safe limit of 5",
+      "D": "Wrong, because leverages measure profitability, not risk"
+     },
+     "answer": "A",
+     "reasoning": [
+      "**A leverage of one means no fixed cost of that kind at all**; anything above one simply records that fixed operating or financial costs are present. The study material sets no numerical 'safe limit', so option C invents one.",
+      "SM §4.3 supplies the real test: when **ROI exceeds the interest rate the position is favourable**, when it is below the rate unfavourable, and when equal neutral. Here EBIT of ₹9,00,000 on capital employed of ₹60,00,000 is 15%, against a borrowing rate of 12% — so the leverage is currently working for the shareholders.",
+      "Option D reverses the chapter's purpose: leverages measure risk precisely, which is why combined leverage is described as measuring total risk."
+     ]
+    },
+    {
+     "q": "The margin of safety, and therefore the fall in sales the company could absorb before reaching break-even, is:",
+     "options": {
+      "A": "20.0%",
+      "B": "62.5%",
+      "C": "33.3%",
+      "D": "37.5%"
+     },
+     "answer": "D",
+     "reasoning": [
+      "**MOS = 1 ÷ DOL** = 1 ÷ 2.67 = **0.375, or 37.5%**.",
+      "Confirming it the long way: break-even sales = Fixed cost ÷ P/V ratio = ₹15,00,000 ÷ 0.40 = ₹37,50,000, against actual sales of ₹60,00,000. MOS = (₹60,00,000 − ₹37,50,000) ÷ ₹60,00,000 = **37.5%**.",
+      "Option B is the break-even sales expressed as a proportion of actual sales — the complement of the margin of safety, and the distractor that catches most candidates."
+     ]
+    }
+   ],
+   "concepts": ["F06.06 operating leverage", "F06.07 DOL", "F06.09 margin of safety", "F06.10 financial leverage", "F06.15 combined leverage", "F06.13 the double edged sword"],
+   "trap": "Every wrong option here is a real error: inverting a ratio, stopping at EBIT when EPS was asked, reading break-even sales as the margin of safety, or inventing a safe limit the study material does not give."
+  },
+  {
+   "id": "CASE-F06-INT-2",
+   "title": "Integrated Case 2 — Working backwards at Girija Foods Ltd.",
+   "facts": [
+    "Girija Foods Ltd. does not give its board a cost sheet. It reports only that its operating leverage is 2.5, its combined leverage is 5.0, its profit volume ratio is 40% and its fixed operating cost is ₹18,00,000.",
+    "Interest on its 10% debentures is the only fixed financial charge. Tax is 30% and the company has 2,00,000 equity shares of ₹10 each.",
+    "A proposal is on the table to double the debentures to fund an expansion that would leave the operating structure unchanged.",
+    "One board member argues that since the operating leverage is fixed by the cost structure, doubling the debt cannot change the company's total risk.",
+    "The board also wants the DOL-DFL profile classified against the study material's four combinations, both now and after the proposal."
+   ],
+   "questions": [
+    {
+     "q": "The degree of financial leverage and the face value of the debentures are:",
+     "options": {
+      "A": "2.0 and ₹36,00,000",
+      "B": "12.5 and ₹90,00,000",
+      "C": "2.0 and ₹60,00,000",
+      "D": "0.5 and ₹36,00,000"
+     },
+     "answer": "C",
+     "reasoning": [
+      "**DFL = DCL ÷ DOL** = 5.0 ÷ 2.5 = **2.0 times**. Option B multiplies the two leverages instead of dividing, and option D inverts the result — which the range rule rejects at once, since no DFL can lie between zero and one.",
+      "**Build the statement upward from the fixed cost.** DOL of 2.5 means Contribution = 2.5 × EBIT, so fixed cost = Contribution − EBIT = 1.5 × EBIT = ₹18,00,000, giving **EBIT = ₹12,00,000** and **contribution = ₹30,00,000**.",
+      "**Now use the DFL.** EBT = EBIT ÷ DFL = ₹12,00,000 ÷ 2.0 = ₹6,00,000, so **interest = ₹12,00,000 − ₹6,00,000 = ₹6,00,000**.",
+      "**The debentures** carry 10%, so their face value is ₹6,00,000 ÷ 0.10 = **₹60,00,000**.",
+      "The habit worth forming: **every leverage given is a ratio between two adjacent lines of the statement**, so two leverages and one absolute figure are enough to reconstruct the whole thing — and every derived number should be checked back against the leverages that produced it."
+     ]
+    },
+    {
+     "q": "Sales, and the margin of safety, are:",
+     "options": {
+      "A": "₹75,00,000 and 40%",
+      "B": "₹75,00,000 and 60%",
+      "C": "₹30,00,000 and 40%",
+      "D": "₹75,00,000 and 25%"
+     },
+     "answer": "A",
+     "reasoning": [
+      "**Sales** = Contribution ÷ P/V ratio = ₹30,00,000 ÷ 0.40 = **₹75,00,000**.",
+      "**Margin of safety** = 1 ÷ DOL = 1 ÷ 2.5 = **0.40, or 40%**, which also equals EBIT ÷ Contribution = ₹12,00,000 ÷ ₹30,00,000.",
+      "Option B gives the break-even sales ratio instead; option C mistakes contribution for sales."
+     ]
+    },
+    {
+     "q": "Earnings per share as things stand is:",
+     "options": {
+      "A": "₹6.00",
+      "B": "₹2.10",
+      "C": "₹4.20",
+      "D": "₹3.00"
+     },
+     "answer": "B",
+     "reasoning": [
+      "**EBT ₹6,00,000**, less tax at 30% = ₹1,80,000, gives **PAT ₹4,20,000**.",
+      "On 2,00,000 equity shares, **EPS = ₹4,20,000 ÷ 2,00,000 = ₹2.10**.",
+      "Option C uses the whole PAT as though there were only 1,00,000 shares; option A divides EBIT rather than PAT. Tax enters here and nowhere in the leverages themselves."
+     ]
+    },
+    {
+     "q": "If the debentures are doubled, the board member's argument that total risk cannot change is:",
+     "options": {
+      "A": "Correct, because the operating leverage is unchanged",
+      "B": "Correct, because the combined leverage depends only on sales",
+      "C": "Wrong, because combined leverage measures total risk and depends on the combination of operating and financial risk, so doubling the interest raises DFL and with it DCL",
+      "D": "Wrong, because doubling debt always halves EPS"
+     },
+     "answer": "C",
+     "reasoning": [
+      "SM §5.2: **combined leverage measures total risk, and it depends on the combination of operating and financial risk.** Holding the operating side constant does not freeze the total.",
+      "The arithmetic: interest doubles to ₹12,00,000, so EBT falls to ₹12,00,000 − ₹12,00,000 = nil. **At that point EBT is zero, DFL is undefined and EPS is nil — the company sits exactly at its financial break-even point**, the level of EBIT at which earnings per share is zero.",
+      "Option D overstates a real effect into a rule; how far EPS falls depends on the spread between ROI and the interest rate, not on the amount of debt alone."
+     ]
+    },
+    {
+     "q": "Classified against the study material's four combinations, the company before the proposal is best described as:",
+     "options": {
+      "A": "Low DOL with low DFL — lower total risk, unable to take advantage of trading on equity",
+      "B": "High DOL with low DFL — moderate total risk, not a good combination",
+      "C": "Low DOL with high DFL — moderate total risk, the best combination",
+      "D": "High DOL with high DFL — higher total risk, a very risky combination"
+     },
+     "answer": "D",
+     "reasoning": [
+      "A DOL of 2.5 and a DFL of 2.0 are both materially above one, giving a combined leverage of 5.0: a 1% change in sales moves EPS by 5%. On the study material's scale this is **high with high — higher total risk, a very risky combination**.",
+      "The margin of safety of 40% confirms the operating exposure: a 40% fall in sales wipes out EBIT entirely, and the fixed interest of ₹6,00,000 remains payable after it has gone.",
+      "Option C describes the **best** combination the study material identifies — low DOL with high DFL, where higher financial risk is balanced by lower total business risk — which is precisely what this company does not have, and why the proposal to double the debentures deserves the board's caution rather than its approval."
+     ]
+    }
+   ],
+   "concepts": ["F06.07 DOL", "F06.09 margin of safety", "F06.11 DFL", "F06.15 combined leverage", "F06.16 the four combinations"],
+   "trap": "Question 1 is deliberately built to show the trap of half-solving a reconstruction: the given leverages are the constraint, and every derived figure must be checked back against them."
+  }
+ ],
+ "chapter_test": {
+  "mcqs": [
+   {"id": "CT-MCQ-F06-01",
+    "question": "The degree of operating leverage is computed as:",
+    "options": {"A": "Contribution ÷ EBIT", "B": "EBIT ÷ EBT", "C": "Contribution ÷ EBT", "D": "EBIT ÷ Sales"},
+    "answer": "A",
+    "explanation": "SM §3.1: DOL = Contribution ÷ EBIT, equivalently the percentage change in EBIT over the percentage change in sales."},
+   {"id": "CT-MCQ-F06-02",
+    "question": "Operating leverage arises from the existence of:",
+    "options": {"A": "Fixed financial charges", "B": "Fixed operating costs", "C": "Variable costs", "D": "Corporate tax"},
+    "answer": "B",
+    "explanation": "SM §3: operating leverage is the firm's ability to use fixed operating costs to magnify the effect of changes in sales on its EBIT."},
+   {"id": "CT-MCQ-F06-03",
+    "question": "A firm's margin of safety is 25%. Its degree of operating leverage is:",
+    "options": {"A": "0.25", "B": "1.25", "C": "4", "D": "2.5"},
+    "answer": "C",
+    "explanation": "DOL = 1 ÷ MOS = 1 ÷ 0.25 = 4 times; the two are reciprocals."},
+   {"id": "CT-MCQ-F06-04",
+    "question": "Which of the following can never be a valid degree of financial leverage?",
+    "options": {"A": "Exactly 1", "B": "Negative", "C": "3.5", "D": "0.6"},
+    "answer": "D",
+    "explanation": "SM §4.1: DFL can never be between zero and one; it can be zero or less, or one or more."},
+   {"id": "CT-MCQ-F06-05",
+    "question": "Where a company pays a preference dividend, the degree of financial leverage is:",
+    "options": {"A": "EBIT ÷ [(EBIT − Interest) − DP ÷ (1 − t)]", "B": "EBIT ÷ (EBIT − Interest − DP)", "C": "(EBIT − Interest) ÷ EBIT", "D": "Contribution ÷ (EBIT − Interest − DP)"},
+    "answer": "A",
+    "explanation": "SM §4.1: the preference dividend is grossed up by (1 − t) because it is an appropriation of post-tax profit, while interest is a pre-tax charge."},
+   {"id": "CT-MCQ-F06-06",
+    "question": "Financial leverage is described as a 'double edged sword' because:",
+    "options": {"A": "It affects both the lender and the borrower", "B": "The same fixed charge raises EPS when ROI exceeds the interest rate and depresses it when ROI falls below", "C": "It applies to both debt and equity", "D": "It changes both sales and EBIT"},
+    "answer": "B",
+    "explanation": "SM §4.3: where the cost of fixed cost fund is less than the return on investment it raises return on equity and EPS; where the cost of debt is more than the return it affects them unfavourably and the firm can be under financial distress."},
+   {"id": "CT-MCQ-F06-07",
+    "question": "A company has a DOL of 1.5 and a DFL of 2.0. If sales fall by 10%, EPS will:",
+    "options": {"A": "Fall by 10%", "B": "Fall by 15%", "C": "Fall by 30%", "D": "Fall by 3.5%"},
+    "answer": "C",
+    "explanation": "DCL = 1.5 × 2.0 = 3; the percentage change in EPS = DCL × the percentage change in sales = 3 × 10% = 30%. The direction follows the sales movement."},
+   {"id": "CT-MCQ-F06-08",
+    "question": "Combined leverage measures:",
+    "options": {"A": "Business risk alone", "B": "Financial risk alone", "C": "Liquidity risk", "D": "Total risk"},
+    "answer": "D",
+    "explanation": "SM §5.2: combined leverage measures total risk, and it depends on the combination of operating and financial risk."},
+   {"id": "CT-MCQ-F06-09",
+    "question": "The study material describes which combination as the best?",
+    "options": {"A": "Low DOL with high DFL", "B": "High DOL with high DFL", "C": "Low DOL with low DFL", "D": "High DOL with low DFL"},
+    "answer": "A",
+    "explanation": "SM §5.2: low DOL with high DFL gives moderate total risk and is the best combination, because higher financial risk is balanced by lower total business risk."},
+   {"id": "CT-MCQ-F06-10",
+    "question": "At a company's break-even point, the degree of operating leverage is:",
+    "options": {"A": "Exactly one", "B": "Undefined, because EBIT is nil", "C": "Zero", "D": "Equal to the P/V ratio"},
+    "answer": "B",
+    "explanation": "At break-even, contribution equals fixed cost so EBIT is nil; Contribution ÷ EBIT cannot be computed. Just above break-even the DOL is very large and falls as sales rise."},
+   {"id": "CT-MCQ-F06-11",
+    "question": "'Trading on equity' means:",
+    "options": {"A": "Dealing in the company's shares on an exchange", "B": "Issuing bonus shares to existing holders", "C": "Using fixed cost funds alongside equity share capital to raise the earnings available to equity shareholders", "D": "Converting debentures into equity"},
+    "answer": "C",
+    "explanation": "SM §4.2: financial leverage indicates the use of funds with fixed cost — long-term debts and preference share capital — along with equity share capital, which is known as trading on equity."},
+   {"id": "CT-MCQ-F06-12",
+    "question": "A firm has sales of ₹50,00,000, a P/V ratio of 30% and fixed operating cost of ₹9,00,000. Its operating leverage is:",
+    "options": {"A": "1.67 times", "B": "3.00 times", "C": "5.56 times", "D": "2.50 times"},
+    "answer": "D",
+    "explanation": "Contribution = 30% of ₹50,00,000 = ₹15,00,000; EBIT = ₹15,00,000 − ₹9,00,000 = ₹6,00,000; DOL = ₹15,00,000 ÷ ₹6,00,000 = 2.50 times."}
+  ],
+  "descriptive": [
+   {"id": "CT-D-F06-01", "marks": "5",
+    "question": "A firm sells at ₹100 per unit with total sales of ₹24,00,000; variable cost is 50% of sales and fixed cost is ₹10,00,000. It has borrowed ₹10,00,000 at 10% and has equity share capital of ₹10,00,000 in shares of ₹100 each. Tax is 50%. Calculate the operating, financial and combined leverage, the return on investment, and the new EBIT if sales increase by ₹6,00,000.",
+    "answer_points": [
+     "**Profitability statement.** Sales ₹24,00,000; less variable cost ₹12,00,000; **contribution ₹12,00,000**; less fixed cost ₹10,00,000; **EBIT ₹2,00,000**; less interest ₹1,00,000; **EBT ₹1,00,000**; less tax at 50% ₹50,000; **earnings after tax ₹50,000**. Shares = 10,000, so **EPS ₹5**.",
+     "**Operating leverage** = Contribution ÷ EBIT = ₹12,00,000 ÷ ₹2,00,000 = **6 times**.",
+     "**Financial leverage** = EBIT ÷ EBT = ₹2,00,000 ÷ ₹1,00,000 = **2 times**.",
+     "**Combined leverage** = 6 × 2 = **12 times**, which cross-checks as Contribution ÷ EBT = ₹12,00,000 ÷ ₹1,00,000.",
+     "**Return on investment** = earnings after tax less preference dividend, over equity shareholders' funds = ₹50,000 ÷ ₹10,00,000 × 100 = **5%**.",
+     "**New EBIT.** ₹6,00,000 on ₹24,00,000 is a 25% rise in sales; with an operating leverage of 6 the change in EBIT is 6 × 25% = 150%, i.e. ₹3,00,000, so the **new EBIT is ₹5,00,000**."
+    ]},
+   {"id": "CT-D-F06-02", "marks": "5",
+    "question": "A company has a profit volume ratio of 25%, an operating leverage of 4 and a financial leverage of 1.5. Fixed operating cost is ₹12,00,000 and tax is 30%. There are 1,00,000 equity shares of ₹10 each. Prepare the income statement and compute EPS and the combined leverage.",
+    "answer_points": [
+     "**Work up from the leverages.** DOL of 4 means Contribution = 4 × EBIT, so fixed cost = 3 × EBIT = ₹12,00,000 and **EBIT = ₹4,00,000**, giving **contribution = ₹16,00,000**.",
+     "**Sales** = Contribution ÷ P/V ratio = ₹16,00,000 ÷ 0.25 = **₹64,00,000**; variable cost is the balance, ₹48,00,000.",
+     "**DFL of 1.5** means EBT = EBIT ÷ 1.5 = ₹4,00,000 ÷ 1.5 = **₹2,66,667**, so **interest = ₹1,33,333**.",
+     "**Income statement:** Sales ₹64,00,000; variable cost ₹48,00,000; contribution ₹16,00,000; fixed cost ₹12,00,000; EBIT ₹4,00,000; interest ₹1,33,333; EBT ₹2,66,667; tax at 30% ₹80,000; **PAT ₹1,86,667**.",
+     "**EPS** = ₹1,86,667 ÷ 1,00,000 = **₹1.87** (approximately).",
+     "**Combined leverage** = 4 × 1.5 = **6 times**, so a 1% change in sales changes EPS by 6%. Cross-check: Contribution ÷ EBT = ₹16,00,000 ÷ ₹2,66,667 = 6."
+    ]},
+   {"id": "CT-D-F06-03", "marks": "5",
+    "question": "Two companies operate in the same industry. Company X has fixed operating cost of ₹20,00,000 and no debt. Company Y has fixed operating cost of ₹5,00,000 and interest of ₹6,00,000. Both report sales of ₹80,00,000 and a P/V ratio of 40%. Compute all three leverages for each, and comment on their risk profiles using the study material's classification.",
+    "answer_points": [
+     "**Company X.** Contribution = 40% of ₹80,00,000 = ₹32,00,000; EBIT = ₹32,00,000 − ₹20,00,000 = ₹12,00,000; EBT = ₹12,00,000 (no interest). **DOL = 2.67; DFL = 1.00; DCL = 2.67.**",
+     "**Company Y.** Contribution ₹32,00,000; EBIT = ₹32,00,000 − ₹5,00,000 = ₹27,00,000; EBT = ₹27,00,000 − ₹6,00,000 = ₹21,00,000. **DOL = 1.19; DFL = 1.29; DCL = 1.53.**",
+     "**Company X** carries its risk entirely on the operating side — a **high DOL with a DFL of one**, meaning no fixed financial charge at all. On the study material's scale this is close to the high-DOL, low-DFL box: moderate total risk, but **not a good combination**, because lower EBIT arises from the higher DOL and the firm takes no advantage of trading on equity.",
+     "**Company Y** has the lower business risk and has used that capacity to carry debt — the **low DOL with higher DFL** pattern the study material calls the **best combination**, since the higher financial risk is balanced by lower total business risk.",
+     "**Margin of safety** confirms it: X's is 1 ÷ 2.67 = 37.5%, Y's is 1 ÷ 1.19 = 84%. Y can absorb a far larger fall in sales before its EBIT disappears, which is what makes its interest burden supportable.",
+     "**Conclusion.** Y's total risk, measured by combined leverage, is 1.53 against X's 2.67, so Y is both the less risky and the better structured of the two — a reminder that the amount of debt alone says nothing about total risk."
+    ]},
+   {"id": "CT-D-F06-04", "marks": "4",
+    "question": "Explain the concept of financial leverage as 'trading on equity' and as a 'double edged sword'.",
+    "answer_points": [
+     "**Trading on equity.** Financial leverage indicates the use of funds with fixed cost — like long-term debts and preference share capital — along with equity share capital, which is known as trading on equity. The basic aim is to increase the earnings available to equity shareholders using fixed cost fund.",
+     "A firm is known to have a **positive or favourable leverage when its earnings are more than the cost of debt**; if earnings are equal to or less than the cost of debt it will be a negative or unfavourable leverage. When the quantity of fixed cost fund is relatively high in comparison to equity capital, the firm is said to be trading on equity.",
+     "**Double edged sword.** When the cost of fixed cost fund is less than the return on investment, financial leverage helps to increase return on equity and EPS, and the firm also benefits from the **saving of tax on interest on debts**.",
+     "However, when the cost of debt is more than the return, it affects return on equity and EPS unfavourably, and as a result **the firm can be under financial distress**. That two-way effect is why financial leverage is called a double edged sword.",
+     "**The rule in short:** ROI greater than interest — favourable, an advantage; ROI less than interest — unfavourable, a disadvantage; ROI equal to interest — neutral, neither advantage nor disadvantage.",
+     "The leverage impact of debt is greater than that of preference share capital, because interest is allowed as a deduction in computing tax while preference dividend is not."
+    ]},
+   {"id": "CT-D-F06-05", "marks": "4",
+    "question": "Distinguish between business risk and financial risk, and explain how each is measured.",
+    "answer_points": [
+     "**Business risk** is the risk attached to the firm's operations — the possibility that EBIT will vary because of the cost structure and the volatility of sales. It arises from the existence of **fixed operating costs**, which do not fall when sales fall.",
+     "It is measured by the **degree of operating leverage = Contribution ÷ EBIT**, or equivalently the percentage change in EBIT over the percentage change in sales. A high DOL means a small change in sales produces a large change in EBIT.",
+     "**Financial risk** is the risk attached to the firm's financing — the possibility that EPS will vary, and in the extreme that the firm cannot meet its fixed financial obligations. It arises from the existence of **fixed financial charges**: interest and preference dividend.",
+     "It is measured by the **degree of financial leverage = EBIT ÷ EBT**, or the percentage change in EPS over the percentage change in EBIT. Where a preference dividend is paid it is grossed up by (1 − t) before deduction.",
+     "**The two combine.** Combined leverage = DOL × DFL = Contribution ÷ EBT and measures **total risk**, depending on the combination of the two.",
+     "**The practical distinction** is that business risk is largely given by the industry and the cost structure, while financial risk is chosen by the board — which is why the study material calls low business risk with high financial risk the best combination, and high with high a very risky one."
+    ]},
+   {"id": "CT-D-F06-06", "marks": "4",
+    "question": "Explain the degree of operating leverage and state its range, its relationship with the margin of safety, and its behaviour near the break-even point.",
+    "answer_points": [
+     "**Degree of operating leverage** is the ratio of the percentage change in operating income, EBIT, to the percentage change in sales. It measures how sensitive operating profit is to a change in volume, and is computed directly as **Contribution ÷ EBIT**.",
+     "**Range.** The degree of operating leverage **can never be between zero and one**; it can be zero or less, or one or more. A DOL of exactly one means there are no fixed operating costs at all.",
+     "**Relationship with the margin of safety.** The margin of safety is the excess of actual sales over break-even sales, expressed as (Sales − BEP sales) ÷ Sales, and also as EBIT ÷ Contribution. Since DOL is Contribution ÷ EBIT, **MOS = 1 ÷ DOL and DOL = 1 ÷ MOS** — they are exact reciprocals.",
+     "**Behaviour near break-even.** At the break-even point contribution equals fixed cost, so EBIT is nil and the ratio cannot be computed. Just above break-even the DOL is extremely large, and it **falls steadily as sales rise further above the break-even point**, because the fixed cost is spread over a larger contribution.",
+     "**The practical reading.** A high DOL means high business risk: a small fall in sales produces a magnified fall in EBIT, and the company is operating close to its break-even point with a thin margin of safety.",
+     "**Using it.** Multiply the percentage change in sales by the DOL to forecast the percentage change in EBIT — one multiplication in place of a restated statement."
+    ]}
+  ]
+ },
+ "recall": {
+  "quick": [
+   {"q": "Name the three types of leverage.", "a": "Operating leverage, financial leverage and combined leverage."},
+   {"q": "State the three basic formulae.", "a": "DOL = Contribution ÷ EBIT; DFL = EBIT ÷ EBT; DCL = DOL × DFL = Contribution ÷ EBT."},
+   {"q": "Which leverage measures which risk?", "a": "Operating leverage measures business risk, financial leverage measures financial risk, combined leverage measures total risk."},
+   {"q": "State the range rule for DOL and DFL.", "a": "Neither can be between zero and one; each can be zero or less, or one or more."},
+   {"q": "What is the relationship between DOL and the margin of safety?", "a": "They are reciprocals: MOS = 1 ÷ DOL and DOL = 1 ÷ MOS."},
+   {"q": "What is the financial break-even point?", "a": "The level of EBIT at which earnings per share is zero; above it the financial leverage is positive, below it negative."},
+   {"q": "State the double edged sword rule in three lines.", "a": "ROI above interest — favourable, an advantage. ROI below interest — unfavourable, a disadvantage. ROI equal to interest — neutral."},
+   {"q": "Name the best combination of DOL and DFL.", "a": "Low DOL with high DFL — moderate total risk, because higher financial risk is balanced by lower total business risk."}
+  ],
+  "fill": [
+   {"q": "Operating leverage = Contribution ÷ ______.", "a": "EBIT"},
+   {"q": "Financial leverage = EBIT ÷ ______.", "a": "EBT (earnings before tax)"},
+   {"q": "Combined leverage = Contribution ÷ ______.", "a": "EBT"},
+   {"q": "Break-even point in units = Fixed cost ÷ ______.", "a": "contribution per unit"},
+   {"q": "Where a preference dividend is paid, it is divided by ______ before being deducted in the DFL formula.", "a": "(1 − t)"},
+   {"q": "Combined leverage measures ______ risk.", "a": "total"},
+   {"q": "When the quantity of fixed cost fund is relatively high in comparison to equity capital, the firm is said to be ______.", "a": "trading on equity"},
+   {"q": "The degree of combined leverage is the ratio of the percentage change in ______ to the percentage change in sales.", "a": "earnings per share"}
+  ],
+  "true_false": [
+   {"s": "Operating leverage arises from fixed financial charges.", "a": "False", "reason": "It arises from fixed operating costs; fixed financial charges give rise to financial leverage."},
+   {"s": "A degree of financial leverage of 0.8 is possible.", "a": "False", "reason": "SM §4.1: DFL can never be between zero and one."},
+   {"s": "Tax rates enter the computation of every leverage.", "a": "False", "reason": "All three leverages stop at EBT; tax affects EPS but not the ratios, except where a preference dividend is grossed up."},
+   {"s": "Combined leverage equals the sum of operating and financial leverage.", "a": "False", "reason": "It is the product: DCL = DOL × DFL."},
+   {"s": "The margin of safety rises as the degree of operating leverage falls.", "a": "True", "reason": "They are reciprocals, so a lower DOL means a larger margin of safety."},
+   {"s": "Financial leverage is favourable whenever a company has debt.", "a": "False", "reason": "SM §4.2: it is favourable only when earnings are more than the cost of debt."},
+   {"s": "Low DOL with low DFL is the best combination.", "a": "False", "reason": "It is lower total risk, but the study material notes the firm cannot take advantage of trading on equity; the best combination is low DOL with high DFL."},
+   {"s": "Combined leverage can be negative.", "a": "True", "reason": "SM §5.1: like operating and financial leverage, combined leverage can also be positive and negative."}
+  ],
+  "one_word": [
+   {"q": "Sales less variable cost.", "a": "Contribution"},
+   {"q": "The excess of actual sales over break-even sales.", "a": "Margin of safety"},
+   {"q": "The level of EBIT at which EPS is zero.", "a": "The financial break-even point"},
+   {"q": "The use of fixed cost funds alongside equity share capital.", "a": "Trading on equity"},
+   {"q": "The name given to financial leverage because it cuts both ways.", "a": "A double edged sword"},
+   {"q": "The risk measured by combined leverage.", "a": "Total risk"},
+   {"q": "The leverage that is undefined at the break-even point.", "a": "Operating leverage"},
+   {"q": "The condition of a firm whose EPS turns negative under its fixed financial charges.", "a": "Financial distress"}
+  ],
+  "match": {
+   "left": ["Operating leverage", "Financial leverage", "Combined leverage", "Margin of safety", "Trading on equity"],
+   "right": ["Contribution ÷ EBT — total risk", "1 ÷ DOL", "Contribution ÷ EBIT — business risk", "Using fixed cost funds alongside equity capital", "EBIT ÷ EBT — financial risk"],
+   "key": [
+    "Operating leverage – Contribution ÷ EBIT — business risk",
+    "Financial leverage – EBIT ÷ EBT — financial risk",
+    "Combined leverage – Contribution ÷ EBT — total risk",
+    "Margin of safety – 1 ÷ DOL",
+    "Trading on equity – Using fixed cost funds alongside equity capital"
+   ]
+  },
+  "differentiate": [
+   {"q": "Operating leverage vs financial leverage", "a": "Operating leverage arises from fixed operating costs and is Contribution ÷ EBIT, measuring business risk. Financial leverage arises from fixed financial charges and is EBIT ÷ EBT, measuring financial risk."},
+   {"q": "Business risk vs financial risk", "a": "Business risk is the variability of EBIT caused by the operating cost structure; financial risk is the variability of EPS, and the threat of default, caused by interest and preference dividend."},
+   {"q": "Degree of leverage vs percentage change", "a": "The degree is a multiplier; the percentage change is what you get after multiplying it by the percentage change in the driver."},
+   {"q": "Break-even point vs margin of safety", "a": "The break-even point is the sales level at which EBIT is nil; the margin of safety is the excess of actual sales over it, and equals 1 ÷ DOL."},
+   {"q": "Interest vs preference dividend in the DFL formula", "a": "Interest is deducted as it stands because it is a pre-tax charge; the preference dividend is divided by (1 − t) first because it is paid out of post-tax profit."},
+   {"q": "High DOL with low DFL vs low DOL with high DFL", "a": "Both carry moderate total risk, but the first is not a good combination — lower EBIT from the high DOL and little advantage from trading on equity — while the second is the best combination, higher financial risk balanced by lower business risk."}
+  ],
+  "flowchart": {
+   "steps": [
+    "Write the profitability statement: sales, variable cost, contribution, fixed cost, EBIT, interest, EBT",
+    "DOL = Contribution ÷ EBIT",
+    "DFL = EBIT ÷ EBT",
+    "DCL = DOL × DFL, cross-checked as Contribution ÷ EBT",
+    "Multiply the percentage change in sales by the relevant leverage to forecast EBIT or EPS"
+   ],
+   "blanks": [2, 4]
+  }
+ },
+ "revision": {
+  "five": [
+   "DOL = Contribution ÷ EBIT · DFL = EBIT ÷ EBT · DCL = Contribution ÷ EBT.",
+   "Operating leverage measures business risk, financial leverage financial risk, combined leverage total risk.",
+   "MOS = 1 ÷ DOL; neither DOL nor DFL can lie between zero and one.",
+   "Double edged sword: ROI above interest is an advantage, below it a disadvantage, equal to it neutral.",
+   "Best combination: low DOL with high DFL. Worst: high with high."
+  ],
+  "fifteen": [
+   "Add the full profitability statement layout, from sales down to EPS.",
+   "Add the preference-dividend form of DFL, with the grossing up by (1 − t).",
+   "Add the break-even formulae in units and in value, and the financial break-even point.",
+   "Add the four DOL-DFL combinations with the study material's own comments.",
+   "Add the working-backwards technique: fixed cost = (DOL − 1) × EBIT, interest = EBIT − EBIT ÷ DFL."
+  ],
+  "thirty": [
+   "Add the three types of leverage with their definitions in ICAI's wording.",
+   "Add the behaviour of DOL near the break-even point and as sales rise.",
+   "Add trading on equity in full, including why debt outweighs preference capital.",
+   "Add the double edged sword with the tax saving on interest and the risk of financial distress.",
+   "Add the analysis of combined leverage and why the two 'moderate' rows differ in verdict.",
+   "Work the study material's Illustration 3 end to end, including the forecast of the new EBIT."
+  ],
+  "sixty": [
+   "Work both integrated cases and all twelve chapter-test MCQs without looking back.",
+   "Write the January 2025 EXIM Ltd. question in full, starting from the total assets turnover ratio.",
+   "Write the September 2024 N Limited and C Limited question, working backwards from the leverages to sales.",
+   "Reproduce the four-combination table from memory in ICAI's own words.",
+   "Rebuild an income statement from any two given leverages and one absolute figure, twice, against the clock."
+  ]
+ },
+ "one_page": {
+  "sections": [
+   {
+    "title": "Meaning and the three leverages",
+    "points": [
+     "Leverage = the firm's ability to use fixed cost assets or funds to magnify the return to its owners",
+     "Three types: operating, financial and combined",
+     "Operating leverage = Contribution ÷ EBIT — from fixed operating costs — business risk",
+     "Financial leverage = EBIT ÷ EBT — from fixed financial charges — financial risk",
+     "Combined leverage = DOL × DFL = Contribution ÷ EBT — total risk",
+     "Every leverage stops at EBT; tax never enters the ratio"
+    ]
+   },
+   {
+    "title": "Operating leverage and break-even",
+    "points": [
+     "DOL = % change in EBIT ÷ % change in sales",
+     "Break-even units = Fixed cost ÷ Contribution per unit; break-even sales = Fixed cost ÷ P/V ratio",
+     "MOS = (Sales − BEP sales) ÷ Sales = EBIT ÷ Contribution = 1 ÷ DOL",
+     "At break-even, EBIT is nil and DOL is undefined; just above it DOL is very large and falls as sales rise",
+     "DOL can never be between zero and one"
+    ]
+   },
+   {
+    "title": "Financial leverage",
+    "points": [
+     "DFL = % change in EPS ÷ % change in EBIT",
+     "With preference dividend: DFL = EBIT ÷ [(EBIT − Interest) − DP ÷ (1 − t)]",
+     "Financial break-even point = the EBIT at which EPS is zero",
+     "Trading on equity: fixed cost funds alongside equity capital, to raise the earnings available to equity shareholders",
+     "Favourable when earnings exceed the cost of debt; unfavourable when equal or less",
+     "Double edged sword: ROI > interest advantage · ROI < interest disadvantage and possible financial distress · ROI = interest neutral",
+     "Interest is tax-deductible, so debt leverages harder than preference capital"
+    ]
+   },
+   {
+    "title": "Combined leverage and the four combinations",
+    "points": [
+     "DCL = % change in EPS ÷ % change in sales; can be positive or negative",
+     "Forecast: % change in EBIT = DOL × % change in sales; % change in EPS = DCL × % change in sales",
+     "Low DOL, low DFL — lower total risk — cannot take advantage of trading on equity",
+     "High DOL, high DFL — higher total risk — very risky combination",
+     "High DOL, low DFL — moderate total risk — not a good combination",
+     "Low DOL, high DFL — moderate total risk — best combination",
+     "Working backwards: fixed cost = (DOL − 1) × EBIT; interest = EBIT − EBIT ÷ DFL; sales = Contribution ÷ P/V ratio"
+    ]
+   }
+  ]
+ },
+ "verification": {
+  "sources": [
+   "ICAI SM Paper 6A Module 1 Ch 6 'Financing Decisions — Leverages' (May 2026 onwards edition)",
+   "Suggested answers May 2024 – May 2026",
+   "RTPs May 2024 – Sep 2026 (chapter assignment follows ICAI's own topic labels)",
+   "MTPs Mar 2024 – Aug 2026 (third-party copies of ICAI MTPs; Sep 2026 Series I question paper not available)"
+  ],
+  "open_items": [
+   {"id": "OV-F06-01",
+    "item": "SM §4.2 groups 'earnings equal to the cost of debt' with unfavourable leverage, while the table in §4.3 calls ROI equal to interest neutral. Both are reproduced where they appear; neither has been harmonised away.",
+    "resolve_with": "None needed; answer from whichever paragraph the question tests"},
+   {"id": "OV-F06-02",
+    "item": "MTP Sep 2026 Series I question paper not available; the FM question wording is reconstructed from the answer file.",
+    "resolve_with": "Download the question paper from the ICAI BoS portal"},
+   {"id": "OV-F06-03",
+    "item": "MTP-J26-S1-FQ2b asks candidates to differentiate business risk from financial risk. The study material carries that distinction across §3, §4 and §5.2 rather than in one place; the chapter-test descriptive question assembles it.",
+    "resolve_with": "None needed"}
+  ],
+  "qa": [
+   {"check": "SM headings covered", "result": "16 of 16"},
+   {"check": "Official questions placed", "result": "33 of 33"},
+   {"check": "Generated MCQ key balance", "result": "Target A12 · B11 · C12 · D11"},
+   {"check": "Figures cross-checked against the SM's own illustrations", "result": "Illustration 3: contribution ₹12,00,000, EBIT ₹2,00,000, EBT ₹1,00,000, EPS ₹5, DOL 6, DFL 2, DCL 12, ROI 5%, new EBIT ₹5,00,000; EXIM Ltd. EPS ₹136.50 with leverages 1.36, 1.13 and 1.54"}
+  ]
+ }
+}

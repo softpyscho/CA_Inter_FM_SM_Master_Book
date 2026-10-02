@@ -1,0 +1,720 @@
+{
+ "concepts": [
+  {
+   "code": "F03.11",
+   "title": "3.3 Activity Ratios (Efficiency, Performance or Turnover Ratios)",
+   "activity": "Very High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 2 (May 2025 Q1(a), Jan 2026 Q1(a)) · RTP 2 (Sep 2024, Sep 2026) · MTP 3 (Jan 2026 both series, Sep 2024 Series I)",
+   "understand": [
+    "==These ratios are employed to **evaluate the efficiency with which the firm manages and utilises its assets**, and for that reason are often called **'asset management ratios'**.== They usually indicate the **frequency of sales with respect to its assets** — capital assets, working capital or average inventory — and are **usually calculated with reference to sales or cost of goods sold and expressed in terms of rate or times**.",
+    "**(a) Total asset turnover ratio = Sales or Cost of Goods Sold ÷ Total Assets.** It measures the efficiency with which the firm uses its total assets; **higher the ratio, better it is**. A high ratio indicates **efficient utilisation of total assets in generation of sales**; a low ratio indicates total assets are not efficiently used.",
+    "**(b) Fixed assets turnover ratio = Sales or Cost of Goods Sold ÷ Fixed Assets.** A high ratio indicates efficient utilisation of fixed assets in generating sales. The study material's caution: ==a firm whose **plant and machinery are old may show a higher fixed assets turnover ratio** than a firm which has purchased them recently== — because the older assets carry a lower written-down value.",
+    "**(c) Capital turnover ratio or net asset turnover ratio = Sales or Cost of Goods Sold ÷ Net Assets.** Since **net assets equals capital employed**, it is also known as the capital turnover ratio. It indicates the firm's **ability to generate sales or cost of goods sold per rupee of long-term investment**; the higher the ratio, the more efficient the **utilisation of owner's and long-term creditors' funds**.",
+    "**(d) Current assets turnover ratio = Sales or Cost of Goods Sold ÷ Current Assets**, measuring the efficiency of using current assets. **(e) Working capital turnover ratio = Sales or Cost of Goods Sold ÷ Working Capital**, measuring **how effective a company is at generating sales for every rupee of working capital put to use**. The higher the ratio, the more efficient the utilisation of working capital — **however, a very high working capital turnover ratio indicates that the company needs to raise additional working capital for future needs**. Working capital turnover is further segregated into **inventory turnover, debtors turnover and creditors turnover**.",
+    "**(i) Inventory or stock turnover ratio** establishes the relationship between the **cost of goods sold during the year and the average inventory held during the year** and measures the efficiency with which a firm utilises or manages its inventory. ==**Inventory Turnover Ratio = Cost of Goods Sold (or Sales) ÷ Average Inventory**, where **Average Inventory = (Opening Stock + Closing Stock) ÷ 2**.== For raw material, ==**Raw Material Inventory Turnover Ratio = Raw Material Consumed ÷ Average Raw Material Stock**.== It indicates **how fast inventory is used or sold**: a **high ratio is good from the viewpoint of liquidity**; a low ratio would indicate that inventory is **not used, sold or lost and stays on a shelf or in the warehouse for a long time**.",
+    "**(ii) Receivables (debtors) turnover ratio.** Where a firm sells goods on credit, realisation of sales revenue is delayed and receivables are created. **The speed with which these receivables are collected affects the liquidity position of the firm.** The ratio **throws light on the collection and credit policies of the firm**. ==**Receivables Turnover Ratio = Credit Sales ÷ Average Accounts Receivable.**== A **low** debtors turnover ratio reflects **liberal credit terms granted to customers**; a **high** ratio shows that **collections are made rapidly**. ==**Receivables velocity or average collection period = Average Accounts Receivable ÷ Average Daily Credit Sales**, or **12 months / 52 weeks / 360 days ÷ Receivables Turnover Ratio**==, where **average daily credit sales = credit sales ÷ number of days in the year (say 360)**. It measures the **average number of days it takes to collect an account receivable** and is also referred to as the **number of days of receivable** or the **number of days' sales in receivables**.",
+    "**(iii) Payables turnover ratio** is calculated on the same lines and **measures how fast a company makes payment to its creditors**, showing the **velocity of payables payment**. ==**Payables Turnover Ratio = Annual Net Credit Purchases ÷ Average Accounts Payable.**== A **low** creditors turnover ratio reflects **liberal credit terms granted by suppliers**; a **high** ratio shows accounts are settled rapidly. ==**Payables velocity or average payment period = Average Accounts Payable ÷ Average Daily Credit Purchases**, or **12 months / 52 weeks / 360 days ÷ Payables Turnover Ratio**.== The firm can compare **what credit period it receives from suppliers with what it offers to customers**, and against the industry average.",
+    "==The study material notes that **inventory turnover, receivables turnover and payables turnover are also relevant to examine the liquidity of an organisation**.==",
+    "**The study material's notes for calculating these ratios.** (1) ==**Only selling and distribution expenses differentiate Cost of Goods Sold (COGS) and Cost of Sales (COS); in their absence COGS will be equal to Cost of Sales.**== (2) **Cost of goods sold or cost of sales can be used to calculate turnover ratios, eliminating the profit part.** (3) **Average total assets, fixed assets, current assets, net assets or working capital can also be taken in the denominator; in fact when average figures are available it may be preferred to use them.** (4) **Ratios shall be calculated based on requirement and availability of information and may deviate from the original formulae; if required, assumptions should be given.**"
+   ],
+   "example": "Cost of goods sold ₹36,00,000, opening stock ₹2,50,000 and closing stock ₹3,50,000 give an average inventory of ₹3,00,000 and an inventory turnover of 12 times — inventory is held, on average, for 30 days of a 360-day year.",
+   "provisions": [
+    {
+     "ref": "Correspondence rule (SM §3.3)",
+     "status": "VERIFIED",
+     "requirement": "Cost of goods sold with average inventory; credit sales with average receivables; credit purchases with average payables. The numerator must correspond to the denominator.",
+     "exam_angle": "ICAI questions routinely say 'based on cost of goods sold' or 'all sales are credit sales' — the instruction is the mark."
+    },
+    {
+     "ref": "COGS versus cost of sales (SM §3.3)",
+     "status": "VERIFIED",
+     "requirement": "Only selling and distribution expenses differentiate the two; in their absence they are equal.",
+     "exam_angle": "Reverse-working questions hinge on this when both figures are given."
+    }
+   ],
+   "keywords": [
+    "asset management ratios",
+    "frequency of sales",
+    "total asset turnover",
+    "fixed assets turnover",
+    "capital turnover",
+    "net asset turnover",
+    "current assets turnover",
+    "working capital turnover",
+    "average inventory",
+    "raw material consumed",
+    "credit sales",
+    "average accounts receivable",
+    "average collection period",
+    "number of days' sales in receivables",
+    "annual net credit purchases",
+    "average payment period"
+   ],
+   "memory": {
+    "trick": "**Every turnover ratio is a flow over a stock**: put the flow (sales, cost of goods sold, purchases, consumption) on top and the thing being turned over underneath. Turn the ratio upside down and multiply by 360 to get days.",
+    "key": [
+     [
+      "Inventory turnover",
+      "COGS ÷ Average inventory"
+     ],
+     [
+      "Raw material turnover",
+      "Raw material consumed ÷ Average raw material stock"
+     ],
+     [
+      "Receivables turnover",
+      "Credit sales ÷ Average receivables"
+     ],
+     [
+      "Payables turnover",
+      "Annual net credit purchases ÷ Average payables"
+     ],
+     [
+      "Days",
+      "360 ÷ turnover ratio"
+     ],
+     [
+      "Working capital turnover",
+      "Very high means more working capital will be needed"
+     ]
+    ],
+    "recall_trigger": "Flow over stock; 360 over turnover"
+   },
+   "mistakes": [
+    "Using sales when the question says 'based on cost of goods sold'.",
+    "Using total sales instead of credit sales for the receivables turnover ratio.",
+    "Using closing stock instead of average stock when both opening and closing figures are given.",
+    "Reading a very high working capital turnover as purely good; the study material says it signals a need to raise more working capital."
+   ],
+   "compare": {
+    "title": "Receivables versus payables turnover (SM §3.3)",
+    "headers": [
+     "Basis",
+     "Receivables turnover",
+     "Payables turnover"
+    ],
+    "rows": [
+     [
+      "Formula",
+      "Credit sales ÷ Average accounts receivable",
+      "Annual net credit purchases ÷ Average accounts payable"
+     ],
+     [
+      "A low ratio means",
+      "Liberal credit terms granted to customers",
+      "Liberal credit terms granted by suppliers"
+     ],
+     [
+      "A high ratio means",
+      "Collections are made rapidly",
+      "Accounts are settled rapidly"
+     ],
+     [
+      "Days version",
+      "Average collection period",
+      "Average payment period"
+     ]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §5: the operating cycle is these same periods added together",
+    "🔗 FM Ch 3 §3.1: the study material says liquidity ratios must be read with turnover ratios"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Compute a named set of turnover ratios and holding periods (May 2025 Q1(a), Jan 2026 Q1(a))",
+     "Find a missing balance-sheet figure from a turnover ratio",
+     "MCQ on the creditors turnover formula (RTP Sep 2024, Sep 2026)"
+    ],
+    "approach": [
+     "Build cost of goods sold first — opening stock + purchases − closing stock — then work each ratio",
+     "Convert to days by dividing 360 by the turnover ratio"
+    ],
+    "official_pattern": "PYQ-M25-Q1a; PYQ-J26-Q1a; RTP-S24-FQ2; RTP-S26-FQ3; MTP-J26-S1-FQ1b; MTP-J26-S2-FQ1a; MTP-S24-S1-FQ1a.",
+    "time_tip": "5 marks ≈ 9 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "Working note deriving sales, COGS and purchases",
+     "Formula for each ratio",
+     "Substitution and answer in times",
+     "Days version where asked"
+    ],
+    "keywords": [
+     "average inventory",
+     "credit sales",
+     "net credit purchases"
+    ],
+    "length": "5 marks: one working note plus each ratio asked",
+    "conclusion": "Compare the collection period with the payment period — that gap is where working capital is locked up.",
+    "avoid": [
+     "Mixing sales into one ratio and cost of goods sold into another without saying why"
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "RTP-S26-FQ3",
+     "status": "VERIFIED",
+     "format": "MCQ",
+     "question": "MT Ltd.'s opening stock was ₹3,20,000 and closing stock ₹4,80,000, with given sales and gross profit. Compute the creditors turnover ratio.",
+     "answer_points": [
+      "**Creditors Turnover Ratio = Purchases ÷ Average Accounts Payable.**",
+      "Purchases are derived from cost of goods sold: **Cost of Goods Sold = Opening Stock + Purchases − Closing Stock**, so **Purchases = Cost of Goods Sold − Opening Stock + Closing Stock**.",
+      "Average accounts payable = (Opening creditors + Closing creditors) ÷ 2.",
+      "ICAI's working shows the same chain in its Sep 2024 RTP for KT Ltd., where the opening stock was ₹2,50,000 and the closing stock ₹3,75,000."
+     ],
+     "conclusion": "The examinable step is deriving purchases from cost of goods sold, not the division itself.",
+     "keywords": [
+      "purchases",
+      "average accounts payable",
+      "cost of goods sold"
+     ],
+     "also_asked_as": [
+      "RTP-S24-FQ2 (KT Ltd — same creditors turnover chain)"
+     ]
+    },
+    {
+     "id": "PYQ-J26-Q1a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "From the books of AIL Limited for 2024-25: gross profit margin (25% of sales) ₹30,00,000; inventory holding period 28 days; opening inventory ₹8,00,000; current ratio 1.20; quick ratio 0.80; selling and distribution expenses ₹12,00,000; depreciation and other non-cash expenses ₹4,80,000. Assume 360 days. Calculate (i) inventory as on 31.03.2025, (ii) working capital, (iii) basic defense interval.",
+     "answer_points": [
+      "**Step 1 — Sales and cost of goods sold.** Gross profit is ₹30,00,000 and is 25% of sales, so **Sales = ₹30,00,000 ÷ 0.25 = ₹1,20,00,000** and **Cost of goods sold = ₹1,20,00,000 − ₹30,00,000 = ₹90,00,000**.",
+      "**Step 2 — Average and closing inventory.** Inventory holding period 28 days means the inventory turnover ratio is 360 ÷ 28 times. Average inventory = Cost of goods sold ÷ Inventory turnover = ₹90,00,000 × 28 ÷ 360 = **₹7,00,000**. Since average inventory = (opening + closing) ÷ 2 and opening inventory is ₹8,00,000, **closing inventory = (2 × ₹7,00,000) − ₹8,00,000 = ₹6,00,000**.",
+      "**Step 3 — Working capital.** The gap between the current ratio and the quick ratio is inventory: current assets − quick assets = inventory, i.e. (1.20 − 0.80) × current liabilities = ₹6,00,000, so **current liabilities = ₹6,00,000 ÷ 0.40 = ₹15,00,000** and **current assets = 1.20 × ₹15,00,000 = ₹18,00,000**. **Working capital = ₹18,00,000 − ₹15,00,000 = ₹3,00,000.**",
+      "**Step 4 — Basic defense interval.** SM §3.1(d): (Current assets − prepaid expenses − inventories) ÷ Daily operating expenses. Liquid assets = ₹18,00,000 − ₹6,00,000 = ₹12,00,000. Daily operating expenses = (Cost of goods sold + selling and distribution expenses − depreciation and other non-cash expenses) ÷ 360 = (₹90,00,000 + ₹12,00,000 − ₹4,80,000) ÷ 360 = ₹97,20,000 ÷ 360 = ₹27,000. **Basic defense interval = ₹12,00,000 ÷ ₹27,000 = 44.44 days (approx.).**",
+      "The chain to remember: gross profit ratio gives sales and cost of goods sold; the holding period gives average and then closing inventory; the gap between the current and quick ratios gives current liabilities."
+     ],
+     "conclusion": "Three requirements, but one chain — sales, then inventory, then the two ratios, then the defense interval.",
+     "keywords": [
+      "inventory holding period",
+      "gap between current and quick ratio",
+      "daily operating expenses",
+      "basic defense interval"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "MTP-J26-S1-FQ1b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Prashuk Ltd.: fixed assets turnover ratio (based on cost of sales) 8 times; capital turnover ratio (based on cost of sales) 2 times; inventory turnover 8 times; receivable turnover 4 times; payable turnover 6 times; GP ratio 25%. Gross profit for the year is ₹8,00,000. There is no long-term loan or overdraft. Reserves and surplus amount to ₹2,00,000. Ending inventory is ₹20,000 above the beginning inventory. Determine the various assets and liabilities of the company.",
+     "answer_points": [
+      "**Step 1 — Sales and cost of sales.** Gross profit is 25% of sales and amounts to ₹8,00,000, so **Sales = ₹32,00,000** and **cost of sales = ₹24,00,000**.",
+      "**Step 2 — Fixed assets and capital employed.** Fixed assets turnover 8 times on cost of sales gives **fixed assets = ₹24,00,000 ÷ 8 = ₹3,00,000**. Capital turnover 2 times gives **capital employed = ₹24,00,000 ÷ 2 = ₹12,00,000**.",
+      "**Step 3 — Inventory.** Inventory turnover 8 times on cost of sales gives an **average inventory of ₹3,00,000**; since ending inventory is ₹20,000 above the beginning, **closing inventory = ₹3,10,000 and opening inventory = ₹2,90,000**.",
+      "**Step 4 — Receivables and payables.** Receivable turnover 4 times on sales gives **receivables = ₹32,00,000 ÷ 4 = ₹8,00,000**. Purchases = cost of sales − opening inventory + closing inventory = ₹24,00,000 + ₹20,000 = ₹24,20,000, so **payables = ₹24,20,000 ÷ 6 = ₹4,03,333 (approx.)**.",
+      "**Step 5 — The funding side.** With no long-term loan or overdraft, capital employed of ₹12,00,000 is share capital plus reserves and surplus of ₹2,00,000, so **share capital = ₹10,00,000**; cash is the balancing current asset.",
+      "The instruction 'based on cost of sales' appears twice here and is the marks: using sales instead would inflate both fixed assets and capital employed."
+     ],
+     "conclusion": "Five turnover ratios, five figures — each one a single division once sales and cost of sales are known.",
+     "keywords": [
+      "based on cost of sales",
+      "capital turnover",
+      "payable turnover",
+      "balancing figure"
+     ]
+    },
+    {
+     "id": "MTP-J26-S2-FQ1a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "A concern reports: debtors velocity 3 months; creditors velocity 2 months; stock turnover ratio 1.5; gross profit ratio 25%; bills receivable ₹25,000; bills payable ₹10,000; gross profit ₹4,00,000; fixed assets to turnover ratio 4. Closing stock is ₹10,000 above the opening stock. Calculate (i) sales and cost of goods sold, (ii) sundry debtors, (iii) sundry creditors, (iv) closing stock, (v) fixed assets.",
+     "answer_points": [
+      "**(i) Sales and cost of goods sold.** Gross profit is 25% of sales and is ₹4,00,000, so **Sales = ₹16,00,000** and **Cost of goods sold = ₹12,00,000**.",
+      "**(ii) Sundry debtors.** Debtors velocity 3 months gives total receivables = ₹16,00,000 × 3 ÷ 12 = ₹4,00,000. Bills receivable of ₹25,000 form part of that, so **sundry debtors = ₹4,00,000 − ₹25,000 = ₹3,75,000**.",
+      "**(iii) Sundry creditors.** Purchases = Cost of goods sold + increase in stock = ₹12,00,000 + ₹10,000 = ₹12,10,000. Creditors velocity 2 months gives total payables = ₹12,10,000 × 2 ÷ 12 = ₹2,01,667, and deducting bills payable of ₹10,000 leaves **sundry creditors = ₹1,91,667 (approx.)**.",
+      "**(iv) Closing stock.** Stock turnover 1.5 on cost of goods sold gives an average stock of ₹12,00,000 ÷ 1.5 = ₹8,00,000; with closing ₹10,000 above opening, **closing stock = ₹8,05,000** and opening stock = ₹7,95,000.",
+      "**(v) Fixed assets.** Fixed assets to turnover ratio 4 gives **fixed assets = ₹16,00,000 ÷ 4 = ₹4,00,000**.",
+      "The two traps: bills receivable and bills payable must be **deducted** from the total to reach sundry debtors and sundry creditors, and purchases, not cost of goods sold, drive the creditors velocity."
+     ],
+     "conclusion": "Five requirements; the bills receivable and bills payable adjustments are where marks are lost.",
+     "keywords": [
+      "debtors velocity",
+      "creditors velocity",
+      "bills receivable",
+      "purchases"
+     ]
+    }
+   ],
+   "expected_questions": [
+    {
+     "id": "EQ-F03.11-1",
+     "form": "Compute (5 marks)",
+     "marks": 5,
+     "question": "A company reports sales of ₹48,00,000 (all on credit), a gross profit ratio of 25%, opening stock ₹2,50,000, closing stock ₹3,50,000, opening debtors ₹5,50,000, closing debtors ₹6,50,000, opening creditors ₹3,00,000 and closing creditors ₹3,60,000. All purchases are on credit. Assume a 360-day year. Compute the inventory turnover ratio, the receivables turnover ratio and collection period, and the payables turnover ratio and payment period.",
+     "answer_points": [
+      "**Working note 1 — Cost of goods sold** = Sales − Gross profit = ₹48,00,000 − 25% of ₹48,00,000 = **₹36,00,000**.",
+      "**Working note 2 — Purchases** = Cost of goods sold − Opening stock + Closing stock = ₹36,00,000 − ₹2,50,000 + ₹3,50,000 = **₹37,00,000**.",
+      "**Inventory turnover ratio** = Cost of goods sold ÷ Average inventory = ₹36,00,000 ÷ [(₹2,50,000 + ₹3,50,000) ÷ 2] = ₹36,00,000 ÷ ₹3,00,000 = **12 times**; inventory holding period = 360 ÷ 12 = **30 days**.",
+      "**Receivables turnover ratio** = Credit sales ÷ Average accounts receivable = ₹48,00,000 ÷ [(₹5,50,000 + ₹6,50,000) ÷ 2] = ₹48,00,000 ÷ ₹6,00,000 = **8 times**; average collection period = 360 ÷ 8 = **45 days**.",
+      "**Payables turnover ratio** = Annual net credit purchases ÷ Average accounts payable = ₹37,00,000 ÷ [(₹3,00,000 + ₹3,60,000) ÷ 2] = ₹37,00,000 ÷ ₹3,30,000 = **11.21 times**; average payment period = 360 ÷ 11.21 = **32 days (approx.)**.",
+      "Comment: the firm collects in 45 days but pays in 32, so it funds a 13-day gap plus 30 days of stock out of its own working capital."
+     ],
+     "keywords": [
+      "cost of goods sold",
+      "average inventory",
+      "collection period",
+      "payment period"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F03.11-01",
+     "angle": "Formula",
+     "difficulty": "Easy",
+     "question": "The raw material inventory turnover ratio is computed as:",
+     "options": {
+      "A": "Raw material consumed ÷ Average raw material stock",
+      "B": "Sales ÷ Average raw material stock",
+      "C": "Purchases ÷ Closing raw material stock",
+      "D": "Cost of goods sold ÷ Average total inventory"
+     },
+     "answer": "A",
+     "explanation": "SM §3.3: in the case of inventory of raw material, the ratio is raw material consumed ÷ average raw material stock.",
+     "why_wrong": {
+      "B": "Sales include profit and the finished-goods stage.",
+      "C": "The denominator should be the average, not the closing, stock.",
+      "D": "That is the general inventory turnover ratio."
+     },
+     "trap": "Consumption, not purchases, is the flow that turns raw material over.",
+     "concept": "F03.11"
+    },
+    {
+     "id": "MCQ-F03.11-02",
+     "angle": "Interpretation",
+     "difficulty": "Moderate",
+     "question": "As per the study material, a firm whose plant and machinery are old is likely to show:",
+     "options": {
+      "A": "A lower fixed assets turnover ratio than a firm that bought them recently",
+      "B": "A lower inventory turnover ratio",
+      "C": "A higher fixed assets turnover ratio than a firm that bought them recently",
+      "D": "A higher current ratio"
+     },
+     "answer": "C",
+     "explanation": "SM §3.3: a firm whose plant and machinery are old may show a higher fixed assets turnover ratio than a firm which has purchased them recently, because the written-down value in the denominator is lower.",
+     "why_wrong": {
+      "A": "The opposite of the study material's caution.",
+      "B": "Inventory turnover is unrelated to the age of fixed assets.",
+      "D": "Fixed assets do not enter the current ratio."
+     },
+     "trap": "A 'better' ratio here can be an accident of depreciation, not of efficiency.",
+     "concept": "F03.11"
+    }
+   ],
+   "recap": [
+    "Activity ratios are asset management ratios: a flow over the asset being turned over.",
+    "Inventory: COGS ÷ average inventory. Receivables: credit sales ÷ average receivables. Payables: credit purchases ÷ average payables.",
+    "Days = 360 ÷ the turnover ratio.",
+    "COGS and cost of sales differ only by selling and distribution expenses."
+   ]
+  },
+  {
+   "code": "F03.12 + F03.13",
+   "title": "3.4–3.4.1 Profitability Ratios and those Based on Sales",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (May 2024 Q1(a)) · MTP 2 (Mar 2024 Series II, Sep 2025 Series II)",
+   "understand": [
+    "==**Profitability ratios measure the profitability or the operational efficiency of the firm**; they **reflect the final results of business operations** and are **some of the most closely watched and widely quoted ratios**. Management attempts to maximise them **to maximise the firm's value**.==",
+    "Results can be evaluated **with reference to a given level of assets, or sales, or owner's interest**, so profitability ratios fall into **four categories: (i) related to sales, (ii) related to overall return on investment, (iii) required for analysis from the owner's point of view, (iv) related to market, valuation and investors**.",
+    "**(a) Gross profit ratio or gross profit margin** ==**= (Gross Profit × 100) ÷ Sales**==. It **measures the percentage of each sale in rupees remaining after payment for the goods sold**. It **depends on the relationship between sales price, volume and costs**, and a **high gross profit margin is a favourable sign of good management**.",
+    "**(b) Net profit ratio or net profit margin** measures the relationship between net profit and sales. Depending on the concept of net profit: ==**Net Profit Ratio = (Net Profit × 100) ÷ Sales**, or **(Earnings after taxes × 100) ÷ Sales**; and **Pre-tax Profit Ratio = (Earnings before taxes × 100) ÷ Sales**.== It finds **the proportion of revenue that finds its way into profits after meeting all expenses**; a high ratio indicates positive returns from the business.",
+    "**(c) Operating profit ratio** is calculated to evaluate the **operating performance** of the business. ==**Operating Profit Ratio = (Operating Profit × 100) ÷ Sales**, or **(EBIT × 100) ÷ Sales**, where **Operating Profit = Sales − Cost of Goods Sold − Operating Expenses**.== It measures **the percentage of each sale in rupees that remains after payment of all costs and expenses except interest and taxes**. It is **followed closely by analysts because it focuses on operating results**, and **operating profit is often referred to as earnings before interest and taxes**.",
+    "**(d) Expenses ratios**, in four variants: ==**Cost of Goods Sold Ratio = (COGS × 100) ÷ Sales**; **Operating Expenses Ratio = [(Administrative expenses + Selling and Distribution overheads) × 100] ÷ Sales**; **Operating Ratio = [(COGS + Operating expenses) × 100] ÷ Sales**; **Financial Expenses Ratio = (Financial expenses × 100) ÷ Sales**==, where financial expenses **exclude taxes, loss due to theft, goods destroyed by fire and the like**. **Administration expenses ratio and selling and distribution expenses ratio can be calculated in similar ways.**"
+   ],
+   "example": "Sales ₹50,00,000, cost of goods sold ₹35,00,000 and operating expenses ₹7,50,000 give a gross profit ratio of 30%, an operating ratio of 85% and an operating profit ratio of 15%. Operating ratio and operating profit ratio always add to 100%.",
+   "provisions": [
+    {
+     "ref": "Operating profit (SM §3.4.1)",
+     "status": "VERIFIED",
+     "requirement": "Sales − cost of goods sold − operating expenses, i.e. EBIT; the ratio measures what is left of each rupee of sale after all costs except interest and taxes.",
+     "exam_angle": "The bridge between this chapter and leverage: EBIT here is the EBIT of Chapter 6."
+    }
+   ],
+   "keywords": [
+    "operational efficiency",
+    "final results of business operations",
+    "gross profit margin",
+    "favourable sign of good management",
+    "net profit ratio",
+    "pre-tax profit ratio",
+    "operating profit ratio",
+    "focuses on operating results",
+    "cost of goods sold ratio",
+    "operating expenses ratio",
+    "operating ratio",
+    "financial expenses ratio"
+   ],
+   "memory": {
+    "trick": "Walk down the profit and loss account: **Gross → Operating → Pre-tax → Net.** Each has its own ratio, and each drops one more layer of cost.",
+    "key": [
+     [
+      "Gross profit ratio",
+      "Gross profit ÷ Sales · after cost of goods sold"
+     ],
+     [
+      "Operating profit ratio",
+      "EBIT ÷ Sales · after operating expenses too"
+     ],
+     [
+      "Pre-tax profit ratio",
+      "EBT ÷ Sales · after interest"
+     ],
+     [
+      "Net profit ratio",
+      "EAT ÷ Sales · after tax"
+     ],
+     [
+      "Operating ratio",
+      "(COGS + operating expenses) ÷ Sales · the mirror of the operating profit ratio"
+     ]
+    ],
+    "recall_trigger": "Gross, Operating, Pre-tax, Net"
+   },
+   "mistakes": [
+    "Confusing the operating ratio (costs over sales) with the operating profit ratio (profit over sales); they are complements.",
+    "Including interest in operating expenses; operating profit is struck before interest and taxes.",
+    "Including taxes or abnormal losses in financial expenses."
+   ],
+   "links": [
+    "🔗 FM Ch 6: EBIT drives operating and financial leverage",
+    "🔗 FM Ch 3 §3.4.2: these margins multiply with turnover to give return on investment"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Compute gross profit, operating and net profit ratios in a named list (May 2024 Q1(a))",
+     "Derive sales or cost of goods sold backwards from the gross profit ratio in a reverse-working question"
+    ],
+    "approach": [
+     "Lay out a small profit and loss statement first; every ratio then falls out of it"
+    ],
+    "official_pattern": "PYQ-M24-Q1a; MTP-M24-S2-FQ3a; MTP-S25-S2-FQ1b.",
+    "time_tip": "5 marks ≈ 9 minutes (study guidance)."
+   },
+   "mcqs": [
+    {
+     "id": "MCQ-F03.13-01",
+     "angle": "Definition",
+     "difficulty": "Easy",
+     "question": "Operating profit, as defined in the study material, is:",
+     "options": {
+      "A": "Sales − Cost of goods sold",
+      "B": "Sales − Cost of goods sold − Operating expenses − Interest",
+      "C": "Earnings after taxes",
+      "D": "Sales − Cost of goods sold − Operating expenses"
+     },
+     "answer": "D",
+     "explanation": "SM §3.4.1: Operating Profit = Sales − Cost of Goods Sold − Operating Expenses, and is often referred to as earnings before interest and taxes.",
+     "why_wrong": {
+      "A": "That is gross profit.",
+      "B": "Deducting interest gives earnings before taxes.",
+      "C": "That is net profit after tax."
+     },
+     "trap": "Operating profit stops before interest; that is the whole point of the ratio.",
+     "concept": "F03.13"
+    },
+    {
+     "id": "MCQ-F03.13-02",
+     "angle": "Composition",
+     "difficulty": "Moderate",
+     "question": "The financial expenses ratio, as per the study material, excludes:",
+     "options": {
+      "A": "Interest on debentures",
+      "B": "Interest on bank borrowings",
+      "C": "Taxes and losses due to theft or goods destroyed by fire",
+      "D": "Interest on public deposits"
+     },
+     "answer": "C",
+     "explanation": "SM §3.4.1 footnote: financial expenses exclude taxes, loss due to theft, goods destroyed by fire and the like.",
+     "why_wrong": {
+      "A": "Interest is a financial expense.",
+      "B": "Interest is a financial expense.",
+      "D": "Interest is a financial expense."
+     },
+     "trap": "Abnormal losses and tax are not financing costs, however much they reduce profit.",
+     "concept": "F03.13"
+    }
+   ],
+   "recap": [
+    "Profitability ratios reflect the final results of operations, in four families.",
+    "Gross profit ratio, net profit ratio, pre-tax profit ratio, operating profit ratio — walk down the profit and loss account.",
+    "Operating profit = sales − COGS − operating expenses = EBIT.",
+    "Expenses ratios: COGS, operating expenses, operating and financial expenses, each over sales."
+   ]
+  },
+  {
+   "code": "F03.14",
+   "title": "3.4.2 Profitability Ratios Related to Overall Return on Assets or Investments",
+   "activity": "Very High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (Sep 2025 Q1(b)) · RTP 2 (Jan 2026 Du Pont, Sep 2026) · MTP 2 (Mar 2024 Series II, May 2026 Series I)",
+   "understand": [
+    "==**Return on Investment (ROI) is the most important ratio of all.** It is the **percentage of return on funds invested in the business by its owners** and tells the owner **whether or not all the effort put into the business has been worthwhile**.== ==**ROI = (Return or Profit or Earnings × 100) ÷ Investment**, which can be split as **(Return ÷ Sales) × (Sales ÷ Investment) = Profitability Ratio × Investment Turnover Ratio**.== So ==**ROI can be improved either by improving the profitability ratio, or the investment turnover ratio, or both**.==",
+    "Investment may be **total assets or net assets**; **funds employed in net assets are also known as capital employed, which is net worth plus debt**, where **net worth is the equity shareholders' fund**. The three broad categories are **Return on Assets (ROA) — including Return on Total Assets (ROTA) and Return on Net Assets (RONA) — Return on Capital Employed (ROCE), and Return on Equity (ROE)**.",
+    "**(i) Return on Assets (ROA)** measures profitability **in terms of assets employed to earn that profit**. ==**ROA = Net Profit after taxes ÷ Average Total Assets** (or Average Tangible Assets, or Average Fixed Assets)==; sometimes **total assets may be used instead of average assets**. Here net profit is exclusive of interest; because **assets are also financed by lenders**, ROA can also be computed as ==**(Net Profit after taxes + Interest) ÷ Average Total/Tangible/Fixed Assets**, or **EBIT(1 − t) ÷ Average Total Assets** — known as **Return on Total Assets (ROTA)** — or **EBIT(1 − t) ÷ Average Net Assets** — known as **Return on Net Assets (RONA)**.==",
+    "**(ii) Return on Capital Employed (ROCE)**, another variation of ROI: ==**ROCE (Pre-tax) = (EBIT × 100) ÷ Capital Employed**; **ROCE (Post-tax) = [EBIT(1 − t) × 100] ÷ Capital Employed**==; sometimes also **[(Net Profit after taxes + Interest) × 100] ÷ Capital Employed**. ==**Capital Employed = Total Assets − Current Liabilities**, or **Fixed Assets + Working Capital**, or **Equity + Long Term Debt**.== ==**ROCE should always be higher than the rate at which the company borrows.**== **Intangible assets** (goodwill, patents, trade marks) **should be included in capital employed**, but **no fictitious asset (such as deferred expenses) should be included**. If information is available, **average capital employed shall be taken**.",
+    "**(iii) Return on Equity (ROE)** measures the profitability of equity funds invested in the firm and **reveals how profitably the owners' funds have been utilised**. ==**ROE = [(Net Profit after taxes − Preference dividend, if any) ÷ Net Worth or Equity Shareholders' Funds] × 100.**== It is **one of the most important indicators of a firm's profitability and potential growth**: companies with a high ROE and little or no debt **can grow without large capital expenditures**. The study material's caution: **two companies can have the same return on equity, yet one can be a much better business**. If **return on total shareholders** is calculated, **net profit after taxes before preference dividend is divided by the total shareholders' fund including preference share capital**.",
+    "**The Du Pont model.** A finance executive at E.I. Du Pont de Nemours and Co. created the DuPont system of financial analysis in **1919**. Its three components are the **net profit margin, the asset turnover and the equity multiplier**. **(i) Profitability or net profit margin = Profit or Net Income ÷ Sales or Revenue** — the after-tax profit per rupee of revenue; it varies across industries, and **it is not uncommon for management purposely to lower the net profit margin in a bid to attract higher sales**. The study material calls the margin **a safety cushion: the lower the margin, the less room for an error** — a business with a 1% margin **has no room for flawed execution**. **(ii) Investment turnover, asset turnover or capital turnover = Sales or Revenue ÷ Investment, Assets or Capital** — how effectively a company converts its assets into sales; it **tends to be inversely related to the net profit margin**. **(iii) Equity multiplier = Investment, Assets or Capital ÷ Shareholders' Equity** — a **measure of financial leverage** that **allows the investor to see what portion of the return on equity is the result of debt**, since **a company with terrible sales and margins can take on excessive debt and artificially increase its return on equity**.",
+    "==**Return on Equity = Net Profit Margin × Asset Turnover × Equity Multiplier.**== The study material's worked example: revenue ₹29,261, net income ₹4,212, assets ₹27,987 and shareholders' equity ₹13,572 give a net profit margin of **14.39%**, an asset turnover of **1.0455** and an equity multiplier of **2.0621**, so ROE = 0.1439 × 1.0455 × 2.0621 = **31.02%**. Leaving out the equity multiplier shows what the company would earn if it were completely debt-free: ROE drops to **15.04%** (0.1439 × 1.0455). So **15.04% of the return on equity was due to profit margins and sales, while the remaining 15.98% was due to returns earned on the debt at work in the business** — and a company at a comparable valuation with the same ROE but a higher internally generated portion **would be more attractive**."
+   ],
+   "example": "EBIT ₹12,00,000, tax 30%, total assets ₹60,00,000 and current liabilities ₹10,00,000 give capital employed of ₹50,00,000, a pre-tax ROCE of 24% and a post-tax ROCE of 16.8%. If the company borrows at 12%, the 24% pre-tax ROCE clears the study material's test comfortably.",
+   "provisions": [
+    {
+     "ref": "ROCE test (SM §3.4.2)",
+     "status": "VERIFIED",
+     "requirement": "ROCE should always be higher than the rate at which the company borrows; intangible assets are included in capital employed, fictitious assets are not.",
+     "exam_angle": "A one-line comment that earns a mark in 'compute and comment' questions."
+    },
+    {
+     "ref": "Du Pont identity (SM §3.4.2)",
+     "status": "VERIFIED",
+     "requirement": "ROE = net profit margin × asset turnover × equity multiplier, where the equity multiplier is assets over shareholders' equity.",
+     "exam_angle": "Set as an MCQ in the January 2026 RTP: ROE = NPM × TATR × (assets ÷ equity)."
+    }
+   ],
+   "keywords": [
+    "return on investment",
+    "profitability ratio",
+    "investment turnover ratio",
+    "return on assets",
+    "return on total assets",
+    "return on net assets",
+    "return on capital employed",
+    "capital employed",
+    "higher than the rate at which the company borrows",
+    "fictitious asset",
+    "return on equity",
+    "net worth",
+    "Du Pont",
+    "net profit margin",
+    "asset turnover",
+    "equity multiplier",
+    "safety cushion"
+   ],
+   "memory": {
+    "trick": "**ROI = margin × turnover.** Du Pont just adds a third lever: **ROE = margin × turnover × leverage.** Raise any one and the return rises — but the third one is borrowed, not earned.",
+    "key": [
+     [
+      "ROI",
+      "Profit ÷ Investment = Profitability ratio × Investment turnover ratio"
+     ],
+     [
+      "ROA / ROTA / RONA",
+      "EBIT(1 − t) over average total or net assets"
+     ],
+     [
+      "ROCE",
+      "EBIT ÷ Capital employed (Total assets − Current liabilities)"
+     ],
+     [
+      "ROE",
+      "(PAT − Preference dividend) ÷ Net worth"
+     ],
+     [
+      "Du Pont",
+      "ROE = Net profit margin × Asset turnover × Equity multiplier"
+     ]
+    ],
+    "recall_trigger": "Margin × turnover × leverage"
+   },
+   "mistakes": [
+    "Including fictitious assets such as deferred expenses in capital employed; intangibles are included, fictitious assets are not.",
+    "Forgetting to deduct preference dividend from profit after tax when computing ROE.",
+    "Treating a high ROE as automatically good; the equity multiplier may be doing the work."
+   ],
+   "compare": {
+    "title": "ROA, ROCE and ROE (SM §3.4.2)",
+    "headers": [
+     "Basis",
+     "Return on Assets",
+     "Return on Capital Employed",
+     "Return on Equity"
+    ],
+    "rows": [
+     [
+      "Investment base",
+      "Average total, tangible or fixed assets",
+      "Total assets − current liabilities (= equity + long-term debt)",
+      "Net worth, i.e. equity shareholders' funds"
+     ],
+     [
+      "Return used",
+      "PAT, or PAT + interest, or EBIT(1 − t)",
+      "EBIT (pre-tax) or EBIT(1 − t) (post-tax)",
+      "PAT less preference dividend"
+     ],
+     [
+      "Whose view",
+      "The firm's use of its assets",
+      "All long-term providers of capital",
+      "Equity shareholders only"
+     ],
+     [
+      "Test",
+      "Higher is better",
+      "Must exceed the borrowing rate",
+      "High with little debt is strongest"
+     ]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 4: the weighted average cost of capital that ROCE must beat",
+    "🔗 FM Ch 6: the equity multiplier is financial leverage seen from the balance sheet"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Compute PAT, net profit margin, return on assets, asset turnover and return on equity from projections (Sep 2025 Q1(b))",
+     "Du Pont MCQ on the three components (RTP Jan 2026)",
+     "ROCE MCQ from total assets and current liabilities (RTP Sep 2026)"
+    ],
+    "approach": [
+     "Build the profit and loss statement down to PAT, then pick the base for each ratio",
+     "State which definition of capital employed you are using"
+    ],
+    "official_pattern": "PYQ-S25-Q1b; RTP-S26-FQ2; MTP-M24-S2-FQ3a; MTP-M26-S1-FQ1a.",
+    "time_tip": "5 marks ≈ 9 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "Profit and loss working note down to PAT",
+     "Formula for each return",
+     "Substitution",
+     "Comment: does ROCE beat the borrowing rate?"
+    ],
+    "keywords": [
+     "capital employed",
+     "net worth",
+     "equity multiplier"
+    ],
+    "length": "5 marks: one working note plus five ratios",
+    "conclusion": "Say which of margin, turnover or leverage is driving the return.",
+    "avoid": [
+     "Using the same 'investment' figure for ROA, ROCE and ROE without distinguishing them"
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-S25-Q1b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Diwan Limited plans to use total assets of ₹50,00,000, with 35% of assets financed through debt at 10.50% per annum. Projected sales revenue is ₹55,00,000, direct costs ₹30,00,000 and other operating expenses ₹4,80,000. The tax rate is 33%. Compute (i) profit after tax, (ii) net profit margin (after tax), (iii) return on assets (after tax), (iv) asset turnover ratio and (v) return on equity.",
+     "answer_points": [
+      "**Working note — profit and loss:** Sales ₹55,00,000 less direct costs ₹30,00,000 less other operating expenses ₹4,80,000 gives **EBIT of ₹20,20,000**. Debt = 35% of ₹50,00,000 = ₹17,50,000; interest at 10.50% = **₹1,83,750**. So **EBT = ₹18,36,250**.",
+      "**(i) Profit after tax** = ₹18,36,250 × (1 − 0.33) = **₹12,30,287.50**.",
+      "**(ii) Net profit margin (after tax)** = (PAT × 100) ÷ Sales = (₹12,30,287.50 × 100) ÷ ₹55,00,000 = **22.37%**.",
+      "**(iii) Return on assets (after tax)** = (PAT × 100) ÷ Total assets = (₹12,30,287.50 × 100) ÷ ₹50,00,000 = **24.61%**.",
+      "**(iv) Asset turnover ratio** = Sales ÷ Total assets = ₹55,00,000 ÷ ₹50,00,000 = **1.1 times**.",
+      "**(v) Return on equity** = (PAT × 100) ÷ Equity, where equity = 65% of ₹50,00,000 = ₹32,50,000, so = (₹12,30,287.50 × 100) ÷ ₹32,50,000 = **37.86%**.",
+      "Note the Du Pont link: 22.37% × 1.1 × (50,00,000 ÷ 32,50,000 = 1.538) = 37.86% — the same answer by the three-component route."
+     ],
+     "conclusion": "One mark each; the working note down to PAT earns the first and carries the rest.",
+     "keywords": [
+      "EBIT",
+      "net profit margin",
+      "return on assets",
+      "asset turnover",
+      "return on equity"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "RTP-S26-FQ2",
+     "status": "VERIFIED",
+     "format": "MCQ",
+     "question": "Total assets and current liabilities of Manju Limited are ₹50 lakh and ₹10 lakh respectively, and ROCE is 15%. Determine the figure asked for.",
+     "answer_points": [
+      "**ROCE = EBIT ÷ Total Capital Employed**, and **Total Capital Employed = Total Assets − Current Liabilities** = ₹50 lakh − ₹10 lakh = **₹40 lakh**.",
+      "With ROCE at 15%, **EBIT = 15% of ₹40 lakh = ₹6 lakh**.",
+      "The study material gives two further definitions of capital employed that reach the same figure: fixed assets plus working capital, and equity plus long-term debt."
+     ],
+     "conclusion": "The examinable step is the definition of capital employed, not the percentage.",
+     "keywords": [
+      "capital employed",
+      "total assets less current liabilities"
+     ]
+    }
+   ],
+   "expected_questions": [
+    {
+     "id": "EQ-F03.14-1",
+     "form": "Compute and comment (5 marks)",
+     "marks": 5,
+     "question": "A company reports revenue of ₹29,261 lakh, net income of ₹4,212 lakh, assets of ₹27,987 lakh and shareholders' equity of ₹13,572 lakh. Compute the return on equity using the Du Pont model, and state how much of the return comes from operations and how much from debt.",
+     "answer_points": [
+      "**Net profit margin** = Net income ÷ Revenue = ₹4,212 ÷ ₹29,261 = **0.1439, or 14.39%**.",
+      "**Asset turnover** = Revenue ÷ Assets = ₹29,261 ÷ ₹27,987 = **1.0455 times**.",
+      "**Equity multiplier** = Assets ÷ Shareholders' equity = ₹27,987 ÷ ₹13,572 = **2.0621**.",
+      "**Return on equity** = Net profit margin × Asset turnover × Equity multiplier = 0.1439 × 1.0455 × 2.0621 = **0.3102, or 31.02%**.",
+      "Leaving out the equity multiplier shows what the company would earn if it were completely debt-free: 0.1439 × 1.0455 = **15.04%**. So **15.04% of the return on equity is due to profit margins and sales, and the remaining 15.98% is due to returns earned on the debt at work in the business**.",
+      "Comment: a company at a comparable valuation with the same return on equity but a higher internally generated portion would be the more attractive business."
+     ],
+     "keywords": [
+      "net profit margin",
+      "asset turnover",
+      "equity multiplier",
+      "debt at work in the business"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F03.14-01",
+     "angle": "Du Pont",
+     "difficulty": "Moderate",
+     "question": "Under the Du Pont model, return on equity equals net profit margin × total asset turnover ×:",
+     "options": {
+      "A": "Gross profit ratio",
+      "B": "The equity multiplier, i.e. assets ÷ shareholders' equity",
+      "C": "Interest coverage ratio",
+      "D": "Dividend payout ratio"
+     },
+     "answer": "B",
+     "explanation": "SM §3.4.2: the three components are net profit margin, asset turnover and the equity multiplier, which is investment/assets/capital ÷ shareholders' equity.",
+     "why_wrong": {
+      "A": "Not a Du Pont component.",
+      "C": "A coverage ratio, not a Du Pont component.",
+      "D": "An owner's-view ratio."
+     },
+     "trap": "The equity multiplier is a measure of financial leverage, which is exactly why it is the third term.",
+     "concept": "F03.14"
+    },
+    {
+     "id": "MCQ-F03.14-02",
+     "angle": "Capital employed",
+     "difficulty": "Easy",
+     "question": "Which item should NOT be included in capital employed when computing ROCE?",
+     "options": {
+      "A": "Goodwill",
+      "B": "Patents and trade marks",
+      "C": "Net fixed assets",
+      "D": "Deferred expenses"
+     },
+     "answer": "D",
+     "explanation": "SM §3.4.2: intangible assets such as goodwill, patents and trade marks should be included in capital employed, but no fictitious asset such as deferred expenses should be included.",
+     "why_wrong": {
+      "A": "An intangible asset, which is included.",
+      "B": "Intangible assets, which are included.",
+      "C": "Plainly part of capital employed."
+     },
+     "trap": "Intangible and fictitious are treated oppositely — that is the tested distinction.",
+     "concept": "F03.14"
+    }
+   ],
+   "recap": [
+    "ROI = profitability ratio × investment turnover ratio; improve either or both.",
+    "ROA on assets, ROCE on capital employed (total assets − current liabilities), ROE on net worth.",
+    "ROCE must exceed the borrowing rate; include intangibles, exclude fictitious assets.",
+    "Du Pont: ROE = margin × turnover × equity multiplier — the third term is borrowed return."
+   ]
+  }
+ ]
+}

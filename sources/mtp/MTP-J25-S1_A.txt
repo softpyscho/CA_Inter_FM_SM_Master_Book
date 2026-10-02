@@ -1,0 +1,1362 @@
+<<PAGE 1>>
+1 
+Mock Test Paper - Series I: November, 2024 
+Date of Paper: 23rd November, 2024 
+Time of Paper: 2 P.M. to 5 P.M. 
+ 
+INTERMEDIATE: GROUP – II 
+PAPER – 6: FINANCIAL MANAGEMENT & STRATEGIC MANAGEMENT 
+PAPER 6A : FINANCIAL MANAGEMENT 
+Suggested Answers/ Hints 
+PART I – Case Scenario based MCQs 
+1. 
+(c)  `  0.72 
+ 
+Computation of EPS under financial plan I: Equity Financing 
+ 
+(`) 
+EBIT 
+37,50,000.00 
+Interest 
+ -  
+EBT 
+37,50,000.00 
+Less: Taxes 40% 
+(15,00,000.00) 
+PAT 
+22,50,000.00 
+No. of equity shares 
+31,25,000.00 
+EPS 
+ 0.72  
+2.  
+(b)  ` 0.90 
+Computation of EPS under financial plan II:  Debt – Equity Mix 
+ 
+(`) 
+EBIT 
+37,50,000.00 
+Less: Interest 
+(14,06,250.00) 
+EBT 
+23,43,750.00 
+Less: Taxes 40% 
+(9,37,500.00) 
+PAT 
+14,06,250.00 
+No. of equity shares 
+15,62,500.00 
+EPS 
+0.90 
+3. 
+(a)  ` 0.44 
+Computation of EPS under financial plan III: Preference Shares – 
+Equity Mix 
+ 
+(`) 
+EBIT 
+37,50,000.00 
+Less: Interest 
+ -  
+Downloaded from castudyweb.com
+<<PAGE 2>>
+2 
+EBT 
+37,50,000.00 
+Less: Taxes (40%) 
+(15,00,000.00) 
+PAT 
+22,50,000.00 
+Less: Pref. dividend  
+(15,62,500.00) 
+PAT for equity shareholders 
+6,87,500.00 
+No. of Equity shares 
+15,62,500.00 
+EPS 
+ 0.44  
+4.  
+(a)  ` 28,12,500 
+ 
+EBIT – EPS Indifference Point- Plan I and Plan II: 
+ 
+2
+C
+1
+C
+N
+)
+T
+(1
+Interest)
+(EBIT
+N
+)
+T
+-
+(1
+(EBIT)
+−
+×
+−
+=
+×
+ 
+ 
+−
+−
+×
+−
+=
+EBIT(1 0.40)
+(EBIT
+14,06,250) (1 0.40)
+31,25,000
+15,62,500
+ 
+ 
+0.6EBIT  = 1.2 EBIT – 16,87,500 
+   
+    
+ 
+= ` 28,12,500  
+5. 
+(d)  ` 52,08,333.33 
+ 
+EBIT – EPS Indifference Point: Plan I and Plan III 
+ 
+(
+)
+2
+c
+1
+c
+N
+Div.
+  
+Pref.
+T
+1
+EBIT
+N
+)
+T
+EBIT(1
+−
+−
+=
+−
+ 
+ 
+EBIT(1
+0.4
+EBIT(1
+0.4) 15,62,500
+31,25,000
+15,62,500
+−
+−
+−
+=
+)
+ 
+ 
+0.6EBIT   
+= 1.2EBIT – 31,25,000 
+ 
+EBIT   = ` 52,08,333.33 
+6. 
+(b)  30%  
+The formula for Degree of Combined Leverage (DCL) is: 
+DCL=DOL×DFL  
+DCL=2×3=6 
+The percentage change in EPS is: 
+% Δ EPS = DCL × % Δ Sales  
+% Δ EPS = 6 × 5% = 30% 
+7.  
+(c)  3.79  
+Initial Investment = Annual Cost Savings × PVAF 
+Annual cost savings   
+= ` 1,80,000 
+PVAF (10%, 5 years)   
+= 3.79 
+Initial Investment 
+ 
+= 1,80,000 × 3.79 = 6,82,200 
+Downloaded from castudyweb.com
+<<PAGE 3>>
+3 
+Payback Period  
+= Initial Investment/ Annual Cost Savings 
+ 
+ 
+ 
+ 
+= 6,82,200/1,80,000 
+ 
+ 
+ 
+ 
+= 3.79 years 
+8. 
+(c)  Remains unchanged because value depends on earnings and 
+investment policy. 
+ 
+(Explanation: M&M's theory suggests that dividend policy has no impact 
+on shareholder wealth in a perfect market.) 
+ 
+PART II – Descriptive Questions 
+1. 
+(a)  Statement showing Computation of Combined leverage 
+ 
+`  
+Sales 
+2,00,000 
+Less: Variable costs (50%) 
+   1,00,000 
+Contribution 
+1,00,000 
+Less: Fixed operating costs 
+   40,000 
+EBIT 
+   60,000 
+Less: Interest 
+10,000 
+Taxable Income (PBT) 
+50,000 
+ 
+Combined leverage 
+= PBT
+C
+ = 
+1,00,000
+50,000 = 2 
+ 
+The combined leverage of '2' indicates that with every increase of ` 1 in 
+sales, the taxable income will increase by ` 2 (i.e. 1×2). This can be 
+verified by the following computations when the sales increase by 10% 
+ 
+`  
+Sales 
+2,20,000 
+Less: variable costs (50%) 
+1,10,000 
+Contribution 
+1,10,000 
+Less: Fixed operating costs 
+ 40,000 
+EBIT 
+70,000 
+Less: Interest 
+10,000 
+Taxable Income (PBT) 
+60,000 
+ 
+It is clear from the above computation that on account of increase in 
+sales by 10%, the profit before tax has increased by 20%.  
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 4>>
+4 
+(b)  (i) 
+Computation of Weighted Average Cost of Capital based on 
+existing capital structure 
+Source of Capital 
+Existing 
+Capital 
+structure 
+(`) 
+Weights 
+ 
+(a) 
+After tax 
+cost of 
+capital (%) 
+(b) 
+WACC 
+(%) 
+ 
+(a) × (b) 
+Equity share capital 
+(W.N.1) 
+10,00,000 
+0.250 
+10.000 
+2.500 
+12% 
+Preference 
+share capital 
+15,00,000 
+0.375 
+12.000 
+4.500 
+10% 
+Debentures 
+(W.N.2) 
+15,00,000 
+0.375 
+6.500 
+2.438 
+Total 
+40,00,000 
+1.000 
+  
+9.438 
+Working Notes: 
+1. 
+Cost of Equity Capital: 
+Ke    =
+1
+0
+Expecteddividend(D ) +Growth(g)
+CurrentMarketPrice(P )
+ 
+ 
+       = `
+`
+ 5
+ 100 + 0.05 
+       = 10% 
+2. 
+Cost of 10% Debentures 
+Kd = Interest(1- t)
+Netproceeds 
+= `
+`
+ 1,50,000 (1- 0.35)
+ 15,00,000
+ 
+= 0.065 or 6.5% 
+(ii)  Computation of Weighted Average Cost of Capital based on 
+new capital structure 
+Source of Capital 
+New 
+Capital 
+structure 
+(`) 
+Weights 
+ 
+(a) 
+After tax 
+cost of 
+capital (%) 
+(b) 
+WACC 
+(%) 
+ 
+(a) x (b) 
+Equity share capital 
+(W.N.3) 
+10,00,000 
+0.222 
+12.777 
+2.836 
+12% 
+Preference 
+share capital 
+15,00,000 
+0.334 
+12.000 
+4.000 
+10% 
+Debentures 
+(W.N.2) 
+15,00,000 
+0.333 
+6.500 
+2.165 
+Downloaded from castudyweb.com
+<<PAGE 5>>
+5 
+12% 
+Debentures 
+(W.N.4) 
+5,00,000 
+0.111 
+7.800 
+0.866 
+Total 
+45,00,000 
+1.000 
+ 
+9.867 
+Working Notes: 
+3. 
+Cost of Equity Capital: 
+Ke = `
+`
+ 7
+ 90 + 0.05 
+= 12.777% 
+4. 
+Cost of 12% Debentures 
+Kd   
+= `
+`
+ 60,000 (1- 0.35)
+ 5,00,000
+ 
+= 0.078 or 7.8% 
+(c)  Fair Value of Company = Present Value all future cash flows discounted 
+at the expected Rate of return of acquiring company. 
+ 
+WN 1 – Calculation of Cash flows  
+` in Lakhs 
+YEAR 
+1 
+2 
+3 
+4 
+5 
+6 
+Contribution 
+(40% on sales) 
+10 
+12 
+14.4 
+20.16 
+28.22 
+35.28 
+(-) Fixed Cost 
+-12 
+-12 
+-10 
+-10 
+-10 
+-10 
+NPBT        (A) 
+-2 
+0 
+4.4 
+10.16 
+18.22 
+25.28 
+(-) Losses Set Off 
+0 
+0 
+-2(Setoff) 
+0 
+0 
+0 
+Taxable Income 
+0 
+0 
+2.4 
+10.16 
+18.22 
+25.28 
+(-) Tax @ 25%  
+(B)  
+0 
+0 
+0.6 
+2.54 
+4.55 
+6.32 
+Cash Flow (A – 
+B)  
+-2 
+0 
+3.8 
+7.62 
+13.66 
+18.96  
+PV 
+OF 
+CASH 
+FLOWS @ 15% 
+-1.740 
+0 
+2.50 
+4.35 
+6.79 
+8.19 
+ 
+Total PV of cash flows (yr 1 to 6)                                = 20.08 lakhs 
+ 
+(+) PV of cash flow at terminal value (end of Year 6) = 18.96 + 10%
+0.15-0.10  
+      = 417.12 Lakhs 
+ 
+Therefore, PV of above = 417.12 X PV factor (15%, 6th Year)  
+= 180.20 lakhs 
+ 
+Total fair value of Aryayash limited = 20.08 + 180.20 = 200.28 Lakhs 
+ 
+Note – 1. Discounting rate should be the desired rate of acquiring 
+company i.e. of Vyom Limited 
+Downloaded from castudyweb.com
+<<PAGE 6>>
+6 
+2.  
+Terminal value of cash flows means the cash flows at that point 
+from where it would grow at constant rate. Here it assumed that 
+from 7th year, Cash flows/NPAT will grow at a constant rate and not 
+sales    
+2. 
+(a) 
+Working Note: 
+1. 
+Current Liabilities and Current Assets: 
+ 
+Let Current Liabilities be x 
+ 
+Given Current ratio  
+= 2.5 
+ 
+Current Assets   
+= 2.5x 
+ 
+Working Capital   
+= 2.5x- x =1.5x 
+ 
+or x 
+ 
+ 
+= 1,20,000/1.5 = 80,000 
+ 
+So Current Liabilities  = 80,000 
+ 
+And Current Assets  
+= 80,000 x 2.5 = 2,00,000 
+2. 
+Closing Stock 
+ 
+Given, Quick Ratio  
+ 
+ 
+= 1.3 
+ 
+CurrentAssets- Closing Stock 
+CurrentLiabilities - Bank Overdraft 
+=1.3 
+ 
+2,00,000- Closing Stock 
+80,000-15,000
+ 
+ 
+= 1.3 
+ 
+or Closing Stock  
+ 
+= 2,00,000-84,500 =1,15,500 
+ 
+Opening Stock   
+ 
+= 1,15,000 x 100/110 =1,05,000 
+3. 
+Debtors 
+ 
+Given Debtors Velocity  
+= 40 days 
+ 
+Debtors
+Sales x 365   
+ 
+= 40 
+ 
+Debtors   
+ 
+ 
+= 7,30,000x40
+365
+= 80,000  
+4. 
+Gross Profit  
+ 
+ 
+= 7,30,000 x 10/100 = 73,000 
+5. 
+Proprietary Fund: 
+ 
+Proprietary Ratio  
+ 
+= 0.6 
+ 
+Fixed Assets 
+Proprietary Fund  
+ 
+= 0.6 
+ 
+Working Capital 
+Proprietary Fund  
+ 
+0.4 
+ 
+Proprietary Fund =1,20,000
+0.4
+  = 3,00,000 
+Downloaded from castudyweb.com
+<<PAGE 7>>
+7 
+ 
+Fixed Assets = 3,00,000 x 0.6 = 1,80,000 
+ 
+Net Profit = 10% of Proprietary Fund = 30,000 
+M/s Anya Co Ltd. 
+Trading and Profit and loss Account for the year ended  
+31 March 2024 
+Particulars 
+Amount in 
+`  
+Particulars 
+Amount in 
+`  
+To Opening Stock 
+1,05,000 By Sales 
+7,30,000 
+To Purchase 
+(Balancing Fig.) 
+6,67,500 
+By Closing 
+Stock 
+1,15,500 
+To Gross Profit  
+73,000 
+  
+8,45,500 
+8,45,500 
+To Operating 
+Expenses (Balancing 
+Figure) 
+43,000 
+By Gross Profit  
+73,000 
+To Net Profit 
+30,000 
+  
+  
+73,000   
+73,000 
+ 
+Balance Sheet as on 31 March 2024 
+Liabilities 
+Amount in 
+`  
+Assets 
+Amount in 
+`  
+Share Capital 
+2,50,000 Fixed Assets 
+1,80,000 
+Reserves & Surplus 
+(Opening bal. + 
+current profit) 
+50,000 
+  
+Current Liabilities 
+  Current Assets 
+  
+Bank Overdraft 
+15,000 Stock  
+1,15,500 
+Other Current 
+Liabilities 
+65,000 Debtors 
+80,000 
+  
+  
+Other 
+Current 
+Assets 
+4,500 
+  
+3,80,000   
+3,80,000 
+(b) As per Dividend discount model, the price of share is calculated as 
+follows: 
+P= 
+D1
+(1+Ke)1 +
+D2
+(1+Ke)2 +
+D3
+(1+Ke)3 +
+D4
+(1+Ke)4 +
+D5
+(Ke-g) ×
+1
+(1+Ke)4  
+Where,  
+P = Price per share 
+Ke = Required rate of return on equity 
+Downloaded from castudyweb.com
+<<PAGE 8>>
+8 
+g = Growth rate 
+ 
+Calculation PV of Dividends 
+Year 
+Dividend per share 
+PVF @ 15% 
+PV 
+1 
+4.4 
+0.870 
+3.828 
+2 
+4.84 
+0.756 
+3.660 
+3 
+5.324 
+0.658 
+3.503 
+4 
+5.856 
+0.572 
+3.350 
+Total 
+ 
+ 
+14.341 
+PV of Terminal Value = `
+1
+4
+5.856x1.05
+1
+×
+(0.15 - 0.05)
+(1+ 0.15) = 61.488 x .572 = 35.171 
+Intrinsic value of share = PV of Dividends + PV of terminal value 
+ 
+ 
+ 
+ 
+  = 14.341 + 35.171 = ` 49.512  
+3.  
+1.  
+In-House Management of Receivables (With Dynamic Discounting) 
+Particulars: 
+1. 
+Cash Discount Cost: 
+o 
+Revised discount rate: 2.5% 
+o 
+60% of customers avail discount. 
+o 
+Cost of Discount: ` 90,00,000 × 60% × 2.5% = ` 1,35,000 
+2. 
+Bad Debts (Reduced to 0.8% due to dynamic discounting): 
+o 
+` 90,00,000 × 0.8% = ` 72,000 
+3. 
+Administration Cost: ` 1,20,000 
+4. 
+Cost of Financing Receivables: 
+o 
+Working Note 1 (Average Collection Period): (10 days × 60%) 
++ (60 days × 40%) = 30 days 
+o 
+Working Note 2 (Average Receivables): ` 90,00,000 × 
+(30/360) = ` 7,50,000 
+o 
+Working Note 3 (Cost of Financing): 
+ 
+Cost of Bank Funds: ` 7,50,000 × 1/2 × 15% = ` 56,250 
+ 
+Cost of Owned Funds: ` 7,50,000 × 1/2 × 14% = ` 52,500 
+ 
+Total Cost of Financing Receivables: ` 1,08,750 
+ 
+Total Cost with In-House Receivables Management and Dynamic 
+Discounting: 
+Particulars 
+Amount (`) 
+Cash Discount (` 90,00,000 × 60% × 2.5%) 
+1,35,000 
+Bad Debts (` 90,00,000 × 0.8%) 
+72,000 
+Admin Cost 
+1,20,000 
+Downloaded from castudyweb.com
+<<PAGE 9>>
+9 
+Cost of Financing Receivables 
+1,08,750 
+Total Cost (In-House with Dynamic Discounting): 
+4,35,750 
+2.  
+Factoring Firm’s Offer: 
+Particulars: 
+1. 
+Factoring Commission: ` 90,00,000 × 4% = ` 3,60,000 
+2. 
+Interest Charges on Receivables: Factor Reserve: 12%, so 
+financing on 88% of receivables. Interest for 25 days: (` 90,00,000-
+3,60,000) × 88% × 15% × (25/360) = ` 79,200 
+3. 
+Cost of Owned Funds (Receivables not factored): ` 13,96,800 × 
+14% × (25/360) = ` 13580 
+Owned Funds: (` 90,00,000-3,60,000) × 12% + 3,60,000 = ` 13,96,800 
+Total Cost with Factoring Firm: 
+Particulars 
+Amount (`) 
+Factoring Commission (` 90,00,000 × 4%) 
+3,60,000 
+Interest Charges on Receivables 
+79,200 
+Cost of Owned Funds 
+13,580 
+Total Cost with Factoring: 
+4,52,780 
+3.  
+Impact of Extending Credit Period: 
+If Zomo Ltd. extends the credit period to 75 days: 
+• 
+Sales increase: 10% of ` 120,00,000 = ` 12,00,000  
+New total turnover = ` 120,00,000 + ` 12,00,000 = ` 1,32,00,000  
+Credit Sales (75%) = ` 99,00,000 
+• 
+Increased Bad Debts (1.5%): ` 99,00,000 × 1.5% = ` 1,48,500 
+• 
+Late Payment Penalty: Customers delaying beyond 60 days (40%): 
+` 99,00,000 × 40% × 5% = ` 1,98,000 
+A.  
+Cash Discount Cost: 
+• 
+Discount rate: 2% (since there’s no mention of dynamic 
+discounting in this case) 
+• 
+Percentage of customers availing discount: 60% 
+• 
+Calculation: ` 99,00,000 × 60% × 2% = ` 1,18,800 
+B.  
+Bad Debts (Increased to 1.5%): 
+• 
+Calculation: ` 99,00,000 × 1.5% = ` 1,48,500 
+C.  
+Administration Costs (Remains the same): 
+• 
+The administration cost stays fixed at ` 1,20,000, as no change 
+in admin structure is mentioned. 
+Downloaded from castudyweb.com
+<<PAGE 10>>
+10 
+D.
+Cost of Financing Receivables (Based on the new extended
+credit period):
+•
+Working Note 1 (Average Collection Period): Credit period
+has been extended to 75 days for customers who don't take the
+discount (40% of customers).
+o
+Revised Average Collection Period: (10 days × 60%) +
+(75 days × 40%) = 36 days
+•
+Working Note 2 (Average Receivables): ` 99,00,000 ×
+(36/360) = ` 9,90,000
+•
+Working Note 3 (Cost of Financing Receivables):
+o
+Cost of Bank Funds (15%): ` 9,90,000× 1/2 × 15%
+= ` 74,250
+o
+Cost of Owned Funds (14%): ` 9,90,000 × 1/2 × 14%
+= ` 69,300
+o
+Total Cost of Financing Receivables: ` 74,250 +
+` 69,300 = ` 1,43,550
+Revised Bad Debts after Penalty: 
+•
+Bad debts before penalty: ` 1,48,500
+•
+Penalty earned: ` 1,98,000
+•
+Net effect on bad debts: ` 1,48,500 - ` 1,98,000 = (-` 49,500)
+(Zomo Ltd. would effectively earn ` 49,500 from penalties,
+reducing bad debt cost.)
+4.
+Total Cost Calculation:
+Now, summing up all the components:
+Particulars 
+Amount (`) 
+Cash Discount (` 99,00,000 × 60% × 2%) 
+1,18,800 
+Net Bad Debts after Penalty (–` 49,500) 
+-49,500
+Administration Costs 
+1,20,000 
+Cost of Financing Receivables 
+1,43,550 
+Total Cost (In-House with Extended Credit Period) 
+` 3,32,850 
+5.
+Final Decision:
+Option 
+Total Cost (`) 
+In-House with Dynamic Discounting 
+4,35,750 
+Factoring Firm’s Offer 
+4,52,780 
+In-House with Extended Credit Period 
+3,32,850 
+Recommendation: Zomo Ltd. should extend the credit period and 
+continue in-house management. This option will not only reduce costs 
+Downloaded from castudyweb.com
+<<PAGE 11>>
+11 
+(due to lower bad debts offset by penalties) but also increase sales by 
+10%. Factoring is the least beneficial due to its high commission 
+charges, and dynamic discounting offers only marginal savings 
+compared to the credit extension option.  
+4. 
+(a) 
+The financing of current assets involves a trade off between risk and 
+return. A firm can choose from short or long term sources of finance. 
+Short term financing is less expensive than long term financing but at the 
+same time, short term financing involves greater risk than long term 
+financing. 
+ 
+Depending on the mix of short term and long term financing, the 
+approach followed by a company may be referred as matching approach, 
+conservative approach and aggressive approach. 
+ 
+In matching approach, long-term finance is used to finance fixed assets 
+and permanent current assets and short term financing to finance 
+temporary or variable current assets. Under the conservative plan, the 
+firm finances its permanent assets and also a part of temporary current 
+assets with long term financing and hence less risk of facing the problem 
+of shortage of funds. 
+ 
+An aggressive policy is said to be followed by the firm when it uses more 
+short term financing than warranted by the matching plan and finances 
+a part of its permanent current assets with short term financing. 
+(b) Over-capitalization and its Causes and Consequences 
+ 
+It is a situation where a firm has more capital than it needs or in other 
+words assets are worth less than its issued share capital, and earnings 
+are insufficient to pay dividend and interest.  
+ 
+Causes of Over Capitalization 
+ 
+Over-capitalisation arises due to following reasons: 
+(i) 
+Raising more money through issue of shares or debentures than 
+company can employ profitably. 
+(ii) 
+Borrowing huge amount at higher rate than rate at which company 
+can earn. 
+(iii) Excessive payment for the acquisition of fictitious assets such as 
+goodwill etc. 
+(iv) Improper provision for depreciation, replacement of assets and 
+distribution of dividends at a higher rate. 
+(v) 
+Wrong estimation of earnings and capitalization.  
+ 
+Consequences of Over-Capitalisation 
+ 
+Over-capitalisation results in the following consequences: 
+(i) 
+Considerable reduction in the rate of dividend and interest 
+payments. 
+(ii) 
+Reduction in the market price of shares. 
+Downloaded from castudyweb.com
+<<PAGE 12>>
+12 
+(iii) Resorting to “window dressing”. 
+(iv) Some companies may opt for reorganization. However, sometimes 
+the matter gets worse and the company may go into liquidation. 
+(c)  “The profit maximisation is not an operationally feasible criterion.” This 
+statement is true because Profit maximisation can be a short-term 
+objective for any organisation and cannot be its sole objective. Profit 
+maximization fails to serve as an operational criterion for maximizing the 
+owner's economic welfare. It fails to provide an operationally feasible 
+measure for ranking alternative courses of action in terms of their 
+economic efficiency. It suffers from the following limitations: 
+(i) 
+Vague term: The definition of the term profit is ambiguous. Does it 
+mean short term or long term profit? Does it refer to profit before or 
+after tax? Total profit or profit per share? 
+(ii) 
+Timing of Return: The profit maximization objective does not make 
+distinction between returns received in different time periods. It 
+gives no consideration to the time value of money, and values 
+benefits received today and benefits received after a period as the 
+same. 
+(iii) It ignores the risk factor. 
+(iv) The term maximization is also vague.  
+OR 
+(c)  Modified Internal Rate of Return (MIRR): There are several limitations 
+attached with the concept of the conventional Internal Rate of Return. 
+The MIRR addresses some of these deficiencies. For example, it 
+eliminates multiple IRR rates; it addresses the reinvestment rate issue 
+and produces results, which are consistent with the Net Present Value 
+method. 
+ 
+Under this method, all cash flows, apart from the initial investment, are 
+brought to the terminal value using an appropriate discount rate (usually 
+the cost of capital).  This results in a single stream of cash inflow in the 
+terminal year. The MIRR is obtained by assuming a single outflow in the 
+zeroth year and the terminal cash inflow as mentioned above. The 
+discount rate which equates the present value of the terminal cash inflow 
+to the zeroth year outflow is called the MIRR. 
+Downloaded from castudyweb.com
+<<PAGE 13>>
+13 
+PAPER 6B: STRATEGIC MANAGEMENT 
+ANSWERS 
+PART I 
+1. (A) 
+(i)  
+(a) 
+(ii) 
+(b) 
+(iii)  
+(c) 
+(iv)  
+(b) 
+(v)  
+(d) 
+1. (B) 
+(i)  
+(c) 
+(ii) 
+(c) 
+(iii)  
+(b) 
+ 
+ 
+ 
+ 
+PART II 
+1. 
+(a)  According to Mendelow's Matrix, environmentally conscious consumers 
+who influence industry standards fall into the Key Players quadrant. 
+These stakeholders possess both high power and high interest, making 
+them crucial to the success of Chic Threads’ sustainability-focused 
+initiatives. Their high interest stems from their alignment with the brand's 
+ethical and eco-friendly values, while their high power arises from their 
+ability to shape market trends, advocate for sustainable practices, and 
+impact on the brand’s reputation through their purchasing decisions and 
+influence within the industry. 
+As Key Players, these consumers require active engagement. Chic 
+Threads must focus on satisfying their expectations by providing regular 
+updates 
+on 
+sustainability 
+efforts, 
+maintaining 
+transparent 
+communication, and incorporating their feedback to ensure continued 
+support. The brand should actively involve these stakeholders in its 
+decision-making processes by seeking their input on product design and 
+sustainability measures. Additionally, building strong relationships 
+through targeted marketing campaigns, collaborations, and awareness 
+initiatives will further solidify their trust and advocacy. Effectively 
+managing this stakeholder group is vital, as their support and satisfaction 
+directly contribute to the success of the brand’s eco-friendly clothing line. 
+(b)  To target tech-savvy consumers for the new smartphone model, the tech 
+company can develop a marketing strategy based on customer behavior. 
+Consumer behaviour may be influenced by a number of things. These 
+elements can be categorised into the following conceptual domains: 
+• 
+External Influences: Utilize online platforms and tech forums to 
+generate buzz around the new smartphone. Partner with tech 
+influencers and bloggers to review the product and create awareness 
+among tech-savvy consumers. 
+• 
+Internal Influences: Appeal to the desire for innovation and 
+advanced features among tech-savvy consumers. Highlight the 
+unique selling points of the new smartphone, such as its cutting-edge 
+technology, performance, and design. 
+• 
+Decision Making: Recognize that tech-savvy consumers are early 
+adopters who value functionality and performance. Provide detailed 
+specifications and comparisons with other smartphones to help them 
+make an informed decision. 
+Downloaded from castudyweb.com
+<<PAGE 14>>
+14 
+• 
+Post-decision Processes: Offer excellent customer service and 
+support to address any technical issues or concerns. Encourage 
+customers to provide feedback and reviews to build credibility and 
+trust among tech-savvy consumers. 
+ 
+Figure: Process of consumer behaviour 
+ 
+By understanding the behavior of tech-savvy consumers and aligning the 
+marketing strategy with their preferences, the tech company can 
+effectively promote the new smartphone and attract this demographic. 
+(c)  Strategic Performance Measures (SPM) are metrics organizations use 
+to evaluate and track the effectiveness of their strategies in achieving 
+their goals and objectives. SPM provides a framework for monitoring key 
+areas critical to the organization’s success, ensuring progress toward 
+desired outcomes and enabling timely adjustments to improve 
+performance. For GreenEdge Solutions, various types of SPM can be 
+utilized: 
+• 
+Financial Measures: Metrics like revenue growth, return on 
+investment (ROI), and profit margins help evaluate the company’s 
+financial health and profitability. 
+• 
+Customer Satisfaction Measures: Assessments of customer 
+satisfaction, retention, and loyalty indicate how well the company 
+meets customer needs. 
+• 
+Market Measures: Market share, customer acquisition, and referral 
+rates reflect competitiveness and market position. 
+• 
+Employee Measures: Employee satisfaction, engagement, and 
+turnover rate help track workplace culture and talent retention. 
+• 
+Innovation Measures: R&D spending, patent filings, and new 
+product launches gauge the company’s innovation capabilities. 
+• 
+Environmental Measures: Monitoring energy consumption, waste 
+reduction, and carbon emissions ensures the company aligns with 
+sustainability goals. 
+ 
+ 
+Purchase and 
+Post Purchase 
+Actions 
+ 
+External Factors 
+Market Stimuli 
+Environmental 
+Factors 
+Internal Factors 
+Decision 
+Making 
+Downloaded from castudyweb.com
+<<PAGE 15>>
+15 
+Using these measures, GreenEdge Solutions can systematically assess 
+its strategy and make informed decisions to drive sustainable growth and 
+success. 
+2. 
+(a)  Connect Group has to make strategic changes for its survival. The 
+changes in the environmental forces often require businesses to make 
+modifications in their existing strategies and bring out new strategies. 
+Strategic change is a complex process that involves a corporate strategy 
+focused on new markets, products, services and new ways of doing 
+business. Unless companies embrace change, they are likely to freeze 
+and unless companies prepare to deal with sudden, unpredictable, 
+discontinuous, and radical change, they are likely to be extinct. 
+Three steps for initiating strategic change are: 
+(i) 
+Recognise the need for change – The first step is to diagnose the 
+which facets of the present corporate culture are strategy 
+supportive and which are not. 
+(ii) 
+Create a shared vision to manage change – Objectives of both 
+individuals and organisation should coincide. There should be no 
+conflict between them. This is possible only if the management and 
+the organisation members follow a shared vision. 
+(iii) Institutionalise the change – This is an action stage which 
+requires the implementation of the changed strategy. Creating and 
+sustaining a different attitude towards change is essential to ensure 
+that the firm does not slip back into old ways of doing things. 
+(b)  The term ‘strategic management’ refers to the managerial process of 
+developing a strategic vision, setting objectives, crafting a strategy, 
+implementing and evaluating the strategy, and initiating corrective 
+adjustments were deemed appropriate. 
+ 
+The presence of strategic management cannot counter all hindrances 
+and always achieve success as there are limitations attached to strategic 
+management. These can be explained in the following lines: 
+♦ 
+The environment is highly complex and turbulent. It is difficult 
+to understand the complex environment and exactly pinpoint how it 
+will shape up in future. The organisational estimate about its future 
+shape may awfully go wrong and jeopardise all strategic plans. The 
+environment affects as the organisationhas to deal with suppliers, 
+customers, governments and other external factors.  
+♦ 
+Strategic 
+management 
+is 
+a 
+time-consuming 
+process. 
+Organisations spend a lot of time preparing, communicating the 
+strategies that may impede daily operations and negatively impact 
+on routine business.  
+♦ 
+Strategic 
+management 
+is 
+a 
+costly 
+process. 
+Strategic 
+management adds a lot of expenses to an organization. Expert 
+strategic planners need to be engaged, efforts are made for 
+analysis of external and internal environments devise strategies 
+Downloaded from castudyweb.com
+<<PAGE 16>>
+16 
+and properly implement. These can be really costly for 
+organisations with limited resources particularly when small and 
+medium organisation create strategies to compete.  
+♦ 
+Competition is unpredictable. In a competitive scenario, where 
+all organisations are trying to move strategically, it is difficult to 
+clearly estimate the competitive responses to the strategies. 
+3.  
+(a)  Yes, Easy Access and its rivals get advantage by this move. The new 
+bureaucratic process is making it more complicated for organizations to 
+start up and enter the Easy Access market, increasing barriers to entry 
+and thereby reducing the threat of new entrants. New entrants can 
+reduce an industry’s profitability, because they add new production 
+capacity, leading to increase in supply of the product, sometimes even 
+at a lower price and can substantially erode existing firm’s market share 
+position. However, New entrants are always a powerful source of 
+competition. The new capacity and product range they bring in throws 
+up a new competitive pressure. The bigger the new entrant, the more 
+severe the competitive effect. New entrants also place a limit on prices 
+and affect the profitability of existing players, which is known as Price 
+War.  
+(b)  There are several basis of differentiation, major being: Product, Pricing 
+and Organization. 
+ 
+Product: Innovative products that meet customer needs can be an area 
+where a company has an advantage over competitors. However, the 
+pursuit of a new product offering can be costly – research and 
+development, as well as production and marketing costs can all add to 
+the cost of production and distribution. The payoff, however, can be great 
+as customers’ flocks are among the first to have the new product.  
+ 
+Pricing: It fluctuates based on its supply and demand and may also be 
+influenced by the customer’s ideal value for a product. Companies that 
+differentiate based on product price can either determine to offer the 
+lowest price or can attempt to establish superiority through higher prices. 
+ 
+Organisation: Organisational differentiation is yet another form of 
+differentiation. Maximizing the power of a brand or using the specific 
+advantages that an organization possesses can be instrumental to a 
+company’s success. Location advantage, name recognition and 
+customer loyalty can all provide additional ways for a company to 
+differentiate itself from the competition.  
+4.  
+(a)  Leatherite Ltd. is currently manufacturing footwears for males and 
+females and its top management has decided to expand its business by 
+manufacturing leather bags for males and females. Both the products 
+are similar in nature within the same industry. The strategic 
+diversification that the top management of Leatherite Ltd. has opted for 
+is concentric in nature. They were in business manufacturing leather 
+footwear and now they will manufacture leather bags as well. They will 
+be able to use existing infrastructure and distribution channels. 
+Downloaded from castudyweb.com
+<<PAGE 17>>
+17 
+Concentric diversification amounts to related diversification.  
+ 
+In concentric diversification, the new business is linked to the existing 
+businesses through process, technology or marketing. The new product 
+is a spin-off from the existing facilities and products/processes. This 
+means that in concentric diversification too, there are benefits of synergy 
+with the current operations.  
+(b)  According to C.K. Prahalad and Gary Hamel, major core competencies 
+are identified in three areas - competitor differentiation, customer value, 
+and application to other markets.  
+♦ 
+Competitor differentiation: The company can consider having a 
+core competence if the competence is unique and it is difficult for 
+competitors to imitate. This can provide a company an edge 
+compared to competitors. It allows the company to provide better 
+products or services to market with no fear that competitors can 
+copy it.  
+♦ 
+Customer value: When purchasing a product or service it has to 
+deliver a fundamental benefit for the end customer in order to be a 
+core competence. It will include all the skills needed to provide 
+fundamental benefits. The service or the product has to have real 
+impact on the customer as the reason to choose to purchase them. 
+If customer has chosen the company without this impact, then 
+competence is not a core competence.  
+♦ 
+Application 
+of 
+competencies 
+to 
+other 
+markets: 
+Core 
+competence must be applicable to the whole organization; it cannot 
+be only one particular skill or specified area of expertise. Therefore, 
+although some special capability would be essential or crucial for 
+the success of business activity, it will not be considered as core 
+competence, if it is not fundamental from the whole organization’s 
+point of view. Thus, a core competence is a unique set of skills and 
+expertise, which will be used throughout the organisation to open 
+up potential markets to be exploited.  
+OR 
+Strategic planning 
+Operational planning 
+Strategic planning shapes 
+the organisation and its 
+resources. 
+Operational planning deals with 
+current 
+deployment 
+of 
+resources. 
+Strategic 
+planning 
+assesses the impact of 
+environmental variables. 
+Operational planning develops 
+tactics rather than strategy. 
+Strategic planning takes a 
+holistic 
+view 
+of 
+the 
+organisation. 
+Operational planning projects 
+current 
+operations 
+into 
+the 
+future. 
+Downloaded from castudyweb.com
+<<PAGE 18>>
+18 
+Strategic planning develops 
+overall 
+objectives 
+and 
+strategies. 
+Operational 
+planning 
+makes 
+modifications to the business 
+functions but not fundamental 
+changes. 
+Strategic 
+planning 
+is 
+concerned with the long-
+term 
+success 
+of 
+the 
+organisation. 
+Operational 
+planning 
+is 
+concerned with the short-term 
+success of the organisation. 
+Strategic 
+planning 
+is 
+a 
+senior 
+management 
+responsibility. 
+Operational 
+planning 
+is 
+the 
+responsibility 
+of 
+functional 
+managers. 
+ 
+Downloaded from castudyweb.com

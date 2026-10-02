@@ -1,0 +1,1236 @@
+{
+ "concepts": [
+  {
+   "code": "F05.11",
+   "title": "3.2 The Seven Principles Affecting Capital Structure",
+   "activity": "Medium",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 0 (an SM theoretical question)",
+   "understand": [
+    "While choosing a suitable financing pattern, **certain fundamental principles should be kept in mind to design capital structure**. The study material names **seven**.",
+    "**(1) Financial leverage, or trading on equity.** ==The **use of long-term fixed interest bearing debt and preference share capital along with equity share capital is called financial leverage or trading on equity**.== The use of long-term debt **increases the earnings per share if the firm yields a return higher than the cost of debt**. Earnings per share **also increase with the use of preference share capital, but because interest is allowed to be deducted while computing tax, the leverage impact of debt is much more**. ==However, **leverage can operate adversely also if the rate of interest on the long-term loan is more than the expected rate of earnings of the firm**== — so it needs caution.",
+    "**(2) Growth and stability of sales.** The capital structure is **highly influenced by the growth and stability of sales**. ==If sales are expected to **remain fairly stable, the firm can raise a higher level of debt**, because stability ensures it **will not face difficulty in meeting its fixed commitments of interest and repayment**.== Similarly the **rate of growth** matters: **greater the rate of growth of sales, greater can be the use of debt**. On the other hand, if sales are **highly fluctuating or declining, the firm should not employ debt financing as far as possible**.",
+    "**(3) Cost principle.** ==An **ideal pattern of capital structure is one that minimises the cost of capital structure and maximises earnings per share**.== For example, **debt capital is cheaper than equity capital from the point of its cost, interest being deductible for income tax**.",
+    "**(4) Risk principle.** ==According to this principle, **reliance is placed more on common equity for financing capital requirements than on excessive use of debt**.== Use of **more and more debt means a higher commitment in the form of interest payout**, which **would lead to erosion of shareholders' value in an unfavourable business situation**. **With an increase in the amount of debt, financial risk increases and vice versa.**",
+    "**(5) Control principle.** The finance manager should **keep in mind that existing management control and ownership remains undisturbed**. ==**Issue of new equity will dilute the existing control pattern and also involves higher cost; issue of more debt causes no dilution in control but causes a higher degree of financial risk.**==",
+    "**(6) Flexibility principle.** ==By flexibility it is meant that **management chooses a combination of sources of financing which it finds easier to adjust according to changes in the need of funds in future**.== The study material's own example: **debt could be interchanged — if the company is loaded with a debt of 18% and funds are available at 15%, it can return the old debt with new debt at a lesser interest rate — but the same option may not be available in the case of equity investment**.",
+    "**(7) Other considerations.** Besides the above, **the nature of industry, the timing of issue and competition in the industry** should also be considered. ==**Industries facing severe competition also resort to more equity than debt.**==",
+    "==**A finance manager in designing a suitable pattern of capital structure must bring about a satisfactory compromise between the above principles. The compromise can be reached by assigning weights to these principles in terms of various characteristics of the company.**=="
+   ],
+   "example": "A utility with stable regulated revenues can carry heavy debt; a fashion retailer with volatile sales and fierce competition should not — the same two principles, opposite answers.",
+   "provisions": [
+    {
+     "ref": "Trading on equity (SM §3.2(1))",
+     "status": "VERIFIED",
+     "requirement": "The use of long-term fixed interest bearing debt and preference share capital along with equity share capital; it raises EPS where the return exceeds the cost of debt, and reduces it where it does not.",
+     "exam_angle": "An SM theoretical question in its own right, and the bridge to Chapter 6."
+    },
+    {
+     "ref": "Compromise (SM §3.2)",
+     "status": "VERIFIED",
+     "requirement": "A satisfactory compromise between the seven principles, reached by assigning weights in terms of the characteristics of the company.",
+     "exam_angle": "The concluding line of any 'factors affecting capital structure' answer."
+    }
+   ],
+   "keywords": [
+    "trading on equity",
+    "long-term fixed interest bearing debt",
+    "leverage impact of debt is much more",
+    "operate adversely",
+    "growth and stability of sales",
+    "fixed commitments",
+    "cost principle",
+    "maximizes earnings per share",
+    "risk principle",
+    "erosion of shareholders' value",
+    "control principle",
+    "dilute existing control",
+    "flexibility principle",
+    "satisfactory compromise",
+    "assigning weights"
+   ],
+   "memory": {
+    "trick": "Seven principles, and the first letters of the middle five spell the decision: **Cost, Risk, Control, Flexibility** — cheap, safe, mine, and changeable. Leverage and sales stability sit before them; industry conditions after.",
+    "key": [
+     [
+      "Financial leverage",
+      "Trading on equity: raises EPS if return exceeds the cost of debt"
+     ],
+     [
+      "Growth and stability of sales",
+      "Stable or growing sales support more debt"
+     ],
+     [
+      "Cost",
+      "Minimise the cost of capital, maximise EPS"
+     ],
+     [
+      "Risk",
+      "Prefer equity; more debt means more financial risk"
+     ],
+     [
+      "Control",
+      "Equity dilutes control; debt does not, but raises risk"
+     ],
+     [
+      "Flexibility",
+      "Choose sources that can be adjusted later — debt can be refinanced, equity cannot"
+     ],
+     [
+      "Other",
+      "Nature of industry, timing of issue, competition"
+     ]
+    ],
+    "recall_trigger": "Cost, Risk, Control, Flexibility"
+   },
+   "mistakes": [
+    "Saying trading on equity means using equity; it means using debt and preference capital alongside equity.",
+    "Giving only cost and risk; the study material names seven principles and expects the compromise line at the end."
+   ],
+   "links": [
+    "🔗 FM Ch 6: financial leverage, the first of these principles measured",
+    "🔗 FM Ch 5 §1: control, risk and cost, the three factors these principles expand"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Explain the factors affecting capital structure (4 marks)",
+     "Explain the principles of trading on equity (an SM theoretical question)"
+    ],
+    "approach": [
+     "Name each principle in bold with one line of explanation, and close with the compromise point"
+    ],
+    "official_pattern": "Not yet asked in a past paper; it is an SM theoretical question, so it is exam-ready.",
+    "time_tip": "4 marks ≈ 7 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "Name the principle",
+     "One line of what it requires",
+     "One line of the consequence"
+    ],
+    "keywords": [
+     "trading on equity",
+     "erosion of shareholders' value",
+     "dilute existing control",
+     "satisfactory compromise"
+    ],
+    "length": "4 marks: four or five principles plus the compromise line",
+    "conclusion": "No single principle decides; the manager weights them by the company's characteristics.",
+    "avoid": [
+     "Turning it into a list of sources of finance"
+    ]
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-F05.11-1",
+     "form": "Explain (4 marks)",
+     "marks": 4,
+     "question": "Explain the principles that should be kept in mind while designing the capital structure of a company.",
+     "answer_points": [
+      "**Financial leverage or trading on equity:** the use of long-term fixed interest bearing debt and preference share capital along with equity share capital. Long-term debt increases EPS if the firm yields a return higher than the cost of debt, and the leverage impact of debt is greater than that of preference capital because interest is tax-deductible. However, leverage can operate adversely if the rate of interest exceeds the expected rate of earnings.",
+      "**Growth and stability of sales:** if sales are expected to remain fairly stable, a higher level of debt can be raised, since the firm will not face difficulty in meeting fixed commitments of interest and repayment; the greater the rate of growth of sales, the greater the use of debt. Where sales are highly fluctuating or declining, debt should be avoided as far as possible.",
+      "**Cost principle:** an ideal pattern is one that minimises the cost of capital structure and maximises earnings per share; debt is cheaper than equity because interest is deductible for income tax.",
+      "**Risk principle:** reliance should be placed more on common equity than on excessive debt, since more debt means a higher interest commitment, which erodes shareholders' value in an unfavourable business situation; financial risk rises with the amount of debt.",
+      "**Control principle:** existing management control and ownership should remain undisturbed. A new equity issue dilutes control and costs more; more debt causes no dilution but a higher degree of financial risk.",
+      "**Flexibility principle** — choosing sources that can be adjusted as future needs change, debt being refinanceable in a way equity is not — and **other considerations** such as the nature of the industry, the timing of the issue and competition, industries facing severe competition resorting to more equity than debt. The manager must bring about a satisfactory compromise between these principles by assigning them weights in terms of the company's characteristics."
+     ],
+     "keywords": [
+      "trading on equity",
+      "stability of sales",
+      "cost",
+      "risk",
+      "control",
+      "flexibility",
+      "satisfactory compromise"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F05.11-01",
+     "angle": "Definition",
+     "difficulty": "Easy",
+     "question": "Trading on equity, as defined in the study material, means:",
+     "options": {
+      "A": "Issuing equity shares to the public at a premium",
+      "B": "The use of long-term fixed interest bearing debt and preference share capital along with equity share capital",
+      "C": "Trading the company's own shares on the stock exchange",
+      "D": "Financing entirely by equity to avoid financial risk"
+     },
+     "answer": "B",
+     "explanation": "SM §3.2(1): the use of long-term fixed interest bearing debt and preference share capital along with equity share capital is called financial leverage or trading on equity.",
+     "why_wrong": {
+      "A": "An equity issue is the opposite of what the term describes.",
+      "C": "Buyback is a different transaction entirely.",
+      "D": "The term is about introducing fixed-charge capital, not avoiding it."
+     },
+     "trap": "The word 'equity' in the name refers to the base being traded upon, not the source being raised.",
+     "concept": "F05.11"
+    },
+    {
+     "id": "MCQ-F05.11-02",
+     "angle": "Principle",
+     "difficulty": "Moderate",
+     "question": "As per the study material, industries facing severe competition tend to:",
+     "options": {
+      "A": "Resort to more equity than debt",
+      "B": "Resort to more debt than equity",
+      "C": "Avoid preference share capital entirely",
+      "D": "Maintain an equal debt-equity ratio"
+     },
+     "answer": "A",
+     "explanation": "SM §3.2(7): besides the other principles, factors such as nature of industry, timing of issue and competition should be considered; industries facing severe competition also resort to more equity than debt.",
+     "why_wrong": {
+      "B": "Competition makes earnings less certain, so fixed charges are riskier.",
+      "C": "No such rule is stated.",
+      "D": "No target ratio is prescribed."
+     },
+     "trap": "It follows the same logic as the sales-stability principle: uncertain earnings cannot support fixed commitments.",
+     "concept": "F05.11"
+    }
+   ],
+   "recap": [
+    "Seven principles: leverage, sales growth and stability, cost, risk, control, flexibility, other considerations.",
+    "Trading on equity = using fixed-charge capital alongside equity; it cuts both ways.",
+    "Stable or growing sales support debt; volatile sales do not.",
+    "The manager weights the principles and compromises; no one of them decides."
+   ]
+  },
+  {
+   "code": "F05.12",
+   "title": "4. Optimal Capital Structure",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "MTP 5 (Mar 2024 S1, May 2025 S1, Sep 2025 S2, Jan 2026 S2, and the Sep 2025 RTP)",
+   "understand": [
+    "==The **objective of financial management is to maximise wealth**, therefore **one should choose a capital structure which maximises wealth**.== For this purpose the study material prescribes **three analyses**, in order.",
+    "**(1) EBIT-EPS-MPS analysis.** ==**Choose a capital structure which maximises market price per share.** For that, **start with the same EBIT for all capital structures and calculate EPS**; thereafter, **either multiply EPS by the price earning ratio or divide it by the cost of equity to arrive at MPS**.==",
+    "**(2) Indifference point analysis.** In the above analysis **we have considered value at a given EBIT only**. ==**What will happen if EBIT changes? Will it change your decision also?** To answer this question, indifference point analysis is done.==",
+    "**(3) Financial break-even point analysis.** ==**With a change in capital structure, financial risk also changes.** Though this risk **has already been considered in the P/E ratio or in the cost of equity in point one above**, one **may calculate and consider it separately also by calculating the financial break-even point**.==",
+    "Read the three together and the logic is clear: **the first tells you which plan is best at the expected EBIT; the second tells you how far EBIT can move before that answer changes; the third tells you how much EBIT the plan needs before the shareholders see anything at all**.",
+    "**What the optimum looks like.** From the traditional approach (§2.2): ==**optimum capital structure occurs at the point where the value of the firm is highest and the cost of capital is the lowest**==, reached through a **judicious use of both debt and equity**."
+   ],
+   "example": "Two plans give EPS of ₹8.28 and ₹8.23 at an EBIT of ₹9 lakh, but ₹8.52 and ₹8.58 at ₹9.70 lakh. One number does not settle the question — which is exactly why the indifference point exists.",
+   "provisions": [
+    {
+     "ref": "Three analyses (SM §4)",
+     "status": "VERIFIED",
+     "requirement": "EBIT-EPS-MPS analysis at a common EBIT; indifference point analysis for changing EBIT; financial break-even point analysis for the financial risk.",
+     "exam_angle": "The structure of the answer to 'discuss optimal capital structure and how to analyse it'."
+    }
+   ],
+   "keywords": [
+    "maximise wealth",
+    "maximises market price per share",
+    "same EBIT for all capital structures",
+    "price earning ratio",
+    "indifference point analysis",
+    "financial break-even point",
+    "financial risk also changes"
+   ],
+   "memory": {
+    "trick": "Three questions, three tools: **Which plan now? (EBIT-EPS-MPS) · For how long? (indifference point) · How low can EBIT go? (financial break-even).**",
+    "key": [
+     [
+      "Step 1",
+      "EBIT-EPS-MPS: same EBIT, compute EPS, then MPS via P/E or Ke"
+     ],
+     [
+      "Step 2",
+      "Indifference point: at what EBIT do two plans give the same EPS?"
+     ],
+     [
+      "Step 3",
+      "Financial break-even: the EBIT at which EPS is zero"
+     ],
+     [
+      "Optimum",
+      "Highest value, lowest cost of capital"
+     ]
+    ],
+    "recall_trigger": "Which plan, for how long, how low"
+   },
+   "mistakes": [
+    "Comparing plans at different EBIT levels; the study material says start with the same EBIT for all structures.",
+    "Stopping at EPS; the objective is the market price per share."
+   ],
+   "links": [
+    "🔗 FM Ch 5 §2.2: the traditional approach, which defines the optimum",
+    "🔗 FM Ch 5 §5: the EBIT-EPS-MPS tool itself",
+    "🔗 FM Ch 4 §9: the WACC being minimised"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "What is optimum capital structure? (2 marks)",
+     "Discuss optimal capital structure and how to analyse it (2 marks)",
+     "Briefly explain the process for analysing an optimal capital structure (2 marks)"
+    ],
+    "approach": [
+     "Define the optimum, then list the three analyses in the study material's order"
+    ],
+    "official_pattern": "MTP-M24-S1-FQ4c; MTP-M25-S1-FQ4c-OR; MTP-S25-S2-FQ4b; MTP-J26-S2-FQ1b.",
+    "time_tip": "2 marks ≈ 3 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "The definition of the optimum",
+     "The three analyses, numbered",
+     "What each one answers"
+    ],
+    "keywords": [
+     "maximises market price per share",
+     "indifference point",
+     "financial break-even point"
+    ],
+    "length": "2 marks: the definition plus three numbered analyses",
+    "conclusion": "The optimum is where value is highest and the cost of capital lowest.",
+    "avoid": [
+     "Listing the four theories instead of the three analyses"
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "MTP-M24-S1-FQ4c",
+     "marks": 2,
+     "status": "VERIFIED",
+     "question": "What is 'optimum capital structure'?",
+     "answer_points": [
+      "**Optimum capital structure occurs at the point where the value of the firm is highest and the cost of capital is the lowest** (SM §2.2).",
+      "The firm should strive to reach it **through a judicious use of both debt and equity** in the capital structure; at that point the **overall cost of capital will be minimum and the value of the firm will be maximum**.",
+      "Since the objective of financial management is to maximise wealth, one should choose the capital structure which maximises wealth, and the study material prescribes three analyses for doing so: **EBIT-EPS-MPS analysis, indifference point analysis and financial break-even point analysis**.",
+      "Under the traditional approach, the weighted average cost of capital first decreases with leverage and then increases; **the lowest point on that curve is the optimal capital structure**."
+     ],
+     "conclusion": "Two marks: the definition and the judicious-use line are enough.",
+     "keywords": [
+      "value of the firm is highest",
+      "cost of capital is the lowest",
+      "judicious use"
+     ],
+     "also_asked_as": [
+      "MTP-M25-S1-FQ4c-OR (discuss optimal capital structure and how to analyse it)",
+      "MTP-S25-S2-FQ4b (briefly explain the process for analysing optimal capital structure)"
+     ]
+    },
+    {
+     "id": "MTP-J26-S2-FQ1b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Deepa Limited has earnings before interest and taxes of ₹60,00,000. The company is considering the introduction of debt into its capital structure and is evaluating different levels of debt financing, with the corresponding cost of debt and cost of equity given for each option. Recommend the level of debt.",
+     "answer_points": [
+      "**Method (SM §4 and §2.2).** For each option, compute the **weighted average cost of capital** as Kd × weight of debt + Ke × weight of equity, and the **value of the firm as EBIT ÷ Ko**.",
+      "**Choose the option with the lowest WACC**, which is simultaneously the option with the highest value of the firm — optimum capital structure occurs at the point where the value of the firm is highest and the cost of capital is the lowest.",
+      "**Present the answer as a table** with columns for the debt level, weight of debt, weight of equity, Kd, Ke, Ko and the value of the firm, so the minimum is visible at a glance.",
+      "**Watch the base of the ratio.** Where the question expresses debt as a proportion of total capital, the weights read directly; where it gives a debt-equity ratio, convert first. The study material flags this trap in its own Illustration 3.",
+      "**Recommend in one line**, naming the option and its WACC — the recommendation carries a mark."
+     ],
+     "conclusion": "One table, one minimum, one recommendation.",
+     "keywords": [
+      "weighted average cost of capital",
+      "value of the firm",
+      "lowest WACC",
+      "recommend"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F05.12-01",
+     "angle": "Method",
+     "difficulty": "Moderate",
+     "question": "In an EBIT-EPS-MPS analysis, the market price per share is arrived at by:",
+     "options": {
+      "A": "Dividing EPS by the dividend payout ratio",
+      "B": "Multiplying EPS by the price earning ratio, or dividing it by the cost of equity",
+      "C": "Multiplying EPS by the number of shares",
+      "D": "Dividing the value of the firm by EBIT"
+     },
+     "answer": "B",
+     "explanation": "SM §4(1): start with the same EBIT for all capital structures and calculate EPS; thereafter either multiply EPS by the price earning ratio or divide it by the cost of equity to arrive at MPS.",
+     "why_wrong": {
+      "A": "That gives no meaningful figure.",
+      "C": "That gives total earnings, not a price.",
+      "D": "That is an inverted form of the value formula."
+     },
+     "trap": "Both routes to MPS are acceptable; use whichever datum the question supplies.",
+     "concept": "F05.12"
+    },
+    {
+     "id": "MCQ-F05.12-02",
+     "angle": "Purpose",
+     "difficulty": "Moderate",
+     "question": "Indifference point analysis is performed because EBIT-EPS-MPS analysis alone:",
+     "options": {
+      "A": "Ignores the number of equity shares",
+      "B": "Considers value at a given EBIT only",
+      "C": "Cannot be used where preference capital exists",
+      "D": "Assumes there is no tax"
+     },
+     "answer": "B",
+     "explanation": "SM §4(2): in the EBIT-EPS-MPS analysis we have considered value at a given EBIT only; indifference point analysis answers what happens if EBIT changes and whether that changes the decision.",
+     "why_wrong": {
+      "A": "The share count is central to the EPS computation.",
+      "C": "Preference dividend is simply deducted before computing EPS.",
+      "D": "Tax is applied throughout."
+     },
+     "trap": "The weakness is not in the arithmetic but in its dependence on one EBIT figure.",
+     "concept": "F05.12"
+    }
+   ],
+   "recap": [
+    "Choose the structure that maximises wealth, i.e. market price per share.",
+    "Three analyses: EBIT-EPS-MPS at a common EBIT, indifference point, financial break-even.",
+    "MPS = EPS × P/E, or EPS ÷ Ke.",
+    "The optimum is where value is highest and the cost of capital lowest."
+   ]
+  },
+  {
+   "code": "F05.13 + F05.14",
+   "title": "5–5.1 EBIT-EPS-MPS Analysis and the Relationship Between Them",
+   "activity": "Very High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 2 (Sep 2024 Q3(b), Sep 2025 Q3(a)) · RTP 4 · MTP 4",
+   "understand": [
+    "==The basic objective of financial management is to **design an appropriate capital structure which can provide the highest wealth, i.e. the highest MPS, which in turn depends on EPS**.==",
+    "**Given a level of EBIT, EPS will be different under different financing mixes** depending on the extent of debt financing. ==The **effect of leverage on EPS emerges because of the existence of a fixed financial charge — interest on debt and fixed dividend on preference share capital**.==",
+    "==**The effect of the fixed financial charge on EPS depends upon the relationship between the rate of return on assets and the rate of fixed charge.** If the **rate of return on assets is higher than the cost of financing, then increasing use of fixed charge financing (debt and preference share capital) will result in an increase in EPS** — this is **favourable financial leverage, or trading on equity**. **If the rate of return on assets is less than the cost of financing, the effect may be negative** and increasing use of debt and preference capital **may reduce the EPS of the firm**.==",
+    "**Debt or preference capital?** Theoretically the **choice is tilted in favour of debt financing for two reasons**: ==**(i) the explicit cost of debt financing — the rate of interest payable on debt instruments or loans — is generally lower than the rate of fixed dividend payable on preference shares; and (ii) interest on debt financing is tax-deductible, so the real after-tax cost is lower than the cost of preference share capital**.==",
+    "==Thus the analysis of different types of capital structure and the effect of leverage on the expected EPS and eventually MPS **provides a useful guide to the selection of a particular level of debt financing**. The EBIT-EPS analysis is **of significant importance and, if undertaken properly, can be an effective tool in the hands of a financial manager to get an insight into the planning and designing of the capital structure of the firm**.==",
+    "**The presentation ICAI expects (Illustration 11).** A firm with 1,00,000 shares of ₹10 wants to raise ₹2,50,000 by **(i) issuing 25,000 ordinary shares at ₹10, (ii) borrowing ₹2,50,000 at 8%, or (iii) issuing 2,500 preference shares of ₹100 at 8%**. With EBIT of ₹3,12,500 and tax at 50%, the answer is laid out in **three parallel columns**: EBIT ₹3,12,500 in each; **less interest nil, ₹20,000, nil**; PBT ₹3,12,500, ₹2,92,500, ₹3,12,500; **less taxes** ₹1,56,250, ₹1,46,250, ₹1,56,250; PAT ₹1,56,250, ₹1,46,250, ₹1,56,250; **less preference dividend** nil, nil, ₹20,000; earnings for equity; number of shares; and finally EPS.",
+    "**Then convert to MPS** by multiplying by the P/E ratio or dividing by the cost of equity, and **recommend the plan with the highest market price per share** — that recommendation is where the last mark sits."
+   ],
+   "example": "September 2025 gave three options where the share price itself fell from ₹120 to ₹110 once borrowing exceeded ₹10,00,000 — so the plan with the highest EPS was not automatically the plan with the highest MPS.",
+   "provisions": [
+    {
+     "ref": "When leverage is favourable (SM §5.1)",
+     "status": "VERIFIED",
+     "requirement": "Fixed charge financing raises EPS only where the rate of return on assets exceeds the rate of fixed charge; otherwise it reduces EPS.",
+     "exam_angle": "The one-line reason that must accompany the recommendation."
+    },
+    {
+     "ref": "Debt preferred over preference capital (SM §5.1)",
+     "status": "VERIFIED",
+     "requirement": "Two reasons: the explicit rate is generally lower, and interest is tax-deductible so the real after-tax cost is lower.",
+     "exam_angle": "A clean 2-mark theory part and the comment on a three-plan comparison."
+    }
+   ],
+   "keywords": [
+    "highest wealth",
+    "highest MPS",
+    "fixed financial charge",
+    "rate of return on assets",
+    "favourable financial leverage",
+    "trading on equity",
+    "explicit cost",
+    "tax-deductible",
+    "real cost",
+    "useful guide",
+    "planning and designing of the capital structure"
+   ],
+   "memory": {
+    "trick": "Run the columns down: **EBIT − Interest = PBT − Tax = PAT − Preference dividend = Earnings for equity ÷ Shares = EPS × P/E = MPS.** Same skeleton, every plan.",
+    "key": [
+     [
+      "Why EPS differs",
+      "The fixed financial charge — interest and preference dividend"
+     ],
+     [
+      "Favourable leverage",
+      "Return on assets > rate of fixed charge"
+     ],
+     [
+      "Unfavourable leverage",
+      "Return on assets < rate of fixed charge, so EPS falls"
+     ],
+     [
+      "Debt beats preference",
+      "Lower explicit rate, and interest is tax-deductible"
+     ],
+     [
+      "Finish with",
+      "MPS and a recommendation"
+     ]
+    ],
+    "recall_trigger": "EBIT down to MPS, in columns"
+   },
+   "mistakes": [
+    "Deducting preference dividend before tax; it comes out of profit after tax.",
+    "Comparing plans on EPS when the question supplies a P/E ratio — the objective is MPS.",
+    "Forgetting that the share price itself may change between plans, as September 2025 required."
+   ],
+   "compare": {
+    "title": "Debt versus preference capital as the fixed charge (SM §5.1)",
+    "headers": [
+     "Basis",
+     "Debt financing",
+     "Preference share capital"
+    ],
+    "rows": [
+     [
+      "Explicit cost",
+      "Rate of interest, generally lower",
+      "Rate of fixed dividend, generally higher"
+     ],
+     [
+      "Tax treatment",
+      "Interest is tax-deductible, so the real after-tax cost is lower",
+      "Dividend is an appropriation; no tax relief"
+     ],
+     [
+      "Where deducted",
+      "Before tax, from EBIT",
+      "After tax, from PAT"
+     ],
+     [
+      "Effect on EPS",
+      "Greater leverage impact",
+      "Positive but smaller"
+     ],
+     [
+      "Theoretical preference",
+      "Preferred, for both reasons above",
+      "Second choice"
+     ]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 6: the degree of financial leverage that measures this effect",
+    "🔗 FM Ch 3 §3.4.4: the P/E ratio that converts EPS into MPS",
+    "🔗 FM Ch 4 §6: why preference capital costs more than debt"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Two or three financing plans: compute EPS and MPS and recommend (Sep 2024 Q3(b), Sep 2025 Q3(a) and eight RTPs and MTPs)",
+     "Explain the relationship between EBIT, EPS and MPS (2 marks)"
+    ],
+    "approach": [
+     "Parallel columns, one per plan, from EBIT down to EPS",
+     "Convert to MPS, then recommend in a single sentence with a reason"
+    ],
+    "official_pattern": "PYQ-S24-Q3b; PYQ-S25-Q3a; RTP-J25-FQ6; RTP-M25-FQ6; RTP-S25-FQ6; RTP-S25-FQ7; MTP-J26-S1-FQ3b; MTP-M24-S2-FQ2b; MTP-S24-S2-FQ1a; MTP-S24-S2-FQ4c; MTP-S26-S2-FQ3a.",
+    "time_tip": "5 to 6 marks ≈ 9 to 11 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "A column per plan from EBIT to EPS",
+     "MPS from the P/E ratio or the cost of equity",
+     "The recommendation with its reason"
+    ],
+    "keywords": [
+     "fixed financial charge",
+     "earnings available to equity shareholders",
+     "market price per share"
+    ],
+    "length": "5 to 6 marks: one table plus a recommendation",
+    "conclusion": "Name the plan with the highest MPS and say why the leverage is favourable or not.",
+    "avoid": [
+     "Ending at EPS when a P/E ratio has been given"
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-S24-Q3b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "ER Private Limited has a paid-up capital of ₹2,50,000 consisting of 25,000 equity shares of ₹10 each. The market price per share is ₹24 with a P/E ratio of 8. The company is planning to purchase a plant costing ₹5,00,000, expected to yield earnings before interest and taxes of ₹2,00,000 per annum. Two alternatives are available: A, 100% equity; B, 50% equity and 50% debt. Cost of debt is 12%; equity shares of face value ₹10 will be issued at a premium of ₹10 per share; the P/E ratio of the leveraged company will be 7; tax 40%. Advise which alternative is most suitable to maximise the benefit to shareholders.",
+     "answer_points": [
+      "**Existing position.** 25,000 shares at a market price of ₹24 with a P/E of 8 implies an existing EPS of ₹24 ÷ 8 = **₹3**.",
+      "**Alternative A — 100% equity.** ₹5,00,000 raised at ₹20 per share (face ₹10 plus ₹10 premium) means **25,000 new shares**, so total shares become **50,000**. New EBIT = existing EBIT plus ₹2,00,000. With no additional interest, PBT = EBIT; tax at 40%; **EPS = PAT ÷ 50,000**; **MPS = EPS × 8**, the P/E of the unleveraged company.",
+      "**Alternative B — 50% equity and 50% debt.** ₹2,50,000 of equity at ₹20 per share means **12,500 new shares**, so total shares become **37,500**; ₹2,50,000 of debt at 12% means **interest of ₹30,000**. PBT = EBIT − ₹30,000; tax at 40%; **EPS = PAT ÷ 37,500**; **MPS = EPS × 7**, the lower P/E of the leveraged company.",
+      "**Compare and advise.** The recommendation must be made on **market price per share, not EPS**, because the P/E ratio falls from 8 to 7 once debt is introduced — the market pricing the extra financial risk. Where the higher EPS of Alternative B is more than offset by the lower multiple, Alternative A maximises shareholder benefit.",
+      "This is the clearest illustration in the set of the study material's point that the objective is the highest MPS, which in turn depends on EPS — but not on EPS alone."
+     ],
+     "conclusion": "Two columns, two multiples, one recommendation on MPS.",
+     "keywords": [
+      "P/E ratio",
+      "premium",
+      "earnings per share",
+      "market price per share"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "PYQ-S25-Q3a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "AVS Limited is planning to diversify its cotton manufacturing business. The CFO intends to raise ₹22,00,000. Current estimates of EBIT from the new project are ₹5,00,000 per annum. The company's share currently sells at ₹120 and is expected to decline to ₹110 if funds borrowed exceed ₹10,00,000. The cost of debt will be 14% up to ₹8,00,000, 16% for the additional ₹2,00,000 above ₹8,00,000, and 18% for any additional amount above ₹10,00,000. The tax rate is 30%. Evaluate the options under consideration.",
+     "answer_points": [
+      "**Work the slab-wise interest first.** For any option, interest = 14% on the first ₹8,00,000, plus 16% on the next ₹2,00,000, plus 18% on anything beyond ₹10,00,000. Set this out as a working note before the main table.",
+      "**Number of shares.** The equity portion of each option is raised at ₹120 per share where borrowing does not exceed ₹10,00,000, and at **₹110 per share where it does** — the falling price reduces the shares issued per rupee and so changes the denominator of EPS.",
+      "**Build the columns.** EBIT ₹5,00,000 in every option; less interest as computed; PBT; less tax at 30%; PAT; divided by the number of shares to give **EPS**.",
+      "**Convert to MPS** using the relevant share price or P/E, and **recommend the option with the highest market price per share**.",
+      "**The two traps ICAI built in** are the slab-wise cost of debt and the share price that falls once borrowing passes ₹10,00,000 — both of which punish an answer that treats the options as if only the interest rate changed."
+     ],
+     "conclusion": "Slab interest, then the share price rule, then the columns; the recommendation follows.",
+     "keywords": [
+      "slab-wise cost of debt",
+      "share price expected to decline",
+      "earnings per share",
+      "recommend"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "MTP-S24-S2-FQ4c",
+     "marks": 2,
+     "status": "VERIFIED",
+     "question": "Explain the relationship between EBIT, EPS and MPS.",
+     "answer_points": [
+      "The basic objective of financial management is to design an appropriate capital structure which can provide the **highest wealth, i.e. the highest market price per share, which in turn depends on earnings per share**.",
+      "**Given a level of EBIT, EPS will be different under different financing mixes**, depending on the extent of debt financing. The effect of leverage on EPS emerges because of the existence of a **fixed financial charge — interest on debt and fixed dividend on preference share capital**.",
+      "**The effect depends on the relationship between the rate of return on assets and the rate of fixed charge.** If the return on assets exceeds the cost of financing, increasing use of fixed charge financing raises EPS — favourable financial leverage, or trading on equity. If it is lower, the effect is negative and EPS falls.",
+      "**MPS is then derived from EPS** by multiplying by the price earning ratio or dividing by the cost of equity, so the analysis of the effect of leverage on expected EPS and eventually MPS provides a useful guide to selecting the level of debt financing."
+     ],
+     "conclusion": "Two marks: the chain from EBIT to EPS to MPS, and the condition under which leverage helps.",
+     "keywords": [
+      "highest wealth",
+      "fixed financial charge",
+      "rate of return on assets",
+      "price earning ratio"
+     ],
+     "also_asked_as": [
+      "MTP-J26-S1-FQ3b (Magnus Ltd — capital structure and EPS)",
+      "MTP-S24-S2-FQ1a (X Ltd raising ₹84 lakh under two options)",
+      "MTP-S26-S2-FQ3a (ABC Limited — equity, debt or preference financing for a 25% expansion)",
+      "MTP-M24-S2-FQ2b (GT Limited — two ways of raising ₹50,00,000, market price on a P/E of 10)",
+      "RTP-J25-FQ6 (Ritu Limited)",
+      "RTP-M25-FQ6 (Namra Limited)",
+      "RTP-S25-FQ6 (ABC Ltd raising ₹50,00,000)",
+      "RTP-S25-FQ7 (X Limited and Y Limited — best option on EPS and WACC)"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F05.13-01",
+     "angle": "Condition",
+     "difficulty": "Moderate",
+     "question": "Increasing the use of fixed charge financing will raise earnings per share only if:",
+     "options": {
+      "A": "The number of equity shares is reduced",
+      "B": "The rate of return on assets is higher than the rate of fixed charge",
+      "C": "The tax rate is above 30%",
+      "D": "The company has no preference capital"
+     },
+     "answer": "B",
+     "explanation": "SM §5.1: if the rate of return on assets is higher than the cost of financing, increasing use of fixed charge financing will result in an increase in EPS — favourable financial leverage or trading on equity; if lower, the effect may be negative.",
+     "why_wrong": {
+      "A": "Share count affects EPS but is not the condition stated.",
+      "C": "A higher tax rate reduces the benefit, it does not create it.",
+      "D": "Preference capital is itself a form of fixed charge financing."
+     },
+     "trap": "This one condition decides whether leverage is a friend or an enemy.",
+     "concept": "F05.13"
+    },
+    {
+     "id": "MCQ-F05.14-02",
+     "angle": "Choice",
+     "difficulty": "Moderate",
+     "question": "The study material says the choice between debt and preference share financing is theoretically tilted in favour of debt for two reasons. One is the lower explicit cost; the other is that:",
+     "options": {
+      "A": "Debt holders have no voting rights",
+      "B": "Debt can be redeemed at the company's option",
+      "C": "Interest on debt financing is tax-deductible, so the real after-tax cost is lower",
+      "D": "Debt does not appear in the balance sheet"
+     },
+     "answer": "C",
+     "explanation": "SM §5.1: the two reasons are that the explicit cost of debt is generally lower than the rate of fixed dividend on preference shares, and that interest on debt is tax-deductible so the real after-tax cost is lower than the cost of preference share capital.",
+     "why_wrong": {
+      "A": "True of both instruments in normal circumstances.",
+      "B": "A feature of callable instruments, not a reason given here.",
+      "D": "Debt is plainly a balance sheet item."
+     },
+     "trap": "Both stated reasons are about cost; the control point belongs to a different principle.",
+     "concept": "F05.14"
+    }
+   ],
+   "recap": [
+    "Highest wealth means highest MPS, which depends on EPS.",
+    "EPS differs across plans because of the fixed financial charge.",
+    "Leverage is favourable only where return on assets exceeds the rate of fixed charge.",
+    "Debt beats preference capital on explicit cost and on tax deductibility.",
+    "Finish at MPS, and recommend."
+   ]
+  },
+  {
+   "code": "F05.15",
+   "title": "5.2 The Financial Break-Even Point and Indifference Point Analysis",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "RTP 1 (Sep 2025) · MTP 2 (May 2025 Series I, Jan 2026 Series I)",
+   "understand": [
+    "==**Financial break-even point is the minimum level of EBIT needed to satisfy all the fixed financial charges, i.e. interest and preference dividends. It denotes the level of EBIT for which the company's EPS equals zero.**==",
+    "==**Financial break-even point = Interest + Preference dividend ÷ (1 − tax rate).**== Note where the tax adjustment sits: **interest is already before tax, so it enters as it is; preference dividend is paid after tax, so it must be grossed up.**",
+    "==**If the EBIT is less than the financial break-even point, then the EPS will be negative; but if the expected level of EBIT is more than the break-even point, then more fixed cost financing instruments can be taken in the capital structure — otherwise, equity would be preferred.**== EBIT-EPS break-even analysis is **used for determining the appropriate amount of debt a company might carry**.",
+    "**The EBIT chart.** Another method of considering the impact of financing alternatives on EPS is to **prepare the EBIT chart or range of earnings chart**, showing the **likely EPS at various probable EBIT levels**. Under one alternative EPS may be ₹2 at a given EBIT, and **the EPS may go down if another alternative of financing is chosen even though the EBIT remains at the same level**.",
+    "**The indifference point.** ==The level of EBIT at which two financing alternatives give the same EPS is **known as the EPS equivalency point or indifference point**, since it shows that **between the two given alternatives of financing — regardless of the leverage in the financial plans — EPS would be the same at that given level of EBIT**.==",
+    "==**The equivalency or indifference point, algebraically: (EBIT − I₁)(1 − t) ÷ E₁ = (EBIT − I₂)(1 − t) ÷ E₂**==, where **EBIT is the indifference point, E₁ and E₂ the number of equity shares in Alternatives 1 and 2, I₁ and I₂ the interest charges in each, and t the tax rate**. Where a plan carries preference capital, the preference dividend is deducted after tax on that side of the equation.",
+    "**Two special cases the study material flags**, both arising where the **amount of equity share capital is the same under two plans**. ==**(1) No indifference point:** if the **after-tax cost of the source other than equity shares is not the same under both plans**, there will be **no indifference point**, because **one plan will be better than the other at all levels of EBIT**. The study material's example: two plans with equity of ₹1,00,000 each, Plan 1 with 10% debentures of ₹50,000 and Plan 2 with an 8% term loan of ₹50,000 — **Plan 2 is better at any level of EBIT**. **(2) Many indifference points:** if the **after-tax cost of the other source is the same under both plans, then every EBIT will be an indifference point**.==",
+    "**How to read the answer.** ==**When the expected EBIT is less than the EBIT at the indifference point, the plan with less debt is more viable, as it has the higher EPS; when the expected EBIT is more than the indifference point, the plan with more debt is more viable and financial leverage is favourable.**=="
+   ],
+   "example": "The study material's own three-plan problem gives indifference points of ₹16,000 between Plans A and B and ₹32,000 between A and C — but none at all between B and C, because there the equity is the same and the fixed charges differ in after-tax cost.",
+   "provisions": [
+    {
+     "ref": "Financial break-even point (SM §5.2)",
+     "status": "VERIFIED",
+     "requirement": "Interest + preference dividend ÷ (1 − tax rate); the EBIT at which EPS equals zero.",
+     "exam_angle": "Almost always asked alongside the indifference point, as the MTPs pair them."
+    },
+    {
+     "ref": "Indifference point (SM §5.2)",
+     "status": "VERIFIED",
+     "requirement": "(EBIT − I₁)(1 − t) ÷ E₁ = (EBIT − I₂)(1 − t) ÷ E₂; no indifference point where equity is equal and after-tax costs differ; every EBIT is one where they are equal.",
+     "exam_angle": "The two special cases are the mark-earning subtlety."
+    }
+   ],
+   "keywords": [
+    "minimum level of EBIT",
+    "fixed financial charges",
+    "EPS equals zero",
+    "range of earnings chart",
+    "EPS equivalency point",
+    "indifference point",
+    "no indifference point",
+    "many indifference points",
+    "more viable"
+   ],
+   "memory": {
+    "trick": "**Break-even asks how low EBIT can go; indifference asks where two plans meet.** Both are levels of EBIT — that is why they are taught together.",
+    "key": [
+     [
+      "Financial BEP",
+      "Interest + Preference dividend ÷ (1 − t)"
+     ],
+     [
+      "At the BEP",
+      "EPS is zero"
+     ],
+     [
+      "Below the BEP",
+      "EPS is negative; prefer equity"
+     ],
+     [
+      "Indifference point",
+      "(EBIT − I₁)(1 − t) ÷ E₁ = (EBIT − I₂)(1 − t) ÷ E₂"
+     ],
+     [
+      "Below it",
+      "The plan with less debt gives the higher EPS"
+     ],
+     [
+      "Above it",
+      "The plan with more debt gives the higher EPS"
+     ],
+     [
+      "Same equity, different after-tax cost",
+      "No indifference point at all"
+     ]
+    ],
+    "recall_trigger": "How low, and where they meet"
+   },
+   "mistakes": [
+    "Grossing up the interest as well as the preference dividend; only the preference dividend needs the (1 − t) division.",
+    "Assuming an indifference point always exists; where the equity is the same and the after-tax costs differ, it does not.",
+    "Dropping the (1 − t) from both sides of the indifference equation and forgetting the preference dividend, which does not cancel."
+   ],
+   "compare": {
+    "title": "Financial break-even point versus indifference point (SM §5.2)",
+    "headers": [
+     "Basis",
+     "Financial break-even point",
+     "Indifference point"
+    ],
+    "rows": [
+     [
+      "Question it answers",
+      "How much EBIT is needed before shareholders earn anything?",
+      "At what EBIT do two plans give the same EPS?"
+     ],
+     [
+      "Formula",
+      "Interest + Preference dividend ÷ (1 − t)",
+      "(EBIT − I₁)(1 − t) ÷ E₁ = (EBIT − I₂)(1 − t) ÷ E₂"
+     ],
+     [
+      "Concerns",
+      "One plan at a time",
+      "Two plans compared"
+     ],
+     [
+      "EPS at that point",
+      "Zero",
+      "Equal under both plans"
+     ],
+     [
+      "Use",
+      "Measures financial risk",
+      "Tells you how far EBIT can move before the decision changes"
+     ]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 6: the degree of financial leverage, which is infinite at the financial break-even point",
+    "🔗 FM Ch 5 §4: the three analyses, of which these are the second and third"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Compute the indifference point between two or three plans",
+     "Compute the financial break-even point for each plan and say which dominates",
+     "Discuss financial break-even and EBIT-EPS indifference analysis (2 marks)"
+    ],
+    "approach": [
+     "Write the equation with the numbers in place, then solve for EBIT",
+     "Where three plans are given, compute all three pairwise points and note any that do not exist"
+    ],
+    "official_pattern": "RTP-S25-FQ7; MTP-M25-S1-FQ3a; MTP-J26-S1-FQ4c-OR.",
+    "time_tip": "5 marks ≈ 9 minutes; 2 marks ≈ 3 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "State the formula",
+     "Substitute the interest, share numbers and tax rate",
+     "Solve for EBIT",
+     "Interpret: which plan is better above and below that point"
+    ],
+    "keywords": [
+     "EPS equivalency point",
+     "financial break-even point",
+     "more viable"
+    ],
+    "length": "5 marks: the equation, the solution and the interpretation",
+    "conclusion": "Say which plan wins on either side of the point, and why.",
+    "avoid": [
+     "Solving for EBIT without saying what the answer means"
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "MTP-M25-S1-FQ3a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Perfact Limited is considering a total investment of ₹27 lakh. Calculate the level of earnings before interest and tax at which the earnings per share under the alternative financing plans would be the same.",
+     "answer_points": [
+      "**Formula (SM §5.2):** the indifference point is the EBIT at which **(EBIT − I₁)(1 − t) ÷ E₁ = (EBIT − I₂)(1 − t) ÷ E₂**, where E₁ and E₂ are the number of equity shares under the two alternatives and I₁ and I₂ the interest charges.",
+      "**Compute the inputs first.** For each plan, work out the **interest** (the rate multiplied by the debt in that plan) and the **number of equity shares** (the equity portion divided by the issue price per share).",
+      "**Substitute and cross-multiply**, then solve the resulting linear equation for EBIT.",
+      "**Where a plan carries preference capital**, the preference dividend is deducted after tax on that side, so the numerator becomes EBIT(1 − t) − preference dividend; this is why a preference plan usually has a higher indifference point against equity than a debt plan does.",
+      "**Interpret the result.** Below the indifference point the plan with less debt is more viable, as it has the higher EPS; above it the plan with more debt is more viable and financial leverage is favourable."
+     ],
+     "conclusion": "One equation, one EBIT, one sentence of interpretation.",
+     "keywords": [
+      "indifference point",
+      "number of equity shares",
+      "interest charges",
+      "more viable"
+     ]
+    },
+    {
+     "id": "MTP-J26-S1-FQ4c-OR",
+     "marks": 2,
+     "status": "VERIFIED",
+     "question": "Discuss financial break-even and EBIT-EPS indifference analysis.",
+     "answer_points": [
+      "**Financial break-even point** is the minimum level of EBIT needed to satisfy all the fixed financial charges, i.e. interest and preference dividends. It denotes the level of EBIT at which the company's EPS equals zero, and is computed as **Interest + Preference dividend ÷ (1 − tax rate)**.",
+      "If the EBIT is less than the financial break-even point, the EPS will be negative; if the expected level of EBIT is more than the break-even point, more fixed cost financing instruments can be taken into the capital structure, otherwise equity would be preferred.",
+      "**EBIT-EPS indifference analysis** identifies the level of EBIT at which two financing alternatives give the same EPS — the EPS equivalency point or indifference point — since between the two alternatives, regardless of the leverage in the plans, EPS would be the same at that level of EBIT.",
+      "It is calculated as **(EBIT − I₁)(1 − t) ÷ E₁ = (EBIT − I₂)(1 − t) ÷ E₂**. Below the indifference point the less-levered plan gives the higher EPS; above it the more-levered plan does, and financial leverage is favourable.",
+      "EBIT-EPS break-even analysis is used for determining the appropriate amount of debt a company might carry."
+     ],
+     "conclusion": "Two marks: one definition and formula each, plus the decision rule.",
+     "keywords": [
+      "minimum level of EBIT",
+      "EPS equals zero",
+      "EPS equivalency point",
+      "appropriate amount of debt"
+     ]
+    },
+    {
+     "id": "RTP-S25-FQ7",
+     "status": "VERIFIED",
+     "question": "X Limited and Y Limited are two mid-sized companies operating in the same competitive industry. Advise which financing option is best from both an EPS and a WACC point of view.",
+     "answer_points": [
+      "**From the EPS point of view.** Build parallel columns for each option from EBIT down to EPS: EBIT, less interest, PBT, less tax, PAT, less preference dividend, earnings available to equity, number of equity shares, EPS.",
+      "**Compute the indifference point** between the options so the recommendation is not tied to a single EBIT figure: (EBIT − I₁)(1 − t) ÷ E₁ = (EBIT − I₂)(1 − t) ÷ E₂. Then state whether the expected EBIT lies above or below it.",
+      "**From the WACC point of view.** Compute the cost of each source and weight it, as in Chapter 4; the preferred option on this test is the one with the **lowest weighted average cost of capital**, which is also the one with the highest value of the firm.",
+      "**Reconcile the two tests.** They usually agree, but where they do not, the study material's objective governs: the capital structure chosen should **maximise wealth, i.e. the market price per share**, so convert EPS to MPS using the P/E ratio or the cost of equity before deciding.",
+      "**Advise in one line**, naming the option and the ground on which it wins."
+     ],
+     "conclusion": "Two tests, one recommendation; the indifference point protects the answer against a change in EBIT.",
+     "keywords": [
+      "EPS",
+      "indifference point",
+      "weighted average cost of capital",
+      "advise"
+     ]
+    }
+   ],
+   "expected_questions": [
+    {
+     "id": "EQ-F05.15-1",
+     "form": "Compute (5 marks)",
+     "marks": 5,
+     "question": "Ganapati Limited is considering three financing plans for a total investment of ₹2,00,000: Plan A, 100% equity; Plan B, 50% equity and 50% debt; Plan C, 50% equity and 50% preference shares. The cost of debt is 8% and of preference shares 8%. Tax is 50%. Equity shares of face value ₹10 each will be issued at a premium of ₹10 per share. Expected EBIT is ₹80,000. Determine the EPS, the financial break-even point and the indifference points, and state whether any plan dominates.",
+     "answer_points": [
+      "**Number of shares.** Shares are issued at ₹20 each (₹10 face plus ₹10 premium). Plan A: ₹2,00,000 ÷ ₹20 = **10,000 shares**. Plans B and C: ₹1,00,000 ÷ ₹20 = **5,000 shares** each.",
+      "**Fixed charges.** Plan B: interest = 8% of ₹1,00,000 = **₹8,000**. Plan C: preference dividend = 8% of ₹1,00,000 = **₹8,000**, paid after tax.",
+      "**Financial break-even points.** Plan A: **nil**. Plan B: interest only = **₹8,000**. Plan C: preference dividend grossed up = ₹8,000 ÷ (1 − 0.5) = **₹16,000**.",
+      "**Indifference point, A versus B.** (EBIT − 0)(1 − 0.5) ÷ 10,000 = (EBIT − 8,000)(1 − 0.5) ÷ 5,000. Cross-multiplying, 0.5 EBIT (5,000) = (0.5 EBIT − 4,000)(10,000), so 0.5 EBIT = EBIT − 8,000 and **EBIT = ₹16,000**.",
+      "**Indifference point, A versus C.** (EBIT − 0)(1 − 0.5) ÷ 10,000 = [(EBIT)(1 − 0.5) − 8,000] ÷ 5,000, giving 0.25 EBIT = 0.5 EBIT − 8,000 and **EBIT = ₹32,000**.",
+      "**Indifference point, B versus C.** (EBIT − 8,000)(1 − 0.5) ÷ 5,000 = [(EBIT)(1 − 0.5) − 8,000] ÷ 5,000, which reduces to 0.5 EBIT − 4,000 = 0.5 EBIT − 8,000 — an impossibility, so **there is no indifference point between Plans B and C**. This is the study material's first special case: the equity is the same under both plans but the after-tax cost of the other source is not, so one plan is better at every level of EBIT.",
+      "**Conclusion: Plan B dominates Plan C**, since the financial break-even point of the former is only ₹8,000 against ₹16,000 for the latter, and the EPS of Plan B is the highest. At the expected EBIT of ₹80,000, well above both indifference points, the levered plan is the better choice."
+     ],
+     "keywords": [
+      "financial break-even point",
+      "indifference point",
+      "no indifference point",
+      "dominates"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F05.15-01",
+     "angle": "Formula",
+     "difficulty": "Moderate",
+     "question": "The financial break-even point is computed as:",
+     "options": {
+      "A": "Interest ÷ (1 − tax rate) + Preference dividend",
+      "B": "Interest + Preference dividend ÷ (1 − tax rate)",
+      "C": "(Interest + Preference dividend) × (1 − tax rate)",
+      "D": "Fixed cost ÷ contribution per unit"
+     },
+     "answer": "B",
+     "explanation": "SM §5.2: financial break-even point = Interest + Preference dividend ÷ (1 − tax rate). Interest is already a pre-tax charge; only the preference dividend, paid out of post-tax profit, must be grossed up.",
+     "why_wrong": {
+      "A": "It grosses up the wrong item.",
+      "C": "Multiplying reduces the requirement instead of raising it.",
+      "D": "That is the operating break-even point of cost accounting."
+     },
+     "trap": "Only one of the two charges needs the tax adjustment, and it is the one paid after tax.",
+     "concept": "F05.15"
+    },
+    {
+     "id": "MCQ-F05.15-02",
+     "angle": "Special case",
+     "difficulty": "Moderate",
+     "question": "Two financing plans have equity share capital of ₹1,00,000 each. Plan 1 has 10% debentures of ₹50,000 and Plan 2 has an 8% term loan of ₹50,000. As per the study material:",
+     "options": {
+      "A": "Every level of EBIT is an indifference point",
+      "B": "The indifference point is ₹50,000",
+      "C": "There is no indifference point, because Plan 2 is better at all levels of EBIT",
+      "D": "The indifference point equals the financial break-even point of Plan 1"
+     },
+     "answer": "C",
+     "explanation": "SM §5.2: if the after-tax cost of the source other than equity shares is not the same under both plans, there will be no indifference point, because one plan will be better than the other at all levels of EBIT; the study material's own example is exactly this pair, and concludes Plan 2 is better at any level of EBIT.",
+     "why_wrong": {
+      "A": "That is the other special case, where the after-tax costs are equal.",
+      "B": "No such point exists here.",
+      "D": "The two measures answer different questions."
+     },
+     "trap": "With equity held constant, the cheaper fixed-charge source simply wins everywhere.",
+     "concept": "F05.15"
+    }
+   ],
+   "recap": [
+    "Financial break-even = Interest + Preference dividend ÷ (1 − t); EPS is zero there.",
+    "Indifference point: (EBIT − I₁)(1 − t) ÷ E₁ = (EBIT − I₂)(1 − t) ÷ E₂.",
+    "Below it, less debt wins; above it, more debt wins.",
+    "Equal equity with unequal after-tax costs means no indifference point; equal costs mean every EBIT is one."
+   ]
+  },
+  {
+   "code": "F05.16 + F05.17 + F05.18 + F05.19",
+   "title": "6–6.3 Over-Capitalisation and Under-Capitalisation",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (Sep 2024 Q4(d) OR) · RTP 1 (Jan 2026) · MTP 2 (Jan 2025 Series I, May 2025 Series II)",
+   "understand": [
+    "==**Over-capitalisation is a situation where a firm has more capital than it needs** — in other words, **assets are worth less than its issued share capital, and earnings are insufficient to pay dividend and interest**.== This arises mainly when the **existing capital is not effectively utilised on account of a fall in the earning capacity of the company, while the company has raised funds more than its requirements**. ==**The chief sign of over-capitalisation is the fall in payment of dividend and interest, leading to a fall in the value of the shares of the company.**==",
+    "**Causes of over-capitalisation.** **(i) Raising more money through issue of shares or debentures than the company can employ profitably.** **(ii) Borrowing a huge amount at a higher rate than the rate at which the company can earn.** **(iii) Excessive payment for the acquisition of fictitious assets such as goodwill.** **(iv) Improper provision for depreciation, replacement of assets and distribution of dividends at a higher rate.** **(v) Wrong estimation of earnings and capitalisation.**",
+    "**Consequences of over-capitalisation.** **(i) Considerable reduction in the rate of dividend and interest payments.** **(ii) Reduction in the market price of shares.** **(iii) Resorting to 'window dressing'.** **(iv) Some companies may opt for reorganisation; however, sometimes the matter gets worse and the company may go into liquidation.**",
+    "**Remedies for over-capitalisation.** **(i) The company should go for thorough reorganisation.** **(ii) Buyback of shares.** **(iii) Reduction in the claims of debenture-holders and creditors.** **(iv) The value of shares may also be reduced, which will result in sufficient funds for the company to carry out replacement of assets.**",
+    "==**Under-capitalisation is just the reverse.** It is a state **when the actual capitalisation is lower than its proper capitalisation as warranted by its earning capacity**.== This **normally happens with companies which have insufficient capital but large secret reserves in the form of considerable appreciation in the values of the fixed assets not brought into the books**.",
+    "**Consequences of under-capitalisation.** **(i) The dividend rate will be higher in comparison to similarly situated companies.** **(ii) The market value of shares will be higher than the value of shares of other similar companies, because their earning rate is considerably more than the prevailing rate on such securities.** **(iii) The real value of shares will be higher than their book value.**",
+    "**Effects of under-capitalisation.** **(i) It encourages acute competition — high profitability encourages new entrepreneurs to come into the same type of business.** **(ii) A high rate of dividend encourages the workers' union to demand high wages.** **(iii) Normally common people (consumers) start feeling that they are being exploited.** **(iv) Management may resort to manipulation of share values.** **(v) It invites more government control and regulation on the company and higher taxation also.**",
+    "**Remedies for under-capitalisation.** **(i) The shares of the company should be split up — this will reduce dividend per share, though EPS shall remain unchanged.** **(ii) Issue of bonus shares is the most appropriate measure, as this will reduce both dividend per share and the average rate of earning.** **(iii) By revising upward the par value of shares in exchange of the existing shares held by them.**",
+    "==**Which is worse (§6.3).** Both are not good. However, **over-capitalisation is more dangerous to the company, the shareholders and the society than under-capitalisation**. The situation of **under-capitalisation can be handled more easily**; moreover, **under-capitalisation is not an economic problem but a problem of adjusting the capital structure**. Thus **under-capitalisation should be considered less dangerous, but both situations are bad and every company should strive to have a proper capitalisation**.=="
+   ],
+   "example": "A company with a huge capital base and a falling EPS, cutting its dividend and watching its share price slide, is the study material's picture of over-capitalisation — and the MTP's 'financial consultant' scenario in one sentence.",
+   "provisions": [
+    {
+     "ref": "Over-capitalisation (SM §6.1)",
+     "status": "VERIFIED",
+     "requirement": "More capital than needed; assets worth less than issued share capital; earnings insufficient to pay dividend and interest; the chief sign is falling dividend and interest and a falling share value.",
+     "exam_angle": "Asked as a 2-mark and a 4-mark part; the causes and remedies lists are the marks."
+    },
+    {
+     "ref": "Which is more dangerous (SM §6.3)",
+     "status": "VERIFIED",
+     "requirement": "Over-capitalisation is more dangerous; under-capitalisation is not an economic problem but a problem of adjusting the capital structure.",
+     "exam_angle": "The concluding comparison, worth a mark on its own."
+    }
+   ],
+   "keywords": [
+    "more capital than it needs",
+    "assets are worth less than its issued share capital",
+    "fall in earning capacity",
+    "chief sign",
+    "window dressing",
+    "buyback of shares",
+    "actual capitalisation is lower",
+    "secret reserves",
+    "acute competition",
+    "manipulation of share values",
+    "split up",
+    "bonus shares",
+    "more dangerous",
+    "proper capitalisation"
+   ],
+   "memory": {
+    "trick": "**Over = too much capital chasing too little earning; Under = too much earning on too little capital.** The first shows up as a falling dividend, the second as a suspiciously high one.",
+    "key": [
+     [
+      "Over-capitalisation",
+      "More capital than needed; earnings cannot service it"
+     ],
+     [
+      "Chief sign",
+      "Fall in dividend and interest, then in share value"
+     ],
+     [
+      "Five causes",
+      "Over-issue · dear borrowing · fictitious assets · improper depreciation · wrong estimation"
+     ],
+     [
+      "Four remedies",
+      "Reorganisation · buyback · reduce creditors' claims · reduce the value of shares"
+     ],
+     [
+      "Under-capitalisation",
+      "Actual capitalisation below what earning capacity warrants; secret reserves"
+     ],
+     [
+      "Three remedies",
+      "Split shares · bonus issue (most appropriate) · revise par value upward"
+     ],
+     [
+      "Verdict",
+      "Over-capitalisation is the more dangerous of the two"
+     ]
+    ],
+    "recall_trigger": "Too much capital, or too much earning"
+   },
+   "mistakes": [
+    "Defining over-capitalisation as having too much debt; it is having more capital of any kind than earnings can support.",
+    "Saying under-capitalisation is the more dangerous; the study material says the opposite.",
+    "Offering a bonus issue as the remedy for over-capitalisation — it is the most appropriate remedy for under-capitalisation."
+   ],
+   "compare": {
+    "title": "Over-capitalisation versus under-capitalisation (SM §§6.1 to 6.3)",
+    "headers": [
+     "Basis",
+     "Over-capitalisation",
+     "Under-capitalisation"
+    ],
+    "rows": [
+     [
+      "Meaning",
+      "More capital than needed; assets worth less than issued share capital",
+      "Actual capitalisation lower than warranted by earning capacity"
+     ],
+     [
+      "Typical cause",
+      "Funds raised beyond requirement, or a fall in earning capacity",
+      "Insufficient capital with large secret reserves in appreciated fixed assets"
+     ],
+     [
+      "Dividend rate",
+      "Falls; the chief sign of the condition",
+      "Higher than in similar companies"
+     ],
+     [
+      "Share value",
+      "Market price falls",
+      "Market value and real value exceed those of similar companies"
+     ],
+     [
+      "Remedies",
+      "Reorganisation, buyback, reduction of creditors' claims, reduction in the value of shares",
+      "Split shares, bonus issue (most appropriate), revise par value upward"
+     ],
+     [
+      "Verdict",
+      "More dangerous to company, shareholders and society",
+      "Less dangerous; a problem of adjusting capital structure, not an economic problem"
+     ]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 1 §10: financial distress, where prolonged over-capitalisation leads",
+    "🔗 FM Ch 3 §6: window dressing, one of the consequences named here",
+    "🔗 FM Ch 8: bonus shares and stock splits, the remedies for under-capitalisation"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Explain over-capitalisation (2 marks)",
+     "A company with a high capital base and low EPS: explain the condition, its causes and remedies (4 marks)",
+     "What are the remedies for over-capitalisation? (2 marks)",
+     "Causes of over-capitalisation (RTP Jan 2026)"
+    ],
+    "approach": [
+     "Define, give the chief sign, then the causes or remedies as the question asks",
+     "Close with the comparison if the question mentions both conditions"
+    ],
+    "official_pattern": "PYQ-S24-Q4d-OR; MTP-J25-S1-FQ4b; MTP-M25-S2-FQ4c-OR; RTP-J26-FQ11c.",
+    "time_tip": "2 marks ≈ 3 minutes; 4 marks ≈ 7 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "Definition in the study material's words",
+     "The chief sign",
+     "The list the question asks for — causes, consequences or remedies",
+     "The comparison, if both conditions are mentioned"
+    ],
+    "keywords": [
+     "more capital than it needs",
+     "chief sign",
+     "window dressing",
+     "buyback of shares"
+    ],
+    "length": "2 marks: definition plus three points; 4 marks: definition plus causes and remedies",
+    "conclusion": "Over-capitalisation is the more dangerous of the two, but both are bad.",
+    "avoid": [
+     "Mixing the two remedy lists — buyback for over, bonus issue for under"
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-S24-Q4d-OR",
+     "marks": 2,
+     "status": "VERIFIED",
+     "question": "What are the remedies for over-capitalisation?",
+     "answer_points": [
+      "**(i) The company should go for thorough reorganisation.**",
+      "**(ii) Buyback of shares.**",
+      "**(iii) Reduction in the claims of debenture-holders and creditors.**",
+      "**(iv) The value of shares may also be reduced.** This will result in sufficient funds for the company to carry out replacement of assets.",
+      "Each remedy attacks the same imbalance from a different side: reorganisation and a reduction in share value scale the capital down to what the earnings can support, while buyback and a reduction in creditors' claims reduce the amount that has to be serviced."
+     ],
+     "conclusion": "Four remedies, half a mark each; ICAI's published answer is exactly this list.",
+     "keywords": [
+      "thorough reorganisation",
+      "buyback of shares",
+      "claims of debenture-holders",
+      "value of shares may be reduced"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "MTP-J25-S1-FQ4b",
+     "marks": 4,
+     "status": "VERIFIED",
+     "question": "You are a financial consultant for a company that has a very high capital base but low earnings per share. Explain over-capitalisation.",
+     "answer_points": [
+      "**Over-capitalisation is a situation where a firm has more capital than it needs**, or in other words its **assets are worth less than its issued share capital, and earnings are insufficient to pay dividend and interest**. The company described — a very high capital base with low EPS — is the textbook case.",
+      "It **mainly arises when the existing capital is not effectively utilised on account of a fall in the earning capacity of the company, while the company has raised funds more than its requirements**. The **chief sign is the fall in payment of dividend and interest, leading to a fall in the value of the shares**.",
+      "**Causes:** raising more money through issue of shares or debentures than the company can employ profitably; borrowing a huge amount at a higher rate than the rate at which the company can earn; excessive payment for the acquisition of fictitious assets such as goodwill; improper provision for depreciation, replacement of assets and distribution of dividends at a higher rate; and wrong estimation of earnings and capitalisation.",
+      "**Consequences:** considerable reduction in the rate of dividend and interest payments; reduction in the market price of shares; resorting to window dressing; and in some cases reorganisation, or even liquidation if matters worsen.",
+      "**Remedies:** thorough reorganisation; buyback of shares; reduction in the claims of debenture-holders and creditors; and reduction in the value of shares, which results in sufficient funds for the company to carry out replacement of assets."
+     ],
+     "conclusion": "Four marks: definition, chief sign, causes and remedies.",
+     "keywords": [
+      "more capital than it needs",
+      "chief sign",
+      "window dressing",
+      "buyback of shares"
+     ],
+     "also_asked_as": [
+      "MTP-M25-S2-FQ4c-OR (explain in brief the concept of over-capitalisation, 2 marks)",
+      "RTP-J26-FQ11c (what are the causes of over-capitalisation?)"
+     ]
+    }
+   ],
+   "expected_questions": [
+    {
+     "id": "EQ-F05.19-1",
+     "form": "Distinguish (4 marks)",
+     "marks": 4,
+     "question": "Distinguish between over-capitalisation and under-capitalisation, and state which the study material regards as more dangerous and why.",
+     "answer_points": [
+      "**Over-capitalisation** is a situation where a firm has more capital than it needs — assets are worth less than its issued share capital and earnings are insufficient to pay dividend and interest. **Under-capitalisation** is the reverse: a state where actual capitalisation is lower than the proper capitalisation warranted by earning capacity.",
+      "**Cause:** over-capitalisation arises where funds are raised beyond requirement or earning capacity falls; under-capitalisation normally happens with companies which have insufficient capital but large secret reserves in the form of considerable appreciation in the value of fixed assets not brought into the books.",
+      "**Dividend and share value:** under over-capitalisation the rate of dividend and interest falls and the market price of shares declines; under under-capitalisation the dividend rate is higher than in similarly situated companies, the market value of shares is higher, and the real value of shares exceeds their book value.",
+      "**Remedies:** for over-capitalisation, thorough reorganisation, buyback of shares, reduction in the claims of debenture-holders and creditors, and reduction in the value of shares. For under-capitalisation, splitting the shares, issuing bonus shares — the most appropriate measure, as it reduces both dividend per share and the average rate of earning — and revising the par value of shares upward.",
+      "**Which is worse:** both are bad, but **over-capitalisation is more dangerous to the company, the shareholders and the society**. The situation of under-capitalisation can be handled more easily, and it is **not an economic problem but a problem of adjusting the capital structure**. Every company should strive to have a proper capitalisation."
+     ],
+     "keywords": [
+      "more capital than it needs",
+      "secret reserves",
+      "bonus shares",
+      "more dangerous",
+      "proper capitalisation"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F05.17-01",
+     "angle": "Sign",
+     "difficulty": "Easy",
+     "question": "The chief sign of over-capitalisation, as per the study material, is:",
+     "options": {
+      "A": "A rise in the debt-equity ratio",
+      "B": "A fall in the payment of dividend and interest, leading to a fall in the value of the shares",
+      "C": "An increase in the market price of shares",
+      "D": "An increase in the number of equity shares"
+     },
+     "answer": "B",
+     "explanation": "SM §6.1: the chief sign of over-capitalisation is the fall in payment of dividend and interest leading to fall in value of the shares of the company.",
+     "why_wrong": {
+      "A": "Over-capitalisation is about capital exceeding what earnings can support, whatever its form.",
+      "C": "The price falls, not rises.",
+      "D": "A share issue may cause it but is not its sign."
+     },
+     "trap": "The sign is about payments and price, not about the balance sheet mix.",
+     "concept": "F05.17"
+    },
+    {
+     "id": "MCQ-F05.19-02",
+     "angle": "Remedy",
+     "difficulty": "Moderate",
+     "question": "The study material describes which measure as the most appropriate remedy for under-capitalisation?",
+     "options": {
+      "A": "Buyback of shares",
+      "B": "Reduction in the claims of debenture-holders",
+      "C": "Thorough reorganisation",
+      "D": "Issue of bonus shares"
+     },
+     "answer": "D",
+     "explanation": "SM §6.2: issue of bonus shares is the most appropriate measure, as this will reduce both dividend per share and the average rate of earning.",
+     "why_wrong": {
+      "A": "A remedy for over-capitalisation.",
+      "B": "A remedy for over-capitalisation.",
+      "C": "A remedy for over-capitalisation."
+     },
+     "trap": "Three of the four options are the over-capitalisation remedies; only one belongs to the reverse condition.",
+     "concept": "F05.19"
+    }
+   ],
+   "recap": [
+    "Over-capitalisation: more capital than the earnings can service; the chief sign is falling dividend, interest and share value.",
+    "Five causes, four consequences, four remedies — reorganisation, buyback, reducing creditors' claims, reducing share value.",
+    "Under-capitalisation: capitalisation below what earnings warrant, often with secret reserves; remedied by splits, bonus shares and a higher par value.",
+    "Over-capitalisation is the more dangerous; under-capitalisation is a problem of adjustment, not economics."
+   ]
+  }
+ ]
+}

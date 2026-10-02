@@ -1,0 +1,384 @@
+{
+ "concepts": [
+  {
+   "code": "F01.05 + F01.06",
+   "title": "5–6. Importance and Scope of Financial Management",
+   "activity": "Medium",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "RTP 1 (Sep 2026) · MTP 1 (Dec 2024)",
+   "understand": [
+    "**Importance (SM §5).** The importance of FM cannot be over-emphasised; it is the **key to successful business operations**. Without proper administration of finance, no enterprise can reach its full potential for growth and success. ==Money is to an enterprise what oil is to an engine.==",
+    "FM is all about **planning investment, funding the investment, monitoring expenses against budget and managing gains** from investments. It means management of **all matters related to an organisation's finances** (SM MCQ 5 key: 'Financial management').",
+    "The best way to show its importance is through the **tasks it involves**: (1) taking care **not to over-invest in fixed assets**; (2) **balancing cash outflows with cash inflows**; (3) ensuring a **sufficient level of short-term working capital**; (4) setting **sales revenue targets** that will deliver growth; (5) increasing **gross profit by correct pricing** of products or services; (6) **controlling general and administrative expenses** by finding more cost-efficient ways of running day-to-day operations; (7) **tax planning** that minimises the taxes a business has to pay.",
+    "**Scope (SM §6).** As an integral part of overall management, FM is mainly concerned with **acquisition and use of funds**. Based on **Ezra Solomon's** concept, the study of FM covers: (a) **determination of size** of the enterprise and its **rate of growth**; (b) determining the **composition of assets**; (c) determining the **mix of financing** (level of debt to equity etc.); (d) **analysis, planning and control** of financial affairs.",
+    "**Role of the financial controller.** Until the middle of the (last) century the role was limited to **procurement of funds** during major events such as promotion, expansion and merger. In modern times it includes, besides procurement, the **three decisions: investment, financing and dividend**.",
+    "**Overview of the financial controller (SM figure):** the financial controller takes **financial decisions** (investment, financing, dividend), which affect **return and risk**; the **trade-off** between them leads to **maximisation of share value**. To maximise shareholders' wealth the controller should strive to **maximise returns in relation to the given risk** and avoid unnecessary risks, and should constantly **monitor funds flowing in and out** so they are safeguarded and properly used."
+   ],
+   "example": "RTP Sep 2026 case: PQR Ltd. bought new machinery and raised production but, due to poor financial planning, faces cash shortages, rising expenses and working capital trouble. Better budgeting, cost control and cash flow management are exactly the importance tasks in SM §5.",
+   "provisions": [
+    {"ref": "Ezra Solomon: four aspects of the scope of FM", "status": "VERIFIED",
+     "requirement": "(a) size of the enterprise and rate of growth; (b) composition of assets; (c) mix of financing; (d) analysis, planning and control of financial affairs.",
+     "exam_angle": "Direct 'scope' question or MCQ; name Ezra Solomon."}
+   ],
+   "keywords": ["key to successful business operations", "money is to an enterprise what oil is to an engine", "not to over-invest in fixed assets", "balancing cash-outflow with cash-inflows", "tax planning", "Ezra Solomon", "composition of assets", "mix of financing", "risk-return trade off", "maximisation of share value"],
+   "memory": {
+    "trick": "Importance = \"FACTS-GT\": Fixed assets not over-invested, Align cash in and out, Current (working) capital sufficient, Targets for sales, Selling price for gross profit, General and admin expenses controlled, Tax planning. Scope (Solomon) = \"SAMA\": Size & growth, Assets composition, Mix of financing, Analysis–planning–control.",
+    "key": [["FACTS-GT", "Seven tasks that show the importance of FM"], ["SAMA", "Four aspects of scope as per Ezra Solomon"]],
+    "recall_trigger": "FACTS-GT / SAMA"
+   },
+   "mistakes": ["Confusing importance (seven tasks) with scope (Ezra Solomon's four aspects).", "Writing that the financial controller's role is only fund procurement. That was the old role; the modern role covers all three decisions."],
+   "links": ["🔗 FM Ch 7 and Ch 9: over-investment in fixed assets and working capital adequacy", "🔗 FM Ch 5: mix of financing (capital structure)"],
+   "face_in_exam": {
+    "forms": ["Describe tasks that show the importance of good FM (MTP Dec 2024, 4 marks)", "Case: explain the importance of FM for growth, profitability and stability (RTP Sep 2026)", "Scope of FM as per Ezra Solomon"],
+    "approach": ["Open with 'key to successful business operations'", "List the seven tasks", "In a case, map each task to a fact (cash shortage → balancing cash flows; rising expenses → controlling expenses)"],
+    "official_pattern": "MTP-J25-S2-FQ4b; RTP-S26-FQ10a.",
+    "time_tip": "4 marks ≈ 7 minutes (study guidance)."
+   },
+   "write": {
+    "structure": ["One-line importance statement", "Seven tasks as bullets", "Link to facts if it is a case"],
+    "keywords": ["key to successful business operations", "cash-outflow with cash-inflows", "sufficient working capital"],
+    "length": "8–10 lines",
+    "conclusion": "Hence sound financial management is essential for growth, profitability and financial stability.",
+    "avoid": ["Writing scope points when importance is asked"]
+   },
+   "official_questions": [
+    {"id": "MTP-J25-S2-FQ4b", "marks": 4, "status": "VERIFIED",
+     "question": "Describe some of the tasks that demonstrate the importance of good financial management.",
+     "answer_points": [
+      "Taking care not to over-invest in fixed assets.",
+      "Balancing cash outflows with cash inflows.",
+      "Ensuring that there is a sufficient level of working capital.",
+      "Setting sales revenue targets that will deliver growth.",
+      "Increasing gross profit by setting the correct pricing for products or services.",
+      "Controlling the level of general and administration expenses by finding more cost-efficient ways of running day-to-day business operations.",
+      "Tax planning that will minimise the taxes a business has to pay."
+     ],
+     "keywords": ["over-invest in fixed assets", "balancing cash flows", "tax planning"]},
+    {"id": "RTP-S26-FQ10a", "marks": null, "status": "VERIFIED",
+     "question": "PQR Ltd. expanded by buying new machinery and increasing production, but poor financial planning has led to cash shortages, rising expenses and difficulty in managing working capital. Management now wants better budgeting, cost control and cash flow management. In this light, explain the importance of financial management and how it helps a business achieve growth, profitability and financial stability.",
+     "answer_points": [
+      "Importance of financial management cannot be over-emphasised; it is the key to successful business operations. Without proper administration of finance, no enterprise can reach its full potential for growth and success. Money is to an enterprise what oil is to an engine.",
+      "Financial management is about planning investment, funding the investment, monitoring expenses against budget and managing gains from investments; it means management of all matters related to an organisation's finances.",
+      "Its importance is shown by the tasks it involves: (a) taking care not to over-invest in fixed assets; (b) balancing cash outflows with cash inflows; (c) ensuring a sufficient level of short-term working capital; (d) setting sales revenue targets that will deliver growth; (e) increasing gross profit by correct pricing; (f) controlling general and administrative expenses through cost-efficient day-to-day operations; (g) tax planning to minimise taxes.",
+      "Applied to PQR Ltd.: budgeting and balancing cash flows address the cash shortage; cost control addresses rising expenses; ensuring sufficient working capital addresses the working capital difficulty; avoiding over-investment in machinery protects stability."
+     ],
+     "conclusion": "Sound financial management helps PQR Ltd. grow, stay profitable and remain financially stable.",
+     "keywords": ["key to successful business operations", "oil is to an engine", "balancing cash-outflow with cash-inflows"]}
+   ],
+   "expected_questions": [
+    {"id": "EQ-F01.06-1", "form": "Explain (4 marks)", "marks": 4,
+     "question": "Explain the scope of financial management as per Ezra Solomon, and how the role of the financial controller has changed over the years.",
+     "answer_points": [
+      "FM is mainly concerned with acquisition and use of funds. As per Ezra Solomon, its study covers: (a) determination of size of the enterprise and its rate of growth; (b) determining the composition of assets; (c) determining the mix of financing, i.e. level of debt to equity; (d) analysis, planning and control of financial affairs.",
+      "Until the middle of the last century the financial controller's role was limited to procurement of funds during major events such as promotion, expansion and merger.",
+      "Today the role includes, besides procurement of funds, investment, financing and dividend decisions.",
+      "To maximise shareholders' wealth, the controller maximises returns in relation to the given risk (risk-return trade-off), avoids unnecessary risk and monitors fund flows so that funds are safeguarded and properly used."
+     ],
+     "keywords": ["Ezra Solomon", "composition of assets", "mix of financing", "risk-return trade off"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F01.06-01", "angle": "Which is NOT", "difficulty": "Moderate",
+     "question": "Which of the following is NOT one of the aspects of the scope of financial management as per Ezra Solomon?",
+     "options": {"A": "Preparation of the statutory audit report", "B": "Determining the composition of assets of the enterprise", "C": "Determining the mix of the enterprise's financing", "D": "Analysis, planning and control of financial affairs"},
+     "answer": "A",
+     "explanation": "SM §6 lists: size and rate of growth, composition of assets, mix of financing, and analysis, planning and control of financial affairs. Audit reporting is not part of FM.",
+     "why_wrong": {"B": "Listed aspect (b).", "C": "Listed aspect (c).", "D": "Listed aspect (d)."},
+     "trap": "Negative wording: 'NOT'.",
+     "concept": "F01.06"},
+    {"id": "MCQ-F01.05-02", "angle": "Case-based", "difficulty": "Moderate",
+     "question": "Mehta Traders earns good profits but keeps running out of cash because it spends heavily on new equipment before customers pay. Which task of good financial management is it most clearly failing at?",
+     "options": {"A": "Setting sales revenue targets that deliver growth", "B": "Balancing cash outflows with cash inflows and not over-investing in fixed assets", "C": "Tax planning to minimise taxes", "D": "Increasing gross profit through correct pricing"},
+     "answer": "B",
+     "explanation": "SM §5 lists 'taking care not to over-invest in fixed assets' and 'balancing cash-outflow with cash-inflows' among the tasks that show the importance of FM.",
+     "why_wrong": {"A": "The problem is not the sales target.", "C": "Tax is not mentioned in the facts.", "D": "Profits are already good."},
+     "trap": "Thinking profit alone means financial health.",
+     "concept": "F01.05"}
+   ],
+   "recap": ["Importance: key to success; seven tasks (fixed assets, cash balance, working capital, sales targets, pricing, expenses, tax).", "Scope (Solomon): size and growth, asset composition, financing mix, analysis–planning–control.", "Financial controller: from fund procurement only to all three decisions and risk-return trade-off."]
+  },
+  {
+   "code": "F01.07 + F01.07.01",
+   "title": "7–7.1 Objectives of Financial Management and Profit Maximisation",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (Sep 2025 Q4(c) OR) · RTP 1 (Jan 2026) · MTP 4 (Mar 2024, Nov 2024, Mar 2026, Jul 2026)",
+   "understand": [
+    "**Objectives (SM §7).** Efficient financial management needs **objectives or goals**, because whether a financial decision is efficient can only be judged in the light of some objective. Many objectives are possible, but the SM discusses **two**: ==profit maximisation== and ==wealth/value maximisation==.",
+    "**Profit maximisation (SM §7.1).** Traditionally the primary objective of a company is to earn profit, so the objective of FM is also profit maximisation: decisions are made so that profits are maximised, and each alternative is judged by whether it gives maximum profit.",
+    "However, ==profit maximisation cannot be the sole objective of a company; it is at best a limited objective==. If profit is given undue importance, problems arise:",
+    "**(i) The term profit is vague.** It conveys different meanings to different people: short-term or long-term; total profit or rate of profit etc.",
+    "**(ii) It must be attempted with a realisation of risks involved.** There is a **direct relationship between risk and profit**: higher the risk, higher the possibility of profits. If profit is the only goal, the **risk factor is altogether ignored**, and the finance manager will accept highly risky proposals if they give high profits. In practice risk is very important and must be balanced with the profit objective.",
+    "**(iii) It does not take into account the time pattern of returns.** Proposal A may give higher total profit than proposal B, but if A's returns begin 10 years later, B (lower but earlier and quicker returns) may be preferred.",
+    "**(iv) It is too narrow.** It ignores **social considerations** and obligations to workers, consumers, society, and ethical trade practices. A company ignoring these cannot survive for long; ==profit maximisation at the cost of social and moral obligations is a short-sighted policy==.",
+    "**ICAI MTP wording ('not an operationally feasible criterion').** Profit maximisation can be a short-term objective but cannot be the sole objective; it fails to serve as an operational criterion for maximising the owner's economic welfare and to rank alternatives by economic efficiency. Limitations: **vague term** (short or long term? before or after tax? total or per share?), **timing of return ignored** (no time value of money), **ignores risk**, and **the term 'maximisation' is also vague**."
+   ],
+   "example": "A firm postpones major repairs to show higher profit this year (SM §8 example). Profit rises now but long-term profitability suffers, showing how a narrow, short-term profit goal can harm the firm.",
+   "provisions": [
+    {"ref": "Four limitations of profit maximisation (SM §7.1)", "status": "VERIFIED",
+     "requirement": "(i) vague term; (ii) ignores risk; (iii) ignores time pattern of returns; (iv) too narrow, ignoring social obligations.",
+     "exam_angle": "Asked as 'limitations' (MTP Mar 2024, PYQ Sep 2025 OR), 'disadvantages' (RTP Jan 2026 answered with the table) or 'not operationally feasible' (three MTPs)."}
+   ],
+   "keywords": ["profit maximisation cannot be the sole objective", "limited objective", "term profit is vague", "direct relationship between risk and profit", "time pattern of returns", "too narrow", "social considerations", "short sighted policy", "not an operationally feasible criterion"],
+   "memory": {
+    "trick": "\"V-R-T-N\" = Vague, Risk ignored, Timing ignored, Narrow. Say: \"Very Risky To be Narrow\".",
+    "key": [["V", "Vague: short/long term, total/rate, before/after tax"], ["R", "Risk ignored: higher risk, higher profit"], ["T", "Timing of returns ignored: A later vs B earlier"], ["N", "Narrow: ignores social and ethical obligations"]],
+    "recall_trigger": "Very Risky To be Narrow"
+   },
+   "mistakes": ["Writing that profit maximisation 'considers risk'. It ignores risk.", "Forgetting the time value of money point (timing of returns).", "In the 'disadvantages' version (RTP Jan 2026), ICAI used the SM table words: emphasises short-term gains, ignores risk or uncertainty, ignores timing of returns, requires immediate resources. Learn both versions."],
+   "compare": {"title": "Two ICAI wordings for the weaknesses of profit maximisation", "headers": ["SM §7.1 limitations (4)", "SM §8 table disadvantages (4)"], "rows": [["Term profit is vague", "Emphasizes the short-term gains"], ["Ignores the risks involved", "Ignores risk or uncertainty"], ["Ignores time pattern of returns", "Ignores the timing of returns"], ["Too narrow: ignores social considerations", "Requires immediate resources"]], "spot_it": "If the question says 'limitations', use the left column; if it says 'disadvantages' or asks for the table, use the right column."},
+   "links": ["🔗 FM Ch 7 Investment Decisions: time value of money, which profit maximisation ignores"],
+   "face_in_exam": {
+    "forms": ["Explain limitations of profit maximisation (4 marks)", "Any two limitations (2 marks)", "'Profit maximisation is not an operationally feasible criterion' — comment (4 marks)", "Case: a firm raises prices sharply for short-term profit — analyse (2 marks)", "Disadvantages of profit maximisation (RTP)"],
+    "approach": ["State that it cannot be the sole objective (limited objective)", "Give the four limitations with one line each", "For 'comment': agree, then list the limitations"],
+    "official_pattern": "PYQ-S25-Q4c-OR; MTP-M24-S1-FQ4a; MTP-M26-S1-FQ4a (with MTP-J25-S1-FQ4c, MTP-S26-S1-FQ4c); RTP-J26-FQ11d.",
+    "time_tip": "2 marks ≈ 3–4 minutes (any two, one line each); 4 marks ≈ 7 minutes (study guidance)."
+   },
+   "write": {
+    "structure": ["Profit maximisation = traditional objective", "Cannot be the sole objective; at best limited", "(i) vague (ii) risk (iii) timing (iv) narrow", "Better objective: wealth maximisation"],
+    "keywords": ["limited objective", "vague", "time pattern of returns", "short sighted policy"],
+    "length": "4 marks: 10–12 lines",
+    "conclusion": "Hence wealth maximisation, not profit maximisation, is the better objective of financial management.",
+    "avoid": ["Saying profit is irrelevant. The SM says profit maximisation can be part of wealth maximisation."]
+   },
+   "official_questions": [
+    {"id": "PYQ-S25-Q4c-OR", "marks": 2, "status": "VERIFIED",
+     "question": "Explain any two limitations of the profit maximisation objective of financial management.",
+     "answer_points": [
+      "(i) The term profit is vague; it does not clarify what exactly it means.",
+      "(ii) Profit maximisation has to be attempted with a realisation of the risks involved.",
+      "(iii) Profit maximisation as an objective does not take into account the time pattern of returns.",
+      "(iv) Profit maximisation as an objective is too narrow."
+     ],
+     "conclusion": "Any two, each explained in a line, earn full marks (ICAI's answer lists all four).",
+     "keywords": ["vague", "risks involved", "time pattern of returns", "too narrow"],
+     "also_asked_as": ["MTP-M24-S1-FQ4a (explain the limitations, 4 marks)"]},
+    {"id": "MTP-M24-S1-FQ4a", "marks": 4, "status": "VERIFIED",
+     "question": "Explain the limitations of the profit maximisation objective of financial management.",
+     "answer_points": [
+      "(i) **The term profit is vague.** It does not clarify what exactly it means and conveys different meanings to different people, e.g. short-term or long-term profit, total profit or rate of profit.",
+      "(ii) **Profit maximisation has to be attempted with a realisation of risks involved.** There is a direct relationship between risk and profit; many risky propositions yield high profit. If profit maximisation is the only goal, risk is ignored and the finance manager may accept highly risky proposals. In practice risk must be balanced with the profit objective.",
+      "(iii) **It does not take into account the time pattern of returns.** Proposal A may give higher profits than proposal B, yet if A's returns begin 10 years later, B, with lower but earlier returns, may be preferred.",
+      "(iv) **It is too narrow.** It fails to consider social considerations and obligations to workers, consumers, society and ethical trade practices. A company ignoring these cannot survive for long; profit maximisation at the cost of social and moral obligations is a short-sighted policy."
+     ],
+     "keywords": ["vague", "direct relationship between risk and profit", "time pattern of returns", "short sighted policy"]},
+    {"id": "MTP-M26-S1-FQ4a", "marks": 4, "status": "VERIFIED",
+     "question": "\"Profit maximisation is not an operationally feasible criterion.\" Comment.",
+     "answer_points": [
+      "The statement is true: profit maximisation can be a short-term objective of an organisation but cannot be its sole objective.",
+      "It fails to serve as an operational criterion for maximising the owner's economic welfare, and fails to provide an operationally feasible measure for ranking alternative courses of action by economic efficiency.",
+      "(i) **Vague term:** the definition of profit is ambiguous. Short-term or long-term? Before or after tax? Total profit or profit per share?",
+      "(ii) **Timing of return:** it does not distinguish between returns received in different periods; it gives no consideration to the time value of money and treats benefits received today and later as the same.",
+      "(iii) It **ignores the risk** factor.",
+      "(iv) The term **maximisation is also vague**."
+     ],
+     "conclusion": "Hence profit maximisation is not an operationally feasible criterion; wealth maximisation is preferred.",
+     "keywords": ["short-term objective", "operational criterion", "time value of money", "ignores the risk factor", "maximisation is also vague"],
+     "also_asked_as": ["MTP-J25-S1-FQ4c (case: XYZ Corp. sharply raises prices to maximise short-term profits — analyse why this is not a feasible operational criterion, 2 marks)", "MTP-S26-S1-FQ4c (same statement to comment on)"]},
+    {"id": "RTP-J26-FQ11d", "marks": null, "status": "VERIFIED",
+     "question": "What are the disadvantages of profit maximisation?",
+     "answer_points": ["(i) Emphasizes the short-term gains.", "(ii) Ignores risk or uncertainty.", "(iii) Ignores the timing of returns.", "(iv) Requires immediate resources."],
+     "conclusion": "These are the disadvantages listed in the SM table comparing profit and wealth maximisation (§8).",
+     "keywords": ["short-term gains", "risk or uncertainty", "timing of returns", "immediate resources"]}
+   ],
+   "expected_questions": [
+    {"id": "EQ-F01.07.01-1", "form": "Case analysis (2 marks)", "marks": 2,
+     "question": "The CEO of Nova Paints wants every proposal ranked only by the total accounting profit it will generate over the next ten years. Point out two problems with this approach.",
+     "answer_points": [
+      "It ignores the time pattern of returns: a proposal whose profits come late may rank higher than one giving earlier and quicker returns.",
+      "It ignores risk: higher-profit proposals are usually riskier, so ranking only by profit may lead to accepting highly risky proposals. (Alternatively: the term profit is vague — total or rate, before or after tax.)"
+     ],
+     "keywords": ["time pattern of returns", "risk ignored"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F01.07.01-01", "angle": "Which is NOT", "difficulty": "Moderate",
+     "question": "Which of the following is NOT a limitation of profit maximisation as per the study material?",
+     "options": {"A": "The term profit is vague", "B": "It ignores the time pattern of returns", "C": "It is based on cash flows and ignores accounting profit", "D": "It is too narrow and ignores social considerations"},
+     "answer": "C",
+     "explanation": "SM §7.1 limitations: vague term, risk ignored, time pattern of returns ignored, too narrow. Emphasis on cash flow is a feature of wealth maximisation, not a limitation of profit maximisation.",
+     "why_wrong": {"A": "Limitation (i).", "B": "Limitation (iii).", "D": "Limitation (iv)."},
+     "trap": "Option C swaps a wealth maximisation feature into the list.",
+     "concept": "F01.07.01"},
+    {"id": "MCQ-F01.07.01-02", "angle": "Case-based", "difficulty": "Moderate",
+     "question": "Project P gives ₹60 lakh profit spread over years 8–12; Project Q gives ₹50 lakh over years 1–4. A manager chooses P because 'it has more profit'. Which limitation of profit maximisation does this illustrate?",
+     "options": {"A": "The term profit is vague", "B": "It is too narrow", "C": "It requires immediate resources", "D": "It ignores the time pattern of returns"},
+     "answer": "D",
+     "explanation": "SM §7.1(iii): profit maximisation does not consider the time pattern of returns; a proposal with lower but earlier returns may be preferred.",
+     "why_wrong": {"A": "The meaning of profit is not in dispute here.", "B": "No social obligation is involved.", "C": "A table disadvantage, but not what the facts show."},
+     "trap": "Picking 'vague' because the amounts differ.",
+     "concept": "F01.07.01"}
+   ],
+   "recap": ["Two objectives: profit maximisation and wealth maximisation.", "Profit maximisation is at best a limited objective.", "Limitations: vague, risk ignored, timing ignored, too narrow (V-R-T-N)."]
+  },
+  {
+   "code": "F01.07.02 + F01.08",
+   "title": "7.2–8. Wealth Maximisation / Value Creation and the Conflict with Profit Maximisation",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 3 (May 2024 Q4(a), Jan 2025 Q4(b), May 2026 Q4(c)) · RTP 3 (May 2024, Sep 2024, May 2025) · MTP 3 (Apr 2025, Aug 2025, Dec 2025)",
+   "understand": [
+    "**Wealth maximisation model (SM §7.2).** ==Shareholders' wealth is the result of cost-benefit analysis adjusted for timing and risk, i.e. time value of money.== ==Wealth = Present value of benefits − Present value of costs.==",
+    "Benefits should be measured in terms of **cash flow**; the finance manager should emphasise **cash flow, not accounting profit**, for investment and financing decisions. ==The shareholder value maximisation model holds that the primary goal of the firm is to maximise its market value==, i.e. decisions should increase the **net present value of the economic profits** of the firm.",
+    "To measure and maximise shareholders' wealth the finance manager follows: **cash flow approach (not accounting profit), cost-benefit analysis, application of time value of money** (SM MCQ 4: all of these; SM MCQ 12: accounting profit analysis need NOT be followed).",
+    "**How to measure value (Van Horne):** \"Value of a firm is represented by the **market price of the company's common stock**. The market price represents the **focal judgment of all market participants** as to the value of the firm. It takes into account present and prospective future EPS, the **timing and risk** of these earnings, the **dividend policy** and many other factors. The market price serves as a **performance index or report card** of the firm's progress and indicates how well management is doing on behalf of stockholders.\"",
+    "==Value of a firm (V) = Number of shares (N) × Market price of shares (MP)==, or ==V = Value of equity (Ve) + Value of debt (Vd)==.",
+    "**Other goals a business may follow:** higher growth rate; larger market share; leadership in products and technology; employee welfare; customer satisfaction; improving community life, supporting education and research, solving societal problems.",
+    "**Why wealth maximisation works (SM chain):** stockholders hire managers → managers set aside their interest and maximise stock prices → stockholders' wealth is maximised (because stockholders have absolute power to hire and fire managers) → firm value is maximised (because lenders are fully protected from shareholders' actions) → societal wealth is maximised (because markets are efficient and there are no costs created for society).",
+    "These other goals are important, but ==the primary goal remains wealth maximisation, as it is critical for the very existence of the enterprise==. If it is not met, the public and institutions lose confidence and will not invest further; growth is restricted and other goals like community welfare are not fulfilled.",
+    "**Conflicts in profit vs value maximisation (SM §8).** Management is the decision-making authority and may tend to pursue its **own personal goals (profit maximisation)**. Where there is **significant outside participation** (shareholders, lenders), constant supervision by stakeholders (employees, creditors, customers, government) prevents this. Every entity judges management by the fulfilment of its own objective, and management's survival is threatened if any entity's objective remains unfulfilled.",
+    "==Wealth maximisation is generally in accord with the interests of owners, employees, creditors and society==, so it is consistent with management's objective of survival. Owing to the limitations of profit maximisation (timing, social considerations etc.), ==in today's uncertain and multi-period world, wealth maximisation is a better objective==. ==Where the time period is short and uncertainty is not great, wealth maximisation and profit maximisation amount to essentially the same.==",
+    "**Advantages and disadvantages table (SM §8).** Profit maximisation — objective: **large amount of profits**; advantages: (i) easy to calculate profits, (ii) easy to determine the link between financial decisions and profits; disadvantages: (i) emphasises short-term gains, (ii) ignores risk or uncertainty, (iii) ignores timing of returns, (iv) requires immediate resources. Shareholders' wealth maximisation — objective: **highest market value of shares**; advantages: (i) emphasises long-term gains, (ii) recognises risk or uncertainty, (iii) recognises timing of returns, (iv) considers shareholders' return; disadvantages: (i) offers no clear relationship between financial decisions and share price, (ii) can lead to management anxiety and frustration.",
+    "**Example (SM):** profit maximisation can be achieved in the short term at the expense of long-term wealth maximisation. A costly investment may show losses now but large profits later; a firm wanting short-term profit may **postpone major repairs or replacement**, hurting long-term profitability.",
+    "**Illustration 1 (SM):** Products X and Y earn ₹10,000 and ₹11,000 a year for 5 years (totals ₹50,000 and ₹55,000). Profit maximisation favours Y. But if Y is riskier, the choice is not straightforward: there is a **trade-off between risk and return**, and stockholders would demand a sufficiently large return from Y to compensate for its greater risk. Wealth maximisation considers risk and uncertainty; profit maximisation does not."
+   ],
+   "example": "MTP Aug 2025: Project X gives high short-term accounting profit through aggressive cost cutting; Project Y gives lower immediate profit but better customer satisfaction, brand loyalty and long-term cash flows. Choose Y: it creates value and maximises shareholders' wealth.",
+   "provisions": [
+    {"ref": "Value and wealth formulae", "status": "VERIFIED",
+     "requirement": "Wealth = PV of benefits − PV of costs; V = N × MP, or V = Ve + Vd.",
+     "exam_angle": "'How do we measure the value/wealth of a firm?' (MTP Dec 2025) → quote Van Horne and give the formulae."},
+    {"ref": "Profit vs wealth maximisation table (SM §8)", "status": "VERIFIED",
+     "requirement": "Objective, advantages and disadvantages for both goals (see Understand).",
+     "exam_angle": "RTP Sep 2024 reproduced the whole table; PYQ Jan 2025 asked the wealth row; PYQ May 2026 asked objective, risk, time horizon, sustainability."}
+   ],
+   "keywords": ["time value of money", "Present value of benefits – Present Value of Costs", "cash flow approach not accounting profit", "maximise its market value", "Van Horne", "report card of the firm's progress", "V = N × MP", "highest market value of shares", "critical for the very existence of the business enterprise", "uncertain and multi-period", "wealth maximization is a better objective"],
+   "memory": {
+    "trick": "Wealth = \"C-C-T\" (Cash flow, Cost–benefit, Time value). Wealth advantages = \"L-R-T-S\" (Long-term, Risk, Timing, Shareholders' return); wealth disadvantages = \"No-link, Anxiety\".",
+    "key": [["C-C-T", "Tools for measuring wealth: cash flow approach, cost-benefit analysis, time value of money"], ["L-R-T-S", "Advantages of wealth maximisation"], ["No-link, Anxiety", "Disadvantages: no clear relationship between decisions and share price; management anxiety and frustration"], ["Short & certain", "Only then do profit and wealth maximisation amount to the same"]],
+    "recall_trigger": "C-C-T · L-R-T-S"
+   },
+   "mistakes": ["Writing 'wealth maximisation ignores risk'. It recognises risk; profit maximisation ignores it.", "Measuring wealth with accounting profit. ICAI says cash flow approach, not accounting profit.", "Saying the two objectives always conflict. They amount to the same when the period is short and uncertainty is low.", "In the true/false question, 'lower risk + higher return = risk-return trade-off, profit maximum' is FALSE: there is a direct relationship between risk and profit."],
+   "compare": {"title": "Profit maximisation vs wealth maximisation (SM §8 table + May 2026 answer)", "headers": ["Basis", "Profit maximisation", "Wealth maximisation"], "rows": [["Objective", "Large amount of profits", "Highest market value of shares"], ["Risk", "Ignores risk or uncertainty", "Recognises risk or uncertainty"], ["Time horizon", "Emphasises short-term gains", "Emphasises long-term gains"], ["Timing of returns", "Ignored", "Recognised"], ["Sustainability", "Not sustainable in the long term; sustainability is low", "Critical for the very existence of the enterprise; sustainability is high"], ["Advantages", "Easy to calculate profits; easy link between decisions and profits", "Long-term gains; risk and timing recognised; considers shareholders' return"], ["Disadvantages", "Short-term gains; ignores risk and timing; requires immediate resources", "No clear link between decisions and share price; management anxiety and frustration"]], "spot_it": "Case facts showing short-term accounting profit through cost cutting or postponed repairs point to profit maximisation; facts about long-term cash flows, brand and customer loyalty point to wealth maximisation / value creation."},
+   "links": ["🔗 FM Ch 7: NPV (present value of benefits minus costs)", "🔗 FM Ch 8: dividend policy affects market price and wealth", "🔗 FM Ch 1 §12: agency problem, when managers pursue personal goals instead of shareholders' wealth", "🔗 SM Ch 1 §1.6: corporate-level managers as guardians of shareholders' welfare"],
+   "face_in_exam": {
+    "forms": ["True/false with reasons (PYQ May 2024)", "Objective and advantages of wealth maximisation (PYQ Jan 2025, 4 marks)", "Differences on objective, risk, time horizon, sustainability (PYQ May 2026, 2 marks)", "How wealth maximisation is superior (RTP May 2024, May 2025)", "Advantages and disadvantages of both goals (RTP Sep 2024)", "How to measure value/wealth (MTP Dec 2025)", "Conflicts in profit vs wealth maximisation (MTP Apr 2025)", "Case: choose between two projects (MTP Aug 2025)"],
+    "approach": ["Always end with 'wealth maximisation is a better objective'", "Use the table format for any comparison", "For true/false: verdict first, then the SM reason"],
+    "official_pattern": "PYQ-M24-Q4a, PYQ-J25-Q4b, PYQ-M26-Q4c; RTP-M24-FQ8-i, RTP-M25-FQ10a, RTP-S24-FQ12a; MTP-J26-S2-FQ4c, MTP-M25-S2-FQ4c, MTP-S25-S2-FQ4a.",
+    "time_tip": "2 marks ≈ 3–4 minutes (a 4-row table); 4 marks ≈ 7 minutes (study guidance)."
+   },
+   "write": {
+    "structure": ["Define wealth maximisation (market value / NPV)", "Objective: highest market value of shares", "Advantages (L-R-T-S)", "Compare with profit maximisation in a table", "Conclusion: better objective"],
+    "keywords": ["highest market value of shares", "recognises risk", "timing of returns", "better objective"],
+    "length": "2 marks: table of 4 rows; 4 marks: 10–12 lines or a 6-row table",
+    "conclusion": "Owing to the limitations of profit maximisation, in today's uncertain and multi-period world wealth maximisation is a better objective.",
+    "avoid": ["Writing wealth maximisation disadvantages when only advantages are asked (wastes time)"]
+   },
+   "official_questions": [
+    {"id": "PYQ-M24-Q4a", "marks": 4, "status": "VERIFIED",
+     "question": "State with brief reasons whether each statement is true or false: (i) maximising market price per share (MPS) as the financial objective maximises the wealth of shareholders; (ii) a combination of lower risk and higher return is the risk-return trade-off, and at this level profit is maximum; (iii) financial distress is a position when a firm's accounting profits are sufficient to meet its long-term obligations; (iv) an angel investor provides funds for a start-up in exchange for ownership/equity.",
+     "answer_points": [
+      "(i) **True.** Maximising MPS or market value as the financial objective ensures maximisation of shareholders' wealth.",
+      "(ii) **False.** There is a direct relationship between risk and profit: higher the risk, higher the possibility of profits. Stockholders expect greater returns from investments of higher risk and vice versa.",
+      "(iii) **False.** Financial distress is a position where the cash inflows of a firm are inadequate to meet all its current obligations.",
+      "(iv) **True.** Angel financing is a form of equity financing where an angel investor provides capital for start-up or expansion in exchange for ownership/equity in the company."
+     ],
+     "conclusion": "One mark per statement: verdict plus the SM reason.",
+     "keywords": ["market value", "direct relationship between risk and profit", "cash inflows inadequate to meet current obligations", "equity financing"],
+     "examiner": "No examiners' comments have been published for Paper 6."},
+    {"id": "PYQ-J25-Q4b", "marks": 4, "status": "VERIFIED",
+     "question": "Discuss the objective and advantages of the wealth maximisation goal of financial management.",
+     "answer_points": [
+      "**Objective of wealth maximisation:** highest market value of shares.",
+      "**Advantages:** (i) emphasises the long-term gains; (ii) recognises risk or uncertainty; (iii) recognises the timing of returns; (iv) considers shareholders' return."
+     ],
+     "conclusion": "ICAI's answer is the wealth-maximisation row of the SM table. Adding a line on why it is better than profit maximisation strengthens the answer.",
+     "keywords": ["highest market value of shares", "long term gains", "recognises risk or uncertainty", "timing of returns", "shareholders' return"]},
+    {"id": "PYQ-M26-Q4c", "marks": 2, "status": "VERIFIED",
+     "question": "How do profit maximisation and wealth maximisation differ in terms of objective, risk, time horizon and sustainability?",
+     "answer_points": [
+      "**Objective:** profit maximisation — large amount of profits; wealth maximisation — highest market value of shares.",
+      "**Risk:** profit maximisation ignores risk or uncertainty; wealth maximisation recognises risk or uncertainty.",
+      "**Time horizon:** profit maximisation emphasises short-term gains; wealth maximisation emphasises long-term gains.",
+      "**Sustainability:** profit maximisation is not sustainable in the long term (sustainability is low); wealth maximisation is critical for the very existence of the business enterprise (sustainability is high)."
+     ],
+     "conclusion": "Present as a four-row table for full marks.",
+     "keywords": ["large amount of profits", "highest market value of shares", "short term gains", "long term gains", "very existence of the business enterprise"]},
+    {"id": "RTP-M24-FQ8-i", "marks": null, "status": "VERIFIED",
+     "question": "Explain how the wealth maximisation objective is superior to the profit maximisation objective.",
+     "answer_points": [
+      "A firm's FM may have two objectives: maximisation of profit and maximisation of value/wealth. Profit maximisation is often an implied objective; decision makers may even adopt policies yielding exorbitant short-run profits that are unhealthy for growth, survival and the overall interests of the firm. Profit here is the total accounting profit available to shareholders.",
+      "The value/wealth of a firm is the market price of its stock, which represents the focal judgment of all market participants and takes into account present and prospective EPS, their timing and risk, dividend policy and many other factors.",
+      "Value maximisation is superior because: (1) it considers all future cash flows, dividends, EPS, risk of a decision etc., whereas profit maximisation does not consider the effect on EPS, dividends or other returns to shareholders;",
+      "(2) a firm maximising shareholders' wealth may pay regular dividends, whereas a profit-maximising firm may refrain from paying dividends;",
+      "(3) shareholders would prefer an increase in the firm's wealth over an increasing flow of profits;",
+      "(4) the market price of a share reflects shareholders' expected return, considers long-term prospects, reflects differences in timing of returns, considers risk and recognises the importance of distribution of returns."
+     ],
+     "conclusion": "Maximisation of a firm's value, as reflected in the market price of its share, is viewed as the proper goal; profit maximisation can be considered part of the wealth maximisation strategy.",
+     "keywords": ["market price of the firm's stock", "future cash flows", "regular dividends", "timing of returns", "proper goal of a firm"],
+     "also_asked_as": ["RTP-M25-FQ10a (same question and answer)"]},
+    {"id": "RTP-S24-FQ12a", "marks": null, "status": "VERIFIED",
+     "question": "Explain the advantages and disadvantages of both profit maximisation and wealth maximisation goals.",
+     "answer_points": [
+      "**Profit maximisation.** Objective: large amount of profits. Advantages: (i) easy to calculate profits; (ii) easy to determine the link between financial decisions and profits. Disadvantages: (i) emphasises short-term gains; (ii) ignores risk or uncertainty; (iii) ignores the timing of returns; (iv) requires immediate resources.",
+      "**Shareholders' wealth maximisation.** Objective: highest market value of shares. Advantages: (i) emphasises long-term gains; (ii) recognises risk or uncertainty; (iii) recognises the timing of returns; (iv) considers shareholders' return. Disadvantages: (i) offers no clear relationship between financial decisions and share price; (ii) can lead to management anxiety and frustration."
+     ],
+     "conclusion": "ICAI answered in the SM table format: goal, objective, advantages, disadvantages.",
+     "keywords": ["easy to calculate profits", "requires immediate resources", "no clear relationship between financial decisions and share price", "management anxiety and frustration"]},
+    {"id": "MTP-J26-S2-FQ4c", "marks": 2, "status": "VERIFIED",
+     "question": "How do we measure the value/wealth of a firm?",
+     "answer_points": [
+      "According to Van Horne, the value of a firm is represented by the market price of the company's common stock.",
+      "The market price represents the focal judgment of all market participants as to the value of the firm; it takes into account present and prospective future earnings per share, the timing and risk of these earnings, the dividend policy and many other factors bearing on the price.",
+      "The market price serves as a performance index or report card of the firm's progress and indicates how well management is doing on behalf of stockholders.",
+      "(Supporting formulae from the SM: V = N × MP, or V = Ve + Vd.)"
+     ],
+     "keywords": ["Van Horne", "market price of common stock", "report card of the firm's progress"]},
+    {"id": "MTP-M25-S2-FQ4c", "marks": 2, "status": "VERIFIED",
+     "question": "Discuss the conflicts in the profit versus wealth maximisation principle of the firm.",
+     "answer_points": [
+      "Profit maximisation is a short-term objective and cannot be the sole objective of a company; it is at best a limited objective.",
+      "If profit is given undue importance, problems arise: the term profit is vague, it must be attempted with a realisation of risks involved, it ignores the time pattern of returns, and it is too narrow.",
+      "Wealth maximisation, as an objective, means the company is using its resources in a good manner; to keep the share value high, the company has to reduce its costs and use resources properly.",
+      "A company following wealth maximisation promotes only those policies that lead to an efficient allocation of resources."
+     ],
+     "keywords": ["limited objective", "vague", "time pattern of returns", "efficient allocation of resources"]},
+    {"id": "MTP-S25-S2-FQ4a", "marks": 4, "status": "VERIFIED",
+     "question": "ABC Ltd. has two investment opportunities: Project X gives high short-term accounting profits through aggressive cost cutting; Project Y gives lower immediate profits but improves customer satisfaction, brand loyalty and long-term cash flows. As financial manager, which project should the company choose to ensure value creation? Justify by comparing profit maximisation, wealth maximisation and value creation.",
+     "answer_points": [
+      "**Verdict:** Project Y should be chosen to ensure long-term value creation.",
+      "**Profit maximisation** focuses on increasing short-term profits, often ignoring risk, sustainability and timing of returns. Project X fits this approach but may harm reputation, employee morale and customer satisfaction.",
+      "**Wealth maximisation** is concerned with increasing the net present value of shareholders' wealth over the long run, considering cash flows, risk and time value of money. Project Y, despite lower immediate profits, enhances long-term cash flows and brand equity, adding to shareholders' wealth.",
+      "**Value creation** means strategic decisions that generate sustainable returns exceeding the cost of capital. Project Y builds intangible assets like customer loyalty and goodwill, leading to long-term competitive advantage."
+     ],
+     "conclusion": "Based on wealth maximisation and value creation principles, Project Y is the strategically sound choice.",
+     "keywords": ["short-term profits", "net present value of shareholders' wealth", "returns exceeding the cost of capital", "value creation"]}
+   ],
+   "expected_questions": [
+    {"id": "EQ-F01.08-1", "form": "Explain (4 marks)", "marks": 4,
+     "question": "In recent years many environmental, pollution and other regulations have been imposed on businesses. In view of these changes, is maximisation of shareholders' wealth still a realistic objective? Explain.",
+     "answer_points": [
+      "Yes. Wealth maximisation remains the primary goal because it is critical for the very existence of the enterprise; without it, public and institutions lose confidence and do not invest further.",
+      "Management may be tempted to pursue its own goals, but with significant outside participation it is constantly supervised by stakeholders (employees, creditors, customers, government); its survival is threatened if any stakeholder's objective remains unfulfilled.",
+      "Wealth maximisation is generally in accord with the interests of owners, employees, creditors and society, so it is consistent with management's objective of survival. Complying with regulations and social obligations protects long-term value.",
+      "Profit maximisation at the cost of social and moral obligations is a short-sighted policy; such a company cannot survive for long.",
+      "Other goals (community welfare, employee welfare) are fulfilled only if the firm grows, which needs wealth maximisation."
+     ],
+     "conclusion": "In today's uncertain, multi-period and regulated world, wealth maximisation is still a realistic and better objective.",
+     "keywords": ["very existence of the business enterprise", "in accord with the interests of various groups", "short sighted policy"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F01.07.02-01", "angle": "Formula", "difficulty": "Easy",
+     "question": "As per the study material, the value of a firm (V) can be expressed as:",
+     "options": {"A": "Number of shares × Market price of shares, or Value of equity + Value of debt", "B": "Net profit × Price-earnings ratio − Value of debt", "C": "Book value of equity + Reserves", "D": "Present value of costs − Present value of benefits"},
+     "answer": "A",
+     "explanation": "SM §7.2: V = N × MP, or V = Ve + Vd. Wealth = PV of benefits − PV of costs (not the reverse).",
+     "why_wrong": {"B": "Not the SM formula.", "C": "Book values, not market value.", "D": "Reversed; wealth = PV of benefits − PV of costs."},
+     "trap": "Option D reverses the wealth formula.",
+     "concept": "F01.07.02"},
+    {"id": "MCQ-F01.08-02", "angle": "Statement", "difficulty": "Moderate",
+     "question": "When would profit maximisation and wealth maximisation amount to essentially the same thing?",
+     "options": {"A": "When the firm has no debt in its capital structure", "B": "When the time period is short and the degree of uncertainty is not great", "C": "When dividends are paid regularly", "D": "When management owns more than half of the shares"},
+     "answer": "B",
+     "explanation": "SM §8: where the time period is short and the degree of uncertainty is not great, wealth maximisation and profit maximisation amount to essentially the same.",
+     "why_wrong": {"A": "Capital structure is not the condition.", "C": "Dividend payment is not the condition.", "D": "Ownership pattern is not the condition."},
+     "trap": "Choosing C because the RTP answer links wealth maximisation to regular dividends.",
+     "concept": "F01.08"}
+   ],
+   "recap": ["Wealth = PV benefits − PV costs; use cash flow, cost-benefit, time value.", "Wealth objective: highest market value of shares; recognises risk and timing.", "In an uncertain, multi-period world, wealth maximisation is the better objective; same as profit maximisation only when short and certain."]
+  }
+ ]
+}

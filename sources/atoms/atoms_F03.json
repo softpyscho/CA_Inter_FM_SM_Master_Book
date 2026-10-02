@@ -1,0 +1,321 @@
+{
+ "chapter": "F03",
+ "note": "Official questions mapped to FM Chapter 3 (Financial Analysis and Planning — Ratio Analysis). Primary code first. Chapter assignment for RTPs follows ICAI's own topic labels; for past papers and MTPs it follows the ratios the question is solved with.",
+ "atoms": [
+  {
+   "id": "PYQ-J25-Q3b",
+   "codes": [
+    "F03.22",
+    "F03.07"
+   ],
+   "marks": 4,
+   "format": "Case numerical",
+   "src": "SA-J25 Q3(b) Sky Pack Ltd — prepare Balance Sheet from ratios"
+  },
+  {
+   "id": "PYQ-J26-Q1a",
+   "codes": [
+    "F03.11",
+    "F03.13"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-J26 Q1(a) AIL Limited — operating cycle ratios"
+  },
+  {
+   "id": "PYQ-J26-Q3a",
+   "codes": [
+    "F03.21"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-J26 Q3(a) ST Ltd — external funds requirement (beyond the current SM)"
+  },
+  {
+   "id": "PYQ-J26-Q4c-OR",
+   "codes": [
+    "F03.07"
+   ],
+   "marks": 2,
+   "format": "Effect on ratio",
+   "src": "SA-J26 Q4(c) OR BEE Ltd — will the current ratio improve, decline or stay"
+  },
+  {
+   "id": "PYQ-M24-Q1a",
+   "codes": [
+    "F03.10",
+    "F03.13"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-M24 Q1(a) Theme Ltd — interest coverage and profitability ratios"
+  },
+  {
+   "id": "PYQ-M25-Q1a",
+   "codes": [
+    "F03.22",
+    "F03.11"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-M25 Q1(a) S Ltd — prepare the Balance Sheet from turnover and holding-period ratios"
+  },
+  {
+   "id": "PYQ-M26-Q1c",
+   "codes": [
+    "F03.16"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-M26 Q1(c) Exe Ltd — dividend coverage, dividend yield, market ratios"
+  },
+  {
+   "id": "PYQ-S24-Q1c",
+   "codes": [
+    "F03.22"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-S24 Q1(c) MNP Limited — complete the Balance Sheet from ratios"
+  },
+  {
+   "id": "PYQ-S25-Q1b",
+   "codes": [
+    "F03.14",
+    "F03.15"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-S25 Q1(b) Diwan Limited — PAT, net profit margin, ROA, asset turnover, ROE"
+  },
+  {
+   "id": "RTP-J25-FQ4",
+   "codes": [
+    "F03.10",
+    "F03.22",
+    "F03.07"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-J25 FM Q4 Vardhaman Limited — quick ratio, DSCR, EPS, P/E"
+  },
+  {
+   "id": "RTP-J26-FQ5",
+   "codes": [
+    "F03.19"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-J26 FM Q5 ABC Industries Ltd — ratio analysis (ICAI label: Ratio Analysis)"
+  },
+  {
+   "id": "RTP-M25-FQ4",
+   "codes": [
+    "F03.22"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-M25 FM Q4 Nevy Private Limited — prepare the Balance Sheet from ratios"
+  },
+  {
+   "id": "RTP-M26-FQ4",
+   "codes": [
+    "F03.22"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-M26 FM Q4 P Limited (ICAI label: Ratio Analysis)"
+  },
+  {
+   "id": "RTP-S24-FQ2",
+   "codes": [
+    "F03.11"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-S24 FM Q2 KT Ltd — creditors turnover (ICAI label: Ratio Analysis)"
+  },
+  {
+   "id": "RTP-S24-FQ4",
+   "codes": [
+    "F03.22"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-S24 FM Q4 LP enterprises (ICAI label: Ratio Analysis)"
+  },
+  {
+   "id": "RTP-S25-FQ2",
+   "codes": [
+    "F03.09"
+   ],
+   "marks": null,
+   "format": "MCQ",
+   "src": "RTP-S25 FM Q2 (ICAI label: Ratio Analysis and Leverages)"
+  },
+  {
+   "id": "RTP-S25-FQ4",
+   "codes": [
+    "F03.22"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-S25 FM Q4 Jamunapati Limited — operating expenses and Balance Sheet"
+  },
+  {
+   "id": "RTP-S26-FQ2",
+   "codes": [
+    "F03.14"
+   ],
+   "marks": null,
+   "format": "MCQ",
+   "src": "RTP-S26 FM Q2 Manju Limited — ROCE"
+  },
+  {
+   "id": "RTP-S26-FQ3",
+   "codes": [
+    "F03.11"
+   ],
+   "marks": null,
+   "format": "MCQ",
+   "src": "RTP-S26 FM Q3 MT Ltd — creditors turnover ratio"
+  },
+  {
+   "id": "RTP-S26-FQ4",
+   "codes": [
+    "F03.22"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-S26 FM Q4 ASD Ltd — P&L statement and Balance Sheet (ICAI label: Ratio)"
+  },
+  {
+   "id": "MTP-J25-S1-FQ2a",
+   "codes": [
+    "F03.22"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-J25-S1 FM Q2(a) M/s Anya Co. Ltd. — trading and P&L account from ratios"
+  },
+  {
+   "id": "MTP-J25-S2-FQ1a",
+   "codes": [
+    "F03.22"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-J25-S2 FM Q1(a) Alpha Limited — prepare Balance Sheet"
+  },
+  {
+   "id": "MTP-J26-S1-FQ1b",
+   "codes": [
+    "F03.11"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-J26-S1 FM Q1(b) Prashuk Ltd — fixed assets turnover and capital ratios"
+  },
+  {
+   "id": "MTP-J26-S2-FQ1a",
+   "codes": [
+    "F03.11"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-J26-S2 FM Q1(a) debtors velocity, creditors velocity, stock turnover"
+  },
+  {
+   "id": "MTP-M24-S1-FQ1c",
+   "codes": [
+    "F03.22"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-M24-S1 FM Q1(c) ANVY Ltd — prepare the Balance Sheet"
+  },
+  {
+   "id": "MTP-M24-S2-FQ3a",
+   "codes": [
+    "F03.19"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-M24-S2 FM Q3(a) EOC Ltd — ratios from abridged financial statements"
+  },
+  {
+   "id": "MTP-M25-S2-FQ3a",
+   "codes": [
+    "F03.22"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-M25-S2 FM Q3(a) Simandhar Limited — ratios"
+  },
+  {
+   "id": "MTP-M26-S1-FQ1a",
+   "codes": [
+    "F03.19"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-M26-S1 FM Q1(a) P Limited"
+  },
+  {
+   "id": "MTP-S24-S1-FQ1a",
+   "codes": [
+    "F03.07",
+    "F03.11"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-S24-S1 FM Q1(a) Ananya Limited — total current assets from ratios"
+  },
+  {
+   "id": "MTP-S24-S2-FQ3b",
+   "codes": [
+    "F03.19"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-S24-S2 FM Q3(b) EPL Ltd — two-year comparison"
+  },
+  {
+   "id": "MTP-S25-S1-FQ1b",
+   "codes": [
+    "F03.22"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-S25-S1 FM Q1(b) Gagan Pvt. Ltd. — income statement and balance sheet from ratios"
+  },
+  {
+   "id": "MTP-S25-S2-FQ1b",
+   "codes": [
+    "F03.19"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-S25-S2 FM Q1(b) Fortune Ltd — two-year comparison"
+  },
+  {
+   "id": "MTP-S26-S1-FQ3b",
+   "codes": [
+    "F03.22"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "MTP-S26-S1 answer file, FM Q3(b) — balance sheet from ratios"
+  },
+  {
+   "id": "RTP-J26-FQ6",
+   "codes": [
+    "F03.10",
+    "F03.19"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-J26 FM Q6 — continuation of the ABC Industries ratio question; fixed charges coverage and a ratio-reply table"
+  }
+ ]
+}

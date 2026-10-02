@@ -1,0 +1,1733 @@
+<<PAGE 1>>
+1 
+Mock Test Paper - Series I: November, 2025 
+Date of Paper: 28th November, 2025 
+Time of Paper: 10 A.M. to 1 P.M. 
+INTERMEDIATE: GROUP – II 
+PAPER – 6: FINANCIAL MANAGEMENT & STRATEGIC MANAGEMENT 
+PAPER 6A : FINANCIAL MANAGEMENT 
+Suggested Answers/ Hints 
+PART I – Case Scenario based MCQs 
+1. 
+(D)  
+53,07,120 
+ 
+Total Cost per year   
+ 
+= 2,000 per unit x 1,000 units  
+ 
+ 
+ 
+ 
+ 
+= 20,00,000 
+ 
+Total Cost after adjusting taxes 
+= 20,00,000 x (1-0.3) = 14,00,000 
+ 
+Present Value of cost at discount rate of 10% p. a  
+ 
+ 
+ 
+ 
+ 
+ 
+= Cost per Anum x Annuity factor 
+ 
+ 
+ 
+ 
+ 
+ 
+= 14,00,000 x 3.7908 
+ 
+ 
+ 
+ 
+ 
+ 
+= 53,07,120/- 
+2.  
+(B)  
+48,50,296 
+1. 
+Cost of Machinery = ` 25,00,000/- outflow in year 0. 
+2. 
+Present value of cost of machinery = ` 25,00,000 
+3. 
+Annual outflows 
+Raw Material 
+700 
+Labour 
+300 
+Other Variable Cost 
+100 
+Variable Cost 
+1,100 
+Total Cost (1,100 x 1,000 units) 
+11,00,000 
+Add: Depreciation 
+5,00,000 
+Total Cost 
+16,00,000 
+Downloaded from castudyweb.com
+<<PAGE 2>>
+2 
+Total cost net of taxes (16,00,000x x70/100) 
+11,20,000 
+Less: Depreciation 
+5,00,000 
+Net Cash Outflow 
+6,20,000 
+ 
+Present Value of cash outflow for 5 years  
+= 6,20,000 x annuity factor 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+= 6,20,000 x 3.7908  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+= 23,50,296 
+ 
+Total Outflows  
+ 
+ 
+ 
+= 25,00,000+23,50,296 
+ 
+ 
+ 
+        
+ 
+ 
+ 
+= 48,50,296 
+3.  
+(A) 
+The investment is still cash-positive even at 700 units 
+Fixed investment cost (depreciation) = ` 5,00,000 
+ 
+Per-unit variable savings  
+= ` 2,000 – ` 1,100 = ` 900 
+ 
+Actual annual savings  
+= 700 × 900 = ` 6,30,000 
+ 
+Profit before tax  
+ 
+= 6,30,000 − 5,00,000 = 1,30,000 
+ 
+Tax  
+ 
+ 
+= 30% → 39,000 
+ 
+Profit after tax  
+ 
+= 91,000 
+ 
+Add back depreciation 
+= 5,00,000 
+ 
+Cash inflow  
+ 
+= ` 5,91,000 
+4.  
+(A)  
+Manufacture the Concentrator dish inhouse 
+1.  
+Manufacture of Concentrator dish 
+ 
+Total Outflows after adjusting taxes = 48,50,296 
+2.  
+Purchase from PQR Ltd.  
+ 
+Total Outflows after adjusting taxes = 53,07,120 
+3. 
+Purchase from XYZ Ltd. 
+ 
+Cost per unit charged by XYZ Ltd. is ` 2100/- per unit which is greater than 
+PQR Ltd. Cost of purchasing from PQR Ltd. is already greater than 
+manufacturing it. So, this need not be calculated. 
+Downloaded from castudyweb.com
+<<PAGE 3>>
+3 
+4. 
+Purchase from UVW Ltd. 
+ 
+Cost per Unit  
+= 1,900 
+ 
+Total Cost  
+ 
+= 1,900 x 1,000 units = 19,00,000 
+ 
+Total cost after adjusting taxes  
+ 
+= 19,00,000 x 70/100  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+= 13,30,000 
+ 
+Present Value of cost at discount rate of 10% p.a. = Cost per Anum x  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Annuity factor 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+= 13,30,000 x 3.7908 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+= 50,41,764 
+5. 
+(C) 
+1,828 
+ 
+So, the cost of Manufacturing is least considering all options and so ABC Ltd 
+should be purchasing it from UVW Ltd only if total cost of purchasing it from UVW 
+Ltd is equal to manufacturing it. 
+ 
+Total outflow of manufacturing concentrator dish = 48,50,296 
+ 
+Lets do a reverse calculation 
+ 
+PV of cost at discount rate of 10% p.a.  
+= Cost per Annum x Annuity factor 
+ 
+48,50,296   
+ 
+ 
+ 
+= Cost per Annum x 3.7908 
+ 
+Cost per Annum  
+ 
+ 
+ 
+= 48,50,296/3.7908 = 12,79,491 
+ 
+Cost including Taxes  
+ 
+ 
+= 
+12,79,491
+70 x 100 = 18,27,845 
+ 
+Cost per unit  
+ 
+ 
+ 
+= 
+18,27,845
+1000
+ = 1,827.8 
+6.  
+(D)  
+12.375% 
+Operating Leverage (OL) 
+Contribution
+EBIT + Fixed Cost
+= 
+ = 
+EBIT
+EBIT
+15,750 + 1,575
+= 
+ = 1.1
+15,750
+ 
+` 
+`
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 4>>
+4 
+Financial Leverage (FL) 
+EBIT
+15,750
+= 
+ = 
+ = 2.25
+EBT
+7,000
+ 
+Combined Leverage (CL) 
+= 1.1 × 2.25 = 2.475 
+Percentage Change in Earnings per share 
+% change in EPS
+DCL = 
+ 
+% change in Sales
+ 
+% change in EPS
+2.475 = 
+ 
+5%
+ 
+∴% change in EPS = 12.375%. 
+Hence if sales is increased by 5%, EPS will be increased by 12.375%. 
+7.  
+(D)  
+4.34 
+1.  
+Raw-material holding period 
+RM holding period = Average RM stock
+RM consumed
+ × 360 = 41,667
+6,00,000 × 360 
+= 0.06945 × 360 = 25 days 
+2.  
+Operating Cycle (OC) 
+OC = RM period + WIP + FG + Debtors −Creditors 
+ 
+= 25 + 18 + 25 + 45 - 30 = 83 days 
+3.  
+Number of Operating Cycles in a Year 
+No. of cycles = 360
+83 = 4.34 
+8.  
+(C)  
+8.52% 
+After-tax cost of debt 
+Kd 
+ 
+ 
+ 
+= 9% (1-0.30) = 6.3% 
+WACC 
+ 
+ 
+= (E/V) Ke + (D/V) Kd 
+ 
+ 
+ 
+ 
+= 0.6 (10%) + 0.4 (6.3%) 
+ 
+ 
+ 
+ 
+= 6% + 2.52% = 8.52% 
+Downloaded from castudyweb.com
+<<PAGE 5>>
+5 
+PART II – Descriptive Questions 
+1. 
+(a)  
+(i)  
+Computation of Costs of Different Components of Capital Equity 
+Shares 
+g
+0
+P
+g)
+(1
+0
+D
+ 
+ g
+0
+P
+1
+D
+e
+K
++
++
+=
++
+=
+ 
+ 
+ 3.60 (1.09)
+=
++ 0.09
+ 54
+`
+`
+ = 0.0727 + 0.09 = 16.27%. 
+ 
+Preference Shares 
+ 
+Preference Share Dividend
+11
+K
+=
+ = 
+p
+P
+ 95
+0
+`
+`
+ = 11.58%. 
+ 
+Debt at Kd = 12% 
+ 
+Kd (1 – T) = 12 (1 – 0.4) = 12% (0.6) 
+= 7.20%. 
+(ii) 
+Weighted Average Cost of Capital (WACC) 
+ 
+WACC = WdKd (1 – T) + WpKp + WeKe 
+ 
+WACC = 0.25 (7.2%) + 0.15 (11.58%) + 0.60 (16.27%)  
+ 
+= 1.8 + 1.737 + 9.762 = 13.30%. 
+(b)  
+(a) 
+GrossProfit
+G.P. ratio = 
+ = 25%
+Sales
+ 
+ 
+GrossProfit
+ 8,00,000
+Sales =
+× 100 = 
+× 100 = 32,00,000
+25
+25
+`
+` 
+ 
+(b)  
+Cost of Sales  
+      = Sales − Gross profit 
+ 
+ 
+ 
+ 
+      = ` 32,00,000 - ` 8,00,000 
+ 
+ 
+ 
+ 
+      = ` 24,00,000 
+(c)  
+Receivable turnover        = Sales = 4
+Debtors
+ 
+ 
+ 
+ 
+ 
+      = 
+Sales
+ 32,00,000
+Debtors = 
+ = 
+ =  8,00,000
+4
+4
+`
+`
+ 
+Downloaded from castudyweb.com
+<<PAGE 6>>
+6 
+(d) 
+Fixed assets turnover       =  Cost of Sales
+Fixed Assets = 8 
+ 
+Fixed assets   
+      = Cost of Sales
+24,00,000
+ = 
+8
+8
+` 
+= ` 3,00,000 
+(e) 
+Inventory turnover  
+      =  Cost of Sales
+Average Stock
+= 8 
+ 
+Average Stock  
+      = Cost of Sales
+24,00,000
+=
+8
+8
+`
+ 
+= ` 3,00,000 
+ 
+Average Stock 
+      =  Opening Stock + Closing Stock
+2
+ 
+ 
+Average Stock 
+      = Opening Stock + Opening Stock + 20,000
+2
+ 
+ 
+Average Stock 
+      = Opening Stock + ` 10,000 
+ 
+Opening Stock  
+      = Average Stock - ` 10,000 
+ 
+ 
+ 
+ 
+      = ` 3,00,000 - `10,000 
+ 
+ 
+ 
+ 
+      = ` 2,90,000 
+ 
+Closing Stock  
+      = Opening Stock + ` 20,000 
+ 
+ 
+ 
+ 
+      = ` 2,90,000 + ` 20,000 = ` 3,10,000 
+(f) 
+Payable turnover 
+      = Purchase
+Creditors = 6 
+ 
+Purchases  
+ 
+      = Cost of Sales + Increase in Stock 
+ 
+ 
+ 
+ 
+      = ` 24,00,000 + ` 20,000 = ` 24,20,000 
+ 
+Creditors 
+ 
+     = Purchase
+24,20,000
+ = 
+ =  4,03,333
+6
+6
+`
+`
+ 
+(g) 
+Capital turnover  
+     = 
+Cost of Sales =  2
+Capital Employed
+ 
+ 
+Capital Employed 
+    = Cost of Sales
+24,00,000
+= 
+ = 12,00,000
+2
+2
+`
+`
+ 
+(h)  
+Capital  
+ 
+   = Capital Employed – Reserves & Surplus 
+ 
+ 
+ 
+ 
+   = ` 12,00,000 – ` 2,00,000 = ` 10,00,000 
+Downloaded from castudyweb.com
+<<PAGE 7>>
+7 
+Balance Sheet of T Ltd as on…… 
+Liabilities 
+Amount (`) 
+Assets 
+Amount (`) 
+Capital 
+10,00,000 Fixed Assets  
+3,00,000 
+Reserve & Surplus 
+2,00,000 Stock 
+3,10,000 
+Creditors 
+4,03,333 Debtors 
+8,00,000 
+ 
+ Other Current Assets 
+       1,93,333 
+ 
+16,03,333  
+16,03,333 
+(c)  
+Modigliani and Miller (M-M) – Dividend Irrelevancy Model: 
+e
+1
+1
+0
+K 
+ 1
+D 
+ 
+P
+ 
+ 
+P
++
++
+=
+ 
+Where, 
+Po = Existing market price per share i.e. ` 120  
+P1 = Market price of share at the year-end (to be determined) 
+D1 = Contemplated dividend per share i.e. ` 6.4 
+Ke = Capitalisation rate i.e. 9.6%. 
+(i) 
+(a)  Calculation of share price when dividend is declared: 
+ 
+ 
+e
+1
+1
+0
+K 
+ 1
+D 
+ 
+P
+ 
+ 
+P
++
++
+=
+  
+ 
+ 
+0.096
+  
+ 1
+6.4
+ 
+ 
+P
+ 
+ 
+120
+1
++
++
+=
+ 
+ 
+ 
+120 × 1.096 = P1 + 6.4 
+ 
+ 
+P1 = 120 × 1.096 – 6.4 
+ 
+ 
+    = 125.12 
+ 
+(b) Calculation of share price when dividend is not declared: 
+ 
+ 
+e
+1
+1
+0
+K 
+ 1
+D 
+ 
+P
+ 
+ 
+P
++
++
+=
+ 
+    
+ 
+ 
+0.096
+  
+ 1
+0
+  
+ 
+P
+ 
+ 
+120
+1
++
++
+=
+ 
+ 
+ 
+120 × 1.096 = P1 + 0 
+ 
+ 
+P1 = 131.52 
+Downloaded from castudyweb.com
+<<PAGE 8>>
+8 
+(ii) 
+Calculation of No. of shares to be issued: 
+(` in lakhs) 
+Particulars 
+If dividend 
+declared 
+If dividend 
+not declared 
+Net Income 
+160 
+160 
+Less: Dividend paid 
+51.20 
+------ 
+Retained earnings 
+108.80 
+160 
+Investment budget 
+320 
+320 
+Amount to be raised by issue of new 
+shares (i) 
+211.20 
+160 
+Market price per share (ii)  
+125.12 
+131.52 
+No. of new shares to be issued (ii) 
+1,68,797.95 
+1,21,654.50 
+Or say 
+1,68,798 
+1,21,655 
+2. 
+(a) 
+Estimate of the Requirement of Working Capital 
+ 
+(`) 
+(`) 
+A. 
+Current Assets: 
+ 
+ 
+ 
+Raw material stock 
+6,64,615 
+ 
+     (Refer to Working note 3) 
+ 
+ 
+      Work in progress stock 
+5,00,000 
+ 
+     (Refer to Working note 2) 
+ 
+ 
+     Finished goods stock 
+13,60,000 
+ 
+     (Refer to Working note 4) 
+ 
+ 
+      Debtors  
+25,10,769 
+ 
+     (Refer to Working note 5) 
+ 
+ 
+      Cash and Bank balance 
+25,000 
+50,60,384 
+B. 
+Current Liabilities: 
+ 
+ 
+      Creditors for raw materials 
+7,15,740 
+ 
+     (Refer to Working note 6) 
+ 
+ 
+     Creditors for wages 
+91,731 
+8,07,471 
+     (Refer to Working note 7) 
+ 
+________ 
+    
+Net Working Capital (A - B) 
+ 
+42,52,913 
+ 
+Downloaded from castudyweb.com
+<<PAGE 9>>
+9 
+Working Notes: 
+1. 
+Annual cost of production 
+ 
+` 
+Raw material requirements (1,04,000 units × ` 80) 
+83,20,000 
+Direct wages (1,04,000 units × ` 30) 
+31,20,000 
+Overheads (exclusive of depreciation) (1,04,000 × ` 60) 
+62,40,000 
+ 
+1,76,80,000 
+2. 
+Work in progress stock 
+ 
+` 
+Raw material requirements (4,000 units × ` 80) 
+3,20,000 
+Direct wages (50% × 4,000 units × ` 30) 
+   60,000 
+Overheads (50% × 4,000 units × ` 60) 
+1,20,000 
+ 
+5,00,000 
+3. 
+Raw material stock 
+ 
+It is given that raw material in stock is average 4 weeks’ consumption. 
+Since, the company is newly formed, the raw material requirement for 
+production and work in progress will be issued and consumed during the 
+year. 
+ 
+Hence, the raw material consumption for the year (52 weeks) is as follows: 
+ 
+` 
+For Finished goods 
+83,20,000 
+For Work in progress 
+  3,20,000 
+ 
+86,40,000 
+Raw material stock = 
+86,40,000 × 4 weeks
+52 weeks
+` 
+  i.e. ` 6,64,615 
+4. 
+Finished goods stock 
+ 
+8,000 units @ ` 170 per unit = `13,60,000 
+5. 
+Debtors for sale 
+Credit allowed to debtors 
+Average 8 weeks 
+Credit sales for year (52 weeks) i.e. (1,04,000 units 
+- 8,000 units) 
+96,000 units 
+Downloaded from castudyweb.com
+<<PAGE 10>>
+10 
+Cost per unit 
+` 170 
+Credit sales for the year (96,000 units × `170) 
+` 1,63,20,000 
+Debtors 
+1,63,20,000 × 8 weeks
+52 weeks
+`
+ i.e. ` 25,10,769 
+6.  
+Creditors for raw material: 
+Credit allowed by suppliers 
+Average 4 weeks 
+Purchases during the year (52 weeks) i.e.  
+(`83,20,000 + `3,20,000 + `6,64,615) 
+` 93,04,615 
+(Refer to Working notes 1,2 and 3 above)  
+ 
+Creditors 
+93,04,615 × 4 weeks
+52 weeks
+`
+ i.e. ` 7,15,740 
+7. 
+Creditors for wages 
+Lag in payment of wages 
+Average 1 
+2
+1 weeks 
+Direct wages for the year (52 weeks) i.e.  
+         (` 31,20,000 + ` 60,000) 
+` 31,80,000 
+(Refer to Working notes 1 and 2 above) 
+ 
+Creditors 
+  
+1
+31,80,000 × 1 weeks
+52 weeks
+2
+`
+ i.e. ` 91,731 
+(b)  
+Business Risk and Financial Risk: Business risk refers to the risk associated 
+with the firm’s operations.  It is an unavoidable risk because of the environment in 
+which the firm has to operate and the business risk is represented by the variability 
+of earnings before interest and tax (EBIT). The variability in turn is influenced by 
+revenues and expenses. Revenues and expenses are affected by demand of 
+firm’s products, variations in prices and proportion of fixed cost in total cost. 
+ 
+Whereas, Financial risk refers to the additional risk placed on firm’s shareholders 
+as a result of debt use in financing.  Companies that issue more debt instruments 
+would have higher financial risk than companies financed mostly by equity.  
+Financial risk can be measured by ratios such as firm’s financial leverage 
+multiplier, total debt to assets ratio etc. 
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 11>>
+11 
+3. 
+(a) 
+(i) 
+Market Value of Vastupal Limited (After conversion) 
+ 
+Value of Levered Co (VL) = Value of Substantial Unlevered Co (VU) + Tax 
+advantage  
+ 
+1,500 lakhs    
+     = VU + (250 x 70% x 20%) 
+ 
+∴ Market Value of Substantial Unlevered Co (VU) = 1,465 Lakhs 
+ 
+Alternatively, Market Value of Substantial Unlevered Co (VU) can be 
+calculated as below: 
+ 
+MV of Substantial Unlevered Co (30% Debt) 
+ 
+ 
+= MV of Totally Unlevered Co + Tax advantage 
+ 
+ 
+ 
+ 
+       = {1500−0.20(250)} + (250 x 30% x 20%) 
+ 
+ 
+ 
+ 
+       = 1,450 + 15   
+ 
+Market Value of Substantial Unlevered Co (VU) = 1,465 Lakhs 
+ 
+The impact is that the market value of the company has decreased by  
+35 lakhs (1500 lakhs - 1465 lakhs) 
+(ii)  
+Cost of Equity (Ke) – After conversion 
+ 
+WN-1 Preparation of Income Statement  
+Particulars 
+Before Conversion 
+After Conversion 
+EBIT 
+350.00 
+350.00 
+(-) Int 
+(37.50) 
+(250 x 15%) 
+(11.25) 
+(250 x 30% x 15%) 
+EBT 
+312.50 
+338.75 
+(-) Tax @ 20% 
+(62.50) 
+(67.75) 
+Dividend 
+250.00 
+271.00 
+ 
+MV of Equity (Before conversion)  
+= 
+Dividend
+Ke
+ 
+ 
+(1,500 – 250)  
+ 
+ 
+= 
+Dividend
+0.2
+ 
+ 
+∴ Dividend   
+ 
+ 
+= 250 Lakhs 
+ 
+MV of Equity (Before Conversion)  
+= MV of Co (Before conversion) -  
+ 
+ 
+ 
+ 
+ 
+   MV of Debt 
+ 
+ 
+ 
+ 
+ 
+ 
+= 1,500 – 250 = 1,250 
+ 
+Downloaded from castudyweb.com
+<<PAGE 12>>
+12 
+ 
+MV of Equity (After Conversion)  
+= MV of Co (After conversion) - MV  
+ 
+ 
+ 
+ 
+ 
+of Remaining Debt 
+ 
+ 
+ 
+ 
+ 
+ 
+= 1,465 - {250 x 30%} 
+ 
+ 
+ 
+ 
+ 
+ 
+= 1,390 lakhs 
+ 
+∴ Ke (after Conversion)  
+ 
+= 
+Dividend
+MV of Equity 
+ 
+ 
+ 
+ 
+ 
+ 
+= 271/ 1,390 
+ 
+ 
+ 
+ 
+ 
+ 
+= 19.49% 
+ 
+The impact is that cost of equity has fallen by 0.50% i.e. 20.00% - 19.49% 
+due to reduction in the financial risk. 
+(iii)  
+Cost of Capital (Ko) – After Conversion 
+Components 
+Amount  
+(in lakhs) 
+Weights (W) 
+Cost of 
+Capital (K) 
+WACC  
+(W x K) 
+Equity 
+1390.00 
+0.9488 
+19.49 
+18.49 
+Debt 
+75.00 
+0.0512 
+12.00   
+15 (1 – 0.2) 
+  0.61 
+ 
+1465.00 
+ 
+ 
+19.10% 
+ 
+Cost of Capital (Ko) – Before Conversion 
+Components 
+Amount  
+(in lakhs) 
+Weights 
+(W) 
+Cost of 
+Capital (K) 
+WACC  
+(W x K) 
+Equity 
+1250.00 
+0.8333 
+20.00 
+16.67 
+Debt 
+     250.00 
+0.1667 
+12.00   
+15 (1 – 0.2) 
+  2.00 
+ 
+1500.00 
+ 
+ 
+18.67% 
+ 
+The impact is that the overall cost of capital has increased by 0.43% i.e. 
+19.10% - 18.67% due to non-availability of tax benefit owing to the 
+reduction in the debt. 
+WN-2: Calculation of Market Value of the company & Ke after the end of 3 years 
+MV of Substantial Unlevered Co    = MV of Totally Unlevered Co + Tax advantage 
+Downloaded from castudyweb.com
+<<PAGE 13>>
+13 
+1,465 lakhs   
+ 
+      = MV of Totally Unlevered Co + (250 x 30% x 20%) 
+∴ MV of Totally Unlevered Co     = 1,450 lakhs 
+Calculation of Ke of Totally Unlevered Co 
+Ke = 
+Dividend
+MV of Equity 
+Particulars 
+Amount 
+EBIT 
+350.00 
+(-) Int 
+     0.00 
+EBT 
+350.00 
+(-) Tax @20% 
+(70.00) 
+Dividend 
+280.00 
+∴ Ke = 280/1,450  
+∴ Ke = 19.31% 
+(b)  
+Working Notes: 
+ 
+(`)  
+Net Profit after Tax 
+2,80,000 
+Tax @ 30% 
+1,20,000 
+EBT 
+4,00,000 
+Interest on Debentures 
+84,000 
+EBIT 
+4,84,000 
+Operating Expenses (1.5 times of EBIT) 
+7,26,000 
+Sales 
+12,10,000 
+(i) 
+Operating Leverage 
+ 
+=   Contribution
+EBIT
+ 
+(12,10,000- 6,29,200)
+=
+4,84,000
+ 
+ 
+`
+`
+ 
+5,80,800 = 1.2 times
+4,84,000
+ 
+ 
+= `
+`
+ 
+ 
+Financial Leverage 
+EBIT
+EBT
+=
+ 
+4,84,000
+=
+4,00,000
+  
+= 1.21 times  
+(ii) 
+Cover for Preference Dividend 
+ 
+PAT
+=
+ 
+Preference Share Dividend
+ 
+Downloaded from castudyweb.com
+<<PAGE 14>>
+14 
+ 
+2,80,000 = 5.6 times
+50,000
+ 
+ 
+= `
+`
+ 
+ 
+Cover for Equity Dividend 
+ 
+(PAT - Preference Dividend)
+Equity Share Dividend
+ 
+=
+(2,80,000 - 50,000) 
+1,20,000
+ 
+ 
+= `
+`
+ 
+ 
+2,30,000
+=
+ =  1.92 times
+1,20,000
+ 
+ 
+`
+`
+ 
+4. 
+(a)  
+Differentiation between Financial Management and Financial Accounting: 
+Though financial management and financial accounting are closely related, still 
+they differ in the treatment of funds and also with regards to decision - making.  
+ 
+Treatment of Funds: In accounting, the measurement of funds is based on the 
+accrual principle. The accrual based accounting data do not reflect fully the 
+financial conditions of the organisation. An organisation which has earned profit 
+(sales less expenses) may said to be profitable in the accounting sense but it may 
+not be able to meet its current obligations due to shortage of liquidity as a result 
+of say, uncollectible receivables. Whereas, the treatment of funds, in financial 
+management is based on cash flows. The revenues are recognised only when 
+cash is actually received (i.e. cash inflow) and expenses are recognised on actual 
+payment (i.e. cash outflow). Thus, cash flow based returns help financial 
+managers to avoid insolvency and achieve desired financial goals. 
+ 
+Decision-making: The chief focus of an accountant is to collect data and present 
+the data while the financial manager’s primary responsibility relates to financial 
+planning, controlling and decision-making. Thus, in a way it can be stated that 
+financial management begins where financial accounting ends.  
+(b)  
+Some common methods of venture capital financing are as follows: 
+(i)  
+Equity financing: The venture capital undertakings generally require 
+funds for a longer period but may not be able to provide returns to the 
+investors during the initial stages. Therefore, the venture capital finance is 
+generally provided by way of equity share capital. The equity contribution 
+of venture capital firm does not exceed 49% of the total equity capital of 
+Downloaded from castudyweb.com
+<<PAGE 15>>
+15 
+venture capital undertakings so that the effective control and ownership 
+remains with the entrepreneur. 
+(ii)  
+Conditional loan: A conditional loan is repayable in the form of a royalty 
+after the venture is able to generate sales. No interest is paid on such 
+loans. In India venture capital financiers charge royalty ranging between 2 
+and 15 per cent; actual rate depends on other factors of the venture such 
+as gestation period, cash flow patterns, risk and other factors of the 
+enterprise. Some Venture capital financiers give a choice to the enterprise 
+of paying a high rate of interest (which could be well above 20 per cent) 
+instead of royalty on sales once it becomes commercially sound. 
+(iii)  
+Income note: It is a hybrid security which combines the features of both 
+conventional loan and conditional loan. The entrepreneur has to pay both 
+interest and royalty on sales but at substantially low rates. IDBI’s VCF 
+provides funding equal to 80 – 87.50% of the projects cost for commercial 
+application of indigenous technology. 
+(iv)  
+Participating debenture: Such security carries charges in three phases 
+— in the start-up phase no interest is charged, next stage a low rate of 
+interest is charged up to a particular level of operation, after that, a high 
+rate of interest is required to be paid. 
+(c)  
+Limitations of Walter’s Model 
+1.  
+The formula does not consider all the factors affecting dividend policy 
+and share prices.  Moreover, determination of market capitalisation rate is 
+difficult. 
+2.  
+Further, the formula ignores such factors as taxation, various legal and 
+contractual obligations, management policy and attitude towards dividend 
+policy and so on. 
+OR 
+(c)  
+Financial Break-even and EBIT-EPS Indifference Analysis 
+ 
+Financial break-even point is the minimum level of EBIT needed to satisfy all the 
+fixed financial charges i.e. interest and preference dividend.  It denotes the level 
+of EBIT for which firm’s EPS equals zero. If the EBIT is less than the financial 
+Downloaded from castudyweb.com
+<<PAGE 16>>
+16 
+breakeven point, then the EPS will be negative but if the expected level of EBIT 
+is more than the breakeven point, then more fixed costs financing instruments can 
+be taken in the capital structure, otherwise, equity would be preferred.  
+ 
+EBIT-EPS analysis is a vital tool for designing the optimal capital structure of a 
+firm. The objective of this analysis is to find the EBIT level that will equate EPS 
+regardless of the financing plan chosen.  
+ 
+ 
+ 
+ 
+1
+2
+1
+2
+(EBIT
+I )(1 T)
+(EBIT
+I )(1 T )
+E
+E
+−
+−
+−
+−
+=
+   
+ 
+Where, 
+ 
+EBIT = 
+Indifference point  
+ 
+E1 
+= 
+Number of equity shares in Alternative 1 
+ 
+E2 
+= 
+Number of equity shares in Alternative 2 
+ 
+I1 
+= 
+Interest charges in Alternative 1 
+ 
+12 
+= 
+Interest charges in Alternative 2 
+ 
+T 
+= 
+Tax-rate 
+ 
+Downloaded from castudyweb.com
+<<PAGE 17>>
+17 
+PAPER 6B: STRATEGIC MANAGEMENT 
+ANSWERS 
+PART I 
+1. (A) 
+(i)  
+(b) 
+(ii) 
+(b) 
+(iii)  
+(b) 
+(iv)  
+(b) 
+(v)  
+(b) 
+1. (B) 
+(i)  
+(c) 
+(ii) 
+(a) 
+(iii)  
+(b) 
+ 
+ 
+ 
+ 
+PART II 
+1. 
+(a)  
+The strategic decisions described in the case represent the Corporate-Level 
+Strategy. 
+ 
+Corporate-level strategy is formulated by the top management, Board of 
+Directors or corporate headquarters and it defines the overall scope, long-term 
+direction and resource allocation for the entire organization. It involves decisions 
+regarding the portfolio of businesses, entry into or exit from sectors, allocation of 
+financial resources among business units and policies affecting the whole 
+enterprise such as investment, growth, stability, retrenchment and dividend 
+decisions. 
+ 
+In the case of Gromax Industries Ltd., the Board is deciding which business unit 
+will receive the highest capital allocation, evaluating divestment of the poorly 
+performing Logistics unit and framing a common dividend policy for the group. 
+These decisions influence the future growth path, competitive positioning and 
+overall value maximization of the conglomerate. Therefore, the decisions clearly 
+fall under Corporate-Level Strategy, as they determine the strategic direction 
+and structure of the company as a whole rather than focusing on individual 
+business operations or functional activities. 
+(b)  
+The PESTLE framework can help ABC Corp assess the external factors affecting 
+its decision to expand into a new country by considering the following aspects: 
+• 
+Political Factors: These include the stability of the government, government 
+policies on foreign investment, trade agreements, and regulatory frameworks. 
+By analyzing these factors, ABC Corp can assess the political risks associated 
+with entering the new market. 
+• 
+Economic Factors: Economic factors such as GDP growth rate, inflation 
+rate, exchange rates, and economic stability can impact ABC Corp's decision. 
+By analyzing these factors, the company can understand the economic 
+environment of the new market and its potential impact on business operations. 
+Downloaded from castudyweb.com
+<<PAGE 18>>
+18 
+• 
+Social Factors: Social factors such as cultural norms, demographics, and 
+lifestyle trends can influence consumer behavior and demand for ABC Corp's 
+products. Understanding these factors can help the company tailor its 
+marketing strategies to the new market. 
+• 
+Technological Factors: Technological factors such as infrastructure, 
+technological advancements, and the level of technology adoption in the new 
+market can impact ABC Corp's operations. By assessing these factors, the 
+company can determine the technological requirements for entering the new 
+market. 
+• 
+Legal Factors: Legal factors such as laws and regulations related to foreign 
+investment, intellectual property rights, and labor laws can impact ABC Corp's 
+decision. By analyzing these factors, the company can ensure compliance with 
+legal requirements in the new market. 
+• 
+Environmental Factors: Environmental factors such as climate change, 
+environmental regulations, and sustainability practices can impact ABC Corp's 
+operations and reputation. By considering these factors, the company can 
+assess the environmental risks and opportunities in the new market. 
+ 
+Overall, the PESTLE framework can provide ABC Corp with a comprehensive 
+analysis of the external factors that could impact its decision to expand into a new 
+country, helping the company make informed and strategic decisions. 
+(c)  
+The 'Say No to Sugar' product by Organic Beverages can be classified as a Star 
+in the BCG Growth-Share Matrix. This classification is due to the product's rapid 
+market growth and the company's strong market share achieved within a 
+short span of five months. Additionally, the product requires heavy investment to 
+maintain its market position and expand further, which aligns with the 
+characteristics of a Star. 
+ 
+Strategies Post-Identification: After identifying the 'Say No to Sugar' product as 
+a Star, the following strategies can be pursued: 
+1. 
+Build Strategy: Increase market share through sustained investments in 
+marketing, distribution, and product development. This ensures the product 
+remains competitive and capitalizes on its growth potential. 
+2. 
+Hold Strategy: Focus on maintaining the current market share and 
+profitability by optimizing resources and sustaining brand reputation. 
+Downloaded from castudyweb.com
+<<PAGE 19>>
+19 
+3. 
+Harvest Strategy: This strategy is not suitable for Stars as it prioritizes 
+short-term cash flow over long-term growth, which contradicts the 
+objectives for a Star. 
+4. 
+Divest Strategy: Selling or liquidating the product is unsuitable here, as 
+Stars represent the best opportunities for expansion.  
+ 
+Limitations of BCG Matrix: 
+1. 
+Complexity and Cost: The matrix can be difficult, time-consuming, and 
+costly to implement. 
+2. 
+Subjectivity: Defining SBUs and measuring market share or growth can 
+be challenging and subjective. 
+3. 
+Focus on Present: It emphasizes current business scenarios but provides 
+limited guidance for future strategic planning. 
+4. 
+Overemphasis on Growth: This may lead to unwise investments in high-
+growth markets or premature divestment of established products. 
+ 
+Thus, while the BCG matrix provides a simplified framework for portfolio analysis, 
+it should be used alongside other strategic tools for balanced decision-making.  
+2. 
+(a)  
+Connect Group has to make strategic changes for its survival. The changes in the 
+environmental forces often require businesses to make modifications in their 
+existing strategies and bring out new strategies. Strategic change is a complex 
+process that involves a corporate strategy focused on new markets, products, 
+services and new ways of doing business. Unless companies embrace change, 
+they are likely to freeze and unless companies prepare to deal with sudden, 
+unpredictable, discontinuous, and radical change, they are likely to be extinct. 
+Three steps for initiating strategic change are: 
+(i) 
+Recognise the need for change – The first step is to diagnose the which 
+facets of the present corporate culture are strategy supportive and which 
+are not. 
+(ii) 
+Create a shared vision to manage change – Objectives of both 
+individuals and organisation should coincide. There should be no conflict 
+between them. This is possible only if the management and the 
+organisation members follow a shared vision. 
+(iii) 
+Institutionalise the change – This is an action stage which requires the 
+implementation of the changed strategy. Creating and sustaining a different 
+Downloaded from castudyweb.com
+<<PAGE 20>>
+20 
+attitude towards change is essential to ensure that the firm does not slip 
+back into old ways of doing things. 
+(b)  
+The term ‘strategic management’ refers to the managerial process of developing 
+a strategic vision, setting objectives, crafting a strategy, implementing and 
+evaluating the strategy, and initiating corrective adjustments were deemed 
+appropriate. 
+ 
+The presence of strategic management cannot counter all hindrances and always 
+achieve success as there are limitations attached to strategic management. These 
+can be explained in the following lines: 
+♦ 
+The environment is highly complex and turbulent. It is difficult to 
+understand the complex environment and exactly pinpoint how it will shape 
+up in future. The organisational estimate about its future shape may awfully 
+go wrong and jeopardise all strategic plans. The environment affects as the 
+organisationhas to deal with suppliers, customers, governments and other 
+external factors.  
+♦ 
+Strategic management is a time-consuming process. Organisations 
+spend a lot of time preparing, communicating the strategies that may 
+impede daily operations and negatively impact on routine business.  
+♦ 
+Strategic management is a costly process. Strategic management adds 
+a lot of expenses to an organization. Expert strategic planners need to be 
+engaged, efforts are made for analysis of external and internal 
+environments devise strategies and properly implement. These can be 
+really costly for organisations with limited resources particularly when small 
+and medium organisation create strategies to compete.  
+♦ 
+Competition is unpredictable. In a competitive scenario, where all 
+organisations are trying to move strategically, it is difficult to clearly 
+estimate the competitive responses to the strategies. 
+3.  
+(a)  
+Strategic leadership refers to the manager’s ability to anticipate, envision, 
+maintain flexibility and empower others to create strategic change as necessitated 
+by external conditions. A manager as a strategic leader is responsible for setting 
+the firm’s direction, formulating and implementing strategies and ensuring that the 
+organization moves towards achieving its strategic goals. To achieve this, the 
+manager must play multiple leadership roles such as visionary, strategist, 
+administrator, culture builder and motivator. 
+ 
+Downloaded from castudyweb.com
+<<PAGE 21>>
+21 
+ 
+Managers have five leadership roles to play in pushing for good strategy 
+execution:  
+1. 
+Staying on top of the execution process: Monitoring progress, resolving 
+emerging issues and understanding obstacles in the way of effective 
+execution. 
+2. 
+Promoting a culture of esprit de corps: Nurturing unity, teamwork and 
+high morale to mobilize and energize employees for effective strategy 
+implementation. 
+3. 
+Keeping the organization responsive and innovative: Ensuring the firm 
+remains adaptive to changes, alert to new opportunities and ahead of rivals 
+in developing competencies. 
+4. 
+Exercising ethical leadership: Insisting that the company behaves 
+ethically and acts as a model corporate citizen. 
+5. 
+Pushing corrective actions: Taking necessary corrective measures to 
+overcome execution problems and improve overall strategic performance. 
+ 
+These roles help managers drive strategy execution effectively while maintaining 
+integrity, adaptability and performance. 
+(b)  
+The following are the principal points of distinction between concentric 
+diversification and conglomerate diversification: 
+(i) 
+Concentric diversification occurs when a firm adds related products or 
+markets. On the other hand, conglomerate diversification occurs when a 
+firm diversifies into areas that are unrelated to its current line of business. 
+(ii) 
+In concentric diversification, the new business is linked to the existing 
+businesses through process, technology or marketing. In conglomerate 
+diversification, no such linkages exist; the new business/product is 
+disjointed from the existing businesses/ products. 
+(iii) 
+The most common reasons for pursuing concentric diversification are that 
+opportunities in a firm’s existing line of business are available. However, 
+common reasons for pursuing a conglomerate growth strategy are that 
+opportunities in a firm's current line of business are limited or opportunities 
+outside are highly lucrative.  
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 22>>
+22 
+4.  
+(a)  
+Value chain analysis is a strategic tool used to examine each business activity to 
+determine how it adds value, helping firms improve efficiency, identify cost-saving 
+opportunities and gain competitive advantage through better coordination and 
+performance of internal processes.   
+ 
+Support Activities in Value Chain Analysis (Michael Porter) 
+ 
+Michael Porter identified four main categories of support activities that support the 
+primary activities and help the organization achieve competitive advantage: 
+1. 
+Procurement: Refers to the processes involved in acquiring the various 
+resource inputs needed for the primary activities. It focuses on how 
+resources are sourced rather than the resources themselves. Procurement 
+occurs across many parts of the organization. 
+2. 
+Technology Development: Every value activity has associated 
+technology or know-how. This includes R&D, product design, process 
+development and improvements in resources such as raw materials. 
+Technology development enhances the efficiency and effectiveness of 
+value activities. 
+3. 
+Human Resource Management: This area spans across all primary 
+activities and involves recruiting, managing, training, developing and 
+rewarding employees. Effective HR management is vital for ensuring that 
+the organization has the right people to perform its activities successfully. 
+4. 
+Infrastructure: Infrastructure consists of the systems and routines that 
+support the entire organization, including planning, finance, quality control, 
+information management and organizational culture. It sustains and 
+coordinates primary and support activities and is crucial for overall 
+organizational performance.   
+(b)  
+The Mendelow’s matrix is a simple framework to help manage key stakeholders. 
+ 
+Managing Stakeholders: Mendelow's Matrix is an essential tool for managing 
+stakeholders effectively in project management, as it involves managing the 
+competing interests of various stakeholders. It categorizes stakeholders based on 
+their power and interest levels. This framework helps project managers to identify 
+which stakeholders are incredibly important and prioritize their engagement 
+strategies to ensure project success.                          
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 23>>
+23 
+ 
+Categorization of Stakeholders: The matrix divides stakeholders into four 
+groups: 
+• 
+Key Players (High Power, High Interest): These stakeholders require 
+close management and regular communication. Engaging them fully 
+ensures their support and input, which is crucial for project success. For 
+instance, CEOs and shareholders fall into this category. 
+• 
+Keep Satisfied (High Power, Low Interest): While these stakeholders 
+have significant influence, they may not be as invested in the project's 
+success. It is essential to keep them satisfied with sufficient information to 
+prevent potential conflicts. 
+• 
+Keep Informed (Low Power, High Interest): Stakeholders in this group 
+are interested in the project but lack the power to influence its outcome. 
+Regular updates and communication can foster goodwill and may provide 
+valuable feedback. 
+• 
+Low Priority (Low Power, Low Interest): These stakeholders require 
+minimal attention. Monitoring their interest and power levels periodically is 
+sufficient, as they do not significantly impact the project.          
+ 
+In summary, Mendelow's Matrix provides a clear framework for categorizing 
+stakeholders based on their power and interest, facilitating effective stakeholder 
+management and enhancing the likelihood of project success. 
+OR 
+ 
+According to C.K. Prahalad and Gary Hamel, major core competencies are 
+identified in three areas - competitor differentiation, customer value, and 
+application to other markets.  
+♦ 
+Competitor differentiation: The company can consider having a core 
+competence if the competence is unique and it is difficult for competitors to 
+imitate. This can provide a company an edge compared to competitors. It 
+allows the company to provide better products or services to market with 
+no fear that competitors can copy it.  
+♦ 
+Customer value: When purchasing a product or service it has to deliver a 
+fundamental benefit for the end customer in order to be a core competence. 
+It will include all the skills needed to provide fundamental benefits. The 
+service or the product has to have real impact on the customer as the 
+reason to choose to purchase them. If customer has chosen the company 
+without this impact, then competence is not a core competence.  
+Downloaded from castudyweb.com
+<<PAGE 24>>
+24 
+♦ 
+Application of competencies to other markets: Core competence must 
+be applicable to the whole organization; it cannot be only one particular 
+skill or specified area of expertise. Therefore, although some special 
+capability would be essential or crucial for the success of business activity, 
+it will not be considered as core competence, if it is not fundamental from 
+the whole organization’s point of view. Thus, a core competence is a unique 
+set of skills and expertise, which will be used throughout the organisation 
+to open up potential markets to be exploited.  
+ 
+Downloaded from castudyweb.com

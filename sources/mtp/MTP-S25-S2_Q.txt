@@ -1,0 +1,812 @@
+<<PAGE 1>>
+1 
+Mock Test Paper - Series II: August 2025 
+Date of Paper: 11th August, 2025 
+Time of Paper: 10 A.M. – 1 P.M. 
+INTERMEDIATE: GROUP – II 
+PAPER – 6A : FINANCIAL MANAGEMENT & STRATEGIC MANAGEMENT 
+PAPER 6A: FINANCIAL MANAGEMENT 
+Time Allowed – 3 Hours (Total time for 6A and 6B)  
+Maximum Marks – 50 
+1. 
+The question paper comprises two parts, Part I and Part II. 
+2. 
+Part I comprises Case Scenario based Multiple Choice Questions (MCQs) 
+3. 
+Part II comprises questions which require descriptive type answers. 
+4. 
+Working note should form part of the answer. Wherever necessary, suitable assumptions 
+may be made by the candidates and disclosed by way of note. However, in answers to 
+Questions in Division A, working notes are not required. 
+PART I – Case Scenario based MCQs (15 Marks) 
+Write the most appropriate answer to each of the following multiple-choice questions by 
+choosing one of the four options given. All questions are compulsory. 
+Case Scenario 
+Medilab Diagnostics Pvt. Ltd., a fast-growing healthcare diagnostics chain in Maharashtra, 
+operates several diagnostic centers, offering services such as pathology, radiology, and 
+preventive health screenings. 
+One of their most profitable centers in Pune recently experienced downtime due to failure of its 
+10-year-old ultrasound scanner. The machine has reached the end of its useful life, causing 
+disruptions in patient appointments, especially in obstetrics and abdominal imaging. 
+To prevent further delays, the procurement and finance teams have evaluated three options: 
+Two new ultrasound scanner models with identical features are available for purchase from 
+different brands: 
+Brand 
+Cost of 
+Machine 
+Life of 
+Machine 
+Maintenance Cost 
+Rate of 
+Depreciation 
+Year 1-5 
+Year 6-10 
+Year 11-15 
+Sonex 
+` 7,20,000 
+15 years 
+` 24,000 
+`34,000 
+`45,000 
+4% 
+EchoMed 
+` 5,40,000 
+10 years 
+` 36,000 
+` 58,000 
+- 
+6% 
+Downloaded from castudyweb.com
+<<PAGE 2>>
+2 
+The residual value of both machines will drop by 1/3 of the purchase price in the first year, and 
+thereafter shall be depreciated annually at the specified rate. 
+Alternatively, EchoMed model can be taken on rent, which will be returned to the vendor after 
+use, under the following terms and conditions: 
+• 
+Annual Rent shall be paid in the beginning of each year and for first year it shall be  
+` 1,18,000 
+• 
+Annual Rent for the subsequent 4 years shall be ` 1,18,500 
+• 
+Annual Rent for the final 5 years shall be ` 1,26,750 
+The rental agreement can be terminated early by paying a penalty of ` 1,10,000. This penalty 
+would be reduced by ` 11,000 each year of the period of rental agreement.  
+The cost of capital for Medilab Diagnostics is 12%. 
+Being a head of the finance department, you are required to answer the following question of 
+the management (MCQs 1 to 5): 
+1.  
+What is the residual value of the Sonex and Echomed at the end of their life? 
+(a)  
+Sonex: ` 1,34,690; EchoMed: ` 76,997 
+(b)  
+Sonex: ` 64,000; EchoMed: ` 57,000 
+(c)  
+Sonex: ` 31,043; EchoMed: ` 26,278 
+(d)  
+Sonex: ` 76,800; EchoMed: ` 68,400 
+2.  
+If Sonex is used for 15 years, what is the Equivalent Annual Cost of the machine?  
+(a)  
+` 1,28,000 
+(b)  
+` 1,25,600 
+(c)  
+` 1,30,004 
+(d)  
+` 1,34,230 
+3.  
+If Echomed is used for 10 years, what is the Equivalent Annual Cost of the machine? 
+(a)  
+` 1,28,861 
+(b)  
+` 1,35,640 
+(c)  
+` 1,32,100 
+(d)  
+` 1,27,400 
+Downloaded from castudyweb.com
+<<PAGE 3>>
+3 
+4.  
+If Echomed is taken on rent for 10 years, what is the Equivalent Annual Cost  of the 
+machine? 
+(a)  
+` 1,22,100 
+(b)  
+` 1,35,977 
+(c)  
+` 1,28,861 
+(d)  
+` 1,18,000 
+5.  
+Which is the most economical option if the machine is likely to be used for a period of 5 
+years? 
+(a)  
+Purchase Sonex 
+(b)  
+Purchase EchoMed 
+(c)  
+Rent EchoMed 
+(d)  
+Rent Sonex 
+6.  
+ABC Ltd. has the following capital structure based on market values: 
+Equity: ` 60 lakhs 
+Debt: ` 40 lakhs 
+Cost of Equity (Retained Earnings): 14% 
+Cost of New Equity (after accounting for 5% flotation cost): 15% 
+Cost of Debt: 10% 
+Corporate Tax Rate: 30% 
+ 
+The company plans to raise additional capital by issuing new equity instead of using 
+retained earnings. The capital structure weights will remain unchanged. What will be the 
+impact on the Weighted Average Cost of Capital (WACC)? 
+(a)  
+WACC will increase to 11.8% 
+(b)  
+WACC will remain unchanged at 11.2% 
+(c)  
+WACC will decrease to 8.8% 
+(c)  
+WACC will increase only if debt increases 
+(2 Marks) 
+7.  
+A company has the following details: 
+Sales   
+ 
+ 
+ 
+` 50,00,000 
+Variable Costs  
+ 
+ 
+` 30,00,000 
+Downloaded from castudyweb.com
+<<PAGE 4>>
+4 
+Fixed Operating Costs  
+ 
+` 10,00,000 
+Interest Expense    
+ 
+` 5,00,000 
+ 
+If sales increase by 10%, what will be the percentage increase in Earnings Per Share 
+(EPS)?  
+(a)  
+10% 
+(b)  
+20% 
+(c)  
+30% 
+(d)  
+40% 
+(2 Marks) 
+8.  
+XYZ Ltd. has the following data: 
+Earnings per share (EPS): `10 
+Return on equity (ROE): 18% 
+Capitalisation rate (Ke): 15% 
+Dividend payout ratio: 60% 
+ 
+Based on Gordon’s Model, what would be the likely effect on the market price per share 
+if the company increases its dividend payout ratio to 80%, assuming all other factors 
+remain constant? 
+(a)  
+Market price per share will increase 
+(b)  
+Market price per share will decrease 
+(c)  
+Market price per share will remain unchanged 
+(d)  
+Cannot be determined due to insufficient information 
+(1 Mark) 
+PART II – Descriptive Questions (35 Marks) 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+1. 
+(a)  
+ABC Ltd. is a listed company operating in the FMCG sector. The company is 
+currently facing a dilemma regarding its dividend policy. The financial controller 
+has been asked to prepare a report for the Board of Directors evaluating whether 
+the company should retain more profits or distribute higher dividends. 
+The following financial data is available for the year ended 31st March 2025: 
+Earnings per share (EPS) 
+ 
+:  
+` 10 
+Downloaded from castudyweb.com
+<<PAGE 5>>
+5 
+Dividend per share (proposed) 
+:  
+` 6 
+Number of equity shares 
+ 
+:  
+10,00,000 
+Return on investment (r) 
+ 
+:  
+15% 
+Cost of equity capital (Ke) 
+ 
+:  
+12% 
+Current market price per share 
+: 
+ ` 100 
+Retention ratio 
+ 
+ 
+:  
+40% 
+Tax rate 
+ 
+ 
+ 
+:  
+30% 
+Corporate bond yield: 8% (for comparison with cost of equity) 
+ 
+Further, the company has an investment proposal requiring ` 30,00,000 with an 
+expected return of 14%. If the dividend is increased to ` 7/share, the share price 
+is expected to rise to ` 104 and if the dividend is reduced to ` 4/share, the share 
+price may fall to ` 95. The CFO believes that MM hypothesis should be followed, 
+but the Board is inclined towards Walter’s model of valuation. 
+ 
+You are required to: 
+(i)  
+CALCULATE the value of the share using Walter’s Model, and comment 
+whether the current dividend policy is optimal. 
+(ii)  
+Apply Gordon’s Model to ESTIMATE the market value of the share.  
+(iii) 
+HOW by way of MM’s Dividend Irrelevance Theory, whether a change in 
+dividend payout (from ` 6 to ` 7 or `4) has any impact on the firm's valuation, 
+assuming no taxes and perfect capital markets.  
+(5 Marks) 
+(b)  
+Fortune Ltd. has furnished the following information relating to the year ended 
+31st March, 2024 and 31st March, 2025:  
+ 
+31st March, 2024  
+(`)  
+31st March, 2025  
+(`)  
+Share Capital  
+60,00,000  
+60,00,000  
+Reserve and Surplus  
+30,00,000  
+40,00,000  
+Long term loan  
+40,00,000  
+40,00,000  
+♦ 
+Net profit ratio: 8%  
+♦ 
+Gross profit ratio: 20%  
+♦ 
+Long-term loan has been used to finance 40% of the fixed assets.  
+Downloaded from castudyweb.com
+<<PAGE 6>>
+6 
+♦ 
+Stock turnover with respect to cost of goods sold is 4.  
+♦ 
+Debtors represent 90 days of credit sales.  
+♦ 
+The company holds cash equivalent to 1½ months cost of goods sold.  
+♦ 
+Ignore taxation and assume 360 days in a year.  
+♦ 
+All sales are credit sales. 
+ 
+You are required to PREPARE Balance Sheet as on 31st March, 2025 in the 
+following format:  
+Liabilities 
+(`) Assets 
+(`) 
+Share Capital  
+- Fixed Assets  
+- 
+Reserve and Surplus  
+- Sundry Debtors  
+- 
+Long-term loan  
+- Closing Stock  
+- 
+Sundry Creditors  
+- Cash in hand  
+- 
+ (5 Marks) 
+(c)  
+ABC Ltd. has the following capital structure, which is considered to be optimum 
+as on 31st March, 2025. 
+Particulars  
+Amount (`) 
+14% Debentures 
+60,000 
+11% Preference shares 
+20,000 
+Equity Shares (10,000 shares) 
+3,20,000 
+ 
+4,00,000 
+ 
+The company share has a market price of ` 19.67. Next year dividend per share 
+is 50% of year 2024 EPS. Following is the uniform trend of EPS for the preceding 
+10 years which is expected to continue in future: 
+Year 
+EPS (`) 
+Year 
+EPS (`) 
+2015 
+1.00 
+2020 
+1.61 
+2016 
+1.10 
+2021 
+1.77 
+2017 
+1.21 
+2022 
+1.95 
+2018 
+1.33 
+2023 
+2.15 
+2019 
+1.46 
+2024 
+2.36 
+ 
+The company issued new debentures carrying 16% rate of interest and the current 
+market price of debenture is ` 96. 
+Downloaded from castudyweb.com
+<<PAGE 7>>
+7 
+ 
+Preference shares of ` 9.20 (with annual dividend of ` 1.1 per share) were also 
+issued. The company is in 50% tax bracket. 
+(A) 
+CALCULATE after tax: 
+(i) 
+Cost of new debt 
+(ii) 
+Cost of new preference shares 
+(iii) 
+Cost of new equity share (assuming new equity from retained earnings) 
+(B) 
+CALCULATE marginal cost of capital when no new shares are issued. 
+(C) 
+DETERMINE the amount that can be spent for capital investment before new 
+ordinary shares must be sold. Assuming that the retained earnings for next 
+year’s investment is 50 percent of 2024. 
+(D) 
+COMPUTE marginal cost of capital when the fund exceeds the amount 
+calculated in (C), assuming new equity is issued at ` 25 per share. 
+ 
+(5 Marks) 
+2.  
+(a)  
+ABC Engineering Ltd., a mid-sized capital-intensive manufacturing company, is 
+evaluating the risk-return profile of its operations. The company currently operates 
+at 75% of its production capacity. The following information relates to its current 
+operations: 
+Income Statement at 75% Capacity 
+Particulars 
+Amount (`) 
+Sales Revenue 
+7,50,00,000 
+Variable Cost 
+4,50,00,000 
+Fixed Operating Costs 
+1,20,00,000 
+EBIT (Earnings Before Interest & Tax) 
+? 
+Interest on Debt (12% Debentures) 
+? 
+EBT (Earnings Before Tax) 
+? 
+Tax Rate 
+30% 
+ 
+Additional Information: 
+1.  
+The company has equity share capital of `2,00,00,000 (shares of ` 10 
+each, fully paid-up). 
+Downloaded from castudyweb.com
+<<PAGE 8>>
+8 
+2.  
+The current Debt-Equity ratio is 0.75:1, and the company is considering 
+increasing its production to 90% capacity. 
+3.  
+At 90% capacity: 
+-  
+Sales and variable cost per unit will increase proportionately. 
+-  
+Fixed operating costs will increase by ` 10,00,000 due to additional 
+maintenance, supervisory staff, and overheads. 
+-  
+To finance the additional working capital and fixed overheads, the 
+company is considering issuing additional ` 50,00,000 in 13% 
+debentures. 
+4.  
+The management wants to analyze the impact of increased capacity on 
+Operating Leverage, Financial Leverage, and Combined Leverage and the 
+change in EPS (Earnings Per Share) under the new financial plan. 
+You are required to: 
+(i)  
+At 75% Capacity (Current Scenario) 
+(a)  
+CALCULATE EPS by filling the missing figures. 
+(b)  
+CALCULATE Degree of Operating Leverage (DOL), Degree of 
+Financial Leverage (DFL) and Degree of Combined Leverage 
+(DCL). 
+(ii)  
+At 90% Capacity with Revised Financial Plan 
+(a)  
+CALCULATE new DOL, DFL, and DCL. 
+(b) 
+Revised EPS.   
+(iii)  
+ADVICE as to whether the company proceed with the capacity expansion 
+and debt issue. 
+(5 Marks) 
+(b)  
+The following data are presented in respect of Excellent Automation Ltd.: 
+ 
+ (`) 
+Profit before interest and tax      
+78,00,000 
+Less: Interest on debentures @ 12%                     
+18,00,000 
+Profit before tax                          
+60,00,000 
+Less: Income tax @ 50%                                 
+30,00,000 
+Profit After tax                          
+30,00,000 
+Downloaded from castudyweb.com
+<<PAGE 9>>
+9 
+No. of equity shares (of ` 10 each)           
+12,00,000 
+EPS 
+2.5 
+PE Ratio                  
+10 
+Market price per share                                      
+25 
+ 
+The company is planning to start a new project requiring a total capital outlay of  
+` 60,00,000. You are informed that a debt equity ratio (D/D+E) higher than 35%, 
+pushes the Ke up to 12.5%, means reducing the PE ratio to 8 and rises the interest 
+rate on additional amount borrowed to 14%. FIND OUT the probable price of share if: 
+(i)  
+the additional funds are raised as a loan. 
+(ii) 
+the amount is raised by issuing equity shares. 
+(Note: Retained earnings of the company is ` 1.8 crore) 
+(5 Marks) 
+3. 
+(a)  
+Oggy Limited has a current credit sales of ` 7,20,000. It is considering revising its 
+credit policy. The proposed terms of credit will be "2/10, net 30" against the 
+present policy of “net 30”.  
+ 
+As a result, Oggy Limited’s credit sales are expected to increase by ` 20,000 and 
+the average collection period will reduce from 30 days to 20 days. It is also 
+expected that 50 percent of the customers will take the discounts and pay on the 
+10th day and rest of the customers will pay on the 30th day. Bad debt losses will 
+remain at 2 percent of sales. The variable cost ratio is 70 percent.  
+ 
+Its corporate tax rate is 50 percent and opportunity cost of investment in 
+receivables is 10 percent.  
+ 
+ADVISE whether Oggy Limited should change its credit period? 
+ (8 Marks) 
+(b)  
+Briefly EXPLAIN the process for analysing Optimal Capital Structure. (2 Marks) 
+4.  
+(a)  
+ABC Ltd. is evaluating two investment opportunities. Project X offers high short-
+term accounting profits with aggressive cost-cutting measures, while Project Y 
+provides lower immediate profits but improves customer satisfaction, brand 
+loyalty, and long-term cash flows. 
+ 
+As a financial manager, WHICH project should the company choose to ensure 
+value creation? JUSTIFY your answer by comparing the concepts of profit 
+maximization, wealth maximization, and value creation.  
+(4 Marks) 
+Downloaded from castudyweb.com
+<<PAGE 10>>
+10 
+(b) 
+Is there any difference between crowd funding and peer to peer lending? EXPLAIN 
+briefly. 
+(4 Marks) 
+(c)  
+A company is currently debt-free and is considering raising `10 crore. As a finance 
+manager, what practical factors would you evaluate before deciding whether to 
+raise funds through debt, equity, or a mix of both? JUSTIFY your approach briefly. 
+ (2 Marks) 
+OR 
+(c)  
+A company owns a large asset (a commercial building) and is facing a cash 
+crunch. The CFO suggests a sale and leaseback arrangement. As a finance 
+student, WHAT practical benefits and risks would you consider before supporting 
+this decision? 
+(2 Marks) 
+ 
+Downloaded from castudyweb.com
+<<PAGE 11>>
+11 
+PAPER 6B: STRATEGIC MANAGEMENT 
+1. 
+The question paper comprises two parts, Part I and Part II. 
+2. 
+Part I comprises case scenario based multiple choice questions (MCQs) 
+3. 
+Part II comprises questions which require descriptive type answers. 
+PART I – Case scenario based MCQs (15 Marks) 
+Question 1. (A) 
+(Compulsory) 
+1. 
+(A)  
+Nav-Uday Electric Mobility Pvt. Ltd., a family-led company based in Pune, began 
+its journey in 1998 as a modest battery manufacturer. Under the leadership of its 
+founder, Mr. Prakash Deshmukh and later his children, the company evolved into 
+a respected player in the electric two-wheeler segment, especially catering to 
+semi-urban and tier-2 markets in India. Their electric scooters earned a reputation 
+for being sturdy, affordable and well-suited to Indian road conditions. With a loyal 
+customer base and an extensive dealer network, Nav-Uday enjoyed steady growth 
+for many years. 
+ 
+However, by 2020, the Indian EV landscape started changing rapidly. International 
+players such as Volterra Motors from Germany and HwaRide from South Korea 
+entered the market with AI-enabled features, aspirational designs and strategic e-
+commerce partnerships. Their sleek, tech-savvy scooters captured the attention 
+of India’s urban youth and redefined customer expectations. Nav-Uday, which had 
+traditionally focused on functionality and affordability, found itself losing 
+momentum in the face of this disruption. 
+ 
+Recognizing the challenges, Nav-Uday’s leadership initiated a comprehensive 
+strategic review. It became evident that while the company maintained strong 
+relationships and a value-driven culture, it had not kept pace with emerging market 
+trends and global innovations. The organization’s rigid functional structure, outdated 
+information systems and conservative decision-making processes hindered its 
+ability to adapt quickly. Employees, though skilled in cost-effective engineering, 
+lacked exposure to global design thinking and user-centric innovation. 
+ 
+The review also identified key stakeholders—such as dealers, regulatory 
+authorities and financial partners—whose growing influence needed to be 
+addressed through stronger engagement and alignment with the company’s future 
+goals. Three strategic alternatives emerged from the analysis are (1) Targeting 
+less competitive international markets like Africa and Southeast Asia for exports; 
+(2) Becoming a contract manufacturer for global EV brands entering India; (3) 
+Monetizing their patented battery-swapping technology by licensing it within the 
+EV ecosystem. 
+Downloaded from castudyweb.com
+<<PAGE 12>>
+12 
+ 
+Nav-Uday chose a hybrid path, combining the second and third options. They began 
+manufacturing for international players while licensing their underutilized battery-
+swapping technology globally. This dual strategy allowed the company to diversify 
+its revenue streams with lower capital risk while playing to its engineering strengths. 
+ 
+To support this strategic shift, the company restructured its operations, 
+implemented agile processes, adopted integrated information systems and 
+empowered leaders across departments to make faster, data-driven decisions. 
+They also onboarded professionals with global exposure and established 
+innovation-focused teams. 
+ 
+By balancing tradition with transformation, Nav-Uday is now better positioned to 
+compete on a global scale. While staying rooted in its core values of trust and 
+reliability, the company has embraced adaptability, innovation and collaboration 
+as cornerstones of its future growth. 
+Based on the above Case Scenario, answer the Multiple-Choice Questions. 
+(i) 
+Based on Mendelow's Matrix, how would you categorize Dealers in the 
+case of Nav-Uday, who have significant influence and expect alignment 
+with the company’s future strategy? 
+(a)  
+Low Power – Low Interest (Minimal Effort) 
+(b)  
+Low Power – High Interest (Keep Informed) 
+(c)  
+High Power – Low Interest (Keep Satisfied) 
+(d)  
+High Power – High Interest (Key Players) 
+(2 Marks) 
+(ii)  
+When Nav-Uday onboarded professionals with global exposure and 
+established innovation-focused teams, it primarily impacted which “S” in 
+the 7S Model? 
+(a)  
+Style 
+(b)  
+Skills 
+(c)  
+Shared Values 
+(d)  
+Structure 
+(2 Marks) 
+(iii)  
+In the context of Porter’s Five Forces, the entry of Volterra Motors and 
+HwaRide into the Indian EV market represents: 
+(a) 
+Threat of substitutes 
+(b) 
+Bargaining power of suppliers 
+Downloaded from castudyweb.com
+<<PAGE 13>>
+13 
+(c) 
+Threat of new entrants 
+(d) 
+Rivalry among existing competitors 
+(2 Marks) 
+(iv)  
+Nav-Uday’s decision to export to less competitive international markets like 
+Africa and Southeast Asia would primarily be classified as: 
+(a) 
+Corporate-level strategy 
+(b)  
+Business-level strategy 
+(c)  
+Functional-level strategy 
+(d)  
+Network-level strategy 
+(2 Marks) 
+(v)  
+Nav-Uday’s core business model of offering reliable, functional scooters at 
+an affordable price prior to market disruption was primarily a: 
+(a)  
+Cost Leadership strategy 
+(b)  
+Differentiation strategy 
+(c)  
+Focus strategy 
+(d)  
+Diversification strategy 
+(2 Marks) 
+(B)  
+Compulsory Application Based Independent MCQs 
+(i)  
+GreenSprout Organics, a sustainable agriculture company, offers a range 
+of eco-friendly farming products. Its portfolio includes mature products 
+generating steady cash flow and several new offerings with high growth 
+potential. Recently, GreenSprout launched a cutting-edge organic bio-
+fertilizer in a rapidly expanding market. In which quadrant of the BCG 
+Matrix would this new product most likely be placed? 
+(a)  
+Cash Cow 
+(b)  
+Dog 
+(c)  
+Question Mark 
+(d)  
+Star 
+(2 Marks) 
+(ii)  
+In his pursuit to expand the family business to Dubai, Dharam Veer Singh, 
+the successor of the renowned architect Late Shri Lala Ram Pal Singh, 
+faced a dilemma. Despite receiving positive feedback from various 
+potential investors, a common trend emerged where the emphasis was 
+primarily on swift construction, neglecting the importance of structural 
+longevity. Dharam finds himself at a crossroads. What strategic approach 
+Downloaded from castudyweb.com
+<<PAGE 14>>
+14 
+could assist him in formulating a robust and coherent business roadmap 
+that aligns with his vision for sustainable growth?  
+(a)  
+Vision  
+(b)  
+Mission  
+(c)  
+Goals and Objectives 
+(d)  
+Values/Value system 
+(2 Marks) 
+(iii)  
+A tech startup wants to enter a new market by introducing a new AI-
+powered product to an entirely new customer segment. Which strategic 
+option best represents this move? 
+(a)  
+Market Penetration 
+(b)  
+Market Development 
+(c)  
+Product Development 
+(d)  
+Diversification  
+(1 Mark) 
+PART II – Descriptive Questions (35 Marks) 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+1. 
+(a)  
+ABC Corp, a multinational consumer electronics company, is planning to expand 
+its operations into a new country. The company's senior management is 
+evaluating the potential risks and opportunities of entering this new market. As 
+part of their analysis, they decide to use the PESTLE framework to assess the 
+external factors that could impact their decision. How can the PESTLE framework 
+help ABC Corp assess the external factors affecting its decision to expand into a 
+new country? 
+(5 Marks) 
+(b)  
+A leading smartphone manufacturer has partnered with a reputed software firm to 
+jointly develop a next-generation AI-enabled operating system. Both companies 
+maintain their independent operations but collaborate closely on product design, 
+development, and marketing. The partnership aims to leverage shared resources, 
+complementary expertise and expanded market access for mutual benefit. Identify 
+and explain the form of cooperative strategy being used in this scenario. 
+ 
+ (5 Marks) 
+(c) 
+GreenEdge Solutions, a mid-sized technology company, has implemented a new 
+strategic plan focused on achieving sustainable growth and strengthening its 
+Downloaded from castudyweb.com
+<<PAGE 15>>
+15 
+market presence. The leadership team is determined to monitor the effectiveness 
+of their strategies to ensure they align with the organization’s overall goals and 
+objectives. They seek a systematic approach to assess key performance areas 
+critical to their success. What are Strategic Performance Measures (SPM), and 
+how can GreenEdge Solutions effectively use them to evaluate and enhance the 
+success of their strategic plan?   
+(5 Marks) 
+2.  
+(a)  
+Imagine you are a strategic consultant advising a retail company that is facing 
+increasing competition from online retailers. The company is considering several 
+strategic options to improve its market position. Using the concept that strategy is 
+partly proactive and partly reactive, explain how the company can develop a 
+strategic approach to address this challenge. 
+      (5 Marks) 
+(b)  
+Changes in environmental forces often require businesses to make modifications 
+in their existing strategies. In view of the same explain the areas to be focused 
+while considering concept of strategic change. Also explain the steps to initiate 
+strategic change process. 
+     (5 Marks) 
+3.  
+(a)  
+CDE Holdings operates in various sectors, including manufacturing fitness 
+equipment, organic foods, eco-friendly products and children's educational tools. 
+The organization is currently in the process of recruiting Chief Executive Officer. 
+In this scenario imagine yourself as a HR consultant for CDE Holdings. Identify 
+the strategic level that encompasses this role within CDE Holdings. Provide an 
+overview of the key duties and responsibilities falling under the Chief Executive 
+Officer's scope. 
+    (5 Marks) 
+(b)  
+Explain the concept of Experience Curve and highlight its relevance in strategic 
+management. 
+(5 Marks) 
+4.  
+(a)  
+Distinguish between Concentric Diversification and Conglomerate Diversification. 
+ 
+(5 Marks) 
+(b)  
+How can Mendelow's Matrix be used to analyze and manage the stakeholders 
+effectively? 
+OR 
+ 
+A beverage company is launching a new line of energy drinks targeted at health-
+conscious consumers. The strategic manager wants to study the market position of rival 
+companies in the energy drink segment. Which tool can be used for this analysis, and 
+what is the procedure to implement it effectively? 
+(5 Marks) 
+ 
+Downloaded from castudyweb.com

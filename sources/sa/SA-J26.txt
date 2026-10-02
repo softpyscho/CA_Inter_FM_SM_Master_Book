@@ -1,0 +1,1852 @@
+<<PAGE 1>>
+SUGGESTED ANSWERS JANUARY 2026
+PAPER 6: FM & SM - INTERMEDIATE COURSE
+<<PAGE 2>>
+PAPER – 6: FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+Part I – Multiple Choice Questions 
+Case Scenario - I 
+AB Infra Projects Limited operates in the construction and infrastructure sector, 
+executing large-scale public and private projects. The company has shown 
+consistent profitability and strong project execution capabilities, which is 
+supported by a balanced mix of equity and long-term debt financing. With several 
+new infrastructure projects under consideration, the management now wants to 
+review the cost of capital to ensure that the company's financing decisions are 
+efficient and aligned with the company's strategic growth objectives. The finance 
+department is evaluating the cost of equity, cost of preference shares and cost of 
+debentures to determine the company's overall Weighted Average Cost of Capital 
+(WACC) and maintain financial stability. The capital structure of AB Infra Projects 
+Limited is as follows: 
+Particulars 
+Amount (`) 
+Equity Shares (face value 10 per share) 
+60,00,000 
+12% Preference Share Capital 
+20,00,000 
+10% Convertible Debentures 
+40,00,000 
+Total Capital of the Company 
+1,20,00,000 
+The following are some of the additional information provided by the company 
+relating to the above-mentioned capital structure: 
+(i)  The risk-free rate of return (Rf) is 6%, equity beta (β) is 1.25 and equity risk 
+premium (Rp) is 8%. 
+(ii)  The face value of 12% preference shares is ` 100 each. These shares are 
+irredeemable, having a flotation cost of 4%. The current market price of 
+preference share is ` 100 per share. 
+<<PAGE 3>>
+ 
+INTERMEDIATE EXAMINATION: JANUARY 2026 
+ 
+SUGGESTED ANSWERS 
+2 
+(iii)  10% convertible debentures of ` 100 each are issued with a maturity period 
+of 5 Years. At maturity, the debenture holders will have an option to convert 
+the debenture into equity shares of the company in the ratio of 1: 4 (4 shares 
+for each debenture). The current market price of the equity share is ` 120 
+each and company expects share prices to grow at an average rate of 5% per 
+annum in the future. The current market price per debenture is ` 150. 
+(iv)  The rate of corporate income tax is 30%. 
+Based on the above information, you are required to answer the following 
+questions 1 to 5: 
+1. 
+What is the cost of equity share capital using Capital Asset Pricing Model 
+(CAPM) Approach and cost of irredeemable preference share capital? 
+(A)  14.5% and 13% 
+(B)  15% and 11.5% 
+(C)  16% and 12.5% 
+(D)  17.5% and 12% 
+2. 
+What is the Redemption Value (RV) of debenture? 
+(A)  ` 612.62 
+(B)  ` 650.60 
+(C)  ` 480.00 
+(D)  ` 515.50 
+3. 
+What is the cost of the convertible debentures using approximation method? 
+(A)  29.33% 
+(B)  30.74% 
+(C)  32.50% 
+(D)  28.25% 
+4. 
+What is the weighted average cost of capital using market value weights? 
+(A)  16.05% 
+<<PAGE 4>>
+ 
+ 
+FINANCIAL MANAGEMENT AND
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWERS 
+3 
+(B)  18.55% 
+(C)  19.20% 
+(D)  17.02% 
+5. 
+If the capital structure remains unchanged, determine the market price per 
+equity share (MPS) when the net profit available to equity shareholders (after 
+tax) is ` 48,00,000 and the company's P/E ratio is 21. 
+(A)  ` 168 
+(B)  ` 175 
+(C)  ` 150 
+(D)  ` 180 
+6. 
+Mr. X, a senior executive of BPC Electronics Limited has holding of 42,000 
+shares of the company. The shares are currently trading in the stock exchange 
+at ` 480 per share. Mr. X has a policy of reinvesting the amount of any 
+dividends received back into the shares of the company. BPC Electronics 
+Limited has declared and paid a dividend of ` 30 per share. 
+ 
+What is the total number of shares that Mr. X would hold after he reinvests 
+the dividend received in shares of BPC Electronics Limited? 
+(A)  45,500 shares 
+(B)  44,800 shares 
+(C)  45,000 shares 
+(D)  44,625 shares 
+7. 
+A firm maintains a separate account for cash disbursement. The 
+administrative and transaction cost of transferring cash to the disbursement 
+account is ` 25 per transfer. Marketable securities yield 10% per annum. The 
+firm has determined its optimum cash balance at ` 30,000, according to the 
+William J. Baumol Model. 
+ 
+What will be the Total Annual Cash Disbursements of the firm? 
+(A)  ` 18,00,000 
+<<PAGE 5>>
+ 
+INTERMEDIATE EXAMINATION: JANUARY 2026 
+ 
+SUGGESTED ANSWERS 
+4 
+(B)  ` 45,00,000 
+(C)  ` 36,00,000 
+(D)  ` 27,00,000 
+8. 
+ZED Ltd. is expecting to pay a dividend of ` 50 per share in the next financial 
+year 2025-26. The company's speed of adjustment is 25%, the target pay-out 
+ratio is 40%, and the earnings per share (EPS) for the year amount to ` 200. 
+ 
+What was the dividend paid for the financial year 2024-25 using Lintner's 
+Model? 
+(A)  ` 30 per share 
+(B)  ` 40 per share 
+(C)  ` 60 per share 
+(D)  ` 50 per share  
+Case Scenario - II 
+Kalpanjali Dairy, a mid-sized cooperative based in Uttar Pradesh, has established 
+a reputation over the past 20 years for producing traditional but high-quality 
+dairy products sourced from small-scale farmers. Its operations are rooted in 
+cooperative ethics, aiming for both profitability and farmer welfare. 
+Now, Kalpanjali is facing multiple cross-challenges rising competition, shifting 
+health narratives, concern for climate change, and ethical debates around animal 
+welfare. With a vision to become a national brand by 2035, Kalpanjali must 
+rethink its plan of action. 
+The founders of Kalpanjali Dairy intended to create a values-driven brand that 
+not only delivered quality but also empowered dairy farmers. It intends to become 
+one of the top 10 dairy brands in India by 2035, with a strong presence in organic 
+and health-based dairy offerings and proving good services, which is in a heavy 
+demand and has to draw a vision plan accordingly. 
+A Value Chain Analysis revealed strength in material handling, stock control and 
+better transportation system, but a gap in R&D and digital marketing. 
+<<PAGE 6>>
+FINANCIAL MANAGEMENT AND
+STRATEGIC MANAGEMENT 
+SUGGESTED ANSWERS 
+5 
+After extensive stakeholder discussion, Kalpanjali considered three strategic 
+options: 
+1.
+Defensive Strategy Double down on traditional dairy and educate consumers
+on the nutritional value of milk and the ethical treatment of animals.
+2.
+Diversification Strategy - Launch a vegan product line (e.g., almond/oat-
+based milk, vegan yogurt) under a sub-brand to appeal to changing
+preferences.
+3.
+Collaborative Strategy - Partner with NGOs and health influencers to
+improve public image and trust.
+On detailed internal analysis of various strategic drivers, leadership opted for a 
+hybrid strategy: 
+•
+Continue improving and promoting high-quality dairy products 
+with transparent animal welfare practices.
+•
+Simultaneously launch a vegan line to cater to health-conscious and ethically 
+driven consumers under a new sub-brand Kalpanjali Plant Wise.
+•
+Investing in an R&D facility to develop almond milk, oat milk, and vegan 
+ghee.
+•
+Partnering with food tech startups and nutritionists.
+•
+Training farmers to improve animal healthcare and promote "cruelty-free 
+dairy" certification.
+•
+A strong communication campaign: "Empowered by your choice, grounded 
+in respect" - highlighting that Kalpanjali supports both dairy and plant-
+based lifestyles.
+•
+Rebranding efforts to clearly differentiate the dairy and vegan lines while 
+maintaining core brand identity.
+Based on the above case scenario, choose the correct answer to Question 
+No. 9 to 13. 
+<<PAGE 7>>
+ 
+INTERMEDIATE EXAMINATION: JANUARY 2026 
+ 
+SUGGESTED ANSWERS 
+6 
+9. 
+Kalpanjali Dairy's action plan to become a top 10 dairy brand by 2035, with 
+a strong presence in organic and health-based dairy offerings, is an example 
+of: 
+(A)  Strategic control 
+(B)  Strategic intent 
+(C)  Operational efficiency 
+(D)  Tactical planning 
+10. Within the context of Kalpanjali Dairy's analysis, which of the following 
+would be best classified as strength? 
+(A)  Operations 
+(B)  Service 
+(C)  Inbound logistics 
+(D)  Sales 
+11. Kalpanjali Dairy has decided to launch a new product line featuring vegan 
+yogurt and organic milk in response to shifting consumer preferences. 
+This initiative represents which type of strategic option? 
+(A)  Market Penetration 
+(B)  Concentric Diversification 
+(C)  Conglomerate Diversification 
+(D)  Innovation 
+12. There is external pressure on the company's traditional dairy business. Which 
+type of strategic challenge is the company facing? 
+(A)  Supply chain inefficiency 
+(B)  Industry deregulation 
+(C)  Socio-cultural shift impacting demand 
+(D  Technological disruption 
+<<PAGE 8>>
+ 
+ 
+FINANCIAL MANAGEMENT AND
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWERS 
+7 
+13. What strategic driver did company adopt for a long term strategy? 
+(A)  Product 
+(B)  Industry 
+(C)  Pricing 
+(D)  Channel 
+14. Herbal Care Pvt. Ltd., a reputed Ayurveda brand, had strong domestic sales 
+but struggled to expand internationally due to unclear long-term direction. 
+After reviewing its declining exports, the company introduced a strategic plan 
+focused on global positioning, R&D investment, and sustainable packaging. 
+The process unified departmental efforts, improved brand consistency, and 
+attracted foreign partners. Within a short span, Herbal Care's exports rose 
+significantly. This case highlights which key importance of strategic 
+management? 
+(A)  It enhances daily operational control. 
+(B)  It provides clear direction and long-term organizational focus to move 
+ahead. 
+(C)  It focuses mainly on employee enhancement and growth. 
+(D)  It ensures faster product manufacturing. 
+15. Urban Stay Realty decided to expand into Tier-2 cities after strategic 
+planning. The firm allocated budgets, assigned projects to motivated teams, 
+collaborated with local banks for financing, set up monitoring systems for 
+construction and marketing activities, and develop conducive culture. Within 
+two years, the company launched new housing projects successfully and 
+captured market share in new regions. Which stage of strategic management 
+does this case describe? 
+(A)  Environmental Scanning 
+(B)  Strategy Formulation 
+(C)  Strategy Implementation 
+<<PAGE 9>>
+ 
+INTERMEDIATE EXAMINATION: JANUARY 2026 
+ 
+SUGGESTED ANSWERS 
+8 
+(D)  Evaluation and Control 
+16. A café is overcrowded on weekends but nearly empty on weekdays. To even 
+out demand, it launches a "Workday Loyalty Card" with discounts for 
+weekday visits. This strategy illustrates: 
+(A)  Demarketing 
+(B)  Augmented Marketing 
+(C)  Social Marketing 
+(D)  Synchro-marketing 
+Answer Key 
+MCQ No. 
+Correct Option 
+1. 
+(C) 
+2. 
+(A) 
+3. 
+(B) 
+4. 
+(D) 
+5. 
+(A) 
+6. 
+(D) 
+7. 
+(A) 
+8. 
+(B) 
+9. 
+(B) 
+10. 
+(C) 
+11. 
+(B) 
+12. 
+(C) 
+13. 
+(A) 
+14. 
+(B) 
+15. 
+(C) 
+16. 
+(D) 
+ 
+ 
+ 
+<<PAGE 10>>
+ 
+ 
+FINANCIAL MANAGEMENT AND
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWERS 
+9 
+Part II – Descriptive Questions 
+SECTION A: FINANCIAL MANAGEMENT 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+In case, any candidate answers extra question(s)/ sub-question(s) over and 
+above the required number, then only the requisite number of questions first 
+answered in the answer book shall be valued and subsequent extra 
+question(s) answered shall be ignored. 
+Working notes should form part of the answer. 
+Question 1 
+(a)  From the books of AIL Limited following information is taken for the year 
+2024-25: 
+Gross profit margin (25% of Sales) 
+ 
+ 
+ 
+` 30,00,000 
+Inventory holding period  
+ 
+ 
+ 
+ 
+28 Days 
+Opening Inventory 
+ 
+ 
+ 
+ 
+ 
+` 8,00,000 
+Current Ratio 
+ 
+ 
+ 
+ 
+ 
+ 
+1.20 
+Quick Ratio 
+ 
+ 
+ 
+ 
+ 
+ 
+0.80 
+Selling & Distribution Expenses  
+ 
+ 
+ 
+` 12,00,000 
+Depreciation and other Non-cash Expenses 
+ 
+ 
+` 4,80,000 
+Assume 360 days in a year. 
+You are required to calculate: 
+(i)  Inventory as on 31.03.2025 
+(ii)  Working Capital 
+(iii)  Basic Defense Interval 
+(5 Marks) 
+(b)  X Ltd. has average debtors of ` 90,00,000. The company's average collection 
+period is 60 days. At present, it incurs credit administration expenses of  
+` 4,00,000 per year and bad-debt losses amounting to 1% of credit sales. 
+<<PAGE 11>>
+ 
+INTERMEDIATE EXAMINATION: JANUARY 2026 
+ 
+SUGGESTED ANSWERS 
+10 
+ 
+A factoring company has proposed to purchase these receivables by charging 
+a commission of 2% on credit sales. The factor will provide an advance of 
+85% of receivables, after keeping 15% as reserve, and will charge interest at 
+15% per annum for the collection period. Assume 360 days in a year. 
+Required: 
+(i)  Calculate the effective cost of factoring. 
+(ii)  As a financial consultant, advise whether X Ltd. should accept the 
+factoring proposal.  
+(5 Marks) 
+(c)  PQR Ltd. is a leading company operating in the coal sector, engaged in the 
+extraction, processing, and distribution of coal for industrial and energy 
+purposes. 
+The following information is provided by the management of PQR Ltd. 
+Particulars 
+ 
+Issued Share Capital 
+` 24,00,000 
+Dividend Paid 
+10 per Share 
+Growth Rate 
+20% p.a. in perpetuity 
+Cost of Equity (Ke) 
+25% 
+You are required to calculate: 
+(i)  Using Gordon Model: 
+(a)  The current market price of the share. 
+(b)  Number of issued shares, if market price per share (MPS) is equal 
+to face value per share. 
+(ii)  Using Modigliani and Miller (MM) Hypothesis: 
+(a)  The market price of the share at the end of year if dividend is paid. 
+Use the current market price calculated in Gordon model as Po. 
+(b)  What will be the amount of earnings required for the company so 
+that the MM hypothesis holds true, if the company has made new 
+investments of ` 5,00,000 during the period and issued 1,000 new 
+equity shares? 
+(5 Marks) 
+ 
+ 
+<<PAGE 12>>
+ 
+ 
+FINANCIAL MANAGEMENT AND
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWERS 
+11 
+Answer 
+(a)  (i)  Sales  
+= 30,00,000
+0.25
+ 
+= ` 1,20,00,000 
+Gross Profit  
+ 
+= ` 30,00,000 
+Cost of goods sold (COGS) = Sales - Gross Profit = ` 90,00,000 
+Average Inventory   
+= Cost of goods sold (COGS)
+Inventory Turnover
+  
+ 
+  
+ 
+ 
+=  90,00,000 x 28
+360
+`
+ 
+= 7,00,000 
+Opening Inventory + Closing Inventory
+2
+ 
+  
+= 7,00,000 
+8,00,000+Closing Inventory 
+ 
+ 
+= 7,00,000 x 2  
+Closing Inventory 
+ 
+ 
+ 
+ 
+= ` 6,00,000 
+(ii)  Current Ratio 
+= 
+Current Assets (CA)
+ Current Liabilities (CL) 
+Or, CA  
+ CL
+ 
+ 
+ 
+= 1.2
+ 1 
+ 
+∴ CA  
+ 
+= 1.2 CL 
+ 
+ 
+ 
+ 
+……(1) 
+ 
+Quick Ratio  
+= 
+Quick Assets
+Current Liabilities 
+ 
+ 
+ 
+ 
+Current  Assets - 6,00,000
+=
+Current  Liabilities 
+ 
+ 
+Or, 0.8CL  
+ 
+= CA - 6,00,000 
+CA   
+ 
+= 0.8CL + 600000 
+ 
+ 
+ 
+.…..(2) 
+Equating 1 and 2 
+1.2 CL 
+ 
+= 0.8CL + 6,00,000 
+ 
+CL   
+ 
+= ` 15,00,000  
+ 
+CA   
+ 
+= 1.2 CL = ` 18,00,000 
+ 
+Working Capital  
+= CA – CL = 18,00,000 – 15,00,000 = ` 3,00,000 
+<<PAGE 13>>
+ 
+INTERMEDIATE EXAMINATION: JANUARY 2026 
+ 
+SUGGESTED ANSWERS 
+12 
+(iii) Basic Defense Interval Ratio = 
+CashandBankbalances +  
+Marketable Securities
+Operating Expenses(Cash)÷ No.of days
+
+
+
+
+
+
+ 
+Cash Operating Expenses  = COGS + Selling and Dist. Exp –  
+ 
+      Depreciation 
+and 
+Non-cash  
+ 
+      expenditures 
+ 
+= 90,00,000 + 12,00,000 - 4,80,000 
+ 
+= ` 97,20,000 
+Quick Assets 
+= 18,00,000 – 6,00,000 = ` 12,00,000 
+Basic Defense Interval Ratio = 
+12,00,000 
+97,20,000÷ 360 = 12,00,000 
+27,000
+= 44.44 
+days 
+(b) (i)  Working notes: 
+Credit Sales= 90,00,000×360
+60
+= ` 5,40,00,000 
+ 
+Particulars 
+` 
+A. Annual 
+Savings 
+(Benefit) 
+on 
+taking 
+Factoring Service 
+ 
+ 
+Cost of credit administration saved 
+` 4,00,000 
+ 
+Bad debts avoided 
+` 5,40,000 
+ 
+Total 
+` 9,40,000 
+B. Annual Cost of Factoring to the Firm: 
+ 
+ 
+Factoring Commission [2% x 5,40,00,000] 
+`10,80,000 
+ 
+Interest Charged by Factor on advance  
+(90,00,000 – 1,80,000 – 13,50,000) x 15%   
+` 11,20,500 
+ 
+Total 
+` 22,00,500 
+C. 
+Net Cost of Factoring to the Firm: 
+` 12,60,500 
+ 
+ 
+<<PAGE 14>>
+ 
+ 
+FINANCIAL MANAGEMENT AND
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWERS 
+13 
+Advance to be paid  
+= (90,00,000 – 1,80,000 – 13,50,000) – 
+ 74,70,000 × 0.15 × 60
+360 × 100
+
+
+
+
+
+
+`
+ 
+= ` 72,83,250 
+Rate of Effective Cost of Factoring to the Firm = 12,60,500 ×100
+72,83,250
+ 
+  
+ 
+ 
+ 
+ 
+ 
+      = 17.307% 
+ 
+Rate of Effective Cost of Factoring to the Firm can also be also 
+calculated for advance without taking Interest into consideration: 
+Rate of Effective Cost of Factoring to the Firm  
+=
+(
+)
+12,60,500
+× 100
+74,70,000 90,00,000 – 1,80,000 –13,50,000
+ = 16.874% 
+(ii)  Advice:  Since the cost to the firm exceeds the saving to the firm on 
+account of factoring, therefore, the proposal should not be acceptable. 
+(c)  (i) (a) 
+1
+0
+e
+E (1-b)
+P = K -br
+= 
+1
+e
+D
+K -g 
+D0  = 10 
+Ke = 25% 
+g   = 20% 
+10(1 0.20)
++
+0    
+P
+= 0.25-0.20
+= 240 
+(b) Number of Shares = 24,00,000
+240
+ = 10,000 shares 
+ 
+(ii)  (a)  As per MM Hypothesis, 
+Pₒ     
+= 
+1
+1
+P +D
+1+Ke
+ 
+240       = 
+1+12
+1+0.25
+P
+  
+P1 
+ 
+= 288 
+ 
+<<PAGE 15>>
+ 
+INTERMEDIATE EXAMINATION: JANUARY 2026 
+ 
+SUGGESTED ANSWERS 
+14 
+(b)  Calculation of Amount of earning required 
+Vf or nP₀ 
+=     
+ 1
+e
+(n +Δn)P - I + E 
+(1+K )
+  
+Where, 
+Vf  = Value of firm in the beginning of the period 
+n 
+= Number of shares in the beginning of the period 
+∆n = Number of shares issued to raise the funds required 
+I 
+= Amount required for investment 
+E 
+= Total earnings during the period 
+24,00,000 
+= (
+)
+[ 10,000+1,000 ×  288]-  5,00,000+E
+(1+0.25)
+`
+`
+ 
+30,00,000 
+= 26,68,000 + E 
+Amount of earnings required (E) = ` 3,32,000 
+Question 2 
+(a)  RK Limited provided following data for the year ended on 31-03-2025: 
+Sales 
+ 
+ 
+ 
+ 
+ 
+` 50,00,000 
+EPS  
+ 
+ 
+ 
+ 
+ 
+` 2.50 
+Tax Rate  
+ 
+ 
+ 
+ 
+` 40% 
+Fixed cost excluding interest 
+ 
+ 
+` 10,80,000 
+The Capital structure is as under: 
+Equity Share capital of ` 10/- each 
+ 
+` 18,00,000 
+10% Preference share of ` 100/- each  
+` 9,00,000 
+12% Debentures  
+ 
+ 
+ 
+` 75,00,000 
+You are required to: 
+(i)  Calculate Earnings before Interest and Tax (EBIT). 
+(ii)  Calculate Combined Leverage. 
+(iii)  Advise, the level of sales where Earning before Tax (EBT) will be zero. 
+(5 Marks) 
+<<PAGE 16>>
+ 
+ 
+FINANCIAL MANAGEMENT AND
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWERS 
+15 
+(b)  Algo Steel Ltd. is a well-established company in the steel manufacturing 
+sector, successfully operating for the past 20 years. The existing capital 
+structure comprises of 80% equity and 20% debt. Company's Cost of Equity 
+(K) is 13.5%, reflecting the return expected by shareholders. Its debt 
+component comprises of a bank loan carrying an interest rate of 8% per 
+annum. The company is subject to taxation and taxes are to be considered in 
+project evaluation. After preliminary evaluation, the Board of Directors has 
+shortlisted a project with the following details: 
+Particulars 
+ 
+Initial Investment 
+` 24,00,000 
+Estimated Salvage Value 
+10% of Initial Investment 
+Expected Life of the Project 
+4 years 
+Tax Savings on Depreciation 
+` 1,35,000 p.a. 
+Method of Depreciation 
+Straight Line Method (SLM) 
+ 
+Particulars 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Expected Cash Flows 
+before depreciation & 
+tax (in `) 
+12,00,000 
+20,00,000 
+18,00,000 
+16,00,000 
+PV Factor @ 10.00% 
+0.909 
+0.826 
+0.751 
+0.683 
+PV Factor @ 12.00% 
+0.893 
+0.797 
+0.712 
+0.636 
+Required: 
+(i)  Calculate Average Rate of Return (ARR) based on Average Investment. 
+(ii)  Calculate Net Present Value (NPV) by using Weighted Average Cost of 
+Capital (WACC).  
+(5 Marks) 
+Answer  
+(a)  (i)  Calculation of Earnings before Interest and Tax (EBIT) 
+Particulars 
+Amount (`) 
+Sales Revenue 
+50,00,000 
+Less: Variable Cost (Balancing figure) 
+21,20,000 
+<<PAGE 17>>
+ 
+INTERMEDIATE EXAMINATION: JANUARY 2026 
+ 
+SUGGESTED ANSWERS 
+16 
+Contribution 
+28,80,000 
+Less: Fixed Cost (excluding interest) 
+10,80,000 
+Earnings Before Interest & Tax (EBIT) 
+18,00,000 
+Less: Interest on Debentures (12% of ` 75,00,000) 
+9,00,000 
+Earnings Before Tax (EBT) 
+9,00,000 
+Less: Tax @ 40% 
+3,60,000 
+Profit After Tax (PAT) 
+5,40,000 
+Less: Preference Dividend (10% of ` 9,00,000) 
+90,000 
+Profit available to Equity Shareholders 
+(1,80,000 × 2.50) 
+4,50,000 
+(ii) Combined Leverage = 
+Contribution
+EBT - Pref. Dividend (Pre- tax)  
+ 
+ 
+ 
+ 
+ 
+= 
+`
+`
+ 28,80,000
+ 9,00,000 - 1,50,000 = 3.84  
+(iii) EBT zero means 100% reduction in EBT. Since combined leverage is 
+3.84, sales have to be dropped by 100/3.84 = 26.042%.  Hence new 
+sales will be ` 50,00,000 × (100 – 26.042) = ` 36,97,900.  
+ 
+Therefore, at ` 36,97,900. level of sales, the Earnings before Tax of the 
+company will be equal to zero. 
+ 
+ 
+Combined Leverage and Sales can also be calculated without 
+deducting preference dividend in following way: 
+(ii) Combined Leverage = Contribution
+EBT 
+ = `
+`
+ 28,80,000
+ 9,00,000 = 3.2 
+(iii) EBT zero means 100% reduction in EBT. Since combined leverage is 3.2, 
+sales have to be dropped by 100/3.2 = 31.25%.  Hence new sales will 
+be ` 50,00,000 × (100 – 31.25) = ` 34,37,500.  
+ 
+Therefore, at ` 34,37,500. level of sales, the Earnings before Tax of the 
+company will be equal to zero. 
+ 
+ 
+ 
+<<PAGE 18>>
+ 
+ 
+FINANCIAL MANAGEMENT AND
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWERS 
+17 
+(b) Annual Depreciation   
+= 
+21,60,000 (24,00,000 - 2,40,000)
+4
+ 
+ 
+ 
+ 
+       
+ 
+= ` 5,40,000 
+ 
+Tax Saving on Depreciation  
+= Depreciation × Tax Rate 
+ 
+1,35,000  
+ 
+ 
+= 5,40,000 x Tax Rate 
+ 
+Tax Rate  
+ 
+ 
+= 25% 
+(i)  Average Rate of Return (ARR) 
+Statement of Profit after Tax 
+Particulars 
+Year 1 
+(`) 
+Year 2 
+(`) 
+Year 3 
+(`) 
+Year 4 
+(`) 
+Cash flow before 
+dep. & tax 
+12,00,000 
+20,00,000 
+18,00,000 
+16,00,000 
+Less: Depreciation 
+5,40,000 
+5,40,000 
+5,40,000 
+5,40,000 
+Profit before tax 
+6,60,000 14,60,000 12,60,000 10,60,000 
+Less: Tax @ 25% 
+1,65,000 
+3,65,000 
+3,15,000 
+2,65,000 
+Profit after tax 
+(PAT) 
+4,95,000 10,95,000 
+9,45,000 
+7,95,000 
+Average Rate of Return (ARR) = Average annual  net income (PAT)
+Average Investment
+ 
+Total PAT  
+ 
+ = 4,95,000 + 10,95,000 + 9,45,000 + 7,95,000  
+ 
+  
+ 
+ = ` 33,30,000 
+Average PAT  
+ = 
+33,30,000
+4
+ = ` 8,32,500 
+Average Investment = (` 24,00,000 + ` 2,40,000)/2 = ` 13,20,000  
+ 
+Or, Average Investment  
+= ½ (Initial Investment – Salvage Value) +  
+ 
+ 
+ 
+ 
+    Salvage Value 
+ 
+  
+ 
+ 
+= ½ (` 24,00,000 - ` 2,40,000) + ` 2,40,000  
+  
+ 
+ 
+= ` 13,20,000 
+ARR 
+8,32,500
+=
+×100
+13,20,000
+ 
+= 63.068% or 63.07% 
+ 
+<<PAGE 19>>
+ 
+INTERMEDIATE EXAMINATION: JANUARY 2026 
+ 
+SUGGESTED ANSWERS 
+18 
+(ii)  Calculation of WACC 
+WACC 
+= (0.80 x 13.5%) + {0.20 x 6% (8% x 0.75)} 
+ 
+  
+=10.8% + 1.2% 
+ 
+  
+= 12% 
+Statement of Cash Flows after Tax 
+Particulars 
+Year 1 
+(`) 
+Year 2 
+(`) 
+Year 3 
+(`) 
+Year 4 
+(`) 
+Year 4 
+(`) 
+Profit after tax (PAT) 4,95,000 
+10,95,000 
+9,45,000 7,95,000 
+ 
+Add: Depreciation 
+5,40,000 
+5,40,000 
+5,40,000 5,40,000 
+ 
+Cash Flow after Tax 
+(CFAT) 
+10,35,000 
+16,35,000 14,85,000 13,35,000 
+2,40,000 
+(Salvage Value 
+PV Factor @12% 
+0.893 
+0.797 
+0.712 
+0.636 
+0.636 
+PV 
+9,24,255 13,03,095 10,57,320 8,49,060 
+1,52,640 
+Total PV of Inflows = ` 42,86,370 
+NPV = PV of Inflows − Initial Investment 
+ 
+= 42,86,370 − 24,00,000 
+ 
+= `18,86,370 
+Question 3 
+(a)  The Balance Sheet extract of ST Ltd. as on March 31 (current year) is as 
+follows: 
+Liabilities 
+Amount  
+(` in lakh) 
+Assets 
+Amount  
+(` in lakh) 
+Share capital 
+260 Fixed Assets 
+600 
+Reserves 
+168 Inventories  
+360 
+Long-term loans 
+420 Receivables 
+270 
+Short-term loans  
+220 Cash & bank 
+78 
+Payables 
+144  
+ 
+Provisions 
+96  
+ 
+ 
+1,308  
+1,308 
+<<PAGE 20>>
+ 
+ 
+FINANCIAL MANAGEMENT AND
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWERS 
+19 
+ 
+Sales for the current year amounted to ` 900 lakh. For the next financial year 
+ending March 31 (next year), sales are expected to increase by 20%. 
+ 
+The net profit margin (after tax) is expected to be 5% of sales, and the 
+dividend payout ratio is anticipated to be 50%. 
+ 
+Total assets including cash & bank and current liabilities (payables and 
+provisions) vary directly with sales. 
+ 
+You are required to: 
+(i)  Estimate the amount of external funds required (EFR) for the next 
+financial year. 
+(ii)  Determine the sources and composition of funds to meet the 
+requirement, given the following parameters: 
+(1)  The current ratio must be maintained at 1.40. 
+(2)  The ratio of fixed assets to long-term loans should be 1.50. 
+(3)  The remaining fund is raised by issue of Equity shares. 
+(4)  The additional funds are to be raised in the following order of 
+preference: 
+(i)  Short-term bank borrowings 
+(ii)  Long-term loans 
+(iii)  Equity 
+(8 Marks) 
+(b)  Explain in what ways financial leverage operates as a "double edged sword". 
+(2 Marks) 
+Answer  
+(a)  (i)  External Funds Requirement (EFR) 
+Particulars 
+` in lakhs 
+Expected sales (` 900 + 20% of ` 900) 
+1,080.00 
+Net profit margin @ 5% 
+54.00 
+Dividend payout ratio @ 50% 
+27.00 
+Balance to be ploughed back (A) 
+27.00 
+<<PAGE 21>>
+ 
+INTERMEDIATE EXAMINATION: JANUARY 2026 
+ 
+SUGGESTED ANSWERS 
+20 
+Additional assets required [(`1,308 – (144+96)*] × 
+20% (B) 
+213.60 
+Balance to be met from external sources (B − A) 
+186.60 
+*As total assets and current liabilities (payables & provisions) increase 
+proportionately with sales. 
+Calculation of External Funds Requirement (EFR) can be presented in 
+the following way- 
+Particulars 
+` in lakhs 
+A.  Projected Level of Assets (1308 x 1.20) 
+1,569.60 
+B.  Projected Level of Payables & Provisions (144+96) 
+x 1.20 
+288.00 
+C.  Retained Earnings (900 x 1.20 x 0.05 x 0.50  
+27.00 
+D.  Existing (Share Cap. + Reserves + LTL + STL)    
+      (260+168+420+220)   
+ 
+1068.00 
+External Funds Requirement (EFR): A - (B+C+D) 
+186.60 
+(ii)  Amount to be raised from different sources subject to given 
+conditions: 
+(1)  Amount to be raised from Short-Term Bank Borrowings 
+Particulars 
+` in lakhs 
+A.  New Current Assets (708 lakhs + 20% of 708 
+lakhs) 
+849.60 
+B.  New current liabilities as per given condition  
+606.86 
+C.  Less: Existing current liabilities (240 lakhs + 
+20% of 240 lakhs+220 lakhs) 
+508 
+D.  Additional funds to be raised from Short-term 
+bank borrowings (B-C) 
+98.86 
+ 
+To maintain Current Ratio  
+= 1.40 
+ 
+Required Current Liabilities  = 
+849.60
+1.40 = 606.86 lakhs 
+ 
+ 
+<<PAGE 22>>
+ 
+ 
+FINANCIAL MANAGEMENT AND
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWERS 
+21 
+(2)  Amount to be raised from Long-Term Loans 
+Particulars 
+` in lakhs 
+Existing fixed assets 
+600.00 
+Increase @ 20% 
+120.00 
+New fixed assets 
+720.00 
+ 
+To maintain fixed assets to long-term loans = 1.50: 
+Long-term loans required = 720
+1.5 = 480.00 lakhs 
+Particulars 
+` in lakhs 
+Required long-term loans 
+480.00 
+Less: Existing long-term loans 
+420.00 
+Amount to be raised from long-term funds 
+60.00 
+(3)  Amount to be raised from Equity Shares 
+Particulars 
+` in lakhs 
+External funds required 
+186.60 
+Less: From short-term funds 
+98.86 
+Less: From long-term funds 
+60.00 
+Balance to be raised by issue of Equity Shares 
+27.74 
+(b)  When the cost of ‘fixed cost fund’ is less than the return on investment, 
+financial leverage will help to increase return on equity and EPS. The firm 
+will also benefit from the saving of tax on interest on debts etc. However, 
+when cost of debt will be more than the return it will affect return of equity 
+and EPS unfavourably and as a result firm can be under financial distress. 
+Therefore, financial leverage is also known as “double edged sword”. 
+Question 4 
+(a)  Discuss briefly the key features of seed capital assistance as a source of 
+finance.  
+(4 Marks) 
+(b)  Why the Virtual banking service is popular among the customers?  
+ 
+Discuss the advantages of Virtual Banking. 
+(4 Marks) 
+<<PAGE 23>>
+ 
+INTERMEDIATE EXAMINATION: JANUARY 2026 
+ 
+SUGGESTED ANSWERS 
+22 
+(c)  Define financial distress. Briefly explain the consequences of a prolonged 
+financial distress.  
+(2 Marks) 
+OR 
+(c)  BEE Ltd. has a current ratio of 2:1, showing enough short-term liquidity in 
+the company. You are required to comment whether the current ratio will 
+improve, decline, or remain unchanged.  
+(2 Marks) 
+Sr. 
+No 
+Transaction 
+Impact 
+(i) 
+A debtor owing ` 60,000 becomes insolvent and 
+only 75% is recovered in cash in full and final 
+settlement. 
+ 
+(ii) 
+Issued equity shares for ` 2,00,000, proceeds kept 
+in current account with bank. 
+ 
+(iii) 
+` 25,000 collected from customers in cash. 
+ 
+(iv) 
+Goods costing 8,000 sold for ` 12,500 on credit. 
+ 
+Answer 
+(a)  Seed Capital Assistance: The Seed Capital Assistance scheme is designed 
+by IDBI for professionally or technically qualified entrepreneurs and/or 
+persons possessing relevant experience, skills and entrepreneurial traits but 
+lack adequate financial resources. All the projects eligible for financial 
+assistance from IDBI, directly or indirectly through refinance are eligible 
+under the scheme.  
+ 
+The Seed Capital Assistance is interest free but carries a service charge of 
+one per cent per annum for the first five years and at increasing rate 
+thereafter.  However, IDBI will have the option to charge interest at such 
+rate as may be determined by IDBI on the loan if the financial position and 
+profitability of the company so permits during the currency of the loan. The 
+repayment schedule is fixed depending upon the repaying capacity of the 
+unit with an initial moratorium up-to five years. 
+(b)  The popularity which virtual banking services have won among customers 
+is due to the speed, convenience and round the clock access they offer. 
+ 
+ 
+<<PAGE 24>>
+ 
+ 
+FINANCIAL MANAGEMENT AND
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWERS 
+23 
+ 
+The advantages of virtual banking services are as follows: 
+(i) Lower cost of handling a transaction.  
+(ii) The increased speed of response to customer requirements.  
+(iii) The lower cost of operating branch network along with reduced staff 
+costs leads to cost efficiency.  
+(iv) Virtual banking allows the possibility of improved and a range of 
+services being made available to the customer rapidly, accurately and 
+at his convenience. 
+(c)  Financial distress is a position where Cash inflows of a firm are inadequate 
+to meet all its current obligations. 
+ 
+If distress continues for a long period of time, firm may have to sell its asset, 
+even many times at a lower price. Further when revenue is inadequate to 
+revive the situation, firm will not be able to meet its obligations and 
+become insolvent. 
+OR 
+(c) 
+Sr. 
+No. 
+Transaction 
+Impact on 
+Current Ratio 
+(i) 
+A debtor owing ` 60,000 becomes insolvent and 
+only 75% is recovered in cash 
+Declines 
+(ii) 
+Issued equity shares for ` 2,00,000, proceeds 
+kept in current account with bank 
+Improves 
+(iii) 
+` 25,000 collected from customers in cash 
+No change 
+(iv) 
+Goods costing ` 8,000 sold for ` 12,500 on credit 
+Improves 
+ 
+ 
+ 
+<<PAGE 25>>
+INTERMEDIATE EXAMINATION: JANUARY 2026 
+ 
+ 
+SUGGESTED ANSWERS 
+24 
+SECTION – B: STRATEGIC MANAGEMENT 
+Part II – Descriptive Questions 
+Question paper comprises of 4 questions, Answer Question No. 5 which is 
+compulsory and any 2 out of the remaining 3 questions. 
+Question 5 
+(a)  Full Health Limited is a beverage company engaged in the production and 
+distribution of energy drink. It plans to launch a new line of beverages 
+targeted at health-conscious consumers. The Indian energy drink market, 
+however, is already saturated with strong competitors, including several 
+well-established national and international brands that command a 
+significant market share. Considering the dominant position of these rival 
+firms in the segment, which analytical tool would you recommend the 
+manager to use to assess the market environment? Additionally, explain the 
+procedure for implementing this tool effectively. 
+(5 Marks) 
+(b)  Next Tech Solutions, an IT services firm, is suffering from declining client 
+retention, rising operational costs, and outdated service offerings. Employee 
+morale is low, and the firm's reputation for innovation has faded. Due to 
+uncompetitive product and services, continuous losses, negative cash flow 
+from business have alarmed investors. The board chooses not to wind up 
+the operations but to rejuvenate the organization through effective 
+leadership. They appointed Mr. Moksha a young and visionary executive to 
+initiate strategic changes. What corporate strategy should Moksha adopt, 
+and what measures should he take to implement this strategy effectively 
+and ensure long-term sustainability? 
+(5 Marks) 
+(c)  Mr. Rohit Khanna runs a chain of organic grocery stores under the brand 
+name "Green Basket" in northern India. Over the past two years, he has 
+faced intense competition from large retail chains and online delivery 
+platforms offering organic products at discounted prices. Despite loyal 
+customers, his profit margins are shrinking. On his consultant's advice, 
+Rohit decided to undertake a comprehensive study to understand the 
+competitors, their vision, mission, and financial status to gain competitive 
+advantage. Identify the business analysis done by Mr. Rohit and discuss 
+steps to carry out the same. 
+(5 Marks) 
+ 
+ 
+<<PAGE 26>>
+ 
+FINANCIAL MANAGEMENT AND  
+STRATEGIC MANAGEMENT 
+ 
+ 
+SUGGESTED ANSWERS 
+25 
+Answer  
+(a) Strategic Group Mapping is the most appropriate analytical tool in the 
+given case. Since the Indian energy drink market is saturated and 
+dominated by strong national and international competitors, this tool 
+helps in analysing competition within the industry by grouping firms 
+that follow similar strategies. It enables the manager of Full Health 
+Limited to understand the relative competitive positions of rival firms 
+and identify strategic gaps or opportunities. 
+ 
+The procedure for constructing a Strategic Group Mapping and deciding 
+which firms belong to which strategic group is as follows: 
+1. 
+Identify the competitive characteristics that differentiate firms in 
+the industry. Typical variables include price/quality range (high, 
+medium, low), geographic coverage (local, regional, national, global), 
+degree of vertical integration (none, partial, full), product-line 
+breadth (wide, narrow), distribution channels used (one, some, all), 
+and degree of service offered (no-frills, limited, full). 
+2. 
+Plot firms on a two-variable map using selected pairs of these 
+differentiating characteristics. 
+3. 
+Assign firms falling in the same strategy space to the same 
+strategic group. 
+4. 
+Draw circles around each strategic group, making the circles 
+proportional to the group’s respective share of total industry sales 
+revenue. 
+ 
+Thus, Strategic Group Mapping helps the manager assess intra-
+industry competitive dynamics and take informed decisions before 
+launching a new beverage line in a highly competitive market.  
+(b) In the given case, Next Tech Solutions is facing continuous losses, 
+declining client retention, outdated service offerings, low employee 
+morale and negative cash flows. However, since the Board has decided 
+not to wind up the business and has appointed a young and visionary 
+leader, the most appropriate corporate strategy is Turnaround Strategy. 
+ 
+<<PAGE 27>>
+ 
+INTERMEDIATE EXAMINATION: JANUARY 2026 
+ 
+ 
+SUGGESTED ANSWERS 
+26 
+A Turnaround Strategy is adopted when an organisation is sick but 
+viable, and management believes that through corrective actions and 
+effective leadership, the firm can regain profitability, competitiveness 
+and long-term sustainability. 
+ 
+Stages in the Action Plan for Turnaround Strategy 
+1. 
+Stage One – Assessment of Current Problems: The first step is to 
+diagnose the root causes of decline such as uncompetitive products, 
+poor cash flow, rising costs and internal inefficiencies, and assess the 
+extent of damage. 
+2. 
+Stage Two – Situation Analysis and Strategic Planning: The firm 
+should evaluate its chances of survival and develop a strategic plan 
+focusing on improving competitiveness, employee morale and 
+operational efficiency. 
+3. 
+Stage Three – Implementing an Emergency Action Plan: 
+Immediate steps are taken to stabilise the business, including cost 
+cutting, improving cash flows, raising funds and addressing short-
+term operational issues. 
+4. 
+Stage Four – Restructuring the Business: This stage involves 
+restructuring core operations and finances, improving efficiency and 
+repositioning the firm for recovery and growth. 
+5. 
+Stage Five – Returning to Normal: The organisation gradually 
+moves towards profitability by introducing new services, improving 
+customer relationships, strengthening innovation and building long-
+term sustainability. 
+ 
+Thus, 
+by 
+adopting 
+a 
+Turnaround 
+Strategy 
+and 
+systematically 
+implementing these stages, Mr. Moksha can rejuvenate Next Tech 
+Solutions and restore stakeholder confidence. 
+(c) In the given case, Mr. Rohit Khanna has undertaken Competitor 
+Analysis/Competitive Landscape analysis. Competitor analysis is a part 
+of external environment analysis, wherein a firm systematically studies 
+its competitors to understand their objectives, strategies, strengths, 
+weaknesses and capabilities in order to gain competitive advantage. 
+ 
+ 
+<<PAGE 28>>
+ 
+FINANCIAL MANAGEMENT AND  
+STRATEGIC MANAGEMENT 
+ 
+ 
+SUGGESTED ANSWERS 
+27 
+ 
+Steps to Understand the Competitive Landscape 
+1. 
+Identify the Competitors: The first step is to identify existing and 
+potential competitors in the industry and collect data regarding their 
+respective market shares. 
+2. 
+Understand the Competitors: After identification, information about 
+competitors’ products and services, pricing, distribution and 
+strategies is gathered through sources such as market research 
+reports, internet, newspapers, social media and industry publications. 
+3. 
+Determine Competitors’ Strengths: Analyse what competitors do 
+well, such as superior products, strong branding, effective marketing 
+or efficient operations and why customers prefer them. 
+4. 
+Determine Competitors’ Weaknesses: Weaknesses are identified 
+through consumer reports, reviews and feedback available in various 
+media, highlighting areas where competitors underperform. 
+5. 
+Put all of the information together: All information is consolidated 
+to identify gaps in competitors’ offerings and areas where the firm 
+can improve or differentiate to build competitive advantage. 
+Thus, through Competitor Analysis, Mr. Rohit can better understand the 
+competitive dynamics of the organic grocery market and formulate 
+suitable strategies to protect profit margins and sustain the 
+competitive position of Green Basket. 
+Question 6 
+(a)  What is Corporate culture? Where does it come from? 
+(5 Marks) 
+(b) In a business strategy, consider a firm pursuing cost leadership to become 
+the lowest-cost producer in its industry. For this approach to be effective, 
+what key conditions must be present? However, cost leadership is not 
+without its pitfalls - discuss the potential disadvantages that could 
+undermine its effectiveness. 
+(5 Marks) 
+Answer  
+(a)  Corporate culture refers to a company’s values, beliefs, business 
+principles, 
+traditions, 
+ways 
+of 
+operating 
+and 
+internal 
+work 
+<<PAGE 29>>
+ 
+INTERMEDIATE EXAMINATION: JANUARY 2026 
+ 
+ 
+SUGGESTED ANSWERS 
+28 
+environment. Every organisation has a unique culture shaped by its 
+philosophy, history, values, rituals, work climate and ingrained ways of 
+doing things. Corporate culture exerts a powerful influence on the 
+behaviour of managers and employees and guides how decisions are 
+made and work is carried out. 
+ 
+Where Does Corporate Culture Come From? 
+ 
+Corporate culture is shaped and manifested through the following 
+sources: 
+1.  Values and Business Principles of Management: The values, ethical 
+standards and business principles that management preaches and 
+practices strongly influence organisational culture. 
+2.  Organisational History and Traditions: Past experiences, successes, 
+failures, traditions, stories and legends repeated within the 
+organisation help embed cultural values. 
+3.  Leadership Behaviour and Supervisory Practices: The leadership 
+style, attitudes and behaviour of managers shape employee conduct 
+and work practices. 
+4.  Stakeholder Relationships: Dealings with employees, unions, 
+shareholders, vendors and the community influence beliefs and 
+behavioural norms. 
+5.  Formal and Informal Systems: Policies, procedures, reward systems, 
+communication patterns, peer pressure and organisational politics 
+together define and reinforce culture. 
+Thus, corporate culture emerges over time from multiple sociological 
+forces operating at different levels of the organisation and acts as a 
+guiding force for employee behaviour, strategy execution and 
+organisational performance. 
+(b)  Cost Leadership Strategy aims at becoming the lowest-cost producer 
+in an industry while offering products or services of acceptable quality. 
+It enables the firm to charge lower prices than competitors and still earn 
+satisfactory profits. 
+ 
+Striving to be a low-cost producer in an industry can especially be 
+effective,  
+<<PAGE 30>>
+ 
+FINANCIAL MANAGEMENT AND  
+STRATEGIC MANAGEMENT 
+ 
+ 
+SUGGESTED ANSWERS 
+29 
+♦ 
+when the market is composed of many price-sensitive buyers and  
+♦ 
+when there are few ways to achieve product differentiation.  
+ 
+Disadvantages of Cost Leadership Strategy 
+1. 
+Cost advantage may not last long as competitors may imitate cost 
+reduction techniques.   
+2. 
+Cost leadership can succeed only if the firm can achieve higher sales 
+volume.  
+3. 
+Cost leaders tend to keep their costs low by minimizing cost of 
+advertising, market research, and research and development, but this 
+approach can prove to be expensive in the long run. 
+4. 
+Technological advancement areas a great threat to cost leaders. 
+ 
+Thus, while Cost Leadership Strategy can provide a strong competitive 
+advantage, its success depends on favourable conditions and continuous 
+vigilance to avoid risks that may undermine its effectiveness.  
+Question 7 
+(a)  An organization should select the right strategic performance measures 
+that are aligned with its goals and objectives and provide relevant and 
+actionable information. Explain all the factors and importance of these 
+factors that needs to be considered. 
+(5 Marks) 
+(b)  Innovation is widely regarded as a catalyst for business growth, enabling 
+firms to upgrade existing products and processes, enhance customer 
+satisfaction, and improve profitability. In light of this statement explain 
+what an innovation offers to the organisation and any risk involved in 
+doing so. 
+(5 Marks) 
+Answer  
+(a)  Strategic performance measures should be carefully selected so that 
+they are aligned with organisational goals and provide relevant, reliable 
+and 
+actionable 
+information. 
+In 
+selecting 
+the 
+right 
+measures, 
+organizations should consider the following factors: 
+<<PAGE 31>>
+ 
+INTERMEDIATE EXAMINATION: JANUARY 2026 
+ 
+ 
+SUGGESTED ANSWERS 
+30 
+♦ 
+Relevance: The measure should be relevant to the organization's 
+goals and objectives and provide information that is actionable and 
+meaningful. 
+♦ 
+Data Availability: The measure should be based on data that is 
+readily available and can be collected and analyzed in a timely 
+manner. 
+♦ 
+Data Quality: The measure should be based on high-quality data 
+that is accurate and reliable. 
+♦ 
+Data Timeliness: The measure should be based on data that is 
+current and up to date, enabling organizations to make informed 
+decisions in a timely manner. 
+These factors are important because they provide a way for 
+organizations to assess the success of their strategies, identify areas 
+for improvement, and make informed decisions about how to 
+allocate resources and adjust their strategies to achieve their desired 
+outcomes. Effective strategic performance measures should be relevant, 
+meaningful, and easy to understand and should be regularly reviewed and 
+updated to ensure their continued alignment with the organization's 
+goals and objectives.  
+(b)  Innovation refers to the creation and implementation of new or 
+significantly improved products, services, processes or business 
+models. Innovation acts as a key driver of growth, competitiveness and 
+long-term sustainability. 
+ 
+Innovation refers to the upgradation of existing products, services or 
+processes, which leads to higher market share, revenues, profitability 
+and customer satisfaction. For long-term business growth, innovation 
+plays a crucial strategic role. 
+ 
+What Innovation Offers to an Organisation 
+1. 
+Helps Solve Complex Problems: Innovation enables businesses to 
+identify opportunities in societal and business problems and develop 
+customer-centric and sustainable solutions. Though initial costs 
+may 
+be 
+high, 
+innovation 
+ensures 
+long-term 
+economic 
+and 
+environmental sustainability. 
+<<PAGE 32>>
+ 
+FINANCIAL MANAGEMENT AND  
+STRATEGIC MANAGEMENT 
+ 
+ 
+SUGGESTED ANSWERS 
+31 
+2. 
+Increases Productivity: Innovation simplifies and automates tasks, 
+reduces manual effort and improves efficiency. Automation and 
+digital tools enhance productivity at both process and organisational 
+levels, creating a ripple effect across industries. 
+3. 
+Gives Competitive Advantage: Faster innovation helps firms move 
+ahead of competitors. Innovative products offer greater customer 
+satisfaction, require less marketing effort, help retain existing 
+customers and attract new ones. 
+Risks Involved in Innovation 
+1. 
+High Cost and Financial Risk: Innovation involves significant 
+investment and returns may not be immediate or assured. 
+2. 
+Uncertain Returns: Some innovations may not deliver expected 
+benefits, making them appear as unnecessary expenses in the short 
+run. 
+3. 
+Technological Uncertainty: Rapid technological changes may make 
+existing innovations obsolete. 
+4. 
+Implementation Risk: Poor execution or lack of organisational 
+capability can lead to failure of innovative initiatives. 
+Thus, while innovation is a powerful driver of growth, productivity 
+and competitive advantage, it also involves risks that must be carefully 
+managed to achieve long-term sustainability and success. 
+Question 8 
+(a)  Porter's five forces model hold that the state of competition in an industry 
+is a composite of active competitive pressure in the market. Identify the 
+areas of market in which competitive pressure operates. 
+(5 Marks) 
+(b)  Objectives with a strategic focus is aimed at achieving outcomes that 
+enhance an organization's overall business position and competitive 
+strength. In view of the above statement, enumerate the characteristics of 
+ideal objectives that are meaningful and effectively serve their intended 
+purpose. 
+(5 Marks) 
+OR 
+(b)  Write short note on concept of strategy. 
+ 
+<<PAGE 33>>
+ 
+INTERMEDIATE EXAMINATION: JANUARY 2026 
+ 
+ 
+SUGGESTED ANSWERS 
+32 
+Answer 
+(a)  Porter’s Five Forces Model holds that the state of competition in an 
+industry is a composite of competitive pressures operating in five areas of 
+the overall market: 
+♦ 
+Competitive pressures associated with the market manoeuvring and 
+jockeying for buyer patronage that goes on among rival sellers in the 
+industry. 
+♦ 
+Competitive pressures associated with the threat of new entrants into 
+the market. 
+♦ 
+Competitive pressures coming from the attempts of companies in 
+other industries to win buyers over to their own substitute products. 
+♦ 
+Competitive pressures stemming from supplier bargaining power and 
+supplier-seller collaboration. 
+♦ 
+Competitive pressures stemming from buyer bargaining power and 
+seller-buyer Collaboration. 
+(b)  Objectives with strategic focus relate to outcomes that strengthen an 
+organisation’s 
+overall 
+business 
+position 
+and 
+competitive 
+vitality. 
+Objectives, to be meaningful to serve the intended role, must possess the 
+following characteristics: 
+♦ 
+Objectives should define the organisation’s relationship with its 
+environment. 
+♦ 
+They should be facilitative towards achievement of mission and 
+purpose. 
+♦ 
+They should provide the basis for strategic decision-making.  
+♦ 
+They should provide standards for performance appraisal.  
+♦ 
+They should be concrete and specific. 
+♦ 
+They should be related to a time frame. 
+♦ 
+They should be measurable and controllable. 
+♦ 
+They should be challenging. 
+♦ 
+Different objectives should correlate with each other. 
+<<PAGE 34>>
+ 
+FINANCIAL MANAGEMENT AND  
+STRATEGIC MANAGEMENT 
+ 
+ 
+SUGGESTED ANSWERS 
+33 
+♦ 
+Objectives should be set within the constraints of organisational 
+resources and external environment. 
+Or 
+In the context of business, strategy refers to the ways in which an 
+organisation responds to dynamic and often hostile external forces 
+while pursuing its vision, mission and long-term objectives. The idea of 
+strategy is incorporated to reduce uncertainty and complexity arising 
+from environmental changes. 
+Strategy seeks to relate the goals of the organisation to the means of 
+achieving them. It is the game plan of management to take market 
+position, conduct operations, attract and satisfy customers, compete 
+successfully and achieve organisational objectives. 
+Strategy may be defined as a long-range blueprint of an organisation’s 
+desired image, direction and destination—what it wants to be, what it 
+wants to do, how it wants to do things and where it wants to go. It 
+provides an integrated and unified framework for mobilising resources, 
+directing human effort and handling opportunities and threats. 
+Strategy is flexible and pragmatic in nature, enabling the organisation 
+to adapt to environmental changes and unforeseen situations. It 
+integrates organisational goals, policies and actions into a cohesive 
+whole, ensuring long-term survival, growth and competitive advantage. 
+A strategy may be formulated at the corporate level, divisional level 
+and functional level. The corporate wide strategies are operationalized 
+by divisional and functional strategies. A company’s strategy is typically a 
+blend of proactive actions on the part of managers to improve the 
+company’s market position and financial performance, and reactive 
+actions to unanticipated developments and fresh market conditions in 
+the dynamic business environment. 
+ 

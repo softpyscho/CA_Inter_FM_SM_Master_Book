@@ -1,0 +1,752 @@
+<<PAGE 1>>
+1 
+Mock Test Paper - Series II: April, 2024 
+Date of Paper: 15 April, 2024 
+Time of Paper: 2 P.M. to 5 P.M. 
+ 
+INTERMEDIATE GROUP – II  
+PAPER – 6A : FINANCIAL MANAGEMENT & STRATEGIC MANAGEMENT 
+PAPER 6A: FINANCIAL MANAGEMENT 
+Time Allowed – 3 Hours (Total time for 6A and 6B)  
+Maximum Marks – 50 
+1. 
+The question paper comprises two parts, Part I and Part II. 
+2. 
+Part I comprises Case Scenario based Multiple Choice Questions (MCQs) 
+3. 
+Part II comprises questions which require descriptive type answers. 
+4. 
+Working note should form part of the answer. Wherever necessary, suitable 
+assumptions may be made by the candidates and disclosed by way of note. 
+However, in answers to Questions in Division A, working notes are not 
+required. 
+PART I – Case Scenario based MCQs (15 Marks) 
+Write the most appropriate answer to each of the following multiple choice 
+questions by choosing one of the four options given. All questions are 
+compulsory. 
+ 
+1. 
+Tiago Ltd is an all-equity company engaged in manufacturing of batteries for 
+electric vehicles. There has been a surge in demand for their products due to 
+rising oil prices. The company was established 5 years ago with an initial 
+capital of ` 10,00,000 and since then it has raised funds by IPO taking the 
+total paid up capital to ` 1 crore comprising of fully paid-up equity shares of 
+face value ` 10 each. The company currently has undistributed reserves of ` 
+60,00,000. The company has been following constant dividend payout policy 
+of 40% of earnings. The retained earnings by company are going to provide a 
+return on equity of 20%. The current EPS is estimated as Rs 20 and prevailing 
+PE ratio on the share of company is 15x. The company wants to expand its 
+capital base by raising additional funds by way of debt, preference and equity 
+mix. The company requires an additional fund of ` 1,20,00,000. The target 
+ratio of owned to borrowed funds is 4:1 post the fund-raising activity. Capital 
+gearing is to be kept at 0.4x.  
+ 
+The existing debt markets are under pressure due to ongoing RBI action on 
+NPAs of the commercial bank. Due to challenges in raising the debt funds, 
+the company will have to offer ` 100 face value debentures at an attractive 
+yield of 9.5% and a coupon rate of 8% to the investors. Issue expenses will 
+amount to 4% of the proceeds.  
+ 
+The preference shares will have a face value of ` 1000 each offering a 
+dividend rate of 10%. The preference shares will be issued at a premium of 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 2>>
+2 
+5% and redeemed at a premium of 10% after 10 years at the same time at 
+which debentures will be redeemed. 
+ 
+The CFO of the company is evaluating a new battery technology to invest the 
+above raised money. The technology is expected to have a life of 7 years. It 
+will generate a after tax marginal operating cash flow of ` 25,00,000 p.a. 
+Assume marginal tax rate to be 27%. 
+1. 
+Which of the following is best estimate of cost of equity for Tiago Ltd? 
+(a) 
+12.99% 
+(b) 
+11.99% 
+(c) 
+13.99% 
+(d) 
+14.99% 
+2. 
+Which of the following is the most accurate measure of issue price of 
+debentures? 
+(a) 
+100 
+(b) 
+96 
+(c) 
+90.58 
+(d) 
+95.88 
+3. 
+Which of the following is the best estimate of cost of debentures to be 
+issued by the company? (Using approximation method) 
+(a) 
+7.64% 
+(b) 
+6.74% 
+(c) 
+4.64% 
+(d) 
+5.78% 
+4. 
+Calculate the cost of preference shares using approximation method 
+(a) 
+10.23% 
+(b) 
+11.22% 
+(c) 
+12.12% 
+(d) 
+12.22% 
+5. 
+Which of the following best represents the overall cost of marginal capital 
+to be raised? 
+(a) 
+11.76% 
+(b) 
+17.16% 
+(c) 
+16.17% 
+(d) 
+16.71% 
+(5 x 2 = 10 Marks) 
+ 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 3>>
+3 
+2. 
+Ranu & Co. has issued 10% debenture of face value 100 for ` 10 lakh. The 
+debenture is expected to be sold at 5% discount. It will also involve floatation 
+costs of ` 10 per debenture. The debentures are redeemable at a premium of 
+10% after 10 years. Calculate the cost of debenture if the tax rate is 30%. 
+(a) 
+8.97% 
+(b) 
+9.56% 
+(c) 
+8.25% 
+(d) 
+10.12% 
+(2 Marks) 
+3. 
+Given Data: Sales is ` 10,00,000, Break even sales is ` 6,00,000. 
+What is the Degree of operating leverage? 
+(a) 
+3 
+(b) 
+2 
+(c) 
+2.5 
+(d) 
+2.2 
+(2 Marks) 
+4. 
+A project requires an initial investment of ` 20,000 and it would give annual 
+cash inflow of ` 4,000. The useful life of the project is estimated to be 10 
+years. What is payback reciprocal/Approximated IRR? 
+(a) 
+20% 
+(b) 
+15% 
+(c) 
+25% 
+(d) 
+12% 
+(1 Mark) 
+ 
+ 
+PART II – Descriptive Questions (35 Marks) 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+1. 
+(a) 
+The below information for Lever Ltd is provided on annual basis: 
+ 
+` 
+Sales at 3 months credit 
+48,00,000 
+Materials consumed (suppliers extend 2 months credit) 
+12,00,000 
+Wages paid (one month lag in payment) 
+9,60,000 
+Cash manufacturing expenses (paid on month in arrear) 
+12,00,000 
+Administrative expense (one month lag in payment) 
+3,60,000 
+Sales promotion expense (paid monthly in advance) 
+1,20,000 
+ 
+The Company sells its products at a gross profit of 20%.  
+ 
+The Company keeps two months stock of raw materials and two months 
+stock of finished goods. 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 4>>
+4 
+ 
+Depreciation is considered as a part of cost of production. 
+ 
+Cash balance is retained at ` 1,00,000, 
+ 
+Assuming a 15% margin, COMPUTE the working capital requirements 
+of the Company on cash cost basis. Ignore work-in progress. 
+(5 Marks) 
+(b)  SOC Ltd has 10 lakh equity shares outstanding at the beginning of the 
+accounting year 2024. The existing market price per share is Rs 600. 
+Expected dividend is Rs 40 per share. The rate of capitalization 
+appropriate to the risk class to which the company belongs is 20%. 
+(i) 
+CALCULATE the market price per share by the end of the year 
+when expected dividends are: (a) declared, and (b) not declared, 
+based on the Miller – Modigliani approach. 
+(ii) 
+CALCULATE the number of shares to be issued by the company at 
+the end of the accounting year on the assumption that the net 
+income for the year is Rs 15 crore; investment budget is Rs 20 
+crores, when (a) Dividends are declared, and (b) Dividends are not 
+declared. 
+(iii) PROVE that the market value of the shares at the end of the 
+accounting year will remain unchanged irrespective of whether (a) 
+Dividends are declared, or (ii) Dividends are not declared.  
+(5 Marks) 
+(c)  An existing profitable company, RMC World Ltd. is considering a new 
+project for manufacture of home automation gadget involving a capital 
+expenditure of ` 1000 Lakhs and working capital of ` 150 Lakhs. The 
+capacity of the plants for an annual production of 3 lakh units and 
+capacity utilization during 5 year life of the project is expected to be as 
+indicated below: 
+Year 
+1 
+2 
+3 
+4 
+5 
+Capacity Utilization (%) 
+50 
+65 
+80 
+100 
+100 
+ 
+The average price per unit of product is expected to be `600 netting a 
+contribution of 60 percent. The annual fixed costs, excluding 
+depreciation, are estimated to be `500 Lakhs per annum from the third 
+year onwards. For the first and second year, it would be ` 200 lakhs and 
+` 350 lakhs respectively. 
+ 
+Scrap value of the capital asset at the end of 5th year is ` 200 Lakhs. 
+Depreciation on capital asset is provided on written down value basis @ 
+40% p.a. for income tax purpose. The rate of income tax may be taken 
+at 30%. The cost of capital is 12%. At end of the third year an additional 
+investment of ` 200 lakhs would be required for working capital. There 
+is no capital gain tax applicable. 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 5>>
+5 
+ 
+COMPUTE the NPV of the project. RMC World Ltd. is about to make a 
+presentation to Secure Venture Capital Firm. Secure Venture Capital 
+Firms will invest in any project if the net addition to shareholder wealth 
+from the project is above ` 100 lakhs. 
+   (5 Marks) 
+2. 
+(a)  From the following PREPARE Income statement of company P and Q. 
+ 
+P 
+Q 
+No. of Equity Shares  
+1,00,000 
+70,000 
+Financial leverage  
+3 : 1 
+4 : 1 
+Operating Leverage 
+2 : 1 
+3 : 1 
+Variable cost to sales   
+67% 
+50% 
+Interest 
+₹ 5,50,000 
+₹ 6,00,000 
+Income tax rate 
+30% 
+30% 
+ 
+Also CALCULATE EPS of the company. 
+(4 Marks) 
+(b) 
+The GT Limited is willing to expand its business for which it requires an 
+additional finance of ` 50,00,000. At present, the capital structure of the 
+company is as under: 
+• 
+7,00,000 Equity shares of  
+` 10 each 
+• 
+10% Debentures  
+ 
+`   63,00,000 
+• 
+12% Term loan  
+ 
+`   54,00,000 
+• 
+Retained earnings 
+ 
+` 1,30,00,000 
+ 
+At present, the company's EBIT is ` 54,00,000. However, the company, 
+after expansion, expects ROI 2% greater than the present ROI, Income 
+Tax Rate is 30%. 
+ 
+Following two options, for getting additional finance, are available- 
+(a)  To raise funds as term loan @ 12% 
+(b)  To raise funds by issuing 1,00,000 equity shares at ` 20 per share 
+and balance by issuing 11% debentures at par. 
+Required: 
+(i)  
+FIND out the market price of shares, if the P/E ratio is 10. 
+(ii)  RECOMMEND the suitable option of raising funds with reason. 
+ (6 Marks) 
+3.  
+(a) 
+EOC Ltd is a listed company and has presented the below abridged 
+financial statements below. 
+Statement of Profit and Loss 
+` 
+` 
+Sales 
+1,25,00,000  
+Cost of goods sold 
+(76,40,000)  
+Gross Profit 
+ 
+48,60,000  
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 6>>
+6 
+Less: Operating Expenses 
+Administrative Expenses 
+13,20,000  
+ 
+Selling and Distribution Expenses 
+15,90,000  (29,10,000) 
+Operating Profit 
+ 
+19,50,000  
+Add: Non Operating Income 
+3,28,000  
+Less: Non Operating Expenses 
+(1,27,000) 
+Profit before Interest and taxes 
+21,51,000  
+Less: Interest 
+(4,39,000) 
+Profit before tax 
+17,12,000  
+Less: Taxes 
+(4,28,000) 
+Profit after Tax 
+12,84,000  
+Balance Sheet 
+Sources of Funds 
+` 
+` 
+Owned Funds 
+Equity Share Capital 
+30,00,000  
+Reserves and Surplus 
+18,00,000  
+48,00,000  
+Borrowed Funds 
+ 
+Secured Loan 
+10,00,000  
+ 
+Unsecured Loan 
+4,30,000  
+14,30,000  
+Total Funds Raised 
+62,30,000  
+Application of Funds 
+ 
+ 
+Non-Current Assets 
+ 
+Building 
+7,50,000  
+ 
+Machinery 
+2,30,000  
+ 
+Furniture 
+7,60,000  
+ 
+Intangible Assets 
+50,000  
+17,90,000  
+Current Assets 
+ 
+Inventory 
+38,60,000  
+ 
+Receivables 
+39,97,000  
+ 
+ST investments 
+3,00,000  
+ 
+Cash and Bank  
+2,30,000  
+83,87,000  
+Less: Current Liabilities 
+ 
+Creditors 
+25,67,000  
+ 
+ST loans 
+13,80,000  (39,47,000) 
+Total Funds Employed 
+62,30,000 
+ 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 7>>
+7 
+ 
+The company has set certain standards for the upcoming year financial 
+status. 
+ 
+All the ratios are based on closing figures in financial statements. 
+Equity SC to Reserves= 
+1 
+Net Profit Ratio= 
+15% 
+Gross Profit Ratio= 
+50% 
+Long Term Debt to Equity= 
+0.5 
+Debtor Turnover= 
+100 Days 
+Creditor Turnover (based on COGS)= 
+100 Days 
+ 
+  
+Inventory= 
+70% of Opening inventory 
+ 
+Cash Balance is assumed to remain same for next year 
+ 
+You are required to - 
+(1) 
+CALCULATE inventory turnover ratio in days for current year 
+(2)  CALCULATE receivables turnover ratio in days for current year 
+(3)  CALCULATE the projected receivables, inventory, payables and long 
+term debt 
+(8 Marks) 
+(b)  NAME the various financial instruments dealt with in the International 
+market.  
+ (2 Marks) 
+4.  
+(a) 
+WRITE short notes on Inter relationship between investment, financing 
+and dividend decisions.  
+(4 Marks) 
+(b) 
+DISCUSS the liquidity vs. profitability issue in management of working 
+capital. 
+    (4 Marks) 
+(c) 
+EXPLAIN the concept of discounted payback period. 
+(2 Marks) 
+OR 
+(c)  EXPLAIN the concept of Indian depository receipts.   
+ (2 Marks) 
+ 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 8>>
+8 
+INTERMEDIATE COURSE: GROUP II 
+PAPER 6B: STRATEGIC MANAGEMENT 
+1. 
+The question paper comprises two parts, Part I and Part II. 
+2. 
+Part I comprises case scenario based multiple choice questions (MCQs) 
+3. 
+Part II comprises questions which require descriptive type answers. 
+PART I – Case scenario based MCQs (15 Marks) 
+ 
+Question 1.(A) (Compulsory) 
+1. 
+(A) Café Delight, a thriving restaurant chain known for its unique blend of 
+Australian and Indian culinary experiences, embarked on a remarkable 
+journey from its humble beginnings as a small café in Australia to 
+becoming a renowned player in the Indian restaurant industry. This case 
+study digs into the strategic decisions and market dynamics that fueled 
+Café Delight's growth, highlighting its transition from a single café in 
+Powai, Mumbai, to a flourishing chain with a presence in five cities and 
+over 25 stores. It explores how Café Delight effectively leveraged social 
+media and adapted its pricing strategy to compete with global brands 
+while maintaining a healthy profit margin. 
+ 
+In 2005, Café Delight was founded in Melbourne, Australia, by a 
+passionate entrepreneur with a vision to bring the flavors of Australia 
+and India together. The first café established in Powai, Mumbai, received 
+accolades for its unique menu, blending Australian coffee culture with 
+Indian culinary traditions. Over the course of five years, Café Delight 
+expanded to three stores in Mumbai, driven by exceptional mouth 
+publicity, customer loyalty, and consistent quality. 
+ 
+As the social media landscape evolved, Café Delight recognized the 
+power of online platforms in reaching a wider audience. By effectively 
+utilizing social media and online marketing, Café Delight expanded its 
+presence to five cities across India and established over 25 stores. 
+Customer engagement through social media platforms enabled the 
+brand to create a strong and vibrant community, driving organic growth. 
+ 
+Café Delight's customer-centric approach involved continuously evolving 
+its menu to cater to the changing tastes and dietary preferences of its 
+patrons. By understanding the evolving needs of its customers, Café 
+Delight could offer personalized menu items, seasonal specials, and 
+dietary alternatives. This approach created a sense of loyalty and 
+engagement among customers, strengthening the brand's appeal. Not 
+just customers but High-power, low-interest stakeholders, including 
+regulatory authorities, were addressed with careful compliance and 
+adherence to industry standards. Low-power, high-interest stakeholders, 
+like potential customers and local communities, were engaged through 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 9>>
+9 
+targeted marketing campaigns and community involvement initiatives. 
+This meticulous stakeholder analysis allowed Café Delight to build and 
+maintain strong relationships with each group, effectively managing their 
+influence and impact on the brand. 
+ 
+With its expanding presence and increasing popularity, Café Delight 
+underwent a shift in its pricing strategy. It transitioned from a pocket-
+friendly pricing model to a skimming strategy, capitalizing on its unique 
+blend of Australian and Indian flavors to position itself as a premium 
+restaurant. Café Delight faced stiff competition from global brands 
+entering the Indian market but maintained a profit margin of 
+approximately 30% through menu engineering and targeted pricing. 
+ 
+In one of its kind, using strategic tools enabled Café Delight to identify 
+and act on opportunities while mitigating threats, contributing to its long-
+term success in the highly competitive restaurant industry. 
+ 
+Based on the above Case Scenario, answer the Multiple-Choice 
+Questions. 
+(i)  
+Café Delight effectively leveraged social media and adapted its 
+pricing strategy as it stepped into which phase of business life cycle 
+of operations? 
+(a) 
+Introduction Stage 
+(b) 
+Growth Stage 
+(c) 
+Maturity Stage 
+(d) 
+Decline Stage 
+(2 Marks) 
+(ii)  What stakeholder group did Café Delight engage through targeted 
+marketing campaigns and community involvement initiatives? 
+(a) 
+High-power, high-interest stakeholders 
+(b) 
+Low-power, low-interest stakeholders 
+(c) 
+Low-power, high-interest stakeholders 
+(d) 
+High-power, low-interest stakeholders  
+(2 Marks) 
+(iii)  What best describes Café Delight's initial expansion strategy when 
+it expanded from one café to three in Mumbai? 
+(a) 
+Aggressive price reduction 
+(b) 
+Leveraging customer loyalty and word-of-mouth publicity 
+(c) 
+Extensive online marketing 
+(d) 
+Embracing global branding strategies  
+(2 Marks) 
+ 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 10>>
+10 
+(iv)  At which level of strategic management does Café Delight's 
+transition from a pocket-friendly pricing model to a skimming 
+strategy fit?  
+(a) 
+Corporate level  
+(b) 
+Business level  
+(c) 
+Functional level  
+(d) 
+Operational level 
+(2 Marks) 
+(v)  What type of strategy did Café Delight use to differentiate itself from 
+competitors in the Indian restaurant industry? 
+(a) 
+Cost leadership strategy 
+(b) 
+Focused differentiation strategy 
+(c) 
+Cost focus strategy 
+(d) 
+Hybrid strategy  
+(2 Marks) 
+(B)  Compulsory Application Based Independent MCQs 
+(i)  
+Shamita joined GlobalX Consulting firm as an Analyst in financial 
+fraud mitigation. In her very first assignment she faced an integrity 
+dilemma where her subordinates had missed calling out a potential 
+financial risk which could impact the overall fraud rating of the 
+organisation. She quickly reached out to her seniors who 
+appreciated her diligence and immediately reported the same to 
+senior management. In this scenario which element, soft or hard, 
+is acting in favor of GlobalX?  
+(a)  Strategy  
+(b)  Systems  
+(c)  Shared Value  
+(d)  Staff 
+(2 Marks) 
+(ii)  Chocopo, an ice cream company run by Shri Shyam Kumar since 
+1985, now had its management change to his two daughters, who 
+came in and wanted to experiment with a lot of flavors. They 
+introduced 21 new flavors in a span of 6 months while not losing 
+out of 2 legendary flavors of their dad i.e. Stick Kulfi and Mango 
+Bar. After year 1 of operations, 9 out of the 21 flavors had to be 
+stopped, while 10 flavors were still kept, extending the 
+experimentation. The early sense from market was that they would 
+have to be stopped too, but the sisters decided to extend their 
+timelines. What category as per BCG Matrix would the 10 flavors 
+fall into? 
+(a)  Cash Cow  
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 11>>
+11 
+(b)  Dog  
+(c)  Question Mark  
+(d)  Star 
+(2 Marks) 
+(iii)  A company negotiating the best prices and quality from its suppliers 
+to add to customer’s delight is an example of?  
+ 
+(a) 
+Value Creation by improving primary activity 
+(b) 
+Value Creation by improving support activity 
+(c) 
+Competitive Advantage Creation 
+(d) 
+Stakeholder Management 
+(1 Mark) 
+PART II – Descriptive Questions (35 Marks) 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+1. 
+(a)  ABC retail chain regularly monitors consumer trends and supply chain 
+flexibility. The retail chain tracks consumer trends to adjust its offerings, 
+ensuring they meet customer needs. Simultaneously, it maintains a 
+flexible supply chain to respond swiftly to demand fluctuations. This 
+strategy enables ABC retail chain to anticipate market shifts and adapt 
+to them effectively, ensuring its competitiveness and customer 
+satisfaction. Which type of strategy is the retail chain employing?  
+ 
+(5 Marks) 
+(b) 
+A Mumbai-based conglomerate, PQR Ltd., has announced a major 
+restructuring of its business operations. The company has decided to 
+split its business into four separate units: Manufacturing, Retail, 
+Services, and Technology. Each unit will operate as a separate 
+business, with delegated responsibility for day-to-day operations and 
+strategy to the respective unit managers. Identify the organization 
+structure that PQR Ltd. has planned to implement. Discuss any four 
+attributes and the benefits the firm may derive by using this organization 
+structure. 
+ (5 Marks) 
+(c)  GreenThrift Inc., a sustainable clothing retailer, is experiencing a surge 
+in popularity due to the growing awareness of environmental issues 
+among consumers. The company specializes in selling second-hand 
+clothing and upcycled garments, offering an eco-friendly alternative to 
+traditional fast fashion. 
+ 
+A major concern for GreenThrift Inc. is the emergence of new 
+sustainable fashion brands in the market. These brands focus on using 
+organic and recycled materials, as well as ethical manufacturing 
+practices, which align with the values of environmentally conscious 
+consumers.  
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 12>>
+12 
+ 
+Identify and explain that competition from new sustainable fashion 
+brands falls under which category of Porter’s Five Forces Model for 
+Competitive Analysis? 
+(5 Marks) 
+2.  
+(a)  “Each organization must build its competitive advantage keeping in mind 
+the business warfare. This can be done by following the process of 
+strategic management.” Considering this statement, explain major 
+benefits of strategic management. 
+(5 Marks) 
+(b)  Reshuffle Corp is a company that manufactures and sells office furniture. 
+They offer a range of products, from desks and chairs to cabinets and 
+shelves. Recently, the company has been facing increased competition 
+from online retailers offering similar products at lower prices. 
+ 
+Analyzing the characteristics of products in the furniture industry, 
+discuss how Reshuffle Corp can differentiate its products to maintain a 
+competitive edge in the market.  
+     (5 Marks) 
+3.  
+(a)  EasyLife Corporation, a leading manufacturer of consumer electronics, 
+is considering launching a new line of smart home devices. As a strategic 
+manager, conduct a SWOT analysis for EasyLife Corporation to assess 
+the feasibility and potential success of this new venture. Consider both 
+internal and external factors that could impact the success of the new 
+product line. 
+ (5 Marks) 
+(b)  Explain the concept of forward and backward linkages between strategy 
+formulation and implementation in strategic management, using relevant 
+examples. How do these linkages impact the overall strategic decision-
+making process of an organization? 
+(5 Marks) 
+4.  
+(a)  Define Strategic Performance Measures (SPM). Explain various types of 
+strategic performance measures. 
+(5 Marks) 
+(b)  StarTech Solutions, an aerospace technology firm, operates in a highly 
+competitive industry. Despite the fierce competition in the aerospace 
+sector, StarTech has carved out a niche for itself by focusing on serving 
+unique, high-end clients. Unlike its competitors, StarTech has chosen 
+not to diversify its target market and instead specializes in providing 
+cutting-edge solutions to this niche market. 
+ 
+Identify and explain the strategy adopted by StarTech Solutions. Discuss 
+the advantages and disadvantages of this strategy. 
+OR 
+ 
+Strategic alliances are formed if they provide an advantage to all the 
+parties in the alliance. Do you agree? Explain in brief the advantages of 
+a strategic alliance.  
+(5 Marks) 
+ 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com

@@ -1,0 +1,1318 @@
+<<PAGE 1>>
+1 
+Mock Test Paper - Series I: March 2026 
+Date of Paper: 27th March, 2026 
+Time of Paper: 10 A.M. – 1 P.M. 
+ 
+INTERMEDIATE: GROUP – II 
+PAPER – 6: FINANCIAL MANAGEMENT & STRATEGIC MANAGEMENT 
+PAPER 6A : FINANCIAL MANAGEMENT 
+Suggested Answers/ Hints 
+DIVISION A 
+Case Scenario 1 
+1.  
+(c) 
+Ke = 12%, 
+2.  
+(d) 
+Kd = 6% 
+ 
+Working Note: 
+ 
+Let the cost of equity be ‘X’ and cost of debt be ‘Y’ 
+WACC under BV 
+Item 
+Cost 
+Weight 
+Product 
+Equity 
+X 
+20 Lakhs /30 Lakhs = 2/3 
+2X
+3 
+Debt 
+Y 
+10 Lakhs /30 Lakhs = 1/3 
+Y
+3 
+ 
+ 
+1 
+10%  
+10  
+= 
+2X
+3 + 
+Y
+3 
+30  
+= 2X + Y 
+ 
+….(1) 
+WACC under MV 
+Item 
+Cost 
+Weight 
+Product 
+Equity 
+X 
+60 Lakhs /80 Lakhs = 3/4 
+3X
+4 
+Debt 
+Y 
+20 Lakhs /80 Lakhs = 1/4 
+Y
+4 
+ 
+ 
+1 
+10.5%  
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 2>>
+2 
+10.5  = 
+3X
+4 + 
+Y
+4 
+42  
+= 3X + Y 
+ 
+….(2) 
+By Solving both equations  
+42  
+= 3X + Y 
+30  
+= 2X + Y 
+Cost of equity (X)   = 12% 
+Substituting in Equation 1, 
+30 
+ 
+ 
+ = 24 + Y 
+Cost of Debt  (Y)  
+ = 6% 
+3.  
+(c)  
+` 1.14 lakhs 
+Statement Showing Calculation of Cash Inflows 
+Particulars 
+Year 1 
+Year 2 
+Year 3 
+Cash Inflows (before dep & tax) 
+8.00 
+9.00 
+10.00 
+Less: Depreciation 
+6.00 
+6.00 
+6.00 
+Profit Before Tax (PBT) 
+2.00 
+3.00 
+4.00 
+Less: Tax @ 25% 
+0.50 
+0.75 
+1.00 
+Profit After Tax (PAT) 
+1.50 
+2.25 
+3.00 
+Add: Depreciation 
+6.00 
+6.00 
+6.00 
+Operating Cash Flow 
+7.50 
+8.25 
+9.00 
+Add: Salvage Value 
+– 
+– 
+2.00 
+Add: Working Capital Recovery 
+– 
+– 
+3.00 
+Total Cash Inflow 
+7.50 
+8.25 
+14.00 
+Investment rate = (6% / 0.75) + 2% = 10% 
+Statement showing calculation of PV 
+Year 
+CF 
+PV Factor @ 10% 
+PV (` in lakhs)  
+0 
+23 
+1 
+23 
+1 
+7.50 
+0.909 
+6.82 
+2 
+8.25 
+0.826 
+6.81 
+3 
+14.00 
+0.751 
+10.51 
+NPV 
+ 
+ 
+1.14 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 3>>
+3 
+4.  
+(a)  
+1.05 
+ 
+Profitability Index (PI) = 
+Sum of discounted cash in flows 
+Initial cash outlay or Total discounted cash outflow (as the case may)
+ 
+ 
+ 
+ 
+ 
+  = 24.14 / 23 
+ 
+ 
+ 
+ 
+  = 1.05 (approx) 
+5.  
+(d)  
+2.89 years 
+Year Discounted cash inflows 
+Cumulative Discounted cash inflows 
+1 
+6.82 
+6.82 
+2 
+6.81 
+13.63 
+3 
+10.51 
+24.14 
+ 
+ 
+Discounted Payback Period = 2 years + 
+
+
+
+
+
+23-13.63
+10.51
+ = 2.89 years 
+6.  
+(b)  
+1.25 
+ 
+Capital gearing ratio = 
+(Pref share capital + Debentures + Other borrowed funds)
+Equity Share Capital + Reserves and Surplus - Losses 
+ 
+ 
+ 
+ 
+= ` 25 lakhs + ` 50 lakhs + ` 15 lakhs
+` 48 lakhs + ` 24 lakhs
+  
+ 
+ 
+ 
+= ` 90 lakhs / ` 72 lakhs = 1.25 
+7.  
+(a) 
+` 1,200 
+ 
+As per Walter’s Model, Price per share is computed using the formula: 
+ 
+Price (P)    =     
+D+ r
+Ke(E-D)
+Ke
+ 
+ 
+Where,  
+ 
+E = Earnings per share. 
+ 
+D = Dividend per share. 
+ 
+Ke = Cost of equity/ rate of capitalization/ discount rate. 
+ 
+r = Internal rate of return/ return on investment 
+ 
+Price  
+P    =     
+45 + 0.20  
+0.17 (180-45)
+0.17
+ 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 4>>
+4 
+ 
+Or,  
+P    =     45 + 158.82
+0.17
+ = ` 1,200 (approx.) 
+8.  
+(c)  
+ROI is greater than interest on loan funds and hence it has favourable 
+financial leverage. 
+ 
+EBIT = 75,00,000 - 42,00,000 - 6,00,000 = 27,00,000,  
+ 
+ROI 
+= 27,00,000/(45,00,000 + 55,00,000) = 27%,  
+ 
+Rate of Interest lower than Return on investment.  
+ 
+ 
+Therefore, there is favourable leverage. 
+Division B: Descriptive Question 
+1. 
+(a)  
+(i)  
+Operating Expenses 
+Net Profit = 8% on Sales 
+= 8% x ` 3,60,00,000 
+` 28,80,000 
+Add: Income Tax = 40% x ` 28,80,000/60% 
+` 19,20,000 
+Profit Before tax  
+` 48,00,000 
+Add: Debenture Interest  
+` 3,36,000 
+Profit before interest and tax 
+` 51,36,000 
+Sales  
+` 3,60,00,000 
+Less: 
+ 
+Cost of goods sold ` 1,44,00,000 
+Profit before interest & tax ` 51,36,000 
+ 
+` 1,95,36,000 
+Operating Expenses  
+` 1,64,64,000 
+(ii)  
+Share Capital and Reserves 
+ 
+Return on Net worth is 30%, hence profit after tax of `28,80,000 is 
+equivalent to 30% of Net Worth. 
+ 
+Net worth x 30/100  
+ 
+ 
+= ` 28,80,000 
+ 
+Net Worth  
+ 
+ 
+ 
+= 28,80,000 x 100/30  
+ 
+ 
+ 
+ 
+ 
+ 
+= ` 96,00,000 
+ 
+Ratio of Share Capital to Reserves  
+= 6:4 
+ 
+Share Capital  
+ 
+ 
+= ` 96,00,000 x 6/10 = ` 57,60,000 
+ 
+Reserves  
+ 
+ 
+ 
+= ` 96,00,000 x 4/10 = ` 38,40,000 
+ 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 5>>
+5 
+(iii)  
+Closing Stock  
+ 
+Inventory Turnover (based on cost of goods sold) = 12 
+ 
+Cost of goods sold  
+ 
+ 
+ 
+   = ` 1,44,00,000 
+ 
+Inventory Turnover Ratio  
+= Cost of goods sold / Closing Stock = 12 
+ 
+ 
+ 
+12 
+ 
+= ` 1,44,00,000/Closing Stock 
+ 
+Therefore, Closing Stock  
+= ` 1,44,00,000/12 
+ 
+ 
+ 
+ 
+ 
+= ` 12,00,000 
+(iv)  
+Fixed Assets 
+ 
+Calculation of Total liabilities  
+ 
+Interest on 14 % Debentures  = ` 3,36,000 
+ 
+Therefore debentures   
+= 
+` 3,36,000 x 100
+14%
+ 
+ 
+ 
+ 
+ 
+ 
+= ` 24,00,000 
+ 
+Total of Liabilities Side 
+Share Capital  
+` 57,60,000 
+Reserves  
+` 38,40,000 
+Debentures 
+` 24,00,000 
+Sundry Creditors 
+` 16,00,000 
+Total Liabilities  
+` 1,36,00,000 
+ 
+Current Ratio  
+ 
+ 
+= 2:1 
+ 
+Sundry Creditors  
+ 
+ 
+= ` 16,00,000 
+ 
+Current Assets / Current Liabilities  
+= 2 
+ 
+Current Assets / Sundry Creditors  
+= 2 
+ 
+Current Assets /`16,00,000  
+ 
+= 2 
+ 
+Current Assets  
+ 
+ 
+= 2 x ` 16,00,000 
+ 
+ 
+ 
+ 
+ 
+ 
+= ` 32,00,000 
+ 
+Fixed Assets  
+ 
+ 
+= Total Liabilities – Current Assets 
+ 
+ 
+ 
+ 
+ 
+ 
+= ` 1,36,00,000 - ` 32,00,000 
+ 
+ 
+ 
+ 
+ 
+ 
+= ` 1,04,00,000 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 6>>
+6 
+ 
+(b) 
+(i)  
+According to CAPM  
+ 
+Rs  
+= Rf + Beta x RP 
+ 
+15.20  = Rf + 1.2Rp  
+…..(1) 
+ 
+12.80  = Rf + 0.8Rp  
+…..(2) 
+ 
+By solving, 0.4Rp = 2.4. 
+ 
+So Risk Premium = 6% 
+ 
+Substituting in Eqn. 1   
+ 
+15.20  = Rf + 1.2*6% 
+ 
+Rf  
+= 15.20 – 7.20 = 8% 
+ 
+Hence, Risk Free Return = 8% 
+ 
+Rp  
+ = Rm – Rf  
+ 
+6  
+ = Rm – 8% 
+ 
+Rm   = 14% 
+ 
+Rs (C Ltd.) = 8% + 1.1 x 6% = 14.6% 
+Security 
+Beta 
+CAPM Return 
+A Ltd 
+1.2 
+15.20% 
+B Ltd 
+0.8 
+12.80% 
+C Ltd 
+1.1 
+14.60% 
+Cash in hand 
+0 
+Nil 
+Treasury Bill 
+0 
+8.00% 
+Stock Market (Nifty) 
+1 
+14.00% 
+(ii) 
+Risk-averse investors may prefer securities with low Beta (<1) i.e. B Ltd. 
+Aggressive investors may choose high Beta (>1) securities for higher 
+potential returns i.e. A or C Ltd. 
+(c)  
+Option I : Purchase Machinery and Service Part at the end of Year 1.  
+Net Present value of cash flow @ 10% per annum discount rate. 
+NPV   =
+3
+3
+2
+(1.1)
+12,500
+ 
+ 
+(1.1)
+10,000
+ 
+ 
+(1.1)
+18,000
+ 
+ 
+(1.1)
+18,000
+ 
+ 
+(1.1)
+18,000
+ 
+ 
+50,000
++
+−
++
++
++
+−
+ 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 7>>
+7 
+ 
+ = − 50,000 + 18,000 (0.9091 + 0.8264 + 0.7513) – (10,000 × 0.9091) +  
+    (12,500 × 0.7513) 
+ 
+ = − 50,000 + (18,000 × 2.4868) – 9,091 + 9,391 
+ 
+ = − 50,000 + 44,762 – 9,091 + 9,391 
+NPV    = − 4,938 
+ 
+Since, Net Present Value is negative; therefore, this option is not to be considered. 
+If Supplier gives a discount of ` 5,000 then,  
+NPV = +5,000 – 4,938 = + 62 
+ 
+In this case, Net Present Value is positive but very small; therefore, this option 
+may not be advisable.  
+Option II : Purchase Machinery and Replace Part at the end of Year 2. 
+NPV  =
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2
+3
+2
+4
+18,000
+18,000
+18,000
+15,400
+27,000
+50,000
+(1.1)
+(1.1)
+(1.1)
+(1.1)
+(1.1)
+−
++
++
++
+−
++
+ 
+ 
+= − 50,000 + 18,000 (0.9091 + 0.8264 + 0.7513) – (15,400 × 0.8264) + 
+    (27,000 × 0.6830) 
+ 
+= − 50,000 + 18,000 (2.4868) – (15,400 × 0.8264) + (27,000 × 0.6830) 
+ 
+= − 50,000 + 44,762 – (15,400 × 0.8264) + (27,000 × 0.6830) 
+ 
+= − 50,000 + 44,762 – 12,727+ 18,441 
+ 
+= − 62,727+ 63,203 = +476 
+ 
+Net Present Value is positive, but very low as compared to the investment.  
+ 
+If the Supplier gives a discount of ` 5,000, then 
+ 
+NPV = 5,000 + 476 = 5,476 
+ 
+Decision: Option II is worth investing as the net present value is positive 
+and higher as compared to Option I. 
+2. 
+(a)  
+Market Value of Equity = ` 25,00,000 
+Ke = 21% 
+e
+Net income (NI) for equity -holders 
+K
+ 
+= Market Value of Equity 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 8>>
+8 
+Net income (NI) for equity holders 
+0.21
+ 
+= 25,00,000 
+Net income for equity holders  
+= 5,25,000 
+EBIT= 5,25,000/0.7  
+ 
+= 7,50,000 
+ 
+All Equity  Debt and Equity 
+EBIT 
+7,50,000 
+7,50,000 
+Interest to debt-holders 
+- 
+75,000 
+EBT 
+7,50,000 
+6,75,000 
+Taxes (30%) 
+2,25,000 
+2,02,500 
+Income available to equity shareholders 
+5,25,000 
+4,72,500 
+Income to debt holders plus income 
+available to shareholders 
+5,25,000 
+5,47,500 
+Present value of tax-shield benefits = ` 5,00,000 × 0.30 = ` 1,50,000 
+(i) 
+Value of Restructured firm 
+ 
+= ` 25,00,000 + ` 1,50,000  
+= ` 26,50,000 
+(ii) 
+Cost of Equity (Ke) 
+ 
+Total Value   
+= ` 26,50,000 
+ 
+Less: Value of Debt  = ` 5,00,000 
+ 
+Value of Equity  
+= ` 21,50,000 
+ 
+Ke  = 4,72,500 
+21,50,000  
+= 0.219  = 21.98% 
+(iii)  
+WACC (on market value weight) 
+ 
+Cost of Debt (after tax) = 15% (1- 0.3) = 0.15 (0.70) = 0.105 = 10.5% 
+Components 
+of Costs 
+Amount 
+Cost of Capital 
+(%) 
+Weight 
+WACC 
+(%) 
+Equity 
+21,50,000 
+21.98 
+0.81 
+17.80 
+Debt 
+5,00,000 
+10.50 
+0.19 
+2.00 
+ 
+26,50,000 
+ 
+ 
+19.80 
+ 
+Comment: At present the company is all equity financed. So, Ke = Ko i.e. 21%. 
+However, after restructuring, the Ko would be reduced to 19.80% and Ke would 
+increase from 21% to 21.98%. 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 9>>
+9 
+ 
+(b)  
+(i)  
+ROI   
+= EBIT/Investment 
+ 
+EBIT  
+= Sales - VC – FC 
+ 
+ 
+ 
+= ` 1,50,00,000 – 84,00,000 – 12,00,000  
+ 
+ 
+ 
+= ` 54,00,000 
+ 
+ROI   
+= ` 54,00,000/` 2,00,00,000 = 27% 
+(ii) 
+Operating Leverage = 
+EBIT
+Contribution
+`
+`
+66,00,000
+= 
+ = 1.222 times 
+54,00,000
+ 
+ 
+ 
+ 
+Financial Leverage 
+= EBT
+EBIT  
+   
+`
+`
+54,00,000
+= 
+ = 1.2 times 
+45,00,000
+ 
+(iii) 
+Combined Leverage  = OL × FL = 1.222 × 1.2 = 1.466 times. 
+(iv) 
+Operating Leverage  = 1.222  
+ 
+ 
+ 
+ 
+1/ 3
+Δ EBIT
+1.222   = 
+  
+ 
+ 
+ 
+ 
+=
+Δ EBIT   0.4074 
+ 
+New EBIT 
+ 
+= ` 54,00,000 – 40.74% of 54,00,000  
+  
+ 
+ 
+ 
+= ` 32,00,000 
+3.  
+(i)  
+(a)  
+Total cost involved in the collection would include bad debts, cash discount 
+& administration cost i.e. Cost of Carrying debtors 
+WN – 1 Calculation of Bad debts: 
+= 4,06,500 x 1.5% + 5,21,200 x 3% + 2,00,000 x 15% 
+= 6,098 + 15,636 + 30,000 
+= ` 51,734 
+WN – 2 Calculation of Cash Discount: 
+= (9,94,100 x 50%) x 2% = ` 9,941 
+ 
+WN – 3 Calculation of Interest Income charged on account of delayed 
+payment: 
+ 
+Amount 
+Total Invoice value for 31 – 60 days 
+4,06,500 
+Less:  Bad debts @ 1.5% 
+(6,098) 
+ 
+4,00,402 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 10>>
+10 
+40% of above (payment after 45th day but within 60th day) 
+1,60,161 
+Interest @ 2% (160161 x 2%) 
+3,203 
+ 
+ 
+Amount 
+Total Invoice value for 61 – 90 days 
+5,21,200 
+Less:  Bad debts @ 3% 
+(15,636) 
+ 
+5,05,564 
+25% of above (payment after 75th day but within 90th day) 
+1,26,391 
+Interest @ 4% (126391 x 4%) 
+5,056 
+∴ Total Interest Income = 3,203 + 5,056 = ` 8,259 
+Operating Cost of Sales = 21,21,800 x 0.75 = ` 15,91,350 
+Effective Cost of Debtors Policy  
+= 
+Bad debts  +  Cash discount  +  Administration Cost - Interest Charged Received
+Operating Cost of Sales 
+  
+= 
+51,734 + 9,941 + 50,000 - 8,259
+15,91,350 
+   
+∴ Effective Cost of Debtors Policy = 6.50% 
+Notes -   
+i. 
+In absence of information on Opportunity Rate of return on 
+Investment, Opportunity Cost of Investment in receivables is not 
+calculated. 
+(ii)  
+There are basically three aspects of management of receivables: 
+1. 
+Credit Policy: A balanced credit policy should be determined for effective 
+management of receivables. Decision of Credit standards, Credit terms and 
+collection efforts is included in Credit policy.  It involves a trade-off between 
+the profits on additional sales that arise due to credit being extended on 
+the one hand and the cost of carrying those debtors and bad debt losses 
+on the other.  This seeks to decide credit period, cash discount and other 
+relevant matters.   
+2. 
+Credit Analysis: This requires the finance manager to determine as to how 
+risky it is to advance credit to a particular party. This involves due diligence 
+or reputation check of the customers with respect to their credit worthiness. 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 11>>
+11 
+3. 
+Control of Receivable: This requires finance manager to follow up debtors 
+and decide about a suitable credit collection policy.  It involves both laying 
+down of credit policies and execution of such policies. 
+4. 
+(a)  
+“The profit maximisation is not an operationally feasible criterion.” This statement 
+is true because Profit maximisation can be a short-term objective for any 
+organisation and cannot be its sole objective. Profit maximization fails to serve as 
+an operational criterion for maximizing the owner's economic welfare. It fails to 
+provide an operationally feasible measure for ranking alternative courses of action 
+in terms of their economic efficiency. It suffers from the following limitations: 
+(i) 
+Vague term: The definition of the term profit is ambiguous. Does it mean 
+short term or long term profit? Does it refer to profit before or after tax? 
+Total profit or profit per share? 
+(ii) 
+Timing of Return: The profit maximization objective does not make 
+distinction between returns received in different time periods. It gives no 
+consideration to the time value of money, and values benefits received 
+today and benefits received after a period as the same. 
+(iii) 
+It ignores the risk factor.                       
+(iv) 
+The term maximization is also vague.       
+(b)  
+Various types of Preference shares can be as below: 
+Sl. 
+No. 
+Type of Preference Shares Salient Features 
+1 
+Cumulative  
+Arrear Dividend will accumulate. 
+2 
+Non-cumulative 
+No right to arrear dividend. 
+3 
+Redeemable 
+Redemption should be done. 
+4 
+Participating 
+Can participate in the surplus which 
+remains 
+after 
+payment 
+to 
+equity 
+shareholders. 
+5 
+Non-Participating 
+Cannot participate in the surplus after 
+payment of fixed rate of Dividend. 
+6 
+Convertible 
+Option of converting into equity Shares. 
+(c)  
+A combination of low DOL and high DFL is considered the best balanced 
+combination of risk. 
+• 
+Low DOL indicates lower operating (business) risk and higher EBIT 
+• 
+High DFL indicates higher financial risk due to the use of debt.  
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 12>>
+12 
+ 
+This combination is suitable because the Higher financial risk is balanced by lower 
+total business risk, resulting in a moderate and well-balanced total risk. 
+OR 
+ 
+(c)  
+1. 
+Managers first choice is to use internal finance. 
+2. 
+In absence of internal finance, they can use secured debt, unsecured debt, 
+hybrid debt etc. 
+3. 
+Managers may issue new equity shares as a last option. 
+ 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 13>>
+13 
+PAPER 6B: STRATEGIC MANAGEMENT 
+ANSWERS 
+PART I 
+1. (A) 
+(i)  
+(c) 
+(ii) 
+(b) 
+(iii)  
+(c) 
+(iv)  
+(b) 
+(v)  
+(c) 
+    (B) 
+(i)  
+(b) 
+(ii) 
+(c) 
+(iii)  
+(c) 
+ 
+ 
+ 
+ 
+ 
+PART II PART II – Descriptive Questions  
+1.  
+(a) The strategic analyst can use Strategic Group Mapping to analyse the competitive 
+positioning of smartphone companies based on price range and product 
+features as follows: 
+Steps to use Strategic Group Mapping: 
+1. 
+Identify key variables: Select relevant competitive dimensions such as 
+price (low to high) and product features (basic to advanced).  
+2. 
+Plot companies on a graph: Position each smartphone company on a 
+two-dimensional map using these variables.  
+3. 
+Form strategic groups: Companies with similar strategies (e.g., high 
+price–high features or low price–basic features) will cluster together 
+forming strategic groups.  
+4. 
+Represent market share: The size of each group (circle) may indicate the 
+market share of firms within that group.  
+Insights derived from the map: 
+• 
+Helps in understanding the competitive positioning of firms in the 
+industry.  
+• 
+Identifies direct competitors within the same strategic group.  
+• 
+Reveals market gaps or opportunities (e.g., underserved segments).  
+• 
+Highlights mobility barriers between groups (e.g., difficulty in moving from 
+low-end to premium segment).  
+• 
+Assists in analysing the intensity of competition within and across 
+groups.  
+ 
+Thus, Strategic Group Mapping provides a visual and analytical tool for better 
+strategic decision-making in the smartphone industry. 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 14>>
+14 
+(b)  
+PQR Ltd. has planned to implement the Strategic Business Unit (SBU) structure. 
+Very large organisations, particularly those running into several products, or 
+operating at distant geographical locations that are extremely diverse in terms of 
+environmental factors, can be better managed by creating strategic business 
+units. SBU structure becomes imperative in an organisation with an increase in 
+number, size and diversity.  
+ 
+The attributes of an SBU and the benefits a firm may derive by using the SBU 
+Structure are as follows: 
+♦ 
+A scientific method of grouping the businesses of a multi – business 
+corporation which helps the firm in strategic planning. 
+♦ 
+An improvement over the territorial grouping of businesses and strategic 
+planning based on territorial units. 
+♦ 
+Strategic planning for SBU is distinct from rest of businesses. Products/ 
+businesses within an SBU receive same strategic planning treatment and 
+priorities. 
+♦ 
+Each SBU will have its own distinct set of competitors and its own distinct 
+strategy. 
+♦ 
+The CEO of SBU will be responsible for strategic planning for SBU and its 
+profit performance. 
+♦ 
+Products/businesses that are related from the standpoint of function are 
+assembled together as a distinct SBU. 
+♦ 
+Unrelated products/ businesses in any group are separated into separate 
+SBUs. 
+♦ 
+Grouping the businesses on SBU lines helps in strategic planning by 
+removing the vagueness and confusion. 
+♦ 
+Each SBU is a separate business and will be distinct from one another on 
+the basis of mission, objectives etc.   
+(c)  
+The strategy adopted by GreenHarvest Foods is Diversification. Diversification 
+refers to a growth strategy where a company introduces new products in new 
+markets. In the given case, GreenHarvest Foods is entering international 
+markets (new markets) and simultaneously offering region-specific organic 
+products (new products) tailored to local tastes and preferences. 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 15>>
+15 
+ 
+This indicates that the company is not only expanding geographically but also 
+modifying and innovating its product offerings to suit different customer segments 
+across countries. 
+ 
+Diversification is considered the most risky strategy in Ansoff’s Product-Market 
+Growth Matrix as it involves operating in unfamiliar markets and dealing with new 
+customer preferences, regulatory environments, and competitive dynamics. 
+However, it also offers high growth potential by creating new revenue streams 
+and reducing dependence on existing markets. Thus, GreenHarvest Foods’ 
+approach clearly reflects a diversification strategy. 
+2.  
+(a)  
+Strategic Management is a dynamic process of formulation, implementation, 
+evaluation and control of strategies to realise the organisation’s strategic intent. 
+Strategic intent clarifies what the organisation wants to do and why it wants to do 
+it, which forms the basis of vision and mission statements. 
+ 
+A vision statement describes the organisation’s future aspirations and desired 
+position while a mission statement explains its present business scope, purpose, 
+goals and the means to achieve them. Together, they provide direction and 
+purpose in strategic planning. 
+ 
+Significance of Vision in Strategic Planning: 
+• 
+Provides a blueprint of where the organisation wants to be. 
+• 
+Aligns organisational efforts on a chosen path. 
+• 
+Creates enthusiasm and mould’s identity. 
+• 
+Clarifies aspirations in products, markets, customers and technology. 
+ 
+Significance of Mission in Strategic Planning: 
+• 
+Explains the reason for the firm’s existence. 
+• 
+Ensures unanimity of purpose and efficient resource use. 
+• 
+Standard for allocation and goal translation. 
+• 
+Gives distinct identity and direction. 
+• 
+Reflects present activities and ensures legitimacy. 
+ 
+Thus, a well-defined vision and mission provide clarity of purpose, direction for 
+growth and a framework for decision-making. Vision answers, “where we want to 
+go,” and mission answers “what business we are in and why we exist.” Together, 
+they form the philosophical base of strategy and guide the organisation toward 
+long-term success. 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 16>>
+16 
+(b)  
+The term business environment refers to all external factors, influences, or 
+situations that in some way affect business decisions, plans, and operations. 
+It is highly dynamic and continuously evolving. Organizational success depends 
+not only on its internal abilities but also on its relationship with the external 
+environment. 
+ 
+Interaction between Business and Environment: A close and continuous 
+interaction strengthens the business firm and enables effective utilization of 
+resources in the following ways: 
+i. 
+Determine opportunities and threats: The interaction between the 
+business and its environment would explain opportunities and threats to 
+the business. It helps to find new needs and wants of the consumers, 
+changes in laws, changes in social behaviours and tells what new products 
+the competitors are bringing in the market to attract consumers. 
+ii. 
+Give direction for growth: The interaction with the environment enables 
+the business to identify the areas for growth and expansion of their 
+activities. Once the business is aware and understands the changes 
+happening around, it can plan and strategies to have successful business. 
+iii. 
+Continuous Learning: The managers are motivated to continuously 
+update their knowledge, understanding and skills to meet the predicted 
+changes in the realm of business. 
+iv. 
+Image Building: Environmental understanding helps the business 
+organizations to improve their image by showing their sensitivity to the 
+environment in which they operate.  
+v. 
+Meeting Competition: It helps the businesses to analyse the competitors’ 
+strategies and formulate their own strategies accordingly. The idea is to 
+flourish and beat competition for its products and services. 
+3.  
+(a)  
+Key Strategic Drivers of an Organization 
+ 
+Strategic drivers are essential elements that influence an organization’s ability to 
+differentiate itself from its competitors and achieve competitive advantage. These 
+drivers assess the current performance of the business and provide insights into 
+areas that need focus. The key strategic drivers include: 
+1. 
+Industry and Markets: Understanding the industry and markets is crucial 
+for identifying the organization’s relative position. Industries group similar 
+companies based on their primary products, while markets are defined by 
+the buyers and sellers of these products. Analyzing industry and market 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 17>>
+17 
+dynamics, often through tools like strategic group mapping, helps 
+organizations evaluate competition and refine strategies. 
+2. 
+Customers: Identifying and understanding customers is a critical driver. 
+Customers are segmented based on their needs and spending capacity, 
+which 
+guides 
+product 
+development 
+and 
+marketing 
+strategies. 
+Differentiating between customers (buyers) and consumers (users) is vital 
+to tailoring pricing, design, and usability strategies effectively. 
+3. 
+Products and Services: Products and services are central to defining the 
+business. Organizations must assess their offerings, classify products, and 
+devise strategies for differentiation, branding, and pricing. Product 
+innovation and marketing are key to maintaining competitiveness. 
+4. 
+Channels: The channels through which products and services are 
+delivered impact on accessibility and customer satisfaction. Strategies 
+related to direct, digital, or relationship-based marketing ensure the 
+efficient distribution of offerings to target customers. 
+ 
+By aligning these drivers with organizational goals, businesses can achieve 
+sustained growth and maintain a competitive edge.  
+(b)  
+Internationalization has become a pivotal trend for businesses aiming to enhance 
+profitability and access cheaper resources. It allows companies to explore new 
+markets, achieve economies of scale, and prolong product lifecycles. 
+However, the process of internationalization is complex due to additional variables 
+and linkages that differ from domestic operations.  
+ 
+To navigate this complexity, businesses should adopt a structured approach to 
+international strategic planning. The steps involved include: 
+1. 
+Evaluate Global Opportunities and Threats: Businesses must assess 
+potential global markets, identifying opportunities and threats while aligning 
+them with their internal capabilities. 
+2. 
+Describe the Scope of Operations: Clearly defining the extent of the 
+firm's international commercial activities is crucial for focused strategy 
+development. 
+3. 
+Create Global Business Objectives: Establishing clear objectives helps 
+guide the organization’s international efforts and aligns with its overall 
+mission. 
+4. 
+Develop Distinct Corporate Strategies: Formulating specific strategies 
+tailored for global operations ensures that the organization can effectively 
+compete in diverse markets. 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 18>>
+18 
+ 
+These steps facilitate the identification of market opportunities and the formulation 
+of effective global strategies, enabling businesses to thrive in the international 
+arena despite the inherent challenges and costs associated with such expansion.  
+4.  
+(a)  
+The Ansoff’s Product Market Growth Matrix, developed by Igor Ansoff, is a 
+strategic tool that helps businesses identify growth opportunities by analyzing the 
+interplay between products and markets.  
+ 
+It offers four distinct strategies based on whether the products and markets are 
+existing or new. These strategies are: 
+1. 
+Market Penetration: Focuses on selling existing products in existing 
+markets. This involves increasing market share by enhancing sales through 
+advertising, promotions, competitive pricing, or encouraging higher usage 
+among current customers.  
+2. 
+Market Development: Entails selling existing products in new markets. 
+This could involve exploring new geographical regions, utilizing alternative 
+distribution channels, or creating new market segments.  
+3. 
+Product Development: Involves introducing new or modified products into 
+existing markets. This strategy often requires innovation and developing 
+products that meet current market needs.  
+4. 
+Diversification: Refers to marketing new products in new markets. It is a 
+high-risk strategy as the business ventures into unfamiliar products and 
+markets. 
+ 
+As market dynamics evolve, companies may transition between these strategies 
+to adapt and sustain growth. The matrix provides a structured framework for 
+businesses to align their growth strategies with their capabilities and market 
+conditions. 
+(b)  
+Strategic performance measures are essential for organizations for several 
+reasons: 
+♦ 
+Goal Alignment: Strategic performance measures help organizations 
+align their strategies with their goals and objectives, ensuring that they are 
+on track to achieve their desired outcomes. 
+♦ 
+Resource Allocation: Strategic performance measures provide 
+organizations with the information they need to make informed decisions 
+about resource allocation, enabling them to prioritize their efforts and 
+allocate resources to the areas that will have the greatest impact on their 
+performance. 
+CA Study Shop - Best Place to Buy Online CA Classes
+<<PAGE 19>>
+19 
+♦ 
+Continuous Improvement: Strategic performance measures provide 
+organizations with a framework for continuous improvement, enabling them 
+to track their progress and make adjustments to improve their performance 
+over time. 
+♦ 
+External Accountability: Strategic performance measures help 
+organizations demonstrate accountability to stakeholders, including 
+shareholders, customers, and regulatory bodies, by providing a clear and 
+transparent picture of their performance. 
+OR 
+ 
+Change management is essential during digital transformation to ensure the 
+success of the process. Here are some key strategies to navigate change 
+effectively: 
+• 
+Specify the digital transformation's aims and objectives: Clearly 
+defining the intended outcomes and objectives helps ensure everyone is 
+aligned and working towards the same goals. 
+• 
+Always communicate: Regular and transparent communication is crucial 
+to help people understand the goals of digital transformation and how it will 
+impact various stakeholders, including employees, clients, and other 
+parties. 
+• 
+Be ready for resistance: Change, even if beneficial, can be met with 
+resistance. Having a strategy in place to address resistance is important 
+for overcoming challenges and ensuring a smooth transition. 
+• 
+Implement changes gradually: Instead of making all changes at once, 
+gradual implementation allows individuals to adapt to new ways of doing 
+things without feeling overwhelmed by too much change simultaneously. 
+• 
+Offer assistance and training: Providing support, guidance, and training 
+for employees is crucial as they navigate new procedures, software 
+applications, and other aspects of digital transformation. 
+ 
+In conclusion, meticulous planning and effective change management are vital for 
+the successful completion of digital transformation projects. Without proper 
+change management, these efforts are more likely to fail, and organizations can 
+enhance the integration of new digital systems by anticipating and managing the 
+necessary changes. 
+ 
+CA Study Shop - Best Place to Buy Online CA Classes

@@ -1,0 +1,1121 @@
+<<PAGE 1>>
+1 
+Mock Test Paper - Series II: August, 2026 
+Date of Paper: 19th August, 2026 
+Time of Paper: 10 A.M. to 1 P.M. 
+ 
+INTERMEDIATE: GROUP – II 
+PAPER – 6: FINANCIAL MANAGEMENT & STRATEGIC MANAGEMENT 
+PAPER 6A : FINANCIAL MANAGEMENT 
+Suggested Answers/ Hints 
+PART I – Case Scenario based MCQs 
+1. 
+(A) 
+Current Assets (2025–26) = Cash & Cash Equivalents + Accounts Receivable + 
+Inventories 
+ 
+= 212 + 4,200 + 4,500 = ` 8,912 thousand 
+ 
+Current Ratio = Current Assets ÷ Current Liabilities = 8,912 ÷ 5,560 = 1.60: 1 
+ 
+Quick Assets = Current Assets − Inventories = 8,912 − 4,500 = ` 4,412 thousand 
+ 
+Quick (Acid-test) Ratio = Quick Assets ÷ Current Liabilities = 4,412 ÷ 5,560  
+= 0.79: 1 
+2.  
+(C) 
+Receivable Turnover Ratio = Credit Sales ÷ Average Accounts Receivable 
+ 
+Average Accounts Receivable = (Opening + Closing) ÷ 2 = (3,000 + 4,200) ÷ 2 = 
+` 3,600 thousand 
+ 
+= 14,400 ÷ 3,600 = 4.00 times 
+ 
+Inventory Turnover Ratio = COGS ÷ Average Inventory 
+ 
+Average Inventory = (3,000 + 4,500) ÷ 2 = ` 3,750 thousand 
+ 
+= 9,600 ÷ 3,750 = 2.56 times 
+3.  
+(D) 
+Long-term Debt = Non-Current Borrowings = ` 5,000 thousand 
+ 
+Total Debt = Non-Current Borrowings + Current Liabilities = 5,000 + 5,560  
+= ` 10,560 thousand 
+ 
+Long-term Debt to Total Debt = (5,000 ÷ 10,560) × 100 = 47.35% 
+ 
+Shareholders' Equity = Equity Share Capital + Other Equity = 4,000 + 3,752  
+= ` 7,752 thousand 
+Downloaded from castudyweb.com
+<<PAGE 2>>
+2 
+ 
+Debt-to-Equity Ratio = (Long-term Debt ÷ Shareholders' Equity) × 100  
+= (5,000 ÷ 7,752) × 100 = 64.50% 
+4.  
+(D) 
+Net Profit Ratio = Profit After Tax ÷ Sales × 100 = 1,680 ÷ 16,000 × 100 = 10.5% 
+ 
+Return on Total Assets = Profit After Tax ÷ Total Assets × 100 = 1,680 ÷ 18,312 
+× 100 = 9.17% 
+5.  
+(B)  
+Interest Coverage Ratio = EBIT ÷ Interest = (PBT + Interest) ÷ Interest  
+= (2,400 + 680) ÷ 680 = 3,080 ÷ 680 = 4.53 times. A ratio of 4.53 times, well below 
+the industry norm of 10 times, means earnings cover interest obligations with a 
+much thinner margin than peers. Combined with a Debt-to-Equity Ratio of 64.50% 
+(industry average 35%), the company is both more leveraged than its peers and 
+less able to comfortably service that debt from operating earnings. For a loan 
+officer, this combination rising leverage and weakening debt-servicing capacity is 
+the key red flag in the proposal, not a reason for automatic approval. 
+6. 
+(A)  
+` 11,20,000 
+ 
+Incremental Initial Cash Outlay = Cost of machine + Shipping & Installation 
+= ` 10,95,000 + ` 25,000 
+= ` 11,20,000 
+7.  
+(C)  
+9.533% 
+ 
+Weighted Average Cost of Capital (WACC) 
+ 
+After-tax Cost of Debt: 
+10% × (1 - 0.32) = 6.8% 
+WACC = 1
+3 (15%) + 2
+3 (6.8%) 
+= 5% + 4.533% = 9.533% 
+8.  
+(D)  
+Generally lower than the before-tax cost of debt. 
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 3>>
+3 
+PART II – Descriptive Questions 
+1. 
+(a)  
+Evaluation of Credit Policies 
+Particulars 
+Present Policy (`) 
+Proposed Policy (`) 
+Credit Sales 
+20,00,000 
+23,00,000 (115% of 
+20,00,000) 
+Variable Cost (75%) 
+(15,00,000) 
+(17,25,000) 
+Contribution 
+5,00,000 
+5,75,000 
+Bad Debts 
+(30,000) (20,00,000  
+× 1.5%) 
+(57,500) (23,00,000  
+× 2.5%) 
+Profit Before Tax (PBT) 
+4,70,000 
+5,17,500 
+Tax @ 30% 
+(1,41,000) 
+(1,55,250) 
+Profit After Tax (PAT) 
+3,29,000 
+3,62,250 
+Opportunity 
+Cost 
+(Refer 
+working note) 
+(22,500) 
+(34,500) 
+Net Profit 
+3,06,500 
+3,27,750 
+ 
+In the proposed scheme the net profit is more by ` 21,250 i.e. (` 3,27,750 −  
+` 3,06,500), hence, the company should change the credit policy. 
+Working Note: 
+Opportunity Cost on Investment in Debtors: 
+ 
+Present policy = Variable Cost × (Collection period / 360) × Required rate of return 
+= 15,00,000 × 45
+360
+× 12% = ` 22,500 
+ 
+Proposed policy = 17,25,000 × 60
+360
+× 12% = ` 34,500 
+ 
+Assumptions: 
+(i)  
+Cash discount is not availed by the debtors. 
+(ii)  
+Debtors are utilising the full credit period for payment. 
+(iii)  
+Number of days in a year is 360 days. 
+ 
+Downloaded from castudyweb.com
+<<PAGE 4>>
+4 
+(b) 
+ 
+Number of equity shares (` 40,00,000 ÷ ` 100) 
+40,000 shares 
+Earnings per share, EPS (` 8,00,000 ÷ 40,000) 
+` 20.00 
+Dividend per share, DPS (` 4,80,000 ÷ 40,000) 
+` 12.00 
+Rate of return, r (` 8,00,000 ÷ ` 40,00,000) 
+20% 
+Cost of equity, Ke (inverse of P/E ratio = 1 ÷ 10) 
+10% 
+(i)  
+Is the Dividend Policy Optimal? 
+ 
+Walter's Model values a share as: 
+ 
+e
+e
+r
+D+
+(E-D)
+K
+P    =     
+K
+ 
+ 
+Substituting the values (D = ` 12, E = ` 20, r = 20%, Ke = 10%): 
+ 
+P  
+12+
+(20 -12)
+  =     
+0.20
+0.10
+0.10
+= ` 280.00 
+ 
+Since the firm's rate of return, r (20%), is greater than its cost of equity, Ke 
+(10%), it is a growth firm. For a growth firm, Walter's Model prescribes a 
+zero payout as the optimal policy. By retaining 100% of earnings, the value 
+of the share would be: 
+ 
+P  
+0+
+(20 - 0)
+  =     
+0.20
+0.10
+0.10
+= ` 400.00 
+ 
+Conclusion: Since r > Ke, the company is NOT following an optimal 
+dividend policy. Retaining the entire earnings (zero payout) would raise the 
+share value from ` 280 to ` 400. 
+(ii)  
+P/E Ratio at which Dividend Policy Has No Effect 
+ 
+Dividend policy becomes irrelevant to value only when Ke equals r, i.e.  
+Ke = 20%. The corresponding P/E ratio is: 
+ 
+P/E = 
+e
+=
+1
+1
+k
+0.20
+= 5 
+Downloaded from castudyweb.com
+<<PAGE 5>>
+5 
+ 
+Conclusion: At a P/E ratio of 5 (Ke = r = 20%), dividend policy will have 
+no effect on the value of the share. 
+(iii)  
+Effect of a Lower P/E Ratio (P/E = 4) 
+ 
+If the P/E ratio is 4, the cost of equity becomes: 
+ 
+Ke = 1
+4
+= 25% 
+ 
+Recomputing the share value with r = 20%, Ke = 25%, D = ` 12, E = ` 20 
+ 
+e
+e
+r
+D+
+(E-D)
+K
+P    =     
+K
+ 
+ 
+P
+0.20
+12+
+(20 -12)
+    =     
+0.25
+0.25
+= ` 73.60 
+ 
+Here, r (20%) is now less than Ke (25%) the firm has become a declining 
+firm. For a declining firm, Walter's Model prescribes a 100% payout as the 
+optimal policy, the opposite of the conclusion in part (i). 
+ 
+Conclusion: YES, the decision changes. With P/E = 4 (r < Ke), the optimal 
+policy reverses to full (100%) payout, instead of zero payout. 
+(c) 
+Statement Showing Computation of Cash Flow After Tax (CFAT) 
+Particulars 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Capacity Utilisation 
+50% 
+65% 
+80% 
+100% 
+100% 
+Units Produced 
+1,50,000 
+1,95,000 
+2,40,000 
+3,00,000 
+3,00,000 
+Contribution per Unit 
+(` 600 × 60%) 
+360 
+360 
+360 
+360 
+360 
+Total Contribution 
+(`) 
+5,40,00,000 7,02,00,000 8,64,00,000 10,80,00,000 10,80,00,000 
+Less: Fixed Cost (`) 2,00,00,000 3,50,00,000 5,00,00,000 5,00,00,000 5,00,00,000 
+Less: Depreciation 
+(`) (W.N.) 
+4,00,00,000 2,40,00,000 1,44,00,000 
+86,40,000 
+51,84,000 
+Profit Before Tax 
+(`) 
+(60,00,000) 1,12,00,000 2,20,00,000 4,93,60,000 5,28,16,000 
+Less: Tax @ 30% (`) (18,00,000) 
+33,60,000 
+66,00,000 1,48,08,000 1,58,44,800 
+Profit After Tax (`) 
+(42,00,000) 
+78,40,000 1,54,00,000 3,45,52,000 3,69,71,200 
+Downloaded from castudyweb.com
+<<PAGE 6>>
+6 
+Add: 
+Depreciation 
+(`) 
+4,00,00,000 2,40,00,000 1,44,00,000 
+86,40,000 
+51,84,000 
+Cash Flow After 
+Tax (`) 
+3,58,00,000 3,18,40,000 2,98,00,000 4,31,92,000 4,21,55,200 
+Statement Showing Computation of Net Present Value 
+Year 
+Description 
+Cash Flow  
+(`) 
+PVF 
+@12% 
+Present 
+Value (`) 
+0 
+Initial Investment 
+(10,00,00,000) 
+1.000 (10,00,00,000) 
+0 
+Working Capital Introduced 
+(1,50,00,000) 
+1.000 (1,50,00,000) 
+3 
+Additional Working Capital 
+(2,00,00,000) 
+0.7118 (1,42,36,000) 
+1 
+Cash Flow After Tax 
+3,58,00,000 
+0.8929 
+3,19,65,820 
+2 
+Cash Flow After Tax 
+3,18,40,000 
+0.7972 
+2,53,82,848 
+3 
+Cash Flow After Tax 
+2,98,00,000 
+0.7118 
+2,12,11,640 
+4 
+Cash Flow After Tax 
+4,31,92,000 
+0.6355 
+2,74,48,516 
+5 
+Cash Flow After Tax 
+4,21,55,200 
+0.5674 
+2,39,18,860 
+5 
+Working Capital Released 
+3,50,00,000 
+0.5674 
+1,98,59,000 
+5 
+Sale of Scrap 
+2,00,00,000 
+0.5674 
+1,13,48,000 
+ 
+Net Present Value 
+ 
+ 
+3,18,98,684 
+ 
+Working Note: Computation of Depreciation (WDV Method @ 40% p.a.) 
+Year 
+Opening WDV (`) Depreciation @ 40% (`) 
+Closing WDV (`) 
+1 
+10,00,00,000 
+4,00,00,000 
+6,00,00,000 
+2 
+6,00,00,000 
+2,40,00,000 
+3,60,00,000 
+3 
+3,60,00,000 
+1,44,00,000 
+2,16,00,000 
+4 
+2,16,00,000 
+86,40,000 
+1,29,60,000 
+5 
+1,29,60,000 
+51,84,000 
+77,76,000 
+ 
+The Net Present Value of the project works out to ` 3,18,98,684 (approximately  
+` 319 lakhs), which is positive and exceeds the ` 100 lakhs threshold set by 
+Secure Venture Capital Firm. Nova Green Mobility Ltd. is therefore in a position 
+to secure funding from Secure Venture Capital Firm for this project. 
+2. 
+(a)  
+Cost of equity for Vertex Industries Ltd. 
+Given: Rf = 5%, Rm = 10%, β = 2.0 
+Ke = Rf + β (Rm − Rf) 
+Downloaded from castudyweb.com
+<<PAGE 7>>
+7 
+Ke = 5% + 2.0 × (10% − 5%) 
+Ke = 5% + 2.0 × 5% 
+Ke = 5% + 10% = 15% 
+(b)  
+Cost of equity for Competitor A and Competitor B 
+Competitor A (β = 1.2): Ke = 5% + 1.2 × (10% − 5%) = 5% + 6% 
+Ke = 11% 
+Competitor B (β = 0.8): Ke = 5% + 0.8 × (10% − 5%) = 5% + 4% 
+Ke = 9% 
+Company 
+Beta (β) 
+Cost of Equity (Ke) 
+Vertex Industries Ltd. 
+2.0 
+15% 
+Competitor A 
+1.2 
+11% 
+Competitor B 
+0.8 
+9% 
+ 
+Vertex Industries (β = 2.0) has the highest cost of equity at 15%, indicating the 
+highest systematic (market-related) risk among the three firms.  
+(b)  
+Total Assets = ` 50 crores 
+ 
+Total Assets Turnover Ratio = Sales ÷ Total Assets = 3 
+ 
+Hence, Total Sales = 50 × 3 = ` 150 crores 
+ 
+Computation of Profit after Tax (PAT) 
+Particulars 
+` in crores 
+Sales 
+150.00 
+Less: Variable operating cost @ 60% 
+90.00 
+Contribution 
+60.00 
+Less: Fixed cost (other than interest) 
+10.00 
+EBIT (Earnings before interest and tax) 
+50.00 
+Less: Interest on debentures (12% × 25) 
+3.00 
+EBT (Earnings before tax) 
+47.00 
+Less: Tax @ 30% 
+14.10 
+EAT (Earnings after tax) 
+32.90 
+(i)  
+Earnings per Share 
+ 
+EPS = Earnings available to equity shareholders ÷ Number of equity shares 
+Downloaded from castudyweb.com
+<<PAGE 8>>
+8 
+ 
+EPS = 32.90 crores ÷ 1.20 crore shares = ` 27.42 
+(ii)  
+Operating Leverage 
+ 
+Operating Leverage = Contribution ÷ EBIT = 60 ÷ 50 = 1.20 
+ 
+An operating leverage of 1.20 shows that fixed costs form a modest part of 
+Sunrise Foods' cost structure. A 1% change in sales would change EBIT by 
+about 1.20%, so the company's operating profit is only mildly sensitive to 
+swings in sales volume. 
+(iii)  
+Financial Leverage 
+ 
+Financial Leverage = EBIT ÷ EBT = 50 ÷ 47 = 1.06 
+ 
+The financial leverage is quite low, indicating that Sunrise Foods' interest 
+burden is small compared to its operating profit, the debenture obligation is 
+well covered by EBIT, leaving the company financially comfortable. 
+(iv)  
+Combined Leverage 
+ 
+Combined Leverage = Operating Leverage × Financial Leverage = 1.20 × 1.06 
+= 1.28 
+ 
+A combined leverage of 1.28 means a 1% increase in sales would raise EPS 
+by roughly 1.28%, Sunrise Foods carries a moderate overall risk from the 
+combination of its fixed operating costs and its use of debt. 
+ 
+Together, the operating, financial and combined leverages give the board 
+a quick read on how sensitive the company's profits and shareholder 
+earnings are to changes in sales, which is useful context before deciding 
+on any further borrowing or capacity expansion. 
+3. 
+(a)  
+1. 
+The Debt option yields the higher EPS. Although the interest rate on debt 
+(8%) equals the dividend rate on preference shares (8%), and both raise 
+the identical amount of additional capital, the two are treated differently for 
+tax purposes: 
+• 
+Interest on debt is a charge against profit, it is deducted before 
+computing tax, so it earns a tax shield of (Interest × Tax Rate). 
+• 
+Preference dividend is an appropriation of profit, it is paid out of profit 
+after tax, so it earns no tax shield. 
+ 
+Because of this tax shield, the after-tax cost of debt is lower than the after-
+tax cost of preference capital, so more residual earning is left for equity 
+shareholders under the Debt optio, producing a higher EPS. 
+Downloaded from castudyweb.com
+<<PAGE 9>>
+9 
+2. 
+Existing Equity Share Capital (= Capital Employed) is taken as  
+` 10,00,000, with 1,00,000 shares in issue. 
+ 
+The EPS gap between Debt and Preference arises purely from the tax 
+shield on interest, and this relationship holds regardless of the size of the 
+existing equity base: 
+• 
+Incremental earnings from choosing Debt over Preference = Tax shield 
+on interest = X × 8% × 50% = 0.04X 
+• 
+Spread over the unchanged 1,00,000 shares: 
+0.04x
+= 0.10
+1,00,000
+ 
+⇒ 0.04X = ` 10,000  
+⇒ X = ` 10,000
+0.04
+= ` 2,50,000 
+• 
+EBIT = ROCE × Capital Employed = 31.25% × ` 10,00,000  
+= ` 3,12,500 
+• 
+Revenue = EBIT ÷ Operating Margin = ` 3,12,500 ÷ 31.25%  
+= ` 10,00,000 
+3.  
+New shares = Additional Funds ÷ Face Value = ` 2,50,000 ÷ ` 10 = 25,000 
+shares 
+ 
+Total shares after issue = 1,00,000 (existing) + 25,000 (new) = 1,25,000 
+shares 
+4. 
+Evaluation of alternative options 
+Particulars 
+Option 1 
+(Equity) 
+Option 2 
+(Debt) 
+Option 3 
+(Pref. 
+Shares) 
+Revenue (`) 
+10,00,000 10,00,000 10,00,000 
+EBIT (31.25% of Capital Employed) 
+(`) 
+3,12,500 
+3,12,500 
+3,12,500 
+Less: Interest (8% of ` 2,50,000) (`) 
+Nil 
+20,000 
+Nil 
+Earnings Before Tax (`) 
+3,12,500 
+2,92,500 
+3,12,500 
+Less: Tax @ 50% (`) 
+1,56,250 
+1,46,250 
+1,56,250 
+Earnings After Tax (`) 
+1,56,250 
+1,46,250 
+1,56,250 
+Less: Preference Dividend (8% of  
+` 2,50,000) (`) 
+— 
+— 
+20,000 
+Downloaded from castudyweb.com
+<<PAGE 10>>
+10 
+Earnings 
+available 
+to 
+equity 
+shareholders (`) 
+1,56,250 
+1,46,250 
+1,36,250 
+Number of Equity Shares 
+1,25,000 
+1,00,000 
+1,00,000 
+Earnings Per Share (EPS) 
+` 1.25 
+` 1.46 
+` 1.36 
+(b)  
+Financial Instruments in the International Market 
+ 
+Some of the various financial instruments dealt with in the international market are: 
+(a) 
+Euro Bonds 
+(b) 
+Foreign Bonds 
+(c) 
+Fully Hedged Bonds 
+(d) 
+Medium Term Notes 
+(e) 
+Floating Rate Notes 
+(f) 
+External Commercial Borrowings 
+(g) 
+Foreign Currency Futures 
+(h) 
+Foreign Currency Option 
+(i) 
+Euro Commercial Papers. 
+4.  
+(a)  
+Inter-relationship between Investment, Financing and Dividend Decisions: 
+The finance functions are divided into three major decisions, viz., investment, 
+financing and dividend decisions. It is correct to say that these decisions are inter-
+related because the underlying objective of these three decisions is the same, i.e. 
+maximisation of shareholders’ wealth. Since investment, financing and dividend 
+decisions are all interrelated, one has to consider the joint impact of these 
+decisions on the market price of the company’s shares and these decisions should 
+also be solved jointly. The decision to invest in a new project needs the finance 
+for the investment. The financing decision, in turn, is influenced by and influences 
+dividend decision because retained earnings used in internal financing deprive 
+shareholders of their dividends. An efficient financial management can ensure 
+optimal joint decisions. This is possible by evaluating each decision in relation to 
+its effect on the shareholders’ wealth. 
+ 
+The above three decisions are briefly examined below in the light of their inter-
+relationship and to see how they can help in maximising the shareholders’ wealth 
+i.e. market price of the company’s shares. 
+ 
+Investment decision: The investment of long term funds is made after a careful 
+assessment of the various projects through capital budgeting and uncertainty 
+analysis. However, only that investment proposal is to be accepted which is 
+expected to yield at least so much return as is adequate to meet its cost of 
+Downloaded from castudyweb.com
+<<PAGE 11>>
+11 
+financing. This have an influence on the profitability of the company and ultimately 
+on its wealth. 
+ 
+Financing decision: Funds can be raised from various sources. Each source of 
+funds involves different issues. The finance manager has to maintain a proper 
+balance between long-term and short-term funds. With the total volume of long-
+term funds, he has to ensure a proper mix of loan funds and owner’s funds. The 
+optimum financing mix will increase return to equity shareholders and thus 
+maximise their wealth. 
+ 
+Dividend decision: The finance manager is also concerned with the decision to 
+pay or declare dividend. He assists the top management in deciding as to what 
+portion of the profit should be paid to the shareholders by way of dividends and 
+what portion should be retained in the business. An optimal dividend pay-out ratio 
+maximises shareholders’ wealth. 
+ 
+The above discussion makes it clear that investment, financing and dividend 
+decisions are interrelated and are to be taken jointly keeping in view their joint 
+effect on the shareholders’ wealth.  
+(b) 
+Liquidity versus Profitability Issue in Management of Working Capital: 
+Working capital management entails the control and monitoring of all components 
+of working capital i.e. cash, marketable securities, debtors, creditors etc. Finance 
+manager has to pay particular attention to the levels of current assets and their 
+financing. To decide the level of financing of current assets, the risk return trade 
+off must be taken into account. The level of current assets can be measured by 
+creating a relationship between current assets and fixed assets. A firm may follow 
+a conservative, aggressive or moderate policy. 
+ 
+Downloaded from castudyweb.com
+<<PAGE 12>>
+12 
+ 
+A conservative policy means lower return and risk while an aggressive policy 
+produces higher return and risk. The two important aims of the working capital 
+management are profitability and solvency. A liquid firm has less risk of insolvency 
+i.e. it will hardly experience a cash shortage or a stock out situation. However, 
+there is a cost associated with maintaining a sound liquidity position. So, to have 
+a higher profitability the firm may have to sacrifice solvency and maintain a 
+relatively low level of current assets.  
+ 
+(c) 
+(i) 
+Callable bonds: A callable bond has a call option which gives the issuer the 
+right to redeem the bond before maturity at a predetermined price known 
+as the call price (Generally at a premium). 
+(ii)  
+Puttable bonds: Puttable bonds give the investor a put option (i.e. the right 
+to sell the bond) back to the company before maturity. 
+OR 
+(c) 
+Bridge Finance: Bridge finance refers to loans taken by a company normally from 
+commercial banks for a short period because of pending disbursement of loans 
+sanctioned by financial institutions. Though it is of short-term nature but since it 
+is an important step in the facilitation of long-term loan, therefore it is being 
+discussed along with the long term sources of funds. Normally, it takes time for 
+financial institutions to disburse loans to companies. However, once the loans are 
+approved by the term lending institutions, companies, in order not to lose further 
+time in starting their projects, arrange short term loans from commercial banks. 
+The bridge loans are repaid/ adjusted out of the term loans as and when disbursed 
+by the concerned institutions. Bridge loans are normally secured by hypothecating 
+movable assets, personal guarantees and demand promissory notes. Generally, 
+the rate of interest on bridge finance is higher as compared with that on term 
+loans. 
+ 
+Downloaded from castudyweb.com
+<<PAGE 13>>
+13 
+PAPER 6B: STRATEGIC MANAGEMENT 
+ANSWERS 
+PART I 
+1. (A) 
+(i)  
+(c) 
+(ii) 
+(b) 
+(iii)  
+(c) 
+(iv)  
+(a) 
+(v)  
+(d) 
+    (B) 
+(i)  
+(d) 
+(ii) 
+(a) 
+(iii)  
+(b) 
+ 
+ 
+ 
+ 
+ 
+PART II – Descriptive Questions  
+1. 
+(a)  
+Ecro Ltd. employs both proactive and reactive strategic approaches to stay 
+competitive in a dynamic market. 
+Initially, the company was proactive in its approach by adopting the features of 
+proactive strategies: 
+• 
+Strengthening Brand Identity: Proactively building a strong eco-friendly 
+image to appeal to environmentally conscious consumers. 
+• 
+Innovative Marketing Campaigns: Crafting impactful and creative 
+campaigns to enhance market visibility and differentiate its products. 
+• 
+Product Innovation: Consistently introducing new and innovative eco-
+friendly products to meet evolving customer demands and maintain a 
+competitive edge. 
+These proactive strategies are deliberate, reflecting planned actions to improve 
+market position and financial performance.  
+However, when the company started facing competition from large retailers, it 
+forced the company to quickly adapt to the changing market conditions by 
+following the features of reactive strategies: 
+• 
+Adapting to Market Changes: Responding to the entry of large retailers 
+in the eco-friendly segment by quickly adjusting strategies. 
+• 
+Competitor Analysis: Studying competitors’ strategies to counteract their 
+actions effectively. 
+• 
+Dynamic Marketing: Implementing varied marketing techniques to 
+respond to competitors’ campaigns. 
+• 
+Pricing Adjustments: Adopting counter-pricing strategies to remain 
+competitive without compromising profitability. 
+Downloaded from castudyweb.com
+<<PAGE 14>>
+14 
+These reactive strategies demonstrate Ecro Ltd.'s ability to adapt to unforeseen 
+developments and changing market conditions.  
+Future Strategy for Competitive Advantage 
+To remain competitive and gain a sustainable edge, Ecro Ltd. should adopt a 
+blended approach of proactive and reactive strategies: 
+1. 
+Sustainable Differentiation: Focus on continuous innovation and 
+exclusive eco-friendly product lines to strengthen its unique position. 
+2. 
+Customer-Centric Approach: Use data analytics to understand consumer 
+preferences and tailor offerings. 
+3. 
+Operational Efficiency: Optimize supply chain and reduce costs to 
+balance affordability and quality. 
+4. 
+Strategic Alliances: Partner with eco-certification organizations to build 
+credibility and trust. 
+By crafting a strategy that integrates planned proactive initiatives with adaptive 
+responses, Ecro Ltd. can navigate uncertainty, tackle competition, and ensure 
+long-term success.   
+(b)  
+To enable successful digital transformation, the appropriate strategy for 'Twaran' 
+is a Change Management Strategy. It is essential to effectively manage the 
+organizational, procedural and cultural changes brought about by the adoption of 
+new digital technologies.  
+Following are the five best practices for managing change in small and medium-
+sized businesses: 
+1. 
+Begin at the top: Change should be initiated and driven by unified, 
+focused leadership. A committed top management can create and promote 
+a culture that inspires the organization to embrace change. 
+2. 
+Ensure that the change is both necessary and desired: Before initiating 
+digital transformation, decision-makers must understand its necessity and 
+long-term impact. Without a proper strategy, introducing too much change 
+too quickly can be counterproductive. 
+3. 
+Reduce disruption: It is essential to minimize employee disruption during 
+transformation. This can be done by: 
+• 
+Communicating changes early. 
+• 
+Equipping employees with tools and training. 
+Downloaded from castudyweb.com
+<<PAGE 15>>
+15 
+• 
+Empowering change agents like project managers. 
+• 
+Involving IT teams proactively. 
+• 
+Creating an environment conducive to change. 
+4. 
+Encourage communication: Promote open and continuous two-way 
+communication. This ensures that employees feel heard and involved and 
+that concerns are addressed timely. Effective communication also 
+promotes innovation and collaboration across departments. 
+5. 
+Recognize that change is the norm, not the exception: Businesses 
+must treat change as a continuous process, not a one-time project. Being 
+change ready helps the organization to adapt, sustain performance and 
+stay aligned with evolving customer expectations.   
+(c)  
+The strategy recommended to ARP Motors is the Best-Cost Provider Strategy. 
+Best-cost provider strategy is directed towards giving customers more value for 
+their money by emphasizing both low cost and premium features. The objective 
+is to keep costs and prices lower than those of other sellers of comparable 
+products while offering better quality and superior features.                      
+Application in ARP Motors Case: 
+• 
+Launch of FLEXON (Compact SUV): ARP priced FLEXON strategically 
+at an affordable level, while at the same time incorporating premium 
+features such as a 5-star Global NCAP safety rating, advanced technology 
+and a modern design. This reflects the approach of offering better quality 
+at lower or comparable prices. 
+• 
+Introduction of FLEXON EV: By entering the electric vehicle market, ARP 
+positioned FLEXON EV as one of the most affordable yet feature-rich 
+electric SUVs in India. This aligns with the principle of charging lower prices 
+for comparable products or offering higher quality for similar prices 
+thereby giving customers more value for money.    
+2. 
+(a)  
+Strategic Management is a dynamic process of formulation, implementation, 
+evaluation and control of strategies to realise the organisation’s strategic intent. 
+Strategic intent clarifies what the organisation wants to do and why it wants to do 
+it, which forms the basis of vision and mission statements. 
+A vision statement describes the organisation’s future aspirations and desired 
+position while a mission statement explains its present business scope, purpose, 
+goals and the means to achieve them. Together, they provide direction and 
+purpose in strategic planning. 
+Downloaded from castudyweb.com
+<<PAGE 16>>
+16 
+Significance of Vision in Strategic Planning: 
+• 
+Provides a blueprint of where the organisation wants to be. 
+• 
+Aligns organisational efforts on a chosen path. 
+• 
+Creates enthusiasm and mould’s identity. 
+• 
+Clarifies aspirations in products, markets, customers and technology. 
+Significance of Mission in Strategic Planning: 
+• 
+Explains the reason for the firm’s existence. 
+• 
+Ensures unanimity of purpose and efficient resource use. 
+• 
+Standard for allocation and goal translation. 
+• 
+Gives distinct identity and direction. 
+• 
+Reflects present activities and ensures legitimacy. 
+Thus, a well-defined vision and mission provide clarity of purpose, direction for 
+growth and a framework for decision-making. Vision answers, “where we want to 
+go,” and mission answers “what business we are in and why we exist.” Together, 
+they form the philosophical base of strategy and guide the organisation toward 
+long-term success. 
+(b)  
+A tool to identify the market positions of rival companies by grouping them into 
+like positions is Strategic Group Mapping. A strategic group consists of those 
+rival firms which have similar competitive approaches and positions in the market.  
+The procedure for constructing a strategic group map and deciding which firms 
+belong in which strategic group are as follows: 
+1. 
+Identify the competitive characteristics that differentiate firms in the 
+industry typical variables that are price/quality range (high, medium, low); 
+geographic coverage (local, regional, national, global); degree of vertical 
+integration (none, partial, full); product-line breadth (wide, narrow); use of 
+distribution channels (one, some, all); and degree of service offered (no-
+frills, limited, full). 
+2. 
+Plot the firms on a two-variable map using pairs of these differentiating 
+characteristics. 
+3. 
+Assign firms that fall into about the same strategy space to the same 
+strategic group. 
+4. 
+Draw circles around each strategic group making the circles proportional 
+to the size of the group's respective share of total industry sales revenues. 
+Downloaded from castudyweb.com
+<<PAGE 17>>
+17 
+3. 
+(a)  
+Strategic performance measures should be carefully selected so that they are 
+aligned with organisational goals and provide relevant, reliable and actionable 
+information. In selecting the right measures, organizations should consider the 
+following factors: 
+♦ 
+Relevance: The measure should be relevant to the organization's goals and 
+objectives and provide information that is actionable and meaningful. 
+♦ 
+Data Availability: The measure should be based on data that is readily 
+available and can be collected and analyzed in a timely manner. 
+♦ 
+Data Quality: The measure should be based on high-quality data that is 
+accurate and reliable. 
+♦ 
+Data Timeliness: The measure should be based on data that is current and 
+up to date, enabling organizations to make informed decisions in a timely 
+manner. 
+These factors are important because they provide a way for organizations to 
+assess the success of their strategies, identify areas for improvement, and 
+make informed decisions about how to allocate resources and adjust their 
+strategies to achieve their desired outcomes. Effective strategic performance 
+measures should be relevant, meaningful, and easy to understand and should be 
+regularly reviewed and updated to ensure their continued alignment with the 
+organization's goals and objectives.  
+(b)  
+Innovation refers to the creation and implementation of new or significantly 
+improved products, services, processes or business models. Innovation acts 
+as a key driver of growth, competitiveness and long-term sustainability. 
+Innovation refers to the upgradation of existing products, services or processes, 
+which leads to higher market share, revenues, profitability and customer 
+satisfaction. For long-term business growth, innovation plays a crucial strategic 
+role. 
+What Innovation Offers to an Organisation 
+1. 
+Helps Solve Complex Problems: Innovation enables businesses to 
+identify opportunities in societal and business problems and develop 
+customer-centric and sustainable solutions. Though initial costs may 
+be high, innovation ensures long-term economic and environmental 
+sustainability. 
+Downloaded from castudyweb.com
+<<PAGE 18>>
+18 
+2. 
+Increases Productivity: Innovation simplifies and automates tasks, 
+reduces manual effort and improves efficiency. Automation and digital tools 
+enhance productivity at both process and organisational levels, creating a 
+ripple effect across industries. 
+3. 
+Gives Competitive Advantage: Faster innovation helps firms move ahead 
+of competitors. Innovative products offer greater customer satisfaction, 
+require less marketing effort, help retain existing customers and attract new 
+ones. 
+Risks Involved in Innovation 
+1. 
+High Cost and Financial Risk: Innovation involves significant investment 
+and returns may not be immediate or assured. 
+2. 
+Uncertain Returns: Some innovations may not deliver expected benefits, 
+making them appear as unnecessary expenses in the short run. 
+3. 
+Technological Uncertainty: Rapid technological changes may make 
+existing innovations obsolete. 
+4. 
+Implementation Risk: Poor execution or lack of organisational capability 
+can lead to failure of innovative initiatives. 
+Thus, while innovation is a powerful driver of growth, productivity and 
+competitive advantage, it also involves risks that must be carefully managed to 
+achieve long-term sustainability and success. 
+4. 
+(a)  
+Ansoff’s Product Market Growth Matrix, developed by Igor Ansoff, is a strategic 
+tool that helps businesses identify growth opportunities by analyzing the interplay 
+between products and markets.  
+It offers four distinct strategies based on whether the products and markets exist 
+or are new. These strategies are: 
+1. 
+Market Penetration: Focuses on selling existing products in existing 
+markets. This involves increasing market share by enhancing sales through 
+advertising, promotions, competitive pricing, or encouraging higher usage 
+among current customers.  
+2. 
+Market Development: Entails selling existing products in new markets. 
+This could involve exploring new geographical regions, utilizing alternative 
+distribution channels, or creating new market segments.  
+3. 
+Product Development: Involves introducing new or modified products into 
+existing markets. This strategy often requires innovation and developing 
+products that meet current market needs.  
+Downloaded from castudyweb.com
+<<PAGE 19>>
+19 
+4. 
+Diversification: Refers to marketing new products in new markets. It is a 
+high-risk strategy as the business ventures into unfamiliar products and 
+markets. 
+As market dynamics evolve, companies may transition between these 
+strategies to adapt and sustain growth. The matrix provides a structured 
+framework for businesses to align their growth strategies with their 
+capabilities and market conditions. 
+(b)  
+The concept is Experience Curve. The experience curve, akin to a learning curve, 
+explains the efficiency increase gained by workers through repetitive productive 
+work. It is based on the phenomenon that unit costs decline as a firm accumulates 
+experience in terms of a cumulative volume of production – the idea being, “we 
+learn as we grow.” 
+Relevant Features of Experience Curve in Strategic Management 
+• 
+As business organisations grow, they gain experience which enables cost 
+efficiencies. 
+• 
+Experience may provide an advantage over competition as lower costs create 
+a barrier for new entrants. 
+• 
+Experience is considered a key barrier to entry for new firms contemplating 
+industry entry. 
+• 
+Large and successful organisations possess stronger experience effect, 
+helping in leadership and cost advantage. 
+Thus, the experience curve is a critical concept in strategic management as it links 
+growth with learning, cost reduction and competitive advantage, making it a strong 
+determinant of industry positioning and entry barriers.  
+OR 
+In light of Michael Porter's Five Forces, new entrepreneurs often face significant 
+barriers that restrain their keenness to enter an industry. These barriers increase 
+the competitiveness of existing firms and discourage new entrants, impacting 
+industry profitability. 
+Common barriers that may restrain new entrepreneurs include: 
+(i) 
+Capital Requirements: When a large amount of capital is required to enter 
+an industry, firms lacking funds are effectively barred from the industry, 
+thus enhancing the profitability of existing firms in the industry.  
+(ii) 
+Economies of Scale: Many industries are characterized by economic 
+activities driven by economies of scale. Economies of scale refer to the 
+Downloaded from castudyweb.com
+<<PAGE 20>>
+20 
+decline in the per-unit cost of production (or other activity) as volume 
+grows.  
+(iii) 
+Product Differentiation: Product differentiation refers to the physical or 
+perceptual differences, or enhancements, that make a product special or 
+unique in the eyes of customers.  
+(iv) 
+Switching Costs: To succeed in an industry, new entrant must be able to 
+persuade existing customers of other companies to switch to its products. 
+When such switching costs are high, buyers are often reluctant to change.  
+(v) 
+Brand Identity: The brand identity of products or services offered by 
+existing firms can serve as another entry barrier. Brand identity is 
+particularly important for infrequently purchased products that carry a high 
+unit cost to the buyer.  
+(vi) 
+Access to Distribution Channels: The unavailability of distribution 
+channels for new entrants poses another significant entry barrier. Despite 
+the growing power of the internet, many firms may continue to rely on their 
+control of physical distribution channels to sustain a barrier to entry to 
+rivals.  
+(vii) 
+Possibility of Aggressive Retaliation: Sometimes the mere threat of 
+aggressive retaliation by incumbents can deter entry by other firms into an 
+existing industry.  
+Downloaded from castudyweb.com

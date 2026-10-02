@@ -1,0 +1,680 @@
+<<PAGE 1>>
+1 
+Mock Test Paper - Series II: December, 2025 
+Date of Paper: 17th December, 2025 
+Time of Paper: 10 A.M. to 1 P.M. 
+INTERMEDIATE GROUP – II  
+PAPER – 6A : FINANCIAL MANAGEMENT & STRATEGIC MANAGEMENT 
+PAPER 6A: FINANCIAL MANAGEMENT 
+Time Allowed – 3 Hours (Total time for 6A and 6B)  
+Maximum Marks – 50 
+1. 
+The question paper comprises two parts, Part I and Part II. 
+2. 
+Part I comprises Case Scenario based Multiple Choice Questions (MCQs) 
+3. 
+Part II comprises questions which require descriptive type answers. 
+4. 
+Working note should form part of the answer. Wherever necessary, suitable assumptions 
+may be made by the candidates and disclosed by way of note. However, in answers to 
+Questions in Division A, working notes are not required. 
+PART I – Case Scenario based MCQs (15 Marks) 
+Write the most appropriate answer to each of the following multiple choice questions by 
+choosing one of the four options given. All questions are compulsory. 
+Case Scenario - I 
+Virat Ltd., a steadily growing company in Mumbai, has been performing well in its current line 
+of business. The management believes the timing is right to expand, and they have approached 
+you—the company’s financial analyst—to evaluate whether their planned new venture is 
+financially sound. 
+At present, the company earns ` 20,00,000 in annual revenue. To generate this income, Virat 
+Ltd. incurs several operating costs. About 40% of the revenue, or ` 8,00,000, goes toward the 
+cost of goods sold. Additionally, the company spends ` 2,00,000 on employee salaries, ` 50,000 
+on electricity and other overheads, and another ` 50,000 on advertising and promotional 
+activities. After all these expenses, the company pays 35% tax on its profits. 
+To run the existing business, Virat Ltd. uses a total capital of ` 1.5 crore. This capital is funded 
+partly through equity of ` 80,00,000, represented by 8,00,000 shares with a face value of ` 10 
+each, and partly through debt of ` 70,00,000, on which the company pays 9.95% interest per year. 
+Since the company is listed on the NSE, its performance is compared with the market index, 
+which has produced a return of 14.95%. The company carries a beta of 1.10, indicating slightly 
+higher risk than the market. For risk-free benchmarks, the latest RBI T-Bill rate is 5.45%. 
+<<PAGE 2>>
+2 
+Virat Ltd. is evaluating expansion into a new product line. Management has already conducted 
+preliminary research and provided expected revenue and cost estimates for the next five years. 
+Expected Performance of the New Project 
+Year 
+2026 
+2027 
+2028 
+2029 
+2030 
+Revenue 
+9,50,000 
+10,45,000 
+11,49,500 
+12,64,450 
+13,90,895 
+COGS % 
+40% 
+42% 
+45% 
+47% 
+50% 
+COGS (`) 
+3,80,000 
+4,38,900 
+5,17,275 
+5,94,291.5 
+6,95,447.5 
+Gross Profit 
+5,70,000 
+6,06,100 
+6,32,225 
+6,70,158.5 
+6,95,447.5 
+Employee Costs 
+45,000 
+47,250 
+49,612.5 
+52,093.13 
+54,697.78 
+Electricity/Other 
+5,000 
+5,100 
+5,202 
+5,306.04 
+5,412.16 
+Advertising 
+15,000 
+15,150 
+15,301.5 
+15,454.52 
+15,609.06 
+To begin this project, Virat Ltd. will need to invest ` 15,00,000 in fixed assets, with a useful life 
+of 10 years and terminal (sale) value at the end of 5th as ` 7,50,000. This investment will be 
+financed through a mix of ` 5,00,000 in equity (50,000 new shares at ` 10 each) and ` 10,00,000 
+in debt. For this company issued 10,000, 10% debentures of ` 100 each at a premium of 10% 
+on 1.4.2026 to be matured after 5 years The debentures will be redeemed at par on maturity.  
+You are now required to analyse both the company’s current performance and the financial 
+feasibility of the new project using the information provided and answer the following questions 
+(MCQ 1 to 5): 
+1. 
+Calculate the profit or loss for the current year  
+(a) 
+` 1,52,500 
+(b) 
+` 1,42,500 
+(c) 
+` 1,38,500 
+(d) 
+` 1,32,275 
+2. 
+Calculate the Return on Equity (ke) for the firm. 
+(a) 
+15.99% 
+(b) 
+15.90% 
+(c) 
+15.00% 
+(d) 
+14.95% 
+ 
+ 
+<<PAGE 3>>
+3 
+3. 
+What us the Weighted Average Cost of Capital (WACC) to be considered for valuing the 
+firm in current year. 
+(a) 
+12.73% 
+(b) 
+11.50% 
+(c) 
+9.97% 
+(d) 
+10.97% 
+4. 
+Compute the cost of new debentures assuming 35% as tax rate. 
+(a) 
+4.28% 
+(b) 
+6.50% 
+(c) 
+10.00% 
+(d) 
+6.97% 
+5. 
+What is NPV of the New Project using the discount rate of 12%? 
+(a) 
+` 3,50,000 
+(b) 
+(` 3,118) 
+(c) 
+` 4,22,133 
+(d) 
+` 3,118 
+(5 x 2 = 10 Marks) 
+6. 
+A company is considering two financing plans: 
+• 
+Plan A (Equity only): 40,000 equity shares 
+• 
+Plan B (Debt + Equity): Debt of ` 12,00,000 at 10% interest and 25,000 equity 
+shares 
+Tax rate = 30%. 
+The EBIT indifference point between Plan A and Plan B is: 
+(a)  
+` 4,00,000 
+(b)  
+` 4,80,000 
+(c) 
+` 6,00,000 
+(d)  
+` 3,20,000 
+(2 Marks) 
+ 
+<<PAGE 4>>
+4 
+7.  
+A company operates at a production level of 5,000 units. The contribution is ` 60 per 
+unit, operating leverage is 6, combined leverage is 24. If tax rate is 30%, what would be 
+its earnings after tax? 
+(a) 
+` 8,750 
+(b) 
+` 30,000 
+(c) 
+` 9,500 
+(d) 
+` 10,000 
+(2 Marks) 
+8.  
+ABC Ltd. has earnings of ` 50,00,000 and 10,00,000 equity shares. The company is 
+considering two dividend policies: 
+• 
+Policy A: Pay 100% dividend 
+• 
+Policy B: Retain all earnings 
+ 
+According to MM Proposition I (no taxes), the market value of the firm under both policies 
+will be: 
+(a)  
+` 1,00,00,000 for Policy A; ` 1,20,00,000 for Policy B 
+(b)  
+` 1,00,00,000 for both policies 
+(c)  
+` 1,10,00,000 for Policy A; ` 1,00,00,000 for Policy B 
+(d)  
+` 90,00,000 for Policy A; ` 1,10,00,000 for Policy B 
+(1 Mark) 
+PART II – Descriptive Questions (35 Marks) 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+1.  
+(a)  
+Following information relate to a concern: 
+Debtors Velocity 
+3 months 
+Credits Velocity 
+2 months 
+Stock Turnover Ratio 
+1.5 
+Gross Profit Ratio 
+25% 
+Bills Receivables 
+` 25,000 
+Bills Payables 
+` 10,000 
+Gross Profit  
+` 4,00,000 
+Fixed Assets to turnover Ratio 
+4 
+Closing stock of the period is ` 10,000 above the opening stock.  
+<<PAGE 5>>
+5 
+CALCULATE 
+(i) 
+Sales and cost of goods sold 
+(ii) 
+Sundry Debtors 
+(iii) 
+Sundry Creditors 
+(iv) 
+Closing Stock 
+(v) 
+Fixed Assets 
+(5 Marks) 
+(b)  
+Deepa Limited has Earnings Before Interest and Taxes (EBIT) amounting to  
+` 60,00,000. The company is considering the introduction of debt into its capital 
+structure and is evaluating different levels of debt financing. The details of the 
+alternative debt options, along with the corresponding cost of debt and cost of 
+equity, are given below: 
+Option 
+Debt in Capital 
+Structure 
+Cost of Debt 
+(Kd) 
+Cost of Equity 
+(Ke) 
+1 
+` 60,00,000 
+10% 
+12% 
+2 
+` 75,00,000 
+13% 
+15% 
+3 
+` 90,00,000 
+14% 
+16% 
+4 
+` 1,05,00,000 
+14% 
+16% 
+ 
+Assuming that the company operates in zero tax regime. 
+ 
+WHICH option of debt financing in the capital structure would you recommend as 
+per Traditional Approach of the capital structure theory? 
+(5 Marks) 
+(c)  
+Orion Aerospace Ltd. manufactures highly customized components for satellites 
+launched by the France and Germany. The company operates through eight 
+locations worldwide, including its central headquarters. To streamline the 
+budgeting process and reduce escalating travel costs, the Finance Director, Ms. 
+Ananya Rao, is considering the introduction of video conferencing as an 
+alternative to physical meetings. 
+ 
+In previous years, the company sent two executives from each location to the 
+central headquarters twice a year for budget discussions. The average travel cost 
+per executive (including airfare, accommodation, and meals) is ` 27,000 per trip. 
+ 
+Under the proposed plan, Orion Aerospace Ltd. would install a video conferencing 
+system at each location at a cost of ` 8,25,000 per location. In addition, the system 
+would incur an average telephone transmission cost of ` 300 per hour, and it is 
+estimated that 48 hours of transmission time per year would be required to 
+<<PAGE 6>>
+6 
+complete the budgeting process. The company depreciates such equipment using 
+the straight-line method over a useful life of five years, with no residual value. 
+ 
+As an alternative, the company may opt to use locally rented video conferencing 
+facilities, which are available at a cost of ` 1,500 per hour, plus ` 400 per hour 
+towards average telephone charges. 
+ 
+Additional Information: 
+ 
+The company follows a policy of minimum annual cash savings of 10% of the 
+existing travel cost before approving any new cost-saving technology. 
+ 
+You are a Senior Officer in the Finance Department. Based on the above 
+information, you are required to EVALUATE the proposal and advise Ms. Ananya 
+Rao on whether Orion Aerospace Ltd. should implement video conferencing, and 
+if so, WHICH alternative would be financially preferable. 
+(5 Marks) 
+2.  
+Sundaram Industries Ltd., a medium-sized manufacturing company based in Tamil Nadu, 
+is engaged in producing a consumer product that involves significant working capital 
+requirements. The company’s finished goods are sold across state borders, and therefore 
+all sales and purchases are subject to Integrated GST (IGST) at 18%. 
+ 
+The company spends a total of ` 90 lakhs annually in cash, incurred at a constant rate. 
+Its selling price structure consists of the following elements: 
+• 
+Raw Material – 60% 
+• 
+Wages – 20% 
+• 
+Direct Overheads – 10% 
+• 
+Gross Profit – 10% 
+ 
+Thus, 90% of the selling price represents the cost of production. 
+ 
+During the current month, the company has processed 75% of its purchases into finished 
+goods and sold them entirely. Wages and Overheads are paid 80% in the current month 
+and 20% in the next month. The Cash-to-Cash Conversion Cycle (CCC) is 30 days shorter 
+than the Gross Operating Cycle. The company’s Cash Turnover is 9 times per year. At the 
+end of the current month, the company has paid ` 45,000 towards IGST liability. 
+ 
+The company holds long-term investments which generate a monthly return of 1.5% net 
+of 10% TDS. If needed, the company can borrow / invest funds at an interest rate equal 
+to this pre-tax return. There is no WIP. 
+<<PAGE 7>>
+7 
+ 
+The company’s supplier has offered a 2% cash discount if invoices are settled within 15 
+days, compared to the regular day credit period. Management must evaluate whether to 
+accept this discount. 
+(i)  
+PREPARE a Working Capital Statement as at the end of the month, clearly 
+showing Current Assets and Current Liabilities, and compute the net Working 
+Capital requirement. 
+(ii)  
+Suppose company has offered credit terms from its major supplier of 2/15, net 60. 
+CALCULATE the implied annual cost of foregoing the discount and advise whether 
+the company should accept the offer given its current cost of capital. 
+(iii)  
+Assuming invoice value is ` 10,000, COMPARE the net cost to the company if it 
+accepts the discount versus if it refuses the discount and invests the funds 
+between day 15 and day 60. 
+ (10 Marks) 
+3.  
+(a)  
+ShirtCo is a garment manufacturing company producing and selling 10,000 shirts 
+every year. 
+The company’s cost and revenue structure is as follows: 
+Particulars 
+Amount (` / per unit) 
+Selling Price 
+500 
+Variable Cost 
+200 
+Fixed Cost (Total) 
+25,00,000 
+ 
+The company’s Chief Accountant has calculated the Degree of Operating 
+Leverage (DOL) as 6 times and the Degree of Combined Leverage (DCL) as 12 
+times, based on the current level of production and sales. 
+ 
+He claims that “If sales increase by 10%, the EBIT will increase by 60%.” 
+ 
+As a financial analyst, you are asked to verify whether his contention is correct 
+under the following independent situations: 
+1. 
+Case 1: Production and sales quantity increase by 10%, while selling price 
+and costs remain unchanged. 
+2. 
+Case 2: The selling price per shirt increases by 10%, while the sales 
+quantity and cost remains unchanged. 
+3. 
+Case 3: The selling price per shirt increases by 10%, but the price elasticity 
+of demand is 1.2, leading to a change in sales quantity accordingly. 
+Required: 
+(i)  
+CALCULATE the new EBIT under each case. 
+<<PAGE 8>>
+8 
+(ii)  
+DETERMINE the percentage change in EBIT compared to the original level 
+under each case. 
+(iii)  
+COMMENT on the accuracy of the Chief Accountant’s claim in each 
+situation. If not correct, give reasons.  
+(iv)  
+Assuming the company is tax exempt and the company has 10% 
+Debentures amounting to INR 25 Lakhs and 10% Preference Shares 
+amounting to INR 10 Lakhs, Comment whether the financial leverage 
+computed by the Chief Accountant is correct. If not, COMPUTE the correct 
+DFL and DCL. [Consider the base case for this part. Ignore the changes in 
+quantity and price.] 
+(7 Marks) 
+(b)  
+In October, 2025 AB Co.'s share was sold for ` 146 per share. A long term 
+earnings growth rate of 7.5% is anticipated. AB Co. is expected to pay dividend 
+of ` 3.36 per share.  
+(i)  
+DETERMINE rate of return an investor can expect to earn assuming that 
+dividends are expected to grow along with earnings at 7.5% per year in 
+perpetuity?  
+(ii)  
+It is expected that AB Co. will earn about 10% on book Equity and shall 
+retain 60% of earnings. In this case, whether, there would be any change 
+in growth rate and cost of Equity? ANALYSE. 
+(3 Marks) 
+4. 
+(a)  
+Oceanic Retail Pvt. Ltd., a fast-growing chain of supermarkets, is planning to 
+expand its presence across multiple cities. The company’s CFO, Mr. Arvind 
+Mehta, is evaluating different lease contracts for acquiring stores and equipment. 
+The legal team has informed him that besides the common Finance Lease and 
+Operating Lease, there are several other types of lease arrangements. EXPLAIN 
+four other types of lease arrangements. 
+(4 Marks) 
+(b)  
+TechWave Ltd. plans to buy new machinery worth ` 50 lakh to increase 
+production. The Finance Manager says that before investing, the company must 
+understand the cost of capital. In this regard you are required to EXPLAIN the 
+meaning of cost of capital. Also, briefly STATE three reasons why cost of capital 
+is significant for decision-making at TechWave Ltd. 
+(4 Marks) 
+(c)  
+HOW do we measure the value/wealth of a firm? 
+(2 Marks) 
+OR 
+(c)  
+EXPLAIN any common form of dividend. 
+(2 Marks) 
+ 
+<<PAGE 9>>
+9 
+PAPER 6B: STRATEGIC MANAGEMENT 
+1. 
+The question paper comprises two parts, Part I and Part II. 
+2. 
+Part I comprises case scenario based multiple choice questions (MCQs) 
+3. 
+Part II comprises questions which require descriptive type answers. 
+PART I – Case scenario based MCQs (15 Marks) 
+Question 1. (A) (Compulsory) 
+(A)  
+Titan Tech, a mid-sized software development company based in India, has been 
+experiencing rapid growth over the past five years. The company specializes in 
+customized software solutions for small and medium enterprises (SMEs). However, the 
+competitive landscape is shifting due to the entry of global tech giants and evolving 
+customer needs. 
+ 
+To chart its future strategy, Titan Tech conducted a PESTLE analysis. Politically, 
+government incentives for digital transformation present growth opportunities, but 
+regulatory compliance is tightening. Economically, rising disposable incomes of SMEs 
+promise market expansion, yet inflation is driving up operational costs. Technological 
+advancements like AI and blockchain are reshaping industry standards, and 
+environmentally, there is pressure to adopt sustainable practices. Socially, SMEs are 
+increasingly valuing personalized customer support. Lastly, legal changes in data privacy 
+regulations pose significant compliance challenges. 
+ 
+Titan Tech also mapped its stakeholders using Mendelow ’s Matrix. Customers and key 
+investors, identified as high-power, high-interest stakeholders, require constant 
+engagement. Employees, although influential, have medium interest, while regulatory 
+bodies, with high power but low interest, need to be monitored closely. 
+ 
+For strategic growth, the leadership team evaluated their product portfolio using the BCG 
+Matrix. Their flagship product, BizEase (a CRM tool), is a "Star," showing high market 
+growth and market share. The legacy ERP product is a "Cash Cow," while new offerings 
+in AI-driven analytics are "Question Marks." A failed project management tool was 
+classified as a "Dog" and discontinued. 
+ 
+The CEO, Priya Mehra, believes the company ’s leadership style needs to evolve to meet 
+internal and external challenges. While her approach has traditionally been transactional, 
+focusing on clear roles and rewards, she recognizes the need to adopt a more 
+transformational style to inspire innovation and motivate employees amid uncertainty. 
+ 
+To stay competitive, Titan Tech has adopted Michael Porter ’s differentiation strategy. By 
+focusing on delivering highly customizable solutions and superior customer service, they 
+<<PAGE 10>>
+10 
+aim to stand out in the crowded market. Additionally, a value chain analysis revealed that 
+investing in advanced R&D and strengthening customer support are critical to 
+maintaining their competitive advantage. 
+ 
+As Titan Tech faces these crossroads, the company ’s leadership must make strategic 
+decisions to sustain growth and profitability. 
+ 
+Based on the above Case Scenario, answer the Multiple-Choice Questions. 
+(i)  
+Which external factor from the PESTLE analysis is most likely to require Titan 
+Tech to adapt its data management practices? 
+(a)  
+Government incentives for digital transformation 
+(b)  
+Changes in data privacy regulations 
+(c)  
+Rising disposable incomes of SMEs 
+(d)  
+Advancements in AI and blockchain 
+(2 Marks) 
+(ii)  
+According to Mendelow ’s Matrix, which group of stakeholders requires the highest 
+level of engagement from Titan Tech?                              
+(a) 
+Employees 
+(b) 
+Regulatory bodies 
+(c) 
+Customers and key investors 
+(d 
+Suppliers 
+(2 Marks) 
+(iii)  
+Which product in Titan Tech ’s portfolio is most likely funding the company ’s 
+investment in AI-driven analytics?  
+(a) 
+BizEase 
+(b) 
+The legacy ERP product 
+(c) 
+The failed project management tool 
+(d) 
+AI-driven analytics offerings 
+(2 Marks) 
+(iv)  
+What leadership change is Priya Mehra considering inspiring innovation within 
+Titan Tech?  
+(a) 
+Shifting from transactional to transformational leadership 
+(b) 
+Focusing on stricter performance metrics 
+(c) 
+Moving to a completely laissez-faire leadership style 
+(d) 
+Increasing reliance on transactional leadership 
+(2 Marks) 
+<<PAGE 11>>
+11 
+(v)  
+How does Titan Tech ’s use of Michael Porter ’s differentiation strategy help it stay 
+competitive?  
+(a)  
+By offering the lowest-cost products in the market 
+(b)  
+By focusing on mass-market appeal 
+(c)  
+By providing highly customizable solutions and superior customer service 
+(d)  
+By heavily investing in advertising 
+(2 Marks) 
+(B)  
+Compulsory Application Based Independent MCQs 
+(i)  
+Green Earth, an environmental organization, has formulated a statement: "To 
+promote environmental sustainability by advocating renewable energy and 
+conservation practices." Which area of strategic intent is represented in the 
+statement?  
+(a)  
+Vision Statement 
+(b)  
+Business definition  
+(c)  
+Goal and Objective  
+(d)  
+Mission Statement 
+(2 Marks) 
+(ii) 
+Imagine you are tasked with analyzing the competitive landscape for a new 
+product launch. In this context, which of the following factors is not relevant to 
+understanding the competitive landscape? 
+(a) 
+Identifying the competitor 
+ 
+(b) 
+Understanding the customer  
+(c) 
+Determining the strength of the competitors 
+(d) 
+Determining the weakness of the competitors 
+ (2 Marks) 
+(iii)  
+An airline operator is providing special lounge at major airports for its frequent 
+flyers.  This marketing technique is known as: -  
+(a)  
+Relationship Marketing 
+(b)  
+Augmented Marketing 
+(c)  
+Social Marketing 
+(d)  
+Synchro Marketing 
+(1 Mark) 
+ 
+ 
+<<PAGE 12>>
+12 
+PART II – Descriptive Questions (35 Marks) 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+1.  
+(a)  
+A luxury skincare brand saw a sudden spike in sales after celebrity endorsements 
+and social media promotions. What factors could be influencing this change in 
+consumer buying behavior, and why is understanding such behavior critical to 
+business success?         
+(5 Marks) 
+(b)  
+A consumer technology startup continually revises its business model to align with 
+shifting user behaviour, the rise of new digital platforms and rapid technological 
+advancements. In the context of internal strategic analysis, identify the key 
+internal elements or strategic drivers that the firm is responding to that shape its 
+strategic direction? 
+ (5 Marks) 
+(c)  
+SunSip Beverages has introduced a cost-saving strategy across its manufacturing 
+and warehousing operations. The Managing Director seeks continuous monitoring 
+to ensure the strategy is being implemented accurately, with any deviations 
+corrected promptly. He also wants the approach to remain flexible so the company 
+can quickly adjust to market changes or unforeseen developments. What types of 
+strategic controls can the organisation adopt to ensure timely corrections and 
+effective adaptation to changing conditions? 
+         (5 Marks) 
+2.  
+(a)  
+Sky chemical industry intends to grow its business. Advise the company on the 
+available options using Ansoff’s product market growth matrix.           (5 Marks) 
+(b)  
+In light of the five forces as propagated by Michael Porter, explain the common 
+barriers which may cause restrain for the keenness of new entrepreneurs. 
+ 
+(5 Marks) 
+3.  
+(a)  
+Explain the pointers for navigating change during digital transformation. 
+(5 Marks) 
+(b)  
+What are channels? Why is channel analysis important? Explain the different 
+types of channels? 
+(5 Marks) 
+4.  
+(a) 
+Explain the concept of vertically integrated diversification. How is forward 
+integration different from backward integration? 
+       (5 Marks) 
+ 
+ 
+<<PAGE 13>>
+13 
+(b)  
+Although functional-level managers operate at the lower end of the management 
+hierarchy, their responsibilities are vital to ensure the smooth and successful 
+functioning of a business. Discuss the importance of functional-level managers in 
+achieving organisational objectives. 
+OR 
+ 
+XYZ Enterprises operates in various sectors, including renewable energy 
+solutions, organic skincare products, eco-friendly packaging, and smart home 
+technologies. The organization is currently in the process of recruiting a Chief 
+Executive Officer. In this scenario, imagine yourself as an HR consultant for  
+XYZ Enterprises. Identify the strategic level that encompasses this role within  
+XYZ Enterprises. Provide an overview of the key duties and responsibilities falling 
+under the Chief Executive Officer's scope. 
+(5 Marks) 

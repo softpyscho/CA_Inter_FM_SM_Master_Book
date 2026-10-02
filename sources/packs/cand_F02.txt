@@ -1,0 +1,938 @@
+
+########## MTP-J26-S1_Q p7 | venture capital
+(b)  
+EXPLAIN the methods of venture capital financing.  
+(4 Marks)
+
+########## MTP-J26-S2_Q p8 | lease arrangement,lease contract,operating lease,types of lease
+(a)  
+Oceanic Retail Pvt. Ltd., a fast-growing chain of supermarkets, is planning to 
+expand its presence across multiple cities. The company’s CFO, Mr. Arvind 
+Mehta, is evaluating different lease contracts for acquiring stores and equipment. 
+The legal team has informed him that besides the common Finance Lease and 
+Operating Lease, there are several other types of lease arrangements. EXPLAIN 
+four other types of lease arrangements. 
+(4 Marks)
+
+########## MTP-M24-S1_Q p3 | public deposit
+4.  
+What is the maximum period for which company can accept Public Deposits?
+
+########## MTP-M24-S1_Q p5 | venture capital
+(b) 
+WHAT are the methods of venture capital financing?  
+(4 Marks) 
+(c)  WHAT is ‘Optimum Capital Structure’?  
+ (2 Marks) 
+OR 
+ 
+EXPLAIN the concept of Financial Leverage as ‘Trading on Equity’. 
+   (2 Marks) 
+
+
+<<PAGE 6>>
+6 
+INTERMEDIATE COURSE: GROUP II 
+PAPER 6B: STRATEGIC MANAGEMENT
+
+########## MTP-M24-S2_Q p3 | venture capital
+(a) 
+The below information for Lever Ltd is provided on annual basis: 
+ 
+` 
+Sales at 3 months credit 
+48,00,000 
+Materials consumed (suppliers extend 2 months credit) 
+12,00,000 
+Wages paid (one month lag in payment) 
+9,60,000 
+Cash manufacturing expenses (paid on month in arrear) 
+12,00,000 
+Administrative expense (one month lag in payment) 
+3,60,000 
+Sales promotion expense (paid monthly in advance) 
+1,20,000 
+ 
+The Company sells its products at a gross profit of 20%.  
+ 
+The Company keeps two months stock of raw materials and two months 
+stock of finished goods. 
+
+
+<<PAGE 4>>
+4 
+ 
+Depreciation is considered as a part of cost of production. 
+ 
+Cash balance is retained at ` 1,00,000, 
+ 
+Assuming a 15% margin, COMPUTE the working capital requirements 
+of the Company on cash cost basis. Ignore work-in progress. 
+(5 Marks) 
+(b)  SOC Ltd has 10 lakh equity shares outstanding at the beginning of the 
+accounting year 2024. The existing market price per share is Rs 600. 
+Expected dividend is Rs 40 per share. The rate of capitalization 
+appropriate to the risk class to which the company belongs is 20%. 
+(i) 
+CALCULATE the market price per share by the end of the year 
+when expected dividends are: (a) declared, and (b) not declared, 
+based on the Miller – Modigliani approach. 
+(ii) 
+CALCULATE the number of shares to be issued by the company at 
+the end of the accounting year on the assumption that the net 
+income for the year is Rs 15 crore; investment budget is Rs 20 
+crores, when (a) Dividends are declared, and (b) Dividends are not 
+declared. 
+(iii) PROVE that the market value of the shares at the end of the 
+accounting year will remain unchanged irrespective of whether (a) 
+Dividends are declared, or (ii) Dividends are not declared.  
+(5 Marks) 
+(c)  An existing profitable company, RMC World Ltd. is considering a new 
+project for manufacture of home automation gadget involving a capital 
+expenditure of ` 1000 Lakhs and working capital of ` 150 Lakhs. The 
+capacity of the plants for an annual production of 3 lakh units and 
+capacity utilization during 5 year life of the project is expected to be as 
+indicated below: 
+Year 
+1 
+2 
+3 
+4 
+5 
+Capacity Utilization (%) 
+50 
+65 
+80 
+100 
+100 
+ 
+The average price per unit of product is expected to be `600 netting a 
+contribution of 60 percent. The annual fixed costs, excluding 
+depreciation, are estimated to be `500 Lakhs per annum from the third 
+year onwards. For the first and second year, it would be ` 200 lakhs and 
+` 350 lakhs respectively. 
+ 
+Scrap value of the capital asset at the end of 5th year is ` 200 Lakhs
+
+########## MTP-M24-S2_Q p7 | indian depository receipt
+(c) 
+EXPLAIN the concept of discounted payback period. 
+(2 Marks) 
+OR 
+(c)  EXPLAIN the concept of Indian depository receipts.   
+ (2 Marks) 
+
+
+<<PAGE 8>>
+8 
+INTERMEDIATE COURSE: GROUP II 
+PAPER 6B: STRATEGIC MANAGEMENT
+
+########## MTP-M25-S1_Q p7 | debt securit,securitisation|securitization
+(b) 
+WHAT is debt securitisation? EXPLAIN the basics of debt securitisation process.
+ 
+(4 Marks)
+
+########## MTP-M25-S2_Q p9 | close-ended|close ended lease,lease back,leveraged lease,open-ended lease,sales-aid|sales aid lease,types of lease
+(a) 
+EXPLAIN following types of leases: 
+ 
+ 
+(i) 
+Sales and Lease Back 
+ 
+ 
+(ii) 
+Leveraged Lease 
+ 
+ 
+(iii) 
+Sales-Aid Lease 
+ 
+ 
+(iv) 
+Close-Ended and Open-Ended Leases 
+(4 Marks)
+
+########## MTP-M25-S2_Q p9 | features of debenture|types of debenture
+(b) 
+EXPLAIN any four Features of Debentures or Bonds. 
+    (4 Marks)
+
+########## MTP-M25-S2_Q p9 | over-capitalisation|over capitalisation
+(c)  
+EXPLAIN in brief the concept of Over Capitalisation. 
+ (2 Marks) 
+ 
+<<PAGE 10>>
+10 
+PAPER 6B: STRATEGIC MANAGEMENT
+
+########## MTP-M26-S1_Q p5 | treasury bill
+(b)  
+Mr. Raman, a portfolio manager, is analyzing a set of securities using the Capital 
+Asset Pricing Model (CAPM). He has gathered the following information: 
+Security 
+Beta 
+CAPM Return 
+A Ltd 
+1.2 
+15.20% 
+B Ltd 
+0.8 
+12.80% 
+C Ltd 
+1.1 
+? 
+Cash in hand 
+? 
+Nil 
+Treasury Bill  
+? 
+? 
+Stock Market i.e. Nifty  
+? 
+? 
+
+<<PAGE 6>>
+6 
+(i) 
+Complete the above table with all missing values. 
+(ii) 
+CAPM explains the relationship between systematic risk and expected 
+return on a security. DISCUSS the nature of the relationship between Beta 
+and expected return under CAPM. 
+  (5 Marks)
+
+########## MTP-M26-S1_Q p8 | types of preference share
+(b) 
+EXPLAIN any four types of Preference Shares along with its Salient Features. 
+ 
+(4 Marks)
+
+########## MTP-S24-S1_Q p6 | commercial paper,euro commercial paper,floating rate note,fully hedged bond,medium term note
+(b) 
+Briefly EXPLAIN the following – 
+i. 
+Fully Hedged Bonds 
+ii. 
+Medium Term Notes 
+iii. 
+Floating Rate Notes 
+iv. 
+Euro Commercial Papers 
+(4 Marks) 
+(c)  WHAT is the range of DOL? 
+ (2 Marks) 
+OR 
+ 
+DISCUSS the role of a chief financial officer.    
+ (2 Marks) 
+
+
+<<PAGE 7>>
+7 
+PAPER 6B: STRATEGIC MANAGEMENT
+
+########## MTP-S24-S2_Q p6 | financial lease,operating lease,types of lease
+(b) 
+Operating leases and financial leases are traditionally the most important 
+types of leases in financial management. However, in recent years, other 
+types of leases have also gained significance due to their unique benefits 
+and applications. IDENTIFY AND EXPLAIN at least four other types of 
+leases that have become increasingly important in modern business 
+practices.    
+ 
+ (4 Marks)
+
+########## MTP-S25-S1_Q p8 | venture capital
+(b)  
+What is venture capital financing? Briefly describe its characteristics. (2 Marks)
+
+########## MTP-S25-S2_Q p10 | crowd ?funding
+(b) 
+Is there any difference between crowd funding and peer to peer lending? EXPLAIN 
+briefly. 
+(4 Marks)
+
+########## MTP-S26-S1_A p12 | debt securit,securitisation|securitization
+(a) 
+Debt Securitisation: It is a method of recycling of funds. It is especially beneficial 
+to financial intermediaries to support the lending volumes. Assets generating 
+steady cash flows are packaged together and against this asset pool, market 
+securities can be issued, e.g. housing finance, auto loans, and credit card 
+receivables. 
+ 
+Process of Debt Securitisation 
+(i) 
+The origination function – A borrower seeks a loan from a finance company 
+or bank. The credit worthiness of borrower is evaluated and a contract is 
+entered into with repayment schedule structure over the life of the loan. 
+(ii) 
+The pooling function – Similar loans on receivables are clubbed together 
+to create an underlying pool of assets. The pool is transferred in favour of 
+Special Purpose Vehicle (SPV), which acts as a trustee for investors. 
+(iii) 
+The securitisation function – The SPV structure and issue securities on the 
+basis of these assets pool. The securities carry a coupon and expected 
+maturity which can be asset-based/mortgage based. These are generally 
+sold to investors through merchant bankers. Investors may be a pension 
+funds, mutual funds, insurance funds. 
+ 
+The process of securitization is generally without recourse i.e. investors bear the 
+credit risk and issuer is under an obligation to pay to investors only if the cash 
+flows are received by him from the collateral. The benefits to the originator are 
+that assets are shifted off the balance sheet, thus giving the originator recourse 
+to off-balance sheet funding.
+
+########## MTP-S26-S1_A p12 | close-ended|close ended lease,lease back,lease contract,leveraged lease,open-ended lease,sales-aid|sales aid lease
+(b)  
+(i) 
+Sales and Lease Back: Under this type of lease, the owner of an asset 
+sells the asset to a party (the buyer), who in turn leases back the same 
+asset to the owner in consideration of a lease rentals. Under this 
+arrangement, the asset is not physically exchanged but it all happen in 
+records only.  The main advantage of this method is that the lessee can 
+satisfy himself completely regarding the quality of an asset and after 
+possession of the asset convert the sale into a lease agreement. Under 
+this transaction, the seller assumes the role of lessee (as the same asset 
+which he has sold came back to him in the form of lease) and the buyer 
+assumes the role of a lessor (as asset purchased by him was leased back 
+to the seller). So, the seller gets the agreed selling price and the buyer gets 
+the lease rentals. 
+
+<<PAGE 13>>
+13 
+(ii) 
+Leveraged Lease: Under this lease, a third party is involved besides lessor 
+and the lessee. The lessor borrows a part of the purchase cost (say 80%) 
+of the asset from the third party i.e., lender and asset so purchased is held 
+as security against the loan.  The lender is paid off from the lease rentals 
+directly by the lessee and the surplus after meeting the claims of the lender 
+goes to the lessor.  The lessor is entitled to claim depreciation allowance. 
+(iii) 
+Sales-aid Lease: Under this lease contract, the lessor enters into a tie up 
+with a manufacturer for marketing the latter’s product through his own 
+leasing operations, it is called a sales-aid lease. In consideration of the aid 
+in sales, the manufacturer may grant either credit or a commission to the 
+lessor. Thus, the lessor earns from both sources i.e. From lessee as well 
+as the manufacturer. 
+(iv) 
+Close-ended and Open-ended Leases: In the close-ended lease, the 
+assets get transferred to the lessor at the end of lease, the risk of 
+obsolescence, residual value etc., remain with the lessor being the legal 
+owner of the asset.  In the open-ended lease, the lessee has the option of 
+purchasing the asset at the end of the lease period.
+
+########## MTP-S26-S2_Q p5 | venture capital
+(c)  
+Nova Green Mobility Ltd., a well-established and profitable manufacturer of 
+electrical components, is evaluating a proposal to enter the electric-vehicle (EV) 
+charging equipment business by setting up a new plant to manufacture smart EV 
+charging stations. The project calls for a capital outlay of ` 1,000 lakhs and 
+working capital of ` 150 lakhs. The plant is designed for an annual production 
+capacity of 3 lakh units, and over the project's five-year life, capacity utilisation is 
+projected as follows: 
+
+<<PAGE 6>>
+6 
+Year 
+1 
+2 
+3 
+4 
+5 
+Capacity Utilisation (%) 
+50 
+65 
+80 
+100 
+100 
+ 
+Each charging unit is expected to sell at an average price of ` 600, yielding a 
+contribution margin of 60%. Annual fixed costs (excluding depreciation) are 
+estimated at ` 500 lakhs from the third year onwards, and at ` 200 lakhs and  
+` 350 lakhs in the first and second years respectively. 
+ 
+The capital asset is expected to fetch a scrap value of ` 200 lakhs at the end of 
+the fifth year, and depreciation for income-tax purposes is charged on the written-
+down-value method at 40% p.a. The applicable income-tax rate is 30%, and the 
+cost of capital is 12%. A further ` 200 lakhs of working capital will need to be 
+invested at the end of the third year, and no capital gains tax is applicable to the 
+transaction. 
+ 
+You are required to compute the Net Present Value (NPV) of the project. Nova 
+Green Mobility Ltd. is preparing to present the proposal to Secure Venture Capital 
+Firm, which invests in a project only if it adds more than ` 100 lakhs to shareholder 
+wealth. Assess whether Nova Green Mobility Ltd. would qualify for funding from 
+Secure Venture Capital Firm on this basis. 
+    (5 Marks)
+
+########## MTP-S26-S2_Q p8 | bridge financ,callable bond,puttable bond
+(c)  
+EXPLAIN: Callable bonds and Puttable bonds.  
+(2 Marks) 
+Or  
+ 
+Briefly DESCRIBE bridge finance  
+(2 Marks) 
+
+<<PAGE 9>>
+9 
+PAPER 6B: STRATEGIC MANAGEMENT
+
+########## RTP-J26 p11 | bulldog
+(a)  
+Write the main features of Bulldog Bond.
+
+########## RTP-J26 p11 | spontaneous source
+(b) 
+What do you understand by Spontaneous Sources of finance and 
+explain its sources of finance?
+
+########## RTP-M24 p1 | venture capital
+1. 
+ArMore LLP is a newly established startup dealing in manufacture of a 
+revolutionary product HDHMR which is a substitute to conventional 
+wood and plywood. It is an economical substitute for manufacture of 
+furniture and home furnishing. It has been asked by a venture capitalist 
+for an estimated amount of funds required for setting up plant and also 
+the amount of circulating capital required. A consultant hired by the 
+entity has advised that the cost of setting up the plant would be ` 5 
+Crores and it will require 1 year to make the plant operational. The 
+anticipated revenue and associated cost numbers are as follows: 
+Units to be sold = 3 lakh sq metres p.a. 
+Sale Price of each sq mtr = ` 1000 
+Raw Material cost = ` 200 per sq mtr 
+Labour cost = ` 50 per hour 
+Labour hours per sq mtr = 3 hours 
+Cash Manufacturing Overheads = ` 75 per machine hour 
+PAPER – 6:  
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+
+<<PAGE 2>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+2 
+ 
+REVISION TEST PAPER 
+MAY 2024 EXAMINATION
+Machine hours per sq mtr = 2 hours 
+Selling and credit administration Overheads = ` 250 per sq mtr 
+ 
+Being a new product in the industry, the firm will have to give a longer 
+credit period of 3 months to its customers. It will maintain a stock of raw 
+material equal to 15% of annual consumption. Based on negotiation 
+with the creditors, the payment period has been agreed to be 1 month 
+from the date of purchase. The entity will hold finished goods equal to 2 
+months of units to be sold. All other expenses are to be paid one month 
+in arrears. Cash and Bank balance to the tune of ` 25,00,000 is required 
+to be maintained.  
+ 
+The entity is also considering reducing the working capital requirement 
+by either of the two options: a) reducing the credit period to customers 
+by a month which will lead to reduction in sales by 5%. b) Engaging with 
+a factor for managing the receivables, who will charge a commission of 
+2% of invoice value and will also advance 65% of receivables @ 12% p.a. 
+This will lead to savings in administration and bad debts cost to the 
+extent of ` 20 lakhs and 16 lakhs respectively. 
+ 
+The entity is also considering funding a part of working capital by bank 
+loan. For this purpose, bank has stipulated that it will grant 75% of net 
+current assets as advance against working capital. The bank has quoted 
+16.5% rate of interest with a condition of opening a current account with 
+it, which will require 10% of loan amount to be minimum average 
+balance. 
+ 
+You being an finance manager, has been asked the following questions: 
+(i)  
+The ant
+
+########## RTP-M25 p8 | venture capital
+9.  
+The management of Parshvam Limited is planning to expand its business 
+at international level and consults you for preparing and estimation of 
+working capital needs so that they can avail the finance from the bank. 
+The estimated data of Parshvam Limited reveal the following 
+information –  
+<<PAGE 9>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+83 
+ 
+MAY 2025 EXAMINATION 
+REVISION TEST PAPER 
+Particulars 
+Amount 
+(`) 
+Materials Used  
+ 
+Domestic on 2 months credit    
+ 
+Imports on 3 months credit **  
+ 
+9,00,000 
+6,00,000 
+Lag in Payment of wages - 1 month 
+6,00,000 
+Lag in Payment of Manufacturing Overheads – ½ Month 
+26,40,000 
+Sales 
+ 
+Domestic on 1.5 months credit 
+ 
+Export on 3 months credit (sale price 10% below 
+domestic price) 
+ 
+30,00,000 
+24,80,000 
+Administrative expenses payable in advance for 2 months 
+  3,60,000 
+Lag in payment of Selling & Distribution expenses – 1 
+month 
+  3,00,000 
+Advance Income tax for `25,000 for the quarter falling in the next 
+financial year is paid by the company. Manufacturing overheads is 
+inclusive of depreciation on the new machine purchased for tailor-made 
+export products. The purchase price for the new machine is `24,00,000 
+with a depreciation rate of 10%. Cash Gross profit is at 20% on domestic 
+sales. 
+However, to promote exports, Export Promotion Council (EPC Board) 
+provides a revenue subsidy of 2.5% for the new machine purchased. 
+Furthermore, Parshvam Limited submits the letter of credit (LOC) to its 
+bank and avails the all-Export Sales value within 1 month. Financial 
+institution charges a fee of 5% for the same. 
+The company keeps one month stock of raw materials and finished 
+goods each. Goods remain in process for half a month with 90% raw 
+materials introduced in the process. The company believes in keeping 
+cash and bank balance of `1,50,000. The management is of the opinion 
+that the safety margin is to be kept at 15%.  
+<<PAGE 10>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+84 
+ 
+REVISION TEST PAPER 
+MAY 2025 EXAMINATION
+**Raw materials imported will attract a custom duty at 20% to be paid 
+up front with a duty drawback of 5% credited upfront. You are required 
+to - 
+(A)  PREPARE the estimated working capital statement for the next 
+year.  
+(B)  
+ADVISE whether Parshvam Limited should continue with the export 
+business or not. 
+(Requisite assumptions and notes should form part of the solution). 
+Miscellaneous 
+10.  (a)  
+Explain as to how the wealth maximisation objective is superior to the 
+profit maximisation objective. 
+(b)  Explain some common methods of venture capital financing. 
+
+########## RTP-M26 p8 | lease arrangement
+8. 
+EquipLease Financial Services Ltd. is a specialized equipment leasing 
+company that has been operating in the industrial equipment financing 
+space for over 15 years. The company's business model involves 
+purchasing high-value machinery and leasing it to manufacturing 
+companies, thereby earning returns through lease rentals while retaining 
+ownership of the assets. The company has built a strong reputation for 
+providing flexible financing solutions tailored to clients' cash flow 
+patterns and business cycles. Their leasing arrangements help clients 
+conserve capital while accessing state-of-the-art equipment. 
+ 
+EquipLease has recently purchased a specialized CNC precision machine 
+with the following informations: 
+• 
+Purchase Cost: ` 10,00,000 (paid upfront) 
+• 
+Expected Useful Life: 4 years 
+• 
+Residual/Salvage Value: Nil (technology becomes obsolete) 
+• 
+Depreciation for Tax Purposes: Can be claimed by EquipLease 
+under Straight line method (SLM) or Units of Production 
+method(UOP) 
+• 
+Lease Rentals earned by company is subject to tax. 
+• 
+EquipLease's Cost of Capital: 10% per annum 
+• 
+Corporate Tax Rate: 25% 
+ 
+TechManufacture Industries Ltd., a growing precision engineering 
+company, has approached EquipLease expressing interest in leasing this 
+<<PAGE 9>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+9 
+ 
+MAY 2026 EXAMINATION 
+REVISION TEST PAPERS 
+CNC machine. TechManufacture has provided detailed information 
+about their expected utilization pattern: 
+ 
+The machine's usage will follow a graduated ramp-up pattern based on 
+TechManufacture's order book projections: 
+Year Production Capacity Utilization 
+Relative Units 
+1 
+Low (Initial phase) 
+1 unit 
+2 
+Medium 
+2 units 
+3 
+High 
+3 units 
+4 
+Peak 
+4 units 
+ 
+This pattern is typical for businesses scaling up production with new 
+equipment - starting slow as operators are trained and processes are 
+optimized, then ramping up to full capacity. The Client wants the 
+company to charge lease rentals based on the client's utilization pattern 
+1:2:3:4. 
+ 
+Mr. Vikram Malhotra, the Chief Credit Officer at EquipLease, is tasked 
+with structuring an appropriate lease arrangement. He faces several 
+strategic decisions: 
+i. 
+HOW MUCH portion of the cost is recovered from tax savings on 
+depreciation under both the methods viz. SLM & units of 
+production method. 
+ii. 
+FIND the portion of investment to be recovered from lease rentals 
+under both the assumptions i.e. Depreciation under both the 
+methods viz. SLM & units of production method. 
+iii. 
+DETERMINE minimum lease rentals needed to recover th
+
+########## RTP-S24 p10 | types of preference share
+(b) 
+EXPLAIN in brief the features of various types of preference shares. 
+ 
+ 
+<<PAGE 11>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+64 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2024 EXAMINATION
+ 
+
+6B: STRATEGIC MANAGEMENT 
+ 
+QUESTIONS 
+ 
+Multiple Choice Questions
+
+########## RTP-S25 p3 | public deposit
+2.  
+A manufacturing company which is presently growing at a good rate has 
+a Financial Leverage of 3. Its present borrowings are as follows: 
+12% Term Loan  
+ 
+ 
+` 60,00,000 
+Bank borrowings@10%  
+` 40,00,000 
+Public Deposits@8% 
+ 
+` 20,00,000 
+The Interest Coverage Ratio will be
+
+########## RTP-S26 p15 | venture capital
+9.  
+SwiftDeliver Logistics Ltd. is a same-day delivery company operating in 
+six metropolitan cities in India. The company is considering expanding to 
+Tier-2 cities. As part of due diligence, the Strategic Planning team is 
+conducting an industry environment analysis. The team has gathered the 
+following information: 
+• 
+Many e-commerce firms are building in-house delivery capabilities. 
+• 
+Fuel prices have risen 18% in the past year. 
+• 
+Drone-based last-mile delivery start-ups are attracting significant 
+venture capital funding. 
+• 
+Large e-commerce clients negotiate aggressively on delivery rates. 
+ 
+Conduct a Porter's Five Forces analysis for SwiftDeliver using the 
+information provided, identifying the relevant force for each bullet point.   
+10.  Value Chain Analysis consists of two activities: Primary activities and 
+Support activities. As per Michael Porter both the activities are 
+intertwined. Do you agree with the statement? Also delineate the main 
+areas in which primary activities of any organization are grouped.   
+Chapter 3-Strategic Analysis: Internal Environment  
+11.  OrthoCare Super Speciality Hospital has developed an advanced robotic 
+knee replacement surgery programme supported by years of surgeon 
+expertise, specialised training protocols, coordinated teamwork and a 
+unique organisational culture. Although several competing hospitals 
+have invested in similar robotic technology, they have been unable to 
+achieve comparable surgical outcomes because the hospital's expertise 
+is based on complex, tacit knowledge that cannot be easily copied. 
+Identify the characteristics of a core competency illustrated in the above 
+case and briefly explain it. 
+<<PAGE 34>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+34 
+ 
+REVISION TEST PAPERS 
+SEPTEMBER 2026 EXAMINATION
+12.  Write a short note on the key strategic drivers of an organization. 
+Chapter 4-Strategic Choices  
+13.  Elite Motors Ltd., a luxury automobile manufacturer, exclusively targets 
+ultra-high-net-worth individuals by offering premium cars with bespoke 
+features such as hand-stitched leather interiors, personalised design 
+options, and superior craftsmanship that are not available in mass-
+market vehicles. The company deliberately serves a narrow customer 
+segment and differentiates its products through exceptional quality and 
+exclusivity rather than competing on price. Identify the Porter's Generic 
+Strategy and explain the strategy with suitable justification. 
+14.  EcoBuild Materials Ltd. manufactures specialised construction materials. 
+One of its business divisions has been evaluated us
+
+########## SA-J25 p13 | esg\b|environmental, social and governance
+Question 4 
+Answer the following: 
+(a)  Explain the Environmental, Social and Governance linked Bonds. 
+ 
+(4 Marks) 
+(b)  Discuss the objectives and advantages of wealth maximization goal of 
+Financial Management.  
+(4 Marks) 
+(c)  State any two advantages of virtual banking.  
+(2 Marks) 
+OR 
+(c)  State the concept of exclusion of Financing Cost Principle.  
+(2 Marks)
+
+########## SA-J26 p14 | seed capital
+Question 4 
+(a)  Discuss briefly the key features of seed capital assistance as a source of 
+finance.  
+(4 Marks) 
+(b)  Why the Virtual banking service is popular among the customers?  
+ 
+Discuss the advantages of Virtual Banking. 
+(4 Marks) 
+<<PAGE 23>>
+ 
+INTERMEDIATE EXAMINATION: JANUARY 2026 
+ 
+SUGGESTED ANSWERS 
+22 
+(c)  Define financial distress. Briefly explain the consequences of a prolonged 
+financial distress.  
+(2 Marks) 
+OR 
+(c)  BEE Ltd. has a current ratio of 2:1, showing enough short-term liquidity in 
+the company. You are required to comment whether the current ratio will 
+improve, decline, or remain unchanged.  
+(2 Marks) 
+Sr. 
+No 
+Transaction 
+Impact 
+(i) 
+A debtor owing ` 60,000 becomes insolvent and 
+only 75% is recovered in cash in full and final 
+settlement. 
+ 
+(ii) 
+Issued equity shares for ` 2,00,000, proceeds kept 
+in current account with bank. 
+ 
+(iii) 
+` 25,000 collected from customers in cash. 
+ 
+(iv) 
+Goods costing 8,000 sold for ` 12,500 on credit.
+
+########## SA-M24 p6 | crowd ?funding
+Question 4 
+(a)  State with brief reasons whether the following statements are true or false: 
+(i)  Maximising Market Price Per Share (MPS) as the financial objective 
+which maximises the wealth of shareholders. 
+(ii)  A combination of lower risk and higher return is known as risk return 
+trade off and at this level of risk-return, profit is maximum. 
+(iii)  Financial distress is a position when accounting profits of a firm are 
+sufficient to meet its long-term obligations. 
+(iv) Angel investor is one who provides funds for start-up m exchange for an 
+ownership/equity. 
+(b)  ABC Ltd. is approaching the banks for financing its business activity. You are 
+required to describe any four forms of bank credit for the consideration of 
+the company. 
+(c)  Discuss the relevance of Payback reciprocal in capital budgeting decisions. 
+ 
+<<PAGE 20>>
+ 
+INTERMEDIATE EXAMINATION: MAY 2024 
+ 
+SUGGESTED ANSWER 
+68 
+OR 
+(c) Explain the features of crowd funding.
+
+########## SA-M25_6A p11 | bridge financ
+Question 4 
+(a)  What is agency cost and what are its types? How can a company minimize 
+agency cost and align the interest of manager and shareholder? (4 Marks) 
+(b) What are key features of bridge financing? 
+(4 Marks) 
+(c)  What is hierarchy of financing under 'Pecking Order' theory, and why does it 
+exist?  
+(2 Marks) 
+
+<<PAGE 24>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+81 
+OR 
+(c)  "The total risk of any business is the combination of degree of operating and 
+financial risk". In the light of the above statement, you are required to 
+consider the first two columns of the given table and give your comments in 
+the 3rd column. 
+ 
+Your comments should depict the total risk profile by using the most 
+appropriate amongst the following three words only: 
+ 
+Lower, Higher and Moderate 
+ 
+Also select the best combination of DOL and DFL from the given table. 
+DOL  
+DFL 
+Comments 
+Low 
+High 
+ 
+High 
+Low 
+ 
+High 
+High 
+ 
+(2 Marks)
+
+########## SA-M26 p12 | high yield bond,junk bond
+Question 4 
+(a)  MM Hypothesis of dividend policy is based on certain assumptions. What are 
+those assumptions without which the hypothesis cannot hold? Explain briefly.
+ 
+(4 Marks) 
+(b)  An Indian exporter has shipped goods to a foreign buyer, but the export 
+proceeds are yet to be realised. He approaches the bank for immediate 
+finance assistance. 
+(i)  Identify the type of finance involved. 
+(ii)  Explain any three forms of such type of finance. 
+(1 + 3 = 4 Marks) 
+(c)  How do the concepts of profit maximization and wealth maximization differ 
+in terms of objective, risk, time horizon and sustainability? 
+(2 Marks) 
+OR 
+(c)  What are Junk Bonds and why are they called 'High Yield Bonds'? 
+(2 Marks)
+
+########## SA-S24 p13 | leveraged lease,over-capitalisation|over capitalisation
+Question 4 
+Answer the following: 
+(a) Discuss any 2 advantages and 2 disadvantages of raising finance by issue of 
+debentures.  
+(4 Marks) 
+(b) List any four assumptions of Gorden’s Model. 
+(4 Marks) 
+(c) What is Leveraged Lease? Explain. 
+(2 Marks) 
+OR 
+(d) What are the remedies for over-capitalisation? 
+(2 Marks)
+
+########## SA-S25 p11 | callable bond,drop lock,floating rate bond,floating rate note,masala bond,puttable bond
+Question 4 
+Answer the following: 
+(a)  Discuss any 2 advantages and limitations of Stock Splits. 
+(4 Marks) 
+(b)  Explain in brief the following types of bonds: 
+(i)  Callable Bonds 
+(ii)  Puttable Bonds 
+(iii)  Masala Bonds 
+(iv)  Drop Lock Bonds 
+(4 Marks) 
+(c)  Explain two basic functions of Financial Management. 
+(2 Marks) 
+OR 
+(c)  Explain any two limitations of profit maximization objective of Financial 
+Management.  
+(2 Marks) 
+
+1.  It makes the share affordable to small investors. 
+2.  Number of shares may increase the number of shareholders; hence the 
+potential of investment may increase. 
+ 
+Limitations of Stock Splits 
+1.  Additional expenditure needs to be incurred on the process of stock 
+split. 
+2.  Low share price may attract speculators or short term investors, which 
+are generally not preferred by any company 
+(b) (i) Callable bonds: A callable bond has a call option which gives the issuer 
+the right to redeem the bond before maturity at a predetermined price 
+known as the call price (Generally at a premium). 
+(ii)  Puttable bonds: Puttable bonds give the investor a put option (i.e. the 
+right to sell the bond) back to the company before maturity. 
+<<PAGE 19>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWERS 
+19 
+(iii) Masala Bonds: Masala (means spice) bond is an Indian name used for 
+Rupee denominated bond that Indian corporate borrowers can sell to 
+investors in overseas markets.  
+(iv) Drop Lock Bond: It is a Floating Rate Note with a normal floating rate. 
+The floating rate bond would be automatically converted into fixed rate 
+bond if interest rate falls below a predetermined level. The new fixed 
+rate stays till the drop lock bond reaches its maturity.  
+(c)  Basic function of financial management: 
+(a)  Investment decisions (I): These decisions relate to the selection of 
+assets in which funds will be invested by a firm. 
+(b)  Financing decisions (F): These decisions relate to acquiring the 
+optimum finance to meet financial objectives and seeing that fixed and 
+working capital are effectively managed.   
+(c)  Dividend decisions (D): These decisions relate to the determination 
+as to how much and how frequently cash can be paid out of the profits 
+of an organisation as income for its owners/shareholders.   
+(d)  Working Capital Management (WCM): Generally short term decision 
+are reduced to management of current asset and current liability 
+OR 
+(c)  Limitations of profit maximisation objective: 
+(i) The term profit is vague. It does not clarify what exactly it means.  
+(ii) Profit maximisation has to be 

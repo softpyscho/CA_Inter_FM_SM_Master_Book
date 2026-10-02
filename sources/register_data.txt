@@ -1,0 +1,322 @@
+# Heading register for CA Inter Paper 6, taken from the ICAI detailed contents
+# (Study Material relevant for May 2026 examination onwards).
+# Format:  one chapter header line "## <code prefix> | <chapter title>", then "<ref>|<heading>" lines.
+# Codes are built as <prefix>.<serial per heading> and must never be renumbered once issued.
+
+## F02 | Types of Financing
+1|1. Financial Needs and Sources of Finance of a Business
+2|2. Classification of Financial Sources
+2.1|2.1 Sources of Finance based on Basic Sources
+2.2|2.2 Sources of Finance based on Maturity of Payment
+2.3|2.3 Sources of Finance based on Ownership and Control
+3|3. Long-term Sources of Finance
+3.1|3.1 Owners Capital or Equity Capital
+3.2|3.2 Preference Share Capital
+3.3|3.3 Retained Earnings
+3.4|3.4 Debentures
+3.5|3.5 Bond
+3.6|3.6 Loans from Financial Institutions
+3.7|3.7 Loans from Commercial Banks
+4|4. Venture Capital Financing
+4.1|4.1 Meaning of Venture Capital Financing
+4.2|4.2 Characteristics of Venture Capital Financing
+4.3|4.3 Methods of Venture Capital Financing
+5|5. Debt Securitisation
+6|6. Lease Financing
+6.1|6.1 Types of Lease Contracts
+6.2|6.2 Other Types of Leases
+7|7. Short-term Sources of Finance
+8|8. Other Sources of Financing
+9|9. International Financing
+10|10. Contemporary Sources of Funding
+
+## F03 | Financial Analysis and Planning – Ratio Analysis
+1|1. Introduction
+2|2. Ratio and Ratio Analysis
+2.1|2.1 Definition of Ratio
+2.2|2.2 Ratio Analysis
+2.3|2.3 Sources of Financial Data for Analysis
+3|3. Types of Ratios
+3.1|3.1 Liquidity Ratios
+3.2|3.2 Long-term Solvency Ratios / Leverage Ratios
+3.2.1|3.2.1 Capital Structure Ratios
+3.2.2|3.2.2 Coverage Ratios
+3.3|3.3 Activity / Efficiency / Performance / Turnover Ratios
+3.4|3.4 Profitability Ratios
+3.4.1|3.4.1 Profitability Ratios based on Sales
+3.4.2|3.4.2 Profitability Ratios related to Overall Return on Assets / Investments
+3.4.3|3.4.3 Profitability Ratios from the Owner's Point of View
+3.4.4|3.4.4 Profitability Ratios related to Market / Valuation / Investors
+4|4. Users and Objective of Financial Analysis: A Bird's Eye View
+5|5. Application of Ratio Analysis in Financial Decision Making
+5.1|5.1 Financial Ratios for Evaluating Performance
+6|6. Limitations of Financial Ratios
+7|7. Financial Analysis
+8|8. Summary of Ratios
+
+## F04 | Cost of Capital
+1|1. Introduction
+2|2. Meaning of Cost of Capital
+3|3. Significance of Cost of Capital
+4|4. Determination of Cost of Capital
+5|5. Cost of Long-Term Debt (Kd)
+5.1|5.1 Features of Debentures or Bonds
+5.2|5.2 Cost of Irredeemable Debentures
+5.3|5.3 Cost of Redeemable Debentures (approximation method)
+5.3.1|5.3.1 Cost of Debt using Present Value Method (YTM approach)
+5.3.2|5.3.2 Amortisation of Bond
+5.4|5.4 Cost of Convertible Debentures
+6|6. Cost of Preference Share Capital (Kp)
+6.1|6.1 Cost of Irredeemable Preference Shares
+6.2|6.2 Cost of Redeemable Preference Shares
+7|7. Cost of Equity Share Capital (Ke)
+7.1|7.1 Dividend Price Approach
+7.2|7.2 Earnings Price Approach
+7.3|7.3 Growth Approach or Gordon's Model
+7.4|7.4 Realized Yield Approach
+7.5|7.5 Capital Asset Pricing Model (CAPM) Approach
+8|8. Cost of Retained Earnings (Kr)
+9|9. Weighted Average Cost of Capital (WACC)
+9.1|9.1 Choice of Weights
+10|10. Marginal Cost of Capital
+
+## F05 | Financing Decisions – Capital Structure
+1|1. Meaning of Capital Structure
+2|2. Capital Structure Theories
+2.1|2.1 Net Income (NI) Approach
+2.2|2.2 Traditional Approach
+2.3|2.3 Net Operating Income (NOI) Approach
+2.4|2.4 Modigliani-Miller (MM) Approach
+2.5|2.5 The Trade-off Theory
+2.6|2.6 Pecking Order Theory
+3|3. Factors Determining Capital Structure
+3.1|3.1 Choice of Source of Funds
+3.2|3.2 Factors Affecting Capital Structure
+4|4. Optimal Capital Structure
+5|5. EBIT-EPS-MPS Analysis
+5.1|5.1 Relationship between EBIT-EPS-MPS
+5.2|5.2 Financial Break-Even Point and Indifference Point Analysis
+6|6. Over-Capitalisation and Under-Capitalisation
+6.1|6.1 Over-Capitalisation
+6.2|6.2 Under-Capitalisation
+6.3|6.3 Over-Capitalisation vis-a-vis Under-Capitalisation
+
+## F06 | Financing Decisions – Leverages
+1|1. Introduction
+2|2. Meaning and Types of Leverages
+2.1|2.1 Meaning of Leverage
+2.2|2.2 Types of Leverage
+2.3|2.3 Chart showing Degree of Operating, Financial and Combined Leverage
+3|3. Operating Leverage
+3.1|3.1 Degree of Operating Leverage (DOL)
+3.2|3.2 Break-Even Analysis and Operating Leverage
+3.3|3.3 Margin of Safety (MOS) and Operating Leverage
+4|4. Financial Leverage
+4.1|4.1 Degree of Financial Leverage (DFL)
+4.2|4.2 Financial Leverage as 'Trading on Equity'
+4.3|4.3 Financial Leverage as a 'Double edged Sword'
+5|5. Combined Leverage
+5.1|5.1 Degree of Combined Leverage (DCL)
+5.2|5.2 Analysis of Combined Leverage
+
+## F07 | Investment Decisions
+1|1. Introduction
+2|2. Purpose of Capital Budgeting
+3|3. Capital Budgeting Process
+4|4. Types of Capital Investment Decisions
+4.1|4.1 On the basis of firm's existence
+4.2|4.2 On the basis of situations
+4.3|4.3 Steps of Capital Budgeting Procedure
+5|5. Estimation of Project Cash Flows
+6|6. Basic Principles for Measuring Project Cash Flows
+6.1|6.1 Block of Assets and Depreciation
+6.2|6.2 Exclusion of Financing Costs Principle
+6.3|6.3 Post-tax Principle
+7|7. Capital Budgeting Techniques
+8|8. Traditional or Non-Discounting Techniques
+8.1|8.1 Payback Period
+8.1.1|8.1.1 Payback Reciprocal
+8.2|8.2 Accounting (Book) Rate of Return / Average Rate of Return (ARR)
+9|9. Discounting Techniques
+9.1|9.1 Net Present Value Technique (NPV)
+9.2|9.2 Profitability Index / Desirability Factor / Present Value Index (PI)
+9.3|9.3 Internal Rate of Return Method (IRR)
+9.3.1|9.3.1 Acceptance Rule
+9.3.2|9.3.2 IRR and Mutually Exclusive Projects
+9.3.3|9.3.3 The Reinvestment Assumption
+9.3.4|9.3.4 Multiple Internal Rate of Return
+9.4|9.4 Discounted Payback Period Method
+9.5|9.5 Modified Internal Rate of Return (MIRR)
+9.6|9.6 Comparison of NPV and IRR Methods
+9.7|9.7 Different conclusions in specific scenarios
+10|10. Summary of Decision Criteria of Capital Budgeting Techniques
+11|11. Special Cases of Capital Budgeting
+11.1|11.1 Capital Budgeting under Capital Rationing
+11.2|11.2 Projects with unequal lives
+
+## F08 | Dividend Decision
+1|1. Introduction
+2|2. Meaning of Dividend
+3|3. Forms of Dividend
+4|4. Significance of Dividend Policy
+5|5. Relationship between Retained Earnings and Growth
+6|6. Determinants of Dividend Decisions
+7|7. Practical Considerations in Dividend Policy
+8|8. Theories of Dividend
+8.1|8.1 Dividend's Irrelevance Theory
+8.2|8.2 Dividend's Relevance Theory
+9|9. Stock Splits
+9.1|9.1 Meaning of Stock Split
+9.2|9.2 Advantages of Stock Splits
+9.3|9.3 Limitations of Stock Splits
+10|10. Share Buyback
+10.1|10.1 Meaning of Share Buyback
+
+## F09 | Management of Working Capital
+1|Unit I · 1. Meaning and Concept of Working Capital
+2|Unit I · 2. Significance of Working Capital
+2.1|2.1 Importance of Adequate Working Capital
+2.2|2.2 Optimum Working Capital
+3|Unit I · 3. Determinants of Working Capital
+4|Unit I · 4. Management of Working Capital
+4.1|4.1 Liquidity and Profitability
+4.2|4.2 Investment and Financing
+4.3|4.3 Approaches of Working Capital Investment
+4.4|4.4 Current Assets to Fixed Assets Ratio
+5|Unit I · 5. Estimating Working Capital Needs
+6|Unit I · 6. Operating or Working Capital Cycle
+6.1|6.1 Working Capital Based on Operating Cycle
+6.2|6.2 Estimation of Components of Current Assets and Current Liabilities
+6.3|6.3 Working Capital Requirement Estimation based on Cash Cost
+6.4|6.4 Effect of Double Shift Working on Working Capital Requirements
+7|Unit II · 7. Treasury Management: Meaning
+8|Unit II · 8. Functions of Treasury Department
+9|Unit II · 9. Management of Cash
+9.1|9.1 The Need for Cash
+9.2|9.2 Cash Planning
+9.3|9.3 Cash Budget
+10|Unit II · 10. Methods of Cash Flow Budgeting
+10.1|10.1 Cash budget for short period
+10.2|10.2 Cash Budget for long period
+10.3|10.3 Managing Cash Collection and Disbursements
+10.4|10.4 Accelerating Cash Collections
+10.5|10.5 Controlling Payments
+10.6|10.6 Determining the Optimum Cash Balance
+11|Unit II · 11. Cash Management Models
+11.1|11.1 William J. Baumol's Economic Order Quantity Model (1952)
+11.2|11.2 Miller-Orr Cash Management Model (1966)
+12|Unit II · 12. Recent Developments in Cash Management
+12.1|12.1 Electronic Fund Transfer
+12.2|12.2 Zero Balance Account
+12.3|12.3 Money Market Operations
+12.4|12.4 Petty Cash Imprest System
+12.5|12.5 Management of Temporary Cash Surplus
+12.6|12.6 Electronic Cash Management System
+12.7|12.7 Virtual Banking
+13|Unit II · 13. Management of Marketable Securities
+14|Unit III · 14. Inventory Management
+15|Unit IV · 15. Meaning and Objective (Receivables)
+16|Unit IV · 16. Aspects of Management of Debtors
+17|Unit IV · 17. Factors Determining Credit Policy
+18|Unit IV · 18. Factors under the Control of the Finance Manager
+19|Unit IV · 19. Approaches to Evaluation of Credit Policies
+20|Unit IV · 20. Financing Receivables
+20.1|20.1 Pledging and Factoring
+20.2|20.2 Forfaiting
+21|Unit IV · 21. Innovations in Receivable Management
+22|Unit IV · 22. Monitoring of Receivables
+23|Unit V · 23. Introduction (Payables)
+24|Unit V · 24. Cost and Benefits of Trade Credit
+25|Unit V · 25. Computation of Cost of Payables
+26|Unit VI · 26. Introduction (Financing of Working Capital)
+27|Unit VI · 27. Sources of Finance
+27.1|27.1 Spontaneous Sources of Finance
+27.2|27.2 Inter-corporate Loans and Deposits
+27.3|27.3 Commercial Papers
+27.4|27.4 Funds Generated from Operations
+27.5|27.5 Public Deposits
+27.6|27.6 Bills Discounting
+27.7|27.7 Bill Rediscounting Scheme
+27.8|27.8 Factoring
+28|Unit VI · 28. Working Capital Finance from Banks
+28.1|28.1 Instructions on Working Capital Finance by Banks
+29|Unit VI · 29. Forms of Bank Credit
+
+## S02 | Strategic Analysis: External Environment
+2.1|2.1 Introduction
+2.2|2.2 Strategic Analysis
+2.2.1|2.2.1 Issues to consider for Strategic Analysis
+2.3|2.3 Strategic and Business Environment
+2.3.1|2.3.1 Micro and Macro Environment
+2.3.2|2.3.2 Elements of Macro Environment
+2.3.3|2.3.3 PESTLE – a tool to analyse Macro Environment
+2.3.4|2.3.4 Internationalization of Business
+2.3.5|2.3.5 International Environment
+2.4|2.4 Understanding Product and Industry
+2.4.1|2.4.1 Product Life Cycle
+2.4.2|2.4.2 Value Chain Analysis
+2.5|2.5 Industry Environment Analysis
+2.5.1|2.5.1 Porter's Five Forces Model
+2.5.2|2.5.2 Attractiveness of Industry
+2.5.3|2.5.3 Experience Curve
+2.5.4|2.5.4 Value Creation
+2.6|2.6 Market & Customer
+2.6.1|2.6.1 Customer
+2.6.2|2.6.2 Customer Analysis
+2.6.3|2.6.3 Customer Behaviour
+2.7|2.7 Competitive Strategy
+2.7.1|2.7.1 Competitive Landscape
+2.7.2|2.7.2 Key Factors for Competitive Success
+
+## S03 | Strategic Analysis: Internal Environment
+3.1|3.1 Introduction
+3.2|3.2 Understanding Key Stakeholders
+3.2.1|3.2.1 Mendelow's Matrix
+3.3|3.3 Strategic Drivers
+3.3.1|3.3.1 Industry and Markets
+3.3.2|3.3.2 Customers
+3.3.3|3.3.3 Product / Services
+3.3.4|3.3.4 Channels
+3.4|3.4 Role of Resources and Capabilities: Building Core Competency
+3.4.1|3.4.1 Criteria for building Core Competencies
+3.5|3.5 Combining External and Internal Analysis (SWOT Analysis)
+3.6|3.6 Competitive Advantage: Michael Porter's Generic Strategies
+3.6.1|3.6.1 Sustainability of Competitive Advantage
+3.6.2|3.6.2 Michael Porter's Generic Strategies
+
+## S04 | Strategic Choices
+4.1|4.1 Introduction
+4.2|4.2 Strategic Choices
+4.2.1|4.2.1 Stability Strategy
+4.2.1.1|4.2.1.1 Characteristics of Stability Strategy
+4.2.1.2|4.2.1.2 Major Reasons for Stability Strategy
+4.2.2|4.2.2 Growth / Expansion Strategy
+4.2.2.1|4.2.2.1 Characteristics of Growth / Expansion Strategy
+4.2.2.2|4.2.2.2 Major Reasons for Growth / Expansion Strategy
+4.2.2.3|4.2.2.3 Types of Growth / Expansion Strategy (internal and external)
+4.3|4.3 Strategic Exits
+4.4|4.4 Strategic Options
+4.4.1|4.4.1 Ansoff's Product Market Growth Matrix
+4.4.2|4.4.2 ADL Matrix
+4.4.3|4.4.3 Boston Consulting Group (BCG) Growth-Share Matrix
+4.4.4|4.4.4 General Electric Matrix ("Stop-Light" Strategy Model)
+
+## S05 | Strategy Implementation and Evaluation
+5.1|5.1 Introduction
+5.2|5.2 Strategic Management Process
+5.2.1|5.2.1 Stages in Strategic Management
+5.2.2|5.2.2 Strategy Formulation
+5.2.3|5.2.3 Strategy Implementation
+5.2.4|5.2.4 Difference between Strategy Formulation and Implementation
+5.2.5|5.2.5 Linkages and Issues in Strategy Implementation
+5.3|5.3 Strategic Change through Digital Transformation
+5.3.1|5.3.1 Strategic Change
+5.3.2|5.3.2 How does Digital Transformation work?
+5.3.3|5.3.3 Change Management Strategies for Digital Transformation
+5.3.4|5.3.4 How to manage change during Digital Transformation?
+5.4|5.4 Organizational Framework
+5.4.1|5.4.1 Organization Structure
+5.4.2|5.4.2 Organization Culture
+5.5|5.5 Strategic Leadership
+5.6|5.6 Strategic Control
+5.7|5.7 Strategic Performance Measures

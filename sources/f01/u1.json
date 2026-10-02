@@ -1,0 +1,968 @@
+{
+ "meta": {
+  "chapter_no": 1,
+  "section": "FM",
+  "paper": "CA Intermediate · Paper 6A · Financial Management",
+  "chapter_title": "FM Chapter 1 — Scope and Objectives of Financial Management",
+  "short_title": "FM Ch 1 Scope & Objectives of FM",
+  "module": "Paper 6A Financial Management · Module 1",
+  "attempt": "January 2027",
+  "sm_edition": "ICAI BoS Study Material, Paper 6A Financial Management (relevant for May 2026 examination onwards), Module 1, Chapter 1 (pp. 1.1–1.29)",
+  "last_verified": "17-09-2026",
+  "status_summary": "SM headings 19/19 · official atoms 30/30"
+ },
+ "sections_before": [
+  {
+   "heading": "Examiner Mindset — FM Chapter 1",
+   "blocks": [
+    {
+     "type": "box",
+     "tag": "pyq",
+     "title": "What ICAI's published papers tell us",
+     "bullets": [
+      "ICAI's examiners' comments for Group II cover Papers 4 and 5 only, so there are no published comments for Paper 6. The guidance below is drawn from ICAI's own suggested answers, RTPs and MTPs.",
+      "This chapter is tested in the **theory question (Q4)** of Section A almost every attempt: in 6 of the 7 exams from May 2024 to May 2026 (not in Sep 2024), for 2 or 4 marks.",
+      "The favourite area is **profit maximisation vs wealth maximisation**: May 2024, Jan 2025, Sep 2025 (OR) and May 2026 all touched it, and four RTPs asked it again.",
+      "Newer favourites: **agency problem / agency cost** (May 2025, plus three MTPs) and **financial distress and insolvency** (May 2024 true/false, Jan 2026, one MTP)."
+     ]
+    },
+    {
+     "type": "box",
+     "tag": "face",
+     "title": "How ICAI answers this chapter (study guidance)",
+     "bullets": [
+      "ICAI's answers reproduce the **study-material list almost word for word**: four limitations of profit maximisation, five responsibilities of a finance executive, four types of agency cost, three ways to address the agency problem. Learn the exact count and the opening word of each point.",
+      "For 2-mark parts ICAI writes a **definition plus 2–4 crisp points** (e.g. financial distress: one-line meaning + what happens if distress continues). Do not write an essay.",
+      "Comparison questions (profit vs wealth) are answered as a **table**: objective, advantages, disadvantages; in May 2026 the rows were objective, risk, time horizon and sustainability.",
+      "Case-style theory (MTP Sep 2025: Project X vs Project Y) is answered with a **one-line verdict first**, then the concept, then how the facts fit."
+     ]
+    }
+   ]
+  }
+ ],
+ "snapshot": {
+  "about": "What financial management is, the two aspects (raising funds and using them well), the three long-term decisions plus working capital, why FM matters, its scope, the two objectives (profit vs wealth maximisation) and their conflict, the finance executive's role, financial distress and insolvency, how FM relates to accounting and other disciplines, and the agency problem.",
+  "why": "It is the vocabulary chapter of Paper 6A: every later chapter (cost of capital, capital structure, leverage, capital budgeting, dividend, working capital) is one of the decisions introduced here. In the exam it gives an easy 2–4 mark theory part almost every attempt.",
+  "core_concepts": [
+   "F01.02 Meaning of FM and its two aspects: procurement and effective utilisation of funds",
+   "F01.04 Finance functions: investment, financing and dividend decisions (V = f(I, F, D)) plus working capital management",
+   "F01.07.01 Profit maximisation and its four limitations",
+   "F01.07.02 Wealth maximisation / value creation and how the value of a firm is measured",
+   "F01.08 Conflict between profit and value maximisation; advantages and disadvantages table",
+   "F01.10 Financial distress and insolvency",
+   "F01.12 Agency problem, agency cost and how to address it"
+  ],
+  "key_provisions": [
+   "V = f (I, F, D)",
+   "Value of a firm (V) = Number of shares (N) × Market price of shares (MP), or V = Value of equity (Ve) + Value of debt (Vd)",
+   "Wealth = Present value of benefits − Present value of costs"
+  ],
+  "tested_areas": [
+   {
+    "text": "Profit vs wealth maximisation (limitations, advantages, differences)",
+    "evidence": "PYQ May 2024 Q4(a), Jan 2025 Q4(b), Sep 2025 Q4(c) OR, May 2026 Q4(c); RTP May 2024, Sep 2024, May 2025, Jan 2026; 6 MTPs"
+   },
+   {
+    "text": "Agency problem and agency cost",
+    "evidence": "PYQ May 2025 Q4(a); MTP Sep 2024 Series II, May 2025 Series I"
+   },
+   {
+    "text": "Financial distress and insolvency",
+    "evidence": "PYQ May 2024 Q4(a)(iii), Jan 2026 Q4(c); MTP Sep 2025 Series I"
+   },
+   {
+    "text": "Finance functions and their inter-relationship",
+    "evidence": "PYQ Sep 2025 Q4(c); MTP May 2024 Series II, Sep 2026 Series II"
+   },
+   {
+    "text": "Sources of funds described in this chapter (equity, debentures, banks, international funding, angel financing)",
+    "evidence": "PYQ May 2024 Q4(a)(iv); RTP Sep 2025, May 2026"
+   }
+  ],
+  "mistakes": [
+   "Writing 'profit maximisation is the main objective' — ICAI's answer is that wealth maximisation is the better objective in an uncertain, multi-period world.",
+   "Defining financial distress in terms of accounting profit; ICAI defines it in terms of cash inflows being inadequate to meet current obligations.",
+   "Listing only three types of agency cost; ICAI lists four: monitoring, bonding, opportunity, structuring.",
+   "Treating accounting and financial management as the same: accounting uses the accrual basis; FM uses cash flows."
+  ],
+  "links": [
+   "FM Ch 2 Types of Financing: detailed study of the sources introduced in §2.1",
+   "FM Ch 4 to Ch 6 (cost of capital, capital structure, leverage): the financing decision",
+   "FM Ch 7 Investment Decisions: capital budgeting mentioned in §2.2 and §4",
+   "FM Ch 8 Dividend Decisions: the dividend decision",
+   "FM Ch 9 Working Capital: the short-term finance function",
+   "SM Ch 1 §1.6: corporate-level managers as guardians of shareholders' wealth"
+  ],
+  "revision_path": "5 min: the three decisions + four limitations of profit maximisation · 15 min: add the wealth maximisation table, distress, agency cost types · 30 min: add finance executive, FM vs accounting, importance and scope lists."
+ },
+ "evidence": {
+  "pyq_table": [
+   {
+    "id": "PYQ-M24-Q4a",
+    "question": "True or false with reasons: MPS maximisation and shareholder wealth; risk-return trade-off; meaning of financial distress; angel investor",
+    "concept": "F01.07.02",
+    "marks": 4,
+    "type": "True / False with reasons",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-J25-Q4b",
+    "question": "Objective and advantages of the wealth maximisation goal",
+    "concept": "F01.07.02",
+    "marks": 4,
+    "type": "Discuss",
+    "repeat": "R2 (PYQ-M24-Q4a)"
+   },
+   {
+    "id": "PYQ-M25-Q4a",
+    "question": "Agency cost: meaning, types, how to minimise it and align manager and shareholder interests",
+    "concept": "F01.12",
+    "marks": 4,
+    "type": "Explain",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S25-Q4c",
+    "question": "Two basic functions of financial management",
+    "concept": "F01.04",
+    "marks": 2,
+    "type": "Explain",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S25-Q4c-OR",
+    "question": "Any two limitations of the profit maximisation objective",
+    "concept": "F01.07.01",
+    "marks": 2,
+    "type": "Explain",
+    "repeat": "R2 (PYQ-J25-Q4b)"
+   },
+   {
+    "id": "PYQ-J26-Q4c",
+    "question": "Define financial distress and state the consequences of prolonged distress",
+    "concept": "F01.10",
+    "marks": 2,
+    "type": "Define + explain",
+    "repeat": "R2 (PYQ-M24-Q4a)"
+   },
+   {
+    "id": "PYQ-M26-Q4c",
+    "question": "Profit vs wealth maximisation in terms of objective, risk, time horizon and sustainability",
+    "concept": "F01.08",
+    "marks": 2,
+    "type": "Differentiate",
+    "repeat": "R2 (PYQ-S25-Q4c-OR)"
+   }
+  ],
+  "trend": [
+   "Always a Section A Q4 theory part: 2 marks (part c) or 4 marks (parts a/b). No numerical question is set on this chapter.",
+   "Profit vs wealth maximisation has appeared in four of seven attempts in different forms: true/false, advantages, limitations, comparison table.",
+   "From 2025 ICAI moved to newer headings: agency cost (May 2025), financial distress (Jan 2026), basic functions (Sep 2025).",
+   "ICAI suggested answers are near-verbatim study-material lists; the marks go to the listed points."
+  ],
+  "rtp_takeaways": [
+   "Four RTPs (May 2024, Sep 2024, May 2025, Jan 2026) repeat profit vs wealth maximisation, showing it is the core area.",
+   "Sep 2025 and May 2026 RTPs turned §2.1 (sources of funds: equity, debentures, banks, international funding, angel financing) into questions.",
+   "The Sep 2026 RTP asked the importance of financial management through a case: expect case-wrapped theory.",
+   "The Jan 2025 RTP asked about emerging priorities in the future role of the CFO. That list is not in the current study material, so it is kept here as supplementary reading."
+  ],
+  "mtp_takeaways": [
+   "Profit maximisation 'not an operationally feasible criterion' appeared in three MTPs (Nov 2024, Mar 2026, Jul 2026).",
+   "Agency problem appeared twice (Aug 2024, Mar 2025) and the inter-relationship of investment, financing and dividend decisions twice (Apr 2024, Aug 2026).",
+   "MTPs also cover FM vs financial accounting, role of the CFO, importance of FM, measuring the value of a firm, and distress/insolvency."
+  ],
+  "note": "Counting method: every official part mapped to this chapter from ICAI suggested answers (May 2024 to May 2026), RTPs (May 2024 to Sep 2026) and MTPs (Mar 2024 to Aug 2026). Suggested answers for May 2024 do not include the MCQ part."
+ },
+ "concepts": [
+  {
+   "code": "F01.01 + F01.02",
+   "title": "1–2. Introduction and Meaning of Financial Management",
+   "activity": "Foundation",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 0",
+   "understand": [
+    "**Start-up picture (SM §1).** An entrepreneur starting a business goes through four stages of decisions: (1) decide **which assets** to buy (premises, machinery, equipment); (2) work out the **total investment** needed to buy those assets; (3) find how much cash is needed to run **daily operations** (raw material, salaries, wages), i.e. the **working capital requirement**; (4) decide **which sources** to tap to finance the total investment (share capital including own funds, bank borrowings, investment from financial institutions).",
+    "While deciding how much to take from each source, the entrepreneur keeps the **cost of capital** of each source (interest, dividend) in mind and tries to keep it low.",
+    "==Financial management is concerned with efficient acquisition (financing) and allocation (investment in assets, working capital etc.) of funds with an objective to make profit (dividend) for owners.== Its focus is three major decision areas: **investment, financing and dividend**.",
+    "Every business asks **three key questions**: (1) Where to get the money from? — **Financing decision**; (2) Where to invest the money? — **Investment decision**; (3) How much to distribute amongst shareholders to keep them satisfied? — **Dividend decision**.",
+    "**Meaning (SM §2).** Financial management is the managerial activity concerned with **planning and controlling the firm's financial resources**, i.e. ==acquiring, financing and managing assets to accomplish the overall goal of a business enterprise (mainly to maximise the shareholder's wealth)==.",
+    "Because **positive cash flow matters more than book profit**, FM can also be defined as planning for the future of a business to ensure a positive cash flow. Some experts call it the **science of money management**.",
+    "Definition: \"Financial Management comprises of **forecasting, planning, organizing, directing, co-ordinating and controlling** of all activities relating to **acquisition and application** of the financial resources of an undertaking in keeping with its financial objective.\"",
+    "**Phillippatus**: \"Financial Management is concerned with the managerial decisions that result in the **acquisition and financing of short term and long term credits** for the firm.\" It deals with selecting specific assets (or combinations of assets) and with problems of size and growth of an enterprise; these decisions are analysed on the basis of **expected inflows and outflows of funds** and their effect on managerial objectives.",
+    "There are **two basic aspects** of financial management: ==procurement of funds== and ==effective use (utilisation) of these funds== to achieve business objectives (both studied in the next topic)."
+   ],
+   "example": "A new bakery must decide which ovens to buy (investment), how much cash to keep for flour and wages (working capital), whether to use owner's money or a bank loan (financing), and later how much profit to pay out to the owners (dividend).",
+   "provisions": [
+    {
+     "ref": "Definitions to quote",
+     "status": "VERIFIED",
+     "requirement": "General definition: forecasting, planning, organizing, directing, co-ordinating and controlling all activities relating to acquisition and application of financial resources. Phillippatus: managerial decisions resulting in acquisition and financing of short-term and long-term credits for the firm.",
+     "exam_angle": "The SM asks you to ELABORATE Phillippatus's statement; quote it and explain asset selection, size and growth, and inflow/outflow analysis."
+    }
+   ],
+   "keywords": [
+    "efficient acquisition and allocation of funds",
+    "investment, financing and dividend decisions",
+    "planning and controlling of financial resources",
+    "maximise shareholders' wealth",
+    "positive cash flow",
+    "science of money management"
+   ],
+   "memory": {
+    "trick": "\"GET – PUT – SHARE\": Get money (financing), Put money (investment), Share money (dividend).",
+    "key": [
+     [
+      "GET",
+      "Where to get money from? → Financing decision"
+     ],
+     [
+      "PUT",
+      "Where to invest it? → Investment decision"
+     ],
+     [
+      "SHARE",
+      "How much to give owners? → Dividend decision"
+     ]
+    ],
+    "recall_trigger": "GET-PUT-SHARE"
+   },
+   "mistakes": [
+    "Saying FM is only about raising money. The SM gives two aspects: procurement and effective utilisation.",
+    "Calling FM 'profit management'. The SM says the overall goal is mainly to maximise shareholders' wealth, and cash flow matters more than book profit."
+   ],
+   "links": [
+    "🔗 FM Ch 2 Types of Financing: the sources an entrepreneur taps (stage 4)",
+    "🔗 FM Ch 9 Working Capital: the daily-operations cash of stage 3"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Elaborate a definition (SM theoretical question)",
+     "MCQ on what FM is 'mainly concerned with'"
+    ],
+    "approach": [
+     "Quote the definition, then explain its parts in 3–4 bullets",
+     "Tie every point back to acquisition and application of funds"
+    ],
+    "official_pattern": "Not asked in a past paper, RTP or MTP so far; covered by SM MCQs 1, 5 and 11.",
+    "time_tip": "4 marks ≈ 7 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "Definition in ICAI words",
+     "Two aspects: procurement and utilisation",
+     "Three decisions",
+     "Goal: shareholders' wealth"
+    ],
+    "keywords": [
+     "acquisition and application of financial resources",
+     "short term and long term credits"
+    ],
+    "length": "8–10 lines for 4 marks",
+    "conclusion": "Thus financial management is concerned with efficient acquisition and allocation of funds to maximise shareholders' wealth.",
+    "avoid": [
+     "Writing about accounting entries or bookkeeping"
+    ]
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-F01.02-1",
+     "form": "Elaborate (4 marks)",
+     "marks": 4,
+     "question": "\"Financial Management is concerned with acquisition and financing of short-term and long-term credit.\" Elaborate the statement.",
+     "answer_points": [
+      "This is Phillippatus's definition: FM is concerned with the managerial decisions that result in the acquisition and financing of short-term and long-term credits for the firm.",
+      "It deals with situations that require selection of specific assets (or a combination of assets) and with the specific problem of size and growth of an enterprise.",
+      "These decisions are analysed on the basis of the expected inflows and outflows of funds and their effect on managerial objectives.",
+      "FM therefore has two basic aspects: procurement of funds from different sources, and their effective utilisation to achieve business objectives.",
+      "Its overall aim is to acquire, finance and manage assets to accomplish the overall goal of the enterprise, mainly maximising shareholders' wealth."
+     ],
+     "conclusion": "Hence FM covers both raising short- and long-term funds and deploying them efficiently.",
+     "keywords": [
+      "Phillippatus",
+      "acquisition and financing",
+      "inflows and outflows of funds",
+      "size and growth"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F01.01-01",
+     "angle": "Direct",
+     "difficulty": "Easy",
+     "question": "\"Where to get the money from?\" is the key question behind which finance decision?",
+     "options": {
+      "A": "Financing decision",
+      "B": "Investment decision",
+      "C": "Dividend decision",
+      "D": "Working capital decision"
+     },
+     "answer": "A",
+     "explanation": "SM §1 lists three questions: where to get the money from (financing), where to invest it (investment), how much to distribute (dividend).",
+     "why_wrong": {
+      "B": "Investment answers 'where to invest the money?'",
+      "C": "Dividend answers 'how much to distribute to shareholders?'",
+      "D": "Working capital concerns current assets and liabilities, not sourcing of funds."
+     },
+     "trap": "Mixing up 'get' (financing) with 'put' (investment).",
+     "concept": "F01.01"
+    },
+    {
+     "id": "MCQ-F01.02-02",
+     "angle": "Which is correct",
+     "difficulty": "Moderate",
+     "question": "As per the study material, financial management is mainly concerned with:",
+     "options": {
+      "A": "Recording business transactions on the accrual basis",
+      "B": "Acquiring, financing and managing assets to accomplish the overall goal of a business enterprise",
+      "C": "Achieving the sole objective of profit maximisation",
+      "D": "Preparing statutory financial statements for shareholders"
+     },
+     "answer": "B",
+     "explanation": "SM §2: FM is concerned with acquiring, financing and managing assets to accomplish the overall goal of the enterprise (mainly to maximise shareholders' wealth). This matches SM MCQ 11.",
+     "why_wrong": {
+      "A": "That describes accounting, not FM.",
+      "C": "Profit maximisation is not the sole objective; the SM prefers wealth maximisation.",
+      "D": "Financial statements are an accounting output that FM only uses as input."
+     },
+     "trap": "Option C sounds finance-like but uses the word 'sole'.",
+     "concept": "F01.02"
+    }
+   ],
+   "recap": [
+    "FM = efficient acquisition + allocation of funds.",
+    "Three questions → financing, investment, dividend decisions.",
+    "Two aspects: procurement and effective utilisation of funds."
+   ]
+  },
+  {
+   "code": "F01.02.01 + F01.02.02",
+   "title": "2.1–2.2 Procurement of Funds and Effective Utilisation of Funds",
+   "activity": "Medium",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 2 (Sep 2024 Q2(b), May 2024 Q4(a)(iv)) · RTP 2 (Sep 2025, May 2026)",
+   "understand": [
+    "**Procurement of funds (§2.1).** Funds can come from many sources, so procuring them is always a **complex problem**. Sources shown in the SM: **Owner's funds, Debentures and Bonds, Angel Financing, Venture Capital, Commercial Banks (short, medium and long-term funds)**.",
+    "In a global competitive scenario it is not enough to depend on available ways of raising finance. **Resource mobilisation has to be undertaken through innovative financial products** that meet investors' needs, e.g. ==trading in Carbon Credits== is turning out to be another source of funding.",
+    "==Funds from different sources have different characteristics in terms of risk, cost and control.== The cost of funds should be at the minimum level, for which a proper **balancing of risk and control** must be carried out. Another key consideration is to strike a **balance between equity and debt** so that the funding structure suits the business.",
+    "**(a) Equity:** best from the **risk** point of view (no repayment except on liquidation), but usually the **most expensive** source, because shareholders expect dividends higher than prevailing interest rates and **dividends are an appropriation of profit, not allowed as an expense** under the Income Tax Act. A new public issue may also **dilute control** of existing shareholders.",
+    "**(b) Debentures:** comparatively **cheaper** than shares because of the **tax advantage** (interest is deductible; dividends come from taxed profits). But interest must be paid even in hard times and whether or not there is profit, and debentures must be repaid as per agreement, so they carry a **high degree of risk**.",
+    "**(c) Funding from banks:** commercial banks support routine activities (deposits, payments) and meet long- and short-term needs. Lending services are **Fund based**: Cash Credit, Overdraft, Term Loans, Working Capital Term (loans), Bill Purchase/Discounting; and **Non-fund based**: Guarantee, Letters of Credit.",
+    "**(d) International funding:** with liberalisation and globalisation, capital can be raised from international markets. **FDI and FII** are the two major routes, besides **ADRs (American Depository Receipts)** and **GDRs (Global Depository Receipts)**. The procurement mechanism must be modified to suit foreign investors' requirements.",
+    "**(e) Angel financing:** a form of **equity financing** where an angel investor, a **wealthy individual**, provides capital for start-up or expansion **in exchange for ownership/equity**. Angels have idle cash and seek higher returns than traditional investments; they typically invest **around 25 to 60 per cent** to help a company get started. It is sometimes the **last option for start-ups** that do not qualify for bank funding and are **too small for venture capital**.",
+    "**Effective utilisation of funds (§2.2).** The finance manager must point out where funds are **idle or improperly used**. All funds carry a cost and a risk; if they do not generate income higher than their cost, there is no point in running the business, so funds must be employed **properly and profitably**.",
+    "**(a) Utilisation for fixed assets:** invest so that the company can produce at its optimum level **without endangering financial solvency**; this needs sound knowledge of **capital budgeting**, the planning process to decide whether long-term investments (new or replacement machinery, new plants, new products, R&D projects) will give the desired return.",
+    "**(b) Utilisation for working capital:** keep **adequate** working capital while ensuring that **too much is not blocked** in inventories, book debts, cash etc."
+   ],
+   "example": "A start-up rejected by banks and too small for a venture capital fund raises ₹50 lakh from a wealthy individual for a 40% stake. That is angel financing: equity-based and within the 25–60% range mentioned in the SM.",
+   "provisions": [
+    {
+     "ref": "Risk, cost and control of the main sources (SM §2.1)",
+     "status": "VERIFIED",
+     "requirement": "Equity: lowest risk to firm, highest cost, possible dilution of control. Debentures: cheaper due to tax-deductible interest, but compulsory interest and repayment make them risky. Banks: fund-based and non-fund-based lending. International: FDI, FII, ADR, GDR. Angel: equity for start-ups, 25–60%.",
+     "exam_angle": "RTP Sep 2025 gave five features and asked for the matching source; RTP May 2026 asked the features of international funding and angel financing."
+    }
+   ],
+   "keywords": [
+    "risk, cost and control",
+    "balance between equity and debt",
+    "most expensive source of funds",
+    "tax advantage",
+    "fund based / non-fund based",
+    "FDI, FII, ADR, GDR",
+    "angel investor",
+    "last option for startups",
+    "capital budgeting",
+    "idle funds"
+   ],
+   "memory": {
+    "trick": "\"E-D-B-I-A\" for the five sources in SM order: Equity, Debentures, Banks, International, Angel. Each carries a one-word tag: Expensive, Deductible, Both fund & non-fund, Inflow from abroad, Angel = last option.",
+    "key": [
+     [
+      "E",
+      "Equity: safest for firm, costliest, dilutes control"
+     ],
+     [
+      "D",
+      "Debentures: cheaper (tax), but risky (fixed interest + repayment)"
+     ],
+     [
+      "B",
+      "Banks: fund based (CC, OD, TL, WCTL, bills) + non-fund (guarantee, LC)"
+     ],
+     [
+      "I",
+      "International: FDI, FII, ADR, GDR"
+     ],
+     [
+      "A",
+      "Angel: wealthy individual, equity, 25–60%, last option for start-ups"
+     ]
+    ],
+    "recall_trigger": "E-D-B-I-A"
+   },
+   "mistakes": [
+    "Calling angel financing a loan. It is equity financing in exchange for ownership.",
+    "Saying equity is risky for the company. It is the least risky for the firm because it need not be repaid, but it is the most expensive.",
+    "Forgetting non-fund-based bank services (guarantee, letter of credit)."
+   ],
+   "compare": {
+    "title": "Equity vs Debentures (SM §2.1)",
+    "headers": [
+     "Basis",
+     "Equity",
+     "Debentures"
+    ],
+    "rows": [
+     [
+      "Risk to firm",
+      "Lowest: no repayment except on liquidation",
+      "High: repayment as per terms, interest even without profit"
+     ],
+     [
+      "Cost",
+      "Most expensive: dividend expectations high; dividend not tax-deductible",
+      "Cheaper: interest is tax-deductible"
+     ],
+     [
+      "Control",
+      "New issue may dilute control",
+      "No dilution"
+     ],
+     [
+      "In hard times",
+      "Dividend need not be paid",
+      "Interest must be paid"
+     ]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 2 Types of Financing: detailed coverage of each source, including venture capital and international instruments",
+    "🔗 FM Ch 7 Investment Decisions: capital budgeting for fixed-asset utilisation",
+    "🔗 FM Ch 9 Working Capital: avoiding funds blocked in inventory, debtors and cash"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Match features to sources (RTP Sep 2025)",
+     "Features of international funding and angel financing (RTP May 2026)",
+     "True/false statement on angel investors (PYQ May 2024)",
+     "Three main considerations in procuring funds (SM theoretical question 4)"
+    ],
+    "approach": [
+     "For 'considerations in procuring funds', write risk, cost and control, plus balance of debt and equity",
+     "For features of a source, give meaning + 2–3 characteristics in SM words"
+    ],
+    "official_pattern": "PYQ-S24-Q2b; PYQ-M24-Q4a statement (iv); RTP-S25-FQ10a; RTP-M26-FQ10a.",
+    "time_tip": "2 marks ≈ 3–4 minutes; 4 marks ≈ 7 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "Name the source",
+     "One-line meaning",
+     "Risk / cost / control features",
+     "Who uses it and when"
+    ],
+    "keywords": [
+     "risk, cost and control",
+     "last option for startups",
+     "FDI and FII"
+    ],
+    "length": "4–6 lines per source",
+    "conclusion": "The finance manager should choose the mix that minimises cost after balancing risk and control.",
+    "avoid": [
+     "Mixing angel investors with venture capital funds",
+     "Describing ADR/GDR procedures in detail (that belongs to FM Ch 2)"
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-S24-Q2b",
+     "marks": 2,
+     "status": "VERIFIED",
+     "question": "Explain angel financing.",
+     "answer_points": [
+      "Angel financing is a form of equity financing in which an individual, or a group of individuals, provides capital to entrepreneurs and early-stage businesses or start-ups, in exchange for an ownership or equity stake in the company.",
+      "Angel investors may provide a one-time investment or an ongoing capital injection through a series of investments.",
+      "Angel investors are looking for a higher rate of return than what is given by traditional investments.",
+      "The study material adds that angels typically invest around 25 to 60 per cent to help a company get started, and that this source is sometimes the last option for start-ups which do not qualify for bank funding and are too small for venture capital financing."
+     ],
+     "conclusion": "Three or four lines carry the full 2 marks.",
+     "keywords": [
+      "equity-financing",
+      "early-stage businesses",
+      "ownership/equity",
+      "higher rate of return"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "RTP-S25-FQ10a",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "Identify the most relevant source of funds for each feature: (i) it is the most expensive source of funds; (ii) it carries a high degree of risk because it must be repaid as per the terms of agreement; (iii) it supports businesses in their routine activities; (iv) it gives the option of raising capital from international markets; (v) it is sometimes the last option for start-ups that do not qualify for bank funding.",
+     "answer_points": [
+      "(i) Equity",
+      "(ii) Debentures",
+      "(iii) Funding from banks",
+      "(iv) International funding",
+      "(v) Angel financing"
+     ],
+     "conclusion": "Each feature is taken directly from the SM description of the source.",
+     "keywords": [
+      "most expensive",
+      "repaid as per terms",
+      "routine activities",
+      "international markets",
+      "last option for startups"
+     ]
+    },
+    {
+     "id": "RTP-M26-FQ10a",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "Discuss the features of international funding and angel financing in the context of corporate financing.",
+     "answer_points": [
+      "**International funding:** with liberalisation and globalisation, a business can raise capital from international markets.",
+      "Foreign Direct Investment (FDI) and Foreign Institutional Investors (FII) are the two major routes for raising funds from foreign sources, besides ADRs (American Depository Receipts) and GDRs (Global Depository Receipts).",
+      "The mechanism of procuring funds has to be modified in the light of the requirements of foreign investors.",
+      "**Angel financing:** a form of equity financing where an angel investor, a wealthy individual, provides capital for start-up or expansion in exchange for ownership/equity in the company.",
+      "Angels typically invest around 25 to 60 per cent to help a company get started.",
+      "It is sometimes the last option for start-ups that do not qualify for bank funding and are too small for venture capital financing."
+     ],
+     "keywords": [
+      "FDI",
+      "FII",
+      "ADR",
+      "GDR",
+      "equity financing",
+      "wealthy individual",
+      "25 to 60 per cent"
+     ]
+    }
+   ],
+   "expected_questions": [
+    {
+     "id": "EQ-F01.02.01-1",
+     "form": "Discuss (4 marks)",
+     "marks": 4,
+     "question": "Discuss the three main considerations in procuring funds, and explain why equity is called the best source from the risk point of view but the most expensive from the cost point of view.",
+     "answer_points": [
+      "Funds from different sources differ in **risk, cost and control**; these are the three main considerations.",
+      "Cost of funds should be kept at the minimum, for which a proper balancing of risk and control must be carried out; a balance between equity and debt should suit the business.",
+      "Equity is best from the risk point of view because there is no question of repayment except when the firm is under liquidation.",
+      "Equity is the most expensive because shareholders' dividend expectations are normally higher than prevailing interest rates, and dividends are an appropriation of profit, not an expense allowed under the Income Tax Act.",
+      "A new public issue of shares may also dilute the control of existing shareholders."
+     ],
+     "conclusion": "So the finance manager balances equity (safe but costly) with debt (cheap but risky) to minimise overall cost.",
+     "keywords": [
+      "risk, cost and control",
+      "appropriation of profit",
+      "dilute the control"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F01.02.01-01",
+     "angle": "Case-based",
+     "difficulty": "Moderate",
+     "question": "TinyBot Ltd., a two-year-old start-up, was refused a bank loan and is too small for a venture capital fund. A wealthy individual offers ₹40 lakh for a 35% stake. This source of finance is:",
+     "options": {
+      "A": "Venture capital financing",
+      "B": "Term loan from a commercial bank",
+      "C": "Angel financing",
+      "D": "Non-fund based bank facility"
+     },
+     "answer": "C",
+     "explanation": "SM §2.1(e): an angel investor is a wealthy individual who provides capital for start-up in exchange for equity, typically 25–60%, and it is often the last option for start-ups that do not qualify for bank funding and are too small for venture capital.",
+     "why_wrong": {
+      "A": "The facts say the firm is too small for venture capital.",
+      "B": "The bank refused the loan, and a stake means equity, not a loan.",
+      "D": "Guarantees and letters of credit provide no cash."
+     },
+     "trap": "Confusing angel investors with venture capital funds.",
+     "concept": "F01.02.01"
+    },
+    {
+     "id": "MCQ-F01.02.02-02",
+     "angle": "Statement",
+     "difficulty": "Moderate",
+     "question": "Which statement on effective utilisation of funds is correct as per the study material?",
+     "options": {
+      "A": "Funds should be kept idle to preserve liquidity at all times",
+      "B": "Working capital should be kept as high as possible to avoid any shortage",
+      "C": "Utilisation for fixed assets does not need capital budgeting knowledge",
+      "D": "If funds do not generate income higher than their cost, there is no point in running the business"
+     },
+     "answer": "D",
+     "explanation": "SM §2.2: all funds are procured at a cost and with risk; if they do not generate income higher than their cost, there is no point in running the business.",
+     "why_wrong": {
+      "A": "The finance manager must point out idle funds.",
+      "B": "Too much should not be blocked in inventories, debtors and cash.",
+      "C": "The SM requires sound knowledge of capital budgeting."
+     },
+     "trap": "Assuming 'more working capital is always safer'.",
+     "concept": "F01.02.02"
+    }
+   ],
+   "recap": [
+    "Sources differ in risk, cost and control.",
+    "Equity safest but costliest; debentures cheaper but risky; angel = equity for start-ups.",
+    "Use funds properly: capital budgeting for fixed assets, optimum working capital."
+   ]
+  },
+  {
+   "code": "F01.03",
+   "title": "3. Evolution of Financial Management",
+   "activity": "Low",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 0",
+   "understand": [
+    "Financial management evolved gradually over the past 50 years and emerged as a **separate field of study at the beginning of the century**. The SM divides its evolution into **three phases**.",
+    "**Traditional phase:** FM was considered necessary **only during occasional events** such as **takeovers, mergers, expansion, liquidation**. Financial decisions kept in mind the needs of **outsiders** (investment bankers, lenders and similar people).",
+    "**Transitional phase:** importance shifted to the **day-to-day problems** faced by financial managers; **funds analysis, planning and control** got more attention.",
+    "**Modern phase (still going on):** the scope of FM has greatly increased; **financial analysis** helps decision making. Many theories have developed on **efficient markets, capital budgeting, option pricing, valuation models** and other fields.",
+    "SM MCQ 9 key: ==early in the history of finance, an important issue was liquidity== (outsiders such as lenders cared about the firm's ability to pay)."
+   ],
+   "example": "A 1950s company would call in finance experts only when merging with another firm (traditional phase); a modern company uses valuation models every quarter (modern phase).",
+   "keywords": [
+    "traditional phase",
+    "transitional phase",
+    "modern phase",
+    "occasional events",
+    "day-to-day problems",
+    "efficient markets, capital budgeting, option pricing, valuation models"
+   ],
+   "memory": {
+    "trick": "\"O-D-T\": Occasional events → Day-to-day problems → Theories.",
+    "key": [
+     [
+      "O",
+      "Traditional: occasional events (mergers, takeovers, liquidation), outsiders' needs"
+     ],
+     [
+      "D",
+      "Transitional: day-to-day problems, funds analysis, planning and control"
+     ],
+     [
+      "T",
+      "Modern: theories (efficient markets, capital budgeting, option pricing, valuation)"
+     ]
+    ],
+    "recall_trigger": "O-D-T"
+   },
+   "mistakes": [
+    "Swapping transitional and modern phases.",
+    "Saying the modern phase has ended. The SM says it is still going on."
+   ],
+   "face_in_exam": {
+    "forms": [
+     "MCQ on the features of a phase",
+     "Short note on evolution (low probability)"
+    ],
+    "approach": [
+     "Link each phase to its focus word: occasional, day-to-day, theories"
+    ],
+    "official_pattern": "Not asked so far; SM MCQ 9 tests it.",
+    "time_tip": "MCQ only; 2-mark note ≈ 3 minutes (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-F01.03-1",
+     "form": "Short note (2 marks)",
+     "marks": 2,
+     "question": "Write a short note on the evolution of financial management.",
+     "answer_points": [
+      "Traditional phase: FM needed only for occasional events such as takeovers, mergers, expansion and liquidation; outsiders' needs (investment bankers, lenders) were kept in mind.",
+      "Transitional phase: day-to-day problems of financial managers gained importance; funds analysis, planning and control got attention.",
+      "Modern phase (continuing): wider scope, financial analysis for decision making, and theories on efficient markets, capital budgeting, option pricing and valuation models."
+     ],
+     "keywords": [
+      "traditional",
+      "transitional",
+      "modern"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F01.03-01",
+     "angle": "Direct",
+     "difficulty": "Easy",
+     "question": "During which phase of evolution was financial management considered necessary only for occasional events such as mergers, takeovers and liquidation?",
+     "options": {
+      "A": "Traditional phase",
+      "B": "Transitional phase",
+      "C": "Modern phase",
+      "D": "Globalisation phase"
+     },
+     "answer": "A",
+     "explanation": "SM §3: in the traditional phase FM was needed only during occasional events such as takeovers, mergers, expansion and liquidation.",
+     "why_wrong": {
+      "B": "The transitional phase focused on day-to-day problems.",
+      "C": "The modern phase focuses on analysis and theories.",
+      "D": "No such phase in the SM."
+     },
+     "trap": "'Globalisation' sounds like a phase but is not one of the three.",
+     "concept": "F01.03"
+    },
+    {
+     "id": "MCQ-F01.03-02",
+     "angle": "Which is correct",
+     "difficulty": "Moderate",
+     "question": "Theories on efficient markets, option pricing and valuation models were developed during the:",
+     "options": {
+      "A": "Traditional phase, which is now over",
+      "B": "Modern phase, which is still going on",
+      "C": "Transitional phase, focused on day-to-day problems",
+      "D": "Traditional phase, focused on outsiders' needs"
+     },
+     "answer": "B",
+     "explanation": "SM §3: the modern phase is still going on; many theories on efficient markets, capital budgeting, option pricing and valuation models were developed in it.",
+     "why_wrong": {
+      "A": "Wrong phase.",
+      "C": "The transitional phase dealt with funds analysis, planning and control.",
+      "D": "Wrong phase."
+     },
+     "trap": "Believing the modern phase has ended.",
+     "concept": "F01.03"
+    }
+   ],
+   "recap": [
+    "Traditional: occasional events and outsiders.",
+    "Transitional: day-to-day problems.",
+    "Modern (ongoing): analysis and theories."
+   ]
+  },
+  {
+   "code": "F01.04",
+   "title": "4. Finance Functions / Finance Decisions",
+   "activity": "Medium",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (Sep 2025 Q4(c)) · MTP 2 (Apr 2024, Aug 2026)",
+   "understand": [
+    "==Value of a firm depends on the finance functions/decisions: V = f (I, F, D).== The finance functions are divided into **long-term** and **short-term** functions/decisions.",
+    "**(a) Investment decisions (I):** relate to the **selection of assets** in which funds will be invested. Long-term funds are used in a project for fixed assets and also for current assets. Investment must be made after careful assessment of projects through **capital budgeting**. A part of long-term funds is kept for **working capital**. **Asset management policies** are laid down for current assets; e.g. **inventory policy** is decided by the production manager and finance manager considering production requirements, future raw material prices and availability of funds.",
+    "**(b) Financing decisions (F):** relate to **acquiring the optimum finance** to meet financial objectives and seeing that fixed and working capital are effectively managed. The finance manager needs knowledge of **sources of funds and their costs**, and must ensure a **sound capital structure** (proper balance between equity and debt).",
+    "Financing decisions also need a clear understanding of the **difference between profit and cash flow**: profit is of little use unless the organisation has cash to pay for assets and sustain the working capital cycle. They require **evaluation of risk**, e.g. ==excessive debt carries high risk for equity== because lenders have priority rights. **Overseas trading** exposes the firm to currency fluctuations, so the manager must know protective procedures like **hedging** (a strategy to minimise, reduce or cancel out the risk in another investment; e.g. a shopkeeper hedges fire risk through a fire insurance contract).",
+    "**(c) Dividend decisions (D):** relate to **how much and how frequently cash can be paid out** of profits to owners. Owners are rewarded in two ways: **growth of capital** invested and **cash paid out as income** (drawings for a sole trader, dividends for a company).",
+    "The dividend decision has **two elements**: the **amount paid out** and the **amount retained** for growth; retention is also a **financing decision**. The level and regular growth of dividends is a significant factor in a company's **market value** (value placed on its shares by the stock market).",
+    "==All three decisions are inter-related.== The first two apply to **any kind of organisation**; the dividend decision applies **only to profit-making organisations**. So FM is vital at every level, from a sole trader to the largest multinational.",
+    "**Short-term finance decision/function — Working Capital Management (WCM):** short-term decisions are generally reduced to the **management of current assets and current liabilities**."
+   ],
+   "example": "A company plans a ₹10 crore plant (investment). It must decide between retained profits and a loan (financing). If it retains profits, it pays a smaller dividend (dividend). All three decisions together affect its share price, V = f(I, F, D).",
+   "provisions": [
+    {
+     "ref": "V = f (I, F, D)",
+     "status": "VERIFIED",
+     "requirement": "Value of the firm is a function of Investment, Financing and Dividend decisions; short-term function = working capital management.",
+     "exam_angle": "Write the function first, then explain each letter; for 'inter-relationship' questions show how each decision affects the others and the market price of shares."
+    }
+   ],
+   "keywords": [
+    "V = f (I, F, D)",
+    "selection of assets",
+    "capital budgeting",
+    "optimum finance",
+    "sound capital structure",
+    "profit and cash flow",
+    "hedging",
+    "amount paid out and amount retained",
+    "inter-related",
+    "working capital management"
+   ],
+   "memory": {
+    "trick": "\"I-F-D + W\": three long-term decisions + one short-term function. Dividend = the only one that needs profit.",
+    "key": [
+     [
+      "I",
+      "Which assets? Capital budgeting, asset management policies"
+     ],
+     [
+      "F",
+      "Which funds? Optimum mix, capital structure, risk, hedging"
+     ],
+     [
+      "D",
+      "How much to pay? Pay-out vs retention (retention = financing too)"
+     ],
+     [
+      "W",
+      "Current assets and current liabilities"
+     ]
+    ],
+    "recall_trigger": "V = f(I,F,D) + W"
+   },
+   "mistakes": [
+    "Saying all three decisions apply to every organisation. Dividend decisions relate only to profit-making organisations.",
+    "Forgetting that retained earnings make the dividend decision also a financing decision.",
+    "Writing only three functions in a 'basic functions' question. ICAI's Sep 2025 answer also listed working capital management."
+   ],
+   "links": [
+    "🔗 FM Ch 4, 5, 6: the financing decision in depth",
+    "🔗 FM Ch 7: the investment decision",
+    "🔗 FM Ch 8: the dividend decision",
+    "🔗 FM Ch 9: working capital management"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Two basic functions of FM (PYQ Sep 2025, 2 marks)",
+     "Inter-relationship of investment, financing and dividend decisions (MTP, 4 marks)",
+     "Discuss the two main aspects of the finance function (SM question 3)"
+    ],
+    "approach": [
+     "Start with V = f(I, F, D)",
+     "Explain each decision in one line of ICAI wording",
+     "For inter-relationship: common objective = shareholders' wealth; show investment needs finance, and retention reduces dividends"
+    ],
+    "official_pattern": "PYQ-S25-Q4c (functions, 2 marks); MTP-M24-S2-FQ4a and MTP-S26-S2-FQ4a (inter-relationship, 4 marks).",
+    "time_tip": "2 marks ≈ 3–4 minutes; 4 marks ≈ 7 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "V = f(I, F, D)",
+     "Investment decision (meaning + capital budgeting)",
+     "Financing decision (optimum mix)",
+     "Dividend decision (pay-out vs retention)",
+     "Working capital management (short-term)"
+    ],
+    "keywords": [
+     "selection of assets",
+     "optimum finance",
+     "how much and how frequently cash can be paid"
+    ],
+    "length": "2 marks: 4 one-line points; 4 marks: 10–12 lines",
+    "conclusion": "These decisions are inter-related and should be taken jointly to maximise shareholders' wealth.",
+    "avoid": [
+     "Explaining NPV or dividend models; those belong to later chapters"
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-S25-Q4c",
+     "marks": 2,
+     "status": "VERIFIED",
+     "question": "Explain two basic functions of financial management.",
+     "answer_points": [
+      "**Investment decisions (I):** relate to the selection of assets in which funds will be invested by a firm.",
+      "**Financing decisions (F):** relate to acquiring the optimum finance to meet financial objectives and seeing that fixed and working capital are effectively managed.",
+      "**Dividend decisions (D):** relate to how much and how frequently cash can be paid out of the profits of an organisation as income for its owners/shareholders.",
+      "**Working capital management (WCM):** short-term decisions are generally reduced to management of current assets and current liabilities."
+     ],
+     "conclusion": "Any two of these, explained in one or two lines each, earn the 2 marks (ICAI's answer lists all four).",
+     "keywords": [
+      "selection of assets",
+      "optimum finance",
+      "paid out of the profits",
+      "current assets and current liabilities"
+     ]
+    },
+    {
+     "id": "MTP-M24-S2-FQ4a",
+     "marks": 4,
+     "status": "VERIFIED",
+     "question": "Write a short note on the inter-relationship between investment, financing and dividend decisions.",
+     "answer_points": [
+      "The finance functions are divided into three major decisions: investment, financing and dividend. They are inter-related because their underlying objective is the same: maximisation of shareholders' wealth.",
+      "One must consider the joint impact of these decisions on the market price of the company's shares, and they should be solved jointly.",
+      "The decision to invest in a new project needs finance; the financing decision in turn is influenced by, and influences, the dividend decision, because retained earnings used for internal financing deprive shareholders of dividends. Efficient FM ensures optimal joint decisions by evaluating each in relation to shareholders' wealth.",
+      "**Investment decision:** long-term funds are invested after careful assessment of projects through capital budgeting and uncertainty analysis; only a proposal expected to yield at least enough to meet its cost of financing is accepted, which influences profitability and wealth.",
+      "**Financing decision:** funds can be raised from various sources, each with different issues; the finance manager balances long-term and short-term funds and ensures a proper mix of loan funds and owner's funds. The optimum financing mix increases return to equity shareholders and maximises their wealth.",
+      "**Dividend decision:** the finance manager assists top management in deciding what portion of profit to pay as dividend and what portion to retain; an optimal dividend pay-out ratio maximises shareholders' wealth."
+     ],
+     "conclusion": "Investment, financing and dividend decisions are inter-related and should be taken jointly, keeping in view their joint effect on shareholders' wealth.",
+     "keywords": [
+      "inter-related",
+      "joint impact on market price",
+      "retained earnings deprive shareholders of dividends",
+      "optimum financing mix",
+      "optimal dividend pay-out ratio"
+     ],
+     "also_asked_as": [
+      "MTP-S26-S2-FQ4a (identical short note, 4 marks)"
+     ]
+    }
+   ],
+   "expected_questions": [
+    {
+     "id": "EQ-F01.04-1",
+     "form": "Discuss (4 marks)",
+     "marks": 4,
+     "question": "\"Financing decisions call for a good knowledge of evaluation of risk and of the difference between profit and cash flow.\" Discuss with reference to the financing decision.",
+     "answer_points": [
+      "Financing decisions relate to acquiring the optimum finance and seeing that fixed and working capital are effectively managed.",
+      "The manager must know the available sources and their costs and ensure a sound capital structure: a proper balance between equity and debt.",
+      "Profit is of little avail unless the organisation has enough cash to pay for assets and sustain the working capital cycle, so the difference between profit and cash flow must be understood.",
+      "Excessive debt carries high risk for equity because of the priority rights of lenders.",
+      "In overseas trading the firm is exposed to currency fluctuations; the manager should know protective procedures such as hedging, a strategy to minimise, reduce or cancel out risk (e.g. fire insurance for a shopkeeper)."
+     ],
+     "conclusion": "Thus a sound financing decision balances cost, cash flow and risk.",
+     "keywords": [
+      "optimum finance",
+      "sound capital structure",
+      "profit and cash flow",
+      "priority rights of lenders",
+      "hedging"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F01.04-01",
+     "angle": "Statement",
+     "difficulty": "Moderate",
+     "question": "Which of the following statements about finance decisions is correct?",
+     "options": {
+      "A": "All three decisions apply equally to profit-making and non-profit organisations",
+      "B": "Retention of profits is purely a dividend decision with no financing effect",
+      "C": "The dividend decision relates only to profit-making organisations",
+      "D": "Working capital management is a long-term finance decision"
+     },
+     "answer": "C",
+     "explanation": "SM §4: the first two decisions pertain to any kind of organisation, while the dividend decision relates only to profit-making organisations.",
+     "why_wrong": {
+      "A": "The dividend decision needs profits.",
+      "B": "The amount retained is also a financing decision.",
+      "D": "WCM is the short-term function."
+     },
+     "trap": "Assuming every decision applies to every entity.",
+     "concept": "F01.04"
+    },
+    {
+     "id": "MCQ-F01.04-02",
+     "angle": "Case-based",
+     "difficulty": "Moderate",
+     "question": "Rhea, finance manager of an exporter, buys forward contracts so that a fall in the US dollar does not hurt the company's receivables. The procedure she uses, mentioned under financing decisions in the study material, is:",
+     "options": {
+      "A": "Capital budgeting",
+      "B": "Working capital cycle",
+      "C": "Dividend smoothing",
+      "D": "Hedging"
+     },
+     "answer": "D",
+     "explanation": "SM §4(b): in overseas trading an organisation is vulnerable to currency fluctuations; the manager must know protective procedures such as hedging, a strategy to minimise, reduce or cancel out risk.",
+     "why_wrong": {
+      "A": "Capital budgeting evaluates long-term projects.",
+      "B": "Working capital cycle is about current assets and liabilities.",
+      "C": "Not about currency risk."
+     },
+     "trap": "Choosing capital budgeting because the question mentions finance manager decisions.",
+     "concept": "F01.04"
+    }
+   ],
+   "recap": [
+    "V = f(I, F, D); short-term = WCM.",
+    "Dividend decision only for profit-making entities; retention = financing.",
+    "Decisions are inter-related via shareholders' wealth."
+   ]
+  }
+ ]
+}

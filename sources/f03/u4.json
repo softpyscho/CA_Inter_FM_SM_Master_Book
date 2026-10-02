@@ -1,0 +1,901 @@
+{
+ "confusing": [
+  {
+   "title": "The pairs that cost marks in ratio questions",
+   "headers": [
+    "Looks similar",
+    "The real difference",
+    "Give-away word"
+   ],
+   "rows": [
+    [
+     "Current ratio vs quick ratio",
+     "Quick assets drop inventories AND prepaid expenses; benchmarks are 2:1 and 1:1",
+     "'Acid test' means quick"
+    ],
+    [
+     "Operating ratio vs operating profit ratio",
+     "Operating ratio is costs over sales; operating profit ratio is EBIT over sales. They add to 100%",
+     "'Profit' in the name means the margin, not the cost"
+    ],
+    [
+     "Cost of goods sold vs cost of sales",
+     "Only selling and distribution expenses separate them; in their absence they are equal",
+     "If selling expenses are given, the two differ"
+    ],
+    [
+     "Capital gearing vs proprietary ratio",
+     "Preference capital sits in the numerator of gearing but inside the proprietary fund",
+     "Preference capital switches sides"
+    ],
+    [
+     "ROCE vs ROE",
+     "ROCE is EBIT over capital employed (equity + long-term debt); ROE is PAT less preference dividend over net worth",
+     "'Employed' means everyone's money"
+    ],
+    [
+     "Dividend percentage vs dividend yield",
+     "Percentage is on paid-up value; yield is on market price and is the true return",
+     "'Yield' always means market price"
+    ],
+    [
+     "Interest coverage vs fixed charges coverage",
+     "Interest coverage is EBIT over interest; fixed charges adds depreciation on top and loan repayment below",
+     "Depreciation added means fixed charges"
+    ],
+    [
+     "Horizontal vs vertical analysis",
+     "Horizontal compares years; vertical reads one year as percentages of sales and total assets",
+     "'Single year' means vertical"
+    ],
+    [
+     "Intangible vs fictitious assets",
+     "Intangibles (goodwill, patents, trade marks) are included in capital employed; fictitious assets (deferred expenses) are not",
+     "'Deferred' means leave it out"
+    ]
+   ],
+   "spot_it": "When two formulae are possible, ICAI accepts either — but only if you write the assumption down first."
+  },
+  {
+   "title": "Every benchmark and note the study material gives",
+   "headers": [
+    "Item",
+    "The study material's words",
+    "Where it matters"
+   ],
+   "rows": [
+    [
+     "Current ratio",
+     "A generally acceptable current ratio is 2:1",
+     "The comment line of a liquidity answer"
+    ],
+    [
+     "Quick ratio",
+     "An acid-test of 1:1 is considered satisfactory",
+     "The comment line of a liquidity answer"
+    ],
+    [
+     "Net working capital",
+     "The result must be a positive number, though in certain business models it may be negative",
+     "Bankers tie loans to a minimum working capital"
+    ],
+    [
+     "Debt ratio",
+     "A ratio greater than 1 would mean a greater portion of assets are funded by debt and could be risky",
+     "Long-term solvency comment"
+    ],
+    [
+     "Debt service coverage",
+     "Normally a DSCR of 1.5 to 2 is satisfactory",
+     "Lender's view"
+    ],
+    [
+     "Fixed charges coverage",
+     "A ratio of more than 1 is considered safe",
+     "Lender's view"
+    ],
+    [
+     "ROCE",
+     "ROCE should always be higher than the rate at which the company borrows",
+     "The single best comment in a profitability answer"
+    ],
+    [
+     "Q ratio",
+     "Equilibrium is when Q = 1; below 1 may mean undervalued, above 1 overvalued",
+     "Market ratio MCQ"
+    ],
+    [
+     "Working capital turnover",
+     "A very high ratio indicates that the company needs to raise additional working capital for future needs",
+     "Do not read 'high' as simply good"
+    ],
+    [
+     "Fixed assets turnover",
+     "A firm whose plant and machinery are old may show a higher ratio than one that bought recently",
+     "The efficiency may be an accident of depreciation"
+    ],
+    [
+     "Deviating from a formula",
+     "Ratios shall be calculated based on requirement and availability of information and may deviate from original formulae; if required, assumptions should be given",
+     "Write the assumption before the working"
+    ],
+    [
+     "Correspondence",
+     "Numerator should be taken in correspondence with the denominator and vice-versa",
+     "COGS with inventory, credit sales with debtors, credit purchases with creditors"
+    ]
+   ],
+   "spot_it": "If a question hands you a percentage or a number of times, the examiner is checking whether you know which formula it belongs to."
+  }
+ ],
+ "cases": [
+  {
+   "id": "CASE-F03-INT-1",
+   "title": "Integrated Case 1 — Sarita Textiles Ltd. under the lens",
+   "facts": [
+    "Sarita Textiles Ltd. reports sales of ₹48,00,000, all on credit, with a gross profit ratio of 25%. Opening stock was ₹2,50,000 and closing stock ₹3,50,000. Opening debtors were ₹5,50,000 and closing debtors ₹6,50,000. Assume a 360-day year.",
+    "Its balance sheet shows current assets of ₹8,00,000, of which inventories are ₹3,50,000 and prepaid expenses ₹30,000, against current liabilities of ₹3,20,000 which include a bank overdraft of ₹40,000.",
+    "The long-term side shows equity share capital ₹8,00,000, reserves and surplus ₹2,00,000, 10% preference share capital ₹3,00,000 and 12% debentures ₹7,00,000. Total assets are ₹23,20,000.",
+    "Earnings before interest and tax for the year were ₹4,80,000; the tax rate is 30%. The company also carries deferred revenue expenditure of ₹20,000 on the assets side.",
+    "Sarita deals in cotton garments and holds four times its normal inventory from October to January. The financial year closes on 31st March, at the low point of that cycle."
+   ],
+   "questions": [
+    {
+     "q": "The quick ratio of Sarita Textiles Ltd. is:",
+     "options": {
+      "A": "1.31 : 1",
+      "B": "2.50 : 1",
+      "C": "1.41 : 1",
+      "D": "1.28 : 1"
+     },
+     "answer": "A",
+     "reasoning": [
+      "SM §3.1(b): Quick Assets = Current Assets − Inventories − Prepaid expenses = ₹8,00,000 − ₹3,50,000 − ₹30,000 = ₹4,20,000.",
+      "Quick ratio = ₹4,20,000 ÷ ₹3,20,000 = 1.3125, stated as 1.31 : 1, comfortably above the satisfactory 1:1.",
+      "Option C (1.41 : 1) is the figure you get by deducting inventories but leaving prepaid expenses in — the single most common slip in this chapter. Option B is the current ratio, ₹8,00,000 ÷ ₹3,20,000."
+     ]
+    },
+    {
+     "q": "The inventory turnover ratio, based on cost of goods sold, is:",
+     "options": {
+      "A": "12 times",
+      "B": "16 times",
+      "C": "13.71 times",
+      "D": "10.29 times"
+     },
+     "answer": "A",
+     "reasoning": [
+      "Cost of goods sold = Sales − Gross profit = ₹48,00,000 − 25% of ₹48,00,000 = ₹36,00,000.",
+      "Average inventory = (Opening stock ₹2,50,000 + Closing stock ₹3,50,000) ÷ 2 = ₹3,00,000.",
+      "SM §3.3: Inventory Turnover Ratio = Cost of Goods Sold ÷ Average Inventory = ₹36,00,000 ÷ ₹3,00,000 = 12 times, an inventory holding period of 30 days."
+     ]
+    },
+    {
+     "q": "The capital gearing ratio of the company is:",
+     "options": {
+      "A": "0.70 : 1",
+      "B": "1.00 : 1",
+      "C": "0.30 : 1",
+      "D": "1.30 : 1"
+     },
+     "answer": "B",
+     "reasoning": [
+      "SM §3.2.1: Capital Gearing Ratio = (Preference Share Capital + Debentures + Other Borrowed funds) ÷ (Equity Share Capital + Reserves & Surplus − Losses).",
+      "Numerator = ₹3,00,000 + ₹7,00,000 = ₹10,00,000. Denominator = ₹8,00,000 + ₹2,00,000 = ₹10,00,000.",
+      "So the ratio is 1 : 1. Note that preference capital sits in the numerator here, but would sit inside the proprietary fund in the proprietary ratio."
+     ]
+    },
+    {
+     "q": "In computing return on capital employed, the deferred revenue expenditure of ₹20,000 should be:",
+     "options": {
+      "A": "Included in capital employed, like goodwill and patents",
+      "B": "Added to earnings before interest and taxes",
+      "C": "Excluded, being a fictitious asset",
+      "D": "Deducted from current liabilities"
+     },
+     "answer": "C",
+     "reasoning": [
+      "SM §3.4.2: intangible assets such as goodwill, patents and trade marks should be included in capital employed, but no fictitious asset, such as deferred expenses, should be included.",
+      "The distinction is between an asset with no physical existence but real value (intangible) and an expense carried forward on the balance sheet (fictitious)."
+     ]
+    },
+    {
+     "q": "The year-end inventory figure of a cotton-garment business whose peak season runs October to January illustrates which limitation of financial ratios?",
+     "options": {
+      "A": "Window dressing",
+      "B": "Diversified product lines",
+      "C": "Differences in accounting policies",
+      "D": "Seasonal factors"
+     },
+     "answer": "D",
+     "reasoning": [
+      "SM §6(iii): seasonal factors may influence financial data. The study material's own illustration is a company dealing in cotton garments which keeps a high inventory from October to January and only a quarter of that level for the rest of the year.",
+      "Consequently the liquidity and inventory ratios produce a biased picture, and the year-end picture may not be the average picture of the business. Monthly average inventory data would cure it, but external users rarely have it."
+     ]
+    }
+   ],
+   "concepts": [
+    "F03.07 liquidity ratios",
+    "F03.09 capital structure ratios",
+    "F03.11 activity ratios",
+    "F03.14 capital employed",
+    "F03.20 limitations"
+   ],
+   "trap": "Every part here is decided by a definition, not by arithmetic: what quick assets exclude, which flow turns inventory over, which side preference capital sits on, and what counts as a fictitious asset."
+  },
+  {
+   "id": "CASE-F03-INT-2",
+   "title": "Integrated Case 2 — Two years of Hemant Industries Ltd.",
+   "facts": [
+    "Hemant Industries Ltd. reports, for the year just ended: sales ₹55,00,000, direct costs ₹30,00,000 and other operating expenses ₹4,80,000. It uses total assets of ₹50,00,000, of which 35% is financed by debt carrying 10.50% per annum. The tax rate is 33%.",
+    "The company has 2,00,000 equity shares of ₹10 each in issue and no preference capital. It paid an equity dividend of ₹2 per share. The market price per share at the year end was ₹75.",
+    "The previous year's figures, on the same basis, were sales ₹45,00,000, total assets ₹45,00,000 and profit after tax ₹9,00,000.",
+    "The board is comparing this year's statements with last year's, and separately wants each item of the profit and loss account expressed as a percentage of gross sales.",
+    "The company's banker has asked for the debt service coverage ratio. Depreciation for the year was ₹3,00,000 and the annual loan instalment is ₹2,00,000."
+   ],
+   "questions": [
+    {
+     "q": "Earnings before interest and taxes for the year are:",
+     "options": {
+      "A": "₹18,36,250",
+      "B": "₹25,00,000",
+      "C": "₹20,20,000",
+      "D": "₹12,30,288"
+     },
+     "answer": "C",
+     "reasoning": [
+      "EBIT = Sales − Direct costs − Other operating expenses = ₹55,00,000 − ₹30,00,000 − ₹4,80,000 = ₹20,20,000.",
+      "SM §3.4.1: operating profit = sales − cost of goods sold − operating expenses, and is often referred to as earnings before interest and taxes.",
+      "₹18,36,250 is earnings before taxes (after interest of ₹1,83,750) and ₹12,30,288 is profit after tax."
+     ]
+    },
+    {
+     "q": "The return on equity for the year is closest to:",
+     "options": {
+      "A": "24.61%",
+      "B": "37.86%",
+      "C": "22.37%",
+      "D": "40.40%"
+     },
+     "answer": "B",
+     "reasoning": [
+      "Debt = 35% of ₹50,00,000 = ₹17,50,000, so interest at 10.50% = ₹1,83,750 and EBT = ₹20,20,000 − ₹1,83,750 = ₹18,36,250. PAT = ₹18,36,250 × 0.67 = ₹12,30,287.50.",
+      "Equity = 65% of ₹50,00,000 = ₹32,50,000. SM §3.4.2: ROE = (PAT − preference dividend) ÷ net worth × 100 = ₹12,30,287.50 ÷ ₹32,50,000 × 100 = 37.86%.",
+      "24.61% is the return on assets and 22.37% the net profit margin; 40.40% is EBIT over equity, which is not a study material ratio."
+     ]
+    },
+    {
+     "q": "The price-earnings ratio at the year end is closest to:",
+     "options": {
+      "A": "12.19 times",
+      "B": "37.50 times",
+      "C": "6.15 times",
+      "D": "8.20 times"
+     },
+     "answer": "A",
+     "reasoning": [
+      "EPS = PAT ÷ number of equity shares = ₹12,30,287.50 ÷ 2,00,000 = ₹6.15 (there is no preference dividend, so SM §3.4.4 note 2 allows PAT to be taken as earnings available to equity shareholders).",
+      "SM §3.4.4: P/E Ratio = Market Price per Share ÷ Earnings per Share = ₹75 ÷ ₹6.15 = 12.19 times.",
+      "₹6.15 is the EPS itself and 8.20% is the earnings yield, the reciprocal expressed as a percentage."
+     ]
+    },
+    {
+     "q": "The debt service coverage ratio the banker has asked for is closest to:",
+     "options": {
+      "A": "11.00 times",
+      "B": "3.99 times",
+      "C": "6.35 times",
+      "D": "4.53 times"
+     },
+     "answer": "D",
+     "reasoning": [
+      "SM §3.2.2: earnings available for debt service = PAT + non-cash operating expenses + interest = ₹12,30,287.50 + ₹3,00,000 + ₹1,83,750 = ₹17,14,037.50.",
+      "DSCR = Earnings available for debt service ÷ (Interest + Instalments) = ₹17,14,037.50 ÷ (₹1,83,750 + ₹2,00,000) = ₹17,14,037.50 ÷ ₹3,83,750 = 4.47 times, or 4.53 on slightly different rounding of PAT.",
+      "The study material calls a DSCR of 1.5 to 2 satisfactory, so the lender's cushion here is wide. The examinable step is adding back depreciation and interest to PAT."
+     ]
+    },
+    {
+     "q": "Expressing each item of the profit and loss account as a percentage of gross sales is:",
+     "options": {
+      "A": "Horizontal analysis",
+      "B": "Du Pont analysis",
+      "C": "Vertical analysis",
+      "D": "Multivariate analysis"
+     },
+     "answer": "C",
+     "reasoning": [
+      "SM §7: vertical analysis is the analysis of a single year's financial statement, in which every item of the profit and loss account is expressed as a percentage of gross sales and every balance sheet item as a percentage of total assets.",
+      "Comparing this year's statements with last year's, which the board is also doing, is horizontal analysis — the two are being carried out side by side."
+     ]
+    }
+   ],
+   "concepts": [
+    "F03.13 profitability on sales",
+    "F03.14 return on equity",
+    "F03.16 market ratios",
+    "F03.10 coverage ratios",
+    "F03.21 financial analysis"
+   ],
+   "trap": "Options are built from the other ratios in the same working: net profit margin, return on assets, EPS and earnings yield all appear as distractors for one another."
+  }
+ ],
+ "chapter_test": {
+  "mcqs": [
+   {
+    "id": "CT-MCQ-F03-01",
+    "question": "A generally acceptable current ratio, as per the study material, is:",
+    "options": {
+     "A": "1 : 1",
+     "B": "2 : 1",
+     "C": "1.5 : 1",
+     "D": "3 : 1"
+    },
+    "answer": "B",
+    "explanation": "SM §3.1: a generally acceptable current ratio is 2:1, though whether a specific ratio is satisfactory depends on the nature of the business."
+   },
+   {
+    "id": "CT-MCQ-F03-02",
+    "question": "Net working capital, as defined in the study material, is current assets less current liabilities:",
+    "options": {
+     "A": "Including short-term bank borrowing",
+     "B": "Less prepaid expenses",
+     "C": "Excluding short-term bank borrowing",
+     "D": "Less inventories"
+    },
+    "answer": "C",
+    "explanation": "SM §3.1(e): Net Working Capital = Current Assets − Current Liabilities (excluding short-term bank borrowing)."
+   },
+   {
+    "id": "CT-MCQ-F03-03",
+    "question": "The debt-equity ratio is described in the study material as the indicator of a firm's:",
+    "options": {
+     "A": "Operating leverage",
+     "B": "Liquidity",
+     "C": "Operating efficiency",
+     "D": "Financial leverage"
+    },
+    "answer": "D",
+    "explanation": "SM §3.2.1(c): debt equity ratio is the indicator of the firm's financial leverage."
+   },
+   {
+    "id": "CT-MCQ-F03-04",
+    "question": "Capital employed, for the purpose of ROCE, may be computed as all of the following EXCEPT:",
+    "options": {
+     "A": "Total assets − Current liabilities",
+     "B": "Fixed assets + Working capital",
+     "C": "Equity + Long-term debt",
+     "D": "Equity share capital + Preference share capital"
+    },
+    "answer": "D",
+    "explanation": "SM §3.4.2 gives the first three definitions; the fourth describes the proprietary fund, not capital employed."
+   },
+   {
+    "id": "CT-MCQ-F03-05",
+    "question": "The average collection period can be computed as:",
+    "options": {
+     "A": "360 ÷ Payables turnover ratio",
+     "B": "360 ÷ Receivables turnover ratio",
+     "C": "Credit sales ÷ Average receivables",
+     "D": "Average receivables ÷ Credit purchases"
+    },
+    "answer": "B",
+    "explanation": "SM §3.3(ii): average collection period = average accounts receivable ÷ average daily credit sales, or 12 months / 52 weeks / 360 days ÷ receivables turnover ratio."
+   },
+   {
+    "id": "CT-MCQ-F03-06",
+    "question": "Operating profit ratio and operating ratio, as defined in the study material:",
+    "options": {
+     "A": "Are the same ratio under two names",
+     "B": "Both take interest into account",
+     "C": "Together account for 100% of sales, one being costs and the other the margin",
+     "D": "Are both computed on capital employed"
+    },
+    "answer": "C",
+    "explanation": "SM §3.4.1: the operating ratio is (COGS + operating expenses) over sales and the operating profit ratio is operating profit over sales; both are struck before interest and taxes."
+   },
+   {
+    "id": "CT-MCQ-F03-07",
+    "question": "Under the Du Pont model, an increase in return on equity caused solely by a rise in the equity multiplier means the improvement came from:",
+    "options": {
+     "A": "Higher margins on sales",
+     "B": "Faster conversion of assets into sales",
+     "C": "A reduction in the tax rate",
+     "D": "Returns earned on the debt at work in the business"
+    },
+    "answer": "D",
+    "explanation": "SM §3.4.2: the equity multiplier is a measure of financial leverage, allowing the investor to see what portion of the return on equity is the result of debt."
+   },
+   {
+    "id": "CT-MCQ-F03-08",
+    "question": "Dividend yield, as per the study material, is computed on:",
+    "options": {
+     "A": "Paid-up value per share",
+     "B": "Face value per share",
+     "C": "Book value per share",
+     "D": "Market price per share"
+    },
+    "answer": "D",
+    "explanation": "SM §3.4.4: dividend yield = DPS ÷ MPS × 100; dividend percentage indicates return on paid-up value, but yield is the indicator of true return, taking share capital at market value."
+   },
+   {
+    "id": "CT-MCQ-F03-09",
+    "question": "Which class of user is listed in the study material as relying mainly on coverage ratios?",
+    "options": {
+     "A": "Creditors",
+     "B": "Lenders",
+     "C": "Production managers",
+     "D": "Regulators and government"
+    },
+    "answer": "B",
+    "explanation": "SM §4: lenders keep an eye on the safety of their money lent and use coverage, solvency, turnover and profitability ratios."
+   },
+   {
+    "id": "CT-MCQ-F03-10",
+    "question": "'Financial ratios provide clues but not conclusions' appears in the study material as the conclusion to:",
+    "options": {
+     "A": "The limitations of financial ratios",
+     "B": "The section on the sources of financial data",
+     "C": "The section on the Du Pont model",
+     "D": "The summary of ratios"
+    },
+    "answer": "A",
+    "explanation": "SM §6: after the eight limitations, the study material adds that ratios provide clues but not conclusions and are tools only in the hands of experts."
+   },
+   {
+    "id": "CT-MCQ-F03-11",
+    "question": "A company has a current ratio of 3 and working capital of ₹6,00,000. Its current assets are:",
+    "options": {
+     "A": "₹2,00,000",
+     "B": "₹3,00,000",
+     "C": "₹18,00,000",
+     "D": "₹9,00,000"
+    },
+    "answer": "D",
+    "explanation": "Working capital = CA − CL = 3 CL − CL = 2 CL, so CL = ₹3,00,000 and CA = 3 × ₹3,00,000 = ₹9,00,000."
+   },
+   {
+    "id": "CT-MCQ-F03-12",
+    "question": "Sales are ₹40,00,000 with a gross profit ratio of 20%. Opening stock is ₹2,00,000 and closing stock ₹3,00,000. Purchases for the year are:",
+    "options": {
+     "A": "₹33,00,000",
+     "B": "₹31,00,000",
+     "C": "₹32,00,000",
+     "D": "₹30,00,000"
+    },
+    "answer": "A",
+    "explanation": "COGS = 80% of ₹40,00,000 = ₹32,00,000. Purchases = COGS − opening stock + closing stock = ₹32,00,000 − ₹2,00,000 + ₹3,00,000 = ₹33,00,000."
+   }
+  ],
+  "descriptive": [
+   {
+    "id": "CT-D-F03-01",
+    "marks": "5",
+    "question": "From the following prepare the Balance Sheet: current ratio 2.5, liquid ratio 1.5, working capital ₹4,80,000, fixed assets to proprietary ratio 0.75, reserves and surplus 20% of share capital. Show working notes.",
+    "answer_points": [
+     "**Current assets and current liabilities:** working capital = 2.5 CL − CL = 1.5 CL, so CL = ₹4,80,000 ÷ 1.5 = ₹3,20,000 and current assets = ₹8,00,000.",
+     "**Inventory:** liquid ratio 1.5 = (₹8,00,000 − inventories) ÷ ₹3,20,000, so inventories = ₹8,00,000 − ₹4,80,000 = ₹3,20,000.",
+     "**Proprietary fund and fixed assets:** 0.75 PF + ₹8,00,000 = PF + ₹3,20,000, so 0.25 PF = ₹4,80,000, PF = ₹19,20,000 and fixed assets = ₹14,40,000.",
+     "**Share capital and reserves:** 1.20 × share capital = ₹19,20,000, so share capital = ₹16,00,000 and reserves = ₹3,20,000.",
+     "**Balance Sheet:** share capital ₹16,00,000, reserves ₹3,20,000, creditors ₹3,20,000 = ₹22,40,000; fixed assets ₹14,40,000, stock ₹3,20,000, other current assets ₹4,80,000 = ₹22,40,000."
+    ]
+   },
+   {
+    "id": "CT-D-F03-02",
+    "marks": "5",
+    "question": "Complete the Balance Sheet from the following: inventory turnover ratio (based on cost of goods sold) 7.5 times; total assets turnover ratio 2.5 times; long-term debt to shareholders' fund 0.6:1; debtors collection period 30 days; gross profit ratio 25% on sales; current ratio 2.9:1. Equity share capital ₹6,00,000, reserves and surplus ₹3,00,000, creditors ₹3,00,000. Assume a 360-day year and all credit sales.",
+    "answer_points": [
+     "Shareholders' fund = ₹6,00,000 + ₹3,00,000 = ₹9,00,000; long-term debt = 0.6 × ₹9,00,000 = ₹5,40,000.",
+     "Balance sheet total = ₹9,00,000 + ₹5,40,000 + ₹3,00,000 = ₹17,40,000, so total assets = ₹17,40,000.",
+     "Sales = 2.5 × ₹17,40,000 = ₹43,50,000; cost of goods sold = 75% of sales = ₹32,62,500.",
+     "Current assets = 2.9 × ₹3,00,000 = ₹8,70,000; fixed assets = ₹17,40,000 − ₹8,70,000 = ₹8,70,000.",
+     "Inventories = ₹32,62,500 ÷ 7.5 = ₹4,35,000; debtors = ₹43,50,000 × 30 ÷ 360 = ₹3,62,500; cash = ₹8,70,000 − ₹4,35,000 − ₹3,62,500 = ₹72,500.",
+     "Present the Balance Sheet, both sides totalling ₹17,40,000, and state the assumption that all sales are credit sales."
+    ]
+   },
+   {
+    "id": "CT-D-F03-03",
+    "marks": "5",
+    "question": "A company plans total assets of ₹50,00,000, with 35% financed by debt at 10.50% per annum. Projected sales are ₹55,00,000, direct costs ₹30,00,000 and other operating expenses ₹4,80,000. The tax rate is 33%. Compute profit after tax, the net profit margin after tax, the return on assets after tax, the asset turnover ratio and the return on equity.",
+    "answer_points": [
+     "EBIT = ₹55,00,000 − ₹30,00,000 − ₹4,80,000 = ₹20,20,000; debt = ₹17,50,000, interest = ₹1,83,750; EBT = ₹18,36,250.",
+     "Profit after tax = ₹18,36,250 × 0.67 = ₹12,30,287.50.",
+     "Net profit margin (after tax) = ₹12,30,287.50 ÷ ₹55,00,000 × 100 = 22.37%.",
+     "Return on assets (after tax) = ₹12,30,287.50 ÷ ₹50,00,000 × 100 = 24.61%.",
+     "Asset turnover ratio = ₹55,00,000 ÷ ₹50,00,000 = 1.1 times; return on equity = ₹12,30,287.50 ÷ ₹32,50,000 × 100 = 37.86%.",
+     "Cross-check by Du Pont: 22.37% × 1.1 × (₹50,00,000 ÷ ₹32,50,000) = 37.86%."
+    ]
+   },
+   {
+    "id": "CT-D-F03-04",
+    "marks": "4",
+    "question": "Explain the four coverage ratios given in the study material, with their formulae and the benchmarks stated.",
+    "answer_points": [
+     "Coverage ratios measure the firm's ability to service fixed liabilities — interest on loans, preference dividend, and amortisation of principal or redemption of preference capital on maturity.",
+     "**Debt service coverage ratio** = Earnings available for debt service ÷ (Interest + Instalments), where earnings available for debt service = EAT + non-cash operating expenses such as depreciation + interest + other adjustments. Normally a DSCR of 1.5 to 2 is satisfactory.",
+     "**Interest coverage ratio**, also known as the times interest earned ratio, = EBIT ÷ Interest. EBIT is used because the ability to pay interest is not affected by the tax burden, interest on debt funds being a deductible expense. A high ratio means interest obligations can be met even if EBIT declines considerably; a lower ratio indicates excessive use of debt or inefficient operations.",
+     "**Preference dividend coverage ratio** = Earnings after taxes ÷ Preference dividend; it indicates the margin of safety available to preference shareholders. Equity dividend coverage = (EAT − preference dividend) ÷ Equity dividend.",
+     "**Fixed charges coverage ratio** = (EBIT + Depreciation) ÷ (Interest + Repayment of loan); it shows how many times the cash flow before interest and taxes covers all fixed financing charges, and a ratio of more than 1 is considered safe."
+    ]
+   },
+   {
+    "id": "CT-D-F03-05",
+    "marks": "4",
+    "question": "Explain any five limitations of financial ratios, and state what the study material concludes about their use.",
+    "answer_points": [
+     "**Diversified product lines:** ratios on aggregate data of a multi-industry business cannot be used for inter-firm comparisons.",
+     "**Distortion by inflation:** historical cost values may differ substantially from true values, and the distortion is carried into the ratios.",
+     "**Seasonal factors:** a cotton-garment business holding high inventory from October to January and a quarter of that for the rest of the year produces biased liquidity and inventory ratios; the year-end picture may not be the average picture.",
+     "**Window dressing:** year-end adjustments made to flatter popular ratios change their character.",
+     "**Differences in accounting policies and accounting period** make two firms' data and ratios non-comparable.",
+     "**No standard set of ratios:** the industry average is a low standard for a firm that wants to be above average, and too high for one below it. **It is also difficult to generalise whether a ratio is good or bad** — a high current ratio may result from inefficient working capital management. **Ratios are inter-related, not independent**, which multivariate analysis addresses.",
+     "The study material concludes that financial ratios provide clues but not conclusions, and are tools only in the hands of experts, because there is no standard ready-made interpretation of financial ratios."
+    ]
+   },
+   {
+    "id": "CT-D-F03-06",
+    "marks": "4",
+    "question": "Distinguish between horizontal and vertical analysis, and state which users of financial analysis the study material associates with liquidity ratios, coverage ratios and market ratios respectively.",
+    "answer_points": [
+     "**Horizontal analysis:** the financial statements of one year are analysed and interpreted after comparing with another year or years; it can be based on the ratios derived from the financial information over the same time span.",
+     "**Vertical analysis:** the financial statement of a single year is analysed. Every item of the profit and loss account is expressed as a percentage of gross sales, and every balance sheet item as a percentage of total assets. It is useful in inter-firm comparison.",
+     "**Liquidity and short-term solvency ratios** are associated with creditors, who want to know whether the organisation will be able to pay on the due date; they are also particularly useful in credit analysis by banks and other suppliers of short-term loans.",
+     "**Coverage ratios** are associated with lenders, who keep an eye on the safety of the money they have lent, alongside solvency, turnover and profitability ratios.",
+     "**Market ratios — EPS, DPS, P/E and the dividend payout ratio — are associated with shareholders**, who as owners are interested in the profitability and growth of the organisation."
+    ]
+   }
+  ]
+ },
+ "recall": {
+  "quick": [
+   {
+    "q": "Name the five liquidity ratios.",
+    "a": "Current ratio, quick or acid-test ratio, cash or absolute liquidity ratio, basic defense interval, and net working capital."
+   },
+   {
+    "q": "Name the six capital structure ratios.",
+    "a": "Equity ratio, debt ratio, debt to equity ratio, debt to total assets ratio, capital gearing ratio and proprietary ratio."
+   },
+   {
+    "q": "Name the four coverage ratios.",
+    "a": "Debt service coverage, interest coverage, preference dividend coverage and fixed charges coverage."
+   },
+   {
+    "q": "Name the four categories of profitability ratios.",
+    "a": "Related to sales; related to overall return on investment; required from the owner's point of view; related to market, valuation and investors."
+   },
+   {
+    "q": "Name the three components of the Du Pont model.",
+    "a": "Net profit margin, asset turnover and the equity multiplier."
+   },
+   {
+    "q": "Name the six sources of financial data for analysis.",
+    "a": "Annual reports, interim financial statements, notes to accounts, statement of cash flows, business periodicals, and credit and investment advisory services."
+   },
+   {
+    "q": "Name the four market or valuation ratios.",
+    "a": "Price-earnings ratio, dividend and earnings yield, market value to book value per share, and the Q ratio."
+   },
+   {
+    "q": "Name the six aspects in which ratio analysis is relevant for assessing performance.",
+    "a": "Liquidity position, long-term solvency, operating efficiency, overall profitability, inter-firm comparison, and budgeting."
+   }
+  ],
+  "fill": [
+   {
+    "q": "Quick assets = current assets − inventories − ______.",
+    "a": "prepaid expenses"
+   },
+   {
+    "q": "A generally acceptable current ratio is ______ and an acid-test of ______ is considered satisfactory.",
+    "a": "2:1; 1:1"
+   },
+   {
+    "q": "Normally a debt service coverage ratio of ______ to ______ is satisfactory.",
+    "a": "1.5; 2"
+   },
+   {
+    "q": "ROCE should always be higher than the rate at which the company ______.",
+    "a": "borrows"
+   },
+   {
+    "q": "Capital employed = total assets − ______.",
+    "a": "current liabilities"
+   },
+   {
+    "q": "Only ______ expenses differentiate cost of goods sold and cost of sales.",
+    "a": "selling and distribution"
+   },
+   {
+    "q": "The Q ratio is in equilibrium when it equals ______.",
+    "a": "1"
+   },
+   {
+    "q": "Equity multiplier = assets ÷ ______.",
+    "a": "shareholders' equity"
+   }
+  ],
+  "true_false": [
+   {
+    "s": "A high current ratio is always a good sign.",
+    "a": "False",
+    "reason": "SM §6(vii): a high current ratio may not be good, as it may result from inefficient working capital management."
+   },
+   {
+    "s": "Interest coverage uses earnings after tax in the numerator.",
+    "a": "False",
+    "reason": "It uses EBIT, because the ability to pay interest is not affected by the tax burden, interest being a deductible expense."
+   },
+   {
+    "s": "Preference share capital forms part of the proprietary fund.",
+    "a": "True",
+    "reason": "SM §3.2.1(f): proprietary fund includes equity share capital, preference share capital and reserves and surplus."
+   },
+   {
+    "s": "Intangible assets such as goodwill are excluded from capital employed.",
+    "a": "False",
+    "reason": "Intangibles are included; only fictitious assets such as deferred expenses are excluded."
+   },
+   {
+    "s": "A firm with old plant and machinery may show a higher fixed assets turnover ratio than one that bought recently.",
+    "a": "True",
+    "reason": "SM §3.3(b); the written-down value in the denominator is lower."
+   },
+   {
+    "s": "Vertical analysis compares one year's statements with another year's.",
+    "a": "False",
+    "reason": "That is horizontal analysis; vertical analysis reads a single year as percentages."
+   },
+   {
+    "s": "A very high working capital turnover ratio is purely a sign of efficiency.",
+    "a": "False",
+    "reason": "SM §3.3(e): it indicates that the company needs to raise additional working capital for future needs."
+   },
+   {
+    "s": "Dividend percentage and dividend yield are computed on different bases.",
+    "a": "True",
+    "reason": "Percentage is on paid-up value; yield is on market price and is the indicator of true return."
+   }
+  ],
+  "one_word": [
+   {
+    "q": "The ratio that tells you the number of days a company can cover cash expenses if revenues ceased.",
+    "a": "Basic defense interval"
+   },
+   {
+    "q": "The alternative name for the interest coverage ratio.",
+    "a": "Times interest earned ratio"
+   },
+   {
+    "q": "The economist who proposed the Q ratio.",
+    "a": "James Tobin"
+   },
+   {
+    "q": "The company at which the Du Pont system of financial analysis was created in 1919.",
+    "a": "E.I. Du Pont de Nemours and Co."
+   },
+   {
+    "q": "The ratio that is the reciprocal of the price-earnings ratio, expressed as a percentage.",
+    "a": "Earnings yield (or EP ratio)"
+   },
+   {
+    "q": "The technique the study material offers for handling the interdependence of ratios.",
+    "a": "Multivariate analysis"
+   },
+   {
+    "q": "The name for return on assets when EBIT(1 − t) is divided by average net assets.",
+    "a": "Return on Net Assets (RONA)"
+   },
+   {
+    "q": "The year-end adjustment made to flatter a popularly used ratio.",
+    "a": "Window dressing"
+   }
+  ],
+  "match": {
+   "left": [
+    "Telecom",
+    "Bank",
+    "Hotel",
+    "Transport",
+    "Production manager"
+   ],
+   "right": [
+    "Loan to deposit ratios",
+    "Room occupancy and bed occupancy ratios",
+    "Ratios related to 'call'; revenue and expenses per customer",
+    "Input-output ratio and raw material consumption ratio",
+    "Passenger-kilometre and operating cost per passenger kilometre"
+   ],
+   "key": [
+    "Telecom – Ratios related to 'call'; revenue and expenses per customer",
+    "Bank – Loan to deposit ratios",
+    "Hotel – Room occupancy and bed occupancy ratios",
+    "Transport – Passenger-kilometre and operating cost per passenger kilometre",
+    "Production manager – Input-output ratio and raw material consumption ratio"
+   ]
+  },
+  "differentiate": [
+   {
+    "q": "Current ratio vs quick ratio",
+    "a": "Current: all current assets over current liabilities, benchmark 2:1. Quick: current assets less inventories and prepaid expenses over current liabilities, benchmark 1:1."
+   },
+   {
+    "q": "ROCE vs ROE",
+    "a": "ROCE: EBIT over capital employed (equity plus long-term debt); must exceed the borrowing rate. ROE: PAT less preference dividend over net worth; the equity shareholders' return."
+   },
+   {
+    "q": "Operating ratio vs operating profit ratio",
+    "a": "Operating ratio is (COGS + operating expenses) over sales; operating profit ratio is EBIT over sales. Together they account for the whole of sales."
+   },
+   {
+    "q": "Capital gearing ratio vs proprietary ratio",
+    "a": "Gearing puts preference capital and borrowings over equity funds. The proprietary ratio puts the proprietary fund — which includes preference capital — over total assets."
+   },
+   {
+    "q": "Horizontal vs vertical analysis",
+    "a": "Horizontal compares one year with another over the same time span. Vertical analyses a single year, expressing P&L items as a percentage of gross sales and balance sheet items as a percentage of total assets."
+   },
+   {
+    "q": "Receivables turnover vs payables turnover",
+    "a": "Receivables: credit sales over average receivables; a low ratio means liberal credit terms granted to customers. Payables: credit purchases over average payables; a low ratio means liberal terms granted by suppliers."
+   }
+  ],
+  "flowchart": {
+   "steps": [
+    "Find sales, then cost of goods sold via the gross profit ratio",
+    "Split current assets and current liabilities using the current ratio",
+    "Isolate inventories using the quick ratio",
+    "Find debtors from the collection period and fixed assets from the turnover ratio",
+    "Total both sides of the Balance Sheet and cross-check"
+   ],
+   "blanks": [
+    2,
+    4
+   ]
+  }
+ },
+ "revision": {
+  "five": [
+   "Four families: liquidity, leverage (capital structure and coverage), activity, profitability.",
+   "Quick assets = CA − inventories − prepaid expenses; benchmarks 2:1 and 1:1.",
+   "DSCR 1.5–2; fixed charges coverage above 1; ROCE must beat the borrowing rate.",
+   "Turnover ratios are a flow over a stock; days = 360 ÷ turnover.",
+   "ROE = net profit margin × asset turnover × equity multiplier."
+  ],
+  "fifteen": [
+   "Add the six capital structure formulae and where preference capital sits in each.",
+   "Add the four coverage formulae with their numerators built out in full.",
+   "Add the profitability ratios based on sales and the four expenses ratios.",
+   "Add EPS, DPS, payout, P/E, the two yields, MV/BV and the Q ratio.",
+   "Add the five-step reverse-working method and practise the current-ratio-and-working-capital opening move."
+  ],
+  "thirty": [
+   "Add the users table: who uses which ratios and why.",
+   "Add the six applications in decision making, in the study material's own order.",
+   "Add the eight limitations and the 'clues but not conclusions' line.",
+   "Add horizontal versus vertical analysis and the Du Pont worked example with its 15.04% / 15.98% split.",
+   "Add the industry-specific ratios: telecom, bank, hotel, transport.",
+   "Add the external funds requirement method, noting it is outside the current study material."
+  ],
+  "sixty": [
+   "Work both integrated cases and all twelve chapter-test MCQs without looking back.",
+   "Write, in full, the two past-paper reverse-working questions — MNP Limited and Sky Pack Ltd.",
+   "Write the Diwan Limited five-ratio computation against the clock; it is the compute-and-comment archetype.",
+   "Recite every benchmark from the 'benchmarks and notes' table from memory.",
+   "Close by writing each ratio's formula from its name alone — the summary table is the whole chapter in one page."
+  ]
+ },
+ "one_page": {
+  "sections": [
+   {
+    "title": "Liquidity",
+    "points": [
+     "Current ratio = CA ÷ CL · 2:1 generally acceptable",
+     "Quick ratio = (CA − inventories − prepaid) ÷ CL · 1:1 satisfactory",
+     "Cash ratio = (Cash and bank + marketable securities) ÷ CL",
+     "Basic defense interval = liquid assets ÷ daily operating expenses = days of cover",
+     "Net working capital = CA − CL (excluding short-term bank borrowing)"
+    ]
+   },
+   {
+    "title": "Long-term solvency",
+    "points": [
+     "Equity ratio = Shareholders' equity ÷ Net assets · Debt ratio = Total debt ÷ Net assets (above 1 is risky)",
+     "Debt-equity = Total outside liabilities ÷ Shareholders' equity · the indicator of financial leverage",
+     "Debt to total assets = Total debt ÷ Total assets · Capital gearing = (Pref. + debentures + other borrowings) ÷ (Equity capital + reserves − losses)",
+     "Proprietary ratio = Proprietary fund (incl. preference capital) ÷ Total assets",
+     "DSCR = Earnings available for debt service ÷ (Interest + instalments) · 1.5–2",
+     "Interest coverage = EBIT ÷ Interest · Fixed charges = (EBIT + depreciation) ÷ (Interest + repayment) · above 1 is safe"
+    ]
+   },
+   {
+    "title": "Activity",
+    "points": [
+     "Total / fixed / capital / current assets / working capital turnover = Sales or COGS ÷ the asset",
+     "Inventory turnover = COGS ÷ Average inventory · Raw material = consumption ÷ average RM stock",
+     "Receivables turnover = Credit sales ÷ Average receivables · Payables turnover = Credit purchases ÷ Average payables",
+     "Days = 360 ÷ the turnover ratio · COGS = Opening stock + purchases − closing stock",
+     "Very high working capital turnover signals a need for more working capital"
+    ]
+   },
+   {
+    "title": "Profitability",
+    "points": [
+     "On sales: gross profit, net profit, pre-tax profit, operating profit ratios; expenses ratios (COGS, operating expenses, operating, financial expenses)",
+     "ROI = Profit ÷ Investment = Profitability ratio × Investment turnover ratio",
+     "ROA = PAT (or PAT + interest, or EBIT(1−t)) ÷ average assets · ROTA and RONA",
+     "ROCE = EBIT ÷ Capital employed (Total assets − CL) · must beat the borrowing rate · include intangibles, exclude fictitious assets",
+     "ROE = (PAT − preference dividend) ÷ Net worth · Du Pont: margin × turnover × equity multiplier"
+    ]
+   },
+   {
+    "title": "Owner and market",
+    "points": [
+     "EPS = equity earnings ÷ equity shares · DPS = equity dividend ÷ equity shares · Payout = DPS ÷ EPS",
+     "P/E = MPS ÷ EPS · the payback period to the investor",
+     "Dividend yield = DPS ÷ MPS · Earnings yield (EP ratio) = EPS ÷ MPS",
+     "MV/BV = Share price ÷ (Net worth ÷ number of shares)",
+     "Q ratio = Market value ÷ Replacement cost · 1 = equilibrium, below undervalued, above overvalued"
+    ]
+   },
+   {
+    "title": "Users, uses and limits",
+    "points": [
+     "Creditors → liquidity · Lenders → coverage · Shareholders → EPS, DPS, P/E, payout · Investors → all four families",
+     "Six uses: liquidity position, long-term solvency, operating efficiency, overall profitability, inter-firm comparison, budgeting",
+     "Eight limits: diversified lines, inflation, seasonality, window dressing, accounting policies, no standard, hard to generalise, inter-related",
+     "Clues, not conclusions — tools only in the hands of experts",
+     "Horizontal compares years; vertical reads one year as percentages of sales and total assets",
+     "Reverse working: sales → current assets → each current asset → the long-term side → total and check"
+    ]
+   }
+  ]
+ },
+ "verification": {
+  "sources": [
+   "ICAI SM Paper 6A Module 1 Ch 3 'Financial Analysis and Planning — Ratio Analysis' (May 2026 onwards edition)",
+   "Suggested answers May 2024 – May 2026",
+   "RTPs May 2024 – Sep 2026 (chapter assignment follows ICAI's own topic labels)",
+   "MTPs Mar 2024 – Aug 2026 (third-party copies of ICAI MTPs; Sep 2026 Series I question paper not available)"
+  ],
+  "open_items": [
+   {
+    "id": "OV-F03-01",
+    "item": "Jan 2026 Q3(a) sets an external funds requirement computation; the topic is not in the current study material and is printed here as supplementary.",
+    "resolve_with": "Check whether a future SM edition restores financial planning to this chapter"
+   },
+   {
+    "id": "OV-F03-02",
+    "item": "MTP Sep 2026 Series I question paper not available; FM Q3(b) wording reconstructed from the answer file.",
+    "resolve_with": "Download the question paper from the ICAI BoS portal"
+   },
+   {
+    "id": "OV-F03-03",
+    "item": "The SM prints several ratio formulae as images with mixed line breaks; every formula here has been transcribed and cross-checked against ICAI's own worked answers.",
+    "resolve_with": "None needed"
+   },
+   {
+    "id": "OV-F03-04",
+    "item": "Integrated Case 1 question 1 deliberately sets the correct and the common-error figures as adjacent options; the reasoning names both.",
+    "resolve_with": "None needed"
+   }
+  ],
+  "qa": [
+   {
+    "check": "SM headings covered",
+    "result": "22 of 22"
+   },
+   {
+    "check": "Official questions placed",
+    "result": "33 of 33"
+   },
+   {
+    "check": "Generated MCQ key balance",
+    "result": "Target A11 · B11 · C12 · D12"
+   },
+   {
+    "check": "Benchmarks cross-checked against the SM",
+    "result": "2:1, 1:1, DSCR 1.5–2, fixed charges >1, Q ratio = 1, debt ratio >1 risky, ROCE > borrowing rate"
+   }
+  ]
+ }
+}

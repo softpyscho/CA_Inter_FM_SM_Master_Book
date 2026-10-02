@@ -1,0 +1,414 @@
+{
+ "meta": {
+  "chapter_no": 6,
+  "section": "FM",
+  "paper": "CA Intermediate · Paper 6A · Financial Management",
+  "chapter_title": "FM Chapter 6 — Financing Decisions: Leverages",
+  "short_title": "FM Ch 6 Leverages",
+  "module": "Paper 6A Financial Management · Module 1",
+  "attempt": "January 2027",
+  "sm_edition": "ICAI BoS Study Material, Paper 6A (relevant for May 2026 examination onwards), Module 1, Chapter 6",
+  "last_verified": "22-09-2026",
+  "status_summary": "SM headings 16/16 · official atoms 33/33"
+ },
+ "sections_before": [
+  {
+   "heading": "Examiner Mindset — FM Chapter 6",
+   "blocks": [
+    {"type": "box", "tag": "pyq", "title": "What ICAI's published papers tell us",
+     "bullets": [
+      "ICAI has published no examiners' comments for Paper 6; the guidance below comes from its suggested answers, RTPs and MTPs.",
+      "**This chapter is examined in every attempt** — eight past-paper parts between May 2024 and May 2026, plus a question in every RTP and almost every MTP.",
+      "The dominant form is **reverse working**: you are given two or three leverage figures and asked to rebuild the income statement, or to find sales, contribution, fixed cost, EBIT or EPS from them.",
+      "The three formulae are tiny. **The marks are in the profitability statement** that produces them — Sales, less variable cost, Contribution, less fixed cost, EBIT, less interest, EBT, less tax, PAT, less preference dividend, ÷ shares, EPS.",
+      "The 2-mark theory parts rotate through a short list: **double edged sword, trading on equity, the range of DOL, and business risk versus financial risk** — asked six times across the MTPs and twice in past papers."
+     ]},
+    {"type": "box", "tag": "face", "title": "How ICAI marks this chapter (study guidance)",
+     "bullets": [
+      "**Draw the profitability statement first, every time.** Once it exists, all three leverages are one division each.",
+      "Where the question gives leverages and asks for the statement, **work upward**: DFL gives EBT from EBIT, DOL gives contribution from EBIT, the P/V ratio gives sales from contribution.",
+      "**State the direction, not just the number.** 'DOL of 6 means a 1% change in sales moves EBIT by 6%' is what earns the comment mark.",
+      "Watch the preference dividend: it sits inside the DFL formula as **DP ÷ (1 − t)**, not as a simple deduction."
+     ]}
+   ]
+  }
+ ],
+ "snapshot": {
+  "about": "How fixed costs magnify change: operating leverage links sales to EBIT and measures business risk, financial leverage links EBIT to EPS and measures financial risk, and combined leverage links sales to EPS and measures total risk — together with break-even, margin of safety, trading on equity and the double edged sword.",
+  "why": "It appears in every attempt, and it is the measuring instrument for the capital structure decisions of Chapter 5.",
+  "core_concepts": [
+   "F06.03–F06.05 What leverage means and the three types, mapped onto the profitability statement",
+   "F06.06–F06.07 Operating leverage and DOL = Contribution ÷ EBIT",
+   "F06.08–F06.09 Break-even analysis, margin of safety, and DOL = 1 ÷ MOS",
+   "F06.10–F06.11 Financial leverage and DFL = EBIT ÷ EBT",
+   "F06.12–F06.13 Trading on equity, and the double edged sword",
+   "F06.14–F06.16 Combined leverage, DCL = DOL × DFL, and the four risk combinations"
+  ],
+  "key_provisions": [
+   "DOL = Contribution ÷ EBIT; DFL = EBIT ÷ EBT; DCL = DOL × DFL = Contribution ÷ EBT",
+   "DOL = 1 ÷ Margin of Safety",
+   "DOL and DFL can never be between zero and one",
+   "Financial break-even point is the level of EBIT at which earnings per share is zero",
+   "Low DOL with high DFL is the best combination; high with high is very risky"
+  ],
+  "tested_areas": [
+   {"text": "Rebuild the income statement from given leverages", "evidence": "PYQ May 2024 Q1(b), Sep 2024 Q1(a), May 2025 Q1(c), Sep 2025 Q2(a); RTP May 2024, Sep 2024, Jan 2026, Sep 2026; MTP Sep 2024 Series I, Mar 2024 Series II, May 2025 Series I"},
+   {"text": "Compute all three leverages from a cost structure", "evidence": "PYQ Jan 2025 Q1(b); MTP Jan 2025 both series, May 2025 Series II, Sep 2025 Series II, May 2026 Series I"},
+   {"text": "Financial leverage as a double edged sword", "evidence": "PYQ Jan 2026 Q3(b); MTP May 2025 Series I, Sep 2024 Series II"},
+   {"text": "Total risk as the combination of operating and financial risk", "evidence": "PYQ May 2025 Q4(c) OR; MTP May 2026 Series I, Jan 2026 Series I"},
+   {"text": "The range of DOL and DFL", "evidence": "MTP Sep 2024 Series I"}
+  ],
+  "mistakes": [
+   "Using EBIT ÷ Contribution instead of Contribution ÷ EBIT; the leverage is always the bigger figure over the smaller.",
+   "Forgetting the preference dividend term in DFL, which is DP ÷ (1 − t), not DP.",
+   "Treating a DOL of 0.8 as possible; DOL can never lie between zero and one.",
+   "Reporting the leverage without saying what it means for a 1% change in sales."
+  ],
+  "links": [
+   "🔗 FM Ch 5 §5: EBIT-EPS analysis, which these leverages measure",
+   "🔗 FM Ch 5 §5.2: the financial break-even point, where DFL becomes infinite",
+   "🔗 FM Ch 3 §3.4.1: contribution, EBIT and the P/V ratio"
+  ],
+  "revision_path": "5 min: the three formulae and the four risk combinations · 15 min: add the margin of safety link and the range rules · 30 min: rebuild one income statement from leverages alone."
+ },
+ "evidence": {
+  "pyq_table": [
+   {"id": "PYQ-M24-Q1b", "question": "Alpha Limited: decrease in EPS, degree of operating and financial leverage if sales decline 15–20%", "concept": "F06.07", "marks": 5, "type": "Compute", "repeat": "R5"},
+   {"id": "PYQ-S24-Q1a", "question": "N Limited and C Limited: contribution, margin of safety and sales from combined and financial leverage", "concept": "F06.15", "marks": 5, "type": "Reverse working", "repeat": "R5"},
+   {"id": "PYQ-J25-Q1b", "question": "EXIM Ltd: EPS, operating, financial and combined leverage from the balance sheet", "concept": "F06.15", "marks": 5, "type": "Compute", "repeat": "R5"},
+   {"id": "PYQ-M25-Q1c", "question": "A Ltd: profit volume ratio 24%, operating leverage 2.00, financial leverage 1.50 — rebuild the statement", "concept": "F06.15", "marks": 5, "type": "Reverse working", "repeat": "R5"},
+   {"id": "PYQ-M25-Q4c-OR", "question": "Total risk as the combination of operating and financial risk: comment on three DOL-DFL combinations", "concept": "F06.16", "marks": 2, "type": "Descriptive", "repeat": "R5"},
+   {"id": "PYQ-S25-Q2a", "question": "M/s KRY Limited: EBIT, fixed cost, bank loan and interest, EPS and MPS from the operating leverage", "concept": "F06.07", "marks": 5, "type": "Reverse working", "repeat": "R5"},
+   {"id": "PYQ-J26-Q3b", "question": "In what ways does financial leverage operate as a double edged sword?", "concept": "F06.13", "marks": 2, "type": "Descriptive", "repeat": "R5"},
+   {"id": "PYQ-M26-Q1a", "question": "A Ltd: a 5% increase in sales raises operating profit by ₹9,000 — find the current sales", "concept": "F06.07", "marks": 5, "type": "Reverse working", "repeat": "R5"}
+  ],
+  "trend": [
+   "Every attempt from May 2024 to May 2026 carried a leverage question, five of them as a 5-mark reverse working in Question 1.",
+   "The 2-mark theory part alternates between the double edged sword (Jan 2026) and the total-risk combinations (May 2025).",
+   "May 2026 reduced the whole chapter to one line of data — a 5% sales rise producing ₹9,000 more operating profit — and asked candidates to work backwards from it."
+  ],
+  "rtp_takeaways": [
+   "Every RTP carries a question ICAI labels 'Leverage' or 'Leverage Analysis'.",
+   "Two RTPs set it as a multiple-choice question on whether the financial leverage is favourable, which turns on whether return on investment exceeds the interest rate.",
+   "The September 2024 RTP's PC Ltd question runs three situations against two financial plans — six leverage computations in one question."
+  ],
+  "mtp_takeaways": [
+   "Thirteen MTPs carry a leverage question; the commonest instruction is 'PREPARE the income statement' from given leverages.",
+   "'What is the range of DOL?' appeared as a 2-mark part in September 2024 Series I — the answer being that it can never lie between zero and one.",
+   "Business risk versus financial risk was asked as a 2-mark distinction in January 2026 Series I."
+  ],
+  "note": "Counting method: every official part mapped to this chapter from ICAI suggested answers (May 2024 to May 2026), RTPs (May 2024 to Sep 2026, using ICAI's own topic labels) and MTPs (Mar 2024 to Aug 2026)."
+ },
+ "concepts": [
+  {
+   "code": "F06.01 + F06.02 + F06.03",
+   "title": "1–2.1 Introduction and the Meaning of Leverage",
+   "activity": "Foundation",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 0",
+   "understand": [
+    "**Why the chapter exists.** A company faces two kinds of risk. **Business risk** arises from its operations; **financial risk** is the **additional risk a shareholder bears when a company uses debt in addition to equity financing**. ==Companies that **issue more debt instruments would have higher financial risk than companies financed mostly or entirely by equity**.== This chapter measures both.",
+    "==**The term leverage represents influence or power.** In financial analysis, **leverage represents the influence of one financial variable over some other related financial variable**.== These financial variables may be **costs, output, sales revenue, earnings before interest and tax, earnings per share** and so on.",
+    "==Generally, if we want to calculate the impact of a change in variable X on variable Y, it is termed the **leverage of Y with X**, and is calculated as **Measurement of Leverage = (Change in Y ÷ Y) ÷ (Change in X ÷ X)**.==",
+    "That single formula is the whole chapter. Every leverage in it is the **percentage change in an output divided by the percentage change in an input** — only the choice of X and Y changes."
+   ],
+   "example": "If a 10% rise in sales produces a 60% rise in EBIT, the leverage of EBIT with sales is 6. Nothing more complicated is happening anywhere in this chapter.",
+   "provisions": [
+    {"ref": "Measurement of leverage (SM §2.1)", "status": "VERIFIED",
+     "requirement": "(Change in Y ÷ Y) ÷ (Change in X ÷ X) — the percentage change in the dependent variable over the percentage change in the independent one.",
+     "exam_angle": "Where a question gives two percentage changes, this is the only formula needed."}
+   ],
+   "keywords": ["influence or power", "influence of one financial variable over some other", "business risk", "financial risk", "additional risk a shareholder bears", "leverage of Y with X"],
+   "memory": {
+    "trick": "Leverage = **percentage out ÷ percentage in**. Choose what goes in and what comes out, and you have named one of the three leverages.",
+    "key": [["Leverage means", "Influence of one financial variable over another"], ["Formula", "(ΔY ÷ Y) ÷ (ΔX ÷ X)"], ["Business risk", "Arises from operations"], ["Financial risk", "The extra risk from using debt alongside equity"]],
+    "recall_trigger": "Percentage out over percentage in"
+   },
+   "mistakes": ["Defining leverage as borrowing; borrowing is only one of the three leverages.", "Confusing business risk with financial risk — the first comes from operations, the second only from debt."],
+   "links": ["🔗 FM Ch 5 §3.2: the risk principle in designing capital structure", "🔗 FM Ch 4 §7.5: systematic and unsystematic risk"],
+   "face_in_exam": {
+    "forms": ["Short note on the meaning of leverage", "MCQ on which leverage measures which risk"],
+    "approach": ["Define leverage as influence, give the formula, then name the three types"],
+    "official_pattern": "Not yet asked directly; it is the vocabulary every computation assumes.",
+    "time_tip": "2 marks ≈ 3 minutes (study guidance)."
+   },
+   "mcqs": [
+    {"id": "MCQ-F06.03-01", "angle": "Definition", "difficulty": "Easy",
+     "question": "In financial analysis, leverage represents:",
+     "options": {"A": "The influence of one financial variable over some other related financial variable", "B": "The total borrowings of a company", "C": "The ratio of fixed assets to current assets", "D": "The excess of sales over break-even sales"},
+     "answer": "A",
+     "explanation": "SM §2.1: the term leverage represents influence or power; in financial analysis it represents the influence of one financial variable over some other related financial variable.",
+     "why_wrong": {"B": "Borrowing produces financial leverage but is not the definition.", "C": "That is a balance sheet ratio.", "D": "That is the margin of safety."},
+     "trap": "The definition is about influence, not about debt.",
+     "concept": "F06.03"},
+    {"id": "MCQ-F06.01-02", "angle": "Risk", "difficulty": "Easy",
+     "question": "Financial risk is described in the study material as:",
+     "options": {"A": "The risk that sales will fall below the break-even point", "B": "The additional risk a shareholder bears when a company uses debt in addition to equity financing", "C": "The risk of a rise in variable cost per unit", "D": "The risk that the market will re-rate the share"},
+     "answer": "B",
+     "explanation": "SM §1: financial risk is the additional risk a shareholder bears when a company uses debt in addition to equity financing; companies that issue more debt would have higher financial risk than those financed mostly or entirely by equity.",
+     "why_wrong": {"A": "That is business risk, measured by operating leverage.", "C": "Also an operating matter.", "D": "A market risk, not the study material's definition."},
+     "trap": "The word 'additional' is doing the work: it is the risk on top of business risk.",
+     "concept": "F06.01"}
+   ],
+   "recap": ["Leverage = influence of one financial variable over another.", "Measurement = (ΔY ÷ Y) ÷ (ΔX ÷ X).", "Business risk comes from operations; financial risk is the extra risk from using debt."]
+  },
+  {
+   "code": "F06.04 + F06.05",
+   "title": "2.2–2.3 The Three Types of Leverage, and Where They Sit in the Profitability Statement",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "MTP 1 (Jan 2026 Series I)",
+   "understand": [
+    "==**There are three commonly used measures of leverage in financial analysis.** **(i) Operating leverage: the relationship between Sales and EBIT — it indicates business risk.** **(ii) Financial leverage: the relationship between EBIT and EPS — it indicates financial risk.** **(iii) Combined leverage: the relationship between Sales and EPS — it indicates total risk, i.e. both business risk and financial risk.**==",
+    "**The chart that makes the chapter easy (§2.3).** Lay out the profitability statement once and the three leverages are simply three brackets down its side:",
+    "**Sales** — less variable cost — **Contribution** ⟵ *the top of operating leverage*; less fixed cost — **Operating Profit / EBIT** ⟵ *the bottom of operating leverage and the top of financial leverage*; less interest — **Earnings Before Tax (EBT)**; less tax — **Profit After Tax**; less preference dividend, if any — **Net earnings available to equity shareholders**; ÷ **number of equity shares (N)** — **Earnings per Share**.",
+    "==**Operating leverage brackets Contribution to EBIT. Financial leverage brackets EBIT to EPS. Combined leverage brackets the whole statement, Contribution to EPS.**==",
+    "So a question that gives you any two of the three leverages, plus one absolute figure, gives you the entire statement — which is exactly how ICAI sets most of the questions in this chapter."
+   ],
+   "example": "Given contribution ₹12,00,000 and EBIT ₹2,00,000, operating leverage is 6. Given EBIT ₹2,00,000 and EBT ₹1,00,000, financial leverage is 2. Combined leverage is 12 — and the whole statement is already on the page.",
+   "provisions": [
+    {"ref": "The three relationships (SM §2.2)", "status": "VERIFIED",
+     "requirement": "Operating: sales to EBIT, business risk. Financial: EBIT to EPS, financial risk. Combined: sales to EPS, total risk.",
+     "exam_angle": "A clean MCQ, and the sentence that opens any leverage answer."}
+   ],
+   "keywords": ["relationship between Sales and EBIT", "business risk", "relationship between EBIT and EPS", "financial risk", "relationship between Sales and EPS", "total risk", "profitability statement", "contribution", "earnings before tax"],
+   "memory": {
+    "trick": "Read the statement top to bottom: **Sales → EBIT is operating. EBIT → EPS is financial. Sales → EPS is combined.** Three brackets, one statement.",
+    "key": [["Operating leverage", "Sales ↔ EBIT · business risk"], ["Financial leverage", "EBIT ↔ EPS · financial risk"], ["Combined leverage", "Sales ↔ EPS · total risk"], ["The statement", "Sales − VC = Contribution − FC = EBIT − Interest = EBT − Tax = PAT − Pref. div ÷ N = EPS"]],
+    "recall_trigger": "Three brackets, one statement"
+   },
+   "mistakes": ["Saying operating leverage measures total risk; it measures business risk alone.", "Deducting interest before fixed cost; the order of the statement is fixed and the leverages depend on it."],
+   "compare": {"title": "The three leverages at a glance (SM §2.2)", "headers": ["Leverage", "Relationship", "Risk indicated", "Formula"], "rows": [["Operating", "Sales and EBIT", "Business risk", "Contribution ÷ EBIT"], ["Financial", "EBIT and EPS", "Financial risk", "EBIT ÷ EBT"], ["Combined", "Sales and EPS", "Total risk", "DOL × DFL = Contribution ÷ EBT"]]},
+   "links": ["🔗 FM Ch 5 §5.1: the same statement used for EBIT-EPS analysis", "🔗 FM Ch 3 §3.4.1: contribution and operating profit"],
+   "face_in_exam": {
+    "forms": ["Differentiate between business risk and financial risk (2 marks)", "MCQ on which leverage links which two variables"],
+    "approach": ["Answer the distinction through the statement: operations create business risk above EBIT, financing creates financial risk below it"],
+    "official_pattern": "MTP-J26-S1-FQ2b.",
+    "time_tip": "2 marks ≈ 3 minutes (study guidance)."
+   },
+   "official_questions": [
+    {"id": "MTP-J26-S1-FQ2b", "marks": 2, "status": "VERIFIED",
+     "question": "Differentiate between business risk and financial risk.",
+     "answer_points": [
+      "**Business risk** arises from the firm's operations — the composition of its fixed and variable costs and the volatility of its sales. It is measured by **operating leverage, the relationship between Sales and EBIT**, and exists even in a company with no debt at all.",
+      "**Financial risk** is the **additional risk a shareholder bears when a company uses debt in addition to equity financing** (SM §1). It is measured by **financial leverage, the relationship between EBIT and EPS**, and arises only from the fixed financial charges — interest and preference dividend.",
+      "**Where each sits in the statement:** business risk is created above the EBIT line, by fixed operating costs; financial risk is created below it, by fixed financing costs.",
+      "**Who bears it:** business risk is borne by every provider of capital; financial risk is borne by the equity shareholders alone, which is why companies that issue more debt have higher financial risk than those financed mostly or entirely by equity.",
+      "**Together** they make total risk, measured by combined leverage, the relationship between Sales and EPS."
+     ],
+     "conclusion": "Two marks: define each, then say which leverage measures it.",
+     "keywords": ["business risk", "financial risk", "additional risk", "operating leverage", "financial leverage"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F06.04-01", "angle": "Mapping", "difficulty": "Easy",
+     "question": "Combined leverage expresses the relationship between:",
+     "options": {"A": "Sales and EBIT", "B": "Sales and EPS", "C": "EBIT and EPS", "D": "Contribution and fixed cost"},
+     "answer": "B",
+     "explanation": "SM §2.2: combined leverage is the relationship between Sales and EPS and indicates total risk, i.e. both business risk and financial risk.",
+     "why_wrong": {"A": "That is operating leverage.", "C": "That is financial leverage.", "D": "That pair gives EBIT, not a leverage."},
+     "trap": "Combined spans the whole statement, from the first line to the last.",
+     "concept": "F06.04"},
+    {"id": "MCQ-F06.05-02", "angle": "Statement", "difficulty": "Moderate",
+     "question": "In the profitability statement, the figure immediately above earnings before tax is:",
+     "options": {"A": "Contribution", "B": "Profit after tax", "C": "Operating profit, or EBIT", "D": "Net earnings available to equity shareholders"},
+     "answer": "C",
+     "explanation": "SM §2.3: Sales, less variable cost gives contribution; less fixed cost gives operating profit or EBIT; less interest gives earnings before tax.",
+     "why_wrong": {"A": "Contribution sits two lines above EBT.", "B": "PAT comes after tax, below EBT.", "D": "That is the last line before dividing by the share count."},
+     "trap": "The order of the statement is what makes each leverage formula work; learn it as a sequence.",
+     "concept": "F06.05"}
+   ],
+   "recap": ["Operating: sales to EBIT, business risk. Financial: EBIT to EPS, financial risk. Combined: sales to EPS, total risk.", "One profitability statement carries all three.", "Two leverages plus one absolute figure reconstruct the whole statement."]
+  },
+  {
+   "code": "F06.06",
+   "title": "3. Operating Leverage",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "MTP 1 (Jan 2026 Series II)",
+   "understand": [
+    "==**Operating leverage means the tendency of operating income (EBIT) to change disproportionately with a change in sale volume.** This **disproportionate change is caused by operating fixed cost, which does not change with change in sales volume**.==",
+    "In other words, operating leverage may be defined as **the employment of an asset with a fixed cost so that enough revenue can be generated to cover all the fixed and variable costs**. ==**The use of assets for which a company pays a fixed cost is called operating leverage.**==",
+    "==**Operating leverage is a function of three factors: (i) the amount of fixed cost, (ii) the variable contribution margin, and (iii) the volume of sales.**==",
+    "**Why fixed cost is the whole story.** If a firm had no fixed operating cost, contribution and EBIT would be the same figure, so a 10% rise in sales would raise EBIT by exactly 10% — no magnification at all. Every unit of fixed cost that sits between contribution and EBIT is what creates the multiplier.",
+    "The study material's own Illustration 2 makes the point with four firms. Firm D has **nil fixed operating cost** and a DOL of **1** — 'there is no magnified effect on the EBIT due to change in sales; a 20 per cent increase in sales has resulted in a 20 per cent increase in EBIT'. Firm A, with fixed costs of ₹60,000 on contribution of ₹70,000, has a DOL of **7**."
+   ],
+   "example": "Two firms sell the same volume at the same margin. The one that rents its factory has low fixed cost and low operating leverage; the one that owns it has high fixed cost and high operating leverage — and a much sharper fall in EBIT when sales dip.",
+   "provisions": [
+    {"ref": "Three factors (SM §3)", "status": "VERIFIED",
+     "requirement": "Amount of fixed cost, variable contribution margin, and volume of sales.",
+     "exam_angle": "A short note, and the explanation demanded after a four-firm computation."}
+   ],
+   "keywords": ["tendency of operating income to change disproportionately", "operating fixed cost", "does not change with change in sales volume", "employment of an asset with a fixed cost", "amount of fixed cost", "variable contribution margin", "volume of sales"],
+   "memory": {
+    "trick": "Operating leverage exists **only where there is fixed cost**. No fixed cost, no magnification, DOL = 1.",
+    "key": [["What it is", "EBIT changing disproportionately with sales volume"], ["Caused by", "Operating fixed cost, which does not move with sales"], ["Three factors", "Amount of fixed cost · variable contribution margin · volume of sales"], ["No fixed cost", "DOL = 1, no operating leverage"]],
+    "recall_trigger": "No fixed cost, no leverage"
+   },
+   "mistakes": ["Saying operating leverage is caused by debt; that is financial leverage.", "Listing only fixed cost as the factor; the study material names three."],
+   "links": ["🔗 FM Ch 6 §3.2: break-even, which the same fixed cost drives", "🔗 FM Ch 5 §3.2: growth and stability of sales as a capital structure principle"],
+   "face_in_exam": {
+    "forms": ["Calculate the operating leverage for several firms and explain the pattern (SM Illustration 2)", "Compute DOL and the impact of a sales change"],
+    "approach": ["Build the profitability statement per firm, then comment on the relationship between fixed cost and DOL"],
+    "official_pattern": "MTP-J26-S2-FQ3a.",
+    "time_tip": "5 marks ≈ 9 minutes (study guidance)."
+   },
+   "official_questions": [
+    {"id": "MTP-J26-S2-FQ3a", "marks": 5, "status": "VERIFIED",
+     "question": "ShirtCo is a garment manufacturing company producing and selling 10,000 shirts every year. The company's cost and revenue structure is given. Calculate the operating leverage, and compute the impact on EBIT if sales rise by 10%.",
+     "answer_points": [
+      "**Statement of profitability.** Sales revenue (10,000 × selling price), less variable cost (10,000 × variable cost per shirt), gives **contribution**; less fixed operating cost gives **EBIT**.",
+      "On the study material's own figures for this question type — selling price ₹500, variable cost ₹200, fixed operating cost ₹25,00,000 — sales are ₹50,00,000, variable cost ₹20,00,000, **contribution ₹30,00,000**, and **EBIT ₹5,00,000**.",
+      "**Operating leverage** = Contribution ÷ EBIT = ₹30,00,000 ÷ ₹5,00,000 = **6 times**.",
+      "**Impact of a 10% rise in sales.** Operating leverage = % change in EBIT ÷ % change in sales, so % change in EBIT = 6 × 10% = **60%**. In money terms, EBIT rises by ₹5,00,000 × 60% = **₹3,00,000**, to ₹8,00,000.",
+      "**Comment.** A DOL of 6 means a 1% change in sales moves EBIT by 6% in the same direction — the magnification created entirely by the ₹25,00,000 of fixed operating cost."
+     ],
+     "conclusion": "Statement, then one division, then the percentage — and a sentence saying what the number means.",
+     "keywords": ["contribution", "operating leverage", "percentage change in EBIT", "fixed operating cost"]}
+   ],
+   "expected_questions": [
+    {"id": "EQ-F06.06-1", "form": "Compute and explain (5 marks)", "marks": 5,
+     "question": "Calculate the operating leverage for firms A, B, C and D from the following, assuming 5,000 units sold: sale price per unit ₹20, ₹32, ₹50 and ₹70; variable cost per unit ₹6, ₹16, ₹20 and ₹50; fixed operating cost ₹60,000, ₹40,000, ₹1,00,000 and nil. What conclusions can you draw about the levels of fixed cost and the degree of operating leverage?",
+     "answer_points": [
+      "**Firm A:** sales ₹1,00,000, variable cost ₹30,000, fixed cost ₹60,000, **EBIT ₹10,000**. DOL = (₹1,00,000 − ₹30,000) ÷ ₹10,000 = **7**.",
+      "**Firm B:** sales ₹1,60,000, variable cost ₹80,000, fixed cost ₹40,000, **EBIT ₹40,000**. DOL = ₹80,000 ÷ ₹40,000 = **2**.",
+      "**Firm C:** sales ₹2,50,000, variable cost ₹1,00,000, fixed cost ₹1,00,000, **EBIT ₹50,000**. DOL = ₹1,50,000 ÷ ₹50,000 = **3**.",
+      "**Firm D:** sales ₹3,50,000, variable cost ₹2,50,000, fixed cost nil, **EBIT ₹1,00,000**. DOL = ₹1,00,000 ÷ ₹1,00,000 = **1**.",
+      "**Conclusion.** The operating leverage exists only when there are fixed costs. In the case of firm D there is no magnified effect on EBIT due to a change in sales — a 20 per cent increase in sales results in a 20 per cent increase in EBIT. In the other firms operating leverage exists: it is **maximum in firm A, followed by firm C, and minimum in firm B**.",
+      "**Interpretation of firm A's DOL of 7:** a 1 per cent change in sales results in a 7 per cent change in EBIT, in the direction of the change in the sales level."
+     ],
+     "keywords": ["operating leverage exists only when there are fixed costs", "no magnified effect", "1 per cent change in sales"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F06.06-01", "angle": "Cause", "difficulty": "Easy",
+     "question": "The disproportionate change in EBIT with a change in sales volume is caused by:",
+     "options": {"A": "Interest on borrowings", "B": "The preference dividend", "C": "Operating fixed cost, which does not change with the change in sales volume", "D": "The rate of corporate tax"},
+     "answer": "C",
+     "explanation": "SM §3: operating leverage means the tendency of operating income to change disproportionately with a change in sale volume; this disproportionate change is caused by operating fixed cost, which does not change with change in sales volume.",
+     "why_wrong": {"A": "Interest creates financial leverage, below the EBIT line.", "B": "Also a financing charge.", "D": "Tax comes after EBT and affects neither leverage's numerator."},
+     "trap": "Everything above EBIT is operating; everything below it is financing.",
+     "concept": "F06.06"},
+    {"id": "MCQ-F06.06-02", "angle": "Factors", "difficulty": "Moderate",
+     "question": "Operating leverage is described in the study material as a function of three factors. Which is NOT one of them?",
+     "options": {"A": "The amount of fixed cost", "B": "The variable contribution margin", "C": "The volume of sales", "D": "The debt-equity ratio"},
+     "answer": "D",
+     "explanation": "SM §3: operating leverage is a function of the amount of fixed cost, the variable contribution margin, and the volume of sales.",
+     "why_wrong": {"A": "Expressly named.", "B": "Expressly named.", "C": "Expressly named."},
+     "trap": "The debt-equity ratio drives financial leverage, not operating leverage.",
+     "concept": "F06.06"}
+   ],
+   "recap": ["Operating leverage is EBIT changing disproportionately with sales, caused by fixed operating cost.", "It is the use of assets for which a company pays a fixed cost.", "Three factors: amount of fixed cost, variable contribution margin, volume of sales.", "No fixed cost means DOL of 1 and no magnification."]
+  },
+  {
+   "code": "F06.07",
+   "title": "3.1 The Degree of Operating Leverage (DOL)",
+   "activity": "Very High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 3 (May 2024 Q1(b), Sep 2025 Q2(a), May 2026 Q1(a)) · MTP 3",
+   "understand": [
+    "==When we measure the magnitude of the disproportionate change, it is termed the **degree** of leverage. **Degree of Operating Leverage may be defined as the percentage change in EBIT with respect to the percentage change in sales quantity**: **DOL = Percentage Change in EBIT ÷ Percentage Change in Sales**.==",
+    "**The derivation that gives the working formula.** **EBIT = Q(S − V) − F**, where **Q** is sales quantity, **S** the selling price per unit, **V** the variable cost per unit and **F** the fixed cost. Since **the change in fixed cost is nil**, F drops out of the numerator of the change, leaving ==**DOL = Q(S − V) ÷ [Q(S − V) − F]**==, which is ==**DOL = Contribution ÷ (Contribution − Fixed Cost) = Contribution ÷ EBIT**.==",
+    "**The three situations the study material tabulates.** **Situation 1 — no fixed cost:** sales rise 50% and EBIT rises 50%, so **DOL = 1**. **Situation 2 — positive leverage:** with fixed cost of ₹50,000, sales rise 50% and EBIT rises 100%, so **DOL = 2**. **Situation 3 — when EBIT is nil (contribution equals fixed cost):** DOL = Contribution ÷ 0 = **undefined**.",
+    "==**When DOL is more than one, operating leverage exists. The more the DOL, the higher the operating leverage.**==",
+    "==**A positive DOL means the firm is operating at a higher level than the break-even level, and both sales and EBIT move in the same direction. In the case of a negative DOL, the firm operates at lower than break-even sales and EBIT is negative.**==",
+    "**The analysis table.** **No fixed cost → no operating leverage. Higher fixed cost → higher break-even point. Higher than break-even level → positive operating leverage. Lower than break-even level → negative operating leverage.**",
+    "==**The range rule, which ICAI has asked directly: DOL can never be between zero and one. It can be zero or less, or it can be one or more.**== The study material explains the shape: **when sales are much higher than break-even sales, DOL will be slightly more than one; with a decrease in sales, DOL will increase; at break-even point, DOL will be infinite; when sales are slightly less than break-even, DOL will be negative infinite; with further reduction in sales, DOL will move towards zero; and at zero sales, DOL will also be zero.**"
+   ],
+   "example": "May 2026 gave one line: a 5% increase in sales raises operating profit by ₹9,000, with a 40% contribution ratio. Since 5% of sales × 40% = ₹9,000, sales are ₹4,50,000 — the whole statement unlocked from a single sentence.",
+   "provisions": [
+    {"ref": "DOL (SM §3.1)", "status": "VERIFIED",
+     "requirement": "Percentage change in EBIT ÷ percentage change in sales = Contribution ÷ EBIT.",
+     "exam_angle": "Used in every numerical in the chapter, forwards and backwards."},
+    {"ref": "The range of DOL (SM §3.1 note)", "status": "VERIFIED",
+     "requirement": "DOL can never be between zero and one; it can be zero or less, or one or more. Infinite at break-even, negative below it, zero at zero sales.",
+     "exam_angle": "Asked as a 2-mark part in the September 2024 Series I mock test paper."}
+   ],
+   "keywords": ["degree", "percentage change in EBIT", "percentage change in sales", "Contribution ÷ EBIT", "positive operating leverage", "negative operating leverage", "undefined", "can never be between zero and one", "negative infinite"],
+   "memory": {
+    "trick": "**DOL = Contribution ÷ EBIT.** Big over small, so it is always at least 1 — unless EBIT is negative, in which case so is DOL. Nothing lands between 0 and 1.",
+    "key": [["Definition", "% change in EBIT ÷ % change in sales"], ["Working formula", "Contribution ÷ EBIT"], ["Above break-even", "Positive; sales and EBIT move together"], ["At break-even", "Infinite"], ["Below break-even", "Negative"], ["At zero sales", "Zero"], ["Never", "Between zero and one"]],
+    "recall_trigger": "Contribution over EBIT"
+   },
+   "mistakes": ["Inverting the formula to EBIT ÷ Contribution.", "Reporting a DOL of 0.75; the study material says that range is impossible.", "Forgetting that DOL is undefined, not zero, when EBIT is nil."],
+   "links": ["🔗 FM Ch 6 §3.3: DOL as the reciprocal of the margin of safety", "🔗 FM Ch 6 §4.1: the identically shaped rule for DFL"],
+   "face_in_exam": {
+    "forms": ["Compute DOL and the impact of a stated sales change", "Work backwards from a sales change and a profit change to find current sales (May 2026)", "What is the range of DOL? (2 marks)"],
+    "approach": ["Build the statement to contribution and EBIT, then divide", "For a reverse question, express the change in EBIT as a percentage of sales times the P/V ratio"],
+    "official_pattern": "PYQ-M24-Q1b; PYQ-S25-Q2a; PYQ-M26-Q1a; MTP-S24-S1-FQ4c; MTP-M25-S1-FQ1c.",
+    "time_tip": "5 marks ≈ 9 minutes; 2 marks ≈ 3 minutes (study guidance)."
+   },
+   "write": {
+    "structure": ["Profitability statement to EBIT", "The formula", "The substitution", "One line on what the figure means"],
+    "keywords": ["contribution", "EBIT", "percentage change"],
+    "length": "5 marks: a statement plus one division plus a comment",
+    "conclusion": "State the magnification: a 1% change in sales moves EBIT by DOL%.",
+    "avoid": ["Giving the number without the interpretation"]
+   },
+   "official_questions": [
+    {"id": "PYQ-M26-Q1a", "marks": 5, "status": "VERIFIED",
+     "question": "The finance manager of A Ltd. noticed that a 5% increase in sales leads to an increase of ₹9,000 in operating profit. The company operates with a given contribution ratio and fixed annual operating cost. Determine the current level of sales and prepare the income statement.",
+     "answer_points": [
+      "**Find current sales.** Let present sales be X. A 5% increase in sales raises contribution — and therefore operating profit, fixed cost being unchanged — by **5% of sales × P/V ratio**. So 0.05X × 0.40 = ₹9,000, i.e. **0.02X = ₹9,000** and **current sales (X) = ₹4,50,000**.",
+      "**ICAI's alternative route to the same figure.** P/V ratio = change in profit ÷ change in sales, so 0.40 = ₹9,000 ÷ change in sales, giving a change in sales of **₹22,500**; and since that change is 5% of sales, total sales = ₹22,500 ÷ 0.05 = **₹4,50,000**.",
+      "**Income statement.** Sales **₹4,50,000**; contribution at 40% = **₹1,80,000**; less fixed annual operating cost **₹1,35,000**; **EBIT = ₹45,000**.",
+      "**The leverages then follow.** DOL = Contribution ÷ EBIT = ₹1,80,000 ÷ ₹45,000 = **4 times**; DFL = EBIT ÷ EBT once interest is deducted; DCL = DOL × DFL.",
+      "The examinable idea is that **a percentage change in sales and the money change in operating profit are linked only through the P/V ratio**, because fixed cost does not move."
+     ],
+     "conclusion": "One sentence of data, one equation, then the whole statement.",
+     "keywords": ["P/V ratio", "change in profit over change in sales", "fixed annual operating cost", "EBIT"],
+     "examiner": "No examiners' comments have been published for Paper 6."},
+    {"id": "PYQ-S25-Q2a", "marks": 5, "status": "VERIFIED",
+     "question": "M/s KRY Limited's capital structure is: equity share capital (12,500 shares of ₹100 each) ₹12,50,000; 6% debentures ₹50,00,000; 8% bank loan (amount not given). Total sales ₹75,00,000; P/V ratio 40%; operating leverage 2.4; combined leverage 3.84; corporate tax rate 30%; P/E ratio 8. Calculate (i) earnings before interest and tax, (ii) fixed cost excluding interest, (iii) the amount of the bank loan and the bank interest, (iv) earnings per share, (v) market price per share.",
+     "answer_points": [
+      "**(i) EBIT.** Contribution = Sales × P/V ratio = ₹75,00,000 × 40% = **₹30,00,000**. Operating leverage = Contribution ÷ EBIT, so **EBIT = ₹30,00,000 ÷ 2.4 = ₹12,50,000**.",
+      "**(ii) Fixed cost excluding interest** = Contribution − EBIT = ₹30,00,000 − ₹12,50,000 = **₹17,50,000**.",
+      "**(iii) Bank loan and interest.** Combined leverage = DOL × DFL, so **DFL = 3.84 ÷ 2.4 = 1.6**. DFL = EBIT ÷ EBT, so **EBT = ₹12,50,000 ÷ 1.6 = ₹7,81,250**, and **total interest = ₹12,50,000 − ₹7,81,250 = ₹4,68,750**. Debenture interest = 6% of ₹50,00,000 = ₹3,00,000, so **bank interest = ₹1,68,750** and the **bank loan = ₹1,68,750 ÷ 0.08 = ₹21,09,375**.",
+      "**(iv) EPS.** PAT = EBT × (1 − 0.30) = ₹7,81,250 × 0.70 = **₹5,46,875**. With 12,500 shares, **EPS = ₹5,46,875 ÷ 12,500 = ₹43.75**.",
+      "**(v) MPS** = EPS × P/E ratio = ₹43.75 × 8 = **₹350**.",
+      "The chain to remember: **P/V ratio gives contribution, DOL gives EBIT, DCL ÷ DOL gives DFL, DFL gives EBT, and the interest gap gives the loan**."
+     ],
+     "conclusion": "Five requirements, one chain, worked strictly downward through the statement.",
+     "keywords": ["P/V ratio", "operating leverage", "combined leverage", "bank interest", "P/E ratio"],
+     "examiner": "No examiners' comments have been published for Paper 6."},
+    {"id": "MTP-S24-S1-FQ4c", "marks": 2, "status": "VERIFIED",
+     "question": "What is the range of DOL?",
+     "answer_points": [
+      "**DOL can never be between zero and one. It can be zero or less, or it can be one or more.**",
+      "**When sales are much higher than break-even sales, DOL will be slightly more than one.** With a decrease in sales, DOL will increase.",
+      "**At break-even point, DOL will be infinite**, because EBIT is nil and the formula Contribution ÷ EBIT has a zero denominator.",
+      "**When sales are slightly less than break-even, DOL will be negative infinite.** With a further reduction in sales, DOL will move towards zero.",
+      "**At zero sales, DOL will also be zero.**",
+      "The same shape applies to the degree of financial leverage, with the financial break-even point in place of the operating break-even point."
+     ],
+     "conclusion": "Two marks: the rule, then the four points along the curve.",
+     "keywords": ["never be between zero and one", "infinite", "negative infinite", "zero sales"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F06.07-01", "angle": "Range", "difficulty": "Moderate",
+     "question": "Which of the following values of DOL is impossible?",
+     "options": {"A": "0.80", "B": "1.00", "C": "−2.50", "D": "7.00"},
+     "answer": "A",
+     "explanation": "SM §3.1 note: DOL can never be between zero and one; it can be zero or less, or one or more.",
+     "why_wrong": {"B": "Exactly one, the no-fixed-cost case.", "C": "Negative values occur below break-even.", "D": "A perfectly ordinary high-fixed-cost figure."},
+     "trap": "Negative values are possible; fractions between 0 and 1 are not.",
+     "concept": "F06.07"},
+    {"id": "MCQ-F06.07-02", "angle": "Computation", "difficulty": "Easy",
+     "question": "A company has contribution of ₹30,00,000 and fixed operating cost of ₹25,00,000. Its degree of operating leverage is:",
+     "options": {"A": "1.20 times", "B": "0.17 times", "C": "5.00 times", "D": "6.00 times"},
+     "answer": "D",
+     "explanation": "EBIT = ₹30,00,000 − ₹25,00,000 = ₹5,00,000; DOL = Contribution ÷ EBIT = ₹30,00,000 ÷ ₹5,00,000 = 6 times.",
+     "why_wrong": {"A": "That is contribution ÷ fixed cost.", "B": "That is the inverted formula, EBIT ÷ contribution.", "C": "That is EBIT in lakhs, not a ratio."},
+     "trap": "Divide by EBIT, not by fixed cost.",
+     "concept": "F06.07"}
+   ],
+   "recap": ["DOL = % change in EBIT ÷ % change in sales = Contribution ÷ EBIT.", "Above one means leverage exists; the higher the DOL, the higher the operating leverage.", "Positive above break-even, infinite at it, negative below it, zero at zero sales.", "DOL can never lie between zero and one."]
+  }
+ ]
+}

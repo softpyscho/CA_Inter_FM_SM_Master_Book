@@ -1,0 +1,904 @@
+{
+ "concepts": [
+  {
+   "code": "F04.08",
+   "title": "5.3 Cost of Redeemable Debentures (Approximation Method)",
+   "activity": "Very High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (Sep 2025 Q3(b)) · MTP 1 (Sep 2026 Series I)",
+   "understand": [
+    "==**Cost of Redeemable Debenture (Kd) = [I(1 − t) + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2]**==, where **I** is the interest payment, **NP** the net proceeds or current market price, **RV** the redemption value of the debentures, **t** the tax rate applicable to the company and **n** the remaining life of the debentures.",
+    "That formula is used **where only interest on debt is tax deductible**. Sometimes debts are **issued at a discount and/or redeemed at a premium**. ==If the **discount on issue and/or premium on redemption are tax deductible**, the alternative formula is **Kd = {[I + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2]} × (1 − t)**.==",
+    "==**In the absence of any specific information, students may use any of the above formulae to calculate the cost of debt with a logical assumption.**==",
+    "**The study material's warning about accuracy.** These formulas give an **approximate value** of the cost of debt. ==In these formulas, **the higher the difference between RV and NP, the lower the accuracy of the answer**. One should therefore **not use these formulas if the difference between RV and NP is very high**. They are also **not suitable in case of gradual redemption of debentures or bonds**.==",
+    "**Illustration 2 of the study material.** A company issued 10,000 10% debentures of ₹100 each **at a premium of 10%** on 1.4.2023, to be **matured on 1.4.2028** and **redeemed at par**. Tax is 35%. Here **I = ₹10, NP = ₹110, RV = ₹100, n = 5 years, t = 0.35**. So Kd = [₹10(1 − 0.35) + (₹100 − ₹110) ÷ 5] ÷ [(₹100 + ₹110) ÷ 2] = (₹6.50 − ₹2) ÷ ₹105 = ₹4.50 ÷ ₹105 = **0.0428, or 4.28%**.",
+    "**Illustration 3 of the study material.** The same company issued the debentures **at par** on 1.4.2018 to mature on 1.4.2028 at par, and wants the cost of its **existing** debt on 1.4.2023 when the **market price is ₹80**. Here **I = ₹10, NP = ₹80 (the current market price), RV = ₹100, n = 5 years, t = 0.35**. So Kd = [₹10(1 − 0.35) + (₹100 − ₹80) ÷ 5] ÷ [(₹100 + ₹80) ÷ 2] = (₹6.50 + ₹4) ÷ ₹90 = ₹10.50 ÷ ₹90 = **0.1166, or 11.67%**.",
+    "Notice what the two illustrations teach between them: **a debenture issued at a premium costs less than its coupon**, and **a debenture now trading below par costs more** — because in each case it is the **net proceeds or market price, not the face value, that sits in the denominator**."
+   ],
+   "example": "Sep 2025 asked for the cost of 20,000 18% debentures of ₹100 each redeemable after 8 years, using the approximation method — a direct application of the first formula.",
+   "provisions": [
+    {
+     "ref": "Two formulae, one choice (SM §5.3)",
+     "status": "VERIFIED",
+     "requirement": "Use the first where only interest is tax deductible, the second where discount on issue and premium on redemption are also deductible; in the absence of specific information either may be used with a logical assumption.",
+     "exam_angle": "Write down which one you are using and why — that sentence protects the marks."
+    },
+    {
+     "ref": "When not to use it (SM §5.3)",
+     "status": "VERIFIED",
+     "requirement": "Not where the difference between redemption value and net proceeds is very high, and not for gradual redemption.",
+     "exam_angle": "The reason the deep discount bond illustration switches to trial and error."
+    }
+   ],
+   "keywords": [
+    "redemption value",
+    "net proceeds",
+    "remaining life",
+    "approximation method",
+    "discount on issue",
+    "premium on redemption",
+    "logical assumption",
+    "gradual redemption"
+   ],
+   "memory": {
+    "trick": "Top line = **annual cost**: after-tax interest plus the annual amortisation of the gain or loss on redemption. Bottom line = **average money at work**: the mean of what you got and what you must repay.",
+    "key": [
+     [
+      "Numerator",
+      "I(1 − t) + (RV − NP) ÷ n"
+     ],
+     [
+      "Denominator",
+      "(RV + NP) ÷ 2"
+     ],
+     [
+      "Issued at a premium",
+      "NP > RV, so the second term is negative and the cost falls below the coupon"
+     ],
+     [
+      "Trading below par",
+      "NP < RV, so the second term is positive and the cost rises above the coupon"
+     ],
+     [
+      "Do not use when",
+      "RV and NP are far apart, or redemption is gradual"
+     ]
+    ],
+    "recall_trigger": "Annual cost over average money"
+   },
+   "mistakes": [
+    "Putting the redemption value in the denominator alone instead of the average of RV and NP.",
+    "Dividing the (RV − NP) term by anything other than the remaining life.",
+    "Using the approximation method for a deep discount bond, where the study material says to use trial and error."
+   ],
+   "links": [
+    "🔗 FM Ch 4 §5.3.1: the exact method by yield to maturity",
+    "🔗 FM Ch 4 §5.4: convertible debentures use this same formula with a different RV"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Cost of redeemable debentures as one line of a WACC computation",
+     "A standalone 5-mark computation (Sep 2025 Q3(b))"
+    ],
+    "approach": [
+     "List I, NP, RV, n and t in a working note before substituting — ICAI's own answers do this every time"
+    ],
+    "official_pattern": "PYQ-S25-Q3b; MTP-S26-S1-FQ1b.",
+    "time_tip": "5 marks ≈ 9 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "State the formula",
+     "List I, NP, RV, n, t",
+     "Substitute",
+     "Give the percentage to two decimals"
+    ],
+    "keywords": [
+     "net proceeds",
+     "redemption value",
+     "remaining life"
+    ],
+    "length": "5 marks: formula, five-line working note, substitution",
+    "conclusion": "Say whether the cost is above or below the coupon and why.",
+    "avoid": [
+     "Omitting the working note; the marks are in the five inputs"
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-S25-Q3b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "A company issues 20,000 18% debentures of ₹100 each. The debentures are redeemable after a period of 8 years. Compute the cost of debentures using the approximation method.",
+     "answer_points": [
+      "**Formula (SM §5.3):** Kd = [I(1 − t) + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2].",
+      "**Inputs:** I = 18% of ₹100 = **₹18**; n = **8 years**; RV = the redemption value stated in the question; NP = the issue price less any floatation cost (where the issue price is not given, the current market price is used); t = the tax rate given.",
+      "**Substitute** the five inputs and express the answer as a percentage to two decimals.",
+      "Where the debentures are issued at par and redeemed at par with no floatation cost, RV = NP and the second term in the numerator vanishes, so the cost reduces simply to I(1 − t) ÷ face value — the irredeemable formula.",
+      "State the assumption made about net proceeds; the study material expressly permits either of its two formulae in the absence of specific information."
+     ],
+     "conclusion": "Five marks for the formula, the inputs and a clean substitution.",
+     "keywords": [
+      "approximation method",
+      "redemption value",
+      "net proceeds",
+      "remaining life"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "MTP-S26-S1-FQ1b",
+     "status": "VERIFIED",
+     "question": "From the Sep 2026 Series I mock test paper: compute the cost of equity with a flotation cost, and the cost of debt, as the first step of a weighted average cost of capital computation.",
+     "answer_points": [
+      "**Cost of equity (Ke)** = D1 ÷ (P0 − F) + g. ICAI's answer file works it as ₹1 ÷ (₹24 − ₹4) + 0.05 = 0.05 + 0.05 = **0.10, or 10%**, where F is the flotation cost per share.",
+      "**Cost of debt (Kd)** follows the redeemable formula, using net proceeds after issue expenses and the remaining life of the instrument.",
+      "Both costs then enter the weighted average computation of part (c) of the same question, where 10% debentures of ₹105 each and 5% preference shares are weighted at market value.",
+      "Only the answer file of this mock test paper is on the ICAI portal; the question wording above is reconstructed from it."
+     ],
+     "conclusion": "The flotation cost is deducted from the market price in Ke, never added to the dividend.",
+     "keywords": [
+      "flotation cost",
+      "D1 ÷ (P0 − F) + g",
+      "net proceeds"
+     ]
+    }
+   ],
+   "expected_questions": [
+    {
+     "id": "EQ-F04.08-1",
+     "form": "Compute (4 marks)",
+     "marks": 4,
+     "question": "A company issued 10,000 10% debentures of ₹100 each at a premium of 10% on 1.4.2023, to be matured on 1.4.2028 and redeemed at par. Compute the cost of the debentures assuming a 35% tax rate. Then compute the cost of the same debentures if instead they had been issued at par in 2018 and were trading at ₹80 on 1.4.2023, with five years left to maturity.",
+     "answer_points": [
+      "**Case 1 — issued at a premium.** I = ₹10; NP = 110% of ₹100 = ₹110; RV = ₹100; n = 5 years; t = 0.35. Kd = [₹10(1 − 0.35) + (₹100 − ₹110) ÷ 5] ÷ [(₹100 + ₹110) ÷ 2] = (₹6.50 − ₹2) ÷ ₹105 = ₹4.50 ÷ ₹105 = **0.0428, or 4.28%**.",
+      "**Case 2 — existing debt trading below par.** I = ₹10; NP = current market price ₹80; RV = ₹100; n = 5 years; t = 0.35. Kd = [₹10(1 − 0.35) + (₹100 − ₹80) ÷ 5] ÷ [(₹100 + ₹80) ÷ 2] = (₹6.50 + ₹4) ÷ ₹90 = ₹10.50 ÷ ₹90 = **0.1166, or 11.67%**.",
+      "**The lesson in the contrast.** The coupon is 10% in both cases, but the cost is 4.28% in the first and 11.67% in the second, because the denominator is net proceeds or market price, not face value, and the (RV − NP) term reverses sign.",
+      "Both are approximations: the study material warns that the higher the difference between RV and NP, the lower the accuracy."
+     ],
+     "keywords": [
+      "premium on issue",
+      "current market price",
+      "approximation",
+      "reverses sign"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F04.08-01",
+     "angle": "Formula",
+     "difficulty": "Moderate",
+     "question": "In the approximation formula for the cost of redeemable debentures, the denominator is:",
+     "options": {
+      "A": "The redemption value",
+      "B": "The average of the redemption value and the net proceeds",
+      "C": "The net proceeds",
+      "D": "The face value"
+     },
+     "answer": "B",
+     "explanation": "SM §5.3: Kd = [I(1 − t) + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2]; the denominator is the average of the redemption value and the net proceeds.",
+     "why_wrong": {
+      "A": "RV appears in the numerator and in the average, not alone below.",
+      "C": "NP alone is the denominator for irredeemable debt.",
+      "D": "Face value is only the base for interest."
+     },
+     "trap": "The irredeemable formula does divide by NP alone; the redeemable one averages.",
+     "concept": "F04.08"
+    },
+    {
+     "id": "MCQ-F04.08-02",
+     "angle": "Limitation",
+     "difficulty": "Moderate",
+     "question": "The study material warns that the approximation method should NOT be used where:",
+     "options": {
+      "A": "The tax rate exceeds 30%",
+      "B": "The debentures were issued at par",
+      "C": "The difference between redemption value and net proceeds is very high, or redemption is gradual",
+      "D": "The remaining life exceeds five years"
+     },
+     "answer": "C",
+     "explanation": "SM §5.3: the higher the difference between RV and NP, the lower the accuracy; the formulas are also not suitable in case of gradual redemption of debentures or bonds.",
+     "why_wrong": {
+      "A": "The tax rate does not affect the method's accuracy.",
+      "B": "At par is the easiest case for the method.",
+      "D": "Length of life is not the stated limitation."
+     },
+     "trap": "This is exactly why the deep discount bond illustration switches to trial and error.",
+     "concept": "F04.08"
+    }
+   ],
+   "recap": [
+    "Kd = [I(1 − t) + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2].",
+    "A second formula applies the (1 − t) to the whole expression where discount and premium are also deductible.",
+    "Issued at a premium → cost below the coupon; trading below par → cost above it.",
+    "Do not use it when RV and NP are far apart, or for gradual redemption."
+   ]
+  },
+  {
+   "code": "F04.09 + F04.10",
+   "title": "5.3.1–5.3.2 Cost of Debt by the Present Value Method (Yield to Maturity), and Amortisation of a Bond",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 2 (Sep 2024 Q2(a), May 2026 Q1(b)) · MTP 1 (Sep 2025 Series I)",
+   "understand": [
+    "**The present value method (§5.3.1).** The cost of redeemable debt is also calculated by **discounting the relevant cash flows using the internal rate of return**. ==**Yield to maturity is the annual return of an investment from the current date till the maturity date; it is the internal rate of return at which the current price of a debt equals the present value of all cash flows.**==",
+    "**The relevant cash flows.** **Year 0:** net proceeds in case of a new issue, or the current market price in case of existing debt (NP or P0). **Years 1 to n:** **interest net of tax, I(1 − t)**. **Year n:** the **redemption value (RV)**.",
+    "**Three steps.** **Step 1:** identify the cash flows. **Step 2:** calculate the net present values of those cash flows **using two discount rates (guessing)**. **Step 3:** calculate the IRR by interpolation: ==**IRR = L + [NPV<sub>L</sub> ÷ (NPV<sub>L</sub> − NPV<sub>H</sub>)] × (H − L)**==.",
+    "**The study material's worked example.** 10,000 10% debentures of ₹100 each issued 1.4.2023 maturing 1.4.2028; market price ₹80; tax 35%. Cash flows: year 0 **₹80**; years 1 to 5 **₹6.50** (10% of ₹100 × 0.65); year 5 **₹100**. At 10% the NPV is **+₹6.74** and at 15% it is **−₹8.51**, so IRR = 10% + [6.74 ÷ (6.74 − (−8.51))] × (15% − 10%) = **12.21%**.",
+    "==**Yield to maturity, or the present value method, is a superior method of determining the cost of debt of a company compared with the approximation method, and it is also preferred in the field of finance.**== The same caution applies as before: **the higher the difference between H and L, the lower the accuracy of the answer**.",
+    "**Illustration 4 — the deep discount bond.** Institutional Development Bank issued **zero-interest deep discount bonds of face value ₹1,00,000 each, issued at ₹2,500 and repayable after 25 years**, with no corporate tax. Because there is a **huge difference between RV and NP, the approximation method is unsuitable and trial and error is used**: ₹1,00,000 = ₹2,500 × (1 + r)<sup>25</sup>, so **40 = (1 + r)<sup>25</sup>**. At 15%, (1.15)<sup>25</sup> = 32.919; at 16%, (1.16)<sup>25</sup> = 40.874. Interpolating, **IRR = 15.89%**.",
+    "**Amortisation of a bond (§5.3.2).** A bond may be **amortised every year, i.e. the principal is repaid every year rather than at maturity**. The **principal goes down with annual payments and interest is computed on the outstanding amount**, so **the cash flows of the bond will be uneven**. ==The value of a bond amortised every year is **V<sub>B</sub> = Σ C<sub>t</sub> ÷ (1 + Kd)<sup>t</sup>** for t = 1 to n.==",
+    "**Illustration 5.** RBML proposes to sell a **5-year bond of ₹5,000 at 8% interest per annum, amortised equally over its life**; the investor expects a minimum return of **6%**. Interest declines each year as the outstanding falls: **₹400, ₹320, ₹240, ₹160 and ₹80**. With ₹1,000 of principal returned each year, the outflows are **₹1,400, ₹1,320, ₹1,240, ₹1,160 and ₹1,080**. Discounted at 6%, these give **₹1,320.75 + ₹1,174.80 + ₹1,041.14 + ₹918.88 + ₹807.05 = ₹5,262.62**, the value of the bond."
+   ],
+   "example": "September 2024 told candidates expressly that the cost of debentures was to be calculated on a yield-to-maturity basis — the method, not just the answer, was the instruction.",
+   "provisions": [
+    {
+     "ref": "Yield to maturity (SM §5.3.1)",
+     "status": "VERIFIED",
+     "requirement": "The IRR at which the current price of a debt equals the present value of all cash flows; year 0 net proceeds or market price, years 1 to n interest net of tax, year n redemption value.",
+     "exam_angle": "Sep 2024 Q2(a) directed candidates to use it; the interpolation formula is the mark."
+    },
+    {
+     "ref": "Amortised bond (SM §5.3.2)",
+     "status": "VERIFIED",
+     "requirement": "Principal repaid annually, interest computed on the outstanding amount, so the cash flows are uneven; value = sum of the discounted annual cash flows.",
+     "exam_angle": "The declining-interest schedule is the working note that earns the marks."
+    }
+   ],
+   "keywords": [
+    "yield to maturity",
+    "internal rate of return",
+    "interest net of tax",
+    "redemption value",
+    "two discount rates",
+    "interpolation",
+    "superior method",
+    "preferred in the field of finance",
+    "deep discount bond",
+    "trial and error",
+    "amortised",
+    "uneven cash flows"
+   ],
+   "memory": {
+    "trick": "YTM is just **IRR with the signs of a loan**: money in at year 0, money out every year after. Interpolate between a rate that gives a positive NPV and one that gives a negative NPV.",
+    "key": [
+     [
+      "Year 0",
+      "Net proceeds or current market price"
+     ],
+     [
+      "Years 1 to n",
+      "I(1 − t)"
+     ],
+     [
+      "Year n",
+      "Redemption value"
+     ],
+     [
+      "IRR",
+      "L + [NPVL ÷ (NPVL − NPVH)] × (H − L)"
+     ],
+     [
+      "Amortised bond",
+      "Principal repaid yearly; interest on the reducing balance; uneven flows"
+     ]
+    ],
+    "recall_trigger": "Money in, then money out"
+   },
+   "mistakes": [
+    "Discounting gross interest instead of interest net of tax.",
+    "Widening the gap between the two trial rates; the study material says the wider the gap, the lower the accuracy.",
+    "Charging interest on the original principal of an amortised bond instead of on the reducing balance."
+   ],
+   "compare": {
+    "title": "Approximation method versus yield to maturity (SM §§5.3 and 5.3.1)",
+    "headers": [
+     "Basis",
+     "Approximation method",
+     "Yield to maturity"
+    ],
+    "rows": [
+     [
+      "What it does",
+      "Averages the annual cost over the average money at work",
+      "Finds the rate that equates present value of inflows and outflows"
+     ],
+     [
+      "Accuracy",
+      "Approximate; worse as RV and NP diverge",
+      "Exact, subject to the interpolation gap"
+     ],
+     [
+      "The study material's view",
+      "Easy to use but gives an approximate answer",
+      "A superior method, preferred in the field of finance"
+     ],
+     [
+      "When unsuitable",
+      "Large RV–NP gap; gradual redemption",
+      "None stated, but needs two trial rates"
+     ]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 7: the same IRR and interpolation formula used for projects",
+    "🔗 FM Ch 4 §5.3: the approximation the study material calls inferior"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Cost of debentures on a yield-to-maturity basis (Sep 2024 Q2(a))",
+     "Cost of a convertible debenture by the present value method",
+     "Value of an amortised bond"
+    ],
+    "approach": [
+     "Lay the cash flows out in a table before discounting",
+     "Choose trial rates close together and show both NPVs"
+    ],
+    "official_pattern": "PYQ-S24-Q2a; PYQ-M26-Q1b; MTP-S25-S1-FQ3a.",
+    "time_tip": "5 marks ≈ 9 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "Cash flow table with years, amounts and two discount factors",
+     "Both NPVs",
+     "Interpolation formula and substitution"
+    ],
+    "keywords": [
+     "interest net of tax",
+     "redemption value",
+     "interpolation"
+    ],
+    "length": "5 marks: one table plus the interpolation",
+    "conclusion": "State the yield as a percentage and, if asked, compare it with the approximation answer.",
+    "avoid": [
+     "Presenting only the final rate; the table carries most of the marks"
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-S24-Q2a",
+     "marks": 7,
+     "status": "VERIFIED",
+     "question": "Capital structure of T Limited as on 1st April 2024: equity share capital (₹10 per share) ₹50,00,000; 10% debentures (₹100 per debenture) ₹40,00,000; 12% preference share capital (10,000 shares of ₹100 each) ₹10,00,000. The risk free rate of return is 10%, the beta of T Ltd. is 1.75 and the return on the market portfolio is 12%. Equity shares have a current market price of ₹70 per share. The debentures are trading at ₹80 per debenture and are to be redeemed after 5 years at par. Preference shares are redeemable after 5 years at a premium of 5% and are presently selling at ₹104 per share. Tax is 30%. The cost of debentures is to be calculated on a yield to maturity basis.",
+     "answer_points": [
+      "**Cost of equity by CAPM (SM §7.5).** Ke = Rf + β(Rm − Rf) = 10% + 1.75 × (12% − 10%) = 10% + 3.5% = **13.5%**.",
+      "**Cost of debentures on a yield to maturity basis (SM §5.3.1).** Cash flows per debenture: year 0 the market price **₹80**; years 1 to 5 interest net of tax = ₹10 × (1 − 0.30) = **₹7**; year 5 redemption value **₹100**. Discount at two trial rates, compute both NPVs, and interpolate using IRR = L + [NPV<sub>L</sub> ÷ (NPV<sub>L</sub> − NPV<sub>H</sub>)] × (H − L).",
+      "**Cost of redeemable preference shares (SM §6.2).** Kp = [PD + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2] = [₹12 + (₹105 − ₹104) ÷ 5] ÷ [(₹105 + ₹104) ÷ 2] = (₹12 + ₹0.20) ÷ ₹104.50 = **0.1167, or 11.67%**. Note that there is **no (1 − t)**: preference dividend is not tax deductible.",
+      "**Weighted average cost of capital.** Weight each source — by market value where the question gives market prices — and aggregate Ke × We + Kd × Wd + Kp × Wp.",
+      "The instruction 'on a yield to maturity basis' is the examinable point: the approximation method would give a different, and by the study material's own account inferior, answer."
+     ],
+     "conclusion": "Three costs and a weighted average; the YTM instruction governs the debenture line.",
+     "keywords": [
+      "CAPM",
+      "yield to maturity",
+      "redeemable preference",
+      "weighted average"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "PYQ-M26-Q1b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Z Ltd. has issued 8% convertible debentures of ₹100 each with a remaining maturity period of five years. The current market price per debenture and the conversion terms are given. Compute the cost of the debentures.",
+     "answer_points": [
+      "**Step 1 — determine the redemption value (SM §5.4).** For a convertible debenture, the redemption value is the **higher of the cash value of the debenture and the value of the equity shares receivable on conversion**, because it is assumed that all debenture holders will choose the option with the higher value.",
+      "The value of the shares on conversion is the **number of shares per debenture × the market price grown at the historical growth rate over the remaining life**, i.e. **n shares × P0(1 + g)<sup>t</sup>**.",
+      "**Step 2 — compute the cost.** With RV fixed, apply either the approximation formula Kd = [I(1 − t) + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2], or the present value method with year 0 the current market price, years 1 to 5 interest net of tax of ₹8(1 − t), and year 5 the redemption value.",
+      "ICAI's answer for this paper works the growth rate first — 8.03 = 5(1 + g)<sup>7</sup>, giving 1.606 = (1 + g)<sup>7</sup> and **g = 7%** — and then the price of the share after five years, before setting the redemption value.",
+      "The examinable step is the redemption value decision, not the division that follows."
+     ],
+     "conclusion": "Redemption value first, cost second — in that order, every time.",
+     "keywords": [
+      "convertible",
+      "higher of cash value and share value",
+      "growth rate",
+      "redemption value"
+     ]
+    },
+    {
+     "id": "MTP-S25-S1-FQ3a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "A company issues 15% convertible debentures of ₹100 each at par with a maturity period of 6 years. On maturity the debenture holders will have the option to convert into equity shares of the company on stated terms. Compute the cost of the debentures.",
+     "answer_points": [
+      "**Redemption value** = higher of (i) the cash value of the debenture, ₹100, and (ii) the value of the equity shares on conversion, being the number of shares per debenture multiplied by the market price compounded at the growth rate over six years.",
+      "**Cost by the approximation method** = [I(1 − t) + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2], with I = ₹15, NP = ₹100 (issued at par), n = 6 years.",
+      "**Cost by the present value method** = the IRR of: year 0 ₹100 inflow; years 1 to 6 outflow of ₹15(1 − t); year 6 outflow of the redemption value. Interpolate between two trial rates.",
+      "The study material's own Example 3 follows exactly this structure for a 15% convertible debenture with a 5-year maturity and a 1:10 conversion ratio, reaching 16.09% by approximation and 17.43% by the present value method — a useful reminder that the two methods do not agree."
+     ],
+     "conclusion": "Both methods are acceptable; say which one you used.",
+     "keywords": [
+      "convertible",
+      "conversion ratio",
+      "approximation",
+      "present value method"
+     ]
+    }
+   ],
+   "expected_questions": [
+    {
+     "id": "EQ-F04.10-1",
+     "form": "Compute (4 marks)",
+     "marks": 4,
+     "question": "RBML proposes to sell a 5-year bond of ₹5,000 at 8% interest per annum. The bond amount will be amortised equally over its life. Calculate the bond's present value for an investor who expects a minimum rate of return of 6%.",
+     "answer_points": [
+      "**Interest declines as the outstanding falls:** first year ₹5,000 × 0.08 = **₹400**; second year (₹5,000 − ₹1,000) × 0.08 = **₹320**; third year (₹4,000 − ₹1,000) × 0.08 = **₹240**; fourth year (₹3,000 − ₹1,000) × 0.08 = **₹160**; fifth year (₹2,000 − ₹1,000) × 0.08 = **₹80**. The outstanding amount is zero at the end of the fifth year.",
+      "**Annual cash flows** are principal of ₹1,000 plus interest: **₹1,400, ₹1,320, ₹1,240, ₹1,160 and ₹1,080**.",
+      "**Discount each at 6%:** ₹1,320.75 + ₹1,174.80 + ₹1,041.14 + ₹918.88 + ₹807.05.",
+      "**Value of the bond = ₹5,262.62.**",
+      "The bond is worth more than its ₹5,000 face value because the 8% coupon exceeds the investor's 6% required return."
+     ],
+     "keywords": [
+      "amortised equally",
+      "reducing balance",
+      "uneven cash flows",
+      "present value"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F04.09-01",
+     "angle": "Method",
+     "difficulty": "Easy",
+     "question": "As per the study material, which method of determining the cost of debt is superior and preferred in the field of finance?",
+     "options": {
+      "A": "The approximation method",
+      "B": "The yield to maturity or present value method",
+      "C": "The dividend price approach",
+      "D": "The realised yield approach"
+     },
+     "answer": "B",
+     "explanation": "SM §5.3.1: YTM or present value method is a superior method of determining cost of debt compared with the approximation method, and it is also preferred in the field of finance.",
+     "why_wrong": {
+      "A": "Easy to use but gives an approximate answer.",
+      "C": "A cost of equity method.",
+      "D": "A cost of equity method based on past returns."
+     },
+     "trap": "Both A and B are correct methods; only one is called superior.",
+     "concept": "F04.09"
+    },
+    {
+     "id": "MCQ-F04.10-02",
+     "angle": "Amortisation",
+     "difficulty": "Moderate",
+     "question": "In an amortised bond, interest in each year is computed on:",
+     "options": {
+      "A": "The original face value throughout",
+      "B": "The redemption value",
+      "C": "The outstanding amount after the annual repayments",
+      "D": "The average of the opening and closing balances"
+     },
+     "answer": "C",
+     "explanation": "SM §5.3.2: the principal goes down with annual payments and interest is computed on the outstanding amount, so the cash flows of the bond are uneven.",
+     "why_wrong": {
+      "A": "That would make the interest constant, which defeats amortisation.",
+      "B": "There is no lump-sum redemption value in an amortised bond.",
+      "D": "The study material computes on the outstanding amount, not an average."
+     },
+     "trap": "The declining-interest schedule is the working note ICAI marks.",
+     "concept": "F04.10"
+    }
+   ],
+   "recap": [
+    "YTM is the IRR at which the current price equals the present value of all cash flows.",
+    "Year 0 net proceeds; years 1 to n interest net of tax; year n redemption value; interpolate between two rates.",
+    "The study material calls it superior to the approximation method.",
+    "An amortised bond repays principal annually, so interest falls and cash flows are uneven."
+   ]
+  },
+  {
+   "code": "F04.11",
+   "title": "5.4 Cost of Convertible Debentures",
+   "activity": "Very High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 3 (May 2024 Q2(a), Jan 2025 Q2(a), Jan 2026 Q1(c)) · MTP 1 (May 2025 Series II)",
+   "understand": [
+    "The holders of convertible debentures have the option **either to get the debentures redeemed into cash, or to get a specified number of the company's shares in lieu of cash**. The calculation is **very much similar to that of redeemable debentures**, with one decision first.",
+    "==**While determining the redemption value of the debentures, it is assumed that all the debenture holders will choose the option which has the higher value, and accordingly it will be considered to calculate the cost of debentures.**==",
+    "**The study material's Example 3.** A company issued **10,000 15% convertible debentures of ₹100 each with a maturity period of 5 years**. At maturity holders may convert into equity shares **in the ratio of 1:10 (10 shares for each debenture)**. The **current market price of the equity shares is ₹12 each** and the **historical growth rate is 5% per annum**. Tax is 35%.",
+    "**Determination of redemption value.** Higher of **(i) the cash value of the debentures = ₹100**, and **(ii) the value of the equity shares = 10 shares × ₹12(1 + 0.05)<sup>5</sup> = 10 × ₹15.312 = ₹153.12**. ==**₹153.12 is taken as the redemption value, as it is higher than the cash option and is more attractive to the investors.**==",
+    "**Cost by the approximation method.** Kd = [₹15(1 − 0.35) + (₹153.12 − ₹100) ÷ 5] ÷ [(₹153.12 + ₹100) ÷ 2] = (₹9.75 + ₹10.62) ÷ ₹126.53 = **16.09%**.",
+    "**Cost by the present value method.** Post-tax interest per annum = ₹100 × 15% × 0.65 = **₹9.75**. Cash flows: year 0 **₹100**; years 1 to 5 **₹9.75**; year 5 **₹153.12**. At 15% the NPV is **+₹8.78** and at 20% it is **−₹9.29**, so IRR = 15% + [8.78 ÷ (8.78 − (−9.29))] × (20% − 15%) = **0.17429, or 17.43%**.",
+    "Note that the **two methods give 16.09% and 17.43%** on the same facts. Say which method you are using; ICAI accepts either unless the question directs one."
+   ],
+   "example": "May 2024 gave a 1:4 conversion ratio, a market price of ₹25 and 6% growth over six years — so the share value on conversion was 4 × ₹25 × (1.06)^6, comfortably above ₹100, and that became the redemption value.",
+   "provisions": [
+    {
+     "ref": "Redemption value of a convertible (SM §5.4)",
+     "status": "VERIFIED",
+     "requirement": "The higher of the cash value and the value of the shares receivable on conversion, the latter compounded at the growth rate over the remaining life.",
+     "exam_angle": "The first mark of every convertible-debenture question, and the one most often dropped."
+    }
+   ],
+   "keywords": [
+    "option to convert",
+    "higher value",
+    "more attractive to the investors",
+    "conversion ratio",
+    "growth rate",
+    "redemption value",
+    "post tax interest"
+   ],
+   "memory": {
+    "trick": "**Decide, then divide.** First decide the redemption value — cash or shares, whichever is higher — and only then apply the ordinary redeemable formula.",
+    "key": [
+     [
+      "Step 1",
+      "Cash value of the debenture"
+     ],
+     [
+      "Step 2",
+      "Shares per debenture × market price × (1 + g)^n"
+     ],
+     [
+      "Step 3",
+      "Take the higher as RV"
+     ],
+     [
+      "Step 4",
+      "Approximation formula, or present value method"
+     ],
+     [
+      "Remember",
+      "The two methods will not agree; say which you used"
+     ]
+    ],
+    "recall_trigger": "Decide, then divide"
+   },
+   "mistakes": [
+    "Taking ₹100 as the redemption value without testing the share value.",
+    "Forgetting to compound the share price at the growth rate over the remaining life.",
+    "Applying the growth rate for the wrong number of years — it is the remaining life to maturity."
+   ],
+   "links": [
+    "🔗 FM Ch 2 §3.4: convertible debentures as a source of finance",
+    "🔗 FM Ch 4 §5.3: the formula applied once RV is fixed"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Cost of convertible debentures as one line of a WACC computation (May 2024, Jan 2025, Jan 2026)",
+     "A standalone computation (May 2026 Q1(b))"
+    ],
+    "approach": [
+     "Present the redemption value decision as a two-line working note before anything else"
+    ],
+    "official_pattern": "PYQ-M24-Q2a; PYQ-J25-Q2a; PYQ-J26-Q1c; PYQ-M26-Q1b; MTP-M25-S2-FQ1b; MTP-S25-S1-FQ3a.",
+    "time_tip": "A convertible line inside a WACC question ≈ 3 to 4 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "Redemption value: cash value versus share value",
+     "State which is higher and why",
+     "Apply the redeemable formula",
+     "Give the percentage"
+    ],
+    "keywords": [
+     "higher of",
+     "conversion ratio",
+     "growth rate"
+    ],
+    "length": "3 to 5 marks: a two-line decision plus the formula",
+    "conclusion": "Name the method used — approximation or present value.",
+    "avoid": [
+     "Skipping the redemption value decision"
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-M24-Q2a",
+     "marks": 7,
+     "status": "VERIFIED",
+     "question": "Capital structure of Shine Ltd. as on 31.03.2024: equity share capital of ₹10 each ₹45,00,000; 15% preference share capital of ₹100 each ₹36,00,000; retained earnings ₹32,00,000; 13% convertible debentures of ₹100 each ₹67,00,000; 11% term loan ₹20,00,000; total ₹2,00,00,000. The 13% convertible debentures were issued on 01.04.2023 with a maturity period of 6 years; at maturity holders may convert into equity shares in the ratio of 1:4 (4 shares for each debenture). The market price of the equity share is ₹25 each as on 31.03.2024 and the growth rate of the share is 6% per annum. The preference stock is redeemable after eight years. Compute the cost of each source and the weighted average cost of capital.",
+     "answer_points": [
+      "**Cost of convertible debentures (SM §5.4).** Redemption value is the higher of (i) the cash value ₹100, and (ii) the value of the shares on conversion = 4 shares × ₹25 × (1 + 0.06)<sup>5</sup> for the remaining five years to maturity. The share value is clearly the higher, so it becomes the redemption value.",
+      "Then Kd = [I(1 − t) + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2], with I = ₹13 and NP = ₹100 (issued at par).",
+      "**Cost of redeemable preference shares (SM §6.2).** Kp = [PD + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2] with PD = ₹15, n = 8 years and no (1 − t), preference dividend not being tax deductible.",
+      "**Cost of the 11% term loan (SM §5).** The calculation of the cost of a loan from a financial institution is similar to that of redeemable debentures; here Kd = 11% × (1 − t).",
+      "**Cost of equity and retained earnings (SM §§7.3 and 8).** Ke = D1 ÷ P0 + g using the market price of ₹25 and growth of 6%; Kr uses the same formula on the current market price, with no adjustment for floatation cost.",
+      "**Weighted average cost of capital.** Weight the five sources on their book values of ₹45,00,000, ₹36,00,000, ₹32,00,000, ₹67,00,000 and ₹20,00,000 against the total of ₹2,00,00,000, and aggregate the products."
+     ],
+     "conclusion": "Five costs and a weighted average — the convertible redemption value is the first and hardest mark.",
+     "keywords": [
+      "conversion ratio 1:4",
+      "growth rate",
+      "redeemable preference",
+      "term loan",
+      "WACC"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "MTP-M25-S2-FQ1b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Bhanu Limited has issued 50,000 10% convertible bonds of ₹100 each with a maturity period of 5 years. At maturity the bondholders will have the option to convert into equity shares on stated terms. Compute the cost of the bonds.",
+     "answer_points": [
+      "**Redemption value** = higher of the cash value of ₹100 and the value of the equity shares receivable on conversion, the latter being the number of shares per bond × the market price compounded at the growth rate over five years.",
+      "**Cost of the bonds** then follows the redeemable formula with I = ₹10, NP = the issue price less any floatation cost, n = 5 years and the given tax rate.",
+      "Alternatively, discount the cash flows — year 0 the issue proceeds, years 1 to 5 interest net of tax, year 5 the redemption value — and interpolate for the IRR.",
+      "The study material's own Example 3 reaches 16.09% by approximation and 17.43% by the present value method on comparable facts; state which method you have used."
+     ],
+     "conclusion": "Same two steps as every convertible question: decide the redemption value, then divide.",
+     "keywords": [
+      "convertible bonds",
+      "redemption value",
+      "approximation",
+      "present value"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F04.11-01",
+     "angle": "Method",
+     "difficulty": "Moderate",
+     "question": "In computing the cost of a convertible debenture, the redemption value is taken as:",
+     "options": {
+      "A": "Always the face value of the debenture",
+      "B": "The higher of the cash value of the debenture and the value of the shares receivable on conversion",
+      "C": "The lower of the two, being the prudent figure",
+      "D": "The average of the cash value and the share value"
+     },
+     "answer": "B",
+     "explanation": "SM §5.4: it is assumed that all the debenture holders will choose the option which has the higher value, and accordingly that value is used to calculate the cost of debentures.",
+     "why_wrong": {
+      "A": "That ignores the conversion option entirely.",
+      "C": "Investors choose the better option, not the worse.",
+      "D": "No averaging is involved."
+     },
+     "trap": "Prudence suggests the lower figure; the study material's logic is investor choice, so it is the higher.",
+     "concept": "F04.11"
+    },
+    {
+     "id": "MCQ-F04.11-02",
+     "angle": "Computation",
+     "difficulty": "Moderate",
+     "question": "A convertible debenture of ₹100 converts into 10 shares. The current market price is ₹12 per share, growth is 5% per annum and the remaining life is 5 years. The redemption value to be used is:",
+     "options": {
+      "A": "₹100, the cash value",
+      "B": "₹120, being 10 shares at the current price",
+      "C": "₹126.53, the average of the two options",
+      "D": "₹153.12, the value of the shares on conversion"
+     },
+     "answer": "D",
+     "explanation": "SM §5.4 Example 3: value of equity shares = 10 shares × ₹12(1 + 0.05)^5 = 10 × ₹15.312 = ₹153.12, which is higher than the ₹100 cash option and is therefore taken as the redemption value.",
+     "why_wrong": {
+      "A": "The share option is worth more.",
+      "B": "The price must be compounded at the growth rate over the remaining life.",
+      "C": "₹126.53 is the denominator of the approximation formula, not the redemption value."
+     },
+     "trap": "Option C is a real figure from the study material's own working — but it is the average of RV and NP, not the RV.",
+     "concept": "F04.11"
+    }
+   ],
+   "recap": [
+    "Convertible holders choose the better option, so the redemption value is the higher of cash and shares.",
+    "Share value = shares per debenture × market price × (1 + g) to the power of the remaining life.",
+    "Then apply the ordinary redeemable formula, or the present value method.",
+    "The two methods disagree — 16.09% against 17.43% in the study material's example."
+   ]
+  },
+  {
+   "code": "F04.12 + F04.13 + F04.14",
+   "title": "6–6.2 Cost of Preference Share Capital, Irredeemable and Redeemable",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 3 (May 2024 Q2(a), Sep 2024 Q2(a), Jan 2026 Q1(c))",
+   "understand": [
+    "Preference shareholders are **paid dividend at a specified rate on the face value** of preference shares. **Payment of dividend is not mandatory but is given priority over the equity shareholder.** ==The payment of dividend to preference shareholders is **not charged as an expense but treated as an appropriation of after-tax profit**; hence **dividend paid to preference shareholders does not reduce the tax liability of the company**.== Like debentures, preference share capital can be **redeemable or irredeemable**.",
+    "**Cost of irredeemable preference shares (§6.1).** ==The cost is **similar to the calculation of a perpetuity**: **Kp = PD ÷ P0**, where **PD** is the annual preference dividend and **P0** the net proceeds from the issue of preference shares.==",
+    "**Net proceeds** again means **issue price less issue expenses or floatation cost**; if the **issue price is not given, assume it equals the current market price**, and if **issue expenses are not given, assume them to be zero**.",
+    "**Illustration 6.** XYZ Ltd. issues **2,000 10% preference shares of ₹100 each at ₹95 each**. Kp = PD ÷ P0 = (₹10 × 2,000) ÷ (₹95 × 2,000) = ₹10 ÷ ₹95 = **10.53%**.",
+    "**Cost of redeemable preference shares (§6.2).** Preference shares redeemed on maturity. The cost is **similar to the cost of redeemable debentures with the exception that the dividends paid to preference shareholders are not tax deductible**. ==**Kp = [PD + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2]**==, where **PD** is the annual preference dividend, **RV** the redemption value, **NP** the net proceeds from issue and **n** the remaining life.",
+    "The cost of redeemable preference shares **may also be calculated as the discount rate that equates the net proceeds of the sale of preference shares with the present value of the future dividends and principal payments** — the same present value method used for debt.",
+    "**Illustration 8.** XYZ Ltd. issues **2,000 10% preference shares of ₹100 each at ₹95**, proposing to redeem them **at the end of the 10th year**. Kp = [₹10 + (₹100 − ₹95) ÷ 10] ÷ [(₹100 + ₹95) ÷ 2] = (₹10 + ₹0.50) ÷ ₹97.50 = **0.1077, or 10.77% (approx.)**.",
+    "==Put the two families side by side and the whole difference is one bracket: **Kd carries (1 − t); Kp does not.**=="
+   ],
+   "example": "September 2024 gave preference shares redeemable after 5 years at a 5% premium, selling at ₹104: Kp = [₹12 + (₹105 − ₹104) ÷ 5] ÷ [(₹105 + ₹104) ÷ 2] = ₹12.20 ÷ ₹104.50 = 11.67%.",
+   "provisions": [
+    {
+     "ref": "No tax shield on preference dividend (SM §6)",
+     "status": "VERIFIED",
+     "requirement": "Preference dividend is an appropriation of after-tax profit, not an expense, so it does not reduce the tax liability and no (1 − t) enters Kp.",
+     "exam_angle": "The most frequently dropped mark in the chapter."
+    },
+    {
+     "ref": "Kp redeemable (SM §6.2)",
+     "status": "VERIFIED",
+     "requirement": "[PD + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2]; may also be found as the discount rate equating net proceeds with the present value of dividends and principal.",
+     "exam_angle": "Appears in three of the six past papers as one line of a WACC computation."
+    }
+   ],
+   "keywords": [
+    "specified rate on face value",
+    "priority over the equity shareholder",
+    "appropriation of after-tax profit",
+    "does not reduce the tax liability",
+    "perpetuity",
+    "net proceeds",
+    "redeemable preference",
+    "present value of future dividends"
+   ],
+   "memory": {
+    "trick": "Kp is Kd **with the tax bracket deleted**. Everything else — net proceeds, redemption value, remaining life, the averaging denominator — is identical.",
+    "key": [
+     [
+      "Irredeemable",
+      "Kp = PD ÷ P0"
+     ],
+     [
+      "Redeemable",
+      "Kp = [PD + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2]"
+     ],
+     [
+      "No (1 − t)",
+      "Dividend is an appropriation, not an expense"
+     ],
+     [
+      "Net proceeds",
+      "Issue price less floatation cost"
+     ],
+     [
+      "Alternative",
+      "The discount rate equating net proceeds with dividends and principal"
+     ]
+    ],
+    "recall_trigger": "Kd minus the tax bracket"
+   },
+   "mistakes": [
+    "Multiplying the preference dividend by (1 − t).",
+    "Using face value instead of net proceeds where shares are issued at a discount.",
+    "Forgetting the premium on redemption when computing RV."
+   ],
+   "compare": {
+    "title": "Cost of debt versus cost of preference capital (SM §§5 and 6)",
+    "headers": [
+     "Basis",
+     "Cost of debt (Kd)",
+     "Cost of preference capital (Kp)"
+    ],
+    "rows": [
+     [
+      "Return paid",
+      "Interest",
+      "Dividend at a specified rate on face value"
+     ],
+     [
+      "Tax treatment",
+      "An expense; gives a tax shield",
+      "An appropriation of after-tax profit; no tax shield"
+     ],
+     [
+      "Irredeemable formula",
+      "I(1 − t) ÷ NP",
+      "PD ÷ P0"
+     ],
+     [
+      "Redeemable formula",
+      "[I(1 − t) + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2]",
+      "[PD + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2]"
+     ],
+     [
+      "Payment",
+      "Obligatory",
+      "Not mandatory, but ranks before equity"
+     ]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 2 §3.2: preference shares as a hybrid source",
+    "🔗 FM Ch 3 §3.2.2: preference dividend coverage ratio"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Cost of preference shares as one line of a WACC computation",
+     "MCQ on why there is no (1 − t)"
+    ],
+    "approach": [
+     "Write the formula, note that no tax adjustment applies, then substitute"
+    ],
+    "official_pattern": "PYQ-M24-Q2a; PYQ-S24-Q2a; PYQ-J26-Q1c.",
+    "time_tip": "A 1 to 2 mark sub-part ≈ 2 to 4 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "State the formula",
+     "Note that preference dividend carries no tax shield",
+     "Substitute",
+     "Give the percentage"
+    ],
+    "keywords": [
+     "appropriation of after-tax profit",
+     "net proceeds",
+     "redemption value"
+    ],
+    "length": "2 marks: formula, one-line note, substitution",
+    "conclusion": "State the cost as a percentage to two decimals.",
+    "avoid": [
+     "Any (1 − t) anywhere in the line"
+    ]
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-F04.14-1",
+     "form": "Compute (4 marks)",
+     "marks": 4,
+     "question": "XYZ Ltd. issues 2,000 10% preference shares of ₹100 each at ₹95 each. Compute the cost of the preference shares (i) if they are irredeemable and (ii) if the company proposes to redeem them at the end of the 10th year. Explain why no tax adjustment is made.",
+     "answer_points": [
+      "**(i) Irredeemable.** Kp = PD ÷ P0 = ₹10 ÷ ₹95 = **0.1053, or 10.53%**. The cost of irredeemable preference shares is similar to the calculation of a perpetuity: the annual dividend divided by the net proceeds.",
+      "**(ii) Redeemable at the end of the 10th year.** Kp = [PD + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2] = [₹10 + (₹100 − ₹95) ÷ 10] ÷ [(₹100 + ₹95) ÷ 2] = (₹10 + ₹0.50) ÷ ₹97.50 = **0.1077, or 10.77% (approximately)**.",
+      "**Why no tax adjustment.** Dividend paid to preference shareholders is not charged as an expense but is treated as an appropriation of after-tax profit; it therefore does not reduce the tax liability of the company, and no (1 − t) enters the formula.",
+      "Note that the redeemable figure is slightly higher here because the shares were issued at a discount of ₹5 which must be made good on redemption, spread over ten years."
+     ],
+     "keywords": [
+      "perpetuity",
+      "appropriation of after-tax profit",
+      "net proceeds",
+      "redemption value"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F04.13-01",
+     "angle": "Reasoning",
+     "difficulty": "Easy",
+     "question": "No (1 − t) appears in the formula for the cost of preference share capital because:",
+     "options": {
+      "A": "Preference shareholders are not taxed on their dividend",
+      "B": "Preference dividend is an appropriation of after-tax profit and does not reduce the company's tax liability",
+      "C": "Preference shares are always issued at par",
+      "D": "The dividend rate is fixed"
+     },
+     "answer": "B",
+     "explanation": "SM §6: payment of dividend to preference shareholders is not charged as an expense but treated as an appropriation of after-tax profit; hence it does not reduce the tax liability of the company.",
+     "why_wrong": {
+      "A": "The investor's tax position is not what the formula reflects.",
+      "C": "Issue price is irrelevant to the tax point.",
+      "D": "A fixed rate does not by itself deny a tax shield — debenture interest is fixed too."
+     },
+     "trap": "Option D is true of preference shares but is not the reason.",
+     "concept": "F04.13"
+    },
+    {
+     "id": "MCQ-F04.14-02",
+     "angle": "Computation",
+     "difficulty": "Moderate",
+     "question": "Preference shares of ₹100 each carrying a 12% dividend are redeemable after 5 years at a premium of 5% and are presently selling at ₹104. The cost of preference capital is closest to:",
+     "options": {
+      "A": "12.00%",
+      "B": "8.17%",
+      "C": "11.67%",
+      "D": "11.54%"
+     },
+     "answer": "C",
+     "explanation": "Kp = [PD + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2] = [₹12 + (₹105 − ₹104) ÷ 5] ÷ [(₹105 + ₹104) ÷ 2] = ₹12.20 ÷ ₹104.50 = 11.67%.",
+     "why_wrong": {
+      "A": "That is the coupon rate, ignoring the price and the premium.",
+      "B": "That is the figure if (1 − t) at 30% were wrongly applied.",
+      "D": "That is ₹12 ÷ ₹104, ignoring the redemption premium."
+     },
+     "trap": "Option B is exactly the answer a student gets by treating preference dividend like interest.",
+     "concept": "F04.14"
+    }
+   ],
+   "recap": [
+    "Preference dividend is an appropriation, so Kp never carries (1 − t).",
+    "Irredeemable: Kp = PD ÷ P0, a perpetuity.",
+    "Redeemable: the same averaging formula as debt, without the tax bracket.",
+    "Net proceeds rules are identical to those for debt."
+   ]
+  }
+ ]
+}

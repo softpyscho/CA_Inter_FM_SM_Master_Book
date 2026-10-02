@@ -1,0 +1,776 @@
+<<PAGE 1>>
+1 
+Mock Test Paper - Series II: August 2026 
+Date of Paper: 19th August 2026 
+Time of Paper: 10 A.M. to 1 P.M. 
+ 
+INTERMEDIATE GROUP – II  
+PAPER – 6A : FINANCIAL MANAGEMENT & STRATEGIC MANAGEMENT 
+PAPER 6A: FINANCIAL MANAGEMENT 
+Time Allowed – 3 Hours (Total time for 6A and 6B)  
+Maximum Marks – 50 
+1. 
+The question paper comprises two parts, Part I and Part II. 
+2. 
+Part I comprises Case Scenario based Multiple Choice Questions (MCQs) 
+3. 
+Part II comprises questions which require descriptive type answers. 
+4. 
+Working note should form part of the answer. Wherever necessary, suitable assumptions 
+may be made by the candidates and disclosed by way of note. However, in answers to 
+Questions in Division A, working notes are not required. 
+PART I – Case Scenario based MCQs (15 Marks) 
+Write the most appropriate answer to each of the following multiple choice questions by 
+choosing one of the four options given. All questions are compulsory. 
+Case Scenario 
+Solstice Biotech Ltd. is engaged in the manufacture of advanced diagnostic testing kits, 
+including a rapid screening kit that saw a sharp rise in demand following a nationwide  
+public-health screening initiative. To meet this surge, production was scaled to a record high, 
+and the company approached Continental Trade Bank for a loan to fund its working capital and 
+investment requirements. Along with its loan proposal and project report, the company submitted 
+its financial statements for the preceding three years, reproduced below. 
+Statement of Profit and Loss (` '000) 
+Particulars 
+2023–24 
+2024–25 
+2025–26 
+Sales — Cash 
+400 
+960 
+1,600 
+Sales — Credit 
+3,600 
+8,640 
+14,400 
+Total Sales 
+4,000 
+9,600 
+16,000 
+Cost of Goods Sold 
+2,480 
+5,664 
+9,600 
+Gross Profit 
+1,520 
+3,936 
+6,400 
+Downloaded from castudyweb.com
+<<PAGE 2>>
+2 
+General, Administration & Selling Expenses 
+160 
+900 
+2,000 
+Depreciation 
+200 
+800 
+1,320 
+Interest Expense (on borrowings) 
+120 
+316 
+680 
+Profit Before Tax 
+1,040 
+1,920 
+2,400 
+Tax @ 30% 
+312 
+576 
+720 
+Profit After Tax 
+728 
+1,344 
+1,680 
+Balance Sheet (` '000) 
+Particulars 
+2023–24 
+2024–25 
+2025–26 
+Fixed Assets (net of depreciation) 
+3,800 
+5,000 
+9,400 
+Cash and Cash Equivalents 
+80 
+200 
+212 
+Accounts Receivable 
+600 
+3,000 
+4,200 
+Inventories 
+640 
+3,000 
+4,500 
+Total Assets 
+5,120 
+11,200 
+18,312 
+Equity Share Capital (` 10 each) 
+2,400 
+3,200 
+4,000 
+Other Equity 
+728 
+2,072 
+3,752 
+Non-Current Borrowings 
+1,472 
+2,472 
+5,000 
+Current Liabilities 
+520 
+3,456 
+5,560 
+Total Equity & Liabilities 
+5,120 
+11,200 
+18,312 
+Industry Average of Key Ratios 
+As on 31st March 2026, the company's closing balances of accounts receivable and inventories 
+used for the year's turnover computations were ` 6,00,000 and ` 6,40,000 respectively. 
+Ratio 
+2023–24 
+2024–25 
+2025–26 
+Industry Avg. 
+Current ratio 
+2.54 
+1.80 
+1.60 
+2.30 : 1 
+Acid test (quick) ratio 
+1.31 
+0.93 
+0.79 
+1.20 : 1 
+Receivable turnover ratio 
+6.00 
+4.80 
+4.00 
+7 times 
+Inventory turnover ratio 
+3.88 
+3.11 
+2.56 
+4.85 times 
+Long-term debt to total debt 
+73.90% 
+41.70% 
+47.35% 
+24% 
+Debt-to-equity ratio 
+47.06% 
+46.89% 
+64.50% 
+35% 
+Net profit ratio 
+18.2% 
+14.0% 
+10.5% 
+18% 
+Return on total assets 
+14.22% 
+12.0% 
+9.17% 
+10% 
+Interest coverage ratio 
+9.67 
+7.08 
+4.53 
+10 times 
+Downloaded from castudyweb.com
+<<PAGE 3>>
+3 
+Based on the above Case Scenario, answer the following questions: 
+1.  
+Based on the FY 2025–26 figures, what are the Current Ratio and the Acid-test (Quick) 
+Ratio of Solstice Biotech Ltd.?   
+(A)  
+1.60 : 1 and 0.79 : 1 
+(B)  
+2.30 : 1 and 1.20 : 1 
+(C)  
+1.60 : 1 and 1.02 : 1 
+(D)  
+1.80 : 1 and 0.93 : 1 
+(2 Marks) 
+2.  
+What are the Receivable Turnover Ratio and Inventory Turnover Ratio of Solstice Biotech 
+Ltd. for FY 2025–26, computed on average balances?   
+(A)  
+3.43 times and 2.13 times 
+(B)  
+6.00 times and 3.88 times 
+(C)  
+4.00 times and 2.56 times 
+(D)  
+4.80 times and 3.11 times 
+(2 Marks) 
+3.  
+What are the Long-term Debt to Total Debt Ratio and the Debt-to-Equity Ratio of Solstice 
+Biotech Ltd. for FY 2025–26?   
+(A)  
+24.00% and 35.00% 
+(B)  
+27.31% and 64.50% 
+(C)  
+41.70% and 46.89% 
+(D)  
+47.35% and 64.50% 
+(2 Marks) 
+4.  
+What are the Net Profit Ratio and the Return on Total Assets of Solstice Biotech Ltd. for 
+FY 2025–26?  
+(A)  
+15.00% and 9.17% 
+(B)  
+18.00% and 10.00% 
+(C)  
+14.00% and 12.00% 
+(D)  
+10.50% and 9.17% 
+(2 Marks) 
+5.  
+The Interest Coverage Ratio of Solstice Biotech Ltd. fell to 4.53 times in FY 2025–26 
+(industry average 10 times) while its Debt-to-Equity Ratio rose to 64.50% (industry 
+average 35%). As the credit appraisal officer, what should be your primary concern in 
+appraising this loan proposal?   
+(2 Marks) 
+(A)  
+Both figures are favourable, so the loan can be sanctioned without further scrutiny. 
+Downloaded from castudyweb.com
+<<PAGE 4>>
+4 
+(B)  
+The falling interest coverage combined with rising leverage signals a reduced 
+cushion to service debt and heightened repayment risk, warranting closer scrutiny 
+before further lending. 
+(C)  
+The interest coverage ratio is irrelevant once the debt-to-equity ratio is known. 
+(D)  
+Since sales are growing, both ratios can be ignored in the loan decision. 
+(5 x 2 = 10 Marks) 
+6. 
+Anand is considering automating his glass factory with the purchase of a machine costing 
+` 10,95,000. Shipping and installation costs are ` 25,000. He has calculated that the 
+automation would result in savings of ` 1,25, 000. The machine has a useful life of  
+3 years. What will be the incremental cash outlay of this automation? 
+(A)  
+` 11,20,000  
+(B)  
+` 9,70,000 
+(C)  
+` 9,95,000  
+(D)  
+` 10,70,000    
+(2 Marks) 
+7.  
+If the weighting of equity in total capital is 1/3, that of debt is 2/3, the return on equity is 
+15% that of debt is 10% and the corporate tax rate is 32%, what is the Weighted Average 
+Cost of Capital (WACC)?  
+(A)  
+10.533%  
+(B)  
+7.533%  
+(C)  
+9.533%  
+(D)  
+11.350%     
+(2 Marks) 
+8.  
+The cost of equity capital is all of the following except:  
+(A)  
+the minimum rate that a firm should earn on the equity-financed part of an 
+investment.  
+(B)  
+a return on the equity-financed portion of an investment that, at worst, leaves the 
+market price of the stock unchanged.  
+(C)  
+by far the most difficult component cost to estimate.  
+(D)  
+generally lower than the before-tax cost of debt.    
+(1 Mark) 
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 5>>
+5 
+PART II – Descriptive Questions (35 Marks) 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+1. 
+(a) 
+The current credit sales of a firm is ` 20,00,000 and the firm still has an unutilized 
+capacity. In order to boost its sales, the firm is willing to relax its credit policy. 
+ 
+The firm proposes a new credit policy of 2/15 net 60 days as against the present 
+policy of 1/15 net 45 days. The firm expects an increase in the sales by 15%. 
+However, it is also expected that bad debts will go up to 2.5% of sales from 1.5%. 
+ 
+The contribution to sales ratio of the firm is 25%. The firm's tax rate is 30% and 
+the firm requires an after tax return of 12% on its investment. 
+ 
+Should the firm change the credit policy? 
+(5 Marks) 
+(b)  
+The following information is supplied to you: 
+Particulars 
+Amount (`) 
+Total Earnings 
+8,00,000 
+Equity Shares (of ` 100 each) 
+40,00,000 
+Dividend Paid 
+4,80,000 
+Price / Earnings (P/E) Ratio 
+10 
+ 
+Applying Walter's Model, answer the following: 
+(i)   
+ANALYSE whether the company is following an optimal dividend policy. 
+(ii)   
+COMPUTE the P/E ratio at which the dividend policy will have no effect on 
+the value of the share. 
+(iii)   Will your decision change if the P/E ratio is 4 instead of 10? ANALYSE. 
+(5 Marks) 
+(c)  
+Nova Green Mobility Ltd., a well-established and profitable manufacturer of 
+electrical components, is evaluating a proposal to enter the electric-vehicle (EV) 
+charging equipment business by setting up a new plant to manufacture smart EV 
+charging stations. The project calls for a capital outlay of ` 1,000 lakhs and 
+working capital of ` 150 lakhs. The plant is designed for an annual production 
+capacity of 3 lakh units, and over the project's five-year life, capacity utilisation is 
+projected as follows: 
+ 
+Downloaded from castudyweb.com
+<<PAGE 6>>
+6 
+Year 
+1 
+2 
+3 
+4 
+5 
+Capacity Utilisation (%) 
+50 
+65 
+80 
+100 
+100 
+ 
+Each charging unit is expected to sell at an average price of ` 600, yielding a 
+contribution margin of 60%. Annual fixed costs (excluding depreciation) are 
+estimated at ` 500 lakhs from the third year onwards, and at ` 200 lakhs and  
+` 350 lakhs in the first and second years respectively. 
+ 
+The capital asset is expected to fetch a scrap value of ` 200 lakhs at the end of 
+the fifth year, and depreciation for income-tax purposes is charged on the written-
+down-value method at 40% p.a. The applicable income-tax rate is 30%, and the 
+cost of capital is 12%. A further ` 200 lakhs of working capital will need to be 
+invested at the end of the third year, and no capital gains tax is applicable to the 
+transaction. 
+ 
+You are required to compute the Net Present Value (NPV) of the project. Nova 
+Green Mobility Ltd. is preparing to present the proposal to Secure Venture Capital 
+Firm, which invests in a project only if it adds more than ` 100 lakhs to shareholder 
+wealth. Assess whether Nova Green Mobility Ltd. would qualify for funding from 
+Secure Venture Capital Firm on this basis. 
+    (5 Marks) 
+2. 
+(a)  
+Vertex Industries Ltd. is evaluating the cost of equity for its upcoming expansion 
+project. The company's finance manager has collected the following market data: 
+• 
+Risk-free rate of return (Rf) = 5% 
+• 
+Expected return on the market portfolio (Rm) = 10% 
+• 
+Beta (β) of Vertex Industries' equity = 2.0 
+Required 
+(a)  
+Calculate the cost of equity (Ke) for Vertex Industries Ltd. using CAPM. 
+(b)  
+Calculate and compare the cost of equity for two competitor firms: Competitor 
+A (β = 1.2) and Competitor B (β = 0.8).   
+ (4 Marks) 
+(b) 
+Sunrise Foods Limited, a mid-sized packaged-foods company, is reviewing its 
+cost structure and capital mix before approaching its board with next year's 
+financial plan. Its Balance Sheet as on 31st March 2026 is given below: 
+Liabilities & Equity 
+` (in crores) Assets 
+` (in crores) 
+Equity Share Capital (1.20 
+crore shares of ` 10 each) 
+12 Fixed Assets (Net) 
+32 
+Reserves and Surplus 
+3 Current Assets 
+18 
+Downloaded from castudyweb.com
+<<PAGE 7>>
+7 
+12% Debentures 
+25  
+ 
+Current Liabilities 
+10  
+ 
+ 
+Total 
+50 Total 
+50 
+ 
+The company's finance team has also shared the following details: 
+• 
+Fixed costs per annum (excluding interest): ` 10 crores 
+• 
+Variable operating cost ratio: 60% 
+• 
+Total Assets turnover ratio: 3 
+• 
+Income-tax rate: 30% 
+ 
+As the company's financial analyst, you are required to CALCULATE the following 
+and comment on what each result means for Sunrise Foods: 
+(i)  
+Earnings per share 
+(ii)  
+Operating Leverage 
+(iii)  
+Financial Leverage 
+(iv)  
+Combined Leverage 
+ (6 Marks) 
+3.  
+(a)  
+ABC Limited is a manufacturing company with an all-equity capital structure. The 
+firm is experiencing growth opportunities and needs to make strategic decisions 
+regarding its capital structure to finance expansion plans. The company currently 
+has 1,00,000 ordinary shares @ ` 10 in issue. Its current operational metrics are: 
+• 
+Return on Capital Employed (ROCE): 31.25% [Capital Employed = Face Value 
+of Equity Share Capital] 
+• 
+Operating Margin (EBIT / Revenue): 31.25% 
+• 
+Tax Rate: 50% 
+ 
+ABC Limited has identified investment opportunities requiring additional capital 
+equal to 25% of its existing equity base. Management is evaluating three financing 
+alternatives: 
+Option 1 — Equity Financing: Issue ordinary shares at face value 
+Option 2 — Debt Financing: Borrow at 8% per annum 
+Option 3 — Preference Share Financing: Issue preference shares carrying an 8% per  
+       annum dividend 
+Downloaded from castudyweb.com
+<<PAGE 8>>
+8 
+ 
+Preliminary analysis shows that the difference in EPS between the Debt option 
+and the Preference Share option works out to ` 0.10 per share. 
+ 
+You are required to: 
+1. 
+Identify which financing alternative, Debt or Preference Shares yields the 
+higher EPS, and explain the reason for the difference. 
+2. 
+Find the Existing Equity Base, Face Value of Equity Shares, EBIT and 
+Revenue. 
+3. 
+If the additional finance is raised entirely through equity shares issued at face 
+value, how many new shares should be issued? 
+4. 
+Assuming the same EBIT, determine the Earnings Per Share (EPS) under 
+each of the three financing alternatives. 
+ (8 Marks) 
+(b)  
+Name the various financial instruments dealt with in the international market.  
+(2 Marks) 
+4.  
+(a) 
+WRITE short notes on Inter relationship between investment, financing and 
+dividend decisions.  
+(4 Marks) 
+(b) 
+DISCUSS the liquidity vs. profitability issue in management of working capital. 
+  (4 Marks) 
+(c)  
+EXPLAIN: Callable bonds and Puttable bonds.  
+(2 Marks) 
+Or  
+ 
+Briefly DESCRIBE bridge finance  
+(2 Marks) 
+ 
+Downloaded from castudyweb.com
+<<PAGE 9>>
+9 
+PAPER 6B: STRATEGIC MANAGEMENT 
+1. 
+The question paper comprises two parts, Part I and Part II. 
+2. 
+Part I comprises case scenario based multiple choice questions (MCQs) 
+3. 
+Part II comprises questions which require descriptive answers. 
+PART I – Case scenario based MCQs (15 Marks) 
+1. (A) (Compulsory) 
+1.  
+(A)  
+EcoNurture Foods, founded in 2008 in India, specializes in producing plant-based, 
+sustainable snacks and beverages. With a mission statement focused on 
+"nourishing people and the planet through sustainable innovation," the company 
+aims to lead the market in environmentally friendly food alternatives. However, 
+following a decade of double-digit growth, EcoNurture faced stagnation due to 
+increased competition, operational inefficiencies, and changing consumer trends. 
+To regain its competitive edge, EcoNurture has initiated a turnaround strategy. 
+The first step involved a complete overhaul of its outbound logistics, a key activity 
+in its value chain. By investing in renewable-energy-powered delivery vehicles and 
+partnering with a global logistics provider, the company reduced shipping costs by 
+20% and cut carbon emissions by 35%. This not only enhanced operational 
+efficiency but also reinforced the brand’s commitment to sustainability; a core 
+value that resonates with its target market. 
+Simultaneously, EcoNurture addressed the barriers to new entry in the plant-
+based food industry. While small competitors have entered the market with niche 
+products, the company’s established brand reputation, economies of scale, and 
+extensive distribution network continue to deter potential entrants. By leveraging 
+these barriers, EcoNurture protects its market share in key regions of western 
+ghats & southern states of India. 
+In pursuit of growth, EcoNurture has adopted a diversification strategy. In 2024, 
+the company launched a new line of functional beverages infused with probiotics 
+and vitamins, targeting the growing health-conscious consumer base. This 
+diversification has contributed to a 15% increase in revenue in its first year, with 
+projected sales of INR150 Crores in 2025. 
+To further expand its market reach, EcoNurture formed a strategic alliance with 
+Homely Basket, a premium organic retail chain in Asia. This partnership allows 
+EcoNurture to enter high-growth Asian markets while Homely Basket benefits from 
+exclusive rights to distribute EcoNurture’s products. The alliance is expected to 
+generate an additional INR 50 Crores in annual revenue for both companies. 
+Downloaded from castudyweb.com
+<<PAGE 10>>
+10 
+Despite these initiatives, challenges remain. Consumer demand for innovation is 
+relentless, and competition from both established players and startups continues 
+to intensify. To stay ahead, EcoNurture’s leadership must ensure alignment with 
+its mission statement while balancing profitability and sustainability. With strong 
+execution of its turnaround strategy and continued focus on partnerships and 
+diversification, EcoNurture is poised to reclaim its position as a leader in 
+sustainable nutrition. 
+Based on the above Case Scenario, answer the Multiple-Choice Questions. 
+(i)  
+EcoNurture Foods’ mission statement is well developed but the company 
+still had to go through a turnaround strategy. What does this say about 
+Strategic Management? 
+(a) 
+Strategic Management is a futile exercise 
+(b) 
+Proactive approach matters, but macro trends are more important 
+(c) 
+It is time consuming but helps by developing defense mechanisms 
+as well 
+(d) 
+Mission statement should change with strategy 
+(2 Marks) 
+(ii)  
+A 15% increase in revenue in its first year, with projected sales of INR150 
+Crores in 2025 with the launch of probiotics and vitamins. Based on this 
+statement, study the case carefully and mark the option which you feel 
+resonates best. 
+(a) 
+A company which did a turnaround should not be diversified 
+(b) 
+Target customer needs if studied with passion lead to a successful 
+diversification 
+(c) 
+Diversification is suitable only for Startups 
+(d) 
+Investments made early in a good leader could save money spent 
+on diversification 
+(2 Marks) 
+(iii)  
+Homely Basket deal is an important milestone in EcoNurture’s strategic 
+outlay. A well-planned move to join hands together to achieve important 
+strategic benefits. Identify the benefits from the scenario it brought to 
+EcoNurture.  
+(a) 
+It helped diversify their existing portfolio & kept the niche local 
+players away 
+(b) 
+It helped achieve a better brand name & economies of scale 
+Downloaded from castudyweb.com
+<<PAGE 11>>
+11 
+(c) 
+It helped to go global & surpass the niche local players which were 
+flooding Indian market 
+(d) 
+It helped to increase prices with premiumization & gain customer 
+confidence 
+(2 Marks) 
+(iv)  
+Every strategic management decision has an inherent importance and so 
+is the case with EcoNurture, as it took a good number of decisions for 
+elongating its growth phase. Two long-term strategic themes do come out 
+clearly from the business case. Identify and mark those from your reading 
+of the scenario. 
+(a) 
+Profitability & Sustainability 
+(b) 
+Customer Obsession & Organisational Restructuring 
+(c) 
+Globalisation & Product Diversification 
+(d) 
+Niche Products & Competitive Pressures 
+(2 Marks) 
+(v)  
+Investing in renewable-energy-powered delivery vehicles and partnering 
+with a global logistics provider, the company reduced shipping costs and 
+cut carbon emissions. It supported their core value that also resonates with 
+its target market. What did they actually gain from this transition? 
+(a) 
+Meeting consumer demand for innovation and beating competition 
+from established players 
+(b) 
+Creating barriers to new entry in the plant-based food industry 
+(c) 
+Focus on delivering mission statement in the long-term 
+(d) 
+Enhanced operational efficiency and brand’s long-term commitment 
+to sustainability  
+(2 Marks) 
+(B) 
+Compulsory Application Based Independent MCQs 
+(i)  
+ABC is a marketing consultancy business. ABC’s most recent corporate 
+analysis has identified that three new businesses have recently entered its 
+market and started aggressively targeting ABC’s key client. As part of 
+ABC’s corporate analysis, these three new businesses would be a – 
+(a) 
+Strength  
+(b) 
+Opportunity 
+(c) 
+Weakness 
+(d) 
+Threat   
+(2 Marks) 
+Downloaded from castudyweb.com
+<<PAGE 12>>
+12 
+(ii)  
+The Specialist Clothing Company (SCC) is a manufacturer of a wide range of 
+clothing. Fashion is one of the five divisions of SCC. Fashion is operating in a 
+market with high growth and is the market leader. By the next year, it is 
+predicted to have 10% of the market share in a growing market. Fashion should 
+be classified as which of the following according to the BCG matrix. 
+(a) 
+Star 
+(b) 
+Dog 
+(c) 
+Cash cow 
+(d) 
+Question mark  
+(2 Marks) 
+(iii)  
+Urbankey has a unique capability in rapid prototyping, allowing them to 
+bring new products to market faster than the competitors. Such an 
+advantage can be termed as? 
+(a)  
+Market Expansion Strategy 
+(b)  
+Core Competency 
+(c)  
+Cost Leadership Strategy 
+(d)  
+Appropriate SWOT Analysis   
+(1 Mark) 
+ 
+PART II – Descriptive Questions (35 Marks) 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+1. 
+(a)  
+Ecro Ltd. is an e-commerce company that specializes in selling eco-friendly 
+products. Although the company has been doing well, it still continues actively to 
+strengthen its brand identity, launch creative and impactful marketing campaigns 
+and introduce new and innovative eco-friendly products.  
+However, the company has started facing increasing competition from large 
+retailers who are entering the eco-friendly space. To face competition the 
+company quickly started to adapt to the changing market conditions, analyse the 
+competitors' strategies, adopt different styles of marketing in response to 
+competitors’ action and counteract competitors' pricing strategies. 
+Downloaded from castudyweb.com
+<<PAGE 13>>
+13 
+ 
+Discuss the strategic approaches taken by Ecro Ltd. in the two different situations 
+to stay competitive. Explain the strategy that Ecro Ltd. should adopt in future to 
+remain competitive and gain competitive advantage. 
+(5 Marks) 
+(b)  
+In addition to new market opportunities and change in customer preferences, as 
+a known fact, technology is also changing very fast. In view of the same, 'Twaran', 
+having a small and mid-sized business, wants to use latest digital technologies for 
+improved procedures and products. The primary aim of the firm is to have a 
+competitive edge in the evolving business landscape through digital 
+transformation. The entity would like to deal with regular changes firmly, along 
+with transforming its management techniques. Identify the strategy required for 
+digital transformation. Also state the most preferred practices to be followed by 
+the entity. 
+(5 Marks) 
+(c)  
+ARP Motors, an automobile company, was struggling in the competitive SUV 
+market in India. As a business strategist, you recommended that ARP launch a 
+compact SUV that balances affordability with premium features. In response, ARP 
+developed and introduced FLEXON, strategically pricing it and incorporating high-
+end features such as a 5-star Global NCAP safety rating, a modern design and 
+advanced technology. Furthermore, the company expanded into the electric 
+vehicle segment with FLEXON EV, positioning it as one of the most affordable yet 
+feature-rich electric SUVs in India. Which strategy did you recommend to ARP 
+Motors to achieve a competitive advantage? Explain the strategy briefly and 
+enumerate the keyways ARP Motors implemented it.  
+(5 Marks) 
+2. 
+(a)  
+“A well-defined vision and mission statement provide direction and purpose to an 
+organization." Explain the significance of vision and mission statements in 
+strategic planning. 
+(5 Marks) 
+(b)  
+Recommend a tool to analyze the competitive position of various rival companies 
+in the market and outline the step-by-step procedure for using the identified tool.  
+(5 Marks) 
+3 
+(a)  
+An organization should select the right strategic performance measures that are 
+aligned with its goals and objectives and provide relevant and actionable 
+information. Explain all the factors and importance of these factors that need to 
+be considered.  
+(5 Marks) 
+Downloaded from castudyweb.com
+<<PAGE 14>>
+14 
+(b)  
+Innovation is widely regarded as a catalyst for business growth, enabling firms to 
+upgrade existing products and processes, enhance customer satisfaction, and 
+improve profitability. In light of this statement, explain what an innovation offers to 
+the organisation and any risk involved in doing so. 
+(5 Marks) 
+4. 
+(a)  
+Explain the 'product market growth matrix' as propagated by Igor Ansoff as a 
+device for identifying growth opportunities for the future. 
+(5 Marks) 
+(b)  
+Which concept explains the efficiency increase gained by workers through 
+repetitive production work, leading to cost reduction and competitive advantage? 
+List down its relevance features in strategic management. 
+ 
+OR 
+ 
+In light of the five forces as propagated by Michael Porter, explain the common 
+barriers which may cause restraint for the keenness of new entrepreneurs.  
+(5 Marks) 
+Downloaded from castudyweb.com

@@ -1,0 +1,1497 @@
+<<PAGE 1>>
+1 
+Mock Test Paper - Series I: July 2026 
+Date of Paper: 5th August 2026 
+Time of Paper: 10 A.M. to 1 P.M. 
+INTERMEDIATE: GROUP – II 
+PAPER – 6: FINANCIAL MANAGEMENT & STRATEGIC MANAGEMENT 
+PAPER 6A : FINANCIAL MANAGEMENT 
+Suggested Answers/ Hints 
+PART I – Case Scenario based MCQs 
+1. 
+(c)  
+` 50,00,000 
+ 
+Revenue from Sale of Processed Waste = 20,00,000 kg × ` 5 = ` 1,00,00,000 
+ 
+Add: Disposal Cost Saved = 20,00,000 kg × ` 0.50 = ` 10,00,000 
+ 
+Total Relevant Benefits = ` 1,10,00,000 
+ 
+Less: Variable Processing Cost = 20,00,000 kg × ` 2.50 = ` 50,00,000 
+ 
+ 
+Less: Additional Fixed Costs 
+Particulars 
+Amount (`) 
+Advertising Expenses 
+4,00,000 
+Additional Fixed Cost 
+6,00,000 
+Total 
+10,00,000 
+ 
+Incremental Contribution Before Depreciation & Tax = 1,10,00,000 – 50,00,000  
+– ` 10,00,000 = ` 50,00,000 
+2.  
+(c)  
+` 31,00,000 Incremental Contribution Before Depreciation & Tax = ` 50,00,000 
+ 
+Less: Depreciation = ` 1,20,00,000 / 10 = ` 12,00,000 
+ 
+Profit Before Tax = 50,00,000 – 12,00,000 = ` 38,00,000 
+ 
+Less: Tax @ 50% = ` 19,00,000 
+ 
+Profit After Tax = ` 19,00,000 
+ 
+ 
+Add Back Depreciation = 19,00,000 + 12,00,000 = ` 31,00,000 
+3. 
+(b)  
+` 1,55,58,900 
+ 
+Annual After-tax Cash Inflow = ` 31,00,000 
+ 
+Present Value of Annual Cash Inflows = ` 31,00,000 × 5.019 = ` 1,55,58,900 
+Downloaded from castudyweb.com
+<<PAGE 2>>
+2 
+4. 
+(c)  
+` 35,58,900 
+Particulars 
+Amount (`) 
+PV of Annual Cash Inflows 
+1,55,58,900 
+Less: Initial Investment 
+1,20,00,000 
+Net Present Value 
+35,58,900 
+ 
+Since NPV is positive, the company should process the waste further instead of 
+disposing it externally. 
+5. 
+(c)  
+` 38,00,000 
+ 
+Incremental Contribution Before Depreciation & Tax From earlier computation: 
+Particulars 
+Amount (`) 
+Sales Revenue from Processed Waste 
+1,00,00,000 
+Add: Disposal Cost Saved 
+10,00,000 
+Total Benefits 
+1,10,00,000 
+Less: Variable Processing Cost 
+(50,00,000) 
+Less: Additional Fixed Costs 
+(10,00,000) 
+Contribution Before Depreciation & Tax 
+50,00,000 
+ 
+Less: Depreciation = Cost of Machine/Useful Life = ` 1,20,00,000/10 = ` 12,00,000 
+ 
+Profit Before Tax (PBT) = 50,00,000 – 12,00,000 = ` 38,00,000 
+6. 
+(b) 
+ROCE = EBIT / Total Capital Employed 
+ 
+Total Capital Employed = Total Assets – Current Liabilities = 45 lakhs – 5 lakhs  
+= 40 lakhs 
+ 
+ 
+EBIT = 40 lakhs × 20% = 8 lakhs 
+ 
+ 
+Operating Leverage (3) = Contribution / EBIT 
+ 
+Therefore, Contribution = 8 lakhs × 3 = 24 lakhs 
+ 
+Sales = Contribution / P/V Ratio = 24 lakhs / 0.80 = 30 lakhs 
+7. 
+(b) 
+Cost of Debt = Interest Payment / Market Price of Bond = (7,000 / 93,000) × 100 
+ 
+= 7.53% 
+8. 
+(d) 
+Cost of equity will increase. As Meera Enterprises raises its debt ratio, financial 
+risk to equity shareholders rises (higher fixed interest obligations and greater 
+earnings volatility for equity holders), so equity investors demand a higher return 
+to compensate — increasing the cost of equity. 
+Downloaded from castudyweb.com
+<<PAGE 3>>
+3 
+PART II – Descriptive Questions 
+1. 
+(a) 
+(i) 
+ 
+ 
+ 
+Valuation of firms 
+Particulars 
+A Ltd 
+B Ltd 
+Levered 
+Firm (`)  
+Unlevered 
+Firm (`) 
+EBIT                             
+45,000  
+45,000 
+Less: Interest on debt (10% × ` 1,50,000)  
+15,000 
+Nil 
+Earnings available to Equity shareholders 
+30,000 
+45,000 
+Ke 
+12.5% 
+12.5% 
+Value of Equity (S) 
+(Earnings available to Equity shareholders/ 
+Ke) 
+2,40,000 
+3,60,000 
+Debt (D) 
+1,50,000 
+Nil 
+Value of Firm (V) = S + D 
+3,90,000 
+3,60,000 
+ 
+Value of Levered company is more than that of unlevered company. 
+Therefore, investor will sell his shares in levered company and buy shares 
+in unlevered company. To maintain the level of risk he will borrow 
+proportionate amount and invest that amount also in shares of unlevered 
+company. 
+(ii)  
+Investment & Borrowings 
+ 
+Sell shares in Levered company (` 2,40,000 x 20%)  
+48,000 
+ 
+Borrow money (` 1,50,000 x 20%) 
+30,000 
+ 
+Buy shares in Unlevered company 
+78,000 
+(iii)  
+Change in Return 
+ 
+Income from shares in Unlevered company (` 78,000 x 12.5%)     9,750 
+ 
+Less: Interest on loan (` 30,000 x 10%)  
+     
+ 
+3,000 
+ 
+Net Income from unlevered firm 
+ 
+ 
+ 
+6,750 
+ 
+Less: Income from Levered firm (` 48,000 x 12.5%) 
+ 
+6,000 
+ 
+Incremental Income due to arbitrage 
+ 
+ 
+ 
+   750 
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 4>>
+4 
+ 
+(b) 
+(i)  
+Cost of Equity (Ke) = 
+D1
+P0-F + g =
+`
+`
+`
+ 1
+ 24 -  4
++ 0.05 = 0.1 or 10% 
+(ii)  
+Cost of Debt (Kd) Current market price (P0) – floatation cost = I(1-t) × 
+PVAF(r,10) + RV × PVIF(r,10) ` 105 – 4% of ` 105 = ` 10 (1-0.3) × PVAF 
+(r,10) + ` 100 × PVIF (r,10) Calculation of NPV at discount rate of 5% and 
+7% 
+Year 
+Cash 
+flows (`) 
+Discount 
+factor @ 5% 
+Present 
+Value 
+Discount 
+factor @ 7% 
+Present 
+Value (`) 
+0 
+100.8 
+1.000 
+(100.8) 
+1.000 
+(100.8) 
+1 to 10 
+7 
+7.722 
+54.05 
+7.024 
+49.17 
+10 
+100 
+0.614 
+61.40 
+0.508 
+50.80 
+NPV 
+ 
+ 
++14.65 
+ 
+-0.83 
+ 
+Calculation of IRR 
+ 
+IRR = 
+(
+)
+14.65
+5% +
+7% -5%
+14.65-(-0.83)
+= 
+(
+)
+14.65
+5% +
+7% -5%
+15.48
+= 6.89% 
+ 
+Cost of Debt (Kd) = 6.89% 
+(iii)  
+Cost of Preference shares (Kp) Current market price (P0) – floatation cost 
+= PD × PVAF(r,10) + RV × PVIF(r,10) ` 110 – 2% of ` 110 = ` 5 × PVAF 
+(r,10) + ` 100 × PVIF (r,10) 
+ 
+Calculation of NPV at discount rate of 3% and 5% 
+Year 
+Cash 
+flows 
+(`) 
+Discount 
+factor @ 3% 
+Present 
+Value 
+Discount 
+factor @ 5% 
+Present 
+Value (`) 
+0 
+107.8 
+1.000 
+(107.8) 
+1.000 
+(107.8) 
+1 to 10 
+5 
+8.530 
+42.65 
+7.722 
+38.61 
+10 
+100 
+0.744 
+74.40 
+0.614 
+61.40 
+NPV 
+ 
+ 
++9.25 
+ 
+-7.79 
+ 
+Calculation of IRR 
+ 
+IRR = 
+(
+)
+9.25
+3% +
+5% -3%
+9.25-(-7.79)
+= 
+(
+)
+9.25
+3% +
+5% -3%
+17.04
+= 4.08% 
+ 
+Cost of Preference Shares (Kp) = 4.08% 
+Downloaded from castudyweb.com
+<<PAGE 5>>
+5 
+(a) 
+Calculation of WACC using book value weights 
+Source 
+of 
+capital 
+Book 
+Value 
+Weights 
+After tax 
+cost of 
+capital 
+WACC (Ko) 
+ 
+(`) 
+(a) 
+(b) 
+(c) = (a)×(b) 
+10% Debentures  5,00,000 
+0.25 
+0.0689 
+0.01723 
+5% 
+Preference 
+shares 
+5,00,000 
+0.25 
+0.0408 
+0.0102 
+Equity shares 
+10,00,000 
+0.50 
+0.10 
+0.05000 
+ 
+20,00,000 
+1.00 
+ 
+0.07743 
+ 
+WACC (Ko) = 0.07743 or 7.74%  
+(b) 
+Calculation of WACC using market value weights 
+Source of capital 
+Market 
+Value 
+Weights After tax 
+cost of 
+capital 
+WACC (Ko) 
+ 
+(`) 
+(a) 
+(b) 
+(c) = (a)×(b) 
+10% Debentures (` 105× 
+5,000) 
+5,25,000 
+0.151 
+0.0689 
+0.0104 
+5% Preference shares  
+(` 110× 5,000) 
+5,50,000 
+0.158 
+0.0408 
+0.0064 
+Equity shares (` 24× 
+1,00,000) 
+24,00,000 
+0.691 
+0.10 
+0.0691 
+ 
+34,75,000 
+1.000 
+ 
+0.0859 
+ 
+WACC (Ko) = 0.0859 or 8.59% 
+(c) 
+Income Statements of Company A and Company B 
+ 
+Company A 
+(`) 
+Company B 
+(`) 
+Sales 
+1,32,000 
+1,12,000 
+Less: Variable cost 
+88,000 
+  56,000 
+Contribution 
+44,000 
+  56,000 
+Less: Fixed Cost  
+26,500 
+   42,000 
+Earnings before interest and tax (EBIT) 
+17,500 
+   14,000 
+Less: Interest 
+14,000 
+     11,000 
+Downloaded from castudyweb.com
+<<PAGE 6>>
+6 
+Earnings before tax (EBT) 
+   3,500 
+      3,000 
+Less: Tax @ 30% 
+     1,050 
+        900 
+Earnings after tax (EAT) 
+  2,450 
+     2,100 
+ 
+Working Notes: 
+Company A 
+(i)  
+Financial Leverage  = 
+EBIT
+EBT i.e EBIT - Interest 
+  
+So, 5  
+ 
+= 
+EBIT
+EBIT -14,000 
+  
+Or, 5 (EBIT – 14,000) = EBIT 
+  
+Or, 4 EBIT   
+= 70,000 
+  
+Or, EBIT      
+= `17,500 
+(ii)  
+Contribution                = EBIT + Fixed Cost = ` 17,500 + ` 26,500  
+ 
+ 
+ 
+ = ` 44,000 
+(iii)  
+Sales  
+              = Contribution + Variable cost = ` 44,000 +  
+ 
+ 
+     ` 88,000 = ` 1,32,000 
+Company B 
+(i) 
+Operating Leverage =1/Margin of Safety = Contribution
+EBIT
+ 1/0.25  
+ 
+ 
+ 
+ 
+ 
+  = 
+`
+ Contribution
+ 14,000
+4 = 
+` 
+ Contribution
+14,000
+ 
+ 
+Contribution   = `14,000 x 4 = `56,000 
+(ii)   
+Fixed Cost = Contribution – EBIT = 56,000 – 14,000 = ` 42,000 
+(iii)  
+Contribution = 50% of Sales (as Variable Cost is 50% of Sales)  
+Sales = 56,000 x 2 = `1,12,000 
+2. 
+(a) 
+(a) 
+In case of customer A, there is no increase in sales even if the credit is 
+given. Hence comparative statement for B & C is given below: 
+Particulars 
+Customer B 
+Customer C 
+1.  Credit period (days) 
+0 
+30 
+60 
+90 
+0 
+30 
+60 
+90 
+2.  Sales Units 
+1,000 
+1,500 
+2,000 
+2,500 
+- 
+- 1,000 
+1,500 
+Downloaded from castudyweb.com
+<<PAGE 7>>
+7 
+` in lakhs 
+`in lakhs 
+3.  Sales Value 
+90 
+135 
+180 
+225 
+- 
+- 
+90 
+135 
+4.  Contribution at 20% 
+(A) 
+18 
+27 
+36 
+45 
+- 
+- 
+18 
+27 
+5. Receivables: 
+   Credit Period × Sales
+360
+ 
+- 
+11.25 
+30 
+56.25 
+- 
+- 
+15 
+33.75 
+6.  Debtors at cost i.e. 
+80% of 11.25  
+- 
+9 
+24 
+45 
+- 
+- 
+12 
+27 
+7. Cost of carrying 
+debtors at 20% (B) 
+- 
+1.8 
+4.8 
+9 
+- 
+- 
+2.4 
+5.4 
+8.  Excess of 
+contributions over 
+cost of carrying 
+debtors (A – B) 
+18 
+25.2 
+31.2 
+36 
+- 
+- 
+15.6 
+21.6 
+ 
+The excess of contribution over cost of carrying Debtors is highest in case 
+of credit period of 90 days in respect of both the customers B and C. Hence, 
+credit period of 90 days should be allowed to B and C. 
+(b)  
+Problem 
+(i)  
+Customer A is taking 1000 TV sets whether credit is given or not. 
+Customer C is taking 1000 TV sets at credit for 60 days. Hence A 
+also may demand credit for 60 days compulsorily. 
+(ii)  
+B will take 2500 TV sets at credit for 90 days whereas C would lift 
+1500 sets only. In such case B will demand further relaxation in 
+credit period i.e. B may ask for 120 days credit. 
+(b)  
+Level of investment depends on the various factors listed below: 
+(a) 
+Nature of Industry:  Construction companies, breweries etc. requires 
+large investment in working capital due long gestation period. 
+(b) 
+Types of products: Consumer durable has large inventory as compared 
+to perishable products. 
+(c) 
+Manufacturing Vs Trading Vs Service:  A manufacturing entity has to 
+maintain three levels of inventory i.e. raw material, work-in-process and 
+Downloaded from castudyweb.com
+<<PAGE 8>>
+8 
+finished goods whereas a trading and a service entity has to maintain 
+inventory only in the form of trading stock and consumables respectively.    
+(d) 
+Volume of sales:  Where the sales are high, there is a possibility of high 
+receivables as well. 
+(e) 
+Credit policy: An entity whose credit policy is liberal has not only high level 
+of receivables but may require more capital to fund raw material purchases 
+as that will depend on credit period allowed by suppliers.  
+3.  
+(a)  
+As per MM Hypothesis, value of firm/ company is calculated as below: 
+Vf  or nP₀ 
+=     
+ 1
+e
+(n + Δn)P - I + E 
+(1+ K )
+ 
+ 
+Where, 
+Vf  
+= 
+Value of firm in the beginning of the period 
+n 
+= 
+number of shares in the beginning of the period 
+∆n 
+= 
+number of shares issued to raise the funds required 
+I 
+= 
+Amount required for investment 
+E 
+= 
+total earnings during the period 
+(i)  
+Value of the ZX Ltd. when dividends are not paid. 
+ 
+nPₒ =  
+1
+e
+(n+ Δn)P -I+ E
+1+ K
+ 
+ 
+        
+ 
+ 
+nP₀ = 
+
+
+
+
+
+
+20,00,000
+1,00,000+
+× 115 - 95,00,000+
+75,00,000
+115
+(1+ 0.15)
+` 
+` 
+` 
+  
+ 
+= 
+1,35,00,000 - 95,00,000+
+75,00,000
+(1+ 0.15)
+` 
+` 
+` 
+= `1,00,00,000 
+Working notes: 
+1.  
+Price of share at the end of the period (P1) 
+ 
+Pₒ    =   
+1
+1
+e
+P + D
+1+ K
+ 
+Downloaded from castudyweb.com
+<<PAGE 9>>
+9 
+ 
+100  = 
+1P + 0
+1+ 0.15
+  
+or, 
+P₁= 
+115 
+2.  
+Calculation of funds required for investment 
+Earnings 
+` 75,00,000 
+Dividend distributed 
+    Nil 
+Fund available for investment 
+` 75,00,000 
+Total Investment 
+` 95,00,000 
+Balance Funds required 
+` 20,00,000 
+3.   
+Calculation of no. of shares required to be issued for balance 
+fund 
+ 
+No. of shares (∆n)  = 
+1
+Funds required
+Price at end(P )
+ = 20,00,000
+115
+ shares 
+(ii)  
+Value of the ZX Ltd. when dividends are paid. 
+ 
+nPₒ =  
+1
+e
+(n+ Δn)P -I+ E
+1+ K
+ 
+ 
+        
+ 
+ 
+nP₀ = 
+
+
+
+
+
+
+70,00,000
+1,00,000+
+× 65 - 95,00,000+
+75,00,000
+65
+(1+ 0.15)
+` 
+` 
+` 
+  
+ 
+ 
+= 
+1,35,00,000 - 95,00,000+
+75,00,000
+(1+ 0.15)
+` 
+` 
+` 
+= `1,00,00,000 
+ 
+Working notes: 
+4.  
+Price of share at the end of the period (P1) 
+ 
+Pₒ = 
+1
+1
+e
+P + D
+1+ K
+ 
+ 
+100 = 
+1P + 50
+1+ 0.15
+  or, 
+P₁= ` 65 
+ 
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 10>>
+10 
+5.  
+Calculation of funds required for investment 
+Earnings 
+` 75,00,000 
+Dividend distributed 
+` 50,00,000 
+Fund available for investment 
+` 25,00,000 
+Total Investment 
+` 95,00,000 
+Balance Funds required 
+` 70,00,000 
+6.   
+Calculation of no. of shares required to be issued for balance 
+fund 
+ 
+No. of shares (∆n)  = 
+1
+Funds required
+Price at end(P )
+ = 70,00,000
+65
+ = 1,07,693 shares 
+(approx.) 
+Note- As per MM-hypothesis of dividend irrelevance, value of firm remains 
+same irrespective of dividend paid. In the solution, there may be variation in 
+value, which is due to rounding off error. 
+(b) 
+Working notes: 
+(i)  
+Current Assets and Current Liabilities computation: 
+ 
+Current assests
+Currect liabilities 
+ 
+= 2.5
+1 
+ 
+Or Current assets  
+ 
+= 2.5 Current liabilities 
+ 
+Now, Working capital  
+= Current assets − Current liabilities 
+ 
+Or ` 4,80,000  
+ 
+= 2.5 Current liability − Current liability 
+ 
+Or   1.5 Current liability 
+= ` 4,80,000 
+ 
+∴ Current Liabilities     
+= ` 3,20,000 
+ 
+ 
+So, Current Assets  
+= ` 3,20,000 × 2.5 = ` 8,00,000 
+(ii)  
+Computation of stock 
+ 
+Liquid ratio  
+ 
+=
+Liquid  assets
+Current  liabilities
+ 
+ 
+Or 1.5 
+ 
+ 
+= Current assets - Inventories
+ 3,20,000
+`
+ 
+Downloaded from castudyweb.com
+<<PAGE 11>>
+11 
+ 
+Or 1.5 × ` 3, 20,000 
+= ` 8,00,000 − Inventories 
+ 
+Or Inventories 
+ 
+= ` 8,00,000 – ` 4, 80,000 
+ 
+Or Stock 
+ 
+ 
+= ` 3,20,000 
+(iii)  
+Computation of Proprietary fund; Fixed assets; Capital and Sundry 
+creditors 
+ 
+Fixed Asset to Proprietary ratio  = 
+Fixed  assets
+Proprietary fund = 0.75 
+ 
+∴ 
+Fixed Assets  
+ 
+= 0.75 Proprietary fund (PF)[FA + NWC 
+ 
+ 
+ 
+ 
+ 
+= PF] 
+ 
+or NWC  
+ 
+ 
+= PF- FA [(i.e. .75 PF)] 
+ 
+and Net Working Capital (NWC)= 0.25 Proprietary fund 
+ 
+Or  ` 4,80,000/0.25   
+= Proprietary fund 
+ 
+Or  Proprietary fund  
+= ` 19,20,000 
+ 
+and Fixed Assets  
+ 
+= 0.75 proprietary fund 
+ 
+ 
+ 
+ 
+ 
+= 0.75 × ` 19,20,000 = ` 14,40,000 
+ 
+Capital 
+ 
+             = Proprietary fund − Reserves & Surplus 
+ 
+ 
+ 
+ 
+             = ` 19,20,000 − ` 3,20,000 = ` 16,00,000 
+ 
+Sundry Creditors 
+             = (Current liabilities − Bank overdraft) 
+ 
+ 
+ 
+ 
+             = (` 3,20,000 − ` 80,000) = ` 2,40,000 
+Balance Sheet as at 31st March, 2020 
+Liabilities 
+` Assets 
+` 
+Capital 
+16,00,000 Fixed Assets 
+14,40,000 
+Reserves & Surplus 
+3,20,000 Stock 
+3,20,000 
+Bank overdraft 
+80,000 Other Current Assets 
+4,80,000 
+Sundry creditors 
+  2,40,000  
+ 
+ 
+ 
+22,40,000  
+22,40,000 
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 12>>
+12 
+4.  
+(a) 
+Debt Securitisation: It is a method of recycling of funds. It is especially beneficial 
+to financial intermediaries to support the lending volumes. Assets generating 
+steady cash flows are packaged together and against this asset pool, market 
+securities can be issued, e.g. housing finance, auto loans, and credit card 
+receivables. 
+ 
+Process of Debt Securitisation 
+(i) 
+The origination function – A borrower seeks a loan from a finance company 
+or bank. The credit worthiness of borrower is evaluated and a contract is 
+entered into with repayment schedule structure over the life of the loan. 
+(ii) 
+The pooling function – Similar loans on receivables are clubbed together 
+to create an underlying pool of assets. The pool is transferred in favour of 
+Special Purpose Vehicle (SPV), which acts as a trustee for investors. 
+(iii) 
+The securitisation function – The SPV structure and issue securities on the 
+basis of these assets pool. The securities carry a coupon and expected 
+maturity which can be asset-based/mortgage based. These are generally 
+sold to investors through merchant bankers. Investors may be a pension 
+funds, mutual funds, insurance funds. 
+ 
+The process of securitization is generally without recourse i.e. investors bear the 
+credit risk and issuer is under an obligation to pay to investors only if the cash 
+flows are received by him from the collateral. The benefits to the originator are 
+that assets are shifted off the balance sheet, thus giving the originator recourse 
+to off-balance sheet funding. 
+ 
+(b)  
+(i) 
+Sales and Lease Back: Under this type of lease, the owner of an asset 
+sells the asset to a party (the buyer), who in turn leases back the same 
+asset to the owner in consideration of a lease rentals. Under this 
+arrangement, the asset is not physically exchanged but it all happen in 
+records only.  The main advantage of this method is that the lessee can 
+satisfy himself completely regarding the quality of an asset and after 
+possession of the asset convert the sale into a lease agreement. Under 
+this transaction, the seller assumes the role of lessee (as the same asset 
+which he has sold came back to him in the form of lease) and the buyer 
+assumes the role of a lessor (as asset purchased by him was leased back 
+to the seller). So, the seller gets the agreed selling price and the buyer gets 
+the lease rentals. 
+ 
+Downloaded from castudyweb.com
+<<PAGE 13>>
+13 
+(ii) 
+Leveraged Lease: Under this lease, a third party is involved besides lessor 
+and the lessee. The lessor borrows a part of the purchase cost (say 80%) 
+of the asset from the third party i.e., lender and asset so purchased is held 
+as security against the loan.  The lender is paid off from the lease rentals 
+directly by the lessee and the surplus after meeting the claims of the lender 
+goes to the lessor.  The lessor is entitled to claim depreciation allowance. 
+(iii) 
+Sales-aid Lease: Under this lease contract, the lessor enters into a tie up 
+with a manufacturer for marketing the latter’s product through his own 
+leasing operations, it is called a sales-aid lease. In consideration of the aid 
+in sales, the manufacturer may grant either credit or a commission to the 
+lessor. Thus, the lessor earns from both sources i.e. From lessee as well 
+as the manufacturer. 
+(iv) 
+Close-ended and Open-ended Leases: In the close-ended lease, the 
+assets get transferred to the lessor at the end of lease, the risk of 
+obsolescence, residual value etc., remain with the lessor being the legal 
+owner of the asset.  In the open-ended lease, the lessee has the option of 
+purchasing the asset at the end of the lease period. 
+(c)  
+The profit maximisation is not an operationally feasible criterion.” This statement 
+is true because profit maximisation can be a short-term objective for any 
+organisation and cannot be its sole objective. Profit maximization fails to serve as 
+an operational criterion for maximizing the owner's economic welfare. It fails to 
+provide an operationally feasible measure for ranking alternative courses of action 
+in terms of their economic efficiency. It suffers from the following limitations: 
+(i) 
+Vague term: The definition of the term profit is ambiguous. Does it mean 
+short term or long term profit? Does it refer to profit before or after tax? 
+Total profit or profit per share? 
+(ii) 
+Timing of Return: The profit maximization objective does not make 
+distinction between returns received in different time periods. It gives no 
+consideration to the time value of money, and values benefits received 
+today and benefits received after a period as the same. 
+(iii) 
+It ignores the risk factor. 
+(iv) 
+The term maximization is also vague. 
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 14>>
+14 
+OR 
+(c)  
+When the cost of ‘fixed cost fund’ is less than the return on investment, financial 
+leverage will help to increase return on equity and EPS. The firm will also benefit 
+from the saving of tax on interest on debts etc. However, when cost of debt will 
+be more than the return it will affect return of equity and EPS unfavourably and as 
+a result firm can be under financial distress. Therefore, financial leverage is also 
+known as “double edged sword”. 
+Effect on EPS and ROE: 
+When, ROI > Interest – Favourable – Advantage 
+When, ROI < Interest – Unfavourable – Disadvantage 
+When, ROI = Interest – Neutral – Neither advantage nor disadvantage 
+Downloaded from castudyweb.com
+<<PAGE 15>>
+15 
+PAPER 6B: STRATEGIC MANAGEMENT 
+ANSWERS 
+PART I 
+1. (A) 
+(i)  
+(b) 
+(ii) 
+(d) 
+(iii)  
+(b) 
+(iv)  
+(a) 
+(v)  
+(c) 
+    (B) 
+(i)  
+(b) 
+(ii) 
+(b) 
+(iii)  
+(a) 
+ 
+ 
+ 
+ 
+ 
+PART II PART II – Descriptive Questions  
+1. 
+(a)  
+JJ Sir should develop the qualities of a strategic thinker because long-term 
+success depends not only on expertise in classical music but also on the effective 
+application of strategic management. Strategic management enables an 
+organisation to perform better than its competitors by creating a competitive 
+advantage and responding successfully to changes in the environment.  
+ 
+In the given case, the increasing demand for online classes represents a 
+change in the business environment. Instead of rejecting the idea, JJ Sir 
+should evaluate it strategically. Strategic thinking will help the academy: 
+• 
+Provide direction by aligning decisions with the academy's vision of 
+making classical music globally recognised.  
+• 
+Be proactive rather than reactive by analysing environmental changes 
+and responding appropriately.  
+• 
+Identify and exploit new opportunities, such as reaching students 
+across the country through online learning.  
+• 
+Enhance the longevity of the academy by adapting to changing customer 
+needs and ensuring sustainable growth.  
+• 
+Develop competitive advantage and core competencies, enabling the 
+academy to strengthen its position while preserving the quality and 
+authenticity of classical music.  
+Thus, strategic thinking will help JJ Sir achieve the academy's mission while 
+ensuring its long-term survival, growth, and sustainability.  
+(b)  
+Rafi Merchant overlooked the strategic driver of Customers. Customers are one 
+of the key strategic drivers, and organisations must understand the needs, 
+preferences and buying behaviour of their target customers before taking strategic 
+decisions. Different customers have different requirements and changes in 
+Downloaded from castudyweb.com
+<<PAGE 16>>
+16 
+customer preferences directly influence the demand for products and services. In 
+the given case, customers shifted their preference from premium wooden planks 
+to polyester-based furnishing materials due to their greater durability, affordability 
+and wider range of colours. As a result, the demand for wooden planks declined, 
+leading to substantial losses for Rafi Merchant despite the strategic alliance.  
+Apart from Customers, organisations should also analyse the following strategic 
+drivers before making strategic business decisions: 
+1. 
+Industry and Markets: Organisations should understand their position in 
+the industry and the markets in which they operate. This involves analysing 
+the competitive environment, market size, customer segments, growth 
+opportunities and competitors' strategies. Such analysis helps in identifying 
+the organisation's competitive position and formulating strategies to 
+achieve and sustain a competitive advantage.  
+2. 
+Products/Services: Organisations should continuously evaluate whether 
+their products or services meet changing customer needs. They should 
+improve existing products, introduce new offerings, or discontinue 
+unprofitable ones. Product differentiation through quality, branding, 
+innovation, packaging and after-sales service helps organisations remain 
+competitive and create customer value.  
+3. 
+Channels: Organisations should analyse the effectiveness of their sales, 
+product, and service channels. Efficient distribution channels improve 
+market reach, ensure better customer accessibility, strengthen customer 
+service and support business expansion while creating barriers for new 
+competitors. 
+(c)  
+The growth strategy adopted by Jeff Inc. and Desi Group is a Strategic Alliance. 
+A strategic alliance is an arrangement between two or more independent firms to 
+cooperate in achieving specific strategic objectives. The participating firms remain 
+legally independent but share resources, capabilities, knowledge and risks to 
+achieve mutual benefits. 
+Advantages of Strategic Alliance 
+1. 
+Organisational Advantage: The alliance enables Jeff Inc. to leverage 
+Desi Group's manufacturing capabilities and production facilities, while 
+Desi Group gains access to Jeff Inc.'s technological expertise and global 
+quality standards. This facilitates learning and capability enhancement for 
+both partners.  
+ 
+Downloaded from castudyweb.com
+<<PAGE 17>>
+17 
+2. 
+Economic Advantage: By sharing production facilities, investment and 
+operational costs, both companies can reduce costs and business risks. 
+Higher production volumes for exports also help achieve economies of 
+scale, resulting in lower per-unit production cost.  
+3. 
+Strategic Advantage: The collaboration allows both companies to pool 
+their resources and competencies, thereby strengthening their competitive 
+position in international markets. It also provides opportunities for joint 
+product development and technology advancement.  
+4. 
+Political Advantage: Collaborating with an established Indian 
+manufacturer enables Jeff Inc. to benefit from local market knowledge, 
+regulatory support and ease of operations, while Desi Group enhances its 
+international presence through association with a reputed global brand.  
+Thus, the collaboration between Jeff Inc. and Desi Group represents a 
+Strategic Alliance, enabling both organisations to achieve common 
+strategic objectives by combining their complementary strengths while 
+remaining independent entities. 
+2. 
+(a)  
+Main Levels of Management in an Organization 
+In a typical large organization, there are three main levels of management: 
+1. 
+Corporate Level: This includes the Chief Executive Officer (CEO), senior 
+executives, and the board of directors. Their primary responsibility is to 
+oversee the organization as a whole, make strategic decisions, define the 
+mission and goals, allocate resources, and manage the corporate portfolio 
+of businesses. 
+2. 
+Business Level: This level consists of general managers responsible for 
+specific Strategic Business Units (SBUs). They translate corporate-level 
+strategies into concrete plans for their respective divisions, focusing on 
+creating competitive advantages and achieving profitability. 
+3. 
+Functional Level: This level encompasses managers responsible for 
+specific functions such as finance, marketing, and human resources. They 
+develop functional strategies aligned with the objectives set by the 
+corporate and business-level managers and are crucial for implementing 
+strategies effectively. 
+Types of Networks of Relationship Between Management Levels 
+1. 
+Functional and Divisional Relationship: This independent relationship 
+operates where each function or division is managed independently, with 
+Downloaded from castudyweb.com
+<<PAGE 18>>
+18 
+business-level managers reporting to corporate-level managers. For 
+example, finance and marketing functions operate under their respective 
+heads, who report to the division head. 
+2. 
+Horizontal Relationship: This flat structure promotes equality among all 
+employees, facilitating openness and transparency. All positions, from top 
+management to staff-level employees, share the same hierarchical status, 
+enhancing idea-sharing and innovation, particularly in startups. 
+3. 
+Matrix Relationship: This complex structure combines various 
+departments into project-based teams. It features multiple business-level 
+managers for each functional team, making it suitable for large 
+organizations with diverse operations, enabling efficient management of 
+projects across different functions. 
+These levels and their relationships help streamline decision-making and 
+strategy implementation within an organization, fostering a cohesive 
+approach to achieving business goals. 
+(b)  
+Rising competition, business cycles and economic volatility have created a climate 
+where no business can take viability for granted. Turnaround strategy is a highly 
+targeted effort to return an organization to profitability and increase positive cash 
+flow to a sufficient level. Organizations that have faced a significant crisis that has 
+negatively affected operations require turnaround strategy. Turnaround strategy 
+is used when both threats and weaknesses adversely affect the health of an 
+organization so much that its basic survival is a question. When organization is 
+facing both internal and external pressures making things difficult, then it has to 
+find something which is entirely new, innovative and different. Being 
+organization’s first objective is to survive and then grow in the market; turnaround 
+strategy is used when organization’s survival is under threat. Once turnaround is 
+successful the organization may focus on growth. 
+ 
+ 
+Conditions for turnaround strategies: When firms are losing their grips over 
+market, profits are due to several internal and external factors, and if they have to 
+survive in the competitive environment, they have to identify danger signals as 
+early as possible and undertake rectification steps immediately. These are certain 
+conditions or indicators which point out that a turnaround is needed if the company 
+has to survive. These danger signals are: 
+• 
+Persistent negative cash flow from business.  
+• 
+Uncompetitive products or services.  
+• 
+Declining market share.  
+Downloaded from castudyweb.com
+<<PAGE 19>>
+19 
+• 
+Deterioration in physical facilities.  
+• 
+Over-staffing, high turnover of employees, and low morale.  
+• 
+Mismanagement.  
+3.  
+(a) 
+Mendelow's Matrix is a stakeholder analysis tool that categorises stakeholders 
+based on their Power (ability to influence the organisation) and Interest (level of 
+concern in the organisation's success). It helps organisations determine the 
+appropriate level of engagement with different stakeholders.  
+GreenBasket Pvt. Ltd. should manage its stakeholders as follows: 
+• 
+Key Players (High Power, High Interest): Investors and top management 
+should be closely involved in strategic decisions and regularly consulted, 
+as they significantly influence the organisation's success.  
+• 
+Keep Satisfied (High Power, Low Interest): Regulatory authorities and 
+lenders 
+should 
+be 
+kept 
+satisfied 
+through 
+compliance, 
+timely 
+communication, and periodic updates.  
+• 
+Keep Informed (Low Power, High Interest): Employees, suppliers, and 
+customers should receive regular information and feedback opportunities, 
+as they are highly interested in the organisation's activities.  
+• 
+Low Priority (Low Power, Low Interest): Business magazines and similar 
+external groups require only occasional monitoring, with minimum time and 
+resources devoted to them.  
+Using Mendelow's Matrix enables GreenBasket Pvt. Ltd. to allocate its 
+resources efficiently, strengthen stakeholder relationships, and improve 
+the effectiveness of its strategic decisions.  
+(b)  
+ Any organisation may find the work of digital transformation challenging and 
+overwhelming. To ensure that a digital transition is effective, change management 
+is essential. Here are some pointers for navigating change during the digital 
+transformation: 
+1. 
+Specify the digital transformation’s aims and objectives: What is the 
+intended outcome? What are the precise objectives that must be 
+accomplished? It will be easier to make sure that everyone is on the same 
+page and pursuing the same aims if everyone has a clear grasp of the 
+goals. 
+2. 
+Always, always, always communicate: It might be challenging for people 
+to accept change and adjust to it. Ensure that you routinely and honestly 
+Downloaded from castudyweb.com
+<<PAGE 20>>
+20 
+discuss the objectives of digital transformation and how they will affect 
+stakeholders, including employees, clients, and other parties. 
+3. 
+Be ready for resistance: Even when a change is for the better, it can be 
+challenging for people to embrace it. Have a strategy in place for dealing 
+with any resistance that may arise. 
+4. 
+Implement changes gradually: Changes should ideally be implemented 
+gradually rather than all at once. In order to avoid overwhelming individuals 
+with too much change at once, this will give people time to become used 
+to the new way of doing things. 
+5. 
+Offer assistance and training: Workers will need guidance in the new 
+procedures, software applications, etc. 
+In conclusion, effective completion of the massive project known as digital 
+transformation depends on meticulous planning and change management. 
+Digital transformation efforts are more likely to fail without change 
+management. Organizations can successfully integrate a new digital 
+system by planning for and managing the changes that must take place. 
+Any project involving digital transformation must include it. 
+4.  
+(a)  
+Corporate culture refers to a company’s values, beliefs, business principles, 
+traditions, ways of operating and internal work environment. Every organisation 
+has a unique culture shaped by its philosophy, history, values, rituals, work climate 
+and ingrained ways of doing things. Corporate culture exerts a powerful influence 
+on the behaviour of managers and employees and guides how decisions are made 
+and work is carried out. 
+Where Does Corporate Culture Come From? 
+Corporate culture is shaped and manifested through the following sources: 
+1.  
+Values and Business Principles of Management: The values, ethical 
+standards and business principles that management preaches and 
+practices strongly influence organisational culture. 
+2.  
+Organisational History and Traditions: Past experiences, successes, 
+failures, traditions, stories and legends repeated within the organisation 
+help embed cultural values. 
+3.  
+Leadership Behaviour and Supervisory Practices: The leadership style, 
+attitudes and behaviour of managers shape employee conduct and work 
+practices. 
+Downloaded from castudyweb.com
+<<PAGE 21>>
+21 
+4.  
+Stakeholder 
+Relationships: 
+Dealings 
+with 
+employees, 
+unions, 
+shareholders, vendors and the community influence beliefs and 
+behavioural norms. 
+5.  
+Formal and Informal Systems: Policies, procedures, reward systems, 
+communication patterns, peer pressure and organisational politics together 
+define and reinforce culture. 
+Thus, corporate culture emerges over time from multiple sociological 
+forces operating at different levels of the organisation and acts as a 
+guiding force for employee behaviour, strategy execution and 
+organisational performance. 
+(b)  
+To effectively market the AI-enabled smartphone, Aarav Mehta should develop a 
+marketing strategy by understanding the factors influencing consumer 
+behaviour, which are: 
+• 
+External Influences: Use social media, technology forums and 
+collaborations with tech influencers to create awareness and build a 
+positive brand image among target customers.  
+• 
+Internal Influences: Appeal to customers' desire for innovation and 
+superior performance by highlighting the smartphone's AI capabilities, 
+premium design and advanced features.  
+• 
+Decision-Making: Provide detailed product specifications, feature 
+comparisons, demonstrations and customer testimonials to help 
+consumers make informed purchase decisions.  
+• 
+Post-decision Processes: Offer prompt after-sales service, regular 
+software updates, warranties and encourage customer feedback and 
+reviews to enhance satisfaction and build customer loyalty.  
+ 
+Downloaded from castudyweb.com
+<<PAGE 22>>
+22 
+ 
+Figure: Process of consumer behaviour 
+By aligning its marketing strategy with consumer behaviour, TechNova Mobiles can 
+effectively attract technology enthusiasts, strengthen customer relationships and ensure 
+the successful launch of its new smartphone. 
+OR 
+Porter's Five Forces Model, developed by Michael Porter, analyses the competitive 
+forces that determine the attractiveness and profitability of an industry. 
+1. 
+Threat of New Entrants: The entry of new domestic and international EV 
+manufacturers increases competition and reduces the market share of existing 
+firms like Bharat EV Motors.  
+2. 
+Bargaining Power of Buyers: Customers have several alternatives and can 
+easily compare prices, quality and features, giving them higher bargaining power 
+and forcing companies to offer better value.  
+3. 
+Bargaining Power of Suppliers: Limited availability of battery raw materials 
+enables suppliers to increase prices, raising production costs and strengthening 
+their bargaining power.  
+4. 
+Threat of Substitute Products: Petrol, diesel and hybrid vehicles serve as 
+substitutes. If customers find these alternatives more economical or convenient, 
+demand for electric vehicles may decline.  
+5. 
+Rivalry among Existing Competitors: Intense competition among existing EV 
+manufacturers through pricing, product innovation, technology and marketing 
+increases competitive rivalry and affects profitability.  
+Thus, Porter's Five Forces help organisations understand the competitive intensity of an 
+industry and formulate strategies to build and sustain a competitive advantage. 
+ 
+ 
+Purchase and 
+Post Purchase 
+Actions 
+ 
+External Factors 
+Market Stimuli 
+Environmental 
+Factors 
+Internal Factors 
+Decision 
+Making 
+Downloaded from castudyweb.com

@@ -1,0 +1,661 @@
+<<PAGE 1>>
+1 
+Mock Test Paper - Series II: December, 2024 
+Date of Paper: 14th December, 2024 
+Time of Paper: 2 P.M. to 5 P.M. 
+ 
+INTERMEDIATE GROUP – II  
+PAPER – 6A : FINANCIAL MANAGEMENT & STRATEGIC MANAGEMENT 
+PAPER 6A: FINANCIAL MANAGEMENT 
+Time Allowed – 3 Hours (Total time for 6A and 6B)  
+Maximum Marks – 50 
+1. 
+The question paper comprises two parts, Part I and Part II. 
+2. 
+Part I comprises Case Scenario based Multiple Choice Questions (MCQs) 
+3. 
+Part II comprises questions which require descriptive type answers. 
+4. 
+Working note should form part of the answer. Wherever necessary, suitable 
+assumptions may be made by the candidates and disclosed by way of note. 
+However, in answers to Questions in Division A, working notes are not 
+required. 
+PART I – Case Scenario based MCQs (15 Marks) 
+Write the most appropriate answer to each of the following multiple choice 
+questions by choosing one of the four options given. All questions are 
+compulsory. 
+Case Scenario I: 
+MNP Ltd. is a multinational company having its operations spread mostly in India 
+and neighbouring countries of India. The promotors of the company believed that 
+capital structure of a company must be kept flexible and balanced, where proper 
+mix should always be maintained between debt and equity. Such mix of debt and 
+equity should be reviewed from time to time keeping in mind the changing situation 
+of India and the global scenario.  
+The capital structure of MNP Ltd. is as under: 
+9% Debentures  
+Rs.   2,75,000 
+11% Preference shares  
+Rs.   2,25,000 
+Equity shares (face value: Rs. 10 per share)  
+Rs.   5,00,000 
+Total capital of the company  
+Rs. 10,00,000 
+The following are some of the additional information provided by MNP Ltd. relating 
+to the above mentioned capital structure.  
+(i)  
+Rs. 100 per debenture redeemable at par has 2% floatation cost and 10 years 
+of maturity. The market price per debenture is Rs. 105. 
+(ii)  Rs. 100 per preference share redeemable at par has 3% floatation cost and 
+10 years of maturity. The market price per preference share is Rs. 106. 
+Downloaded from castudyweb.com
+<<PAGE 2>>
+2 
+(iii)  Equity share has Rs. 4 floatation cost and market price per share of Rs. 24. 
+The next year expected dividend is Rs. 2 per share with an annual growth of 
+5%. The firm has a practice of paying all earnings in the form of dividends. 
+(iv)  Corporate Income-tax rate is 35%. 
+Since the company is a multinational company market value weights are preferred 
+over book value weights when calculating the Weighted Average Cost of Capital 
+(WACC) for several reasons. The company believes that market values reflect the 
+current market perception of a company's financial health and future prospects. 
+This is more relevant for calculating the cost of capital today, as investors base 
+their decisions on current market conditions. Book values, based on historical 
+accounting principles, may not accurately represent the true economic value of the 
+company's capital components. Market values capture the actual cost that a 
+company would incur if it were to raise new capital in the current market. Book 
+values might not reflect the true cost of debt due to factors like changes in interest 
+rates or creditworthiness. Similarly, book value of equity might not reflect the 
+current investor expectations for future dividends and growth. Market values are 
+readily available through stock prices and market interest rates. Obtaining accurate 
+book values, especially for intangible assets, can be a complex and time-
+consuming process. 
+On the basis of this information provided above you are required to answer the 
+following MCQs (1 to 5): 
+1.  
+Calculate the cost of equity and choose the correct answer from the following? 
+(a)  14% 
+(b)  15% 
+(c)  16% 
+(d)  17% 
+2.  
+Calculate the cost of debt and choose the correct answer from the following? 
+(a)  6.11% 
+(b)  5.48% 
+(c)  9% 
+(d)  10.55% 
+3.  
+Calculate the cost of preference shares and choose the correct answer from 
+the following? 
+(a)  10.57 % 
+(b)  5.11% 
+(c)  9% 
+(d)  10% 
+4.  
+Calculate the WACC using market value weights and choose the correct 
+answer from the following? 
+(a)  12.80 % 
+Downloaded from castudyweb.com
+<<PAGE 3>>
+3 
+(b)  5.11% 
+(c)  9% 
+(d)  10.55% 
+5.  
+What will be the current market price of MNP Ltd.’s equity shares if Ke = 10%, 
+expected dividend is Rs. 2 per share and annual growth rate is 5% from the 
+following options: 
+(a)  40 per share 
+(b)  20 per share 
+(c)  30 per share 
+(d)  45 per share 
+ (5 x 2 = 10 Marks) 
+6. 
+EBIT 
+= 4,00,000 
+EBT 
+= 3,00,000   
+Sales  = 16,00,000 
+Which of the following is / are correct? 
+1. 
+DFL is 1.33 
+2. 
+Interest coverage ratio is 3 
+3. 
+Operating profit margin is 25% 
+Select the correct answer using the code given below: 
+(a) 
+1, 2 and 3 
+(b) 
+1 and 2 only 
+(c) 
+1 and 3 only 
+(d) 
+3 only 
+(2 Marks) 
+7. 
+If velocity of stock is 3 months, annual sales amount to Rs.6 lakh at 20% gross 
+profit margin and opening stock is Rs.90,000; what is the closing stock value? 
+(a) 
+Rs. 90,000 
+(b) 
+Rs. 70,000 
+(c) 
+Rs. 1,50,000 
+(d) 
+Rs. 1,00,000 
+(2 Marks) 
+8.  
+Margin of safety is affected if: 
+1. 
+P/V ratio changes 
+2. 
+Fixed cost changes 
+3. 
+Volume of sales changes 
+(a) 
+1 only 
+(b) 
+1 and 2 only 
+(c) 
+2 and 3 only 
+(d) 
+1, 2 and 3 
+(1 Mark) 
+Downloaded from castudyweb.com
+<<PAGE 4>>
+4 
+PART II – Descriptive Questions (35 Marks) 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+1. 
+(a)  The financial statement and operating results of Alpha Limited revealed 
+the following position as on 31st March, 2023: 
+— 
+Equity share capital (Rs. 10 fully 
+paid share) 
+Rs. 20,00,000 
+— 
+Working capital 
+Rs.  6,00,000 
+— 
+Bank overdraft 
+Rs.  1,00,000 
+— 
+Current ratio 
+           2.5 : 1 
+— 
+Liquidity ratio 
+1.5 : 1 
+— 
+Proprietary ratio (Net fixed 
+assets/Proprietary fund) 
+.75 : 1 
+— 
+Cost of sales 
+Rs. 14,40,000 
+— 
+Debtors velocity 
+2 months 
+— 
+Stock turnover based on cost of 
+sales 
+4 times 
+— 
+Gross profit ratio 
+20% of sales 
+— 
+Net profit ratio 
+15% of sales  
+Closing stock was 25% higher than the opening stock. There were also 
+free reserves brought forward from earlier years. Current assets include 
+stock, debtors and cash only. The current liabilities expect bank overdraft 
+treated as creditors. 
+Expenses include depreciation of Rs. 90,000. 
+ 
+The following information was collected from the records for the year 
+ended 31st March, 2024: 
+— Total sales for the year were 20% higher as compared to previous 
+year. 
+— Balances as on 31st March, 2024 were : Stock Rs. 5,20,000, 
+Creditors Rs. 4,15,000, Debtors Rs. 4,95,000 and Cash balance 
+Rs. 3,10,000. 
+— Percentage of Gross profit on turnover has gone up from 20% to 
+25% and ratio of net profit to sales from 15% to 16%. 
+— A portion of Fixed assets was very old (book values Rs. 1,80,000)  
+disposed for Rs. 90,000. (No depreciations to be provided on this 
+item). 
+— Long-term investments were purchased for Rs. 2,96,600. 
+— Bank overdraft fully discharged. 
+Downloaded from castudyweb.com
+<<PAGE 5>>
+5 
+— Percentage of depreciation to Fixed assets to be provided at the 
+rate in the previous year. 
+ 
+PREPARE Balance Sheet as on 31st March, 2023 and 31st March, 2024. 
+ 
+(5 Marks) 
+(b)   Theta Limited is expecting an annual earning of Rs. 3 Lakhs before 
+paying any interest and taxes. The company has Rs. 10 lakhs of 10% 
+debentures in its capital structure. The capitalisation rate is 12.5%. You 
+are required to calculate the value of Theta Limited as per the NI 
+approach. Also, COMPUTE the overall cost of capital. 
+(5 Marks) 
+(c)  The following data relates to Beta Limited:  
+ 
+ 
+Rs. 
+ 
+Sales 
+ 2,00,000 
+ 
+Less: Variable Expenses (30%) 
+ 60,000 
+ 
+Contribution  
+1,40,000 
+ 
+Fixed operating expenses 
+1,00,000 
+ 
+EBIT  
+40,000 
+ 
+Less: Interest 
+  5,000 
+ 
+EBT 
+35,000 
+(i)  
+CALCULATE by what percentage will EBT increase if sales increases 
+by 6 percent. 
+ 
+(ii)  CALCULATE by what percentage will EBIT increase if there is 10 per 
+cent increase in sales?  
+(iii)  CALCULATE by what percentage EBT increase if EBIT increases by 
+6 per cent? 
+(5 Marks) 
+2. 
+(a)  ABC Ltd., a newly formed company has applied to the Private Bank for 
+the first time for financing it’s Working Capital Requirements. The 
+following information is available about the projections for the current 
+year: Estimated Level of Activity Completed Units of Production 31,200. 
+Raw Material Cost 
+Rs 40 per unit 
+Direct Wages Cost 
+Rs 25 per Unit 
+Overhead 
+Rs 40 per Unit (Incl Rs 10 of 
+Depreciation) 
+Selling Price 
+Rs 150 per unit 
+GP Ratio (Cash Cost) 
+30%  
+Net Profit Ratio 
+25% (On Total cost) 
+Raw Material in Stock 
+Avg of 30 days consumption 
+Work in Progress Stock at 30% of FG 
+Produced Units 
+**Valued at Prime Cost 
+Material – 90% into process 
+Downloaded from castudyweb.com
+<<PAGE 6>>
+6 
+ 
+Relevant Conversion Cost – 
+60% completed 
+Finished Goods Stock 
+2,500 units 
+Credit Allowed by the supplier 
+30 Days 
+Credit Allowed to Purchasers 
+45 Days 
+Direct Wages [Lag in payment] 
+15 Days 
+Expected Cash Balance 
+1,25,000 
+ 
+Safety margin is to be kept at 15% of the net working capital required 
+inclusive of the margin amount. Assume that production is carried on 
+evenly throughout the year (360 days) and wages and overheads accrue 
+similarly. All sales are on the credit basis. You are required to 
+CALCULATE the Net Working Capital Requirement. 
+(6 Marks) 
+(b)  Return on Equity (ROE) is Satva Limited is 15% and the capitalization 
+rate applicable to the company is at 20%. Satva Limited’s Book Value 
+per share (BVPS) is Rs 125. Calculate the intrinsic value of the share 
+today using Gordon’s model and Walter’s model  if the company’s policy 
+is to retain 65% of the earning. 
+(4 Marks) 
+3.  
+Hemsparsh Private Limited is globally recognized consultancy firm having its 
+presence in various countries across the globe and is currently headquartered 
+at Ahmedabad, India.  
+It plans to commence a new branch in the Australia owing to the untapped 
+opportunities available there in the outsourcing business. The company hired 
+a professional for the preparation of the Project report and the fee paid was 
+Rs 2,00,000. The company also incurred Rs 5,00,000 in the form R&D costs. 
+As per the project report, the Company will require an initial fund outlay of Rs 
+25 crores for buying property & setting up the other infrastructure. It will also 
+require working capital amounting to Rs 5 crore. The company is planning to 
+operate for a very long period of time, however for the sake of simplicity, 
+calculations shall end at the end of the 10th year. The Earnings before tax but 
+after deducting Interest Exp (EBT) estimated would be as follows –  
+YEAR     EBT (Amount in Rs) 
+1 
+         2,00,00,000  
+2 
+         2,50,00,000  
+3 
+         4,00,00,000  
+4 
+         4,75,00,000  
+5 
+         6,00,00,000  
+6 
+         6,40,00,000  
+7 
+         6,15,00,000  
+8 
+         5,25,00,000  
+9 
+         3,80,00,000  
+10 
+         2,90,00,000  
+Downloaded from castudyweb.com
+<<PAGE 7>>
+7 
+The above amounts also include an allocated common cost of Rs 12,50,000. 
+Company will distribute 10% dividends every year on post-tax earnings. 
+Company intends to borrow funds of 3 crores at a post-tax Interest rate of 
+6.5% in India. As per the tax treaty between India & Australia (Tax Agreement 
+between two nations), first 3 years are tax free and from 4th year 75% of 
+corporate taxes are to be paid in the country where it is headquartered and 
+balance in the other nation. Total Corporate tax rate applicable to the 
+company is 30%. However, tax on capital gains is to be paid at 15%, only in 
+the headquarters. Salvage value for depreciation purpose is estimated at Rs. 
+90,00,000. The assets would be disposed of in the market at Rs. 3,50,00,000 
+at the end. Hemsparsh Private Limited desires a premium of 3% to the current 
+MCLR of 12% (Marginal Cost of Funds based Lending Rate).  Assume no 
+other assets in the block. 
+CALCULATE NPV for the project and advise only from Indian law perspective. 
+If the company wishes to recoup its investment within 3.5 years, STATE any 
+two measures that the company shall take. 
+ (10 Marks) 
+4.  
+(a) 
+EXPLAIN the difference between factoring and forfaiting  
+(4 Marks) 
+ 
+(b)  DESCRIBE some of the tasks that demonstrate the importance of good 
+financial management                                   
+(4 Marks) 
+ 
+(c)  EXPLAIN the concept of Drop – Lock Bond (DL Bonds)  
+(2 Marks) 
+OR 
+ 
+(c)  MENTION any one advantage of stock dividend – to the company as well 
+as to the investor                                                    
+(2 Marks) 
+Downloaded from castudyweb.com
+<<PAGE 8>>
+8 
+PAPER 6B: STRATEGIC MANAGEMENT 
+1. 
+The question paper comprises two parts, Part I and Part II. 
+2. 
+Part I comprises case scenario based multiple choice questions (MCQs) 
+3. 
+Part II comprises questions which require descriptive type answers. 
+PART I – Case scenario based MCQs (15 Marks) 
+Question 1. (A) (Compulsory) 
+1.  
+(A)  Galaxy 
+Enterprises 
+Limited 
+(GEL) 
+operates 
+as 
+a 
+diversified 
+conglomerate with a significant presence in various industries, including 
+electronics, packaged foods, textiles, heavy machinery, and renewable 
+energy. Leveraging its substantial free reserves of ₹85,000 crores, GEL 
+has built a strong brand reputation, largely driven by its market 
+leadership across multiple sectors. 
+ 
+In the renewable energy sector, GEL has been the industry leader for 
+over 15 years. The division’s recent performance has been exceptional. 
+A significant market development occurred when two competitors, Nova 
+Green Energy Limited and Zenith Solar Limited – previously ranked 
+second and third in market share, respectively – merged to create a new 
+entity, Synergy Renewables Ltd (SRL). Following the merger, SRL has 
+claimed the top spot in market share, intensifying competition. 
+ 
+Against this backdrop, the Chairman of GEL convened a strategic 
+meeting with the Board of Directors, divisional heads, marketing 
+executives, and the Group CFO. The meeting focused on formulating 
+growth strategies for the renewable energy division, identifying 
+opportunities for diversification, and announcing an interim dividend in 
+honour of GEL’s platinum jubilee celebrations. 
+ 
+Mr. Arvind Malhotra, CEO of the renewable energy division, emphasized 
+the industry's slow pace of modernization compared to global standards. 
+He highlighted the potential in emerging product categories, such as 
+next-generation solar panels, energy storage systems, and advanced 
+wind turbines. He proposed a modernization initiative requiring an 
+investment of ₹7,000 crores. This transformation is projected to reduce 
+operational costs by 20% and minimize wastage by 12%. 
+ 
+The CFO presented an analysis revealing that competitors are unlikely 
+to invest in significant upgrades or expansions for the next 6–8 years 
+due to financial constraints. In response, the Board approved the 
+modernization initiative and allocated an additional ₹1,500 crores to 
+strengthen the division's supply chain. 
+ 
+Another proposal discussed was GEL’s entry into the electric vehicle 
+(EV) segment. The Board approved this diversification strategy, 
+allocating ₹8,000 crores to establish a foothold in this rapidly growing 
+Downloaded from castudyweb.com
+<<PAGE 9>>
+9 
+market. Additionally, the Board authorized the distribution of an interim 
+dividend of ₹75 per share to commemorate GEL’s platinum jubilee. 
+ 
+In preparing for these strategic initiatives, the Board also evaluated key 
+stakeholders to determine their influence and interest. Shareholders and 
+the Board of Directors emerged as primary stakeholders with both high 
+influence and interest, necessitating active engagement to secure their 
+support. Regulatory authorities were recognized as influential but less 
+interested in the immediate plans, requiring regular updates to ensure 
+compliance. Customers and employees, while not as powerful, were 
+identified as highly interested stakeholders, particularly concerning the 
+renewable energy division’s modernization and the entry into the EV 
+market. 
+Based on the above Case Scenario, answer the Multiple-Choice Questions. 
+(i)  
+GEL has approved significant investments in modernizing its renewable 
+energy division and entering the electric vehicle segment. Analyze the level 
+of strategy these decisions represent and identify the correct justification for 
+your answer. 
+(a)  Functional level, as these are related to operational improvements within 
+the renewable energy division. 
+(b)  Business level, as these initiatives align with the goals of a single division 
+to gain a competitive edge. 
+(c)  Corporate level, as they involve decisions impacting the overall portfolio 
+and diversification of GEL. 
+(d)  Operational level, as these focus on day-to-day activities within the 
+divisions.  
+(2 Marks) 
+(ii)  With the merger of Nova Green Energy Limited and Zenith Solar Limited into 
+Synergy Renewables Ltd (SRL), how does this development influence GEL’s 
+strategic priorities in the renewable energy sector under Porter’s Five Forces 
+framework? 
+(a)  The merger reduces the threat of substitutes by consolidating competing 
+technologies. 
+(b)  It increases the bargaining power of buyers by providing them with a 
+stronger alternative supplier. 
+(c)  It heightens the intensity of industry rivalry by creating a stronger 
+competitor with greater market share. 
+(d)  The merger strengthens the bargaining power of suppliers due to greater 
+reliance on key inputs. 
+(2 Marks) 
+(iii)  GEL’s decision to enter the EV market represents a diversification strategy. 
+Evaluate which type of diversification strategy is being pursued and the 
+reasoning behind this classification. 
+(a)  Concentric diversification, as the EV market shares synergies with 
+renewable energy technologies. 
+Downloaded from castudyweb.com
+<<PAGE 10>>
+10 
+(b)  Vertical integration, as GEL seeks to integrate upstream or downstream 
+activities in the automotive value chain. 
+(c)  Horizontal diversification, as GEL expands into a market unrelated to its 
+existing renewable energy operations. 
+(d)  Conglomerate diversification, as GEL enters an entirely unrelated and 
+independent business segment. 
+(2 Marks) 
+(iv)  GEL identified shareholders and the Board of Directors as key stakeholders. 
+Analyze the rationale for classifying them as both high influence and high 
+interest and how this influences strategic communication. 
+(a)  They directly impact compliance with regulatory standards, necessitating 
+regular updates. 
+(b) 
+ Their vested interest in dividends and long-term value creation makes 
+their engagement essential for approval of key initiatives. 
+(c)  They represent the end consumers whose perceptions directly influence 
+GEL’s market reputation. 
+(d)  Their role in operational execution requires constant communication and 
+support for strategy implementation. 
+(2 Marks) 
+(v)  By approving modernization in renewable energy and diversification into EVs, 
+what corporate strategy is GEL pursuing, and how does it position the 
+company as per Ansoff’s product market growth matrix? 
+(a)  Cost leadership, to lower operational expenses and offer competitive 
+pricing. 
+(b)  Product differentiation, by leveraging innovation in both existing and new 
+markets. 
+(c)  Market penetration, through deeper investments in existing product 
+lines. 
+(d)  Market expansion and diversification, to capture growth opportunities 
+across unrelated industries. 
+(2 Marks) 
+(B)  Compulsory Application Based Independent MCQs 
+(i)  
+Harish, a middle manager, is confused about the difference between flexibility 
+and resilience while working around an uncertain situation in the organization. 
+Can you help find the right difference between the two? 
+(a) 
+Flexibility is about adapting to new things quickly, while resilience is 
+about holding on to the current position of the things for the short-term 
+as the organisation is confident of its efficiencies. 
+(b) 
+Flexibility is a subset of resilience, and to be flexible means to be 
+resilient. 
+(c) 
+Flexibility is the opposite of resilience, where, if the organisation is 
+flexible, it changes and if it is resilient it doesn’t change at all. 
+(d) 
+Both are the same.  
+(2 Marks) 
+Downloaded from castudyweb.com
+<<PAGE 11>>
+11 
+(ii) 
+ Suman, the marketing head of Jalwa Music Co., was doing research on the 
+online music streaming business in India for her new age music for 
+youngsters. She analyzed that though the players in the market were 
+innovating rapidly, it was difficult to maintain a sustainable competitive 
+advantage. Which aspect of strategic management best reflects this 
+challenge? 
+(a)  The need for continuous innovation.  
+(b)  The importance of understanding the competitive landscape.  
+(c)  The dynamic and unpredictable nature of the industry.  
+(d)  The difficulty in estimating competitors' responses.  
+(2 Marks) 
+(iii)  During which stage of the Product Life Cycle would you typically expect the 
+highest marketing expenditure per unit sold as companies aggressively 
+promote their product? 
+(a)  Maturity 
+(b)  Introduction 
+(c)  Growth 
+(d)  Decline 
+(1 Mark) 
+PART II – Descriptive Questions (35 Marks) 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+1.  
+(a)  Jupiter Electronics Ltd. is known for its ability to come out with path-
+breaking products. Though the work environment at Jupiters is relaxed 
+and casual, there is a very strong commitment to deadlines. The 
+employees believe in a “work hard play hard" ethic. The organisation has 
+moved away from formal and hierarchical set up to a more results-driven 
+approach. Employees are committed to strategies and work towards 
+achieving them. They guard innovations, maintain confidentiality and 
+secrecy in their work. They are closely related to values, practices, and 
+norms of organisations. What aspects of an organization are being 
+discussed? Explain. 
+(5 Marks) 
+(b) 
+Reshuffle Corp is a company that manufactures and sells office furniture. 
+They offer a range of products, from desks and chairs to cabinets and 
+shelves. Recently, the company has been facing increased competition 
+from online retailers offering similar products at lower prices. 
+ 
+Analyzing the characteristics of products in the furniture industry, 
+discuss how Reshuffle Corp can differentiate its products to maintain a 
+competitive edge in the market.  
+     (5 Marks) 
+(c)  A business consultancy firm focuses on providing specialized services 
+in environmental management consultancy. It assists client companies 
+in establishing robust environmental management accounting systems 
+Downloaded from castudyweb.com
+<<PAGE 12>>
+12 
+for the measurement, recording, and analysis of environmental costs. A 
+significant portion of the firm’s operations involve conducting 
+environmental audits to verify compliance with international assurance 
+standards in environmental management—an exclusive service not 
+offered by its competitors. While the firm also undertakes other 
+management consultancy projects, these constitute only a minor share 
+of its total annual revenue. Identify the strategy categories by Michael 
+Porter which best describes the strategy of this firm. 
+(5 Marks) 
+2.  
+(a)  Analyze the role of Key Success Factors (KSFs) in determining 
+competitive success within an industry. 
+(5 Marks) 
+(b)  How the 'Strategic Business Unit’ (SBU), structure becomes imperative 
+in an organization with increase in number, size and diversity of 
+divisions? 
+(5 Marks) 
+3. 
+(a)  Rohit Patel has a small chemist shop in the central part of Ahmedabad. 
+What kind of competencies Rohit can build to gain competitive 
+advantage over online medicine sellers? 
+(5 Marks) 
+(b)  Distinguish between Vision and Mission. 
+(5 Marks) 
+4.  
+(a)  Vikram Patel owns a chain of ten bookstores across the Mumbai region. 
+Three of these stores were launched in the past two years. He has 
+always believed in strategic management and enjoyed robust sales of 
+books, magazines, and educational materials until about five years ago. 
+However, with the increasing preference for online shopping, the sales 
+at his physical stores have declined by approximately sixty percent over 
+the last five years. Analyze Vikram Patel's current position in light of the 
+limitations of strategic management. 
+(5 Marks) 
+(b)  Explain the strategic implications of each of the following types of 
+business in a corporate portfolio:  
+(a)  Stars  
+(b)  Question Marks  (c)  Cash Cows  
+(d)  Dogs  
+OR 
+Strategic alliances are formed if they provide an advantage to all the 
+parties in the alliance. Do you agree? Explain in brief the advantages of 
+a strategic alliance. 
+(5 Marks) 
+Downloaded from castudyweb.com

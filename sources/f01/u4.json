@@ -1,0 +1,154 @@
+{
+ "confusing": [
+  {"title": "Profit maximisation vs wealth maximisation", "headers": ["Basis", "Profit maximisation", "Wealth maximisation"],
+   "rows": [["Objective", "Large amount of profits", "Highest market value of shares"], ["Measure", "Accounting profit", "Cash flows, cost-benefit, time value of money (PV benefits − PV costs)"], ["Risk", "Ignored", "Recognised"], ["Timing of returns", "Ignored", "Recognised"], ["Horizon", "Short-term gains", "Long-term gains"], ["Weakness", "Vague, narrow, requires immediate resources", "No clear link between decisions and share price; management anxiety"]],
+   "spot_it": "Words like 'this year's profit', 'cut costs aggressively', 'postpone repairs' signal profit maximisation; 'long-term cash flows', 'brand loyalty', 'share price' signal wealth maximisation."},
+  {"title": "Financial distress vs insolvency", "headers": ["Basis", "Financial distress", "Insolvency"],
+   "rows": [["Meaning", "Cash inflows inadequate to meet all current obligations", "Inability of a firm to repay various debts"], ["Relationship", "The cause, if it continues", "The result of continuous distress"], ["Typical event", "Creditors put pressure; interest burden", "Assets sold at lower prices; obligations still unmet"]],
+   "spot_it": "'Cannot pay this quarter's dues' = distress; 'after years of stress, cannot repay debts even after selling assets' = insolvency."},
+  {"title": "Accounting vs financial management", "headers": ["Basis", "Accounting", "Financial management"],
+   "rows": [["Treatment of funds", "Accrual principle", "Cash flows"], ["Chief focus", "Collect and present data", "Planning, controlling and decision making"], ["Relationship", "Necessary input to FM", "Begins where accounting ends"]],
+   "spot_it": "'Profitable but short of cash' shows why FM looks at cash flows, not accrual profit."},
+  {"title": "Treasurer vs Controller", "headers": ["Treasurer", "Controller"],
+   "rows": [["Cash Manager", "Financial Accounting Manager"], ["Credit Manager", "Cost Accounting Manager"], ["Capital Budgeting Manager", "Tax Manager"], ["Fund Raising Manager", "Data Processing Manager"], ["Portfolio Manager", "Internal Auditor"]],
+   "spot_it": "Money in, money out and investment → Treasurer; records, costs, tax and checks → Controller."},
+  {"title": "Importance of FM vs scope of FM", "headers": ["Importance (SM §5): seven tasks", "Scope (SM §6): Ezra Solomon's four aspects"],
+   "rows": [["Not over-investing in fixed assets", "Size of enterprise and rate of growth"], ["Balancing cash outflows and inflows", "Composition of assets"], ["Sufficient short-term working capital", "Mix of financing (debt to equity)"], ["Sales revenue targets; correct pricing; controlling admin expenses; tax planning", "Analysis, planning and control of financial affairs"]],
+   "spot_it": "'Tasks that show importance' → left column; 'Ezra Solomon' or 'what FM studies' → right column."}
+ ],
+ "cases": [
+  {"id": "CASE-F01-INT-1", "title": "Integrated Case 1 — Sunrise Ceramics Ltd.",
+   "facts": [
+    "Sunrise Ceramics Ltd. is a listed tile maker. Its promoters no longer run the business; a professional CEO and CFO do. The CEO's bonus depends only on the current year's accounting profit.",
+    "To show higher profit this year, the CEO postponed the major repair of a kiln and cut advertising sharply. Profit rose 18%, but analysts warn that sales and the kiln's life will suffer in coming years, and the share price has fallen 12%.",
+    "The CFO proposes two changes: link the CEO's bonus to the company's long-term objectives and share price, and appoint an independent agency to review large management decisions.",
+    "Separately, the company's bank has inserted a clause in its term-loan agreement that management cannot borrow more than ₹150 crore in total."
+   ],
+   "questions": [
+    {"q": "The CEO's action of postponing kiln repairs to boost this year's profit is best described as:", "options": {"A": "Wealth maximisation, as profit is part of wealth", "B": "Value creation, as costs are saved", "C": "Profit maximisation at the expense of long-term wealth maximisation", "D": "Risk management, as assets are protected"}, "answer": "C", "reasoning": ["SM §8: profit maximisation can be achieved in the short term at the expense of long-term wealth maximisation, e.g. postponing major repairs or replacement hurts long-term profitability.", "The falling share price confirms that shareholder wealth is not being maximised."]},
+    {"q": "The situation in which the professional CEO pursues his bonus instead of the shareholders' interest reflects:", "options": {"A": "Financial distress", "B": "Operating leverage", "C": "Insolvency", "D": "Agency problem"}, "answer": "D", "reasoning": ["SM §12: in corporates there is separation between owners and managers; agency problem is the chance that managers place personal goals ahead of owners' goals."]},
+    {"q": "The fee to be paid to the independent agency that reviews management decisions is an example of which type of agency cost?", "options": {"A": "Monitoring cost", "B": "Structuring cost", "C": "Opportunity cost", "D": "Bonding cost"}, "answer": "A", "reasoning": ["Agency cost is the additional cost borne by shareholders to monitor managers and control their behaviour; paying an agency to review decisions is monitoring."]},
+    {"q": "The bank's ₹150 crore borrowing limit is best described as:", "options": {"A": "A dividend decision", "B": "A negative covenant addressing the agency problem with debt lenders", "C": "Evidence of insolvency", "D": "A non-fund based bank facility"}, "answer": "B", "reasoning": ["SM §12: the agency problem of debt lenders is addressed by imposing negative covenants, i.e. managers cannot borrow beyond a point."]},
+    {"q": "Advise the board of Sunrise Ceramics Ltd.: which objective should guide the CEO, and what measures should be used to align his interests with the shareholders'?", "marks": 5, "answer": "Wealth maximisation should guide the CEO; align interests by linking compensation to profit and long-term objectives, using stock-price-linked employee schemes, effective monitoring, and negative covenants for lenders.", "reasoning": [
+     "Profit maximisation is at best a limited objective: it ignores risk and the timing of returns and is too narrow; postponing repairs is short-sighted.",
+     "Wealth maximisation (highest market value of shares) recognises risk and timing and emphasises long-term gains; in an uncertain, multi-period world it is the better objective.",
+     "The CEO's behaviour is an agency problem; the resulting agency cost (monitoring, bonding, opportunity, structuring) is borne by shareholders.",
+     "Measures: link managerial compensation to profit to some extent and to long-term objectives; use employee schemes tied to stock price; ensure effective monitoring (the independent review).",
+     "Lenders' interests are protected through negative covenants such as the borrowing limit."
+    ]}
+   ],
+   "concepts": ["F01.07.01", "F01.08", "F01.12"],
+   "trap": "The 18% profit rise looks like success, but the share price fall shows wealth is being destroyed."},
+  {"id": "CASE-F01-INT-2", "title": "Integrated Case 2 — GreenLeaf Foods Pvt. Ltd.",
+   "facts": [
+    "GreenLeaf Foods is a three-year-old start-up. Banks refused it a loan and it is too small for venture capital funds, so a wealthy individual invested ₹60 lakh for a 30% stake.",
+    "Last year it reported an accounting profit of ₹25 lakh, but ₹40 lakh of sales remained uncollected from a large retailer. It could not pay suppliers and salaries on time for two months.",
+    "The founders plan to import a packing machine, pay for it in euros, and are worried about exchange-rate movements.",
+    "Their accountant says: 'We are profitable, so we cannot be in financial trouble.' The new CFO disagrees and says her job goes beyond preparing accounts."
+   ],
+   "questions": [
+    {"q": "The ₹60 lakh raised from the wealthy individual for a 30% stake is:", "options": {"A": "Venture capital financing", "B": "Term loan", "C": "International funding through FDI", "D": "Angel financing"}, "answer": "D", "reasoning": ["SM §2.1(e): angel financing is equity financing by a wealthy individual for start-up or expansion; often the last option for start-ups that do not qualify for bank funding and are too small for venture capital."]},
+    {"q": "GreenLeaf's inability to pay suppliers and salaries on time despite accounting profit indicates:", "options": {"A": "Insolvency, as it cannot repay any debt", "B": "Profit maximisation", "C": "Financial distress, as cash inflows are inadequate to meet current obligations", "D": "Over-investment in fixed assets"}, "answer": "C", "reasoning": ["SM §10: financial distress is a position where cash inflows are inadequate to meet all current obligations; insolvency results only if distress continues and revenue cannot revive the situation."]},
+    {"q": "The accountant's view ('profitable, so no trouble') ignores that:", "options": {"A": "Accounting uses cash flows while FM uses accruals", "B": "Accrual-based accounting data do not fully reflect financial condition; FM uses cash flows", "C": "Financial management ends where accounting begins", "D": "Accounting is a supportive, not primary, discipline for FM"}, "answer": "B", "reasoning": ["SM §11.1: accrual data do not fully reflect the financial condition; a firm profitable in the accounting sense may fail to meet current obligations due to uncollectible receivables. FM treats funds on a cash flow basis."]},
+    {"q": "Protecting the euro payment from exchange-rate movements through a protective procedure is part of which finance decision in the study material?", "options": {"A": "Financing decision (hedging currency risk)", "B": "Dividend decision", "C": "Working capital management only", "D": "Evolution of FM"}, "answer": "A", "reasoning": ["SM §4(b): financing decisions call for evaluation of risk; in overseas trading the firm is vulnerable to currency fluctuations and the manager must know protective procedures such as hedging."]},
+    {"q": "Explain to GreenLeaf's founders how financial management differs from accounting, and why the CFO's role goes beyond preparing accounts.", "marks": 5, "answer": "FM uses cash flows and focuses on planning, control and decisions; accounting uses accruals and presents data. FM begins where accounting ends, and today's CFO is a strategic partner who plans, invests, finances, manages resources and risk.", "reasoning": [
+     "Treatment of funds: accounting uses the accrual principle, so profits may exist while cash is stuck in receivables; FM recognises revenue when cash is received and expenses when paid, helping avoid insolvency.",
+     "Decision-making: an accountant's chief focus is to collect and present data; the financial manager's primary responsibility is financial planning, controlling and decision-making. FM begins where accounting ends.",
+     "Finance executive's responsibilities: financial analysis and planning (size and growth), investment decisions, financing and capital structure decisions, management of financial resources (working capital), and risk management (protecting assets, e.g. hedging currency risk).",
+     "Today the CFO is a strategic business partner of the CEO, not confined to accounting and reporting."
+    ]}
+   ],
+   "concepts": ["F01.02.01", "F01.04", "F01.09", "F01.10", "F01.11.01"],
+   "trap": "Accounting profit does not mean there is enough cash."}
+ ],
+ "chapter_test": {
+  "mcqs": [
+   {"id": "CT-MCQ-F01-01", "question": "Value of a firm, as per the study material, is expressed as a function of:", "options": {"A": "Sales, costs and taxes", "B": "Equity, debt and reserves", "C": "Investment, financing and dividend decisions", "D": "Profit, liquidity and solvency"}, "answer": "C", "explanation": "SM §4: V = f (I, F, D)."},
+   {"id": "CT-MCQ-F01-02", "question": "Which source of funds is best from the risk point of view but usually the most expensive?", "options": {"A": "Debentures", "B": "Bank overdraft", "C": "Trade credit", "D": "Equity"}, "answer": "D", "explanation": "SM §2.1(a): equity need not be repaid except on liquidation, but dividend expectations are high and dividends are not tax-deductible."},
+   {"id": "CT-MCQ-F01-03", "question": "Early in the history of finance, an important issue was:", "options": {"A": "Liquidity", "B": "Technology", "C": "Capital structure", "D": "Financing options"}, "answer": "A", "explanation": "SM MCQ 9 key (a): liquidity."},
+   {"id": "CT-MCQ-F01-04", "question": "Which of the following need NOT be followed by the finance manager for measuring and maximising shareholders' wealth?", "options": {"A": "Cash flow approach", "B": "Accounting profit analysis", "C": "Cost-benefit analysis", "D": "Application of time value of money"}, "answer": "B", "explanation": "SM §7.2 and SM MCQ 12: follow cash flow approach (not accounting profit), cost-benefit analysis and time value of money."},
+   {"id": "CT-MCQ-F01-05", "question": "Which is a disadvantage of the shareholders' wealth maximisation goal?", "options": {"A": "Emphasises short-term gains", "B": "Ignores timing of returns", "C": "Offers no clear relationship between financial decisions and share price", "D": "Requires immediate resources"}, "answer": "C", "explanation": "SM §8 table and SM MCQ 6: wealth maximisation offers no clear relationship between decisions and share price and can cause management anxiety and frustration."},
+   {"id": "CT-MCQ-F01-06", "question": "The shareholder value maximisation model holds that the primary goal of the firm is to maximise its:", "options": {"A": "Accounting profit", "B": "Liquidity", "C": "Working capital", "D": "Market value"}, "answer": "D", "explanation": "SM §7.2 and SM MCQ 3: market value."},
+   {"id": "CT-MCQ-F01-07", "question": "Agency cost is best defined as:", "options": {"A": "The additional cost borne by shareholders to monitor managers and control their behaviour", "B": "The salary paid to the chief executive", "C": "The interest paid to lenders", "D": "The cost of issuing new shares"}, "answer": "A", "explanation": "SM §12."},
+   {"id": "CT-MCQ-F01-08", "question": "Management of all matters related to an organisation's finances is called:", "options": {"A": "Cash inflows and outflows", "B": "Financial management", "C": "Allocation of resources", "D": "Finance"}, "answer": "B", "explanation": "SM §5 and SM MCQ 5: financial management."},
+   {"id": "CT-MCQ-F01-09", "question": "Which is a responsibility of the finance executive under 'risk management' in the study material?", "options": {"A": "Designating the size of the firm", "B": "Allocating funds to specific assets", "C": "Protecting assets", "D": "Determining the composition of liabilities"}, "answer": "C", "explanation": "SM §9(e): risk management = protecting assets."},
+   {"id": "CT-MCQ-F01-10", "question": "In the modern phase of financial management:", "options": {"A": "FM was needed only for mergers and liquidation", "B": "Only day-to-day funds analysis mattered", "C": "Outsiders' needs dominated all decisions", "D": "Theories on efficient markets, option pricing and valuation models were developed, and the phase is still going on"}, "answer": "D", "explanation": "SM §3."},
+   {"id": "CT-MCQ-F01-11", "question": "Profit maximisation and wealth maximisation amount to essentially the same when:", "options": {"A": "The time period is short and uncertainty is not great", "B": "The company is unlisted", "C": "The company has no dividend policy", "D": "Accounting follows the accrual basis"}, "answer": "A", "explanation": "SM §8."},
+   {"id": "CT-MCQ-F01-12", "question": "Letters of credit and guarantees provided by commercial banks are:", "options": {"A": "Fund based lending services", "B": "Non-fund based lending services", "C": "Forms of angel financing", "D": "International funding routes"}, "answer": "B", "explanation": "SM §2.1(c) chart: fund based = cash credit, overdraft, term loans, working capital term, bill purchase/discounting; non-fund based = guarantee, letters of credit."}
+  ],
+  "descriptive": [
+   {"id": "CT-D-F01-01", "marks": "4", "question": "\"Wealth maximisation is a better objective than profit maximisation.\" Discuss, giving the limitations of profit maximisation and the advantages of wealth maximisation.", "answer_points": ["Profit maximisation cannot be the sole objective; it is at best a limited objective.", "Limitations: the term profit is vague; it ignores risk (direct relationship between risk and profit); it ignores the time pattern of returns; it is too narrow and ignores social considerations.", "Wealth maximisation aims at the highest market value of shares; wealth = PV of benefits − PV of costs using cash flows and time value of money.", "Advantages: emphasises long-term gains, recognises risk or uncertainty, recognises timing of returns, considers shareholders' return.", "It is generally in accord with the interests of owners, employees, creditors and society."], "conclusion": "Owing to the limitations of profit maximisation, in today's uncertain and multi-period world wealth maximisation is a better objective.", "keywords": ["limited objective", "highest market value of shares", "uncertain and multi-period"]},
+   {"id": "CT-D-F01-02", "marks": "2", "question": "Define financial distress and state how it can lead to insolvency.", "answer_points": ["Financial distress is a position where cash inflows of a firm are inadequate to meet all its current obligations.", "If it continues for a long period, the firm may have to sell assets, often at lower prices; when revenue cannot revive the situation, the firm cannot meet its obligations and becomes insolvent. Insolvency is the result of continuous financial distress."], "keywords": ["cash inflows inadequate", "insolvency"]},
+   {"id": "CT-D-F01-03", "marks": "4", "question": "Explain the agency problem, agency cost and the ways to address it.", "answer_points": ["Separation of owners and managers in corporates creates a principal–agent relationship; managers may place personal goals (salary, perks) ahead of owners' goals.", "Agency cost: additional cost borne by shareholders to monitor and control managers; types: monitoring, bonding, opportunity, structuring.", "Debt lenders: negative covenants (no borrowing beyond a point).", "Shareholders: compensation linked to profit and long-term objectives; stock-price-linked employee schemes; effective monitoring."], "keywords": ["principal agent relationship", "monitoring, bonding, opportunity, structuring", "negative covenants"]}
+  ]
+ },
+ "recall": {
+  "quick": [
+   {"q": "Name the three long-term finance decisions.", "a": "Investment, financing and dividend decisions."},
+   {"q": "What is the short-term finance function?", "a": "Working capital management (current assets and current liabilities)."},
+   {"q": "Which decision relates only to profit-making organisations?", "a": "Dividend decision."},
+   {"q": "Who described value of a firm as the market price of its common stock?", "a": "Van Horne."},
+   {"q": "Whose concept gives the four aspects of the scope of FM?", "a": "Ezra Solomon."},
+   {"q": "Give the two formulae for value of a firm.", "a": "V = N × MP; V = Ve + Vd."},
+   {"q": "Name the four types of agency cost.", "a": "Monitoring, bonding, opportunity, structuring."},
+   {"q": "How is the agency problem with debt lenders addressed?", "a": "By negative covenants: managers cannot borrow beyond a point."},
+   {"q": "What is financial distress?", "a": "A position where cash inflows of a firm are inadequate to meet all its current obligations."},
+   {"q": "On what basis does accounting measure funds, and on what basis does FM?", "a": "Accounting: accrual principle; FM: cash flows."}
+  ],
+  "fill": [
+   {"q": "Money is to an enterprise what ______ is to an engine.", "a": "oil"},
+   {"q": "Wealth = Present value of benefits − ______.", "a": "Present value of costs"},
+   {"q": "Financial management begins where ______ ends.", "a": "accounting"},
+   {"q": "Angel investors typically invest around ______ per cent to help a company get started.", "a": "25 to 60"},
+   {"q": "Profit maximisation at the cost of social and moral obligations is a ______ policy.", "a": "short sighted"}
+  ],
+  "true_false": [
+   {"s": "Equity is the cheapest source of funds.", "a": "False", "reason": "Equity is usually the most expensive source, though best from the risk point of view."},
+   {"s": "Insolvency is a result of continuous financial distress.", "a": "True", "reason": "SM §10."},
+   {"s": "Marketing is the primary discipline on which the financial manager draws.", "a": "False", "reason": "Accounting is primary; marketing, production and quantitative methods are supportive."},
+   {"s": "The retention part of the dividend decision is also a financing decision.", "a": "True", "reason": "SM §4(c)."},
+   {"s": "A combination of lower risk and higher return is the risk-return trade-off at which profit is maximum.", "a": "False", "reason": "There is a direct relationship between risk and profit (PYQ May 2024)."}
+  ],
+  "one_word": [
+   {"q": "Strategy to minimise, reduce or cancel out risk in another investment.", "a": "Hedging"},
+   {"q": "Phase of evolution in which FM was needed only for occasional events.", "a": "Traditional"},
+   {"q": "Manager under the Treasurer who handles raising of funds.", "a": "Fund Raising Manager"},
+   {"q": "Objective of wealth maximisation in the SM table.", "a": "Highest market value of shares"},
+   {"q": "Relationship between managers and owners giving rise to the agency problem.", "a": "Principal–agent"}
+  ],
+  "match": {"left": ["Treasurer", "Controller", "Ezra Solomon", "Van Horne", "Phillippatus"], "right": ["Value of firm = market price of common stock", "Tax Manager and Internal Auditor", "Acquisition and financing of short- and long-term credits", "Scope of FM: four aspects", "Cash, credit and portfolio managers"], "key": ["1-e", "2-b", "3-d", "4-a", "5-c"]},
+  "differentiate": [
+   {"q": "Financial distress vs insolvency", "a": "Distress: cash inflows inadequate for current obligations. Insolvency: inability to repay debts, the result of continuous distress."},
+   {"q": "Accounting vs FM (decision-making)", "a": "Accountant collects and presents data; financial manager plans, controls and decides."},
+   {"q": "Profit vs wealth maximisation (risk)", "a": "Profit maximisation ignores risk; wealth maximisation recognises risk."}
+  ],
+  "flowchart": {"steps": ["Managers pursue personal goals", "Agency problem", "Agency cost borne by shareholders", "Align interests (compensation, stock-linked schemes, monitoring; negative covenants)", "Wealth maximisation"], "blanks": [1, 3]}
+ },
+ "revision": {
+  "five": ["V = f(I, F, D) + working capital management.", "Profit maximisation limitations: vague, risk, timing, narrow.", "Wealth maximisation: highest market value of shares; better objective in an uncertain, multi-period world.", "Distress = cash inflows inadequate for current obligations; insolvency = result of continuous distress.", "Agency cost types: monitoring, bonding, opportunity, structuring."],
+  "fifteen": ["Two aspects of FM: procurement and effective utilisation of funds.", "Sources: equity (safe, costly), debentures (cheap, risky), banks (fund and non-fund based), international (FDI, FII, ADR, GDR), angel (equity, 25–60%, start-ups).", "Profit vs wealth table: objectives, advantages, disadvantages.", "Wealth measured by cash flow approach, cost-benefit analysis, time value of money; V = N × MP or Ve + Vd.", "Agency remedies: negative covenants; compensation link; stock-linked schemes; monitoring.", "FM vs accounting: accrual vs cash flow; data vs decisions."],
+  "thirty": ["Evolution: traditional (occasional events), transitional (day-to-day), modern (theories, ongoing).", "Importance: seven tasks. Scope: Ezra Solomon's four aspects; financial controller's modern role covers all three decisions.", "Finance executive's five responsibilities; Treasurer vs Controller chart; CFO then vs now.", "Why wealth maximisation works: the chain from hiring managers to societal wealth.", "Other disciplines: marketing, production, quantitative methods are supportive; accounting is primary; economics shows the outside world."],
+  "sixty": ["Redo every official question in this chapter without looking at the answers.", "Write the 4-mark answers on wealth vs profit maximisation, agency cost and FM vs accounting in exam format.", "Attempt the chapter test and both integrated cases, then check the answer keys."]
+ },
+ "one_page": {"sections": [
+  {"title": "Meaning & decisions", "points": ["FM = efficient acquisition and allocation of funds", "Two aspects: procurement and utilisation", "V = f(I, F, D); short-term: working capital management", "Dividend decision only for profit-making entities"]},
+  {"title": "Sources (§2.1)", "points": ["Equity: safest, costliest, dilutes control", "Debentures: cheaper (tax), risky", "Banks: CC, OD, TL, WCTL, bills; guarantee, LC", "International: FDI, FII, ADR, GDR", "Angel: wealthy individual, equity, 25–60%, last option"]},
+  {"title": "Profit maximisation", "points": ["Traditional objective; at best limited", "Vague · Risk ignored · Timing ignored · Narrow", "Table disadvantages: short-term, risk, timing, immediate resources"]},
+  {"title": "Wealth maximisation", "points": ["Highest market value of shares", "Wealth = PV benefits − PV costs", "Cash flow, cost-benefit, time value", "V = N × MP = Ve + Vd (Van Horne: report card)", "Better objective; same as profit only if short and certain"]},
+  {"title": "Finance executive", "points": ["Analysis & planning · Investment · Financing & capital structure · Resources · Risk", "Treasurer vs Controller", "Today: strategic business partner of the CEO"]},
+  {"title": "Distress, accounting, agency", "points": ["Distress: cash inflows inadequate for current obligations → insolvency", "Accounting: accrual, data; FM: cash flow, decisions", "Agency cost: monitoring, bonding, opportunity, structuring", "Remedies: negative covenants; compensation; stock-linked schemes; monitoring"]}
+ ]},
+ "verification": {
+  "sources": ["ICAI SM Paper 6A Module 1 Ch 1 (May 2026 onwards edition)", "Suggested answers May 2024 – May 2026", "RTPs May 2024 – Sep 2026", "MTPs Mar 2024 – Aug 2026 (third-party copies of ICAI MTPs; Sep 2026 Series I question paper not available)"],
+  "open_items": [
+   {"id": "OV-F01-01", "item": "SM §12 bullet 'Employee is also designed…' has a missing word; printed with a bracketed clarification.", "resolve_with": "Check the next ICAI SM reprint or corrigendum"},
+   {"id": "OV-F01-02", "item": "RTP Jan 2025 FM Q11(a) CFO emerging-issues list is not in the current SM; printed as supplementary.", "resolve_with": "Confirm whether a future SM edition adds it"},
+   {"id": "OV-F01-03", "item": "MTP Sep 2026 Series I question paper not available; FM Q4(c) wording taken from its answer.", "resolve_with": "Download the question paper from the ICAI BoS portal"}
+  ],
+  "qa": [
+   {"check": "SM headings covered", "result": "PASS", "note": "19/19"},
+   {"check": "Official atoms placed", "result": "PASS", "note": "30/30"},
+   {"check": "Examiner comments", "result": "PASS", "note": "None published for Paper 6; none invented"}
+  ]
+ }
+}

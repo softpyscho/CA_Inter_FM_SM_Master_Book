@@ -1,0 +1,3059 @@
+[
+ {
+  "code": "F01.01",
+  "section": "FM",
+  "ch": 1,
+  "path": "1. Introduction",
+  "ref": "§1",
+  "page": "p2",
+  "subpoints": [
+   "stages of decision making for a new venture",
+   "three key questions: financing, investment, dividend"
+  ]
+ },
+ {
+  "code": "F01.02",
+  "section": "FM",
+  "ch": 1,
+  "path": "2. Meaning of Financial Management",
+  "ref": "§2",
+  "page": "p3",
+  "subpoints": [
+   "definitions",
+   "Phillippatus definition",
+   "two basic aspects"
+  ]
+ },
+ {
+  "code": "F01.02.01",
+  "section": "FM",
+  "ch": 1,
+  "path": "2.1 Procurement of Funds",
+  "ref": "§2.1",
+  "page": "p4",
+  "subpoints": [
+   "equity",
+   "debentures",
+   "funding from banks (fund / non-fund based)",
+   "international funding (FDI, FII, ADR, GDR)",
+   "angel financing",
+   "carbon credits",
+   "risk, cost and control"
+  ]
+ },
+ {
+  "code": "F01.02.02",
+  "section": "FM",
+  "ch": 1,
+  "path": "2.2 Effective Utilisation of Funds",
+  "ref": "§2.2",
+  "page": "p7",
+  "subpoints": [
+   "utilisation for fixed assets (capital budgeting)",
+   "utilisation for working capital"
+  ]
+ },
+ {
+  "code": "F01.03",
+  "section": "FM",
+  "ch": 1,
+  "path": "3. Evolution of Financial Management",
+  "ref": "§3",
+  "page": "p7",
+  "subpoints": [
+   "traditional phase",
+   "transitional phase",
+   "modern phase"
+  ]
+ },
+ {
+  "code": "F01.04",
+  "section": "FM",
+  "ch": 1,
+  "path": "4. Finance Functions / Finance Decision",
+  "ref": "§4",
+  "page": "p8",
+  "subpoints": [
+   "V = f(I, F, D)",
+   "investment decisions",
+   "financing decisions",
+   "dividend decisions",
+   "short-term: working capital management",
+   "decisions are inter-related"
+  ]
+ },
+ {
+  "code": "F01.05",
+  "section": "FM",
+  "ch": 1,
+  "path": "5. Importance of Financial Management",
+  "ref": "§5",
+  "page": "p10",
+  "subpoints": [
+   "seven tasks that show importance"
+  ]
+ },
+ {
+  "code": "F01.06",
+  "section": "FM",
+  "ch": 1,
+  "path": "6. Scope of Financial Management",
+  "ref": "§6",
+  "page": "p11",
+  "subpoints": [
+   "Ezra Solomon four aspects",
+   "role of financial controller",
+   "risk-return trade off"
+  ]
+ },
+ {
+  "code": "F01.07",
+  "section": "FM",
+  "ch": 1,
+  "path": "7. Objectives of Financial Management",
+  "ref": "§7",
+  "page": "p12",
+  "subpoints": [
+   "two objectives assumed"
+  ]
+ },
+ {
+  "code": "F01.07.01",
+  "section": "FM",
+  "ch": 1,
+  "path": "7.1 Profit Maximisation",
+  "ref": "§7.1",
+  "page": "p13",
+  "subpoints": [
+   "four problems / limitations"
+  ]
+ },
+ {
+  "code": "F01.07.02",
+  "section": "FM",
+  "ch": 1,
+  "path": "7.2 Wealth Maximisation / Value Creation",
+  "ref": "§7.2",
+  "page": "p14",
+  "subpoints": [
+   "cash flow, cost-benefit, time value of money",
+   "Van Horne on value of firm",
+   "value of firm formulae",
+   "other goals",
+   "why wealth maximisation works"
+  ]
+ },
+ {
+  "code": "F01.08",
+  "section": "FM",
+  "ch": 1,
+  "path": "8. Conflicts in Profit versus Value Maximisation Principle",
+  "ref": "§8",
+  "page": "p16",
+  "subpoints": [
+   "management vs stakeholders",
+   "advantages and disadvantages table",
+   "example",
+   "Illustration 1 (products X and Y)"
+  ]
+ },
+ {
+  "code": "F01.09",
+  "section": "FM",
+  "ch": 1,
+  "path": "9. Role of Finance Executive",
+  "ref": "§9",
+  "page": "p18",
+  "subpoints": [
+   "changing role (Jeff Thomson quote)",
+   "five responsibilities",
+   "organisation of finance function"
+  ]
+ },
+ {
+  "code": "F01.09.01",
+  "section": "FM",
+  "ch": 1,
+  "path": "9.1 Role of Finance Executive in Today's World vis-a-vis in the Past",
+  "ref": "§9.1",
+  "page": "p20",
+  "subpoints": [
+   "what a CFO used to do vs now does"
+  ]
+ },
+ {
+  "code": "F01.10",
+  "section": "FM",
+  "ch": 1,
+  "path": "10. Financial Distress and Insolvency",
+  "ref": "§10",
+  "page": "p21",
+  "subpoints": [
+   "meaning of financial distress",
+   "insolvency"
+  ]
+ },
+ {
+  "code": "F01.11",
+  "section": "FM",
+  "ch": 1,
+  "path": "11. Relationship of Financial Management with Related Disciplines",
+  "ref": "§11",
+  "page": "p21",
+  "subpoints": []
+ },
+ {
+  "code": "F01.11.01",
+  "section": "FM",
+  "ch": 1,
+  "path": "11.1 Financial Management and Accounting",
+  "ref": "§11.1",
+  "page": "p21",
+  "subpoints": [
+   "treatment of funds",
+   "decision-making"
+  ]
+ },
+ {
+  "code": "F01.11.02",
+  "section": "FM",
+  "ch": 1,
+  "path": "11.2 Financial Management and Other Related Disciplines",
+  "ref": "§11.2",
+  "page": "p23",
+  "subpoints": [
+   "marketing, production, quantitative methods, economics"
+  ]
+ },
+ {
+  "code": "F01.12",
+  "section": "FM",
+  "ch": 1,
+  "path": "12. Agency Problem and Agency Cost",
+  "ref": "§12",
+  "page": "p24",
+  "subpoints": [
+   "agency problem",
+   "agency cost - four types",
+   "addressing the agency problem"
+  ]
+ },
+ {
+  "code": "S01.01",
+  "section": "SM",
+  "ch": 1,
+  "path": "1.1 Introduction",
+  "ref": "§1.1",
+  "page": "p2",
+  "subpoints": []
+ },
+ {
+  "code": "S01.02",
+  "section": "SM",
+  "ch": 1,
+  "path": "1.2 Meaning and Nature of Strategic Management",
+  "ref": "§1.2",
+  "page": "p3",
+  "subpoints": [
+   "management in two senses",
+   "strategic management process activities"
+  ]
+ },
+ {
+  "code": "S01.03",
+  "section": "SM",
+  "ch": 1,
+  "path": "1.3 Concept of Strategy",
+  "ref": "§1.3",
+  "page": "p4",
+  "subpoints": [
+   "definitions (Ansoff, Glueck)",
+   "strategy not a substitute for sound management",
+   "levels of formulation",
+   "partly proactive and partly reactive",
+   "UPI example",
+   "ketchup example"
+  ]
+ },
+ {
+  "code": "S01.04",
+  "section": "SM",
+  "ch": 1,
+  "path": "1.4 Strategic Management - Importance and Limitations",
+  "ref": "§1.4",
+  "page": "p7",
+  "subpoints": [
+   "two-fold objective",
+   "meaning (process)",
+   "business policy"
+  ]
+ },
+ {
+  "code": "S01.04.01",
+  "section": "SM",
+  "ch": 1,
+  "path": "1.4.1 Importance of Strategic Management",
+  "ref": "§1.4.1",
+  "page": "p8",
+  "subpoints": [
+   "survival of the fittest",
+   "seven benefits",
+   "non-strategic decisions"
+  ]
+ },
+ {
+  "code": "S01.04.02",
+  "section": "SM",
+  "ch": 1,
+  "path": "1.4.2 Limitations of Strategic Management",
+  "ref": "§1.4.2",
+  "page": "p11",
+  "subpoints": [
+   "complex and turbulent environment",
+   "time-consuming",
+   "costly",
+   "difficult to estimate competitive responses",
+   "why firms still use it"
+  ]
+ },
+ {
+  "code": "S01.05",
+  "section": "SM",
+  "ch": 1,
+  "path": "1.5 Strategic Intent (Vision, Mission, Goals, Objectives and Values)",
+  "ref": "§1.5",
+  "page": "p13",
+  "subpoints": [
+   "meaning",
+   "components"
+  ]
+ },
+ {
+  "code": "S01.05.01",
+  "section": "SM",
+  "ch": 1,
+  "path": "1.5.1 Vision",
+  "ref": "§1.5.1",
+  "page": "p15",
+  "subpoints": [
+   "strategic vision",
+   "examples",
+   "essentials of a strategic vision"
+  ]
+ },
+ {
+  "code": "S01.05.02",
+  "section": "SM",
+  "ch": 1,
+  "path": "1.5.2 Mission",
+  "ref": "§1.5.2",
+  "page": "p16",
+  "subpoints": [
+   "why an organisation should have a mission",
+   "examples",
+   "writing a mission",
+   "Drucker and Levitt questions",
+   "what business are we in"
+  ]
+ },
+ {
+  "code": "S01.05.03",
+  "section": "SM",
+  "ch": 1,
+  "path": "1.5.3 Goals and Objectives",
+  "ref": "§1.5.3",
+  "page": "p19",
+  "subpoints": [
+   "characteristics of objectives",
+   "short-term and long-term objectives",
+   "seven long-term objective areas",
+   "benefits of objectives"
+  ]
+ },
+ {
+  "code": "S01.05.04",
+  "section": "SM",
+  "ch": 1,
+  "path": "1.5.4 Values",
+  "ref": "§1.5.4",
+  "page": "p22",
+  "subpoints": [
+   "importance of values",
+   "examples",
+   "intent vs values"
+  ]
+ },
+ {
+  "code": "S01.06",
+  "section": "SM",
+  "ch": 1,
+  "path": "1.6 Strategic Levels in Organisations",
+  "ref": "§1.6",
+  "page": "p23",
+  "subpoints": [
+   "corporate level",
+   "business level (SBU)",
+   "functional level",
+   "top-down vs bottom-up"
+  ]
+ },
+ {
+  "code": "S01.06.01",
+  "section": "SM",
+  "ch": 1,
+  "path": "1.6.1 Network of Relationship between the Three Levels",
+  "ref": "§1.6.1",
+  "page": "p27",
+  "subpoints": [
+   "functional and divisional",
+   "horizontal",
+   "matrix"
+  ]
+ },
+ {
+  "code": "F02.01",
+  "section": "FM",
+  "ch": 2,
+  "path": "1. Financial Needs and Sources of Finance of a Business",
+  "ref": "§1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.02",
+  "section": "FM",
+  "ch": 2,
+  "path": "2. Classification of Financial Sources",
+  "ref": "§2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.03",
+  "section": "FM",
+  "ch": 2,
+  "path": "2.1 Sources of Finance based on Basic Sources",
+  "ref": "§2.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.04",
+  "section": "FM",
+  "ch": 2,
+  "path": "2.2 Sources of Finance based on Maturity of Payment",
+  "ref": "§2.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.05",
+  "section": "FM",
+  "ch": 2,
+  "path": "2.3 Sources of Finance based on Ownership and Control",
+  "ref": "§2.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.06",
+  "section": "FM",
+  "ch": 2,
+  "path": "3. Long-term Sources of Finance",
+  "ref": "§3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.07",
+  "section": "FM",
+  "ch": 2,
+  "path": "3.1 Owners Capital or Equity Capital",
+  "ref": "§3.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.08",
+  "section": "FM",
+  "ch": 2,
+  "path": "3.2 Preference Share Capital",
+  "ref": "§3.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.09",
+  "section": "FM",
+  "ch": 2,
+  "path": "3.3 Retained Earnings",
+  "ref": "§3.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.10",
+  "section": "FM",
+  "ch": 2,
+  "path": "3.4 Debentures",
+  "ref": "§3.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.11",
+  "section": "FM",
+  "ch": 2,
+  "path": "3.5 Bond",
+  "ref": "§3.5",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.12",
+  "section": "FM",
+  "ch": 2,
+  "path": "3.6 Loans from Financial Institutions",
+  "ref": "§3.6",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.13",
+  "section": "FM",
+  "ch": 2,
+  "path": "3.7 Loans from Commercial Banks",
+  "ref": "§3.7",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.14",
+  "section": "FM",
+  "ch": 2,
+  "path": "4. Venture Capital Financing",
+  "ref": "§4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.15",
+  "section": "FM",
+  "ch": 2,
+  "path": "4.1 Meaning of Venture Capital Financing",
+  "ref": "§4.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.16",
+  "section": "FM",
+  "ch": 2,
+  "path": "4.2 Characteristics of Venture Capital Financing",
+  "ref": "§4.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.17",
+  "section": "FM",
+  "ch": 2,
+  "path": "4.3 Methods of Venture Capital Financing",
+  "ref": "§4.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.18",
+  "section": "FM",
+  "ch": 2,
+  "path": "5. Debt Securitisation",
+  "ref": "§5",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.19",
+  "section": "FM",
+  "ch": 2,
+  "path": "6. Lease Financing",
+  "ref": "§6",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.20",
+  "section": "FM",
+  "ch": 2,
+  "path": "6.1 Types of Lease Contracts",
+  "ref": "§6.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.21",
+  "section": "FM",
+  "ch": 2,
+  "path": "6.2 Other Types of Leases",
+  "ref": "§6.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.22",
+  "section": "FM",
+  "ch": 2,
+  "path": "7. Short-term Sources of Finance",
+  "ref": "§7",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.23",
+  "section": "FM",
+  "ch": 2,
+  "path": "8. Other Sources of Financing",
+  "ref": "§8",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.24",
+  "section": "FM",
+  "ch": 2,
+  "path": "9. International Financing",
+  "ref": "§9",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F02.25",
+  "section": "FM",
+  "ch": 2,
+  "path": "10. Contemporary Sources of Funding",
+  "ref": "§10",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.01",
+  "section": "FM",
+  "ch": 3,
+  "path": "1. Introduction",
+  "ref": "§1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.02",
+  "section": "FM",
+  "ch": 3,
+  "path": "2. Ratio and Ratio Analysis",
+  "ref": "§2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.03",
+  "section": "FM",
+  "ch": 3,
+  "path": "2.1 Definition of Ratio",
+  "ref": "§2.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.04",
+  "section": "FM",
+  "ch": 3,
+  "path": "2.2 Ratio Analysis",
+  "ref": "§2.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.05",
+  "section": "FM",
+  "ch": 3,
+  "path": "2.3 Sources of Financial Data for Analysis",
+  "ref": "§2.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.06",
+  "section": "FM",
+  "ch": 3,
+  "path": "3. Types of Ratios",
+  "ref": "§3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.07",
+  "section": "FM",
+  "ch": 3,
+  "path": "3.1 Liquidity Ratios",
+  "ref": "§3.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.08",
+  "section": "FM",
+  "ch": 3,
+  "path": "3.2 Long-term Solvency Ratios / Leverage Ratios",
+  "ref": "§3.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.09",
+  "section": "FM",
+  "ch": 3,
+  "path": "3.2.1 Capital Structure Ratios",
+  "ref": "§3.2.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.10",
+  "section": "FM",
+  "ch": 3,
+  "path": "3.2.2 Coverage Ratios",
+  "ref": "§3.2.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.11",
+  "section": "FM",
+  "ch": 3,
+  "path": "3.3 Activity / Efficiency / Performance / Turnover Ratios",
+  "ref": "§3.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.12",
+  "section": "FM",
+  "ch": 3,
+  "path": "3.4 Profitability Ratios",
+  "ref": "§3.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.13",
+  "section": "FM",
+  "ch": 3,
+  "path": "3.4.1 Profitability Ratios based on Sales",
+  "ref": "§3.4.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.14",
+  "section": "FM",
+  "ch": 3,
+  "path": "3.4.2 Profitability Ratios related to Overall Return on Assets / Investments",
+  "ref": "§3.4.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.15",
+  "section": "FM",
+  "ch": 3,
+  "path": "3.4.3 Profitability Ratios from the Owner's Point of View",
+  "ref": "§3.4.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.16",
+  "section": "FM",
+  "ch": 3,
+  "path": "3.4.4 Profitability Ratios related to Market / Valuation / Investors",
+  "ref": "§3.4.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.17",
+  "section": "FM",
+  "ch": 3,
+  "path": "4. Users and Objective of Financial Analysis: A Bird's Eye View",
+  "ref": "§4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.18",
+  "section": "FM",
+  "ch": 3,
+  "path": "5. Application of Ratio Analysis in Financial Decision Making",
+  "ref": "§5",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.19",
+  "section": "FM",
+  "ch": 3,
+  "path": "5.1 Financial Ratios for Evaluating Performance",
+  "ref": "§5.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.20",
+  "section": "FM",
+  "ch": 3,
+  "path": "6. Limitations of Financial Ratios",
+  "ref": "§6",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.21",
+  "section": "FM",
+  "ch": 3,
+  "path": "7. Financial Analysis",
+  "ref": "§7",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F03.22",
+  "section": "FM",
+  "ch": 3,
+  "path": "8. Summary of Ratios",
+  "ref": "§8",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.01",
+  "section": "FM",
+  "ch": 4,
+  "path": "1. Introduction",
+  "ref": "§1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.02",
+  "section": "FM",
+  "ch": 4,
+  "path": "2. Meaning of Cost of Capital",
+  "ref": "§2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.03",
+  "section": "FM",
+  "ch": 4,
+  "path": "3. Significance of Cost of Capital",
+  "ref": "§3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.04",
+  "section": "FM",
+  "ch": 4,
+  "path": "4. Determination of Cost of Capital",
+  "ref": "§4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.05",
+  "section": "FM",
+  "ch": 4,
+  "path": "5. Cost of Long-Term Debt (Kd)",
+  "ref": "§5",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.06",
+  "section": "FM",
+  "ch": 4,
+  "path": "5.1 Features of Debentures or Bonds",
+  "ref": "§5.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.07",
+  "section": "FM",
+  "ch": 4,
+  "path": "5.2 Cost of Irredeemable Debentures",
+  "ref": "§5.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.08",
+  "section": "FM",
+  "ch": 4,
+  "path": "5.3 Cost of Redeemable Debentures (approximation method)",
+  "ref": "§5.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.09",
+  "section": "FM",
+  "ch": 4,
+  "path": "5.3.1 Cost of Debt using Present Value Method (YTM approach)",
+  "ref": "§5.3.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.10",
+  "section": "FM",
+  "ch": 4,
+  "path": "5.3.2 Amortisation of Bond",
+  "ref": "§5.3.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.11",
+  "section": "FM",
+  "ch": 4,
+  "path": "5.4 Cost of Convertible Debentures",
+  "ref": "§5.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.12",
+  "section": "FM",
+  "ch": 4,
+  "path": "6. Cost of Preference Share Capital (Kp)",
+  "ref": "§6",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.13",
+  "section": "FM",
+  "ch": 4,
+  "path": "6.1 Cost of Irredeemable Preference Shares",
+  "ref": "§6.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.14",
+  "section": "FM",
+  "ch": 4,
+  "path": "6.2 Cost of Redeemable Preference Shares",
+  "ref": "§6.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.15",
+  "section": "FM",
+  "ch": 4,
+  "path": "7. Cost of Equity Share Capital (Ke)",
+  "ref": "§7",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.16",
+  "section": "FM",
+  "ch": 4,
+  "path": "7.1 Dividend Price Approach",
+  "ref": "§7.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.17",
+  "section": "FM",
+  "ch": 4,
+  "path": "7.2 Earnings Price Approach",
+  "ref": "§7.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.18",
+  "section": "FM",
+  "ch": 4,
+  "path": "7.3 Growth Approach or Gordon's Model",
+  "ref": "§7.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.19",
+  "section": "FM",
+  "ch": 4,
+  "path": "7.4 Realized Yield Approach",
+  "ref": "§7.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.20",
+  "section": "FM",
+  "ch": 4,
+  "path": "7.5 Capital Asset Pricing Model (CAPM) Approach",
+  "ref": "§7.5",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.21",
+  "section": "FM",
+  "ch": 4,
+  "path": "8. Cost of Retained Earnings (Kr)",
+  "ref": "§8",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.22",
+  "section": "FM",
+  "ch": 4,
+  "path": "9. Weighted Average Cost of Capital (WACC)",
+  "ref": "§9",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.23",
+  "section": "FM",
+  "ch": 4,
+  "path": "9.1 Choice of Weights",
+  "ref": "§9.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F04.24",
+  "section": "FM",
+  "ch": 4,
+  "path": "10. Marginal Cost of Capital",
+  "ref": "§10",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F05.01",
+  "section": "FM",
+  "ch": 5,
+  "path": "1. Meaning of Capital Structure",
+  "ref": "§1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F05.02",
+  "section": "FM",
+  "ch": 5,
+  "path": "2. Capital Structure Theories",
+  "ref": "§2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F05.03",
+  "section": "FM",
+  "ch": 5,
+  "path": "2.1 Net Income (NI) Approach",
+  "ref": "§2.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F05.04",
+  "section": "FM",
+  "ch": 5,
+  "path": "2.2 Traditional Approach",
+  "ref": "§2.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F05.05",
+  "section": "FM",
+  "ch": 5,
+  "path": "2.3 Net Operating Income (NOI) Approach",
+  "ref": "§2.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F05.06",
+  "section": "FM",
+  "ch": 5,
+  "path": "2.4 Modigliani-Miller (MM) Approach",
+  "ref": "§2.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F05.07",
+  "section": "FM",
+  "ch": 5,
+  "path": "2.5 The Trade-off Theory",
+  "ref": "§2.5",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F05.08",
+  "section": "FM",
+  "ch": 5,
+  "path": "2.6 Pecking Order Theory",
+  "ref": "§2.6",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F05.09",
+  "section": "FM",
+  "ch": 5,
+  "path": "3. Factors Determining Capital Structure",
+  "ref": "§3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F05.10",
+  "section": "FM",
+  "ch": 5,
+  "path": "3.1 Choice of Source of Funds",
+  "ref": "§3.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F05.11",
+  "section": "FM",
+  "ch": 5,
+  "path": "3.2 Factors Affecting Capital Structure",
+  "ref": "§3.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F05.12",
+  "section": "FM",
+  "ch": 5,
+  "path": "4. Optimal Capital Structure",
+  "ref": "§4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F05.13",
+  "section": "FM",
+  "ch": 5,
+  "path": "5. EBIT-EPS-MPS Analysis",
+  "ref": "§5",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F05.14",
+  "section": "FM",
+  "ch": 5,
+  "path": "5.1 Relationship between EBIT-EPS-MPS",
+  "ref": "§5.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F05.15",
+  "section": "FM",
+  "ch": 5,
+  "path": "5.2 Financial Break-Even Point and Indifference Point Analysis",
+  "ref": "§5.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F05.16",
+  "section": "FM",
+  "ch": 5,
+  "path": "6. Over-Capitalisation and Under-Capitalisation",
+  "ref": "§6",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F05.17",
+  "section": "FM",
+  "ch": 5,
+  "path": "6.1 Over-Capitalisation",
+  "ref": "§6.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F05.18",
+  "section": "FM",
+  "ch": 5,
+  "path": "6.2 Under-Capitalisation",
+  "ref": "§6.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F05.19",
+  "section": "FM",
+  "ch": 5,
+  "path": "6.3 Over-Capitalisation vis-a-vis Under-Capitalisation",
+  "ref": "§6.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F06.01",
+  "section": "FM",
+  "ch": 6,
+  "path": "1. Introduction",
+  "ref": "§1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F06.02",
+  "section": "FM",
+  "ch": 6,
+  "path": "2. Meaning and Types of Leverages",
+  "ref": "§2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F06.03",
+  "section": "FM",
+  "ch": 6,
+  "path": "2.1 Meaning of Leverage",
+  "ref": "§2.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F06.04",
+  "section": "FM",
+  "ch": 6,
+  "path": "2.2 Types of Leverage",
+  "ref": "§2.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F06.05",
+  "section": "FM",
+  "ch": 6,
+  "path": "2.3 Chart showing Degree of Operating, Financial and Combined Leverage",
+  "ref": "§2.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F06.06",
+  "section": "FM",
+  "ch": 6,
+  "path": "3. Operating Leverage",
+  "ref": "§3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F06.07",
+  "section": "FM",
+  "ch": 6,
+  "path": "3.1 Degree of Operating Leverage (DOL)",
+  "ref": "§3.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F06.08",
+  "section": "FM",
+  "ch": 6,
+  "path": "3.2 Break-Even Analysis and Operating Leverage",
+  "ref": "§3.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F06.09",
+  "section": "FM",
+  "ch": 6,
+  "path": "3.3 Margin of Safety (MOS) and Operating Leverage",
+  "ref": "§3.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F06.10",
+  "section": "FM",
+  "ch": 6,
+  "path": "4. Financial Leverage",
+  "ref": "§4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F06.11",
+  "section": "FM",
+  "ch": 6,
+  "path": "4.1 Degree of Financial Leverage (DFL)",
+  "ref": "§4.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F06.12",
+  "section": "FM",
+  "ch": 6,
+  "path": "4.2 Financial Leverage as 'Trading on Equity'",
+  "ref": "§4.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F06.13",
+  "section": "FM",
+  "ch": 6,
+  "path": "4.3 Financial Leverage as a 'Double edged Sword'",
+  "ref": "§4.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F06.14",
+  "section": "FM",
+  "ch": 6,
+  "path": "5. Combined Leverage",
+  "ref": "§5",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F06.15",
+  "section": "FM",
+  "ch": 6,
+  "path": "5.1 Degree of Combined Leverage (DCL)",
+  "ref": "§5.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F06.16",
+  "section": "FM",
+  "ch": 6,
+  "path": "5.2 Analysis of Combined Leverage",
+  "ref": "§5.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.01",
+  "section": "FM",
+  "ch": 7,
+  "path": "1. Introduction",
+  "ref": "§1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.02",
+  "section": "FM",
+  "ch": 7,
+  "path": "2. Purpose of Capital Budgeting",
+  "ref": "§2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.03",
+  "section": "FM",
+  "ch": 7,
+  "path": "3. Capital Budgeting Process",
+  "ref": "§3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.04",
+  "section": "FM",
+  "ch": 7,
+  "path": "4. Types of Capital Investment Decisions",
+  "ref": "§4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.05",
+  "section": "FM",
+  "ch": 7,
+  "path": "4.1 On the basis of firm's existence",
+  "ref": "§4.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.06",
+  "section": "FM",
+  "ch": 7,
+  "path": "4.2 On the basis of situations",
+  "ref": "§4.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.07",
+  "section": "FM",
+  "ch": 7,
+  "path": "4.3 Steps of Capital Budgeting Procedure",
+  "ref": "§4.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.08",
+  "section": "FM",
+  "ch": 7,
+  "path": "5. Estimation of Project Cash Flows",
+  "ref": "§5",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.09",
+  "section": "FM",
+  "ch": 7,
+  "path": "6. Basic Principles for Measuring Project Cash Flows",
+  "ref": "§6",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.10",
+  "section": "FM",
+  "ch": 7,
+  "path": "6.1 Block of Assets and Depreciation",
+  "ref": "§6.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.11",
+  "section": "FM",
+  "ch": 7,
+  "path": "6.2 Exclusion of Financing Costs Principle",
+  "ref": "§6.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.12",
+  "section": "FM",
+  "ch": 7,
+  "path": "6.3 Post-tax Principle",
+  "ref": "§6.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.13",
+  "section": "FM",
+  "ch": 7,
+  "path": "7. Capital Budgeting Techniques",
+  "ref": "§7",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.14",
+  "section": "FM",
+  "ch": 7,
+  "path": "8. Traditional or Non-Discounting Techniques",
+  "ref": "§8",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.15",
+  "section": "FM",
+  "ch": 7,
+  "path": "8.1 Payback Period",
+  "ref": "§8.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.16",
+  "section": "FM",
+  "ch": 7,
+  "path": "8.1.1 Payback Reciprocal",
+  "ref": "§8.1.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.17",
+  "section": "FM",
+  "ch": 7,
+  "path": "8.2 Accounting (Book) Rate of Return / Average Rate of Return (ARR)",
+  "ref": "§8.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.18",
+  "section": "FM",
+  "ch": 7,
+  "path": "9. Discounting Techniques",
+  "ref": "§9",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.19",
+  "section": "FM",
+  "ch": 7,
+  "path": "9.1 Net Present Value Technique (NPV)",
+  "ref": "§9.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.20",
+  "section": "FM",
+  "ch": 7,
+  "path": "9.2 Profitability Index / Desirability Factor / Present Value Index (PI)",
+  "ref": "§9.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.21",
+  "section": "FM",
+  "ch": 7,
+  "path": "9.3 Internal Rate of Return Method (IRR)",
+  "ref": "§9.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.22",
+  "section": "FM",
+  "ch": 7,
+  "path": "9.3.1 Acceptance Rule",
+  "ref": "§9.3.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.23",
+  "section": "FM",
+  "ch": 7,
+  "path": "9.3.2 IRR and Mutually Exclusive Projects",
+  "ref": "§9.3.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.24",
+  "section": "FM",
+  "ch": 7,
+  "path": "9.3.3 The Reinvestment Assumption",
+  "ref": "§9.3.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.25",
+  "section": "FM",
+  "ch": 7,
+  "path": "9.3.4 Multiple Internal Rate of Return",
+  "ref": "§9.3.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.26",
+  "section": "FM",
+  "ch": 7,
+  "path": "9.4 Discounted Payback Period Method",
+  "ref": "§9.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.27",
+  "section": "FM",
+  "ch": 7,
+  "path": "9.5 Modified Internal Rate of Return (MIRR)",
+  "ref": "§9.5",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.28",
+  "section": "FM",
+  "ch": 7,
+  "path": "9.6 Comparison of NPV and IRR Methods",
+  "ref": "§9.6",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.29",
+  "section": "FM",
+  "ch": 7,
+  "path": "9.7 Different conclusions in specific scenarios",
+  "ref": "§9.7",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.30",
+  "section": "FM",
+  "ch": 7,
+  "path": "10. Summary of Decision Criteria of Capital Budgeting Techniques",
+  "ref": "§10",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.31",
+  "section": "FM",
+  "ch": 7,
+  "path": "11. Special Cases of Capital Budgeting",
+  "ref": "§11",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.32",
+  "section": "FM",
+  "ch": 7,
+  "path": "11.1 Capital Budgeting under Capital Rationing",
+  "ref": "§11.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F07.33",
+  "section": "FM",
+  "ch": 7,
+  "path": "11.2 Projects with unequal lives",
+  "ref": "§11.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F08.01",
+  "section": "FM",
+  "ch": 8,
+  "path": "1. Introduction",
+  "ref": "§1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F08.02",
+  "section": "FM",
+  "ch": 8,
+  "path": "2. Meaning of Dividend",
+  "ref": "§2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F08.03",
+  "section": "FM",
+  "ch": 8,
+  "path": "3. Forms of Dividend",
+  "ref": "§3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F08.04",
+  "section": "FM",
+  "ch": 8,
+  "path": "4. Significance of Dividend Policy",
+  "ref": "§4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F08.05",
+  "section": "FM",
+  "ch": 8,
+  "path": "5. Relationship between Retained Earnings and Growth",
+  "ref": "§5",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F08.06",
+  "section": "FM",
+  "ch": 8,
+  "path": "6. Determinants of Dividend Decisions",
+  "ref": "§6",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F08.07",
+  "section": "FM",
+  "ch": 8,
+  "path": "7. Practical Considerations in Dividend Policy",
+  "ref": "§7",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F08.08",
+  "section": "FM",
+  "ch": 8,
+  "path": "8. Theories of Dividend",
+  "ref": "§8",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F08.09",
+  "section": "FM",
+  "ch": 8,
+  "path": "8.1 Dividend's Irrelevance Theory",
+  "ref": "§8.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F08.10",
+  "section": "FM",
+  "ch": 8,
+  "path": "8.2 Dividend's Relevance Theory",
+  "ref": "§8.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F08.11",
+  "section": "FM",
+  "ch": 8,
+  "path": "9. Stock Splits",
+  "ref": "§9",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F08.12",
+  "section": "FM",
+  "ch": 8,
+  "path": "9.1 Meaning of Stock Split",
+  "ref": "§9.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F08.13",
+  "section": "FM",
+  "ch": 8,
+  "path": "9.2 Advantages of Stock Splits",
+  "ref": "§9.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F08.14",
+  "section": "FM",
+  "ch": 8,
+  "path": "9.3 Limitations of Stock Splits",
+  "ref": "§9.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F08.15",
+  "section": "FM",
+  "ch": 8,
+  "path": "10. Share Buyback",
+  "ref": "§10",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F08.16",
+  "section": "FM",
+  "ch": 8,
+  "path": "10.1 Meaning of Share Buyback",
+  "ref": "§10.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.01",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit I · 1. Meaning and Concept of Working Capital",
+  "ref": "§1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.02",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit I · 2. Significance of Working Capital",
+  "ref": "§2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.03",
+  "section": "FM",
+  "ch": 9,
+  "path": "2.1 Importance of Adequate Working Capital",
+  "ref": "§2.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.04",
+  "section": "FM",
+  "ch": 9,
+  "path": "2.2 Optimum Working Capital",
+  "ref": "§2.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.05",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit I · 3. Determinants of Working Capital",
+  "ref": "§3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.06",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit I · 4. Management of Working Capital",
+  "ref": "§4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.07",
+  "section": "FM",
+  "ch": 9,
+  "path": "4.1 Liquidity and Profitability",
+  "ref": "§4.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.08",
+  "section": "FM",
+  "ch": 9,
+  "path": "4.2 Investment and Financing",
+  "ref": "§4.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.09",
+  "section": "FM",
+  "ch": 9,
+  "path": "4.3 Approaches of Working Capital Investment",
+  "ref": "§4.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.10",
+  "section": "FM",
+  "ch": 9,
+  "path": "4.4 Current Assets to Fixed Assets Ratio",
+  "ref": "§4.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.11",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit I · 5. Estimating Working Capital Needs",
+  "ref": "§5",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.12",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit I · 6. Operating or Working Capital Cycle",
+  "ref": "§6",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.13",
+  "section": "FM",
+  "ch": 9,
+  "path": "6.1 Working Capital Based on Operating Cycle",
+  "ref": "§6.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.14",
+  "section": "FM",
+  "ch": 9,
+  "path": "6.2 Estimation of Components of Current Assets and Current Liabilities",
+  "ref": "§6.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.15",
+  "section": "FM",
+  "ch": 9,
+  "path": "6.3 Working Capital Requirement Estimation based on Cash Cost",
+  "ref": "§6.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.16",
+  "section": "FM",
+  "ch": 9,
+  "path": "6.4 Effect of Double Shift Working on Working Capital Requirements",
+  "ref": "§6.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.17",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit II · 7. Treasury Management: Meaning",
+  "ref": "§7",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.18",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit II · 8. Functions of Treasury Department",
+  "ref": "§8",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.19",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit II · 9. Management of Cash",
+  "ref": "§9",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.20",
+  "section": "FM",
+  "ch": 9,
+  "path": "9.1 The Need for Cash",
+  "ref": "§9.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.21",
+  "section": "FM",
+  "ch": 9,
+  "path": "9.2 Cash Planning",
+  "ref": "§9.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.22",
+  "section": "FM",
+  "ch": 9,
+  "path": "9.3 Cash Budget",
+  "ref": "§9.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.23",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit II · 10. Methods of Cash Flow Budgeting",
+  "ref": "§10",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.24",
+  "section": "FM",
+  "ch": 9,
+  "path": "10.1 Cash budget for short period",
+  "ref": "§10.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.25",
+  "section": "FM",
+  "ch": 9,
+  "path": "10.2 Cash Budget for long period",
+  "ref": "§10.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.26",
+  "section": "FM",
+  "ch": 9,
+  "path": "10.3 Managing Cash Collection and Disbursements",
+  "ref": "§10.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.27",
+  "section": "FM",
+  "ch": 9,
+  "path": "10.4 Accelerating Cash Collections",
+  "ref": "§10.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.28",
+  "section": "FM",
+  "ch": 9,
+  "path": "10.5 Controlling Payments",
+  "ref": "§10.5",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.29",
+  "section": "FM",
+  "ch": 9,
+  "path": "10.6 Determining the Optimum Cash Balance",
+  "ref": "§10.6",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.30",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit II · 11. Cash Management Models",
+  "ref": "§11",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.31",
+  "section": "FM",
+  "ch": 9,
+  "path": "11.1 William J. Baumol's Economic Order Quantity Model (1952)",
+  "ref": "§11.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.32",
+  "section": "FM",
+  "ch": 9,
+  "path": "11.2 Miller-Orr Cash Management Model (1966)",
+  "ref": "§11.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.33",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit II · 12. Recent Developments in Cash Management",
+  "ref": "§12",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.34",
+  "section": "FM",
+  "ch": 9,
+  "path": "12.1 Electronic Fund Transfer",
+  "ref": "§12.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.35",
+  "section": "FM",
+  "ch": 9,
+  "path": "12.2 Zero Balance Account",
+  "ref": "§12.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.36",
+  "section": "FM",
+  "ch": 9,
+  "path": "12.3 Money Market Operations",
+  "ref": "§12.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.37",
+  "section": "FM",
+  "ch": 9,
+  "path": "12.4 Petty Cash Imprest System",
+  "ref": "§12.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.38",
+  "section": "FM",
+  "ch": 9,
+  "path": "12.5 Management of Temporary Cash Surplus",
+  "ref": "§12.5",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.39",
+  "section": "FM",
+  "ch": 9,
+  "path": "12.6 Electronic Cash Management System",
+  "ref": "§12.6",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.40",
+  "section": "FM",
+  "ch": 9,
+  "path": "12.7 Virtual Banking",
+  "ref": "§12.7",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.41",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit II · 13. Management of Marketable Securities",
+  "ref": "§13",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.42",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit III · 14. Inventory Management",
+  "ref": "§14",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.43",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit IV · 15. Meaning and Objective (Receivables)",
+  "ref": "§15",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.44",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit IV · 16. Aspects of Management of Debtors",
+  "ref": "§16",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.45",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit IV · 17. Factors Determining Credit Policy",
+  "ref": "§17",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.46",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit IV · 18. Factors under the Control of the Finance Manager",
+  "ref": "§18",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.47",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit IV · 19. Approaches to Evaluation of Credit Policies",
+  "ref": "§19",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.48",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit IV · 20. Financing Receivables",
+  "ref": "§20",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.49",
+  "section": "FM",
+  "ch": 9,
+  "path": "20.1 Pledging and Factoring",
+  "ref": "§20.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.50",
+  "section": "FM",
+  "ch": 9,
+  "path": "20.2 Forfaiting",
+  "ref": "§20.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.51",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit IV · 21. Innovations in Receivable Management",
+  "ref": "§21",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.52",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit IV · 22. Monitoring of Receivables",
+  "ref": "§22",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.53",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit V · 23. Introduction (Payables)",
+  "ref": "§23",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.54",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit V · 24. Cost and Benefits of Trade Credit",
+  "ref": "§24",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.55",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit V · 25. Computation of Cost of Payables",
+  "ref": "§25",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.56",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit VI · 26. Introduction (Financing of Working Capital)",
+  "ref": "§26",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.57",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit VI · 27. Sources of Finance",
+  "ref": "§27",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.58",
+  "section": "FM",
+  "ch": 9,
+  "path": "27.1 Spontaneous Sources of Finance",
+  "ref": "§27.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.59",
+  "section": "FM",
+  "ch": 9,
+  "path": "27.2 Inter-corporate Loans and Deposits",
+  "ref": "§27.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.60",
+  "section": "FM",
+  "ch": 9,
+  "path": "27.3 Commercial Papers",
+  "ref": "§27.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.61",
+  "section": "FM",
+  "ch": 9,
+  "path": "27.4 Funds Generated from Operations",
+  "ref": "§27.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.62",
+  "section": "FM",
+  "ch": 9,
+  "path": "27.5 Public Deposits",
+  "ref": "§27.5",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.63",
+  "section": "FM",
+  "ch": 9,
+  "path": "27.6 Bills Discounting",
+  "ref": "§27.6",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.64",
+  "section": "FM",
+  "ch": 9,
+  "path": "27.7 Bill Rediscounting Scheme",
+  "ref": "§27.7",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.65",
+  "section": "FM",
+  "ch": 9,
+  "path": "27.8 Factoring",
+  "ref": "§27.8",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.66",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit VI · 28. Working Capital Finance from Banks",
+  "ref": "§28",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.67",
+  "section": "FM",
+  "ch": 9,
+  "path": "28.1 Instructions on Working Capital Finance by Banks",
+  "ref": "§28.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "F09.68",
+  "section": "FM",
+  "ch": 9,
+  "path": "Unit VI · 29. Forms of Bank Credit",
+  "ref": "§29",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.01",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.1 Introduction",
+  "ref": "§2.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.02",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.2 Strategic Analysis",
+  "ref": "§2.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.03",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.2.1 Issues to consider for Strategic Analysis",
+  "ref": "§2.2.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.04",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.3 Strategic and Business Environment",
+  "ref": "§2.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.05",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.3.1 Micro and Macro Environment",
+  "ref": "§2.3.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.06",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.3.2 Elements of Macro Environment",
+  "ref": "§2.3.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.07",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.3.3 PESTLE – a tool to analyse Macro Environment",
+  "ref": "§2.3.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.08",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.3.4 Internationalization of Business",
+  "ref": "§2.3.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.09",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.3.5 International Environment",
+  "ref": "§2.3.5",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.10",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.4 Understanding Product and Industry",
+  "ref": "§2.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.11",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.4.1 Product Life Cycle",
+  "ref": "§2.4.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.12",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.4.2 Value Chain Analysis",
+  "ref": "§2.4.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.13",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.5 Industry Environment Analysis",
+  "ref": "§2.5",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.14",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.5.1 Porter's Five Forces Model",
+  "ref": "§2.5.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.15",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.5.2 Attractiveness of Industry",
+  "ref": "§2.5.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.16",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.5.3 Experience Curve",
+  "ref": "§2.5.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.17",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.5.4 Value Creation",
+  "ref": "§2.5.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.18",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.6 Market & Customer",
+  "ref": "§2.6",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.19",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.6.1 Customer",
+  "ref": "§2.6.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.20",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.6.2 Customer Analysis",
+  "ref": "§2.6.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.21",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.6.3 Customer Behaviour",
+  "ref": "§2.6.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.22",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.7 Competitive Strategy",
+  "ref": "§2.7",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.23",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.7.1 Competitive Landscape",
+  "ref": "§2.7.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S02.24",
+  "section": "SM",
+  "ch": 2,
+  "path": "2.7.2 Key Factors for Competitive Success",
+  "ref": "§2.7.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S03.01",
+  "section": "SM",
+  "ch": 3,
+  "path": "3.1 Introduction",
+  "ref": "§3.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S03.02",
+  "section": "SM",
+  "ch": 3,
+  "path": "3.2 Understanding Key Stakeholders",
+  "ref": "§3.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S03.03",
+  "section": "SM",
+  "ch": 3,
+  "path": "3.2.1 Mendelow's Matrix",
+  "ref": "§3.2.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S03.04",
+  "section": "SM",
+  "ch": 3,
+  "path": "3.3 Strategic Drivers",
+  "ref": "§3.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S03.05",
+  "section": "SM",
+  "ch": 3,
+  "path": "3.3.1 Industry and Markets",
+  "ref": "§3.3.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S03.06",
+  "section": "SM",
+  "ch": 3,
+  "path": "3.3.2 Customers",
+  "ref": "§3.3.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S03.07",
+  "section": "SM",
+  "ch": 3,
+  "path": "3.3.3 Product / Services",
+  "ref": "§3.3.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S03.08",
+  "section": "SM",
+  "ch": 3,
+  "path": "3.3.4 Channels",
+  "ref": "§3.3.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S03.09",
+  "section": "SM",
+  "ch": 3,
+  "path": "3.4 Role of Resources and Capabilities: Building Core Competency",
+  "ref": "§3.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S03.10",
+  "section": "SM",
+  "ch": 3,
+  "path": "3.4.1 Criteria for building Core Competencies",
+  "ref": "§3.4.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S03.11",
+  "section": "SM",
+  "ch": 3,
+  "path": "3.5 Combining External and Internal Analysis (SWOT Analysis)",
+  "ref": "§3.5",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S03.12",
+  "section": "SM",
+  "ch": 3,
+  "path": "3.6 Competitive Advantage: Michael Porter's Generic Strategies",
+  "ref": "§3.6",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S03.13",
+  "section": "SM",
+  "ch": 3,
+  "path": "3.6.1 Sustainability of Competitive Advantage",
+  "ref": "§3.6.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S03.14",
+  "section": "SM",
+  "ch": 3,
+  "path": "3.6.2 Michael Porter's Generic Strategies",
+  "ref": "§3.6.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S04.01",
+  "section": "SM",
+  "ch": 4,
+  "path": "4.1 Introduction",
+  "ref": "§4.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S04.02",
+  "section": "SM",
+  "ch": 4,
+  "path": "4.2 Strategic Choices",
+  "ref": "§4.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S04.03",
+  "section": "SM",
+  "ch": 4,
+  "path": "4.2.1 Stability Strategy",
+  "ref": "§4.2.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S04.04",
+  "section": "SM",
+  "ch": 4,
+  "path": "4.2.1.1 Characteristics of Stability Strategy",
+  "ref": "§4.2.1.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S04.05",
+  "section": "SM",
+  "ch": 4,
+  "path": "4.2.1.2 Major Reasons for Stability Strategy",
+  "ref": "§4.2.1.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S04.06",
+  "section": "SM",
+  "ch": 4,
+  "path": "4.2.2 Growth / Expansion Strategy",
+  "ref": "§4.2.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S04.07",
+  "section": "SM",
+  "ch": 4,
+  "path": "4.2.2.1 Characteristics of Growth / Expansion Strategy",
+  "ref": "§4.2.2.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S04.08",
+  "section": "SM",
+  "ch": 4,
+  "path": "4.2.2.2 Major Reasons for Growth / Expansion Strategy",
+  "ref": "§4.2.2.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S04.09",
+  "section": "SM",
+  "ch": 4,
+  "path": "4.2.2.3 Types of Growth / Expansion Strategy (internal and external)",
+  "ref": "§4.2.2.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S04.10",
+  "section": "SM",
+  "ch": 4,
+  "path": "4.3 Strategic Exits",
+  "ref": "§4.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S04.11",
+  "section": "SM",
+  "ch": 4,
+  "path": "4.4 Strategic Options",
+  "ref": "§4.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S04.12",
+  "section": "SM",
+  "ch": 4,
+  "path": "4.4.1 Ansoff's Product Market Growth Matrix",
+  "ref": "§4.4.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S04.13",
+  "section": "SM",
+  "ch": 4,
+  "path": "4.4.2 ADL Matrix",
+  "ref": "§4.4.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S04.14",
+  "section": "SM",
+  "ch": 4,
+  "path": "4.4.3 Boston Consulting Group (BCG) Growth-Share Matrix",
+  "ref": "§4.4.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S04.15",
+  "section": "SM",
+  "ch": 4,
+  "path": "4.4.4 General Electric Matrix (\"Stop-Light\" Strategy Model)",
+  "ref": "§4.4.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S05.01",
+  "section": "SM",
+  "ch": 5,
+  "path": "5.1 Introduction",
+  "ref": "§5.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S05.02",
+  "section": "SM",
+  "ch": 5,
+  "path": "5.2 Strategic Management Process",
+  "ref": "§5.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S05.03",
+  "section": "SM",
+  "ch": 5,
+  "path": "5.2.1 Stages in Strategic Management",
+  "ref": "§5.2.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S05.04",
+  "section": "SM",
+  "ch": 5,
+  "path": "5.2.2 Strategy Formulation",
+  "ref": "§5.2.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S05.05",
+  "section": "SM",
+  "ch": 5,
+  "path": "5.2.3 Strategy Implementation",
+  "ref": "§5.2.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S05.06",
+  "section": "SM",
+  "ch": 5,
+  "path": "5.2.4 Difference between Strategy Formulation and Implementation",
+  "ref": "§5.2.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S05.07",
+  "section": "SM",
+  "ch": 5,
+  "path": "5.2.5 Linkages and Issues in Strategy Implementation",
+  "ref": "§5.2.5",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S05.08",
+  "section": "SM",
+  "ch": 5,
+  "path": "5.3 Strategic Change through Digital Transformation",
+  "ref": "§5.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S05.09",
+  "section": "SM",
+  "ch": 5,
+  "path": "5.3.1 Strategic Change",
+  "ref": "§5.3.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S05.10",
+  "section": "SM",
+  "ch": 5,
+  "path": "5.3.2 How does Digital Transformation work?",
+  "ref": "§5.3.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S05.11",
+  "section": "SM",
+  "ch": 5,
+  "path": "5.3.3 Change Management Strategies for Digital Transformation",
+  "ref": "§5.3.3",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S05.12",
+  "section": "SM",
+  "ch": 5,
+  "path": "5.3.4 How to manage change during Digital Transformation?",
+  "ref": "§5.3.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S05.13",
+  "section": "SM",
+  "ch": 5,
+  "path": "5.4 Organizational Framework",
+  "ref": "§5.4",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S05.14",
+  "section": "SM",
+  "ch": 5,
+  "path": "5.4.1 Organization Structure",
+  "ref": "§5.4.1",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S05.15",
+  "section": "SM",
+  "ch": 5,
+  "path": "5.4.2 Organization Culture",
+  "ref": "§5.4.2",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S05.16",
+  "section": "SM",
+  "ch": 5,
+  "path": "5.5 Strategic Leadership",
+  "ref": "§5.5",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S05.17",
+  "section": "SM",
+  "ch": 5,
+  "path": "5.6 Strategic Control",
+  "ref": "§5.6",
+  "page": "",
+  "subpoints": []
+ },
+ {
+  "code": "S05.18",
+  "section": "SM",
+  "ch": 5,
+  "path": "5.7 Strategic Performance Measures",
+  "ref": "§5.7",
+  "page": "",
+  "subpoints": []
+ }
+]

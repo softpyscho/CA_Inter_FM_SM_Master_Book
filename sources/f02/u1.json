@@ -1,0 +1,445 @@
+{
+ "meta": {
+  "chapter_no": 2,
+  "section": "FM",
+  "paper": "CA Intermediate · Paper 6A · Financial Management",
+  "chapter_title": "FM Chapter 2 — Types of Financing",
+  "short_title": "FM Ch 2 Types of Financing",
+  "module": "Paper 6A Financial Management · Module 1",
+  "attempt": "January 2027",
+  "sm_edition": "ICAI BoS Study Material, Paper 6A (relevant for May 2026 examination onwards), Module 1, Chapter 2 (pp. 2.1–2.46)",
+  "last_verified": "18-09-2026",
+  "status_summary": "SM headings 25/25 · official atoms 31/31"
+ },
+ "sections_before": [
+  {
+   "heading": "Examiner Mindset — FM Chapter 2",
+   "blocks": [
+    {"type": "box", "tag": "pyq", "title": "What ICAI's published papers tell us",
+     "bullets": [
+      "ICAI has published no examiners' comments for Paper 6; the guidance below comes from its suggested answers, RTPs and MTPs.",
+      "This is **the most reliable theory chapter in Section A**: a part of Q4 comes from it in every attempt from Sep 2024 to May 2026 (ESG bonds, seed capital, bridge finance, post-shipment finance, junk bonds, debentures, leveraged lease, four types of bonds).",
+      "The pattern is 'name four and describe them': four bond types, four types of lease, four methods of venture capital financing, four types of preference shares. Marks are given per item, so **learn the lists, not essays**.",
+      "Lease types and venture capital methods are the two most repeated topics: leases appeared in 5 MTPs and one past paper; venture capital methods in 3 MTPs and 1 RTP."
+     ]},
+    {"type": "box", "tag": "face", "title": "How ICAI answers this chapter (study guidance)",
+     "bullets": [
+      "Each item gets a **bold name plus two or three lines**, in study-material words. ICAI rarely adds anything beyond the SM description.",
+      "For a 2-mark part, ICAI gives just the meaning plus one distinguishing feature (e.g. callable and puttable bonds).",
+      "For 'identify the type of finance' cases (May 2026 post-shipment), the first mark is for naming the source; the rest is the list of its forms.",
+      "Where a source appears in two chapters (bank credit, trade credit, commercial paper), ICAI's answer uses the wording of whichever chapter the question quotes."
+     ]}
+   ]
+  }
+ ],
+ "snapshot": {
+  "about": "Where a business gets its money: long-term sources (equity, preference, retained earnings, debentures, bonds, institutional and bank loans), venture capital, debt securitisation, lease financing, short-term sources including export finance, other instruments, international financing and contemporary sources such as crowd funding.",
+  "why": "It supplies a guaranteed theory part of Q4 every attempt, and the vocabulary for cost of capital (Ch 4), capital structure (Ch 5) and working capital (Ch 9).",
+  "core_concepts": [
+   "F02.01–F02.05 Financial needs (long, medium, short term) and the three classifications of sources",
+   "F02.07–F02.11 Equity, preference shares, retained earnings, debentures and bonds with their advantages and disadvantages",
+   "F02.13 Loans from commercial banks and bridge finance",
+   "F02.14–F02.17 Venture capital financing: meaning, characteristics and four methods",
+   "F02.18 Debt securitisation and the role of the SPV",
+   "F02.19–F02.21 Operating vs financial lease and four other types of lease",
+   "F02.22 Short-term sources, including pre-shipment and post-shipment export finance",
+   "F02.23–F02.25 Other sources, international financing and crowd funding"
+  ],
+  "key_provisions": [
+   "Basic principle: short-term needs from short-term sources, medium-term from medium-term, long-term from long-term",
+   "Venture capital equity contribution does not exceed 49% of the venture's equity capital",
+   "Public deposits: up to 35% of paid-up capital and reserves, for six months to three years",
+   "Commercial paper: denominations of ₹5 lakh or multiples; treasury bills 14 to 364 days; certificates of deposit 7 days to one year",
+   "Packing credit and post-shipment advances to be liquidated within 180 days"
+  ],
+  "tested_areas": [
+   {"text": "Types of lease (other than operating and financial)", "evidence": "PYQ Sep 2024 Q4(c); MTP Apr 2025, Aug 2024, Dec 2025, Jul 2026"},
+   {"text": "Venture capital financing: methods and characteristics", "evidence": "MTP Mar 2024, Nov 2025, Jul 2025; RTP May 2025"},
+   {"text": "Bonds: callable, puttable, masala, drop lock, junk, bulldog", "evidence": "PYQ Sep 2025 Q4(b), May 2026 Q4(c) OR; MTP Aug 2026; RTP Jan 2026"},
+   {"text": "Debentures and preference shares: features, advantages, disadvantages", "evidence": "PYQ Sep 2024 Q4(a); MTP Apr 2025, Mar 2026; RTP Sep 2024"},
+   {"text": "Newer sources: ESG bonds, seed capital, crowd funding vs P2P, IDRs", "evidence": "PYQ Jan 2025 Q4(a), Jan 2026 Q4(a), May 2024 Q4(c) OR; MTP Aug 2025, Apr 2024"}
+  ],
+  "mistakes": [
+   "Calling preference dividend tax-deductible. It is not, which makes preference capital costlier than debt.",
+   "Saying an operating lease is non-cancellable. It is the financial lease that is non-cancellable.",
+   "Mixing up ADR (US), GDR (mainly Europe) and IDR (foreign company raising rupees in India).",
+   "Treating crowd funding and P2P lending as different sources. P2P lending is a category of crowd funding."
+  ],
+  "links": [
+   "FM Ch 1 §2.1: the same sources introduced briefly",
+   "FM Ch 4: cost of each source (debt, preference, equity, retained earnings)",
+   "FM Ch 5: choosing the mix (capital structure)",
+   "FM Ch 9: trade credit, commercial paper, factoring and bank finance for working capital"
+  ],
+  "revision_path": "5 min: the four lease types + four venture capital methods + bond names · 15 min: add equity/preference/debenture advantages and disadvantages · 30 min: add export finance, international instruments and contemporary sources."
+ },
+ "evidence": {
+  "pyq_table": [
+   {"id": "PYQ-S24-Q4a", "question": "Two advantages and two disadvantages of raising finance by issue of debentures", "concept": "F02.10", "marks": 4, "type": "List", "repeat": "R5"},
+   {"id": "PYQ-S24-Q4c", "question": "What is a leveraged lease?", "concept": "F02.21", "marks": 2, "type": "Explain", "repeat": "R5"},
+   {"id": "PYQ-J25-Q4a", "question": "Environmental, Social and Governance linked bonds", "concept": "F02.24", "marks": 4, "type": "Explain", "repeat": "R5"},
+   {"id": "PYQ-M25-Q4b", "question": "Key features of bridge financing", "concept": "F02.13", "marks": 4, "type": "List", "repeat": "R5"},
+   {"id": "PYQ-S25-Q4b", "question": "Callable, puttable, masala and drop lock bonds", "concept": "F02.11", "marks": 4, "type": "Explain four", "repeat": "R5"},
+   {"id": "PYQ-J26-Q4a", "question": "Key features of seed capital assistance", "concept": "F02.23", "marks": 4, "type": "Explain", "repeat": "R5"},
+   {"id": "PYQ-M26-Q4b", "question": "Exporter awaiting realisation of export proceeds: identify the finance and explain three of its forms", "concept": "F02.22", "marks": 4, "type": "Case: identify + explain", "repeat": "R5"},
+   {"id": "PYQ-M26-Q4c-OR", "question": "Junk bonds and why they are called high-yield bonds", "concept": "F02.23", "marks": 2, "type": "Explain", "repeat": "R5"},
+   {"id": "PYQ-M24-Q4c-OR", "question": "Features of crowd funding", "concept": "F02.25", "marks": 2, "type": "Explain", "repeat": "R5"}
+  ],
+  "trend": [
+   "Every attempt from May 2024 to May 2026 carried at least one part from this chapter, usually Q4(a) or Q4(b).",
+   "ICAI rotates through the source list rather than repeating the same source: debentures (Sep 2024), ESG bonds (Jan 2025), bridge finance (May 2025), bond types (Sep 2025), seed capital (Jan 2026), post-shipment finance (May 2026).",
+   "2-mark parts come from the small definitions: leveraged lease, junk bonds, crowd funding, IDRs."
+  ],
+  "rtp_takeaways": [
+   "RTPs repeat venture capital methods and preference share types, and add bulldog bonds (Jan 2026).",
+   "The May 2026 RTP set a full lease-rental computation, so lease financing can also come as a numerical, even though the SM says detailed lease problems are at Final level."
+  ],
+  "mtp_takeaways": [
+   "'Explain four other types of lease' appeared in four MTPs (Aug 2024, Apr 2025, Dec 2025, Jul 2026) — the single most repeated question of this chapter.",
+   "Venture capital methods appeared in three MTPs; debt securitisation in two.",
+   "MTPs also test small items: IDRs, public deposit period, international instruments (fully hedged bonds, MTN, FRN, ECP), crowd funding vs P2P lending."
+  ],
+  "note": "Counting method: every official part mapped to this chapter from ICAI suggested answers (May 2024 to May 2026), RTPs (May 2024 to Sep 2026) and MTPs (Mar 2024 to Aug 2026)."
+ },
+ "concepts": [
+  {
+   "code": "F02.01 + F02.02 + F02.03 + F02.04 + F02.05",
+   "title": "1–2. Financial Needs of a Business and Classification of Financial Sources",
+   "activity": "Foundation",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 0",
+   "understand": [
+    "**Three financial needs (§1).** (i) ==Long-term financial needs: funds required for a period exceeding 5–10 years== — investment in plant, machinery, land, buildings; funds for **permanent or hard-core working capital** should also come from long-term sources. (ii) ==Medium-term needs: exceeding one year but not exceeding 5 years== — stores and spares, critical spares, tools, dies, moulds. (iii) ==Short-term needs: to finance current assets== (stock, debtors, cash), i.e. working capital; they arise for a period **not exceeding one accounting year**.",
+    "==Basic principle for funding: short-term needs from short-term sources, medium-term needs from medium-term sources and long-term needs from long-term sources.== The method of raising funds is decided with reference to the period for which funds are required.",
+    "The general rule can change with the **nature and level of operation of the borrower** and the **stage of development** of the business: Early stage — high uncertainty — **equity, mainly angel fund**; high to moderate uncertainty — **equity, venture capital, debt**; growth stage — moderate to low uncertainty — **debt, venture capital, private equity**; stable stage — low uncertainty — **debt**.",
+    "**Classification (§2).** Sources are classified in three ways: **(i) based on basic sources, (ii) based on maturity of repayment period, (iii) based on ownership and control**.",
+    "**By basic source (§2.1): External sources** — share capital (equity shares, preference shares) and debt or borrowed capital (debentures, loans from financial institutions, others); **Internal sources** — mainly **retained earnings**.",
+    "**By maturity (§2.2). Long-term:** share capital/equity shares; preference shares; retained earnings; debentures/bonds of different types; loans from financial institutions; loans from State Financial Corporations; loans from commercial banks; venture capital funding; asset securitisation; international financing such as Euro-issues and foreign currency loans. **Medium-term:** preference shares; debentures/bonds; public/fixed deposits for three years; medium-term loans from commercial banks, financial institutions and State Financial Corporations; lease financing / hire-purchase financing; external commercial borrowings; Euro-issues; foreign currency bonds. **Short-term:** trade credit; accrued expenses and deferred income; short-term loans such as working capital loans from commercial banks; advances received from customers; various short-term provisions.",
+    "**By ownership and control (§2.3): Owner's fund** — equity share capital and retained earnings; **Borrowed fund** — debentures, loans from banks, loans from financial institutions and others."
+   ],
+   "example": "A start-up with an untested product raises angel equity (early stage, high uncertainty); once sales stabilise it borrows from a bank (stable stage, low uncertainty) — exactly the SM's stage-wise table.",
+   "provisions": [
+    {"ref": "Matching principle (SM §1)", "status": "VERIFIED",
+     "requirement": "Short-term needs from short-term sources, medium from medium, long from long; permanent working capital is funded from long-term sources.",
+     "exam_angle": "MCQ on which source suits which need, or a case asking whether a firm has financed fixed assets with short-term money."}
+   ],
+   "keywords": ["long-term financial needs", "medium-term financial needs", "short-term financial needs", "hard-core working capital", "basic sources", "maturity of payment", "ownership and control", "owner's fund", "borrowed fund"],
+   "memory": {
+    "trick": "\"LONG builds, MEDIUM equips, SHORT runs\": long-term for plant and permanent working capital, medium-term for spares and tools, short-term for stock, debtors and cash.",
+    "key": [["Long", "5–10 years+: plant, land, buildings, permanent working capital"], ["Medium", "1–5 years: stores, spares, tools, dies, moulds"], ["Short", "Up to one year: stock, debtors, cash"], ["3 classifications", "Basic source · maturity · ownership and control"]],
+    "recall_trigger": "LONG-MEDIUM-SHORT"
+   },
+   "mistakes": ["Financing permanent working capital from short-term sources; the SM says it should come from long-term sources.", "Listing retained earnings as an external source. It is the main internal source."],
+   "links": ["🔗 FM Ch 9 §5: estimating working capital needs", "🔗 FM Ch 5: the equity–debt mix"],
+   "face_in_exam": {
+    "forms": ["MCQ on internal vs external sources (SM MCQs 2, 3, 10)", "Short note on financial needs of a business"],
+    "approach": ["Give the three needs with their periods, then the matching principle"],
+    "official_pattern": "Not yet asked directly; SM MCQs test it.",
+    "time_tip": "2 marks ≈ 3 minutes (study guidance)."
+   },
+   "expected_questions": [
+    {"id": "EQ-F02.01-1", "form": "Explain (4 marks)", "marks": 4,
+     "question": "Explain the three categories of financial needs of a business and the basic principle for funding them.",
+     "answer_points": [
+      "Long-term financial needs: funds for a period exceeding 5–10 years, e.g. plant, machinery, land and buildings; permanent or hard-core working capital should also be financed from long-term sources.",
+      "Medium-term financial needs: funds for a period exceeding one year but not exceeding five years, e.g. stores and spares, critical spares, tools, dies and moulds.",
+      "Short-term financial needs: funds to finance current assets such as stock, debtors and cash, i.e. working capital, arising for a period not exceeding one accounting year.",
+      "Basic principle: short-term needs should be met from short-term sources, medium-term needs from medium-term sources and long-term needs from long-term sources; the method of raising funds is decided by the period for which funds are needed.",
+      "The rule flexes with the borrower's level of operation, the stage of development and the nature of business (early stage: equity and angel funds; growth: debt, venture capital, private equity; stable: debt)."
+     ],
+     "keywords": ["hard-core working capital", "matching principle", "stage of development"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F02.01-01", "angle": "Classification", "difficulty": "Easy",
+     "question": "Which of the following is an internal source of finance?",
+     "options": {"A": "Retained earnings", "B": "Debentures", "C": "Overdraft", "D": "Lease finance"},
+     "answer": "A",
+     "explanation": "SM §2.1: internal sources are mainly retained earnings; debentures, overdrafts and leasing are external.",
+     "why_wrong": {"B": "External, borrowed capital.", "C": "External bank facility.", "D": "External arrangement with a lessor."},
+     "trap": "SM MCQ 3 uses the same idea in reverse (ordinary shares are not internal).",
+     "concept": "F02.03"},
+    {"id": "MCQ-F02.02-02", "angle": "Matching", "difficulty": "Moderate",
+     "question": "As per the study material, permanent or hard-core working capital should be financed from:",
+     "options": {"A": "Trade credit", "B": "Long-term sources", "C": "Bank overdraft", "D": "Advances from customers"},
+     "answer": "B",
+     "explanation": "SM §1: funds required to finance permanent or hard-core working capital should be procured from long-term sources.",
+     "why_wrong": {"A": "A short-term spontaneous source.", "C": "A short-term facility.", "D": "A short-term source."},
+     "trap": "Assuming all working capital is financed short term.",
+     "concept": "F02.01"}
+   ],
+   "recap": ["Three needs: long (5–10 yrs+), medium (1–5 yrs), short (≤1 yr).", "Match the source to the period; permanent working capital is long term.", "Classify by basic source, maturity, and ownership and control."]
+  },
+  {
+   "code": "F02.06 + F02.07",
+   "title": "3–3.1 Long-term Sources: Owners' Capital or Equity Capital",
+   "activity": "Medium",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 0 (SM theoretical question 2)",
+   "understand": [
+    "Long-term sources are broadly **share capital (equity and preference)** and **debt** (debentures, long-term borrowings, other debt instruments).",
+    "**Equity capital (§3.1).** A public limited company raises owner's capital from promoters or the investing public by issuing **ordinary equity shares**. Characteristics: it is a source of **permanent capital**; holders are **equity or ordinary shareholders**; they are practically the **owners** and undertake the **highest risk**; they are entitled to dividends **after the income claims of other stakeholders are satisfied**, and dividend is an **appropriation of profits, not a charge**; on winding up they claim **after all other suppliers of capital**; the **cost of ordinary shares is usually the highest** because their risk is highest; equity also provides **security to other suppliers of funds** (lenders check that the debt-equity ratio can cover the debt). Types include **new issue, rights issue, bonus shares and sweat equity**.",
+    "**Advantages of equity shares:** (i) **permanent source** — not redeemable, so no cash outflow on redemption; once issued, shares are tradable and the company is not responsible for investors' cash flows; (ii) it **increases the financial base** and so the **borrowing power** of the company (debt then raises EPS and share price); (iii) the company is **not legally obliged to pay dividends**, so in uncertain times payments can be reduced or suspended; (iv) capital can be increased further through a **rights issue**.",
+    "**Disadvantages of equity shares:** (i) investors find ordinary shares **riskier** because of uncertain dividends and capital gains; (ii) a new issue **reduces EPS** of existing shareholders unless profits rise proportionately; (iii) a new issue can **reduce the ownership and control** of existing shareholders.",
+    "**Retained earnings (§3.3, covered with the next block)** belong to ordinary shareholders and increase net worth."
+   ],
+   "example": "A profitable company funds a new plant with a rights issue: no fixed obligation and no dilution to outsiders, but EPS falls until the plant earns.",
+   "keywords": ["permanent capital", "highest risk", "appropriation of profits", "cost of ordinary shares is usually the highest", "security to other suppliers of funds", "rights issue", "sweat equity"],
+   "memory": {
+    "trick": "Equity = \"P-R-C\": Permanent, Riskiest for investors, Costliest for the company.",
+    "key": [["Permanent", "No redemption; no repayment obligation"], ["Risk", "Owners bear the highest risk; paid last"], ["Cost", "Highest cost; dividend is an appropriation, not tax-deductible"], ["Control", "New issue may dilute control and reduce EPS"]],
+    "recall_trigger": "P-R-C"
+   },
+   "mistakes": ["Writing that equity carries a fixed dividend. The rate fluctuates and dividends are not compulsory.", "Saying equity is cheap because no interest is paid. The SM calls it the most expensive source."],
+   "links": ["🔗 FM Ch 4 §7: cost of equity share capital", "🔗 FM Ch 5 §5: EBIT-EPS analysis of equity versus debt"],
+   "face_in_exam": {
+    "forms": ["Advantages of raising funds by issue of equity shares (SM theoretical question 2)", "MCQ on features of equity shares (SM MCQ 1)"],
+    "approach": ["Four advantages, then three disadvantages, in SM order"],
+    "official_pattern": "Not yet asked in a past paper; it is an SM theoretical question, so it is exam-ready.",
+    "time_tip": "4 marks ≈ 7 minutes (study guidance)."
+   },
+   "expected_questions": [
+    {"id": "EQ-F02.07-1", "form": "Discuss (4 marks)", "marks": 4,
+     "question": "Discuss the advantages and disadvantages of raising funds by issue of equity shares.",
+     "answer_points": [
+      "**Advantages:** it is a permanent source of finance — shares are not redeemable, so there is no liability for cash outflow on redemption; once issued they are tradable between investors.",
+      "Equity capital increases the company's financial base and so its borrowing power, allowing it to raise debt that can increase EPS and share price.",
+      "The company is not legally obliged to pay dividends; in uncertain times payment can be reduced or suspended.",
+      "The company can raise further capital through a rights issue.",
+      "**Disadvantages:** investors find ordinary shares riskier because dividends and capital gains are uncertain; a new issue reduces the EPS of existing shareholders unless profits rise proportionately; and it can reduce the ownership and control of existing shareholders."
+     ],
+     "keywords": ["permanent source", "borrowing powers", "not obliged legally to pay dividends", "rights issue", "reduces the earning per share"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F02.07-01", "angle": "Feature", "difficulty": "Easy",
+     "question": "Equity shares, as per the study material:",
+     "options": {"A": "Have a limited life, with no voting rights but receive dividends", "B": "Have a limited life, voting rights and receive dividends", "C": "Have an unlimited life, voting rights and receive dividends", "D": "Have an unlimited life and voting rights but receive no dividends"},
+     "answer": "C",
+     "explanation": "SM MCQ 1 key (a): equity shares are a permanent (unlimited life) source, carry voting rights and receive dividends.",
+     "why_wrong": {"A": "Equity carries voting rights and has no fixed life.", "B": "Equity capital is permanent.", "D": "Equity shareholders do receive dividends when declared."},
+     "trap": "Confusing equity with redeemable preference shares.",
+     "concept": "F02.07"},
+    {"id": "MCQ-F02.07-02", "angle": "Reasoning", "difficulty": "Moderate",
+     "question": "Why does the study material describe the cost of ordinary shares as usually the highest?",
+     "options": {"A": "Because dividends are a charge against profit", "B": "Because equity shareholders are paid before lenders", "C": "Because equity must be redeemed at a premium", "D": "Because equity shareholders bear the highest risk and so expect a higher rate of return than other suppliers of long-term funds"},
+     "answer": "D",
+     "explanation": "SM §3.1: the cost of ordinary shares is usually the highest because such shareholders expect a higher rate of return, their risk being the highest.",
+     "why_wrong": {"A": "Dividend is an appropriation of profit, not a charge.", "B": "They rank after all other suppliers of capital.", "C": "Equity is not redeemable in the normal course."},
+     "trap": "Options that reverse the priority of claims.",
+     "concept": "F02.07"}
+   ],
+   "recap": ["Equity = permanent capital, highest risk to investors, highest cost to the company.", "Advantages: permanent, raises borrowing power, no compulsory dividend, rights issue possible.", "Disadvantages: risky for investors, dilutes EPS and control."]
+  },
+  {
+   "code": "F02.08 + F02.09",
+   "title": "3.2–3.3 Preference Share Capital and Retained Earnings",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "RTP 1 (Sep 2024) · MTP 1 (Mar 2026)",
+   "understand": [
+    "**Preference shares (§3.2)** are a special kind of share whose holders enjoy **priority both as to payment of a fixed dividend and repayment of capital on winding up**. Characteristics: long-term funds can be raised through a **public issue**; such shares are **normally cumulative** (dividend of a loss year is carried over until there are adequate profits); the **rate of dividend is normally higher than the rate of interest** on debentures and loans; most carry a **stipulated period** and must be repaid at its end.",
+    "==Preference share capital is a hybrid form of financing: like equity because preference dividend, like equity dividend, is not a tax-deductible payment; like debt because the rate of dividend is fixed.==",
+    "**Cumulative Convertible Preference Shares (CCPs)** may be offered, carrying a cumulative dividend for a period of, say, three years, after which they are converted into equity; these suit projects with a **long gestation period**. Preference capital may be **redeemed at a pre-decided future date or earlier out of profits**, letting promoters withdraw capital from a now self-sufficient company and reinvest it.",
+    "**Types of preference shares (SM table):** **Cumulative** — arrear dividend will accumulate; **Non-cumulative** — no right to arrear dividend; **Redeemable** — redemption should be done; **Participating** — can participate in the surplus remaining after payment to equity shareholders; **Non-participating** — cannot participate in the surplus after payment of a fixed rate of dividend; **Convertible** — option of converting into equity shares.",
+    "**Advantages of preference shares:** (i) **no dilution in EPS** on an enlarged capital base (equity issue would reduce EPS and affect market perception); (ii) **leverage advantage**, as it bears a fixed charge, while non-payment of preference dividend does not force the company into liquidation; (iii) **no risk of takeover**, since preference shareholders have no voting rights except where dividends are in arrears; (iv) preference dividends are **fixed and pre-decided**, so holders cannot share surplus profits (except participating shares); (v) capital can be **redeemed** after a specified period.",
+    "**Disadvantages:** (i) preference dividend is **not tax deductible**, so it gives no tax shield and preference shares are **costlier than debt such as debentures**; (ii) preference dividends are **cumulative**, so unpaid dividends accumulate and until they are paid no dividend can be paid to ordinary shareholders, which can seriously impair the company's reputation.",
+    "**Equity vs preference shares (SM table):** dividend payment — equity dividend is paid after preference dividend; rate of dividend — fluctuating vs fixed; convertibility — equity not convertible, preference convertible; voting rights — equity shareholders enjoy full voting rights, preference shareholders have very limited voting rights.",
+    "**Retained earnings (§3.3).** Long-term funds may be provided by **accumulating profits and ploughing them back**. Such funds **belong to the ordinary shareholders** and increase the **net worth**. A public limited company must plough back a reasonable amount every year, keeping in view legal requirements and its expansion plans. These funds entail **almost no risk** and the **control of present owners is not diluted**. The decision to plough back depends on the **rate of return generated by the company versus the expected cost of equity** (discussed in the dividend chapter)."
+   ],
+   "example": "A company with a long-gestation project issues cumulative convertible preference shares: investors get a fixed dividend for three years and then equity, and the company avoids immediate EPS dilution.",
+   "provisions": [
+    {"ref": "Preference shares as hybrid financing (SM §3.2)", "status": "VERIFIED",
+     "requirement": "Fixed dividend (like debt) but not tax-deductible (like equity); priority over equity for dividend and on winding up; ranks after debt.",
+     "exam_angle": "Sep 2025 MCQ in Part I used exactly this hybrid idea; RTP Sep 2024 and MTP Mar 2026 asked for the types table."}
+   ],
+   "keywords": ["priority", "hybrid form of financing", "not a tax-deductible payment", "cumulative", "participating", "convertible", "no dilution in EPS", "no risk of takeover", "plough back", "net worth"],
+   "memory": {
+    "trick": "Types = \"C-N-R-P-N-C\": Cumulative, Non-cumulative, Redeemable, Participating, Non-participating, Convertible.",
+    "key": [["Cumulative", "Arrear dividend accumulates"], ["Non-cumulative", "No right to arrears"], ["Redeemable", "Must be redeemed"], ["Participating", "Shares surplus after equity is paid"], ["Non-participating", "Only the fixed rate"], ["Convertible", "Can become equity"]],
+    "recall_trigger": "C-N-R-P-N-C"
+   },
+   "mistakes": ["Saying preference capital is cheaper than debentures. It is costlier because the dividend gives no tax shield.", "Giving preference shareholders full voting rights; they have very limited rights, except when dividends are in arrears."],
+   "compare": {"title": "Equity vs preference shares (SM §3.2 table)", "headers": ["Basis", "Equity share", "Preference share"], "rows": [["Dividend payment", "Paid after preference dividend", "Preferred over equity dividend"], ["Rate of dividend", "Fluctuating", "Fixed"], ["Convertibility", "Not convertible", "Convertible"], ["Voting rights", "Full voting rights", "Very limited voting rights"]]},
+   "links": ["🔗 FM Ch 4 §6: cost of preference share capital", "🔗 FM Ch 8: dividend decision and the plough-back choice"],
+   "face_in_exam": {
+    "forms": ["Explain four types of preference shares with salient features (MTP Mar 2026, RTP Sep 2024)", "Advantages and disadvantages of preference shares", "Distinguish equity and preference shares"],
+    "approach": ["Answer the types question as a two-column table: type and salient feature", "For advantages, remember EPS, leverage, takeover, fixed dividend, redemption"],
+    "official_pattern": "RTP-S24-FQ12b; MTP-M26-S1-FQ4b.",
+    "time_tip": "4 marks ≈ 7 minutes (study guidance)."
+   },
+   "write": {
+    "structure": ["One-line meaning of preference shares", "Table of types with salient features", "(If asked) advantages and disadvantages"],
+    "keywords": ["hybrid form of financing", "arrear dividend", "participate in the surplus"],
+    "length": "4 marks: a six-row table or four types with a line each",
+    "conclusion": "Preference capital gives a fixed-charge instrument without diluting control, but without a tax shield.",
+    "avoid": ["Calling preference dividend an expense"]
+   },
+   "official_questions": [
+    {"id": "MTP-M26-S1-FQ4b", "marks": 4, "status": "VERIFIED",
+     "question": "Explain any four types of preference shares along with their salient features.",
+     "answer_points": [
+      "**Cumulative:** arrear dividend will accumulate.",
+      "**Non-cumulative:** no right to arrear dividend.",
+      "**Redeemable:** redemption should be done.",
+      "**Participating:** can participate in the surplus which remains after payment to equity shareholders.",
+      "**Non-participating:** cannot participate in the surplus after payment of a fixed rate of dividend.",
+      "**Convertible:** option of converting into equity shares."
+     ],
+     "conclusion": "Any four of the six, presented as a table of type and salient feature.",
+     "keywords": ["cumulative", "participating", "convertible"],
+     "also_asked_as": ["RTP-S24-FQ12b (explain in brief the features of various types of preference shares)"]}
+   ],
+   "expected_questions": [
+    {"id": "EQ-F02.08-1", "form": "Explain (4 marks)", "marks": 4,
+     "question": "\"Preference share capital is a hybrid form of financing.\" Explain, and state two advantages and two disadvantages of raising funds through preference shares.",
+     "answer_points": [
+      "It is hybrid because it resembles equity — preference dividend, like equity dividend, is not a tax-deductible payment — and resembles debt because the rate of preference dividend is fixed.",
+      "Holders enjoy priority both as to payment of a fixed dividend and repayment of capital on winding up; shares are normally cumulative and usually carry a stipulated period.",
+      "Advantages: no dilution in EPS on an enlarged capital base; leverage advantage of a fixed charge, while non-payment does not force liquidation; no risk of takeover as voting rights are limited; capital can be redeemed after a specified period.",
+      "Disadvantages: preference dividend is not tax deductible, so there is no tax shield and preference capital is costlier than debentures; dividends are cumulative, and until arrears are paid no equity dividend can be paid, which can impair the company's reputation."
+     ],
+     "keywords": ["hybrid form of financing", "not tax deductible", "no dilution in EPS", "cumulative"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F02.08-01", "angle": "Feature", "difficulty": "Easy",
+     "question": "In preference shares:",
+     "options": {"A": "Dividends are not available", "B": "Limited voting rights are available", "C": "They are not part of a company's share capital", "D": "Interest can be received"},
+     "answer": "B",
+     "explanation": "SM MCQ 4 key (b): preference shareholders have very limited voting rights, except where dividends are in arrears.",
+     "why_wrong": {"A": "They receive a fixed dividend.", "C": "They are part of share capital.", "D": "They receive dividend, not interest."},
+     "trap": "Confusing the fixed dividend with interest.",
+     "concept": "F02.08"},
+    {"id": "MCQ-F02.09-02", "angle": "Concept", "difficulty": "Moderate",
+     "question": "Which statement about retained earnings is correct as per the study material?",
+     "options": {"A": "They belong to the ordinary shareholders and increase the net worth of the company", "B": "They are an external source of finance", "C": "They dilute the control of present owners", "D": "They carry a fixed cost payable annually"},
+     "answer": "A",
+     "explanation": "SM §3.3: funds ploughed back belong to ordinary shareholders and increase net worth; they entail almost no risk and do not dilute control.",
+     "why_wrong": {"B": "They are the main internal source.", "C": "Control is not diluted.", "D": "There is no contractual annual payment."},
+     "trap": "Thinking retained earnings are free of any cost; the plough-back decision compares the return generated with the cost of equity.",
+     "concept": "F02.09"}
+   ],
+   "recap": ["Preference = hybrid: fixed dividend, no tax shield, priority over equity.", "Six types: cumulative, non-cumulative, redeemable, participating, non-participating, convertible.", "Retained earnings: internal, belong to equity holders, no dilution of control."]
+  },
+  {
+   "code": "F02.10 + F02.11",
+   "title": "3.4–3.5 Debentures and Bonds",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 2 (Sep 2024 Q4(a), Sep 2025 Q4(b)) · MTP 2 (Apr 2025, Aug 2026)",
+   "understand": [
+    "**Debentures (§3.4).** Loans can be raised from the public by issuing debentures or bonds. Characteristics: issued in **denominations of ₹100 to ₹1,000** carrying different rates of interest; normally issued on the basis of a **debenture trust deed** listing the terms; they are instruments for raising **long-term debt capital**; the **maturity period normally varies from 3 to 10 years** (longer for high-gestation projects); they are **either secured or unsecured**; they **may or may not be listed**; the **cost of capital raised is quite low** since interest is charged as an expense before tax; from the investor's point of view they are **more attractive than preference shares** because interest is payable whether or not the company makes profits.",
+    "**By convertibility:** (i) **Non-convertible** — no conversion feature, repayable on maturity; (ii) **Fully convertible** — converted into equity as per terms of issue; interest rates are generally **lower** than on non-convertible debentures because of the conversion attraction; (iii) **Partly convertible** — carries features of both.",
+    "**Other types (SM table):** **Bearer** — transferable like negotiable instruments; **Registered** — interest payable to the registered person; **Mortgage** — secured by a charge on asset(s); **Naked or simple** — unsecured; **Redeemable** — repaid after a certain period; **Non-redeemable** — not repayable.",
+    "**Advantages of debentures:** (i) **cost is much lower** than preference or equity capital as interest is tax-deductible, and investors consider debentures safer so require a lower return; (ii) **no dilution of control**; (iii) in a **period of rising prices** the fixed monetary outgo decreases in real terms.",
+    "**Disadvantages:** (i) interest and repayment of principal are **obligatory payments**; (ii) **protective covenants** may be restrictive; (iii) debenture financing **enhances financial risk**; (iv) a **large cash outflow** is needed at maturity.",
+    "Public issue of debentures and private placement to mutual funds require the issue to be **rated by a credit rating agency** such as **CRISIL**; the rating evaluates track record, profitability, debt servicing capacity, credit worthiness and perceived risk of lending.",
+    "**Preference shares vs debentures (SM table):** ownership — preference share capital is a special kind of share while a debenture is a type of loan raised from the public; payment — preference shareholders enjoy priority for a fixed dividend and repayment on winding up, while debentures carry a fixed percentage of interest; nature — preference shares are a hybrid form of financing, debentures are instruments for long-term capital with a fixed maturity.",
+    "**Bonds (§3.5).** A bond is a **fixed income security created to raise funds**, raised through **public issue or private placement**. By call feature: **callable bonds** — a call option gives the **issuer the right to redeem before maturity at a predetermined call price** (generally at a premium); **puttable bonds** — give the **investor a put option, i.e. the right to sell the bond back** to the company before maturity.",
+    "**Foreign bonds (SM table).** **FCCB** — very low interest rate; issuer gets foreign currency cheaply; risk that the issuer may not have money on redemption. **Plain vanilla bond** — principal plus interest, no options, issued as a discounted or coupon-bearing bond. **Convertible FRN** — holder can convert into a longer-term debt security with a specified coupon; protects against falling interest rates; the long-term security can be sold for profit; capital gain is not applicable. **Drop lock bond** — a floating rate note that **automatically converts into a fixed rate bond if the rate falls below a predetermined level**, and the new fixed rate stays till maturity (a short option structure, unlike the convertible FRN which is a long option structure). **Variable rate demand obligations** — a floating rate note with nominal maturity whose holder can sell it back to the trustee at par plus accrued interest, so it is more liquid. **Yield curve note (YCN)** — a structured debt security whose yield **increases when interest rates decline** and vice versa; used to hedge interest rates; works like an inverse floater. **Euro bond** — issued or traded in a country using a currency other than the one in which it is denominated; issued by multinationals (a British company issuing in Germany denominated in US dollars); the prefix 'euro' has nothing to do with the euro currency. **Emerging market bond** — issued by developing countries, higher yields than US corporate and Treasury bonds, credit default swaps used for protection, higher risks.",
+    "**Indian bonds:** **Masala bond** — Indian name for a **rupee-denominated bond that Indian corporate borrowers sell to investors in overseas markets**, issued outside India but denominated in rupees (NTPC raised ₹2,000 crore in 2016). **Municipal bonds** — finance urban infrastructure (Ahmedabad Municipal Corporation issued Asia's first municipal bond, ₹100 crore, for a water supply project). **Government or Treasury bonds** — issued by the Government of India, RBI, state governments or government departments."
+   ],
+   "example": "Sep 2025 asked four bond types in one 4-mark part: callable (issuer's call option), puttable (investor's put option), masala (rupee bond sold overseas) and drop lock (FRN that locks into a fixed rate).",
+   "provisions": [
+    {"ref": "Debenture basics (SM §3.4)", "status": "VERIFIED",
+     "requirement": "Denominations ₹100–₹1,000; trust deed; maturity normally 3–10 years; secured or unsecured; interest tax-deductible; credit rating required for public issue and private placement to mutual funds.",
+     "exam_angle": "'Explain any four features of debentures or bonds' (MTP Apr 2025) and 'advantages and disadvantages' (PYQ Sep 2024)."}
+   ],
+   "keywords": ["debenture trust deed", "3 to 10 years", "secured or unsecured", "interest is tax-deductible", "non-convertible", "fully convertible", "partly convertible", "bearer", "mortgage", "naked or simple", "call option", "put option", "masala bond", "drop lock", "yield curve note", "emerging market bond"],
+   "memory": {
+    "trick": "Call vs Put: \"**C**allable = **C**ompany calls it back; **P**uttable = **P**ublic (investor) puts it back.\"",
+    "key": [["Callable", "Issuer redeems early at the call price"], ["Puttable", "Investor sells back before maturity"], ["Masala", "Rupee-denominated, sold overseas"], ["Drop lock", "FRN that locks into a fixed rate when rates fall"], ["YCN", "Yield rises when rates fall (inverse floater)"]],
+    "recall_trigger": "Company calls, Public puts"
+   },
+   "mistakes": ["Saying a fully convertible debenture carries a higher interest rate. It is generally lower because of the conversion attraction.", "Describing masala bonds as foreign-currency bonds. They are rupee-denominated but issued overseas.", "Confusing drop lock bonds (short option structure) with convertible FRNs (long option structure)."],
+   "compare": {"title": "Preference shares vs debentures (SM §3.4 table)", "headers": ["Basis", "Preference shares", "Debentures"], "rows": [["Ownership", "A special kind of share", "A type of loan raised from the public"], ["Payment", "Priority for a fixed dividend and repayment of capital on winding up", "Carries a fixed percentage of interest"], ["Nature", "Hybrid: some features of equity, some of debt", "Instrument for long-term capital with a fixed maturity"], ["Tax", "Dividend not deductible", "Interest deductible"]]},
+   "links": ["🔗 FM Ch 4 §5: cost of debt, redeemable and convertible debentures", "🔗 FM Ch 5: debt in the capital structure"],
+   "face_in_exam": {
+    "forms": ["Advantages and disadvantages of debentures (PYQ Sep 2024, 4 marks)", "Explain four features of debentures or bonds (MTP Apr 2025)", "Explain given bond types (PYQ Sep 2025; MTP Aug 2026)"],
+    "approach": ["Name each item in bold, then two lines of SM description", "For advantages/disadvantages give three each in SM order"],
+    "official_pattern": "PYQ-S24-Q4a; PYQ-S25-Q4b; MTP-M25-S2-FQ4b; MTP-S26-S2-FQ4c.",
+    "time_tip": "4 marks ≈ 7 minutes; 2 marks ≈ 3–4 minutes (study guidance)."
+   },
+   "write": {
+    "structure": ["Name of the instrument", "Meaning in one line", "Two distinguishing features", "Who benefits (issuer or investor)"],
+    "keywords": ["call option", "put option", "rupee denominated", "tax-deductible interest"],
+    "length": "1 mark per bond type: 2–3 lines each",
+    "conclusion": "Each instrument shifts risk between issuer and investor; name that shift in your last line.",
+    "avoid": ["Writing about cost-of-capital formulae here"]
+   },
+   "official_questions": [
+    {"id": "PYQ-S24-Q4a", "marks": 4, "status": "VERIFIED",
+     "question": "Discuss any two advantages and two disadvantages of raising finance by issue of debentures.",
+     "answer_points": [
+      "**Advantages:** (i) the cost of debentures is much lower than the cost of preference or equity capital as interest is tax-deductible; investors also consider debenture investment safer than equity or preference investment and hence may require a lower return.",
+      "(ii) Debenture financing does not result in dilution of control.",
+      "(iii) In a period of rising prices, debenture issue is advantageous: the fixed monetary outgo decreases in real terms as the price level increases.",
+      "**Disadvantages:** (i) debenture interest and repayment of principal are obligatory payments.",
+      "(ii) The protective covenants associated with a debenture issue may be restrictive.",
+      "(iii) Debenture financing enhances the financial risk associated with the firm.",
+      "(iv) Since debentures must be paid at maturity, a large cash outflow is needed at that time."
+     ],
+     "conclusion": "Two of each are enough for the marks; ICAI's answer lists three advantages and four disadvantages.",
+     "keywords": ["tax-deductible", "dilution of control", "obligatory payment", "protective covenants", "financial risk"],
+     "examiner": "No examiners' comments have been published for Paper 6."},
+    {"id": "PYQ-S25-Q4b", "marks": 4, "status": "VERIFIED",
+     "question": "Explain in brief the following types of bonds: (i) callable bonds, (ii) puttable bonds, (iii) masala bonds, (iv) drop lock bonds.",
+     "answer_points": [
+      "**Callable bonds:** a callable bond has a call option which gives the issuer the right to redeem the bond before maturity at a predetermined price known as the call price (generally at a premium).",
+      "**Puttable bonds:** puttable bonds give the investor a put option, i.e. the right to sell the bond back to the company before maturity.",
+      "**Masala bonds:** masala (meaning spice) bond is an Indian name used for a rupee-denominated bond that Indian corporate borrowers can sell to investors in overseas markets.",
+      "**Drop lock bond:** it is a floating rate note with a normal floating rate; the floating rate bond is automatically converted into a fixed rate bond if the interest rate falls below a predetermined level, and the new fixed rate stays till the bond reaches maturity."
+     ],
+     "keywords": ["call option", "put option", "rupee denominated bond", "predetermined level"],
+     "also_asked_as": ["MTP-S26-S2-FQ4c (explain callable bonds and puttable bonds, 2 marks)"]},
+    {"id": "MTP-M25-S2-FQ4b", "marks": 4, "status": "VERIFIED",
+     "question": "Explain any four features of debentures or bonds.",
+     "answer_points": [
+      "**Face value:** debentures or bonds are denominated with a value called the face value; interest is calculated on it (e.g. a 9% non-convertible debenture of ₹100 carries interest at 9% of ₹100).",
+      "**Interest (coupon) rate:** each debenture bears a fixed interest (coupon) rate, except zero coupon and deep discount bonds; it is applied to face value and paid periodically (annually, semi-annually etc.).",
+      "**Maturity period:** debentures or bonds have a fixed maturity period for redemption; for irredeemable debentures the maturity period is not defined and is taken as infinite.",
+      "**Redemption value:** redeemable debentures are redeemed on the specified maturity date; based on debt covenants the redemption value is determined and may differ from face value.",
+      "**Benefit of tax shield:** interest paid to debenture holders is allowed as an expense for corporate tax, so it saves tax — this saving is known as the tax shield."
+     ],
+     "conclusion": "Any four of these five features earn the marks.",
+     "keywords": ["face value", "coupon rate", "maturity period", "redemption value", "tax shield"]}
+   ],
+   "expected_questions": [
+    {"id": "EQ-F02.11-1", "form": "Explain (4 marks)", "marks": 4,
+     "question": "Explain the following: (i) Euro bond, (ii) yield curve note, (iii) emerging market bond, (iv) plain vanilla bond.",
+     "answer_points": [
+      "**Euro bond:** issued or traded in a country using a currency other than the one in which the bond is denominated; issued by multinational corporations (e.g. a British company issuing a bond in Germany denominated in US dollars). The prefix 'euro' has nothing to do with the euro currency.",
+      "**Yield curve note (YCN):** a structured debt security whose yield increases when prevailing interest rates decline and decreases when they rise; used to hedge interest rate risk and works like an inverse floater.",
+      "**Emerging market bond:** a debt instrument issued by developing countries; provides higher yields than US corporate and Treasury bonds; credit default swaps are used to protect bondholders against default; it carries higher risks than domestic debt instruments.",
+      "**Plain vanilla bond:** the issuer pays the principal along with the interest rate; it has no options and may be issued as a discounted bond or a coupon-bearing bond."
+     ],
+     "keywords": ["euro bond", "inverse floater", "credit default swap", "no options"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F02.10-01", "angle": "Feature", "difficulty": "Easy",
+     "question": "A debenture:",
+     "options": {"A": "Is a short-term loan", "B": "Receives dividend payments", "C": "Is a long-term loan", "D": "Always requires no security"},
+     "answer": "C",
+     "explanation": "SM MCQ 5 key (a): a debenture is a long-term loan; debentures may be secured or unsecured and carry interest, not dividend.",
+     "why_wrong": {"A": "Maturity is normally 3–10 years.", "B": "Debenture holders receive interest.", "D": "Debentures may be secured (mortgage) or unsecured (naked)."},
+     "trap": "'Naked debentures' make option D look right, but debentures can be secured too.",
+     "concept": "F02.10"},
+    {"id": "MCQ-F02.11-02", "angle": "Identify", "difficulty": "Moderate",
+     "question": "A bond that automatically converts from a floating rate into a fixed rate if interest rates fall below a predetermined level is a:",
+     "options": {"A": "Callable bond", "B": "Convertible floating rate note", "C": "Variable rate demand obligation", "D": "Drop lock bond"},
+     "answer": "D",
+     "explanation": "SM §3.5: the drop lock bond is a floating rate note that is automatically converted into a fixed rate bond if the rate falls below a predetermined level; the new fixed rate stays till maturity.",
+     "why_wrong": {"A": "A call option lets the issuer redeem early.", "B": "The holder converts into a longer-term debt security; it is a long option structure.", "C": "The holder can sell it back to the trustee at par plus accrued interest."},
+     "trap": "Both B and D involve conversion; only D converts automatically on a rate trigger.",
+     "concept": "F02.11"}
+   ],
+   "recap": ["Debentures: long-term debt, tax-deductible interest, secured or unsecured, rated before public issue.", "Convertibility: non-, fully (lower interest) and partly convertible.", "Bonds: callable (issuer), puttable (investor), masala (rupee overseas), drop lock, YCN, euro, emerging market."]
+  }
+ ]
+}

@@ -1,0 +1,488 @@
+[
+{
+"level": 1,
+"text": "CA INTERMEDIATE · PAPER 6",
+"norm": "caintermediatepaper6",
+"page": 1
+},
+{
+"level": 2,
+"text": "6A Financial Management · 6B Strategic Management",
+"norm": "6afinancialmanagement6bstrateg",
+"page": 1
+},
+{
+"level": 2,
+"text": "The Master Book",
+"norm": "themasterbook",
+"page": 1
+},
+{
+"level": 2,
+"text": "Colour & Symbol Legend",
+"norm": "coloursymbollegend",
+"page": 2
+},
+{
+"level": 2,
+"text": "Index",
+"norm": "index",
+"page": 3
+},
+{
+"level": 2,
+"text": "How to Use This Book",
+"norm": "howtousethisbook",
+"page": 4
+},
+{
+"level": 2,
+"text": "Exam at a Glance — Paper 6: FM & SM",
+"norm": "examataglancepaper6fmsm",
+"page": 5
+},
+{
+"level": 1,
+"text": "FM Chapter 1 — Scope and Objectives of Financial Management",
+"norm": "fmchapter1scopeandobjectivesof",
+"page": 6
+},
+{
+"level": 2,
+"text": "Examiner Mindset — FM Chapter 1",
+"norm": "examinermindsetfmchapter1",
+"page": 8
+},
+{
+"level": 2,
+"text": "Chapter Snapshot",
+"norm": "chaptersnapshot",
+"page": 8
+},
+{
+"level": 2,
+"text": "What ICAI Has Actually Tested",
+"norm": "whaticaihasactuallytested",
+"page": 10
+},
+{
+"level": 2,
+"text": "Topic-wise Notes with All Related Questions",
+"norm": "topicwisenoteswithallrelatedqu",
+"page": 13
+},
+{
+"level": 3,
+"text": "1–2. Introduction and Meaning of Financial Management",
+"norm": "12introductionandmeaningoffina",
+"page": 13
+},
+{
+"level": 3,
+"text": "2.1–2.2 Procurement of Funds and Effective Utilisation of Funds",
+"norm": "2122procurementoffundsandeffec",
+"page": 18
+},
+{
+"level": 3,
+"text": "3. Evolution of Financial Management",
+"norm": "3evolutionoffinancialmanagemen",
+"page": 25
+},
+{
+"level": 3,
+"text": "4. Finance Functions / Finance Decisions",
+"norm": "4financefunctionsfinancedecisi",
+"page": 28
+},
+{
+"level": 3,
+"text": "5–6. Importance and Scope of Financial Management",
+"norm": "56importanceandscopeoffinancia",
+"page": 35
+},
+{
+"level": 3,
+"text": "7–7.1 Objectives of Financial Management and Profit Maximisation",
+"norm": "771objectivesoffinancialmanage",
+"page": 41
+},
+{
+"level": 3,
+"text": "7.2–8. Wealth Maximisation / Value Creation and the Conflict with Profit Maximisation",
+"norm": "728wealthmaximisationvaluecrea",
+"page": 49
+},
+{
+"level": 3,
+"text": "9. Role of Finance Executive (Today vis-a-vis the Past)",
+"norm": "9roleoffinanceexecutivetodayvi",
+"page": 61
+},
+{
+"level": 3,
+"text": "10. Financial Distress and Insolvency",
+"norm": "10financialdistressandinsolven",
+"page": 68
+},
+{
+"level": 3,
+"text": "11. Relationship of Financial Management with Related Disciplines",
+"norm": "11relationshipoffinancialmanag",
+"page": 73
+},
+{
+"level": 3,
+"text": "12. Agency Problem and Agency Cost",
+"norm": "12agencyproblemandagencycost",
+"page": 79
+},
+{
+"level": 2,
+"text": "Most Confusing Concepts",
+"norm": "mostconfusingconcepts",
+"page": 87
+},
+{
+"level": 3,
+"text": "Profit maximisation vs wealth maximisation",
+"norm": "profitmaximisationvswealthmaxi",
+"page": 87
+},
+{
+"level": 3,
+"text": "Financial distress vs insolvency",
+"norm": "financialdistressvsinsolvency",
+"page": 87
+},
+{
+"level": 3,
+"text": "Accounting vs financial management",
+"norm": "accountingvsfinancialmanagemen",
+"page": 87
+},
+{
+"level": 3,
+"text": "Treasurer vs Controller",
+"norm": "treasurervscontroller",
+"page": 88
+},
+{
+"level": 3,
+"text": "Importance of FM vs scope of FM",
+"norm": "importanceoffmvsscopeoffm",
+"page": 88
+},
+{
+"level": 2,
+"text": "Integrated Case Scenarios",
+"norm": "integratedcasescenarios",
+"page": 90
+},
+{
+"level": 2,
+"text": "Chapter Test — attempt before looking at the Answer Keys",
+"norm": "chaptertestattemptbeforelookin",
+"page": 95
+},
+{
+"level": 2,
+"text": "Active-Recall Tests (answers in Answer Keys)",
+"norm": "activerecalltestsanswersinansw",
+"page": 99
+},
+{
+"level": 3,
+"text": "10 Quick Questions",
+"norm": "10quickquestions",
+"page": 99
+},
+{
+"level": 3,
+"text": "Fill in the Blanks",
+"norm": "fillintheblanks",
+"page": 99
+},
+{
+"level": 3,
+"text": "True / False",
+"norm": "truefalse",
+"page": 99
+},
+{
+"level": 3,
+"text": "One-Word Recall",
+"norm": "onewordrecall",
+"page": 99
+},
+{
+"level": 3,
+"text": "Match the Concept",
+"norm": "matchtheconcept",
+"page": 100
+},
+{
+"level": 3,
+"text": "Differentiate",
+"norm": "differentiate",
+"page": 100
+},
+{
+"level": 3,
+"text": "Complete the Flowchart",
+"norm": "completetheflowchart",
+"page": 100
+},
+{
+"level": 2,
+"text": "Answer Keys",
+"norm": "answerkeys",
+"page": 101
+},
+{
+"level": 3,
+"text": "Chapter test — MCQ key",
+"norm": "chaptertestmcqkey",
+"page": 101
+},
+{
+"level": 3,
+"text": "Active-recall answers",
+"norm": "activerecallanswers",
+"page": 103
+},
+{
+"level": 2,
+"text": "Rapid Revision Ladder",
+"norm": "rapidrevisionladder",
+"page": 105
+},
+{
+"level": 2,
+"text": "One-Page Chapter Sheet",
+"norm": "onepagechaptersheet",
+"page": 107
+},
+{
+"level": 1,
+"text": "SM Chapter 1 — Introduction to Strategic Management",
+"norm": "smchapter1introductiontostrate",
+"page": 108
+},
+{
+"level": 2,
+"text": "Examiner Mindset — SM Chapter 1",
+"norm": "examinermindsetsmchapter1",
+"page": 110
+},
+{
+"level": 2,
+"text": "Chapter Snapshot",
+"norm": "chaptersnapshot",
+"page": 110
+},
+{
+"level": 2,
+"text": "What ICAI Has Actually Tested",
+"norm": "whaticaihasactuallytested",
+"page": 112
+},
+{
+"level": 2,
+"text": "Topic-wise Notes with All Related Questions",
+"norm": "topicwisenoteswithallrelatedqu",
+"page": 116
+},
+{
+"level": 3,
+"text": "1.1–1.2 Introduction; Meaning and Nature of Strategic Management",
+"norm": "1112introductionmeaningandnatu",
+"page": 116
+},
+{
+"level": 3,
+"text": "1.3 Concept of Strategy — Strategy Is Partly Proactive and Partly Reactive",
+"norm": "13conceptofstrategystrategyisp",
+"page": 120
+},
+{
+"level": 3,
+"text": "1.4–1.4.1 Strategic Management and Its Importance",
+"norm": "14141strategicmanagementandits",
+"page": 135
+},
+{
+"level": 3,
+"text": "1.4.2 Limitations of Strategic Management",
+"norm": "142limitationsofstrategicmanag",
+"page": 145
+},
+{
+"level": 3,
+"text": "1.5 Strategic Intent (Vision, Mission, Goals, Objectives and Values)",
+"norm": "15strategicintentvisionmission",
+"page": 157
+},
+{
+"level": 3,
+"text": "1.5.1 Vision",
+"norm": "151vision",
+"page": 161
+},
+{
+"level": 3,
+"text": "1.5.2 Mission — and Distinguishing It from Vision",
+"norm": "152missionanddistinguishingitf",
+"page": 171
+},
+{
+"level": 3,
+"text": "1.5.3 Goals and Objectives",
+"norm": "153goalsandobjectives",
+"page": 184
+},
+{
+"level": 3,
+"text": "1.5.4 Values / Value System",
+"norm": "154valuesvaluesystem",
+"page": 192
+},
+{
+"level": 3,
+"text": "1.6 Strategic Levels in Organisations — Corporate, Business and Functional",
+"norm": "16strategiclevelsinorganisatio",
+"page": 201
+},
+{
+"level": 3,
+"text": "1.6.1 Network of Relationship between the Three Levels",
+"norm": "161networkofrelationshipbetwee",
+"page": 219
+},
+{
+"level": 2,
+"text": "Most Confusing Concepts",
+"norm": "mostconfusingconcepts",
+"page": 227
+},
+{
+"level": 3,
+"text": "Vision vs Mission",
+"norm": "visionvsmission",
+"page": 227
+},
+{
+"level": 3,
+"text": "Goals vs Objectives",
+"norm": "goalsvsobjectives",
+"page": 227
+},
+{
+"level": 3,
+"text": "Proactive vs Reactive strategy",
+"norm": "proactivevsreactivestrategy",
+"page": 228
+},
+{
+"level": 3,
+"text": "The three strategic levels",
+"norm": "thethreestrategiclevels",
+"page": 228
+},
+{
+"level": 3,
+"text": "Importance vs Limitations of strategic management",
+"norm": "importancevslimitationsofstrat",
+"page": 228
+},
+{
+"level": 2,
+"text": "Integrated Case Scenarios",
+"norm": "integratedcasescenarios",
+"page": 230
+},
+{
+"level": 2,
+"text": "Chapter Test — attempt before looking at the Answer Keys",
+"norm": "chaptertestattemptbeforelookin",
+"page": 235
+},
+{
+"level": 2,
+"text": "Active-Recall Tests (answers in Answer Keys)",
+"norm": "activerecalltestsanswersinansw",
+"page": 239
+},
+{
+"level": 3,
+"text": "10 Quick Questions",
+"norm": "10quickquestions",
+"page": 239
+},
+{
+"level": 3,
+"text": "Fill in the Blanks",
+"norm": "fillintheblanks",
+"page": 239
+},
+{
+"level": 3,
+"text": "True / False",
+"norm": "truefalse",
+"page": 239
+},
+{
+"level": 3,
+"text": "One-Word Recall",
+"norm": "onewordrecall",
+"page": 239
+},
+{
+"level": 3,
+"text": "Match the Concept",
+"norm": "matchtheconcept",
+"page": 240
+},
+{
+"level": 3,
+"text": "Differentiate",
+"norm": "differentiate",
+"page": 240
+},
+{
+"level": 3,
+"text": "Complete the Flowchart",
+"norm": "completetheflowchart",
+"page": 240
+},
+{
+"level": 2,
+"text": "Answer Keys",
+"norm": "answerkeys",
+"page": 241
+},
+{
+"level": 3,
+"text": "Chapter test — MCQ key",
+"norm": "chaptertestmcqkey",
+"page": 241
+},
+{
+"level": 3,
+"text": "Active-recall answers",
+"norm": "activerecallanswers",
+"page": 243
+},
+{
+"level": 2,
+"text": "Rapid Revision Ladder",
+"norm": "rapidrevisionladder",
+"page": 245
+},
+{
+"level": 2,
+"text": "One-Page Chapter Sheet",
+"norm": "onepagechaptersheet",
+"page": 247
+}
+]

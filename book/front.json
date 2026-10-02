@@ -1,0 +1,45 @@
+{
+ "note": "Review-build front matter (Chapter 1 stage). The full front matter (weightage chart, trends, changes to watch, diagnostic test) is generated after all chapters are built.",
+ "sections": [
+  {"heading": "How to Use This Book",
+   "blocks": [
+    {"type": "para", "text": "Every chapter follows the same route. Use this five-step routine for each topic:"},
+    {"type": "bullets", "items": [
+     "**1. Understand:** read the blue UNDERSTAND IT box. It follows the ICAI study material heading by heading; nothing is left out.",
+     "**2. Lock the words:** read the ICAI KEYWORDS and MEMORY TRICK boxes. ICAI's suggested answers reuse study-material phrases, and marks go to those phrases.",
+     "**3. Attempt before reading:** cover the answer part of every OFFICIAL ICAI QUESTION (past paper, RTP, MTP) and write your answer first.",
+     "**4. Practise:** do the practice MCQs and expected questions, then the integrated cases and chapter test at the end of the chapter.",
+     "**5. Revise:** use the recall tests, the 5/15/30/60-minute revision ladder and the one-page sheet."
+    ]},
+    {"type": "box", "tag": "quick", "title": "Reading the question labels",
+     "bullets": [
+      "**PYQ May 2025 · Q4(a)** = ICAI exam paper, May 2025, question 4(a). In past papers Q1–Q4 are Financial Management and Q5–Q8 are Strategic Management; MCQ 1–8 are FM and MCQ 9–16 are SM.",
+      "**RTP Sep 2024 · FM Q12(a)** = ICAI Revision Test Paper for September 2024, FM section, question 12(a).",
+      "**MTP May 2026 Series I · SM Q2(a)** = ICAI Mock Test Paper for May 2026, Series I, SM section, question 2(a). **SM MCQ 1(A)(i)** = case-scenario MCQ (i) in Part I.",
+      "**FM Ch 1 §7.1** = Financial Management Chapter 1, study-material heading 7.1; **SM Ch 1 §1.5.2** = Strategic Management Chapter 1, heading 1.5.2."
+     ]},
+    {"type": "box", "tag": "alert", "title": "Study guidance, not ICAI rules",
+     "bullets": [
+      "Time guides, answer lengths, mark splits and memory tricks are study guidance written for this book, not ICAI rules.",
+      "ICAI questions are presented in our own words, with answers based on ICAI's suggested answers. Practice questions, cases and MCQs are written for this book on ICAI study-material topics.",
+      "ICAI has not published examiners' comments for Paper 6 (the Group II comments cover Papers 4 and 5), so no examiner comment is quoted in this book."
+     ]}
+   ]},
+  {"heading": "Exam at a Glance — Paper 6: FM & SM",
+   "blocks": [
+    {"type": "para", "text": "Pattern verified from ICAI's question papers and suggested answers for Sep 2024 to May 2026 (100 marks, 3 hours):"},
+    {"type": "table", "headers": ["Section", "Part I — MCQs", "Part II — Descriptive", "Total"],
+     "rows": [
+      ["6A Financial Management", "15 marks: one case scenario with 5 MCQs × 2 marks, plus 2 independent MCQs × 2 marks and 1 MCQ × 1 mark", "35 marks: Q1 compulsory (15 marks, 5 + 5 + 5); attempt any two of Q2–Q4 (10 marks each)", "50"],
+      ["6B Strategic Management", "15 marks: one case scenario with 5 MCQs × 2 marks, plus 2 independent MCQs × 2 marks and 1 MCQ × 1 mark", "35 marks: Q5 compulsory (15 marks, 5 + 5 + 5); attempt any two of Q6–Q8 (10 marks each)", "50"]
+     ],
+     "widths": [1900, 3400, 3400, 1206]},
+    {"type": "box", "tag": "face", "title": "Time per mark (study guidance)",
+     "bullets": [
+      "180 minutes ÷ 100 marks ≈ 1.8 minutes per mark. Keep about 10 minutes for reading the paper.",
+      "A 2-mark theory part ≈ 3–4 minutes; a 4-mark part ≈ 7 minutes; a 5-mark SM part ≈ 9 minutes.",
+      "FM Q4 is always theory (4 + 4 + 2 with an OR in part c); FM Chapter 1 and FM Chapter 2 supply most of it."
+     ]}
+   ]}
+ ]
+}

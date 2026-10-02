@@ -1,0 +1,733 @@
+<<PAGE 1>>
+1 
+Mock Test Paper - Series II: April, 2025 
+Date of Paper: 7th April, 2025 
+Time of Paper: 10 A.M. to 1 P.M. 
+ 
+INTERMEDIATE GROUP – II  
+PAPER – 6A : FINANCIAL MANAGEMENT & STRATEGIC MANAGEMENT 
+PAPER 6A: FINANCIAL MANAGEMENT 
+Time Allowed – 3 Hours (Total time for 6A and 6B)  
+Maximum Marks – 50 
+1. 
+The question paper comprises two parts, Part I and Part II. 
+2. 
+Part I comprises Case Scenario based Multiple Choice Questions (MCQs) 
+3. 
+Part II comprises questions which require descriptive type answers. 
+4. 
+Working note should form part of the answer. Wherever necessary, suitable assumptions 
+may be made by the candidates and disclosed by way of note. However, in answers to 
+Questions in Division A, working notes are not required. 
+PART I – Case Scenario based MCQs (15 Marks) 
+Write the most appropriate answer to each of the following multiple choice questions by 
+choosing one of the four options given. All questions are compulsory. 
+ 
+Case Scenario 
+Ashrav Machines Private Limited (AMPL) was started as Joint venture company in 2017 by a 
+leading group head quartered at Mumbai, engaged into the business of automatic washing 
+machine product segment. The company received state-of-the-art technological know-how from 
+a well-known Japanese company named Suzutsu Inc which was its JV partner. The company 
+had acquired superior technology through JV, and its sales were expected to grow at 10 per 
+cent per annum. The Company has two types of customer base, retail customers and dealership 
+customers. The company experienced a significant growth in its sales during the first 5 years of 
+its operations, and its actual growth rate averaged about 30 per cent per annum. The company 
+had cost and technological advantages, and therefore, could keep its prices significantly lower 
+as compared to its competitors. Over this period, the company established its name, and its 
+products became well-known in the market.  
+As the competition intensified in the washing machine market, and the general market slow-
+down conditions engulfed the entire economy, AMPL started experiencing a decline in its sales 
+<<PAGE 2>>
+2 
+from the beginning of FY 2022. The company identified poor inventory management on the retail 
+front like piling up of inventory stocks, very high import of raw material, high selling price, etc. & 
+poor receivables management on the dealership front like poor credit policy & collection 
+process, bad debts, etc. as a major issue causing financial problems and decline. The company 
+decided to work out a plan to reduce the inventory levels and rejig the receivables process and 
+come out with feasible solutions. The concerned leadership teams in the company presented 
+the following plans: 
+(1) 
+Exploring selling the washing machines at discounted price. The company plans to offer 
+a 5% average discount on its current price thereby resulting in a discounted price of  
+` 15,675 per machine. However, this didn’t create any significant impact on sales as 
+expected. The previous studies on market behavior to price responses in this category 
+of product suggested less sensitivity to price reduction or discounts in the lower range. 
+However, a price reduction above 10 per cent indicated a significant association with the 
+increase in demand. Using these findings as the basis of their argument, the marketing 
+team proposed a plan to provide discounts of up to 12 per cent. It provided an estimate 
+of about 1,000 units to be sold every quarter during the year after implementing the 
+suggestion of proposed discount. 
+(2) 
+Owing to the recent trends observed in the exchange-sales scheme in the television and 
+other electronic segments, the company wants to explore this scheme for the washing 
+machine segment as well. Upon subsequent research, the marketing team argued that 
+there was a good chance of an exchange scheme becoming popular provided the 
+customers were offered an attractive exchange scheme as most of the existing machines 
+owned by the households did not have new features which the company’s product 
+offered. The marketing team gave an estimate of selling about 4,650 units in the next 
+one year, provided the scheme offered, off-setting ` 3,000 to ` 4,000 of the prices to 
+customers who purchase the company’s product in exchange for their existing machines. 
+The actual deduction, however, would depend on the condition of the machines and for 
+that, the company estimated that an average offset of ` 3,500 per machine would be 
+needed. 
+(3) 
+The third proposal pertains to an all-round reduction in inventory levels. If the production 
+takes place as per the sales plan, the total inventory holding period of the company works 
+out about 3½ months. Of this, the finished goods holding period alone is 2 to 2½ months. 
+The company, therefore, must hold finished goods for this period to sell its products in 
+the market. Recently, due to a slow-down in the market, this period had increased to 4 – 
+4½ months. As a result, the working capital requirements of the company have increased 
+significantly. The company recently explored the possibility of selling the goods to its 
+customers under a scheme which would deliver the machine after 1½ months of placing 
+the order. A pilot test was carried out with a select group of customers. Based on the 
+<<PAGE 3>>
+3 
+results of this pilot study, the proposed scheme would offer the following package to a 
+customer: on paying an advance of ` 3,000, the customer could order the product which 
+would be delivered after 1½ months of time. As per the terms and conditions of the 
+scheme, the customer would pay ` 9,500 at the time of delivery of the product. Through 
+this scheme, the customer would get a benefit of ` 4,500 for this waiting period. The field 
+tests had indicated that a section of customers would not mind waiting for 1 to 1½ months 
+and taking this benefit. The marketing team gave an estimate that about 400 machines 
+could be sold per month through this scheme. 
+(4) 
+The current dealership sales of the company are ` 3,65,00,000 and it has a present 
+policy of extending 60 days credit but most of its dealers in the recent period have 
+stretched payments and the average collection period was about 120 days. Ninety per 
+cent of the firm’s sales are on a credit basis. Out of this, 15 per cent is sold to the 
+customers whose financial position is not very sound and the entire bad debt losses 
+amount to about 2 per cent of sales to these customers. The cost of Sales is 80% and 
+the current collection expenses amount to ` 5,00,000 per year. After consulting the 
+marketing and accounting staff and analyzing the status of the competition, the company 
+has decided to change its credit policy for the dealership customers.  
+Policy A : To offer cash discount to motivate customers to pay early. The new credit 
+terms would be “2/15, net 60”. A quick study of sample customers indicated that about 
+two-thirds of them might like to avail cash discounts. This change in policy would not 
+change the expected sales, but the average collection period is likely to be reduced to 
+80 days for the remaining customers. There will be no changes in bad debts, but the 
+collection cost will be reduced by 30% to the existing collection expense. 
+Policy B : To relax its credit standards by 20 Days to expand its sales. This is expected 
+to increase sales by 10 per cent. The marginal customers, which would also include new 
+customers, are not expected to take advantage of cash discounts and are likely to 
+continue to take on an average of 150 days to pay. In the case of these customers, bad 
+debt losses are expected to increase to 2.5 per cent on the sales to financially unsound 
+customers, which will remain the same in proportion. The company would enforce 
+collections with more vigour and diligence. It is expected that collection expenses will 
+increase by ` 1,00,000 per annum.  
+The company generally requires a rate of return of 15 per cent from its investments and 
+assume 360 days in a year. 
+Based on the above scenario, answer to the following MCQs: 
+1. 
+Incremental benefit of adopting credit Policy A to the company is _________ 
+(a) 
+` 6,24,500  
+<<PAGE 4>>
+4 
+(b)  
+` 58,500  
+(c)  
+` 46,57,450  
+(d)    ` (-) 6,24,500 
+2. 
+Incremental benefit of adopting credit Policy B to the company is _________ 
+(a)  
+` 27,294 
+(b)  
+` 8,70,444 
+(c)  
+` 46,84,744 
+(d)  
+` 2,31,444 
+3. 
+Evaluate all the proposed options of inventory management and select the best 
+sequence as per their rankings based on benefit analysis to the company in the 
+form of sales. 
+(a)  
+Proposal 1, 2 & 3         
+(b)  
+Proposal 2, 3 & 1 
+(c)  
+Proposal 2, 1 & 3 
+(d)  
+Proposal 3, 2 & 1 
+4. 
+What are the bad debt expenses of policy A and policy B? 
+(a) 
+` 98,550 and ` 98,550 
+(b) 
+` 1,35,506 and ` 98,550 
+(c) 
+` 98,550 and ` 1,35,506 
+(d) 
+` 1,35,506 and ` 1,35,506 
+5. 
+The optimum combination of inventory and credit policy comes out to be ________ 
+(a)  
+Proposal 3 & Credit Policy ‘A’            
+(b)  
+Proposal 3 & Credit Policy ‘B’            
+(c)  
+Proposal 2 & Credit Policy ‘B’            
+(d)  
+Proposal 2 & Credit Policy ‘A’ 
+(5 x 2 = 10 Marks) 
+6. 
+Mr. A is holding 2,00,000 shares of ABC Ltd. It is presently trading on NSE at cum 
+dividend price of ` 100 per share. Mr. A has a policy to re-invest the amount of 
+any dividend received into the shares of ABC Ltd. again. If ABC Ltd. has declared 
+<<PAGE 5>>
+5 
+a dividend of ` 20 per share, determine the no. of shares that Mr. A would hold 
+after he invests dividend in the shares of ABC Ltd.   
+(a)  
+1,00,000 
+(b)  
+2,50,000  
+(c)  
+2,80,000  
+(d)  
+50,000 
+(2 Marks) 
+7. 
+The details of XYZ Ltd. are as follows: 
+Variable Cost Ratio = 60% 
+Operating Leverage = 5 
+Combined Leverage = 15 
+EBIT = ` 30,000 
+Tax Rate = 30% 
+Calculate the amount of interest.  
+(a)  
+` 40,000 
+(b)  
+` 30,000 
+(c)  
+` 20,000 
+(d)  
+` 24,000 
+(2 Marks) 
+8. 
+Out of the following information, calculate Risk free rate: 
+Rm = 10%  
+Ke = 15%  
+β = 2 
+(a)  
+5% 
+(b)  
+7.5%  
+(c)  
+10% 
+(d)  
+15% 
+(1 Mark) 
+ 
+ 
+<<PAGE 6>>
+6 
+PART II – Descriptive Questions (35 Marks) 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+1. 
+(a) 
+A firm can make investment in either of the following two projects. The firm 
+anticipates its cost of capital to be 10%. The pre-tax cash flows of the projects for 
+five years are as follows:  
+Year  
+0 
+1 
+2 
+3 
+4 
+5 
+Project A (`)  
+(2,00,000)  
+35,000  
+80,000  90,000  75,000  
+20,000  
+Project B (`)  
+(2,00,000)  2,18,000  
+10,000  10,000  
+4,000  
+3,000  
+Ignore Taxation. 
+An amount of ` 35,000 will be spent on account of sales promotion in year 3 in 
+case of Project A. This has not been taken into account in calculation of pre-tax 
+cash flows.  
+The discount factors are as under:  
+Year  
+0 
+1 
+2 
+3 
+4 
+5 
+PVF (10%)  
+1 
+0.91 
+0.83 
+0.75 
+0.68 
+0.62 
+You are required to CALCULATE for each project:  
+(i)  
+The Discounted Payback period  
+(ii)  
+Desirability factor  
+(iii)  
+Net Present Value  
+(5 Marks) 
+(b)  
+Bhanu Limited has issued 50,000; 10% convertible bonds of ` 100 each with a 
+maturity period of 5 years. At the maturity, the bondholders will have an option to 
+convert the bonds into the equity shares in the ratio of 1:4 (i.e 4 equity shares for 
+each debenture). The equity shares of Bhanu Limited are listed and are currently 
+traded at ` 30 each and historically the growth of the company’s share has been 
+5% per annum over the years.  
+Of the total number of convertible bonds issued, 75% opt in for converting their 
+bonds to the common stock at an agreed price which shall be at 5% premium to 
+the intrinsic price at that point in time. However, the investors need to hold the 
+shares for at least 2 years from the date of conversion. 
+<<PAGE 7>>
+7 
+The balance bonds would be redeemed by the company at a premium of 25% with 
+a redemption cost of 2% incurred additionally at the time of redemption. Tax rate 
+applicable to the company is at 25%. COMPUTE the cost of the convertible bonds 
+using Approximation Method as well as the YTM method. 
+(5 Marks) 
+(c)  
+CALCULATE the operating leverage, financial leverage and combined leverage 
+from the following data under Situation I and II and Financial Plan A and B: 
+Installed Capacity 
+4,000 units 
+Actual Production and Sales 
+75% of the Capacity 
+Selling Price 
+` 30 per unit 
+Variable Cost 
+` 15 per unit 
+Fixed Cost: 
+Under Situation I 
+` 15,000 
+Under Situation-II 
+` 20,000 
+Capital Structure: 
+ 
+Financial Plan 
+A (`) 
+B (`) 
+Equity 
+10,000 
+15,000 
+Debt (Rate of Interest at 20%) 
+10,000 
+5,000 
+ 
+20,000 
+20,000 
+ 
+   (5 Marks) 
+2. 
+(a)  
+The following information is supplied to you: 
+ 
+(`) 
+Total Earnings 
+2,00,000 
+No. of equity shares (of ` 100 each) 
+20,000 
+Dividend paid 
+1,50,000 
+Price/ Earnings ratio 
+12.5 
+Applying Walter’s Model:  
+(i) 
+ANALYSE whether the company is following an optimal dividend policy. 
+(ii) 
+COMPUTE P/E ratio at which the dividend policy will have no effect on the 
+value of the share. 
+(iii) 
+Will your decision change if the P/E ratio is 8 instead of 12.5? ANALYSE. 
+ 
+(4 Marks) 
+<<PAGE 8>>
+8 
+(b) 
+Zordon Ltd. has net operating income of ` 5,00,000 and total capitalization of  
+` 50,00,000 during the current year. The company is contemplating to introduce 
+debt financing in capital structure and has various options for the same. The 
+following information is available at different levels of debt value:   
+Debt value  
+(`) 
+Interest rate (%) 
+Equity capitalization rate (%) 
+0 
+- 
+10.00 
+5,00,000 
+6.0 
+10.50 
+10,00,000 
+6.0 
+11.00 
+15,00,000 
+6.2 
+11.30 
+20,00,000 
+7.0 
+12.40 
+25,00,000 
+7.5 
+13.50 
+30,00,000 
+8.0 
+16.00 
+Assuming no tax and that the firm always maintains books at book values, you are 
+REQUIRED to calculate: 
+(i) 
+Amount of debt to be employed by firm as per traditional approach. 
+(ii) 
+Equity capitalization rate, if MM approach is followed. 
+ (6 Marks) 
+3.  
+(a) 
+Following information and ratios are given in respect of Simandhar Limited for the 
+year ended 31.03.2025: 
+Particulars 
+Ratio 
+Liquid Ratio 
+2.0 
+Cash Asset Ratio 
+0.36 
+Current Ratio 
+3.50 
+Receivables Collection Period 
+30 days 
+Proprietary Ratio 
+0.72 
+Equity Dividend 
+` 2,50,000 
+Equity Dividend Coverage Ratio 
+2.10 
+Non - Current Assets turnover Ratio  
+0.80 
+EPS 
+` 3.0 per share 
+Stock Turnover Ratio  
+6.0 times 
+GP Ratio 
+1/5th of Sales 
+<<PAGE 9>>
+9 
+Assume 360 days in a year. Closing inventory is 20% more than opening 
+inventory. 
+You are required to COMPLETE the Balance Sheet as of 31st March, 2025. 
+BALANCE SHEET 
+As on 31st March, 2025 
+Liabilities 
+Amount ` Assets 
+Amount ` 
+Equity Share Capital 
+(Face Value ` 10) 
+??? Fixed Assets 
+??? 
+Reserves 
+??? Receivables 
+??? 
+Long term Debentures 
+??? Inventory 
+??? 
+Current Liabilities 
+2,80,000 Cash & Bank balance 
+??? 
+ 
+ Short term advances 
+??? 
+Total 
+???? Total 
+???? 
+ 
+ (8 Marks) 
+(b)  
+WRITE a short note on internal rate of return. 
+ (2 Marks) 
+4.  
+(a) 
+EXPLAIN following types of leases: 
+ 
+ 
+(i) 
+Sales and Lease Back 
+ 
+ 
+(ii) 
+Leveraged Lease 
+ 
+ 
+(iii) 
+Sales-Aid Lease 
+ 
+ 
+(iv) 
+Close-Ended and Open-Ended Leases 
+(4 Marks) 
+(b) 
+EXPLAIN any four Features of Debentures or Bonds. 
+    (4 Marks) 
+(c) 
+DISCUSS the conflicts in Profit versus Wealth maximization principle of the firm.
+ 
+(2 Marks) 
+OR 
+(c)  
+EXPLAIN in brief the concept of Over Capitalisation. 
+ (2 Marks) 
+ 
+<<PAGE 10>>
+10 
+PAPER 6B: STRATEGIC MANAGEMENT 
+1. 
+The question paper comprises two parts, Part I and Part II. 
+2. 
+Part I comprises case scenario based multiple choice questions (MCQs) 
+3. 
+Part II comprises questions which require descriptive answers. 
+PART I – Case scenario based MCQs (15 Marks) 
+1.  
+(A) 
+(Compulsory) 
+Founded with a dream to bring the world's finest spices to kitchens worldwide, 
+Rachini Group has evolved into a diversified conglomerate, spanning industries 
+from spices to car dealerships and real estate. This case study delves into the 
+journey of Rachini Group. 
+Rachini Group's clear objective from its inception was to become a leading player 
+in the spice trade industry. They aimed to source, package, and distribute the 
+highest quality spices to homes and businesses globally. This unwavering focus 
+on quality and customer satisfaction allowed them to establish themselves as a 
+trusted brand, defining their path to success. The company, under the strict 
+stewardship of Mangat Singh, emphasized quality control, adherence to core 
+values, and a disciplined approach to business. While this management style 
+limited creativity within middle management, it ensured consistency and quality 
+throughout the organization, especially in their core spice business. 
+Recognizing the potential for growth and value addition, Rachini Group expanded 
+by investing in acquiring spice farms and processing facilities, ensuring a robust 
+supply chain. This allowed them to control quality and costs, creating a significant 
+competitive advantage. As a result of their expansion and diversification, Rachini 
+Group began generating positive cash flows. These financial gains provided the 
+necessary resources for further expansion and allowed the company to venture 
+beyond its spice business. 
+In their quest for expansion, Rachini Group forged strategic partnerships and 
+alliances with influential politicians and royal families in Arabia. These connections 
+provided valuable insights, eased market entry, and facilitated regulatory 
+approvals, giving the company a competitive edge. The group diversified into 
+other sectors like car dealerships and real estate, seeking to tap into lucrative 
+markets and reduce dependency on a single industry. 
+Despite their success, Rachini Group faced backlash from social groups who 
+believed that the concentration of wealth in the hands of a few was dangerous for 
+<<PAGE 11>>
+11 
+society. They were accused of worsening income inequality. This criticism 
+prompted the company to reevaluate its approach and consider the broader 
+impact of its business activities. In response, the family-owned business initiated 
+a philanthropic arm, focusing on improving the living conditions, education, and 
+healthcare in the communities they operated. This philanthropic endeavor aimed 
+to balance their business success with social responsibility, nurturing a more 
+positive image and addressing the criticisms they faced. 
+Rachini Group continues to thrive with a remarkable compound annual growth rate 
+(CAGR) of 12%. Their diversified business portfolio, including car dealerships and 
+real estate, now constitutes 40% of their total group revenue. The company 
+remains committed to its spice trade roots while exploring new opportunities. Their 
+plan to go public in 2026 is a testament to their ambition and determination to 
+remain a key player in the global business landscape. 
+Rachini Group's remarkable evolution serves as a compelling case study in the 
+world of business, showcasing the power of clear objectives, and adaptability in 
+the face of social challenges. As they move towards their IPO in 2026, they 
+continue to be a fascinating story of business success with a commitment to the 
+greater good. 
+Based on the above Case Scenario, answer the Multiple-Choice Questions. 
+(i)  
+How did Rachini Group control quality and costs in their spice business? 
+(a)  
+By reducing their workforce - Human Resource Management 
+(b)  
+By outsourcing production - Organizational Structure Planning  
+(c)  
+By investing in spice farms and processing facilities - Vertical 
+Integration 
+(d)  
+By cutting prices - Best Cost Provider Strategy 
+     (2 Marks) 
+(ii)  
+Rachini Group’s emphasis on acquiring spice farms and processing 
+facilities to gain supply chain control aligns with which ‘S’ in McKinsey’s 7S 
+Framework? 
+(a)  
+Systems 
+(b)  
+Structure 
+(c)  
+Strategy 
+(d)  
+Staff 
+(2 Marks) 
+ 
+<<PAGE 12>>
+12 
+(iii)  
+How did Rachini Group gain a competitive edge in their expansion efforts? 
+(a)  
+Through extensive marketing campaigns 
+(b)  
+By entering new international markets 
+(c)  
+By forging strategic partnerships and alliances 
+(d)  
+By increasing their workforce 
+(2 Marks) 
+(iv)  
+The strategic alliances with royal families and politicians most likely helped 
+Rachini Group reduce the threat of: 
+(a)  
+Substitute products 
+(b)  
+Bargaining power of buyers 
+(c)  
+New entrants 
+(d)  
+Industry rivalry 
+(2 Marks) 
+(v)  
+What was Rachini Group's initial Vision when it was founded? 
+(a)  
+To diversify quickly into unrelated businesses 
+(b)  
+To become a leading player in the spice trade industry 
+(c)  
+To establish a philanthropic arm 
+(d)  
+To go public by 2026 
+(2 Marks) 
+(B)  
+Compulsory Application Based Independent MCQs 
+(i)  
+A multinational corporation is debating whether to invest significant time 
+and resources into developing a new strategic plan. Some argue it diverts 
+attention from current operations, while others believe it is essential for 
+long-term success. Despite being resource-intensive, it remains crucial for 
+sustained growth. What does this situation best illustrate? 
+(a)  
+Strategic management ensures immediate profitability 
+(b)  
+Strategic management is time-consuming but necessary 
+(c)  
+Operational efficiency is more important than strategic planning 
+(d)  
+Short-term focus leads to long-term success 
+(2 Marks) 
+(ii)  
+A group of environmental activists consistently raises concerns about a 
+company's environmental impact. While their opinions are acknowledged, 
+they lack the authority to directly influence company decisions. The 
+company monitors their concerns and engages with them when necessary 
+<<PAGE 13>>
+13 
+to maintain its reputation. Which quadrant of Mendelow’s Matrix best 
+categorizes these stakeholders? 
+(a)  
+High Interest, Low Power 
+(b)  
+Low Interest, Low Power 
+(c)  
+High Interest, High Power 
+(d)  
+Low Interest, High Power 
+(2 Marks) 
+(iii)  
+ABC Corp., a pharmaceutical company, faces strict regulatory approvals 
+before launching a new drug. Meanwhile, government policies promote 
+local drug manufacturing, and digital advancements are transforming 
+research. Which PESTLE factor is most relevant to the regulatory 
+approvals for new drugs? 
+(a)  
+Political 
+(b)  
+Legal 
+(c)  
+Technological 
+(d)  
+Economic 
+(1 Mark) 
+PART II – Descriptive Questions (35 Marks) 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+1.  
+(a)  
+ABC Tech, a leading smartphone manufacturer, is navigating a highly competitive 
+market where innovation and cost efficiency are key. Customers prioritize battery 
+life, camera quality, and seamless software integration when choosing a brand. 
+To stay ahead, ABC Tech invests heavily in research and development, optimizes 
+its supply chain for cost-effective production, and enhances customer service. 
+Identify the Key Success Factors (KSFs) for ABC Tech based on the industry 
+conditions described. How can the company achieve a sustainable competitive 
+advantage by leveraging these factors? 
+(5 Marks) 
+(b)  
+EcoTrend, a growing e-commerce company, competes with industry giants by 
+offering premium, eco-friendly products at high prices, targeting environmentally 
+conscious consumers. Meanwhile, its competitor, BudgetBazaar, focuses on 
+providing the lowest prices by optimizing costs and streamlining operations. 
+Another player, VogueVista, differentiates itself through exclusive, fashion-
+forward designs that attract trend-savvy customers. Identify the generic strategies 
+<<PAGE 14>>
+14 
+used by EcoTrend, BudgetBazaar, and VogueVista based on Michael Porter’s 
+Generic Strategies framework. Explain how each company gains a competitive 
+advantage.  
+(5 Marks) 
+(c)  
+Nexora Innovations, a mid-sized IT services firm, decided to implement a cloud-
+based project management system to enhance collaboration and streamline 
+operations. However, many employees resisted the shift, fearing job redundancies 
+and struggling to adapt to the new system. Despite initial communication, 
+productivity dipped, and frustration grew among staff. What key change 
+management strategies should Nexora Innovations adopt to ensure a smooth 
+digital transformation and minimize disruption? 
+(5 Marks) 
+2.  
+(a)  
+NovaTech Pvt. Ltd. is a well-established educational technology (EdTech) company 
+in the India. The company has been performing well in the online learning industry. 
+The management of NovaTech Pvt. Ltd. has now decided to expand its business by 
+launching a luxury skincare brand named "GlowNova." Identify and explain the 
+growth strategy adopted by NovaTech Pvt. Ltd.   
+(5 Marks) 
+(b)  
+Aarav is planning to launch his new organic food brand. He is evaluating different 
+cities across the country to establish his business in the most suitable 
+environment. One promising option is Pune, a city known for its health-conscious 
+consumers, strong distribution networks, and government initiatives supporting 
+sustainable businesses. With favorable policies, tax benefits, and access to 
+experienced mentors, Pune seems like an ideal choice for Aarav to launch and 
+scale his organic food brand successfully. Define the term Business Environment 
+with respect to the above scenario. Explain how a business's interaction with its 
+environment can contribute to the development of a successful strategy. 
+ 
+(5 Marks) 
+3.  
+(a)  
+Major core competencies are identified in three areas - competitor differentiation, 
+customer value and application to other markets. Discuss. 
+(5 Marks) 
+(b)  
+‘Innovation leads to unnecessary expenses that do not give as many returns.’ Do 
+you agree with the statement? Give reasons in support of your answer. (5 Marks) 
+4.  
+(a)  
+Differentiate between Strategy Formulation and Strategy Implementation. 
+ 
+(5 Marks) 
+(b)  
+What is a strategic vision, and what are the essential components that make it an 
+effective tool for guiding an organization's future? 
+OR 
+ 
+Distinguish between Vision and Mission. 
+(5 Marks) 

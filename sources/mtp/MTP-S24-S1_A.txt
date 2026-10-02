@@ -1,0 +1,1287 @@
+<<PAGE 1>>
+1 
+Mock Test Paper - Series I: July, 2024 
+Date of Paper: 3rd August, 2024 
+Time of Paper: 2 P.M. to 5 P.M. 
+ 
+INTERMEDIATE: GROUP – II 
+PAPER – 6: FINANCIAL MANAGEMENT & STRATEGIC MANAGEMENT 
+PAPER 6A : FINANCIAL MANAGEMENT 
+Suggested Answers/ Hints 
+DIVISION A 
+1. 
+(c)  18.65%, 16.58%       
+Ke under two approaches 
+Calculation of Ke (Using Gordon’s Model) 
+Ke = D1
+g
+Po +
+ 
+Share Price has grown from 150 to 301 in 5 years, 
+150 (1 + g)5 = 301. 
+(1 + g)5 = 2.01 
+ 
+Therefore, g = 15%, (From Annuity table – Re 1 after 5 years becomes 
+` 2.01 at rate of 15%)   
+D1 = 8 + 15% of 8 = 9.2 
+Po = Average of 52 weeks High price in last 5 years 
+Po = (185 + 210 +252 +325 +280) / 5  
+      = 252.40 
+Ke = 9.2 / 252.40 + 0.15 
+     = 18.65% 
+Calculation of Ke (Using CAPM) 
+Ke = Rf + (Rm – Rf) X Beta 
+     = 8 + (11 x 0.78)  
+     = 16.58% 
+2.  
+(a) 
+17.82%            
+ 
+ 
+Overall Ke for the company 
+Approach Cost of Equity (k) 
+Weight (w) 
+K x w 
+Gordon’s 
+18.65% 
+0.6 
+11.19% 
+CAPM 
+16.58% 
+0.4 
+6.63% 
+Total Ke = 17.82% 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 2>>
+2 
+3.  
+(b) 12%                       
+ 
+ 
+Intrinsic Value of Debentures today is ` 9,740 
+ 
+ 
+WN 1 – Calculation of the Pattern of Future Cash flows 
+YR PRINCIPAL 
+(I) 
+INTEREST (II) = Coupon 
+Rate = 9.5% (7.5% + 2%) 
+PV 
+OF  
+(I 
++ 
+II)  
+@ 10% 
+PV OF (I + II)  
+@ 15% 
+1 
+1,500 
+997.50 
+2270.45 
+2171.74 
+2 
+1,500 
+855 
+1946.28 
+1780.72 
+3 
+1,500 
+712.5 
+1662.28 
+1454.75 
+4 
+1,500 
+570 
+1413.84 
+1183.53 
+5 
+1,500 
+427.50 
+1196.83 
+958.31 
+6 
+1,500 
+285 
+1007.59 
+771.70 
+7 
+1,500 
+142.50 
+842.86 
+617.48 
+ 
+ 
+ 
+10340.13 
+8938.23 
+ 
+= 10% + (
+)
+10,340.13
+9,740
+x5%
+(10,340.13
+8,938.23)
+−
+−
+ = 12.14% = 12% (approx.) 
+ 
+4.  
+(c) 
+16.07%, ` 87,75,000    
+Ko = Wd x Kd + We x Ke 
+     = 0.3 X 12 + 0.7 X 17.82  
+    = 16.07% 
+Purchase Consideration using M-Cap method 
+= 1,30,000 eq shares x 45 MPS x 1.5X 
+= ` 87,75,000 
+5.  
+(d) ` 66,58,997 
+ 
+It is to be paid equally over 5 years and first instalment is to be paid 
+immediately at Yr 0 
+ 
+Discount rate will be the Ko calculated as above of the company and not 
+15% which is Ko of Prestige Limited 
+Year 
+Amount each year 
+PV @ 16.07%  
+PV (`)  
+0 
+      17,55,000  
+1.0000 
+17,55,000 
+1 
+      17,55,000  
+0.8615 
+15,11,933 
+2 
+      17,55,000  
+0.7423 
+13,02,737 
+3 
+      17,55,000  
+0.6395 
+11,22,323 
+4 
+      17,55,000  
+0.5510 
+9,67,005 
+ 
+ TOTAL PV  
+ 
+66,58,997 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 3>>
+3 
+6. 
+(d) 19.5% 
+ 
+Financial Leverage (FL) indicates % impact in EPS, if EBIT is affected by 
+12% 
+FL = Combined Leverage (CL) /Operating Leverage (OL) 
+CL = 6.5 (Measure of total risk) 
+OL = 1 / Margin of Safety  
+Margin of Safety (MOS) = Actual Sales   B.E Sales
+Actual Sales
+−
+ 
+MOS = 20 lakhs – 15 lakhs / 20 lakhs = 0.25 
+Therefore, OL = 1 / 0.25 = 4 
+So, FL = 6.5 / 4 = 1.625 
+So % Change in EPS = 12 x 1.625 = 19.5% 
+7. 
+(c) 
+1:2 
+Item 
+Cost 
+Weight 
+Product 
+Debt 
+8% 
+W 
+8W 
+Equity 
+11% 
+1 – W 
+11 – 11W 
+ 
+ 
+ 
+WACC = 10 
+Wd = 1/3 and We = 2/3 Debt Equity Ratio = 1/2 
+8. 
+(c) 
+` 350 Lakhs 
+Value of Equity  = 30 Lakhs ÷ 15% = ` 200 Lakhs 
+Value of Debt  = ` 150 Lakhs 
+Value of Firm  = 200 Lakhs + 150 Lakhs = ` 350 Lakhs 
+ 
+ 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 4>>
+4 
+DIVISION B – Descriptive Questions 
+1. 
+(a)  1.  
+Cost of Goods Sold = Sales – Gross Profit  
+= ` 7,20,000 – 25% x ` 7,20,000  = ` 5,40,000 
+2.  
+Stock Turnover = 
+Stock
+Average
+Sold
+Goods
+of
+Cost
+= 
+Stock
+Average
+000
+,
+40
+,
+5
+`
+ = 5 times.  
+ 
+Average Stock  = 
+5
+000
+,
+40
+,
+5
+`
+= ` 1,08,000 
+3.   Let Opening Stock be x.  
+ 
+Closing Stock is ` 30,000 more than Opening Stock.  
+ 
+Closing Stock  
+= (x + 30,000) 
+ 
+Average Stock  = 
+2
+000
+,
+30
++
+x
++
+x
+ = 1,08,000.  
+ 
+2x  
+ 
+= 2,16,000 – 30,000 
+ 
+x   
+ 
+= 
+2
+000
+,
+86
+,
+1
+ = 93,000 = Opening Stock. 
+ 
+Closing Stock  
+= x + 30,000  
+ 
+ 
+ 
+ 
+= 93,000 + 30,000 = ` 1,23,000  
+4.  
+Liquid Ratio  
+= 
+s
+Liabilitie
+Current
+Assets
+Liquid
+ = 
+2,40,000
+Assets
+Liquid
+ = 1.25. 
+ 
+Liquid Assets 
+= ` 3,00,000 
+5.  
+Current Assets  = Liquid Assets + Closing Stock 
+ 
+ 
+ 
+ 
+= ` 3,00,000 + ` 1,23,000 = ` 4,23,000 
+(b) Calculation of slab wise Overall Cost of Capital  
+(i)  
+ 
+Project Cost 
+Capital 
+Source 
+Weights 
+(w) 
+Cost 
+(k) 
+w x k 
+(%) 
+Upto 5 Lakhs 
+Debt 
+0.3 
+10 
+3 
+Equity 
+0.7 
+12 
+8.4 
+Ko 
+11.4 
+Above 5 lakhs upto 10 lakhs 
+Debt 
+0.3 
+12 
+3.6 
+Equity 
+0.7 
+13.5 
+9.45 
+Ko 
+13.05 
+Above 10 lakhs upto 20 lakhs 
+Debt 
+0.3 
+13 
+3.9 
+Equity 
+0.7 
+15 
+10.5 
+ 
+ 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 5>>
+5 
+Ko 
+14.4 
+Above 20 lakhs 
+Debt 
+0.3 
+14 
+4.2 
+Equity 
+0.7 
+16 
+11.2 
+Ko 
+15.4 
+ 
+Cost of Raising funds for Project I 
+Total Capital 
+Ko(%) 
+Total Cost (in `) 
+5,00,000  
+11.40 
+57,000  
+5,00,000  
+13.05 
+65,250  
+5,00,000  
+14.40 
+72,000  
+15,00,000  
+ 
+1,94,250  
+Overall COC (%) = Total Cost (in `) / Total Capital 
+ 
+ 
+ 
+= 1,94,250/15,00,000 * 100 
+ 
+ 
+ 
+= 12.95 % 
+Cost of Raising funds for Project II 
+Total Capital 
+Ko(%) 
+Total Cost (in `) 
+5,00,000 
+11.4 
+57,000 
+5,00,000 
+13.05 
+65,250 
+10,00,000 
+14.4 
+1,44,000 
+6,00,000 
+15.4 
+92,400 
+26,00,000 
+  
+3,58,650 
+ 
+Overall COC (%) = 358650 / 2600000 * 100 = 13.79% 
+(ii)  If any project is expected to give an after-tax return of 13%, it can 
+be accepted only if the maximum Overall COC (%) of that project 
+equals 13% or less, as at 13%, project would be at break-even i.e 
+earning 13% from the project and incurring 13% COC. 
+ 
+So, under that scenario, Project I can be taken as its COC is 
+12.95% whereas Project II can’t be taken as its COC is 13.79%. 
+ 
+Maximum Value of the Project that can be taken at 13% is approx. 
+(Using IRR technique Interpolation) 
+At 15 Lakhs                                        Ko = 12.95% 
+At 26 Lakhs                                        Ko = 13.79% 
+By interpolation, maximum value of Project at 13% will be   
+15 Lakhs + {(0.05 x 11)/0.84} 
+= 15.6548 lakhs  
+ 
+ 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 6>>
+6 
+(c)  Income Statement 
+DFL =
+= 
+=
+=
+.  
+EBT + ` 2000  = 2 EBT. 
+EBT  
+ 
+= ` 2,000 
+EBIT  
+ 
+= EBT +  Interest = ` 2000 + ` 2000 = ` 4,000. 
+Contribution 
+= 
+=
+ 
+Sales  
+=
+ 
+48,000 
+Less: Variable Cost 
+Given = 75% 
+(36,000) 
+Contribution  
+12,000 
+Less: Fixed Cost( Contribution - EBIT = ` 12,000 – ` 4,000)  
+(8,000) 
+ 
+EBIT   
+ 
+4,000 
+Less: Interest  
+ 
+(2,000) 
+ 
+EBT   
+  
+2,000 
+Less: Tax at 30%  
+(600) 
+ 
+EAT   
+1,400 
+2. 
+(a) 
+ 
+Particulars 
+Result 
+Current liabilities 
+1,56,000 
+Total Variable expenses = 
+Purchases 
+& 
+Operating 
+Expenses 
+1,56,000 ÷ 60 × 360 = 9,36,000 
+Variable expenses % of Sales 
+9,36,000 ÷ 12,00,000 × 100 = 78% 
+ 
+Particulars 
+Present 
+Proposed 
+1.  Sales  
+1 Lakh ÷ 30 × 360  
+= 12,00,000 
+12 Lakhs + 1/3rd  
+= 16,00,000 
+2.  Variable Cost at 
+78% 
+9,36,000 
+12,48,000 
+3.  Cash Discount 
+12 Lakh × 50% × 1%  
+= 6,000 
+16 Lakh × 80% × 2% 
+= 25,600 
+4.  Bad debts 
+12 Lakh × 1.5%  
+= 18,000 
+16 Lakh × 2%  
+= 32,000 
+5.  Profit before Tax 
+2,40,000 
+2,94,400 
+6.  Tax @ 30% 
+72,000 
+88,320 
+7.  Profit after Tax 
+1,68,000  
+2,06,080  
+EBT
+EBIT
+EBT
+Interest
+EBT +
+EBT
+2,000
+EBT +
+1
+2
+EBIT
+on
+Contributi
+4,000
+on
+Contributi
+1
+3
+PVR
+on
+Contributi
+25%
+12,000
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 7>>
+7 
+Particulars 
+Present 
+Proposed 
+8.  Opportunity 
+Cost 
+of 
+Invest. 
+in 
+Debtors 
+9,36,000 × 30/360 × 
+70% ×15% = 8,190 
+12,48,000 × 20/360 × 
+70% × 15% = 7,280 
+9.  Net Benefit  
+1,59,810 
+1,98,800 
+ 
+Advise: Proposed policy should be adopted since the net benefit is 
+increased by (` 1,98,800 - 1,59,810) = ` 38,990. 
+(b)  (i)  
+As per Gordon’s Model, Price per share is computed using the 
+formula: 
+1
+0
+e
+E (1 b)
+P
+K
+br
+−
+=
+−
+ 
+Where, 
+P0 = Price per share 
+E1 = Earnings per share 
+Payout ratio = 45/180 = 25% 
+b = Retention ratio; (1 - b = Pay-out ratio) = 1-0.25 = 0.75 
+Ke = Cost of capital 
+r = IRR 
+br = Growth rate (g) 
+Applying the above formula, price per share 
+−
+=
+−
+
+0
+180(1 0.75)
+P
+0.17
+0.75 0.2 = 45
+0.02 = ` 2,250 
+(ii)  As per Walter’s Model, Price per share is computed using the 
+formula: 
+Price (P)    =     
+D+ r
+Ke(E-D)
+Ke
+ 
+Where,  
+P = Market Price of the share. 
+ 
+E = Earnings per share. 
+ 
+D = Dividend per share. 
+ 
+Ke = Cost of equity/ rate of capitalization/ discount rate. 
+r = Internal rate of return/ return on investment 
+Applying the above formula, price per share  
+ 
+ 
+P    =     
+45+0.20  
+0.17 (180-45)
+0.17
+ 
+Or,  P    =     45+158.82
+0.17
+ = ` 1,200 (approx..) 
+ 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 8>>
+8 
+3. 
+(a) 
+Calculation of Present value of cash inflows (PVCI) 
+ 
+Year 0 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Savings in cost 
+due 
+to 
+Production 
+Delays  
+- 
+3,50,000 
+3,50,000 
+3,50,000 
+3,50,000 
+3,50,000 
+Savings 
+in 
+Salaries  
+- 21,00,000 21,00,000 21,00,000 21,00,000 21,00,000 
+Reduction in lost 
+sales  
+- 
+1,75,000 
+1,75,000 
+1,75,000 
+1,75,000 
+1,75,000 
+Gain 
+due 
+to 
+timely billing  
+- 
+3,25,000 
+3,25,000 
+3,25,000 
+3,25,000 
+3,25,000 
+- 29,50,000 29,50,000 29,50,000 29,50,000 29,50,000 
+Less:   
+Salary 
+of 
+AI 
+specialists  
+- 13,00,000 13,00,000 13,00,000 13,00,000 13,00,000 
+Annual Maint. & 
+Op Cost  
+- 
+1,80,000 
+2,00,000 
+1,20,000 
+1,10,000 
+1,30,000 
+NPBDT  
+- 14,70,000 14,50,000 15,30,000 15,40,000 15,20,000 
+(-) Depreciation  
+ 
+- 
+9,20,000 
+5,52,000 
+3,31,200 
+1,98,720 
+1,19,232 
+NPBT  
+- 
+5,50,000 
+8,98,000 11,98,800 13,41,280 14,00,768 
+(-) Tax @ 25%  
+- 
+1,37,500 
+2,24,500 
+2,99,700 
+3,35,320 
+3,50,192 
+NPAT  
+- 
+4,12,500 
+6,73,500 
+8,99,100 10,05,960 10,50,576 
+(+) Depreciation  
+- 
+9,20,000 
+5,52,000 
+3,31,200 
+1,98,720 
+1,19,232 
+(+) Annual Maint. 
+& Op Cost  
+- 
+1,80,000 
+2,00,000 
+1,20,000 
+1,10,000 
+1,30,000 
+Gross 
+Cash 
+Inflows  
+- 15,12,500 14,25,500 13,50,300 13,14,680 12,99,808 
+(-) Annual Maint. 
+& 
+Op 
+Cost 
+actually paid  
+1,80,000 
+2,00,000 
+1,20,000 
+1,10,000 
+1,30,000 
+- 
+Net Cash Inflows  -1,80,000 13,12,500 13,05,500 12,40,300 11,84,680 12,99,808 
+(+) Sale Value at 
+the end of life  
+- 
+- 
+- 
+- 
+- 
+1,90,000 
+-1,80,000 13,12,500 13,05,500 12,40,300 11,84,680 14,89,808 
+PV 
+Factor 
+@ 
+12%  
+1 
+0.8929 
+0.7`972 
+0.7118 
+0.6355 
+0.5674 
+PV 
+of 
+Cash 
+Inflows  
+-1,80,000 11,71,875 10,40,737 
+8,82,821 
+7,52,886 
+8,45,357 
+Total 
+PV 
+of 
+Cash Inflows 
+45,13,675 
+ 
+Calculation of Present value of cash outflows (PVCO) 
+ 
+As mentioned in the question, 75% of the depreciable value will be paid 
+at the beginning. Depreciable value means purchase price plus the 
+installation cost. 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 9>>
+9 
+Year 0 
+Year 1 
+Purchase Price & Installation Cost 
+17,25,000  5,75,000  
+PV Factor @ 12% 
+1 
+0.8929 
+PVCO 
+17,25,000  5,13,418  
+(2)  Total PVCO = 22,38,418 
+(3)  PV of Tax on Capital Gains (Only asset in the block) - 5th Year end 
+ 
+Capital Gains = Sale Price (-) Closing WDV at 5th year 
+ 
+ 
+ 
+     = 1,90,000 (-) 1,78,848   
+ 
+ 
+ 
+     = 11,152 
+ 
+Tax @ 20% on above = 2230.40 
+ 
+PV = 2,230.40 x 0.5674 = 1,266 
+ 
+Net PVCI  = PVCI - PV of Tax on Capital Gains 
+ 
+ 
+   
+= 45,13,675 - 1,266 = 45,12,409 
+NPV 
+= Net PVCI – PVCO 
+ 
+ 
+ 
+=  45,12,409 - 22,38,418 
+ 
+ 
+  
+= 22,73,991 
+(II)  PI   
+= PVCI / PVCO = 45,12,409/ 22,38,418 = 2.0158 
+(III)  ARR  
+= Average NPAT / Initial Investment  
+= 8,08,327.2/23,00,000 x 100 = 35.145% 
+ 
+Note – ARR is calculated based on Initial Investment, similarly it can be 
+calculated based on Average Investment 
+(b) Lintner’s model has two parameters: 
+i. 
+The target payout ratio, 
+ii. 
+The spread at which current dividends adjust to the target. 
+4.  
+(a)  Normally it is considered that the trade credit does not carry any cost. 
+However, it carries the following costs: 
+(i) 
+Price: There is often a discount on the price that the firm undergoes 
+when it uses trade credit, since it can take advantage of the 
+discount only if it pays immediately. This discount can translate into 
+a high implicit cost. 
+(ii) 
+Loss of goodwill: If the credit is overstepped, suppliers may 
+discriminate against delinquent customers if supplies become 
+short. As with the effect of any loss of goodwill, it depends very 
+much on the relative market strengths of the parties involved. 
+(iii) Cost 
+of 
+managing: 
+Management 
+of 
+creditors 
+involves 
+administrative and accounting costs that would otherwise be 
+incurred.    
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 10>>
+10 
+(iv) Conditions: Sometimes most of the suppliers insist that for availing 
+the credit facility the order should be of some minimum size or even 
+on regular basis. 
+ 
+(b)  (i) 
+Fully Hedged Bonds: In foreign bonds, the risk of currency 
+fluctuations exists. Fully hedged bonds eliminate the risk by selling 
+in forward markets the entire stream of principal and interest 
+payments. 
+ 
+ 
+(ii) 
+Medium Term Notes (MTN): Certain issuers need frequent 
+financing through the Bond route including that of the Euro bond. 
+However, it may be costly and ineffective to go in for frequent 
+issues. Instead, investors can follow the MTN programme. Under 
+this programme, several lots of bonds can be issued, all having 
+different features e.g. different coupon rates, different currencies 
+etc. The timing of each lot can be decided keeping in mind the 
+future market opportunities. The entire documentation and various 
+regulatory approvals can be taken at one point of time. 
+ 
+ 
+(iii) Floating Rate Notes (FRN): These are issued up to seven years 
+maturity. Interest rates are adjusted to reflect the prevailing 
+exchange rates. They provide cheaper money than foreign loans. 
+ 
+ 
+(iv) Euro Commercial Papers (ECP): ECPs are short term money 
+market instruments. They have maturity period of less than one 
+year. They are usually designated in US Dollars. 
+(c)  DOL can never be between zero and one. It can be zero or less or it can 
+be one or more.  
+ 
+When Sales is much higher than BEP sales, DOL will be slightly more 
+than one. With decrease in sales, DOL will increase. At BEP, DOL will 
+be infinite. When sales is slightly less than BEP, DOL will be negative 
+infinite. With further reduction in sale, DOL will move towards zero. At 
+zero sales, DOL will also be zero. 
+OR 
+ 
+The finance executive of an organisation plays an important role in the 
+company’s goals, policies, and financial success. His responsibilities 
+include: 
+(a) 
+Financial analysis and planning: Determining the proper amount 
+of funds to employ in the firm, i.e. designating the size of the firm 
+and its rate of growth. 
+(b) Investment decisions: The efficient allocation of funds to specific 
+assets. 
+(c) 
+Financing and capital structure decisions:  Raising funds on 
+favourable terms as possible i.e. determining the composition of 
+liabilities. 
+(d) Management of financial resources (such as working capital). 
+(e) 
+Risk management: Protecting assets. 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 11>>
+11 
+PAPER 6B: STRATEGIC MANAGEMENT 
+ANSWERS 
+PART I 
+1. (A) 
+(i)  
+(b) 
+(ii) 
+(d) 
+(iii)  
+(c) 
+(iv)  
+(c) 
+(v)  
+(b) 
+1. (B) 
+(i)  
+(c) 
+(ii) 
+(c) 
+(iii)  
+(c) 
+ 
+ 
+ 
+ 
+PART II 
+1.  
+(a)  The HealthPlus brand of wellness supplements may have the following 
+vision and mission: 
+ 
+Vision: Vision implies the blueprint of the company’s future position. It 
+describes where the organization wants to land. Mr. Arun should aim to 
+position “HealthPlus” as India’s leading wellness supplements brand. It 
+may have the vision to be India’s largest wellness supplements company 
+that enhances health, promotes extraordinary well-being, and brings 
+happiness to people. 
+ 
+Mission: Mission delineates the firm’s business, its goals, and ways to 
+reach the goals. It explains the reason for the existence of the firm in 
+society. It is designed to help potential shareholders and investors 
+understand the purpose of the company. Mr. Arun may identify the 
+mission in the following lines: 
+ 
+To be in the business of wellness supplements to enhance the lives 
+of people and give them the confidence to lead a healthy life. 
+ 
+To protect health by providing supplements that counteract harmful 
+elements in the environment. 
+ 
+To produce wellness supplements using natural ingredients in an 
+environmentally sustainable manner. 
+(b)  GreenGardens should conduct a SWOT analysis to strategically plan for 
+future growth. This analysis will help them understand their internal 
+strengths and weaknesses, as well as external opportunities and threats. 
+ 
+SWOT Analysis Grid for GreenGardens: 
+Strengths 
+Weaknesses 
+High-quality, 
+pesticide-free 
+produce 
+Limited distribution channels 
+Strong brand reputation for 
+organic products 
+Small scale of operations 
+Dedicated and knowledgeable 
+workforce 
+Limited marketing and sales reach 
+Opportunities 
+Threats 
+Rising demand for organic 
+products 
+Unpredictable weather conditions 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 12>>
+12 
+Potential to expand into new 
+markets 
+Intense competition from larger 
+farms 
+Increased 
+consumer 
+awareness 
+of 
+health 
+and 
+sustainability 
+Regulatory 
+changes 
+affecting 
+organic farming 
+By systematically evaluating these areas, GreenGardens can leverage 
+its strengths, address its weaknesses, capitalize on opportunities, and 
+mitigate threats. This strategic planning will guide them toward 
+sustainable growth and success in the organic farming industry. 
+(c)  FreshDelight is employing a market development strategy to expand 
+its market presence. This approach involves introducing their existing 
+organic fruit juices to new markets, specifically targeting countries where 
+the demand for organic products is on the rise. To achieve this, 
+FreshDelight is launching targeted marketing campaigns and partnering 
+with local distributors to effectively introduce their products to these new 
+regions. Additionally, they are adapting their product packaging and 
+marketing messages to align with local preferences and regulations, 
+ensuring their offerings resonate with the new customer base. By 
+entering these emerging markets, FreshDelight aims to increase its 
+customer base and drive sales growth, leveraging the growing popularity 
+of organic products. 
+2. 
+(a)  A workable action plan for turnaround of the textile mill would involve:  
+• 
+Stage One – Assessment of current problems: In the first step, 
+assess the current problems and get to the root causes and the 
+extent of damage.  
+• 
+Stage Two – Analyze the situation and develop a strategic 
+plan: Identify major problems and opportunities, develop a 
+strategic plan with specific goals and detailed functional actions 
+after analyzing strengths and weaknesses in the areas of 
+competitive position.  
+• 
+Stage Three – Implementing an emergency action plan: If the 
+organization is in a critical stage, an appropriate action plan must 
+be developed to stop the bleeding and enable the organization to 
+survive.  
+• 
+Stage Four – Restructuring the business: If the core business is 
+irreparably damaged, then the outlook for the entire organization 
+may be bleak. Efforts to be made to position the organization for 
+rapid improvement.  
+• 
+Stage Five – Returning to normal: In the final stage of turnaround 
+strategy process, the organization should begin to show signs of 
+profitability, return on investments and enhancing economic value-
+added.  
+ 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 13>>
+13 
+(b)  In matrix structure, functional and product forms are combined 
+simultaneously at the same level of the organization. Employees have 
+two superiors, a product / project manager and a functional manager. 
+The “home” department - that is, engineering, manufacturing, or 
+marketing - is usually functional and is reasonably permanent. People 
+from these functional units are often assigned temporarily to one or more 
+product units or projects.  
+ 
+The product units / projects are usually temporary and act like divisions 
+in that they are differentiated on a product-market basis. The matrix 
+structure may be very appropriate when organizations conclude that 
+neither functional nor divisional forms, even when combined with 
+horizontal linking mechanisms like strategic business units, are right for 
+the implementation of their strategies. Matrix structure was developed to 
+combine the stability of the functional structure with flexibility of the 
+product form. It is very useful when the external environment (especially 
+its technological and market aspects) is very complex and changeable. 
+ 
+A matrix structure is most complex of all designs because it depends 
+upon both vertical and horizontal flows of authority and communication. 
+It may result in higher overhead costs due to more management 
+positions.  
+ 
+The matrix structure is often found in an organization when the following 
+three conditions exist:  
+1. 
+Ideas need to be cross-fertilized across projects or products;  
+2. 
+Resources are scarce; and  
+3. 
+Abilities to process information and to make decisions need to be 
+improved. 
+3.  
+(a)  Competitive landscape is a business analysis which identifies 
+competitors, either direct or indirect. Competitive landscape is about 
+identifying and understanding the competitors and at the same time, it 
+permits the comprehension of their vision, mission, core values, niche 
+market, strengths and weaknesses.  
+ 
+An in-depth investigation and analysis of a firm’s competition allows it to 
+assess the competitors’ strengths and weaknesses in the marketplace 
+and helps it to choose and implement effective strategies that will 
+improve its competitive advantage.    
+ 
+Steps to understand the competitive landscape for building competitive 
+advantage are:  
+(i) 
+Identify the competitor: The first step to understanding the 
+competitive landscape is to identify the competitors in the firm’s 
+industry and have actual data about their respective market share.  
+(ii) 
+Understand the competitors: Once the competitors have been 
+identified, the strategist can use market research report, internet, 
+newspapers, social media, industry reports, and various other 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 14>>
+14 
+sources to understand the products and services offered by them 
+in different markets.  
+(iii) Determine the strengths of the competitors: What are the 
+strengths of the competitors? What do they do well? Do they offer 
+great products? Do they utilize marketing in a way that 
+comparatively reaches out to more consumers? Why do customers 
+give them their business?  
+(iv) Determine the weaknesses of the competitors: Weaknesses 
+(and strengths) can be identified by going through consumer 
+reports and reviews appearing in various media. After all, 
+consumers are often willing to give their opinions, especially when 
+the products or services are either great or very poor.  
+(v) 
+Put all of the information together: At this stage, the strategist 
+should put together all information about competitors and draw 
+inference about what they are not offering and what the firm can do 
+to fill in the gaps. The strategist can also know the areas which 
+need to be strengthened by the firm.   
+(b)  The role of Chief Executive Officer pertains to corporate level. 
+ 
+The corporate level of management consists of the Chief Executive 
+Officer (CEO) and other top-level executives. These individuals occupy 
+the apex of decision making within the organization.  
+ 
+The role of Chief Executive Officer is to:  
+1. 
+oversee the development of strategies for the whole organization; 
+2. 
+defining the mission and goals of the organization; 
+3. 
+determining what businesses, it should be in; 
+4. 
+allocating resources among the different businesses; 
+5. 
+formulating, and implementing strategies that span individual 
+businesses; 
+6. 
+providing leadership for the organization;  
+7. 
+ensuring that the corporate and business level strategies which 
+company pursues are consistent with maximizing shareholders 
+wealth; and 
+8. 
+managing the divestment and acquisition process.  
+4.  
+(a)  Buyers of an industry’s products or services can sometimes exert 
+considerable pressure on existing firms to secure lower prices or better 
+services. This is evident in situations where buyers enjoy a superior 
+position than the seller of the product. This leverage is particularly 
+evident when:  
+(i)  
+Buyers have full knowledge of the sources of products and their 
+substitutes.  
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 15>>
+15 
+(ii)  They spend a lot of money on the industry’s products, i.e., they are 
+big buyers.  
+(iii)  The industry’s product is not perceived as critical to the buyer’s 
+needs and buyers are more concentrated than firms supplying the 
+product. They can easily switch to the substitutes available. 
+(b)  According to C.K. Prahalad and Gary Hamel, major core competencies 
+are identified in three areas - competitor differentiation, customer value, 
+and application to other markets.  
+ 
+Competitor differentiation: The company can consider having a 
+core competence if the competence is unique and it is difficult for 
+competitors to imitate. This can provide a company an edge 
+compared to competitors. It allows the company to provide better 
+products or services to market with no fear that competitors can 
+copy it.  
+ 
+Customer value: When purchasing a product or service it has to 
+deliver a fundamental benefit for the end customer in order to be a 
+core competence. It will include all the skills needed to provide 
+fundamental benefits. The service or the product has to have real 
+impact on the customer as the reason to choose to purchase them. 
+If customer has chosen the company without this impact, then 
+competence is not a core competence.  
+ 
+Application 
+of 
+competencies 
+to 
+other 
+markets: 
+Core 
+competence must be applicable to the whole organization; it cannot 
+be only one particular skill or specified area of expertise. Therefore, 
+although some special capability would be essential or crucial for 
+the success of business activity, it will not be considered as core 
+competence, if it is not fundamental from the whole organization’s 
+point of view. Thus, a core competence is a unique set of skills and 
+expertise, which will be used throughout the organisation to open 
+up potential markets to be exploited.  
+OR 
+ 
+Organizations should consider the following factors when choosing 
+strategic performance measures: 
+1. 
+Relevance: The measure should be relevant to the organization's 
+goals and objectives, providing actionable and meaningful 
+information. This ensures that the performance measures are 
+directly aligned with what the organization aims to achieve, and that 
+the information obtained can drive improvements and strategic 
+decisions. 
+2. 
+Data Availability: The measure should be based on data that is 
+readily available and can be collected and analyzed in a timely 
+manner. This is important to ensure that the organization can 
+efficiently gather and utilize data without significant delays or 
+obstacles. 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 16>>
+16 
+3. 
+Data Quality: The measure should be based on high-quality data 
+that is accurate and reliable. Accurate and reliable data are crucial 
+for making informed decisions and assessing the true performance 
+of the organization. 
+4. 
+Data Timeliness: The measure should be based on data that is 
+current and up-to-date. Timely data allows organizations to make 
+informed decisions quickly, enabling them to respond promptly to 
+changes and emerging challenges. 
+ 
+These factors are important because they provide a framework for 
+organizations to assess the success of their strategies, identify areas for 
+improvement, and make informed decisions about resource allocation 
+and strategic adjustments. Effective strategic performance measures 
+should be relevant, meaningful, easy to understand, and regularly 
+reviewed and updated to ensure their continued alignment with the 
+organization's goals and objectives. 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com

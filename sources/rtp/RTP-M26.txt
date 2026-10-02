@@ -1,0 +1,2775 @@
+<<PAGE 1>>
+ 
+6A: FINANCIAL MANAGEMENT 
+ 
+QUESTIONS 
+PART I - Case Scenario based MCQs 
+1.  
+ABC Ltd, a newly incorporated company, commenced its operations in 
+2024 by issuing equity shares at face value. The company follows a pure 
+equity capital structure and has 10,000 equity shares outstanding. 
+ 
+During its first two years of operations, the company demonstrated 
+stable financial performance. It earned a profit of ` 1,00,000 in 2024 and  
+` 1,04,000 in 2025, reflecting a consistent annual growth rate of 4%. The 
+company’s cost of equity (Ke) is estimated at 8%. Based on the Gordon 
+Growth Model, the market price per share at the end of 2025 has been 
+valued at ` 162.24. 
+ 
+Although the company has been following a traditional dividend payout 
+policy, the management is now concerned about whether this policy 
+maximizes shareholders’ wealth. Specifically, the Board of Directors 
+wants to assess whether the current dividend payout ratio is appropriate 
+in light of the company’s growth prospects and return on retained 
+earnings. 
+ 
+To support this decision, the finance team has been instructed to 
+evaluate the firm’s dividend policy using both the Gordon Growth Model 
+and Walter’s Model. The objective is to determine the impact of the 
+existing and alternative dividend payout strategies on the company’s 
+PAPER – 6:  
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+<<PAGE 2>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+2 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+market price per share, growth rate, capital employed, and overall 
+shareholder wealth maximization. 
+ 
+You are required to answer the following requirements: 
+(i)  
+Based on the given information, what is the face value per share 
+and the rate of return on retained earnings (r)? 
+(A)  ` 10 and 8% 
+(B) 
+` 100 and 10% 
+(C)  ` 100 and 8% 
+(D)  ` 10 and 10% 
+(ii)  
+What is the market price per share in 2025 under Walter’s Model? 
+(A)  ` 162.24 
+(B) 
+ ` 150.00 
+(C)  ` 143.00 
+(D) 
+` 170.00 
+(iii)  If the firm’s return on retained earnings (10%) is greater than its 
+cost of equity (8%), what is the optimum dividend payout ratio and 
+corresponding market price per share? 
+(A) 
+60% payout; ` 143.00 
+(B)  
+40% payout; ` 150.00 
+(C) 
+0% payout; ` 162.50 
+(D)  100% payout; ` 130.00 
+(iv)  What is the capital employed at the beginning of 2026, growth 
+rate and estimated earnings for 2026 if company continue the 
+existing (traditional) dividend payout ratio in 2025? 
+(A) 
+` 11,24,864; 4%; ` 1,12,486 
+(B) 
+` 11,89,760; 10%; ` 1,18,976 
+<<PAGE 3>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+3 
+ 
+MAY 2026 EXAMINATION 
+REVISION TEST PAPERS 
+(C) 
+` 10,81,600; 4%; ` 1,08,160 
+(D)  ` 11,24,864; 10%; ` 1,18,976 
+(v)  
+What is the capital employed at the beginning of 2026, growth 
+rate and estimated earnings for 2026 if company adopts optimum 
+dividend payout ratio in 2025? 
+(A)  ` 11,24,864; 4%; ` 1,12,486 
+(B) 
+` 11,89,760; 10%; ` 1,18,976 
+(C) 
+` 10,40,000; 8%; ` 1,04,000 
+(D) 
+` 11,44,000, 10%, ` 1,14,400 
+2.  
+A firm’s current liabilities comprise bank credit and other liabilities in the 
+ratio of 2 : 1. The current liabilities of the firm are 3,00,000 and the 
+current ratio is also 2 : 1. The quick ratio is 1 : 1. Thus, the amount of 
+bank credit and inventory of the firm would be : 
+(A)  ` 3,00,000 and ` 1,00,000 
+(B)  
+` 2,00,000 and ` 3,00,000 
+(C)  ` 3,00,000 and ` 2,00,000 
+(D)  ` 1,00,000 and ` 3,00,000 
+3.  
+The capital structure of JKL Limited consists of 12% debentures of ` 50 
+lakhs, 10% preference shares of ` 25 lakhs, 14% term loan of ` 15 lakhs 
+and equity share capital of ` 48 lakhs. Its reserves & surpluses are ` 24 
+lakhs. What would be the capital-gearing ratio? 
+(A)  1.04 
+(B)  
+1.25 
+(C)  1.33 
+(D)  1.56 
+ 
+ 
+<<PAGE 4>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+4 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+PART - II Descriptive Questions 
+Ratio Analysis 
+4.  
+The following information pertains to P Limited for the year ended  
+31st March, 2025 : 
+Particulars 
+Amount / Ratio 
+Sales 
+` 3,60,00,000 
+Rate of Income Tax 
+40% 
+Return on Net Worth 
+30% 
+Share Capital to Reserves Ratio 
+6 : 4 
+Current Ratio 
+2 : 1 
+Percentage of Net Profit to Sales 
+8% 
+Inventory Turnover (based on cost of goods sold) 
+12 
+Cost of goods sold 
+` 1,44,00,000 
+Sundry Debtors 
+` 12,00,000 
+Sundry Creditors 
+` 16,00,000 
+Interest on 14% debentures 
+` 3,36,000 
+You are required to CALCULATE: 
+(i)  
+Operating Expenses 
+(ii)  
+Share Capital and Reserves 
+(iii)  Closing Stock 
+(iv)  Fixed Assets 
+Cost of Capital 
+5.  
+Zebra Dynamics Ltd., a diversified engineering firm, is currently 
+undergoing a strategic review of its capital financing. The Board of 
+Directors has set strict hurdles for new project approvals. The Chief 
+Financial Officer (CFO) has stated that the company's Cost of Capital 
+based on Book Value weights is currently 11%, while the Cost of Capital 
+based on Market Value weights is exactly 150 basis points higher. 
+ 
+ 
+<<PAGE 5>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+5 
+ 
+MAY 2026 EXAMINATION 
+REVISION TEST PAPERS 
+Market Benchmarking Data 
+ 
+To determine the cost of equity, the finance team has gathered data on 
+two comparable peers, A Ltd. and B Ltd, which operate in the same 
+economic environment. Their returns are driven by the Capital Asset 
+Pricing Model (CAPM): 
+Security 
+Beta 
+Expected CAPM Return 
+A Ltd. 
+1.2 
+15.20% 
+B Ltd. 
+0.8 
+12.80% 
+Capital Structure: 
+• 
+Book Value Terms: The company maintains a traditional balance 
+sheet with an equal ratio of Equity and Debt. 
+• 
+Market Value Terms: Due to market optimism, the company's 
+equity trades at a premium. The Market Value of Equity is 3 times 
+its Book Value, while the debt trades at par (Market Value of Debt 
+equals Book Value). 
+Debt Instrument Details 
+ 
+The company’s debt capital is raised entirely through Debentures with 
+the following characteristics: 
+• 
+Coupon Rate: 7% per annum. 
+• 
+Issue Details: The debentures were issued at a discount of ` 10 for  
+` 90. 
+• 
+Redemption: They are redeemable at Par (` 100). 
+• 
+Tenure: The debentures mature in 4 years. 
+You have been hired as a financial consultant to  
+(i) 
+PROVIDE a detailed breakdown of the component costs. 
+(ii) 
+CALCULATE the corporate tax rate applicable to the company 
+assuming Discount on issue or premium on redemption are tax 
+deductible.  
+(iii) 
+CALCULATE the Beta of the company.  
+<<PAGE 6>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+6 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+Capital Structure 
+6.  
+The following data relate to two companies belonging to the same risk 
+class:  
+Particulars 
+A Ltd. 
+B Ltd.  
+Expected Net Operating Income  
+` 18,00,000 
+` 18,00,000 
+12% Debt  
+` 54,00,000 
+- 
+Equity Capitalization Rate   
+? 
+18 
+Required:  
+(a)  
+DETERMINE the total market value, equity capitalization rate and 
+weighted average cost of capital for each company assuming no 
+taxes as per M.M. Approach.  
+(b)  
+DETERMINE the total market value, equity capitalization rate and 
+weighted average cost of capital for each company assuming 40% 
+taxes as per M.M. Approach. 
+Leverage Analysis 
+7.  
+ABC Manufacturing Limited produces industrial components with a well-
+established market presence. The company operates under a special tax-
+free status granted by the government, which exempts it from corporate 
+income tax obligations. 
+Financial Information 
+ 
+The company's financial parameters for the current fiscal year are as 
+follows: 
+ 
+Capital Structure Details 
+• 
+Total Capital Invested: ` 20,00,000 (` 20 lakhs) 
+• 
+Cost of Equity (Ke): 12% per annum 
+• 
+Cost of Debt (Kd): 6% per annum 
+• 
+Weighted Average Cost of Capital (WACC): 9% per annum 
+ 
+Operational Information 
+• 
+Annual Sales Revenue: ` 24,00,000 (` 24 lakhs) 
+<<PAGE 7>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+7 
+ 
+MAY 2026 EXAMINATION 
+REVISION TEST PAPERS 
+• 
+Variable Costs: 50% of sales revenue 
+• 
+Fixed Costs: ` 10,00,000 (` 10 lakhs) per annum 
+General corporate tax is 25% 
+ 
+As a financial analyst, you have been tasked with conducting a 
+comprehensive financial analysis of ABC Manufacturing Limited. 
+Specifically, you are required to: 
+i. 
+DETERMINE the optimal debt-equity composition that results in 
+the given weighted average cost of capital of 9%. 
+ii. 
+PREPARE a comprehensive Income Statement showing the 
+company's profitability from operations through net income when 
+the cost of debt is 6%, 10% & 12%. 
+iii. 
+CALCULATE the Return on Investment (ROI) to assess how 
+efficiently the company is utilizing its total capital invested. 
+iv. 
+CALCULATE the Return on Equity (ROE) to evaluate the returns 
+generated for equity shareholders. 
+v. 
+FIND the different leverages in the following format  
+Leverages 
+Computation Dependent 
+on  
+Indicates effect 
+of ____ on 
+Leverages showing 
+level 
+of 
+business 
+risk 
+ 
+ 
+ 
+Leverages showing 
+level of finance risk 
+ 
+ 
+ 
+Leverages showing 
+level of combined 
+risk 
+ 
+ 
+ 
+vi. 
+EXPLAIN the concept of Leverage as a double edged sword by 
+explaining the Leverage Effect when ROI > Kd, ROI = Kd, ROI < Kd.  
+vii. 
+DERIVE ROE from ROI in the following format – 
+ 
+ 
+<<PAGE 8>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+8 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+Cost of debt =  
+6% 10% 12% 
+Return on Investment % of Equity 
+ 
+ 
+ 
+Surplus / Deficit from debt payments in % 
+ 
+ 
+ 
+Surplus / Deficit from debt payments in INR 
+ 
+ 
+ 
+Return on Equity in INR=ROI + Surplus – Deficit 
+ 
+ 
+ 
+Return on Equity in % = Return on Equity in 
+INR/Equity 
+ 
+ 
+ 
+Investment Decisions 
+8. 
+EquipLease Financial Services Ltd. is a specialized equipment leasing 
+company that has been operating in the industrial equipment financing 
+space for over 15 years. The company's business model involves 
+purchasing high-value machinery and leasing it to manufacturing 
+companies, thereby earning returns through lease rentals while retaining 
+ownership of the assets. The company has built a strong reputation for 
+providing flexible financing solutions tailored to clients' cash flow 
+patterns and business cycles. Their leasing arrangements help clients 
+conserve capital while accessing state-of-the-art equipment. 
+ 
+EquipLease has recently purchased a specialized CNC precision machine 
+with the following informations: 
+• 
+Purchase Cost: ` 10,00,000 (paid upfront) 
+• 
+Expected Useful Life: 4 years 
+• 
+Residual/Salvage Value: Nil (technology becomes obsolete) 
+• 
+Depreciation for Tax Purposes: Can be claimed by EquipLease 
+under Straight line method (SLM) or Units of Production 
+method(UOP) 
+• 
+Lease Rentals earned by company is subject to tax. 
+• 
+EquipLease's Cost of Capital: 10% per annum 
+• 
+Corporate Tax Rate: 25% 
+ 
+TechManufacture Industries Ltd., a growing precision engineering 
+company, has approached EquipLease expressing interest in leasing this 
+<<PAGE 9>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+9 
+ 
+MAY 2026 EXAMINATION 
+REVISION TEST PAPERS 
+CNC machine. TechManufacture has provided detailed information 
+about their expected utilization pattern: 
+ 
+The machine's usage will follow a graduated ramp-up pattern based on 
+TechManufacture's order book projections: 
+Year Production Capacity Utilization 
+Relative Units 
+1 
+Low (Initial phase) 
+1 unit 
+2 
+Medium 
+2 units 
+3 
+High 
+3 units 
+4 
+Peak 
+4 units 
+ 
+This pattern is typical for businesses scaling up production with new 
+equipment - starting slow as operators are trained and processes are 
+optimized, then ramping up to full capacity. The Client wants the 
+company to charge lease rentals based on the client's utilization pattern 
+1:2:3:4. 
+ 
+Mr. Vikram Malhotra, the Chief Credit Officer at EquipLease, is tasked 
+with structuring an appropriate lease arrangement. He faces several 
+strategic decisions: 
+i. 
+HOW MUCH portion of the cost is recovered from tax savings on 
+depreciation under both the methods viz. SLM & units of 
+production method. 
+ii. 
+FIND the portion of investment to be recovered from lease rentals 
+under both the assumptions i.e. Depreciation under both the 
+methods viz. SLM & units of production method. 
+iii. 
+DETERMINE minimum lease rentals needed to recover the balance 
+cost of investment after adjusting the Tax shields on the 
+depreciation under both the depreciation methods if - 
+• 
+EquipLease charge uniform (equal) rentals over 4 years 
+• 
+Lease rentals follow the client's utilization pattern (1:2:3:4) 
+ 
+ 
+<<PAGE 10>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+10 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+Working Capital 
+9. 
+Following information is forecasted by the Puja Limited for the year 
+ending 31st March, 2025: 
+ 
+Balance as at 
+1st April, 20X6 
+Balance as at 
+31st March, 20X7 
+ 
+(`) 
+(`) 
+Raw Material  
+45,000 
+65,356 
+Work-in-progress 
+35,000 
+51,300 
+Finished goods 
+60,181 
+70,175 
+Debtors 
+1,12,123 
+1,35,000 
+Creditors 
+50,079 
+70,469 
+Annual 
+purchases 
+of 
+raw 
+material (all credit) 
+ 
+4,00,000 
+Annual cost of production 
+ 
+7,50,000 
+Annual cost of goods sold 
+ 
+9,15,000 
+Annual operating cost 
+ 
+9,50,000 
+Annual sales (all credit) 
+ 
+11,00,000 
+ 
+You may take one year as equal to 365 days. 
+You are required to CALCULATE: 
+(i) 
+Net operating cycle period. 
+(ii) 
+Number of operating cycles in the year. 
+(iii)  Amount of working capital requirement using operating cycles. 
+Miscellaneous 
+10.  (a)  
+DISCUSS the features of international funding and angel financing in 
+the context of corporate financing. 
+<<PAGE 11>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+11 
+ 
+MAY 2026 EXAMINATION 
+REVISION TEST PAPERS 
+(b)  
+“The treasury department of a business concern has evolved its 
+importance over the years from being responsible for only cash 
+handling issues to technical areas revolving around hedging forex 
+risks and composition of capital structure.” In the light of this 
+statement, EXPLAIN briefly the fundamental tasks for which 
+treasury department is responsible. 
+(c)  
+STATE the acceptance rule under Internal Rate of Return (IRR) 
+method of capital budgeting. 
+ 
+ 
+SUGGESTED ANSWERS 
+1. 
+(i)  
+(B) 
+` 100 and 10% 
+Working Note 1: Earnings per Share (EPS) and Growth rate  
+EPS2025= 1,04,000
+10,000 = ` 10.40 
+Growth rate (g) = 1,04,000 - 1,00,000
+1,00,000
+= 4% 
+Working Note 2: Dividend Payout Ratio & Retention Ratio 
+Using Gordon Growth Model: 
+P0= D1
+Ke-g 
+162.24=
+D1
+0.08-0.04 ⇒ D1=6.4896 
+D0= 6.4896
+1.04 = ` 6.24 
+Dividend Payout Ratio (DPR) 
+DPR = 6.24
+10.40=60% 
+ 
+ 
+<<PAGE 12>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+12 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+Retention Ratio (b) 
+b = 1-0.60 = 40% 
+Working Note 3: Rate of Return on Retained Earnings (r) 
+g = b × r 
+0.04 = 0.40 × r ⇒ r = 10% 
+Earnings in 2024 = 1,00,000 
+Capital employed = 1,00,000
+10%
+= ` 10,00,000 
+Face value per share= 10,00,000
+10,000 = ` 100 
+(ii)  (C)  ` 143.00 
+Market Price per Share under Walter’s Model (2025) 
+P         = 
+D+ r
+Ke (E-D)
+Ke
+ 
+Where: 
+E  
+= 10.40 
+D  
+= 6.24 
+r  
+= 10% 
+Ke 
+= 8% 
+r
+Ke      = 1.25 
+ 
+E-D  = 4.16 
+P         = 6.24+(1.25×4.16)
+0.08
+ 
+ 
+P    
+= ` 143.00 
+(iii)  (C) 
+0% payout; ` 162.50 
+Optimum Dividend Policy and Optimum Price (Walter’s Model) 
+When r > Ke, optimum dividend payout ratio = 0% 
+D = 0 
+<<PAGE 13>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+13 
+ 
+MAY 2026 EXAMINATION 
+REVISION TEST PAPERS 
+P = 
+r
+Ke ×E
+Ke 
+P = 1.25 × 10.40
+0.08
+= ` 162.50 
+(iv)  (C) 
+` 10,81,600; 4%; ` 1,08,160 
+Year Capital 
+Employed 
+in 
+Beginning (`) 
+Retained Earning for 
+the year (`) 
+2024 
+` 10,00,000 
+1,00,000 x 40%  
+= ` 40,000 
+2025 
+10,00,000 + 40,000  
+= ` 10,40,000 
+1,04,000 x 40%  
+= ` 41,600 
+2026 
+10,40,000 + 41,600  
+= ` 10,81,600 
+- 
+ 
+Earnings 2026 = 10,81,600 x 10% = ` 1,08,160 
+ 
+Growth rate = 4% 
+(v)  (D)  ` 11,44,000, 10%, ` 1,14,400 
+ 
+Revised Growth rate under optimum dividend policy 
+ 
+G = b × r 
+ 
+G = 100 × 10% ⇒ g = 10% 
+ 
+Capital employed (Beginning 2026) = 10,40,000 + (1,04,00 × 100%) 
+= ` 11,44,000 
+ 
+Earnings 2026 = 11,44,000 x 10%  = ` 1,14,400 
+2. 
+(B)  ` 2,00,000 and ` 3,00,000 
+ 
+Calculation of Current Assets 
+Current Ratio           =
+Current Assets
+Current Liabilities 
+Current Assets  
+= Current Ratio × Current Liabilities  
+= 2 × ` 3,00,000  = `  6,00,000 
+<<PAGE 14>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+14 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+ 
+Calculation of Quick Assets 
+Quick Ratio              =
+Quick Assets
+Current Liabilities 
+Quick Assets   
+= Quick Ratio × Current Liabilities 
+= 1 × ` 3,00,000  = ` 3,00,000 
+ 
+Inventory 
+ 
+Inventory  
+ 
+= Current Assets - Quick Assets 
+ 
+= ` 6,00,000 - ` 3,00,000 = ` 3,00,000 
+ 
+Calculation of Bank Credit 
+ 
+Bank Credit∶ Other Liabilities  
+= 2:1 
+ 
+Total Current Liabilities  
+ 
+= ` 3,00,000 
+ 
+Bank Credit = ` 3,00,000 × 2/3  = ` 2,00,000 
+3. 
+(B)  1.25 
+Capital Gearing Ratio 
+= Pref. Share Capital + Debentures + Other Borrowed Funds
+Equity Share Capital + Reserves and Surplus −Losses
+ 
+= `  25 lakhs + `  50 lakhs + `  15 lakhs
+`  48 lakhs + `  24 lakhs
+ 
+= `  90 lakhs
+`  72 lakhs =1.25 
+4. 
+(i)  
+Operating Expenses 
+Net Profit = 8% on Sales 
+= 8% x ` 3,60,00,000 
+` 28,80,000 
+Add: Income Tax = 40% x ` 28,80,000/60% 
+` 19,20,000 
+Profit Before tax  
+` 48,00,000 
+Add: Debenture Interest  
+` 3,36,000 
+Profit before interest and tax 
+` 51,36,000 
+Sales  
+` 3,60,00,000 
+<<PAGE 15>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+15 
+ 
+MAY 2026 EXAMINATION 
+REVISION TEST PAPERS 
+Less: 
+ 
+Cost of goods sold ` 1,44,00,000 
+Profit before interest & tax ` 51,36,000 
+ 
+` 1,95,36,000 
+Operating Expenses  
+` 1,64,64,000 
+(ii)  Share Capital and Reserves 
+ 
+Return on Net worth is 30%, hence profit after tax of ` 28,80,000 is 
+equivalent to 30% of Net Worth. 
+Net worth x 30/100  
+ 
+= ` 28,80,000 
+Net Worth  
+ 
+ 
+ 
+= 28,80,000 x 100/30 = ` 96,00,000 
+Ratio of Share Capital to Reserves = 6:4 
+Share Capital   
+ 
+ 
+= ` 96,00,000 x 6/10 = ` 57,60,000 
+Reserves   
+ 
+ 
+ 
+=` 96,00,000 x 4/10 = ` 38,40,000 
+(iii)  Closing Stock  
+ 
+Inventory Turnover (based on cost of goods sold) = 12 
+ 
+Cost of goods sold  
+ 
+= ` 1,44,00,000 
+ 
+Inventory Turnover Ratio  = Cost of goods sold/Closing Stock = 12 
+ 
+12 
+ 
+ 
+ 
+ 
+ 
+= ` 1,44,00,000/Closing Stock 
+ 
+Therefore, Closing Stock  = ` 1,44,00,000/12 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+= ` 12,00,000 
+(iv)  Fixed Assets 
+ 
+Calculation of Total liabilities  
+ 
+Interest on 14 % Debentures  = ` 3,36,000 
+ 
+Therefore debentures    
+ 
+= 
+`  3,36,000 x 100
+14%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+= ` 24,00,000 
+ 
+ 
+<<PAGE 16>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+16 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+Total of Liabilities Side 
+Share Capital  
+` 57,60,000 
+Reserves  
+` 38,40,000 
+Debentures 
+` 24,00,000 
+Sundry Creditors 
+` 16,00,000 
+Total Liabilities  
+` 1,36,00,000 
+Current Ratio   
+ 
+= 2:1 
+Sundry Creditors   
+= ` 16,00,000 
+Current Assets
+ Current Liabilities    
+= 2 
+Current Assets
+ Sundry Creditors     
+= 2 
+Current Assets
+ ` 16,00,000      
+ 
+= 2 
+Current Assets  
+ 
+= 2 x ` 16,00,000 
+ 
+  
+ 
+ 
+ 
+ 
+= ` 32,00,000 
+Fixed Assets   
+ 
+= Total Liabilities – Current Assets 
+ 
+ 
+ 
+ 
+ 
+= ` 1,36,00,000 - ` 32,00,000 
+ 
+ 
+ 
+ 
+ 
+= ` 1,04,00,000 
+5. 
+(i) 
+Let the cost of Equity be ‘X’ and Cost of Debt be ‘Y’ 
+Calculation of WACC using Book value weights  
+Source of Capital  
+Cost of 
+capital 
+Weights 
+WACC (Ko) 
+(a) 
+(b) 
+(c) = (a)×(b) 
+Equity Share Capital 
+X 
+0.5 
+0.5X 
+Long term debts 
+Y 
+0.5 
+0.5Y 
+ 
+ 
+ 
+11 
+ 
+ 
+<<PAGE 17>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+17 
+ 
+MAY 2026 EXAMINATION 
+REVISION TEST PAPERS 
+Calculation of WACC using market value weights 
+Source of Capital  
+Cost 
+of 
+capital 
+MV Weights 
+WACC (Ko) 
+(a) 
+(b) 
+(c) = (a)×(b) 
+Equity Share Capital 
+X 
+3/4 = 0.75 
+0.75X 
+Long term debts 
+Y 
+1/4 = 0.25 
+0.25Y 
+ 
+ 
+ 
+11+1.5 = 12.5 
+0.5X + 0.5Y  
+= 11 
+ 
+…..(1) 
+0.75X + 0.25Y = 12.5  
+…..(2) 
+Equating 1 & 2 
+Ke (X)  
+ 
+= 14% 
+Substituting X in Eqn. 1   
+0.5x14 + 0.5Y = 11 
+7 + 0.5Y   
+= 11 
+ 
+ 
+ 
+Post tax Kd (Y)= 8% 
+(ii)  Pre Tax Cost of Redeemable Debenture (Kd) =
+(
+)
+(
+)
+RV-NP
+I+
+n
+RV+NP
+2
+ 
+Where, 
+I  
+=  Interest payment 
+NP 
+= 
+Net proceeds  
+RV  =  Redemption value of debentures 
+n  
+=  Remaining life of debentures 
+kd =
+7+ (100-90)
+4
+(100+90)
+2
+ 
+<<PAGE 18>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+18 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+kd = 7+2.5
+95 
+Pre Tax Kd  
+= 10% 
+Post tax Kd  
+= Pre tax Kd (1–T) 
+8%   
+ 
+= 10%(1–T) 
+Tax rate (T)  
+= 20% 
+(iii)  According to CAPM  
+ 
+Cost of Equity (Ke)= Rf + ß (Rm − Rf) 
+ 
+Where, 
+Ke 
+= 
+Cost of equity capital 
+Rf 
+= 
+Risk free rate of return 
+ß 
+= 
+Beta coefficient 
+Rm 
+= 
+Rate of return on market portfolio 
+(Rm – Rf) = 
+Market risk premium 
+14%  = 8% + ß x 6% 
+Beta coefficient = 1 
+Working Note: 
+A Ltd 
+15.20  
+= Rf + 1.2Rp  
+ 
+……(1) 
+B Ltd 
+12.80  
+= Rf + 0.8Rp  
+ 
+……(2) 
+By solving Eqn. 1 & 2,  
+Rp  
+ 
+= 6 
+So Risk Premium = 6% 
+Substituting Rp = 6 in Eqn 1  
+15.20 = Rf + 1.2x6% 
+Rf  
+= 15.20 – 7.20 = 8% 
+<<PAGE 19>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+19 
+ 
+MAY 2026 EXAMINATION 
+REVISION TEST PAPERS 
+Hence, Risk Free Return = 8% 
+Rp  
+= Rm – Rf 
+6  
+= Rm – 8% 
+Rm  
+= 14% 
+6. 
+(a) 
+Assuming no tax as per MM Approach. 
+ 
+Calculation of Value of Firms ‘A Ltd.’ and ‘B Ltd’ according to  
+MM Hypothesis 
+ 
+Market Value of ‘B Ltd’ [Unlevered(u)] 
+ 
+Total Value of Unlevered Firm (Vu)  = [ NOI/ke]  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+= 18,00,000/0.18  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+= ` 1,00,00,000 
+ 
+Ke of Unlevered Firm (given)  
+ 
+= 0.18 
+ 
+Ko of Unlevered Firm (Same as above)  = ke (as there is no debt)  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+= 0.18 
+ 
+Market Value of ‘A Ltd’ [Levered Firm (I)] 
+ 
+Total Value of Levered Firm (VL) = Vu + (Debt× Nil)  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ = ` 1,00,00,000 + (54,00,000 × nil) 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ = ` 1,00,00,000  
+Computation of Equity Capitalization Rate and 
+Weighted Average Cost of Capital (WACC) 
+ 
+Particulars 
+A Ltd. 
+B Ltd. 
+A Net Operating Income (NOI) 
+18,00,000 
+18,00,000 
+B Less: Interest on Debt (I) 
+6,48,000 
+- 
+C Earnings of Equity Shareholders (NI) 
+11,52,000 
+18,00,000 
+D Overall Capitalization Rate (ko) 
+0.18 
+0.18 
+E Total Value of Firm (V = NOI/ko) 
+1,00,00,000 1,00,00,000 
+F Less: Market Value of Debt 
+54,00,000 
+- 
+<<PAGE 20>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+20 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+G Market Value of Equity (S) 
+46,00,000 1,00,00,000 
+H Equity Capitalization Rate  
+[ke = NI /S] 
+0.2504 
+0.18 
+I  Weighted Average Cost of Capital 
+[WACC] (ko) 
+0.18 
+0.18 
+ 
+Assuming 40% taxes as per MM Approach  
+ 
+Calculation of Value of Firms ‘A Ltd.’ and ‘B Ltd’ according to 
+MM Hypothesis Approach 
+ 
+Market Value of ‘B Ltd’ [Unlevered(u)] 
+ 
+Total Value of unlevered Firm (Vu)  = [NOI (1 - t)/ke]  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+= 18,00,000(1 – 0.40)] / 0.18 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+= ` 60,00,000 
+ 
+Ke of unlevered Firm (given)  
+ 
+= 0.18 
+ 
+Ko of unlevered Firm (Same as above = ke as there is no debt)  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  = 0.18 
+ 
+Market Value of ‘A Ltd’ [Levered Firm (I)] 
+ 
+Total Value of Levered Firm (VL) = Vu + (Debt× Tax)  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ = ` 60,00,000 + (54,00,000 × 0.40) 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ = ` 81,60,000 
+ 
+Computation of Weighted Average Cost of Capital (WACC) of 
+‘B Ltd.’ 
+ 
+= 18% (i.e. Ke = Ko)  
+Computation of Equity Capitalization Rate and 
+Weighted Average Cost of Capital (WACC) of A Ltd 
+Particulars 
+A Ltd. 
+Net Operating Income (NOI) 
+18,00,000 
+Less: Interest on Debt (I) 
+6,48,000 
+<<PAGE 21>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+21 
+ 
+MAY 2026 EXAMINATION 
+REVISION TEST PAPERS 
+Earnings Before Tax (EBT) 
+11,52,000 
+Less: Tax @ 40% 
+4,60,800 
+Earnings for equity shareholders (NI) 
+6,91,200 
+Total Value of Firm (V) as calculated above 
+81,60,000 
+Less: Market Value of Debt 
+54,00,000 
+Market Value of Equity (S) 
+27,60,000 
+Equity Capitalization Rate [ke = NI/S] 
+0.2504 
+Weighted Average Cost of Capital (ko)* 
+13.23 
+ 
+*Computation of WACC A Ltd. 
+Component 
+of Capital 
+Amount 
+Weight 
+Cost of 
+Capital 
+WACC 
+Equity 
+27,60,000 
+0.338 
+0.2504 
+0.0846 
+Debt 
+54,00,000 
+0.662 
+0.072* 
+0.0477 
+Total 
+81,60,000 
+ 
+ 
+0.1323 
+ 
+*Kd= 12% (1- 0.4) = 12% × 0.6 = 7.2%  
+ 
+WACC = 13.23%  
+7. 
+Optimal debt-equity composition 
+Let the weight of equity be W 
+Item 
+Cost 
+Weight 
+Product 
+Equity 
+12 
+W 
+12W 
+Debt 
+6 
+1 – W 
+6 – 6W 
+ 
+ 
+1 
+9%  
+9  
+= 12W + 6 – 6W 
+3  
+= 6W  
+W  
+= 0.5.  
+So, Weight of Equity is 0.50  
+<<PAGE 22>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+22 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+So, Weight of Debt is 1 – 0.50 = 0.50 
+Total Capital = 20 Lakhs. Hence, Debt and equity 10 Lakhs each. 
+Income Statement 
+Cost of debt =  
+6% 
+10% 
+12% 
+Sales 
+24,00,000 
+24,00,000 24,00,000 
+Less: Variable Costs (50%) 
+12,00,000 
+12,00,000 12,00,000 
+Contribution  
+12,00,000 
+12,00,000 12,00,000 
+Less: Fixed Costs (Given) 
+10,00,000 
+10,00,000 10,00,000 
+EBIT  
+2,00,000 
+2,00,000 
+2,00,000 
+Less: Interest  
+60,000 
+1,00,000 
+1,20,000 
+EBT / PAT 
+1,40,000 
+1,00,000 
+80,000 
+Return on Investment = EBIT/ 
+Capital employed 
+10% 
+10% 
+10% 
+Return on equity = PAT / Equity 
+Capital  
+14% 
+10% 
+8% 
+Leverages showing level of different risk 
+Leverages 
+showing 
+level of  
+Leverages 
+Computation 
+Dependent 
+on 
+Indicates 
+effect of … 
+on … 
+Business 
+risk  
+Operating 
+Leverage (DOL) 
+Contribution ÷ EBIT  
+= 12,00,000 ÷ 2,00,000 
+= 6 
+Fixed 
+Operating 
+Costs 
+Sales on 
+EBIT 
+Financial 
+Risk  
+Financial 
+Leverage (DFL) 
+EBIT ÷ EBT  
+= 2,00,000 ÷1,40,000  
+= 1.43 
+Fixed 
+Financial 
+Costs  
+EBIT on EPS 
+Combined 
+Risk  
+Combined 
+Leverage (DCL) 
+Contribution ÷ EBT or 
+DOL × DFL = 6 × 1.43 
+= 8.58 
+Both Fixed 
+Operating & 
+Fixed 
+Financial 
+Costs 
+Sales on 
+EPS 
+<<PAGE 23>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+23 
+ 
+MAY 2026 EXAMINATION 
+REVISION TEST PAPERS 
+ 
+Return on Investment  = EBIT/ Capital employed  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+= 2,00,000/20,00,000 =10%  
+ 
+When the cost of ‘fixed cost fund’ is less than the return on investment, 
+financial leverage will help to increase return on equity and EPS. The firm 
+will also benefit from the saving of tax on interest on debts etc. 
+However, when cost of debt will be more than the return it will affect 
+return of equity and EPS unfavourably and as a result firm can be under 
+financial distress. Therefore, financial leverage is also known as “double 
+edged sword”. 
+Effect on EPS and ROE: 
+When, ROI (10%) > Interest (6%) – Favourable – Advantage 
+When, ROI (10%) < Interest (12%) – Unfavourable – Disadvantage 
+When, ROI (10%) = Interest (10%) – Neutral – Neither advantage nor 
+disadvantage 
+Income Statement 
+Cost of debt =  
+6% 
+10% 
+12% 
+Return on Investment = 10% of Equity 
+1,00,000 
+1,00,000 
+1,00,000 
+Surplus / Deficit from debt payments 
+in % 
+10 – 6  
+= 4% 
+10 – 10  
+= 0 
+10 – 12 
+=- 2% 
+Surplus / Deficit from debt payments 
+in INR = % of Debt 
+40,000 
+Nil 
+(20,000) 
+Return on Equity in INR = ROI + 
+Surplus – Deficit 
+1,40,000 
+1,00,000 
+80,000 
+Return on Equity in % = Return on 
+Equity in INR / Equity 
+14% 
+10% 
+8% 
+8. 
+Calculation of PV of Tax savings under Straight line method (SLM) 
+Particulars 
+Result 
+Annual Depreciation  
+10 Lakhs / 4 Years = 2,50,000 
+PV of Tax savings on above  
+2,50,000 Lakhs x 25% x PVAF @ 10% i.e. 
+3.170 = 1,98,125 
+<<PAGE 24>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+24 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+ 
+Calculation of PV of Tax savings under Units of Production (UOP) 
+Year 
+Depreciation Tax savings PVF @ 10% 
+PV of Tax Savings 
+1 
+ 1,00,000  
+    25,000  
+0.909 
+    22,725  
+2 
+ 2,00,000  
+    50,000  
+0.826 
+    41,300  
+3 
+ 3,00,000  
+    75,000  
+0.751 
+    56,325  
+4 
+ 4,00,000  
+ 1,00,000  
+0.683 
+    68,300  
+  
+  
+  
+ 1,88,650  
+ 
+Let lease rental of 1st year be X 
+ 
+PV of after tax Lease rentals charged as per client's utilization 
+pattern 
+Year 
+Lease 
+rentals 
+After Tax Lease 
+Rentals 
+PVF @ 10% 
+PV of Lease 
+Rentals 
+1 
+X 
+0.75X 
+0.909 
+0.682X 
+2 
+2X 
+1.5X 
+0.826 
+1.239X 
+3 
+3X 
+2.25X 
+0.751 
+1.690X 
+4 
+4X 
+3X 
+0.683 
+ 2.049X 
+5.660X 
+ 
+PV of after tax Lease rentals charged equally 
+Let annual lease rental be X 
+X x (1 – 25%) x 3.17(PVAF @ 10%) = 2.378X 
+Investment to be recovered from lease rentals 
+ 
+In UOP Ratio 
+Equally 
+Particulars 
+SLM 
+UOP 
+SLM 
+UOP 
+Investment 
+10,00,000 10,00,000 10,00,000 10,00,000 
+PV 
+of 
+Tax 
+savings 
+on 
+Depreciation 
+1,98,125 
+1,88,650 
+1,98,125 
+1,88,650 
+Investment to be recovered  
+8,01,875 
+8,11,350 
+8,01,875 
+8,11,350 
+PV of after-tax Lease rentals 
+5.660X 
+5.660X 
+2.378X 
+2.378X 
+Lease rentals = X 
+1,41,674 
+1,43,348 
+3,37,206 
+3,41,190 
+<<PAGE 25>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+25 
+ 
+MAY 2026 EXAMINATION 
+REVISION TEST PAPERS 
+ 
+Statement Showing PV of yearly lease rentals when charged in UOP 
+Ratio 
+Year 
+Particulars 
+SLM 
+UOP 
+ 
+Lease rentals = X 
+1,41,674 
+1,43,348 
+1 
+0.682X 
+ 96,622  
+ 97,763  
+2 
+1.239X 
+ 1,75,534  
+ 1,77,608  
+3 
+1.690X 
+ 2,39,429  
+ 2,42,258  
+4 
+ 2.049X 
+ 2,90,290  
+ 2,93,720  
+ 
+PV of Total after tax lease rental 
+ 8,01,875  
+ 8,11,350  
+ 
+Statement Showing PV of yearly lease rentals when charged Equally 
+Year 
+Particulars 
+SLM 
+UOP 
+ 
+Lease rentals = X 
+3,37,206 
+3,41,190 
+1 
+0.682X (0.909 x 0.75) 
+ 2,29,974  
+ 2,32,692  
+2 
+0.620X (0.826 x 0.75) 
+ 2,09,068  
+ 2,11,538  
+3 
+0.563X (0.751 x 0.75) 
+ 1,89,847  
+ 1,92,090  
+4 
+0.512X (0.683 x 0.75) 
+ 1,72,649  
+ 1,74,689  
+ 
+PV of Total after tax lease rental 
+ 8,01,539*   8,11,009*  
+ 
+* Difference is due to rounding off in PVAF 
+9. 
+Working Notes: 
+1. 
+Raw Material Storage Period (R) 
+ 
+  
+ 
+ 
+ 
+ 
+= 
+Average Stock of Raw Material
+Annual Consumption of Raw Material  365 
+ 
+  
+ 
+ 
+ 
+ 
+= 
+ 45,000 +  65,356
+2
+× 365
+ 3,79,644
+`
+`
+`
+ 
+ 
+  
+ 
+ 
+ 
+ 
+= 53 days.  
+ 
+ 
+ 
+<<PAGE 26>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+26 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+ 
+Annual Consumption of Raw Material  
+ 
+  
+ 
+ 
+ 
+ 
+= Opening Stock +Purchases- Closing Stock 
+ 
+  
+ 
+ 
+ 
+ 
+= ` 45,000 + ` 4,00,000 – ` 65,356 
+ 
+  
+ 
+ 
+ 
+ 
+= ` 3,79,644 
+2.   
+Work-in-Progress (WIP) Conversion Period (W) 
+WIP Conversion Period =
+Average Stock of WIP
+×365
+AnnualCost of Production
+ 
+ 
+ 
+ 
+ 
+ 
+= 
+ 35,000+ 51,300
+2
+× 365
+ 7,50,000
+`
+`
+`
+ 
+ 
+ 
+ 
+ 
+ 
+= 21 days 
+3. 
+Finished Stock Storage Period (F) 
+ 
+ 
+ 
+ 
+ 
+= Average Stock of Finished Goods×365
+Cost of Goods Sold
+ 
+ 
+ 
+ 
+ 
+ 
+= 
+ 65,178 ×365
+9,15,000
+`
+`
+ 
+= 26 days.  
+Average Stock  
+ 
+= 
+60,181 + 70,175
+2
+`
+`
+ 
+ 
+ 
+ 
+  
+ 
+= ` 65,178.  
+4. 
+Debtors Collection Period (D) 
+ 
+ 
+ 
+ 
+ 
+= 
+Average Debtors ×365
+Annual Credit Sales
+ 
+ 
+ 
+ 
+ 
+ 
+=  1,23,561.50×365
+11,00,000
+`
+` 
+ 
+ 
+ 
+ 
+ 
+ 
+= 41 days  
+Average debtors   
+= 1,12,123+ 1,35,000 = 1,23,561.50
+2
+`
+`
+`
+ 
+ 
+ 
+<<PAGE 27>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+27 
+ 
+MAY 2026 EXAMINATION 
+REVISION TEST PAPERS 
+5. 
+Creditors Payment Period (C) 
+ 
+ 
+ 
+ 
+ 
+= 
+Average Creditors
+×365
+AnnualNet Credit Purchases
+ 
+ 
+ 
+ 
+ 
+ 
+= 
+50,079+ 70,469
+2
+4,00,000
+
+
+
+
+
+
+
+
+` 
+`
+` 
+× 365 
+ 
+ 
+ 
+ 
+ 
+= 55 days 
+(i) 
+Operating Cycle Period   
+ 
+= R + W + F+ D - C 
+ 
+= 53 + 21 + 26 + 41 - 55 
+ 
+= 86 days 
+(ii)  Number of Operating Cycles in the Year  
+ 
+= 
+365
+Operating Cycle Period
+= 365
+86
+= 4.244 
+(iii) Amount of Working Capital Required 
+ 
+= 
+Annual Operating Cost
+Number of Operating Cycles
+= 
+ 9,50,000
+4.244
+`
+= ` 2, 23,845.42 
+10. 
+(a)  International Funding: With liberalization and globalization a 
+business enterprise has options to raise capital from International 
+markets also. Foreign Direct Investment (FDI) and Foreign 
+Institutional Investors (FII) are two major routes for raising funds from 
+foreign sources besides ADR’s (American depository receipts) and 
+GDR’s (Global depository receipts). Obviously, the mechanism of 
+procurement of funds has to be modified in the light of the 
+requirements of foreign investors. 
+ 
+Angel Financing: Angel Financing is a form of an equity-financing 
+where an angel investor is a wealthy individual who provides 
+capital 
+for 
+start-up 
+or 
+expansion, 
+in 
+exchange 
+for 
+an 
+ownership/equity in the company. Typically, angels, as they are 
+known as, will invest around 25 to 60 per cent to help a company 
+<<PAGE 28>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+28 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+get started. This source of finance sometimes is the last option for 
+startups which doesn’t qualify for bank funding and are too small 
+for venture capital financing.  
+(b)  The fundamental tasks for which treasury department of any 
+enterprise is responsible are: 
+1. 
+Cash Management: It involves efficient cash collection 
+process and managing payment of cash both inside the 
+organisation and to third parties.  
+ 
+Treasury will also manage surplus funds in an investment 
+portfolio.  Investment policy will consider future needs for 
+liquid funds and acceptable levels of risk as determined by 
+company policy.  
+2. 
+Currency Management: The treasury department manages 
+the foreign currency risk exposure of the company. In a large 
+multinational company (MNC) the first step will usually be to 
+set off intra-group indebtedness.  The use of matching 
+receipts and payments in the same currency will save 
+transaction costs and also will save the organization from 
+any unfavorable exchange movements. 
+ 
+The treasury will manage any net exchange exposures in 
+accordance with company policy.  If risks are to be minimized 
+then forward contracts can be used either to buy or sell 
+currency forward. 
+3. 
+Fund Management: Treasury department is responsible for 
+planning and sourcing the company’s short, medium and 
+long-term cash needs. They also facilitate temporary 
+investment of surplus funds by mapping the time gap 
+between funds inflow and outflow.  
+4. 
+Banking: It is important that a company maintains a good 
+relationship with its bankers.  Treasury department carry out 
+negotiations with bankers with respect to interest rates, 
+foreign exchange rates etc. and act as the initial point of 
+contact with them.   
+<<PAGE 29>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+29 
+ 
+MAY 2026 EXAMINATION 
+REVISION TEST PAPERS 
+5. 
+Corporate Finance: Treasury department is involved with 
+both acquisition and divestment activities within the group.  
+In addition, it will often have responsibility for investor 
+relations.   
+(c)  Acceptance Rule of IRR method. 
+ 
+The use of IRR, as a criterion to accept capital investment decision 
+involves a comparison of IRR with the required rate of return 
+known as cut-off rate.  
+If IRR ≥ Cut-off Rate or WACC 
+Accept the Proposal 
+If IRR < Cut-off Rate or WACC 
+Reject the Proposal 
+ 
+ 
+<<PAGE 30>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+30 
+ 
+MAY 2026 EXAMINATION
+REVISION TEST PAPERS 
+6B: STRATEGIC MANAGEMENT 
+ 
+QUESTIONS 
+ 
+Multiple Choice Questions 
+1.  
+EcoRide Motors, founded in Chennai in 2017, started as a small 
+manufacturer of electric scooters targeted at environmentally conscious 
+urban commuters. The company gained momentum when the 
+government introduced FAME subsidies for EV adoption and rising fuel 
+costs made electric mobility more attractive. Initially, EcoRide 
+differentiated itself with sleek designs and strong battery life, which 
+appealed to young professionals in metro cities. 
+ 
+As the EV industry became more competitive, EcoRide realized that 
+success depended not only on product quality but also on an efficient 
+value chain. The company focused on building close partnerships with 
+battery suppliers, invested in efficient assembly lines, and created a 
+network of after-sales service centers. This integrated approach gave 
+EcoRide an edge in reliability and customer satisfaction. 
+ 
+In 2021, EcoRide attempted to enter the budget scooter market to 
+expand its customer base. However, the move backfired as cost 
+pressures affected margins, and established players already had 
+stronghold in the low-price segment. Internally, this failure led to 
+debates 
+within 
+the 
+management 
+team. 
+The 
+CEO 
+adopted 
+a 
+transformational leadership style, motivating employees to view 
+challenges 
+as 
+opportunities 
+and 
+encouraging 
+cross-functional 
+collaboration for innovation. 
+ 
+To restructure its portfolio, EcoRide introduced high-performance  
+e-bikes for premium customers while continuing scooters for the mass 
+market. Management positioned scooters as a potential Cash Cow in the 
+<<PAGE 31>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+31 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+BCG matrix due to steady demand but low growth, whereas the e-bikes 
+were considered Stars, expected to drive future growth in the expanding 
+premium EV segment. 
+ 
+Recently, when the government announced stricter battery recycling 
+norms, EcoRide faced resistance from dealers who feared higher 
+compliance costs. At the same time, an environmental NGO emerged as 
+a powerful stakeholder, urging EcoRide to adopt greener supply chain 
+practices. The company recognized that managing stakeholder 
+expectations would be critical for long-term sustainability. 
+ 
+Based on the above Case Scenario, answer the Multiple Choice 
+Questions. 
+(i)  
+EcoRide’s initial success was supported by external factors such as 
+EV subsidies and rising fuel costs. Which specific environmental 
+analysis tool should EcoRide use to systematically assess these 
+factors, and why would it be more suitable than SWOT in this 
+context? 
+(a)  
+BCG Matrix 
+(b)  
+PESTLE Analysis 
+(c)  
+Porter ’s Five Forces 
+(d)  
+Strategic Group Mapping 
+(ii)  
+By partnering with battery suppliers, improving assembly lines, and 
+investing in service centers, EcoRide focused on strengthening its 
+entire chain of operations. Which framework does this reflect and 
+how does it add competitive advantage to the EV industry? 
+(a) 
+Value Chain Analysis 
+(b) 
+Experience Curve 
+(c) 
+Ansoff ’s Growth Matrix 
+(d) 
+McKinsey 7S Framework 
+<<PAGE 32>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+32 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+(iii)  When EcoRide attempted to enter the budget scooter market but 
+failed due to intense competition and thin margins, which of 
+Porter ’s Five Forces best explains the challenge, and how did it 
+affect profitability? 
+(a) 
+Threat of Substitutes 
+(b) 
+Bargaining Power of Suppliers 
+(c) 
+Competitive Rivalry among Existing Firms 
+(d) 
+Bargaining Power of Buyers 
+(iv)  EcoRide categorized scooters as Cash Cows and e-bikes as Stars in 
+its portfolio planning. According to the BCG Matrix, what does this 
+imply about the resource allocation strategy the company should 
+follow for each product? 
+(a) 
+Harvest scooters & divest e-bikes 
+(b) 
+Invest in scooters & maintain e-bikes 
+(c) 
+Harvest scooters & invest in e-bikes 
+(d) 
+Divest scooters & harvest e-bikes 
+(v)  
+The rise of environmental NGOs and stricter recycling regulations 
+highlight the importance of stakeholder management. Using 
+Mendelow ’s Matrix, how should EcoRide position NGOs as 
+stakeholders, and what type of engagement strategy would be 
+most appropriate? 
+(a)  
+Minimal Effort – monitor occasionally 
+(b)  
+Keep Informed – provide regular updates 
+(c)  
+Keep Satisfied – manage but not deeply involve 
+(d)  
+Key Players – actively engage and collaborate 
+2. 
+Rohan is a manager at "Z-Foods." His primary responsibility is to 
+develop specific tactics for the marketing department to ensure that the 
+"Quick-Snack" division achieves its market share targets. At which level 
+of strategic management is Rohan functioning? 
+(a)  
+Corporate Level  
+<<PAGE 33>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+33 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+(b)  
+Business Level  
+(c)  
+Functional Level  
+(d)  
+Administrative Level 
+3.  
+In the smartphone industry, if a few large component manufacturers 
+control the supply of specialized OLED screens and there are no viable 
+alternative suppliers, the smartphone brands face high pressure from: 
+(a)  
+Bargaining power of buyers  
+(b)  
+Threat of substitutes  
+(c)  
+Bargaining power of suppliers  
+(d)  
+Industry rivalry 
+4. 
+Jayant oversees the 'Consumer Goods' segment of a large conglomerate. 
+This specific segment has its own dedicated legal and finance heads who 
+operate semi-autonomously from other segments like 'Industrial Parts'. 
+This structure is an example of:  
+(a)  
+Simple Structure 
+(b)  
+Matrix Structure 
+(c)  
+Strategic Business Unit (SBU) 
+(d)  
+Functional Structure 
+5.  
+VitaGlow Naturals Ltd., a personal care company, launches a new herbal 
+shampoo “HerbaSilk” that is sulphate-free, prevents hair fall and 
+contains rare botanical extracts sourced from the Himalayas. Customers 
+perceive it as superior to ordinary shampoos. The company prices 
+HerbaSilk 25% higher than its regular shampoo range and sales rise 
+strongly due to its perceived uniqueness. Identify the strategy adopted 
+by VitaGlow Naturals Ltd.: 
+(a)  
+Cost leadership strategy 
+(b)  
+Focus strategy 
+(c)  
+Differentiation strategy 
+(d)  
+Best-cost provider strategy 
+<<PAGE 34>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+34 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+6.  
+Rajesh Textiles Ltd., a leading fabric manufacturer, establishes MedCare 
+Hospitals to enter the healthcare services industry, which has no 
+technological or market linkage with its existing textile business. The 
+management expects growth through sectoral expansion and risk 
+spreading. This move represents which type of diversification? 
+(a)  
+Concentric diversification 
+(b)  
+Conglomerate diversification 
+(c)  
+Horizontal diversification 
+(d)  
+Vertical diversification 
+Descriptive Questions 
+Chapter 1-Introduction to Strategic Management 
+7.  
+Ms. Kavya has been appointed as the CEO of GreenHarvest Foods Ltd., 
+an organic food company that has diversified into plant-based nutrition 
+products. The company plans to launch the NutriPure brand of plant-
+based protein foods. GreenHarvest aims to promote healthy lifestyles 
+through nutritious, sustainable, and ethically sourced food products. 
+Draft a suitable vision and mission statement that Kavya may formulate 
+for NutriPure. 
+8. 
+Mr. Vikram Patel owns a chain of ten bookstores across the Mumbai 
+region. Three of these stores were launched in the past two years. He 
+has always believed in strategic management and enjoyed robust sales 
+of books, magazines, and educational materials until about five years 
+ago. However, with the increasing preference for online shopping, the 
+sales at his physical stores have declined by approximately sixty percent 
+over the last five years. Analyze Vikram Patel's current position in light of 
+the limitations of strategic management. 
+Chapter 2-Strategic Analysis: External Environment  
+9.  
+Riya, the strategy manager of FreshSip Beverages Ltd., was studying the 
+packaged fruit juice market in India before launching a new 
+preservative-free juice brand. She observed that several established 
+brands, low-priced local players, and substitute drinks like smoothies 
+and flavored milk were competing intensely. Which aspect of external 
+environment analysis is reflected in this situation? 
+<<PAGE 35>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+35 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+10.  How does the PESTLE framework assist in analyzing the macro-
+environment? 
+Chapter 3-Strategic Analysis: Internal Environment  
+11.  Neha, the strategy head of UrbanRide Motors Ltd., was analysing the 
+two-wheeler industry before launching a new premium electric scooter. 
+She observed that firms in the market could be grouped based on price 
+range (economy–premium) and technology (petrol–electric). She 
+decided to position UrbanRide among premium electric brands. Which 
+strategic analysis tool is reflected in this situation? 
+12.  Write a short note on the key strategic drivers of an organization. 
+Chapter 4-Strategic Choices  
+13.  Arvind, CEO of Stellar Electronics Ltd., decided that instead of depending 
+only on consumer appliances, the company should enter the renewable 
+energy equipment business to achieve long-term growth and reduce 
+business risk. He proposed establishing a new division for solar panels 
+and batteries. Which corporate strategy is reflected in this decision? 
+14.  Explain the strategic implications of each of the following types of 
+business in a corporate portfolio:  
+(a)  
+Stars,  
+(b)  Question Marks,   
+(c)  Cash Cows,   
+(d)  Dogs  
+Chapter 5-Strategy Implementation and Evaluation  
+15.  FinEdge Services Ltd., a financial consulting firm, initiated a digital 
+transformation programme to modernise its services. The management 
+defined clear digital objectives, assessed existing manual processes and 
+capability gaps, prepared a phased digital roadmap and implemented 
+new technologies and work practices across all levels of the 
+organization. Which concept of strategy implementation is reflected? 
+16.  Write a short note on Matrix Structure. 
+ 
+ 
+<<PAGE 36>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+36 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+ 
+SUGGESTED ANSWERS/HINTS 
+ 
+1. 
+(i)  
+(b) 
+(ii) 
+(a) 
+(iii)  
+(c) 
+(iv)  
+(c) 
+(v)  
+(d) 
+2.  
+(c) 
+3.  
+(c) 
+4.  
+(c) 
+5. 
+(c) 
+6.  
+(b) 
+7.  
+The NutriPure brand of plant-based nutrition products may have the 
+following vision and mission: 
+ 
+Vision: Vision implies the blueprint of the company’s future position. It 
+describes where the organization wants to land. 
+ 
+Ms. Kavya should aim to position NutriPure as a trusted leader in plant-
+based nutrition. The vision may be “To be a leading plant-based 
+nutrition brand that nourishes lives, supports holistic well-being, and 
+inspires sustainable living.” 
+ 
+Mission: Mission defines the firm’s business purpose, goals, and 
+approach to achieving them. It explains the reason for the company’s 
+existence. Ms. Kavya may articulate the mission as: 
+• 
+To develop plant-based nutrition products that enhance health 
+and vitality. 
+• 
+To promote sustainable food choices through ethically sourced 
+and natural ingredients. 
+• 
+To support healthier communities by providing safe, nutritious and 
+environmentally responsible food solutions. 
+ 
+<<PAGE 37>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+37 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+8.  
+Vikram Patel is facing declining sales due to a significant shift in 
+customers toward online platforms. Although he employs strategic 
+management tools, they cannot always overcome every obstacle or 
+guarantee success. The limitations of strategic management in Vikram’s 
+situation include: 
+ 
+The environment in which strategies are developed is highly complex 
+and unpredictable. The entry of online bookstores, a new type of 
+competitor, introduced a different dynamic to the book retail 
+industry. These online platforms, with their extensive reach and 
+pricing power, have dominated the market, posing a formidable 
+challenge to traditional bookstores. 
+ 
+Another limitation of strategic management is the difficulty in 
+forecasting future developments. Despite his strategic management 
+efforts, Vikram Patel did not anticipate the extent to which online 
+bookstores would impact his sales. 
+ 
+While strategic management is a time-consuming process, it is crucial 
+for Vikram to continue managing strategically. These challenging 
+times demand increased effort and adaptability on his part. 
+ 
+Strategic management can be costly. Vikram Patel might consider 
+hiring experts to understand customer preferences better and adjust 
+his strategies to offer more personalized services. These customized 
+offerings could be difficult for online stores to replicate, giving him a 
+competitive edge. 
+ 
+The bookstores owned by Vikram Patel are much smaller in scale 
+compared to online stores. This makes it challenging for him to 
+predict how online platforms will manoeuvre strategically. 
+9.  
+The 
+situation 
+reflects 
+the 
+competitive environment (industry 
+environment) aspect of external environment analysis. 
+The competitive environment consists of factors within the industry that 
+influence a firm’s competitive position, such as existing competitors, new 
+entrants, substitutes, and pricing rivalry. As per strategic analysis, firms 
+must evaluate industry structure and competitive forces before entering 
+or expanding in a market. 
+<<PAGE 38>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+38 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+In the given case, Riya observed the presence of many established 
+brands, low-cost local players, and substitute beverages like smoothies 
+and flavored milk. This indicates intense industry rivalry and strong 
+threat from substitutes. Such conditions affect profitability and market 
+entry decisions. 
+Therefore, FreshSip must assess competitive forces and develop 
+appropriate strategies such as differentiation or cost competitiveness to 
+succeed. Hence, the aspect reflected is the competitive (industry) 
+environment of external analysis. 
+10.  The PESTLE framework assists in analyzing the macro-environment by 
+systematically 
+evaluating 
+six 
+external 
+factors 
+that 
+impact 
+an 
+organization’s operations and strategy. 
+1. 
+Political Factors: This includes government policies, regulations, 
+political stability, and taxation. Understanding these factors helps 
+organizations anticipate regulatory changes and government 
+interventions that could affect their business environment. 
+2. 
+Economic Factors: This involves assessing economic conditions 
+such as interest rates, inflation, exchange rates, and economic 
+growth. These factors influence business costs, consumer 
+purchasing power, and overall market conditions. 
+3. 
+Social Factors: This examines demographic trends, lifestyle 
+changes, cultural norms, and consumer attitudes. Insights into 
+social factors help businesses align their products and services 
+with evolving consumer preferences and societal trends. 
+4. 
+Technological Factors: This includes technological advancements, 
+innovation rates, and technological infrastructure. These factors 
+impact production processes, product development, and competitive 
+positioning. 
+5. 
+Legal Factors: This involves understanding business laws, employment 
+regulations, health and safety standards, and compliance requirements. 
+Legal factors are crucial for ensuring regulatory compliance and 
+avoiding legal risks. 
+<<PAGE 39>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+39 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+6. 
+Environmental Factors: This covers ecological issues, sustainability 
+practices, 
+and 
+environmental 
+regulations. 
+Awareness 
+of 
+environmental factors helps businesses adapt to climate change and 
+meet sustainability goals. 
+ 
+By analyzing these factors, the PESTLE framework provides a 
+comprehensive understanding of the macro-environment, helping 
+organizations anticipate changes, adapt strategies, and make informed 
+decisions. 
+11.  The situation reflects the use of Strategic Group Mapping, an 
+important tool of industry (competitive) environment analysis. 
+Strategic group mapping identifies clusters of firms within an industry 
+that follow similar strategies or have similar characteristics, such as price 
+level, quality, technology, distribution, or product range. Firms within the 
+same strategic group compete more directly with each other than with 
+firms in other groups. 
+In the given case, Neha classified two-wheeler firms based on price 
+(economy to premium) and technology (petrol to electric). This 
+classification creates distinct strategic groups such as economy petrol, 
+premium petrol, economy electric, and premium electric. UrbanRide 
+plans to position itself in the premium electric group. 
+Such mapping helps identify close competitors, market gaps, and 
+positioning opportunities before strategic decisions. Hence, the strategic 
+analysis tool reflected is Strategic Group Mapping. 
+12. 
+Key Strategic Drivers of an Organization 
+ 
+Strategic drivers are essential elements that influence an organization’s 
+ability to differentiate itself from its competitors and achieve 
+competitive advantage. These drivers assess the current performance of 
+the business and provide insights into areas that need focus.  
+ 
+The key strategic drivers include: 
+1. 
+Industry and Markets: Understanding the industry and markets is 
+crucial for identifying the organization’s relative position. 
+Industries group similar companies based on their primary 
+products, while markets are defined by the buyers and sellers of 
+<<PAGE 40>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+40 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+these products. Analyzing industry and market dynamics, often 
+through tools like strategic group mapping, helps organizations 
+evaluate competition and refine strategies. 
+2. 
+Customers: Identifying and understanding customers is a critical 
+driver. Customers are segmented based on their needs and 
+spending capacity, which guides product development and 
+marketing strategies. Differentiating between customers (buyers) 
+and consumers (users) is vital to tailoring pricing, design, and 
+usability strategies effectively. 
+3. 
+Products and Services: Products and services are central to 
+defining the business. Organizations must assess their offerings, 
+classify products, and devise strategies for differentiation, 
+branding, and pricing. Product innovation and marketing are key 
+to maintaining competitiveness. 
+4. 
+Channels: The channels through which products and services are 
+delivered impact on accessibility and customer satisfaction. 
+Strategies 
+related 
+to 
+direct, 
+digital, 
+or 
+relationship-based 
+marketing ensure the efficient distribution of offerings to target 
+customers. 
+ 
+By aligning these drivers with organizational goals, businesses can 
+achieve sustained growth and maintain a competitive edge.  
+13.  The decision taken by Arvind reflects the diversification strategy, which 
+is a corporate-level strategy. 
+Corporate level strategy is concerned with the choice of business, 
+direction and scope of the organization as a whole. It addresses the 
+fundamental issue of what businesses the organization should be in and 
+how the overall business portfolio should be managed to achieve 
+growth and stability. 
+Diversification strategy involves entry into new products or businesses 
+that are different from the firm’s existing operations. It is adopted to 
+achieve growth, reduce risk arising from dependence on a single 
+business and exploit new opportunities in the environment. 
+ 
+<<PAGE 41>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+41 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+In the given case, Stellar Electronics Ltd., which was earlier operating in 
+consumer appliances, proposes to enter the renewable energy 
+equipment business such as solar panels and batteries by creating a new 
+division. This represents expansion into a new business area beyond its 
+present product line with the objective of long-term growth and risk 
+reduction. Thus, the company is broadening its business portfolio by 
+adding a new business, which is characteristic of diversification at the 
+corporate level. Hence, the corporate strategy reflected is diversification 
+strategy. 
+14.  In the BCG growth-share matrix portfolio of investments are represented 
+in two-dimensional space. The vertical axis represents market growth 
+rate, and the horizontal axis represents relative market share. The 
+strategic implications for various business types under BCG in the 
+corporate portfolio are: 
+ 
+Stars are products or businesses that are growing rapidly and are the 
+best opportunity for expansion. Stars may follow the Build strategy. They 
+need heavy investments to maintain their position and finance their 
+rapid growth potential.  
+ 
+Cash Cows are low-growth, high market share businesses or products. 
+They generate cash and have low costs. They are established, successful, 
+and need less investment to maintain their market share. A strategic 
+alternative advocated for cash cows is Harvest. 
+ 
+Question Marks are low market share businesses in high-growth 
+markets. A strategic option for them is Hold for which they need heavy 
+investments. Question marks if left unattended are capable of becoming 
+cash traps.  
+ 
+Dogs are low-growth, low-share businesses and products. The relevant 
+strategy is Divest. Dogs may generate enough cash to maintain 
+themselves, but do not have much future. Dogs should be minimized by 
+means of divestment or liquidation. 
+15.  The situation reflects digital transformation supported by change 
+management, an aspect of strategy implementation. 
+ 
+<<PAGE 42>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+42 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+Digital transformation refers to the use of digital technologies to 
+develop new or improved business processes, services or operating 
+models. Such transformation requires planned organizational change, 
+which is enabled through change management. 
+ 
+Change management in the digital transition consists of four essential 
+elements: 
+1. 
+Defining the goals and objectives of the transformation 
+2. 
+Assessing the current state of the organization and identifying 
+gaps 
+3. 
+Creating a roadmap for change that outlines the steps needed to 
+reach the desired state 
+4. 
+Implementing and managing the change at every level of the 
+organization 
+ 
+In the given case, FinEdge defined digital objectives, assessed manual 
+processes and capability gaps, created a phased roadmap and 
+implemented new technologies and practices across all levels. These 
+actions correspond to all four elements of digital transformation change 
+management. Hence, the concept reflected is digital transformation 
+through change management in strategy implementation. 
+16.  In matrix structure, functional and product forms are combined 
+simultaneously at the same level of the organization. Employees have 
+two superiors, a product/project manager and a functional manager. The 
+“home” department - that is, engineering, manufacturing, or marketing - 
+is usually functional and is reasonably permanent. People from these 
+functional units are often assigned temporarily to one or more product 
+units or projects.  
+ 
+The product units / projects are usually temporary and act like divisions 
+in that they are differentiated on a product-market basis. The matrix 
+structure may be very appropriate when organizations conclude that 
+neither functional nor divisional forms, even when combined with 
+horizontal linking mechanisms like strategic business units, are right for 
+the implementation of their strategies. Matrix structure was developed 
+to combine the stability of the functional structure with flexibility of the 
+<<PAGE 43>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+43 
+ 
+REVISION TEST PAPERS 
+MAY 2026 EXAMINATION
+product form. It is very useful when the external environment (especially 
+its technological and market aspects) is very complex and changeable. 
+ 
+A matrix structure is most complex of all designs because it depends 
+upon both vertical and horizontal flows of authority and communication. 
+It may result in higher overhead costs due to more management 
+positions.  
+ 
+The matrix structure is often found in an organization when the 
+following three conditions exist:  
+1. 
+Ideas need to be cross-fertilized across projects or products;  
+2. 
+Resources are scarce; and  
+3. 
+Abilities to process information and to make decisions need to be 
+improved. 
+ 

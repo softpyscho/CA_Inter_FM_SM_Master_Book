@@ -1,0 +1,915 @@
+{
+ "confusing": [
+  {
+   "title": "The pairs that cost marks in cost-of-capital questions",
+   "headers": [
+    "Looks similar",
+    "The real difference",
+    "Give-away word"
+   ],
+   "rows": [
+    [
+     "Kd vs Kp",
+     "Kd carries (1 − t) because interest is an expense; Kp does not, because preference dividend is an appropriation of after-tax profit",
+     "Only interest gets the tax bracket"
+    ],
+    [
+     "Ke vs Kr",
+     "Ke uses net proceeds after flotation cost; Kr uses the current market price. So Ke is normally higher",
+     "'Fresh issue' means deduct flotation cost"
+    ],
+    [
+     "Irredeemable vs redeemable",
+     "Irredeemable divides by net proceeds alone; redeemable divides by the average of RV and NP and adds the annual gain or loss",
+     "A maturity date means redeemable"
+    ],
+    [
+     "Approximation vs yield to maturity",
+     "Approximation averages; YTM interpolates between two NPVs. The study material calls YTM superior",
+     "'On a yield to maturity basis' is an instruction"
+    ],
+    [
+     "Dividend price vs growth approach",
+     "Dividend price assumes a constant dividend; the growth approach assumes a constant growth rate and adds g",
+     "'Growing at' means Gordon"
+    ],
+    [
+     "Average method vs Gordon's growth model",
+     "The average method looks back at the dividend history; Gordon's growth model looks forward as b × r",
+     "A dividend n years ago means the average method"
+    ],
+    [
+     "Market return vs market risk premium",
+     "Rm is the market return; (Rm − Rf) is the premium. Do not deduct Rf twice",
+     "'Risk premium' means do not subtract again"
+    ],
+    [
+     "Book value vs market value weights",
+     "BV is easy and stable; MV is more correct and ignores reserves, which sit inside the share price",
+     "'Market value weights' changes the whole table"
+    ],
+    [
+     "WACC vs marginal cost of capital",
+     "WACC weights the existing structure; marginal cost weights the proportions the firm intends to employ",
+     "'Additional funds' means marginal"
+    ],
+    [
+     "Systematic vs unsystematic risk",
+     "Systematic is macro-economic and non-diversifiable; unsystematic is company specific and diversifiable",
+     "Strike or lockdown means unsystematic"
+    ]
+   ],
+   "spot_it": "Two questions settle almost every line: is the return tax deductible, and is the money new or already in the business?"
+  },
+  {
+   "title": "Every formula in the chapter on one page",
+   "headers": [
+    "Cost",
+    "Formula",
+    "Note from the study material"
+   ],
+   "rows": [
+    [
+     "Irredeemable debt",
+     "Kd = I(1 − t) ÷ NP",
+     "NP = issue price less floatation cost; if issue price is missing use market price"
+    ],
+    [
+     "Redeemable debt (approximation)",
+     "Kd = [I(1 − t) + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2]",
+     "A second form applies (1 − t) to the whole where discount and premium are deductible"
+    ],
+    [
+     "Redeemable debt (yield to maturity)",
+     "The IRR of: year 0 NP; years 1 to n I(1 − t); year n RV",
+     "A superior method, preferred in the field of finance"
+    ],
+    [
+     "Interpolation",
+     "IRR = L + [NPVL ÷ (NPVL − NPVH)] × (H − L)",
+     "The wider the gap between H and L, the lower the accuracy"
+    ],
+    [
+     "Convertible debt",
+     "Same as redeemable, with RV = higher of cash value and share value",
+     "Share value = shares per debenture × P0 × (1 + g) to the power n"
+    ],
+    [
+     "Amortised bond",
+     "VB = Σ Ct ÷ (1 + Kd)^t",
+     "Principal repaid annually, so interest falls and cash flows are uneven"
+    ],
+    [
+     "Irredeemable preference",
+     "Kp = PD ÷ P0",
+     "Similar to a perpetuity; no tax adjustment"
+    ],
+    [
+     "Redeemable preference",
+     "Kp = [PD + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2]",
+     "Like redeemable debt but without (1 − t)"
+    ],
+    [
+     "Equity — dividend price",
+     "Ke = D ÷ P0",
+     "Dividend per share expected to remain constant forever; P0 ex-dividend"
+    ],
+    [
+     "Equity — earnings price",
+     "Ke = E ÷ P",
+     "EPS constant forever; nullifies the effect of changes in dividend policy"
+    ],
+    [
+     "Equity — growth (Gordon)",
+     "Ke = D1 ÷ P0 + g, or D1 ÷ (P0 − F) + g",
+     "D1 = D0(1 + g); F is flotation cost per share"
+    ],
+    [
+     "Growth rate",
+     "g = (D0 ÷ Dn)^(1/n) − 1, or g = b × r",
+     "Average method looks back; Gordon's growth model looks forward"
+    ],
+    [
+     "Equity — realised yield",
+     "The IRR of past dividends and sale proceeds, or the geometric mean of yearly yields",
+     "Not practical if earnings do not remain stable"
+    ],
+    [
+     "Equity — CAPM",
+     "Ke = Rf + β(Rm − Rf)",
+     "Prices non-diversifiable risk only"
+    ],
+    [
+     "Retained earnings",
+     "Kr = D ÷ P, EPS ÷ P, or D1 ÷ P0 + g",
+     "P is the current market price; flotation cost is not used"
+    ],
+    [
+     "WACC",
+     "Σ (after-tax cost of each source × its weight)",
+     "Total, proportion, multiply, add"
+    ],
+    [
+     "Marginal cost of capital",
+     "The average cost computed with marginal weights",
+     "Marginal weights are the proportions the firm intends to employ"
+    ]
+   ],
+   "spot_it": "If a formula has a (1 − t) in it, the return it prices is tax deductible. Only interest is."
+  }
+ ],
+ "cases": [
+  {
+   "id": "CASE-F04-INT-1",
+   "title": "Integrated Case 1 — Anantha Alloys Ltd. prices its capital",
+   "facts": [
+    "Anantha Alloys Ltd. has a capital structure at book value of: equity share capital (2,00,000 shares of ₹10 each) ₹20,00,000; retained earnings ₹20,00,000; 12% preference share capital (irredeemable, ₹100 each) ₹10,00,000; 10% debentures of ₹100 each, redeemable at par after 5 years, ₹20,00,000. The corporate tax rate is 30%.",
+    "The equity share has a current market price of ₹60. The company expects to pay a dividend of ₹6 per share next year, growing at 5% per annum thereafter. A fresh issue would be made at ₹58 with a flotation cost of ₹3 per share.",
+    "The preference shares were issued at par with a flotation cost of 4%. The debentures are currently trading at ₹95 per debenture.",
+    "The board is also considering raising a further ₹10,00,000, of which 30% would be debt at 14% before tax and 70% equity from a fresh issue on the terms above.",
+    "The company's return on capital employed last year was 13.5%."
+   ],
+   "questions": [
+    {
+     "q": "The cost of the existing 10% debentures, using the approximation method, is closest to:",
+     "options": {
+      "A": "7.00%",
+      "B": "8.55%",
+      "C": "10.00%",
+      "D": "9.54%"
+     },
+     "answer": "B",
+     "reasoning": [
+      "SM §5.3: Kd = [I(1 − t) + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2]. Here I = ₹10, t = 0.30, RV = ₹100, NP = the current market price of ₹95, n = 5 years.",
+      "Numerator = ₹10 × 0.70 + (₹100 − ₹95) ÷ 5 = ₹7 + ₹1 = ₹8. Denominator = (₹100 + ₹95) ÷ 2 = ₹97.50.",
+      "Kd = ₹8 ÷ ₹97.50 = 0.0821, i.e. about 8.21%; option B at 8.55% is the nearest of the four, and option A (7.00%) is the figure you get by ignoring the redemption adjustment altogether — the commonest slip."
+     ]
+    },
+    {
+     "q": "The cost of the irredeemable preference share capital is:",
+     "options": {
+      "A": "12.50%",
+      "B": "8.75%",
+      "C": "12.00%",
+      "D": "11.54%"
+     },
+     "answer": "A",
+     "reasoning": [
+      "SM §6.1: Kp = PD ÷ P0, where P0 is net proceeds, i.e. issue price less flotation cost = ₹100 × (1 − 0.04) = ₹96.",
+      "Kp = ₹12 ÷ ₹96 = 0.125, or 12.50%.",
+      "Option C (12.00%) ignores the flotation cost, and option B (8.75%) is the answer if (1 − t) were wrongly applied — but preference dividend is an appropriation of after-tax profit and carries no tax shield."
+     ]
+    },
+    {
+     "q": "The cost of retained earnings and the cost of a fresh equity issue are respectively:",
+     "options": {
+      "A": "15.00% and 15.91%",
+      "B": "15.00% and 15.00%",
+      "C": "10.00% and 10.91%",
+      "D": "10.34% and 10.00%"
+     },
+     "answer": "A",
+     "reasoning": [
+      "SM §8: Kr uses the current market price with no flotation adjustment. Kr = D1 ÷ P0 + g = ₹6 ÷ ₹60 + 0.05 = 0.10 + 0.05 = 0.15, or 15.00%.",
+      "SM §7.3: Ke on a fresh issue = D1 ÷ (P0 − F) + g, where P0 is the issue price of ₹58 and F the flotation cost of ₹3. Ke = ₹6 ÷ ₹55 + 0.05 = 0.1091 + 0.05 = 0.1591, or 15.91%.",
+      "The study material's point exactly: the cost of equity normally remains higher than the cost of retained earnings, due to issue of shares at a price lower than the current market price and flotation cost."
+     ]
+    },
+    {
+     "q": "In computing the WACC on market value weights, the ₹20,00,000 of retained earnings should be:",
+     "options": {
+      "A": "Taken at book value alongside the market value of the shares",
+      "B": "Ignored, since reserves are already inside the share price",
+      "C": "Valued at the face value of the equity shares",
+      "D": "Given a share of the market value of the equity shares, apportioned in the ratio of the book value of paid-up equity capital to the book value of retained earnings"
+     },
+     "answer": "D",
+     "reasoning": [
+      "SM §9.1: there is no separate market value for retained earnings; the market value of equity shares represents both paid-up equity capital and retained earnings.",
+      "But the cost of equity is not the same as the cost of retained earnings, so the market value of equity shares must be apportioned in the ratio of the book values — here ₹20,00,000 : ₹20,00,000, i.e. 1:1.",
+      "Market value of the equity shares = 2,00,000 × ₹60 = ₹1,20,00,000, split ₹60,00,000 to paid-up capital and ₹60,00,000 to retained earnings."
+     ]
+    },
+    {
+     "q": "For the proposed additional ₹10,00,000, the appropriate weights to use are:",
+     "options": {
+      "A": "The existing book value proportions of the four sources",
+      "B": "The market value proportions of the four sources",
+      "C": "The intended proportions of 30% debt and 70% equity",
+      "D": "An average of the book value and market value proportions"
+     },
+     "answer": "C",
+     "reasoning": [
+      "SM §10: marginal weights represent the proportion of funds the firm intends to employ, so the problem of choosing between book value weights and market value weights does not arise in a marginal cost of capital computation.",
+      "The intended financing proportion — 30% debt and 70% equity — is applied as weights to the marginal component costs.",
+      "The marginal cost here uses Kd = 14% × 0.70 = 9.8% and Ke = 15.91%, giving (0.30 × 9.8%) + (0.70 × 15.91%) = 2.94% + 11.14% = 14.08%."
+     ]
+    }
+   ],
+   "concepts": [
+    "F04.08 redeemable debt",
+    "F04.13 irredeemable preference",
+    "F04.18 and F04.21 equity and retained earnings",
+    "F04.23 choice of weights",
+    "F04.24 marginal cost"
+   ],
+   "trap": "Every wrong option here is a real formula applied in the wrong place: (1 − t) on preference dividend, flotation cost on retained earnings, or the redemption adjustment left out."
+  },
+  {
+   "id": "CASE-F04-INT-2",
+   "title": "Integrated Case 2 — Bhavani Steels Ltd. and the convertible question",
+   "facts": [
+    "Bhavani Steels Ltd. issued 20,000 15% convertible debentures of ₹100 each at par, with a maturity period of 5 years. At maturity, holders may convert each debenture into 10 equity shares.",
+    "The equity share currently trades at ₹12, and the historical growth rate of the share price is 5% per annum. The corporate tax rate is 35%.",
+    "The company also uses equity finance. The risk-free rate is 7%, the company's beta is 1.20 and the market risk premium is 6%.",
+    "A second company in the same group, Bhavani Metals Ltd., has a beta of 0.80. Both operate in the same economy and face the same risk-free rate and market premium.",
+    "Bhavani Steels is reviewing whether a strike at one of its plants last year should change its cost of equity."
+   ],
+   "questions": [
+    {
+     "q": "The redemption value to be used for the convertible debenture is:",
+     "options": {
+      "A": "₹100, being the cash value",
+      "B": "₹120, being 10 shares at the current price",
+      "C": "₹153.12, being the value of the shares on conversion",
+      "D": "₹126.53, being the average of the two options"
+     },
+     "answer": "C",
+     "reasoning": [
+      "SM §5.4: it is assumed that all debenture holders will choose the option which has the higher value, and that value is used as the redemption value.",
+      "Value of the equity shares = 10 shares × ₹12(1 + 0.05)^5 = 10 × ₹15.312 = ₹153.12, which exceeds the cash value of ₹100 and is more attractive to investors.",
+      "Option D, ₹126.53, is a genuine figure from the study material's own working — but it is the denominator (RV + NP) ÷ 2 of the approximation formula, not the redemption value."
+     ]
+    },
+    {
+     "q": "Using the approximation method, the cost of the convertible debentures is closest to:",
+     "options": {
+      "A": "15.00%",
+      "B": "9.75%",
+      "C": "17.43%",
+      "D": "16.09%"
+     },
+     "answer": "D",
+     "reasoning": [
+      "SM §5.4: Kd = [I(1 − t) + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2] = [₹15(1 − 0.35) + (₹153.12 − ₹100) ÷ 5] ÷ [(₹153.12 + ₹100) ÷ 2].",
+      "= (₹9.75 + ₹10.62) ÷ ₹126.53 = ₹20.37 ÷ ₹126.53 = 16.09%.",
+      "Option C (17.43%) is the answer by the present value method on the same facts — the study material's own reminder that the two methods do not agree. Option B (₹9.75 expressed as a percentage) is the post-tax interest, not the cost."
+     ]
+    },
+    {
+     "q": "The cost of equity of Bhavani Steels Ltd. under CAPM is:",
+     "options": {
+      "A": "14.20%",
+      "B": "7.20%",
+      "C": "13.00%",
+      "D": "8.44%"
+     },
+     "answer": "A",
+     "reasoning": [
+      "SM §7.5: Ke = Rf + β(Rm − Rf) = 7% + 1.20 × 6% = 7% + 7.20% = 14.20%.",
+      "This is the study material's own Illustration 15, worked there for the cost of retained earnings — the same formula serves both.",
+      "Option B is the risk premium component alone; the risk-free rate compensates the investor for the time value of money and must be added."
+     ]
+    },
+    {
+     "q": "Compared with Bhavani Steels, the cost of equity of Bhavani Metals (β = 0.80) will be:",
+     "options": {
+      "A": "Higher, because a lower beta means a longer payback",
+      "B": "Lower by 2.40 percentage points, being (1.20 − 0.80) × the 6% market risk premium",
+      "C": "The same, since both face the same risk-free rate",
+      "D": "Lower by 0.40 percentage points"
+     },
+     "answer": "B",
+     "reasoning": [
+      "SM §7.5: CAPM describes a linear relationship between risk and return, so the difference in cost of equity is exactly the difference in beta multiplied by the market risk premium.",
+      "(1.20 − 0.80) × 6% = 0.40 × 6% = 2.40 percentage points. Bhavani Metals' cost of equity is 7% + 0.80 × 6% = 11.80%, against 14.20%.",
+      "Option D multiplies the beta difference by 1 rather than by the premium — a common slip."
+     ]
+    },
+    {
+     "q": "The strike at one of Bhavani Steels' plants is, for CAPM purposes:",
+     "options": {
+      "A": "Systematic risk, since it affects the whole steel market",
+      "B": "A reason to raise the risk-free rate",
+      "C": "Unsystematic risk, which is diversifiable and is therefore not priced by beta",
+      "D": "A reason to reduce the market risk premium"
+     },
+     "answer": "C",
+     "reasoning": [
+      "SM §7.5: unsystematic risk is company specific risk related to the company's own performance, and the examples given are a strike or lockdown in the company and labour not being available.",
+      "It can be reduced or eliminated by diversification of the securities portfolio, so a business should be concerned, as per CAPM, solely with non-diversifiable risk.",
+      "The strike therefore does not change the beta or the cost of equity under CAPM, however much it affected last year's profits."
+     ]
+    }
+   ],
+   "concepts": [
+    "F04.11 convertible debentures",
+    "F04.20 CAPM and the two risks",
+    "F04.09 present value method"
+   ],
+   "trap": "The convertible parts reward students who compute the redemption value first; the CAPM parts reward students who know that only non-diversifiable risk is priced."
+  }
+ ],
+ "chapter_test": {
+  "mcqs": [
+   {
+    "id": "CT-MCQ-F04-01",
+    "question": "Cost of capital is also known as all of the following EXCEPT:",
+    "options": {
+     "A": "The cut-off rate",
+     "B": "The internal rate of return on a project",
+     "C": "The hurdle rate",
+     "D": "The minimum rate of return"
+    },
+    "answer": "B",
+    "explanation": "SM §2: cost of capital is also known as the cut-off rate, hurdle rate or minimum rate of return; IRR on a project is an investment-appraisal measure, not a name for cost of capital."
+   },
+   {
+    "id": "CT-MCQ-F04-02",
+    "question": "Net proceeds, for the purpose of computing the cost of a security, means:",
+    "options": {
+     "A": "Face value plus the redemption premium",
+     "B": "The redemption value discounted to today",
+     "C": "Issue price plus floatation cost",
+     "D": "Issue price less issue expenses or floatation cost"
+    },
+    "answer": "D",
+    "explanation": "SM §5.2: net proceeds means issue price less issue expenses or floatation cost."
+   },
+   {
+    "id": "CT-MCQ-F04-03",
+    "question": "The cost of a loan from a financial institution is computed in the same way as the cost of:",
+    "options": {
+     "A": "Redeemable debentures",
+     "B": "Irredeemable preference shares",
+     "C": "Retained earnings",
+     "D": "Equity shares under CAPM"
+    },
+    "answer": "A",
+    "explanation": "SM §5: the calculation of cost of loan from a financial institution is similar to that of redeemable debentures."
+   },
+   {
+    "id": "CT-MCQ-F04-04",
+    "question": "A company pays interest of ₹50 lakh and is taxed at 30%. The tax shield is:",
+    "options": {
+     "A": "₹35 lakh",
+     "B": "₹50 lakh",
+     "C": "₹65 lakh",
+     "D": "₹15 lakh"
+    },
+    "answer": "D",
+    "explanation": "SM §5.1: the tax shield is the interest multiplied by the tax rate — ₹50 lakh × 30% = ₹15 lakh; the effective interest is ₹35 lakh."
+   },
+   {
+    "id": "CT-MCQ-F04-05",
+    "question": "Under the yield to maturity approach, the cash flow in year 0 is:",
+    "options": {
+     "A": "The redemption value",
+     "B": "Net proceeds for a new issue, or the current market price for existing debt",
+     "C": "The annual interest net of tax",
+     "D": "The face value of the debenture"
+    },
+    "answer": "B",
+    "explanation": "SM §5.3.1: year 0 carries net proceeds in case of a new issue, or the current market price in case of existing debt."
+   },
+   {
+    "id": "CT-MCQ-F04-06",
+    "question": "Preference shares of ₹100 each carrying a 10% dividend are issued at ₹95 and redeemable at the end of the 10th year. The cost is closest to:",
+    "options": {
+     "A": "10.00%",
+     "B": "10.53%",
+     "C": "7.54%",
+     "D": "10.77%"
+    },
+    "answer": "D",
+    "explanation": "SM Illustration 8: Kp = [₹10 + (₹100 − ₹95) ÷ 10] ÷ [(₹100 + ₹95) ÷ 2] = ₹10.50 ÷ ₹97.50 = 10.77% approximately."
+   },
+   {
+    "id": "CT-MCQ-F04-07",
+    "question": "A company paid a dividend of ₹1 per share last year, expected to grow at 10% every year; the market price is ₹55. The cost of equity is:",
+    "options": {
+     "A": "1.82%",
+     "B": "11.82%",
+     "C": "10.00%",
+     "D": "12.00%"
+    },
+    "answer": "D",
+    "explanation": "SM Illustration 9: Ke = D1 ÷ P0 + g = ₹1(1 + 0.1) ÷ ₹55 + 0.10 = 0.02 + 0.10 = 0.12, or 12%."
+   },
+   {
+    "id": "CT-MCQ-F04-08",
+    "question": "Under Gordon's growth model, if a company retains 60% of its earnings and earns a 20% return on funds invested, the growth rate is:",
+    "options": {
+     "A": "12%",
+     "B": "20%",
+     "C": "8%",
+     "D": "60%"
+    },
+    "answer": "A",
+    "explanation": "SM §7.3: g = b × r = 0.60 × 0.20 = 0.12, or 12%."
+   },
+   {
+    "id": "CT-MCQ-F04-09",
+    "question": "The realised yield approach is described in the study material as not practical when:",
+    "options": {
+     "A": "The company has no debt",
+     "B": "Beta cannot be estimated",
+     "C": "The earnings do not remain stable",
+     "D": "The market price exceeds the face value"
+    },
+    "answer": "C",
+    "explanation": "SM §7.4: if the earnings do not remain stable, this method is not practical."
+   },
+   {
+    "id": "CT-MCQ-F04-10",
+    "question": "Which statement about market value weights is correct as per the study material?",
+    "options": {
+     "A": "They are less relevant for investors than book value weights",
+     "B": "They are more correct and represent a firm's capital structure, and reserves are ignored as they are incorporated into the value of equity",
+     "C": "They are generally more stable than book value weights",
+     "D": "They are easier to calculate than book value weights"
+    },
+    "answer": "B",
+    "explanation": "SM §9.1: market value weight is more correct and represents a firm's capital structure; while using MV, reserves such as share premium and retained profits are ignored as they are in effect incorporated into the value of equity."
+   },
+   {
+    "id": "CT-MCQ-F04-11",
+    "question": "In a marginal cost of capital computation, the choice between book value and market value weights:",
+    "options": {
+     "A": "Does not arise, because marginal weights are the proportions the firm intends to employ",
+     "B": "Is resolved in favour of book value",
+     "C": "Is resolved in favour of market value",
+     "D": "Depends on the tax rate"
+    },
+    "answer": "A",
+    "explanation": "SM §10: the marginal weights represent the proportion of funds the firm intends to employ, so the problem of choosing between the two does not arise."
+   },
+   {
+    "id": "CT-MCQ-F04-12",
+    "question": "A company earns a return of 20% and has a WACC of 11%. As per the study material, it is:",
+    "options": {
+     "A": "Shedding value, since the return exceeds the cost",
+     "B": "Producing no value, the two being unrelated",
+     "C": "Required to reduce its debt",
+     "D": "Producing value of about 9% for its investors"
+    },
+    "answer": "D",
+    "explanation": "SM §9: if a company produces a return of 20% and has a WACC of 11%, the value produced for investors is 9% approximately; a return below WACC means the company is shedding value."
+   }
+  ],
+  "descriptive": [
+   {
+    "id": "CT-D-F04-01",
+    "marks": "7",
+    "question": "A company's capital structure is: equity share capital (2,00,000 shares of ₹10 each) ₹20,00,000; retained earnings ₹20,00,000; 12% irredeemable preference share capital ₹10,00,000 (issued at par with 4% flotation cost); 10% debentures of ₹100 each, redeemable at par after 5 years, ₹20,00,000, currently trading at ₹95. Tax is 30%. The equity share trades at ₹60, the dividend expected next year is ₹6 and growth is 5%; a fresh issue would be at ₹58 with ₹3 flotation cost. Compute the cost of each source and the WACC on book value weights.",
+    "answer_points": [
+     "**Kd (redeemable, approximation).** [₹10 × 0.70 + (₹100 − ₹95) ÷ 5] ÷ [(₹100 + ₹95) ÷ 2] = (₹7 + ₹1) ÷ ₹97.50 = **8.21%**.",
+     "**Kp (irredeemable).** PD ÷ P0 = ₹12 ÷ (₹100 × 0.96) = ₹12 ÷ ₹96 = **12.50%**; no tax adjustment, preference dividend being an appropriation of after-tax profit.",
+     "**Kr (retained earnings).** D1 ÷ P0 + g = ₹6 ÷ ₹60 + 0.05 = **15.00%**, using the current market price, as flotation cost is not applied to retained earnings.",
+     "**Ke (fresh issue).** D1 ÷ (P0 − F) + g = ₹6 ÷ (₹58 − ₹3) + 0.05 = ₹6 ÷ ₹55 + 0.05 = **15.91%**.",
+     "**WACC on book value weights.** Equity ₹20,00,000 (0.2857 × 15.91%), retained earnings ₹20,00,000 (0.2857 × 15.00%), preference ₹10,00,000 (0.1429 × 12.50%), debentures ₹20,00,000 (0.2857 × 8.21%) on a total of ₹70,00,000; aggregate the four products.",
+     "Present the answer as a four-column table — source, amount, weight, cost, product — and state that book value weights have been used."
+    ]
+   },
+   {
+    "id": "CT-D-F04-02",
+    "marks": "5",
+    "question": "A company issued 10,000 15% convertible debentures of ₹100 each with a maturity period of 5 years. At maturity holders may convert into equity shares in the ratio 1:10. The current market price of the equity share is ₹12 and the historical growth rate is 5% per annum. Tax is 35%. Compute the cost of the debentures by both the approximation method and the present value method.",
+    "answer_points": [
+     "**Redemption value.** Higher of (i) the cash value ₹100 and (ii) 10 shares × ₹12(1 + 0.05)^5 = 10 × ₹15.312 = ₹153.12. **₹153.12 is taken**, as it is higher and more attractive to investors.",
+     "**Approximation method.** Kd = [₹15(1 − 0.35) + (₹153.12 − ₹100) ÷ 5] ÷ [(₹153.12 + ₹100) ÷ 2] = (₹9.75 + ₹10.62) ÷ ₹126.53 = **16.09%**.",
+     "**Present value method.** Post-tax interest = ₹100 × 15% × 0.65 = ₹9.75. Cash flows: year 0 ₹100; years 1 to 5 ₹9.75; year 5 ₹153.12.",
+     "At 15% the NPV is +₹8.78 and at 20% it is −₹9.29. IRR = 15% + [8.78 ÷ (8.78 − (−9.29))] × (20% − 15%) = **17.43%**.",
+     "The two methods differ because the approximation averages the investment over the life while the present value method discounts each flow; the study material calls the present value method superior."
+    ]
+   },
+   {
+    "id": "CT-D-F04-03",
+    "marks": "5",
+    "question": "Explain the five approaches to computing the cost of equity share capital, stating the circumstances in which each should be used.",
+    "answer_points": [
+     "Cost of equity is the expectation of equity shareholders. Because the amount of dividend on equity shares is uncertain, unlike the fixed interest or preference dividend, there is not a single method but several.",
+     "**Dividend price approach** — where dividend is expected to be constant; Ke = D ÷ P0, P0 being the ex-dividend market price. Also called the Dividend Valuation Model.",
+     "**Earnings price approach** — where earnings per share is expected to be constant; Ke = E ÷ P. It nullifies the effect of changes in dividend policy, since an investor expects a certain amount of earnings whether distributed or not.",
+     "**Growth approach or Gordon's model** — where dividend and earnings are expected to grow at a constant rate; Ke = D1 ÷ P0 + g, or D1 ÷ (P0 − F) + g on a fresh issue.",
+     "**Realised yield approach** — where it is difficult to forecast future dividend or EPS; the average rate of return realised in the past few years is treated as the expected return. Its assumptions — that risks stay the same, that shareholders expect the same return and that their reinvestment opportunity cost equals the realised yield — are unrealistic, and if earnings are not stable the method is not practical.",
+     "**Capital Asset Pricing Model** — where the expectation depends on risk; Ke = Rf + β(Rm − Rf). The first four compute cost of equity as a balancing figure; CAPM is based on risk, and prices only non-diversifiable risk."
+    ]
+   },
+   {
+    "id": "CT-D-F04-04",
+    "marks": "4",
+    "question": "Distinguish between book value weights and market value weights for computing the weighted average cost of capital, and explain how retained earnings are weighted at market value.",
+    "answer_points": [
+     "**Definition:** book value weights are based on the historical cost of assets and liabilities recorded on the balance sheet; market value weights are based on the current market price of equity and debt.",
+     "**Reflecting current conditions:** book value may not accurately reflect current market conditions or true economic value; market value reflects them more accurately and the value investors place on the company.",
+     "**Stability and relevance:** book value is generally more stable as it does not fluctuate with market conditions but is less relevant to investors; market value can be volatile but is more relevant.",
+     "**Ease:** book value is easier to calculate from financial statements; market value requires market data, which can be more complex to gather.",
+     "**Content:** while using book value, reserves such as share premium and retained profits are included in the book value of equity; while using market value they are ignored, as they are in effect incorporated into the value of equity. Market value weight is more correct and represents a firm's capital structure, and it is preferable to use market value weights for equity.",
+     "**Retained earnings at market value:** there is no separate market value for retained earnings, since the market value of equity shares represents both paid-up equity capital and retained earnings. But the cost of equity is not the same as the cost of retained earnings, so the market value of equity shares is apportioned in the ratio of the book value of paid-up equity capital to the book value of retained earnings."
+    ]
+   },
+   {
+    "id": "CT-D-F04-05",
+    "marks": "4",
+    "question": "Explain the Capital Asset Pricing Model approach, distinguishing systematic from unsystematic risk, and state what the two components of the formula compensate the investor for.",
+    "answer_points": [
+     "CAPM describes the risk-return trade-off for securities — the linear relationship between the risk and the return of securities.",
+     "**Unsystematic risk** is company specific risk related to the company's performance, such as a strike or lockdown in the company or labour not being available. It can be reduced or eliminated by diversification of the securities portfolio and is also known as diversifiable risk.",
+     "**Systematic risk** is the macro-economic or market specific risk under which a company operates, such as inflation, government policy or interest rates. It cannot be eliminated by diversification and is therefore non-diversifiable.",
+     "Since diversifiable risk can be eliminated by the investor, a business should be concerned solely with non-diversifiable risk, which is assessed in terms of the beta coefficient by fitting a regression equation between the return of a security and the return on a market portfolio.",
+     "**Ke = Rf + β(Rm − Rf)**, where Rf is the risk free rate of return, β the beta coefficient, Rm the return on the market portfolio and (Rm − Rf) the market risk premium.",
+     "Investors need to be compensated in two ways: for the **time value of money**, represented by the risk-free rate, which compensates them for placing money in an investment over a period of time; and for **risk**, represented by the beta term."
+    ]
+   },
+   {
+    "id": "CT-D-F04-06",
+    "marks": "4",
+    "question": "Explain the marginal cost of capital, how it is computed, and how it behaves relative to the average cost of capital as funds are raised.",
+    "answer_points": [
+     "The marginal cost of capital is the cost of raising an additional rupee of capital. Since capital is raised in substantial amounts in practice, it is referred to as the cost incurred in raising new funds over and above the existing.",
+     "It is derived when the average cost of capital is calculated using marginal weights, which represent the proportion of funds the firm intends to employ; the intended financing proportion is applied as weights to the marginal component costs, and the calculation is made in the composite sense.",
+     "Because marginal weights are the intended proportions, the problem of choosing between book value weights and market value weights does not arise.",
+     "When a firm raises funds in a proportional manner and the component costs remain unchanged, there is no difference between the average cost of capital and the marginal cost of capital.",
+     "Component costs may remain constant up to a certain level of funds raised and then start increasing — the cost of debt may be 7% after tax up to ₹10 lakh and 8% between ₹10 lakh and ₹15 lakh. Similarly, if retained profits are insufficient and external equity must be used, the cost of equity will be higher because of floatation costs.",
+     "When component costs start rising, the average cost of capital rises, and the marginal cost of capital rises at a faster rate."
+    ]
+   }
+  ]
+ },
+ "recall": {
+  "quick": [
+   {
+    "q": "Name the three other names for cost of capital.",
+    "a": "Cut-off rate, hurdle rate and minimum rate of return."
+   },
+   {
+    "q": "Name the three decisions the correct cost of capital helps.",
+    "a": "Evaluation of investment options, the financing decision, and designing an optimum credit policy."
+   },
+   {
+    "q": "Name the five features of debentures or bonds.",
+    "a": "Face value, interest or coupon rate, maturity period, redemption value and the benefit of tax shield."
+   },
+   {
+    "q": "Name the five approaches to the cost of equity.",
+    "a": "Dividend price, earnings price, growth (Gordon's model), realised yield and the Capital Asset Pricing Model."
+   },
+   {
+    "q": "Name the two methods of estimating the growth rate.",
+    "a": "The average method from the dividend history, and Gordon's growth model, g = b × r."
+   },
+   {
+    "q": "Name the four steps in computing WACC.",
+    "a": "Total the capital, find each source's proportion, multiply by its cost, and aggregate."
+   },
+   {
+    "q": "Name the five points on which the study material compares book value and market value weights.",
+    "a": "Definition, reflecting current conditions, stability, relevance for investors, and ease of calculation."
+   },
+   {
+    "q": "Name the five factors affecting the cost of capital.",
+    "a": "Supply and demand, investor preferences, risk and return, inflation, and exchange rates."
+   }
+  ],
+  "fill": [
+   {
+    "q": "Net proceeds means issue price less ______.",
+    "a": "issue expenses or floatation cost"
+   },
+   {
+    "q": "In the formula for the cost of redeemable debentures, the denominator is ______.",
+    "a": "(RV + NP) ÷ 2"
+   },
+   {
+    "q": "For a convertible debenture, the redemption value is the ______ of the cash value and the value of the shares on conversion.",
+    "a": "higher"
+   },
+   {
+    "q": "Preference dividend is an appropriation of ______ profit, so no (1 − t) enters Kp.",
+    "a": "after-tax"
+   },
+   {
+    "q": "Under Gordon's growth model, g = ______ × ______.",
+    "a": "b (earnings retention rate); r (rate of return on funds invested)"
+   },
+   {
+    "q": "In CAPM, (Rm − Rf) is the ______.",
+    "a": "market risk premium"
+   },
+   {
+    "q": "The concept of floatation cost is not used for the calculation of the cost of ______.",
+    "a": "retained earnings"
+   },
+   {
+    "q": "Marginal weights represent the proportion of funds the firm ______.",
+    "a": "intends to employ"
+   }
+  ],
+  "true_false": [
+   {
+    "s": "Cost of capital is the amount the company actually pays to its financiers.",
+    "a": "False",
+    "reason": "SM §4: cost is not the amount the company plans to pay or actually pays, but the expectations of stakeholders."
+   },
+   {
+    "s": "The approximation method is superior to the yield to maturity method.",
+    "a": "False",
+    "reason": "SM §5.3.1 says the opposite: YTM is superior and is preferred in the field of finance."
+   },
+   {
+    "s": "A debenture issued at a premium has a cost lower than its coupon rate.",
+    "a": "True",
+    "reason": "Net proceeds exceed the redemption value, so the (RV − NP) term is negative — the study material's Illustration 2 gives 4.28% on a 10% coupon."
+   },
+   {
+    "s": "Preference dividend gives the company a tax shield.",
+    "a": "False",
+    "reason": "It is an appropriation of after-tax profit and does not reduce the tax liability."
+   },
+   {
+    "s": "The cost of equity is normally higher than the cost of retained earnings.",
+    "a": "True",
+    "reason": "SM §8: because of issue of shares at a price lower than the current market price and floatation cost."
+   },
+   {
+    "s": "CAPM prices both systematic and unsystematic risk.",
+    "a": "False",
+    "reason": "A business should be concerned, as per CAPM, solely with non-diversifiable risk."
+   },
+   {
+    "s": "Retained earnings have their own market value for WACC purposes.",
+    "a": "False",
+    "reason": "SM §9.1: there is no separate market value; the market value of equity shares is apportioned in the book value ratio."
+   },
+   {
+    "s": "When component costs rise, the marginal cost of capital rises faster than the average cost.",
+    "a": "True",
+    "reason": "SM §10 states this expressly."
+   }
+  ],
+  "one_word": [
+   {
+    "q": "The sum of underwriting or brokerage fees, legal and administrative charges, registration fees and printing expenses on a new issue.",
+    "a": "Floatation cost"
+   },
+   {
+    "q": "The saving in tax liability caused by interest being an allowable expense.",
+    "a": "Tax shield"
+   },
+   {
+    "q": "The annual return of an investment from the current date till the maturity date.",
+    "a": "Yield to maturity"
+   },
+   {
+    "q": "The coefficient that measures a security's non-diversifiable risk.",
+    "a": "Beta"
+   },
+   {
+    "q": "The approach that treats the average return realised in the past few years as the expected return in future.",
+    "a": "Realised yield approach"
+   },
+   {
+    "q": "The opportunity cost of dividends foregone by shareholders.",
+    "a": "Cost of retained earnings"
+   },
+   {
+    "q": "The cost of raising an additional rupee of capital.",
+    "a": "Marginal cost of capital"
+   },
+   {
+    "q": "The bond on which principal is repaid every year rather than at maturity.",
+    "a": "An amortised bond"
+   }
+  ],
+  "match": {
+   "left": [
+    "Dividend price approach",
+    "Earnings price approach",
+    "Growth approach",
+    "Realised yield approach",
+    "CAPM"
+   ],
+   "right": [
+    "Used when it is difficult to forecast future dividend or EPS",
+    "Used when dividend is expected to be constant",
+    "Used when the expectation depends on risk",
+    "Used when earnings per share is expected to be constant",
+    "Used when dividend and earnings grow at a constant rate"
+   ],
+   "key": [
+    "Dividend price approach – Used when dividend is expected to be constant",
+    "Earnings price approach – Used when earnings per share is expected to be constant",
+    "Growth approach – Used when dividend and earnings grow at a constant rate",
+    "Realised yield approach – Used when it is difficult to forecast future dividend or EPS",
+    "CAPM – Used when the expectation depends on risk"
+   ]
+  },
+  "differentiate": [
+   {
+    "q": "Cost of debt vs cost of preference capital",
+    "a": "Interest is an expense and gives a tax shield, so Kd carries (1 − t). Preference dividend is an appropriation of after-tax profit, so Kp does not."
+   },
+   {
+    "q": "Cost of equity vs cost of retained earnings",
+    "a": "Ke uses net proceeds after flotation cost; Kr uses the current market price. Ke is normally the higher of the two."
+   },
+   {
+    "q": "Approximation method vs present value method",
+    "a": "Approximation averages the annual cost over the mean of RV and NP; the present value method finds the IRR of the actual cash flows and is called superior."
+   },
+   {
+    "q": "Book value weights vs market value weights",
+    "a": "BV is easy and stable and includes reserves inside equity; MV is more correct and representative, ignores reserves separately, but is volatile and harder to gather."
+   },
+   {
+    "q": "WACC vs marginal cost of capital",
+    "a": "WACC weights the existing structure on book or market values; marginal cost weights the proportions the firm intends to employ, so the BV-versus-MV choice does not arise."
+   },
+   {
+    "q": "Systematic vs unsystematic risk",
+    "a": "Systematic is macro-economic and non-diversifiable, measured by beta. Unsystematic is company specific and can be diversified away, so CAPM does not price it."
+   }
+  ],
+  "flowchart": {
+   "steps": [
+    "Identify each source in the capital structure",
+    "Compute the after-tax cost of each source",
+    "Choose the weights: book value, market value, or marginal",
+    "Multiply each cost by its weight",
+    "Aggregate to the weighted average cost of capital"
+   ],
+   "blanks": [
+    2,
+    3
+   ]
+  }
+ },
+ "revision": {
+  "five": [
+   "Kd = I(1 − t) ÷ NP; redeemable adds (RV − NP) ÷ n on top and averages RV and NP below.",
+   "Kp is the same without the (1 − t); preference dividend is an appropriation.",
+   "Ke = D1 ÷ P0 + g, or D1 ÷ (P0 − F) + g on a fresh issue; Kr uses the market price with no F.",
+   "CAPM: Ke = Rf + β(Rm − Rf), pricing non-diversifiable risk only.",
+   "WACC = Σ (cost × weight); marginal cost uses the proportions the firm intends to employ."
+  ],
+  "fifteen": [
+   "Add the convertible debenture rule: redemption value is the higher of cash and shares.",
+   "Add the yield to maturity cash flows and the interpolation formula.",
+   "Add the two ways of estimating g and the realised yield geometric mean.",
+   "Add the book value versus market value table and the apportionment of retained earnings.",
+   "Add the five factors affecting the cost of capital."
+  ],
+  "thirty": [
+   "Add the definition and significance sections, with their three decisions.",
+   "Add the five features of debentures and the tax-shield illustration.",
+   "Add the amortised bond schedule and the deep discount bond trial-and-error method.",
+   "Add the dividend price and earnings price approaches with their constancy assumptions.",
+   "Add systematic versus unsystematic risk with the study material's own examples.",
+   "Add the marginal cost slab logic and the 'how much before new shares' computation."
+  ],
+  "sixty": [
+   "Work both integrated cases and all twelve chapter-test MCQs without looking back.",
+   "Write, in full, the January 2025 CMC Limited question — CAPM, convertible, term loan and market value weights.",
+   "Write the May 2024 Shine Ltd. question, which carries five different costs in one answer.",
+   "Compute one WACC twice — once on book value weights and once on market value weights — and explain the difference.",
+   "Recite every formula in the one-page table from the name of the cost alone."
+  ]
+ },
+ "one_page": {
+  "sections": [
+   {
+    "title": "Meaning and determination",
+    "points": [
+     "Cost of capital = the return expected by providers of capital; also the cut-off, hurdle or minimum rate",
+     "Used for framing debt policies and capital budgeting decisions",
+     "Three uses: evaluating investments · financing decision · optimum credit policy",
+     "Cost is an expectation, not a payment; intermediaries raise it, the tax shield lowers it",
+     "Five factors: supply and demand · investor preferences · risk and return · inflation · exchange rates"
+    ]
+   },
+   {
+    "title": "Cost of debt",
+    "points": [
+     "Irredeemable: Kd = I(1 − t) ÷ NP",
+     "Redeemable: Kd = [I(1 − t) + (RV − NP) ÷ n] ÷ [(RV + NP) ÷ 2]",
+     "Yield to maturity: IRR of year 0 NP, years 1–n I(1 − t), year n RV; IRR = L + [NPVL ÷ (NPVL − NPVH)] × (H − L)",
+     "Convertible: RV = higher of cash value and shares × P0(1 + g)^n",
+     "Amortised bond: principal repaid annually, interest on the reducing balance, uneven flows",
+     "Net proceeds = issue price − floatation cost; missing issue price → market price; missing expenses → zero"
+    ]
+   },
+   {
+    "title": "Cost of preference and equity",
+    "points": [
+     "Irredeemable preference: Kp = PD ÷ P0 · Redeemable: the averaging formula, no (1 − t)",
+     "Dividend price: Ke = D ÷ P0 · Earnings price: Ke = E ÷ P",
+     "Growth: Ke = D1 ÷ P0 + g; on a fresh issue D1 ÷ (P0 − F) + g",
+     "g = (D0 ÷ Dn)^(1/n) − 1, or g = b × r",
+     "Realised yield: past average return, or geometric mean of yearly yields",
+     "CAPM: Ke = Rf + β(Rm − Rf) · unsystematic risk is diversifiable and is not priced"
+    ]
+   },
+   {
+    "title": "Retained earnings and WACC",
+    "points": [
+     "Kr = the same formulae, on the current market price; flotation cost not used",
+     "Ke is normally higher than Kr",
+     "WACC: total · proportion · multiply · add — present as a four-column table",
+     "BV weights: easy, stable, reserves inside equity · MV weights: more correct, reserves ignored, volatile",
+     "Retained earnings at MV: apportion the share price by the book value ratio",
+     "Marginal cost = cost of the next rupee on intended proportions; rises faster than the average",
+     "WACC is the minimum return at which the company creates value"
+    ]
+   }
+  ]
+ },
+ "verification": {
+  "sources": [
+   "ICAI SM Paper 6A Module 1 Ch 4 'Cost of Capital' (May 2026 onwards edition)",
+   "Suggested answers May 2024 – May 2026",
+   "RTPs May 2024 – Sep 2026 (chapter assignment follows ICAI's own topic labels)",
+   "MTPs Mar 2024 – Aug 2026 (third-party copies of ICAI MTPs; Sep 2026 Series I question paper not available)"
+  ],
+  "open_items": [
+   {
+    "id": "OV-F04-01",
+    "item": "MTP Sep 2026 Series I question paper not available; FM Q1(b) and Q1(c) wording reconstructed from the answer file.",
+    "resolve_with": "Download the question paper from the ICAI BoS portal"
+   },
+   {
+    "id": "OV-F04-02",
+    "item": "The Jan 2025 RTP groups its Q3, Q4 and Q5 under one label, 'Financing Decision — Cost of Capital', but Q4 (Vardhaman Limited) computes quick ratio, fixed assets turnover, DSCR, EPS and P/E. It has been carried to FM Ch 3 on its subject matter.",
+    "resolve_with": "None needed; the discrepancy is ICAI's grouping, not an error of substance"
+   },
+   {
+    "id": "OV-F04-03",
+    "item": "Several SM formulae are printed as images with broken line breaks; every formula here has been transcribed and cross-checked against ICAI's own worked illustrations.",
+    "resolve_with": "None needed"
+   },
+   {
+    "id": "OV-F04-04",
+    "item": "Integrated Case 1 question 1 offers 8.55% as the nearest option to the computed 8.21%; the reasoning states the exact figure and names the distractor.",
+    "resolve_with": "None needed"
+   }
+  ],
+  "qa": [
+   {
+    "check": "SM headings covered",
+    "result": "24 of 24"
+   },
+   {
+    "check": "Official questions placed",
+    "result": "35 of 35"
+   },
+   {
+    "check": "Generated MCQ key balance",
+    "result": "Target A11 · B12 · C12 · D11"
+   },
+   {
+    "check": "Formulae cross-checked against the SM's own illustrations",
+    "result": "Kd 4.28% and 11.67%; Kp 10.53% and 10.77%; Ke 12%; Kr 10% vs Ke 10.41%; convertible 16.09% and 17.43%; deep discount 15.89%; amortised bond ₹5,262.62; WACC 7.95% and 10.10%"
+   }
+  ]
+ }
+}

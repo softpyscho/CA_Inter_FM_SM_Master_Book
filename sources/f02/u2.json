@@ -1,0 +1,356 @@
+{
+ "concepts": [
+  {
+   "code": "F02.12 + F02.13",
+   "title": "3.6–3.7 Loans from Financial Institutions and Commercial Banks (including Bridge Finance)",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (May 2025 Q4(b)) · MTP 1 (Sep 2026 Series II)",
+   "understand": [
+    "**Loans from financial institutions (§3.6).** The study material lists the institutions in two tables. **National:** Industrial Finance Corporation of India (**IFCI**), 1918, converted into a public company; **State Financial Corporations (SFCs)**, 1951; Industrial Development Bank of India (**IDBI**), 1954, converted into a bank; National Industrial Development Corporation (**NIDC**), 1954; Industrial Credit and Investment Corporation of India (**ICICI**), 1955, converted into a bank and privatised; Life Insurance Corporation of India (**LIC**), 1956; Unit Trust of India (**UTI**), 1964; Industrial Reconstruction Bank of India (**IRBI**), 1971. **International:** The World Bank / International Bank for Reconstruction and Development (**IBRD**), 1944; The International Finance Corporation (**IFC**), 1956; Asian Development Bank (**ADB**), 1966.",
+    "**Loans from commercial banks (§3.7).** The **primary role of commercial banks is to cater to the short-term requirements of industry**, but banks have started taking an interest in long-term financing in two ways: (a) they provide **long-term loans for expansion or setting up of new units**, repayment scheduled over a long period, the liquidity of such loans depending on the **anticipated income of the borrowers**; (b) as part of long-term funding they also fund the **long-term working capital requirement — the working capital term loan (WCTL)** — being that portion of working capital which is **always required (the minimum level) and is not impacted by seasonal requirement**.",
+    "==**Bridge finance** refers to loans taken by a company normally from commercial banks **for a short period because of pending disbursement of loans sanctioned by financial institutions**.== Though short-term in nature, it is an important step in facilitating the long-term loan, so the study material discusses it with long-term sources.",
+    "Normally it takes time for financial institutions to disburse loans. Once the loans are approved by the term lending institutions, companies, **in order not to lose further time in starting their projects**, arrange short-term loans from commercial banks.",
+    "**The bridge loans are repaid or adjusted out of the term loans as and when disbursed** by the concerned institutions. They are **normally secured by hypothecating movable assets, personal guarantees and demand promissory notes**. Generally, the **rate of interest on bridge finance is higher** than on term loans."
+   ],
+   "example": "A company's ₹50 crore term loan is sanctioned in March but will be released in July. It borrows ₹10 crore from its bank in April against hypothecation of plant and a promissory note, starts construction, and squares off the bank loan when the institution disburses.",
+   "provisions": [
+    {"ref": "Bridge finance (SM §3.7)", "status": "VERIFIED",
+     "requirement": "Short-term bank loan pending disbursement of a sanctioned institutional term loan; repaid out of the term loan; secured by hypothecation of movable assets, personal guarantees and demand promissory notes; interest higher than on term loans.",
+     "exam_angle": "'What are the key features of bridge financing?' — asked in May 2025 for 4 marks and again as a 2-mark MTP part."}
+   ],
+   "keywords": ["pending disbursement", "term lending institutions", "repaid or adjusted out of the term loans", "hypothecating movable assets", "demand promissory notes", "rate of interest is higher", "working capital term loan", "anticipated income of the borrowers"],
+   "memory": {
+    "trick": "Bridge finance is a **bridge over a gap in time**: the sanction is in hand, the money is not — so the bank fills the gap and gets repaid the day the institution pays.",
+    "key": [["Why", "Institutional loan sanctioned but not yet disbursed"], ["From", "Commercial banks, short period"], ["Repaid", "Out of the term loan on disbursement"], ["Security", "Hypothecation of movables, personal guarantee, demand promissory note"], ["Cost", "Higher than term-loan interest"]],
+    "recall_trigger": "Sanctioned but not disbursed"
+   },
+   "mistakes": ["Calling bridge finance a long-term source. It is short-term finance, discussed with long-term sources because it bridges to a term loan.", "Writing that bridge loans are cheaper than term loans; ICAI says the rate is generally higher."],
+   "links": ["🔗 FM Ch 9: bank finance for working capital", "🔗 FM Ch 2 §7: other short-term sources"],
+   "face_in_exam": {
+    "forms": ["Key features of bridge financing (4 marks)", "Explain bridge finance (2 marks)", "MCQ on which institution was established in which year"],
+    "approach": ["Give four numbered features: purpose, source, repayment, security, rate"],
+    "official_pattern": "PYQ-M25-Q4b; MTP-S26-S2-FQ4c-OR.",
+    "time_tip": "4 marks ≈ 7 minutes; 2 marks ≈ 3 minutes (study guidance)."
+   },
+   "write": {
+    "structure": ["One-line meaning with the words 'pending disbursement'", "Repayment out of the term loan", "Security", "Rate of interest"],
+    "keywords": ["pending disbursement", "hypothecating movable assets", "demand promissory notes"],
+    "length": "4 marks: four numbered points",
+    "conclusion": "Bridge finance buys time; it is repaid the moment the sanctioned term loan arrives.",
+    "avoid": ["Describing it as a permanent working capital facility"]
+   },
+   "official_questions": [
+    {"id": "PYQ-M25-Q4b", "marks": 4, "status": "VERIFIED",
+     "question": "What are the key features of bridge financing?",
+     "answer_points": [
+      "Bridge finance refers to loans taken by a company normally from commercial banks for a short period because of pending disbursement of loans sanctioned by financial institutions.",
+      "The bridge loans are repaid or adjusted out of the term loans as and when disbursed by the concerned institutions.",
+      "Bridge loans are normally secured by hypothecating movable assets, personal guarantees and demand promissory notes.",
+      "Generally, the rate of interest on bridge finance is higher as compared with that on term loans."
+     ],
+     "conclusion": "Four features, one mark each, in exactly this order.",
+     "keywords": ["pending disbursement", "repaid/adjusted out of the term loans", "demand promissory notes", "higher rate of interest"],
+     "also_asked_as": ["MTP-S26-S2-FQ4c-OR (explain bridge finance, 2 marks)"],
+     "examiner": "No examiners' comments have been published for Paper 6."}
+   ],
+   "expected_questions": [
+    {"id": "EQ-F02.13-1", "form": "Explain (4 marks)", "marks": 4,
+     "question": "\"The primary role of commercial banks is to cater to the short-term requirements of industry.\" Explain how commercial banks nevertheless participate in long-term financing.",
+     "answer_points": [
+      "Banks provide long-term loans for the purpose of expansion or setting up of new units; repayment is usually scheduled over a long period of time and the liquidity of such loans depends on the anticipated income of the borrowers.",
+      "As part of long-term funding, banks also fund the long-term working capital requirement, called the working capital term loan (WCTL).",
+      "WCTL funds that portion of working capital which is always required — the minimum level — and is not impacted by the seasonal requirement of the company.",
+      "Banks also extend bridge finance for a short period pending disbursement of loans sanctioned by financial institutions; it is repaid out of the term loan when disbursed."
+     ],
+     "keywords": ["working capital term loan", "minimum level", "anticipated income of the borrowers"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F02.13-01", "angle": "Identify", "difficulty": "Easy",
+     "question": "A company whose term loan has been sanctioned by a financial institution but not yet disbursed takes a short-term loan from its bank to start the project. This is:",
+     "options": {"A": "Bridge finance", "B": "Packing credit", "C": "Seed capital assistance", "D": "A deferred payment guarantee"},
+     "answer": "A",
+     "explanation": "SM §3.7: bridge finance is taken from commercial banks for a short period because of pending disbursement of loans sanctioned by financial institutions.",
+     "why_wrong": {"B": "Packing credit is pre-shipment export finance.", "C": "An IDBI scheme for technically qualified entrepreneurs lacking resources.", "D": "A guarantee for deferred payment of equipment purchases."},
+     "trap": "Any short-term bank loan looks like bridge finance; the giveaway is the pending institutional disbursement.",
+     "concept": "F02.13"},
+    {"id": "MCQ-F02.13-02", "angle": "Feature", "difficulty": "Moderate",
+     "question": "Which statement about bridge finance is correct as per the study material?",
+     "options": {"A": "It is unsecured and interest free", "B": "The rate of interest on bridge finance is generally higher than that on term loans", "C": "It is repaid only out of the company's operating profits", "D": "It is a long-term source repayable over ten years"},
+     "answer": "B",
+     "explanation": "SM §3.7: generally the rate of interest on bridge finance is higher as compared with that on term loans.",
+     "why_wrong": {"A": "It is secured by hypothecation, guarantees and promissory notes.", "C": "It is repaid or adjusted out of the term loan on disbursement.", "D": "It is short-term finance."},
+     "trap": "Because it is discussed under long-term sources, students call it long term.",
+     "concept": "F02.13"}
+   ],
+   "recap": ["Financial institutions: IFCI 1918, SFCs 1951, IDBI 1954, NIDC 1954, ICICI 1955, LIC 1956, UTI 1964, IRBI 1971; IBRD 1944, IFC 1956, ADB 1966.", "Banks fund long-term projects and the working capital term loan.", "Bridge finance: short bank loan pending institutional disbursement, secured, costlier, repaid out of the term loan."]
+  },
+  {
+   "code": "F02.14 + F02.15 + F02.16 + F02.17",
+   "title": "4. Venture Capital Financing: Meaning, Characteristics and Methods",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "RTP 1 (May 2025) · MTP 3 (Mar 2024, Sep 2025, Jan 2026)",
+   "understand": [
+    "**Meaning (§4.1).** ==Venture capital financing refers to financing of a **new high-risky venture** promoted by **qualified entrepreneurs who lack experience and funds** to give shape to their ideas.== In a broad sense, under venture capital financing, **venture capitalists make investment to purchase equity or debt securities from inexperienced entrepreneurs who undertake highly risky ventures with potential to succeed in future**.",
+    "**Characteristics (§4.2).** (i) It is **basically an equity finance in new companies**. (ii) It can be viewed as a **long-term investment in growth-oriented small or medium firms**. (iii) Apart from providing funds, the investor also **provides support in the form of sales strategy, business networking and management expertise**, enabling the growth of the entrepreneur.",
+    "**Methods (§4.3) — four methods.** **(i) Equity financing:** venture capital undertakings generally require funds for a longer period but may not be able to provide returns to investors during the initial stages, so venture capital finance is generally provided by way of **equity share capital**. ==The equity contribution of the venture capital firm **does not exceed 49% of the total equity capital** of the venture capital undertaking, so that the effective control and ownership remains with the entrepreneur.==",
+    "**(ii) Conditional loan:** repayable in the form of a **royalty after the venture is able to generate sales**. **No interest is paid** on such loans. In India venture capital financiers charge **royalty ranging between 2 and 15 per cent**; the actual rate depends on other factors such as gestation period, cash flow patterns, risk and other factors of the enterprise. Some financiers give the enterprise a **choice of paying a high rate of interest (which could be well above 20 per cent) instead of royalty on sales** once it becomes commercially sound.",
+    "**(iii) Income note:** a **hybrid security combining the features of both a conventional loan and a conditional loan**. The entrepreneur has to pay **both interest and royalty on sales, but at substantially low rates**. IDBI's VCF provides funding equal to **80 – 87.50% of the project cost** for commercial application of indigenous technology.",
+    "**(iv) Participating debenture:** such security **carries charges in three phases** — in the **start-up phase no interest is charged**; in the **next stage a low rate of interest is charged up to a particular level of operation**; **after that, a high rate of interest is required to be paid**."
+   ],
+   "example": "A venture fund puts ₹4 crore into a start-up's ₹10 crore equity (40%, within the 49% cap), takes a board seat and helps build the sales network — exactly the SM's third characteristic.",
+   "provisions": [
+    {"ref": "49% cap (SM §4.3)", "status": "VERIFIED",
+     "requirement": "The venture capital firm's equity contribution does not exceed 49% of the total equity capital of the venture capital undertaking, so that effective control and ownership remains with the entrepreneur.",
+     "exam_angle": "A favourite MCQ number and a mark in the descriptive answer."},
+    {"ref": "Conditional loan royalty (SM §4.3)", "status": "VERIFIED",
+     "requirement": "Royalty between 2 and 15 per cent; no interest; alternative of interest well above 20 per cent instead of royalty.",
+     "exam_angle": "The numbers 2–15% and 20% are the marks in this part."}
+   ],
+   "keywords": ["new high-risky venture", "qualified entrepreneurs who lack experience and funds", "equity finance in new companies", "growth-oriented small/medium firms", "sales strategy, business networking and management expertise", "does not exceed 49%", "conditional loan", "royalty", "income note", "hybrid security", "participating debenture", "three phases"],
+   "memory": {
+    "trick": "Methods = **\"E-C-I-P\"**: Equity, Conditional loan, Income note, Participating debenture — increasing in how much the entrepreneur pays.",
+    "key": [["Equity financing", "Up to 49% of equity; control stays with the entrepreneur"], ["Conditional loan", "Royalty 2–15% on sales, no interest (or interest above 20% instead)"], ["Income note", "Hybrid: both interest and royalty, at low rates"], ["Participating debenture", "Three phases: nil interest → low interest → high interest"]],
+    "recall_trigger": "E-C-I-P"
+   },
+   "mistakes": ["Saying the venture capitalist takes a majority stake. The equity contribution does not exceed 49%.", "Saying a conditional loan carries interest. It carries royalty; no interest is paid.", "Describing the participating debenture as having two phases; it has three."],
+   "compare": {"title": "Conditional loan vs income note vs participating debenture", "headers": ["Basis", "Conditional loan", "Income note", "Participating debenture"], "rows": [["Interest", "None", "Payable, at a low rate", "Nil, then low, then high"], ["Royalty", "2–15% on sales", "Payable, at a low rate", "Not applicable"], ["Nature", "Repayable out of sales", "Hybrid of conventional and conditional loan", "Charges in three phases"]]},
+   "links": ["🔗 FM Ch 1 §2.1: financing decision and the choice of source", "🔗 FM Ch 2 §8: seed capital assistance, another start-up source"],
+   "face_in_exam": {
+    "forms": ["Explain any four methods of venture capital financing (4 marks)", "Meaning and characteristics of venture capital financing (2 marks)"],
+    "approach": ["Bold the method name, then two lines including the number (49%, 2–15%, above 20%, 80–87.50%)", "For characteristics, three bullets are enough"],
+    "official_pattern": "MTP-M24-S1-FQ4b; MTP-J26-S1-FQ4b; RTP-M25-FQ10b; MTP-S25-S1-FQ2b.",
+    "time_tip": "4 marks ≈ 7 minutes; 2 marks ≈ 3 minutes (study guidance)."
+   },
+   "write": {
+    "structure": ["One-line meaning", "Four methods, each named in bold with its distinguishing payment", "Close with the control point (49%)"],
+    "keywords": ["does not exceed 49%", "royalty", "hybrid security", "three phases"],
+    "length": "4 marks: four methods, 3 lines each",
+    "conclusion": "Each method trades a different kind of return for the venture's risk, while leaving control with the entrepreneur.",
+    "avoid": ["Adding exit routes or SEBI rules that the study material does not give here"]
+   },
+   "official_questions": [
+    {"id": "MTP-M24-S1-FQ4b", "marks": 4, "status": "VERIFIED",
+     "question": "Explain the common methods of venture capital financing.",
+     "answer_points": [
+      "**Equity financing:** venture capital undertakings generally require funds for a longer period but may not be able to provide returns to the investors during the initial stages; therefore venture capital finance is generally provided by way of equity share capital. The equity contribution of the venture capital firm does not exceed 49% of the total equity capital of the venture capital undertaking, so that the effective control and ownership remains with the entrepreneur.",
+      "**Conditional loan:** repayable in the form of a royalty after the venture is able to generate sales; no interest is paid on such loans. In India venture capital financiers charge royalty ranging between 2 and 15 per cent, the actual rate depending on the gestation period, cash flow patterns, risk and other factors of the enterprise. Some financiers give the enterprise a choice of paying a high rate of interest (well above 20 per cent) instead of royalty on sales once it becomes commercially sound.",
+      "**Income note:** a hybrid security which combines the features of both a conventional loan and a conditional loan; the entrepreneur has to pay both interest and royalty on sales but at substantially low rates. IDBI's VCF provides funding equal to 80–87.50% of the project cost for commercial application of indigenous technology.",
+      "**Participating debenture:** such security carries charges in three phases — in the start-up phase no interest is charged; in the next stage a low rate of interest is charged up to a particular level of operation; after that, a high rate of interest is required to be paid."
+     ],
+     "conclusion": "All four methods with their numbers; the numbers carry the marks.",
+     "keywords": ["49%", "2 and 15 per cent", "hybrid security", "three phases"],
+     "also_asked_as": ["MTP-J26-S1-FQ4b (same four methods)", "RTP-M25-FQ10b (methods of venture capital financing)"]},
+    {"id": "MTP-S25-S1-FQ2b", "marks": 2, "status": "VERIFIED",
+     "question": "State the characteristics of venture capital financing.",
+     "answer_points": [
+      "Venture capital financing refers to financing of a new high-risky venture promoted by qualified entrepreneurs who lack experience and funds to give shape to their ideas; venture capitalists make investment to purchase equity or debt securities from inexperienced entrepreneurs who undertake highly risky ventures with potential to succeed in future.",
+      "It is basically an equity finance in new companies.",
+      "It can be viewed as a long-term investment in growth-oriented small or medium firms.",
+      "Apart from providing funds, the investor also provides support in the form of sales strategy, business networking and management expertise, enabling the growth of the entrepreneur."
+     ],
+     "conclusion": "Three characteristics after a one-line meaning.",
+     "keywords": ["equity finance in new companies", "growth-oriented", "business networking and management expertise"]}
+   ],
+   "expected_questions": [
+    {"id": "EQ-F02.17-1", "form": "Distinguish (4 marks)", "marks": 4,
+     "question": "Distinguish between a conditional loan, an income note and a participating debenture as methods of venture capital financing.",
+     "answer_points": [
+      "A conditional loan is repayable in the form of a royalty after the venture is able to generate sales; no interest is paid. In India venture capital financiers charge royalty ranging between 2 and 15 per cent; some give the enterprise the choice of paying a high rate of interest, well above 20 per cent, instead of royalty once it becomes commercially sound.",
+      "An income note is a hybrid security which combines the features of both a conventional loan and a conditional loan: the entrepreneur has to pay both interest and royalty on sales, but at substantially low rates.",
+      "A participating debenture carries charges in three phases: in the start-up phase no interest is charged; in the next stage a low rate of interest is charged up to a particular level of operation; after that, a high rate of interest is required to be paid.",
+      "In short, the conditional loan charges only royalty, the income note charges both at low rates, and the participating debenture charges interest that rises with the venture's progress."
+     ],
+     "keywords": ["royalty", "hybrid security", "three phases"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F02.17-01", "angle": "Number", "difficulty": "Easy",
+     "question": "Under equity financing by a venture capital firm, the equity contribution of the venture capital firm does not exceed:",
+     "options": {"A": "26% of the total equity capital", "B": "51% of the total equity capital", "C": "49% of the total equity capital", "D": "74% of the total equity capital"},
+     "answer": "C",
+     "explanation": "SM §4.3: the equity contribution does not exceed 49% of the total equity capital, so that effective control and ownership remains with the entrepreneur.",
+     "why_wrong": {"A": "Not the study material's figure.", "B": "That would pass control to the venture capitalist.", "D": "Not the study material's figure."},
+     "trap": "51% and 49% look alike; the point is that control stays with the entrepreneur.",
+     "concept": "F02.17"},
+    {"id": "MCQ-F02.17-02", "angle": "Identify", "difficulty": "Moderate",
+     "question": "A security under which no interest is charged in the start-up phase, a low rate is charged up to a particular level of operation and a high rate thereafter is a:",
+     "options": {"A": "Conditional loan", "B": "Income note", "C": "Cumulative convertible preference share", "D": "Participating debenture"},
+     "answer": "D",
+     "explanation": "SM §4.3: a participating debenture carries charges in three phases exactly in this pattern.",
+     "why_wrong": {"A": "Carries royalty on sales, not phased interest.", "B": "Carries both interest and royalty at low rates.", "C": "Carries a cumulative dividend and converts into equity."},
+     "trap": "The income note also mixes payments, but it does not phase the rate.",
+     "concept": "F02.17"}
+   ],
+   "recap": ["Venture capital = equity finance in a new, high-risk venture run by entrepreneurs short of funds and experience.", "Three characteristics: equity in new companies, long-term in growth-oriented small or medium firms, plus strategy and networking support.", "Four methods: equity (≤49%), conditional loan (royalty 2–15%), income note (hybrid), participating debenture (three phases)."]
+  },
+  {
+   "code": "F02.18",
+   "title": "5. Debt Securitisation",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "MTP 2 (May 2025 Series I, Sep 2026 Series I)",
+   "understand": [
+    "==**Securitisation is a process in which illiquid assets are pooled into marketable securities that can be sold to investors.**== The process leads to the creation of financial instruments that **represent ownership interest in, or are secured by, a segregated income-producing asset or pool of assets**. These assets are **generally secured by personal or real property such as automobiles, real estate or equipment loans, but in some cases are unsecured**.",
+    "**The study material's example.** A finance company has given a large number of car loans and needs more money to give further loans. One way would be to sell all the existing loans, but **in the absence of a liquid secondary market for individual car loans this is not feasible**. The practical option is debt securitisation: the finance company **sells its existing car loans to a Special Purpose Vehicle (SPV)**; the SPV pays the company, which continues to lend with this money, and the SPV **pools these loans and converts them into marketable securities** issued to investors.",
+    "So the process helps the finance company **raise funds and get the loans off its balance sheet**, and the funds help it disburse further loans. It also benefits investors by creating a **liquid investment in a diversified pool of car loans**, an attractive option compared with other fixed-income instruments. The whole process is carried out in such a way that the **original debtors may not be aware of the transaction** — they continue making payments as before, but these payments now go to the new investors.",
+    "**The three-step process ICAI expects in the answer.** **(i) The origination function** — a borrower seeks a loan from a finance company or bank; the creditworthiness of the borrower is evaluated and a contract is entered into with a repayment schedule structured over the life of the loan. **(ii) The pooling function** — similar loans or receivables are clubbed together to create an underlying pool of assets; the pool is **transferred in favour of the Special Purpose Vehicle (SPV), which acts as a trustee for investors**. **(iii) The securitisation function** — the SPV structures and issues securities on the basis of the asset pool; the securities carry a **coupon and expected maturity** and can be **asset-based or mortgage-based**; they are generally sold to investors through **merchant bankers**, the investors being **pension funds, mutual funds and insurance funds**.",
+    "==The process of securitisation is generally **without recourse**: investors bear the credit risk, and the issuer is under an obligation to pay investors **only if the cash flows are received by him from the collateral**.== The benefit to the originator is that **assets are shifted off the balance sheet**, giving the originator recourse to **off-balance-sheet funding**.",
+    "Debt securitisation is also described as a **method of recycling of funds**, especially beneficial to **financial intermediaries to support lending volumes**: assets generating steady cash flows are packaged together and market securities are issued against the asset pool — for example **housing finance, auto loans and credit card receivables**."
+   ],
+   "example": "A housing finance company pools ₹500 crore of home loans, transfers them to an SPV, and the SPV issues mortgage-backed securities to a pension fund. The company gets ₹500 crore back to lend again; the borrowers keep paying their EMIs, now for the investors.",
+   "provisions": [
+    {"ref": "Without recourse (SM §5)", "status": "VERIFIED",
+     "requirement": "Investors bear the credit risk; the issuer pays investors only if the cash flows are received from the collateral; assets move off the originator's balance sheet.",
+     "exam_angle": "The closing lines of every ICAI answer on this topic; worth a full mark."}
+   ],
+   "keywords": ["illiquid assets", "marketable securities", "recycling of funds", "origination function", "pooling function", "securitisation function", "Special Purpose Vehicle", "trustee for investors", "asset-based/mortgage based", "merchant bankers", "without recourse", "off-balance sheet funding"],
+   "memory": {
+    "trick": "**O-P-S**: **O**riginate the loan → **P**ool it and pass it to the SPV → **S**ecuritise and sell to investors.",
+    "key": [["Origination", "Loan made after credit appraisal, with a repayment schedule"], ["Pooling", "Similar receivables clubbed; pool transferred to the SPV as trustee"], ["Securitisation", "SPV issues coupon-bearing securities through merchant bankers"], ["Without recourse", "Investors bear the credit risk"], ["Benefit", "Assets off the balance sheet; funds recycled"]],
+    "recall_trigger": "O-P-S, without recourse"
+   },
+   "mistakes": ["Saying the originator guarantees repayment. The process is generally without recourse.", "Forgetting to name the SPV as trustee for investors; the SPV is the mark-earning word.", "Writing that the borrowers are informed; the study material says they may not be aware of the transaction."],
+   "links": ["🔗 FM Ch 9: receivables management and factoring, another way of monetising receivables", "🔗 FM Ch 2 §3.5: asset-backed and mortgage-backed bonds"],
+   "face_in_exam": {
+    "forms": ["Explain debt securitisation and its process (4 marks)", "Short note on the role of the SPV"],
+    "approach": ["One-line meaning, then the three functions numbered, then the 'without recourse' and off-balance-sheet lines"],
+    "official_pattern": "MTP-M25-S1-FQ4b; MTP-S26-S1-FQ4a.",
+    "time_tip": "4 marks ≈ 7 minutes (study guidance)."
+   },
+   "write": {
+    "structure": ["Meaning: illiquid assets pooled into marketable securities", "Origination → pooling → securitisation", "Without recourse; investors bear credit risk", "Benefit to the originator: off-balance-sheet funding"],
+    "keywords": ["Special Purpose Vehicle", "without recourse", "off-balance sheet funding"],
+    "length": "4 marks: meaning plus three functions plus two closing lines",
+    "conclusion": "Securitisation converts a frozen loan book into cash without waiting for the loans to run off.",
+    "avoid": ["Inventing regulatory requirements or rating norms that the study material does not state"]
+   },
+   "official_questions": [
+    {"id": "MTP-M25-S1-FQ4b", "marks": 4, "status": "VERIFIED",
+     "question": "Explain debt securitisation and describe its process.",
+     "answer_points": [
+      "**Debt securitisation** is a method of recycling of funds. It is especially beneficial to financial intermediaries to support the lending volumes. Assets generating steady cash flows are packaged together and, against this asset pool, market securities can be issued — for example housing finance, auto loans and credit card receivables.",
+      "**(i) The origination function:** a borrower seeks a loan from a finance company or bank; the creditworthiness of the borrower is evaluated and a contract is entered into with a repayment schedule structured over the life of the loan.",
+      "**(ii) The pooling function:** similar loans or receivables are clubbed together to create an underlying pool of assets; the pool is transferred in favour of the Special Purpose Vehicle (SPV), which acts as a trustee for investors.",
+      "**(iii) The securitisation function:** the SPV will structure and issue securities on the basis of the asset pool; the securities carry a coupon and expected maturity and can be asset-based or mortgage-based, and are generally sold to investors through merchant bankers. Investors are pension funds, mutual funds and insurance funds.",
+      "The process of securitisation is generally without recourse, i.e. investors bear the credit risk and the issuer is under an obligation to pay investors only if the cash flows are received by him from the collateral. The benefit to the originator is that assets are shifted off the balance sheet, giving the originator recourse to off-balance-sheet funding."
+     ],
+     "conclusion": "Meaning, three functions and the without-recourse close — that is the full 4 marks.",
+     "keywords": ["recycling of funds", "Special Purpose Vehicle", "without recourse", "off-balance sheet funding"],
+     "also_asked_as": ["MTP-S26-S1-FQ4a (debt securitisation and its process)"]}
+   ],
+   "expected_questions": [
+    {"id": "EQ-F02.18-1", "form": "Explain with an example (4 marks)", "marks": 4,
+     "question": "A finance company with a large portfolio of car loans needs funds to lend further, but there is no liquid secondary market for individual car loans. Explain how debt securitisation solves its problem and who bears the risk.",
+     "answer_points": [
+      "Securitisation is a process in which illiquid assets are pooled into marketable securities that can be sold to investors, creating instruments that represent ownership interest in, or are secured by, a segregated income-producing pool of assets.",
+      "The finance company sells its existing car loans to a Special Purpose Vehicle; the SPV pays the company, which continues to lend with this money, and the SPV pools the loans and converts them into marketable securities issued to investors.",
+      "The company thus raises funds and gets the loans off its balance sheet, obtaining off-balance-sheet funding; investors get a liquid investment in a diversified pool of car loans, an attractive alternative to other fixed-income instruments.",
+      "The original borrowers may not even be aware of the transaction; they continue making payments as before, which now flow to the new investors.",
+      "The process is generally without recourse, so the investors bear the credit risk; the issuer is obliged to pay investors only if the cash flows are received from the collateral."
+     ],
+     "keywords": ["illiquid assets", "Special Purpose Vehicle", "without recourse"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F02.18-01", "angle": "Role", "difficulty": "Easy",
+     "question": "In the process of debt securitisation, the pool of assets is transferred in favour of:",
+     "options": {"A": "A Special Purpose Vehicle, which acts as a trustee for investors", "B": "The credit rating agency", "C": "The original borrowers", "D": "The merchant banker, who becomes the legal owner"},
+     "answer": "A",
+     "explanation": "SM §5: in the pooling function the pool is transferred in favour of the SPV, which acts as a trustee for investors.",
+     "why_wrong": {"B": "The rating agency rates the issue; it does not hold the pool.", "C": "The borrowers keep repaying; they receive nothing.", "D": "Merchant bankers sell the securities to investors."},
+     "trap": "Merchant bankers appear in the same sentence but only distribute the securities.",
+     "concept": "F02.18"},
+    {"id": "MCQ-F02.18-02", "angle": "Risk", "difficulty": "Moderate",
+     "question": "Because the process of securitisation is generally 'without recourse':",
+     "options": {"A": "The originator guarantees repayment of the securities", "B": "The SPV must repay investors from its own funds", "C": "Investors bear the credit risk and are paid only if cash flows are received from the collateral", "D": "The borrowers can refuse to repay the loans"},
+     "answer": "C",
+     "explanation": "SM §5: investors bear the credit risk and the issuer is under an obligation to pay investors only if the cash flows are received from the collateral.",
+     "why_wrong": {"A": "There is no recourse to the originator.", "B": "The SPV pays out of collections, not its own funds.", "D": "The borrowers' obligation is unchanged."},
+     "trap": "'Without recourse' sounds like a protection for investors; it is the opposite.",
+     "concept": "F02.18"}
+   ],
+   "recap": ["Securitisation pools illiquid assets into marketable securities.", "Three functions: origination, pooling (to the SPV as trustee), securitisation (coupon-bearing, asset- or mortgage-backed, sold via merchant bankers).", "Generally without recourse: investors bear the credit risk; the originator gets off-balance-sheet funding."]
+  },
+  {
+   "code": "F02.19 + F02.20",
+   "title": "6–6.1 Lease Financing: Operating and Financial Leases",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "RTP 1 (May 2026, numerical) · SM theoretical question",
+   "understand": [
+    "**Meaning (§6).** ==Leasing is a **general contract between the owner and the user of the asset over a specified period of time**.== The asset is **purchased initially by the lessor (leasing company)** and thereafter **leased to the user (lessee company)**, which pays a **specified rent at periodical intervals**. Leasing is an **alternative to the purchase of an asset out of own or borrowed funds**. Moreover, **lease finance can be arranged much faster than term loans from financial institutions**.",
+    "**Two broad categories (§6.1): (a) operating lease and (b) financial lease.**",
+    "**(a) Operating lease.** The **right to use the asset is given by the lessor to the lessee**, but the **ownership right remains with the lessor**. The lessee gives a **fixed amount of periodic lease rentals**. The **lessor bears the insurance, maintenance and repair costs** of the asset. The **lease period is short**, so the lessor **may not be able to recover the cost of the asset during the initial lease period and tends to lease the asset to more than one lessee**. Normally these are **callable leases and are cancellable with proper notice**. The **term is shorter than the asset's economic life**; the lessee is obliged to make payment until lease expiration, which approaches the useful life of the asset. It is particularly attractive to companies that **continually update or replace equipment** and want to use equipment without ownership, returning it at lease end and **avoiding technological obsolescence**.",
+    "**(b) Financial lease.** In contrast, a financial lease is **long term in nature and non-cancellable** — the lessee cannot terminate the lease agreement subsequently — so the **period of lease is generally the full economic life of the leased asset**. It can be regarded as **any leasing arrangement that is to finance the use of equipment for the major part of its useful life**. The **lessee has the right to use the equipment while the lessor retains legal title**, and the **lessee has to bear the insurance, maintenance and other related costs**. It is **also called a capital lease, which is nothing but a loan in disguise**. A financial lease is a **contract involving payments over an obligatory period of specified sums sufficient in total to amortise the capital outlay of the lessor and give some profit**.",
+    "**The SM's five-point comparison.** (1) In a financial lease the **risk and reward incident to ownership pass to the lessee**, the lessor remaining only the legal owner; in an operating lease the lessee is only provided the use of the asset and **risk incident to ownership belongs wholly to the lessor**. (2) In a financial lease the **lessee bears the risk of obsolescence**; in an operating lease the **lessor** bears it. (3) In a financial lease the lessor is **interested in his rentals and not in the asset** — he must get his principal back with interest — so the lease is **non-cancellable by either party**; in an operating lease the lessor has no difficulty leasing the same asset to another willing lessee, so the lease is **kept cancellable by the lessor**. (4) In a financial lease the lessor **enters into the transaction only as financier** and **does not bear the cost of repairs, maintenance or operations**; in an operating lease **usually the lessor bears** those costs. (5) A financial lease is **usually full payout** — the single lease repays the cost of the asset together with interest; an operating lease is **usually non-payout**, since the lessor expects to lease the same asset over and over again to several users."
+   ],
+   "example": "A printer taken for two years with the vendor servicing it and the option to return it early is an operating lease; a machine taken for its whole ten-year life on a non-cancellable contract, with the user paying insurance and repairs, is a financial lease.",
+   "provisions": [
+    {"ref": "Financial lease (SM §6.1)", "status": "VERIFIED",
+     "requirement": "Long term, non-cancellable, generally the full economic life, lessee bears insurance and maintenance, full payout; also called a capital lease.",
+     "exam_angle": "The comparison table is the standard 4-mark answer and a frequent MCQ."}
+   ],
+   "keywords": ["lessor", "lessee", "alternative to purchase", "arranged much faster", "operating lease", "callable", "cancellable with proper notice", "financial lease", "non-cancelable", "capital lease", "loan in disguise", "full payout", "non-payout", "risk of obsolescence"],
+   "memory": {
+    "trick": "**\"Finance = Forever, Operating = Optional\"**: a financial lease runs the asset's life and cannot be cancelled; an operating lease is short and cancellable.",
+    "key": [["Risk and reward", "Financial: to lessee · Operating: with lessor"], ["Obsolescence", "Financial: lessee · Operating: lessor"], ["Cancellation", "Financial: non-cancellable · Operating: cancellable by lessor"], ["Repairs", "Financial: lessee · Operating: lessor"], ["Payout", "Financial: full payout · Operating: non-payout"]],
+    "recall_trigger": "Finance Forever, Operating Optional"
+   },
+   "mistakes": ["Saying an operating lease is non-cancellable; it is normally callable and cancellable with proper notice.", "Giving the lessor the maintenance cost in a financial lease; there the lessee bears it.", "Calling a financial lease 'full payout' but then saying the lessor leases the asset again; a full payout lease recovers the cost in one lease."],
+   "compare": {"title": "Financial lease vs operating lease (SM §6.1 table)", "headers": ["Basis", "Financial lease", "Operating lease"], "rows": [["Risk and reward of ownership", "Passed on to the lessee; the lessor remains only the legal owner", "Only the use of the asset is given; risk belongs wholly to the lessor"], ["Obsolescence", "Borne by the lessee", "Borne by the lessor"], ["Cancellation", "Non-cancellable by either party; the lessor wants principal plus interest back", "Kept cancellable by the lessor, who can lease the asset to another"], ["Repairs and maintenance", "Lessor is only a financier and does not bear these costs", "Usually borne by the lessor"], ["Recovery", "Usually full payout: one lease repays cost plus interest", "Usually non-payout: the asset is leased again and again"]]},
+   "links": ["🔗 FM Ch 2 §6.2: sale and lease back, leveraged, sales-aid, close-ended and open-ended leases", "🔗 FM Ch 3: evaluating a lease against a buy decision using discounted cash flows"],
+   "face_in_exam": {
+    "forms": ["Distinguish between a financial lease and an operating lease (4 marks)", "MCQ on who bears obsolescence or maintenance", "Occasionally a lease-rental computation (RTP May 2026)"],
+    "approach": ["Answer as a table with five bases; ICAI's own answer is a table"],
+    "official_pattern": "RTP-M26-FQ8 set a lease-rental computation; the comparison itself is an SM theoretical question.",
+    "time_tip": "4 marks ≈ 7 minutes (study guidance)."
+   },
+   "write": {
+    "structure": ["One line on what leasing is", "Five-row comparison table", "Close with which suits which user"],
+    "keywords": ["non-cancelable", "full payout", "risk of obsolescence"],
+    "length": "4 marks: a five-row table",
+    "conclusion": "An operating lease buys flexibility; a financial lease buys the asset in instalments.",
+    "avoid": ["Bringing in accounting-standard classification rules; the study material tests the finance view"]
+   },
+   "expected_questions": [
+    {"id": "EQ-F02.20-1", "form": "Distinguish (4 marks)", "marks": 4,
+     "question": "Distinguish between a financial lease and an operating lease.",
+     "answer_points": [
+      "In a financial lease the risk and reward incident to ownership are passed on to the lessee, the lessor remaining only the legal owner; in an operating lease the lessee is only provided the use of the asset and risk incident to ownership belongs wholly to the lessor.",
+      "The lessee bears the risk of obsolescence in a financial lease; the lessor bears it in an operating lease.",
+      "In a financial lease the lessor is interested in his rentals and not in the asset — he must get his principal back with interest — so the lease is non-cancellable by either party; in an operating lease the lessor has no difficulty in leasing the same asset to another willing lessee, so the lease is kept cancellable by the lessor.",
+      "In a financial lease the lessor enters into the transaction only as a financier and does not bear the cost of repairs, maintenance or operations; in an operating lease the lessor usually bears these costs.",
+      "A financial lease is usually full payout — the single lease repays the cost of the asset together with interest; an operating lease is usually non-payout, since the lessor expects to lease the same asset over and over again to several users."
+     ],
+     "keywords": ["risk and reward incident to ownership", "non-cancelable", "full payout", "non-payout"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F02.20-01", "angle": "Identify", "difficulty": "Easy",
+     "question": "A lease that is long term and non-cancellable, generally running for the full economic life of the asset, and is also called a capital lease, is:",
+     "options": {"A": "An operating lease", "B": "A financial lease", "C": "A sales-aid lease", "D": "An open-ended lease"},
+     "answer": "B",
+     "explanation": "SM §6.1: a financial lease is long term and non-cancellable, generally for the full economic life; it is also called a capital lease, which is nothing but a loan in disguise.",
+     "why_wrong": {"A": "Short, cancellable with proper notice.", "C": "The lessor ties up with a manufacturer to market its product.", "D": "The lessee has the option to purchase the asset at the end."},
+     "trap": "'Capital lease' is the alternative name for the financial lease.",
+     "concept": "F02.20"},
+    {"id": "MCQ-F02.20-02", "angle": "Who bears", "difficulty": "Moderate",
+     "question": "In an operating lease, the insurance, maintenance and repair costs of the asset are borne by:",
+     "options": {"A": "The lessee, who has the right to use the asset", "B": "The bank that funded the lessor", "C": "The equipment supplier under warranty", "D": "The lessor, who also bears the risk of obsolescence"},
+     "answer": "D",
+     "explanation": "SM §6.1: in an operating lease the lessor bears the insurance, maintenance and repair costs, and risk incident to ownership, including obsolescence, belongs wholly to the lessor.",
+     "why_wrong": {"A": "That is the financial lease position.", "B": "The funder's role appears in a leveraged lease, not here.", "C": "The study material does not place the cost on the supplier."},
+     "trap": "The two leases reverse who bears cost and obsolescence; learn them as a pair.",
+     "concept": "F02.20"}
+   ],
+   "recap": ["Leasing: lessor buys, lessee uses and pays rentals; faster to arrange than a term loan.", "Operating lease: short, cancellable, lessor bears maintenance and obsolescence, non-payout.", "Financial lease: long, non-cancellable, lessee bears maintenance and obsolescence, full payout, a loan in disguise."]
+  }
+ ]
+}

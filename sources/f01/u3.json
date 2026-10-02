@@ -1,0 +1,380 @@
+{
+ "concepts": [
+  {
+   "code": "F01.09 + F01.09.01",
+   "title": "9. Role of Finance Executive (Today vis-a-vis the Past)",
+   "activity": "Medium",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "RTP 1 (Jan 2025) · MTP 1 (Aug 2024)",
+   "understand": [
+    "Modern FM has come a long way from traditional corporate finance. As the economy opens up and global resources are tapped, **opportunities for finance managers have virtually no limits**. A new era has begun for **chief financial officers (CFOs)**; the finance executive goes by different names in different organisations, but the **role and functions are similar**. The role is significant in the present context of **liberalisation, deregulation and globalisation**.",
+    "**Changing role (Jeff Thomson, IMA President and CEO):** \"Today's CFO team is expected to add value well beyond the traditional roles of **cost management, controls and acting as the conscience of the organisation**... today's CFO is expected to work in collaboration, by serving as the **integration hub for key business processes**, as a **catalyst for change** including business transformation, and as a **consultant or trusted business advisor** in helping to create sustainable growth.\"",
+    "==The finance executive plays an important role in the company's goals, policies and financial success.== Responsibilities: **(a) Financial analysis and planning** — determining the proper amount of funds to employ, i.e. designating the **size of the firm and its rate of growth**; **(b) Investment decisions** — efficient **allocation of funds to specific assets**; **(c) Financing and capital structure decisions** — raising funds on favourable terms, i.e. determining the **composition of liabilities**; **(d) Management of financial resources** (such as working capital); **(e) Risk management** — **protecting assets**.",
+    "**Organisation of the finance function (SM figure):** the **CFO/Finance Executive** heads two wings. **Treasurer**: Cash Manager, Credit Manager, Capital Budgeting Manager, Fund Raising Manager, Portfolio Manager. **Controller**: Financial Accounting Manager, Cost Accounting Manager, Tax Manager, Data Processing Manager, Internal Auditor.",
+    "**Today vs the past (§9.1).** ==The CFO's role is no longer confined to accounting, financial reporting and risk management; it is about being a strategic business partner of the CEO.==",
+    "**What a CFO used to do:** budgeting; forecasting; accounting; treasury (cash management); preparing internal financial reports for management; preparing quarterly and annual filings for investors; tax filing; tracking accounts payable and receivable; travel and entertainment expense management.",
+    "**What a CFO now does:** budgeting; forecasting; **managing M&As**; **profitability analysis** (e.g. by customer or product); **pricing analysis**; **decisions about outsourcing**; **overseeing the IT function**; **overseeing the HR function**; **strategic planning** (sometimes overseeing it); **regulatory compliance**; **risk management**.",
+    "**Supplementary (ICAI RTP Jan 2025, not in the current study material):** emerging issues affecting the CFO's future role are regulation, globalisation, technology (big data and analytics), risk, transformation, stakeholder management, strategy, reporting, and talent and capability. Learn the SM list first; use this list only if a question asks about the future role."
+   ],
+   "example": "A CFO who, besides preparing budgets, now evaluates a takeover target, analyses profitability by product line and oversees the IT and HR functions is acting as a strategic business partner of the CEO.",
+   "provisions": [
+    {"ref": "Five responsibilities of a finance executive (SM §9)", "status": "VERIFIED",
+     "requirement": "(a) financial analysis and planning; (b) investment decisions; (c) financing and capital structure decisions; (d) management of financial resources; (e) risk management.",
+     "exam_angle": "MTP Aug 2024 asked 'discuss the role of a chief financial officer' for 2 marks; ICAI answered with these five points."}
+   ],
+   "keywords": ["strategic business partner of the CEO", "integration hub", "catalyst for change", "financial analysis and planning", "composition of liabilities", "risk management: protecting assets", "Treasurer", "Controller"],
+   "memory": {
+    "trick": "\"A-I-F-M-R\" = \"All Intelligent Finance Managers Rule\": Analysis & planning, Investment, Financing & capital structure, Management of financial resources, Risk management.",
+    "key": [["A", "Financial analysis and planning: size and growth"], ["I", "Investment: allocation to assets"], ["F", "Financing and capital structure: composition of liabilities"], ["M", "Management of financial resources, e.g. working capital"], ["R", "Risk management: protecting assets"]],
+    "recall_trigger": "All Intelligent Finance Managers Rule"
+   },
+   "mistakes": ["Placing the cash manager or credit manager under the Controller. They are under the Treasurer.", "Saying today's CFO no longer does budgeting and forecasting. These remain in both columns; new additions are M&A, profitability, pricing, outsourcing, IT, HR, strategy, compliance, risk."],
+   "compare": {"title": "Treasurer vs Controller (SM organisation chart)", "headers": ["Treasurer", "Controller"], "rows": [["Cash Manager", "Financial Accounting Manager"], ["Credit Manager", "Cost Accounting Manager"], ["Capital Budgeting Manager", "Tax Manager"], ["Fund Raising Manager", "Data Processing Manager"], ["Portfolio Manager", "Internal Auditor"]], "spot_it": "Raising, investing and managing money sits with the Treasurer; recording, costing, tax and audit sit with the Controller."},
+   "links": ["🔗 SM Ch 1 §1.6: the CFO as part of corporate-level management"],
+   "face_in_exam": {
+    "forms": ["Discuss the role of a CFO (MTP, 2 marks; SM question 6)", "What a CFO used to do vs now does", "Emerging issues in the future role of the CFO (RTP Jan 2025)"],
+    "approach": ["Open with 'important role in the company's goals, policies and financial success'", "List the five responsibilities with a few words each", "For 'today vs past', write a two-column table"],
+    "official_pattern": "MTP-S24-S1-FQ4c-OR; RTP-J25-FQ11a.",
+    "time_tip": "2 marks ≈ 3–4 minutes (study guidance)."
+   },
+   "write": {
+    "structure": ["One-line role statement", "Five responsibilities", "(If asked) old vs new role table"],
+    "keywords": ["financial analysis and planning", "capital structure decisions", "risk management"],
+    "length": "2 marks: 5 one-line points",
+    "conclusion": "Today the CFO is a strategic business partner of the CEO.",
+    "avoid": ["Listing the emerging-issues RTP list when the question asks for the SM role"]
+   },
+   "official_questions": [
+    {"id": "MTP-S24-S1-FQ4c-OR", "marks": 2, "status": "VERIFIED",
+     "question": "Discuss the role of a chief financial officer.",
+     "answer_points": [
+      "The finance executive plays an important role in the company's goals, policies and financial success. Responsibilities include:",
+      "(a) **Financial analysis and planning:** determining the proper amount of funds to employ in the firm, i.e. designating the size of the firm and its rate of growth.",
+      "(b) **Investment decisions:** the efficient allocation of funds to specific assets.",
+      "(c) **Financing and capital structure decisions:** raising funds on terms as favourable as possible, i.e. determining the composition of liabilities.",
+      "(d) **Management of financial resources** (such as working capital).",
+      "(e) **Risk management:** protecting assets."
+     ],
+     "keywords": ["size of the firm and its rate of growth", "allocation of funds", "composition of liabilities", "protecting assets"]},
+    {"id": "RTP-J25-FQ11a", "marks": null, "status": "VERIFIED",
+     "question": "Discuss the emerging issues and priorities affecting the future role of the Chief Financial Officer (CFO).",
+     "answer_points": [
+      "(i) **Regulation:** requirements are increasing and CFOs have an increasingly personal stake in regulatory adherence.",
+      "(ii) **Globalisation:** finance leaders must build a finance function that works effectively on the global stage and embraces diversity.",
+      "(iii) **Technology:** fast-evolving technology lets CFOs reconfigure finance processes and drive business insight through big data and analytics.",
+      "(iv) **Risk:** the nature of risks is changing, requiring more effective risk management; CFOs help ensure an appropriate corporate ethos.",
+      "(v) **Transformation:** pressure to transform finance functions to serve the business better at zero cost impact.",
+      "(vi) **Stakeholder management:** relationships become important as CFOs increasingly become the face of the corporate brand.",
+      "(vii) **Strategy:** a greater role in strategy validation and execution in a complex, quick-changing environment.",
+      "(viii) **Reporting:** reporting requirements will broaden and continue to be burdensome.",
+      "(ix) **Talent and capability:** a brighter spotlight on talent, capability and behaviours in the top finance role."
+     ],
+     "conclusion": "This list comes from ICAI's RTP answer; the current study material does not include it, so treat it as supplementary.",
+     "keywords": ["regulation", "globalisation", "technology", "risk", "transformation", "stakeholder management", "strategy", "reporting", "talent"]}
+   ],
+   "expected_questions": [
+    {"id": "EQ-F01.09.01-1", "form": "Distinguish (4 marks)", "marks": 4,
+     "question": "\"Today, the role of the CFO is no longer confined to accounting, financial reporting and risk management.\" Distinguish what a CFO used to do from what a CFO now does.",
+     "answer_points": [
+      "Today the CFO is a strategic business partner of the chief executive officer.",
+      "Used to do: budgeting; forecasting; accounting; treasury (cash management); internal financial reports for management; quarterly and annual filings for investors; tax filing; tracking accounts payable and receivable; travel and entertainment expense management.",
+      "Now does: budgeting; forecasting; managing mergers and acquisitions; profitability analysis (by customer or product); pricing analysis; decisions about outsourcing; overseeing the IT function; overseeing the HR function; strategic planning (sometimes overseeing it); regulatory compliance; risk management."
+     ],
+     "conclusion": "The CFO has moved from scorekeeper to strategic partner.",
+     "keywords": ["strategic business partner", "managing M&As", "pricing analysis", "overseeing IT and HR"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F01.09-01", "angle": "Structure", "difficulty": "Moderate",
+     "question": "In the organisation of the finance function shown in the study material, which of the following reports to the Treasurer?",
+     "options": {"A": "Tax Manager", "B": "Internal Auditor", "C": "Capital Budgeting Manager", "D": "Cost Accounting Manager"},
+     "answer": "C",
+     "explanation": "SM §9 chart: under the Treasurer are the Cash, Credit, Capital Budgeting, Fund Raising and Portfolio Managers. Tax, Internal Audit, Cost Accounting, Financial Accounting and Data Processing are under the Controller.",
+     "why_wrong": {"A": "Under the Controller.", "B": "Under the Controller.", "D": "Under the Controller."},
+     "trap": "Thinking tax is a treasury function.",
+     "concept": "F01.09"},
+    {"id": "MCQ-F01.09.01-02", "angle": "Which is new", "difficulty": "Moderate",
+     "question": "Which of the following appears ONLY in the list of what a CFO now does (and not in what a CFO used to do)?",
+     "options": {"A": "Budgeting", "B": "Tax filing", "C": "Forecasting", "D": "Decisions about outsourcing"},
+     "answer": "D",
+     "explanation": "SM §9.1: outsourcing decisions, M&As, profitability and pricing analysis, overseeing IT and HR, strategic planning, regulatory compliance and risk management are new. Budgeting and forecasting appear in both lists; tax filing is an old task.",
+     "why_wrong": {"A": "In both lists.", "B": "Old task only.", "C": "In both lists."},
+     "trap": "Budgeting and forecasting appear on both sides.",
+     "concept": "F01.09.01"}
+   ],
+   "recap": ["Five responsibilities: analysis & planning, investment, financing & capital structure, management of resources, risk management.", "Treasurer (cash, credit, capital budgeting, fund raising, portfolio) vs Controller (accounting, cost, tax, data processing, internal audit).", "Today's CFO = strategic business partner of the CEO."]
+  },
+  {
+   "code": "F01.10",
+   "title": "10. Financial Distress and Insolvency",
+   "activity": "Medium",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 2 (May 2024 Q4(a)(iii), Jan 2026 Q4(c)) · MTP 1 (Jul 2025)",
+   "understand": [
+    "An organisation must continuously manage factors like the **price of its product/service, demand, and prices of inputs** (raw material, labour etc.). The **proportion of debt** also needs very delicate management: ==higher debt requires higher interest, and if cash inflow is not sufficient it puts a lot of pressure on the organisation==. Both short-term and long-term creditors will put stress on the firm.",
+    "If these factors are not well managed, a situation of **distress** arises: ==financial distress is a position where cash inflows of a firm are inadequate to meet all its current obligations==.",
+    "If distress **continues for a long period**, the firm may have to **sell its assets, many times at a lower price**. When revenue is inadequate to revive the situation, the firm cannot meet its obligations and becomes **insolvent**.",
+    "==Insolvency basically means inability of a firm to repay various debts and is a result of continuous financial distress.=="
+   ],
+   "example": "A highly leveraged hotel chain loses bookings; its cash inflows cannot cover this quarter's interest and supplier payments (distress). After two years it sells hotels cheaply and still cannot repay its lenders (insolvency).",
+   "keywords": ["cash inflows of a firm are inadequate to meet all its current obligations", "higher debt requires higher interest", "sell its asset at a lower price", "inability of a firm to repay various debts", "result of continuous financial distress"],
+   "memory": {
+    "trick": "\"Distress = Cash short today; Insolvency = Can't repay ever.\" Distress (long) → forced asset sales → insolvency.",
+    "key": [["Distress", "Cash inflows inadequate for current obligations"], ["Prolonged", "Sell assets, often at lower prices"], ["Insolvency", "Inability to repay debts; result of continuous distress"]],
+    "recall_trigger": "Cash short → Sell cheap → Can't repay"
+   },
+   "mistakes": ["Defining distress in terms of accounting profits or long-term obligations. ICAI: cash inflows inadequate to meet current obligations (PYQ May 2024 true/false (iii) was FALSE for this reason).", "Treating distress and insolvency as synonyms. Insolvency is the result of continuous distress."],
+   "compare": {"title": "Financial distress vs insolvency", "headers": ["Basis", "Financial distress", "Insolvency"], "rows": [["Meaning", "Cash inflows inadequate to meet all current obligations", "Inability of a firm to repay various debts"], ["Stage", "Earlier stage; can be revived", "Result of continuous financial distress"], ["Typical sign", "Pressure from short- and long-term creditors; heavy interest", "Assets sold, often at lower prices; obligations still unmet"]]},
+   "links": ["🔗 FM Ch 6 Leverages: financial leverage as a 'double-edged sword' can push a firm into distress", "🔗 FM Ch 5 Capital Structure: the proportion of debt"],
+   "face_in_exam": {
+    "forms": ["Define financial distress and consequences of prolonged distress (PYQ Jan 2026, 2 marks)", "True/false on the meaning of distress (PYQ May 2024)", "Short note on financial distress and insolvency (MTP Jul 2025, 4 marks)"],
+    "approach": ["Definition in exact ICAI words", "Causes: price, demand, input prices, proportion of debt", "Prolonged distress → asset sale at lower price → insolvency"],
+    "official_pattern": "PYQ-J26-Q4c; PYQ-M24-Q4a statement (iii); MTP-S25-S1-FQ4b.",
+    "time_tip": "2 marks ≈ 3 minutes; 4 marks ≈ 6–7 minutes (study guidance)."
+   },
+   "write": {
+    "structure": ["Factors to be managed (price, demand, inputs, debt)", "Definition of financial distress", "Consequence of prolonged distress", "Definition of insolvency"],
+    "keywords": ["cash inflows inadequate", "current obligations", "insolvent", "continuous financial distress"],
+    "length": "2 marks: 3–4 lines; 4 marks: 8–10 lines",
+    "conclusion": "Thus insolvency is the result of continuous financial distress.",
+    "avoid": ["Explaining legal insolvency procedures (not in the SM)"]
+   },
+   "official_questions": [
+    {"id": "PYQ-J26-Q4c", "marks": 2, "status": "VERIFIED",
+     "question": "Define financial distress. Briefly explain the consequences of prolonged financial distress.",
+     "answer_points": [
+      "**Financial distress** is a position where the cash inflows of a firm are inadequate to meet all its current obligations.",
+      "If distress continues for a long period, the firm may have to sell its assets, many times at a lower price.",
+      "When revenue is inadequate to revive the situation, the firm will not be able to meet its obligations and becomes insolvent."
+     ],
+     "keywords": ["cash inflows inadequate", "current obligations", "sell assets at lower price", "insolvent"],
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": ["MTP-S25-S1-FQ4b (short note on financial distress and insolvency, 4 marks)"]},
+    {"id": "MTP-S25-S1-FQ4b", "marks": 4, "status": "VERIFIED",
+     "question": "Write a short note on financial distress and insolvency.",
+     "answer_points": [
+      "Factors like the price of the product/service, demand and prices of inputs (raw material, labour etc.) must be managed by an organisation on a continuous basis.",
+      "The proportion of debt also needs very delicate management: higher debt requires higher interest, and if cash inflow is not sufficient it puts a lot of pressure on the organisation. Both short-term and long-term creditors put stress on the firm.",
+      "If these factors are not well managed, a situation known as distress arises: financial distress is a position where cash inflows of a firm are inadequate to meet all its current obligations.",
+      "If distress continues for a long period, the firm may have to sell its assets, many times at a lower price. When revenue is inadequate to revive the situation, the firm cannot meet its obligations and becomes insolvent.",
+      "So insolvency basically means inability of a firm to repay various debts and is a result of continuous financial distress."
+     ],
+     "keywords": ["proportion of debt", "cash inflows inadequate", "insolvency", "continuous financial distress"]}
+   ],
+   "expected_questions": [
+    {"id": "EQ-F01.10-1", "form": "Case (2 marks)", "marks": 2,
+     "question": "Zeta Ltd. raised heavy debt for expansion. Sales fell, and this year its cash inflows are not enough to pay interest and trade payables, though it still reports a small accounting profit. Is Zeta Ltd. in financial distress? What may happen if the situation continues?",
+     "answer_points": [
+      "Yes. Financial distress is judged by cash, not accounting profit: it is a position where cash inflows are inadequate to meet all current obligations, which is Zeta's position.",
+      "If it continues for long, Zeta may have to sell assets, often at lower prices, and if revenue cannot revive the situation it may become insolvent, i.e. unable to repay its debts."
+     ],
+     "keywords": ["cash inflows inadequate", "insolvent"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F01.10-01", "angle": "Definition", "difficulty": "Easy",
+     "question": "Financial distress, as per the study material, is a position where:",
+     "options": {"A": "Cash inflows of a firm are inadequate to meet all its current obligations", "B": "Accounting profits are insufficient to pay dividends", "C": "The firm has been declared bankrupt by a court", "D": "Long-term debt exceeds equity"},
+     "answer": "A",
+     "explanation": "SM §10: financial distress is a position where cash inflows of a firm are inadequate to meet all its current obligations.",
+     "why_wrong": {"B": "Distress is about cash and obligations, not dividends from profit.", "C": "That describes a legal end-state, closer to insolvency.", "D": "A high debt ratio is a cause of pressure, not the definition."},
+     "trap": "Profit-based definitions (the May 2024 true/false trap).",
+     "concept": "F01.10"},
+    {"id": "MCQ-F01.10-02", "angle": "Sequence", "difficulty": "Moderate",
+     "question": "Which sequence correctly follows the study material?",
+     "options": {"A": "Insolvency → Financial distress → Sale of assets at lower price", "B": "Inadequate cash inflows (distress) → Prolonged distress and sale of assets at lower price → Insolvency", "C": "Sale of assets → Higher interest → Financial distress", "D": "Insolvency and financial distress occur simultaneously and mean the same"},
+     "answer": "B",
+     "explanation": "SM §10: distress continuing for a long period may force asset sales at lower prices; when revenue cannot revive the situation, the firm becomes insolvent. Insolvency results from continuous distress.",
+     "why_wrong": {"A": "Reverses the order.", "C": "Wrong order; higher interest is a cause.", "D": "They are different stages."},
+     "trap": "Treating the two terms as synonyms.",
+     "concept": "F01.10"}
+   ],
+   "recap": ["Distress = cash inflows inadequate for current obligations.", "Prolonged distress → asset sales at lower prices.", "Insolvency = inability to repay debts; result of continuous distress."]
+  },
+  {
+   "code": "F01.11 + F01.11.01 + F01.11.02",
+   "title": "11. Relationship of Financial Management with Related Disciplines",
+   "activity": "Medium",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "MTP 1 (Nov 2025)",
+   "understand": [
+    "As an integral part of overall management, FM is **not a totally independent area**. It draws heavily on related disciplines: **economics, accounting, production, marketing and quantitative methods**. They are inter-related but have key differences.",
+    "**FM and accounting (§11.1).** They are closely related to the extent that ==accounting is an important (necessary) input in financial decision making==. Financial accounting generates information on operations; its outcome is financial statements (balance sheet, income statement, statement of changes in financial position), which help financial managers gauge **past performance and future directions**.",
+    "They differ in **treatment of funds** and in **decision-making**.",
+    "**Treatment of funds:** in accounting, measurement of funds is based on the **accrual principle** (revenue recognised at the point of sale, not when collected; expenses when incurred, not when paid). Accrual data **do not fully reflect the financial condition**: a firm profitable in the accounting sense may be unable to meet current obligations due to shortage of liquidity (e.g. uncollectible receivables) and will not survive regardless of its profits. In FM, treatment of funds is based on **cash flows**: revenue when cash is actually received (inflow), expenses on actual payment (outflow). The finance manager is concerned with **maintaining solvency** by providing cash flows to meet obligations and acquiring and financing assets. ==Cash flow based returns help financial managers to avoid insolvency and achieve desired financial goals.==",
+    "**Decision-making:** the purpose of accounting is to **collect and present financial data** of past, present and future operations; the financial manager **uses these data for decision making**. Financial managers can collect data and accountants can make decisions, but the chief focus of an accountant is to collect and present data, while the financial manager's primary responsibility is **financial planning, controlling and decision making**. ==Financial management begins where accounting ends.==",
+    "**FM and other related disciplines (§11.2).** For day-to-day decisions FM also draws on **marketing, production and quantitative methods**. New product development and promotion plans (marketing) need capital outlays and affect projected cash flows; changes in production processes may need capital expenditure that the finance manager evaluates and finances; tools of **quantitative methods** help analyse complex financial problems.",
+    "Marketing, production and quantitative methods are only **indirectly related** and **supportive** in nature, while ==accounting is the primary discipline== on which the financial manager draws considerably. **Economics** can also be considered a major discipline, helping the financial manager understand what goes on in the world outside the business."
+   ],
+   "example": "A distributor shows ₹2 crore profit (accrual) but ₹1.8 crore is stuck in receivables from a defaulting customer, so it cannot pay suppliers. Accounting says 'profitable'; financial management, looking at cash flow, sees a liquidity crisis.",
+   "keywords": ["accounting is a necessary input", "accrual principle", "cash flows", "maintaining solvency", "avoid insolvency", "collect and present data", "financial planning, controlling and decision making", "financial management begins where accounting ends", "supportive disciplines"],
+   "memory": {
+    "trick": "\"Accountant = Accrual + Assemble data; Finance manager = Flows of cash + Final decision.\" FM begins where accounting ends.",
+    "key": [["Treatment of funds", "Accounting: accrual; FM: cash flows"], ["Decision-making", "Accounting: collect and present data; FM: planning, control, decision"], ["Other disciplines", "Marketing, production, quantitative methods: indirect/supportive; accounting: primary; economics: outside world"]],
+    "recall_trigger": "Accrual vs Cash; Data vs Decision"
+   },
+   "mistakes": ["Saying accountants cannot make decisions. The SM says each can do the other's work; the difference is the chief focus.", "Calling marketing and production primary disciplines for FM. Accounting is primary; the others are supportive."],
+   "compare": {"title": "Financial management vs accounting (SM §11.1)", "headers": ["Basis", "Accounting", "Financial management"], "rows": [["Treatment of funds", "Accrual principle: revenue at point of sale, expenses when incurred", "Cash flows: revenue when cash received, expenses when paid"], ["Reflects financial condition?", "Not fully: a profitable firm may lack liquidity", "Yes: maintains solvency; helps avoid insolvency"], ["Chief focus", "Collect and present financial data", "Financial planning, controlling and decision making"], ["Sequence", "Ends where FM begins", "Begins where accounting ends"]]},
+   "links": ["🔗 FM Ch 3 Ratio Analysis: uses accounting data for financial decisions", "🔗 FM Ch 7: cash flows, not profits, in capital budgeting", "🔗 FM Ch 1 §10: cash shortage leads to distress"],
+   "face_in_exam": {
+    "forms": ["Differentiate FM and financial accounting (MTP Nov 2025, 4 marks; SM question 1)", "MCQ: which discipline is primary / supportive"],
+    "approach": ["Say they are closely related (accounting is an input)", "Differences under two heads: treatment of funds, decision-making", "Close with 'FM begins where accounting ends'"],
+    "official_pattern": "MTP-J26-S1-FQ4a.",
+    "time_tip": "4 marks ≈ 7 minutes (study guidance)."
+   },
+   "write": {
+    "structure": ["Relationship: accounting is a necessary input", "Treatment of funds: accrual vs cash flow", "Decision-making: data vs decisions", "Conclusion line"],
+    "keywords": ["accrual principle", "cash flows", "avoid insolvency", "financial management begins where accounting ends"],
+    "length": "10–12 lines or a 3-row table",
+    "conclusion": "Thus, financial management begins where financial accounting ends.",
+    "avoid": ["Comparing FM with cost accounting (not the SM comparison)"]
+   },
+   "official_questions": [
+    {"id": "MTP-J26-S1-FQ4a", "marks": 4, "status": "VERIFIED",
+     "question": "Differentiate between financial management and financial accounting.",
+     "answer_points": [
+      "Though financial management and financial accounting are closely related, they differ in the treatment of funds and with regard to decision-making.",
+      "**Treatment of funds:** in accounting, measurement of funds is based on the accrual principle. Accrual-based data do not fully reflect the financial condition; an organisation that has earned profit (sales less expenses) may be profitable in the accounting sense but unable to meet current obligations due to shortage of liquidity, say from uncollectible receivables.",
+      "In financial management, treatment of funds is based on cash flows: revenues are recognised only when cash is actually received (cash inflow) and expenses on actual payment (cash outflow). Cash-flow-based returns help financial managers avoid insolvency and achieve desired financial goals.",
+      "**Decision-making:** the chief focus of an accountant is to collect and present data, while the financial manager's primary responsibility relates to financial planning, controlling and decision-making."
+     ],
+     "conclusion": "In a way, financial management begins where financial accounting ends.",
+     "keywords": ["accrual principle", "cash flows", "avoid insolvency", "collect and present data", "planning, controlling and decision-making"]}
+   ],
+   "expected_questions": [
+    {"id": "EQ-F01.11.02-1", "form": "Explain (4 marks)", "marks": 4,
+     "question": "\"Financial management is not a totally independent area.\" Explain its relationship with marketing, production, quantitative methods and economics.",
+     "answer_points": [
+      "FM draws heavily on related disciplines: economics, accounting, production, marketing and quantitative methods.",
+      "Marketing: new product development and promotion plans require capital outlays and affect projected cash flows, which the finance manager must consider.",
+      "Production: changes in the production process may require capital expenditure that the finance manager must evaluate and finance.",
+      "Quantitative methods: their tools and techniques help analyse complex financial management problems.",
+      "These disciplines are only indirectly related and supportive, while accounting is the primary discipline; economics helps the financial manager know what goes on outside the business."
+     ],
+     "keywords": ["supportive in nature", "accounting is the primary discipline", "capital outlays", "quantitative methods"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F01.11.01-01", "angle": "Statement", "difficulty": "Moderate",
+     "question": "Which statement correctly distinguishes financial management from accounting?",
+     "options": {"A": "Both measure funds on the accrual basis", "B": "Accounting focuses on decision making; FM focuses on presenting data", "C": "Accounting uses the accrual principle, while FM treats funds on a cash flow basis", "D": "Accounting begins where financial management ends"},
+     "answer": "C",
+     "explanation": "SM §11.1: accounting measures funds on the accrual principle; FM treats funds on the basis of cash flows. FM begins where accounting ends.",
+     "why_wrong": {"A": "FM uses cash flows.", "B": "Reversed.", "D": "Reversed: FM begins where accounting ends."},
+     "trap": "Options B and D reverse the correct relationship.",
+     "concept": "F01.11.01"},
+    {"id": "MCQ-F01.11.02-02", "angle": "Which is primary", "difficulty": "Moderate",
+     "question": "As per the study material, which discipline is the primary discipline on which the financial manager draws considerably?",
+     "options": {"A": "Marketing", "B": "Production", "C": "Quantitative methods", "D": "Accounting"},
+     "answer": "D",
+     "explanation": "SM §11.2: marketing, production and quantitative methods are indirectly related and supportive, while accounting is the primary discipline.",
+     "why_wrong": {"A": "Supportive only.", "B": "Supportive only.", "C": "Supportive only."},
+     "trap": "Choosing quantitative methods because FM uses maths.",
+     "concept": "F01.11.02"}
+   ],
+   "recap": ["Accounting is a necessary input to FM.", "Accrual (accounting) vs cash flow (FM); data (accounting) vs decisions (FM).", "Marketing, production, quantitative methods: supportive; accounting: primary; economics: outside world."]
+  },
+  {
+   "code": "F01.12",
+   "title": "12. Agency Problem and Agency Cost",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (May 2025 Q4(a)) · MTP 2 (Aug 2024, Mar 2025)",
+   "understand": [
+    "**Agency problem.** In sole proprietorships and partnerships, owners participate in management. In corporates owners are not active in management, so there is a **separation between owners/shareholders and managers**. In theory managers should act in the shareholders' best interest, but in reality they may try to maximise **individual goals like salary and perks**. There is a **principal–agent relationship** between owners and managers, known as the **agency problem**.",
+    "==In a nutshell, agency problem is the chance that managers may place personal goals ahead of the goal of owners.==",
+    "**Agency cost.** ==Agency problem leads to agency cost: the additional cost borne by shareholders to monitor the manager and control their behaviour so as to maximise shareholders' wealth.== Generally agency costs are of **four types: (i) monitoring, (ii) bonding, (iii) opportunity, (iv) structuring**.",
+    "**Addressing the agency problem.** The problem arises if managers' interests are not aligned with those of **debt lenders and equity investors**.",
+    "**For debt lenders:** addressed by imposing **negative covenants**, i.e. managers cannot borrow beyond a point. This is one of the most important concepts of modern finance, applied in **credit risk management of banks, fund raising and valuing distressed companies**.",
+    "**Between managers and shareholders:** it can be addressed if managers' interests are aligned with shareholders' interests, which is easier said than done. Efforts made: (1) **managerial compensation is linked to profit** of the company to some extent and also to its **long-term objectives**; (2) **employee [stock option schemes]** are designed to address the issue, assuming that maximisation of the stock price is the investors' objective; (3) **effective monitoring** can be done.",
+    "Note: the SM text literally reads 'Employee is also designed to address the issue…' (a word is missing); ICAI's suggested answers repeat this wording. The sense is that employee incentive plans tied to the stock price align managers with shareholders."
+   ],
+   "example": "The CEO of a listed firm buys a corporate jet for personal comfort (agency problem). Shareholders spend on independent directors and audits to watch him (monitoring cost). The board then links his bonus to long-term share performance (aligning interests).",
+   "provisions": [
+    {"ref": "Agency cost types and remedies (SM §12)", "status": "VERIFIED",
+     "requirement": "Four types: monitoring, bonding, opportunity, structuring. Remedies: negative covenants (lenders); compensation linked to profit and long-term objectives; employee incentive schemes tied to stock price; effective monitoring (shareholders).",
+     "exam_angle": "PYQ May 2025 asked meaning, types and how to minimise (4 marks) — reproduce the list exactly."}
+   ],
+   "keywords": ["separation between owner and managers", "principal agent relationship", "managers may place personal goals ahead of the goal of owners", "additional cost borne by the shareholders", "monitoring, bonding, opportunity, structuring", "negative covenants", "managerial compensation linked to profit", "effective monitoring"],
+   "memory": {
+    "trick": "Agency cost types = \"M-B-O-S\" (think \"MBOs\"): Monitoring, Bonding, Opportunity, Structuring. Remedies = \"C-E-M\": Compensation link, Employee stock schemes, Monitoring; plus negative covenants for lenders.",
+    "key": [["M-B-O-S", "Four types of agency cost"], ["C-E-M", "Three efforts to align managers with shareholders"], ["Negative covenants", "Agency problem with debt lenders: no borrowing beyond a point"]],
+    "recall_trigger": "MBOs pay for C-E-M"
+   },
+   "mistakes": ["Defining agency cost as the manager's salary. It is the additional cost borne by shareholders to monitor and control managers.", "Listing only three types of agency cost.", "Forgetting the debt-lender side (negative covenants).", "Saying sole proprietorships have a big agency problem. There owners manage the business themselves."],
+   "links": ["🔗 FM Ch 1 §8: management pursuing personal goals (profit maximisation) vs wealth maximisation", "🔗 FM Ch 6 Leverages: lenders' interests and borrowing limits"],
+   "face_in_exam": {
+    "forms": ["Agency cost: meaning, types and how to minimise (PYQ May 2025, 4 marks)", "Explain agency problem and how it can be addressed (MTP Mar 2025, 4 marks)", "Agency problem, its consequences and how to overcome it (MTP Aug 2024, 4 marks)"],
+    "approach": ["Separation of ownership and management → principal-agent relationship", "Definition in one line", "Agency cost and its four types", "Remedies: lenders (negative covenants) and shareholders (three efforts)"],
+    "official_pattern": "PYQ-M25-Q4a; MTP-S24-S2-FQ4a; MTP-M25-S1-FQ4a.",
+    "time_tip": "4 marks ≈ 7 minutes (study guidance)."
+   },
+   "write": {
+    "structure": ["Meaning of agency problem", "Agency cost + four types", "Addressing it: debt lenders and shareholders"],
+    "keywords": ["principal agent relationship", "monitoring, bonding, opportunity, structuring", "negative covenants", "managerial compensation"],
+    "length": "10–12 lines",
+    "conclusion": "Aligning managers' interests with those of owners and lenders reduces agency cost and supports wealth maximisation.",
+    "avoid": ["Inventing extra types of agency cost"]
+   },
+   "official_questions": [
+    {"id": "PYQ-M25-Q4a", "marks": 4, "status": "VERIFIED",
+     "question": "What is agency cost and what are its types? How can a company minimise agency cost and align the interests of managers and shareholders?",
+     "answer_points": [
+      "**Meaning:** agency problem is the chance that managers may place personal goals ahead of the goal of owners. Agency problem leads to agency cost, the additional cost borne by shareholders to monitor the manager and control their behaviour so as to maximise shareholders' wealth.",
+      "**Types:** generally, agency costs are of four types: (i) monitoring, (ii) bonding, (iii) opportunity, (iv) structuring.",
+      "**Minimising agency cost and aligning interests:** managerial compensation is linked to the profit of the company to some extent and also to the long-term objectives of the company.",
+      "Employee [incentive/stock-price-linked] schemes are also designed to address the issue, with the underlying assumption that maximisation of the stock price is the objective of the investors.",
+      "Effective monitoring can be done."
+     ],
+     "keywords": ["personal goals ahead of the goal of owners", "additional cost borne by the shareholders", "monitoring, bonding, opportunity, structuring", "managerial compensation", "effective monitoring"],
+     "examiner": "No examiners' comments have been published for Paper 6."},
+    {"id": "MTP-S24-S2-FQ4a", "marks": 4, "status": "VERIFIED",
+     "question": "\"The agency problem is one of the key concepts in corporate governance and financial management.\" In this light, explain the agency problem, its consequences and how to overcome it.",
+     "answer_points": [
+      "In sole proprietorships and partnerships owners participate in management, but in corporates owners are not active in management, so there is a separation between owners/shareholders and managers.",
+      "In theory managers should act in the best interest of shareholders, but in reality they may try to maximise individual goals like salary and perks. This principal–agent relationship between managers and owners is known as the agency problem: the chance that managers may place personal goals ahead of the goal of owners.",
+      "**Consequence:** agency problem leads to agency cost, the additional cost borne by shareholders to monitor managers and control their behaviour so as to maximise shareholders' wealth. Agency costs are of four types: monitoring, bonding, opportunity and structuring.",
+      "**Overcoming it — debt lenders:** the agency problem arises if managers' interests are not aligned with those of debt lenders and equity investors. For debt lenders it is addressed by imposing negative covenants, i.e. managers cannot borrow beyond a point; this concept is applied in credit risk management of banks, fund raising and valuing distressed companies.",
+      "**Overcoming it — shareholders:** align managers' interests with shareholders' interests (easier said than done). Efforts made: managerial compensation linked to profit and long-term objectives; employee [stock-linked] schemes designed on the assumption that maximising stock price is investors' objective; effective monitoring."
+     ],
+     "keywords": ["separation between owner and managers", "principal agent relationship", "agency cost", "negative covenants", "managerial compensation"],
+     "also_asked_as": ["MTP-M25-S1-FQ4a (explain agency problem and how it can be addressed, 4 marks)"]}
+   ],
+   "expected_questions": [
+    {"id": "EQ-F01.12-1", "form": "Case (4 marks)", "marks": 4,
+     "question": "Directors of Orion Ltd. (a listed company) approved large bonuses for themselves in a year when the share price fell 30%. Shareholders have appointed an independent firm to review management decisions, and the company's bankers insist that no further borrowing will be allowed beyond ₹200 crore. Identify the concept involved, the cost being incurred, and the measures visible in the case.",
+     "answer_points": [
+      "Concept: agency problem. Directors (agents) appear to place personal goals (bonuses) ahead of the owners' goal (wealth maximisation), which arises from separation of ownership and management.",
+      "Cost: agency cost, the additional cost borne by shareholders to monitor managers; here the fee for the independent review is a monitoring cost (agency costs are of four types: monitoring, bonding, opportunity, structuring).",
+      "Measure by lenders: the borrowing limit is a negative covenant, the way the agency problem with debt lenders is addressed.",
+      "Further measures for shareholders: link managerial compensation to profit and long-term objectives, use stock-price-linked employee schemes, and ensure effective monitoring."
+     ],
+     "keywords": ["agency problem", "monitoring cost", "negative covenants", "managerial compensation linked to long-term objectives"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F01.12-01", "angle": "List", "difficulty": "Easy",
+     "question": "Which of the following is NOT one of the four types of agency cost listed in the study material?",
+     "options": {"A": "Floatation", "B": "Bonding", "C": "Opportunity", "D": "Structuring"},
+     "answer": "A",
+     "explanation": "SM §12: agency costs are of four types: monitoring, bonding, opportunity and structuring. Floatation cost relates to issuing securities (FM Ch 4).",
+     "why_wrong": {"B": "Listed type.", "C": "Listed type.", "D": "Listed type."},
+     "trap": "Floatation cost sounds like a finance cost but is not an agency cost.",
+     "concept": "F01.12"},
+    {"id": "MCQ-F01.12-02", "angle": "Case-based", "difficulty": "Moderate",
+     "question": "A bank's loan agreement with Sigma Ltd. states that the managers cannot raise any further borrowing beyond a specified limit. This clause addresses the agency problem between managers and:",
+     "options": {"A": "Equity shareholders, through managerial compensation", "B": "Debt lenders, through a negative covenant", "C": "Employees, through bonding cost", "D": "Government, through structuring cost"},
+     "answer": "B",
+     "explanation": "SM §12: the agency problem of debt lenders is addressed by imposing negative covenants, i.e. managers cannot borrow beyond a point.",
+     "why_wrong": {"A": "Compensation-linking addresses the shareholder side.", "C": "Not the SM application.", "D": "Not the SM application."},
+     "trap": "Assuming agency problems exist only with shareholders.",
+     "concept": "F01.12"}
+   ],
+   "recap": ["Agency problem: managers may place personal goals ahead of owners' goals.", "Agency cost: extra cost to shareholders; four types M-B-O-S.", "Remedies: negative covenants (lenders); compensation link, stock-linked schemes, monitoring (shareholders)."]
+  }
+ ]
+}

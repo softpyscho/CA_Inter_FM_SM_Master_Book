@@ -1,0 +1,1564 @@
+<<PAGE 1>>
+1 
+Mock Test Paper - Series II: April, 2024 
+Date of Paper: 15 April, 2024 
+Time of Paper: 2 P.M. to 5 P.M. 
+ 
+INTERMEDIATE: GROUP – II 
+PAPER – 6: FINANCIAL MANAGEMENT & STRATEGIC MANAGEMENT 
+PAPER 6A : FINANCIAL MANAGEMENT 
+Suggested Answers/ Hints 
+PART I – Case Scenario based MCQs 
+1. 
+1. 
+(d) 14.99% 
+B = retention ratio=0.6, r=return on equity=20%, DPS=D0=20 x 0.4= 8,  
+MPS = P0 = EPS x PE = 20 x 15=300 
+G = b.r =0.6 x 20% = 12% 
+D1 = D0(1+g) = 8 (1.12) = 8.96 
+Ke = D1/P0 + g = 8.96/300 + 0.12 = 14.99% 
+ 
+2.  
+(c) 
+90.58 
+ 
+Price of debentures= PV of future cash flows for investor 
+discounted at their yield 
+ 
+ 
+         = 8 x PVAF(9.5%,10 years)+ 100 x PVF(9.5%, 10 years) 
+ 
+ 
+         = 8 x 6.2788 + 100 x 0.4035 
+ 
+ 
+         =50.2304 + 40.35 
+ 
+ 
+         =90.58 
+ 
+3. 
+(a)  7.64% 
+ 
+NP = 90.58 x 96%=86.96, RV= 100, Interest=8, t=0.27, n= 10 
+ 
+Kd = 
+(
+) (
+)
+(
+)
+Int 1 t
+RV
+ NP /n
+RV
+NP / 2
+−
++
+−
++
+     
+ 
+ 
+= (
+) (
+)
+(
+)
+8 1 0.27
+100 86.96 /10
+100 86.96 / 2
+−
++
+−
++
+ 
+ 
+ 
+= 7.64% 
+ 
+4. 
+(b)  11.22% 
+ 
+Kp = 
+(
+)
+(
+)
+PD
+RV NP /n
+RV
+NP / 2
++
+−
++
+ 
+ 
+= 
+(
+)
+(
+)
+100
+1100 950 /10
+1100
+950 / 2
++
+−
++
+ 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 2>>
+2 
+ 
+= 11.22% 
+ 
+5. 
+(a)  11.76% 
+ 
+Existing 
+Total Additional 
+ 
+Equity Funds 
+1,60,00,000 
+2,00,00,000 
+40,00,000 
+Preference Shares 
+24,00,000 
+24,00,000 
+Debt  
+56,00,000 
+56,00,000 
+1,60,00,000 
+2,80,00,000 1,20,00,000 
+ 
+ 
+ 
+ 
+ 
+Capital gearing = 
+0.4 
+(PSC + Debt)/Equity = 
+0.4 
+  
+ 
+(Total Funds -Equity)/ 
+Equity = 0.4 
+(2.8 
+crores-Equity)/ 
+equity = 0.4 
+ 
+ 
+ 
+ 
+ 
+Equity = 
+2 crores 
+ 
+ 
+ 
+ 
+ 
+Weighted avg cost 
+of marginal capital 
+Weights 
+Cost 
+W.C 
+Equity Funds 
+40,00,000 0.333333333 
+14.99% 
+5.00% 
+Preference Shares 
+24,00,000 
+0.2 
+11.22% 
+1.53% 
+Debt  
+56,00,000 0.466666667 
+7.64% 
+5.24% 
+Total 
+1,20,00,000 
+11.76% 
+2. 
+(a)  8.97% 
+ 
+ 
+1
+[I+
+(RP-NP)](1- t)
+n
+K
+=
+d
+1/ 2(RP+NP)
+ 
+ 
+ 
+1
+[10+
+(110-85)](1-0.30)
+10
+K
+=
+d
+1/ 2(110+85)
+ 
+= 8.75/97.5 = 8.97% 
+3. 
+(c)  2.5 
+Margin of safety = (sales – BEP sales)/sales x 100 
+= 40% 
+Degree of operating leverage = 1/MOS 
+= 1/40% = 2.5  
+4. 
+(a)  20% 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 3>>
+3 
+Payback Reciprocal = Average annual cash in flow 
+Initial investment
+ 
+= `
+` 
+ 4,000×100
+20,000
+ = 20%  
+PART II – Descriptive Questions 
+1. 
+(a)  (i) 
+Working Notes: 
+(i) Computation 
+of 
+Annual 
+Cash 
+Cost 
+of 
+Production 
+(`)  
+ 
+Material consumed 
+12,00,000 
+ 
+Wages 
+9,60,000 
+ 
+Manufacturing expenses  
+12,00,000 
+ 
+Total cash cost of production 
+33,60,000 
+(ii)  Computation of Annual Cash Cost of Sales: 
+(`)  
+ 
+Total Cash cost of production as in (i) above 
+33,60,000 
+ 
+Administrative Expenses 
+3,60,000 
+ 
+Sales promotion expenses 
+1,20,000 
+ 
+Total cash cost of sales 
+38,40,000 
+ 
+Add: Gross Profit @ 20% on sales (25% on cost 
+of sales) 
+9,60,000 
+ 
+Sales Value 
+48,00,000 
+ 
+  
+Statement of Working Capital requirements (cash cost basis) 
+ 
+(`) 
+(`) 
+A.  Current Assets 
+ 
+ 
+Inventory: 
+ 
+ 
+- 
+Raw materials
+12,00,000 ×2 months
+12months
+ 
+
+
+
+
+
+
+`
+  
+2,00,000 
+ 
+- 
+Finished Goods
+33,60,000 ×2 months
+12months
+ 
+
+
+
+
+
+
+`
+ 
+5,60,000 
+ 
+ 
+Receivables (Debtors) 
+38,40,000 ×3 months
+12months
+
+
+
+
+
+
+` 
+ 
+9,60,000 
+ 
+ 
+Sales Promotion expenses paid in 
+advance  
+1,20,000 ×1 month
+12 months
+
+
+
+
+
+
+`
+ 
+10,000 
+ 
+Cash balance 
+1,00,000 
+18,30,000 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 4>>
+4 
+Gross Working Capital 
+ 
+18,30,000 
+B.  Current Liabilities: 
+ 
+ 
+Payables: 
+ 
+ 
+- Creditors for materials 
+12,00,000 ×2 months
+12months
+ 
+
+
+
+
+
+
+`
+ 
+2,00,000 
+ 
+Wages outstanding 
+9,60,000 ×1 month
+12months
+ 
+
+
+
+
+
+
+`
+ 
+80,000 
+ 
+Manufacturing expenses 
+outstanding 
+12,00,000 ×1 month
+12months
+ 
+
+
+
+
+
+
+`
+ 
+1,00,000 
+ 
+Administrative expenses outstanding 
+3,60,000 ×1 month
+12months
+ 
+
+
+
+
+
+
+`
+ 
+30,000 
+4,10,000 
+Net working capital (A - B) 
+ 
+14,20,000 
+Add: Safety margin @ 15% 
+ 
+2,13,000 
+Total Working Capital requirements 
+ 
+16,33,000 
+ 
+(b) (i) 
+Calculation of market price per share 
+ 
+According to Miller – Modigliani (MM) Approach:  
+  
+     
+ 
+ 
+Where, 
+ 
+ 
+Existing market price (Po)  
+ 
+= ` 600 
+ 
+ 
+Expected dividend per share (D1) 
+= ` 40 
+ 
+ 
+Capitalization rate (ke) 
+ 
+ 
+= 0.20  
+ 
+ 
+Market price at year end (P1) 
+ 
+= ? 
+a. 
+If expected dividends are declared, then 
+ 
+600=(P1+40)/(1+0.2) 
+ 
+600 x 1.2 = P1+40 
+ 
+P1 = 680 
+b. 
+If expected dividends are not declared, then 
+ 
+600 = (P1+0)/(1 + 0.2) 
+ 
+600 x 1.2 = P1 
+P1= 720 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 5>>
+5 
+(ii) 
+Calculation of number of shares to be issued 
+ 
+(a) 
+(b) 
+ 
+Dividends are 
+declared 
+(` lakh) 
+Dividends are 
+not Declared 
+(` lakh) 
+Net income 
+1500 
+1500 
+Total dividends 
+(400) 
+- 
+Retained earnings 
+1100 
+1500 
+Investment budget 
+2000 
+2000 
+Amount to be raised by new 
+issues 
+900 
+500 
+Relevant market price (` per 
+share) 
+680 
+720 
+No. of new shares to be issued 
+(in lakh) 
+(` 900 ÷ 680; ` 500 ÷ 720) 
+1.3235 
+0.6944 
+(iii) Calculation of market value of the shares 
+ 
+(a) 
+(b) 
+Particulars 
+Dividends are 
+declared 
+Dividends are 
+not Declared 
+Existing shares (in lakhs) 
+10.00 
+10.00 
+New shares (in lakhs) 
+1.3235 
+0.6944 
+Total shares (in lakhs) 
+11.3235 
+10.6944 
+Market price per share (`) 
+680 
+720 
+Total market value of shares 
+at the end of the year (` 
+in lakh) 
+11.3235 × 680 
+= 7,700 (approx.) 
+10.6944 × 720 
+= 7,700 (approx.) 
+ 
+Hence, it is proved that the total market value of shares remains 
+unchanged irrespective   of whether dividends are declared, or not 
+declared. 
+ 
+(c) 
+Calculation of Cash Flow after Tax 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Capacity 
+50% 
+65% 
+80% 
+100% 
+100% 
+Units 
+1,50,000 
+1,95,000 
+2,40,000 
+3,00,000 
+3,00,000 
+Contribution p.u. 
+360 
+360 
+360 
+360 
+360 
+(600 x 60%) 
+ 
+ 
+ 
+ 
+ 
+Total Contribution 
+5,40,00,000 7,02,00,000 8,64,00,000 10,80,00,000 10,80,00,000 
+Less: Fixed Asset 
+2,00,00,000 3,50,00,000 5,00,00,000 5,00,00,000 5,00,00,000 
+Less: Depreciation 
+(W.N.) 
+4,00,00,000 2,40,00,000 1,44,00,000 
+86,40,000 
+51,84,000 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 6>>
+6 
+PBT 
+ (60,00,000) 1,12,00,000 2,20,00,000 4,93,60,000 5,28,16,000 
+Less: Tax 
+(18,00,000) 
+33,60,000 
+66,00,000 1,48,08,000 1,58,44,800 
+PAT 
+(42,00,000) 
+78,40,000 1,54,00,000 3,45,52,000 3,69,71,200 
+Add: Depreciation 
+4,00,00,000 2,40,00,000 1,44,00,000 
+86,40,000 
+51,84,000 
+CFAT 
+3,58,00,000 3,18,40,000 2,98,00,000 4,31,92,000 4,21,55,200 
+Calculation of NPV 
+Year 
+Description 
+Cash Flow 
+PVF 
+@12% 
+PV 
+0 
+Initial Investment 
+(10,00,00,000) 
+1 
+(10,00,00,000) 
+0 
+WC introduced 
+(1,50,00,000) 
+1 
+(1,50,00,000) 
+3 
+WC introduced 
+(2,00,00,000) 
+0.7118 
+(1,42,36,000) 
+1 
+CFAT 
+3,58,00,000  0.8929 
+3,19,65,820  
+2 
+CFAT 
+3,18,40,000  0.7972 
+2,53,82,848  
+3 
+CFAT 
+2,98,00,000  0.7118 
+2,12,11,640  
+4 
+CFAT 
+4,31,92,000  0.6355 
+2,74,48,516  
+5 
+CFAT 
+4,21,55,200  0.5674 
+2,39,18,860  
+5 
+WC released 
+3,50,00,000  0.5674 
+1,98,59,000  
+5 
+Scrap Sale 
+2,00,00,000  0.5674 
+1,13,48,000  
+  
+Net Present Value 
+3,18,98,684  
+ 
+Working Notes (W.N.) 
+Calculation of Depreciation 
+Year Opening WDV 
+Depreciation 
+Closing WDV 
+1 10,00,00,000  
+4,00,00,000  
+6,00,00,000  
+2 6,00,00,000  
+2,40,00,000  
+3,60,00,000  
+3 3,60,00,000  
+1,44,00,000  
+2,16,00,000  
+4 2,16,00,000  
+86,40,000  
+1,29,60,000  
+5 1,29,60,000  
+51,84,000  
+77,76,000  
+2. 
+(a) 
+ 
+ 
+ 
+ 
+Income statement 
+Particulars 
+P 
+Q 
+(`) 
+(`) 
+ 
+Sales 
+50,00,000  
+48,00,000  
+(–) 
+Variable Cost 
+33,50,000  
+24,00,000  
+ 
+Contribution 
+16,50,000  
+24,00,000  
+ 
+Fixed Cost 
+ 8,25,000  
+ 16,00,000  
+ 
+EBIT 
+ 8,25,000  
+ 8,00,000  
+(–) 
+Interest 
+ 5,50,000  
+ 6,00,000  
+ 
+EBT 
+ 2,75,000  
+ 2,00,000  
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 7>>
+7 
+(–) 
+Tax 
+ 82,500  
+ 60,000  
+ 
+EAT 
+ 1,92,500  
+ 1,40,000  
+(÷) 
+No. of Shares 
+ 1,00,000  
+ 70,000  
+ 
+EPS 
+₹ 1.93 
+₹ 2.00 
+Working Note : 
+1. Financial  
+    Leverage 
+=
+ 
+EBIT 
+= 
+EBIT 
+EBT 
+(EBIT – Int.) 
+Let the EBIT be X 
+P 
+Q 
+ 3 = X/(X – 5,50,000) 
+3(X – 5,50,000) = X 
+3X – 16,50,000 = X 
+2X = 16,50,000 
+4 = X/(X – 6,00,000) 
+ 
+4(X – 6,00,000) = X 
+4X – 24,00,000 = X 
+3X = 24,00,000 
+X = 8,25,000 
+X = 8,00,000 
+2. Operating Leverage      =  Contribution/EBIT 
+Let the Contribution be X 
+P 
+Q 
+ 2 = X/8,25,000 
+ 
+X = 16,50,000 
+3= X/8,00,000 
+ 
+X = 24,00,000 
+ 
+3. Sales 
+ 
+    Let the Sales be 100 
+    Sales – Variable Cost = Contribution 
+ 
+P 
+ 
+Q 
+Contribution         = 
+100 – 67 
+= 
+100 – 50 
+= 
+33 
+= 
+50 
+Sales   
+         = 
+ 
+ 
+ 
+ 
+P 
+ 
+Q 
+For 33   = 16,50,000 
+For 50 
+= 24,00,000 
+For 100 
+= 50,00,000 
+For 100 
+= 48,00,000 
+(b)  Expected return on capital employed 
+Capital Employed = Debt + Equity 
+ 
+ 
+       = (` 63,00,000 + ` 54,00,000) + (` 70,00,000 + ` 1,30,00,000) 
+                       = ` 3,17,00,000 
+Return on capital employed/ROI =  
+
+
+
+
+
+EBIT
+Capital employed x 100 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 8>>
+8 
+At present: 
+= 
+
+
+
+
+
+54,00,000
+3,17,00,000 x 100 
+= 17.03% 
+Now company expects 2% more as ROI 
+So, Expected ROI = 17.03% + 2% 
+ 
+ 
+               = 19.03% 
+Proposed EBIT = Proposed Capital Employed x Return on capital  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+employed 
+ 
+ 
+                  
+  = (` 3,17,00,000 + ` 50,00,000) x 19.03% = ` 69,84,010 
+(i) 
+Market Price per Share: 
+Particular 
+Financial Options 
+Option – I 
+12% term 
+loan of  
+` 50,00,000 
+Option II 
+1,00,000 equity 
+shares @ ` 20 
+and 11% 
+debentures of 
+` 30,00,000 
+(`) 
+(`) 
+EBIT 
+69,84,010 
+69,84,010 
+Less:  Interest 
+  
+  
+ 
+- 10% on old debentures 
+6,30,000 
+6,30,000 
+ 
+- 11% on new debentures 
+- 
+3,30,000 
+ 
+- 12% on old term loan 
+6,48,000 
+6,48,000 
+ 
+- 12% on new term loan 
+6,00,000 
+  
+Total Interest 
+18,78,000 
+16,08,000 
+EBT 
+51,06,010 
+53,76,010 
+Less Tax @ 30% 
+15,31,803 
+16,12,803 
+EAT 
+35,74,207 
+37,63,207 
+No. of equity shares 
+7,00,000 
+8,00,000 
+Earnings per share 
+5.11 
+4.70 
+P/E ratio 
+10 
+10 
+Market Price per Share = EPS x 
+P/E ratio 
+51.06 
+47.04 
+ 
+ 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 9>>
+9 
+(ii) 
+Recommendation: 
+ 
+The option I is better and may be opted as both EPS and MPS are 
+higher. 
+3. 
+(a)  Inventory Turnover = 
+Inventory
+COGS ×365 = 
+38,60,000 × 365
+76,40,000
+ = 184.41 days  
+= 185 days (apx) 
+ 
+Receivables Turnover = 
+Receivables
+Sales
+×365 = 39,97,000×365
+1,25,00,000  = 116.71        
+= 117 days (apx) 
+Equity to Reserves = 1 
+Reserves = 1 x 30,00,000 = 30,00,000 
+Projected profit = 30,00,000 - 18,00,000 = 12,00,000 
+Net Profit Margin = 15% 
+12,00,000/ Sales = 0.15 
+Sales = 80,00,000 
+Gross Profit = 80,00,000 x 50% = 40,00,000 
+COGS = 80,00,000 - 40,00,000 = 40,00,000 
+ 
+Projected Debtors Turnover = 100 days = Closing Receivables
+Sales
+ x 365 
+ 
+ 
+ 
+100 = Closing Receivables
+80,00,000
+ x 365 
+ 
+ 
+ 
+Closing Receivables = 80,00,000 x 100
+365
+ = 21,91,781 
+ 
+Projected Closing Inventory = 70% of opening inventory = 70% of 
+38,60,000 = 27,02,000 
+Projected Creditor Turnover= 100 days = Closing Credi
+x365
+COGS
+tors
+  
+Closing Creditors = COGS x100
+365
+ 
+Closing Creditor = 40,00,000 x100
+365
+ = 10,95,890 
+Equity Share Capital + Reserves = 30,00,000 + 30,00,000 = 60,00,000 
+Long Term Debt to Equity = 0.5 
+LTD
+60,00,000 = 0.5 
+Long Term Debt = 0.5 x 60,00,000 
+Long Term Debt = 30,00,000 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 10>>
+10 
+(b)  Financial Instruments in the International Market 
+ 
+Some of the various financial instruments dealt with in the international 
+market are: 
+(a) 
+Euro Bonds 
+(b) 
+Foreign Bonds 
+(c) 
+Fully Hedged Bonds 
+(d) 
+Medium Term Notes 
+(e) 
+Floating Rate Notes 
+(f) 
+External Commercial Borrowings 
+(g) 
+Foreign Currency Futures 
+(h) 
+Foreign Currency Option 
+(i) 
+Euro Commercial Papers. 
+4.  
+(a)  Inter-relationship between Investment, Financing and Dividend 
+Decisions: The finance functions are divided into three major decisions, 
+viz., investment, financing and dividend decisions. It is correct to say that 
+these decisions are inter-related because the underlying objective of 
+these three decisions is the same, i.e. maximisation of shareholders’ 
+wealth. Since investment, financing and dividend decisions are all 
+interrelated, one has to consider the joint impact of these decisions on 
+the market price of the company’s shares and these decisions should 
+also be solved jointly. The decision to invest in a new project needs the 
+finance for the investment. The financing decision, in turn, is influenced 
+by and influences dividend decision because retained earnings used in 
+internal financing deprive shareholders of their dividends. An efficient 
+financial management can ensure optimal joint decisions. This is 
+possible by evaluating each decision in relation to its effect on the 
+shareholders’ wealth. 
+ 
+The above three decisions are briefly examined below in the light of their 
+inter-relationship and to see how they can help in maximising the 
+shareholders’ wealth i.e. market price of the company’s shares. 
+ 
+Investment decision: The investment of long term funds is made after 
+a careful assessment of the various projects through capital budgeting 
+and uncertainty analysis. However, only that investment proposal is to 
+be accepted which is expected to yield at least so much return as is 
+adequate to meet its cost of financing. This have an influence on the 
+profitability of the company and ultimately on its wealth. 
+ 
+Financing decision: Funds can be raised from various sources. Each 
+source of funds involves different issues. The finance manager has to 
+maintain a proper balance between long-term and short-term funds. With 
+the total volume of long-term funds, he has to ensure a proper mix of 
+loan funds and owner’s funds. The optimum financing mix will increase 
+return to equity shareholders and thus maximise their wealth. 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 11>>
+11 
+ 
+Dividend decision: The finance manager is also concerned with the 
+decision to pay or declare dividend. He assists the top management in 
+deciding as to what portion of the profit should be paid to the 
+shareholders by way of dividends and what portion should be retained in 
+the business. An optimal dividend pay-out ratio maximises shareholders’ 
+wealth. 
+ 
+The above discussion makes it clear that investment, financing and 
+dividend decisions are interrelated and are to be taken jointly keeping in 
+view their joint effect on the shareholders’ wealth.  
+(b) Liquidity versus Profitability Issue in Management of Working 
+Capital 
+ 
+Working capital management entails the control and monitoring of all 
+components of working capital i.e. cash, marketable securities, debtors, 
+creditors etc. Finance manager has to pay particular attention to the 
+levels of current assets and their financing. To decide the level of 
+financing of current assets, the risk return trade off must be taken into 
+account. The level of current assets can be measured by creating a 
+relationship between current assets and fixed assets. A firm may follow 
+a conservative, aggressive or moderate policy. 
+ 
+ 
+A conservative policy means lower return and risk while an aggressive 
+policy produces higher return and risk. The two important aims of the 
+working capital management are profitability and solvency. A liquid firm 
+has less risk of insolvency i.e. it will hardly experience a cash shortage 
+or a stock out situation. However, there is a cost associated with 
+maintaining a sound liquidity position. So, to have a higher profitability 
+the firm may have to sacrifice solvency and maintain a relatively low level 
+of current assets.  
+(c)  Concept of Discounted Payback Period 
+ 
+Payback period is time taken to recover the original investment from 
+project cash flows. It is also termed as break even period. The focus of 
+the analysis is on liquidity aspect and it suffers from the limitation of 
+ignoring time value of money and profitability. Discounted payback 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 12>>
+12 
+period considers present value of cash flows, discounted at company’s 
+cost of capital to estimate breakeven period i.e. it is that period in which 
+future discounted cash flows equal the initial outflow. The shorter the 
+period, better it is. It also ignores post discounted payback period cash 
+flows. 
+OR 
+(c)  Concept of Indian Depository Receipts: The concept of the depository 
+receipt mechanism which is used to raise funds in foreign currency has 
+been applied in the Indian capital market through the issue of Indian 
+Depository Receipts (IDRs).  Foreign companies can issue IDRs to raise 
+funds from Indian market on the same lines as an Indian company uses 
+ADRs/GDRs to raise foreign capital.  The IDRs are listed and traded in 
+India in the same way as other Indian securities are traded. 
+ 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 13>>
+13 
+INTERMEDIATE COURSE: GROUP II 
+PAPER 6B: STRATEGIC MANAGEMENT 
+ANSWERS 
+PART I - Case Scenario based MCQs 
+1. (A) 
+(i)  
+(b) 
+(ii) 
+(c) 
+(iii)  
+(b) 
+(iv)  
+(b) 
+(v)  
+(b) 
+    (B) 
+(i)  
+(c) 
+(ii) 
+(b) 
+(iii)  
+(b) 
+ 
+ 
+ 
+ 
+ 
+PART II - Descriptive Questions 
+1. 
+(a)  The retail chain is employing a strategy that combines both proactive 
+and reactive elements. Monitoring consumer trends and adjusting 
+product offerings accordingly demonstrates a proactive approach to 
+anticipate and meet customer needs. On the other hand, maintaining a 
+flexible supply chain to respond quickly to changes in demand reflects a 
+reactive strategy to address unforeseen shifts in the market.  
+ 
+This combination allows the retail chain to both anticipate future trends 
+and react effectively to immediate market changes, making its strategy 
+partly proactive and partly reactive. This dual strategy of proactive trend 
+monitoring and reactive supply chain flexibility enables the retail chain to 
+anticipate market shifts and adapt to them effectively, ensuring its 
+competitiveness and customer satisfaction. 
+(b)  PQR Ltd. has planned to implement the Strategic Business Unit (SBU) 
+structure. Very large organisations, particularly those running into 
+several products, or operating at distant geographical locations that are 
+extremely diverse in terms of environmental factors, can be better 
+managed by creating strategic business units. SBU structure becomes 
+imperative in an organisation with increase in number, size and diversity.  
+ 
+The attributes of an SBU and the benefits a firm may derive by using the 
+SBU Structure are as follows: 
+ 
+A scientific method of grouping the businesses of a multi – business 
+corporation which helps the firm in strategic planning. 
+ 
+An improvement over the territorial grouping of businesses and 
+strategic planning based on territorial units. 
+ 
+Strategic planning for SBU is distinct from rest of businesses. 
+Products/ businesses within an SBU receive same strategic 
+planning treatment and priorities. 
+ 
+Each SBU will have its own distinct set of competitors and its own 
+distinct strategy. 
+ 
+The CEO of SBU will be responsible for strategic planning for SBU 
+and its profit performance. 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 14>>
+14 
+ 
+Products/businesses that are related from the standpoint of 
+function are assembled together as a distinct SBU. 
+ 
+Unrelated products/ businesses in any group are separated into 
+separate SBUs. 
+ 
+Grouping the businesses on SBU lines helps in strategic planning 
+by removing the vagueness and confusion. 
+ 
+Each SBU is a separate business and will be distinct from one 
+another on the basis of mission, objectives etc.   
+(c)  Competition from new sustainable fashion brands falls under the "Threat 
+of New Entrants" category of Porter’s Five Forces Model for Competitive 
+Analysis. These new entrants pose a threat to existing sustainable 
+clothing retailers like GreenThrift Inc. by increasing competition and 
+potentially eroding market share. The emergence of these brands, 
+focusing on using organic and recycled materials along with ethical 
+manufacturing practices, aligns with the values of environmentally 
+conscious consumers, making them strong competitors in the 
+sustainable fashion market.  
+2. 
+(a)  Each organization has to build its competitive advantage over the 
+competitors in the business warfare in order to win.  This can be done 
+only by following the process of strategic management. Strategic 
+Management is very important for the survival and growth of business 
+organizations in dynamic business environments. Other major benefits 
+of strategic management are as follows: 
+ 
+Strategic management helps organizations to be more proactive 
+rather than reactive in dealing with its future. It facilitates to work 
+within vagaries of environment and remains adaptable with the 
+turbulence or uncertain future. Therefore, they are able to control 
+their own destiny in a better way. 
+ 
+It provides better guidance to entire organization on the crucial 
+point – what it is trying to do. Also provides frameworks for all major 
+business decisions of an enterprise such as on businesses, 
+products, markets, organizational structures, etc. 
+ 
+It facilitates to prepare the organization to face the future and act 
+as pathfinder to various business opportunities. Organizations are 
+able to identify the available opportunities and identify ways and 
+means as how to reach them. 
+ 
+It serves as a corporate defence mechanism against mistakes and 
+pitfalls. It helps organizations to avoid costly mistakes in product 
+market choices or investments. 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 15>>
+15 
+ 
+Over a period of time strategic management helps organization to 
+evolve certain core competencies and competitive advantages that 
+assist in the fight for survival and growth. 
+(b)  To maintain a competitive edge in the face of increased competition, 
+Reshuffle Corp can differentiate its products in several ways: 
+• 
+Tangible and Intangible Aspects: Reshuffle Corp can focus on the 
+tangible aspects of its products, such as using high-quality materials 
+and innovative designs to create furniture that is both functional and 
+aesthetically pleasing. Additionally, they can emphasize the intangible 
+aspects of their products, such as excellent customer service and a 
+strong brand reputation for reliability and durability. 
+• 
+Pricing Strategies: While market prices are often dictated by 
+competition, Reshuffle Corp can work on cost optimization to maintain 
+profitability. They can also consider offering value-added services, 
+such as free installation or extended warranties, to justify a higher 
+price point. 
+• 
+Product Features: By continually optimizing their product features 
+based on customer feedback and market trends, Reshuffle Corp can 
+ensure that their products deliver maximum satisfaction to their target 
+customers. This may include features that enhance functionality, 
+design, quality, and overall user experience. 
+• 
+Product Centric Approach: Reshuffle Corp should keep their 
+products at the center of their strategic activities, ensuring that all 
+business processes, from production to sales and marketing, are 
+aligned to meet customer needs and expectations. 
+• 
+Product Life Cycle Management: Reshuffle Corp should be aware 
+of the life cycle of their products and plan for reinvention or 
+replacement accordingly. They can introduce new product lines or 
+upgrade existing ones to keep up with changing customer 
+preferences and market trends. 
+3.  
+(a)  SWOT Analysis for EasyLife Corporation’s New Smart Home Devices 
+Venture: 
+Strengths 
+• 
+Strong brand reputation in 
+consumer electronics. 
+• 
+Established 
+distribution 
+network. 
+• 
+Access 
+to 
+technological 
+expertise 
+for 
+product 
+development. 
+Weaknesses 
+• 
+Limited experience in the 
+smart 
+home 
+devices 
+market. 
+• 
+May 
+require 
+additional 
+investments in research 
+and development. 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 16>>
+16 
+• 
+Financial resources to support 
+product launch and marketing. 
+ 
+• 
+Potential 
+challenges 
+in 
+integrating a new product 
+line with existing offerings. 
+• 
+Lack 
+of 
+established 
+customer base for smart 
+home devices. 
+Opportunities 
+• 
+Growing market for smart 
+home 
+devices 
+due 
+to 
+increasing consumer interest 
+in home automation. 
+• 
+Possibility of partnering with 
+existing smart home platform 
+providers. 
+• 
+Potential to leverage brand 
+loyalty 
+from 
+existing 
+customers. 
+• 
+Ability to differentiate through 
+innovative 
+features 
+and 
+design. 
+Threats 
+• 
+Intense competition from 
+established players in the 
+smart 
+home 
+devices 
+market. 
+• 
+Rapid 
+technological 
+advancements 
+lead 
+to 
+short product life cycles. 
+• 
+Potential for cybersecurity 
+threats 
+in 
+connected 
+devices. 
+• 
+Economic 
+factors 
+impacting 
+consumer 
+spending on discretionary 
+items. 
+ 
+The SWOT analysis highlights that while EasyLife Corporation has 
+several strengths that can support the launch of a new smart home 
+devices line, there are also significant weaknesses and threats to 
+consider. To maximize the chances of success, EasyLife Corporation 
+should focus on leveraging its brand reputation and distribution network 
+while carefully addressing the weaknesses and threats identified. 
+Additionally, staying informed about technological developments and 
+consumer trends will be essential for maintaining competitiveness in the 
+dynamic smart home devices market. 
+(b)  The concept of forward and backward linkages between strategy 
+formulation and implementation in strategic management highlights the 
+interconnected nature of these two phases and their impact on the 
+overall strategic decision-making process of an organization. 
+ 
+Forward Linkages: Forward linkages refer to the impact of strategy 
+formulation on strategy implementation. When an organization 
+formulates a new strategy or revises an existing one, it sets the direction 
+for the organization's future actions. For example, if a company decides 
+to expand its product line to target a new market segment, this decision 
+will require changes in the organization's structure, resources allocation, 
+and possibly its leadership style. These changes are necessary to align 
+the organization's operations with the new strategic direction. Thus, the 
+formulation of strategies has forward linkages with their implementation, 
+as it sets the stage for how the strategy will be executed. 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 17>>
+17 
+ 
+Backward Linkages: Backward linkages, on the other hand, refer to the 
+impact of implementation on strategy formulation. As an organization 
+implements its strategies, it gains valuable insights and feedback from 
+the implementation process. This feedback can influence future strategic 
+decisions. For example, if a company faces unexpected challenges or 
+discovers new opportunities during the implementation of a strategy, it 
+may need to reevaluate its strategic choices. Similarly, past strategic 
+actions and their outcomes can also influence the formulation of future 
+strategies. Over time, these incremental changes in strategy and 
+implementation take the organization from its current state to where it 
+aims to be, reflecting the dynamic nature of strategic management. 
+ 
+In conclusion, the forward and backward linkages between strategy 
+formulation 
+and 
+implementation 
+highlight 
+the 
+iterative 
+and 
+interconnected nature of strategic management. By understanding and 
+leveraging these linkages, organizations can enhance their strategic 
+decision-making process and improve their overall performance. 
+4.  
+(a)  Strategic Performance Measures (SPM) are metrics used by 
+organizations to evaluate and track the effectiveness of their strategies 
+in achieving strategic goals and objectives. SPM provides a framework 
+for measuring the performance of key areas critical to the success of the 
+organization's strategy. These measures help in assessing whether the 
+organization is progressing towards its desired outcomes and allow for 
+adjustments to be made to improve performance. 
+ 
+Types of Strategic Performance Measures 
+ 
+There are various types of strategic performance measures, including: 
+♦ 
+Financial Measures: Financial measures, such as revenue growth, 
+return on investment (ROI), and profit margins, provide an 
+understanding of the organization's financial performance and its 
+ability to generate profit. 
+♦ 
+Customer Satisfaction Measures: Customer measures, such as 
+customer satisfaction, customer retention, and customer loyalty, 
+provide insight into the organization's ability to meet customer 
+needs and provide high-quality products and services. 
+♦ 
+Market Measures: Market measures, such as market share, 
+customer acquisition, and customer referrals, provide information 
+about the organization's competitiveness in the marketplace and its 
+ability to attract and retain customers. 
+♦ 
+Employee Measures: Employee measures, such as employee 
+satisfaction, turnover rate, and employee engagement, provide 
+insight into the organization's ability to attract and retain talented 
+employees and create a positive work environment. 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 18>>
+18 
+♦ 
+Innovation Measures: Innovation measures, such as research and 
+development (R&D) spending, patent applications, and new product 
+launches, provide insight into the organization's ability to innovate 
+and create new products and services that meet customer needs. 
+♦ 
+Environmental Measures: Environmental measures, such as 
+energy consumption, waste reduction, and carbon emissions, 
+provide insight into the organization's impact on the environment 
+and its efforts to operate in a sustainable manner. 
+(b)  The strategy adopted by StarTech Solutions is Focused differentiation. 
+This strategy involves targeting a specific segment of the market with 
+unique products or services that are perceived as valuable by customers 
+in that segment. By specializing in serving unique, high-end clients, 
+StarTech is able to differentiate itself from competitors and create a 
+competitive advantage.  
+ 
+Advantages of Focused Differentiation: 
+• 
+Strong Customer Loyalty: By catering to a specific niche 
+market, StarTech can build strong relationships with its customers, 
+leading to higher customer loyalty and retention. 
+• 
+Higher Profit Margins: Serving a niche market allows StarTech 
+to command higher prices for its specialized products or services, 
+leading to higher profit margins. 
+• 
+Reduced Competition: By focusing on a niche market that other 
+firms are not targeting, StarTech faces less competition, allowing it 
+to establish itself as a leader in that segment. 
+• 
+Better Resource Allocation: Focusing on a specific market 
+segment allows StarTech to allocate its resources more efficiently, 
+concentrating on areas that will provide the greatest return on 
+investment. 
+ 
+Disadvantages of Focused Differentiation: 
+• 
+Limited Market Size: The niche market that StarTech is targeting 
+may be limited in size, restricting the company's potential for 
+growth. 
+• 
+Risk of Market Changes: Changes in the market or customer 
+preferences could impact on the demand for StarTech's specialized 
+products or services, leading to potential revenue loss. 
+• 
+Higher Costs: Serving a niche market may require specialized 
+resources and expertise, leading to higher costs of operation. 
+• 
+Imitation by Competitors: If StarTech's success in the niche 
+market attracts competitors, they may attempt to imitate its 
+strategy, eroding its competitive advantage. 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com
+<<PAGE 19>>
+19 
+ 
+Overall, the focused differentiation strategy adopted by StarTech 
+Solutions has allowed it to differentiate itself in a competitive industry 
+and build a strong position in the market. However, the company must 
+be aware of the potential challenges and risks associated with this 
+strategy and continue to innovate and adapt to maintain its competitive 
+edge. 
+OR 
+ 
+Strategic alliances are formed if they provide an advantage to all the 
+parties in the alliance. These advantages can be broadly categorised as 
+follows:   
+(i) 
+Organizational: Strategic alliances may be formed to learn 
+necessary skills and obtain certain capabilities from the strategic 
+partner. Strategic partners may also help to enhance productive 
+capacity, provide a distribution system, or extend supply chain. A 
+strategic partner may provide a good or service that complements 
+each other, thereby creating a synergy. If one partner is relatively 
+new or untried in a certain industry, having a strategic partner who 
+is well-known and respected will help add legitimacy and 
+creditability to the venture. 
+(ii) 
+Economic: Alliances can reduce costs and risks by distributing 
+them across the members of the alliance. Partners can obtain 
+greater economies of scale in an alliance, as production volume 
+increase, causing the cost per unit to decline. Finally, partners can 
+take advantage of co-specialization, where specializations are 
+bundled together, creating additional value. 
+(iii) Strategic: Organizations may join to cooperate instead of compete. 
+Alliances may also create vertical integration where partners are 
+part of supply chain. Strategic alliances may also be useful to 
+create a competitive advantage by the pooling of resources and 
+skills. This may also help with future business opportunities and the 
+development of new products and technologies. Strategic alliances 
+may also be used to get access to new technologies or to pursue 
+joint research and development. 
+(iv) Political: Sometimes there is need to form a strategic alliance with 
+a local foreign business to gain entry into a foreign market either 
+because of local prejudices or legal barriers to entry. Forming 
+strategic alliances with politically-influential partners may also help 
+improve overall influence and position. 
+ 
+Downloaded from castudyweb.com
+Downloaded from castudyweb.com

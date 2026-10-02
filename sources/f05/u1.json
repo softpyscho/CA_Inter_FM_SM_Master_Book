@@ -1,0 +1,434 @@
+{
+ "meta": {
+  "chapter_no": 5,
+  "section": "FM",
+  "paper": "CA Intermediate · Paper 6A · Financial Management",
+  "chapter_title": "FM Chapter 5 — Financing Decisions: Capital Structure",
+  "short_title": "FM Ch 5 Capital Structure",
+  "module": "Paper 6A Financial Management · Module 1",
+  "attempt": "January 2027",
+  "sm_edition": "ICAI BoS Study Material, Paper 6A (relevant for May 2026 examination onwards), Module 1, Chapter 5",
+  "last_verified": "18-09-2026",
+  "status_summary": "SM headings 19/19 · official atoms 34/34"
+ },
+ "sections_before": [
+  {
+   "heading": "Examiner Mindset — FM Chapter 5",
+   "blocks": [
+    {"type": "box", "tag": "pyq", "title": "What ICAI's published papers tell us",
+     "bullets": [
+      "ICAI has published no examiners' comments for Paper 6; the guidance below comes from its suggested answers, RTPs and MTPs.",
+      "**Two question types dominate.** The first is **MM and the arbitrage process** — a levered and an unlevered company of the same risk class, asking which is overvalued and how an investor profits. The second is **EBIT-EPS-MPS**: two or three ways of raising a given sum, judged on earnings per share and market price.",
+      "Every RTP in the set carries a question ICAI labels 'Capital Structure', and **MM appears in five of the eight**.",
+      "The 2-mark theory parts rotate through a short list: **optimum capital structure, over-capitalisation, pecking order theory, financial break-even and the EBIT-EPS-MPS relationship** — five topics that between them have appeared eight times in the MTPs alone.",
+      "May 2025 asked the pecking order hierarchy directly; May 2024 and May 2025 both set MM numericals."
+     ]},
+    {"type": "box", "tag": "face", "title": "How ICAI marks this chapter (study guidance)",
+     "bullets": [
+      "In an EBIT-EPS question, **lay the alternatives out in parallel columns** — EBIT, interest, PBT, tax, PAT, preference dividend, earnings for equity, number of shares, EPS — exactly as the study material's Illustration 11 does.",
+      "**Recommend, don't just compute.** The final mark is for naming the better option and saying why, in one line.",
+      "In an MM question, always **value both firms first**, then say which is overvalued, then show the arbitrage steps — sell, borrow, invest, compare.",
+      "State your assumption where the question is silent on tax: the 1958 model has no tax, the 1963 model does, and the formulae differ."
+     ]}
+   ]
+  }
+ ],
+ "snapshot": {
+  "about": "How much debt a company should carry: the four classical theories (Net Income, Traditional, Net Operating Income and Modigliani-Miller, with and without tax), the trade-off and pecking order theories, the seven principles that shape the mix in practice, and the EBIT-EPS-MPS, indifference point and financial break-even tools used to choose between financing plans — closing with over- and under-capitalisation.",
+  "why": "It converts the costs computed in Chapter 4 into a decision, and its EBIT-EPS analysis is the bridge to leverage in Chapter 6.",
+  "core_concepts": [
+   "F05.01 What capital structure is and the three factors that shape it",
+   "F05.03–F05.06 The four theories: NI, traditional, NOI and MM (1958 without tax, 1963 with tax)",
+   "F05.07–F05.08 Trade-off theory and pecking order theory",
+   "F05.11 The seven principles that determine capital structure in practice",
+   "F05.12 What an optimal capital structure is and the three analyses used to find it",
+   "F05.13–F05.15 EBIT-EPS-MPS analysis, the indifference point and the financial break-even point",
+   "F05.16–F05.19 Over-capitalisation and under-capitalisation"
+  ],
+  "key_provisions": [
+   "Value of the firm = EBIT ÷ overall cost of capital",
+   "NI approach: value is maximum where WACC is minimum, so it pleads for as much debt as possible",
+   "NOI and MM (1958): capital structure is irrelevant; Vg = Vu",
+   "MM (1963) with tax: Vg = Vu + TB, the value of the levered firm exceeding the unlevered by debt × tax rate",
+   "Financial break-even point = Interest + Preference dividend ÷ (1 − tax rate)"
+  ],
+  "tested_areas": [
+   {"text": "MM approach and the arbitrage process — which firm is overvalued and how the investor gains", "evidence": "PYQ May 2024 Q2(b), May 2025 Q3(b); RTP May 2024, Sep 2024 (twice), Jan 2026, May 2026; MTP Jan 2026 S1, May 2026 S1, Sep 2026 S1"},
+   {"text": "EBIT-EPS-MPS analysis of two or three financing plans", "evidence": "PYQ Sep 2024 Q3(b), Sep 2025 Q3(a); RTP Jan 2025, May 2025, Sep 2025 (twice); MTP Mar 2024 S2, Jan 2026 S1, Sep 2024 S2, Sep 2026 S2"},
+   {"text": "Over-capitalisation: causes, consequences and remedies", "evidence": "MTP Jan 2025 Series I, May 2025 Series II; RTP Jan 2026"},
+   {"text": "Optimum capital structure as a 2-mark theory part", "evidence": "MTP Mar 2024 Series I, May 2025 Series I, Sep 2025 Series II"},
+   {"text": "Pecking order theory", "evidence": "PYQ May 2025 Q4(c); MTP May 2026 Series I"}
+  ],
+  "mistakes": [
+   "Using the 1963 formulae on a question that says taxes are ignored, or the reverse.",
+   "In an arbitrage answer, forgetting to borrow in the same proportion as the levered firm's debt — the personal leverage that substitutes for corporate leverage.",
+   "Computing EPS but not recommending an option; the recommendation carries a mark.",
+   "Treating the debt-to-total-value ratio as a debt-equity ratio; the study material flags this trap in its own illustration."
+  ],
+  "links": [
+   "🔗 FM Ch 4: the component costs that go into Ko",
+   "🔗 FM Ch 6: financial leverage and the EBIT-EPS relationship seen from the leverage side",
+   "🔗 FM Ch 3 §3.2.1: debt-equity and capital gearing ratios",
+   "🔗 FM Ch 1 §12: agency costs, which the trade-off theory prices"
+  ],
+  "revision_path": "5 min: the four theories in one line each and the financial break-even formula · 15 min: add the MM formulae with and without tax · 30 min: work one EBIT-EPS question with an indifference point."
+ },
+ "evidence": {
+  "pyq_table": [
+   {"id": "PYQ-M24-Q2b", "question": "Levered and unlevered companies of the same business risk: value both and show the arbitrage", "concept": "F05.06", "marks": 5, "type": "MM numerical", "repeat": "R5"},
+   {"id": "PYQ-S24-Q3b", "question": "ER Private Limited: two financing alternatives judged on EPS and market price", "concept": "F05.13", "marks": 5, "type": "EBIT-EPS-MPS", "repeat": "R5"},
+   {"id": "PYQ-M25-Q3b", "question": "Z Ltd: unlevered company repurchasing ₹300 lakh of equity by issuing 12% debentures", "concept": "F05.06", "marks": 5, "type": "MM numerical", "repeat": "R5"},
+   {"id": "PYQ-M25-Q4c", "question": "Hierarchy of financing under the pecking order theory, and why it exists", "concept": "F05.08", "marks": 2, "type": "Descriptive", "repeat": "R5"},
+   {"id": "PYQ-S25-Q3a", "question": "AVS Limited: three financing options with a slab-wise cost of debt and a falling share price", "concept": "F05.13", "marks": 5, "type": "EBIT-EPS-MPS", "repeat": "R5"}
+  ],
+  "trend": [
+   "Capital structure has carried a full 5-mark numerical in four of the six attempts from May 2024 to May 2026, plus a 2-mark theory part in a fifth.",
+   "ICAI alternates between the two families: MM in May 2024 and May 2025, EBIT-EPS in September 2024 and September 2025.",
+   "The theory parts are short and predictable — pecking order in May 2025, and optimum capital structure and over-capitalisation across the MTPs."
+  ],
+  "rtp_takeaways": [
+   "All eight RTPs carry a 'Capital Structure' question; five of them are MM problems with two companies of the same risk class.",
+   "The September 2025 RTP set two EBIT-EPS questions in a row, one asking for the best option on EPS and the other on WACC as well.",
+   "The January 2026 RTP asked for the causes of over-capitalisation as a short theory part."
+  ],
+  "mtp_takeaways": [
+   "Over-capitalisation appears twice as a 2-mark part and once as a 4-mark consultancy scenario.",
+   "'What is optimum capital structure' and 'discuss optimal capital structure and how to analyse it' are the same question in three different MTPs.",
+   "Two MTPs ask for financial break-even and indifference point analysis together, which is how the study material presents them."
+  ],
+  "note": "Counting method: every official part mapped to this chapter from ICAI suggested answers (May 2024 to May 2026), RTPs (May 2024 to Sep 2026, using ICAI's own topic labels) and MTPs (Mar 2024 to Aug 2026)."
+ },
+ "concepts": [
+  {
+   "code": "F05.01",
+   "title": "1. The Meaning of Capital Structure",
+   "activity": "Foundation",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 0",
+   "understand": [
+    "==**Capital structure is the combination of capitals from different sources of finance.** The capital of a company consists of **equity shareholders' fund, preference share capital and long-term external debts**.==",
+    "**The source and quantum of capital is decided keeping three factors in mind.** **(i) Control** — the capital structure should be designed so that **existing shareholders continue to hold a majority stake**. **(ii) Risk** — it should be designed so that the **financial risk of the company does not increase beyond a tolerable limit**. **(iii) Cost** — the **overall cost of capital remains minimum**.",
+    "==**Practically, it is difficult to achieve all of the above three goals together**, hence a finance manager has to **make a balance among these three objectives**.== However, the objective of a company is to **maximise the value of the company**, and that is the prime objective while deciding the optimal capital structure.",
+    "==**Capital structure decision refers to deciding the forms of financing (which sources to be tapped), their actual requirements (amount to be funded) and their relative proportions (mix) in total capitalisation.**==",
+    "**The arithmetic that ties the chapter together.** ==**Value of the firm = EBIT ÷ Overall cost of capital (weighted average cost of capital)**==, and ==**Ko = (Cost of debt × weight of debt) + (Cost of equity × weight of equity) = [Kd × D ÷ (D + S)] + [Ke × S ÷ (D + S)]**==, where **Ko** is the WACC, **Kd** the cost of debt, **D** the market value of debt, **S** the market value of equity and **Ke** the cost of equity.",
+    "So the **capital structure decision will decide the weight of debt and equity and ultimately the overall cost of capital as well as the value of the firm**. Capital structure is therefore **relevant in maximising the value of the firm and minimising the overall cost of capital**.",
+    "**Whenever funds are to be raised to finance investments, a capital structure decision is involved.** A demand for raising funds **generates a new capital structure**, since a decision has to be made as to the quantity and forms of financing."
+   ],
+   "example": "A company with EBIT of ₹1,00,000 and a WACC of 12% is worth ₹8,33,333. Drop the WACC to 11% and the same earnings are worth ₹9,09,091 — which is the whole reason the chapter exists.",
+   "provisions": [
+    {"ref": "Value of the firm (SM §1)", "status": "VERIFIED",
+     "requirement": "Value of the firm = EBIT ÷ overall cost of capital; Ko = Kd × D/(D+S) + Ke × S/(D+S).",
+     "exam_angle": "Every theory in the chapter is an argument about what happens to Ko as D rises."},
+    {"ref": "Three factors (SM §1)", "status": "VERIFIED",
+     "requirement": "Control, risk and cost; all three cannot be achieved together, so a balance must be struck.",
+     "exam_angle": "The opening lines of any 'factors determining capital structure' answer."}
+   ],
+   "keywords": ["combination of capitals", "equity shareholders' fund", "long term external debts", "control", "risk", "cost", "make a balance", "forms of financing", "actual requirements", "relative proportions", "total capitalisation", "value of the firm"],
+   "memory": {
+    "trick": "Three goals, one trade-off: **C-R-C — Control, Risk, Cost.** You cannot have all three, so you balance them and let value decide.",
+    "key": [["What", "The mix of equity funds, preference capital and long-term debt"], ["Decided by", "Control · risk · cost"], ["Decision covers", "Which sources · how much · in what proportion"], ["Value of firm", "EBIT ÷ Ko"], ["Ko", "Kd × D/(D+S) + Ke × S/(D+S)"]],
+    "recall_trigger": "Control, Risk, Cost"
+   },
+   "mistakes": ["Including short-term borrowings in capital structure; the study material names long-term external debts.", "Saying all three goals can be met at once; the study material says a balance must be struck."],
+   "links": ["🔗 FM Ch 4 §9: the weighted average cost of capital being minimised here", "🔗 FM Ch 1 §7.2: value maximisation as the prime objective"],
+   "face_in_exam": {
+    "forms": ["Short note on capital structure and the factors that shape it", "MCQ on what capital structure comprises"],
+    "approach": ["Define, then give control, risk and cost, then the value formula"],
+    "official_pattern": "Not yet asked directly; it is the vocabulary the theories assume.",
+    "time_tip": "2 marks ≈ 3 minutes (study guidance)."
+   },
+   "expected_questions": [
+    {"id": "EQ-F05.01-1", "form": "Explain (4 marks)", "marks": 4,
+     "question": "Explain what is meant by capital structure, the factors that decide the source and quantum of capital, and how the capital structure decision affects the value of the firm.",
+     "answer_points": [
+      "Capital structure is the combination of capitals from different sources of finance; the capital of a company consists of equity shareholders' fund, preference share capital and long-term external debts.",
+      "The source and quantum of capital is decided keeping in mind **control** — the structure should let existing shareholders continue to hold a majority stake; **risk** — financial risk should not increase beyond a tolerable limit; and **cost** — the overall cost of capital should remain minimum.",
+      "Practically it is difficult to achieve all three goals together, so a finance manager has to make a balance among them; the prime objective in deciding the optimal capital structure is to maximise the value of the company.",
+      "The capital structure decision refers to deciding the forms of financing (which sources to tap), their actual requirements (the amount to be funded) and their relative proportions (the mix) in total capitalisation.",
+      "Value of the firm = EBIT ÷ overall cost of capital, where Ko = [Kd × D ÷ (D + S)] + [Ke × S ÷ (D + S)]. The capital structure decision decides the weights of debt and equity, hence the overall cost of capital, and hence the value of the firm — which is why capital structure is relevant to maximising value and minimising cost."
+     ],
+     "keywords": ["combination of capitals", "control, risk and cost", "relative proportions", "EBIT ÷ overall cost of capital"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F05.01-01", "angle": "Composition", "difficulty": "Easy",
+     "question": "Capital structure, as defined in the study material, consists of:",
+     "options": {"A": "Equity shareholders' fund, preference share capital and long-term external debts", "B": "All current and non-current liabilities", "C": "Equity share capital alone", "D": "Working capital and fixed assets"},
+     "answer": "A",
+     "explanation": "SM §1: the capital of a company consists of equity shareholders' fund, preference share capital and long-term external debts.",
+     "why_wrong": {"B": "Current liabilities are not part of capital structure.", "C": "Preference capital and long-term debt are included.", "D": "Those are assets and their financing, not the structure itself."},
+     "trap": "Short-term borrowings belong to working capital, not capital structure.",
+     "concept": "F05.01"},
+    {"id": "MCQ-F05.01-02", "angle": "Objective", "difficulty": "Easy",
+     "question": "The three factors the study material names as deciding the source and quantum of capital are:",
+     "options": {"A": "Liquidity, solvency and profitability", "B": "Control, risk and cost", "C": "Growth, stability and flexibility", "D": "Tax, inflation and exchange rates"},
+     "answer": "B",
+     "explanation": "SM §1: control — existing shareholders should continue to hold a majority stake; risk — financial risk should not exceed a tolerable limit; cost — overall cost of capital should remain minimum.",
+     "why_wrong": {"A": "Those are ratio families from Chapter 3.", "C": "Growth and stability of sales and flexibility are among the seven principles of §3.2, not these three.", "D": "Those are factors affecting the cost of capital in Chapter 4."},
+     "trap": "Option C is drawn from a real list in the same chapter — but a later one.",
+     "concept": "F05.01"}
+   ],
+   "recap": ["Capital structure = equity funds + preference capital + long-term debt.", "Decided by control, risk and cost; all three cannot be maximised together.", "Value of the firm = EBIT ÷ Ko, so the mix drives the value."]
+  },
+  {
+   "code": "F05.02 + F05.03",
+   "title": "2–2.1 The Capital Structure Theories, and the Net Income (NI) Approach",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "MTP 1 (Jan 2025 Series II)",
+   "understand": [
+    "**Four approaches explain the relationship between cost of capital, capital structure and the value of the firm:** **(a) Net Income (NI) approach, (b) Traditional approach, (c) Net Operating Income (NOI) approach, (d) Modigliani-Miller (MM) approach.** The study material groups them as **relevance theories** (NI, traditional, and MM 1963 with tax) and **irrelevance theories** (NOI, and MM 1958 without tax).",
+    "**Seven assumptions** are made to understand the relationship: there are **only two kinds of funds — debt and equity**; the **total assets of the firm are given**, and the **degree of leverage can be changed by selling debt to purchase shares or selling shares to retire debt**; **taxes are not considered**; the **dividend payout ratio is 100%**; the **firm's total financing remains constant**; **business risk is constant over time**; and the **firm has perpetual life**.",
+    "**2.1 The Net Income approach.** ==According to this approach, the **capital structure decision is relevant to the value of the firm**. An **increase in financial leverage will lead to a decline in the weighted average cost of capital, while the value of the firm as well as the market price of the ordinary share will increase**. Conversely, a **decrease in leverage will cause an increase in the overall cost of capital and a consequent decline in the value as well as the market price of equity shares**.==",
+    "**Why.** **Ke and Kd are assumed not to change with leverage.** As debt — the cheaper source — increases, its greater weight **causes the weighted average cost of capital to decrease**.",
+    "**The arithmetic.** ==**Value of Firm (V) = S + D**, where **S** is the market value of equity and **D** the market value of debt. **Market value of equity (S) = NI ÷ Ke**==, where **NI is earnings available for equity shareholders** and **Ke the equity capitalisation rate**. ==**Overall cost of capital = EBIT ÷ Value of the firm.**==",
+    "==Under the NI approach the **value of the firm will be maximum at a point where the weighted average cost of capital is minimum**. The theory therefore **suggests total or maximum possible debt financing for minimising the cost of capital**, and its significant conclusion is that it **pleads for the firm to employ as much debt as possible to maximise its value**.==",
+    "**The study material's Illustration 1 pattern.** Rupa Ltd.'s EBIT is ₹5,00,000 with 10% debentures of ₹20 lakh and a given equity capitalisation rate. Deduct interest from EBIT to get earnings available for equity holders, divide by Ke to get S, add D to get V, and divide EBIT by V to get the overall cost of capital."
+   ],
+   "example": "EBIT ₹5,00,000, interest ₹2,00,000 and Ke of 15% give equity worth ₹20,00,000; add ₹20,00,000 of debt and the firm is worth ₹40,00,000, so Ko = 5,00,000 ÷ 40,00,000 = 12.5%.",
+   "provisions": [
+    {"ref": "NI approach (SM §2.1)", "status": "VERIFIED",
+     "requirement": "Ke and Kd constant; more debt lowers WACC and raises value; V = S + D, S = NI ÷ Ke, Ko = EBIT ÷ V; maximum debt is optimal.",
+     "exam_angle": "The only theory that recommends 100% debt, which is what makes it examinable as a contrast."}
+   ],
+   "keywords": ["relevant to the value of the firm", "decline in the weighted average cost of capital", "Ke and Kd are assumed not to change", "earnings available for equity shareholders", "equity capitalisation rate", "maximum possible debt financing", "as much debt as possible"],
+   "memory": {
+    "trick": "NI = **\"more debt, more value\"**. Because Ke never reacts, cheap debt simply drags the average down. It is the theory with no brake.",
+    "key": [["Relevance", "Capital structure matters"], ["Ke and Kd", "Both constant"], ["More debt", "WACC falls, value rises, share price rises"], ["V", "S + D, where S = NI ÷ Ke"], ["Ko", "EBIT ÷ V"], ["Conclusion", "Employ as much debt as possible"]],
+    "recall_trigger": "More debt, more value"
+   },
+   "mistakes": ["Dividing EBIT rather than earnings available for equity by Ke; interest must be deducted first.", "Forgetting that under NI the cost of equity does not rise with leverage — that is the assumption doing all the work."],
+   "links": ["🔗 FM Ch 5 §2.3: the NOI approach, which reverses every conclusion here", "🔗 FM Ch 4 §9: the same Ko computed from component costs"],
+   "face_in_exam": {
+    "forms": ["Compute the value of the firm and the overall cost of capital under the NI approach", "MCQ on what happens to WACC as leverage rises"],
+    "approach": ["EBIT − interest = NI; NI ÷ Ke = S; S + D = V; EBIT ÷ V = Ko"],
+    "official_pattern": "MTP-J25-S2-FQ1b.",
+    "time_tip": "5 marks ≈ 9 minutes (study guidance)."
+   },
+   "write": {
+    "structure": ["Statement showing earnings available for equity", "Value of equity", "Value of the firm", "Overall cost of capital"],
+    "keywords": ["equity capitalisation rate", "value of the firm", "overall cost of capital"],
+    "length": "5 marks: a four-line statement plus two divisions",
+    "conclusion": "Note that under this approach more debt would lower Ko further.",
+    "avoid": ["Mixing in the MM formulae, which assume Ke rises"]
+   },
+   "official_questions": [
+    {"id": "MTP-J25-S2-FQ1b", "marks": 5, "status": "VERIFIED",
+     "question": "Theta Limited is expecting an annual earning of ₹3 lakh before paying any interest and taxes. The company has debt in its capital structure and a stated equity capitalisation rate. Compute the value of the firm and the overall cost of capital.",
+     "answer_points": [
+      "**Under the Net Income approach (SM §2.1).** Earnings available for equity shareholders = EBIT − interest. **Market value of equity (S) = NI ÷ Ke.** **Value of the firm (V) = S + D.** **Overall cost of capital = EBIT ÷ V.**",
+      "**Under the Net Operating Income approach (SM §2.3), if that is what the question asks.** Value of the firm = EBIT ÷ Ko, with Ko given; **market value of equity = V − D**; and **Ke = earnings available for equity ÷ market value of equity**, which rises with leverage.",
+      "The two approaches give different answers from the same data, so the first line of the answer must name the approach being applied.",
+      "Where the question asks how the value changes if the debt is increased, the NI approach shows the value rising, while the NOI approach shows it unchanged — the contrast is usually the point of the question."
+     ],
+     "conclusion": "Name the approach, then run the four lines; the contrast between approaches is the examinable idea.",
+     "keywords": ["earnings available for equity", "equity capitalisation rate", "value of the firm", "overall cost of capital"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F05.03-01", "angle": "Conclusion", "difficulty": "Easy",
+     "question": "The significant conclusion of the Net Income approach is that the firm should:",
+     "options": {"A": "Employ as much debt as possible to maximise its value", "B": "Avoid debt altogether", "C": "Keep debt and equity in equal proportion", "D": "Ignore capital structure, since it is irrelevant"},
+     "answer": "A",
+     "explanation": "SM §2.1: the theory suggests total or maximum possible debt financing for minimising the cost of capital, and pleads for the firm to employ as much debt as possible to maximise its value.",
+     "why_wrong": {"B": "The opposite of the approach's logic.", "C": "No such balance is prescribed.", "D": "That is the NOI and MM (1958) position."},
+     "trap": "It is the only one of the four theories with no upper limit on debt.",
+     "concept": "F05.03"},
+    {"id": "MCQ-F05.02-02", "angle": "Assumption", "difficulty": "Moderate",
+     "question": "Which of the following is NOT among the assumptions the study material lists for the capital structure theories?",
+     "options": {"A": "Taxes are not considered", "B": "The dividend payout ratio is 100%", "C": "Business risk is constant over time", "D": "The firm's total assets grow each year"},
+     "answer": "D",
+     "explanation": "SM §2: the total assets of the firm are given, and the degree of leverage is changed by selling debt to purchase shares or selling shares to retire debt — assets do not grow.",
+     "why_wrong": {"A": "Expressly assumed.", "B": "Expressly assumed.", "C": "Expressly assumed."},
+     "trap": "The assumption is that assets are fixed and only the financing mix changes.",
+     "concept": "F05.02"}
+   ],
+   "recap": ["Four theories; NI and traditional say structure matters, NOI and MM (1958) say it does not.", "Seven assumptions, including no taxes, 100% payout and constant business risk.", "NI: Ke and Kd constant, so more debt lowers WACC and raises value.", "V = S + D, S = NI ÷ Ke, Ko = EBIT ÷ V."]
+  },
+  {
+   "code": "F05.04",
+   "title": "2.2 The Traditional Approach",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "MTP 3 (Mar 2024 Series I, May 2025 Series I, Sep 2025 Series II)",
+   "understand": [
+    "==This approach favours that **as a result of financial leverage up to some point, cost of capital comes down and value of the firm increases; however, beyond that point, a reverse trend emerges**. The principal implication is that **the cost of capital is dependent on the capital structure and there is an optimal capital structure which minimises cost of capital**.==",
+    "**Three movements under this approach.** **(i)** The **rate of interest on debt remains constant for a certain period and thereafter, with an increase in leverage, it increases**. **(ii)** The **expected rate by equity shareholders remains constant or increases gradually; after that, the equity shareholders start perceiving a financial risk, and then from the optimal point the expected rate increases speedily**. **(iii)** As a result, the **WACC first decreases and then increases — and the lowest point on the curve is the optimal capital structure**.",
+    "==**Optimum capital structure occurs at the point where the value of the firm is highest and the cost of capital is the lowest.**==",
+    "**Where it sits among the theories.** According to the **net operating income approach, capital structure decisions are totally irrelevant**; **Modigliani-Miller supports the net operating income approach but provides behavioural justification**; ==the **traditional approach strikes a balance between these extremes**.==",
+    "**Main highlight.** The firm should **strive to reach the optimal capital structure and its total valuation through a judicious use of both debt and equity**. At the optimal capital structure, the **overall cost of capital will be minimum and the value of the firm will be maximum**.",
+    "**The study material's Illustration 3 and its warning.** Given options with different costs of debt and equity at debt ratios of 0.0 to 0.6, compute Ko for each and pick the lowest. ==The study material flags the trap expressly: **the ratio given is not the debt to equity ratio but the debt to total value ratio** — so a ratio of 0.6 means capital employed comprises **60% debt and 40% equity**.== In its own worked answer, Ko falls from 13.00% at zero debt to **12.80% at a debt ratio of 0.1**, then rises through 13.52%, 14.10%, 14.80%, 16.50% and 18.80% — so the **second option is the best because it has the lowest WACC**."
+   ],
+   "example": "The study material's own table: 11% debt and 13% equity at a 10% debt ratio give Ko = 12.80%, the minimum. Push debt to 60% and both costs rise, taking Ko to 18.80%.",
+   "provisions": [
+    {"ref": "Optimum point (SM §2.2)", "status": "VERIFIED",
+     "requirement": "Optimum capital structure occurs where the value of the firm is highest and the cost of capital lowest; WACC first falls, then rises.",
+     "exam_angle": "The definition quoted in every 'what is optimum capital structure' answer."},
+    {"ref": "Debt to total value, not debt to equity (SM Illustration 3)", "status": "VERIFIED",
+     "requirement": "A ratio of 0.6 means 60% debt and 40% equity of total capital employed, not a 0.6:1 debt-equity ratio.",
+     "exam_angle": "The study material itself warns about this; read the ratio's base before weighting."}
+   ],
+   "keywords": ["up to some point", "reverse trends emerges", "optimal capital structure", "minimises cost of capital", "increases speedily", "lowest point on the curve", "judicious use of both the debt and equity", "strikes a balance between these extremes", "debt to total value ratio"],
+   "memory": {
+    "trick": "The traditional curve is a **U**: WACC falls, bottoms out, then climbs. The bottom of the U is the optimum — the only theory that draws one.",
+    "key": [["Interest rate", "Constant, then rises with leverage"], ["Equity expectation", "Constant or gradual, then rises speedily past the optimum"], ["WACC", "Falls, then rises — a U shape"], ["Optimum", "Highest value, lowest cost"], ["Position", "A balance between NI and NOI"]],
+    "recall_trigger": "The U-shaped curve"
+   },
+   "mistakes": ["Saying the traditional approach denies an optimum; it is the approach that asserts one.", "Reading a debt ratio of 0.3 as a 0.3:1 debt-equity ratio when the question gives it against total value."],
+   "compare": {"title": "Where each theory stands (SM §2.2)", "headers": ["Approach", "Is capital structure relevant?", "Is there an optimum?"], "rows": [["Net Income", "Yes — more debt always lowers WACC", "Yes, at maximum possible debt"], ["Traditional", "Yes, up to a point, then the trend reverses", "Yes, at the lowest point of the WACC curve"], ["Net Operating Income", "No — totally irrelevant", "No; every structure gives the same Ko"], ["MM (1958, without tax)", "No — the NOI position, with behavioural justification", "No"], ["MM (1963, with tax)", "Yes — value rises with the tax shield", "Tends towards maximum debt, tempered by the trade-off theory"]]},
+   "links": ["🔗 FM Ch 5 §4: optimal capital structure, which this approach defines", "🔗 FM Ch 5 §2.5: the trade-off theory, the modern version of the same U curve"],
+   "face_in_exam": {
+    "forms": ["Determine the optimal capital structure from a table of Kd, Ke and debt ratios", "Compute the value of the firm and Ko under the traditional approach", "2-mark theory: what is optimum capital structure"],
+    "approach": ["Compute Ko for every option in a single table and pick the minimum", "State that the lowest WACC is also the highest value"],
+    "official_pattern": "MTP-M24-S1-FQ4c; MTP-M25-S1-FQ4c-OR; MTP-S25-S2-FQ4b.",
+    "time_tip": "5 marks ≈ 9 minutes; 2 marks ≈ 3 minutes (study guidance)."
+   },
+   "write": {
+    "structure": ["A table of options with Kd, Ke, weights and Ko", "Identify the lowest Ko", "State the decision in one line"],
+    "keywords": ["weighted average cost of capital", "optimum capital structure", "lowest"],
+    "length": "5 marks: one table plus a decision line",
+    "conclusion": "Name the option with the lowest WACC and say that value is highest there.",
+    "avoid": ["Computing Ko for only some of the options"]
+   },
+   "expected_questions": [
+    {"id": "EQ-F05.04-1", "form": "Compute and decide (5 marks)", "marks": 5,
+     "question": "Determine the optimal capital structure of a company from the following: Option 1, Kd 11.0%, Ke 13.0%, debt 0.0 of total value; Option 2, 11.0% and 13.0% at 0.1; Option 3, 11.6% and 14.0% at 0.2; Option 4, 12.0% and 15.0% at 0.3; Option 5, 13.0% and 16.0% at 0.4; Option 6, 15.0% and 18.0% at 0.5; Option 7, 18.0% and 20.0% at 0.6.",
+     "answer_points": [
+      "**Note the base of the ratio first.** The ratio given is not the debt to equity ratio but the **debt to total value ratio**; a ratio of 0.6 means capital employed comprises 60% debt and 40% equity. Since the weights total 1 in every case, there is no need to divide by the total.",
+      "**Ko = Kd × D + Ke × S**, computed option by option: (1) 11% × 0 + 13% × 1 = **13.00%**; (2) 11% × 0.1 + 13% × 0.9 = **12.80%**; (3) 11.6% × 0.2 + 14% × 0.8 = **13.52%**; (4) 12% × 0.3 + 15% × 0.7 = **14.10%**.",
+      "(5) 13% × 0.4 + 16% × 0.6 = **14.80%**; (6) 15% × 0.5 + 18% × 0.5 = **16.50%**; (7) 18% × 0.6 + 20% × 0.4 = **18.80%**.",
+      "**Decision: the 2nd option is the best because it has the lowest WACC** of 12.80%. Under the traditional approach the optimum capital structure occurs at the point where the value of the firm is highest and the cost of capital is the lowest.",
+      "The pattern also demonstrates the theory: WACC falls as the first tranche of cheap debt is added, then rises once both Kd and Ke begin to climb with leverage."
+     ],
+     "keywords": ["debt to total value ratio", "lowest WACC", "optimum capital structure"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F05.04-01", "angle": "Definition", "difficulty": "Easy",
+     "question": "Optimum capital structure occurs at the point where:",
+     "options": {"A": "Debt is at its maximum possible level", "B": "The debt-equity ratio is exactly 1:1", "C": "The value of the firm is highest and the cost of capital is the lowest", "D": "The cost of equity equals the cost of debt"},
+     "answer": "C",
+     "explanation": "SM §2.2: optimum capital structure occurs at the point where value of the firm is highest and the cost of capital is the lowest.",
+     "why_wrong": {"A": "That is the Net Income approach's conclusion, not the traditional optimum.", "B": "No such rule exists.", "D": "Ke always exceeds Kd for the same firm."},
+     "trap": "Highest value and lowest cost are two ways of saying the same thing, because V = EBIT ÷ Ko.",
+     "concept": "F05.04"},
+    {"id": "MCQ-F05.04-02", "angle": "Position", "difficulty": "Moderate",
+     "question": "The study material describes the traditional approach as one that:",
+     "options": {"A": "Denies that capital structure has any effect on value", "B": "Applies only to companies with no debt", "C": "Is identical to the Modigliani-Miller approach with tax", "D": "Strikes a balance between the net income and net operating income extremes"},
+     "answer": "D",
+     "explanation": "SM §2.2: according to NOI, capital structure decisions are totally irrelevant; MM supports NOI but provides behavioural justification; the traditional approach strikes a balance between these extremes.",
+     "why_wrong": {"A": "That is the NOI position.", "B": "It is specifically about the effect of adding debt.", "C": "MM with tax reaches a different conclusion by a different route."},
+     "trap": "It is the middle theory, which is why it is the one that draws a U-shaped WACC curve.",
+     "concept": "F05.04"}
+   ],
+   "recap": ["Leverage lowers WACC up to a point, then the trend reverses.", "Interest rises after a while; the equity expectation rises speedily past the optimum.", "The lowest point on the WACC curve is the optimal capital structure.", "Watch the base of a debt ratio: total value, not equity."]
+  },
+  {
+   "code": "F05.05",
+   "title": "2.3 The Net Operating Income (NOI) Approach",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "MTP 2 (Mar 2024 Series I, May 2025 Series II)",
+   "understand": [
+    "==**NOI means earnings before interest and tax.** According to this approach, **capital structure decisions of the firm are irrelevant**. **Any change in the leverage will not lead to any change in the total value of the firm and the market price of shares, as the overall cost of capital is independent of the degree of leverage.** As a result, **the division between debt and equity is irrelevant**.==",
+    "**Why it works.** ==As per this approach, an **increase in the use of debt, which is apparently cheaper, is offset by an increase in the equity capitalisation rate**. This happens because **equity investors seek higher compensation as they are opposed to greater risk due to the existence of fixed return securities in the capital structure**.==",
+    "So in the diagram, **Kw (the weighted average cost of capital) and Kd (the debt capitalisation rate) are constant, and Ke (the cost of equity) increases with leverage**.",
+    "**The arithmetic.** ==**Value of the firm (V) = EBIT ÷ Ko**, with **Ko given**. Then **market value of equity (S) = V − D**, and **Ke = earnings available for equity holders ÷ market value of equity**, i.e. **(EBIT − interest paid on debt) ÷ S**.== Equivalently, ==**Ke = Ko(V ÷ S) − Kd(D ÷ S)**.==",
+    "**Illustration 4.** Amita Ltd.'s EBIT is ₹5,00,000, cost of debt 10%, debt ₹15,00,000 and overall cost of capital 15%. **V = ₹5,00,000 ÷ 0.15 = ₹33,33,333.** Interest = ₹1,50,000, so earnings available for equity = ₹3,50,000. **S = ₹33,33,333 − ₹15,00,000 = ₹18,33,333**, and **Ke = ₹3,50,000 ÷ ₹18,33,333 = 19.09%**.",
+    "**Illustration 5 — the two-company version ICAI keeps setting.** Alpha Ltd. has **50% debt and 50% equity**; Beta Ltd. has **20% debt and 80% equity**; both borrow at **8% in a no-tax world** with perfect capital markets and the same **net operating income of ₹3,60,000**, and Alpha's overall capitalisation rate is **18%**.",
+    "**Value of Alpha = ₹3,60,000 ÷ 0.18 = ₹20,00,000**, split ₹10,00,000 debt and ₹10,00,000 equity. Interest = 8% × ₹10,00,000 = ₹80,000, leaving **₹2,80,000** for equity, so a 2% holding returns **₹5,600** and the **implied required rate of return on equity is ₹2,80,000 ÷ ₹10,00,000 = 28%**.",
+    "**Beta has the same value of ₹20,00,000**, split ₹4,00,000 debt and ₹16,00,000 equity. Interest = 8% × ₹4,00,000 = ₹32,000, leaving **₹3,28,000**, so its **implied required return on equity is ₹3,28,000 ÷ ₹16,00,000 = 20.5%**.",
+    "==**Why the difference?** The study material's own answer: Beta's implied required return on equity is **lower than Alpha's because Beta uses less debt**. As the **equity capitalisation is a linear function of the debt-to-equity ratio** under the NOI approach, **the decline in required equity return offsets exactly the disadvantage of not employing so much in the way of 'cheaper' debt funds**.=="
+   ],
+   "example": "Both Alpha and Beta are worth ₹20,00,000 despite carrying 50% and 20% debt. The extra cheap debt in Alpha is exactly cancelled by its shareholders demanding 28% instead of 20.5%.",
+   "provisions": [
+    {"ref": "NOI approach (SM §2.3)", "status": "VERIFIED",
+     "requirement": "Ko and Kd constant, Ke rises with leverage; V = EBIT ÷ Ko; S = V − D; Ke = (EBIT − interest) ÷ S.",
+     "exam_angle": "The 'implied required rate of return on equity' phrasing signals this approach."}
+   ],
+   "keywords": ["net operating income", "totally irrelevant", "independent of the degree of leverage", "apparently cheaper", "offset by an increase in the equity capitalisation rate", "opposed to greater risk", "fixed return securities", "implied required rate of return", "linear function of the debt-to-equity ratio"],
+   "memory": {
+    "trick": "NOI is a **see-saw**: the cheaper debt on one side is exactly balanced by the dearer equity on the other, so the total never moves.",
+    "key": [["Ko and Kd", "Constant"], ["Ke", "Rises with leverage"], ["V", "EBIT ÷ Ko — independent of the mix"], ["S", "V − D"], ["Ke", "(EBIT − interest) ÷ S, or Ko(V/S) − Kd(D/S)"], ["Conclusion", "The debt-equity division is irrelevant"]],
+    "recall_trigger": "The see-saw that never tips"
+   },
+   "mistakes": ["Computing the value of equity first; under NOI the firm is valued first and equity is the residual.", "Saying Ke is constant; it is the one rate that moves."],
+   "compare": {"title": "Net Income versus Net Operating Income (SM §§2.1 and 2.3)", "headers": ["Basis", "Net Income approach", "Net Operating Income approach"], "rows": [["Is capital structure relevant?", "Yes", "No — totally irrelevant"], ["Ke", "Constant", "Increases with leverage"], ["Kd", "Constant", "Constant"], ["Ko as debt rises", "Falls", "Unchanged"], ["Value is found by", "S = NI ÷ Ke, then V = S + D", "V = EBIT ÷ Ko, then S = V − D"], ["Recommendation", "Employ as much debt as possible", "The mix does not matter"]]},
+   "links": ["🔗 FM Ch 5 §2.4: MM, which gives this approach its behavioural justification", "🔗 FM Ch 4 §7.5: the risk that makes equity holders demand more"],
+   "face_in_exam": {
+    "forms": ["Compute the value of the firm and the cost of equity under NOI", "Two companies with different gearing but the same NOI — find each implied required return and explain the difference"],
+    "approach": ["Value the firm first, then subtract debt, then divide the residual earnings"],
+    "official_pattern": "MTP-M24-S1-FQ1b; MTP-M25-S2-FQ2b.",
+    "time_tip": "5 marks ≈ 9 minutes (study guidance)."
+   },
+   "write": {
+    "structure": ["Statement showing the value of the firm", "Market value of debt and equity", "Earnings available for equity", "Cost of equity, and the explanation if two firms are compared"],
+    "keywords": ["net operating income", "implied required rate of return", "linear function"],
+    "length": "5 marks: a value statement plus the Ke computation",
+    "conclusion": "State that the difference in Ke exactly offsets the difference in gearing.",
+    "avoid": ["Explaining the difference as a valuation difference; the values are identical"]
+   },
+   "official_questions": [
+    {"id": "MTP-M24-S1-FQ1b", "marks": 5, "status": "VERIFIED",
+     "question": "The capital structure of AN Ltd. in market-value terms is 50% debt and 50% equity. The borrowing rate for the company is 10% in a no-tax world and capital markets are assumed to be perfect. (i) If Mr. R owns 8% of the equity shares of AN Ltd., determine his return if the company has net operating income of ₹10,00,000 and the overall capitalisation rate of the company (Ko) is 20%. (ii) Calculate the implied required rate of return on equity of AN Ltd.",
+     "answer_points": [
+      "**Value of the firm (SM §2.3).** V = NOI ÷ Ko = ₹10,00,000 ÷ 0.20 = **₹50,00,000**.",
+      "**Split at market value.** Debt = 50% × ₹50,00,000 = **₹25,00,000**; equity = 50% × ₹50,00,000 = **₹25,00,000**.",
+      "**Earnings available to equity shareholders.** Net operating income ₹10,00,000 less interest on debt at 10% of ₹25,00,000 = ₹2,50,000, leaving **₹7,50,000**.",
+      "**(i) Mr. R's return.** 8% of ₹7,50,000 = **₹60,000**.",
+      "**(ii) Implied required rate of return on equity.** Earnings available for equity shareholders ÷ market value of equity = ₹7,50,000 ÷ ₹25,00,000 = **0.30, or 30%**.",
+      "Under the NOI approach, this 30% is higher than the 20% overall capitalisation rate precisely because equity investors demand compensation for the financial risk created by the fixed-return securities in the structure."
+     ],
+     "conclusion": "Value the firm, split it, deduct interest, divide — four steps in a fixed order.",
+     "keywords": ["net operating income", "overall capitalisation rate", "implied required rate of return", "no-tax world"]},
+    {"id": "MTP-M25-S2-FQ2b", "marks": 5, "status": "VERIFIED",
+     "question": "Zordon Ltd. has net operating income of ₹5,00,000 and total capitalisation of ₹50,00,000 during the current year. Compute the effect on the cost of equity and the overall cost of capital of different levels of debt in the capital structure.",
+     "answer_points": [
+      "**Overall cost of capital.** Ko = EBIT ÷ total capitalisation = ₹5,00,000 ÷ ₹50,00,000 = **10%**, and under the NOI approach this stays at 10% whatever the level of debt.",
+      "**For each level of debt**, market value of equity (S) = total value less debt, and **Ke = (Net operating income − interest) ÷ S**.",
+      "As debt rises, the numerator falls by the interest and the denominator falls by the debt, and the study material's point is that **Ke rises just enough to keep Ko unchanged** — because the equity capitalisation is a linear function of the debt-to-equity ratio.",
+      "**Present the answer as a table** with columns for debt, equity, earnings available for equity, Ke and Ko, so that the constancy of Ko is visible across the rows.",
+      "Conclude with the approach's own words: any change in leverage will not lead to any change in the total value of the firm or the market price of the shares, as the overall cost of capital is independent of the degree of leverage."
+     ],
+     "conclusion": "A table across debt levels showing Ke rising and Ko flat is the whole answer.",
+     "keywords": ["total capitalisation", "independent of the degree of leverage", "equity capitalisation rate"]}
+   ],
+   "expected_questions": [
+    {"id": "EQ-F05.05-1", "form": "Compute and explain (5 marks)", "marks": 5,
+     "question": "Alpha Ltd. and Beta Ltd. are identical except for capital structure. Alpha has 50% debt and 50% equity; Beta has 20% debt and 80% equity, both in market-value terms. The borrowing rate for both is 8% in a no-tax world and capital markets are perfect. Net operating income is ₹3,60,000 for each, and Alpha's overall capitalisation rate is 18%. (a) If you own 2% of Alpha's shares, determine your return, and calculate Alpha's implied required rate of return on equity. (b) Calculate Beta's implied required rate of return on equity and analyse why it differs.",
+     "answer_points": [
+      "**Value of Alpha Ltd.** = NOI ÷ Ko = ₹3,60,000 ÷ 0.18 = **₹20,00,000**; market value of debt = 50% = ₹10,00,000 and of equity = 50% = ₹10,00,000.",
+      "**Return on a 2% holding in Alpha.** Net operating income ₹3,60,000 less interest of 8% × ₹10,00,000 = ₹80,000 leaves **₹2,80,000** for equity; 2% of that is **₹5,600**.",
+      "**Alpha's implied required rate of return on equity** = ₹2,80,000 ÷ ₹10,00,000 = **28%**.",
+      "**Beta Ltd.** has the same total value of ₹20,00,000; debt = 20% = ₹4,00,000 and equity = 80% = ₹16,00,000. Interest = 8% × ₹4,00,000 = ₹32,000, leaving **₹3,28,000** for equity. **Implied required rate of return on equity = ₹3,28,000 ÷ ₹16,00,000 = 20.5%.**",
+      "**Why it differs.** Beta's implied required return on equity is lower than Alpha's because Beta uses less debt in its capital structure. As the equity capitalisation is a linear function of the debt-to-equity ratio under the net operating income approach, **the decline in required equity return offsets exactly the disadvantage of not employing so much in the way of 'cheaper' debt funds** — which is why both firms are worth the same ₹20,00,000."
+     ],
+     "keywords": ["implied required rate of return", "linear function of the debt-to-equity ratio", "offsets exactly", "no-tax world"]}
+   ],
+   "mcqs": [
+    {"id": "MCQ-F05.05-01", "angle": "Mechanism", "difficulty": "Moderate",
+     "question": "Under the net operating income approach, the apparent cheapness of debt is offset by:",
+     "options": {"A": "A rise in the rate of interest on debt", "B": "A fall in earnings before interest and tax", "C": "An increase in the equity capitalisation rate, as investors are opposed to the greater risk from fixed return securities", "D": "An increase in the corporate tax rate"},
+     "answer": "C",
+     "explanation": "SM §2.3: an increase in the use of debt, which is apparently cheaper, is offset by an increase in the equity capitalisation rate, because equity investors seek higher compensation as they are opposed to greater risk due to the existence of fixed return securities in the capital structure.",
+     "why_wrong": {"A": "Kd is constant under this approach.", "B": "EBIT is given and unaffected by financing.", "D": "The approach assumes no taxes."},
+     "trap": "It is Ke, not Kd, that moves under NOI — the opposite of the traditional approach's later stage.",
+     "concept": "F05.05"},
+    {"id": "MCQ-F05.05-02", "angle": "Computation", "difficulty": "Moderate",
+     "question": "A firm has net operating income of ₹5,00,000, debt of ₹15,00,000 at 10% and an overall cost of capital of 15%. Its cost of equity under the NOI approach is:",
+     "options": {"A": "15.00%", "B": "23.33%", "C": "10.00%", "D": "19.09%"},
+     "answer": "D",
+     "explanation": "SM Illustration 4: V = ₹5,00,000 ÷ 0.15 = ₹33,33,333; S = ₹33,33,333 − ₹15,00,000 = ₹18,33,333; earnings available for equity = ₹5,00,000 − ₹1,50,000 = ₹3,50,000; Ke = ₹3,50,000 ÷ ₹18,33,333 = 19.09%.",
+     "why_wrong": {"A": "That is the overall cost of capital, not the cost of equity.", "B": "That is ₹3,50,000 ÷ ₹15,00,000, dividing by debt instead of equity.", "C": "That is the cost of debt."},
+     "trap": "Value the firm before you value the equity; the residual is the equity, not the other way round.",
+     "concept": "F05.05"}
+   ],
+   "recap": ["NOI: capital structure is irrelevant; Ko and Kd are constant and Ke rises with leverage.", "V = EBIT ÷ Ko; S = V − D; Ke = (EBIT − interest) ÷ S.", "Cheaper debt is offset exactly by a dearer equity capitalisation rate.", "Two firms with different gearing but the same NOI are worth the same."]
+  }
+ ]
+}

@@ -1,0 +1,1164 @@
+{
+ "concepts": [
+  {
+   "code": "F02.21",
+   "title": "6.2 Other Types of Leases",
+   "activity": "Very High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (Sep 2024 Q4(c)) · MTP 4 (Sep 2024 S2, May 2025 S2, Jan 2026 S2, Sep 2026 S1)",
+   "understand": [
+    "**(a) Sale and lease back.** ==The **owner of an asset sells the asset to a party (the buyer), who in turn leases back the same asset to the owner** in consideration of lease rentals.== Under this arrangement the **asset is not physically exchanged — it all happens in records only**. The main advantage is that the **lessee can satisfy himself completely regarding the quality of the asset** and, after possession of the asset, convert the sale into a lease agreement. In this transaction the **seller assumes the role of lessee** (the same asset he sold comes back to him as a lease) and the **buyer assumes the role of lessor**. So the **seller gets the agreed selling price and the buyer gets the lease rentals**.",
+    "**(b) Leveraged lease.** ==Under this lease a **third party is involved besides the lessor and the lessee**.== The **lessor borrows a part of the purchase cost (say 80%) of the asset from the third party, i.e. the lender**, and the asset so purchased is **held as security against the loan**. The **lender is paid off from the lease rentals directly by the lessee**, and the **surplus after meeting the claims of the lender goes to the lessor**. The **lessor is entitled to claim depreciation allowance**.",
+    "**(c) Sales-aid lease.** Where the **lessor enters into a tie-up with a manufacturer for marketing the latter's product through his own leasing operations**, it is called a sales-aid lease. In consideration of the aid in sales, the **manufacturer may grant either credit or a commission to the lessor**. Thus the **lessor earns from both sources — from the lessee as well as from the manufacturer**.",
+    "**(d) Close-ended and open-ended leases.** In the **close-ended lease, the assets get transferred to the lessor at the end of the lease**, and the **risk of obsolescence, residual value etc. remain with the lessor**, being the legal owner of the asset. In the **open-ended lease, the lessee has the option of purchasing the asset at the end of the lease period**.",
+    "**The study material's closing note on leasing.** In recent years leasing has become a popular source of financing in India. From the **lessee's point of view, leasing eliminates immediate cash outflow, and the lease rentals can be deducted for computing total income under the Income-tax Act**. As against this, **buying has the advantages of depreciation allowance (including additional depreciation) and interest on borrowed capital being tax-deductible**. So **an evaluation of the two alternatives has to be made** before deciding. Practical problems of lease financing are covered at the Final level in Financial Services and Capital Markets."
+   ],
+   "example": "A company short of cash sells its head-office building to a leasing company and takes it straight back on lease: it keeps using the building, receives the sale price today, and pays rentals — a sale and lease back.",
+   "provisions": [
+    {
+     "ref": "Leveraged lease (SM §6.2)",
+     "status": "VERIFIED",
+     "requirement": "Three parties; lessor borrows part of the cost (say 80%) from a lender; the asset is security; the lender is paid from lease rentals directly by the lessee; the surplus goes to the lessor; the lessor claims depreciation.",
+     "exam_angle": "Asked as a 2-mark 'What is a leveraged lease?' in Sep 2024 and as one item of a 4-mark 'other types of lease' in four MTPs."
+    }
+   ],
+   "keywords": [
+    "sale and lease back",
+    "not physically exchanged",
+    "seller assumes the role of lessee",
+    "leveraged lease",
+    "third party",
+    "held as security",
+    "surplus goes to the lessor",
+    "depreciation allowance",
+    "sales-aid lease",
+    "tie up with a manufacturer",
+    "credit or a commission",
+    "close-ended lease",
+    "open-ended lease",
+    "option of purchasing"
+   ],
+   "memory": {
+    "trick": "**S-L-S-C/O**: **S**ale and lease back, **L**everaged, **S**ales-aid, **C**lose-ended and **O**pen-ended. Count the parties: two, three, three (with a manufacturer), two.",
+    "key": [
+     [
+      "Sale and lease back",
+      "Seller becomes lessee; buyer becomes lessor; only records change"
+     ],
+     [
+      "Leveraged",
+      "Third-party lender funds ~80%; paid from rentals; lessor claims depreciation"
+     ],
+     [
+      "Sales-aid",
+      "Lessor ties up with a manufacturer; earns from lessee and manufacturer"
+     ],
+     [
+      "Close-ended",
+      "Asset returns to the lessor; obsolescence risk with the lessor"
+     ],
+     [
+      "Open-ended",
+      "Lessee may purchase the asset at the end"
+     ]
+    ],
+    "recall_trigger": "S-L-S-C/O"
+   },
+   "mistakes": [
+    "Saying the asset physically moves in a sale and lease back; the study material says it happens in records only.",
+    "Saying the lessee claims depreciation in a leveraged lease; the lessor is entitled to the depreciation allowance.",
+    "Swapping close-ended and open-ended: the purchase option belongs to the open-ended lease."
+   ],
+   "compare": {
+    "title": "Close-ended vs open-ended lease (SM §6.2)",
+    "headers": [
+     "Basis",
+     "Close-ended lease",
+     "Open-ended lease"
+    ],
+    "rows": [
+     [
+      "End of lease",
+      "Assets get transferred to the lessor",
+      "Lessee has the option of purchasing the asset"
+     ],
+     [
+      "Obsolescence and residual value risk",
+      "Remain with the lessor, the legal owner",
+      "Effectively passes to the lessee if the option is exercised"
+     ]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 2 §6.1: operating vs financial lease",
+    "🔗 FM Ch 3: lease-or-buy evaluation using discounted cash flows"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Explain any four other types of lease (4 marks) — the most repeated question of this chapter",
+     "What is a leveraged lease? (2 marks)",
+     "Case: a company sells and takes back its asset — identify the lease"
+    ],
+    "approach": [
+     "Bold the name, then two or three lines; four names earn four marks",
+     "Always mention the third party for a leveraged lease and the role reversal for sale and lease back"
+    ],
+    "official_pattern": "PYQ-S24-Q4c; MTP-S24-S2-FQ4b; MTP-M25-S2-FQ4a; MTP-J26-S2-FQ4a; MTP-S26-S1-FQ4b.",
+    "time_tip": "4 marks ≈ 7 minutes; 2 marks ≈ 3 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "Name in bold",
+     "Who the parties are",
+     "How the money moves",
+     "Who bears risk or claims depreciation"
+    ],
+    "keywords": [
+     "third party",
+     "lease rentals",
+     "depreciation allowance",
+     "option of purchasing"
+    ],
+    "length": "4 marks: four types, 3 lines each",
+    "conclusion": "Each variant re-arranges who owns, who funds and who bears obsolescence.",
+    "avoid": [
+     "Mixing in operating-versus-financial points unless the question asks for them"
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-S24-Q4c",
+     "marks": 2,
+     "status": "VERIFIED",
+     "question": "What is a leveraged lease? Explain.",
+     "answer_points": [
+      "Under a leveraged lease, a third party is involved besides the lessor and the lessee.",
+      "The lessor borrows a part of the purchase cost (say 80%) of the asset from the third party, i.e. the lender, and the asset so purchased is held as security against the loan.",
+      "The lender is paid off from the lease rentals directly by the lessee, and the surplus after meeting the claims of the lender goes to the lessor.",
+      "The lessor is entitled to claim the depreciation allowance."
+     ],
+     "conclusion": "Four short lines are ample for 2 marks.",
+     "keywords": [
+      "third party",
+      "held as security",
+      "surplus",
+      "depreciation allowance"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "MTP-M25-S2-FQ4a",
+     "marks": 4,
+     "status": "VERIFIED",
+     "question": "Explain any four types of lease other than operating and financial lease.",
+     "answer_points": [
+      "**Sale and lease back:** the owner of an asset sells the asset to a party (the buyer), who in turn leases back the same asset to the owner in consideration of lease rentals. The asset is not physically exchanged; it all happens in records only. The main advantage is that the lessee can satisfy himself completely regarding the quality of the asset and, after possession, convert the sale into a lease agreement. The seller assumes the role of lessee and the buyer assumes the role of lessor; the seller gets the agreed selling price and the buyer gets the lease rentals.",
+      "**Leveraged lease:** a third party is involved besides the lessor and the lessee. The lessor borrows a part of the purchase cost (say 80%) from the lender and the asset is held as security against the loan. The lender is paid off from the lease rentals directly by the lessee, and the surplus after meeting the lender's claims goes to the lessor. The lessor is entitled to claim depreciation allowance.",
+      "**Sales-aid lease:** the lessor enters into a tie-up with a manufacturer for marketing the latter's product through his own leasing operations. In consideration of the aid in sales, the manufacturer may grant either credit or a commission to the lessor. Thus the lessor earns from both sources — from the lessee as well as from the manufacturer.",
+      "**Close-ended and open-ended leases:** in the close-ended lease the assets get transferred to the lessor at the end of the lease, and the risk of obsolescence, residual value etc. remain with the lessor as legal owner. In the open-ended lease the lessee has the option of purchasing the asset at the end of the lease period."
+     ],
+     "conclusion": "One mark per type; keep each to three lines.",
+     "keywords": [
+      "sale and lease back",
+      "leveraged lease",
+      "sales-aid lease",
+      "close-ended and open-ended"
+     ],
+     "also_asked_as": [
+      "MTP-S24-S2-FQ4b (other types of leases)",
+      "MTP-J26-S2-FQ4a (other types of leases are explained below)",
+      "MTP-S26-S1-FQ4b (sale and lease back, leveraged, sales-aid, close- and open-ended)"
+     ]
+    }
+   ],
+   "expected_questions": [
+    {
+     "id": "EQ-F02.21-1",
+     "form": "Case: identify + explain (4 marks)",
+     "marks": 4,
+     "question": "Bharti Ltd. owns a printing press. To release cash without losing the use of the press, it transfers ownership to a leasing company and immediately takes the press back on rent. Identify the arrangement, explain how it works and state one advantage to Bharti Ltd.",
+     "answer_points": [
+      "The arrangement is a **sale and lease back**, one of the other types of lease.",
+      "Under this type of lease, the owner of an asset sells the asset to a party (the buyer), who in turn leases back the same asset to the owner in consideration of lease rentals; the asset is not physically exchanged and it all happens in records only.",
+      "The seller assumes the role of lessee, as the same asset which he has sold came back to him in the form of a lease, and the buyer assumes the role of lessor; the seller gets the agreed selling price and the buyer gets the lease rentals.",
+      "The advantage to Bharti Ltd. is that it releases the agreed selling price as cash while continuing to use the press; the lessee can also satisfy himself completely regarding the quality of the asset and, after possession, convert the sale into a lease agreement.",
+      "Study guidance: the first mark is for naming the arrangement, so name it in the opening line."
+     ],
+     "keywords": [
+      "sale and lease back",
+      "records only",
+      "role of lessee",
+      "role of lessor"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F02.21-01",
+     "angle": "Identify",
+     "difficulty": "Easy",
+     "question": "A lease in which the lessor borrows part of the purchase cost from a lender, who is then paid directly out of the lease rentals by the lessee, is a:",
+     "options": {
+      "A": "Leveraged lease",
+      "B": "Sale and lease back",
+      "C": "Sales-aid lease",
+      "D": "Close-ended lease"
+     },
+     "answer": "A",
+     "explanation": "SM §6.2: under a leveraged lease a third party lender funds part of the cost (say 80%) and is paid off from the lease rentals directly by the lessee.",
+     "why_wrong": {
+      "B": "The owner sells and takes the asset back on lease.",
+      "C": "The lessor ties up with a manufacturer to market its product.",
+      "D": "The asset returns to the lessor at the end of the lease."
+     },
+     "trap": "Three parties is the signature of the leveraged lease.",
+     "concept": "F02.21"
+    },
+    {
+     "id": "MCQ-F02.21-02",
+     "angle": "Who bears",
+     "difficulty": "Moderate",
+     "question": "In a close-ended lease, the risk of obsolescence and residual value:",
+     "options": {
+      "A": "Is shared equally between lessor and lessee",
+      "B": "Remains with the lessor, who is the legal owner of the asset",
+      "C": "Passes to the lessee, who must buy the asset",
+      "D": "Is borne by the lender who funded the purchase"
+     },
+     "answer": "B",
+     "explanation": "SM §6.2: in a close-ended lease the assets get transferred to the lessor at the end of the lease, and the risk of obsolescence, residual value etc. remain with the lessor being the legal owner.",
+     "why_wrong": {
+      "A": "The study material places the risk with the lessor.",
+      "C": "The purchase option belongs to the open-ended lease and is optional.",
+      "D": "A lender appears in a leveraged lease, not here."
+     },
+     "trap": "Close-ended sounds restrictive for the lessee; in fact it protects the lessee from obsolescence.",
+     "concept": "F02.21"
+    }
+   ],
+   "recap": [
+    "Sale and lease back: seller becomes lessee, buyer becomes lessor, only records change.",
+    "Leveraged lease: three parties; lender funds ~80% and is paid from rentals; lessor claims depreciation.",
+    "Sales-aid lease: lessor ties up with a manufacturer and earns twice.",
+    "Close-ended: asset returns to the lessor; open-ended: lessee may buy it."
+   ]
+  },
+  {
+   "code": "F02.22",
+   "title": "7. Short-term Sources of Finance (including Export Finance)",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (May 2026 Q4(b)) · MTP 1 (Mar 2024 Series I, MCQ)",
+   "understand": [
+    "The study material lists **ten short-term sources**. **(i) Trade credit** — credit granted by suppliers of goods as an incident of sale; usual duration **15 to 90 days**; it **generates automatically** in the course of business; it can be an **'open account' or 'bills payable'**; it is preferred because it is **without any explicit cost** and keeps rotating while the business is a going concern, and it **enhances automatically with the increase in the volume of business**.",
+    "**(ii) Accrued expenses and deferred (unearned) income** — accrued expenses are liabilities for services already received such as **wages, taxes, interest and dividends**, arising out of day-to-day activities and hence a **spontaneous source**; deferred income is **funds received in lieu of goods and services to be provided in the future**, which increase liquidity and are also a spontaneous source. **(iii) Advances from customers** — manufacturers and contractors producing costly goods over a long manufacturing period demand advance money when accepting orders; this is a **cost-free source of finance**.",
+    "**(iv) Commercial paper** — an **unsecured money market instrument issued in the form of a promissory note**; the RBI introduced the scheme in **1989** to let highly rated corporate borrowers diversify their short-term borrowings; **Primary Dealers and All India Financial Institutions** were later also allowed to issue it. ==Commercial papers are issued in **denominations of ₹5 lakh or multiples thereof**, and the interest rate is generally **linked to the yield on the one-year government bond**.== All eligible issuers must obtain a **credit rating from CRISIL, ICRA, CARE, FITCH Ratings India or any other agency specified by the RBI**.",
+    "**(v) Treasury bills** — a class of **Central Government securities** issued by the Government of India to meet short-term borrowing requirements, with **maturities ranging between 14 and 364 days**. **(vi) Certificates of deposit** — a document of title similar to a time deposit receipt with a **fixed maturity date of not less than 7 days up to a maximum of one year**, issued by a bank, except that **no interest rate is prescribed**; the advantage is that the **banker is not required to encash the deposit before maturity** while the **investor is assured of liquidity because he can sell the CD in the secondary market**.",
+    "**(vii) Bank advances.** Facilities provided by banks: **short-term loans** — the entire advance is disbursed at one time against securities like shares, government securities, life insurance policies and fixed deposit receipts; **overdraft** — customers may withdraw in excess of the credit balance in the current account up to a fixed limit, repayable on demand but generally continued by annual renewals, with **interest charged on daily balances**; **clean overdrafts** — entertained only from parties which are financially sound and of good repute, as the bank relies on the **personal security of the borrower** and has no tangible security, so banks take guarantees and grant them only for a short period; **cash credit** — an advance up to a certain limit where the customer **draws only to the extent of his requirements and deposits surplus funds**, with **interest charged on the amount actually availed** and limits sanctioned **against tradable goods by way of pledge or hypothecation**; **advances against goods** — safe and liquid because goods are in constant demand, charged by pledge or hypothecation, 'goods' including all forms of movables; **bills purchased or discounted** — advances against clean or documentary bills, where in actual practice the **bank holds the bills only as security for the advance**.",
+    "**(viii) Financing of export trade by banks.** Commercial banks provide short-term export finance mainly by **pre-shipment and post-shipment credit**, granted in **rupees as well as foreign currency**. RBI measures include rationalisation and liberalisation of export credit interest rates, flexibility in repayment or prepayment of pre-shipment credit, a special financial package for large-value exporters, export finance for agricultural exports and the **Gold Card Scheme** for exporters.",
+    "**Pre-shipment finance** generally takes the form of a **packing credit facility**: ==an advance extended by banks to an exporter for the purpose of **buying, manufacturing, processing, packing and shipping goods to overseas buyers**.== Any exporter with a **firm export order or an irrevocable letter of credit opened in his favour** can approach a bank. ==The advance is **required to be liquidated within 180 days** from the date of its commencement by negotiation of export bills or receipt of export proceeds in an approved manner== — so packing credit is essentially a short-term advance. **Types of packing credit:** **clean packing credit** (against a firm export order or letter of credit, without any charge or control over raw material or finished goods, with a suitable margin and ECGC cover obtained by the bank); **packing credit against hypothecation of goods** (goods hypothecated with a stipulated margin, with stock statements submitted every fortnight or on movement of stocks); **packing credit against pledge of goods** (finished goods pledged with approved clearing agents, possession lying with the bank under its lock and key); **E.C.G.C. guarantee** (any loan for manufacture, processing, purchasing or packing of goods for export against a firm order qualifies for the packing credit guarantee); and **forward exchange contract** (where the export bill is in foreign currency, the exporter should enter into a forward exchange contract with the bank, avoiding the risk of a change in the rate of exchange).",
+    "**Post-shipment finance** takes four forms: **(a) purchase or discounting of documentary export bills** — finance by purchasing export bills drawn payable at sight or discounting usance export bills covering confirmed sales and backed by documents of title such as bills of lading, post parcel receipts or air consignment notes; **(b) E.C.G.C. guarantee** — post-shipment finance through purchase, negotiation or discount of an export bill against an order qualifies for the post-shipment export credit guarantee, provided the exporter obtains a shipment or contracts risk policy of ECGC covering both political and commercial risks, with the Corporation fixing credit limits for individual exporters; **(c) advance against export bills sent for collection** — taking into account the creditworthiness of the party, nature of goods exported, usance and standing of the drawee; **(d) advance against duty drawbacks, cash subsidy etc.** — to finance export losses, advanced against duty drawback and cash subsidy receivable against export performance; such advances are of a **clean nature**, so necessary precautions must be exercised. ==A post-shipment advance is also **required to be liquidated within 180 days from the date of shipment**.==",
+    "**(ix) Inter-corporate deposits** — companies can borrow for a short period, **say 6 months, from other companies which have surplus liquidity**; the rate of interest varies with the amount and time period. **(x) Public deposits** — a very important source of short-term and medium-term finance, particularly due to credit squeeze by the RBI. ==A company can accept public deposits subject to RBI stipulations **up to a maximum of 35 per cent of its paid-up capital and reserves**, for a period of **six months to three years**.== Public deposits are **unsecured loans**; they **should not be used for acquiring fixed assets** since they must be repaid within three years, and are mainly used to finance **working capital requirements**."
+   ],
+   "example": "May 2026 gave a one-line case: goods shipped, proceeds not yet realised. The finance is post-shipment finance, and three of its four forms earn the remaining marks.",
+   "provisions": [
+    {
+     "ref": "Packing credit (SM §7)",
+     "status": "VERIFIED",
+     "requirement": "Pre-shipment advance for buying, manufacturing, processing, packing and shipping goods; needs a firm export order or an irrevocable letter of credit; liquidated within 180 days.",
+     "exam_angle": "'Identify the type of finance' cases; also the 180-day number as an MCQ."
+    },
+    {
+     "ref": "Public deposits (SM §7)",
+     "status": "VERIFIED",
+     "requirement": "Maximum 35 per cent of paid-up capital and reserves; period six months to three years; unsecured; not to be used for fixed assets.",
+     "exam_angle": "Asked directly as a 1-mark MCQ on the maximum period (Mar 2024 Series I)."
+    },
+    {
+     "ref": "Commercial paper, treasury bills and CDs (SM §7)",
+     "status": "VERIFIED",
+     "requirement": "CP: unsecured promissory note, ₹5 lakh denominations, rated by CRISIL/ICRA/CARE/FITCH or an RBI-specified agency. T-bills: 14 to 364 days. CDs: not less than 7 days up to one year.",
+     "exam_angle": "The three period ranges are prime MCQ material."
+    }
+   ],
+   "keywords": [
+    "trade credit",
+    "15 to 90 days",
+    "open account",
+    "spontaneous source",
+    "cost free source of finance",
+    "commercial paper",
+    "promissory note",
+    "₹5 lakhs or multiples",
+    "14 to 364 days",
+    "not less than 7 days up to one year",
+    "cash credit",
+    "clean overdraft",
+    "packing credit",
+    "irrevocable letter of credit",
+    "liquidated within 180 days",
+    "E.C.G.C.",
+    "post-shipment finance",
+    "duty draw backs",
+    "inter corporate deposits",
+    "public deposits",
+    "35 per cent of paid up capital and reserves",
+    "six months to three years"
+   ],
+   "memory": {
+    "trick": "Periods to memorise: **trade credit 15–90 days · T-bills 14–364 days · CDs 7 days–1 year · ICDs about 6 months · public deposits 6 months–3 years · export credit 180 days**.",
+    "key": [
+     [
+      "Pre-shipment",
+      "Packing credit: buy, manufacture, process, pack, ship — 180 days"
+     ],
+     [
+      "Post-shipment",
+      "Bills purchased/discounted · ECGC guarantee · advance against bills for collection · advance against duty drawback"
+     ],
+     [
+      "Public deposits",
+      "≤35% of paid-up capital and reserves; 6 months to 3 years; unsecured"
+     ],
+     [
+      "Commercial paper",
+      "Unsecured promissory note, ₹5 lakh multiples, must be rated"
+     ]
+    ],
+    "recall_trigger": "180 days both sides of the shipment"
+   },
+   "mistakes": [
+    "Calling packing credit post-shipment finance. Packing credit comes before shipment.",
+    "Writing that public deposits can fund fixed assets; the study material says they should not be, as they are repayable within three years.",
+    "Confusing cash credit (interest on the amount actually availed) with a short-term loan (whole amount disbursed at once)."
+   ],
+   "compare": {
+    "title": "Pre-shipment vs post-shipment export finance (SM §7)",
+    "headers": [
+     "Basis",
+     "Pre-shipment finance",
+     "Post-shipment finance"
+    ],
+    "rows": [
+     [
+      "When",
+      "Before shipment of goods",
+      "After shipment of goods"
+     ],
+     [
+      "Main form",
+      "Packing credit",
+      "Purchase or discounting of documentary export bills"
+     ],
+     [
+      "Purpose",
+      "Buying, manufacturing, processing, packing and shipping goods",
+      "Bridging the gap until export proceeds are realised"
+     ],
+     [
+      "Basis of the advance",
+      "Firm export order or irrevocable letter of credit",
+      "Export bills, ECGC policy, duty drawback and cash subsidy receivable"
+     ],
+     [
+      "Time limit",
+      "Liquidated within 180 days from commencement",
+      "Liquidated within 180 days from the date of shipment"
+     ]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §7: bank finance and trade credit for working capital",
+    "🔗 FM Ch 4: cost of short-term funds"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Case: identify the type of export finance and explain three forms (May 2026, 4 marks)",
+     "Explain any four short-term sources of finance",
+     "MCQ on the maximum period of public deposits or the T-bill range"
+    ],
+    "approach": [
+     "In an identification case, name the source in the first line — that is the first mark",
+     "Then give the forms as lettered points with the study material's headings"
+    ],
+    "official_pattern": "PYQ-M26-Q4b; MTP-M24-S1-FMCQ4.",
+    "time_tip": "4 marks ≈ 7 minutes; a 1-mark MCQ ≈ 1 minute (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "Identify the source",
+     "List its forms with bold headings",
+     "Add the 180-day limit where relevant"
+    ],
+    "keywords": [
+     "documentary export bills",
+     "E.C.G.C.",
+     "duty draw backs",
+     "clean nature"
+    ],
+    "length": "4 marks: one line to identify plus three forms of three lines each",
+    "conclusion": "Export finance keeps the exporter liquid on both sides of the shipment date.",
+    "avoid": [
+     "Inventing RBI interest rates or margin percentages"
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-M26-Q4b",
+     "marks": 4,
+     "status": "VERIFIED",
+     "question": "An Indian exporter has shipped goods to a foreign buyer, but the export proceeds are yet to be realised. He approaches the bank for immediate finance assistance. (i) Identify the type of finance involved. (ii) Explain any three forms of such type of finance.",
+     "answer_points": [
+      "**(i) The finance involved is post-shipment finance**, extended by commercial banks after the shipment of goods.",
+      "**(a) Purchase or discounting of documentary export bills:** finance is provided to exporters by purchasing export bills drawn payable at sight, or by discounting usance export bills covering confirmed sales and backed by documents including documents of title to goods such as a bill of lading, post parcel receipts or air consignment notes.",
+      "**(b) E.C.G.C. guarantee:** post-shipment finance given to an exporter by a bank through purchase, negotiation or discount of an export bill against an order qualifies for the post-shipment export credit guarantee. The exporter should obtain a shipment or contracts risk policy of ECGC; banks insist on a contracts shipments (comprehensive risks) policy covering both political and commercial risks. On acceptance of the policy the Corporation fixes credit limits for individual exporters, and its liability is limited to the extent of that limit irrespective of the amount of the policy.",
+      "**(c) Advance against export bills sent for collection:** finance is provided by banks by way of advance against export bills forwarded through them for collection, taking into account the creditworthiness of the party, nature of goods exported, usance, standing of the drawee etc.",
+      "**(d) Advance against duty drawbacks, cash subsidy etc.:** to finance export losses sustained by exporters, banks advance against duty drawback, cash subsidy etc. receivable against export performance; such advances are of a clean nature, hence necessary precautions should be exercised."
+     ],
+     "conclusion": "One mark for identifying post-shipment finance and one mark for each of any three forms.",
+     "keywords": [
+      "post-shipment finance",
+      "documentary export bills",
+      "E.C.G.C. guarantee",
+      "duty draw backs"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "MTP-M24-S1-FMCQ4",
+     "marks": 1,
+     "status": "VERIFIED",
+     "format": "MCQ",
+     "question": "What is the maximum period for which a company can accept public deposits? Options: one year / six months / three years / five years.",
+     "answer_points": [
+      "ICAI's key is **three years**.",
+      "The study material says public deposits may be accepted for a period of six months to three years, subject to RBI stipulations and up to a maximum of 35 per cent of paid-up capital and reserves.",
+      "They are unsecured loans and should not be used for acquiring fixed assets, since they are to be repaid within three years; they are mainly used to finance working capital requirements."
+     ],
+     "conclusion": "Remember the pair: six months minimum, three years maximum, 35 per cent ceiling.",
+     "keywords": [
+      "six months to three years",
+      "35 per cent"
+     ]
+    },
+    {
+     "id": "RTP-J26-FQ11b",
+     "status": "VERIFIED",
+     "question": "What do you understand by spontaneous sources of finance, and explain its sources of finance?",
+     "answer_points": [
+      "**Spontaneous sources of finance are those which naturally arise in the course of business operations.** Trade credit, credit from employees and credit from suppliers of services are examples.",
+      "**Trade credit** is a spontaneous source of finance which is normally extended to the purchaser organisation by the sellers or service providers. It **contributes about one-third of the total short-term requirements**.",
+      "**Bills payable:** here the purchaser has to give a written promise to pay the amount of the bill or invoice, either on demand or at a fixed future date, to the seller or the bearer of the note.",
+      "**Accrued expenses** represent liabilities the company has to pay for services it has already received — wages, taxes, interest and dividends. They arise out of the day-to-day activities of the company and hence represent a spontaneous source of finance.",
+      "**Deferred income** reflects funds received in lieu of goods and services to be provided in the future; since these receipts increase liquidity, they are also an important source of spontaneous finance.",
+      "The common thread is that none of these has to be negotiated or arranged: they appear as a by-product of trading, and they **enhance automatically with the increase in the volume of business**."
+     ],
+     "conclusion": "Define, then give trade credit, bills payable, accrued expenses and deferred income.",
+     "keywords": [
+      "naturally arise in the course of business operations",
+      "trade credit",
+      "one-third of the total short-term requirements",
+      "accrued expenses",
+      "deferred income"
+     ]
+    }
+   ],
+   "expected_questions": [
+    {
+     "id": "EQ-F02.22-1",
+     "form": "Explain (4 marks)",
+     "marks": 4,
+     "question": "Explain packing credit and state its types.",
+     "answer_points": [
+      "Pre-shipment finance generally takes the form of a packing credit facility: an advance extended by banks to an exporter for the purpose of buying, manufacturing, processing, packing and shipping goods to overseas buyers.",
+      "Any exporter having at hand a firm export order placed by his foreign buyer, or an irrevocable letter of credit opened in his favour, can approach a bank for packing credit; the advance is required to be liquidated within 180 days from the date of its commencement by negotiation of export bills or receipt of export proceeds in an approved manner, so it is essentially a short-term advance.",
+      "**Clean packing credit:** made available only on production of a firm export order or letter of credit, without exercising any charge or control over raw material or finished goods; a suitable margin is maintained and ECGC cover should be obtained by the bank.",
+      "**Packing credit against hypothecation of goods:** available where the exporter has a pledgeable interest and the goods are hypothecated to the bank as security with a stipulated margin; stock statements are submitted every fortnight or whenever stocks move.",
+      "**Packing credit against pledge of goods:** the exportable finished goods are pledged to the bank with approved clearing agents, the possession lying with the bank under its lock and key.",
+      "**E.C.G.C. guarantee and forward exchange contract:** any loan for manufacture, processing, purchasing or packing of goods for export against a firm order qualifies for the packing credit guarantee; and where the export bill is in foreign currency, the exporter should enter into a forward exchange contract with the bank to avoid exchange-rate risk."
+     ],
+     "keywords": [
+      "packing credit",
+      "irrevocable letter of credit",
+      "180 days",
+      "hypothecation",
+      "pledge"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F02.22-01",
+     "angle": "Number",
+     "difficulty": "Easy",
+     "question": "Treasury bills are issued by the Government of India with maturities ranging between:",
+     "options": {
+      "A": "7 days and one year",
+      "B": "15 and 90 days",
+      "C": "14 and 364 days",
+      "D": "Six months and three years"
+     },
+     "answer": "C",
+     "explanation": "SM §7: treasury bills are a class of Central Government securities issued to meet short-term borrowing requirements with maturities ranging between 14 and 364 days.",
+     "why_wrong": {
+      "A": "That is the certificate of deposit range.",
+      "B": "That is the usual duration of trade credit.",
+      "D": "That is the public deposit range."
+     },
+     "trap": "Four period ranges in one section; learn them together.",
+     "concept": "F02.22"
+    },
+    {
+     "id": "MCQ-F02.22-02",
+     "angle": "Identify",
+     "difficulty": "Moderate",
+     "question": "An exporter holding a firm export order takes a bank advance to buy raw material and pack the consignment. This advance is:",
+     "options": {
+      "A": "Post-shipment finance",
+      "B": "A deferred payment guarantee",
+      "C": "An inter-corporate deposit",
+      "D": "Packing credit, a form of pre-shipment finance"
+     },
+     "answer": "D",
+     "explanation": "SM §7: packing credit is an advance extended for buying, manufacturing, processing, packing and shipping goods to overseas buyers, available against a firm export order or an irrevocable letter of credit.",
+     "why_wrong": {
+      "A": "Post-shipment finance comes after the goods are shipped.",
+      "B": "That covers deferred payment for machinery purchases.",
+      "C": "A short-term borrowing from another company with surplus liquidity."
+     },
+     "trap": "Both packing credit and post-shipment advances must be liquidated within 180 days; the difference is the shipment date.",
+     "concept": "F02.22"
+    }
+   ],
+   "recap": [
+    "Ten short-term sources, from spontaneous trade credit to public deposits.",
+    "Money market instruments: CP (₹5 lakh, rated), T-bills (14–364 days), CDs (7 days–1 year).",
+    "Export finance: packing credit before shipment; bills, ECGC, collection advances and duty drawback after — both liquidated within 180 days.",
+    "Public deposits: ≤35% of paid-up capital and reserves, 6 months to 3 years, unsecured, for working capital."
+   ]
+  },
+  {
+   "code": "F02.23",
+   "title": "8. Other Sources of Financing",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 2 (Jan 2026 Q4(a), May 2026 Q4(c) OR)",
+   "understand": [
+    "**(i) Seed capital assistance.** ==The Seed Capital Assistance scheme is **designed by IDBI for professionally or technically qualified entrepreneurs and/or persons possessing relevant experience, skills and entrepreneurial traits but who lack adequate financial resources**.== All projects eligible for financial assistance from IDBI, directly or indirectly through refinance, are eligible under the scheme. The assistance is **interest free but carries a service charge of one per cent per annum for the first five years and at an increasing rate thereafter**. However, **IDBI has the option to charge interest at such rate as it may determine on the loan if the financial position and profitability of the company so permit** during the currency of the loan. The **repayment schedule is fixed depending upon the repaying capacity of the unit with an initial moratorium of up to five years**.",
+    "**(ii) Internal cash accruals.** Existing profit-making companies undertaking an expansion or diversification programme may be permitted to **invest a part of their accumulated reserves or cash profits for creation of capital assets**. The **surplus generated from operations, after meeting all contractual, statutory and working requirements of funds**, is available for further capital expenditure.",
+    "**(iii) Unsecured loans.** Typically provided by **promoters to meet the promoters' contribution norm**. They are **subordinate to institutional loans**; the **rate of interest should be less than or equal to the rate on institutional loans**; **interest can be paid only after payment of institutional dues**; they **cannot be repaid without the prior approval of financial institutions**; and they are **considered as part of equity for the purpose of calculating the debt-equity ratio**.",
+    "**(iv) Deferred payment guarantee.** Suppliers of machinery often provide a deferred credit facility under which **payment for the purchase of machinery can be made over a period of time**. The **entire cost of the machinery is financed and the company is not required to contribute any amount initially**. Normally the supplier insists that a **bank guarantee should be furnished by the buyer**. Such a facility **does not have a moratorium period for repayment**, hence it is **advisable only for an existing profit-making company**.",
+    "**(v) Capital incentives.** Backward area development incentives often determine the **location of a new industrial unit** and usually consist of a **lump sum subsidy and exemption from or deferment of sales tax and octroi duty**; the quantum depends on the **degree of backwardness of the location**. The special capital incentive is a **percentage of the fixed capital investment subject to an overall ceiling** and forms part of the long-term means of finance. However, **the viability of the project must not be dependent on the quantum and availability of incentives** — institutions assess viability per se, without considering the impact of incentives. Incentives are released only after the unit complies with the scheme's requirements, classified into **initial effective steps and final effective steps**.",
+    "**Debt instruments listed in this section.** **(vi) Deep discount bonds** — a form of **zero-interest bonds sold at a discounted value**, with the **face value paid on maturity** and **no interest payout during the lock-in period**. **(vii) Secured premium notes** — issued **along with a detachable warrant**, redeemable after a notified period of **say 4 to 7 years**; the warrant must be converted into equity within the period notified by the company. **(viii) Zero interest fully convertible debentures** — fully convertible debentures carrying **no interest**, **compulsorily and automatically converted after a specified period**, holders getting new equity shares at a **predetermined price**; beneficial to the company since no interest is paid, and if the market price is very high investors get shares at a lower rate. **(ix) Zero coupon bonds** — carry **no interest but are sold at a discount**; the **difference between the discounted value and the maturity or face value represents the interest** earned. **(x) Option bonds** — **cumulative and non-cumulative bonds where interest is payable on maturity or periodically**, with a **redemption premium** offered to attract investors. **(xi) Inflation bonds** — bonds in which the **interest rate is adjusted for inflation**, so the investor gets interest free from the effects of inflation (the study material's illustration: at 11 per cent interest and 5 per cent inflation the investor earns 16 per cent). **(xii) Floating rate bonds** — the **interest rate is not fixed and floats with market conditions**; an ideal instrument for the issuer to **hedge against volatility in interest rates**, popular as a money market instrument and issued by institutions such as **IDBI and ICICI**.",
+    "**(xiii) High yield bonds (or junk bonds).** ==A junk bond is a bond that is **rated below investment grade by credit rating agencies**. It has a **low credit rating and a high risk of default**. Because of the higher risk, **investors are compensated with higher interest rates, which is why junk bonds are also called high-yield bonds**.=="
+   ],
+   "example": "A technically qualified engineer with a viable project but no capital gets IDBI seed capital assistance — interest free, with a 1% service charge for five years and a moratorium of up to five years.",
+   "provisions": [
+    {
+     "ref": "Seed capital assistance (SM §8)",
+     "status": "VERIFIED",
+     "requirement": "IDBI scheme; interest free with a 1% per annum service charge for the first five years, increasing thereafter; IDBI may charge interest if profitability permits; repayment fixed to repaying capacity with a moratorium of up to five years.",
+     "exam_angle": "Asked verbatim in January 2026 for 4 marks."
+    },
+    {
+     "ref": "Junk bonds (SM §8)",
+     "status": "VERIFIED",
+     "requirement": "Rated below investment grade; low credit rating and high risk of default; higher interest compensates the risk, hence 'high yield'.",
+     "exam_angle": "A 2-mark part in May 2026."
+    }
+   ],
+   "keywords": [
+    "seed capital assistance",
+    "IDBI",
+    "interest free",
+    "service charge of one per cent",
+    "moratorium",
+    "internal cash accruals",
+    "unsecured loans",
+    "promoters' contribution",
+    "part of the equity",
+    "deferred payment guarantee",
+    "bank guarantee",
+    "capital incentives",
+    "degree of backwardness",
+    "deep discount bonds",
+    "secured premium notes",
+    "detachable warrant",
+    "zero coupon bonds",
+    "option bonds",
+    "inflation bonds",
+    "floating rate bonds",
+    "junk bond",
+    "below investment grade",
+    "high-yield bonds"
+   ],
+   "memory": {
+    "trick": "Zero-interest family: **deep discount, zero coupon, zero interest fully convertible** — all pay nothing along the way; the return is built into the price or the shares.",
+    "key": [
+     [
+      "Seed capital",
+      "IDBI · interest free · 1% service charge for 5 years · moratorium up to 5 years"
+     ],
+     [
+      "Unsecured loans",
+      "Promoters' contribution · subordinate · counted as equity for debt-equity"
+     ],
+     [
+      "Deferred payment guarantee",
+      "Machinery paid over time · bank guarantee · no moratorium"
+     ],
+     [
+      "Secured premium note",
+      "Detachable warrant · redeemable in 4 to 7 years"
+     ],
+     [
+      "Junk bond",
+      "Below investment grade · high default risk · high yield"
+     ]
+    ],
+    "recall_trigger": "Seed = IDBI, free of interest, not of charge"
+   },
+   "mistakes": [
+    "Calling seed capital assistance completely free; it carries a 1% service charge and IDBI may charge interest if profitability permits.",
+    "Treating promoters' unsecured loans as debt in the debt-equity ratio; the study material counts them as part of equity.",
+    "Saying junk bonds are unrated; they are rated, but below investment grade."
+   ],
+   "links": [
+    "🔗 FM Ch 2 §4: venture capital, the other start-up source",
+    "🔗 FM Ch 4 §5: cost of zero coupon and deep discount bonds",
+    "🔗 FM Ch 5: the debt-equity ratio"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Key features of seed capital assistance (4 marks)",
+     "What are junk bonds and why are they called high yield bonds? (2 marks)",
+     "Short notes on deep discount bonds, secured premium notes, inflation bonds"
+    ],
+    "approach": [
+     "For seed capital give the eligibility, the charge, IDBI's option and the repayment moratorium",
+     "For junk bonds two lines are enough: below investment grade, and higher interest compensates the risk"
+    ],
+    "official_pattern": "PYQ-J26-Q4a; PYQ-M26-Q4c-OR.",
+    "time_tip": "4 marks ≈ 7 minutes; 2 marks ≈ 3 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "Who it is for",
+     "What it costs",
+     "How it is repaid"
+    ],
+    "keywords": [
+     "professionally or technically qualified entrepreneurs",
+     "service charge of one per cent",
+     "moratorium up-to five years"
+    ],
+    "length": "4 marks: four short paragraphs",
+    "conclusion": "These sources exist to fill gaps the mainstream market will not fund.",
+    "avoid": [
+     "Adding IDBI scheme limits or amounts that the study material does not state"
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-J26-Q4a",
+     "marks": 4,
+     "status": "VERIFIED",
+     "question": "Discuss briefly the key features of seed capital assistance as a source of finance.",
+     "answer_points": [
+      "The Seed Capital Assistance scheme is designed by IDBI for professionally or technically qualified entrepreneurs and/or persons possessing relevant experience, skills and entrepreneurial traits but who lack adequate financial resources.",
+      "All the projects eligible for financial assistance from IDBI, directly or indirectly through refinance, are eligible under the scheme.",
+      "The Seed Capital Assistance is interest free but carries a service charge of one per cent per annum for the first five years and at an increasing rate thereafter.",
+      "However, IDBI will have the option to charge interest at such rate as may be determined by IDBI on the loan if the financial position and profitability of the company so permits during the currency of the loan.",
+      "The repayment schedule is fixed depending upon the repaying capacity of the unit, with an initial moratorium of up to five years."
+     ],
+     "conclusion": "Five short points, one mark each for any four.",
+     "keywords": [
+      "IDBI",
+      "interest free",
+      "service charge of one per cent",
+      "moratorium up-to five years"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "PYQ-M26-Q4c-OR",
+     "marks": 2,
+     "status": "VERIFIED",
+     "question": "What are junk bonds and why are they called 'high yield bonds'?",
+     "answer_points": [
+      "A junk bond is a bond that is rated below investment grade by credit rating agencies.",
+      "It has a low credit rating and a high risk of default.",
+      "Because of the higher risk, investors are compensated with higher interest rates, which is why junk bonds are also called high-yield bonds."
+     ],
+     "conclusion": "Three lines carry the full 2 marks.",
+     "keywords": [
+      "below investment grade",
+      "high risk of default",
+      "compensated with higher interest rates"
+     ]
+    }
+   ],
+   "expected_questions": [
+    {
+     "id": "EQ-F02.23-1",
+     "form": "Explain (4 marks)",
+     "marks": 4,
+     "question": "Explain the following: (i) deep discount bonds, (ii) secured premium notes, (iii) zero interest fully convertible debentures, (iv) inflation bonds.",
+     "answer_points": [
+      "**Deep discount bonds:** a form of zero-interest bonds sold at a discounted value, on maturity of which the face value is paid to the investors; there is no interest payout during the lock-in period.",
+      "**Secured premium notes:** issued along with a detachable warrant and redeemable after a notified period of, say, four to seven years; the conversion of the detachable warrant into equity shares has to be done within the time period notified by the company.",
+      "**Zero interest fully convertible debentures:** fully convertible debentures which do not carry any interest; they are compulsorily and automatically converted after a specified period and the holders are entitled to new equity shares at a predetermined price. The company benefits because no interest is paid, and if the market price of the share is very high, investors tend to get shares at a lower rate.",
+      "**Inflation bonds:** bonds in which the interest rate is adjusted for inflation, so the investor gets interest free from the effects of inflation — if the interest rate is 11 per cent and inflation is 5 per cent, the investor will earn 16 per cent and is protected against inflation."
+     ],
+     "keywords": [
+      "zero-interest",
+      "detachable warrant",
+      "predetermined price",
+      "adjusted for inflation"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F02.23-01",
+     "angle": "Feature",
+     "difficulty": "Easy",
+     "question": "Seed capital assistance under the IDBI scheme is:",
+     "options": {
+      "A": "Interest free, but carries a service charge of one per cent per annum for the first five years",
+      "B": "Free of both interest and any charge",
+      "C": "Charged at the same rate as an institutional term loan",
+      "D": "Repayable in full within one year of disbursement"
+     },
+     "answer": "A",
+     "explanation": "SM §8: the assistance is interest free but carries a service charge of one per cent per annum for the first five years and at an increasing rate thereafter.",
+     "why_wrong": {
+      "B": "There is a service charge, and IDBI may charge interest if profitability permits.",
+      "C": "It is interest free in the normal course.",
+      "D": "Repayment is fixed to repaying capacity with a moratorium of up to five years."
+     },
+     "trap": "'Interest free' is not the same as 'cost free'.",
+     "concept": "F02.23"
+    },
+    {
+     "id": "MCQ-F02.23-02",
+     "angle": "Treatment",
+     "difficulty": "Moderate",
+     "question": "Unsecured loans provided by promoters to meet the promoters' contribution norm are:",
+     "options": {
+      "A": "Repayable at the promoters' discretion at any time",
+      "B": "Charged interest at a rate higher than that on institutional loans",
+      "C": "Considered as part of the equity for the purpose of calculating the debt-equity ratio",
+      "D": "Paid interest before the institutional dues are met"
+     },
+     "answer": "C",
+     "explanation": "SM §8: unsecured loans are subordinate to institutional loans and are considered as part of the equity for the purpose of calculating the debt-equity ratio.",
+     "why_wrong": {
+      "A": "They cannot be repaid without the prior approval of financial institutions.",
+      "B": "The rate should be less than or equal to the rate on institutional loans.",
+      "D": "Interest can be paid only after payment of institutional dues."
+     },
+     "trap": "The word 'loan' suggests debt treatment; the study material treats it as equity for the ratio.",
+     "concept": "F02.23"
+    }
+   ],
+   "recap": [
+    "Seed capital: IDBI, interest free with a 1% service charge, moratorium up to five years.",
+    "Promoters' unsecured loans count as equity for the debt-equity ratio and rank behind institutional dues.",
+    "Zero-interest family: deep discount, zero coupon, zero interest fully convertible debentures.",
+    "Junk bonds: rated below investment grade, high default risk, hence high yield."
+   ]
+  },
+  {
+   "code": "F02.24 + F02.25",
+   "title": "9–10. International Financing and Contemporary Sources of Funding",
+   "activity": "Very High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 2 (Jan 2025 Q4(a), May 2024 Q4(c) OR) · RTP 1 (Jan 2026) · MTP 3 (Sep 2024 S1, Mar 2024 S2, Sep 2025 S2)",
+   "understand": [
+    "**Sources of external financing (§9).** **(i) Commercial banks** — extend **Foreign Currency (FC) loans** for international operations and also allow overdrawing over and above the loan amount. **(ii) Development banks** — offer **long and medium term loans including FC loans**; many national agencies offer concessions to foreign companies to invest and to finance exports, e.g. **EXIM Bank of USA**. **(iii) Discounting of trade bills** — a **short-term financing method**, used widely in Europe and Asian countries for both domestic and international business. **(iv) International agencies** — **IFC, IBRD, ADB, IMF** and others. **(v) International capital markets** — foreign currency is available under four main systems: **Euro-currency market, export credit facilities, bond issues and financial institutions**. The **Euro-currency market originated with dollar-denominated bank deposits and loans in Europe, particularly in London**; **Euro-dollar deposits are dollar-denominated time deposits at foreign branches of US banks and some foreign banks**, and funds are made available as loans through **syndicated Euro-credit instruments such as FRNs and FR certificates of deposit**.",
+    "**(vi) Financial instruments of the international market.** **External Commercial Borrowings (ECB)** — ==commercial loans (bank loans, buyers' credit, suppliers' credit, securitised instruments such as floating rate notes and fixed rate bonds) **availed from non-resident lenders with a minimum average maturity of 3 years**.== Recognised sources: international banks, international capital markets, multilateral financial institutions such as IFC and ADB, export credit agencies, suppliers of equipment, foreign collaborators and foreign equity holders. ECBs are accessed under **two routes — the Automatic route (no RBI or Government approval needed) and the Approval route**. Companies registered under the Companies Act and NGOs engaged in micro-finance are eligible for the **Automatic route**; financial institutions and banks dealing exclusively in infrastructure or export finance, and those which participated in the textile and steel sector restructuring packages approved by the government, must take the **Approval route**.",
+    "**Euro bonds** — debt instruments **not denominated in the currency of the country in which they are issued**, e.g. a **yen note floated in Germany**; generally issued in **bearer form** rather than as registered bonds, so they do not contain the investor's name or country of origin, making them attractive to investors seeking privacy. **Foreign bonds** — debt instruments issued by **foreign corporations or foreign governments**, exposed to **default risk**, denominated in the currency of the country where they are issued; if issued in a currency other than the investor's home currency they are exposed to **exchange rate risks** (example: a British firm placing dollar-denominated bonds in the USA). **Fully hedged bonds** — **eliminate the currency risk by selling in forward markets the entire stream of principal and interest payments**. **Medium Term Notes (MTN)** — for issuers needing frequent financing, where frequent separate issues would be costly; under the MTN programme **several lots of bonds can be issued with different features (different coupon rates, different currencies)**, the **timing of each lot decided in the light of market opportunities**, with the **entire documentation and regulatory approvals taken at one point of time**. **Floating Rate Notes (FRN)** — **issued up to seven years maturity**, with **interest rates adjusted to reflect prevailing exchange rates**; they provide **cheaper money than foreign loans**. **Euro Commercial Papers (ECP)** — **short-term money market instruments with a maturity of less than one year, usually designated in US dollars**.",
+    "**Foreign currency option** — the **right (and not the obligation) to buy or sell foreign currency at a certain specified price on or before a specified date**; a hedge against financial and economic risks. **Foreign currency futures** — **obligations (and not the right) to buy or sell a specified foreign currency in the present for settlement at a future date**. **Foreign Euro bonds** — in domestic capital markets the bond issues are known by different names: **Yankee Bonds in the US, Swiss Frances in Switzerland, Samurai Bonds in Tokyo and Bulldogs in the UK**. **Euro convertible bonds** — give the holder an **option to convert into a pre-determined number of equity shares**, usually at a premium; they carry a **fixed rate of interest** and may include a **call option** (issuer may buy the bonds for redemption before maturity) or a **put option** (holder may sell the bonds back at a pre-determined date and price). **Euro convertible zero bonds** — structured as convertible bonds with **no interest payable**, conversion taking place **on maturity at a pre-determined price**, usually a **five-year maturity**, treated as a **deferred equity issue**. **Euro bonds with equity warrants** — carry a **coupon rate determined by market rates**, the **warrants are detachable** and pure bonds are traded at a discount.",
+    "**ESG bonds.** ==These bonds **carry a responsibility of the issuer company to prioritise optimal environmental, social and governance factors**; investing in them is considered **socially responsible investing**. ESG bonds can be **project-based — green bonds and social bonds — and target-based — sustainability-linked bonds (SLBs)**.== **Green bonds** are the most popular ESG bonds, issued by a financial, non-financial or public institution, where the **proceeds are used to finance 'green projects'** aimed at positive environmental or climate impact including the cultivation of eco-friendly technology; **India is the second-largest green bond market**, and **Ghaziabad Municipal Corporation became the first Municipal Corporation to raise ₹150 crore from a green bond in 2021**. **Social bonds** finance **socially impactful projects** related to concerns such as human rights, equality and animal welfare — 'vaccine bonds' are social bonds. **Sustainability-linked bonds** are a **combination of green and social bonds**; their **proceeds are not meant for a specific project but for general corporate purposes to achieve Key Performance Indicators**; **UltraTech Cement raised US$400 million through India's first sustainability-linked bonds in 2021**, aiming to cut carbon emissions over the bond's ten-year life.",
+    "**Euro issues by Indian companies.** Indian companies may raise foreign currency resources by issuing **ordinary equity shares through GDRs or ADRs and/or Foreign Currency Convertible Bonds (FCCB)** to foreign investors including NRIs residing abroad; such investment is treated as **Foreign Direct Investment**, governed by the **Foreign Currency Convertible Bonds and Ordinary Shares (through depositary receipt mechanism) Scheme, 1993** and later notifications. **ADRs** are securities offered by **non-US companies wanting to list on a US exchange**, each ADR representing a certain number of the company's regular shares, letting US investors buy shares without the costs of investing directly on a foreign exchange. Indian companies have **preferred GDRs to ADRs** because the US market imposes higher responsibility in disclosure, costs, liabilities and timing, the most onerous aspect being **full, half-yearly and quarterly accounts in accordance with, or reconciled with, US GAAP**. **GDRs** are **negotiable certificates held in the bank of one country representing a specific number of shares of a stock traded on the exchange of another country**, used to raise capital in **dollars or euros**, mainly traded in European countries and particularly in London. **Infosys Technologies was the first Indian company listed on Nasdaq in 1999**; **Reliance Industries Limited was the first Indian firm to issue a sponsored GDR or ADR**. ==**Indian Depository Receipts (IDRs)** apply the depository receipt mechanism in the Indian capital market: **foreign companies can issue IDRs to raise funds from the Indian capital market on the same lines as an Indian company uses ADRs/GDRs to raise foreign capital**, and IDRs are **listed and traded in India in the same way as other Indian securities**.==",
+    "**Contemporary sources of funding (§10).** ==**Crowd funding** means **raising money for an individual or organisation from a group of people to fund a project, typically via the internet** (social media and crowdfunding websites).== It generally involves collecting funds from **family, friends, strangers, corporates and many more, in exchange for equity (equity funding), loans (P2P lending) or nothing at all (donation)**. It also **helps a start-up to substantiate demand for its product before entering into production**. **Three parties are involved: the fund raiser, the mediator and the fund investor**; the platforms (mediator) may charge a **processing fee, transaction fee etc., as a fixed amount, a percentage or a combination**.",
+    "**Equity funding** — equity crowdfunding is a mechanism where the **investor invests money in an organisation and receives securities of that organisation in return**, each investor being entitled to a stake depending on the investment; the **digital nature targets a large number of investors with small contributions** and it is **mostly adopted by start-ups**. **Peer-to-Peer (P2P) lending** — ==**that category of crowdfunding where lenders match with borrowers to provide unsecured loans through an online platform**==; the funds raised are **paid back with interest**, though this lending involves a **risk of default** just as banks bear in conventional lending; investors can visit P2P platforms and choose amongst borrowers considering risk and returns. **Start-up funding** — a start-up finds it difficult to manage bank loans, leaving crowdfunding as one of its sources; it may take the form of equity funding, P2P lending or both. **Donation-based crowdfunding** — a large group of people **donate money as charity for a cause with no expectation of any ownership or debt**.",
+    "So **crowd funding is the broader concept and P2P lending is basically a part of crowd funding**."
+   ],
+   "example": "UltraTech's US$400 million sustainability-linked bond is target-based: the money is for general corporate purposes, but the company must hit its carbon KPIs over the bond's ten-year life.",
+   "provisions": [
+    {
+     "ref": "External Commercial Borrowings (SM §9)",
+     "status": "VERIFIED",
+     "requirement": "Commercial loans from non-resident lenders with a minimum average maturity of 3 years; Automatic route (no approval) and Approval route.",
+     "exam_angle": "The 3-year minimum average maturity and the two routes are the MCQ and short-note points."
+    },
+    {
+     "ref": "ESG bonds (SM §9)",
+     "status": "VERIFIED",
+     "requirement": "Project-based: green bonds and social bonds. Target-based: sustainability-linked bonds, whose proceeds fund general corporate purposes tied to KPIs.",
+     "exam_angle": "Asked as a full 4-mark part in January 2025."
+    }
+   ],
+   "keywords": [
+    "Foreign Currency loans",
+    "Euro-currency market",
+    "Euro-dollar deposits",
+    "External Commercial Borrowings",
+    "minimum average maturity of 3 years",
+    "Automatic route",
+    "Approval route",
+    "Euro bonds",
+    "bearer form",
+    "foreign bonds",
+    "fully hedged bonds",
+    "Medium Term Notes",
+    "Floating Rate Notes",
+    "Euro Commercial Papers",
+    "foreign currency option",
+    "foreign currency futures",
+    "Yankee",
+    "Samurai",
+    "Bulldogs",
+    "Euro convertible bonds",
+    "deferred equity issue",
+    "ESG bonds",
+    "green bonds",
+    "social bonds",
+    "sustainability-linked bonds",
+    "ADRs",
+    "GDRs",
+    "IDRs",
+    "US GAAP",
+    "crowd funding",
+    "equity funding",
+    "P2P lending",
+    "donation-based crowdfunding"
+   ],
+   "memory": {
+    "trick": "Bond nicknames by country: **Yankee (US) · Samurai (Tokyo) · Bulldog (UK) · Swiss Frances (Switzerland)**. Depository receipts by direction: **ADR and GDR take Indian shares abroad; IDR brings foreign shares to India**.",
+    "key": [
+     [
+      "ESG",
+      "Project-based: green + social · Target-based: sustainability-linked (KPIs)"
+     ],
+     [
+      "ECB",
+      "Non-resident lenders · minimum average maturity 3 years · Automatic or Approval route"
+     ],
+     [
+      "FC option vs futures",
+      "Option = right, not obligation · Futures = obligation, not right"
+     ],
+     [
+      "ADR / GDR",
+      "Indian company raising abroad; GDR preferred, ADR needs US GAAP reconciliation"
+     ],
+     [
+      "IDR",
+      "Foreign company raising in India, listed and traded here"
+     ],
+     [
+      "Crowd funding",
+      "Equity funding · P2P lending · donation; three parties: raiser, mediator, investor"
+     ]
+    ],
+    "recall_trigger": "ADR out, IDR in"
+   },
+   "mistakes": [
+    "Saying the 'euro' in euro bond refers to the euro currency; a euro bond is simply denominated in a currency other than that of the country of issue.",
+    "Swapping option and futures: the option is a right, the future is an obligation.",
+    "Saying SLB proceeds must fund a specific green project; they fund general corporate purposes tied to KPIs.",
+    "Treating P2P lending as separate from crowd funding; it is a category of crowd funding."
+   ],
+   "compare": {
+    "title": "ADRs, GDRs and IDRs (SM §9)",
+    "headers": [
+     "Basis",
+     "ADRs",
+     "GDRs",
+     "IDRs"
+    ],
+    "rows": [
+     [
+      "Who issues",
+      "Non-US companies wanting to list on a US exchange",
+      "Companies raising capital outside their home country",
+      "Foreign companies raising funds in India"
+     ],
+     [
+      "Where traded",
+      "US exchanges",
+      "Mainly European countries, particularly London",
+      "Listed and traded in India like other Indian securities"
+     ],
+     [
+      "Currency raised",
+      "US dollars",
+      "Dollars or euros",
+      "Indian rupees"
+     ],
+     [
+      "Note",
+      "Onerous: full, half-yearly and quarterly accounts reconciled with US GAAP",
+      "Preferred by Indian companies over ADRs",
+      "Mirror image of ADRs/GDRs for foreign issuers"
+     ]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 2 §3.5: masala bonds and other Indian bond varieties",
+    "🔗 FM Ch 4: cost of foreign currency borrowings"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Explain ESG-linked bonds (4 marks)",
+     "Explain given international instruments — fully hedged bonds, MTN, FRN, ECP (4 marks)",
+     "Concept of Indian Depository Receipts (2 marks)",
+     "Features of bulldog bonds",
+     "Distinguish crowd funding and P2P lending (4 marks)",
+     "Features of crowd funding (2 marks)"
+    ],
+    "approach": [
+     "Name each instrument in bold and give the SM's two defining lines",
+     "For ESG, always show the project-based versus target-based split"
+    ],
+    "official_pattern": "PYQ-J25-Q4a; MTP-S24-S1-FQ4b; MTP-M24-S2-FQ4c-OR; RTP-J26-FQ11a; PYQ-M24-Q4c-OR; MTP-S25-S2-FQ4b.",
+    "time_tip": "4 marks ≈ 7 minutes; 2 marks ≈ 3 minutes (study guidance)."
+   },
+   "write": {
+    "structure": [
+     "Name the instrument in bold",
+     "Its defining feature",
+     "Who uses it and why",
+     "An example only if the study material gives one"
+    ],
+    "keywords": [
+     "socially responsible investing",
+     "project-based",
+     "target-based",
+     "negotiable certificates",
+     "unsecured loans through online platform"
+    ],
+    "length": "4 marks: four instruments of three lines each",
+    "conclusion": "International and contemporary sources widen the pool of investors beyond the domestic market.",
+    "avoid": [
+     "Quoting FEMA limits or RBI caps that the study material does not state"
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-J25-Q4a",
+     "marks": 4,
+     "status": "VERIFIED",
+     "question": "Explain Environmental, Social and Governance linked bonds.",
+     "answer_points": [
+      "**ESG bonds** carry a responsibility of the issuer company to prioritise optimal environmental, social and governance factors. Investing in ESG bonds is considered socially responsible investing.",
+      "ESG bonds can be **project-based — green bonds and social bonds — and target-based — sustainability-linked bonds (SLBs)**.",
+      "**Green bonds:** the most popular ESG bonds, issued by a financial, non-financial or public institution, where the bond proceeds are used to finance 'green projects'. Green projects are aimed at positive environmental and/or climate impact including the cultivation of eco-friendly technology.",
+      "**Social bonds:** these bonds finance socially impactful projects; the projects are related to social concerns such as human rights, equality and animal welfare.",
+      "**Sustainability-linked bonds (SLBs):** a combination of green bonds and social bonds. Proceeds of SLBs are not meant for a specific project but for general corporate purposes to achieve Key Performance Indicators."
+     ],
+     "conclusion": "The project-based versus target-based split is the backbone of this answer.",
+     "keywords": [
+      "socially responsible investing",
+      "project-based",
+      "target-based",
+      "Key Performance Indicator"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "MTP-S24-S1-FQ4b",
+     "marks": 4,
+     "status": "VERIFIED",
+     "question": "Explain the following international financial instruments: (i) fully hedged bonds, (ii) medium term notes, (iii) floating rate notes, (iv) Euro commercial papers.",
+     "answer_points": [
+      "**Fully hedged bonds:** in foreign bonds the risk of currency fluctuations exists; fully hedged bonds eliminate the risk by selling in forward markets the entire stream of principal and interest payments.",
+      "**Medium Term Notes (MTN):** certain issuers need frequent financing through the bond route, including the Euro bond, but frequent issues may be costly and ineffective. Instead, investors can follow the MTN programme, under which several lots of bonds can be issued, all having different features, e.g. different coupon rates and different currencies. The timing of each lot can be decided keeping in mind future market opportunities, and the entire documentation and regulatory approvals can be taken at one point of time.",
+      "**Floating Rate Notes (FRN):** these are issued up to seven years maturity; interest rates are adjusted to reflect the prevailing exchange rates, and they provide cheaper money than foreign loans.",
+      "**Euro Commercial Papers (ECP):** ECPs are short-term money market instruments with a maturity period of less than one year, usually designated in US dollars."
+     ],
+     "conclusion": "One mark per instrument; the numbers (seven years, less than one year) matter.",
+     "keywords": [
+      "forward markets",
+      "MTN programme",
+      "seven years maturity",
+      "less than one year"
+     ]
+    },
+    {
+     "id": "MTP-M24-S2-FQ4c-OR",
+     "marks": 2,
+     "status": "VERIFIED",
+     "question": "Explain the concept of Indian Depository Receipts.",
+     "answer_points": [
+      "The concept of the depository receipt mechanism, which is used to raise funds in foreign currency, has been applied in the Indian capital market through the issue of Indian Depository Receipts (IDRs).",
+      "Foreign companies can issue IDRs to raise funds from the Indian market on the same lines as an Indian company uses ADRs or GDRs to raise foreign capital.",
+      "The IDRs are listed and traded in India in the same way as other Indian securities are traded."
+     ],
+     "conclusion": "Three lines; the mirror-image point is the mark.",
+     "keywords": [
+      "depository receipt mechanism",
+      "listed and traded in India"
+     ]
+    },
+    {
+     "id": "RTP-J26-FQ11a",
+     "status": "VERIFIED",
+     "question": "State the features of a bulldog bond.",
+     "answer_points": [
+      "It is denominated in Pound Sterling / Great Britain Pound (GBP).",
+      "It is issued in London.",
+      "The issuer is a non-UK company.",
+      "It is governed by the regulations of Great Britain.",
+      "Its purpose is to access the capital available in the UK market.",
+      "The issue proceeds can be used to fund UK operations.",
+      "The issue proceeds can also be used to fund a company's local opportunities."
+     ],
+     "conclusion": "The study material lists bulldogs among the domestic names for foreign euro bonds: Yankee (US), Swiss Frances (Switzerland), Samurai (Tokyo), Bulldogs (UK).",
+     "keywords": [
+      "Pound Sterling",
+      "issued in London",
+      "non-UK company"
+     ]
+    },
+    {
+     "id": "PYQ-M24-Q4c-OR",
+     "marks": 2,
+     "status": "VERIFIED",
+     "question": "Explain the features of crowd funding.",
+     "answer_points": [
+      "Crowdfunding means raising money for an individual or organisation from a group of people to fund a project, typically via the internet (social media and crowdfunding websites).",
+      "It generally involves collecting funds from family, friends, strangers, corporates and many more, in exchange for equity (known as equity funding), loans (known as P2P lending) or nothing at all (i.e. donation).",
+      "This source of funding also helps a start-up to substantiate demand for its product before entering into production.",
+      "In the crowdfunding process, three parties are involved: the fund raiser, the mediator and the fund investor. The platforms (mediator) may charge certain fees in the form of a processing fee, transaction fee etc., either as a fixed amount, a percentage, or a combination of both."
+     ],
+     "conclusion": "Four points; the three-party structure is the distinguishing detail.",
+     "keywords": [
+      "via internet",
+      "equity funding",
+      "P2P lending",
+      "fund raiser, mediator and fund investor"
+     ]
+    },
+    {
+     "id": "MTP-S25-S2-FQ4b",
+     "marks": 4,
+     "status": "VERIFIED",
+     "question": "Distinguish between crowd funding and Peer-to-Peer (P2P) lending.",
+     "answer_points": [
+      "**Crowd funding:** raising money for an individual or organisation from a group of people to fund a project, typically via the internet. It generally involves collecting funds from family, friends, strangers, corporates and many more, in exchange for equity (equity funding), loans (P2P lending) or nothing at all (donation). It also helps a start-up substantiate demand for its product before entering into production.",
+      "**Peer-to-Peer (P2P) lending:** that category of crowdfunding where lenders match with borrowers in order to provide unsecured loans through an online platform.",
+      "The funds raised are paid back by the borrowers with interest, though this kind of lending involves a certain risk of default, just as banks bear in the case of the conventional method of lending.",
+      "Anyone interested in investing money under P2P lending can visit the P2P lending platforms and choose amongst borrowers considering risk and returns.",
+      "Hence crowd funding is a broader concept and P2P lending is basically a part of crowd funding."
+     ],
+     "conclusion": "The closing line — P2P is a part of crowd funding, not an alternative — is the marker of a complete answer.",
+     "keywords": [
+      "broader concept",
+      "unsecured loans through online platform",
+      "risk of defaults"
+     ]
+    }
+   ],
+   "expected_questions": [
+    {
+     "id": "EQ-F02.24-1",
+     "form": "Explain (4 marks)",
+     "marks": 4,
+     "question": "Explain External Commercial Borrowings, stating the recognised sources and the two routes under which they can be accessed.",
+     "answer_points": [
+      "ECBs refer to commercial loans — in the form of bank loans, buyers' credit, suppliers' credit and securitised instruments such as floating rate notes and fixed rate bonds — availed from non-resident lenders with a minimum average maturity of 3 years.",
+      "Borrowers can raise ECBs through internationally recognised sources: international banks, international capital markets, multilateral financial institutions such as IFC and ADB, export credit agencies, suppliers of equipment, foreign collaborators and foreign equity holders.",
+      "ECBs can be accessed under two routes: the Automatic route and the Approval route. Under the Automatic route there is no need to take RBI or Government approval, whereas such approval is necessary under the Approval route.",
+      "Companies registered under the Companies Act and NGOs engaged in micro-finance activities are eligible for the Automatic route; financial institutions and banks dealing exclusively in infrastructure or export finance, and those which participated in the textile and steel sector restructuring packages approved by the government, are required to take the Approval route."
+     ],
+     "keywords": [
+      "non-resident lenders",
+      "minimum average maturity of 3 years",
+      "Automatic route",
+      "Approval route"
+     ]
+    },
+    {
+     "id": "EQ-F02.25-1",
+     "form": "Explain (4 marks)",
+     "marks": 4,
+     "question": "Explain equity funding, start-up funding and donation-based crowdfunding as contemporary sources of funding.",
+     "answer_points": [
+      "**Equity funding:** equity crowdfunding is a mechanism where an investor invests money in an organisation and receives securities of that organisation in return. Every investor is entitled to a stake in the organisation depending on the investment. The digital nature of crowdfunding targets a large number of investors with small contributions, and this type of funding is mostly adopted by start-ups.",
+      "**Start-up funding:** a start-up company, being newly formed, needs funds before starting any project, but as a start-up it is difficult to manage loans from banks, leaving crowdfunding as one of the sources of finance. Through crowdfunding a start-up can raise money from a large group of people, in the form of equity funding, P2P lending or both.",
+      "**Donation-based crowdfunding:** a source of finance where a large group of people donate money as charity for some cause with no expectation of any ownership or debt.",
+      "In all three, the three parties of the crowdfunding process — the fund raiser, the mediator (platform) and the fund investor — remain the same, and the platform may charge a processing or transaction fee."
+     ],
+     "keywords": [
+      "equity crowdfunding",
+      "small contributions",
+      "no expectation of any ownership or debt"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F02.24-01",
+     "angle": "Identify",
+     "difficulty": "Moderate",
+     "question": "A foreign company raising rupee funds from the Indian capital market through instruments listed and traded in India issues:",
+     "options": {
+      "A": "American Depository Receipts",
+      "B": "Indian Depository Receipts",
+      "C": "Global Depository Receipts",
+      "D": "Foreign Currency Convertible Bonds"
+     },
+     "answer": "B",
+     "explanation": "SM §9: foreign companies can issue IDRs to raise funds from the Indian capital market on the same lines as an Indian company uses ADRs/GDRs; IDRs are listed and traded in India like other Indian securities.",
+     "why_wrong": {
+      "A": "Offered by non-US companies listing on a US exchange.",
+      "C": "Negotiable certificates used to raise capital in dollars or euros, mainly traded in Europe.",
+      "D": "Issued by Indian companies to foreign investors, convertible into equity."
+     },
+     "trap": "ADR and GDR take Indian shares abroad; only the IDR brings a foreign issuer to India.",
+     "concept": "F02.24"
+    },
+    {
+     "id": "MCQ-F02.25-02",
+     "angle": "Relationship",
+     "difficulty": "Easy",
+     "question": "As per the study material, Peer-to-Peer (P2P) lending is:",
+     "options": {
+      "A": "A secured lending product offered only by banks",
+      "B": "An alternative to crowd funding with no connection to it",
+      "C": "A form of donation with no repayment",
+      "D": "A category of crowdfunding where lenders match with borrowers to provide unsecured loans through an online platform"
+     },
+     "answer": "D",
+     "explanation": "SM §10: P2P lending is that category of crowdfunding where lenders match with the borrowers in order to provide unsecured loans through an online platform; the funds are paid back with interest.",
+     "why_wrong": {
+      "A": "The loans are unsecured and the platforms are not banks.",
+      "B": "P2P lending is a part of crowd funding, not an alternative.",
+      "C": "Donation-based crowdfunding carries no repayment; P2P loans are repaid with interest."
+     },
+     "trap": "The exam tests the hierarchy: crowd funding is the broader concept.",
+     "concept": "F02.25"
+    }
+   ],
+   "recap": [
+    "External sources: commercial banks, development banks, discounting of trade bills, international agencies, international capital markets, financial instruments.",
+    "ECB: non-resident lenders, minimum average maturity 3 years, Automatic or Approval route.",
+    "ESG bonds: project-based (green, social) and target-based (sustainability-linked).",
+    "ADR/GDR raise money abroad for Indian companies; IDR brings foreign issuers to India.",
+    "Crowd funding is the umbrella; equity funding, P2P lending and donation sit under it."
+   ]
+  }
+ ]
+}

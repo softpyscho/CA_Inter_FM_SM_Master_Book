@@ -1,0 +1,1469 @@
+<<PAGE 1>>
+1 
+Mock Test Paper - Series II: December, 2025 
+Date of Paper: 17th December, 2025 
+Time of Paper: 10 A.M. to 1 P.M. 
+ 
+INTERMEDIATE: GROUP – II 
+PAPER – 6: FINANCIAL MANAGEMENT & STRATEGIC MANAGEMENT 
+PAPER 6A : FINANCIAL MANAGEMENT 
+Suggested Answers/ Hints 
+PART I – Case Scenario based MCQs 
+Case Scenario 1 
+1. 
+(d)  
+` 1,32,275 
+Particulars 
+Amount (`) 
+Revenues 
+` 20,00,000 
+Less: COGS @ 40% 
+` 8,00,000 
+Gross Profit 
+` 12,00,000 
+Employee cost 
+` 2,00,000 
+Electricity and other cost 
+` 50,000 
+Other advt 
+` 50,000 
+Finance cost 
+` 6,96,500 
+Total Expenses 
+` 9,96,500 
+PBT 
+` 2,03,500 
+Tax @35% 
+` 71,225 
+PAT 
+` 1,32,275 
+2. 
+(b) 
+15.90% 
+ 
+Cost of Equity using CAPM  
+ 
+Ke  
+= Rf + (Rm – Rf) Beta 
+ 
+ 
+= 5.45% + (14.95%-5.45%)1.1 
+ 
+ 
+= 15.90% 
+ 
+<<PAGE 2>>
+2 
+3. 
+(b) 
+11.50% 
+ 
+Calculation of WACC 
+Source 
+Capital 
+Weight 
+(W) 
+Cost before 
+tax 
+After tax 
+Cost (K)  
+WACC  
+(W x C) 
+Equity 
+   80,00,000  
+       0.533  
+15.90% 
+15.90% 
+8.48% 
+Debt 
+   70,00,000  
+       0.467  
+9.95% 
+6.47% 
+3.02% 
+1,50,00,000  
+  
+  
+  
+11.50% 
+4. 
+(a)  
+4.28% 
+Cost of debenture (Kd)  
+ 
+ 
+=
+(
+)
+(
+)
+(
+)
+RV-NP
+I 1-t +
+n
+RV+NP
+2
+ 
+I 
+= Interest on debenture = 10% of `100  
+= `10 
+NP = Net Proceeds = 110% of `100   
+= `110 
+RV = Redemption value 
+ 
+ 
+= `100 
+n  = Period of debenture  
+ 
+ 
+= 5 years 
+t 
+= Tax rate 
+ 
+ 
+ 
+= 35% or 0.35 
+Kd  
+ 
+= 
+(
+)
+(
+)
+(
+)
+ 100-  110
+   10 1- 0.35 +
+5years
+  100+  110
+2
+`
+`
+`
+`
+`
+ 
+Or, Kd  
+ 
+= ( 10 × 0.65)- 2
+105
+`
+`
+`
+ =  
+ 
+4.5
+105
+`
+`
+= 0.0428 or 4.28% 
+5. 
+(c)  
+` 4,22,133 
+ 
+Calculation of Cash Inflows 
+Year 
+2026 
+2027 
+2028 
+2029 
+2030 
+Revenue 
+9,50,000 
+10,45,000 
+11,49,500 
+12,64,450 
+13,90,895 
+COGS % 
+40% 
+42% 
+45% 
+47% 
+50% 
+COGS (`) 
+3,80,000 
+4,38,900 
+5,17,275 
+5,94,292 
+6,95,447 
+Gross Profit 
+5,70,000 
+6,06,100 
+6,32,225 
+6,70,159 
+6,95,448 
+<<PAGE 3>>
+3 
+Employee Costs 
+45,000 
+47,250 
+49,613 
+52,093 
+54,698 
+Electricity/Other 
+5,000 
+5,100 
+5,202 
+5,306 
+5,412 
+Advertising 
+15,000 
+15,150 
+15,302 
+15,455 
+15,609 
+Depreciation 
+1,50,000 
+1,50,000 
+1,50,000 
+1,50,000 
+1,50,000 
+Profit before tax  
+3,55,000 
+3,88,600 
+4,12,109 
+4,47,305 
+4,69,729 
+Less: Tax 
+1,24,250 
+1,36,010 
+1,44,238 
+1,56,557 
+1,64,405 
+Profit After Tax 
+2,30,750 
+2,52,590 
+2,67,871 
+2,90,748 
+3,05,324 
+Add: Depreciation 
+1,50,000 
+1,50,000 
+1,50,000 
+1,50,000 
+1,50,000 
+Net Cashflow 
+3,80,750 
+4,02,590 
+4,17,871 
+4,40,748 
+4,55,324 + 
+7,50,000 
+(TV of Asset) 
+PV Factor @12% 
+0.893 
+0.797 
+0.712 
+0.636 
+0.567 
+PV 
+3,40,010 
+3,20,864 
+2,97,524 
+2,80,316 
+6,83,419 
+NPV = 19,22,133 – 15,00,000 = ` 4,22,133 
+6. 
+(d)  
+` 3,20,000 
+Plan A 
+ 
+ 
+EPSA = 
+EBIT×(1-0.30)
+40,000
+=
+0.70 EBIT
+40,000 
+Plan B 
+ 
+ 
+EPSB = 
+(EBIT-1,20,000)(1-0.30)
+25,000
+=
+0.70(EBIT-1,20,000)
+25,000
+ 
+ 
+Equating Plan A and Plan B 
+ 
+ 
+0.70 EBIT
+40,000 =  
+0.70(EBIT-1,20,000)
+25,000
+  
+ 
+ 
+EBIT
+40,000 =
+ EBIT-1,20,000
+25,000
+ 
+EBIT = ` 3,20,000 
+7.  
+(a) 
+` 8,750 
+ 
+Computation of Earnings after tax (EAT) or Profit after tax (PAT) 
+ 
+Total contribution = 5,000 units x ` 60/unit = ` 3,00,000 
+ 
+Operating leverage (OL) x Financial leverage (FL) = Combined leverage (CL) 
+ 6 × FL = 24 
+ 
+ 
+ FL = 4 
+<<PAGE 4>>
+4 
+OL  
+= Contribution
+EBIT
+ 
+ 6 = 
+EBIT
+000
+,
+00
+,3 `
+EBIT = ` 50,000  
+FL  
+ 
+= 
+EBT
+EBIT  
+ 4 = 
+EBT
+000
+,
+50
+ `
+   EBT = ` 12,500 
+ 
+Since tax rate is 30%, therefore, Earnings after tax = 12,500 x 0.70 = ` 8,750 
+ 
+Earnings after tax (EAT) = ` 8,750 
+8.  
+(b) 
+` 1,00,00,000 for both policies 
+ 
+Under MM (no taxes), dividend policy does not affect firm value. 
+ 
+Part II - Descriptive Questions 
+1. 
+(a)  
+(i)  
+Determination of Sales and Cost of goods sold: 
+ 
+Gross Profit Ratio = Gross Profit × 100
+Sales
+ 
+ 
+Or, 25
+100 = 
+4,00,000
+Sales
+`
+ 
+ 
+Or, Sales = 4,00,000
+25
+ = ` 16,00,000 
+ 
+ 
+Cost of Goods Sold = Sales – Gross Profit  
+ 
+ 
+ 
+ 
+= ` 16,00,000 - ` 4,00,000 = ` 12,00,000 
+(ii)  
+Determination of Sundry Debtors: 
+ 
+Debtors velocity is 3 months or Debtors’ collection period is 3 months, 
+ 
+So, Debtors’ turnover ratio = 12months
+3months = 4 
+ 
+Debtors’ turnover ratio       = 
+Credit Sales
+Average Accounts Receivable 
+ 
+ 
+                                 =
+16,00,000
+Bills Receivable+SundryDebtors
+` 
+= 4 
+ 
+Or, Sundry Debtors + Bills receivable = ` 4,00,000 
+ 
+Sundry Debtors = ` 4,00,000 – ` 25,000 = ` 3,75,000  
+<<PAGE 5>>
+5 
+(iii)   Determination of Sundry Creditors:  
+ 
+Creditors velocity of 2 months or credit payment period is 2 months.  
+ 
+So, Creditors’ turnover ratio  = 12 months
+2 months = 6   
+ 
+Creditors turnover ratio  
+= 
+CreditPurchases*
+Average AccountsPayables 
+ 
+ 
+ 
+ 
+ 
+=
+ 12,10,000
+Sundry Creditors+Bills Payables
+`
+ = 6 
+ 
+So, Sundry Creditors + Bills Payable = ` 2,01,667 
+ 
+Or, Sundry Creditors + ` 10,000 = ` 2,01,667 
+ 
+Or, Sundry Creditors = ` 2,01,667 – ` 10,000 = ` 1,91,667  
+(iv)  
+Closing Stock  
+ 
+Stock Turnover Ratio = Cost of Goods Sold
+Average Stock
+=
+12,00,000
+Average Stock
+`
+=1.5 
+ 
+So, Average Stock  = ` 8,00,000 
+ 
+Now Average Stock  = Opening Stock+Closing Stock
+2
+ 
+ 
+Or Opening Stock+(Opening Stock+ 10,000)
+2
+`
+= ` 8,00,000 
+ 
+Or, Opening Stock  
+= ` 7,95,000  
+ 
+So, Closing Stock  
+= ` 7,95,000 + ` 10,000 = ` 8,05,000  
+(v)  
+Calculation of Fixed Assets 
+ 
+Fixed Assets Turnover Ratio = Costof GoodsSold
+FixedAssets
+= 4 
+ 
+Or, 
+12,00,000
+Fixed Assets
+`
+= 4 
+ 
+Or, Fixed Asset = ` 3,00,000  
+ 
+<<PAGE 6>>
+6 
+Workings: 
+ 
+*Calculation of Credit purchases: 
+Cost of goods sold = Opening stock + Purchases – Closing stock 
+` 12,00,000 = ` 7,95,000 + Purchases – ` 8,05,000 
+` 12,00,000 + ` 10,000 = Purchases 
+` 12,10,000 = Purchases (credit). 
+Assumption: 
+(i)  
+All sales are credit sales  
+(ii) 
+All purchases are credit purchase 
+(iii)  
+Stock Turnover Ratio and Fixed Asset Turnover Ratio may be calculated 
+either on Sales or on Cost of Goods Sold. 
+(b)  
+Particulars 
+1 
+2 
+3 
+4 
+EBIT 
+60,00,000 
+60,00,000 
+60,00,000 
+60,00,000 
+Less: 
+ 
+ 
+ 
+ 
+Interest  
+6,00,000 
+9,75,000 
+12,60,000 
+14,70,000 
+Earning available for equity 
+holders [A] 
+54,00,000 
+50,25,000 
+47,40,000 
+45,30,000 
+Equity capitalization rate [B] 
+12% 
+15% 
+16% 
+16% 
+Market 
+Value 
+of 
+equity 
+[A]/[B] 
+4,50,00,000 
+3,35,00,000 
+2,96,25,000 
+2,83,12,500 
+Market value of debt (given) 
+60,00,000 
+75,00,000 
+90,00,000 
+105,00,000 
+Total Market Value  
+5,10,00,000 
+4,10,00,000 
+3,86,25,000 
+3,88,12,500 
+Overall cost of capital  
+= 
+EBIT x 100 
+Total market value  
+11.76% 
+14.63% 
+15.53% 
+15.46% 
+ 
+The capital structure having debt of ` 60,00,000 is recommended as overall cost 
+of capital is minimum at 11.76%. 
+(c)  
+Option I : Cost of travel, in case Video Conferencing facility is not provided  
+ 
+Total Trip = No. of Locations × No. of Persons × No. of Trips per Person = 7 × 2 
+× 2 = 28 Trips  
+<<PAGE 7>>
+7 
+ 
+Total Travel Cost (including air fare, hotel accommodation and meals) (28 trips × 
+` 27,000 per trip)  
+ 
+= ` 7,56,000  
+ 
+Option II : Video Conferencing Facility is provided by Installation of Own 
+Equipment at Different Locations  
+ 
+Cost of Equipment at each location (` 8,25,000 × 8 locations) = ` 66,00,000  
+ 
+Economic life of Machines (5 years). Annual depreciation (66,00,000/5)  
+= ` 13,20,000  
+ 
+Annual transmission cost (48 hrs. transmission × 8 locations × ` 300 per hour)  
+= ` 1,15,200  
+ 
+Annual cost of operation (13,20,000 + 1,15,200) = ` 14,35,200  
+ 
+Option III : Engaging Video Conferencing Facility on Rental Basis  
+ 
+Rental cost (48 hrs. × 8 location × ` 1,500 per hr)  
+= ` 5,76,000 
+ 
+Telephone cost (48 hrs.× 8 locations × ` 400 per hr.)  = ` 1,53,600  
+ 
+Total rental cost of equipment (5,76,000 + 1,53,600)  = ` 7,29,600  
+ 
+Minimum required savings = 10% of existing travel cost 
+ 
+Required minimum savings = 10% of ` 7,56,000 = ` 75,600 
+ 
+Actual Savings Using Rented Facilities = ` 7,56,000 - ` 7,29,600 = ` 26,400 
+ 
+Analysis: The annual cost is minimum, if video conferencing facility is engaged 
+on rental basis. However, saving is less than 10% of existing travel cost. 
+Therefore, no change is suggested. 
+2.  
+(i)  
+Let the Purchase of Raw Material be X.  
+Hence, RM consumed  
+= 0.75X. 
+Wages 1/3rd of RM   
+= 0.25X 
+OH & GP 1/6th of RM each  = 1/3rd of RM  
+ 
+ 
+= 0.25X  
+Sales   
+ 
+ 
+= 0.75X + 0.25X + 0.25X  
+= 1.25X 
+GST paid  
+ 
+= Output IGST - Input IGST  
+45,000  
+ 
+ 
+= 0.225X - 0.18X 
+ 
+= 0.045X 
+Purchases(X) 
+ 
+= 10,00,000 
+<<PAGE 8>>
+8 
+Sales   
+ 
+ 
+= 1.25X  
+ 
+= 12,50,000 
+Cash Turnover  
+ 
+= 9  
+ 
+ 
+= 360/Cash cycle  
+Cash cycle   
+ 
+= 360/9  
+ 
+= 40 days 
+Operating Cycle  
+ 
+= 40 + 30  
+ 
+= 70 days  
+Closing Stock  
+ 
+= 25% of Purchases  
+= 2,50,000  
+RM Holding period   
+= 
+2,50,000 
+7,50,000 / 30 days     
+= 10 days 
+Cash Cycle   
+ 
+= Gross Operating Cycle – Credit Period by Supplier 
+40 days  
+ 
+ 
+= 70 days - Credit Period by Supplier 
+Credit Period by Supplier  
+= 30 days or 1 months 
+Gross Operating Cycle  
+= Inventory Conversion + Debtors Credit period 
+Debtors Credit period  
+= 70 - 10  
+ 
+= 60 days 
+ 
+Statement of Working Capital requirements 
+ 
+(`) 
+(`) 
+A. Current Assets 
+ 
+ 
+Inventory: 
+ 
+ 
+ 
+-Raw materials (Refer WN) 
+2,50,000 
+ 
+Receivables (Debtors) (12,50,000 x 2 months) 
+25,00,000  
+ 
+Cash balance (90,00,000 / 9) 
+10,00,000 
+37,50,000 
+Gross Working Capital 
+ 
+37,50,000 
+B. Current Liabilities: 
+ 
+ 
+Payables: 
+ 
+ 
+-Creditors for materials (1 month) 
+10,00,000 
+ 
+Wages and overhead outstanding (20% of Total 
+wages & OH i.e 20% x 2,50,000 for 1 month) 
+50,000 
+10,50,000 
+Net working capital (A - B) 
+ 
+27,00,000 
+(ii)  
+Evaluating Supplier’s Offer 
+Gross Return for Additional borrowing/ investment = 
+ 1.5%
+ 90% x 12 = 20% 
+If the company does not avail the cash discount and pays the amount after 45 days, 
+the implied cost of interest per annum would be approximately: 
+<<PAGE 9>>
+9 
+
+
+
+
+
+
+365
+t
+100
+-1
+100 - d
+ 
+
+
+
+
+
+
+360
+45
+100
+-1
+100- 2
+ 
+= 17.54% 
+Advise: Company should not accept supplier’s offer since the gross return is more 
+than the supplier’s offer. 
+(iii)  
+Comparison of Net Cost, if the invoice amount is 10,000 
+Particulars 
+Refuse 
+discount (`) 
+Accept 
+discount (`) 
+Payment to supplier 
+10,000 
+9,800 
+Return from investing ` 9,800 between day 
+15 and day 60: 45/360 x ` 9,800 x 20% 
+(245) 
+– 
+Net Cost 
+9,755 
+9,800 
+ 
+Advise: Thus, it is better for the company to refuse the discount, as return on 
+cash retained is more than the saving on account of discount. 
+3. 
+(a)  
+Calculation of Current EBIT 
+Particulars 
+Amount (`) 
+Sales (10,000 × 500) 
+50,00,000 
+Variable cost (10,000 × 200) 
+20,00,000 
+Contribution 
+30,00,000 
+Fixed cost 
+25,00,000 
+EBIT 
+5,00,000 
+ 
+Case 1 — Quantity (production & sales) increases by 10% (price & costs 
+unchanged) 
+ 
+New quantity = 10,000 × 1.10 = 11,000 units 
+Particulars 
+Amount (`) 
+Contribution (11,000 × 300) 
+33,00,000 
+Fixed cost 
+25,00,000 
+New EBIT 
+8,00,000 
+ 
+ 
+<<PAGE 10>>
+10 
+% Change in EBIT 
+8,00,000-5,00,000
+5,00,000
+×100 = 60% 
+ 
+Conclusion (Case 1): The accountant’s statement is correct here. A 10% rise in 
+quantity produces a 60% rise in EBIT. 
+ 
+Case 2 — Selling price per unit increases by 10% (quantity unchanged; 
+variable cost unchanged) 
+ 
+New price = 500 × 1.10  = 550 pu 
+ 
+Variable cost per unit  
+= 200  
+ 
+Contribution per unit  
+= 350 
+ 
+Quantity  
+ 
+= 10,000  
+Particulars 
+Amount (`) 
+Contribution (10,000 × 350) 
+35,00,000 
+Fixed cost 
+25,00,000 
+New EBIT 
+10,00,000 
+ 
+% Change in EBIT 
+10,00,000-5,00,000
+5,00,000
+×100 = 100% 
+ 
+Conclusion (Case 2): The accountant’s 60% prediction is not correct. A 10% 
+price increase (with volume fixed) doubles EBIT here — a 100% increase — 
+because unit contribution rises from 300 to 350 (a 16.67% increase in contribution 
+per unit) while fixed costs stay the same. 
+ 
+Case 3 — Price increases by 10% but demand responds with price elasticity 
+= 1.2 
+ 
+Price elasticity of demand (absolute value) = 1.2 means a 10% price increase 
+causes a 12% decrease in quantity (elastic demand). Price and Quantity 
+demanded are inversely correlated. 
+ 
+New price = 550 pu (10% ↑) 
+Particulars 
+Amount (`) 
+Contribution per unit 
+350 
+<<PAGE 11>>
+11 
+Total contribution (8,800 × 350) 
+30,80,000 
+Fixed cost 
+25,00,000 
+New EBIT 
+5,80,000 
+ 
+% Change in EBIT 
+ 
+ 
+5,80,000 - 5,00,000
+5,00,000
+ × 100 = 16%  
+ 
+Conclusion (Case 3): The accountant’s 60% prediction is wrong. Because 
+quantity falls (elastic demand) the net effect is only a 16% increase in EBIT. 
+ 
+Reason: Operating Leverage means percentage change in EBIT with respect to 
+percentage change in sales quantity. OL is a function of Fixed cost, variable 
+contribution margin and Sales Volume. Hence, OL will be justified if there is 
+change in sales volume i.e. Quantity.  
+(iv) DCL  
+= DOL x DFL 
+12  
+ 
+= 6 x DFL 
+DFL   
+= 2  
+ 
+Earnings Before Tax (EBT) 
+ 
+EBT = 5,00,000 - 2,50,000 = 2,50,000 
+ 
+Correct Degree of Financial Leverage (DFL) 
+ 
+DFL  
+ =
+EBIT
+EBT−Preference Dividend 
+ 
+ 
+ 
+=
+5,00,000
+2,50,000-1,00,000 
+ 
+ 
+ 
+= 3.33 
+Hence, DCL  = 6 x 3.33 = 20  
+ 
+Therefore, the financial leverage computed by the Chief Accountant is not correct 
+(b)  
+(i)  
+According to Dividend Discount Model approach the firm’s expected or 
+required return on equity is computed as follows: 
+ 
+ 
+1
+0
+D
+g
+P
+=
++
+K 
+ 
+    
+ 
+ 
+<<PAGE 12>>
+12 
+Where, 
+Ke  
+= Cost of equity share capital  
+D1  
+= Expected dividend at the end of year 1 
+P0  
+= Current market price of the share. 
+g 
+= Expected growth rate of dividend. 
+e
+3.36
+Therefore, K
+7.5%
+146
+=
++
+  
+ 
+ 
+ 
+ 
+ 
+ 
+= 0.0230 + 0.075 = 0.098 
+Or,      Ke  
+= 9.80% 
+(ii)  
+With rate of return on retained earnings (r) 10% and retention ratio (b) 60%, new 
+growth rate will be as follows: 
+ 
+g  
+= br      
+ 
+ 
+= 0.10 X 0.60 = 0.06 
+ 
+Accordingly, dividend will also get changed and to calculate this, first we shall 
+calculate previous retention ratio (b1) and then EPS assuming that rate of return 
+on retained earnings (r) is same. 
+ 
+With previous Growth Rate of 7.5% and r =10% the retention ratio comes out to 
+be:  
+ 
+0.075  = b1 x 0.10 
+ 
+b1  
+= 0.75 and payout ratio = 0.25  
+ 
+With 0.25 payout ratio the EPS will be as follows: 
+ 
+3.36
+0.25 = 13.44  
+ 
+With new 0.40 (1 – 0.60) payout ratio the new dividend will be 
+ 
+D1  
+= 13.44 X 0.40 = 5.376 
+ 
+Accordingly new Ke will be 
+ 
+e
+5.376
+K
+6.0%
+146
+=
++
+    
+ 
+ 
+ 
+ 
+ 
+Ke  
+= 9.68% 
+ 
+ 
+<<PAGE 13>>
+13 
+4. 
+(a)  
+Other Types of Leases are explained below: 
+(i) 
+Sales and Lease Back: Under this type of lease, the owner of an asset 
+sells the asset to a party (the buyer), who in turn leases back the same 
+asset to the owner in consideration of a lease rentals. Under this 
+arrangement, the asset is not physically exchanged but it all happen in 
+records only.  The main advantage of this method is that the lessee can 
+satisfy himself completely regarding the quality of an asset and after 
+possession of the asset convert the sale into a lease agreement.   
+ 
+Under this transaction, the seller assumes the role of lessee (as the same 
+asset which he has sold came back to him in the form of lease) and the 
+buyer assumes the role of a lessor (as asset purchased by him was leased 
+back to the seller). So, the seller gets the agreed selling price and the buyer 
+gets the lease rentals. 
+(ii) 
+Leveraged Lease: Under this lease, a third party is involved besides lessor 
+and the lessee. The lessor borrows a part of the purchase cost (say 80%) 
+of the asset from the third party i.e., lender and asset so purchased is held 
+as security against the loan.  The lender is paid off from the lease rentals 
+directly by the lessee and the surplus after meeting the claims of the lender 
+goes to the lessor.  The lessor is entitled to claim depreciation allowance. 
+(iii) 
+Sales-aid Lease: Under this lease contract, the lessor enters into a tie up 
+with a manufacturer for marketing the latter’s product through his own 
+leasing operations, it is called a sales-aid lease. In consideration of the aid 
+in sales, the manufacturer may grant either credit or a commission to the 
+lessor. Thus, the lessor earns from both sources i.e. from lessee as well as 
+the manufacturer. 
+(iv) 
+Close-ended and Open-ended Leases: In the close-ended lease, the 
+assets get transferred to the lessor at the end of lease, the risk of 
+obsolescence, residual value etc., remain with the lessor being the legal 
+owner of the asset.  In the open-ended lease, the lessee has the option of 
+purchasing the asset at the end of the lease period. 
+(b)  
+Cost of capital is the return expected by the providers of capital (i.e. shareholders, 
+lenders and the debt-holders) to the business as a compensation for their 
+contribution to the total capital.  
+ 
+The cost of capital is important to arrive at correct amount and helps the 
+management or an investor to take an appropriate decision. The correct cost of 
+capital helps in the following decision making: 
+<<PAGE 14>>
+14 
+(i) 
+Evaluation of investment options: The estimated benefits (future cash 
+flows) from available investment opportunities (business or project) are 
+converted into the present value of benefits by discounting them with the 
+relevant cost of capital. Here it is pertinent to mention that every 
+investment option may have different cost of capital hence it is very 
+important to use the cost of capital which is relevant to the options 
+available.  
+(ii) 
+Financing Decision: When a finance manager has to choose one of the 
+two sources of finance, he can simply compare their cost and choose the 
+source which has lower cost. Besides cost, he also considers financial risk 
+and control. 
+(iii) 
+Designing of optimum credit policy: While appraising the credit period 
+to be allowed to the customers, the cost of allowing credit period is 
+compared against the benefit/ profit earned by providing credit to customer 
+of segment of customers. Here cost of capital is used to arrive at the 
+present value of cost and benefits received.  
+(c)  
+According to Van Horne, “Value of a firm is represented by the market price of the 
+company's common stock. The market price of a firm's stock represents the focal 
+judgment of all market participants as to what the value of the particular firm is.  It 
+takes into account present and prospective future earnings per share, the timing 
+and risk of these earnings, the dividend policy of the firm and many other factors 
+that bear upon the market price of the stock. The market price serves as a 
+performance index or report card of the firm's progress. It indicates how well 
+management is doing on behalf of stockholders.” 
+OR 
+(c)  
+Generally, the dividend can be of the following forms (depending upon some 
+factors that will be discussed later): 
+1. 
+Cash dividend: It is the most common form of dividend. Cash here 
+means cash, cheque, warrant, demand draft, pay order or directly through 
+Electronic Clearing Service (ECS) but not in kind. 
+2. 
+Share repurchases: A share repurchase is transaction in which company 
+buys back its own shares using corporate cash. This is done by lot of 
+corporates these days. 
+3. 
+Stock dividend (Bonus Shares): It is a distribution of shares in lieu of 
+cash dividend. When the company issues new shares to its existing 
+shareholders without any consideration it is called bonus shares. 
+<<PAGE 15>>
+15 
+PAPER 6B: STRATEGIC MANAGEMENT 
+ANSWERS 
+PART I 
+1. (A) 
+(i)  
+(b) 
+(ii) 
+(c) 
+(iii)  
+(b) 
+(iv)  
+(a) 
+(v)  
+(c) 
+    (B) 
+(i)  
+(d) 
+(ii) 
+(b) 
+(iii)  
+(a) 
+ 
+ 
+ 
+ 
+PART II 
+1.  
+(a)  
+The sudden surge in demand for the skincare brand after celebrity endorsements 
+can be explained through the framework of Consumer Behaviour, which goes 
+beyond identifying customers and focuses on how they purchase products, their 
+preferences, perceptions and shopping patterns. 
+ 
+Consumer behaviour is influenced by four major conceptual domains: 
+1. 
+External Influences: These include factors such as advertisements, 
+celebrity endorsements, peer recommendations and social norms. In this 
+case, the endorsements and social media promotions acted as strong 
+marketing stimuli, directly shaping how consumers perceived the brand 
+and influencing their decision to purchase. 
+2. 
+Internal Influences: These are psychological processes within the consumer, 
+such as motivation, attitudes and perception. The promotions may have altered 
+consumer perception of the product’s quality and created motivation linked to 
+beauty, self-image or aspirational lifestyles, prompting purchase. 
+3.  
+Decision-Making Process: Consumers often follow a sequence: 
+• 
+Problem recognition 
+• 
+Search for alternatives 
+• 
+Information seeking and evaluation 
+• 
+Final choice 
+ 
+The endorsements and promotions helped consumers recognise the 
+product as a desirable solution, providing information and reducing 
+perceived risk, leading to quicker and more confident decision-making. 
+4.    
+Post-Decision Processes: If customers feel satisfied after purchase, they 
+will repeat buying and recommend the brand to others, helping sustain the 
+increased sales. If dissatisfied, they may experience dissonance and not 
+return. 
+<<PAGE 16>>
+16 
+ 
+Understanding customer behaviour—its external and internal influences, 
+decision-making stages and post-purchase reactions—is critical. It enables 
+businesses to communicate effectively, design relevant marketing campaigns, 
+deliver products that meet consumer needs and retain customers for repeat sales. 
+(b)  
+The tech startup is responding to internal strategic drivers—the key elements 
+within the organisation that shape its performance and strategic direction. Internal 
+analysis involves assessing strategic drivers, which include: 
+1. 
+Industry and Markets: The startup closely monitors its relative position in 
+the industry and changing market dynamics. As user behaviour, platforms 
+and technologies evolve, the startup adapts its model to stay aligned with 
+shifting market expectations. 
+2. 
+Customers: Changing user behaviour directly influences customer needs 
+and preferences. Understanding these customers, their usage patterns and 
+their value to the business drives the startup to update its offerings. 
+3. 
+Products/Services: The startup modifies its business model to refine or 
+expand its products/services in response to technological shifts and 
+customer demands. This ensures relevance, competitiveness and 
+differentiation in the market. 
+4. 
+Channels: As new digital platforms emerge, the startup adjusts the 
+channels through which it delivers its services—such as apps, web 
+platforms or partner integrations—to reach customers effectively. 
+ 
+Therefore, the internal elements the firm is responding to are its key 
+strategic drivers: industry & markets, customers, products/services and 
+channels. These drivers help the organisation assess its current performance and 
+make strategic decisions to stay competitive and aligned with emerging trends. 
+(c)  
+To ensure smooth execution of the cost-saving strategy while enabling timely 
+corrections and flexibility, SunSip Beverages can use the following types of 
+strategic controls: 
+1. 
+Premise Control: Ensures that the assumptions on which the cost-saving 
+strategy is based—such as raw material prices, demand forecasts or 
+logistics costs—remain valid. If assumptions change, the strategy can be 
+adjusted quickly. 
+2. 
+Implementation Control: Tracks whether the strategy is being executed 
+as planned in manufacturing and warehousing. Regular progress reviews, 
+<<PAGE 17>>
+17 
+milestone checks and pilot testing help detect deviations early and initiate 
+corrective actions. 
+3. 
+Strategic Surveillance: Provides broad, continuous monitoring of the 
+internal and external environment. It helps identify unexpected threats or 
+opportunities—such as new competitors, technology changes or regulatory 
+shifts—that may require strategy adaptation. 
+4. 
+Special Alert Control: Activated in response to sudden, unexpected 
+events (e.g., supply chain disruptions or economic shocks). It allows the 
+company to respond quickly and revise the strategy when necessary. 
+ 
+By using premise control, implementation control, strategic surveillance and 
+special alert control, the MD can ensure that the cost-saving plan is properly 
+monitored, deviations are corrected immediately and the strategy remains 
+flexible in a dynamic market. 
+2.  
+(a)  
+Ansoff’s product market growth matrix (proposed by Igor Ansoff) is a useful tool 
+that helps businesses decide their product and market growth strategy. With the 
+use of this matrix, a business can get a fair idea about how its growth depends 
+upon its markets in new or existing products in both new and existing markets.  
+ 
+The Ansoff’s product market growth matrix is as follows: 
+ 
+Ansoff’s Product Market Growth Matrix 
+ 
+Sky Chemical Industry can adopt market penetration, product development, 
+market development or diversification simultaneously for its different products. 
+<<PAGE 18>>
+18 
+ 
+Market penetration refers to a growth strategy where the business focuses on 
+selling existing products into existing markets. It is achieved by making more sales 
+for present customers without changing products in any major way.  
+ 
+Market development refers to a growth strategy where the business seeks to sell 
+its existing products into new markets. It is a strategy for company growth by 
+identifying and developing new markets for the existing products of the company.  
+ 
+Product development refers to a growth strategy where business aims to 
+introduce new products into existing markets. It is a strategy for company growth 
+by offering modified or new products to current markets.  
+ 
+Diversification refers to a growth strategy where a business markets new 
+products in new markets. It is a strategy by starting up or acquiring businesses 
+outside the company’s current products and markets.  
+ 
+As market conditions change overtime, a company may shift product-market 
+growth strategies. For example, when its present market is fully saturated a 
+company may have no choice other than to pursue new market. 
+(b)  
+In light of Michael Porter's Five Forces, new entrepreneurs often face significant 
+barriers that restrain their keenness to enter an industry. These barriers increase 
+the competitiveness of existing firms and discourage new entrants, impacting 
+industry profitability. 
+ 
+Common barriers that may restrain new entrepreneurs include: 
+(i) 
+Capital Requirements: When a large amount of capital is required to enter 
+an industry, firms lacking funds are effectively barred from the industry, 
+thus enhancing the profitability of existing firms in the industry.  
+(ii) 
+Economies of Scale: Many industries are characterized by economic 
+activities driven by economies of scale. Economies of scale refer to the 
+decline in the per-unit cost of production (or other activity) as volume 
+grows.  
+(iii) 
+Product Differentiation: Product differentiation refers to the physical or 
+perceptual differences, or enhancements, that make a product special or 
+unique in the eyes of customers.  
+(iv) 
+Switching Costs: To succeed in an industry, new entrant must be able to 
+persuade existing customers of other companies to switch to its products. 
+When such switching costs are high, buyers are often reluctant to change.  
+<<PAGE 19>>
+19 
+(v) 
+Brand Identity: The brand identity of products or services offered by 
+existing firms can serve as another entry barrier. Brand identity is 
+particularly important for infrequently purchased products that carry a high 
+unit cost to the buyer.  
+(vi) 
+Access to Distribution Channels: The unavailability of distribution 
+channels for new entrants poses another significant entry barrier. Despite 
+the growing power of the internet, many firms may continue to rely on their 
+control of physical distribution channels to sustain a barrier to entry to 
+rivals.  
+(vii) 
+Possibility of Aggressive Retaliation: Sometimes the mere threat of 
+aggressive retaliation by incumbents can deter entry by other firms into an 
+existing industry.  
+3.  
+(a)  
+Any organisation may find the work of digital transformation challenging and 
+overwhelming. To ensure that a digital transition is effective, change management 
+is essential. Here are some pointers for navigating change during the digital 
+transformation: 
+1. 
+Specify the digital transformation’s aims and objectives: What is the 
+intended outcome? What are the precise objectives that must be 
+accomplished? It will be easier to make sure that everyone is on the same 
+page and pursuing the same aims if everyone has a clear grasp of the 
+goals. 
+2. 
+Always, always, always communicate: It might be challenging for people 
+to accept change and adjust to it. Ensure that you routinely and honestly 
+discuss the objectives of digital transformation and how they will affect 
+stakeholders, including employees, clients, and other parties. 
+3. 
+Be ready for resistance: Even when a change is for the better, it can be 
+challenging for people to embrace it. Have a strategy in place for dealing 
+with any resistance that may arise. 
+4. 
+Implement changes gradually: Changes should ideally be implemented 
+gradually rather than all at once. In order to avoid overwhelming individuals 
+with too much change at once, this will give people time to become used 
+to the new way of doing things. 
+5. 
+Offer assistance and training: Workers will need guidance in the new 
+procedures, software applications, etc. 
+ 
+In conclusion, effective completion of the massive project known as digital 
+transformation depends on meticulous planning and change management. Digital 
+<<PAGE 20>>
+20 
+transformation efforts are more likely to fail without change management. 
+Organizations can successfully integrate a new digital system by planning for and 
+managing the changes that must take place. Any project involving digital 
+transformation must include it. 
+(b)  
+Channels represent the distribution system through which organizations 
+distribute their products or provide services to customers. They play a pivotal role 
+in reaching target markets, maximizing sales, and establishing competitive 
+advantages.  
+ 
+Channel analysis is important when the business strategy is to scale up and 
+expand beyond the current geographies and markets. When a business plans to 
+grow to newer markets, they need to develop or leverage existing channels to get 
+to new customers. Thus, analysis of channels that suit one’s products and 
+customers is of utmost importance. 
+ 
+There are typically three channels that should be considered: sales channel, 
+product channel and service channel. 
+♦ 
+The sales channel - These are the intermediaries involved in selling the 
+product through each channel and ultimately to the end user. The key 
+question is: Who needs to sell to whom for your product to be sold to your 
+end user? For example, many fashion designers use agencies to sell their 
+products to retail organizations, so that consumers can access them. 
+♦ 
+The product channel - The product channel focuses on the series of 
+intermediaries who physically handle the product on its path from its 
+producer to the end user. This is true of Australia Post, who delivers and 
+distributes many online purchases between the seller and purchaser when 
+using eBay and other online stores. 
+♦ 
+The service channel - The service channel refers to the entities that 
+provide necessary services to support the product, as it moves through the 
+sales channel and after purchase by the end user. The service channel is 
+an important consideration for products that are complex in terms of 
+installation or customer assistance. For example, a Bosch dishwasher 
+may be sold in a Bosch showroom, and then once sold it is installed by a 
+Bosch contracted plumber. 
+4.  
+(a)  
+Vertically integrated diversification is a strategic approach in which a company 
+expands its business operations into different stages of the production or 
+distribution process within the same industry. This involves either forward 
+integration or backward integration. 
+<<PAGE 21>>
+21 
+ 
+The key difference between forward and backward integration lies in the direction 
+of expansion within the supply chain. Forward integration moves towards the 
+end consumer, while backward integration moves towards the source of raw 
+materials or components. 
+ 
+Forward integration allows companies to have more control over distribution 
+channels, improve customer relationships, and capture a larger share of the value 
+chain. In contrast, backward integration helps companies secure a stable 
+supply of inputs, reduce dependency on suppliers, and potentially lower 
+production costs. 
+ 
+Forward integration is often associated with activities such as retailing, marketing, 
+and after-sales services, while backward integration is associated with activities 
+such as manufacturing, sourcing, and procurement. 
+ 
+Both types of integration offer strategic advantages such as increased market 
+power, cost efficiencies, and greater control over critical business processes. 
+However, the decision to pursue forward or backward integration depends on 
+factors such as industry dynamics, competitive landscape, and the company's 
+core competencies and resources. 
+(b)  
+Functional-level managers handle specific business functions such as HR, 
+purchasing, product development, accounts, sales and customer service. 
+• 
+They operate at the bottom of the management hierarchy and follow the 
+instructions and guidelines issued by business and corporate-level 
+managers. 
+• 
+Though not responsible for the organisation’s overall performance, they 
+play a major strategic role by developing functional strategies that 
+support the strategic objectives set at higher levels. 
+• 
+They provide crucial operational and customer-related information that 
+enables business- and corporate-level general managers to formulate 
+realistic, practical and effective strategies. 
+• 
+Because they work closely with frontline staff and customers, functional 
+managers gain first-hand insights that may lead to new ideas and 
+improvements, sometimes becoming major strategic initiatives for the 
+company. 
+• 
+They play an equally important role in strategy implementation, ensuring 
+that corporate and business-level plans are executed effectively at the 
+operational level. 
+<<PAGE 22>>
+22 
+OR 
+ 
+The Chief Executive Officer (CEO) position within XYZ Enterprises operates at the 
+Corporate Level. This executive level is key in leading the overall direction, 
+performance, and success of the entire organization. The CEO assumes a central 
+role in shaping the company's strategic vision, overseeing diverse business 
+sectors, and ensuring alignment with organizational goals.  
+Key Duties and Responsibilities of the CEO: 
+ 
+The CEO's role encompasses various strategic responsibilities at the Corporate 
+Level, involving: 
+1. 
+oversee the development of strategies for the whole organization. 
+2. 
+defining the mission and goals of the organization; 
+3. 
+determining what businesses, it should be in; 
+4. 
+allocating resources among the different businesses; 
+5. 
+formulating and implementing strategies that span individual 
+businesses; 
+6. 
+providing leadership for the organization;  
+7. 
+ensuring that the corporate and business level strategies which company 
+pursues are consistent with maximizing shareholders wealth; and 
+8. 
+managing the divestment and acquisition process.  
+ 
+Given the diverse nature of XYZ Enterprises, including renewable energy 
+solutions, organic skincare products, eco-friendly packaging, and smart 
+home technologies, the CEO's responsibilities are tailored to navigate the 
+unique challenges and opportunities presented by each sector. In 
+conclusion, the CEO at the Corporate Level plays a critical role in guiding 
+XYZ Enterprises strategically, ensuring cohesive leadership, and driving 
+sustainable success across its diverse business domains.  
+ 

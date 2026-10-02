@@ -1,0 +1,893 @@
+{
+ "confusing": [
+  {
+   "title": "The pairs that cost marks in capital structure questions",
+   "headers": [
+    "Looks similar",
+    "The real difference",
+    "Give-away word"
+   ],
+   "rows": [
+    [
+     "NI approach vs NOI approach",
+     "NI: Ke constant, so more debt lowers WACC and raises value. NOI: Ke rises, so WACC and value never move",
+     "'Overall cost of capital is given' points to NOI"
+    ],
+    [
+     "MM 1958 vs MM 1963",
+     "Without tax, Vg = Vu. With tax, Vg = Vu + debt × tax rate",
+     "If a tax rate is given, use the 1963 formulae"
+    ],
+    [
+     "Ke under MM 1958 vs Keg under MM 1963",
+     "1958: Ko + (Ko − Kd) × D/E. 1963: Keu + (Keu − Kd) × D/(D + E)",
+     "The denominator changes from E to D + E"
+    ],
+    [
+     "Traditional vs trade-off theory",
+     "Traditional draws the U-shaped WACC curve; trade-off explains the U as tax shield against distress and agency costs",
+     "'Bankruptcy cost' means trade-off"
+    ],
+    [
+     "Trade-off vs pecking order",
+     "Trade-off has an optimum debt-equity target; pecking order expressly has none",
+     "'No well-defined target' means pecking order"
+    ],
+    [
+     "Financial break-even vs indifference point",
+     "Break-even is the EBIT where EPS is zero for one plan; indifference is the EBIT where two plans give equal EPS",
+     "One plan or two?"
+    ],
+    [
+     "Interest vs preference dividend in the break-even formula",
+     "Interest enters as it is; preference dividend is divided by (1 − t)",
+     "Only the post-tax charge is grossed up"
+    ],
+    [
+     "Over-capitalisation vs under-capitalisation",
+     "Over: more capital than earnings can service, dividend falls. Under: capitalisation below what earnings warrant, dividend is unusually high",
+     "A falling dividend means over"
+    ],
+    [
+     "Buyback vs bonus issue as a remedy",
+     "Buyback cures over-capitalisation; a bonus issue is the most appropriate cure for under-capitalisation",
+     "Reducing capital or spreading it?"
+    ],
+    [
+     "Debt-equity ratio vs debt to total value",
+     "0.6 as a debt-equity ratio is 37.5% debt; 0.6 of total value is 60% debt",
+     "The study material flags this trap itself"
+    ]
+   ],
+   "spot_it": "Two questions settle most of them: does the question give a tax rate, and does it give the overall cost of capital or the cost of equity?"
+  },
+  {
+   "title": "Every formula and benchmark in the chapter",
+   "headers": [
+    "Item",
+    "Formula or rule",
+    "Note from the study material"
+   ],
+   "rows": [
+    [
+     "Value of the firm",
+     "EBIT ÷ Overall cost of capital",
+     "Ko = Kd × D/(D+S) + Ke × S/(D+S)"
+    ],
+    [
+     "NI approach",
+     "S = NI ÷ Ke; V = S + D; Ko = EBIT ÷ V",
+     "Value is maximum where WACC is minimum; employ as much debt as possible"
+    ],
+    [
+     "Traditional approach",
+     "Compute Ko for each option and choose the minimum",
+     "WACC falls then rises; the lowest point is the optimum"
+    ],
+    [
+     "NOI approach",
+     "V = EBIT ÷ Ko; S = V − D; Ke = (EBIT − interest) ÷ S",
+     "Ko and Kd constant; Ke rises with leverage"
+    ],
+    [
+     "Ke under NOI, alternative form",
+     "Ke = Ko(V ÷ S) − Kd(D ÷ S)",
+     "Gives the same answer as the direct division"
+    ],
+    [
+     "MM 1958 proposition I",
+     "Vg = Vu = Net operating income ÷ Ko",
+     "Justified by arbitrage and personal leverage"
+    ],
+    [
+     "MM 1958 proposition II",
+     "Ke = Ko + (Ko − Kd) × Debt ÷ Equity",
+     "The risk premium for financial risk"
+    ],
+    [
+     "MM 1963 value",
+     "Vg = Vu + TB, where TB = debt × tax rate",
+     "The value of the levered firm exceeds the unlevered by the tax shield"
+    ],
+    [
+     "MM 1963 cost of equity",
+     "Keg = Keu + (Keu − Kd) × Debt ÷ (Debt + Equity)",
+     "Note the denominator"
+    ],
+    [
+     "MM 1963 WACC",
+     "Kog = Keu(1 − tL), where L = Debt ÷ (Debt + Equity)",
+     "Falls as leverage rises"
+    ],
+    [
+     "Pecking order",
+     "Internal finance → secured, unsecured and hybrid debt → new equity shares",
+     "No well-defined debt-equity target"
+    ],
+    [
+     "Financial break-even point",
+     "Interest + Preference dividend ÷ (1 − tax rate)",
+     "The EBIT at which EPS equals zero"
+    ],
+    [
+     "Indifference point",
+     "(EBIT − I₁)(1 − t) ÷ E₁ = (EBIT − I₂)(1 − t) ÷ E₂",
+     "No indifference point where equity is equal and after-tax costs differ"
+    ],
+    [
+     "Market price per share",
+     "EPS × P/E ratio, or EPS ÷ cost of equity",
+     "Start every plan from the same EBIT"
+    ]
+   ],
+   "spot_it": "If a formula divides by (D + E) rather than E, it belongs to the 1963 model."
+  }
+ ],
+ "cases": [
+  {
+   "id": "CASE-F05-INT-1",
+   "title": "Integrated Case 1 — Kaveri Cements Ltd. weighs three plans",
+   "facts": [
+    "Kaveri Cements Ltd. has 1,00,000 ordinary shares of ₹10 each in issue and wants to raise ₹2,50,000 to finance an expansion. Three methods are under consideration: (i) issue 25,000 ordinary shares at ₹10 each; (ii) borrow ₹2,50,000 at 8% per annum; (iii) issue 2,500 preference shares of ₹100 each carrying an 8% dividend.",
+    "Earnings before interest and taxes after the additional investment are expected to be ₹3,12,500 and the tax rate is 50%.",
+    "The company's shares currently trade on a price-earnings multiple of 12, and the board expects that multiple to hold under the equity plan but to fall to 11 under the debt plan.",
+    "A director argues that because the borrowing rate of 8% is the same as the preference dividend rate of 8%, the two fixed-charge plans must be equally attractive.",
+    "The finance director wants to know how far EBIT could fall before the answer changes."
+   ],
+   "questions": [
+    {
+     "q": "Earnings available to equity shareholders under the three plans are respectively:",
+     "options": {
+      "A": "₹1,56,250, ₹1,46,250 and ₹1,36,250",
+      "B": "₹1,56,250, ₹1,56,250 and ₹1,56,250",
+      "C": "₹3,12,500, ₹2,92,500 and ₹3,12,500",
+      "D": "₹1,56,250, ₹1,46,250 and ₹1,56,250"
+     },
+     "answer": "A",
+     "reasoning": [
+      "**Equity plan:** EBIT ₹3,12,500, no interest, PBT ₹3,12,500, tax at 50% ₹1,56,250, PAT ₹1,56,250, no preference dividend, so **₹1,56,250** is available to equity.",
+      "**Debt plan:** interest = 8% of ₹2,50,000 = ₹20,000, PBT ₹2,92,500, tax ₹1,46,250, PAT ₹1,46,250, so **₹1,46,250** is available to equity.",
+      "**Preference plan:** no interest, so PAT is ₹1,56,250, but the preference dividend of 8% on ₹2,50,000 = ₹20,000 is deducted after tax, leaving **₹1,36,250**. Option D is the figure you get by forgetting that deduction — which is why the preference column looks deceptively like the equity column until the last line."
+     ]
+    },
+    {
+     "q": "The director's argument that the 8% debt and the 8% preference shares are equally attractive is:",
+     "options": {
+      "A": "Correct, since the rates are identical",
+      "B": "Correct, because both are fixed charges",
+      "C": "Wrong, because interest is deducted before tax while preference dividend is deducted after tax, so the real cost of debt is lower",
+      "D": "Wrong, because preference shareholders have voting rights"
+     },
+     "answer": "C",
+     "reasoning": [
+      "SM §5.1: the choice is theoretically tilted in favour of debt for two reasons — the explicit cost of debt is generally lower than the rate of fixed dividend, and **interest on debt financing is tax-deductible, so the real after-tax cost is lower than the cost of preference share capital**.",
+      "Here the explicit rates happen to be equal at 8%, so only the second reason operates — but it is decisive: the ₹20,000 of interest costs the company ₹10,000 after tax, while the ₹20,000 preference dividend costs the full ₹20,000.",
+      "The arithmetic confirms it: earnings for equity are ₹1,46,250 under debt against ₹1,36,250 under preference, on the same number of shares."
+     ]
+    },
+    {
+     "q": "Earnings per share under the equity plan and the debt plan are respectively closest to:",
+     "options": {
+      "A": "₹1.25 and ₹1.46",
+      "B": "₹1.56 and ₹1.46",
+      "C": "₹1.25 and ₹1.17",
+      "D": "₹3.13 and ₹2.93"
+     },
+     "answer": "A",
+     "reasoning": [
+      "**Equity plan:** the share count rises to 1,25,000, so EPS = ₹1,56,250 ÷ 1,25,000 = **₹1.25**.",
+      "**Debt plan:** the share count stays at 1,00,000, so EPS = ₹1,46,250 ÷ 1,00,000 = **₹1.46**.",
+      "Option B applies the equity plan's earnings to the original 1,00,000 shares, which is the commonest slip: the new shares must be added to the denominator."
+     ]
+    },
+    {
+     "q": "Taking the price-earnings multiples the board expects, the market price per share under the equity and debt plans is:",
+     "options": {
+      "A": "₹15.00 and ₹17.55, so the debt plan is preferred",
+      "B": "₹15.00 and ₹16.06, so the debt plan is preferred",
+      "C": "₹15.00 and ₹16.06, so the equity plan is preferred",
+      "D": "₹18.72 and ₹16.06, so the equity plan is preferred"
+     },
+     "answer": "B",
+     "reasoning": [
+      "SM §4(1): multiply EPS by the price earning ratio to arrive at MPS. Equity plan: ₹1.25 × 12 = **₹15.00**. Debt plan: ₹1.46 × 11 = **₹16.06**.",
+      "The debt plan wins on market price per share even though its multiple is lower, because the EPS advantage of ₹0.21 more than offsets the one-point fall in the multiple.",
+      "Option A applies the 12 multiple to the debt plan as well, ignoring the market's repricing of the extra financial risk — the very point the board raised."
+     ]
+    },
+    {
+     "q": "The indifference point between the equity plan and the debt plan is:",
+     "options": {
+      "A": "₹20,000",
+      "B": "₹40,000",
+      "C": "₹1,00,000",
+      "D": "₹2,50,000"
+     },
+     "answer": "C",
+     "reasoning": [
+      "SM §5.2: (EBIT − I₁)(1 − t) ÷ E₁ = (EBIT − I₂)(1 − t) ÷ E₂. Here (EBIT − 0)(0.5) ÷ 1,25,000 = (EBIT − 20,000)(0.5) ÷ 1,00,000.",
+      "Cross-multiplying: 1,00,000 × 0.5 EBIT = 1,25,000 × (0.5 EBIT − 10,000), so 50,000 EBIT = 62,500 EBIT − 1,25,00,00,000 ÷ 1,000... working in simpler terms, 0.5 EBIT ÷ 1,25,000 = (0.5 EBIT − 10,000) ÷ 1,00,000 gives 0.4 EBIT = 0.5 EBIT − 10,000, so 0.1 EBIT = 10,000 and **EBIT = ₹1,00,000**.",
+      "Since the expected EBIT of ₹3,12,500 is comfortably above ₹1,00,000, the debt plan is the more viable — and the finance director now knows EBIT could fall by more than two-thirds before that conclusion reverses."
+     ]
+    }
+   ],
+   "concepts": [
+    "F05.13 EBIT-EPS-MPS analysis",
+    "F05.14 debt versus preference capital",
+    "F05.15 the indifference point",
+    "F05.12 choosing the optimum"
+   ],
+   "trap": "Every distractor here is a real error: forgetting the post-tax preference dividend, forgetting the new shares, or applying one P/E multiple to both plans."
+  },
+  {
+   "id": "CASE-F05-INT-2",
+   "title": "Integrated Case 2 — Two identical firms and one arbitrageur",
+   "facts": [
+    "N Ltd. and M Ltd. are identical in every respect except capital structure, and both report EBIT of ₹20,000. M Ltd. is levered, carrying debt of ₹1,00,000 at 7%; N Ltd. is entirely equity financed.",
+    "The cost of equity of N Ltd. is 10% and of M Ltd. 11.50%. There are no taxes and capital markets are assumed to be perfect.",
+    "An investor holds 10% of the equity of M Ltd.",
+    "A second company in the group, P Ltd., is all-equity financed with a market value of ₹25,00,000 and a cost of equity of 21%. It plans to buy back ₹5,00,000 of equity by raising 15% perpetual debt of the same amount. Here the tax rate is 30%.",
+    "P Ltd.'s board has also asked whether the company should simply keep borrowing indefinitely, since every rupee of debt appears to add value."
+   ],
+   "questions": [
+    {
+     "q": "The values of M Ltd. and N Ltd. are respectively:",
+     "options": {
+      "A": "₹2,00,000 and ₹2,13,043",
+      "B": "₹1,13,043 and ₹2,00,000",
+      "C": "₹2,13,043 and ₹2,00,000",
+      "D": "Both ₹2,00,000, since MM says they must be equal"
+     },
+     "answer": "C",
+     "reasoning": [
+      "**M Ltd.** Equity value = (EBIT − interest) ÷ Ke = (₹20,000 − ₹7,000) ÷ 0.115 = ₹1,13,043. Adding debt of ₹1,00,000 gives a firm value of **₹2,13,043**.",
+      "**N Ltd.** Value = ₹20,000 ÷ 0.10 = **₹2,00,000**, all of it equity.",
+      "Option D states MM's conclusion rather than the arithmetic. The two values are *not* equal as things stand — which is precisely why the arbitrage process has work to do. Option B gives M Ltd.'s equity value alone, omitting the debt."
+     ]
+    },
+    {
+     "q": "The investor holding 10% of M Ltd. should:",
+     "options": {
+      "A": "Hold, since M Ltd. has the higher value",
+      "B": "Buy more shares in M Ltd. and sell N Ltd. short",
+      "C": "Sell the M Ltd. holding, lend ₹10,000, and buy N Ltd.",
+      "D": "Sell the M Ltd. holding for ₹11,304.30, borrow ₹10,000, and invest ₹20,000 in N Ltd."
+     },
+     "answer": "D",
+     "reasoning": [
+      "SM §2.4: investors of the firm whose value is higher will sell their shares and instead buy the shares of the firm whose value is lower, earning the same return at a lower outlay with the same perceived risk.",
+      "The four steps: **sell** 10% of M Ltd. for 10% of ₹1,13,043 = ₹11,304.30; **borrow** 10% of M Ltd.'s debt, i.e. ₹10,000 — the personal leverage that replaces the corporate leverage given up; total resources ₹21,304.30; **invest** 10% of N Ltd.'s ₹2,00,000 = ₹20,000.",
+      "Option C lends rather than borrows, which would leave the investor carrying less risk than before and so make the comparison invalid. The borrowing is what keeps the two positions equivalent."
+     ]
+    },
+    {
+     "q": "After the arbitrage, the investor's return and surplus cash are:",
+     "options": {
+      "A": "₹1,300 and ₹1,304.30",
+      "B": "₹2,000 and ₹1,304.30",
+      "C": "₹1,300 and nil",
+      "D": "₹700 and ₹10,000"
+     },
+     "answer": "A",
+     "reasoning": [
+      "**Return:** 10% of the unlevered firm's EBIT less interest on the personal borrowing = 10% of ₹20,000 − 7% of ₹10,000 = ₹2,000 − ₹700 = **₹1,300** — exactly the ₹1,300 given up (10% of ₹20,000 − ₹7,000).",
+      "**Surplus cash:** total resources ₹21,304.30 less the ₹20,000 invested = **₹1,304.30** left in hand.",
+      "Same income, same risk, and cash in pocket — which is why the process continues until the two values converge and the value of the levered firm can neither be greater nor lower than that of the unlevered firm."
+     ]
+    },
+    {
+     "q": "After P Ltd.'s buyback funded by 15% perpetual debt, the market value of the company becomes:",
+     "options": {
+      "A": "₹25,00,000, unchanged",
+      "B": "₹30,00,000",
+      "C": "₹20,00,000",
+      "D": "₹26,50,000"
+     },
+     "answer": "D",
+     "reasoning": [
+      "SM §2.4, MM 1963: **Vg = Vu + TB**, where the tax benefit is the amount of debt multiplied by the corporate tax rate.",
+      "TB = ₹5,00,000 × 0.30 = ₹1,50,000, so Vg = ₹25,00,000 + ₹1,50,000 = **₹26,50,000**.",
+      "Option A would be right under MM 1958 without tax; the presence of a 30% tax rate is what moves the answer."
+     ]
+    },
+    {
+     "q": "The board's suggestion that P Ltd. should keep borrowing indefinitely is answered by:",
+     "options": {
+      "A": "The net income approach, which supports maximum debt",
+      "B": "The pecking order theory, which ranks debt above equity",
+      "C": "The trade-off theory, which sets the tax shield against financial distress and agency costs",
+      "D": "The net operating income approach, under which value never changes"
+     },
+     "answer": "C",
+     "reasoning": [
+      "SM §2.5: the trade-off theory entails offsetting the costs of debt against the benefits of debt. The benefit is the tax shield MM 1963 identified; the costs are financial distress — bankruptcy and non-bankruptcy costs — and agency costs.",
+      "The marginal benefit of further increases in debt declines as debt increases while the marginal cost increases, so a firm optimising its overall value focuses on this trade-off. As the debt-equity ratio increases, there is a trade-off between the interest tax shield and bankruptcy, causing an optimum capital structure.",
+      "Option A is the theory that would endorse the board's suggestion, but it assumes Ke never reacts — an assumption the trade-off theory abandons."
+     ]
+    }
+   ],
+   "concepts": [
+    "F05.06 MM 1958 and 1963",
+    "F05.07 the trade-off theory",
+    "F05.03 the NI approach by contrast"
+   ],
+   "trap": "The arbitrage steps must include the personal borrowing; and the tax rate in the second half of the case is what switches the answer from the 1958 model to the 1963 one."
+  }
+ ],
+ "chapter_test": {
+  "mcqs": [
+   {
+    "id": "CT-MCQ-F05-01",
+    "question": "Under the Net Income approach, as financial leverage increases:",
+    "options": {
+     "A": "The weighted average cost of capital declines and the value of the firm increases",
+     "B": "The weighted average cost of capital rises",
+     "C": "The value of the firm is unchanged",
+     "D": "The cost of equity rises to offset the cheaper debt"
+    },
+    "answer": "A",
+    "explanation": "SM §2.1: an increase in financial leverage leads to a decline in WACC, while the value of the firm and the market price of the ordinary share increase."
+   },
+   {
+    "id": "CT-MCQ-F05-02",
+    "question": "Under the Net Operating Income approach, the value of the firm is computed as:",
+    "options": {
+     "A": "Earnings available for equity ÷ Ke, plus debt",
+     "B": "EBIT ÷ Ko",
+     "C": "Net worth plus long-term debt",
+     "D": "EBIT × the price earning ratio"
+    },
+    "answer": "D",
+    "explanation": "SM §2.3: value of the firm = EBIT ÷ Ko, with Ko independent of leverage; the market value of equity is then the residual, V − D."
+   },
+   {
+    "id": "CT-MCQ-F05-03",
+    "question": "MM's 1958 proposition that the cost of equity of a levered firm exceeds that of an unlevered firm is expressed as:",
+    "options": {
+     "A": "Ke = Ko + (Ko − Kd) × Debt ÷ Equity",
+     "B": "Ke = Ko − (Ko − Kd) × Debt ÷ Equity",
+     "C": "Ke = Keu(1 − tL)",
+     "D": "Ke = Rf + β(Rm − Rf)"
+    },
+    "answer": "A",
+    "explanation": "SM §2.4: a firm having debt has a higher cost of equity than an unlevered firm; the cost of equity includes a risk premium for the financial risk, given by Ke = Ko + (Ko − Kd) × D/E."
+   },
+   {
+    "id": "CT-MCQ-F05-04",
+    "question": "The shortcoming of the MM 1958 approach, as stated in the study material, is that the arbitrage process fails because of:",
+    "options": {
+     "A": "The absence of preference share capital",
+     "B": "The perpetual life of the firm",
+     "C": "Imperfections in the capital market, transaction costs and corporate income taxes",
+     "D": "The 100% dividend payout assumption"
+    },
+    "answer": "C",
+    "explanation": "SM §2.4: the suggested arbitrage process will fail to work because of imperfections in capital market, existence of transaction cost and presence of corporate income taxes."
+   },
+   {
+    "id": "CT-MCQ-F05-05",
+    "question": "Under MM 1963 with tax, the WACC of a levered company is:",
+    "options": {
+     "A": "Keu(1 + tL)",
+     "B": "Keu ÷ (1 − tL)",
+     "C": "Keu × L",
+     "D": "Keu(1 − tL), where L is Debt ÷ (Debt + Equity)"
+    },
+    "answer": "D",
+    "explanation": "SM §2.4: WACC in a levered company (Kog) = Keu(1 − tL), where L = Debt ÷ (Debt + Equity)."
+   },
+   {
+    "id": "CT-MCQ-F05-06",
+    "question": "The trade-off theory explains why corporations are usually financed:",
+    "options": {
+     "A": "Entirely by debt",
+     "B": "Partly with debt and partly with equity",
+     "C": "Entirely by retained earnings",
+     "D": "Entirely by equity"
+    },
+    "answer": "B",
+    "explanation": "SM §2.5: an important purpose of the trade-off theory of capital structure is to explain the fact that corporations usually are financed partly with debt and partly with equity."
+   },
+   {
+    "id": "CT-MCQ-F05-07",
+    "question": "Under the pecking order theory, managers issue new equity shares:",
+    "options": {
+     "A": "First, because equity carries no fixed charge",
+     "B": "Whenever the debt-equity target is breached",
+     "C": "Only when interest rates are high",
+     "D": "As a last option"
+    },
+    "answer": "D",
+    "explanation": "SM §2.6: managers' first choice is internal finance, then secured, unsecured and hybrid debt, and they may issue new equity shares as a last option."
+   },
+   {
+    "id": "CT-MCQ-F05-08",
+    "question": "Which principle warns that the use of long-term debt increases EPS only if the firm yields a return higher than the cost of debt?",
+    "options": {
+     "A": "The flexibility principle",
+     "B": "Financial leverage, or trading on equity",
+     "C": "The control principle",
+     "D": "The cost principle"
+    },
+    "answer": "B",
+    "explanation": "SM §3.2(1): the use of long-term debt increases EPS if the firm yields a return higher than the cost of debt; leverage can operate adversely if the rate of interest exceeds the expected rate of earnings."
+   },
+   {
+    "id": "CT-MCQ-F05-09",
+    "question": "A company has interest of ₹8,000 and a preference dividend of ₹8,000, with a tax rate of 50%. Its financial break-even point is:",
+    "options": {
+     "A": "₹8,000",
+     "B": "₹16,000",
+     "C": "₹32,000",
+     "D": "₹24,000"
+    },
+    "answer": "D",
+    "explanation": "Financial break-even = Interest + Preference dividend ÷ (1 − t) = ₹8,000 + ₹8,000 ÷ 0.5 = ₹8,000 + ₹16,000 = ₹24,000."
+   },
+   {
+    "id": "CT-MCQ-F05-10",
+    "question": "Two plans have equity share capital of ₹1,00,000 each; Plan 1 carries 10% debentures of ₹50,000 and Plan 2 an 8% term loan of ₹50,000. There will be:",
+    "options": {
+     "A": "No indifference point, because one plan is better at all levels of EBIT",
+     "B": "Exactly one indifference point, at ₹50,000 of EBIT",
+     "C": "Two indifference points",
+     "D": "An indifference point equal to the financial break-even point"
+    },
+    "answer": "A",
+    "explanation": "SM §5.2: if the after-tax cost of the source other than equity shares is not the same under both plans, there will be no indifference point, because one plan will be better than the other at all levels of EBIT."
+   },
+   {
+    "id": "CT-MCQ-F05-11",
+    "question": "The chief sign of over-capitalisation is:",
+    "options": {
+     "A": "A rise in the dividend rate above that of similar companies",
+     "B": "A fall in the payment of dividend and interest, leading to a fall in the value of the shares",
+     "C": "The appearance of secret reserves",
+     "D": "An increase in the real value of shares above their book value"
+    },
+    "answer": "B",
+    "explanation": "SM §6.1: the chief sign of over-capitalisation is the fall in payment of dividend and interest leading to fall in value of the shares of the company; options A, C and D describe under-capitalisation."
+   },
+   {
+    "id": "CT-MCQ-F05-12",
+    "question": "As between the two conditions, the study material concludes that:",
+    "options": {
+     "A": "Under-capitalisation is more dangerous, since it invites competition",
+     "B": "Both are equally dangerous",
+     "C": "Neither is a problem in a growing economy",
+     "D": "Over-capitalisation is more dangerous to the company, shareholders and society"
+    },
+    "answer": "D",
+    "explanation": "SM §6.3: over-capitalisation is more dangerous to the company, shareholders and the society than under-capitalisation; under-capitalisation is not an economic problem but a problem of adjusting capital structure."
+   }
+  ],
+  "descriptive": [
+   {
+    "id": "CT-D-F05-01",
+    "marks": "5",
+    "question": "N Ltd. and M Ltd. have the same EBIT of ₹20,000. M Ltd. is levered with debt of ₹1,00,000 at 7%. The cost of equity of N Ltd. is 10% and of M Ltd. 11.50%. Show how the arbitrage process will be carried on by an investor holding 10% of M Ltd.",
+    "answer_points": [
+     "**Value both firms.** M Ltd.: equity = (₹20,000 − ₹7,000) ÷ 0.115 = ₹1,13,043; value of firm = ₹1,13,043 + ₹1,00,000 = **₹2,13,043**. N Ltd.: value = ₹20,000 ÷ 0.10 = **₹2,00,000**.",
+     "**Identify the overvalued firm.** Under MM 1958 the two must be equal, so M Ltd. at ₹2,13,043 is overvalued.",
+     "**Present position.** A 10% holding in M Ltd. is worth 10% of ₹1,13,043 = ₹11,304.30, returning 10% of (₹20,000 − ₹7,000) = ₹1,300.",
+     "**Alternate strategy.** Sell the 10% holding for ₹11,304.30; borrow 10% of the levered firm's debt, i.e. ₹10,000, substituting personal leverage for corporate leverage; total resources ₹21,304.30; invest 10% of ₹2,00,000 = ₹20,000 in the unlevered firm.",
+     "**Result.** Surplus cash = ₹21,304.30 − ₹20,000 = ₹1,304.30. Return = 10% of ₹20,000 − 7% of ₹10,000 = ₹2,000 − ₹700 = ₹1,300, the same as before.",
+     "**Conclusion.** The investor earns the same return at a lower outlay with the same perceived risk. As investors do this, the values converge, so the value of the levered firm can neither be greater nor lower than that of the unlevered firm."
+    ]
+   },
+   {
+    "id": "CT-D-F05-02",
+    "marks": "5",
+    "question": "A firm with an all-equity capital structure of 1,00,000 ordinary shares of ₹10 wants to raise ₹2,50,000 by (i) issuing 25,000 ordinary shares at ₹10, (ii) borrowing ₹2,50,000 at 8%, or (iii) issuing 2,500 preference shares of ₹100 at 8%. EBIT after the investment is ₹3,12,500 and tax is 50%. Find the effect on EPS under the three alternatives and recommend.",
+    "answer_points": [
+     "**Equity financing.** EBIT ₹3,12,500; interest nil; PBT ₹3,12,500; tax ₹1,56,250; PAT ₹1,56,250; preference dividend nil; earnings for equity ₹1,56,250; shares 1,25,000; **EPS ₹1.25**.",
+     "**Debt financing.** EBIT ₹3,12,500; interest ₹20,000; PBT ₹2,92,500; tax ₹1,46,250; PAT ₹1,46,250; earnings for equity ₹1,46,250; shares 1,00,000; **EPS ₹1.46**.",
+     "**Preference financing.** EBIT ₹3,12,500; interest nil; PBT ₹3,12,500; tax ₹1,56,250; PAT ₹1,56,250; less preference dividend ₹20,000; earnings for equity ₹1,36,250; shares 1,00,000; **EPS ₹1.36**.",
+     "**Recommendation.** Debt financing gives the highest EPS, because the rate of return on assets exceeds the rate of fixed charge, so the leverage is favourable — trading on equity.",
+     "**Why debt beats preference at the same 8% rate.** Interest is deducted before tax, so ₹20,000 of interest costs ₹10,000 after tax; the preference dividend of ₹20,000 is an appropriation of post-tax profit and costs the full amount.",
+     "Where a price-earnings ratio is given, convert each EPS to market price per share and recommend on MPS rather than EPS, since the objective is the highest wealth."
+    ]
+   },
+   {
+    "id": "CT-D-F05-03",
+    "marks": "5",
+    "question": "Determine the optimal capital structure from the following: Option 1, Kd 11.0% and Ke 13.0% at a debt ratio of 0.0; Option 2, 11.0% and 13.0% at 0.1; Option 3, 11.6% and 14.0% at 0.2; Option 4, 12.0% and 15.0% at 0.3; Option 5, 13.0% and 16.0% at 0.4; Option 6, 15.0% and 18.0% at 0.5; Option 7, 18.0% and 20.0% at 0.6. The ratios are of debt to total value.",
+    "answer_points": [
+     "**Note the base.** The ratio is debt to total value, not debt to equity, so a ratio of 0.6 means 60% debt and 40% equity. The weights total 1 in every case.",
+     "**Ko = Kd × D + Ke × S.** Option 1: 11% × 0 + 13% × 1 = **13.00%**. Option 2: 11% × 0.1 + 13% × 0.9 = **12.80%**. Option 3: 11.6% × 0.2 + 14% × 0.8 = **13.52%**.",
+     "Option 4: 12% × 0.3 + 15% × 0.7 = **14.10%**. Option 5: 13% × 0.4 + 16% × 0.6 = **14.80%**. Option 6: 15% × 0.5 + 18% × 0.5 = **16.50%**. Option 7: 18% × 0.6 + 20% × 0.4 = **18.80%**.",
+     "**Decision: Option 2 is the best, because it has the lowest WACC of 12.80%.**",
+     "This illustrates the traditional approach: the cost of capital falls as the first tranche of cheap debt is added, then rises once both the interest rate and the equity expectation climb with leverage. Optimum capital structure occurs where the value of the firm is highest and the cost of capital lowest."
+    ]
+   },
+   {
+    "id": "CT-D-F05-04",
+    "marks": "4",
+    "question": "Explain the pecking order theory and distinguish it from the trade-off theory.",
+    "answer_points": [
+     "The pecking order theory is based on asymmetric information — different parties have different information, and in a firm managers have better information than investors. Firms prefer to issue debt when they are positive about future earnings; equity is issued when they are doubtful and internal finance is insufficient.",
+     "The theory argues that the capital structure decision is affected by the manager's choice of a source of capital that gives higher priority to sources revealing the least amount of information.",
+     "**The hierarchy:** managers' first choice is internal finance; in its absence they use secured debt, unsecured debt or hybrid debt; new equity shares are a last option. Myers gave it the name because there is no well-defined debt-equity target, and because debt is cheaper than both internal and external equity, while internal equity costs less than external equity for want of transaction or issue cost.",
+     "**The trade-off theory**, by contrast, holds that a company chooses its mix by balancing the tax benefits of debt against the costs of financial distress and agency costs; the marginal benefit declines and the marginal cost rises as debt increases, producing an optimum capital structure.",
+     "**The sharpest difference** is that the trade-off theory has a target debt-equity ratio while the pecking order theory expressly has none; and the trade-off hierarchy runs debt then equity, while the pecking order runs internal financing, then debt, then equity."
+    ]
+   },
+   {
+    "id": "CT-D-F05-05",
+    "marks": "4",
+    "question": "Explain the financial break-even point and the indifference point, and state how each is used in choosing a capital structure.",
+    "answer_points": [
+     "**Financial break-even point** is the minimum level of EBIT needed to satisfy all the fixed financial charges, i.e. interest and preference dividends; it denotes the level of EBIT at which the company's EPS equals zero. It is computed as **Interest + Preference dividend ÷ (1 − tax rate)**, only the preference dividend being grossed up because it is paid out of post-tax profit.",
+     "If the EBIT is less than the financial break-even point, the EPS will be negative; if the expected EBIT is more than the break-even point, more fixed cost financing instruments can be taken into the capital structure, otherwise equity would be preferred.",
+     "**The indifference point**, also called the EPS equivalency point, is the level of EBIT at which two financing alternatives give the same EPS — regardless of the leverage in the plans. It is found from **(EBIT − I₁)(1 − t) ÷ E₁ = (EBIT − I₂)(1 − t) ÷ E₂**.",
+     "**Using them.** Below the indifference point the plan with less debt gives the higher EPS; above it the plan with more debt does and financial leverage is favourable. EBIT-EPS break-even analysis is used for determining the appropriate amount of debt a company might carry.",
+     "**Two special cases.** Where the equity share capital is the same under two plans and the after-tax cost of the other source differs, there is no indifference point, because one plan is better at all levels of EBIT. Where those after-tax costs are the same, every EBIT is an indifference point."
+    ]
+   },
+   {
+    "id": "CT-D-F05-06",
+    "marks": "4",
+    "question": "A company has a very high capital base but low earnings per share, and has cut its dividend. Identify the condition, and state its causes and remedies.",
+    "answer_points": [
+     "**The condition is over-capitalisation** — a situation where a firm has more capital than it needs, its assets are worth less than its issued share capital, and earnings are insufficient to pay dividend and interest. It arises mainly where existing capital is not effectively utilised on account of a fall in earning capacity while the company has raised funds beyond its requirements.",
+     "**The chief sign** is the fall in payment of dividend and interest, leading to a fall in the value of the shares — exactly what the company describes.",
+     "**Causes:** raising more money through issue of shares or debentures than the company can employ profitably; borrowing a huge amount at a higher rate than the rate at which the company can earn; excessive payment for the acquisition of fictitious assets such as goodwill; improper provision for depreciation, replacement of assets and distribution of dividends at a higher rate; and wrong estimation of earnings and capitalisation.",
+     "**Consequences:** considerable reduction in the rate of dividend and interest payments; reduction in the market price of shares; resorting to window dressing; and reorganisation, or in the worst case liquidation.",
+     "**Remedies:** thorough reorganisation; buyback of shares; reduction in the claims of debenture-holders and creditors; and reduction in the value of shares, which results in sufficient funds for the company to carry out replacement of assets.",
+     "Over-capitalisation is more dangerous to the company, its shareholders and society than under-capitalisation, so the remedies should not be deferred."
+    ]
+   }
+  ]
+ },
+ "recall": {
+  "quick": [
+   {
+    "q": "Name the four capital structure theories.",
+    "a": "Net Income approach, Traditional approach, Net Operating Income approach and the Modigliani-Miller approach."
+   },
+   {
+    "q": "Which theories say capital structure is irrelevant?",
+    "a": "The Net Operating Income approach and MM 1958 without tax."
+   },
+   {
+    "q": "Name MM's three propositions of 1958.",
+    "a": "Vg = Vu = NOI ÷ Ko; the cost of equity of a levered firm includes a risk premium for financial risk; and leverage does not affect the overall cost of capital, which depends only on business risk."
+   },
+   {
+    "q": "Name the two concepts the trade-off theory deals with.",
+    "a": "Cost of financial distress and agency costs."
+   },
+   {
+    "q": "State the pecking order.",
+    "a": "Internal finance first; then secured, unsecured and hybrid debt; new equity shares as a last option."
+   },
+   {
+    "q": "Name the seven principles affecting capital structure.",
+    "a": "Financial leverage or trading on equity, growth and stability of sales, cost, risk, control, flexibility, and other considerations."
+   },
+   {
+    "q": "Name the three analyses used to find the optimal capital structure.",
+    "a": "EBIT-EPS-MPS analysis, indifference point analysis and financial break-even point analysis."
+   },
+   {
+    "q": "Name the four remedies for over-capitalisation.",
+    "a": "Thorough reorganisation, buyback of shares, reduction in the claims of debenture-holders and creditors, and reduction in the value of shares."
+   }
+  ],
+  "fill": [
+   {
+    "q": "Value of the firm = EBIT ÷ ______.",
+    "a": "overall cost of capital (WACC)"
+   },
+   {
+    "q": "Under the NI approach, market value of equity = ______ ÷ Ke.",
+    "a": "NI, the earnings available for equity shareholders"
+   },
+   {
+    "q": "Under MM 1963, Vg = Vu + ______.",
+    "a": "TB, the tax benefit (debt × tax rate)"
+   },
+   {
+    "q": "Under MM 1963, Kog = Keu(1 − ______).",
+    "a": "tL, where L = Debt ÷ (Debt + Equity)"
+   },
+   {
+    "q": "Financial break-even point = Interest + ______ ÷ (1 − tax rate).",
+    "a": "preference dividend"
+   },
+   {
+    "q": "At the financial break-even point, EPS equals ______.",
+    "a": "zero"
+   },
+   {
+    "q": "Under the pecking order theory there is no well-defined ______ target.",
+    "a": "debt-equity"
+   },
+   {
+    "q": "______ is more dangerous to the company, shareholders and society.",
+    "a": "Over-capitalisation"
+   }
+  ],
+  "true_false": [
+   {
+    "s": "Under the Net Income approach, the cost of equity rises as leverage increases.",
+    "a": "False",
+    "reason": "SM §2.1: Ke and Kd are assumed not to change with leverage; that is why WACC falls."
+   },
+   {
+    "s": "The traditional approach strikes a balance between the NI and NOI extremes.",
+    "a": "True",
+    "reason": "SM §2.2 says so expressly."
+   },
+   {
+    "s": "Under MM 1958, the arbitrage process requires the investor to borrow personally.",
+    "a": "True",
+    "reason": "Personal leverage substitutes for corporate leverage and keeps the risk equivalent."
+   },
+   {
+    "s": "MM 1963 uses D ÷ E in the cost of equity formula.",
+    "a": "False",
+    "reason": "The 1963 formula is Keg = Keu + (Keu − Kd) × D ÷ (D + E); the 1958 formula uses D ÷ E."
+   },
+   {
+    "s": "The pecking order theory sets a target debt-equity ratio.",
+    "a": "False",
+    "reason": "SM §2.6: Myers named it 'pecking order' precisely because there is no well-defined debt-equity target."
+   },
+   {
+    "s": "Interest must be grossed up by (1 − t) in the financial break-even formula.",
+    "a": "False",
+    "reason": "Only the preference dividend is grossed up; interest is already a pre-tax charge."
+   },
+   {
+    "s": "An indifference point always exists between any two financing plans.",
+    "a": "False",
+    "reason": "Where equity is the same under both plans and the after-tax cost of the other source differs, there is none."
+   },
+   {
+    "s": "A bonus issue is a remedy for under-capitalisation.",
+    "a": "True",
+    "reason": "SM §6.2 calls it the most appropriate measure, as it reduces both dividend per share and the average rate of earning."
+   }
+  ],
+  "one_word": [
+   {
+    "q": "Buying an asset at a lower price in one market and selling it at a higher price in another.",
+    "a": "Arbitrage"
+   },
+   {
+    "q": "The substitution used by an investor to replicate a levered firm's risk.",
+    "a": "Personal leverage"
+   },
+   {
+    "q": "The situation in which different parties have different information.",
+    "a": "Asymmetric information"
+   },
+   {
+    "q": "The economist who named the pecking order theory.",
+    "a": "Myers"
+   },
+   {
+    "q": "The use of fixed interest bearing debt and preference capital alongside equity.",
+    "a": "Trading on equity (financial leverage)"
+   },
+   {
+    "q": "The level of EBIT at which two financing plans give the same EPS.",
+    "a": "The indifference point (EPS equivalency point)"
+   },
+   {
+    "q": "The practice some over-capitalised companies resort to, to disguise their position.",
+    "a": "Window dressing"
+   },
+   {
+    "q": "The reserves that typically accompany under-capitalisation, arising from unrecorded appreciation in fixed assets.",
+    "a": "Secret reserves"
+   }
+  ],
+  "match": {
+   "left": [
+    "Net Income approach",
+    "Traditional approach",
+    "Net Operating Income approach",
+    "MM 1963 with tax",
+    "Pecking order theory"
+   ],
+   "right": [
+    "Value rises by debt multiplied by the tax rate",
+    "Employ as much debt as possible",
+    "No well-defined debt-equity target",
+    "WACC falls and then rises, giving an optimum",
+    "Ke rises exactly enough to keep the value unchanged"
+   ],
+   "key": [
+    "Net Income approach – Employ as much debt as possible",
+    "Traditional approach – WACC falls and then rises, giving an optimum",
+    "Net Operating Income approach – Ke rises exactly enough to keep the value unchanged",
+    "MM 1963 with tax – Value rises by debt multiplied by the tax rate",
+    "Pecking order theory – No well-defined debt-equity target"
+   ]
+  },
+  "differentiate": [
+   {
+    "q": "NI approach vs NOI approach",
+    "a": "NI: Ke and Kd constant, WACC falls with leverage, capital structure is relevant. NOI: Ko and Kd constant, Ke rises, value never changes, capital structure is irrelevant."
+   },
+   {
+    "q": "MM 1958 vs MM 1963",
+    "a": "Without tax, Vg = Vu and Ko is unaffected. With tax, Vg = Vu + debt × tax rate and Kog = Keu(1 − tL), so value rises and cost falls with leverage."
+   },
+   {
+    "q": "Trade-off theory vs pecking order theory",
+    "a": "Trade-off balances the tax shield against distress and agency costs and yields a target ratio. Pecking order rests on asymmetric information, ranks internal finance first and has no target ratio."
+   },
+   {
+    "q": "Financial break-even point vs indifference point",
+    "a": "Break-even is the EBIT at which one plan's EPS is zero. The indifference point is the EBIT at which two plans give equal EPS."
+   },
+   {
+    "q": "Debt vs preference capital as a fixed charge",
+    "a": "Debt usually carries a lower explicit rate and its interest is tax-deductible, so its real after-tax cost is lower; preference dividend is an appropriation of post-tax profit."
+   },
+   {
+    "q": "Over-capitalisation vs under-capitalisation",
+    "a": "Over: more capital than earnings can service; dividend and share value fall; remedied by reorganisation and buyback. Under: capitalisation below what earnings warrant; dividend and share value are high; remedied by splits and bonus shares."
+   }
+  ],
+  "flowchart": {
+   "steps": [
+    "Start every plan from the same EBIT",
+    "Deduct interest, tax and preference dividend to reach earnings for equity",
+    "Divide by the number of equity shares to get EPS",
+    "Convert EPS to MPS using the P/E ratio or the cost of equity",
+    "Recommend the plan with the highest MPS, and test it against the indifference point"
+   ],
+   "blanks": [
+    2,
+    4
+   ]
+  }
+ },
+ "revision": {
+  "five": [
+   "Four theories: NI (more debt, more value), Traditional (U-shaped WACC), NOI (irrelevant), MM (irrelevant without tax, relevant with it).",
+   "MM 1958: Vg = Vu; MM 1963: Vg = Vu + debt × tax rate.",
+   "Pecking order: internal finance, debt, equity — and no target ratio.",
+   "Financial break-even = Interest + Preference dividend ÷ (1 − t).",
+   "Indifference point: (EBIT − I₁)(1 − t) ÷ E₁ = (EBIT − I₂)(1 − t) ÷ E₂."
+  ],
+  "fifteen": [
+   "Add the NOI computation chain: V = EBIT ÷ Ko, S = V − D, Ke = (EBIT − interest) ÷ S.",
+   "Add the four arbitrage steps and why the personal borrowing matters.",
+   "Add Keg and Kog under MM 1963 and note the changed denominator.",
+   "Add the EBIT-EPS column layout down to MPS.",
+   "Add the two special cases where an indifference point does not exist, or exists everywhere."
+  ],
+  "thirty": [
+   "Add the seven assumptions behind the theories and the three factors of §1.",
+   "Add the traditional approach's three movements and the debt-to-total-value trap.",
+   "Add the trade-off theory's distress costs, direct and indirect, and the two agency conflicts.",
+   "Add the seven principles affecting capital structure, with the compromise line.",
+   "Add the six financing patterns and which three need an existing company.",
+   "Add over- and under-capitalisation in full: causes, consequences, effects and remedies."
+  ],
+  "sixty": [
+   "Work both integrated cases and all twelve chapter-test MCQs without looking back.",
+   "Write the May 2024 arbitrage question in full, valuing both firms before anything else.",
+   "Write the September 2024 ER Private Limited question, remembering that the P/E falls from 8 to 7.",
+   "Work the three-plan indifference problem and identify the pair with no indifference point.",
+   "Recite the causes, consequences and remedies of over-capitalisation from memory."
+  ]
+ },
+ "one_page": {
+  "sections": [
+   {
+    "title": "Meaning and theories",
+    "points": [
+     "Capital structure = equity funds + preference capital + long-term debt; decided by control, risk and cost",
+     "Value of the firm = EBIT ÷ Ko",
+     "NI: Ke and Kd constant → WACC falls, value rises → maximum debt",
+     "Traditional: WACC falls then rises → an optimum at the lowest point",
+     "NOI: Ko and Kd constant, Ke rises → value unchanged, structure irrelevant",
+     "MM 1958: Vg = Vu, justified by arbitrage and personal leverage",
+     "MM 1963: Vg = Vu + debt × tax rate; Keg = Keu + (Keu − Kd) × D/(D+E); Kog = Keu(1 − tL)"
+    ]
+   },
+   {
+    "title": "Trade-off and pecking order",
+    "points": [
+     "Trade-off: tax shield against financial distress and agency costs, giving an optimum",
+     "Distress costs: direct (distress sale prices, legal and administrative) and indirect (employees, customers, suppliers, investors, managers, shareholders)",
+     "Agency conflicts: shareholders versus managers, shareholders versus debt holders",
+     "Pecking order: asymmetric information; internal finance → debt → equity; no target ratio",
+     "Myers named it; debt is cheaper than internal and external equity, internal cheaper than external"
+    ]
+   },
+   {
+    "title": "Designing the structure",
+    "points": [
+     "Six financing patterns; three of them need an existing company",
+     "Seven principles: trading on equity · growth and stability of sales · cost · risk · control · flexibility · other considerations",
+     "The manager compromises, assigning weights by the company's characteristics",
+     "Three analyses: EBIT-EPS-MPS · indifference point · financial break-even",
+     "Optimum: highest value, lowest cost of capital"
+    ]
+   },
+   {
+    "title": "EBIT-EPS and capitalisation",
+    "points": [
+     "Same EBIT for every plan; deduct interest, tax, then preference dividend; divide by shares",
+     "MPS = EPS × P/E, or EPS ÷ Ke — and the recommendation carries a mark",
+     "Leverage is favourable only where return on assets exceeds the rate of fixed charge",
+     "Financial BEP = Interest + Preference dividend ÷ (1 − t); EPS is zero there",
+     "Indifference point: (EBIT − I₁)(1 − t)/E₁ = (EBIT − I₂)(1 − t)/E₂; below it less debt wins, above it more debt wins",
+     "Over-capitalisation: dividend and share value fall; remedies are reorganisation, buyback, reducing creditors' claims and reducing share value",
+     "Under-capitalisation: high dividend, real value above book value; remedies are splits, bonus shares, higher par value",
+     "Over-capitalisation is the more dangerous of the two"
+    ]
+   }
+  ]
+ },
+ "verification": {
+  "sources": [
+   "ICAI SM Paper 6A Module 1 Ch 5 'Financing Decisions — Capital Structure' (May 2026 onwards edition)",
+   "Suggested answers May 2024 – May 2026",
+   "RTPs May 2024 – Sep 2026 (chapter assignment follows ICAI's own topic labels)",
+   "MTPs Mar 2024 – Aug 2026 (third-party copies of ICAI MTPs; Sep 2026 Series I question paper not available)"
+  ],
+  "open_items": [
+   {
+    "id": "OV-F05-01",
+    "item": "MTP Sep 2026 Series I question paper not available; FM Q1(a) wording reconstructed from the answer file.",
+    "resolve_with": "Download the question paper from the ICAI BoS portal"
+   },
+   {
+    "id": "OV-F05-02",
+    "item": "Several SM formulae are printed as images with broken line breaks; every formula here has been transcribed and cross-checked against ICAI's own worked illustrations.",
+    "resolve_with": "None needed"
+   },
+   {
+    "id": "OV-F05-03",
+    "item": "Integrated Case 1 question 5 works the indifference point in two stages for clarity; the arithmetic reduces to 0.4 EBIT = 0.5 EBIT − 10,000.",
+    "resolve_with": "None needed"
+   }
+  ],
+  "qa": [
+   {
+    "check": "SM headings covered",
+    "result": "19 of 19"
+   },
+   {
+    "check": "Official questions placed",
+    "result": "36 of 36"
+   },
+   {
+    "check": "Generated MCQ key balance",
+    "result": "Target A12 · B12 · C12 · D12"
+   },
+   {
+    "check": "Figures cross-checked against the SM's own illustrations",
+    "result": "Traditional optimum 12.80%; NOI Ke 19.09%; Alpha 28% and Beta 20.5%; arbitrage ₹2,13,043 and ₹2,00,000 with surplus ₹1,304.30; EPS ₹1.25, ₹1.46 and ₹1.36; indifference points ₹16,000 and ₹32,000, with none between Plans B and C"
+   }
+  ]
+ }
+}

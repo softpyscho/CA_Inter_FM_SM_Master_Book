@@ -1,0 +1,408 @@
+{
+ "confusing": [
+  {
+   "title": "The eight pairs students mix up in this chapter",
+   "headers": ["Looks similar", "The real difference", "Give-away word"],
+   "rows": [
+    ["Equity shares vs preference shares", "Equity: fluctuating dividend, full voting rights, paid last, costliest. Preference: fixed dividend, very limited voting rights, priority over equity, hybrid", "'Priority' and 'fixed rate' point to preference"],
+    ["Preference shares vs debentures", "Preference dividend is an appropriation and not tax-deductible. Debenture interest is a charge and is tax-deductible, so debt is cheaper", "'Tax shield' means debenture"],
+    ["Callable bond vs puttable bond", "Callable: the issuer may redeem early at the call price. Puttable: the investor may sell the bond back before maturity", "Company calls, public puts"],
+    ["Drop lock bond vs convertible floating rate note", "Drop lock: converts automatically from floating to fixed when the rate falls below a predetermined level. Convertible FRN: the holder chooses to convert into a longer-term debt security", "'Automatically' means drop lock"],
+    ["Operating lease vs financial lease", "Operating: short, cancellable, lessor bears maintenance and obsolescence, non-payout. Financial: long, non-cancellable, lessee bears them, full payout", "'Non-cancellable' and 'full payout' mean financial"],
+    ["Close-ended lease vs open-ended lease", "Close-ended: the asset goes back to the lessor, who keeps the obsolescence and residual value risk. Open-ended: the lessee may purchase the asset at the end", "'Option of purchasing' means open-ended"],
+    ["Pre-shipment vs post-shipment finance", "Pre-shipment is packing credit for buying, manufacturing, processing, packing and shipping. Post-shipment bridges the gap until the proceeds arrive", "'Goods already shipped' means post-shipment"],
+    ["Crowd funding vs P2P lending", "Crowd funding is the broader concept; P2P lending is the category where lenders match with borrowers for unsecured loans through an online platform", "P2P is a part, not an alternative"]
+   ],
+   "spot_it": "Two questions settle almost every pair here: who holds the option, and who bears the loss if things go wrong."
+  },
+  {
+   "title": "Numbers that decide marks",
+   "headers": ["Item", "The study material's figure", "Where it is tested"],
+   "rows": [
+    ["Venture capital equity contribution", "Does not exceed 49% of total equity capital", "MCQ and the descriptive answer"],
+    ["Conditional loan royalty", "2 to 15 per cent; alternative interest well above 20 per cent", "Methods of venture capital financing"],
+    ["IDBI's VCF funding (income note)", "80 – 87.50% of project cost", "Methods of venture capital financing"],
+    ["Debenture denominations and maturity", "₹100 to ₹1,000; normally 3 to 10 years", "Features of debentures"],
+    ["Commercial paper", "Denominations of ₹5 lakh or multiples", "Short-term sources MCQ"],
+    ["Treasury bills", "14 to 364 days", "Short-term sources MCQ"],
+    ["Certificates of deposit", "Not less than 7 days up to one year", "Short-term sources MCQ"],
+    ["Public deposits", "Up to 35% of paid-up capital and reserves; six months to three years", "Asked as a 1-mark MCQ in Mar 2024 Series I"],
+    ["Export credit", "Liquidated within 180 days", "Both pre- and post-shipment"],
+    ["Seed capital assistance", "1% per annum service charge for the first five years; moratorium up to five years", "Asked for 4 marks in Jan 2026"],
+    ["External Commercial Borrowings", "Minimum average maturity of 3 years", "Short note on ECB"],
+    ["Floating Rate Notes", "Issued up to seven years maturity", "International instruments"],
+    ["Secured premium notes", "Redeemable after a notified period of say 4 to 7 years", "Short note"],
+    ["Leveraged lease", "Lessor borrows a part of the cost, say 80%, from the lender", "2-mark question, Sep 2024"]
+   ],
+   "spot_it": "If a question gives you a period or a percentage, the examiner is checking whether you learnt the figure, not the story."
+  }
+ ],
+ "cases": [
+  {
+   "id": "CASE-F02-INT-1",
+   "title": "Integrated Case 1 — Meghna Exports Ltd. raises money on every front",
+   "facts": [
+    "Meghna Exports Ltd. is setting up a new processing unit. A financial institution has sanctioned a ₹60 crore term loan, but disbursement will take four months. To avoid losing the building season, Meghna borrows ₹12 crore from its bank for that period, hypothecating movable assets and giving a demand promissory note; the rate is higher than the term-loan rate and the loan will be adjusted when the institution disburses.",
+    "For the equipment, Meghna does not buy outright. A leasing company purchases the machine, borrowing 80% of the cost from a bank, and leases it to Meghna. Meghna pays the rentals directly to that bank, and the surplus over the bank's dues goes to the leasing company, which claims the depreciation allowance.",
+    "Meghna has a confirmed export order backed by an irrevocable letter of credit. Its bank advances funds so that it can buy raw material, process, pack and ship the consignment; the advance must be squared off within 180 days by negotiating the export bills.",
+    "After shipment, the proceeds are still to be realised, so the bank discounts the usance export bills backed by bills of lading, and separately advances against duty drawback receivable on export performance — an advance of a clean nature.",
+    "To fund a green effluent-treatment plant, Meghna plans a bond whose proceeds are ring-fenced for that project, and its treasurer also suggests a bond whose proceeds would be free for general corporate purposes but tied to carbon-reduction targets."
+   ],
+   "questions": [
+    {
+     "q": "The ₹12 crore bank borrowing taken because the sanctioned term loan is not yet disbursed is:",
+     "options": {"A": "A cash credit facility", "B": "A clean overdraft", "C": "Bridge finance", "D": "An inter-corporate deposit"},
+     "answer": "C",
+     "reasoning": [
+      "SM §3.7: bridge finance refers to loans taken normally from commercial banks for a short period because of pending disbursement of loans sanctioned by financial institutions.",
+      "The facts match every feature: hypothecation of movable assets, a demand promissory note, a higher rate, and adjustment out of the term loan on disbursement."
+     ]
+    },
+    {
+     "q": "The equipment arrangement, in which a lender funds 80% of the cost and is repaid from the rentals directly by the user while the leasing company claims depreciation, is:",
+     "options": {"A": "A sale and lease back", "B": "A sales-aid lease", "C": "An open-ended lease", "D": "A leveraged lease"},
+     "answer": "D",
+     "reasoning": [
+      "SM §6.2: under a leveraged lease a third party is involved besides the lessor and lessee; the lessor borrows a part of the purchase cost (say 80%) from the lender, the asset is held as security, the lender is paid off from the lease rentals directly by the lessee, and the surplus goes to the lessor, who claims the depreciation allowance.",
+      "Three parties plus depreciation with the lessor identify it precisely."
+     ]
+    },
+    {
+     "q": "The advance taken against the irrevocable letter of credit to buy, process, pack and ship the goods is:",
+     "options": {"A": "Packing credit, a form of pre-shipment finance", "B": "Purchase of documentary export bills", "C": "A deferred payment guarantee", "D": "An advance against duty drawback"},
+     "answer": "A",
+     "reasoning": [
+      "SM §7: pre-shipment finance generally takes the form of packing credit — an advance for buying, manufacturing, processing, packing and shipping goods to overseas buyers, available against a firm export order or an irrevocable letter of credit.",
+      "It must be liquidated within 180 days by negotiation of export bills or receipt of export proceeds."
+     ]
+    },
+    {
+     "q": "Discounting the usance export bills backed by bills of lading, and advancing against duty drawback receivable, are forms of:",
+     "options": {"A": "Pre-shipment finance", "B": "Post-shipment finance", "C": "Debt securitisation", "D": "Inter-corporate deposits"},
+     "answer": "B",
+     "reasoning": [
+      "SM §7: post-shipment finance takes the forms of purchase or discounting of documentary export bills, ECGC guarantee, advance against export bills sent for collection, and advance against duty drawbacks and cash subsidy.",
+      "The study material calls advances against duty drawback 'of a clean nature', so the bank must exercise necessary precautions."
+     ]
+    },
+    {
+     "q": "The two bonds the treasurer is comparing are respectively:",
+     "options": {"A": "A masala bond and a municipal bond", "B": "A drop lock bond and an option bond", "C": "A deep discount bond and a zero coupon bond", "D": "A project-based green bond and a target-based sustainability-linked bond"},
+     "answer": "D",
+     "reasoning": [
+      "SM §9: ESG bonds can be project-based — green bonds and social bonds — and target-based — sustainability-linked bonds.",
+      "Green bond proceeds finance 'green projects'; SLB proceeds are not meant for a specific project but for general corporate purposes to achieve Key Performance Indicators."
+     ]
+    }
+   ],
+   "concepts": ["F02.13 bridge finance", "F02.21 leveraged lease", "F02.22 pre- and post-shipment export finance", "F02.24 ESG bonds"],
+   "trap": "Every part here can be answered by naming the source. The mark is lost by describing the source without naming it, or by putting packing credit after shipment."
+  },
+  {
+   "id": "CASE-F02-INT-2",
+   "title": "Integrated Case 2 — Sarvodaya Finance Ltd. and a start-up it backs",
+   "facts": [
+    "Sarvodaya Finance Ltd. has a large book of two-wheeler loans but no liquid secondary market for them. It sells the pool to a vehicle created for the purpose, which acts as a trustee for investors and issues coupon-bearing securities through merchant bankers to a pension fund. The arrangement is without recourse, and the borrowers keep paying their instalments as before.",
+    "Sarvodaya also runs a venture arm. It invests in Jalak Robotics, a start-up run by two technically qualified engineers, taking 42% of its equity and giving the founders help with sales strategy and business networking.",
+    "Part of the funding to Jalak is a loan on which no interest is charged, repayable as a royalty of 8% on sales once the venture generates revenue.",
+    "Jalak's founders also approach IDBI, which offers a facility that is interest free but carries a service charge of one per cent per annum for the first five years, with a repayment schedule fixed to the unit's repaying capacity and an initial moratorium.",
+    "To fund a product launch, Jalak raises small amounts from a large number of internet users, some in exchange for securities and some as loans matched on an online platform; a few contribute with no expectation of ownership or repayment at all."
+   ],
+   "questions": [
+    {
+     "q": "The vehicle that holds Sarvodaya's loan pool and issues securities against it is:",
+     "options": {"A": "A Special Purpose Vehicle acting as trustee for investors", "B": "A credit rating agency", "C": "A primary dealer appointed by the RBI", "D": "An Export Credit Guarantee Corporation"},
+     "answer": "A",
+     "reasoning": [
+      "SM §5: in the pooling function, similar loans or receivables are clubbed to create an underlying pool of assets, and the pool is transferred in favour of the Special Purpose Vehicle, which acts as a trustee for investors.",
+      "The SPV then structures and issues securities, generally sold to investors through merchant bankers."
+     ]
+    },
+    {
+     "q": "Because the securitisation is 'without recourse', the credit risk is borne by:",
+     "options": {"A": "Sarvodaya Finance Ltd., the originator", "B": "The pension fund and other investors", "C": "The merchant bankers who sold the securities", "D": "The two-wheeler borrowers' guarantors"},
+     "answer": "B",
+     "reasoning": [
+      "SM §5: the process is generally without recourse, i.e. investors bear the credit risk, and the issuer is under an obligation to pay investors only if the cash flows are received from the collateral.",
+      "The benefit to the originator is that assets are shifted off the balance sheet, giving it off-balance-sheet funding."
+     ]
+    },
+    {
+     "q": "Sarvodaya's 42% equity stake in Jalak, coupled with help on sales strategy and networking, illustrates:",
+     "options": {"A": "A takeover, since 42% confers control", "B": "Equity financing under venture capital, where the contribution does not exceed 49% so that control stays with the entrepreneur", "C": "A participating debenture", "D": "Seed capital assistance"},
+     "answer": "B",
+     "reasoning": [
+      "SM §4.3: the equity contribution of the venture capital firm does not exceed 49% of the total equity capital, so that effective control and ownership remains with the entrepreneur.",
+      "SM §4.2: apart from providing funds, the investor also provides support in the form of sales strategy, business networking and management expertise."
+     ]
+    },
+    {
+     "q": "The interest-free loan repayable as a royalty on sales is:",
+     "options": {"A": "An income note", "B": "A zero coupon bond", "C": "A conditional loan", "D": "A deferred payment guarantee"},
+     "answer": "C",
+     "reasoning": [
+      "SM §4.3: a conditional loan is repayable in the form of a royalty after the venture is able to generate sales, and no interest is paid on such loans; in India venture capital financiers charge royalty ranging between 2 and 15 per cent.",
+      "An income note would carry both interest and royalty, at substantially low rates."
+     ]
+    },
+    {
+     "q": "The IDBI facility and the internet-based fund raising are respectively:",
+     "options": {"A": "Capital incentives and equity funding", "B": "Internal cash accruals and donation-based crowdfunding", "C": "A deferred payment guarantee and start-up funding", "D": "Seed capital assistance, and crowd funding comprising equity funding, P2P lending and donation"},
+     "answer": "D",
+     "reasoning": [
+      "SM §8: seed capital assistance is designed by IDBI for professionally or technically qualified entrepreneurs who lack adequate financial resources; it is interest free but carries a service charge of one per cent per annum for the first five years, with repayment fixed to repaying capacity and an initial moratorium of up to five years.",
+      "SM §10: crowdfunding collects funds in exchange for equity (equity funding), loans (P2P lending) or nothing at all (donation)."
+     ]
+    }
+   ],
+   "concepts": ["F02.18 debt securitisation", "F02.14–F02.17 venture capital financing", "F02.23 seed capital assistance", "F02.25 contemporary sources"],
+   "trap": "The 42% stake tempts students into 'control passes to the investor'. The study material's point is the opposite: the cap exists so that control stays with the entrepreneur."
+  }
+ ],
+ "chapter_test": {
+  "mcqs": [
+   {"id": "CT-MCQ-F02-01", "question": "Funds required to finance permanent or hard-core working capital should, as per the study material, be procured from:",
+    "options": {"A": "Long-term sources", "B": "Trade credit", "C": "Advances from customers", "D": "Accrued expenses"},
+    "answer": "A", "explanation": "SM §1: long-term financial needs include funds for permanent or hard-core working capital."},
+   {"id": "CT-MCQ-F02-02", "question": "Preference share capital is described as a hybrid form of financing because:",
+    "options": {"A": "It carries voting rights like equity and security like debt", "B": "Its dividend is fixed like interest, but like equity dividend it is not a tax-deductible payment", "C": "It is redeemable like debentures and perpetual like equity at the same time", "D": "It can be issued only along with debentures"},
+    "answer": "B", "explanation": "SM §3.2: it resembles equity because preference dividend, like equity dividend, is not tax-deductible, and debt because the rate of dividend is fixed."},
+   {"id": "CT-MCQ-F02-03", "question": "A fully convertible debenture generally carries an interest rate that is:",
+    "options": {"A": "Higher than on a non-convertible debenture, to compensate for conversion", "B": "Equal to the preference dividend rate", "C": "Lower than on a non-convertible debenture, because of the attraction of conversion into equity", "D": "Nil in all cases"},
+    "answer": "C", "explanation": "SM §3.4: interest rates on fully convertible debentures are generally lower than on non-convertible debentures because of the conversion attraction."},
+   {"id": "CT-MCQ-F02-04", "question": "A rupee-denominated bond that Indian corporate borrowers sell to investors in overseas markets is called a:",
+    "options": {"A": "Bulldog bond", "B": "Yankee bond", "C": "Samurai bond", "D": "Masala bond"},
+    "answer": "D", "explanation": "SM §3.5: masala bond is the Indian name for a rupee-denominated bond sold by Indian borrowers to investors in overseas markets."},
+   {"id": "CT-MCQ-F02-05", "question": "Under a participating debenture used in venture capital financing, interest is:",
+    "options": {"A": "Not charged in the start-up phase, charged at a low rate up to a particular level of operation, and at a high rate thereafter", "B": "Charged at a flat rate throughout", "C": "Replaced entirely by a royalty on sales", "D": "Payable only on maturity along with a redemption premium"},
+    "answer": "A", "explanation": "SM §4.3: a participating debenture carries charges in three phases."},
+   {"id": "CT-MCQ-F02-06", "question": "In the securitisation function, the securities issued by the SPV are generally sold to investors through:",
+    "options": {"A": "Stock exchanges only", "B": "Merchant bankers", "C": "The original borrowers", "D": "Export Credit Guarantee Corporation"},
+    "answer": "B", "explanation": "SM §5: the securities are generally sold to investors through merchant bankers; investors are pension funds, mutual funds and insurance funds."},
+   {"id": "CT-MCQ-F02-07", "question": "Which statement correctly describes an operating lease?",
+    "options": {"A": "It is non-cancellable and runs for the full economic life of the asset", "B": "The lessee bears the risk of obsolescence", "C": "It is usually full payout", "D": "The lease is kept cancellable by the lessor, who can lease the same asset to other willing lessees"},
+    "answer": "D", "explanation": "SM §6.1: as the lessor has no difficulty in leasing the same asset to another willing lessee, the lease is kept cancellable by the lessor; it is usually non-payout."},
+   {"id": "CT-MCQ-F02-08", "question": "In a sales-aid lease, the lessor earns from:",
+    "options": {"A": "The lessee alone", "B": "The manufacturer alone", "C": "Both the lessee and the manufacturer, who may grant credit or a commission", "D": "A third-party lender who funds the purchase"},
+    "answer": "C", "explanation": "SM §6.2: in consideration of the aid in sales the manufacturer may grant either credit or a commission, so the lessor earns from both sources."},
+   {"id": "CT-MCQ-F02-09", "question": "A company can accept public deposits up to a maximum of:",
+    "options": {"A": "35 per cent of its paid-up capital and reserves", "B": "25 per cent of its turnover", "C": "49 per cent of its equity capital", "D": "80 per cent of its fixed assets"},
+    "answer": "A", "explanation": "SM §7: public deposits may be accepted subject to RBI stipulations up to a maximum of 35 per cent of paid-up capital and reserves, for six months to three years."},
+   {"id": "CT-MCQ-F02-10", "question": "Unsecured loans given by promoters to meet the promoters' contribution norm carry interest that:",
+    "options": {"A": "Must exceed the rate on institutional loans", "B": "Is payable before institutional dues", "C": "Should be less than or equal to the rate of interest on institutional loans, and is payable only after institutional dues", "D": "Is fixed by the Reserve Bank of India"},
+    "answer": "C", "explanation": "SM §8: the rate should be less than or equal to the institutional rate and interest can be paid only after payment of institutional dues."},
+   {"id": "CT-MCQ-F02-11", "question": "External Commercial Borrowings are commercial loans availed from non-resident lenders with a minimum average maturity of:",
+    "options": {"A": "3 years", "B": "6 months", "C": "1 year", "D": "7 years"},
+    "answer": "A", "explanation": "SM §9: ECBs are availed from non-resident lenders with a minimum average maturity of 3 years, under the Automatic or Approval route."},
+   {"id": "CT-MCQ-F02-12", "question": "A foreign currency option, as distinguished from a foreign currency future, is:",
+    "options": {"A": "An obligation to buy or sell a specified currency for settlement at a future date", "B": "The right, and not the obligation, to buy or sell foreign currency at a specified price on or before a specified date", "C": "A floating rate note issued up to seven years maturity", "D": "A short-term money market instrument denominated in US dollars"},
+    "answer": "B", "explanation": "SM §9: an FC option is a right and not an obligation; FC futures are obligations and not rights."}
+  ],
+  "descriptive": [
+   {"id": "CT-D-F02-01", "marks": "4",
+    "question": "Explain any four types of lease other than the operating lease and the financial lease.",
+    "answer_points": [
+     "**Sale and lease back:** the owner sells the asset to a buyer who leases it back to him for lease rentals; the asset is not physically exchanged and it all happens in records only. The seller assumes the role of lessee and the buyer the role of lessor; the seller gets the agreed selling price and the buyer gets the lease rentals.",
+     "**Leveraged lease:** a third party is involved besides the lessor and the lessee. The lessor borrows part of the purchase cost (say 80%) from the lender, the asset is held as security, the lender is paid from the lease rentals directly by the lessee, the surplus goes to the lessor, and the lessor claims depreciation allowance.",
+     "**Sales-aid lease:** the lessor ties up with a manufacturer to market the latter's product through his own leasing operations; in consideration the manufacturer may grant credit or a commission, so the lessor earns from both the lessee and the manufacturer.",
+     "**Close-ended and open-ended leases:** in a close-ended lease the assets get transferred to the lessor at the end and the risk of obsolescence and residual value remains with the lessor as legal owner; in an open-ended lease the lessee has the option of purchasing the asset at the end of the lease period."
+    ]},
+   {"id": "CT-D-F02-02", "marks": "4",
+    "question": "Explain the methods of venture capital financing.",
+    "answer_points": [
+     "**Equity financing:** venture capital finance is generally provided by way of equity share capital, because the undertaking needs funds for a longer period and may not be able to provide returns in the initial stages. The venture capital firm's equity contribution does not exceed 49% of total equity capital, so effective control and ownership remains with the entrepreneur.",
+     "**Conditional loan:** repayable as a royalty after the venture generates sales, with no interest paid; in India the royalty ranges between 2 and 15 per cent, the rate depending on gestation period, cash flow patterns and risk. Some financiers offer the choice of a high rate of interest, well above 20 per cent, instead of royalty once the venture becomes commercially sound.",
+     "**Income note:** a hybrid security combining conventional and conditional loan features; the entrepreneur pays both interest and royalty on sales but at substantially low rates. IDBI's VCF provides funding equal to 80–87.50% of project cost for commercial application of indigenous technology.",
+     "**Participating debenture:** charges in three phases — no interest in the start-up phase, a low rate up to a particular level of operation, and a high rate thereafter."
+    ]},
+   {"id": "CT-D-F02-03", "marks": "4",
+    "question": "What are the key features of bridge financing, and how does it differ from an ordinary bank overdraft?",
+    "answer_points": [
+     "Bridge finance refers to loans taken by a company normally from commercial banks for a short period because of pending disbursement of loans sanctioned by financial institutions.",
+     "The bridge loans are repaid or adjusted out of the term loans as and when disbursed by the concerned institutions.",
+     "They are normally secured by hypothecating movable assets, personal guarantees and demand promissory notes.",
+     "Generally the rate of interest on bridge finance is higher as compared with that on term loans.",
+     "An overdraft, by contrast, lets a customer withdraw in excess of the credit balance in the current account up to a fixed limit, is repayable on demand but generally continues by annual renewal, and carries interest on daily balances; it is not linked to any sanctioned term loan."
+    ]},
+   {"id": "CT-D-F02-04", "marks": "4",
+    "question": "Explain debt securitisation and state the benefit it gives to the originator.",
+    "answer_points": [
+     "Securitisation is a process in which illiquid assets are pooled into marketable securities that can be sold to investors, creating instruments that represent ownership interest in, or are secured by, a segregated income-producing asset or pool of assets.",
+     "**Origination function:** a borrower seeks a loan from a finance company or bank; creditworthiness is evaluated and a contract entered into with a repayment schedule over the life of the loan.",
+     "**Pooling function:** similar loans or receivables are clubbed together into an underlying pool; the pool is transferred in favour of a Special Purpose Vehicle, which acts as a trustee for investors.",
+     "**Securitisation function:** the SPV structures and issues securities against the asset pool, carrying a coupon and expected maturity, asset-based or mortgage-based, generally sold through merchant bankers to pension funds, mutual funds and insurance funds.",
+     "The process is generally without recourse, so investors bear the credit risk and the issuer pays only if the cash flows are received from the collateral. The benefit to the originator is that assets are shifted off the balance sheet, giving it recourse to off-balance-sheet funding, and it is a method of recycling funds to support further lending."
+    ]},
+   {"id": "CT-D-F02-05", "marks": "4",
+    "question": "An exporter has shipped goods but the proceeds are not yet realised. Identify the type of finance he should seek and explain any three of its forms.",
+    "answer_points": [
+     "The finance required is **post-shipment finance**, provided by commercial banks after shipment of goods.",
+     "**Purchase or discounting of documentary export bills:** finance by purchasing export bills drawn payable at sight or discounting usance export bills covering confirmed sales, backed by documents of title such as a bill of lading, post parcel receipts or air consignment notes.",
+     "**E.C.G.C. guarantee:** post-shipment finance through purchase, negotiation or discount of an export bill against an order qualifies for the post-shipment export credit guarantee, provided the exporter obtains a shipment or contracts risk policy covering political and commercial risks; the Corporation fixes credit limits for individual exporters.",
+     "**Advance against export bills sent for collection:** banks advance against export bills forwarded through them for collection, considering the creditworthiness of the party, nature of goods exported, usance and standing of the drawee.",
+     "**Advance against duty drawbacks and cash subsidy:** banks advance against duty drawback and cash subsidy receivable against export performance; such advances are of a clean nature, so precautions are necessary. Such an advance must be liquidated within 180 days from the date of shipment."
+    ]},
+   {"id": "CT-D-F02-06", "marks": "4",
+    "question": "Explain Environmental, Social and Governance linked bonds, and distinguish crowd funding from Peer-to-Peer lending.",
+    "answer_points": [
+     "ESG bonds carry a responsibility of the issuer company to prioritise optimal environmental, social and governance factors; investing in them is considered socially responsible investing. They can be project-based — green bonds and social bonds — and target-based — sustainability-linked bonds.",
+     "Green bonds are issued by a financial, non-financial or public institution and the proceeds finance 'green projects' aimed at positive environmental or climate impact; social bonds finance socially impactful projects relating to human rights, equality and animal welfare; sustainability-linked bonds combine both, with proceeds used for general corporate purposes to achieve Key Performance Indicators.",
+     "Crowd funding means raising money for an individual or organisation from a group of people to fund a project, typically via the internet, in exchange for equity, loans or nothing at all; three parties are involved — the fund raiser, the mediator and the fund investor.",
+     "P2P lending is that category of crowdfunding where lenders match with borrowers to provide unsecured loans through an online platform; the funds are repaid with interest, though the lending involves a risk of default.",
+     "Hence crowd funding is the broader concept and P2P lending is basically a part of crowd funding."
+    ]}
+  ]
+ },
+ "recall": {
+  "quick": [
+   {"q": "Name the three classifications of financial sources.", "a": "Based on basic sources, on maturity of payment, and on ownership and control."},
+   {"q": "Name the six types of preference shares.", "a": "Cumulative, non-cumulative, redeemable, participating, non-participating and convertible."},
+   {"q": "Name the four methods of venture capital financing.", "a": "Equity financing, conditional loan, income note and participating debenture."},
+   {"q": "Name the three functions in the process of debt securitisation.", "a": "Origination, pooling and securitisation."},
+   {"q": "Name the four other types of lease.", "a": "Sale and lease back, leveraged lease, sales-aid lease, and close-ended and open-ended leases."},
+   {"q": "Name the four forms of post-shipment finance.", "a": "Purchase or discounting of documentary export bills; ECGC guarantee; advance against export bills sent for collection; advance against duty drawbacks and cash subsidy."},
+   {"q": "Name the two routes for External Commercial Borrowings.", "a": "The Automatic route and the Approval route."},
+   {"q": "Name the two categories of ESG bonds.", "a": "Project-based (green bonds and social bonds) and target-based (sustainability-linked bonds)."}
+  ],
+  "fill": [
+   {"q": "The equity contribution of a venture capital firm does not exceed ______ per cent of the total equity capital.", "a": "49"},
+   {"q": "Packing credit must be liquidated within ______ days from the date of its commencement.", "a": "180"},
+   {"q": "Treasury bills are issued with maturities ranging between ______ and ______ days.", "a": "14 and 364"},
+   {"q": "Public deposits may be accepted for a period of ______ months to ______ years.", "a": "six; three"},
+   {"q": "Commercial papers are issued in denominations of ₹______ lakh or multiples thereof.", "a": "5"},
+   {"q": "Seed capital assistance is interest free but carries a service charge of ______ per cent per annum for the first five years.", "a": "one"},
+   {"q": "ECBs are availed from non-resident lenders with a minimum average maturity of ______ years.", "a": "3"},
+   {"q": "In a leveraged lease the lessor borrows a part of the purchase cost, say ______ per cent, from the lender.", "a": "80"}
+  ],
+  "true_false": [
+   {"s": "Preference dividend is a tax-deductible payment.", "a": "False", "reason": "It is not tax-deductible, which is why preference capital is costlier than debentures."},
+   {"s": "An operating lease is non-cancellable.", "a": "False", "reason": "Operating leases are normally callable and cancellable by the lessor with proper notice; the financial lease is non-cancellable."},
+   {"s": "In a drop lock bond the conversion from floating to fixed happens automatically once the rate falls below a predetermined level.", "a": "True", "reason": "SM §3.5; the new fixed rate then stays till maturity."},
+   {"s": "The originator guarantees repayment to investors in a securitisation.", "a": "False", "reason": "The process is generally without recourse; investors bear the credit risk."},
+   {"s": "Masala bonds are denominated in foreign currency.", "a": "False", "reason": "They are rupee-denominated bonds sold to investors in overseas markets."},
+   {"s": "Public deposits should not be used for acquiring fixed assets.", "a": "True", "reason": "They must be repaid within three years and are mainly used to finance working capital."},
+   {"s": "A foreign currency future is a right and not an obligation.", "a": "False", "reason": "Futures are obligations; options are rights."},
+   {"s": "P2P lending is a category of crowd funding.", "a": "True", "reason": "SM §10: crowd funding is the broader concept."}
+  ],
+  "one_word": [
+   {"q": "The hybrid venture capital security that carries both interest and royalty at substantially low rates.", "a": "Income note"},
+   {"q": "The bond whose yield increases when prevailing interest rates decline.", "a": "Yield curve note"},
+   {"q": "The bond issued by a developing country carrying higher yields than US corporate and Treasury bonds.", "a": "Emerging market bond"},
+   {"q": "The lease in which the seller becomes the lessee and the buyer becomes the lessor.", "a": "Sale and lease back"},
+   {"q": "The short-term unsecured money market instrument issued as a promissory note in ₹5 lakh denominations.", "a": "Commercial paper"},
+   {"q": "The IDBI facility for technically qualified entrepreneurs who lack adequate financial resources.", "a": "Seed capital assistance"},
+   {"q": "The name for a bond issued in London, in pound sterling, by a non-UK company.", "a": "Bulldog bond"},
+   {"q": "The instrument by which a foreign company raises funds from the Indian capital market.", "a": "Indian Depository Receipt"}
+  ],
+  "match": {
+   "left": ["Yankee bond", "Samurai bond", "Bulldog bond", "Masala bond", "Municipal bond"],
+   "right": ["Issued in the United States", "Issued in Tokyo", "Issued in the United Kingdom", "Rupee-denominated bond sold overseas by Indian borrowers", "Issued to finance urban infrastructure"],
+   "key": ["Yankee bond – Issued in the United States", "Samurai bond – Issued in Tokyo", "Bulldog bond – Issued in the United Kingdom", "Masala bond – Rupee-denominated bond sold overseas by Indian borrowers", "Municipal bond – Issued to finance urban infrastructure"]
+  },
+  "differentiate": [
+   {"q": "Callable bond vs puttable bond", "a": "Callable: the issuer has the right to redeem before maturity at the call price. Puttable: the investor has the right to sell the bond back to the company before maturity."},
+   {"q": "Financial lease vs operating lease", "a": "Financial: long, non-cancellable, lessee bears maintenance and obsolescence, full payout. Operating: short, cancellable by the lessor, lessor bears maintenance and obsolescence, non-payout."},
+   {"q": "Conditional loan vs income note", "a": "Conditional loan: royalty on sales, no interest. Income note: both interest and royalty, at substantially low rates."},
+   {"q": "Pre-shipment vs post-shipment finance", "a": "Pre-shipment is packing credit for buying, manufacturing, processing, packing and shipping. Post-shipment covers bills purchased or discounted, ECGC guarantee, advances against bills for collection and against duty drawback."},
+   {"q": "ADR/GDR vs IDR", "a": "ADRs and GDRs let an Indian company raise foreign capital abroad. IDRs let a foreign company raise funds from the Indian capital market, listed and traded in India."},
+   {"q": "Equity funding vs donation-based crowdfunding", "a": "Equity funding gives the investor securities and a stake in the organisation. Donation-based crowdfunding carries no expectation of any ownership or debt."}
+  ],
+  "flowchart": {
+   "steps": ["Borrower takes a loan (origination function)", "Similar receivables pooled (pooling function)", "Pool transferred to the Special Purpose Vehicle as trustee", "SPV issues coupon-bearing securities through merchant bankers", "Investors bear the credit risk; originator gets off-balance-sheet funding"],
+   "blanks": [2, 4]
+  }
+ },
+ "revision": {
+  "five": [
+   "Four other lease types: sale and lease back, leveraged, sales-aid, close-ended and open-ended.",
+   "Four venture capital methods: equity (≤49%), conditional loan (royalty 2–15%), income note, participating debenture (three phases).",
+   "Bond names: callable (issuer), puttable (investor), masala (rupee overseas), drop lock (auto fixed), junk (below investment grade).",
+   "Securitisation: origination → pooling → securitisation; without recourse.",
+   "Export finance: packing credit before, four post-shipment forms after; 180 days each side."
+  ],
+  "fifteen": [
+   "Add equity share advantages and disadvantages, and the four-row equity versus preference table.",
+   "Add debenture advantages and disadvantages in ICAI's order, plus the convertibility and 'other types' lists.",
+   "Add the financial-versus-operating lease table, all five rows.",
+   "Add public deposits (35%, six months to three years), commercial paper, T-bills and CDs with their periods.",
+   "Add seed capital assistance and junk bonds — both have been asked in the last two attempts."
+  ],
+  "thirty": [
+   "Add the three financial needs and the stage-of-development table.",
+   "Add the full list of financial institutions with years, and bank facilities (short-term loan, overdraft, clean overdraft, cash credit, advances against goods, bills purchased).",
+   "Add the packing credit types and the ECGC and forward exchange contract points.",
+   "Add the foreign bond table: FCCB, plain vanilla, convertible FRN, drop lock, variable rate demand obligation, yield curve note, euro bond, emerging market bond.",
+   "Add international instruments: ECB and its routes, MTN, FRN, ECP, FC option and futures, euro convertible bonds and zero bonds, bonds with equity warrants.",
+   "Add ESG bonds with their examples, and ADR/GDR/IDR."
+  ],
+  "sixty": [
+   "Work the two integrated cases and all twelve chapter-test MCQs without looking back.",
+   "Write, in full, the four questions that have actually been asked in the last two years: debentures' advantages and disadvantages, bond types, bridge finance features, post-shipment finance forms.",
+   "Write the four-mark lease answer against the clock; it is the most repeated question of this chapter.",
+   "Recite every number in the 'numbers that decide marks' table from memory.",
+   "Close by listing, for each of §§1 to 10, one source and one line about it — that is the whole chapter in ten lines."
+  ]
+ },
+ "one_page": {
+  "sections": [
+   {"title": "Needs and classification", "points": [
+    "Long (5–10 yrs+, plant and permanent working capital) · medium (1–5 yrs, spares and tools) · short (≤1 yr, current assets)",
+    "Match the source to the period; classify by basic source, maturity, ownership and control",
+    "Internal: retained earnings. External: share capital and debt"
+   ]},
+   {"title": "Long-term sources", "points": [
+    "Equity: permanent, riskiest for investors, costliest for the company; rights issue possible",
+    "Preference: hybrid — fixed dividend, no tax shield; six types (cumulative, non-cumulative, redeemable, participating, non-participating, convertible)",
+    "Debentures: ₹100–₹1,000, trust deed, 3–10 years, tax-deductible interest, rated before public issue",
+    "Bonds: callable, puttable, masala, drop lock, YCN, euro, emerging market, municipal, treasury"
+   ]},
+   {"title": "Institutions, banks and venture capital", "points": [
+    "IFCI 1918 · SFCs 1951 · IDBI 1954 · NIDC 1954 · ICICI 1955 · LIC 1956 · UTI 1964 · IRBI 1971 · IBRD 1944 · IFC 1956 · ADB 1966",
+    "Banks: long-term loans and the working capital term loan; bridge finance pending institutional disbursement",
+    "Venture capital: equity (≤49%), conditional loan (royalty 2–15%), income note (80–87.50% of project cost), participating debenture (three phases)"
+   ]},
+   {"title": "Securitisation and leasing", "points": [
+    "Origination → pooling (SPV as trustee) → securitisation (coupon, asset- or mortgage-based, via merchant bankers)",
+    "Without recourse: investors bear credit risk; originator gets off-balance-sheet funding",
+    "Operating: short, cancellable, lessor bears costs, non-payout. Financial: long, non-cancellable, lessee bears costs, full payout",
+    "Others: sale and lease back, leveraged (80% lender, lessor claims depreciation), sales-aid, close-ended and open-ended"
+   ]},
+   {"title": "Short-term and other sources", "points": [
+    "Trade credit 15–90 days · CP ₹5 lakh multiples, rated · T-bills 14–364 days · CDs 7 days–1 year · ICDs about 6 months",
+    "Bank facilities: short-term loan, overdraft, clean overdraft, cash credit, advances against goods, bills purchased or discounted",
+    "Export: packing credit (clean, hypothecation, pledge, ECGC, forward contract) and four post-shipment forms; 180 days",
+    "Public deposits ≤35% of paid-up capital and reserves, 6 months to 3 years, unsecured",
+    "Seed capital (IDBI, 1% service charge, moratorium up to 5 years) · unsecured promoter loans count as equity · deferred payment guarantee · capital incentives",
+    "Deep discount, secured premium notes, zero interest fully convertible debentures, zero coupon, option, inflation, floating rate, junk bonds"
+   ]},
+   {"title": "International and contemporary", "points": [
+    "ECB: non-resident lenders, minimum average maturity 3 years, Automatic or Approval route",
+    "Euro bond (not in the currency of the country of issue, bearer form) · foreign bond · fully hedged · MTN · FRN (up to 7 years) · ECP (under 1 year)",
+    "FC option = right; FC future = obligation. Yankee, Swiss Frances, Samurai, Bulldog",
+    "ESG: project-based (green, social) and target-based (sustainability-linked, KPI-driven)",
+    "ADR/GDR raise money abroad; IDR brings foreign issuers to India. Infosys first on Nasdaq 1999; Reliance first sponsored GDR/ADR",
+    "Crowd funding umbrella: equity funding, P2P lending, start-up funding, donation-based"
+   ]}
+  ]
+ },
+ "verification": {
+  "sources": [
+   "ICAI SM Paper 6A Module 1 Ch 2 'Types of Financing' (May 2026 onwards edition), pp. 2.1–2.46",
+   "Suggested answers May 2024 – May 2026",
+   "RTPs May 2024 – Sep 2026",
+   "MTPs Mar 2024 – Aug 2026 (third-party copies of ICAI MTPs; Sep 2026 Series I question paper not available)"
+  ],
+  "open_items": [
+   {"id": "OV-F02-01", "item": "MTP Sep 2026 Series I question paper not available; FM Q4(a) and Q4(b) wording reconstructed from the answer file.", "resolve_with": "Download the question paper from the ICAI BoS portal"},
+   {"id": "OV-F02-02", "item": "RTP Jan 2026 FM Q11(a) lists bulldog bond features that the SM mentions only as a name; printed as supplementary.", "resolve_with": "Confirm whether a future SM edition expands the foreign euro bond names"},
+   {"id": "OV-F02-03", "item": "RTP May 2026 FM Q8 sets a lease-rental computation but the RTP files it under Investment Decisions; it is carried to the capital budgeting chapter rather than here.", "resolve_with": "Keep under review if ICAI re-files it"},
+   {"id": "OV-F02-04", "item": "The SM's operating lease diagram (lessee, supplier, lessor, bank) is an image; it has been summarised in words as the SM's own note permits.", "resolve_with": "None needed; the SM invites a short paragraph"}
+  ],
+  "qa": [
+   {"check": "SM headings covered", "result": "25 of 25"},
+   {"check": "Official questions placed", "result": "29 of 29"},
+   {"check": "Generated MCQ key balance", "result": "A 11 · B 11 · C 11 · D 11"},
+   {"check": "Numbers cross-checked against the SM", "result": "49%, 2–15%, 80–87.50%, ₹100–₹1,000, 3–10 years, ₹5 lakh, 14–364 days, 7 days–1 year, 35%, 6 months–3 years, 180 days, 3 years, 7 years, 4–7 years, 80%"}
+  ]
+ }
+}

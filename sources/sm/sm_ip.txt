@@ -1,0 +1,556 @@
+<<PAGE 1>>
+Intermediate Course 
+Study Material 
+Paper 6B 
+Strategic 
+Management 
+(Relevant for May, 2026 Examination)
+BOARD OF STUDIES 
+THE INSTITUTE OF CHARTERED ACCOUNTANTS OF INDIA 
+© The Institute of Chartered Accountants of India
+<<PAGE 2>>
+ii 
+This Study Material has been prepared by the faculty of the Board of Studies. The 
+objective of the Study Material is to provide teaching material to the students to 
+enable them to obtain knowledge in the subject. In case students need any 
+clarification or have any suggestion for further improvement of the material 
+contained herein, they may write to the Joint Director, Board of Studies. 
+All care has been taken to provide interpretations and discussions in a manner 
+useful for the students. However, the Study Material has not been specifically 
+discussed by the Council of the Institute or any of its committees and the views 
+expressed herein may not be taken to necessarily represent the views of the 
+Council or any of its Committees. 
+Permission of the Institute is essential for reproduction of any portion of this 
+material. 
+© THE INSTITUTE OF CHARTERED ACCOUNTANTS OF INDIA 
+All rights reserved. No part of this book may be reproduced, stored in a retrieval 
+system, or transmitted, in any form, or by any means, electronic, mechanical, 
+photocopying, recording, or otherwise, without prior permission, in writing, from the 
+publisher. 
+Basic draft of this publication was prepared by CA. (Dr.) Rashmi Goel 
+Edition 
+: 
+July, 2024 
+Reprint 
+: 
+August, 2025 
+Committee/Department 
+: 
+Board of Studies 
+E-mail
+: 
+bosnoida@icai.in 
+Website
+: 
+www.icai.org 
+Price
+: 
+`    /- 
+(For All Modules) 
+ISBN No.
+: 
+978-81-19472-89-5
+Published by
+: 
+The Publication & CDS Directorate on behalf of 
+The Institute of Chartered Accountants of India, 
+ICAI 
+Bhawan, 
+Post 
+Box 
+No. 
+7100, 
+Indraprastha Marg, New Delhi 110 002  (India) 
+Printed by 
+: 
+© The Institute of Chartered Accountants of India
+<<PAGE 3>>
+BEFORE WE BEGIN…. 
+The role of a Chartered Accountant has undergone a change substantially and 
+there has been a marked shift towards strategic decision making and 
+entrepreneurial roles that add value beyond financial reporting. The primary factors 
+responsible for the change are the increasing business complexities on account of 
+plethora of laws, border less economies consequent to giant leap in e-commerce, 
+emergence of new financial instruments, emphasis on corporate social 
+responsibility, significant developments in information technology, to name a few. 
+These factors necessitate an increase in the competence of chartered accountants 
+to take up the role of not merely an accountant or auditor, but a global solution 
+provider. Towards this end, the Scheme of Education and Training is being 
+continuously reviewed so that it is in sync with the requisites of the dynamic global 
+business environment; the competence requirements are being continuously 
+reviewed to enable aspiring chartered accountants to acquire the requisite 
+professional competence to take on new roles. 
+Under the Revised Scheme of Education and Training, at the Intermediate Level, 
+you are expected to not only acquire professional knowledge but also the ability 
+to apply such knowledge in problem solving. The process of learning should also 
+help you inculcate the requisite professional skills, i.e., the intellectual skills and 
+communication 
+skills, 
+necessary 
+for 
+achieving 
+the 
+desired 
+professional 
+competence. 
+The Chartered Accountants, with their education and skills have strong expertise 
+in the area of accounting, auditing, taxation and business laws. Today, the 
+situation has evolved as they are increasingly occupying key strategic roles in 
+Organizations and have reached the boardrooms. Strategy is important at all 
+levels of Management. Even practicing Chartered Accountants need to appreciate, 
+understand, and implement strategy as they have to manage their affairs 
+professionally and work through highly complex and competitive environment. 
+Thus, Strategic Management is important for Chartered Accountants. With the 
+changing scope of the chartered accountancy profession and the multifarious 
+nature of the work profile of professionals, the students need to learn newer and 
+different concepts and acquire multidimensional skills. With this focus, the subject 
+© The Institute of Chartered Accountants of India
+<<PAGE 4>>
+ 
+ 
+ 
+ 
+ii 
+ii 
+of Strategic Management has been included in the Education and Training of 
+Chartered Accountancy. Chartered Accountants in order to reach high in the 
+Corporate Ladder need to be sound in the concepts and principles of Strategic 
+Management. 
+The coverage and treatment of the subject in the study material is just a fraction 
+of the available body of knowledge. The study material is meant to be a small 
+window to watch and enjoy the world of business organizations. You are advised 
+to take a keen interest in the subject not merely for passing the examination but 
+for making your own professional career path more manageable and meaningful. 
+The study material has been designed having regard to the needs of home study 
+and distance learning education. The students are expected to cover the entire 
+syllabus and do practice on their own for better understanding and learning. 
+The study material deals with the conceptual theoretical framework in detail. The 
+content for each chapter/unit at this level has been structured in the following 
+manner: 
+1. Learning Outcomes – Learning outcomes which you need to demonstrate 
+after learning each topic have been detailed in the first page of each chapter/unit. 
+Demonstration of these learning outcomes would help you to achieve the desired 
+level of technical competence. 
+2. Chapter Overview – As the name suggests, this chart/table would give a broad 
+outline of the contents covered in the chapter. 
+3. 
+Introduction – A brief introduction is given at the beginning of each chapter/ 
+unit which would help you get a feel of the topic. 
+4. Content – The concepts are explained in a student-friendly manner with the 
+aid of examples, diagrams and caselets. These value additions would help you 
+develop conceptual clarity and get a good grasp of the topics. Caselets based on 
+real life situation would help you understand the concept and its application in a 
+better manner. 
+ 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 5>>
+ 
+ 
+ 
+ iii 
+5. Summary – A summary of the chapter is given at the end to help you revise 
+what you have learnt. 
+6. Test Your Knowledge – This section comprises of multiple-choice questions, 
+scenario-based questions and questions with descriptive answers. Questions have 
+been included that test the breadth and depth of your understanding of the topic. 
+ 
+ 
+Happy Reading and Best Wishes! 
+ 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 6>>
+ 
+ 
+ 
+ 
+iv 
+iv 
+ 
+SYLLABUS 
+ 
+PAPER 6B: STRATEGIC MANAGEMENT (50 MARKS) 
+Objective: 
+To develop an understanding of strategic management concepts and techniques 
+and acquire the ability to apply the same in business situations. 
+Contents: 
+1. 
+Introduction to Strategic Management 
+(i) 
+Meaning and Nature of Strategic Management 
+(ii) 
+Importance and Limitations of Strategic Management 
+(iii) 
+Strategic Intent - Vision, Mission and Goals & Values 
+(iv) 
+Strategic Levels in Organizations (Corporate, Business, Functional 
+and Network) 
+2. 
+Strategic Analysis: External Environment 
+(i) 
+International and Macro Environment: PESTLE Analysis 
+(ii) 
+Defining the industry for analysis (Value Chain, PLC) 
+(iii) 
+Porters Five Forces - Industry environment analysis 
+(iv) 
+Understanding customers and markets 
+(v) 
+Competition in the industry 
+3. 
+Strategic Analysis: Internal Environment 
+(i) 
+Understanding key stakeholders (Mendelow’s Model) 
+(ii) 
+Strategic Drivers (Industry & markets, Customers, Channels, Product 
+& Services, Competitive Advantage) 
+(iii) 
+The role of resources and capabilities 
+(iv) 
+Combining external and internal analysis (SWOT Analysis) 
+(v) 
+Gaining 
+competitive 
+advantage 
+(Michael 
+Porter’s 
+Generic 
+Strategies) 
+© The Institute of Chartered Accountants of India 
+<<PAGE 7>>
+ 
+ 
+ 
+ v 
+4. 
+Strategic Choices 
+(i) 
+Strategic Choices: Concentric, Conglomerate, Market Development, 
+Product Development, Innovation, Horizontal Integration, Vertical 
+Integration, Turnaround, Divesture, Liquidation 
+(ii) 
+How to Develop Strategic Options 
+o 
+Ansoff’s Matrix 
+o 
+ADL Matrix 
+o 
+BCG Matrix 
+o 
+GE Matrix 
+5. 
+Strategy Implementation and Evaluation 
+(i) 
+Implementation: Formulation vs. Implementation Matrix, Linkages 
+and Issues 
+(ii) 
+Strategic Change through Digital Transformation 
+(iii) 
+Organisation Structure (hard) and Culture (soft) 
+(iv) 
+Strategic Leadership 
+(v) 
+Strategic Control 
+(vi) 
+Strategic Performance Measures 
+ 
+ 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 8>>
+ 
+ 
+ 
+ 
+vi 
+vi 
+DETAILED CONTENTS 
+CHAPTER – 1: INTRODUCTION TO STRATEGIC MANAGEMENT  
+Chapter Overview .................................................................................................................... 1.2 
+1.1 
+Introduction ................................................................................................................. 1.2 
+1.2 
+Meaning and Nature of Strategic Management ............................................... 1.3 
+1.3 
+Concept of Strategy................................................................................................... 1.4 
+1.4 
+Strategic Management ............................................................................................. 1.7 
+ 
+1.4.1  Importance of Strategic Management.................................................... 1.8 
+ 
+1.4.2  Limitations of Strategic Management .................................................. 1.11 
+1.5 
+Strategic Intent (Vision, Mission, Goal and Objectives & Values) .............. 1.13 
+1.6 
+Strategic Levels in Organisations ......................................................................... 1.23 
+ 
+1.6.1 
+Network of relationship between the three levels ............................ 1.27 
+Summary .................................................................................................................................. 1.28 
+Test Your Knowledge ............................................................................................................ 1.28 
+CHAPTER – 2: STRATEGIC ANALYSIS : EXTERNAL ENVIRONMENT 
+Chapter Overview .................................................................................................................... 2.2 
+2.1 
+Introduction ................................................................................................................. 2.2 
+2.2 
+Strategic Analysis ....................................................................................................... 2.3 
+ 
+2.2.1 
+Issues to consider for Strategic Analysis ................................................ 2.5 
+2.3 
+Strategic and Business Environment ..................................................................... 2.8 
+ 
+2.3.1  Micro and Marco Environment ............................................................... 2.10 
+ 
+2.3.2 
+Elements of Macro Environmental ......................................................... 2.11 
+ 
+2.3.3 
+PESTLE-a tool to analyse Macro Environment .................................... 2.15 
+ 
+2.3.4 
+Internationalization of Business ............................................................. 2.18 
+ 
+2.3.5 
+International Environment ....................................................................... 2.20 
+© The Institute of Chartered Accountants of India 
+<<PAGE 9>>
+ 
+ 
+ 
+ vii 
+2.4 
+Understanding Product and Industry ................................................................. 2.21 
+ 
+2.4.1 
+Product Life Cycle ....................................................................................... 2.22 
+ 
+2.4.2 
+Value Chain Analysis .................................................................................. 2.23 
+2.5 
+Industry Environment Analysis ............................................................................. 2.26 
+ 
+2.5.1 
+Porter’s Five Forces Model ....................................................................... 2.26 
+ 
+2.5.2 
+Attractiveness of Industry ........................................................................ 2.33 
+ 
+2.5.3 
+Experience Curve ........................................................................................ 2.35 
+ 
+2.5.4 
+Value Creation ............................................................................................. 2.36 
+2.6 
+Market & Customer ................................................................................................. 2.38 
+ 
+2.6.1 
+Customer ....................................................................................................... 2.39 
+ 
+2.6.2 
+Customer Analysis ...................................................................................... 2.39 
+ 
+2.6.3 
+Customer Behaviour .................................................................................. 2.40 
+2.7 
+Competitive Strategy .............................................................................................. 2.42 
+ 
+2.7.1 
+Competitive Landscape ............................................................................. 2.42 
+ 
+2.7.2 
+Key Factors for Competitive Success .................................................... 2.44 
+Summary .................................................................................................................................. 2.46 
+Test Your Knowledge ............................................................................................................ 2.46 
+CHAPTER – 3: STRATEGIC ANALYSIS : INTERNAL ENVIROMENT 
+Chapter Overview .................................................................................................................... 3.2 
+3.1 
+Introduction ................................................................................................................. 3.2 
+3.2 
+Understanding Key Stakeholders........................................................................... 3.3 
+ 
+3.2.1 
+Mendelow’s Matrix ....................................................................................... 3.5 
+3.3 
+Strategic Drivers ......................................................................................................... 3.8 
+ 
+3.3.1 
+Industry and Markets ................................................................................... 3.8 
+ 
+3.3.2 
+Customers ..................................................................................................... 3.11 
+© The Institute of Chartered Accountants of India 
+<<PAGE 10>>
+ 
+ 
+ 
+ 
+viii 
+viii 
+ 
+3.3.3 
+Product/Services ......................................................................................... 3.13 
+ 
+3.3.4 
+Channels ........................................................................................................ 3.16 
+3.4 
+Role of Resources and Capabilities: Building Core Competency …............ 3.18 
+ 
+3.4.1 
+Criteria for building a Core Competencies (CC)? ............................... 3.20 
+3.5 
+Combining External and Internal Analysis (SWOT Analysis) … .................... 3.22 
+3.6 
+Competitive Advantage: Using Michael Porter’s Generic Strategies … ..... 3.24 
+ 
+3.6.1 
+Sustainability of Competitive Advantage ............................................. 3.24 
+ 
+3.6.2 
+Michael Porter’s Generic Strategies ...................................................... 3.25 
+Summary .................................................................................................................................. 3.35 
+Test Your Knowledge ............................................................................................................ 3.36 
+CHAPTER – 4: STRATEGIC CHOICE 
+Chapter Overview .................................................................................................................... 4.2 
+4.1  
+Introduction ................................................................................................................. 4.2 
+4.2  
+Strategic Choices ........................................................................................................ 4.3 
+4.2.1 
+Stability Strategy ........................................................................................... 4.5 
+ 
+4.2.1.1 Characteristics of Stability Strategy ........................................... 4.6 
+ 
+4.2.12 Major Reasons for Stability strategy.......................................... 4.6 
+4.2.2 
+Growth/Expansion Strategy ....................................................................... 4.7 
+ 
+4.2.2.1 Characteristics of Growth/Expansion Strategy ....................... 4.7 
+ 
+4.2.2.2 Major Reasons for Growth/Expansion Strategy ..................... 4.8 
+ 
+4.2.2.3 Types of Growth/ Expansion Strategy ....................................... 4.8 
+ 
+ 
+A. 
+Internal Growth Strategies .............................................. 4.8 
+ 
+ 
+ 
+I 
+Expansion or growth through  
+ 
+ 
+ 
+ 
+Intensification ....................................................... 4.8 
+ 
+ 
+ 
+II 
+Expansion or growth through  
+ 
+ 
+ 
+ 
+Diversification ....................................................... 4.9 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 11>>
+ 
+ 
+ 
+ ix 
+ 
+ 
+B. 
+External Growth Strategies ........................................... 4.14 
+ 
+ 
+ 
+I. 
+Expansion through Mergers and  
+ 
+ 
+ 
+ 
+Acquisitions ......................................................... 4.14 
+ 
+ 
+ 
+II 
+Expansion through Strategic Alliance .......... 4.17 
+4.3 
+Strategic Exits ............................................................................................................ 4.18 
+4.4 
+Strategic Options ..................................................................................................... 4.23 
+ 
+4.4.1 
+Ansoff’s Product Market Growth Matrix ....................................................... 4.23 
+ 
+4.4.2 
+ADL Matrix ............................................................................................................... 4.25 
+ 
+4.4.3 
+Boston Consulting Group (BCG) Growth-Share Matrix .......................... 4.27 
+ 
+4.4.4 
+General Electric Matrix [“Stop-Light” Strategy Model] ........................... 4.30 
+Summary .................................................................................................................................. 4.32 
+Test Your Knowledge ............................................................................................................ 4.33 
+CHAPTER – 5: STRATEGY IMPLEMENTATION AND EVALUATION 
+Chapter Overview .................................................................................................................... 5.2 
+5.1 
+Introduction ................................................................................................................. 5.2 
+5.2 
+Strategic Management Process .............................................................................. 5.3 
+5.2.1 
+Stages in Strategic Management ............................................................. 5.4 
+5.2.2 
+Strategy Formulation ................................................................................... 5.9 
+5.2.3 
+Strategy Implementation .......................................................................... 5.12 
+5.2.4 
+Difference between Strategy Formulation and Implementation ... 5.15 
+5.2.5 
+Linkages and Issues in Strategy Implementation .............................. 5.17 
+5.3 
+Strategic Change through Digital Transformation ......................................... 5.20 
+ 
+5.3.1 
+Strategic Change ........................................................................................ 5.20 
+ 
+5.3.2 
+How does Digital Transformation work? .............................................. 5.23 
+ 
+5.3.3 
+Change Management Strategies for Digital Transformation ......... 5.24 
+ 
+5.3.4 
+How to manage change during Digital Transformation? ................ 5.26 
+© The Institute of Chartered Accountants of India 
+<<PAGE 12>>
+ 
+ 
+ 
+ 
+x 
+x 
+5.4 
+Organizational Framework ...................................................................................... 5.27 
+5.4.1 
+Organization Structure ............................................................................... 5.29 
+5.4.2 
+Organization Culture  .................................................................................. 5.47 
+5.5 
+Strategic Leadership .................................................................................................... 5.51 
+5.6 
+Strategic Control ...................................................................................................................... 5.56 
+5.7 
+Strategic Performance Measures ....................................................................................... 5.60 
+Summary .................................................................................................................................. 5.64 
+Test Your Knowledge ............................................................................................................ 5.65 
+CASE SCENARIOS .............................................................................. CS.1 – CS.13 
+ 
+© The Institute of Chartered Accountants of India 

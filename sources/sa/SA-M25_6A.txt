@@ -1,0 +1,1773 @@
+<<PAGE 1>>
+PAPER – 6: FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+PART – I Multiple Choice Questions 
+Case Scenario - I 
+XYZ Ltd. wants to establish a shoe manufacturing unit. To setup this unit, it needs 
+a loan. XYZ Ltd, approaches a commercial bank for working capital loan. 
+Bank has asked the company to present the proposal for such loan. To prepare such 
+proposal, the company has appointed you and provided some information about the 
+plan. 
+It wants to maintain margin of safety of 10% for contingencies. The company want 
+to keep cash balance of ` 90,000. 
+The product will be sold at gross profit margin of 25% on COGS. Depreciation will be 
+part of cost of production. 
+Stock of raw material will be held at 1.5 months of its consumption, while finished 
+goods inventory will be maintained at one month's requirement. Finished goods will 
+be valued at manufacturing cost. 
+The company will sell shoes in domestic as well as in foreign market. Total 
+estimated annual sales will be ` 30,00,000. 20% of the sales are foreign sales and 
+there will be a delay of 1/2 month to realise the sales proceed from foreign 
+debtors. All domestic sales will be on credit and allowed a credit period of  
+2 months. 
+Raw material consumed will be 25% of estimated sales and the company will get 
+credit period of 2 months of consumption from its supplier of raw material. Wage 
+expenses will be 20% of sales and will be paid in 1/2 month's lag. 
+Outstanding cash manufacturing overhead expenses at the end of the year will 
+be ` 60,000; it will be paid in one month arrear. Estimated total administrative 
+cost (to be paid after one month) will be ` 1,80,000. Expected annual sales 
+promotion expenses are ` 90,000, which will be paid quarterly in advance. The 
+company want to submit the proposal to bank on cash cost basis. 
+©The Institute of Chartered Accountants of India
+<<PAGE 2>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+59 
+You are required to answer the following question 1 to 5: 
+1. 
+What will be the total manufacturing cost and total cost of sales on cash cost 
+basis? 
+(A)  ` 20,70,000, ` 23,40,000 
+(B)  ` 24,00,000, ` 30,00,000 
+(C)  ` 22,50,000, ` 23,40,000 
+(D)  ` 16,80,000, ` 24,00,000 
+(2 Marks) 
+2. 
+What will be the total estimated finished goods inventory and total debtors 
+on cash cost basis? 
+(A)  ` 2,00,000, ` 4,25,000 
+(B)  ` 1,72,500, ` 3,40,000 
+(C)  ` 1,72,500, ` 3,31,500 
+(D)  ` 1,87,500, ` 3,31,500 
+(2 Marks) 
+3. 
+What will be the total estimated current assets on cash cost basis? 
+(A)  ` 8,31,250 
+(B)  ` 7,18,750 
+(C)  ` 7,25,250 
+(D)  ` 7,10,250 
+(2 Marks) 
+4. 
+What will be the total estimated current liabilities? 
+(A)  ` 2,52,500 
+(B)  ` 1,90,000 
+(C)  ` 2,17,500 
+(D)  ` 2,25,000 
+(2 Marks) 
+5. 
+What will be the estimated working capital to be submitted by you in the 
+proposal? 
+(A)  ` 5,33,775 
+(B)  ` 4,36,725 
+©The Institute of Chartered Accountants of India
+<<PAGE 3>>
+ 
+INTERMEDIATE EXAMINATION: MAY 2025 
+ 
+SUGGESTED ANSWER 
+60 
+(C)  ` 5,50,275 
+(D)  ` 4,50,225 
+ (2 Marks) 
+6. 
+A company has net worth of ` 5,00,000. Its debt to equity ratio is 2. Interest 
+on debt is 10%. The company earns an operating profit of ` 4,00,000. Tax 
+rate is 30%. 
+What will be the financial leverage of the company? 
+(A)  1.11 
+(B)  1.33 
+(C)  1.43 
+(D)  1.90 
+(2 Marks) 
+7. 
+T Ltd. is looking for a capital project in order to replace its existing old 
+machine. It got two proposals to consider; details of which are given below: 
+ 
+Proposal X 
+Proposal Y 
+Initial investment 
+` 6,50,000 
+` 7,80,000 
+Estimated useful life 
+5 Years 
+3 Years 
+Annal cash inflows 
+` 1,90,000 
+` 3,50,000 
+Cost of capital  
+10% 
+10% 
+ 
+Year 
+1 
+2 
+3 
+4 
+5 
+PVIF0.10, t 
+0909 
+0.826 
+0.751 
+0.683 
+0.621 
+PVIFA0.10, t 
+0.909 
+1.736 
+2.487 
+3.170 
+3.791 
+ 
+What will be Equivalent Annual NPV for Proposal X and Proposal Y? 
+(A)  ` 70,290.00, ` 90,450.00 
+(B)  ` 18,541.28, ` 36,369.12 
+(C)  ` 1,90,000.00, ` 3,50,000.00 
+(D)  ` 77,326.73, ` 99,504.95 
+ (2 Marks) 
+8. 
+Q Ltd. is planning to pay dividend of ` 2 per share in next year. Growth rate 
+of company is 8% p.a. Current market price per share is ` 51. Flotation cost 
+is ` 1 per share. 
+©The Institute of Chartered Accountants of India
+<<PAGE 4>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+61 
+ 
+What will be cost of equity? 
+(A)  12.23% 
+(B)  11.92% 
+(C)  12.00% 
+(D)  12.32% 
+(1 Mark) 
+Case Scenario - II 
+A team of professionals having expertise in the areas of Artificial Intelligence (Al), 
+Block Chain (BC), Cloud Computing (CC) and Data Mining (DM) formed a 
+company in the name and style of M/s. ABCD Ltd. (the company). 
+The aim of the company is to position itself as the best service provider in its area 
+of operations with best user experience to its customer. Concentrating on its 
+resources and capabilities, the company wants to target 8% year-on-year growth 
+in revenue and 9% year-on-year growth in net profit in its business plan. 
+In order to identify right approach to select and implement the strategy, the 
+company has decided to conduct in depth strategic analysis on strategic groups, 
+objectives, performance and cost structure of companies having similar 
+operations in the market. 
+In the month of March 2025, the Board of Directors of the company thought it 
+proper to be in the business of manufacturing Robots and providing services 
+relating thereto. The company knows that there is no linkage between existing 
+and proposed business with specific reference to product or market or technology. 
+As per proposed arrangement, majority of the components of Robots will be 
+imported from M/s. Faisla Inc. (FI), an established player in this area. The Robots 
+will be assembled in India specifically for use at homes and in restaurants. 
+The company will endeavor to provide the above product while using cutting-
+edge technology with customized features and best of the services. The core intent 
+will be to elevate the same to unprecedented level. In this context, the company 
+would like to offer additional facilities like: better customer interface, online repair 
+service and services on site to its customer. 
+In addition, company is of a considered view that meticulous analysis of its 
+stakeholders will facilitate to build and maintain strong relationship with each 
+group. As an accepted practice, greatest efforts are in place to satisfy Mr. X, the 
+©The Institute of Chartered Accountants of India
+<<PAGE 5>>
+ 
+INTERMEDIATE EXAMINATION: MAY 2025 
+ 
+SUGGESTED ANSWER 
+62 
+Chief Executive Officer of the company by taking his advice and keeping him 
+informed with all related information and developments on a regular basis. 
+Based on above case scenario, choose the correct option for MCQ number 9 
+to 13: 
+9. 
+In order to position itself as the best service provider, stating year-on-year 
+growth, indicates which one of the components of the strategic intent? 
+(A)  Goals 
+(B)  Objectives 
+(C)  Mission 
+(D)  Vision 
+ (2 Marks) 
+10. Analysis of strategic groups and cost structure can be termed as, which type 
+of strategic analysis? 
+(A)  Competitor analysis 
+(B)  Determinants analysis 
+(C)  Environmental analysis 
+(D)  Market analysis 
+ (2 Marks) 
+11. Entering into business of manufacturing of Robots can best be described as: 
+(A)  Backward vertical integration 
+(B)  Co-generic diversification 
+(C)  Conglomerate diversification 
+(D)  Divestment 
+(2 Marks) 
+12. Elevating customer service to unprecedented level by providing better 
+customer interface, online repair service and service on site is known as: 
+(A)  Augmented marketing 
+(B)  Enlightened marketing 
+(C)  Social marketing 
+(D)  Synchro marketing 
+ (2 Marks) 
+13. While preparing a Power Interest matrix of stakeholders, the position of  
+Mr. X will be categorized in which one of the following quadrants? 
+©The Institute of Chartered Accountants of India
+<<PAGE 6>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+63 
+(A)  Key player 
+(B)  Keep satisfied 
+(C)  Keep informed 
+(D)  Low priority 
+(2 Marks) 
+14. In response to a scheme of subsidy by the state government, a company 
+started manufacturing E-Vehicles. Some of the customers were not at ease 
+with battery life and time consumed in recharging the battery. Some of the 
+customers were apprehensive about frequent incidents of battery catching 
+fire. All these resulted in half-hearted response from the customers in evolving 
+EV market. 
+ 
+Here, the customers' response is indicating towards which one of the 
+limitations of strategic management? 
+(A)  Environment is highly complex and turbulent. 
+(B)  Strategic management is a time-consuming process. 
+(C)  Strategic management is a costly process. 
+(D)  It is difficult to estimate the competitive response to the firm's strategy. 
+ 
+(2 Marks) 
+15. M/s. A is providing mobile phones and Wi-Fi services in the country. M/s. B 
+and M/s. C are other similar service providers already in operation. In 
+competitive landscape, M/s. B and M/s. C decided to merge with each other. 
+Such merger was an unexpected development in the industry. M/s. A decided 
+to cope-up with such eventuality by intense review of its strategy and to form 
+a core group to handle the situation. 
+ 
+The situation where intense review of strategy is needed due to merger 
+between M/s. B and M/s. C, indicates towards which type of strategic control 
+for M/s. A? 
+(A)  Premise control 
+(B)  Implementation control 
+(C)  Strategic surveillance 
+(D)  Special alert control 
+(2 Marks) 
+©The Institute of Chartered Accountants of India
+<<PAGE 7>>
+ 
+INTERMEDIATE EXAMINATION: MAY 2025 
+ 
+SUGGESTED ANSWER 
+64 
+16. M/s. SPG is a multi-product multi-business enterprise. It has four prominent 
+divisions. Each division functions as an independent product center with its 
+own set of activities managed by respective division head, which is 
+responsible for its own performance and profitability. This organizational 
+structure is known as: 
+(A)  Divisional structure 
+(B)  Multi divisional structure 
+(C)  Strategic Business Unit 
+(D)  Network structure  
+(1 Mark) 
+Answer Key 
+MCQ. No. 
+Correct Answer 
+1 
+A 
+2 
+C 
+3 
+D 
+4 
+D 
+5 
+A 
+6 
+B 
+7 
+B 
+8 
+C 
+9 
+B 
+10 
+A 
+11 
+C 
+12 
+A 
+13 
+A 
+14 
+A 
+15 
+D 
+16. 
+C 
+ 
+ 
+©The Institute of Chartered Accountants of India
+<<PAGE 8>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+65 
+PART – II Descriptive Questions 
+SECTION A: FINANCIAL MANAGEMENT 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+In case, any candidate answers extra question(s)/ sub-question(s) over and 
+above the required number, then only the requisite number of questions first 
+answered in the answer book shall be valued and subsequent extra 
+question(s) answered shall be ignored. 
+Working notes should form part of the answer. 
+Question 1 
+(a) The following information is available for S Ltd. for the year ended  
+31st March, 2025: 
+Raw Material consumed  
+20% of COGS 
+Raw Material Inventory turnover ratio 
+4.00 
+Finished Goods Inventory holding period  
+0.75 month 
+Gross profit (based on COGS)  
+12.50% 
+Debtor collection period (all sales are credit sales) 
+3 months 
+Proprietary ratio 
+0.3125 
+Fixed Assets turnover ratio (based on sales) 
+3.00 
+Fixed Assets to Total Assets 
+40% 
+ 
+You are required to prepare a Balance Sheet as on 31st March, 2025 in the 
+following format: 
+Liabilities  
+` Assets 
+` 
+Shareholders’ Fund (assume 
+no Preference Shares) 
+ Fixed Assets 
+12,00,000 
+Long-term Debt  
+15,00,000 Stock of Raw Material 
+ 
+Current Liabilities  
+ Stock of Finished Goods 
+ 
+ 
+ Debtors  
+ 
+ 
+ Cash 
+ 
+Total 
+ Total 
+ 
+(5 Marks) 
+©The Institute of Chartered Accountants of India
+<<PAGE 9>>
+ 
+INTERMEDIATE EXAMINATION: MAY 2025 
+ 
+SUGGESTED ANSWER 
+66 
+(b) Y Ltd. produces energy drinks in different flavours. Due to high demand of its 
+product, the rate of return on its earnings is 25%. Currently, the company 
+retains 60% of its earnings and distributes the rest. The current P/E ratio is 8 
+and earnings per share is ` 10. 
+ 
+According to Gordon's Model: 
+(i)  What will be retention ratio if the company wants to maintain its P/E 
+ratio to 12 in current year, given that the expected rate of return for an 
+investor is 20%? 
+(2 Marks) 
+(ii)  What will be the expected price per share after one year if Y Ltd. achieves 
+above-mentioned targeted P/E ratio?  
+(1 Mark) 
+(iii)  Will there be any change in retention ratio if the company wants to 
+maintain its P/E ratio to 10 in current year, given that the expected rate 
+of return for an investor is 17.50%?  
+(2 Marks) 
+(c) Following information relates to A Ltd. for the year ended 31st March, 2025: 
+Profit volume ratio 
+24% 
+Operating leverage 
+2.00 
+Financial leverage 
+1.50 
+Interest Expenses 
+` 12,000 
+Tax rate 
+30% 
+Number of Equity Shares 
+1,000 
+You are required to: 
+(i)  Prepare Income Statement for the year ended 31st March, 2025. 
+(ii)  Calculate EPS. 
+(iii)  Calculate percentage change in earnings per share, if sales increase by 
+5%. 
+(2 + 1 + 2 = 5 Marks) 
+Answer  
+(a) Workings: 
+(i)  Calculation of Sales, Cost of Goods Sold and Gross Profit 
+ 
+Fixed Assets Turnover 
+= 
+Sales
+Fixed Assets 
+©The Institute of Chartered Accountants of India
+<<PAGE 10>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+67 
+3 
+ 
+ 
+ 
+= 
+Sales
+12,00,000 
+So, Sales  
+ 
+ 
+= 12,00,000 x 3 = ` 36,00,000 
+ 
+And Cost of Goods Sold  
+= 36,00,000 x 
+100
+(100 + 12.5) = ` 32,00,000 
+ 
+Therefore, Gross Profit  
+= 32,00,000 x 12.5% = ` 4,00,000 
+(ii)  Calculation of Stock of Raw Materials 
+ 
+Raw Material Consumed  = COGS x 20% 
+= 32,00,000 x 20% 
+ 
+ 
+ 
+ 
+ 
+= ` 6,40,000 
+ 
+So, stock of raw material  = 
+6,40,000
+4
+= ` 1,60,000 
+(iii) Calculation of Debtors 
+ 
+Debtor Collection Period 
+= 
+12
+Receivable Turnover Ratio 
+= 3 months 
+ 
+Or Debtors   
+ 
+= 36,00,000 X 
+3
+12 
+ 
+ 
+ 
+ 
+ 
+= ` 9,00,000  
+(iv) Calculation of Total Assets 
+ 
+Total Asset     
+ 
+= 
+Fixed Assets
+40%
+ 
+ 
+= 12,00,000 x 
+100
+40   
+= ` 30,00,000 
+ 
+So Total Liabilities including shareholder’s fund = ` 30,00,000 
+(v)  Calculation of Stock of Finished Goods 
+ 
+Stock of Finished Goods 
+= 32,00,000 x 
+0.75
+12 
+= ` 2,00,000 
+(vi) Calculation of Current Assets and Fixed Assets 
+ 
+Current Assets  
+= Total Assets – Fixed Assets 
+ 
+ 
+ 
+ 
+= 30,00,000 – 12,00,000 = ` 18,00,000 
+©The Institute of Chartered Accountants of India
+<<PAGE 11>>
+ 
+INTERMEDIATE EXAMINATION: MAY 2025 
+ 
+SUGGESTED ANSWER 
+68 
+ 
+And Cash Balance  = Current Assets – (Raw Material + Finished  
+ 
+ 
+ 
+    Goods + Debtors) 
+ 
+ 
+ 
+ 
+= 18,00,000 – (1,60,000 + 2,00,000 + 9,00,000) 
+ 
+ 
+ 
+ 
+= ` 5,40,000 
+(vii) Calculation of Shareholder’s Fund  
+ 
+Proprietary Ratio  
+= 
+Shareholders Fund
+Total Assets
+   
+ 
+0.3125 
+ 
+= 
+Shareholders Fund
+30,00,000
+ 
+ 
+Shareholders Fund  = ` 9,37,500 
+Balance Sheet as on 31st March 2025 
+Liabilities 
+(`) Assets 
+(`) 
+Shareholders’ Fund 
+9,37,500 Fixed Assets 
+12,00,000 
+Long-term Debt 
+15,00,000 Stock of Raw Material 
+1,60,000 
+Current 
+Liabilities 
+(Balancing Figure) 
+5,62,500 Stock 
+of 
+Finished 
+Goods 
+2,00,000 
+ 
+ Debtors 
+9,00,000 
+ 
+ Cash  
+5,40,000 
+ 
+30,00,000  
+30,00,000 
+(b)  The question can be solved with the help of Justified P/E Ratio linked to 
+Gordon Growth Model.  
+(i) Calculation of Retention Ratio  
+ 
+P/E  
+ 
+=
+1-b  
+Ke-br  
+ 
+12    
+ 
+= 
+1-b  
+0.20-0.25b  
+ 
+Or 2.4 – 3b  
+=1-b 
+ 
+Or 2.4 – 1  
+= 3b – b 
+ 
+Or 2b 
+ 
+= 1.4 
+©The Institute of Chartered Accountants of India
+<<PAGE 12>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+69 
+ 
+Or b 
+ 
+= 0.70 or 70% 
+ 
+So, Retention Ratio is 70%, if the company wants to maintain its P/E 
+ratio to 12 in the current year.  
+(ii) Calculation of Expected Price Per Share 
+ 
+P/E  
+= Market Price Share  
+Earning Per Share 
+ 
+P/E Ratio is 12 and EPS is ` 10 
+ 
+So, Market Price Share  
+= P/E Ratio x Earning Per Share  
+ 
+ 
+ 
+ 
+ 
+= 12 x 10 = ` 120 
+ 
+Retention Ratio is 70%, when P/E ratio is 12, Return on Earnings is 25% 
+ 
+So, New growth rate = 0.70 X 0.25 = 0.175 = 17.5% 
+ 
+Expected price after one year = ₹ 120 X (1+17.5%) = ` 141       
+ 
+Therefore, the expected price per share after one year is ` 141 if Y Ltd. 
+achieves the targeted P/E ratio of 12.  
+(iii) Calculation of change in Retention Ratio 
+ 
+P/E  
+ 
+= 
+1-b  
+ Ke-br 
+ 
+10  
+ 
+= 
+1-b  
+0.175 - 0.25b 
+ 
+1.75 – 2.5b 
+= 1-b 
+ 
+1.75 – 1  
+= 2.5b – b 
+ 
+1.5 b 
+ 
+= 0.75 
+ 
+b  
+ 
+= 
+0.75  
+1.5  = 0.5 or 50% 
+ 
+So, Retention Ratio is 50%, if the company wants to maintain its P/E 
+ratio to 10 in the current year.  
+ 
+ 
+©The Institute of Chartered Accountants of India
+<<PAGE 13>>
+ 
+INTERMEDIATE EXAMINATION: MAY 2025 
+ 
+SUGGESTED ANSWER 
+70 
+(c)  Workings: 
+ 
+(a)  Financial Leverage   
+= 
+EBIT
+EBT i.e EBIT – Interest
+ 
+ 
+So, 
+1.5 
+ 
+ 
+= 
+EBIT
+EBIT– 12,000 
+ 
+Or, 
+1.5 (EBIT – 12,000)  = EBIT 
+ 
+Or, 
+0.5 EBIT  
+ 
+= 18,000 
+   
+Or, 
+EBIT     
+ 
+= ` 36,000  
+(b)  Operating Leverage   
+= Contribution
+EBIT
+ Or,  
+2 = 
+Contribution
+` 36,000
+ 
+ 
+Or, Contribution  
+ 
+= ` 72,000 
+ 
+Sales   
+ 
+ 
+= 
+Contribution
+P/V Ratio 
+ 
+ 
+ 
+ 
+ 
+= 
+` 72,000
+0.24
+ = ` 3,00,000  
+(c)  Fixed Cost   
+ 
+= Contribution – EBIT  
+                              
+ 
+= 72,000 – 36,000 
+ 
+Or, Fixed cost    
+ 
+= ` 36,000 
+(i) Income Statements for the year ended 31st March 2025 
+Particulars 
+A Ltd. (`) 
+Sales 
+3,00,000 
+Less: Variable cost (76%) 
+2,28,000 
+Contribution 
+72,000 
+Less: Fixed Cost  
+36,000 
+Earnings before interest and tax (EBIT) 
+36,000 
+Less: Interest 
+12,000 
+Earnings before tax (EBT) 
+   24,000 
+Less: Tax @ 30% 
+     7,200 
+Earnings after tax (EAT) 
+  16,800 
+©The Institute of Chartered Accountants of India
+<<PAGE 14>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+71 
+(ii) Calculation of EPS  
+ 
+EPS = 
+Profit after tax
+No.  of Equity Shares = 
+16,800
+1,000 = `16.8 
+(iii) Calculation of % change in EPS if Sales increase by 5% 
+ 
+Degree of Combined Leverage (DCL) = Operating Leverage x Financial 
+Leverage 
+ 
+ 
+ 
+ 
+ 
+ 
+     = 2 x 1.5 = 3  
+ 
+Alternatively, solution can be presented in following way: 
+ 
+DCL = Contribution
+EBT
+ = 72,000
+24,000 =3 
+ 
+So,  
+% change in EPS
+% change in Sales = 3  
+ 
+Or % change in EPS = DCL x % change in Sales 
+ 
+ 
+ 
+           = 3 x 0.05 = 0.15 or 15% 
+Question 2 
+(a)  Capital structure of B Ltd. for the year ended 31st March, 2025 are as follows:  
+Particulars 
+Amount (`) 
+Equity share capital @`10 each 
+14,00,000 
+10% Preference share capital @`1,000 each 
+10,00,000 
+Debenture @ `100 each 
+9,60,000 
+Bank Loan 
+6,40,000 
+• 
+Risk-free rate of return is 14%, Market rate of return is 19% and beta of 
+company is 1.20. 
+• 
+10% Preference shares are redeemable at ` 1,065.40 after 3 years. 
+• 
+Interest on bank loan is 1.30 times of interest on debentures. 
+• 
+Debentures are redeemable at par after 5 years. Floatation cost is ` 4 
+per debenture. 
+• 
+Tax rate is 30%. 
+©The Institute of Chartered Accountants of India
+<<PAGE 15>>
+ 
+INTERMEDIATE EXAMINATION: MAY 2025 
+ 
+SUGGESTED ANSWER 
+72 
+• 
+Cost of capital is 14%. 
+You are required to calculate the following: 
+(i)  Cost of Equity. 
+(ii)  Cost of preference share using YTM method. 
+(iii)  Post-tax cost of debenture using approximation method. 
+(iv)  Interest rate of bank loan. 
+PV factors @ 10% and 14% 
+Year 
+1 
+2 
+3 
+4 
+PVIF0.10, t 
+0.909 
+0.826 
+0.751 
+0.683 
+PVIF0.14, t 
+0.877 
+0.769 
+0.675 
+0.592 
+(1 + 2 + 3 + 2 = 8 Marks) 
+(b) Following details are related to H Ltd.: 
+EPS 
+` 3.00 
+Return on investment 
+20% 
+Cost of equity  
+15% 
+ 
+As per Walter's Model, what would be the maximum and minimum price of 
+share? 
+(2 Marks) 
+Answer 
+(a)  (i) Calculation of Cost of Equity 
+ 
+Ke  
+= Rf + β (Rm – Rf) = 14% + 1.2 (19% - 14%) = 20% 
+(ii)  Calculation of Cost of Preference Shares: 
+Current Market Price P0  
+ 
+= Preference Dividend (PD) X PVAF (r,14) + Redeemable Value (RV) X 
+PVIF (r,14) 
+Or 1000 = 100 x PVAF (r,14) + 1065.4 x (r,14) 
+ 
+Calculation of NPV at discount rate of 10% and 14% 
+ 
+©The Institute of Chartered Accountants of India
+<<PAGE 16>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+73 
+Year 
+Cash 
+Flows (`) 
+PVF  
+@ 10% 
+PV (`) 
+PVF @ 
+14% 
+PV (`) 
+0 
+(1000) 
+1 
+(1000) 
+1 
+(1000) 
+1-3 
+100 
+2.487 
+248.70 
+2.322 
+232.20 
+3 
+1065.4 
+0.751 
+800.12 
+0.675 
+719.14 
+ 
+ 
+ 
++48.82 
+ 
+-48.66 
+IRR = 10% + 
+48.82
+48.82-(-48.66) x (14% - 10%) 
+ 
+= 10% + 
+48.82
+97.48 x 4% 
+ 
+= 10% + 2% = 12% 
+(iii) Calculation of Post-tax Cost of Convertible Debentures: 
+ 
+Working Note: 
+ 
+Calculation of Interest rate on Bank term Loan & Debentures 
+ 
+Let the rate of interest on debentures be ‘X’ 
+ 
+Therefore, Rate of Interest on bank loan = 1.3X x (0.7) = 0.91X 
+ 
+Kd (Debentures)  
+= 
+(
+)
+(
+)
+(
+)
+RV-NP
+I 1-t +
+n
+RV+NP
+2
+ 
+ 
+  
+ 
+= 
+100X(1-0.3)+(100-96)
+5
+(100+96)
+2
+ 
+ 
+ 
+ 
+ 
+= 
+70X+0.8
+98
+ 
+Sources of capital 
+Amount 
+of capital 
+Weights 
+(W) 
+Cost (K) 
+W x K 
+Equity share capital 
+14,00,000 
+0.35 
+0.20 
+0.07 
+Preference 
+share 
+capital 
+10,00,000 
+0.25 
+0.12 
+0.03 
+©The Institute of Chartered Accountants of India
+<<PAGE 17>>
+ 
+INTERMEDIATE EXAMINATION: MAY 2025 
+ 
+SUGGESTED ANSWER 
+74 
+Debentures 
+9,60,000 
+0.24 70X+ 0.8
+98
+ 16.8X + 0.192
+98
+ 
+Bank Loan 
+6,40,000 
+0.16 
+0.91X 
+0.16 x 0.91X 
+      
+40,00,000 
+1.00 
+ 0.14 
+ 
+0.14  
+= 0.07 + 0.03 + 
+16.8X+0.192
+98
+ + 0.16x(0.91X) 
+ 
+0.04 x 98  
+= 16.8 X +0.192 + 14.2688 X 
+ 
+3.728  
+= 31.0688X 
+ 
+X  
+ 
+= 0.1199 or 12 %  
+ 
+So, interest on debentures = 12 % 
+ 
+Kd (Debentures)  
+= 
+(
+)
+(
+)
+(
+)
+RV-NP
+I 1-t +
+n
+RV+NP
+2
+ 
+ 
+ 
+ 
+ 
+= 
+12(1-0.3)+(100-96)
+5
+(100+96)
+2
+  
+ 
+ 
+ 
+ 
+= 
+8.4+0.8
+98 = 9.387% or 9.39% 
+(iv) Interest Rate of bank loan 
+ 
+= 12 x 1.3  
+ 
+= 15.60% 
+(b)  In this question, since r>Ke, as per the Walter’s Model, the price will be 
+maximum when the company retains all the earnings. Detailed calculations 
+are as follows:  
+(i)  Maximum Price when company retains all the earnings i.e. D = 0 
+ 
+Po  
+=  
+D+ r
+Ke(E-D)
+Ke
+ 
+ 
+ 
+= 
+0+0.20
+0.15(3-0)
+0.15
+ = 
+(1.333)x 3
+0.15
+ = 
+4
+0.15 
+ 
+ 
+= ` 26.67 
+©The Institute of Chartered Accountants of India
+<<PAGE 18>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+75 
+(ii) Minimum Price is when company distributes all its earnings 
+ 
+Po 
+= 
+3+0.20
+0.15(3-3)
+0.15
+ = 
+3+0
+0.15 = 
+3
+0.15 = ` 20 
+Question 3 
+(a) Following data are given for a capital project: 
+Annual interim cash inflows for first two years 
+` 1,00,000 
+Annual interim cash inflows for next two years 
+` 80,000 
+Useful life 
+4 Years 
+Salvage value at end of the project 
+` 50,000 
+Internal rate of return 
+12% 
+Cost of capital  
+10% 
+You are required to calculate the following: 
+(i)  Initial investment 
+(ii) Net present value 
+(iii) Profitability Index 
+(iv) Discounted payback period 
+(v)  MIRR 
+Year 
+1 
+2 
+3 
+4 
+PVIF0.09, t 
+0.917 
+0.842 
+0.772 
+0.708 
+PVIF0.10, t 
+0.909 
+0.826 
+0.751 
+0.683 
+PVIF0.11, t 
+0.901 
+0.812 
+0.731 
+0.659 
+PVIF0.12, t 
+0.893 
+0.797 
+0.712 
+0.636 
+PVIF0.10, t 
+1.100 
+1.210 
+1.331 
+1.464 
+PVIF0.12, t 
+1.120 
+1.254 
+1.405 
+1.574 
+(1 + 1 + 1 + 1 + 2 = 6 Marks) 
+(b) Z Ltd. is an unlevered company. It wants to repurchase its equity shares of  
+` 300 lakhs by issue of 12% debentures of same amount. Current market 
+value of Z Ltd. is ` 1,400 lakhs. Its cost of capital is 18%. The company will 
+©The Institute of Chartered Accountants of India
+<<PAGE 19>>
+ 
+INTERMEDIATE EXAMINATION: MAY 2025 
+ 
+SUGGESTED ANSWER 
+76 
+maintain same level of EBIT in future years. Dividend pay-out ratio is 100%. 
+Company pays tax at a rate of 30%. 
+ 
+As per Modigliani and Miller approach, due to such change in capital 
+structure, what will be impact on the following? 
+(i)  Market Value of Z Ltd. 
+(ii)  Overall cost of capital 
+(iii)  Cost of equity 
+(4 Marks) 
+Answer 
+(a)  (i)  Initial Investment 
+ 
+Using IRR = 12%, the NPV is zero. So, the initial investment is equal to 
+the present value of inflows at 12%. 
+Year 
+Cash Inflows (`) 
+PVF@12% 
+Present Value (`)  
+1 
+1,00,000 
+0.893 
+89,300 
+2 
+1,00,000 
+0.797 
+79,700 
+3 
+80,000 
+0.712  
+56,960 
+4 
+80,000  
+0.636 
+50,880 
+4 
+50,000 (salvage) 
+0.636  
+31,800 
+ 
+ 
+Total  
+3,08,640 
+ 
+Total Present Value = ` 3,08,640. So, Initial Investment = ` 3,08,640. 
+(ii)  Net Present Value (NPV) 
+Year 
+Cash Flows (`) 
+PVF@10% 
+Present Value (`)  
+0 
+(3,08,640) 
+1 
+(3,08,640) 
+1 
+1,00,000 
+0.909 
+90,900  
+2 
+1,00,000 
+0.826 
+82,600 
+3 
+80,000 
+0.751 
+60,080 
+4 
+80,000  
+0.683 
+54,640 
+4 
+50,000 (salvage) 
+0.683 
+34,150 
+ 
+Sum of PV of Cash Inflows 
+ 
+3,22,370 
+NPV 
+(3,22,370-3,08,640) 
+13,730 
+©The Institute of Chartered Accountants of India
+<<PAGE 20>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+77 
+(iii) Profitability Index (PI) 
+ 
+PI = 
+Sum of PV of Cash Inflows 
+Initial Cash Outflow
+ = 
+` 3,22,370 
+` 3,08,640  = 1.0445 
+(iv) Discounted Payback Period: 
+Year 
+Cash Flows  
+(`) 
+PVF@10% 
+PV  
+(`) 
+Cumulative 
+PV (`)  
+1 
+1,00,000 
+0.909 
+90,900 
+90,900  
+2 
+1,00,000 
+0.826 
+82,600 
+1,73,500 
+3 
+80,000 
+0.751 
+60,080 
+2,33,580 
+4 
+1,30,000 (including 
+salvage)  
+0.683 
+88,790 
+3,22,370  
+ 
+So, discounted payback = 3 years + `  3,08,640 – `  2,33,580
+ ` 88,790
+ = 3.845 
+years OR 3.85 years OR 3 years 10 months 4 days approx. 
+(v)  Modified Internal Rate of Return (MIRR) 
+ 
+Terminal value of cash inflows compounded to year 4 using 10%: 
+Year 
+Cash Inflows (`)  @ 10% reinvestment 
+rate factor 
+Present 
+Value (`)  
+1 
+1,00,000 
+1.331 
+1,33,100  
+2 
+1,00,000 
+1.210 
+1,21,000 
+3 
+80,000 
+1.100 
+88,000 
+4 
+80,000  
+1.000 
+80,000 
+4 
+50,000 (salvage) 
+1.000 
+50,000 
+ 
+ 
+Total  
+4,72,100 
+ 
+Total Terminal Value  
+= ` 4,72,100 
+ 
+Now, 3,08,640/4,72,100  
+= 0.6537 or 0.654 
+ 
+If we see 0.654 in year of present value discount table, the rate which 
+is coming is around 11.20%. So, MIRR is around 11.20%. 
+ 
+ 
+©The Institute of Chartered Accountants of India
+<<PAGE 21>>
+ 
+INTERMEDIATE EXAMINATION: MAY 2025 
+ 
+SUGGESTED ANSWER 
+78 
+ 
+Alternatively, solution can be presented in following way for 
+MIRR:  
+ 
+Total Return = 4,72,100/3,08,640 = 1.5296 
+ 
+(1+r)4  
+= 1.5296 
+ 
+MIRR  
+= (1.5296) (1/4) – 1 = 11.20% (Approx) 
+(b)  Market Value of Equity   
+ 
+= 
+Net income (NI) for equity holders 
+Ke
+  
+` 1,400 lakhs  
+ 
+    
+ 
+= 
+Net income (NI) for equity holders 
+0.18
+  
+Net Income to equity holders/EAT  
+= ` 252 lakhs 
+Therefore, EBIT = 
+EAT 
+(1-t) 
+ 
+ 
+= 
+ 252  lakhs 
+(1 – 0.3)  = ` 360 lakhs 
+Income Statement 
+ 
+All Equity 
+(` In lakhs) 
+Equity & Debt  
+(` In lakhs) 
+EBIT (as calculated above) 
+Interest on ` 300 lakhs @ 12%  
+EBT 
+Tax @ 30% 
+Income available to equity holders 
+360 
+    - 
+360 
+108 
+252 
+360 
+36 
+324 
+ 97.2 
+226.8 
+(i) Market value of Z Ltd 
+ 
+Market value of levered firm = Value of unlevered firm + Tax Advantage 
+                                   
+ 
+= ` 1,400 lakhs + (` 300 lakhs x 0.3) 
+ 
+ 
+ 
+ 
+ 
+= ` 1,490 lakhs 
+ 
+Change in market value of the company = 1,490 lakhs – 1,400 lakhs  
+ 
+ 
+ 
+ 
+ 
+ 
+        = ` 90 lakhs 
+ 
+The impact is that the market value of the company has increased by ` 90 
+lakhs due to replacement of equity with debt. 
+ 
+ 
+©The Institute of Chartered Accountants of India
+<<PAGE 22>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+79 
+(ii)  Overall Cost of Capital 
+ 
+Market Value of Equity  
+= Market value of levered firm - Equity  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+   repurchased 
+ 
+ 
+ 
+ 
+ 
+=  ` 1,490 lakhs – ` 300 lakhs = ` 1,190 lakhs 
+ 
+Cost of Equity (Ke)   
+= 
+Net Income to equity holders
+Market value of equity
+ × 100  
+ 
+ 
+ 
+ 
+ 
+= 
+` 226.8 lakhs 
+` 1190 lakhs  × 100 =19.06% (approx.) 
+ 
+Cost of debt (Kd)  
+ 
+= I (1 - t) = 12 (1 - 0.3) = 8.4% 
+Components 
+Amount  
+(` In lakhs) 
+Cost of 
+Capital % 
+Weight 
+WACC 
+(Ko) % 
+Equity 
+Debt 
+1,190 
+300 
+19.06 
+8.4 
+0.80(approx.) 
+0.20(approx.) 
+15.25 
+1.68 
+ 
+1490 
+ 
+1 
+16.93  
+ 
+(Note: If we take the weight of Equity as 0.7986 and weight of Debt as 
+0.2013 then WACC will be 16.91%). 
+ 
+Impact on Market value and Overall cost of capital of Z Ltd. 
+Particulars 
+Before 
+restructure 
+After 
+restructure 
+Impact 
+Market value of 
+company 
+` 1,400 lakhs 
+` 1,490 Lakhs 
+Increase due to 
+import of debt 
+Cost of equity 
+18% 
+19.06% 
+Increase 
+Overall 
+cost 
+of 
+capital 
+18% 
+16.93% 
+Decrease 
+ 
+So, the impact is that the Overall Cost of Capital or Ko has fallen by 
+1.07% (18% - 16.93%) due to the benefit of tax relief on debt interest 
+payment.   
+ 
+ 
+©The Institute of Chartered Accountants of India
+<<PAGE 23>>
+ 
+INTERMEDIATE EXAMINATION: MAY 2025 
+ 
+SUGGESTED ANSWER 
+80 
+(iii) Cost of Equity  
+ 
+The impact is that cost of equity has risen by 1.06% (19.06% - 18%) due 
+to the presence of financial risk i.e. introduction of debt in capital 
+structure. 
+ 
+Note: Cost of Capital and Cost of equity can also be calculated with 
+the help of following formulas,  
+ 
+Cost of Capital (Ko) = Keu [1 – (t x L)] 
+ 
+Where, 
+ 
+Keu  = Cost of equity in an unlevered company 
+ 
+t  
+= Tax rate 
+ 
+L     = 
+Debt
+Debt + Equity 
+ 
+So, Ko = 0.18 ቂ1- ቀ0.3 × 
+` 300 lakhs
+` 1490 lakhsቁቃ= 0.1691 or 16.91% (approx.) 
+ 
+Cost of Equity (Ke) = Keu + (Keu – Kd) 
+Debt (1-t)
+Equity 
+ 
+Where, 
+ 
+Keu    
+= Cost of equity in an unlevered company 
+ 
+Kd     
+= Cost of debt 
+ 
+t  
+ 
+= Tax rate 
+ 
+So, Ke  
+= 0.18 + ቀ(0.18-0.12) ×
+`  300 lakhs (1-0.3)
+` 1190 lakhs
+ቁ 
+ 
+ 
+ 
+= 0.1906 or 19.06% 
+Question 4 
+(a)  What is agency cost and what are its types? How can a company minimize 
+agency cost and align the interest of manager and shareholder? (4 Marks) 
+(b) What are key features of bridge financing? 
+(4 Marks) 
+(c)  What is hierarchy of financing under 'Pecking Order' theory, and why does it 
+exist?  
+(2 Marks) 
+ 
+ 
+©The Institute of Chartered Accountants of India
+<<PAGE 24>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+81 
+OR 
+(c)  "The total risk of any business is the combination of degree of operating and 
+financial risk". In the light of the above statement, you are required to 
+consider the first two columns of the given table and give your comments in 
+the 3rd column. 
+ 
+Your comments should depict the total risk profile by using the most 
+appropriate amongst the following three words only: 
+ 
+Lower, Higher and Moderate 
+ 
+Also select the best combination of DOL and DFL from the given table. 
+DOL  
+DFL 
+Comments 
+Low 
+High 
+ 
+High 
+Low 
+ 
+High 
+High 
+ 
+(2 Marks) 
+Answer 
+(a)  Meaning of Agency Cost: Agency Problem is the chances that managers 
+may place personal goals ahead of the goal of owners. Agency Problem 
+leads to Agency Cost. Agency cost is the additional cost borne by the 
+shareholders to monitor the manager and control their behaviour so as to 
+maximize shareholders wealth.  
+ 
+Types of Agency Cost: Generally, Agency Costs are of four types (i) 
+monitoring (ii) bonding (iii) opportunity (iv) structuring. 
+ 
+Following efforts have been made to address the issues of minimizing 
+agency cost and align the interest of manager and shareholders: 
+• 
+Managerial compensation is linked to the profit of the company to some 
+extent and also with the long-term objectives of the company. 
+• 
+Employee is also designed to address the issue with the underlying 
+assumption that maximisation of the stock price is the objective of the 
+investors. 
+• 
+Effecting monitoring can be done. 
+ 
+©The Institute of Chartered Accountants of India
+<<PAGE 25>>
+ 
+INTERMEDIATE EXAMINATION: MAY 2025 
+ 
+SUGGESTED ANSWER 
+82 
+(b)  Key features of Bridge Financing 
+(i) Bridge finance refers to loans taken by a company normally from 
+commercial banks for a short period because of pending disbursement 
+of loans sanctioned by financial institutions.  
+(ii) The bridge loans are repaid/ adjusted out of the term loans as and 
+when disbursed by the concerned institutions.  
+(iii) Bridge loans are normally secured by hypothecating movable assets, 
+personal guarantees and demand promissory notes.  
+(iv) Generally, the rate of interest on bridge finance is higher as compared 
+with that on term loans. 
+(c)  Hierarchy of financing Pecking order: 
+ 
+Pecking order theory suggests that managers may use various sources for 
+raising of fund in the following order: 
+1. 
+Managers first choice is to use internal finance. 
+2. 
+In absence of internal finance, they can use secured debt, unsecured 
+debt, hybrid debt etc. 
+3. 
+Managers may issue new equity shares as a last option. 
+ 
+The hierarchy of financing Pecking order exist to Minimize the cost of 
+capital, financial control and avoiding negative market signals. 
+OR 
+ 
+Combination of DOL and DFL 
+DOL 
+DFL 
+Comments 
+Low  
+High 
+Moderate total risk. Best combination.  
+Higher financial risk is balanced by lower total business 
+risk. 
+High  
+Low 
+Moderate total risk. Not a good combination.  
+Lower EBIT due to higher DOL and lower advantage of 
+trading on equity due to low DFL. 
+High  
+High 
+Higher total risk. Very risky combination. 
+ 
+©The Institute of Chartered Accountants of India

@@ -1,0 +1,130 @@
+p2	1. FINANCIAL
+p3	(iii) Short-term financial needs: Such type of financial needs arise to finance
+p3	2. CLASSIFICATION OF FINANCIAL SOURCES
+p4	2.2 Sources of Finance based on Maturity of Payment
+p4	1. Share capital or
+p4	2. Preference shares
+p4	3. Retained earnings
+p4	4. Debentures/Bonds
+p4	5. Loans from financial
+p4	6. Loans from State
+p4	7. Loans from
+p4	8. Venture capital
+p4	9. Asset securitisation
+p4	10. International
+p4	1. Preference shares
+p4	2. Debentures/Bonds
+p4	3. Public deposits/fixed
+p4	4. Medium term loans
+p4	5. Lease
+p4	6. External commercial
+p4	7. Euro-issues
+p4	8. Foreign Currency
+p4	1. Trade credit
+p4	2. Accrued expenses
+p4	3. Short term loans like
+p4	4. Avances received
+p4	6. Various short-term
+p5	3. LONG-TERM SOURCES OF FINANCE
+p7	3.2 Preference Share Capital
+p8	1 Cumulative
+p8	2 Non-cumulative
+p8	3 Redeemable
+p8	4 Participating
+p8	5 Non-Participating Cannot participate in the surplus after payment of
+p8	6 Convertible
+p9	1 Dividend
+p9	2 Rate of dividend
+p9	3 Convertibility
+p9	4 Voting rights
+p10	3.3 Retained Earnings
+p10	3.4 Debentures
+p11	(iii) Partly convertible debentures – These debentures carry features of both
+p11	1 Bearer
+p11	2 Registered
+p11	3 Mortgage
+p11	4 Naked or simple
+p11	5 Redeemable
+p11	6 Non-Redeemable
+p13	3.5 Bond
+p13	1. Foreign
+p13	2. Plain Vanilla Bond
+p14	3. Convertible
+p14	4. Drop Lock Bond
+p14	5. Variable
+p14	6. Yield Curve Note
+p15	7. Euro Bond
+p15	8. Emerging Market
+p15	1. Masala Bond
+p16	2. Municipal
+p16	3. Government or
+p16	3.6 Loans from Financial Institutions
+p16	1 Industrial
+p16	2 State
+p16	3 Industrial
+p16	4 National
+p16	5 Industrial
+p16	6 Life
+p17	7. Unit Trust of India (UTI)
+p17	8 Industrial Reconstruction
+p17	1 The
+p17	2 The International Finance Corporation (IFC)
+p17	3 Asian Development Bank (ADB)
+p17	3.7 Loans from Commercial Banks
+p18	4. VENTURE CAPITAL FINANCING
+p18	4.2 Characteristics of Venture Capital Financing
+p19	4.3 Methods of Venture Capital Financing
+p19	(ii)  Conditional loan: A conditional loan is repayable in the form of a royalty
+p19	(iii)  Income note:  It is a hybrid security which combines the features of both
+p19	(iv)  Participating debenture: Such security carries charges in three phases — in
+p19	5. DEBT SECURITISATION
+p20	6. LEASE FINANCING
+p21	(a) Operating Lease
+p21	(b) Financial Lease
+p22	1. The risk and reward incident
+p22	2. The lessee bears the risk of
+p22	3. The lessor is interested in his
+p22	4. The lessor enters into the
+p23	5. The
+p23	6.2 Other Types of Leases
+p24	7. SHORT-TERM SOURCES OF FINANCE
+p25	(iii) Advances from Customers: Manufacturers and contractors engaged in
+p25	(iv) Commercial Paper: A Commercial Paper is an unsecured money market
+p25	(vi)  Certificates of Deposit (CD): The certificate of deposit is a document of title
+p26	(vii)  Bank Advances: Banks receive deposits from public for different periods at
+p28	(viii) Financing of Export Trade by Banks: Exports play an important role in
+p31	(ix) Inter Corporate Deposits: The companies can borrow funds for a short
+p32	8. OTHER SOURCES OF FINANCING
+p32	(iii) Unsecured Loans: Unsecured loans are typically provided by promoters to
+p33	(iv) Deferred Payment Guarantee: Many a time suppliers of machinery provide
+p33	(vii) Secured Premium Notes: Secured Premium Notes is issued along with a
+p34	(viii) Zero Interest Fully Convertible Debentures: These are fully convertible
+p34	(ix) Zero Coupon Bonds: A Zero Coupon Bond does not carry any interest but it
+p34	(xi)  Inflation Bonds: Inflation Bonds are the bonds in which interest rate is
+p34	(xii) Floating Rate Bonds: This as the name suggests is bond where the interest
+p34	(xiii) High Yield Bonds (or Junk Bonds): Junk Bond is a bond that is rated below
+p35	9. INTERNATIONAL FINANCING
+p35	(iv) International Agencies: A number of international agencies have emerged
+p36	(vi) Financial Instruments: Some of the various financial instruments dealt with
+p38	(m) Euro Bonds with Equity Warrants: These bonds carry a coupon rate
+p39	(vii) Euro Issues by Indian Companies: Euro issuance refers to the sources of
+p41	10. CONTEMPORARY SOURCES OF FUNDING
+p41	(iii) Peer-to-Peer (P2P) lending: It is that category of crowdfunding where
+p42	(iv) Start-up funding: A start-up company being newly formed needs fund
+p43	1. Equity shares:
+p43	2. External sources of finance do not include:
+p43	3. Internal sources of finance do not include:
+p44	4. In preference shares:
+p44	5. A debenture:
+p44	6. Debt capital refers to:
+p44	7. The most popular source of short-term funding is:
+p44	8. Marketable securities are primarily:
+p45	9. Which of the following marketable securities is the obligation of a commercial
+p45	10. Reserves & Surplus are which form of financing?
+p45	11. With reference to `IFC Masala Bonds', which of the statements given below
+p45	1. The International Finance Corporation, which offered these bonds, is an
+p45	2. They are rupee-denominated bonds and are a source of debt financing
+p46	1. Please refer paragraph 7
+p46	3. Please refer paragraph 7
+p46	4. Please refer paragraph 8
+p46	5. Please refer paragraph 9

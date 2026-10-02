@@ -1,0 +1,1198 @@
+<<PAGE 1>>
+1 
+Mock Test Paper - Series II: August, 2024 
+Date of Paper: 23rd August, 2024 
+Time of Paper: 2 P.M. to 5 P.M. 
+ 
+INTERMEDIATE: GROUP – II 
+PAPER – 6: FINANCIAL MANAGEMENT & STRATEGIC MANAGEMENT 
+PAPER 6A : FINANCIAL MANAGEMENT 
+Suggested Answers/ Hints 
+PART I – Case Scenario based MCQs 
+1. 
+(d) 
+2. 
+(b) 
+Particulars 
+Computation 
+Result 
+Sales  
+100 × 5,00,000 
+5,00,00,000 
+Less Variable cost 
+100 × 4,50,000 
+4,50,00,000 
+Contribution  
+ 
+50,00,000 
+Less Fixed cost 
+ 
+25,00,000 
+EBIT 
+ 
+25,00,000 
+Less Interest  
+15% × 40,00,000 
+6,00,000 
+EBT 
+ 
+19,00,000 
+ 
+Operating leverage = Contribution ÷ EBIT = 50 Lakhs ÷ 25 Lakhs = 2 
+times  
+ 
+Operating leverage = % Change in EBIT ÷ % Change in Sales i.e. if sales 
+increase by 10%, EBIT increase by 20%. 
+ 
+Financial leverage = EBIT ÷ EBT = 25 Lakhs ÷ 19 Lakhs = 1.315 times 
+ 
+Combined leverage = Operating leverage × Financial leverage  
+= 2 × 1.315 = 2.63 times 
+3. 
+(b) 
+Particulars 
+Weights 
+Cost in % 
+Weights × Cost 
+Share Capital  
+40,00,000 5 + 1.9 × (10 – 5) = 14.5 
+5,80,000 
+Reserves & Surplus 25,00,000 
+14.5 
+3,62,500 
+Preference 
+Share 
+Capital 
+12,00,000 
+12 
+1,44,000 
+15% Debentures 
+20,00,000 
+15 × (1 – 25%) = 11.25 
+2,25,000 
+Total 97,00,000 
+Total Cost 
+13,11,500 
+Discount rate = WACC = 13,11,500 ÷ 97,00,000 × 100 = 13.52% 
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 2>>
+2 
+4. 
+(b) 
+Particulars 
+Computation 
+Result 
+Savings in Tea cost 
+200 Employees × 200 days × 3 
+times × ` 10 
+12,00,000 
+Less: Annual maintenance  
+(25,000) 
+Less: Cost of Electricity  
+500 units × ` 24 per unit × 12 
+months 
+(1,44,000) 
+Less: Consumables 
+ 
+(8,00,000) 
+Less: Depreciation 
+5,00,000 ÷ 5 years 
+(1,00,000) 
+Profit before tax 
+ 
+1,31,000 
+Less: Tax 
+1,31,000 × 25% 
+32,750 
+Profit after tax 
+ 
+98,250 
+Add: Depreciation  
+ 
+1,00,000 
+Cash flow after tax 
+98,250 + 1,00,000 
+1,98,250 
+5. 
+(b) 
+Year  
+Particulars 
+Cash flow 
+PVF@13.52% 
+PV 
+0 
+Initial investment  
+5,00,000 
+1 
+(5,00,000) 
+1 to 5 
+Savings  
+1,98,250 
+3.473 
+6,88,522 
+ 
+Net present value 
+ 
+ 
+1,88,522 
+6. 
+(b) ROCE = EBIT / Total Capital Employed 
+Total Capital Employed = Total Assets – Current Liabilities 
+= 50 lakhs – 10 lakhs 
+= 40 lakhs 
+EBIT = 40 lakhs x 15% 
+= 6 lakhs 
+Now, OL of 3.5 = Contribution / EBIT 
+Therefore Contribution = 6 Lakhs X 3.5 = 21 lakhs 
+Sales = Contribution / PV Ratio = 21 lakhs / 0.7 = 30 lakhs 
+7. 
+(d) Calculation: Cost of Debt  
+= (Interest Payment/ Market Price of Bond)  
+ 
+= (8,000 / 95,000) = 8.42% 
+8.  
+(d) Cost of equity will increase. As the company increases its debt ratio, the 
+financial risk increases, which typically leads to an increase in the cost 
+of equity as equity investors demand a higher return for the additional 
+risk. 
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 3>>
+3 
+PART II – Descriptive Questions 
+1. 
+(a)  Let the EBIT at the Indifference Point level be E  
+Particulars 
+Alternative 1 
+Alternative 2 
+Description 
+Fully Equity of 
+84 Lakhs 
+Debt = 56 Lakhs, 
+Equity = 28 Lakhs 
+ 
+EBIT 
+E 
+E 
+Less:  Interest at 12% of ` 56 
+ 
+Lakhs 
+Nil 
+6.72 
+ 
+EBT  
+E  
+E – 6.72 
+Less:  Tax at 30%  
+0.3 E 
+0.3 E – 2.016 
+ 
+EAT  
+0.7 E 
+0.7 E – 4.704 
+Less:  Preference Dividend  
+Nil 
+Nil 
+ 
+Residual Earnings  
+0.7 E 
+0.7 E – 4.704 
+No. of Equity Shares (Face 
+Value ` 10) 
+8.4 Lakh Shares 
+2.8 Lakh Shares 
+ 
+EPS 
+= 
+ 
+Shares
+ 
+Lakh
+ 
+8.4
+E
+ 
+0.7
+ 
+Shares
+ 
+Lakh
+ 
+2.8
+4.704
+ - 
+E
+ 
+0.7
+ 
+For indifference between the above alternatives, EPS should be equal.  
+So, 
+Shares
+ 
+Lakh
+ 
+8.4
+E
+ 
+0.7
+= 
+Shares
+ 
+Lakh
+ 
+2.8
+4.704
+ - 
+E 
+0.7
+ 
+ 
+On cross multiplication and simplification, 2.1 E – 14.112 = 0.7 E. So, 
+1.4 E = 14.112  
+So, E = 
+1.4
+14.112 = 10.08 
+ 
+So, for same EPS, required EBIT = ` 10.08 Lakhs. EPS at that level  
+= ` 0.84 
+Note: Presentation of solution may differ. 
+(b) Computation of PV of Future Cash Flows  
+Year 
+Nature 
+Cash Flow 
+DF @ 12% 
+DCF 
+1 
+Dividends (` 100 × 20%) 
+20 
+0.893 
+17.86 
+2 
+Dividends (` 100 × 20%) 
+20 
+0.797 
+15.94 
+3 
+Dividends (` 100 × 20%) 
+20 
+0.712 
+14.24 
+4 
+Dividends (` 100 × 20%) 
+20 
+0.636 
+12.72 
+5 
+Dividends (` 100 × 1.2 × 20%) 
+24 
+0.567 
+13.61 
+6 
+Dividends (` 100 × 1.2 × 20%) 
+24 
+0.507 
+12.17 
+7 
+Dividends (` 100 × 1.2 × 20%) 
+24 
+0.452 
+10.85 
+7 
+Net Sale Proceeds (` 900 × 
+1.2 – 5%)  
+1,026 
+0.452 463.75 
+Shares
+Equity
+of
+.
+No
+Earnings
+sidual
+Re
+Downloaded from castudyweb.com
+<<PAGE 4>>
+4 
+ 
+Present Value of Cash Inflows 
+ 
+ 561.14 
+0 
+Less: Initial Investment (` 500 
++ 5%) 
+525 
+1 525.00 
+ 
+Net Present Value 
+ 
+ 
+36.14 
+ 
+Note: At the end of Year 4, Anand will have 1.2 Share i.e. 1 Bought Share 
++ 1/5th Bonus Share. 
+ 
+(c) 
+i. 
+No of Eq. Shares (before buyback) = Total Earnings (before  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+buyback)/EPS 
+ = 18,00,000/(270/18) 
+ = 1,20,000 shares 
+ii.  
+Buyback price = 270 + 10% premium = 297   
+iii.  
+No of Eq. shares (after buyback) = 1,20,000 (-) 20,000 = 1,00,000 
+shares 
+iv. 
+Total Book Value of Equity (after buyback) = 1,00,000 X 193.20  
+= 1,93,20,000 
+Now, 
+Total BV of Eq. (after buyback) = Total BV of Eq.(before buyback) (-)  
+ 
+ 
+ 
+ 
+ 
+    Amt of buyback  
+1,93,20,000  
+ 
+ 
+= x (-) (20,000 X 297) 
+Therefore x  
+ 
+ 
+= Total BV (before buyback)  
+ 
+ 
+ 
+ 
+ 
+= 2,52,60,000 
+BV per share (before buyback) = 2,52,60,000 / 1,20,000 
+= 210.50 per share 
+2. 
+(a)  Evaluation of Factoring Proposal - 
+ 
+PARTICULARS 
+` 
+` 
+(A) 
+Savings (Benefit) to the firm 
+ 
+ 
+ 
+Administration Cost 
+  45,000 
+45,000 
+ 
+Bad Debts Cost (On Recourse 
+basis) 
+In House – 75 lakhs X 1% 
+Factoring – 75 lakhs X 0.5% 
+Net Savings in bad debts cost   
+ 
+ 
+ 
+(75 lakhs X 0.5%) 
+ 
+ 
+ 
+37,500 
+ 
+Cost of Carrying Debtors Cost    
+(WN – 1) 
+1,06,750 
+ 
+TOTAL 
+ 
+1,89,250 
+(B) 
+Cost to the Firm: 
+ 
+ 
+Downloaded from castudyweb.com
+<<PAGE 5>>
+5 
+ 
+Factor 
+Commission 
+[Annual 
+credit Sales × % of Commission] 
+75 lakhs X 1.5% 
+ 1,12,500 
+ 
+Interest Cost on Net advances   
+(See WN – 1) 
+53,100 
+ 
+TOTAL 
+ 
+1,65,600 
+(C) 
+Net Benefits to the Firm (A – B) 
+ 
+23,650 
+ 
+Advice: Since the savings to the firm exceed the cost due to factoring, 
+the proposal is acceptable. 
+ 
+WN-1 : Calculation of Savings in Interest Cost of Carrying Debtors  
+(I)  
+In house Management:    
+ 
+Interest Cost = Credit Sales X Avg Collection Period / 360 X Interest 
+(%) p.a 
+ 
+ 
+= 75,00,000 x 60/360 x 10%  
+ 
+ 
+= 1,25,000 
+(II)  If Factoring services availed:  If factoring services are availed, 
+then Sukrut Limited must raise the funds blocked in receivables to 
+the extent which is not funded by the factor (i.e amount of factor 
+reserve (+) amount of factor commission for 30 days (+) 20% of net 
+advances)  
+ 
+Calculation of Net Advances to the firm -  
+ 
+Debtors = 75 lakhs x 30/360 = 6,25,000 
+ 
+(-) Factor Reserve = 10% of above = (62,500) 
+ 
+(-) Factor Commission = 1.5% of Debtors = (9,375) 
+ 
+Net Advance = 5,53,125 
+ 
+Advance from Factor = 5,53,125 x 80% = 4,42,500 
+ 
+Int cost on Advance from Factor = 4,42,500 x 12% = 53,100  
+ 
+Now, the amount that is not funded by the factor (6,25,000 - 
+4,42,500) needs to be funded by Sukrut Limited from overdraft 
+facility at 10%      
+ 
+Therefore, Int cost on Overdraft (Cost of carrying debtors)  
+= 1,82,500 x 10% = 18,250  
+ 
+Net Savings in Interest Cost of Carrying Debtors = 1,25,000 (-) 
+18,250 = 1,06,750 
+(b)  Level of investment depends on the various factors listed below: 
+(a) 
+Nature of Industry:  Construction companies, breweries etc. 
+requires large investment in working capital due long gestation 
+period. 
+(b) Types of products: Consumer durable has large inventory as 
+compared to perishable products. 
+Downloaded from castudyweb.com
+<<PAGE 6>>
+6 
+(c) 
+Manufacturing Vs Trading Vs Service:  A manufacturing entity 
+has to maintain three levels of inventory i.e. raw material, work-in-
+process and finished goods whereas a trading and a service entity 
+has to maintain inventory only in the form of trading stock and 
+consumables respectively.    
+(d) Volume of sales:  Where the sales are high, there is a possibility 
+of high receivables as well. 
+(e) 
+Credit policy: An entity whose credit policy is liberal has not only 
+high level of receivables but may require more capital to fund raw 
+material purchases as that will depend on credit period allowed by 
+suppliers.  
+3.  
+(a)  WN-1 : Calculation of Cost of Debt (Kd) 
+Approximation Method =  
+Int (1-t)+(RV – NP)/N
+(RV + NP) / 2
+ 
+RV = 100 + 10% = 110, NP = 105 - 4% = 100.8  
+= 
+10 (1- 0.25)+(110 – 100.8)/10
+(110 + 100.8) / 2
+ = 7.99% 
+YTM Method: 
+ 
+CMP (Po) (-) Floatation Cost = {Int(1-t) × PVAF (r%,10years)} + {RV × 
+PVIF (r%,10th Year)} 
+ 
+105 - 4% = {10 (1 – 0.25) × PVAF (r%,10 years)} + {110 × PVIF (r%,10th 
+year)} 
+ 
+Using trial and error method, NPV at 5% & 10%   
+Year 
+Cash 
+flows 
+Disc 
+Factor @ 
+5% 
+PV (`) 
+Disc Factor 
+@ 10% 
+PV (`) 
+0 
+-100.8 
+1 
+-100.8 
+1 
+-100.8 
+1 to 10 
+7.5 
+7.7217 
+57.91275 
+6.1446 
+46.0845 
+10 
+110 
+0.6139 
+67.529 
+0.3855 
+42.405 
+ 
+ 
+ 
+24.64175 
+ 
+-12.3105 
+ 
+IRR = 5+
+24.64175
+24.64175-(-12.3105) X (10-5) = 8.33% 
+ 
+Therefore overall cost of debt (Kd) = (7.99 + 8.33) / 2 = 8.16% 
+ 
+ 
+WN-2 : Calculation of Cost of Preference (Kp) 
+Approximation Method =  
+Pref. Div.+(RV – NP)/N
+(RV + NP) / 2
+ 
+ 
+RV = 100 NP = 115 - 2% = 112.7 
+= 
+12 +(100 – 112.7)/10
+(100 + 112.7) / 2
+= 10.09% 
+Downloaded from castudyweb.com
+<<PAGE 7>>
+7 
+YTM Method: 
+CMP (Po) (-) Floatation Cost = {Pref Div × PVAF (r%,10years)} + {RV × 
+PVIF (r%,10th Year)} 
+115 - 2% = {12 × PVAF (r%,10 years)} + {100 × PVIF (r%,10th year)} 
+Using trial and error method, NPV at 5% & 10%   
+Year 
+Cash 
+flows 
+Disc Factor 
+@ 5% 
+PV (`) 
+Disc Factor 
+@ 10% 
+PV (`) 
+0 
+-112.7
+1 
+-112.7
+1 
+-112.7
+1 to 10 
+12 
+7.7217 
+92.6604 
+6.1446 73.7352 
+10 
+100 
+0.6139 
+61.39 
+0.3855 
+38.55 
+41.3504 
+-0.4148
+IRR = 5+
+41.3504
+41.3504 -(-0.4148) X (10-5) = 9.95% 
+Therefore, overall cost of debt (Kp) = (10.09 + 9.95) / 2 = 10.02% 
+WN-3 : Calculation of Cost of equity (Ke) 
+Ke = {D1 / (Po - Floatation)} + G 
+= {2+9% / 27 – 4.5} + 0.09 
+= 18.69% 
+Calculation of WACC using market value weights 
+Source of 
+Capital 
+Working 
+Market 
+Value 
+Weigh
+ts 
+Cost 
+(K) 
+WACC 
+(Ko) 
+(`) 
+(A) 
+(B) 
+(A x B) 
+Equity 
+27 x 150000 
+40,50,000 0.7377 
+18.69 
+13.7877 
+Reserves 
+Included 
+in 
+equity 
+- 
+- 
+- 
+- 
+Preference 
+115 x 7500 
+8,62,500 0.1571 
+10.02 
+1.5741 
+Debentures 
+105 x 5500 
+5,77,500 0.1052 
+8.16 
+0.8584 
+54,90,000 
+1 
+16.22% 
+WACC (Ko) = 16.22% 
+(b)
+Change in Reserve & Surplus = ` 25, 00,000 – ` 20,00,000 = 
+` 5,00,000
+So, Net profit = ` 5, 00,000
+(i)
+Net Profit Ratio = 8%
+ 
+∴Sales = 5,00,000 = 62,50,000
+8%
+`
+(ii)
+Cost of Goods sold
+Downloaded from castudyweb.com
+<<PAGE 8>>
+8 
+= Sales – Gross profit Margin 
+= ` 62, 50,000 – 20% of ` 62, 50,000 
+= ` 50, 00,000  
+(iii)
+Fixed Assets
+=  
+30,00,000 = 75,00,000
+40%
+`
+`
+(iv)
+Stock
+= Cost of Goods Sold
+50,00,000
+=
+=  12,50,000
+STR 
+4
+`
+(v)
+Debtors
+= 62,50,000 ×90 =  15,62,500
+360
+`
+(vi)
+Cash Equivalent  = 50,00,000 ×1.5 =  6,25,000
+12
+`
+Balance Sheet as on 31st March 2024 
+Liabilities 
+(`) 
+Assets 
+(`) 
+Share Capital 
+50,00,000 Fixed Assets 
+75,00,000 
+Reserve and Surplus 
+25,00,000 Sundry Debtors 
+15,62,500 
+Long-term loan 
+30,00,000 Closing Stock 
+12,50,000 
+Sundry
+Creditors 
+(Balancing Figure) 
+4,37,500 Cash in hand 
+6,25,000 
+1,09,37,500 
+1,09,37,500 
+4.
+(a)  Though in a sole proprietorship firm, partnership etc., owners participate
+in management but in corporates, owners are not active in management 
+so, there is a separation between owner/ shareholders and managers. 
+In theory managers should act in the best interest of shareholders 
+however in reality, managers may try to maximise their individual goal 
+like salary, perks etc., so there is a principal agent relationship 
+between managers and owners, which is known as Agency 
+Problem. In a nutshell, Agency Problem is the chances that managers 
+may place personal goals ahead of the goal of owners. Agency Problem 
+leads to Agency Cost. Agency cost is the additional cost borne by the 
+shareholders to monitor the manager and control their behaviour so as 
+to maximise shareholders wealth. Generally, Agency Costs are of four 
+types (i) monitoring (ii) bonding (iii) opportunity (iv) structuring. 
+Addressing the agency problem 
+The agency problem arises if manager’s interests are not aligned to the 
+interests of the debt lender and equity investors. The agency problem of 
+debt lender would be addressed by imposing negative covenants i.e. the 
+managers cannot borrow beyond a point. This is one of the most 
+important concepts of modern day finance and the application of this 
+would be applied in the Credit Risk Management of Bank, Fund Raising, 
+Valuing distressed companies. 
+Downloaded from castudyweb.com
+<<PAGE 9>>
+9 
+ 
+Agency problem between the managers and shareholders can be 
+addressed if the interests of the managers are aligned to the interests of 
+the share- holders. It is easier said than done. 
+ 
+However, following efforts have been made to address these issues: 
+♦ 
+Managerial compensation is linked to profit of the company to some 
+extent and also with the long term objectives of the company. 
+♦ 
+Employee is also designed to address the issue with the underlying 
+assumption that maximisation of the stock price is the objective of 
+the investors. 
+♦ 
+Effecting monitoring can be done. 
+ 
+(b)  (i) 
+Sales and Lease Back: Under this type of lease, the owner of an 
+asset sells the asset to a party (the buyer), who in turn leases back 
+the same asset to the owner in consideration of a lease rentals. 
+Under this arrangement, the asset is not physically exchanged but 
+it all happen in records only.  The main advantage of this method 
+is that the lessee can satisfy himself completely regarding the 
+quality of an asset and after possession of the asset convert the 
+sale into a lease agreement.   
+ 
+Under this transaction, the seller assumes the role of lessee (as the 
+same asset which he has sold came back to him in the form of 
+lease) and the buyer assumes the role of a lessor (as asset 
+purchased by him was leased back to the seller). So, the seller gets 
+the agreed selling price and the buyer gets the lease rentals. 
+(ii) 
+Leveraged Lease: Under this lease, a third party is involved 
+besides lessor and the lessee. The lessor borrows a part of the 
+purchase cost (say 80%) of the asset from the third party i.e., lender 
+and asset so purchased is held as security against the loan.  The 
+lender is paid off from the lease rentals directly by the lessee and 
+the surplus after meeting the claims of the lender goes to the lessor.  
+The lessor is entitled to claim depreciation allowance. 
+(iii) Sales-aid Lease: Under this lease contract, the lessor enters into 
+a tie up with a manufacturer for marketing the latter’s product 
+through his own leasing operations, it is called a sales-aid lease. In 
+consideration of the aid in sales, the manufacturer may grant either 
+credit or a commission to the lessor. Thus, the lessor earns from 
+both sources i.e. From lessee as well as the manufacturer. 
+(iv) Close-ended and Open-ended Leases: In the close-ended lease, 
+the assets get transferred to the lessor at the end of lease, the risk 
+of obsolescence, residual value etc., remain with the lessor being 
+the legal owner of the asset.  In the open-ended lease, the lessee 
+has the option of purchasing the asset at the end of the lease 
+period. 
+Downloaded from castudyweb.com
+<<PAGE 10>>
+10 
+(c)  The basic objective of financial management is to design an appropriate 
+capital structure which can provide the highest wealth, i.e., highest MPS, 
+which in turn depends on EPS.  
+ 
+Given a level of EBIT, EPS will be different under different financing mix 
+depending upon the extent of debt financing. The effect of leverage on 
+the EPS emerges because of the existence of fixed financial charge i.e., 
+interest on debt, financial fixed dividend on preference share capital. The 
+effect of fixed financial charge on the EPS depends upon the relationship 
+between the rate of return on assets and the rate of fixed charge. If the 
+rate of return on assets is higher than the cost of financing, then the 
+increasing use of fixed charge financing (i.e., debt and preference share 
+capital) will result in increase in the EPS. This situation is also known as 
+favourable financial leverage or Trading on Equity. On the other hand, if 
+the rate of return on assets is less than the cost of financing, then the 
+effect may be negative and, therefore, the increasing use of debt and 
+preference share capital may reduce the EPS of the firm.  
+ 
+The fixed financial charge financing may further be analysed with 
+reference to the choice between the debt financing and the issue of 
+preference shares. Theoretically, the choice is tilted in favour of debt 
+financing for two reasons: (i) the explicit cost of debt financing i.e., the 
+rate of interest payable on debt instruments or loans is generally lower 
+than the rate of fixed dividend payable on preference shares, and (ii) 
+interest on debt financing is tax-deductible and therefore the real cost 
+(after-tax) is lower than the cost of preference share capital. 
+OR 
+(c)  When the cost of ‘fixed cost fund’ is less than the return on investment, 
+financial leverage will help to increase return on equity and EPS. The 
+firm will also benefit from the saving of tax on interest on debts etc. 
+However, when cost of debt will be more than the return it will affect 
+return of equity and EPS unfavourably and as a result firm can be under 
+financial distress. Therefore, financial leverage is also known as “double 
+edged sword”. 
+Effect on EPS and ROE: 
+When, ROI > Interest – Favourable – Advantage 
+When, ROI < Interest – Unfavourable – Disadvantage 
+When, ROI = Interest – Neutral – Neither advantage nor disadvantage 
+ 
+Downloaded from castudyweb.com
+<<PAGE 11>>
+11 
+PAPER 6B: STRATEGIC MANAGEMENT 
+ANSWERS 
+PART I 
+1. (A) 
+(i)  
+(c) 
+(ii) 
+(b) 
+(iii)  
+(c) 
+(iv)  
+(a) 
+(v)  
+(c) 
+1. (B) 
+(i)  
+(a) 
+(ii) 
+(c) 
+(iii)  
+(a) 
+ 
+ 
+ 
+ 
+PART II 
+1.  
+(a)  The collaboration between TechNova, a software development firm, and 
+ElectroWave, an electronics and hardware manufacturing company, 
+represents a co-generic merger. This type of external growth strategy 
+involves the merger of companies from related but non-competing 
+industries, allowing them to leverage complementary strengths and 
+diversify their product offerings. 
+ 
+TechNova specializes in creating cutting-edge software, while 
+ElectroWave focuses on manufacturing advanced electronic devices. By 
+joining forces, they can combine their expertise to design innovative 
+laptops and smartphones, creating products that neither company could 
+have developed as effectively on their own. This strategic partnership 
+allows them to enter new markets, enhance their competitive advantage, 
+and explore synergies between software and hardware. 
+ 
+The co-generic merger provides significant opportunities for both 
+companies to capitalize on shared technologies, streamline their 
+operations, and expand their customer base. It is a strategic move that 
+enables them to diversify while maintaining a strong focus on their core 
+competencies, ultimately helping them to grow and compete more 
+effectively in the global market. 
+(b)  Vikram Patel is facing declining sales due to a significant shift of 
+customers toward online platforms. Although he employs strategic 
+management tools, they cannot always overcome every obstacle or 
+guarantee success. The limitations of strategic management in Vikram’s 
+situation include: 
+ 
+The environment in which strategies are developed is highly 
+complex and unpredictable. The entry of online bookstores, a new 
+type of competitor, introduced a different dynamic to the book retail 
+industry. These online platforms, with their extensive reach and 
+pricing power, have dominated the market, posing a formidable 
+challenge to traditional bookstores. 
+ 
+Another limitation of strategic management is the difficulty in 
+forecasting 
+future 
+developments. 
+Despite 
+his 
+strategic 
+management efforts, Vikram Patel did not anticipate the extent to 
+which online bookstores would impact his sales. 
+ 
+While strategic management is a time-consuming process, it is 
+crucial for Vikram to continue managing strategically. These 
+Downloaded from castudyweb.com
+<<PAGE 12>>
+12 
+challenging times demand increased effort and adaptability on his 
+part. 
+ 
+Strategic management can be costly. Vikram Patel might consider 
+hiring experts to understand customer preferences better and 
+adjust his strategies to offer more personalized services. These 
+customized offerings could be difficult for online stores to replicate, 
+giving him a competitive edge. 
+ 
+The bookstores owned by Vikram Patel are much smaller in scale 
+compared to online stores. This makes it challenging for him to 
+predict how online platforms will manoeuvre strategically. 
+(c)  The scenario being referred to is the organizational culture at Orion Tech 
+Solutions Pvt. Ltd. A strong culture encourages effective strategy 
+execution when there is alignment and drives performance even when 
+there is minimal alignment. A culture rooted in values, practices, and 
+behavioural norms that align with the requirements for successful 
+strategy execution energizes employees across the organization to 
+perform their roles in a manner that supports the strategy. Orion's 
+culture, built around principles such as listening to customers, 
+encouraging employees to take pride in their work, and providing a high 
+degree of decision-making autonomy, is highly conducive to successfully 
+executing a strategy focused on delivering superior software solutions. 
+A strong strategy-supportive culture at Orion makes employees feel 
+genuinely better about their jobs, work environment, and the 
+organization's goals. It motivates them to embrace the challenge of 
+realizing the company’s vision, perform their duties competently and 
+enthusiastically, and collaborate effectively with others. 
+2.  
+(a)  As industry’s Key Success Factors (KSFs) are those things that most 
+affect industry members’ ability to prosper in the marketplace – the 
+particular 
+strategy 
+elements, 
+product 
+attributes, 
+resources, 
+competencies, competitive capabilities and business outcomes that spell 
+the difference between profit & loss and ultimately, between competitive 
+success or failure. KSFs by their very nature are so important that all 
+firms in the industry must pay close attention to them. They are the 
+prerequisites for industry success, or, to put it in another way, KSFs are 
+the rules that shape whether a company will be financially and 
+competitively successful. 
+(b)  Channels 
+represent 
+the 
+distribution 
+system 
+through 
+which 
+organizations distribute their products or provide services to customers. 
+They play a pivotal role in reaching target markets, maximizing sales, 
+and establishing competitive advantages.  
+Channel analysis is important when the business strategy is to scale up 
+and expand beyond the current geographies and markets. When a 
+business plans to grow to newer markets, they need to develop or 
+leverage existing channels to get to new customers. Thus, analysis of 
+channels that suit one’s products and customers is of utmost importance. 
+Downloaded from castudyweb.com
+<<PAGE 13>>
+13 
+There are typically three channels that should be considered: sales 
+channel, product channel and service channel. 
+♦ 
+The sales channel - These are the intermediaries involved in 
+selling the product through each channel and ultimately to the end 
+user. The key question is: Who needs to sell to whom for your 
+product to be sold to your end user? For example, many fashion 
+designers use agencies to sell their products to retail organizations, 
+so that consumers can access them. 
+♦ 
+The product channel - The product channel focuses on the series 
+of intermediaries who physically handle the product on its path from 
+its producer to the end user. This is true of Australia Post, who 
+delivers and distributes many online purchases between the seller 
+and purchaser when using eBay and other online stores. 
+♦ 
+The service channel - The service channel refers to the entities 
+that provide necessary services to support the product, as it moves 
+through the sales channel and after purchase by the end user. The 
+service channel is an important consideration for products that are 
+complex in terms of installation or customer assistance. For 
+example, a Bosch dishwasher may be sold in a Bosch showroom, 
+and then once sold it is installed by a Bosch contracted plumber. 
+3.  
+(a)  A strategic vision serves as a roadmap for a company’s future, detailing 
+the specifics of technology, customer focus, geographic and product 
+markets, and the capabilities the organization aims to develop. It 
+answers the critical question, “Where are we going?” and provides a 
+compelling rationale for the chosen direction, ensuring it aligns with the 
+company’s long-term objectives. 
+ 
+A strategic vision outlines the organization’s aspirations, offering a 
+broad, panoramic view of where it aims to be. It provides a clear 
+direction, charts a strategic path for future endeavors, and helps in 
+shaping the organizational identity. 
+ 
+Essentials of a strategic vision 
+♦ 
+The entrepreneurial challenge in developing a strategic vision is to 
+think creatively about how to prepare a company for the future. 
+♦ 
+Forming a strategic vision is an exercise in intelligent 
+entrepreneurship. 
+♦ 
+A well-articulated strategic vision creates enthusiasm among the 
+members of the organization. 
+♦ 
+The best-worded vision statement clearly illuminates the 
+direction in which organization is headed.  
+(b)  The strategy in question is the growth/expansion strategy. 
+ 
+The Growth/Expansion strategy involves redefining the business, 
+expanding its scope, and significantly increasing investments. This 
+dynamic and vigorous approach is synonymous with promise and 
+Downloaded from castudyweb.com
+<<PAGE 14>>
+14 
+success. It entails a substantial reformulation of goals, major initiatives, 
+and strategic moves, including investments, exploration into new 
+products, technologies, and markets, and innovative decision-making. 
+While promising growth, this strategy navigates the enterprise through 
+relatively unknown and risky paths, rich with potential but also pitfalls. 
+ 
+Major Reasons for Adopting Growth/Expansion Strategy: 
+• 
+It may become imperative when environment demands increase in 
+pace of activity. 
+• 
+Strategists may feel more satisfied with the prospects of growth 
+from expansion; chief executives may take pride in presiding over 
+organizations perceived to be growth-oriented. 
+• 
+Expansion may lead to greater control over the market vis-a-vis 
+competitors. 
+• 
+Advantages from the experience curve and scale of operations may 
+accrue. 
+• 
+Expansion also includes intensifying, diversifying, acquiring and 
+merging businesses. 
+4.  
+(a)  Implementation or execution is an operations-oriented, activity aimed 
+at shaping the performance of core business activities in a strategy-
+supportive manner. In most situations, strategy-execution process 
+includes the following principal aspects:  
+♦ 
+Developing budgets that steer ample resources into those 
+activities that are critical to strategic success. 
+♦ 
+Staffing the organization with the needed skills and expertise, 
+consciously 
+building 
+and 
+strengthening 
+strategy-supportive 
+competencies and competitive capabilities and organizing the work 
+effort.  
+♦ 
+Ensuring that policies and operating procedures facilitate 
+rather than impede effective execution.  
+♦ 
+Using the best-known practices to perform core business 
+activities and pushing for continuous improvement.  
+♦ 
+Installing information and operating systems that enable 
+company personnel to better carry out their strategic roles day in 
+and day out.  
+♦ 
+Motivating 
+people 
+to 
+pursue 
+the 
+target 
+objectives 
+energetically.  
+♦ 
+Creating culture and climate conducive to successful strategy 
+implementation and execution.  
+♦ 
+Exerting the internal leadership needed to drive implementation 
+forward and keep improving strategy execution.  
+Downloaded from castudyweb.com
+<<PAGE 15>>
+15 
+(b)  The PESTLE framework assists in analyzing the macro-environment by 
+systematically 
+evaluating 
+six 
+external 
+factors 
+that 
+impact 
+an 
+organization’s operations and strategy. 
+1. 
+Political Factors: This includes government policies, regulations, 
+political stability, and taxation. Understanding these factors helps 
+organizations anticipate regulatory changes and government 
+interventions that could affect their business environment. 
+2. 
+Economic Factors: This involves assessing economic conditions 
+such as interest rates, inflation, exchange rates, and economic 
+growth. These factors influence business costs, consumer 
+purchasing power, and overall market conditions. 
+3. 
+Social Factors: This examines demographic trends, lifestyle 
+changes, cultural norms, and consumer attitudes. Insights into 
+social factors help businesses align their products and services 
+with evolving consumer preferences and societal trends. 
+4. 
+Technological Factors: This includes technological advancements, 
+innovation rates, and technological infrastructure. These factors 
+impact production processes, product development, and competitive 
+positioning. 
+5. 
+Legal Factors: This involves understanding business laws, 
+employment regulations, health and safety standards, and compliance 
+requirements. Legal factors are crucial for ensuring regulatory 
+compliance and avoiding legal risks. 
+6. 
+Environmental Factors: This covers ecological issues, sustainability 
+practices, 
+and 
+environmental 
+regulations. 
+Awareness 
+of 
+environmental factors helps businesses adapt to climate change and 
+meet sustainability goals. 
+By analyzing these factors, the PESTLE framework provides a 
+comprehensive understanding of the macro-environment, helping 
+organizations anticipate changes, adapt strategies, and make 
+informed decisions. 
+OR 
+ 
+A tool to identify the market positions of rival companies by grouping 
+them into like positions is strategic group mapping. A strategic group 
+consists of those rival firms which have similar competitive approaches 
+and positions in the market.  
+The procedure for constructing a strategic group map and deciding 
+which firms belong in which strategic group are as follows: 
+1. 
+Identify the competitive characteristics that differentiate firms in 
+the industry typical variables that are price/quality range (high, 
+medium, low); geographic coverage (local, regional, national, 
+global); degree of vertical integration (none, partial, full); product-
+line breadth (wide, narrow); use of distribution channels (one, 
+some, all); and degree of service offered (no-frills, limited, full). 
+Downloaded from castudyweb.com
+<<PAGE 16>>
+16 
+2. 
+Plot the firms on a two-variable map using pairs of these 
+differentiating characteristics. 
+3. 
+Assign firms that fall in about the same strategy space to the 
+same strategic group. 
+4. 
+Draw circles around each strategic group making the circles 
+proportional to the size of the group's respective share of total 
+industry sales revenues. 
+ 
+Downloaded from castudyweb.com

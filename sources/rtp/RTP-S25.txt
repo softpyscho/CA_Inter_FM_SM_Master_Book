@@ -1,0 +1,3147 @@
+<<PAGE 1>>
+ 
+6A: FINANCIAL MANAGEMENT 
+ 
+QUESTIONS 
+Case Scenarios 
+1. 
+Mint Technologies, a startup in the IT infrastructure space, is planning to 
+enter the computer networking market with a specialized offering—VPN 
+connectivity solutions for enterprises with distributed office networks. 
+The company recently won a significant tender from a major national 
+bank to set up secure VPN connections across 100 branches. The 
+leadership team is excited but cautious, as this move requires significant 
+upfront investment and ongoing operational capability. 
+ 
+To evaluate the financial viability of this project, you have been hired as 
+a consultant. 
+• 
+They have forecasted their numbers for 5 years and they have 
+assumed that they will grow at industry average (3%) afterwards.  
+• 
+Mint will invest all the money for CAPEX in the infrastructure and 
+equipment. Mint is planning to issue 50Mn shares in lieu of the 
+amount.  
+• 
+Mint will have to keep upgrading the infrastructure and equipment 
+to cover different offices of various clients.  
+• 
+Mint expects an initial investment of around ` 150 Mn in network 
+access as an initial setup cost for connecting different offices. Mint 
+PAPER – 6:  
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+© The Institute of Chartered Accountants of India 
+<<PAGE 2>>
+ 
+INTERMEDIATE EXAMINATION 
+2 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+needs to invest additional `10 Mn every year starting from 
+beginning and is expected to grow 10% every year.  
+•
+The equipment investment varies with number of branches/
+offices. This varies with time and currently it is ` 0.1 Mn per office.
+•
+Initially, Mint has won a tender of 100 branches of a bank and 
+expecting it to grow at 30% for next 5 years.
+•
+Mint is expecting to have a maintenance cost of 10% for 
+equipment and 15% for network.
+•
+To handle all this, current manpower cost is ` 1 Mn
+•
+Mint has entered into an agreement with local authority and has 
+agreed to share 15% of the revenue with the same.
+•
+Mint is expecting to generate revenue of ` 0.5 Mn per office and 
+to remain competitive in the market, it is not going to increase 
+with inflation.
+•
+Capital expenditure and operating expenses will grow 10% every 
+year.
+•
+Tax slab in the country is 30% and depreciation of the equipment 
+and network is assumed to be 10%. Discounting rate is 20%.
+•
+Assume all the expenditure including initial setup cost from year 1.
+Based on the above information, you are required to answer 
+following 5 MCQs: 
+(i)
+What is the CFAT for year 1?
+(a)
+-15,33,50,000
+(b)
+1,00,17,000
+(c)
+1,75,73,810
+(d)
+2,74,29,367
+(ii)
+What is the CFAT for year 5?
+(a)
+-15,33,50,000
+(b)
+1,00,17,000
+© The Institute of Chartered Accountants of India
+<<PAGE 3>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+3 
+ 
+SEPTEMBER 2025 EXAMINATION 
+REVISION TEST PAPER 
+(c)  
+4,02,25,268 
+(d)  
+2,74,29,367 
+(iii)  Calculate the terminal value 
+(a)  
+` 24,37,17,801 
+(b)  
+` 9,79,74,556 
+(c)  
+` 6,38,54,064  
+(d)  
+` 21,32,20,955 
+(iv)  What is the total present value of the mint technologies? 
+(a)  
+` 1,89,77,337 
+(b)  
+` 1,32,20,955 
+(c)  
+` 1,67,06,548 
+(d)  
+` 89,97,791 
+(v)  
+Calculate the IRR for the company 
+(a)  
+22.60% 
+(b)  
+15.39% 
+(c)  
+20.25% 
+(d)  
+24.68% 
+Ratio Analysis and Leverages 
+2.  
+A manufacturing company which is presently growing at a good rate has 
+a Financial Leverage of 3. Its present borrowings are as follows: 
+12% Term Loan  
+ 
+ 
+` 60,00,000 
+Bank borrowings@10%  
+` 40,00,000 
+Public Deposits@8% 
+ 
+` 20,00,000 
+The Interest Coverage Ratio will be  
+(a)  
+1.0 
+(b)  
+1.5 
+© The Institute of Chartered Accountants of India 
+<<PAGE 4>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+4 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+(c)  2.0 
+(d)  2.5 
+Cost of Capital 
+3.  
+Consider the below mentioned statements:  
+1.  
+A debt-equity ratio of 2:1 indicates that for every 1 unit of equity, 
+the company can raise 2 units of debt.  
+2.  
+The cost of floating a debt is greater than the cost of floating an 
+equity issue.  
+State True or False:  
+(a)  
+1-True, 2-True  
+(b)  
+1-False, 2-True  
+(c)  
+1-False, 2-False  
+(d)  
+1-True, 2-False  
+Division B: Descriptive Questions 
+Financial Analysis & Planning – Ratio Analysis 
+4. 
+Jamunapati Limited has furnished the following ratios and information 
+relating to the year ended 31st March, 2024: 
+Sales 
+` 70,00,000 
+Return on net worth 
+25% 
+Rate of income tax  
+30% 
+Share capital to reserves  
+7:3 
+Current ratio 
+2 
+Net profit to sales 
+7% 
+Inventory turnover 
+10 
+Cost of goods sold 
+` 24,00,000 
+Interest on 15% debentures 
+` 1,05,000 
+Receivables 
+` 3,00,000 
+Payables 
+` 3,00,000 
+© The Institute of Chartered Accountants of India 
+<<PAGE 5>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+5 
+ 
+SEPTEMBER 2025 EXAMINATION 
+REVISION TEST PAPER 
+You are required to: 
+(a) 
+CALCULATE the operating expenses for the year ended 31st March, 
+2024. 
+(b) 
+PREPARE a Balance Sheet as on 31st March, 2024 in the following 
+format: 
+Balance Sheet as on 31st March, 2024 
+Liabilities 
+` Assets 
+` 
+Share Capital 
+ 
+Fixed Assets 
+ 
+Reserve and Surplus 
+ 
+Current Assets 
+ 
+15% Debentures 
+ 
+Stock 
+ 
+Payables 
+ 
+Receivables 
+ 
+ 
+ 
+Cash 
+ 
+Financing Decision - Cost of Capital  
+5.  
+Lavanya Limited wishes to raise additional finance of ` 20 lakhs for meeting 
+its investment plans. It has ` 4,20,000 in the form of retained earnings 
+available for investment purposes. Further details are as following: 
+(1) 
+Debt / Equity mix 
+3:7 
+(2) 
+Cost of debt: 
+ 
+ 
+Upto ` 3,60,000 
+8% (before tax) 
+ 
+Beyond ` 3,60,000 
+12% (before tax) 
+(3) 
+Earnings per share 
+` 5 
+(4) 
+Dividend pay out 
+40% of earnings  
+(5) 
+Retained Earnings 
+60% 
+(6) 
+Rate of Return on Retained Earnings 
+10% 
+(7) 
+Current market price per share 
+` 53 
+(8) 
+Tax rate 
+30% 
+ 
+You are required to: 
+(a) 
+DETERMINE the pattern for raising the additional finance. 
+© The Institute of Chartered Accountants of India 
+<<PAGE 6>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+6 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+(b) 
+DETERMINE the post-tax average cost of additional debt. 
+(c) 
+DETERMINE the cost of retained earnings and cost of equity. 
+(d) 
+COMPUTE the overall weighted average after tax cost of additional 
+finance. 
+Financing Decision – Capital Structure 
+6.  
+ABC Ltd. is planning to raise `50,00,000 for a major expansion project. 
+The firm is evaluating three financing options: 
+(i)  
+Equity Financing Only 
+ 
+Issuing new shares at `10 each (Issue price: `10, but flotation cost 
+per share: `0.50). 
+ 
+Existing equity shares: 10,00,000. 
+ 
+Market price per share: `20. 
+(ii)  
+Debt Financing Only 
+ 
+Borrow `50,00,000 at 12% interest. 
+ 
+Flotation cost on debt: 2% of the face value. 
+ 
+The lender imposes a debt covenant limiting the interest coverage 
+ratio (EBIT/Interest) to a minimum of 2.5. 
+(iii)  Mix of Equity and Debt Financing 
+ 
+Raise `25,00,000 through equity (floatation cost: `0.50/share at  
+` 10 issue price). 
+ 
+Raise `25,00,000 through debt at 12% interest (floatation cost: 
+2%). 
+Additional Information 
+(i)  
+Project EBIT: `15,00,000 annually. 
+(ii)  
+Corporate tax rate: 30%. 
+(iii)  Existing shares: 10,00,000. 
+(iv)  Risk-free rate: 6%, Market return: 14%, Equity beta: 1.2. 
+ 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 7>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+7 
+ 
+SEPTEMBER 2025 EXAMINATION 
+REVISION TEST PAPER 
+From the above information: 
+1. 
+CALCULATE the net proceeds from each financing method (after 
+floatation costs) and determine the number of new shares issued 
+in Option (i) and Option (iii). 
+2. 
+For debt options, CHECK if the interest coverage ratio complies 
+with the covenant (minimum 2.5). 
+3. 
+COMPUTE EPS under each option. 
+4. 
+COMPUTE the WACC under each option, considering the impact of 
+floatation costs on capital raised. 
+ 
+ADVISE which financing option is best from both an EPS and WACC 
+perspective. 
+Financing Decision – Leverages 
+7.  
+X Limited and Y Limited are two mid-sized companies operating in the 
+same competitive industry. Both companies have recently undergone a 
+financial performance review to assess their operational efficiency, cost 
+structure, and overall financial risk. You, as a financial analyst, have been 
+provided with selective financial indicators and are required to draw 
+insights and comparisons based on leverage analysis and income 
+statement reconstruction. 
+ 
+The management of X Limited has disclosed that the company is 
+currently operating with a Margin of Safety (M/S) ratio of 0.1667. In 
+contrast, Y Limited has a Margin of Safety that is twice as high as that of 
+X Limited. 
+ 
+Both companies maintain a Financial Leverage of 3. Their variable cost 
+ratios are 60% for X Limited and 50% for Y Limited. 
+ 
+In terms of financing costs, X Limited incurs an annual interest expense 
+of `30,000. Y Limited, however, incurs an interest cost that is 300% 
+higher than X Limited. Both companies are subject to a corporate tax 
+rate of 30%, which affects their net profitability after interest and taxes. 
+ 
+You are required to PREPARE Income statement for both the companies 
+and IDENTIFY the company which is better placed with reasons based on 
+leverages. 
+© The Institute of Chartered Accountants of India 
+<<PAGE 8>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+8 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+Dividend Decision 
+8.  
+In the month of April of the current Financial Year, shares of PQR Ltd. 
+were sold for ` 1,570 per share. A long-term earnings growth rate of 8% 
+is anticipated. PQR Ltd. paid dividend of ` 25 per share.  
+(i)  
+CALCULATE rate of return an investor can expect to earn assuming 
+that dividends are expected to grow along with earnings at 8% per 
+year in perpetuity.  
+(ii)  
+It is expected that PQR Ltd. will earn about 10% on retained 
+earnings and shall retain 60% of earnings. In this case, STATE 
+whether, there would be any change in growth rate and cost of 
+Equity?   
+Management of Working Capital  
+9.  
+A firm has a total sale of ` 200 lakhs of which 80% is on credit. It is 
+offering credit terms of 2/40, net 120. Of the total, 50% of customers 
+avail of discount and the balance pay in 120 days. Past experience 
+indicates that bad debt losses are around 1.5% of credit sales. The firm 
+spends about ` 2,40,000 per annum to administer its credit sales. These 
+are avoidable as a factor is prepared to buy the firm's receivables. He 
+will charge 2% commission. He will pay advance against receivables to 
+the firm at an interest rate of 18% after withholding 10% as reserve. 
+(i) 
+DETERMINE the effective cost of factoring? Consider year as 360 
+days. 
+(ii) 
+If bank finance for working capital is available at 12% interest, 
+ADVISE, should the firm avail of factoring service 
+Miscellaneous 
+10.  (a) 
+Contemplate the list of features given below and IDENTIFY each one 
+of them with the most relevant sources of funds: 
+(i)  
+It is the most expensive source of funds. 
+(ii)  
+It entails a high degree of risk since they have to be repaid as 
+per the terms of agreement. 
+© The Institute of Chartered Accountants of India 
+<<PAGE 9>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+9 
+ 
+SEPTEMBER 2025 EXAMINATION 
+REVISION TEST PAPER 
+(iii)  It supports businesses in their routine activities. 
+(iv)  Business enterprise has options to raise capital from 
+International markets also. 
+(v)  This source of finance sometimes is the last option for 
+startups which doesn’t qualify for bank funding 
+(b)  Trade credit and bank overdraft are two commonly used short-
+term financing sources but each has distinct features. On the light 
+of the statement SHOW the difference between trade credit and 
+bank overdraft.  
+(c)  
+ABC Ltd. is a manufacturing company experiencing rapid sales 
+growth. To meet the increased demand, the company has started 
+maintaining higher inventory levels and offering more generous 
+credit terms to customers. However, its cash reserves are 
+depleting, and it is facing difficulties in paying suppliers on time. 
+As a financial analyst, apply your understanding of the scope of 
+working capital management to ANALYZE the trade-offs the 
+company is making between different components of working 
+capital (inventory, receivables, advances, payables, and cash). 
+ 
+SUGGESTED ANSWERS/HINTS 
+Division A: Case Scenario 
+Q. No. 
+ 
+Hints 
+1. 
+(i) 
+(a) -15,33,50,000  
+ 
+(ii) 
+(c) 4,02,25,268 
+ 
+(iii) 
+(a) ` 24,37,17,801 
+ 
+(iv) 
+(c) ` 1,67,06,548 
+ 
+(v) 
+(d) 24.68% 
+ 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 10>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+10 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+Calculation of CFAT 
+Particulars 
+ Year 1 
+ Year 2 
+ Year 3 
+ Year 4 
+ Year 5 
+Number of Offices 
+(A) 
+100 
+130 
+169 
+219* 
+284* 
+Revenue 
+Per 
+office (B) 
+5,00,000 
+5,00,000 
+5,00,000 
+5,00,000 
+5,00,000 
+Total 
+Revenue 
+(C) (A x B) 
+5,00,00,000 6,50,00,000 8,45,00,000 10,95,00,000 14,20,00,000 
+Operating Cost 
+ 
+ 
+ 
+ 
+ 
+Share 
+of 
+Local 
+Authority 
+75,00,000 
+97,50,000 1,26,75,000 
+1,64,25,000 
+2,13,00,000 
+Manpower Cost 
+10,00,000 
+14,30,000 
+20,44,900 
+29,14,890 
+41,58,044 
+Maintenance Cost 
+for Equipment 
+10,00,000 
+13,30,000 
+18,01,900 
+24,67,400 
+34,19,065 
+Maintenance Cost 
+for Network 
+2,40,00,000 2,56,50,000 2,74,65,000 
+2,94,61,500 
+3,16,57,650 
+Total Operating 
+Cost (D) 
+3,35,00,000 3,81,60,000 4,39,86,800 
+5,12,68,790 
+6,05,34,759 
+EBITDA (E) (C-D) 
+1,65,00,000 2,68,40,000 4,05,13,200 
+5,82,31,210 
+8,14,65,241 
+Less: Depreciation  
+1,70,00,000 1,84,30,000 2,01,11,900 
+2,21,08,400 
+2,45,24,165 
+EBIT (F) 
+-5,00,000 
+84,10,000 2,04,01,300 
+3,61,22,810 
+5,69,41,076 
+Less: Taxes 
+-1,50,000 
+25,23,000 
+61,20,390 
+1,08,36,843 
+1,70,82,323 
+PAT (G) 
+-3,50,000 
+58,87,000 1,42,80,910 
+2,52,85,967 
+3,98,58,753 
+Add: Depreciation 
+1,70,00,000 1,84,30,000 2,01,11,900 
+2,21,08,400 
+2,45,24,165 
+CFAT (H) 
+1,66,50,000 2,43,17,000 3,43,92,810 
+4,73,94,367 
+6,43,82,918 
+Less: Capex  
+17,00,00,000 1,43,00,000 1,68,19,000 
+1,99,65,000 
+2,41,57,650 
+Net CFAT (I) 
+-15,33,50,000 1,00,17,000 1,75,73,810 
+2,74,29,367 
+4,02,25,268 
+*Note: Since offices cannot be represented in fractions, the number should be rounded 
+down to the nearest whole number. 
+ 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 11>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+11 
+ 
+SEPTEMBER 2025 EXAMINATION 
+REVISION TEST PAPER 
+Working Note 
+Particulars 
+ Year 1 
+ Year 2 
+ Year 3 
+ Year 4 
+ Year 5 
+Cost  
+ 
+ 
+ 
+ 
+ 
+Manpower Cost 
+(With Inflation)  
+10,00,000 
+11,00,000 
+12,10,000 
+13,31,000 
+14,64,100 
+Manpower Cost 
+per office (With 
+Inflation)  
+ 
+ 
+10,000 
+ 
+ 
+11,000 
+ 
+ 
+12,100 
+ 
+ 
+13,310 
+ 
+ 
+14,641 
+CAPEX  
+ 
+ 
+ 
+ 
+ 
+Additional 
+Branches  
+100 
+30 
+39 
+50 
+65 
+Network CAPEX 
+w/o inflation  
+ 
+16,00,00,000 
+ 
+1,00,00,000 
+ 
+1,00,00,000 
+ 
+1,00,00,000 
+ 
+1,00,00,000 
+Network CAPEX 
+With inflation  
+16,00,00,000 
+1,10,00,000 
+1,21,00,000 
+1,33,10,000 
+1,46,41,000 
+Additional 
+Equipment 
+CAPEX/Branch 
+(with inflation)  
+ 
+ 
+ 
+1,00,000 
+ 
+ 
+ 
+1,10,000 
+ 
+ 
+ 
+1,21,000 
+ 
+ 
+ 
+1,33,100 
+ 
+ 
+ 
+1,46,410 
+CAPEX 
+Schedule  
+ 
+ 
+ 
+ 
+ 
+Network Capex  
+16,00,00,000 
+1,10,00,000 
+1,21,00,000 
+1,33,10,000 
+1,46,41,000 
+Cumulative 
+Capex 
+in 
+Network  
+ 
+ 
+16,00,00,000 
+ 
+ 
+17,10,00,000 
+ 
+ 
+18,31,00,000 
+ 
+ 
+19,64,10,000 
+ 
+ 
+21,10,51,000 
+Additional 
+Equipment 
+CAPEX (in the 
+Year)  
+ 
+ 
+ 
+1,00,00,000 
+ 
+ 
+ 
+33,00,000 
+ 
+ 
+ 
+47,19,000 
+ 
+ 
+ 
+66,55,000 
+ 
+ 
+ 
+95,16,650 
+Cumulative 
+Additional 
+Equipment 
+CAPEX   
+ 
+ 
+ 
+1,00,00,000 
+ 
+ 
+ 
+1,33,00,000 
+ 
+ 
+ 
+1,80,19,000 
+ 
+ 
+ 
+2,46,74,000 
+ 
+ 
+ 
+3,41,90,650 
+ 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 12>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+12 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+Terminal Value (TV) using Gordon Growth Model (GGM) 
+Terminal Year Cash Flow x (1 + g) 
+Terminal Value=
+Ke-g
+ 
+ 
+ 
+ 
+      = 
+(
+)
+4,02,25,268 1+0.03 
+20%-3%
+ = ` 24,37,17,801 
+Calculation of Total PV 
+Year 
+CF 
+PVAF@20% 
+PV 
+1 
+-15,33,50,000 
+0.833 
+-12,77,86,555 
+2 
+1,00,17,000 
+0.694 
+69,51,798 
+3 
+1,75,73,810 
+0.579 
+1,01,75,236 
+4 
+2,74,29,367 
+0.482 
+1,32,20,955 
+5 
+4,02,25,268 
+0.402 
+1,61,70,558 
+5 
+24,37,17,801 
+0.402 
+9,79,74,556 
+Total PV 
+  
+  
+1,67,06,548 
+Calculation of IRR 
+Year 
+Cash Flows 
+PVAF@20% 
+PV 
+PVAF@25% 
+PV 
+1 
+-15,33,50,000 
+0.8333 
+-12,77,86,555 
+0.800 
+-12,26,80,000 
+2 
+1,00,17,000 
+0.694 
+69,51,798 
+0.640 
+64,10,880 
+3 
+1,75,73,810 
+0.579 
+1,01,75,236 
+0.512 
+89,97,791 
+4 
+2,74,29,367 
+0.482 
+1,32,20,955 
+0.410 
+1,12,46,040 
+5 
+4,02,25,268 
+0.402 
+1,61,70,558 
+0.328 
+1,31,93,888 
+5 
+24,37,17,801 
+0.402 
+9,79,74,556 
+0.262 
+6,38,54,064 
+  
+1,67,06,548 
+-1,89,77,337 
+IRR  = 
+(
+)
+L
+L
+H
+NPV
+L+
+H-L
+NPV -NPV
+ 
+H  = Higher rate = 25% 
+L  
+= Lower rate = 20%     
+© The Institute of Chartered Accountants of India 
+<<PAGE 13>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+13 
+ 
+SEPTEMBER 2025 EXAMINATION 
+REVISION TEST PAPER 
+IRR  = 
+(
+)
+1,67,06,548
+20+
+25-20
+1,67,06,548-(-1,89,77,337)
+ 
+      = 20 + 4.68= 24.68% 
+2.  
+(b) 
+Working Notes 
+ 
+Calculation of Interest 
+12% Term Loan 
+ 
+ 
+ 
+ 
+` 7,20,000 
+Bank borrowings@10% 
+ 
+ 
+` 4,00,000 
+Public Deposits@8%  
+ 
+ 
+` 1,60,000 
+Total Interest  
+ 
+ 
+ 
+ 
+` 12,80,000  
+Financial Leverage  
+ 
+ 
+ 
+= EBIT/EBIT – Interest 
+3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+= EBIT/EBIT – 12,80,000 
+Or EBIT   
+ 
+ 
+ 
+ 
+ 
+= 19,20,000 
+So, Interest Coverage Ratio  
+ 
+= EBIT/Interest 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+= 19,20,000/12,80,000 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+= 1.5 
+3. 
+(d)  1-True, 2-False 
+4.  
+(a) 
+Calculation of Operating Expenses for the year ended 31st March, 
+2024 
+ 
+(`) 
+Net Profit [@ 7% of Sales] 
+4,90,000 
+Add: Income Tax (@ 30% of PBT) 
+2,10,000 
+Profit Before Tax (PBT) 
+7,00,000 
+Add: Debenture Interest 
+   1,05,000 
+Profit before interest and tax (PBIT) 
+8,05,000 
+Now, Sales (given) 
+70,00,000 
+24,00,000 
+Less: Cost of goods sold 
+Gross Profit 
+46,00,000 
+© The Institute of Chartered Accountants of India 
+<<PAGE 14>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+14 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+Less: PBIT 
+8,05,000 
+Operating Expenses 
+37,95,000 
+(b) 
+              Balance Sheet as on 31st March, 2024 
+Liabilities 
+`  Assets 
+`  
+Share Capital 
+13,72,000 Fixed Assets 
+23,60,000 
+Reserve and Surplus 
+5,88,000 Current Assets: 
+ 
+15% Debentures 
+70,00,000 
+Stock 
+2,40,000 
+Payables  
+3,00,000 
+Receivables 
+3,00,000 
+ 
+ 
+Cash 
+  60,000 
+ 
+29,60,000  
+29,60,000 
+ 
+Working Notes: 
+ 
+(i) 
+Share Capital and Reserves and Surplus 
+ 
+The return on net worth is 25%. Therefore, the profit after tax 
+of ` 4,90,000 should be equivalent to 25% of the net worth. 
+ 
+Net worth × 
+25
+100   
+= ` 4,90,000  
+ 
+∴ Net worth  
+ 
+= 
+` 4,90,000 × 100
+25
+ = ` 19,60,000 
+ 
+The ratio of share capital to reserves is 7:3 
+ 
+Share Capital  
+ 
+= 19,60,000 ×
+7
+10 = ` 13,72,000 
+ 
+Reserves and Surplus = 19,60,000 × 3
+10 = ` 5,88,000 
+(ii) 
+Debentures 
+ 
+Interest on Debentures @ 15% = ` 1,05,000 
+ 
+∴ Debentures = 
+1,05,000×100
+15
+    = ` 7,00,000 
+ 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 15>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+15 
+ 
+SEPTEMBER 2025 EXAMINATION 
+REVISION TEST PAPER 
+(iii) Current Assets 
+ 
+Current Ratio  
+ 
+= 2 
+ 
+Payables 
+ 
+ 
+= ` 3,00,000 
+ 
+∴ Current Assets  
+= 2 Current Liabilities  
+ 
+ 
+ 
+ 
+ 
+ 
+= 2 × 3,00,000  
+ 
+ 
+ 
+ 
+ 
+ 
+= ` 6,00,000  
+ 
+It is assumed that current liabilities include payables only. 
+(iv) Fixed Assets 
+ 
+` 
+Share capital 
+13,72,000 
+Reserves and Surplus 
+5,88,000 
+Debentures 
+7,00,000 
+Payables 
+3,00,000 
+Total Liabilities 
+29,60,000 
+Less: Current Assets 
+ 6,00,000 
+Fixed Assets 
+23,60,000 
+(v) 
+Composition of Current Assets 
+ 
+Inventory Turnover  = 10 
+ 
+Cost  of  goods  sold
+Closing  stock
+  
+= 10 
+ 
+Closing stock  
+ 
+= 
+` 24,00,000
+10
+ = ` 2,40,000 
+Composition 
+` 
+Stock 
+2,40,000 
+Receivables 
+3,00,000 
+Cash (balancing figure) 
+  60,000 
+Total Current Assets 
+6,00,000 
+ 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 16>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+16 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+5.  
+(a) 
+Pattern for raising the additional finance: 
+Equity  70% of ` 20,00,000 
+= `14,00,000 
+Debt 
+30% of ` 20,00,000 
+= ` 6,00,000 
+ 
+The capital structure after raising additional finance: 
+ 
+ 
+(`) 
+Shareholders’ funds 
+ 
+ 
+Equity Capital 
+(` 14,00,000 – ` 4,20,000) 
+9,80,000 
+Retained earnings 
+ 
+4,20,000 
+Debt (Interest at 8% p.a.)  
+ 
+3,60,000 
+        (Interest at 12% p.a.) 
+(` 6,00,000 – ` 3,60,000) 
+2,40,000 
+Total Funds 
+ 
+20,00,000 
+(b) 
+Determination of post-tax average cost of additional debt: 
+ 
+  
+Kd = I (1 – t) 
+ 
+Where, 
+ 
+  
+I = Interest Rate 
+ 
+  
+t = Corporate tax-rate 
+ 
+  
+On ` 3,60,000 
+=8% (1 – 0.3) =5.6% or 0.056 
+ 
+  
+On ` 2,40,000 
+=12% (1 – 0.3) = 8.4% or 0.084 
+ 
+  
+Average Cost of Debt 
+ 
+  
+=
+(` 3,60,000×0.056)+(` 2,40,000×0.084)
+` 6,00,000
+×100 = 6.72% 
+(c) 
+Determination of cost of retained earnings and cost of equity 
+by applying Dividend growth model: 
+ 
+Ke or Kr =
+D1
+P0 +g = 
+D0(1+g)
+P0
++g 
+ 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 17>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+17 
+ 
+SEPTEMBER 2025 EXAMINATION 
+REVISION TEST PAPER 
+ 
+Where,  
+ 
+  
+D0  = Dividend paid = 40% of EPS = 40% × ` 5 = ` 2 
+ 
+  
+g  = Growth rate = Retained Earnings x Rate of Return 
+ 
+  
+ 
+= 0.6 x 0.10 = 0.06 or 6% 
+ 
+  
+P0  = Current market price per share = ` 53 
+ 
+ Ke or Kr  = 
+2 (1+0.6)
+53
+= 
+2.12
+53 +0.06 = 0.04 + 0.06 = 0.10 or 10% 
+(d) 
+Computation of overall weighted average after tax cost of 
+additional finance: 
+Particulars 
+Amount 
+(`) 
+Weights Cost of 
+funds 
+Weighted 
+Cost (%) 
+Equity 
+(including 
+retained earnings) 
+14,00,000 
+0.70 
+10% 
+7 
+Debt 
+ 6,00,000 
+0.30 
+6.72% 
+2.016 
+WACC 
+20,00,000 
+ 
+ 
+9.016 
+6.  
+(i)  
+Calculation of Net Proceeds after Floatation Cost and Number of 
+New Shares in Option (i) and (iii) 
+ 
+Equity Option 
+ 
+Net proceeds per share   = ` 10 – ` 0.50 = `9.50 
+ 
+Number of shares issued = ` 50,00,000 / ` 9.50 = 5,26,316 shares 
+ 
+Debt Option 
+ 
+Flotation cost  
+ 
+    = 2% of ` 50,00,000 = `1,00,000 
+ 
+Net proceeds   
+ 
+    = ` 50,00,000 – `1,00,000 = `49,00,000 
+ 
+But project requires ` 50,00,000.  
+ 
+So gross borrowing  
+    = `50,00,000 / (1 – 0.02) = `51,02,041 
+ 
+Interest   
+ 
+ 
+    = 12% × `51,02,041 = `6,12,245 
+ 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 18>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+18 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+ 
+Mix Option (`25 lakh Equity, `25 lakh Debt) 
+ 
+Equity 
+ 
+Net proceeds/share  
+= ` 9.50 
+ 
+Shares issued  
+ 
+= ` 25,00,000 / ` 9.50 = 2,63,158 shares 
+ 
+Debt 
+ 
+Net debt proceeds  
+= ` 25,00,000.  
+ 
+Gross borrowing   
+= `25,00,000 / (1 – 0.02) = `25,51,020 
+ 
+Interest   
+ 
+ 
+= 12% × `25,51,020 = `3,06,122 
+(ii) 
+Calculation of Interest Coverage Ratio (ICR) 
+ 
+ICR = EBIT / Interest 
+ 
+Debt Option: 
+ 
+EBIT   
+ 
+= ` 15,00,000 
+ 
+Interest   
+= ` 6,12,245 
+ 
+ICR   
+ 
+= ` 15,00,000 / ` 6,12,245 ≈ 2.45 (Fails covenant) 
+ 
+Mix of Equity and Debt Option 
+ 
+Interest   
+= ` 3,06,122 
+ 
+ICR   
+ 
+= ` 15,00,000 / ` 3,06,122 ≈ 4.90 (Passes covenant) 
+(iii)  Calculation of Earnings Per Share (EPS) 
+ 
+EPS  
+ 
+=
+(EBIT-Interest) (1-Tax)
+Total Shares
+  
+ 
+Equity Option 
+ 
+Interest   
+= ` 0 
+ 
+Net Income  = ` 15,00,000 × (1 – 0.30) = ` 10,50,000 
+ 
+Total Shares  = 10,00,000 + 5,26,316 = 15,26,316 
+ 
+EPS   
+ 
+= ` 10,50,000 / 15,26,316 = ` 0.688 
+ 
+Debt Option (Fails covenant) 
+ 
+Interest   
+= ` 6,12,245 
+© The Institute of Chartered Accountants of India 
+<<PAGE 19>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+19 
+ 
+SEPTEMBER 2025 EXAMINATION 
+REVISION TEST PAPER 
+ 
+Net Income  = (` 15,00,000 – ` 6,12,245) × (1 – 0.30)  
+ 
+  
+ 
+ 
+= ` 6,21,428.5 
+Total Shares  = 10,00,000 
+EPS   
+ 
+= ` 6,21,428.5 / 10,00,000  
+ 
+ 
+ 
+= ` 0.621 (But violates ICR) 
+Mix Option 
+Interest   
+= ` 3,06,122 
+Net Income  
+= (` 15,00,000 – ` 3,06,122) × 0.70 = ` 8,35,714.6 
+Total Shares  = 10,00,000 + 2,63,158 = 12,63,158 
+EPS   
+ 
+= ` 8,35,714.6 / 12,63,158 ≈ ` 0.662 
+(iv)  Calculation of WACC 
+ 
+Cost of Equity (Using CAPM) 
+ 
+Cost of Equity = Rf+β(Rm–Rf) 
+ 
+= 6%+1.2 × (14%–6%) = 6%+9.6%=15.6% 
+ 
+ Now, WACC = (EV×Ke) + (DV×Kd×(1−t)) 
+Equity Option 
+E  
+ 
+ 
+= ` 50,00,000 
+D  
+ 
+ 
+= ` 0 
+WACC  
+ 
+= 15.6% 
+Debt Option 
+E  
+ 
+ 
+= ` 0 
+D  
+ 
+ 
+= ` 51,02,041 
+Kd  
+ 
+ 
+= 12% 
+After-tax cost of debt  = 12% × (1 – 0.30) = 8.4% 
+WACC  
+ 
+ 
+ 
+= 8.4% (Lowest WACC but fails covenant) 
+ 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 20>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+20 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+Mix Option 
+E  
+ 
+ 
+= ` 25,00,000, D = ` 25,51,020 
+Total Value  
+= ` 50,51,020 
+Ke  
+ 
+ 
+= 15.6%, Kd (after tax) = 8.4% 
+ 
+WACC  
+ 
+= (Weight of Ke x Cost of Equity) + (Weight of Kd x  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Cost of Debt) 
+ 
+  
+ 
+ 
+= (0.495 x 0.156) + (0.505 x 0.084) 
+ 
+  
+ 
+ 
+= 0.0772 + 0.0424 = 0.1196 or 11.96% 
+Conclusion & Recommendation 
+Option 
+EPS 
+WACC Covenant Compliant 
+Equity 
+` 0.688 
+15.6% Not Applicable 
+Debt  
+` 0.621 
+8.4% No (ICR < 2.5) 
+Mix 
+` 0.662 
+11.96% Yes 
+ 
+Hence, the recommended option is Mixed Financing as it complies with 
+the debt covenant, has higher EPS than Debt Option, and lower WACC 
+than Equity Option.   
+7.  
+Company X 
+(i)  
+Financial Leverage  
+= 
+EBIT
+EBT i.e  EBIT – Interest 
+ 
+So, 
+3  
+ 
+ 
+ 
+=  
+EBIT
+EBIT – 30,000
+`
+  
+ 
+Or, 
+3 (EBIT – 30,000) = EBIT 
+ 
+Or, 
+2 EBIT   
+ 
+= 90,000 
+   
+Or, 
+EBIT      
+ 
+= 45,000  
+(ii)  
+Margin of safety  
+= 0.1667 
+ 
+Operating Leverage  
+= 1/Margin of safety 
+ 
+  
+ 
+ 
+ 
+ 
+= 1/0.1667 = 6 
+© The Institute of Chartered Accountants of India 
+<<PAGE 21>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+21 
+ 
+SEPTEMBER 2025 EXAMINATION 
+REVISION TEST PAPER 
+ 
+ 
+ 
+ 
+ 
+  
+= Contribution
+EBIT
+     
+ 
+Or,  6  
+ 
+ 
+ 
+= Contribution
+ 45,000
+`
+  
+ 
+Or, Contribution   
+= ` 2, 70,000 
+ 
+Sales  
+ 
+ 
+ 
+= 
+contribution
+P/V Ratio(1 – variable cost ratio)  
+ 
+ 
+ 
+ 
+ 
+ 
+= ` 2,70,000
+40%
+ = ` 6,75,000 
+(iii)  Fixed Cost   
+       = Contribution – EBIT  
+                              
+= ` 2,70,000 – 45,000 
+ 
+Or, 
+Fixed cost    = ` 2,25,000 
+Company Y 
+(i)  
+Financial Leverage  
+ 
+= 
+EBIT
+EBT i.eEBIT – Interest 
+ 
+So, 
+3  
+ 
+ 
+    
+ 
+= 
+EBIT
+EBIT – 1,20,000
+`
+ 
+ 
+Or, 
+3 (EBIT – ` 1,20,000)  = EBIT 
+ 
+Or, 
+3 EBIT – ` 3,60,000  = EBIT 
+ 
+Or, 
+EBIT      
+    
+ 
+= ` 1,80,000 
+(ii)  
+Margin of safety  = 0.1667 x 2 = 0.3333 
+ 
+Operating Leverage  
+ 
+= 1/Margin of safety 
+ 
+ 
+  
+ 
+  
+ 
+= 1/0.3333 = 3 
+ 
+ 
+  
+ 
+  
+ 
+= Contribution
+EBIT
+ 
+ 
+Or,  3  
+  
+ 
+= Contribution
+ 1,80,000
+`
+ 
+ 
+Or,  Contribution  
+ 
+= ` 5,40,000 
+© The Institute of Chartered Accountants of India 
+<<PAGE 22>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+22 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+ 
+Sales  
+ 
+ 
+ 
+ 
+=  
+Contribution
+P/V Ratio (1 - variable cost ratio)  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+= ` 5,40,000
+50%
+ = ` 10,80,000 
+(iii)  Fixed Cost     
+ 
+ 
+= Contribution – EBIT  
+ 
+                      
+ 
+ 
+= ` 5,40,000 – ` 1,80,000 
+ 
+Or, 
+Fixed cost   
+ 
+= ` 3,60,000   
+(iv) 
+Interest 
+ 
+ 
+ 
+ 
+= ` 30,000+` 30,000x300% = ` 1,20,000   
+Income Statements of X Ltd and Y Ltd 
+ 
+X Ltd (`) 
+Y Ltd (`) 
+Sales 
+6,75,000 
+10,80,000 
+Less: Variable cost 
+4,05,000 
+  5,40,000 
+Contribution 
+2,70,000 
+  5,40,000 
+Less: Fixed Cost  
+2,25,000 
+   3,60,000 
+Earnings before interest and tax (EBIT) 
+45,000 
+1,80,000 
+Less: Interest 
+30,000 
+1,20,000 
+Earnings before tax (EBT) 
+15,000 
+60,000 
+Less: Tax @ 30% 
+4,500 
+18,000 
+Earnings after tax (EAT) 
+  10,500 
+42,000 
+ 
+Comment based on Leverage 
+ 
+Comment based on leverage – Company Y is better than company 
+X of the following reasons: 
+(i) 
+Capacity of Company Y to meet interest liability is same that 
+of companies X (from EBIT/Interest ratio) 
+ 
+[X = 
+` 45,000
+` 30,000 = 1.5, Y = 
+` 1,80,000
+` 1,20,000 = 1.5]  
+(ii)  
+However, Company Y has lesser financial risk as the total risk 
+(business and financial) of company Y is lower (combined 
+leverage of Company X is 18 and Company Y is 9). 
+© The Institute of Chartered Accountants of India 
+<<PAGE 23>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+23 
+ 
+SEPTEMBER 2025 EXAMINATION 
+REVISION TEST PAPER 
+8.  
+(i)  
+According to Dividend Discount Model approach, the firm’s expected 
+or required return on equity is computed as follows: 
+ 
+D1
+K = 
+ + g  
+e
+P0
+ 
+ 
+Ke = 
+25 (1 + 0.08)
+1,570
+ + 0.08 
+ 
+ 
+ 
+  = 0.0172 + 0.08 = 0.0972 or 9.72%  
+(ii)  With rate of return on retained earnings (r) is 10% and retention 
+ratio (b) is 60%, new growth rate will be as follows: 
+ 
+g = br = 0.10 × 0.60 = 0.06 
+ 
+Accordingly, dividend will also get changed and to calculate this, 
+first we shall calculate previous retention ratio (b1) and then EPS 
+assuming that rate of return on retained earnings (r) is same. 
+ 
+With previous Growth Rate of 8% and r =10%, the retention ratio 
+comes out to be:  
+ 
+0.08  = b1 × 0.10 
+ 
+b1     = 0.80. So, payout ratio = 0.20  
+ 
+With 0.20 payout ratio the EPS will be as follows: 
+ 
+` 25
+0.20  = ` 125  
+ 
+With new 0.40 (1 – 0.60) payout ratio, the new dividend will be 
+ 
+D1  
+= ` 125 × 0.40 = ` 50 
+ 
+Accordingly, new Ke will be 
+ 
+Ke      = 
+50
+1,570 + 0.06 
+ 
+or, Ke = 9.18%   
+ 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 24>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+24 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+9.  
+ 
+Particulars 
+(`)  
+Total Sales 
+` 200 lakhs 
+Credit Sales (80%) 
+` 160 lakhs 
+Receivables for 40 days 
+` 80 lakhs 
+Receivables for 120 days 
+` 80 lakhs 
+Average collection period [(40 x 0.5) + (120 ×0.5)] 
+80 days 
+Average level of Receivables (` 1,60,00,000 × 80/360) 
+` 35,55,556 
+Factoring Commission (` 35,55,556 × 2/100) 
+` 71,111 
+Factoring Reserve (` 35,55,556 × 10/100) 
+` 3,55,556 
+Amount available for advance {` 35,55,556 - (3,55,556 
++ 71,111)} 
+` 31,28,889 
+• 
+Factor will deduct his interest @ 18%: 
+• 
+Interest =  31,28,889 ×18×80
+100 ×360
+`
+ 
+ 
+ 
+` 1,25,156 
+• 
+Advance to be paid (` 31,28,889 – ` 1,25,156) 
+` 30,03,733 
+(i)  
+Statement Showing Evaluation of Factoring Proposal 
+ 
+ 
+` 
+A. Annual Cost of Factoring to the Firm: 
+ 
+ 
+Factoring commission (` 71,111 × 360/80) 
+3,20,000 
+ 
+Interest charges (` 1,25,156 × 360/80) 
+5,63,200 
+ 
+Total  
+8,83,200 
+B. Firm’s Savings on taking Factoring Service: 
+` 
+ 
+Cost of credit administration saved 
+2,40,000 
+ 
+Bad Debts (` 160,00,000 x 1.5/100) avoided 
+2,40,000 
+ 
+Total  
+4,80,000 
+C. Net Cost to the firm (A – B) (` 8,83,200 – ` 4,80,000) 
+4,03,200 
+Effective cost of factoring = 
+ 4,03,200 ×100
+30,03,733
+`
+`
+ = 13.42* %  
+© The Institute of Chartered Accountants of India 
+<<PAGE 25>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+25 
+ 
+SEPTEMBER 2025 EXAMINATION 
+REVISION TEST PAPER 
+* If cost of factoring is calculated on the basis of total amount available for 
+advance, then, it will be 
+=
+4,03,200 × 100
+31,28,889
+`
+`
+= 12.89% 
+(ii)  If Bank finance for working capital is available at 12%, firm will not 
+avail factoring service as 12% is less than 13.42% (or 12.89%)  
+10.  (a)  The most relevant sources of funds: 
+Feature 
+Sources of Fund 
+(i)  
+It is the most expensive source 
+of funds. 
+Equity 
+(ii)  
+It entails a high degree of risk 
+since they have to be repaid as 
+per the terms of agreement. 
+Debentures 
+(iii)  It supports businesses in their 
+routine activities. 
+Funding from Banks 
+(iv)  Business enterprise has options 
+to 
+raise 
+capital 
+from 
+International markets also. 
+International Funding 
+(v)  
+This 
+source 
+of 
+finance 
+sometimes is the last option 
+for 
+startups 
+which 
+doesn’t 
+qualify for bank funding 
+Angel Financing 
+(b)  Trade credit and bank overdraft are two commonly used short-
+term financing sources but each has distinct features which are 
+shown below: 
+S. 
+No. 
+Trade credit 
+Bank overdraft 
+1. 
+Trade 
+credit 
+is 
+the 
+credit 
+extended 
+by 
+suppliers, allowing the 
+firm to delay payment 
+for goods or services. 
+Under this facility, customers are 
+allowed to withdraw in excess of 
+credit balance standing in their 
+Current Account. 
+© The Institute of Chartered Accountants of India 
+<<PAGE 26>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+26 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+2. 
+The usual duration of 
+such credit is 15 to 90 
+days. 
+Though overdrafts are repayable 
+on 
+demand, 
+they 
+generally 
+continue for long periods by 
+annual renewals of the limits. 
+3. 
+Trade credit is a type 
+of interest free loan, 
+therefore failure to 
+avail this facility has an 
+interest cost. 
+Interest is charged on daily 
+balances 
+4. 
+It 
+generates 
+automatically 
+in 
+the 
+course of business and 
+is common to almost 
+all business operations. 
+Borrower need to apply to bank 
+for Bank overdraft facility and 
+are operated in the same way as 
+cash credit and current accounts. 
+5. 
+It 
+enhances 
+automatically with the 
+increase in the volume 
+of business and fast 
+payment. 
+A 
+fixed 
+limit 
+is, 
+therefore, 
+granted to the borrower within 
+which the borrower is allowed to 
+overdraw his account. 
+(c)  The trade-off between the components of working capital can be 
+summarised as follows: 
+Component 
+of Working 
+Capital 
+Advantages 
+of higher side 
+(Profitability) 
+Trade-off 
+(between 
+Profitability 
+and 
+Liquidity) 
+Advantages of 
+lower 
+side 
+(Liquidity) 
+Inventory 
+Fewer 
+stock-
+outs 
+increase 
+the 
+profitability.    
+Use 
+techniques 
+like EOQ, JIT 
+etc. to carry 
+optimum level 
+of inventory.  
+Lower inventory 
+requires 
+less 
+capital 
+but 
+endangered 
+stock-out 
+and 
+loss of goodwill.  
+Receivables 
+Higher 
+Credit 
+period attract 
+Evaluate 
+the 
+credit policy; 
+Cash 
+sales 
+provide liquidity 
+© The Institute of Chartered Accountants of India 
+<<PAGE 27>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+27 
+ 
+SEPTEMBER 2025 EXAMINATION 
+REVISION TEST PAPER 
+customers and 
+increase 
+revenue 
+(but 
+can result in 
+more 
+bad 
+debts) 
+use 
+the 
+services 
+of 
+debt 
+management 
+(factoring) 
+agencies. 
+but 
+fails 
+to 
+boost sales and 
+revenue (due to 
+lower 
+credit 
+period) 
+Pre-payment 
+of expenses 
+Reduces 
+uncertainty 
+and profitable 
+in inflationary 
+environment.  
+Cost-benefit 
+analysis 
+required 
+Improves 
+or 
+maintains 
+liquidity. 
+Cash 
+and 
+Cash 
+equivalents  
+Payables 
+are 
+honoured 
+in 
+time, improves 
+the 
+goodwill 
+and helpful in 
+getting future 
+discounts. 
+Cash budgets 
+and 
+other 
+cash 
+management 
+techniques 
+can be used 
+Cash 
+can 
+be 
+invested 
+in 
+some 
+other 
+investment 
+avenues 
+Payables and 
+Expenses 
+Capital can be 
+used in some 
+other 
+investment 
+avenues 
+Evaluate 
+the 
+credit 
+policy 
+and 
+related 
+cost. 
+Payables 
+are 
+honoured 
+in 
+time, improves 
+the 
+goodwill 
+and helpful in 
+getting 
+future 
+discounts. 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 28>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 28 
+ 
+SEPTEMBER 2025 EXAMINATION
+REVISION TEST PAPER 
+6B: STRATEGIC MANAGEMENT 
+ 
+QUESTIONS 
+Multiple Choice Questions 
+1.  
+In the serene city of Pune, Royal Pens stood as a distinguished company 
+with a rich heritage spanning a century. Specializing in crafting luxurious 
+writing instruments, Royal Pens had long been known for its elegance 
+and precision—valued by collectors and enthusiasts across the nation. 
+ 
+However, as the world progressed into the digital era, Royal Pens 
+encountered a tsunami of challenges. Emerging substitutes quickly 
+adapted to technological advancements, offering innovative writing 
+solutions that appealed to a younger demographic. Despite its esteemed 
+legacy, Royal Pens faced sluggish growth as it struggled to adapt to the 
+evolving landscape of the writing instrument industry. 
+ 
+In an effort to stand out, Royal Pens strategized on ambitious endeavors. 
+They experimented with new materials, introduced limited-edition 
+designs and even forayed into digital pen technology, including a 
+Bluetooth-enabled stylus for tablets—a move intended to attract tech-
+savvy users. Least expected, these initiatives failed to resonate with 
+modern consumers. Their attempts to innovate were perceived as 
+outdated or disconnected from actual user needs and their once-
+unquestionable reputation began to downgrade. 
+ 
+As Royal Pens struggled with reducing sales and increased competition, 
+internal challenges started building up. Top executives including the 
+CEO, CFO and the marketing head—accustomed to success—found 
+themselves in a tough position to justify their acumen in the face of 
+shifting market dynamics. Disagreements over strategic direction led to 
+a wave of departures leaving a leadership vacuum at the top.  
+ 
+Amidst the turmoil, one aspect of Royal Pens remained strong: its 
+unique company culture. Despite the challenges, middle managers and 
+© The Institute of Chartered Accountants of India 
+<<PAGE 29>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+29 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+employees remained deeply dedicated to the company’s traditions and 
+values. Compassionate leadership at the functional level ensured a sense 
+of unity and resilience keeping the spirit of Royal Pens alive during 
+uncertainty. 
+ 
+Yet the company's troubles were far from over. Royal Pens faced legal 
+battles from a rival competitor alleging patent infringements. The 
+ensuing legal proceedings drained resources and further depleted the 
+company’s finances worsening an already helpless situation. 
+ 
+Ultimately, Royal Pens faced a tough choice. With no clear path to 
+recovery, the company made the painful decision to significantly scale 
+down its operations. 70% of its business was discontinued and assets & 
+equipment were sold off to generate much-needed funds. Though 
+difficult, this decision allowed Royal Pens to redirect its resources toward 
+niche opportunities preserving its legacy in a rapidly changing market. 
+ 
+Based on the above Case Scenario, answer the Multiple-Choice 
+Questions. 
+(i)  
+Royal Pens, a century-old brand began losing relevance as the 
+market embraced modern digital writing tools. What external 
+environmental factor caused the greatest disruption to Royal Pens’ 
+business model requiring a strategic shift that the company 
+struggled to make? 
+(a)  
+Political instability 
+(b)  
+Rising inflation 
+(c)  
+Legal regulations 
+(d)  
+Technological advancement 
+(ii)  
+After experiencing a decline in market share due to emerging 
+competitors, Royal Pens responded by launching Bluetooth-
+enabled styluses and limited-edition pens. These actions were not 
+pre-planned innovations but responses to market shifts. What type 
+of strategic approach does this represent? 
+(a)  
+Proactive strategy 
+(b)  
+Reactive strategy 
+© The Institute of Chartered Accountants of India 
+<<PAGE 30>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+30 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+(c)  
+Differentiation strategy 
+(d)  
+Market penetration strategy 
+(iii) 
+To regain market share, Royal Pens launched limited-edition 
+designs and a stylus pen, targeting younger, tech-driven 
+customers. This strategic choice most closely reflects which of the 
+following business-level strategies? 
+(a)  
+Cost leadership 
+(b)  
+Market development 
+(c)  
+Differentiation 
+(d)  
+Retrenchment 
+(iv)  Despite facing legal disputes and financial decline, Royal Pens’ 
+workforce remained resilient and united. Which aspect of the 
+company played the most vital role in maintaining employee 
+morale and commitment during turbulent times? 
+(a)  
+Employee stock ownership 
+(b)  
+Regular salary hikes 
+(c)  
+Strong company culture 
+(d)  
+Remote working options 
+(v)  
+Royal Pens believed that its century-old reputation alone would 
+continue to appeal to modern consumers. This assumption formed 
+the basis of its strategies, which ultimately failed as market 
+dynamics shifted. Which type of strategic control was lacking, 
+leading to unchallenged reliance on outdated assumptions? 
+(a)  
+Premise control 
+(b)  
+Special alert control 
+(c)  
+Implementation control 
+(d)  
+Strategic surveillance 
+2. 
+A beverage company’s marketing team launches a campaign to boost 
+social media engagement. The production unit enhances efficiency to 
+cut costs and the HR department implements new training programs to 
+© The Institute of Chartered Accountants of India 
+<<PAGE 31>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+31 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+improve employee productivity. These departmental initiatives are 
+aligned with the company's overall growth goals. What type of strategy 
+does these efforts represent? 
+(a)  
+Proactive strategy 
+(b)  
+Reactive strategy 
+(c)  
+Functional level strategy 
+(d)  
+Corporate level strategy 
+3.  
+A startup evaluates its strategic position by identifying its unique 
+technology as a strength, high competition as a threat, an untapped 
+market segment as an opportunity and operational inefficiencies as a 
+weakness. It plans to use these insights to refine its business strategy. 
+Which strategic tool is being used? 
+(a)  
+Competitor benchmarking analysis 
+(b)  
+SWOT analysis 
+(c)  
+PESTEL analysis for market dynamics 
+(d)  
+Internal capabilities evaluation 
+4.  
+A health-conscious community group strongly advocates for more 
+organic options in local eateries and shows great interest in influencing 
+food choices. However, a small local café, whose loyal customer base 
+prefers traditional food remains unaffected by the group's efforts. In 
+terms of Mendelow’s Matrix, how should this stakeholder group be 
+classified? 
+(a)  
+High Interest, High Power 
+(b)  
+Low Interest, Low Power 
+(c)  
+High Interest, Low Power 
+(d)  
+Low Interest, High Power 
+5.  
+A mobile phone company already has a strong customer base in its 
+home country. To grow further, it focuses on increasing sales of its 
+existing phones by offering promotional discounts, ramping up 
+advertising and partnering with more local retailers for better 
+© The Institute of Chartered Accountants of India 
+<<PAGE 32>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+32 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+distribution. Which growth strategy does this represent according to 
+Ansoff’s Matrix? 
+(a)  
+Market penetration strategy 
+(b)  
+Product development strategy 
+(c)  
+Market development strategy 
+(d)  
+Diversification strategy 
+6.  
+A well-established clothing brand is experiencing a decline in sales and 
+market share due to the changing consumer preferences and rising 
+competition. In response, the company restructures its operations, cuts 
+cost, revamps its product line, enhances marketing efforts and focuses 
+on boosting employee morale and operational efficiency. What type of 
+strategy is the company implementing? 
+(a)  
+Divestment strategy 
+(b)  
+Market penetration strategy 
+(c)  
+Cost leadership strategy 
+(d)  
+Turnaround strategy 
+Descriptive Questions 
+Chapter 1-Introduction to Strategic Management 
+7.  
+Vireon Foods started as a small dairy business but is still thriving after 25 
+years even as many competitors shut down or merged. Its leadership 
+holds regular planning retreats, studies changing consumer habits and 
+adapts its operations every few years. They recently invested in plant-
+based products before market demand spiked. What advantage is their 
+strategic intelligence offering them? What are the other benefits of 
+strategic management?  
+8.  
+‘A company's mission statement is typically focused on its present 
+business scope.' Explain the significance of a mission statement.  
+ 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 33>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+33 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+Chapter 2-Strategic Analysis: External Environment  
+9.  
+Nuvanta Healthcare is planning to launch a nutrition supplement 
+targeted at urban consumers in Tier-2 Indian cities. The product team 
+analyzed local population data age groups, income levels, lifestyle 
+patterns and health concerns before finalizing the formulation and 
+pricing. They are also reviewing how changes in government policy and 
+tech adoption may affect the rollout. What kind of external factor has 
+Nuvanta considered for pricing the product? Briefly explain the major 
+categories of such external influences that shape business strategy.  
+10.  Value Chain Analysis consists of two activities: Primary activities and 
+Support activities. As per Michael Porter both the activities are 
+intertwined. Do you agree with the statement? Also delineate the main 
+areas in which primary activities of any organization are grouped.   
+Chapter 3-Strategic Analysis: Internal Environment  
+11.  Soltex Green Energy is rolling out a major wind project in a coastal town. 
+A local business coalition with strong political ties and deep interest in 
+the project has started influencing policy discussions. The company’s 
+strategy team is closely engaging with them while managing other 
+stakeholders differently. What might be the reason Soltex is prioritizing 
+engagement with this specific group? Identify and briefly explain the 
+four types of stakeholder categories businesses typically deal with in 
+such situations.  
+12.  Write a short note on the Key Strategic Drivers of an organization. 
+Chapter 4-Strategic Choices  
+13. 
+Zeon Beverages, known for its fruit juices, recently acquired a 
+nationwide cold-storage logistics company to control the quality and 
+speed of its product delivery. Earlier, it had set up its own fruit-
+processing unit to reduce dependence on third-party suppliers. The 
+company believes this strategy strengthens its supply chain and market 
+control. What type of strategic move is Zeon making through these 
+acquisitions? How does this approach differ from horizontal and 
+conglomerate diversification? 
+© The Institute of Chartered Accountants of India 
+<<PAGE 34>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+34 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+14.  “There are certain conditions or indicators which point out that a 
+turnaround is needed if the company has to survive”. Discuss. 
+Chapter 5-Strategy Implementation and Evaluation  
+15.  Merako Appliances recently automated its assembly line to produce 
+kitchen gadgets faster and at lower cost, improving operational 
+efficiency. However, customer feedback shows that the new products 
+don’t meet market needs, leading to declining sales. This has sparked an 
+internal debate on balancing efficiency (doing things right) with 
+effectiveness (doing the right things). How should Merako balance 
+efficiency and effectiveness to achieve sustainable success? Also, 
+describe the four possible situations a business can face when 
+comparing levels of efficiency and effectiveness. 
+16.  Describe the principal aspects of strategy-execution process which are 
+included in most situations.  
+ 
+ 
+SUGGESTED ANSWERS 
+ 
+MCQ No. 
+Answer 
+1. 
+(i) 
+(d) 
+(ii) 
+(b) 
+(iii) 
+(c) 
+(iv) 
+(c) 
+(v) 
+(a) 
+2. 
+ 
+(c) 
+3. 
+ 
+(b) 
+4. 
+ 
+(c) 
+5. 
+ 
+(a) 
+6. 
+ 
+(d) 
+© The Institute of Chartered Accountants of India 
+<<PAGE 35>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+35 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+7.  
+Vireon Foods’ continued success over 25 years despite the exit or 
+merger of several competitors reflects the importance and advantages 
+of strategic management particularly its contribution to the longevity 
+of a business. 
+ 
+The strategic intelligence demonstrated by Vireon—through regular 
+planning retreats, environmental scanning, understanding consumer 
+behavior and timely investment in plant-based products—has provided 
+it with a competitive advantage and the ability to successfully 
+navigate environmental changes. This aligns with the dual objectives 
+of strategic management: 
+• 
+Creating competitive advantage by delivering something unique 
+and valued by customers. 
+• 
+Guiding the company through all changes in the environment by 
+reacting appropriately. 
+ 
+Other benefits of strategic management evident from Vireon’s case 
+include: 
+• 
+It enables the organization to be proactive rather than reactive 
+helping it controls its future instead of merely responding to 
+change. 
+• 
+It provides a clear strategic direction allowing the organization to 
+align its goals and actions with its vision. 
+• 
+It serves as a framework for sound decision-making related to 
+markets, products, investments and structure. 
+• 
+It helps organizations identify and leverage opportunities while 
+avoiding costly pitfalls. 
+• 
+It contributes to building core competencies and sustaining 
+long-term growth and survival as seen in Vireon’s ability to 
+adapt and remain relevant. 
+ 
+Thus, strategic management not only ensures superior performance but 
+also enhances the sustainability and adaptability of a business in a 
+dynamic environment. 
+© The Institute of Chartered Accountants of India 
+<<PAGE 36>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+36 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+8. 
+A company's mission statement is typically focused on its present 
+business scope, who we are and what we do. Mission statements 
+broadly describe an organization's present capability, customer focus, 
+activities, and business make up. Mission for an organization is 
+significant for the following reasons: 
+• 
+It ensures unanimity of purpose within the organization. 
+• 
+It develops a basis, or standard, for allocating organizational 
+resources. 
+• 
+It provides a basis for innovating the use of the organisation’s 
+resources. 
+• 
+It establishes a general tone or organizational climate, to 
+suggest a business like operation. 
+• 
+It serves as a focal point for those who can identify with the 
+organisation's purpose and direction. 
+• 
+It facilitates the translation of objectives and goals into a work 
+structure involving the assignment of tasks to responsible 
+elements within the organization. 
+• 
+It specifies organizational purposes and the translation of these 
+purposes into goals in such a way that cost, time, and 
+performance parameters can be assessed and controlled. 
+9.  
+Nuvanta Healthcare has considered the Demographic Environment as 
+an external factor for pricing its nutrition supplement. The analysis of local 
+population data such as age groups, income levels, lifestyle patterns, 
+and health concerns reflects the company’s effort to understand its 
+target consumers and formulate a suitable pricing strategy. 
+External environmental factors significantly influence an organization’s 
+strategy and operations. These factors may be external to the firm or 
+introduced by managers to adapt to change. The major categories of 
+such external influences that shape business strategy include: 
+♦ 
+Demographic Environment – It includes factors such as 
+population size, age distribution, income levels, education, and 
+occupation, which affect consumer preferences and demand. 
+© The Institute of Chartered Accountants of India 
+<<PAGE 37>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+37 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+♦ 
+Economic Environment – Includes elements like purchasing 
+power, inflation rates, and overall economic conditions that 
+influence pricing and market potential. 
+♦ 
+Political-Legal Environment – Consists of government policies, 
+regulations, and legal aspects that can impact product rollout and 
+compliance requirements. 
+♦ 
+Technological Environment – Rapid technological changes affect 
+production, 
+product 
+design, 
+marketing, 
+and 
+distribution, 
+influencing how companies deliver value. 
+♦ 
+Socio-Cultural Environment – Involves lifestyle patterns, health 
+consciousness, social values, and consumer attitudes that influence 
+buying behavior. 
+10.  Yes, I agree with the statement that Value Chain Analysis consists of 
+two activities: Primary activities and Support activities. As per Michael 
+Porter, both the activities are intertwined. It is a tool used to examine 
+the activities that create value in an organization, helping to enhance 
+efficiency and build competitive advantage. It breaks down a business’s 
+operations to identify areas for improvement in value creation.  
+The primary activities of an organization are categorized into five 
+areas: 
+1. 
+Inbound logistics: Activities related to receiving, storing, and 
+distributing inputs (e.g., materials handling, stock control, and 
+transport). 
+2. 
+Operations: Transforming input into final products or services 
+(e.g., machining, packaging, assembly). 
+3. 
+Outbound logistics: Collecting, storing, and delivering products 
+to customers (e.g., warehousing, transport). 
+4. 
+Marketing and sales: Promoting and selling the product or 
+service, including advertising and sales administration. 
+5. 
+Service: Enhancing or maintaining product value (e.g., installation, 
+repair, training). 
+© The Institute of Chartered Accountants of India 
+<<PAGE 38>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+38 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+11.  Soltex Green Energy is prioritizing engagement with the local business 
+coalition because they fall under the category of Key Players in 
+Mendelow’s Stakeholder Matrix. This group possesses high power 
+(due to strong political ties and ability to influence policy) and high 
+interest (due to deep involvement in the wind project). As per 
+Mendelow’s Matrix, such stakeholders must be fully engaged, informed 
+regularly, and their advice and expectations carefully considered, as they 
+can significantly impact the success of the project. 
+ 
+Mendelow’s Matrix categorizes stakeholders into four types based on 
+their Power (ability to influence the organization) and Interest (concern 
+with the organization’s success): 
+1. 
+Key Players (High Power, High Interest): These stakeholders 
+should be closely managed and fully engaged. They are critical 
+to strategic decisions.  
+2. 
+Keep Satisfied (High Power, Low Interest): These stakeholders 
+should be kept satisfied with regular information but not over-
+communicated with.  
+3. 
+Keep Informed (Low Power, High Interest): These stakeholders 
+must be kept adequately informed to avoid misunderstandings 
+and gain useful feedback.  
+4. 
+Low Priority (Low Power, Low Interest): These stakeholders 
+require minimal effort, only to be monitored occasionally. 
+ 
+ 
+KEEP SATISFIED 
+Consult often  
+Increase their interest 
+Can be hindrance to new 
+ideas or strategic choices 
+KEY PLAYER 
+Manage Closely  
+Involve in decision making 
+Engage regularly and build 
+strong relationship 
+LOW PRIORITY 
+Monitor 
+only, 
+no 
+engagement 
+General 
+occasional 
+communication 
+KEEP INFORMED 
+Utilise the high interest by 
+engaging in decisions 
+Consult in their areas of 
+expertise and interest 
+Interest in the Organisation 
+Power / Influence 
+Low 
+High 
+High 
+© The Institute of Chartered Accountants of India 
+<<PAGE 39>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+39 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+Mendelow’s Matrix thus helps organizations like Soltex to allocate their 
+time, resources, and communication efforts strategically across 
+different stakeholder groups, adjusting the engagement as the 
+environment evolves. 
+12. 
+Key Strategic Drivers of an Organization 
+ 
+Strategic drivers are essential elements that influence an organization’s 
+ability to differentiate itself from its competitors and achieve 
+competitive advantage. These drivers assess the current performance of 
+the business and provide insights into areas that need focus.  
+The key strategic drivers include: 
+1. 
+Industry and Markets: Understanding the industry and markets is 
+crucial for identifying the organization’s relative position. 
+Industries group similar companies based on their primary 
+products, while markets are defined by the buyers and sellers of 
+these products. Analyzing industry and market dynamics, often 
+through tools like strategic group mapping, helps organizations 
+evaluate competition and refine strategies. 
+2. 
+Customers: Identifying and understanding customers is a critical 
+driver. Customers are segmented based on their needs and 
+spending capacity, which guides product development and 
+marketing strategies. Differentiating between customers (buyers) 
+and consumers (users) is vital to tailoring pricing, design, and 
+usability strategies effectively. 
+3. 
+Products and Services: Products and services are central to 
+defining the business. Organizations must assess their offerings, 
+classify products, and devise strategies for differentiation, 
+branding, and pricing. Product innovation and marketing are key 
+to maintaining competitiveness. 
+4. 
+Channels: The channels through which products and services are 
+delivered impact on accessibility and customer satisfaction. 
+Strategies 
+related 
+to 
+direct, 
+digital, 
+or 
+relationship-based 
+© The Institute of Chartered Accountants of India 
+<<PAGE 40>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+40 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+marketing ensure the efficient distribution of offerings to target 
+customers. 
+ 
+By aligning these drivers with organizational goals, businesses can 
+achieve sustained growth and maintain a competitive edge.  
+13.  Zeon Beverages is pursuing a strategy of vertically integrated 
+diversification, a form of concentric diversification, where the 
+company expands into businesses that are related to its existing 
+operations along the value chain. By setting up its own fruit-
+processing unit (backward integration) and acquiring a cold-storage 
+logistics company (forward integration), Zeon is strengthening its 
+supply chain, improving quality control and enhancing speed of delivery. 
+ 
+This move falls under concentric diversification, where the new 
+businesses are linked to existing ones through process, technology or 
+marketing, providing synergistic benefits. This approach differs from: 
+1. 
+Horizontal Integrated Diversification – where a firm expands by 
+acquiring similar or complementary businesses operating at the 
+same stage of production. For example, if Zeon had acquired 
+another fruit juice brand, it would be horizontal diversification. 
+2. 
+Conglomerate Diversification – which involves expansion into 
+unrelated businesses with no connection in terms of product, 
+market, or technology. For instance, if Zeon ventured into 
+unrelated sectors like real estate or electronics, it would be 
+conglomerate diversification. 
+ 
+Hence, 
+Zeon’s 
+strategy 
+is 
+a 
+vertically 
+integrated 
+concentric 
+diversification, aimed at enhancing operational efficiency and gaining 
+better control over its value chain. 
+14.  In 
+today’s 
+competitive 
+and 
+volatile 
+business 
+environment, 
+no 
+organization can assume sustained viability. A turnaround strategy is a 
+focused effort aimed at restoring an organization’s profitability and 
+ensuring survival when both internal weaknesses and external threats 
+endanger its existence. 
+© The Institute of Chartered Accountants of India 
+<<PAGE 41>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+41 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+ 
+Turnaround becomes necessary when a company faces a significant 
+crisis that severely affects its operations and performance. It is typically 
+adopted when survival is the immediate goal, before growth can be 
+pursued. 
+ 
+There are several indicators or conditions that signal the need for a 
+turnaround strategy: 
+• 
+Persistent negative cash flows from operations 
+• 
+Uncompetitive products or services 
+• 
+Declining market share 
+• 
+Deterioration in physical facilities 
+• 
+Over-staffing, high employee turnover, and low morale 
+• 
+Mismanagement 
+ 
+Early identification of these danger signals and immediate corrective 
+action is essential for ensuring the company’s survival and eventual 
+recovery. 
+15.  Merako Appliances has improved operational efficiency by automating 
+its assembly line. However, declining sales due to products not meeting 
+customer needs indicate a lack of effectiveness. This highlights the 
+importance of balancing doing things right (efficiency) with doing the 
+right things (effectiveness). 
+ 
+To achieve sustainable success, Merako must align its operations with 
+customer 
+preferences 
+through 
+sound 
+strategy 
+formulation 
+(effectiveness), followed by efficient strategy implementation. 
+ 
+Four Possible Situations Based on Efficiency and Effectiveness: 
+1. 
+Efficient and Effective (Thrive): Ideal scenario. The firm does the 
+right things and does them well. Merako should aim for this by 
+aligning products with customer needs while maintaining 
+efficiency. 
+© The Institute of Chartered Accountants of India 
+<<PAGE 42>>
+ 
+INTERMEDIATE EXAMINATION 
+ 
+ 
+42 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+2. 
+Efficient but Ineffective (Die Slowly): Merako’s current state. 
+Operations are streamlined, but customer needs are unmet, risking 
+decline without strategic correction. 
+3. 
+Inefficient but Effective (Survive): Right strategy but poor 
+execution. The firm may survive but must improve efficiency to 
+sustain. 
+4. 
+Inefficient and Ineffective (Die Quickly): Neither aligned with 
+customer needs nor operationally sound. Leads to rapid failure 
+unless overhauled. 
+Strategic Formulation 
+Operational 
+Management 
+ 
+Effective 
+Ineffective 
+Efficient 
+1 
+Thrive 
+2 
+Die Slowly 
+Inefficient 
+3 
+Survive 
+4 
+DieQuickly 
+Principal combinations of efficiency and effectiveness 
+ 
+Merako must integrate customer feedback into strategic planning and 
+ensure both efficient execution and effective direction to gain long-term 
+competitiveness. 
+16.  Implementation or execution is an operations-oriented activity aimed at 
+shaping the performance of core business activities in a strategy-
+supportive manner. In most situations, strategy-execution process 
+includes the following principal aspects:  
+♦ 
+Developing budgets that steer ample resources into those activities 
+that are critical to strategic success. 
+♦ 
+Staffing the organization with the needed skills and expertise, 
+consciously 
+building 
+and 
+strengthening 
+strategy-supportive 
+competencies and competitive capabilities and organizing the work 
+© The Institute of Chartered Accountants of India 
+<<PAGE 43>>
+ 
+FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+ 
+ 
+43 
+ 
+REVISION TEST PAPER 
+SEPTEMBER 2025 EXAMINATION
+effort.  
+♦ 
+Ensuring that policies and operating procedures facilitate rather 
+than impede effective execution.  
+♦ 
+Using the best-known practices to perform core business 
+activities and pushing for continuous improvement.  
+♦ 
+Installing information and operating systems that enable company 
+personnel to better carry out their strategic roles day in and day out.  
+♦ 
+Motivating people to pursue the target objectives energetically.  
+♦ 
+Creating culture and climate conducive to successful strategy 
+implementation and execution.  
+♦ 
+Exerting the internal leadership needed to drive implementation 
+forward and keep improving strategy execution.  
+ 
+ 
+© The Institute of Chartered Accountants of India 

@@ -1,0 +1,334 @@
+{
+ "chapter": "F05",
+ "note": "Official questions mapped to FM Chapter 5 (Financing Decisions — Capital Structure). Primary code first. RTP assignment follows ICAI's own topic labels; past papers and MTPs follow the theory or analysis the question applies.",
+ "atoms": [
+  {
+   "id": "MTP-J25-S1-FQ4b",
+   "codes": [
+    "F05.17"
+   ],
+   "marks": 4,
+   "format": "Descriptive",
+   "src": "MTP-J25-S1 FM Q4(b) high capital base but low EPS — explain over-capitalisation"
+  },
+  {
+   "id": "MTP-J25-S2-FQ1b",
+   "codes": [
+    "F05.03",
+    "F05.05"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-J25-S2 FM Q1(b) Theta Limited — annual earning of ₹3 lakh before interest and taxes"
+  },
+  {
+   "id": "MTP-J26-S1-FQ3a",
+   "codes": [
+    "F05.06"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-J26-S1 FM Q3(a) Vastupal Limited — levered company converting debt to equity"
+  },
+  {
+   "id": "MTP-J26-S1-FQ3b",
+   "codes": [
+    "F05.13"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-J26-S1 FM Q3(b) Magnus Ltd — capital structure and EPS"
+  },
+  {
+   "id": "MTP-J26-S1-FQ4c-OR",
+   "codes": [
+    "F05.15"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-J26-S1 FM Q4(c) OR financial break-even and EBIT-EPS indifference analysis"
+  },
+  {
+   "id": "MTP-J26-S2-FQ1b",
+   "codes": [
+    "F05.12"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-J26-S2 FM Q1(b) Deepa Limited — choosing the level of debt with EBIT of ₹60,00,000"
+  },
+  {
+   "id": "MTP-M24-S1-FQ1b",
+   "codes": [
+    "F05.05"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-M24-S1 FM Q1(b) AN Ltd — net operating income approach in a no-tax world"
+  },
+  {
+   "id": "MTP-M24-S1-FQ4c",
+   "codes": [
+    "F05.12"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-M24-S1 FM Q4(c) what is optimum capital structure"
+  },
+  {
+   "id": "MTP-M24-S2-FQ2b",
+   "codes": [
+    "F05.13",
+    "F05.14"
+   ],
+   "marks": 6,
+   "format": "Case numerical",
+   "src": "MTP-M24-S2 FM Q2(b) GT Limited — two ways of raising ₹50,00,000, market price on a P/E of 10"
+  },
+  {
+   "id": "MTP-M25-S1-FQ3a",
+   "codes": [
+    "F05.15"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-M25-S1 FM Q3(a) Perfact Limited — level of earnings for an investment of ₹27 lakh"
+  },
+  {
+   "id": "MTP-M25-S1-FQ4c-OR",
+   "codes": [
+    "F05.12"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-M25-S1 FM Q4(c) OR optimal capital structure and how to analyse it"
+  },
+  {
+   "id": "MTP-M25-S2-FQ2b",
+   "codes": [
+    "F05.05"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-M25-S2 FM Q2(b) Zordon Ltd — net operating income ₹5,00,000 and total capitalisation ₹50,00,000"
+  },
+  {
+   "id": "MTP-M25-S2-FQ4c-OR",
+   "codes": [
+    "F05.17"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-M25-S2 FM Q4(c) OR the concept of over-capitalisation"
+  },
+  {
+   "id": "MTP-M26-S1-FQ2a",
+   "codes": [
+    "F05.06"
+   ],
+   "marks": 6,
+   "format": "Case numerical",
+   "src": "MTP-M26-S1 FM Q2(a) Zanshu Ltd — buyback funded by perpetual debt, MM with taxes"
+  },
+  {
+   "id": "MTP-M26-S1-FQ4c-OR",
+   "codes": [
+    "F05.08"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-M26-S1 FM Q4(c) OR the preference order under the pecking order theory"
+  },
+  {
+   "id": "MTP-S24-S2-FQ1a",
+   "codes": [
+    "F05.13"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-S24-S2 FM Q1(a) X Ltd raising ₹84 lakh — two financing options"
+  },
+  {
+   "id": "MTP-S24-S2-FQ4c",
+   "codes": [
+    "F05.14"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-S24-S2 FM Q4(c) the relationship between EBIT, EPS and MPS"
+  },
+  {
+   "id": "MTP-S25-S2-FQ4b",
+   "codes": [
+    "F05.12"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-S25-S2 FM Q4(b) the process for analysing an optimal capital structure"
+  },
+  {
+   "id": "MTP-S26-S1-FQ1a",
+   "codes": [
+    "F05.06"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "MTP-S26-S1 answer file, FM Q1(a) — valuation of a levered and an unlevered firm"
+  },
+  {
+   "id": "MTP-S26-S2-FQ3a",
+   "codes": [
+    "F05.13"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-S26-S2 FM Q3(a) ABC Limited — equity, debt or preference financing for a 25% expansion"
+  },
+  {
+   "id": "PYQ-M24-Q2b",
+   "codes": [
+    "F05.06"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-M24 Q2(b) levered and unlevered companies of the same business risk — MM approach"
+  },
+  {
+   "id": "PYQ-M25-Q3b",
+   "codes": [
+    "F05.06"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-M25 Q3(b) Z Ltd — unlevered company repurchasing equity by issuing 12% debentures"
+  },
+  {
+   "id": "PYQ-M25-Q4c",
+   "codes": [
+    "F05.08"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "SA-M25 Q4(c) hierarchy of financing under the pecking order theory"
+  },
+  {
+   "id": "PYQ-S24-Q3b",
+   "codes": [
+    "F05.13",
+    "F05.14"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-S24 Q3(b) ER Private Limited — two financing alternatives judged on EPS and market price"
+  },
+  {
+   "id": "PYQ-S24-Q4d-OR",
+   "codes": [
+    "F05.17"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "SA-S24 Q4(d) OR remedies for over-capitalisation"
+  },
+  {
+   "id": "PYQ-S25-Q3a",
+   "codes": [
+    "F05.13"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-S25 Q3(a) AVS Limited — three financing options with slab-wise cost of debt"
+  },
+  {
+   "id": "RTP-J25-FQ6",
+   "codes": [
+    "F05.13"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-J25 FM Q6 Ritu Limited (ICAI label: Financing Decision - Capital Structure)"
+  },
+  {
+   "id": "RTP-J26-FQ11c",
+   "codes": [
+    "F05.17"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-J26 FM Q11(c) causes of over-capitalisation"
+  },
+  {
+   "id": "RTP-J26-FQ7",
+   "codes": [
+    "F05.06"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-J26 FM Q7 J Ltd — MM model with taxes (ICAI label: Capital Structure)"
+  },
+  {
+   "id": "RTP-M24-FQ3",
+   "codes": [
+    "F05.06"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-M24 FM Q3 two companies of the same business risk (ICAI label: Capital Structure)"
+  },
+  {
+   "id": "RTP-M25-FQ6",
+   "codes": [
+    "F05.13"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-M25 FM Q6 Namra Limited (ICAI label: Financing Decision - Capital Structure)"
+  },
+  {
+   "id": "RTP-M26-FQ6",
+   "codes": [
+    "F05.06"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-M26 FM Q6 two companies of the same risk class (ICAI label: Capital Structure)"
+  },
+  {
+   "id": "RTP-S24-FQ6",
+   "codes": [
+    "F05.06"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-S24 FM Q6 Company XYZ, unlevered, cost of equity 20% (ICAI label: Capital Structure)"
+  },
+  {
+   "id": "RTP-S24-FQ7",
+   "codes": [
+    "F05.06"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-S24 FM Q7 two companies of the same risk class (ICAI label: Capital Structure)"
+  },
+  {
+   "id": "RTP-S25-FQ6",
+   "codes": [
+    "F05.13"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-S25 FM Q6 ABC Ltd raising ₹50,00,000 — financing options judged on EPS and WACC"
+  },
+  {
+   "id": "RTP-S25-FQ7",
+   "codes": [
+    "F05.15",
+    "F05.13"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-S25 FM Q7 X Limited and Y Limited — which financing option is best on EPS and WACC"
+  }
+ ]
+}

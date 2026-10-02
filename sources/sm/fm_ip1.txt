@@ -1,0 +1,1162 @@
+<<PAGE 1>>
+Intermediate Course 
+Study Material 
+(Modules 1 to 2)  
+PAPER 6A 
+Financial 
+Management 
+(Relevant for May, 2026 Examination) 
+MODULE – 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+BOARD OF STUDIES 
+THE INSTITUTE OF CHARTERED ACCOUNTANTS OF INDIA 
+© The Institute of Chartered Accountants of India 
+<<PAGE 2>>
+ 
+ 
+ 
+ii 
+This Study Material has been prepared by the faculty of the Board of Studies. The 
+objective of the Study Material is to provide teaching material to the students to 
+enable them to obtain knowledge in the subject. In case students need any 
+clarification or have any suggestion for further improvement of the material 
+contained herein, they may write to the Joint Director, Board of Studies. 
+All care has been taken to provide interpretations and discussions in a manner 
+useful for the students. However, the Study Material has not been specifically 
+discussed by the Council of the Institute or any of its committees and the views 
+expressed herein may not be taken to necessarily represent the views of the Council 
+or any of its Committees. 
+Permission of the Institute is essential for reproduction of any portion of this 
+material. 
+© THE INSTITUTE OF CHARTERED ACCOUNTANTS OF INDIA 
+All rights reserved. No part of this book may be reproduced, stored in a retrieval 
+system, or transmitted, in any form, or by any means, electronic, mechanical, 
+photocopying, recording, or otherwise, without prior permission, in writing, from the 
+publisher. 
+Basic draft of this publication was prepared by CA. (Dr.) Rashmi Goel 
+Edition 
+: 
+July, 2024 
+Reprint 
+: 
+August, 2025 
+Committee/Department 
+: 
+Board of Studies  
+E-mail 
+: 
+bosnoida@icai.in 
+Website 
+: 
+www.icai.org 
+Price 
+: 
+`    /- 
+(For All Modules) 
+ISBN No. 
+: 
+978-81-19472-27-7 
+Published by  
+: 
+The Publication & CDS Directorate on behalf of  
+ 
+ 
+The Institute of Chartered Accountants of India,  
+ 
+ 
+ICAI 
+Bhawan, 
+Post 
+Box 
+No. 
+7100,  
+ 
+ 
+Indraprastha Marg, New Delhi 110 002  (India) 
+Printed by 
+: 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 3>>
+ 
+ 
+ 
+ 
+ 
+ 
+iii 
+BEFORE WE BEGIN…. 
+In the changing dynamics of business environment the role of a Chartered 
+Accountant (CA) is not only restricted to accounting and auditing but has also    
+shifted towards strategic decision making and entrepreneurship. It has necessitated 
+the Chartered Accountancy profession to re-position itself from traditional role of 
+accountants to a global business solution provider. In the era of digitization, form 
+of 
+markets 
+has 
+evolved 
+from 
+brick 
+and 
+mortar 
+to 
+cloud 
+based 
+e-markets, emergence of new financial instruments and currencies opening the 
+avenues of opportunities in the guise of challenges, role of CA has evolved 
+immensely. The CA as a professional dealing with management of financial has to 
+take up diversified role. The world of finance is evolving with each passing day, so 
+to the scope of financial management. The Board of Studies (BoS) of The Institute 
+of Chartered Accountants of India (ICAI) with a motto to provide quality education 
+and training to the aspiring Chartered Accountants has been continuously 
+reviewing and updating the study material and making relevant changes in it. In 
+order to make the aspiring Chartered Accountants contemporaneous and ready to 
+play a key role in the dynamic global business environment; the competence 
+requirements are continuously reviewed to inculcate the requisite professional 
+competence.  
+In order to sustain and grow their financial standing, organisations across the world 
+essentially require managers who are competent in new domains of finance. One 
+of the fundamental domains of finance, financial management deals with the 
+functions relating to how much and which assets are to be acquired, how to raise 
+capital to acquire the assets and what is to be done to maximize the shareholder’s 
+wealth. Financial management comprises the processes of planning and controlling 
+subsystems of funds. 
+A study in financial management will help the students to understand the functions 
+of financial managers, providing with an overview of broad issues and problems 
+that financial managers face in various commercial domains of our economy. This 
+subject introduces various concepts and theories relating to finance, which are 
+fundamental to the methodologies and proficiencies offered as aids to understand, 
+identify, and solve the problems of financial managers. Study of financial 
+management will help the Chartered Accountancy students to develop an acumen, 
+to grow competencies in financing decision, investment decision, dividend decision 
+© The Institute of Chartered Accountants of India 
+<<PAGE 4>>
+ 
+ 
+ 
+iv 
+and working capital management. This Study Material contains all relevant and 
+contemporary topics like P2P lending, Equity funding, Crowd funding, Start-up 
+funding, Credit Granting as detailed out in the syllabus. 
+Under the Revised Scheme of Education and Training, at the Intermediate Level, 
+students are expected not only to acquire professional knowledge but also to 
+develop the ability to apply the knowledge in real life business situations. The 
+process of learning should also help the students in imbibing professional skills, 
+i.e., the intellectual skills and communication skills, necessary for achieving the 
+desired professional competence. 
+The entire syllabus of nine chapters have been grouped into two modules: 
+Module-1: Consisting of six chapters namely: 
+Chapter-1: Scope and Objectives of Financial Management 
+Chapter-2: Types of Financing 
+Chapter-3: Financial Analysis and Planning- Ratio Analysis  
+Chapter-4: Cost of Capital 
+Chapter-5: Financing Decisions- Capital Structure  
+Chapter-6: Financing Decisions- Leverages 
+Module-2: Consisting of three chapters namely: 
+Chapter-7: Investment Decisions 
+Chapter- 8: Dividend Decisions 
+Chapter- 9: Management of Working Capital 
+The content for each chapter at the Intermediate level has been structured in the 
+following manner – 
+1. 
+Comprehensive Learning Outcomes: Learning outcomes which you need to 
+demonstrate after learning each topic have been detailed in the first page of each 
+chapter.  Demonstration of these learning outcomes would help you to achieve the 
+desired level of technical competence. 
+2.  Chapter Overview: As the name suggests, this chart/table would give a broad 
+framework of the contents covered in the chapter. 
+© The Institute of Chartered Accountants of India 
+<<PAGE 5>>
+ 
+ 
+ 
+ 
+ 
+ v 
+3.  Introduction: A brief introduction is given at the beginning of each chapter, 
+which would help you get a feel of the topic. 
+4.  Content: In each chapter, the topics have been covered following ‘step by step’ 
+approach. The concepts are explained in student-friendly manner with the aid of 
+examples/illustrations/diagrams/flow charts/pictorials as per requirement. These 
+value additions would help you develop conceptual clarity and to get a good and 
+quick grasp of the topic.  Diagrams, Pictorials and Flow charts would help you 
+understand the concepts in a better manner.  Illustrations would help you 
+understand the application of concepts/ provisions. More illustrations/ practical 
+questions in Test Your Knowledge section have been added to enable a thorough 
+practice of variety of questions. 
+5.  Illustration with Answers: Illustrations and examples have been included in 
+the Study Material systematically, after discussion on each topic, so that application 
+of the concepts can be understood very clearly. This would also enable you to learn 
+and sharpen your application skills and test your understanding. Illustrations and 
+practical questions have been re-arranged in a systematic way appropriately as per 
+the requirement of each chapter. 
+6.  Summary: A summary of the chapter is given at the end to help you revise 
+what you have learnt.  It would especially help you to revise the chapter(s) quickly 
+the day before the examination. 
+7. 
+Multiple Choice Questions (MCQs) : In the New Scheme of Education and 
+Training, assessment for 30 marks in each paper at the Intermediate and Final level 
+would be by way of case scenario based MCQs. Questions in this segment would 
+comprise of a case scenario followed by a few MCQs based on the case scenario. 
+All case scenario based MCQs would be application oriented. There would be 4 
+options in each MCQ, out of which the student has to choose the correct option.  In 
+the subject of Financial Management, a student has to apply the Financial 
+Management  concepts learnt in solving the MCQs based on the case scenario.   In 
+order to hone the application and analytical skills of students, independent MCQs 
+have been included in every chapter of this Study Material.  Solving these MCQs 
+will enhance your conceptual clarity and sharpen your analytical skills. 
+8. 
+Test Your Knowledge: This comprises of Multiple-Choice Questions (MCQs), 
+Theoretical Questions and Practical Problems with solutions which test the length 
+and breadth of your understanding of the topic. 
+© The Institute of Chartered Accountants of India 
+<<PAGE 6>>
+ 
+ 
+ 
+vi 
+9. 
+Skill Specification Assessment: An indicative Skill Specification Assessment 
+Grid has been incorporated in the Study Material for better understanding of the 
+students. An effort has been made to arrange the questions/illustrations/exercise 
+accordingly. 
+In this Study Material, formats of Financial Statements (i.e., Balance Sheet, Income 
+Statements etc.) and financial terms used are for illustrative purpose only. For 
+appropriate format and applicability of various Standards, students are advised to 
+refer the study material of appropriate subject(s). Further, the solutions/answers 
+contained in the study material are based on certain assumptions, and other logical 
+alternative assumption/ approach/ presentation may be possible. Every effort has 
+been made to remove typing errors (if any)/ clerical errors (if any)/ missing content 
+(if any)/ formatting errors (if any) to make Study Material error free, however, if 
+inadvertently any error is present and found by readers they may send it to us 
+immediately, so that it can be rectified at our end. 
+In case you need any further clarification/ guidance, you may send your queries 
+through ICAI BoS App. 
+ 
+ 
+Happy Reading and Best Wishes! 
+© The Institute of Chartered Accountants of India 
+<<PAGE 7>>
+ 
+ 
+ 
+ 
+ 
+ 
+vii 
+SKILL SPECIFICATION ASSESSMENT GRID 
+Skill Level 
+Manner of Assessment 
+of Skills 
+Illustrative 
+verbs 
+used 
+to 
+construct 
+learning outcomes 
+Level-I: 
+Knowledge 
+and 
+Comprehension 
+Understanding or grasping 
+ability 
+(Defining, 
+stating, 
+enlisting, 
+identifying, 
+and 
+explaining 
+concepts 
+/ 
+provisions/theories/principles 
+relating 
+to 
+the 
+relevant 
+subject area.) 
+List – Preparing a list of.  
+State – Mentioning clearly 
+or fully the details of. 
+Define – Explaining the 
+exact meaning of.  
+Describe – Giving detailed 
+narration of something or 
+key features. 
+Distinguish – Mentioning 
+or 
+highlighting 
+the 
+difference between. 
+Explain 
+– 
+Making 
+the 
+meaning of.  
+Identify 
+– 
+Recognizing 
+something. 
+Illustrate 
+– 
+Explaining 
+something with the help 
+of an example. 
+Combination 
+of 
+verbs: 
+Comprehend and Explain; 
+Identify and explain and 
+similar verbs. 
+© The Institute of Chartered Accountants of India 
+<<PAGE 8>>
+ 
+ 
+ 
+viii 
+Level-II: 
+Application 
+and 
+Analysis 
+Applying and analyzing the 
+concepts learned during the 
+grasping level. 
+(Application: 
+Applying 
+concepts 
+/ 
+provisions 
+/ 
+theories 
+/ 
+principles 
+in 
+problem 
+solving 
+in 
+non-
+complex scenarios.) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Application: 
+Apply 
+– 
+Putting 
+theoretical knowledge for 
+practical purpose. 
+Calculate – Arriving at 
+some value by following 
+numerical/ 
+analytical 
+procedures. 
+Compute – Arriving at 
+some value by following 
+numerical/ 
+analytical 
+procedures. 
+Determine – Ascertain or 
+establish 
+exactly 
+by 
+calculation or workings. 
+Find/ Find out- Ascertain 
+or establish exactly by 
+calculation or workings. 
+Demonstrate – Proving 
+something with certainty 
+using practical means. 
+Prepare 
+– 
+Making 
+something ready for any 
+use. 
+Reconcile – Making or 
+proving 
+consistency/ 
+compatibility.  
+Solve – Find an answer or 
+solution to something. 
+Tabulate – Exhibiting the 
+required information in a 
+tabular form. 
+Combination of verbs:  
+Compare 
+and 
+contrast  
+similar verbs. 
+© The Institute of Chartered Accountants of India 
+<<PAGE 9>>
+ 
+ 
+ 
+ 
+ 
+ 
+ix 
+ 
+(Analysis: 
+Applying, 
+comparing 
+and 
+analysing 
+concepts 
+/ 
+provisions 
+/ 
+theories 
+/ 
+principles 
+in 
+problem) 
+solving 
+in 
+moderately 
+complex 
+scenarios.) 
+Analysis: 
+Analyze 
+– 
+Examining 
+something in detail. 
+Categorize – Arranging 
+something in a predefined 
+group or class or division. 
+Compare – Examining the 
+differences or similarities 
+between.  
+Construct – Building or 
+compiling. 
+Discuss – Writing about or 
+examining in detail. 
+Interpret – Translating in 
+intelligible or familiar or 
+understandable terms. 
+Combination of verbs: 
+Analyse and apply similar 
+verbs. 
+ 
+ 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 10>>
+ 
+ 
+ 
+x 
+ SYLLABUS 
+PAPER – 6 : FINANCIAL MANAGEMENT AND STRATEGIC 
+MANAGEMENT 
+(One paper – Three hours – 100 Marks)  
+SECTION A : FINANCIAL MANAGEMENT (MARKS: 50) 
+Objective: 
+(a) 
+To develop an understanding of various aspects of Financial Management 
+and acquire the ability to apply such knowledge in decision-making.  
+(b) 
+To understand various finance functions like financing decision, investment 
+decision, dividend decision. 
+(c) 
+To develop an understanding of working capital management and its 
+component. 
+1. 
+Financial Management and Financial Analysis  
+(i) 
+Introduction to Financial Management Function 
+(a) 
+Objective and scope of financial management. 
+(b) 
+Profit Maximisation, Wealth Maximisation and Value Creation. 
+(c) 
+Role of Financial Manager and Financial Controller.  
+(d) 
+Financial management environment. 
+(e) 
+Functions of finance executives in an organization. 
+(f) 
+Financial distress and insolvency. 
+(ii) 
+Financial Analysis through Ratios 
+(a) 
+Users of the financial analysis 
+(b) 
+Sources of financial data for analysis 
+(c) 
+Calculation and Interpretation of ratios. 
+(d) 
+Limitations of ratio analysis 
+© The Institute of Chartered Accountants of India 
+<<PAGE 11>>
+ 
+ 
+ 
+ 
+ 
+ 
+xi 
+2. 
+Financing Decisions and Cost of Capital 
+  
+(i) 
+Sources of Finance 
+(a) 
+Different Sources of Finance, Characteristics of different types of 
+long-term debt and equity finance, Method of raising long term 
+finance 
+(b) 
+Different Sources of short-term Finance 
+(c) 
+Contemporary sources of funding- P2P lending, Equity funding, 
+Crowd funding, Start-up funding, etc. 
+(d) 
+Internal fund as a source of finance 
+(e) 
+International sources of finance 
+(f) 
+Other sources of finance- Lease Financing, Sale and lease back, 
+Convertible debt, Venture capital, Grants etc. 
+(ii)  Cost of Capital 
+(a) 
+Significance of cost of capital 
+(b) 
+Factors of cost of capital 
+(c) 
+Measurement of costs of individual components of capital 
+(d) 
+Weighted average cost of capital (WACC) 
+(e) 
+Marginal cost of capital 
+(iii) Capital Structure Decisions 
+  
+(a) 
+Significance of capital structure 
+(b) 
+Determinants of capital structure 
+(c) 
+Capital structure planning and designing 
+(d) 
+Designing of optimum capital structure 
+(e) 
+Theories of Capital Structure and value of the firm- relevancy and 
+Irrelevancy of capital structure. 
+(f) 
+EBIT- EPS Analysis, Breakeven- EBIT Analysis. 
+(g) 
+Under/ Over Capitalisation. 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 12>>
+ 
+ 
+ 
+xii 
+(iv) Leverages 
+(a) 
+Types of Leverages- Operating, Financial and Combined 
+(b) 
+Analysis of leverages 
+3.  
+Capital Investment and Dividend Decisions  
+(i) 
+Capital Investment Decisions 
+(a) 
+Objective of capital investment decisions 
+(b) 
+Methods of Investment appraisal: 
+- 
+ 
+Payback period, Discounted payback period 
+- 
+ 
+Accounting Rate of Return (ARR),  
+- 
+ 
+Net Present Value (NPV) - The meaning of NPV, Strengths 
+and limitations of NPV method, The working capital 
+adjustment in an NPV analysis, Capital rationing, Equivalent 
+Annual Costs,  
+- 
+ 
+Internal Rate of return (IRR)- Limitations of the IRR 
+method, Multiple IRRs,  
+- 
+ 
+Modified Internal Rate of Return (MIRR)- Definition and 
+explanation of MIRR, Process for calculating MIRR, 
+Strengths of the MIRR approach. 
+- 
+ 
+Profitability Index 
+(ii) 
+Dividend Decisions 
+(a) 
+Basics of Dividends 
+(b) 
+Cash dividend, stock dividend/ bonus share, stock-splits, share 
+buy back 
+(c) 
+Determinants of dividend 
+(d) 
+Relevancy and Irrelevancy of Dividend Policies- Traditional 
+Approach, Walter’s model, Gordon’s model, Modigliani and Miller 
+(MM) Hypothesis. 
+© The Institute of Chartered Accountants of India 
+<<PAGE 13>>
+ 
+ 
+ 
+ 
+ 
+ 
+xiii 
+4.  
+Management of Working Capital  
+(a) 
+The management of working capital- Liquidity and Profitability 
+(b) 
+The Working capital financing decisions- Primary and Secondary 
+Sources of Liquidity 
+(c) 
+The working Capital Cycle (operating Cycle), Effectiveness of 
+Working Capital based on its operating and cash conversion 
+cycles 
+(d) 
+Assessment of working capital requirement 
+(e) 
+Management of Accounts Receivables (Debtors) 
+(f) 
+Factoring and Forfaiting 
+(g) 
+Credit Management 
+- Credit granting 
+- Monitoring accounts receivables 
+- Debt collection 
+(h) 
+Management of Accounts Payables (Creditors) 
+(i) 
+Management of Cash, Treasury management 
+(j) 
+Banking norms of working capital finance 
+ 
+ 
+ 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 14>>
+ 
+ 
+ 
+xiv 
+CONTENTS 
+MODULE – 1 
+Chapter-1: Scope and Objectives of Financial Management 
+Chapter-2: Types of Financing 
+Chapter-3: Financial Analysis and Planning-Ratio Analysis 
+Chapter-4: Cost of Capital 
+Chapter-5: Financing Decisions-Capital Structure 
+Chapter-6:  Financing Decisions-Leverages 
+MODULE - 2 
+Chapter-7: Investment Decisions 
+Chapter-8: Dividend Decisions 
+Chapter-9: Management of Working Capital 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 15>>
+ 
+ 
+ 
+ 
+ 
+ 
+xv 
+DETAILED CONTENTS: MODULE – 1 
+CHAPTER 1 : SCOPE AND OBJECTIVES OF FINANCIAL MANAGEMENT .....1.1-1.29 
+Learning Outcomes ................................................................................................................. 1.1 
+Chapter Overview .................................................................................................................... 1.2 
+1. 
+Introduction ................................................................................................................. 1.2 
+2. 
+Meaning of Financial Management ...................................................................... 1.3 
+ 
+2.1  
+Procurement of Funds ................................................................................. 1.4 
+ 
+2.2  
+Effective Utilisation of Funds ..................................................................... 1.7 
+3. 
+Evolution of Financial Management ..................................................................... 1.7 
+4. 
+Finance Functions/ Finance Decision .................................................................... 1.8 
+5. 
+Importance of Financial Management ............................................................... 1.10 
+6. 
+Scope of Financial Management .......................................................................... 1.11 
+7. 
+Objectives of Financial Management ................................................................. 1.12 
+ 
+7.1  
+Profit Maximisation .................................................................................... 1.13 
+ 
+7.2  
+Wealth Maximisation/ Value creation ................................................... 1.14 
+8. 
+Conflicts in Profit versus Value Maximization Principle ................................ 1.16 
+9. 
+Role of Finance Executive ...................................................................................... 1.18 
+ 
+9.1 
+Role of Finance Executive in today’s  
+ 
+World vis-a-vis in the past ....................................................................... 1.20 
+10. 
+Financial Distress and Insolvency ........................................................................ 1.21 
+11. 
+Relationship of Financial Management with Related Disciplines ............... 1.21 
+ 
+11.1 
+Financial Management and Accounting ............................................... 1.21 
+ 
+11.2 
+Financial Management and Other Related Disciplines .................... 1.23 
+ 
+© The Institute of Chartered Accountants of India 
+<<PAGE 16>>
+ 
+ 
+ 
+xvi 
+12. 
+Agency Problem and Agency Cost ...................................................................... 1.24 
+Summary .................................................................................................................................. 1.25 
+Test Your Knowledge ............................................................................................................ 1.26 
+Multiple Choice Questions (MCQs) ................................................................................... 1.26 
+Theoretical Questions ........................................................................................................... 1.28 
+Answers to the MCQs ........................................................................................................... 1.29 
+Answers to the Theoretical Questions ............................................................................. 1.29 
+CHAPTER 2 : TYPES OF FINANCING ...............................................................2.1-2.46 
+Learning Outcomes ................................................................................................................. 2.1 
+Chapter Overview .................................................................................................................... 2.2 
+1. 
+Financial Needs and Sources of Finance of a Business ................................... 2.2 
+2. 
+Classification of Financial Sources ......................................................................... 2.3 
+ 
+2.1  
+Sources of Finance based on Basic Sources .......................................... 2.4 
+ 
+2.2  
+Sources of Finance based on Maturity of Payment ............................ 2.4 
+ 
+2.3 
+Sources of Finance based on Ownership and Control ....................... 2.5 
+3. 
+Long-term Sources of Finance ............................................................................... 2.5 
+ 
+3.1  
+Owners Capital or Equity Capital ............................................................ .2.5 
+ 
+3.2  
+Preference Share Capital ............................................................................ 2.7 
+ 
+3.3  
+Retained Earnings ....................................................................................... 2.10 
+ 
+3.4  
+Debentures ................................................................................................... 2.10 
+ 
+3.5 
+Bond ............................................................................................................... 2.13 
+ 
+3.6  
+Loans from Financial Institutions ........................................................... 2.16 
+ 
+3.7  
+Loans from Commercial Banks ............................................................... 2.17 
+4. 
+Venture Capital Financing ...................................................................................... 2.18 
+ 
+4.1  
+Meaning of Venture Capital Financing ................................................. 2.18 
+ 
+4.2  
+Characteristics of Venture Capital Financing ...................................... 2.18 
+© The Institute of Chartered Accountants of India 
+<<PAGE 17>>
+ 
+ 
+ 
+ 
+ 
+ 
+xvii 
+ 
+4.3  
+Methods of Venture Capital Financing ................................................. 2.19 
+5. 
+Debt Securitisation .................................................................................................. 2.19 
+6. 
+Lease Financing......................................................................................................... 2.20 
+ 
+6.1  
+Types of Lease Contracts .......................................................................... 2.21 
+ 
+6.2  
+Other Types of Leases ............................................................................... 2.23 
+7. 
+Short-term Sources of Finance ............................................................................. 2.24 
+8. 
+Other Sources of Financing ................................................................................... 2.32 
+9. 
+International Financing ........................................................................................... 2.35 
+10.  
+Contemporary Sources of Funding ..................................................................... 2.41 
+Summary .................................................................................................................................. 2.42 
+Test Your Knowledge ............................................................................................................ 2.43 
+Multiple Choice Questions (MCQs) ................................................................................... 2.43 
+Theoretical Questions ........................................................................................................... 2.46 
+Answers to the MCQs .......................................................................................................... .2.46 
+Answers to the Theoretical Questions ............................................................................. 2.46 
+CHAPTER 3 : FINANCIAL ANALYSIS AND PLANNING – RATIO 
+ 
+          ANALYSIS ....................................................................................3.1-3.99 
+Learning Outcomes ................................................................................................................ .3.1 
+Chapter Overview .................................................................................................................... 3.2 
+1. 
+Introduction .................................................................................................................. 3.2 
+2. 
+Ratio and Ratio Analysis ............................................................................................ 3.3 
+ 
+2.1  
+Definition of Ratio ........................................................................................ 3.3 
+ 
+2.2  
+Ratio Analysis ................................................................................................. 3.3 
+ 
+2.3  
+Sources of Financial Data for Analysis .................................................... 3.4 
+3. 
+Types of Ratios ............................................................................................................ 3.4 
+ 
+3.1  
+Liquidity Ratios .............................................................................................. 3.5 
+© The Institute of Chartered Accountants of India 
+<<PAGE 18>>
+ 
+ 
+ 
+xviii 
+ 
+3.2  
+Long-term Solvency Ratios/ Leverage Ratios ....................................... 3.8 
+ 
+ 
+3.2.1 
+Capital Structure Ratios................................................................. 3.9 
+ 
+ 
+3.2.2  Coverage Ratios ............................................................................ 3.11 
+ 
+3.3  
+Activity Ratios/ Efficiency Ratios/ Performance Ratios/  
+ 
+ 
+Turnover Ratios ........................................................................................... 3.13 
+ 
+3.4  
+Profitability Ratios ...................................................................................... 3.18 
+ 
+ 
+3.4.1  Profitability Ratios based on Sales ........................................... 3.20 
+ 
+ 
+3.4.2 
+Profitability Ratios related to Overall Return on Assets/ 
+ 
+ 
+ 
+Investments .................................................................................... 3.22 
+ 
+ 
+3.4.3 
+Profitability Ratios Required for Analysis from Owner’s  
+ 
+ 
+ 
+Point of View .................................................................................. 3.27 
+ 
+ 
+3.4.4  Profitability Ratios related to market/valuation/Investors 3.28 
+4. 
+Users and Objective of Financial Analysis: A Bird's Eye View ...................... 3.30 
+5. 
+Application of Ratio Analysis in Financial Decision Making ......................... 3.33 
+ 
+5.1  
+Financial Ratios for Evaluating Performance ...................................... 3.34 
+6. 
+Limitations of Financial Ratios .............................................................................. 3.36 
+7. 
+Financial Analysis ..................................................................................................... 3.37 
+8. 
+Summary of Ratios ................................................................................................... 3.38 
+Summary .................................................................................................................................. 3.60 
+Test Your Knowledge ............................................................................................................ 3.62 
+Multiple Choice Questions (MCQs) ................................................................................... 3.62 
+Theoretical Questions ........................................................................................................... 3.66 
+Practical Problems ................................................................................................................. 3.66 
+Case Scenarios ........................................................................................................................ 3.72 
+Answers to the MCQs ........................................................................................................... 3.75 
+Answers to the Theoretical Questions ............................................................................. 3.76 
+Answers to the Practical Problems .................................................................................... 3.76 
+Answers to the Case Scenarios .......................................................................................... 3.97 
+© The Institute of Chartered Accountants of India 
+<<PAGE 19>>
+ 
+ 
+ 
+ 
+ 
+ 
+xix 
+ 
+CHAPTER 4 : COST OF CAPITAL ......................................................................4.1-4.60 
+Learning Outcomes ................................................................................................................ .4.1 
+Chapter Overview .................................................................................................................... 4.1 
+1. 
+Introduction ................................................................................................................. 4.2 
+2. 
+Meaning of Cost of Capital ..................................................................................... 4.2 
+3. 
+Significance of Cost of Capital ............................................................................... 4.2 
+4. 
+Determination of Cost of Capital ........................................................................... 4.3 
+5. 
+Cost of Long-Term Debt (KD) .................................................................................. 4.4 
+ 
+5.1  
+Features of Debentures or Bonds ............................................................ 4.5 
+ 
+5.2  
+Cost of Irredeemable Debentures ............................................................ 4.6 
+ 
+5.3 
+Cost of Redeemable Debentures (using approximation method) .. 4.8 
+ 
+ 
+5.3.1 
+Cost of Debt using Present value method [Yield to 
+ 
+ 
+maturity (YTM) approach] ........................................................... 4.10 
+ 
+ 
+5.3.2  Amortisation of Bond .................................................................. 4.13 
+ 
+5.4  
+Cost of Convertible Debentures ............................................................. 4.14 
+6. 
+Cost of Preference Share Capital (KP) ................................................................. 4.16 
+ 
+6.1 
+Cost of Irredeemable Preference Shares .............................................. 4.16 
+ 
+6.2  
+Cost of Redeemable Preference Shares ............................................... 4.18 
+7. 
+Cost of Equity Share Capital (Ke) .......................................................................... 4.19 
+ 
+7.1  
+Dividend Price Approach .......................................................................... 4.20 
+ 
+7.2  
+Earnings Price Approach ........................................................................... 4.20 
+ 
+7.3  
+Growth Approach or Gordon’s Model .................................................. 4.21 
+ 
+7.4  
+Realized Yield Approach ........................................................................... 4.24 
+ 
+7.5  
+Capital Asset Pricing Model (CAPM) Approach ................................. 4.25 
+8. 
+Cost of Retained Earnings(Kr) ............................................................................... 4.28 
+© The Institute of Chartered Accountants of India 
+<<PAGE 20>>
+ 
+ 
+ 
+xx 
+9. 
+Weighted Average Cost of Capital (WACC) ...................................................... 4.31 
+ 
+9.1  
+Choice of Weights ...................................................................................... 4.33 
+10. 
+Marginal Cost of Capital ........................................................................................ 4.38 
+Summary .................................................................................................................................. 4.42 
+Test Your Knowledge ............................................................................................................ 4.43 
+Multiple Choice Questions (MCQs) ................................................................................... 4.43 
+Theoretical Questions ........................................................................................................... 4.45 
+Practical Questions ................................................................................................................ 4.45 
+Case Scenarios ........................................................................................................................ 4.49 
+Answers to the MCQs ........................................................................................................... 4.51 
+Answers to the Theoretical Questions ............................................................................. 4.51 
+Answers to the Practical Problems .................................................................................... 4.52 
+Answers to the Case Scenarios .......................................................................................... 4.60 
+CHAPTER 5 : FINANCING DECISIONS- CAPITAL STRUCTURE .....................5.1-5.76 
+Learning Outcomes ................................................................................................................. 5.1 
+Chapter Overview .................................................................................................................... 5.2 
+1. 
+Meaning of Capital Structure .................................................................................. 5.2 
+2. 
+Capital Structure Theories ....................................................................................... 5.5 
+ 
+2.1 
+Net Income (NI) Approach ......................................................................... 5.6 
+ 
+2.2 
+Traditional Approach ................................................................................... 5.8 
+ 
+2.3 
+Net Operating Income (NOI) Approach ............................................... 5.11 
+ 
+2.4 
+Modigliani-Miller (MM) Approach ......................................................... 5.15 
+ 
+2.5 
+The Trade-off Theory ................................................................................. 5.27 
+ 
+2.6 
+Pecking Order Theory ................................................................................ 5.29 
+3. 
+Factors Determining Capital Structure ............................................................... 5.30 
+ 
+3.1 
+Choice of source of funds ........................................................................ 5.30 
+© The Institute of Chartered Accountants of India 
+<<PAGE 21>>
+ 
+ 
+ 
+ 
+ 
+ 
+xxi 
+ 
+3.2 
+Factors affecting capital structure ......................................................... 5.30 
+4. 
+Optimal Capital Structure ...................................................................................... 5.32 
+5. 
+EBIT-EPS-MPS Analysis ........................................................................................... 5.33 
+ 
+5.1 
+Relationship between EBIT-EPS-MPS .................................................... 5.33 
+ 
+5.2 
+Financial Break-Even Point (BEP) and Indifference Point Analysis ..... 5.36 
+6. 
+Over-Capitalisation and Under-Capitalisation ................................................. 5.45 
+ 
+6.1 
+Over-Capitalisation .................................................................................... 5.45 
+ 
+6.2 
+Under-Capitalisation .................................................................................. 5.46 
+ 
+6.3 
+Over-Capitalisation vis-à-vis Under-Capitalisation ........................... 5.47 
+Summary .................................................................................................................................. 5.47 
+Test Your Knowledge ............................................................................................................ 5.48 
+Multiple Choice Questions (MCQs)  ................................................................................. 5.48 
+Theoretical Questions ........................................................................................................... 5.51 
+Practical Problems ................................................................................................................. 5.52 
+Case Scenarios ........................................................................................................................ 5.57 
+Answers to the MCQs ........................................................................................................... 5.59 
+Answers to the Theoretical Questions ............................................................................. 5.59 
+Answers to the Practical Problems .................................................................................... 5.59 
+Answers to the Case Scenarios .......................................................................................... 5.75 
+CHAPTER 6 : FINANCING DECISIONS - LEVERAGES .....................................6.1-6.56 
+Learning Outcomes ................................................................................................................. 6.1 
+Chapter Overview .................................................................................................................... 6.2 
+1. 
+Introduction ................................................................................................................. 6.2 
+2. 
+Meaning and Types of Leverages .......................................................................... 6.3 
+ 
+2.1    
+Meaning of Leverage ................................................................................... 6.3 
+ 
+2.2    
+Types of Leverage ......................................................................................... 6.3 
+© The Institute of Chartered Accountants of India 
+<<PAGE 22>>
+ 
+ 
+ 
+xxii 
+ 
+2.3 
+Chart showing Degree of Operating Leverage, Financial Leverage 
+ 
+and Combined Leverage ............................................................................ .6.4 
+3. 
+Operating Leverage ................................................................................................... 6.5 
+ 
+3.1 
+Degree of Operating Leverage (DOL) ..................................................... 6.5 
+ 
+3.2 
+Break-Even Analysis and Operating Leverage ...................................... 6.6 
+ 
+3.3 
+Margin of Safety (MOS) and Operating Leverage (OL) ...................... 6.8 
+4. 
+Financial Leverage .................................................................................................... 6.14 
+ 
+4.1 
+Degree of Financial Leverage (DFL) ....................................................... 6.14 
+ 
+4.2 
+Financial Leverage as ‘Trading on Equity’ ............................................ 6.17 
+ 
+4.3 
+Financial Leverage as a ‘Double edged Sword’ .................................. 6.18 
+5. 
+Combined Leverage ................................................................................................. 6.19 
+ 
+5.1 
+Degree of Combined Leverage (DCL) ................................................... 6.20 
+ 
+5.2 
+Analysis of Combined Leverage ............................................................. 6.20 
+Summary .................................................................................................................................. 6.27 
+Test Your Knowledge ............................................................................................................ 6.27 
+Multiple Choice Questions (MCQs) ................................................................................... 6.27 
+Theoretical Questions ........................................................................................................... 6.31 
+Practical Problems ................................................................................................................. 6.32 
+Case Scenarios ........................................................................................................................ 6.38 
+Answers to the MCQs ........................................................................................................... 6.40 
+Answers to the Theoretical Questions ............................................................................. 6.40 
+Answers to the Practical Problems .................................................................................... 6.40 
+Answers to the Case Scenarios .......................................................................................... 6.54 
+APPENDIX 
+Financial Tables ................................................................................................................ A.1-A.8 
+ 
+© The Institute of Chartered Accountants of India 

@@ -1,0 +1,310 @@
+{
+ "chapter": "F04",
+ "note": "Official questions mapped to FM Chapter 4 (Cost of Capital). Primary code first. RTP assignment follows ICAI's own topic labels; past papers and MTPs follow the cost the question computes.",
+ "atoms": [
+  {
+   "id": "PYQ-J25-Q2a",
+   "codes": [
+    "F04.20",
+    "F04.22",
+    "F04.11"
+   ],
+   "marks": 7,
+   "format": "Case numerical",
+   "src": "SA-J25 Q2(a) CMC Limited — CAPM, convertible debenture, bank term loan, WACC on market value weights"
+  },
+  {
+   "id": "PYQ-J26-Q1c",
+   "codes": [
+    "F04.20",
+    "F04.22",
+    "F04.13"
+   ],
+   "marks": 10,
+   "format": "Case MCQs",
+   "src": "SA-J26 Q1(c) PQR Ltd — CAPM, irredeemable preference, convertible debentures, WACC, MPS"
+  },
+  {
+   "id": "PYQ-M24-Q2a",
+   "codes": [
+    "F04.11",
+    "F04.22",
+    "F04.14"
+   ],
+   "marks": 7,
+   "format": "Case numerical",
+   "src": "SA-M24 Q2(a) Shine Ltd — convertible debentures, redeemable preference, term loan, WACC"
+  },
+  {
+   "id": "PYQ-M25-Q2a",
+   "codes": [
+    "F04.22",
+    "F04.20"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-M25 Q2(a) B Ltd — cost of equity, preference and debt, WACC"
+  },
+  {
+   "id": "PYQ-M26-Q1b",
+   "codes": [
+    "F04.09",
+    "F04.11"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-M26 Q1(b) Z Ltd — 8% convertible debentures, five-year maturity"
+  },
+  {
+   "id": "PYQ-S24-Q2a",
+   "codes": [
+    "F04.09",
+    "F04.22",
+    "F04.14"
+   ],
+   "marks": 7,
+   "format": "Case numerical",
+   "src": "SA-S24 Q2(a) T Limited — CAPM, debentures on yield to maturity, redeemable preference, WACC"
+  },
+  {
+   "id": "PYQ-S25-Q1a",
+   "codes": [
+    "F04.16",
+    "F04.22"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-S25 Q1(a) RSA Limited — cost of each source and WACC"
+  },
+  {
+   "id": "PYQ-S25-Q3b",
+   "codes": [
+    "F04.08"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-S25 Q3(b) 20,000 18% debentures — cost using the approximation method"
+  },
+  {
+   "id": "RTP-J25-FQ5",
+   "codes": [
+    "F04.22"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-J25 FM Q5 Samyaktva Limited (ICAI label: Financing Decision - Cost of Capital)"
+  },
+  {
+   "id": "RTP-M24-FQ2",
+   "codes": [
+    "F04.24",
+    "F04.22"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-M24 FM Q2 Totto Ltd — marginal cost of capital (ICAI label: Cost of Capital)"
+  },
+  {
+   "id": "RTP-M25-FQ2",
+   "codes": [
+    "F04.18",
+    "F04.16"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-M25 FM Q2 ACB Ltd — cost of equity from dividend and growth"
+  },
+  {
+   "id": "RTP-M25-FQ5",
+   "codes": [
+    "F04.22"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-M25 FM Q5 Paramhans Limited — WACC"
+  },
+  {
+   "id": "RTP-M26-FQ5",
+   "codes": [
+    "F04.23",
+    "F04.20"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-M26 FM Q5 Zebra Dynamics Ltd — book value versus market value weights, CAPM (ICAI label: Cost of Capital)"
+  },
+  {
+   "id": "RTP-S24-FQ5",
+   "codes": [
+    "F04.22",
+    "F04.18"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-S24 FM Q5 BS Ltd — WACC (ICAI label: Cost of Capital)"
+  },
+  {
+   "id": "RTP-S25-FQ3",
+   "codes": [
+    "F04.04"
+   ],
+   "marks": null,
+   "format": "MCQ",
+   "src": "RTP-S25 FM Q3 true/false statements on debt-equity and floating costs (ICAI label: Cost of Capital)"
+  },
+  {
+   "id": "RTP-S25-FQ5",
+   "codes": [
+    "F04.21",
+    "F04.24"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-S25 FM Q5 Lavanya Limited — additional finance, cost of retained earnings and equity"
+  },
+  {
+   "id": "RTP-S26-FQ1",
+   "codes": [
+    "F04.22",
+    "F04.23"
+   ],
+   "marks": null,
+   "format": "Case MCQs",
+   "src": "RTP-S26 FM Q1 AURO Engineering — existing and revised WACC, revised Ke, after-tax cost of new debentures"
+  },
+  {
+   "id": "MTP-J25-S1-FQ1b",
+   "codes": [
+    "F04.18",
+    "F04.22"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-J25-S1 FM Q1(b) P Ltd — WACC before and after additional debt"
+  },
+  {
+   "id": "MTP-J26-S1-FQ1a",
+   "codes": [
+    "F04.24",
+    "F04.22"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-J26-S1 FM Q1(a) Divine Limited — optimal capital structure and marginal cost"
+  },
+  {
+   "id": "MTP-J26-S2-FQ3b",
+   "codes": [
+    "F04.18"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-J26-S2 FM Q3(b) AB Co. — cost of equity with a long-term growth rate"
+  },
+  {
+   "id": "MTP-M24-S1-FQ3a",
+   "codes": [
+    "F04.24"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-M24-S1 FM Q3(a) Ram Ltd — cut-off rate and marginal cost of capital"
+  },
+  {
+   "id": "MTP-M24-S1-FQ3b",
+   "codes": [
+    "F04.16"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-M24-S1 FM Q3(b) dividend-price approach to the cost of equity"
+  },
+  {
+   "id": "MTP-M25-S1-FQ2a",
+   "codes": [
+    "F04.22"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-M25-S1 FM Q2(a) Q Ltd — WACC from a book-value capital structure"
+  },
+  {
+   "id": "MTP-M25-S2-FQ1b",
+   "codes": [
+    "F04.11"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-M25-S2 FM Q1(b) Bhanu Limited — 10% convertible bonds"
+  },
+  {
+   "id": "MTP-S24-S1-FQ1b",
+   "codes": [
+    "F04.24"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-S24-S1 FM Q1(b) Gitarth Limited — cut-off rate for two projects"
+  },
+  {
+   "id": "MTP-S24-S2-FQ3a",
+   "codes": [
+    "F04.23",
+    "F04.22"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-S24-S2 FM Q3(a) WACC using market value weights"
+  },
+  {
+   "id": "MTP-S25-S1-FQ3a",
+   "codes": [
+    "F04.09",
+    "F04.11"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-S25-S1 FM Q3(a) 15% convertible debentures with a six-year maturity"
+  },
+  {
+   "id": "MTP-S25-S2-FQ1c",
+   "codes": [
+    "F04.22",
+    "F04.24"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-S25-S2 FM Q1(c) ABC Ltd — optimum capital structure and WACC"
+  },
+  {
+   "id": "MTP-S26-S1-FQ1b",
+   "codes": [
+    "F04.08",
+    "F04.16",
+    "F04.05"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "MTP-S26-S1 answer file, FM Q1(b) — cost of equity with flotation cost, cost of debt"
+  },
+  {
+   "id": "MTP-S26-S1-FQ1c",
+   "codes": [
+    "F04.23",
+    "F04.22"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "MTP-S26-S1 answer file, FM Q1(c) — WACC with market value weights"
+  },
+  {
+   "id": "MTP-S26-S2-FQ2a",
+   "codes": [
+    "F04.20"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-S26-S2 FM Q2(a) Vertex Industries Ltd — cost of equity using CAPM"
+  }
+ ]
+}

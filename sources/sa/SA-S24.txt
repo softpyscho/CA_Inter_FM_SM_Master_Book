@@ -1,0 +1,2059 @@
+<<PAGE 1>>
+PAPER – 6: FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+SECTION A: FINANCIAL MANAGEMENT 
+PART - I 
+Case Scenario 1 
+RS Limited is manufacturing selling soft drinks in India. The production process 
+involves one important process which increases the shelf life of the soft drinks. 
+Presently, the machine used for this purpose is an old one, in which wastage due 
+to breakage of glass bottles is considerably high and due to its limited capacity, 
+the company is not in a position to increase its production. 
+The production manager has approached the CEO of RS Limited for purchasing 
+an automated machine, which will drastically reduce the wastage due to 
+breakage during the process of increasing shelf life of soft drinks. The automated 
+machine will support increase in production. The production manager is confident 
+that acquisition of the automated machine will be beneficial for the company. 
+Other information is as under : 
+• 
+With the introduction of automated machine, additional sales and related 
+costs over the next five years would be as follows: 
+Year 
+Additional 
+Sales Unit 
+Selling 
+price per 
+unit (`) 
+ 
+Variable 
+Manufacturing, 
+Selling and 
+Distribution 
+cost per unit 
+(`) 
+Additional 
+fixed Selling 
+& Distribution 
+Cost (`) 
+1 
+20,000 
+30 
+20 
+25,000 
+2 
+25,000 
+30 
+20 
+30,000 
+3 
+30,000 
+35 
+20 
+30,000 
+4 
+32,000 
+35 
+22 
+35,000 
+5 
+28,000 
+35 
+22 
+35,000 
+<<PAGE 2>>
+ 
+INTERMEDIATE EXAMINATION: SEPTEMBER 2024 
+ 
+SUGGESTED ANSWER 
+2 
+• 
+Cost of acquisition of automated machine is ` 5,00,000. Residual value of 
+the automated machine at the end of its life of 5 years will be ` 50,000. 
+Depreciation on automated machine will be under Straight line method. 
+Depreciation is not included in the cost stated above. 
+• 
+The Production Manager has estimated the cost savings (before tax) due to 
+reduction in breakages as under: 
+ 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+Savings Cost due 
+reduction 
+in 
+breakages 
+` 15,000 
+` 15,000 
+` 20,000 
+` 20,000 ` 20,000 
+• 
+The machine which is being used at present has zero written down value 
+and if sold, would fetch an amount of ` 10,000 only. 
+• 
+The cost of capital of the company is 10%. The tax rate applicable for the 
+company is 30%. Ignore capital gain taxes. 
+P.V Factors of ` 1 at year end at 10%: 
+ 
+Year 1 
+Year 2 
+Year 3 
+Year 4 
+Year 5 
+P.V Factor of ` 1 
+0.909 
+0.826 
+0.751 
+0.683 
+0.621 
+You are required to answer the following Questions 1 to 5 : 
+1. 
+What is the Profit before Taxes for the Year 2, Year 3 and Year 4 of 
+the investment proposal ? 
+(A) 
+` 2,35,000, ` 4,40,000, ` 4,01,000 
+(B) 
+` 1,45,000, ` 3,50,000, ` 3,11,000 
+(C) 
+` 2,05,000, ` 4,10,000, ` 3,66,000 
+(D) 
+` 1,40,000, ` 3,60,000, ` 3,31,000 
+2. 
+What is the Cash Inflow after Taxes for the Year 1, Year 2 and Year 3 of the 
+investment proposal ? 
+(A) 
+` 1,50,000, ` 1,85,000, ` 3,45,000 
+(B) 
+`1,65,000, ` 1,95,500, ` 3,55,000 
+(C) 
+` 1,60,000, ` 1,91,500, ` 3,35,000 
+<<PAGE 3>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+3 
+(D) 
+` 1,70,000, ` 1,90,000, ` 3,40,000 
+3. 
+What is the Discounted Cash Inflow after Taxes for the Year 1, Year 2 
+and Year 3 of the investment proposal ? 
+(A) 
+` 1,49,985, ` 1,61,483, ` 2,66,605 
+(B) 
+` 1,36,350, ` 1,52,810, ` 2,59,095 
+(C) 
+` 1,54,530, ` 1,56,940, ` 2,55,340 
+(D) 
+` 1,45,440, ` 1,58,179, ` 2,51,585 
+4. 
+What is the Net Present Value of the investment proposal? 
+(A) 
+` 3,78,990.30 
+(B) 
+` 4,54,980.60 
+(C) 
+` 4,74,890.40 
+(D) 
+` 3,89,260.70 
+5. 
+What is the Discounted Payback period of the investment proposal ? 
+(A) 
+2.74 years 
+(B) 
+2.87 years 
+(C) 
+2.38 years 
+(D) 
+2.48 years 
+6. 
+A company has sales of ` 6,00,000, variable cost of ` 2,40,000, fixed 
+operating cost of ` 2,70,000. The financial leverage is 2.5. The company 
+wants to double its EBIT. The percentage change in ales required in order 
+to double its EBIT will be : 
+(A) 
+50% 
+ 
+(B) 
+25% 
+(C) 
+40% 
+(D) 
+80% 
+7. 
+The capital structure of KPS Limited includes 5,00,000 equity shares of ` 10 
+each. The market price of equity share (cum-dividend) is ` 75 per share. The 
+company has declared to pay dividend on equity shares @ ` 6 per share 
+<<PAGE 4>>
+ 
+INTERMEDIATE EXAMINATION: SEPTEMBER 2024 
+ 
+SUGGESTED ANSWER 
+4 
+which will be paid within next three days. The company has a history of 
+consistent growth in its dividends. It has been predicted that in the next 
+year KPS Limited will pay dividend on its equity shares@ ` 7.59 per share. 
+The rate of dividend growth will be maintained in foreseeable future. The 
+cost of equity is calculated as: 
+(A) 
+36.5% 
+(B) 
+34.5% 
+(C) 
+37.5% 
+(D) 
+38.5% 
+8. 
+ZX Limited has total assets of ` 7,20,000 and its Shareholders' equity is  
+` 4,50,000. The net profit margin of ZX Limited is 12.5% and asset turnover 
+ratio is 1.5. Using the DuPont model, the return on equity of ZX Limited is 
+calculated as : 
+(A) 
+7.03% 
+(B) 
+50% 
+(C) 
+11.72% 
+(D) 
+30% 
+Answer Key 
+Question No. 
+Answer 
+1. 
+(B) 
+2. 
+(C) 
+3. 
+(D) 
+4. 
+(C) 
+5. 
+(A) 
+6. 
+(B) 
+7. 
+(C) 
+8. 
+(D) 
+ 
+<<PAGE 5>>
+ 
+ 
+FINANCIAL MANAGEMENT AND  
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+5 
+SECTION – B: STRATEGIC MANAGEMENT 
+PART - I  
+Case Scenario 2 
+Quick N Safe Logistics is one of the prominent transporters of goods for more 
+than two decades. It has its own fleets and also has business arrangement with 
+Railways. 
+Competition with existing players and threat from new entrants are increasing 
+regularly. Customer preferences and expectations are also changing. Need for 
+considering new and improved means of transportation seems inevitable. 
+Current philosophy of the company is 'to bring the best user experience to its 
+customers through timely and safe delivery of goods'. While keeping this 
+philosophy in mind, it desires to keep ahead and reap the benefits of first mover 
+advantages in the industry. In order to achieve its growth target, company is 
+exploring available other options so as to have a strong presence in supply 
+chain management. 
+The company is of a considered view that 'we learn as we grow’. It knows that 
+the overall per mile operating cost decreases due to increase in efficiency and 
+cumulative volume of services. Since the company will have a cost advantage 
+over the competitors due to reduced cost of services, it can develop and adopt a 
+penetrative pricing strategy by setting a low price to attract more customers. 
+It is also observed that arrangement of transportation through railways is 
+becoming a concern. Growth rate is slow and market for areas being covered by 
+this means of transport is by and large stabilized. Profit margin is coming down 
+due to stiff competition. Company has to work out an action plan to maintain 
+the stability. 
+On the other side, one of the customer segments is looking for fast delivery of its 
+goods in major cities all across the country. The prime consideration of such 
+customers is quick and safe delivery of their products, irrespective of cost for the 
+same. The target market of such services is very large and also increasing very 
+fast. In view of the same, the company wants to reform its operation, by 
+engaging a dedicated team to perform with a niche marketing strategy for 
+transporting such goods through airways on an assurance of 'delivery by next 
+day'. 
+<<PAGE 6>>
+ 
+INTERMEDIATE EXAMINATION: SEPTEMBER 2024 
+ 
+ 
+SUGGESTED ANSWER 
+6 
+In view of the given case scenario, answer MCQs from 9 to 13 with correct 
+option. 
+9.  
+The strategy in which the company wants to keep ahead and reap the first 
+mover advantages in the industry, is known as: 
+(A)  
+Adaptive strategy 
+(B)  
+Reactive strategy 
+(C)  
+Proactive strategy 
+(D)  Responsive strategy 
+10.  In context to service in transportation through railways, the company is 
+analyzing a relationship between volume of business on one axis with respect 
+to time on another axis. As per Product Life Cycle (PLC), which stage this 
+service is passing through: 
+(A)  
+Introduction 
+(B)  
+Maturity 
+(C)  
+Growth 
+(D)  Decline 
+11.  In Strategic Management, the concept of decrease in the overall per mile 
+operating cost due to increase in efficiency and cumulative volume of services 
+is depicted as: 
+(A)  
+Experience curve 
+(B)  
+Ansoff’s growth matrix 
+(C)  
+Strategic surveillance 
+(D)  Value chain analysis 
+12.  As per strategies propagated by Michael Porter, niche marketing strategy for 
+transporting goods through airways for a large customer segment on an 
+assurance of 'delivery by next day', is known as: 
+(A)  
+Cost leadership strategy 
+(B)  
+Differentiation strategy 
+(C)  
+Focus differentiation strategy 
+<<PAGE 7>>
+ 
+FINANCIAL MANAGEMENT AND  
+STRATEGIC MANAGEMENT 
+ 
+ 
+SUGGESTED ANSWER 
+7 
+(D)  Focus cost leadership strategy 
+13.  The philosophy of the company stated as, 'to bring the best user experience 
+to its customers through timely and safe delivery of goods', is indicating 
+towards: 
+(A)  
+Vision statement 
+(B)  
+Mission statement 
+(C)  
+Goals of the company 
+(D)  Objectives of the company  
+14.  Super Products Ltd. is having four divisions, i.e. Alpha, Beta, Cos and Theta. 
+All the divisions are independent product center and are also integral part of 
+product Gama of the company. Each division contains its own set of activities 
+under the control of respective general manager. Each general manager is 
+responsible for his respective product line and its profitability. While having 
+own set of competitors, each center has its own competitive advantages with 
+the resources and capabilities they develop. Such structure is known as: 
+(A)  
+Network structure 
+(B)  
+Divisional structure 
+(C)  
+Multi divisional structure 
+(D)  Strategic business unit 
+15.  Always Ahead Ltd. is an established player in FMCG, Herbs, Health care and 
+White goods. Company has classified its portfolio on investments in different 
+businesses in four quadrants as suggested by Boston Consulting Group. On 
+further analysis of relationship between market growth rate and relative 
+market share for White goods business, it is found that opportunities to 
+increase its market share are there. Emphasis need to be given to make a 
+strong future with large market share even by foregoing short-term earnings 
+for this business. Which strategy is being pursued by the company for White 
+goods segment: 
+(A)  
+Build 
+(B)  
+Hold 
+(C)  
+Harvest 
+<<PAGE 8>>
+ 
+INTERMEDIATE EXAMINATION: SEPTEMBER 2024 
+ 
+ 
+SUGGESTED ANSWER 
+8 
+(D)  Divest 
+16.  The correct sequence of the stages as per Kurt Lewin's model of change is:  
+(A)  
+Changing to the new situation, Unfreezing the situation and Refreezing 
+(B)  
+Unfreezing the situation, Refreezing and Changing to the new situation 
+(C)  
+Refreezing, Unfreezing the situation and Changing to the new situation 
+(D)  Unfreezing the situation, Changing to the new situation and Refreezing 
+Answer Key 
+Question No. 
+Answer 
+9. 
+(C) 
+10. 
+(B) 
+11. 
+(A) 
+12. 
+(C) 
+13. 
+(B) 
+14. 
+(D) 
+15. 
+(A) 
+16. 
+(D) 
+ 
+ 
+<<PAGE 9>>
+ 
+9 
+PAPER – 6: FINANCIAL MANAGEMENT AND 
+STRATEGIC MANAGEMENT 
+SECTION A: FINANCIAL MANAGEMENT 
+Part II 
+Question No. 1 is compulsory. 
+Attempt any two questions out of the remaining three questions. 
+In case, any candidate answers extra question(s)/ sub-question(s) over and 
+above the required number, then only the requisite number of questions first 
+answered in the answer book shall be valued and subsequent extra 
+question(s) answered shall be ignored. 
+Working notes should form part of the answer. 
+Question 1 
+(a)  Financial information for the year 2023-24 of two companies, N Limited and 
+C Limited are as under: 
+Details 
+N Limited  
+C Limited 
+Equity share capital (` 100 each) 
+` 10,00,000 
+` 8,00,000 
+Debt 
+` 5,00,000@10% 
+` 7,00,000@8% 
+Fixed Cost 
+3,00,000 
+3,36,000 
+Combined Leverage 
+8 
+4.5 
+Financial Leverage 
+2 
+1.5 
+ 
+You are required to calculate: 
+(i) Contribution for N Ltd. and C Ltd. 
+(ii) Margin of safety in % for N Ltd. and C. Ltd. 
+(iii) Sales of C Ltd.   
+(5 Marks) 
+ 
+ 
+ 
+<<PAGE 10>>
+ 
+INTERMEDIATE EXAMINATION: SEPTEMBER 2024 
+ 
+SUGGESTED ANSWER 
+10 
+(b) The following information is available for SK Limited for the year ended on 
+31st March,2024: 
+Particulars 
+` 
+Cost of production 
+15,48,000 
+Cost of goods sold 
+14,61,000 
+Average stock of work-in-progress 
+94,600 
+Average stock of finished goods 
+2,43,500 
+Administration and Selling expenses 
+4,14,000 
+Receivables collection period 
+36 days 
+Raw Material Storage period 
+65 days 
+Creditors payment period 
+63 days 
+ 
+You are required to calculate the working capital requirement by operating 
+cycle method. Assume a 360 days year. 
+(5 Marks) 
+(c)  Following information relates to MNP Limited for the year ended on 
+31sMarch, 2024:  
+Inventory turnover ratio (based on cost of goods sold) 
+7.5 times 
+Total assets turnover ratio 
+2.5 times 
+Long term debt to Shareholders’ fund 
+0.6:1 
+Debtors collection period  
+30 days 
+Gross profit ratio 
+25% on sales 
+Current Ratio 
+2.9:1 
+Balance Sheet as on 31st March,2024 
+Liabilities  
+` Assets 
+` 
+Equity share capital 
+6,00,000 Fixed Assets 
+? 
+Reserves & Surplus 
+3,00,000 Inventories 
+? 
+Long term debt 
+? Debtors 
+? 
+Creditors 
+3,00,000 Cash 
+? 
+Total 
+ Total 
+ 
+<<PAGE 11>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+11 
+ 
+You are required to complete the Balance Sheet of MNP Limited as on  
+31st March,2024. Assume a 360 days year and all sales are credit sales.  
+ 
+(5 Marks) 
+Answer  
+(a) (i) Calculation of Contribution 
+N Limited 
+C Limited  
+Financial Leverage (FL)  
+ 
+= EBIT
+EBT
+ or 
+EBIT
+EBIT
+Interest
+−
+ 
+ 
+ 
+2 = 
+EBIT
+EBIT
+50,000
+−
+ 
+1.5 = 
+EBIT
+EBIT
+56,000
+−
+ 
+2 EBIT – 1,00,000  
+= EBIT 
+1.5 EBIT – 84,000  
+= EBIT 
+EBIT 
+= ` 1,00,000 
+EBIT 
+= ` 1,68,000 
+EBT  
+= ` 50,000 
+EBT  
+= ` 1,12,000 
+Combined Leverage (CL) 
+= Contribution
+EBT
+ 
+ 
+ 
+8 = Contribution / 50,000 
+4.5 = Contribution / 1,12,000 
+Contribution= ` 4,00,000 
+Contribution= ` 5,04,000 
+(ii) Calculation of Margin of safety (MOS) in % 
+MOS = Contribution - Fixed Cost
+Contribution
+ = 
+EBIT
+Contribution 
+N Limited 
+C Limited  
+MOS = 1,00,000/4,00,000  
+= 25% 
+MOS = 1,68,000/5,04,000  
+= 33.33% 
+ 
+Part (ii) can also be presented in following way: 
+Calculation of Margin of safety (MOS) in % 
+MOS = 1/operating leverage (OL) 
+OL  = CL/FL 
+<<PAGE 12>>
+ 
+INTERMEDIATE EXAMINATION: SEPTEMBER 2024 
+ 
+SUGGESTED ANSWER 
+12 
+N Limited 
+C Limited  
+OL = 8/2 = 4 
+OL = 4.5/1.5 = 3 
+MOS = 1/4 = 25% 
+MOS = 1/3 = 33.33% 
+(iii) Sales of C Limited 
+Let assume that PV ratio is 40% 
+PV Ratio = 
+=
+Contribution
+Contribution
+Sales OR Sales
+PV Ratio
+ 
+Sales = 5,04,000
+0.40
+ = ` 12,60,000 
+Part (iii) of the solution can be solved by any alternative assumption. 
+(b) Operating Cycle = R + W + F + D – C 
+Where,  
+ 
+R  = Raw material storage period  
+ 
+ 
+= 65 days  
+ 
+W = Work-in-progress inventory* holding period 
+ 
+F  =  Finished goods storage period 
+ 
+D =  Receivables (Debtors) collection period  
+ 
+= 36 days 
+ 
+C =  Credit period allowed by suppliers (Creditors) 
+= 63 days 
+Work-in-progress inventory holding period (W)   
+= AverageWork-in-progress inventory
+Average Cost of Production perday 
+= 
+`
+` 
+00
+15,48,000÷360
+ 94,6
+days = 22 days 
+Finished Goods storage period (F) 
+= 
+Average stock of finished goods
+Average Costof Goods Soldper day 
+ 
+ 
+= 
+`
+`
+2,43,500
+14,61,000÷360days = 60 days 
+<<PAGE 13>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+13 
+Net Operating Cycle = 65+22+60+36-63 = 120 days 
+Number of Operating Cycles in a year  
+ 
+= 
+No. of days in a year
+Operating Cycle period 
+= 360days
+120days = 3 times 
+Amount of Working Capital Required 
+=
+AnnualOperating Cost
+Number of Operating Cycles
+=
+3
+`
+`
+ 14,61,000+  4,14,000 =` 6,25,000 
+(c) Working Notes: 
+Long term debt to Shareholder’s fund  
+= 0.6:1 
+Long term debt   
+ 
+= 0.6 x ` 9,00,000  
+= ` 5,40,000 
+Total Assets  
+ 
+ 
+ 
+ 
+ 
+= ` 17,40,000 
+Total Asset turnover ratio  
+= 
+Sales
+TotalAssets
+ 
+= 2.5 times 
+Sales  
+ 
+ 
+ 
+= 2.5 x ` 17,40,000  = ` 43,50,000 
+Current ratio  
+ 
+ 
+= 
+Current  Assets
+Current  Liabilities = 2.9:1 
+Current Assets   
+ 
+= 2.9 x ` 3,00,000 
+= ` 8,70,000 
+Fixed Assets  
+ 
+ 
+= Total Assets - Current Assets 
+= ` 17,40,000 – ` 8,70,000 = ` 8,70,000 
+Gross profit ratio  
+ 
+= 25% on sales 
+Gross Profit (GP)  
+ 
+= ` 43,50,000 x 0.25 = ` 10,87,500 
+Cost of Good Sold (COGS)  
+= Sales – GP 
+ 
+ 
+ 
+ 
+ 
+= ` 43,50,000 - ` 10,87,500  
+= ` 32,62,500 
+Inventory Turnover Ratio  
+= Cost of Goods Sold 
+Average Inventory = 7.5 times 
+<<PAGE 14>>
+ 
+INTERMEDIATE EXAMINATION: SEPTEMBER 2024 
+ 
+SUGGESTED ANSWER 
+14 
+Inventory  
+ 
+ 
+= ` 32,62,500/7.5  
+= ` 4,35,000 
+Debtor Collection Period 
+= Average Accounts Receivables
+Average Daily Credit Sales
+ = 30 days 
+Receivables  
+= 30 days x ` 43,50,000/360 days = ` 3,62,500 
+Balance Sheet as on 31st March 2024 
+Liabilities 
+(`) 
+Assets 
+(`) 
+Share Capital 
+6,00,000 Fixed Assets 
+8,70,000 
+Reserve and Surplus 
+3,00,000 Inventories 
+4,35,000 
+Long-term loan 
+5,40,000 Debtors 
+3,62,500 
+Creditors  
+3,00,000 Cash  
+(Balancing Figure) 
+72,500 
+ 
+17,40,000  
+17,40,000 
+Question 2 
+(a)  Capital structure of T Limited as on 1st April,2024 is as under: 
+ 
+` 
+Equity Share Capital (` 10 per share) 
+50,00,000 
+10% Debentures (` 100 per Debenture) 
+40,00,000 
+12% Preference Share Capital (10,000 shares of ` 100 each) 
+10,00,000 
+ 
+Additional Information: 
+(1) The risk free rate of return is 10%. The Beta of T Ltd. is 1.75 and the 
+return on market portfolio is 12%. The Equity shares have a current 
+market price of ` 70 per share.  
+(2) The debentures are trading at a market price of ` 80 per debenture. The 
+Debentures are to be redeemed after 5 years at par.  
+(3) Preference shares are redeemable after 5 years at a premium of 5%, 
+presently selling at ` 104 per share.  
+(4) The Company pays tax at a rate of 30%. 
+(5) The Cost of Debentures are to be calculated on Yield to Maturity 
+approach. 
+<<PAGE 15>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+15 
+(6) The present value factors at 10% and 14% are: 
+Year 
+1 
+2 
+3 
+4 
+5 
+PVIF0.10,t 
+0.909 
+0.826 
+0.751 
+0.683 
+0.621 
+PVIF0.14,t 
+0.877 
+0.769 
+0.675 
+0.592 
+0.519 
+You are required to calculate Weighted Average Cost of Capital (after tax) of 
+T Limited using Market value weights.  
+(8 Marks) 
+(b) Explain Angel Financing. 
+(2 Marks) 
+Answer 
+(a) Cost of Equity Share Capital using Capital Asset Pricing Model (CAPM) 
+Approach 
+Ke = Rf + ß (Rm − Rf) 
+Ke = 0.10 + 1.75 (0.12 – 0.10) 
+ 
+= 0.10 + 1.75 (0.02) = 0.135 or 13.5% 
+Cost of Redeemable Debentures using Yield to Maturity (YTM) 
+Approach 
+Step-1: Identification of relevant cash flows 
+Year 
+Cash flows 
+0 
+Current market price (P0) = ` 80 
+1 to 5 
+Interest net of tax [I(1-t)] = 10% of ` 100 (1-0.30) = ` 7 
+5 
+Redemption value (RV) = Face value i.e. ` 100 
+Step- 2: Calculation of NPVs at two discount rates 
+Year 
+Cash 
+flows 
+(`) 
+Discount 
+factor @ 
+10% (L) 
+Present 
+Value 
+(`) 
+Discount 
+factor @ 
+14% (H) 
+Present 
+Value 
+(`) 
+0 
+80 
+1.000 
+(80.000) 
+1.000 
+(80.000) 
+1 to 5 
+7 
+3.790 
+26.530 
+3.432 
+24.024 
+5 
+100 
+0.621 
+62.100 
+0.519 
+51.900 
+NPV 
+ 
+ 
+    +8.630 
+ 
+-4.076 
+<<PAGE 16>>
+ 
+INTERMEDIATE EXAMINATION: SEPTEMBER 2024 
+ 
+SUGGESTED ANSWER 
+16 
+Step- 3: Calculation of Cost of Debentures (Kd) 
+Kd = L+
+NPVL
+NPVL-NPVH(H-L) = 10%+
+` 8.630
+` 8.630 - (`-4.076) (14%-10%)= 12.72% 
+Cost of Redeemable Preference Share Capital using approximation method 
+Kp =
+PD+(RV-NP)
+n
+(RV+NP)
+2
+ 
+Kp = 
+12 + ൬105 - 104
+5
+൰
+൬105 + 104
+2
+൰
+ 
+ 
+ 
+ 
+ 
+ 
+= 11.67% 
+Calculation of WACC using market value weights 
+Source of Capital 
+Market 
+Value 
+Weights 
+After tax 
+cost of 
+capital 
+WACC 
+(Ko) 
+(`) 
+(a) 
+(b) 
+(c) = 
+(a)×(b) 
+Equity Share Capital  
+(` 70 x 5,00,000 equity 
+shares) 
+3,50,00,000 
+0.8919 
+0.1350 
+0.1204 
+10% 
+Debentures  
+(` 80 × 40,000) 
+32,00,000 
+0.0816 
+0.1272 
+0.0104 
+12% Preference Share 
+Capital (` 104 × 10,000 
+shares) 
+10,40,000 
+0.0265 
+0.1167 
+0.0031 
+ 
+3,92,40,000 
+1.000 
+ 
+0.1339 
+ 
+WACC (Ko) = 0.1339 or 13.39% 
+(b) Angel Financing is a form of an equity-financing in which individual or a 
+group of individuals provides capital to entrepreneurs and early-stage 
+businesses, or start-ups, in exchange for an ownership/equity in the 
+company.  
+<<PAGE 17>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+17 
+They may provide a one-time investment or an ongoing capital injection 
+via a series of investments, Angel investors are looking for a higher rate of 
+return than what is given by traditional investment 
+Question 3 
+(a) AB Enterprises deals in hardware materials having current turnover ` 30 
+Lakhs per annum. All sales are on credit and average collection period is 30 
+days with zero bad debts. The customers are requesting to increase the credit 
+period. As a result of increase in credit period sales will also increase. Other 
+information is as under: 
+Credit policy 
+Increase in collection 
+period (days) 
+Increase 
+in 
+sales (`) 
+Bad 
+debts 
+anticipated 
+A 
+15 
+3,00,000 
+1% 
+B 
+30 
+5,00,000 
+3.5% 
+The Selling price is ` 100/- per unit. Variable cost per unit is ` 50/- and fixed 
+cost is ` 5,00,000. Required rate of return on additional investment is 20%. 
+Creditors for variable cost are ready to give 15 days extra credit for the 
+additional cost incurred. Assume a 360 days year.  
+You are required to analyse the present and proposed credit policies using 
+the “Total Approach” method and recommend the credit policy to be adopted. 
+ 
+(5 Marks) 
+(b) ER Private Limited has a paid-up capital ` 2,50,000 consisting of 25,000 
+Equity shares of ` 10 each. The Market price per share is ` 24 with PE ratio 
+of 8. The company is planning to purchase a plant which will cost ` 5,00,000. 
+This plant is expected to yield earnings before interest and taxes of  
+` 2,00,000 per annum. It has two alternatives to finance the plant: 
+Alternatives 
+Equity 
+Debt 
+A 
+100% 
+- 
+B 
+50% 
+50% 
+ 
+Other information is as under: 
+(i) Cost of debt is 12%. 
+<<PAGE 18>>
+ 
+INTERMEDIATE EXAMINATION: SEPTEMBER 2024 
+ 
+SUGGESTED ANSWER 
+18 
+(ii) Equity shares of face value of ` 10 each will be issued at a premium of  
+` 10 per share. 
+(iii) PE ratio of Leveraged company will be 7. 
+(iv) Tax rate -40%. 
+Advise which alternative is the most suitable to raise the funds for additional 
+capital, keeping in mind to maximize the benefit to its Shareholders. 
+ (5 Marks) 
+Answer  
+(a) A. Statement showing the Evaluation of Credit Policies (Total 
+Approach) 
+Particulars 
+Present 
+Credit 
+Policy 
+Proposed Credit 
+Policy 
+A 
+B 
+ 
+Credit Period (in days) 
+30 
+45 
+60 
+ 
+Units sold 
+30,000 
+33,000 
+35,000 
+ 
+ 
+` 
+` 
+` 
+A 
+Expected Profit: 
+ 
+ 
+ 
+ 
+(a) Credit 
+Sales 
+@  
+ 
+` 100 per unit 
+30,00,000 
+33,00,000 
+35,00,000 
+ 
+(b) Total 
+Cost 
+other 
+ 
+than Bad Debts 
+ 
+ 
+ 
+ 
+ 
+(i) Variable Costs 
+ 
+ 
+@ ` 50 per unit 
+15,00,000 
+16,50,000 
+17,50,000 
+ 
+ 
+(ii) Fixed Costs 
+5,00,000 
+5,00,000 
+5,00,000 
+ 
+ 
+20,00,000 
+21,50,000 
+22,50,000 
+ 
+(c) Bad Debts 
+- 
+33,000 
+1,22,500 
+ 
+(d) Expected Profit [(a) 
+– (b) – (c)] 
+10,00,000 11,17,000 11,27,500 
+<<PAGE 19>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+19 
+B 
+Opportunity Cost of 
+Investments 
+in 
+Receivables (i)-(ii) 
+33,333 
+52,500 
+72,917 
+C 
+Net Benefits (A – B) 
+9,66,667 10,64,500 10,54,583 
+ 
+Recommendation: The Proposed Policy A (i.e. increase in collection 
+period by 15 days or total 45 days) should be adopted since the net 
+benefits under this policy are higher as compared to other policies. 
+Working Notes:  
+(i) Calculation of Opportunity Cost of Average Investment in 
+Receivables 
+Particulars 
+Present 
+Credit 
+Policy 
+Proposed Credit 
+Policy 
+A 
+B 
+ 
+Credit Period (in days) 
+30 
+45 
+60 
+ 
+ 
+` 
+` 
+` 
+(a) Cost of Sales (Variable Cost 
++ Fixed Cost) 
+20,00,000 21,50,000 22,50,000 
+(b) Average Debtors = Cost of 
+Sales × (Credit period) / 360 
+1,66,667 
+2,68,750 
+3,75,000 
+(c) Average Creditors for extra 
+variable 
+cost 
+[(Variable 
+Cost) x 15/360] 
+- 
+6,250 
+10,417 
+(d) Average 
+Investment 
+in 
+Receivables 
+or 
+Net 
+Working Capital = (b) – (c) 
+1,66,667 
+2,62,500 
+3,64,583 
+(e) Opportunity Cost @20% 
+of average Investments in 
+Receivables 
+33,333 
+52,500 
+72,917 
+ 
+ 
+ 
+<<PAGE 20>>
+ 
+INTERMEDIATE EXAMINATION: SEPTEMBER 2024 
+ 
+SUGGESTED ANSWER 
+20 
+(b) Calculation of No. of Equity Shares and Existing Earnings before 
+Interest and Taxes 
+ 
+ 
+ 
+Particulars 
+Existing 
+Alternative A: 
+Issue Equity 
+shares only 
+Alternative B: 
+Issue Equity 
+Shares and 12% 
+Debentures of 
+equal amount 
+Number 
+of 
+Equity 
+Shares  
+ 
+ 
+ 
+- 
+Existing 
+25,000 
+25,000 
+25,000 
+- 
+Newly issued 
+ 
+25,000 
+൬` 5,00,000
+` (10+10)൰ 
+12,500 
+൬` 2,50,000
+`(10+10) ൰ 
+Total no. of Equity 
+Shares 
+25,000 
+50,000 
+37,500 
+Calculation of Existing Earnings before Interest and Taxes (EBIT) 
+Market Price per share 
+(MPS) 
+` 24 
+ 
+ 
+Price-Earnings 
+Ratio 
+(PE Ratio) 
+8 times 
+8 times 
+7 times 
+Earning per share (EPS) 
+= MPS/PE Ratio 
+3 
+ 
+ 
+Earnings 
+after 
+Tax 
+(EAT) = EPS x No. of 
+Equity shares 
+75,000 
+ 
+ 
+Earning 
+before 
+Tax 
+(EBT) = EAT/0.6 (or 
+EBIT as Interest nil) 
+1,25,000 
+ 
+ 
+<<PAGE 21>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+21 
+Calculation of EPS and MPS under two financial alternatives 
+Particulars 
+Existing 
+Alternative A 
+Alternative B 
+Earnings before Interest 
+and Tax: 
+- 
+Existing EBIT 
+- 
+From New Project 
+ 
+Less: Interest on 12% 
+Debentures 
+Earnings before Tax 
+(EBT) 
+Less: Tax @ 40% 
+Earnings after Tax (EAT) 
+EPS = EAT/ No. of Equity 
+Shares 
+ 
+ 
+1,25,000 
+ 
+ 
+1,25,000 
+2,00,000 
+ 
+ 
+1,25,000 
+2,00,000 
+1,25,000 
+- 
+3,25,000 
+- 
+3,25,000 
+30,000 
+ 
+1,25,000 
+50,000 
+ 
+3,25,000 
+1,30,000 
+ 
+2,95,000 
+1,18,000 
+75,000 
+1,95,000 
+1,77,000 
+3.00 
+3.90 
+4.72 
+Market Price per share 
+(MPS) = EPS x Price-
+Earning Ratio 
+24.00 
+31.20 
+33.04 
+Advise: Alternative B i.e., issue of 12% Debentures is most suitable to 
+maximize the market price per share. 
+Alternatively, Solution can also be presented in following way: 
+Calculation of EPS and MPS under two financial alternatives 
+Particulars 
+Existing 
+Alternative A Alternative B 
+Earnings before Interest 
+and Tax: 
+- From New Project 
+Less: Interest on 
+12% Debentures 
+Earnings before Tax (EBT) 
+Less: Tax @ 40% 
+Earnings after Tax (EAT) 
+from new project 
+ 
+ 
+2,00,000 
+ 
+2,00,000 
+ 
+ 
+- 
+2,00,000 
+ 
+- 
+2,00,000 
+ 
+30,000 
+ 
+ 
+2,00,000 
+80,000 
+1,70,000 
+68,000 
+ 
+ 
+ 
+1,20,000 
+ 
+1,02,000 
+<<PAGE 22>>
+ 
+INTERMEDIATE EXAMINATION: SEPTEMBER 2024 
+ 
+SUGGESTED ANSWER 
+22 
+Earnings 
+from 
+Existing 
+(PAT) 
+Total Earnings After Tax 
+(EAT) 
+Number of Shares 
+ 
+EPS = EAT/ No. of Equity 
+Shares 
+ 
+75,000 
+ 
+75,000 
+ 
+75,000 
+ 
+75,000 
+ 
+1,95,000 
+ 
+1,77,000 
+25,000 
+50,000 
+37,500 
+ 
+3.00 
+ 
+3.90 
+ 
+4.72 
+Market Price per share 
+(MPS) = EPS x Price-
+Earning Ratio 
+24.00 
+31.20 
+33.04 
+Advise: Alternative B i.e., issue of 12% Debentures is most suitable to 
+maximize the market price per share. 
+Question 4 
+Answer the following: 
+(a) Discuss any 2 advantages and 2 disadvantages of raising finance by issue of 
+debentures.  
+(4 Marks) 
+(b) List any four assumptions of Gorden’s Model. 
+(4 Marks) 
+(c) What is Leveraged Lease? Explain. 
+(2 Marks) 
+OR 
+(d) What are the remedies for over-capitalisation? 
+(2 Marks) 
+Answer 
+(a) Advantages of raising finance by issue of debentures are: 
+(i) The cost of debentures is much lower than the cost of preference or 
+equity capital as the interest is tax-deductible. Also, investors consider 
+debenture investment safer than equity or preferred investment and, 
+hence, may require a lower return on debenture investment. 
+(ii) Debenture financing does not result in dilution of control. 
+(iii) In a period of rising prices, debenture issue is advantageous. The fixed 
+monetary outgo decreases in real terms as the price level increases. In 
+other words, the company has to pay a fixed rate of interest. 
+<<PAGE 23>>
+ 
+ 
+FINANCIAL MANAGEMENT AND 
+ 
+STRATEGIC MANAGEMENT 
+ 
+SUGGESTED ANSWER 
+23 
+Disadvantages of debenture financing are: 
+(i) Debenture interest and the repayment of its principal amount is an 
+obligatory payment. 
+(ii) The protective covenants associated with a debenture issue may be 
+restrictive. 
+(iii) Debenture financing enhances the financial risk associated with the 
+firm because of the reasons given in point (i). 
+(i) Since debentures need to be paid at the time of maturity, a large 
+amount of cash outflow is needed at that time.  
+(b) Gordon’s model is based on the following assumptions: 
+• 
+Firm is an all equity firm i.e. no debt. 
+• 
+IRR will remain constant, because change in IRR will change the growth 
+rate and consequently the value will be affected. Hence this 
+assumption is necessary. 
+• 
+Ke will remain constant, because change in discount rate will affect the 
+present value. 
+• 
+Retention ratio (b), once decide upon, is constant i.e. constant dividend 
+payout ratio will be followed. 
+• 
+Growth rate (g = br) is also constant, since retention ratio and IRR will 
+remain unchanged and growth, which is the function of these two 
+variable will remain unaffected. 
+• 
+Ke> g, this assumption is necessary and based on the principles of 
+series of sum of geometric progression for ‘n’ number of years. 
+• 
+All investment proposals of the firm are to be financed through 
+retained earnings only. 
+(c) Leveraged Lease: Under this lease, a third party is involved besides lessor 
+and the lessee. The lessor borrows a part of the purchase cost (say 80%) of 
+the asset from the third party i.e., lender and asset so purchased is held as 
+security against the loan.  The lender is paid off from the lease rentals 
+directly by the lessee and the surplus after meeting the claims of the lender 
+goes to the lessor.  The lessor is entitled to claim depreciation allowance. 
+<<PAGE 24>>
+ 
+INTERMEDIATE EXAMINATION: SEPTEMBER 2024 
+ 
+SUGGESTED ANSWER 
+24 
+OR 
+(c) Following steps may be adopted to avoid the negative consequences of 
+over-capitalisation: 
+(i) Company should go for thorough reorganization. 
+(ii) Buyback of shares. 
+(iii) Reduction in claims of debenture-holders and creditors.  
+(iv) Value of shares may also be reduced. This will result in sufficient funds 
+for the company to carry out replacement of assets. 
+ 
+ 
+ 
+<<PAGE 25>>
+ 
+FINANCIAL MANAGEMENT AND  
+STRATEGIC MANAGEMENT 
+ 
+ 
+25 
+SUGGESTED ANSWER 
+SECTION – B: STRATEGIC MANAGEMENT 
+Part II 
+Question paper comprises of 4 questions, Answer Question No. 5 which is 
+compulsory and any 2 out of the remaining 3 questions. 
+Question 5 
+(a) M/s. MTS Ltd, is one of the mobile telephone service providers in India. It 
+has its own mobile network, towers and distribution channels. It operates 
+through its team of network operation, technicians, marketing, sales and 
+after sales services. Currently all the team members are on its roll. 
+Company knows that market is densely competitive. The environment is 
+quite unstable and likely to remain so. Customer's taste and preferences are 
+changing very fast. There is a strong need for innovation and quick 
+response. While eliminating in-house business functions, company is 
+considering outsourcing major activities and focusing on its core 
+competencies. 
+In the given situation identify the organizational structure suitable for the 
+company. Also outline the merits and demerits in going for the identified 
+structure. 
+(5 Marks) 
+(b) Symergy Ltd. is manufacturing a product since year 2010. The company 
+was doing well till year 2022. After that its market share started declining. 
+Accumulated losses started mounting and in turn carried a persistent 
+negative impact on its cash flow. As a result morale of the employees was 
+not up to mark. 
+The Board of Directors (BoD) of the company thought it proper to continue 
+in business by placing emphasis on improvement in internal efficiency. In 
+view of the same, the BoD is evolving a workable action plan with intent to 
+ensure a radical change in direction in strategy which includes revamping 
+in top management. 
+Which retrenchment strategy company should adopt in the given situation? 
+Also state the stages in the action plan for the strategy.  
+(5 Marks) 
+(c) Market for baby care, readymade garments for new born, toys and strollers 
+meant for babies are there. M/s. Maa ki Pasand is desirous to introduce new 
+<<PAGE 26>>
+ 
+INTERMEDIATE EXAMINATION: SEPTEMBER 2024 
+ 
+ 
+SUGGESTED ANSWER 
+26 
+products for existing customers and new customers as well. The market for 
+such products is narrow. On one side there are customers who are price 
+conscious and on the other side there are customers who are ready to pay 
+premium charges for an upscale product. The company wants to charge low 
+price, relative to other firms that compete within the target market for 
+customers who are price sensitive and also wants to charge premium based 
+on uniqueness for rest of its products. 
+Which of the strategy is being considered by the company, out of strategies 
+as suggested by Michael Porter at business level. Also outline the 
+advantages and disadvantages using such strategy.  
+(5 Marks) 
+Answer 
+(a) The suitable organizational structure for MTS Ltd is the Network 
+Organizational Structure. A company with such a structure is often 
+called a Virtual Organization. 
+Merits of the Network Structure: 
+1. 
+Flexibility and Adaptability: The structure allows for rapid 
+technological changes and shifting competition patterns. This enables 
+the company to adapt quickly to the unstable environment and 
+changing customer preferences. 
+2. 
+Focus on Core Competencies: The company can concentrate on its 
+distinctive competencies while outsourcing non-core functions to 
+specialized firms, which can perform them more efficiently. 
+3. 
+Cost Efficiency: Through subcontracting and outsourcing, MTS Ltd 
+can reduce the costs associated with maintaining in-house teams. 
+4. 
+Decentralized Operations: The network structure scatters business 
+functions across various geographical locations, reducing the need 
+for a large central headquarters and ensuring responsiveness in 
+different regions. 
+Demerits of the Network Structure: 
+1. 
+Loss of Synergies: Contracting out functions may prevent MTS Ltd 
+from discovering synergies that could emerge from combining 
+internal activities. 
+<<PAGE 27>>
+ 
+FINANCIAL MANAGEMENT AND  
+STRATEGIC MANAGEMENT 
+ 
+ 
+SUGGESTED ANSWER 
+27 
+2. 
+Over-Specialization Risk: By focusing on only a few functions, the 
+company may risk choosing the wrong functions, leading to a loss of 
+competitiveness. 
+3. 
+Stress and Learning Challenges: The flatter structure and increased 
+need for personal interactions may create stress for employees, 
+especially those who lack the confidence for active participation in 
+organization-sponsored learning programs. 
+(b) In the given situation, the suitable retrenchment strategy for Symergy 
+Ltd. is the Turnaround Strategy. This strategy is designed to reverse the 
+company’s decline and restore it to profitability, particularly when the 
+company is facing challenges such as declining market share, negative 
+cash flows, and low employee morale.  
+Stages in the Action Plan for Turnaround Strategy: 
+• 
+Stage One - Assessment of Current Problems: The first step is to 
+assess and diagnose the root causes of the company’s decline, such as 
+uncompetitive products, poor cash flow, or internal inefficiencies. This 
+stage involves determining the extent of the damage caused by these 
+problems. 
+• 
+Stage Two - Analyze the Situation and Develop a Strategic Plan: 
+Evaluate the chances of the company’s survival and develop a strategic 
+plan that outlines the corrective actions to be taken. This includes 
+identifying appropriate strategies to address internal inefficiencies, 
+improve competitiveness, and enhance employee morale. 
+• 
+Stage Three - Implementing an Emergency Action Plan: If the 
+situation is critical, an immediate action plan must be executed to 
+stabilize the business. This may involve cutting costs, ensuring positive 
+cash flow, raising necessary funds, and addressing short-term 
+operational issues. 
+• 
+Stage Four - Restructuring the Business: Focus on restructuring the 
+company’s core business operations, especially if they have been 
+significantly affected. This stage involves efforts to improve efficiency, 
+restructure finances, and position the company for long-term recovery 
+and growth. 
+<<PAGE 28>>
+ 
+INTERMEDIATE EXAMINATION: SEPTEMBER 2024 
+ 
+ 
+SUGGESTED ANSWER 
+28 
+• 
+Stage Five - Returning to Normal: In the final stage, the company 
+should begin showing signs of profitability and improving financial 
+performance. Strategic efforts such as introducing new products, 
+improving customer service, and forming alliances should be 
+emphasized to restore market share and build long-term sustainability. 
+By following these stages, Symergy Ltd. can develop a comprehensive 
+turnaround plan to regain its financial stability, improve operational 
+efficiency, and rebuild its competitive position in the market. 
+(c) The company, M/s. Maa ki Pasand, is adopting a focus strategy that 
+incorporates both focused cost leadership and focused differentiation 
+strategies. In the given case, M/s. Maa ki Pasand aims to target price-
+conscious customers by charging low prices relative to other firms within 
+the narrow market of baby care products. This aligns with focused cost 
+leadership, where the firm competes based on price within a targeted 
+niche. 
+For the segment of customers willing to pay more for premium, unique 
+products, the company follows a focused differentiation strategy. It 
+caters to this specific niche by offering high-end, differentiated products, 
+which is a key feature of focused differentiation. 
+Advantages of using a Focus Strategy: 
+1. 
+Premium prices: For the differentiated segment, the company can 
+charge higher prices for its upscale products. 
+2. 
+Expertise in niche markets: M/s. Maa ki Pasand can develop 
+expertise in both price-sensitive and premium segments, making it 
+difficult for rivals to compete effectively. 
+Disadvantages of Using a Focus Strategy: 
+1. 
+Distinctive competencies required: The firm needs to have strong 
+competencies in both cost control and product differentiation to 
+succeed. Otherwise, it may struggle to pursue the focus strategy 
+effectively. 
+2. 
+High costs: Serving a narrow market can lead to higher costs due to 
+limited demand, which could pose challenges in maintaining 
+profitability, especially in the premium segment. 
+<<PAGE 29>>
+ 
+FINANCIAL MANAGEMENT AND  
+STRATEGIC MANAGEMENT 
+ 
+ 
+SUGGESTED ANSWER 
+29 
+3. 
+Disappearance in long run: In the long run, the niche goods can 
+disappear or be taken over by large competitors by acquiring the 
+same distinctive competencies. 
+In conclusion, M/s. Maa ki Pasand is adopting a focus strategy by 
+targeting specific customer niches with both cost leadership and 
+differentiation. While this strategy offers opportunities for premium 
+pricing and market expertise, it also comes with challenges related to 
+cost control and distinctive competencies. 
+Question 6 
+(a) Explain in brief the term ‘objectives’ as part of strategic intent. Also outline 
+the characteristics, the objectives of a company must possess to be 
+meaningful and to serve the intended role. 
+(5 Marks) 
+(b) Value Chain Analysis consist two activities: Primary activities and Support 
+activities. As per Michael Porter both the activities are intertwined. Do you 
+agree with the statement? Also delineate the main areas in which primary 
+activities of any organization are grouped.   
+(5 Marks) 
+Answer  
+(a) Objectives are an organization’s performance targets – the results and 
+outcomes it wants to achieve. They function as yardstick for tracking an 
+organization’s performance and progress. Objectives with strategic focus 
+relate to outcomes that strengthen an organization’s overall business 
+position and competitive vitality. 
+ 
+Objectives, to be meaningful to serve the intended role, must possess the 
+following characteristics: 
+♦ 
+Objectives should define the organisation’s relationship with its 
+environment. 
+♦ 
+They should be facilitative towards achievement of mission and 
+purpose. 
+♦ 
+They should provide the basis for strategic decision-making.  
+♦ 
+They should provide standards for performance appraisal.  
+♦ 
+They should be concrete and specific. 
+<<PAGE 30>>
+ 
+INTERMEDIATE EXAMINATION: SEPTEMBER 2024 
+ 
+ 
+SUGGESTED ANSWER 
+30 
+♦ 
+They should be related to a time frame. 
+♦ 
+They should be measurable and controllable. 
+♦ 
+They should be challenging. 
+♦ 
+Different objectives should correlate with each other. 
+♦ 
+Objectives should be set within the constraints of organisational 
+resources and external environment. 
+(b) Yes, I agree with the statement that Value Chain Analysis consist of two 
+activities: Primary activities and Support activities. As per Michael Porter 
+both the activities are intertwined. It is a tool used to examine the 
+activities that create value in an organization, helping to enhance 
+efficiency and build competitive advantage. It breaks down a business’s 
+operations to identify areas for improvement in value creation. 
+ 
+The primary activities of an organization are categorized into five areas: 
+1. 
+Inbound logistics: Activities related to receiving, storing, and 
+distributing inputs (e.g., materials handling, stock control, and 
+transport). 
+2. 
+Operations: Transforming inputs into final products or services (e.g., 
+machining, packaging, assembly). 
+3. 
+Outbound logistics: Collecting, storing, and delivering products to 
+customers (e.g., warehousing, transport). 
+4. 
+Marketing and sales: Promoting and selling the product or service, 
+including advertising and sales administration. 
+5. 
+Service: Enhancing or maintaining product value (e.g., installation, 
+repair, training). 
+Question 7 
+(a) Explain the four specific criteria of sustainable competitive advantages that 
+a company can use to determine the capabilities that are core 
+competencies.  
+(5 Marks) 
+(b) Start-ups rarely aim for stability strategy. While agreeing with the 
+statement or otherwise, support your point of view by briefly stating as to 
+when the stability strategy is meaningful. State the major reasons for 
+<<PAGE 31>>
+ 
+FINANCIAL MANAGEMENT AND  
+STRATEGIC MANAGEMENT 
+ 
+ 
+SUGGESTED ANSWER 
+31 
+considering stability strategy as one of the corporate strategies by a 
+company.  
+(5 Marks) 
+Answer  
+(a)  Four specific criteria of sustainable competitive advantage that firms can 
+use to determine those capabilities that are core competencies. 
+Capabilities that are valuable, rare, costly to imitate, and non-
+substitutable are core competencies. 
+i. 
+Valuable: Valuable capabilities are the ones that allow the firm to 
+exploit opportunities or avert the threats in its external environment. 
+A firm created value for customers by effectively using capabilities to 
+exploit 
+opportunities. 
+Finance 
+companies 
+build 
+a 
+valuable 
+competence in financial services. In addition, to make such 
+competencies as financial services highly successful require placing 
+the right people in the right jobs. Human capital is important in 
+creating value for customers. 
+ii. Rare: Core competencies are very rare capabilities and very few of 
+the competitors possess this. Capabilities possessed by many rivals 
+are unlikely to be sources of competitive advantage for any one of 
+them. Competitive advantage results only when firms develop and 
+exploit valuable capabilities that differ from those shared with 
+competitors. 
+iii. Costly to imitate: Costly to imitate means such capabilities that 
+competing firms are unable to develop easily.  
+iv. Non-substitutable: 
+Capabilities 
+that 
+do 
+not 
+have 
+strategic 
+equivalents are called non-substitutable capabilities. This final 
+criterion for a capability to be a source of competitive advantage is 
+that there must be no strategically equivalent valuable resources that 
+are themselves either not rare or imitable. 
+(b) Agree with the given statement. Start-ups rarely aim for a stability 
+strategy because they are in the early stages of ideation and 
+development, where speed and agility are critical. Stability strategy is 
+more relevant for businesses that have reached maturity, where 
+maintaining current operations and market share becomes a priority. 
+Start-ups, however, focus on rapid growth and market penetration, and 
+<<PAGE 32>>
+ 
+INTERMEDIATE EXAMINATION: SEPTEMBER 2024 
+ 
+ 
+SUGGESTED ANSWER 
+32 
+stability is usually considered when a business has expanded to full 
+capacity. 
+A stability strategy is meaningful in the following scenarios: 
+• 
+When a firm continues serving the same markets with the same 
+products and services. 
+• 
+Firms whose products are in the maturity stage of the product life 
+cycle or who have a substantial market share may opt for stability to 
+retain their position. 
+• 
+Stability helps consolidate gains after rapid expansion, optimize 
+returns on committed resources, and enhance functional efficiencies. 
+Major reasons for choosing a stability strategy include: 
+• 
+Maturity of products in the life cycle. 
+• 
+Comfort of staff with fewer changes and risks. 
+• 
+Stable external environment. 
+• 
+A need to consolidate after rapid growth or expansion. 
+• 
+Where it is not advisable to expand as it may be perceived as 
+threatening. 
+Question 8 
+(a) In light of the five forces as propagated by Michael Porter, explain the 
+common barriers which may cause restrain for the keenness of new 
+entrepreneurs.  
+(5 Marks) 
+(b) Strategic performance measures are key indicators that organizations use 
+to track the effectiveness of their strategies and make informed decisions 
+about resource allocation. In light of the statement, state various types of 
+Strategic performance measures.  
+(5 Marks) 
+OR 
+(b) Explain the pointers for navigating change during digital transformation.  
+(5 Marks) 
+ 
+ 
+<<PAGE 33>>
+ 
+FINANCIAL MANAGEMENT AND  
+STRATEGIC MANAGEMENT 
+ 
+ 
+SUGGESTED ANSWER 
+33 
+Answer  
+(a)  In light of Michael Porter's Five Forces, new entrepreneurs often face 
+significant barriers that restrain their keenness to enter an industry. These 
+barriers increase the competitiveness of existing firms and discourage 
+new entrants, impacting industry profitability. 
+Common barriers that may restrain new entrepreneurs include: 
+(i) Capital Requirements: When a large amount of capital is required to 
+enter an industry, firms lacking funds are effectively barred from the 
+industry, thus enhancing the profitability of existing firms in the 
+industry.  
+(ii) Economies of Scale: Many industries are characterized by economic 
+activities driven by economies of scale. Economies of scale refer to 
+the decline in the per-unit cost of production (or other activity) as 
+volume grows.  
+(iii) Product Differentiation: Product differentiation refers to the 
+physical or perceptual differences, or enhancements, that make a 
+product special or unique in the eyes of customers.  
+(iv) Switching Costs: To succeed in an industry, new entrant must be 
+able to persuade existing customers of other companies to switch to 
+its products. When such switching costs are high, buyers are often 
+reluctant to change.  
+(v) Brand Identity: The brand identity of products or services offered by 
+existing firms can serve as another entry barrier. Brand identity is 
+particularly important for infrequently purchased products that carry 
+a high unit cost to the buyer.  
+(vi) Access to Distribution Channels: The unavailability of distribution 
+channels for new entrants poses another significant entry barrier. 
+Despite the growing power of the internet, many firms may continue 
+to rely on their control of physical distribution channels to sustain a 
+barrier to entry to rivals.  
+(vii) Possibility of Aggressive Retaliation: Sometimes the mere threat of 
+aggressive retaliation by incumbents can deter entry by other firms 
+into an existing industry.  
+<<PAGE 34>>
+ 
+INTERMEDIATE EXAMINATION: SEPTEMBER 2024 
+ 
+ 
+SUGGESTED ANSWER 
+34 
+(b) Strategic performance measures are key indicators used by organizations 
+to track the effectiveness of their strategies and make informed decisions 
+about resource allocation. These measures provide a snapshot of 
+performance, enabling leaders to assess whether their strategies align 
+with 
+organizational 
+goals 
+and 
+make 
+necessary 
+adjustments 
+for 
+improvement. 
+Types of strategic performance measures include: 
+1. 
+Financial Measures: These include revenue growth, return on 
+investment (ROI), and profit margins, which help in understanding the 
+financial performance and profitability of the organization. 
+2. 
+Customer Satisfaction Measures: Metrics like customer satisfaction, 
+retention, and loyalty give insights into how well the organization 
+meets customer needs and the quality of its products and services. 
+3. 
+Market Measures: Market share, customer acquisition, and referrals 
+indicate the organization’s competitiveness and ability to attract and 
+retain customers in the marketplace. 
+4. 
+Employee Measures: Employee satisfaction, turnover rate, and 
+engagement provide insights into the organization’s ability to create 
+a positive work environment and retain talent. 
+5. 
+Innovation Measures: These include R&D spending, patent 
+applications, and new product launches, reflecting the organization's 
+capacity to innovate and meet evolving customer demands. 
+6. 
+Environmental Measures: Environmental measures such as energy 
+consumption, waste reduction, and carbon emissions offer insights 
+into the organization's impact on the environment. These measures 
+help track sustainability efforts and ensure that the organization is 
+operating in an eco-friendly and socially responsible manner. 
+These measures help organizations ensure their strategies are 
+effectively executed, aligned with their objectives, and adaptable to 
+changes in both market and environmental contexts. 
+Or 
+Any organisation may find the work of digital transformation challenging 
+and overwhelming. To ensure that a digital transition is effective, change 
+<<PAGE 35>>
+ 
+FINANCIAL MANAGEMENT AND  
+STRATEGIC MANAGEMENT 
+ 
+ 
+SUGGESTED ANSWER 
+35 
+management is essential. Here are some pointers for navigating change 
+during the digital transformation: 
+1. 
+Specify the digital transformation’s aims and objectives: What is 
+the intended outcome? What are the precise objectives that must be 
+accomplished? It will be easier to make sure that everyone is on the 
+same page and pursuing the same aims if everyone has a clear grasp 
+of the goals. 
+2. 
+Always, always, always communicate: It might be challenging for 
+people to accept change and adjust to it. Ensure that you routinely 
+and honestly discuss the objectives of the digital transformation and 
+how they will affect stakeholders, including employees, clients, and 
+other parties. 
+3. 
+Be ready for resistance: Even when a change is for the better, it can 
+be challenging for people to embrace it. Have a strategy in place for 
+dealing with any resistance that may arise. 
+4. 
+Implement 
+changes 
+gradually: 
+Changes 
+should 
+ideally 
+be 
+implemented gradually rather than all at once. In order to avoid 
+overwhelming individuals with too much change at once, this will give 
+people time to become used to the new way of doing things. 
+5. 
+Offer assistance and training: Workers will need guidance in the 
+new procedures, software applications, etc. 
+In conclusion, effective completion of the massive project known as 
+digital transformation depends on meticulous planning and change 
+management. Digital transformation efforts are more likely to fail without 
+change management. Organizations can successfully integrate a new 
+digital system by planning for and managing the changes that must take 
+place. Any project involving digital transformation must include it. 
+ 
+ 

@@ -1,0 +1,157 @@
+p2	1. INTRODUCTION
+p3	2. RATIO AND RATIO ANALYSIS
+p3	2.1 Definition of Ratio
+p3	2.2  Ratio Analysis
+p4	2.3  Sources of Financial Data for Analysis
+p4	3. TYPES OF RATIOS
+p5	3.1 Liquidity Ratios
+p8	3.2 Long-term Solvency Ratios/ Leverage Ratios
+p8	1. Capital Structure Ratios
+p9	2. Coverage Ratios
+p9	3.2.1 Capital Structure Ratios
+p11	3.2.2 Coverage Ratios
+p13	1. EBIT (Earnings before interest and taxes) = PBIT (Profit before interest and
+p13	2.  Ratios shall be calculated based on requirement and availability of
+p13	3.  Numerator should be taken in correspondence with the denominator and
+p13	3.3 Activity Ratios/ Efficiency Ratios/ Performance
+p14	(c)   Capital Turnover Ratio/ Net Assets Turnover Ratio
+p14	(d)   Current Assets Turnover Ratio
+p14	(e)   Working Capital Turnover Ratio
+p17	(iii)  Payables Turnover Ratio: This ratio is calculated on the same lines as
+p18	1. Only selling & distribution expenses differentiate Cost of Goods Sold (COGS)
+p18	2. We can consider Cost of Goods Sold/ Cost of Sales to calculate turnover
+p18	3. Average of Total Assets/ Fixed Assets/ Current Assets/ Net Assets/ Working
+p18	4. Ratios shall be calculated based on requirement and availability of
+p18	3.4 Profitability Ratios
+p19	(iii)  Profitability Ratios required for Analysis from Owner's Point of View
+p19	(iii)  Return on Equity (ROE)
+p19	(iii) Profitability Ratios required for Analysis from Owner's Point of View
+p19	(iv)  Profitability Ratios related to Market/ Valuation/ Investors
+p20	3.4.1 Profitability Ratios based on Sales
+p21	(ii)  Operating Expenses Ratio
+p21	(iii)  Operating Ratio
+p21	(iv) Financial Expenses Ratio
+p22	3.4.2 Profitability Ratios related to Overall Return on
+p23	(ii)  Return on Capital Employed (ROCE) and
+p24	(iii) Return on Equity (ROE): Return on Equity measures the profitability of
+p26	(iii)  Equity Multiplier: It is possible for a company with terrible sales and
+p27	3.4.3 Profitability Ratios Required for Analysis from
+p28	3.4.4 Profitability Ratios related to market/valuation/
+p30	1. EBIT (Earnings before interest and taxes) = PBIT (Profit before interest and
+p30	2. In absence of preference dividend PAT can be taken as earnings available
+p30	3. If information is available then average capital employed shall be taken
+p30	4. Ratios shall be calculated based on requirement and availability of
+p30	5. Numerator should be taken in correspondence with the denominator and
+p30	4. USERS AND OBJECTIVE OF FINANCIAL
+p30	1. Shareholders
+p30	2. Investors
+p31	3. Lenders
+p31	4. Creditors
+p31	5. Employees
+p32	6. Regulator /
+p32	7. Managers
+p33	8. Different Industry
+p33	5. APPLICATION
+p34	5.1 Financial Ratios for Evaluating Performance
+p36	6. LIMITATIONS OF FINANCIAL RATIOS
+p37	(vii) Difficulty to generalise whether a particular ratio is good or bad: For
+p37	(viii) Financial ratios are inter-related, not independent: Viewed in isolation
+p37	7. FINANCIAL ANALYSIS
+p38	8. SUMMARY OF RATIOS
+p38	1. Cash Ratio
+p45	(vii) Receivables Collection Period
+p45	1. Gross
+p45	2. Operating expense to sales
+p45	3. Operating
+p46	4. Capital turnover ratio (Sales /
+p46	5. Stock turnover ratio (COGS/
+p46	6. Net Profit to Net worth ratio
+p46	7. Receivables collection period
+p46	1. Average Stock = (opening
+p46	2. Average daily sales = Credit
+p52	10 Gross profit ratio
+p52	7 Or, Total Current Assets =
+p53	(vi)  Gross Profit = 25% of ` 32,00,000 = ` 8,00,000
+p53	(vii)  Stock Turnover =
+p59	1. Current Ratio =
+p59	2 Receivable Turnover Ratio =
+p59	3. Inventory turnover ratio = Sales
+p59	4. Total Asset Turnover ratio =
+p59	5 Net Profit Ratio = Net Profit
+p59	6. Return on Total Asset =
+p59	7. Return on Net worth = Net Profit
+p59	8. Total  Debt
+p60	2. However, the Inventory turnover ratio and Total Asset Turnover ratio is poor
+p60	3. The firm also has its net profit ratio and return on net worth ratio much
+p60	4. Total debt to total assets ratio is lower that the industry standard which
+p60	(iii)  Activity Ratios
+p61	1. Ratio of Net sales to Net working capital is a:
+p61	2. Long-term solvency is indicated by:
+p61	3. Ratio of net profit before interest and tax to sales is:
+p62	4. Observing changes in the financial variables across the years is:
+p62	5. The Receivable-Turnover ratio helps management to:
+p62	6. Which of the following is a liquidity ratio?
+p62	7. Which of the following is not a part of Quick Assets?
+p63	8. Capital Gearing ratio is the fraction of:
+p63	9. From the following information, calculate P/E ratio:
+p63	10. Equity multiplier allows the investor to see:
+p64	11. A company has average accounts receivable of ` 10,00,000 and annual credit
+p64	12. A company has net profit margin of 5%, total assets of ` 90,00,000 and return
+p64	13. What does Q ratio measures?
+p64	14. Calculate operating expenses from the information given below:
+p65	15. Which of the following is not a profitability ratio?
+p65	2. DISCUSS the financial ratios for evaluating company performance on
+p65	2. The capital structure of Beta Limited is as follows:
+p66	4. Ganpati Limited has furnished the following ratios and information relating to
+p67	2 Net profit to sales
+p67	12 Cost of goods sold
+p67	5. Using the following information, PREPARE the balance sheet:
+p68	9 Gross profit margin
+p70	10. From the following information and ratios, PREPARE the Balance sheet as at
+p71	11. From the following information, you are required to PREPARE a summarised
+p71	4 Stock Turnover (on the basis of sales)
+p71	6 Cash in hand
+p71	4 Capital to Reserve
+p71	1. RNOC Ltd is a listed company and has been facing a cash crunch situation since
+p74	1 Net Profit Ratio
+p75	(iii)  What is the expense company needs to incur for earning ` 1 of revenue in
+p75	(iv)  What is the projected net working capital of the company?
+p76	5. Please refer paragraph 6
+p77	1 Sales
+p77	13 Assets
+p78	(vii) Calculation of Receivables
+p78	(viii) Calculation of Long term Loan
+p79	4 Reserves and Surplus     =15,00,000 ×
+p83	5. Working Notes:
+p83	(iii) Sales and Cost of Goods sold
+p83	(iv) Current Assets
+p84	6. Working notes:
+p84	(ii)  Computation of Inventories
+p85	(iii)  Computation of Proprietary fund; Fixed assets; Capital and Sundry
+p85	7. Workings Notes:
+p88	(ii)   Cost of Goods sold
+p88	(iii)  Fixed Assets       =  `
+p88	(iv)  Stock                  =
+p89	(v)   Debtors              = 62,50,000 ×90 =  15,62,500
+p89	(vi)   Cash Equivalent =
+p89	(ii)  Determination of Sundry Debtors:
+p90	(iii) Determination of Sundry Creditors:
+p90	(iv)  Determination of Closing Stock
+p90	(v)  Determination of Fixed Assets
+p91	(iii)  Stock Turnover Ratio and Fixed Asset Turnover Ratio may be
+p91	1. Current Ratio = 3:1
+p92	2. Acid Test Ratio = CA – Stock / CL = 1:1
+p92	3. Stock Turnover ratio (on sales) = 5
+p92	4.     Gross Profit = 50,00,000 x 40% = `20,00,000
+p92	6. Average collection period = 30 days
+p94	1. Fixed Asset Turnover = 4
+p94	2. Stock Turnover = 6
+p95	3. Sales to net worth = 4
+p95	4. Debt: Equity
+p95	5. Gross Profit to Cost
+p95	6. COGS to creditors
+p96	7. Stock
+p96	8. Current Ratio
+p96	6 Current Liabilities
+p96	10. Net worth + Long Term Loan + Current Liability = Fixed Asset + Current
+p97	11. Now, from above calculations, we get,
