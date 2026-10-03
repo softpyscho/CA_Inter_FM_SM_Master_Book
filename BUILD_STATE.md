@@ -13,7 +13,7 @@ Updated 03-10-2026. Target attempt: January 2027.
 | SM Chapter 1 written and merged | Done — `book/Ch10.json` (13/13 headings, 102/102 questions placed) |
 | Builder, merge/validate, bookmark, index-link and scan scripts | Done — adapted from the Audit book for Paper 6's two sections |
 | Review PDF (front matter + both chapters) | Done — `CA_Inter_FMSM_Master_Book.pdf` |
-| FM Chapters 2–8 written and merged | Done — `book/Ch02.json` to `book/Ch08.json`; see the progress ledger below |
+| FM Chapters 2–9 written and merged | Done — `book/Ch02.json` to `book/Ch09.json`; **Section A (FM) is complete**; see the progress ledger below |
 
 ## Chapter numbering used in the book
 
@@ -22,9 +22,9 @@ Topic codes: `F01.07.01` prints as "FM Ch 1 §7.1"; `S01.05.02` prints as "SM Ch
 
 ## Next steps (updated 03-10-2026)
 
-1. FM Ch 9 Management of Working Capital (68 register headings, the largest chapter in the paper).
-   After Ch 9, run the back-fill pass listed at the end of this file. FM is then complete.
-2. SM Ch 2–5.
+1. SM Ch 2–5 (24, 14, 15 and 18 register headings) -> `book/Ch11.json` to `book/Ch14.json`.
+2. Back-fill pass: the stray official questions listed at the end of this file, plus the six
+   ratio-analysis questions found while scoping FM Ch 9 (see the FM Ch 9 section).
 3. Full front matter: chapter weightage chart from the mark counts, whole-paper trends,
    "changes to watch", diagnostic test.
 4. Back matter: cross-chapter cases, two mock exams, study plans, mistake book, 24-hour book,
@@ -166,6 +166,50 @@ Topic codes: `F01.07.01` prints as "FM Ch 1 §7.1"; `S01.05.02` prints as "SM Ch
   on Windows.**
 - Carried forward: nothing new. PYQ-S24-Q1b remains queued for FM Ch 9.
 
+## FM Ch 9 — Management of Working Capital — DONE (03-10-2026)
+- sources/f09/u1..u9.json -> book/Ch09.json  (nine unit files, one per group of blocks)
+- SM headings 68/68 · official atoms 51/51 · 26 topic blocks · 51 official question entries
+- Generated MCQ keys A18 B18 C18 D18 (72) · max deviation 0.0%
+- **The largest chapter in the paper and the most heavily examined**: 51 official question parts
+  against Ch 7's 35 and Ch 8's 38. Two topics take almost a third of them — credit policy
+  evaluation (8 questions) and factoring (9 questions).
+- Block layout follows the SM's six units: 8 blocks for Unit I (F09.01–F09.16), 7 for Unit II
+  (F09.17–F09.41), 7 for Units III–V (F09.42–F09.55) and 4 for Unit VI (F09.56–F09.68).
+- Two new findings worth recording for later chapters:
+  * **Five of the fourteen paper sets put a ten-mark working-capital case in Division A** —
+    SA May 2025 (XYZ Ltd), SA Sep 2025 (RG Limited), RTP Jan 2025 (Samvar Ltd), RTP Jan 2026
+    (PPW Ltd) and MTP Mar 2024 S1 (NV Industries). No other chapter is used that way.
+  * **ICAI republishes whole questions across paper types.** MTP Mar 2024 S2 Q1(a) (Lever Ltd,
+    5 marks descriptive) reappears unchanged as RTP Jan 2026's five-MCQ Division A case (PPW Ltd);
+    MTP Mar 2024 S1's factoring case reappears as RTP Sep 2025 Q9 and RTP Sep 2026 Q8 with only
+    the bad-debt percentage and the comparison rate changed.
+- Open items OV-F09-01 to OV-F09-15. The substantive ones: Bright Ltd published with three
+  different answers (7.504% / 6.730% / a 70-day variant); X Ltd applying the same 2% commission
+  to credit sales in one place and to receivables in another; Parshvam's 15% safety margin applied
+  to a base ₹25,000 above the stated excess; Nirmoh deducting the reserve before applying the
+  lending percentage (a double haircut); the margin-of-safety wording differing between a mark-up
+  and a gross-up across three questions; May 2026 MCQ 6 pairing the incremental investment with
+  only the opportunity-cost saving and not the contribution; and MTP Sep 2026 S2 specifying
+  2/15 net 60 then assuming the discount is not availed.
+- Standing gaps recorded, not papered over: **no EOQ or inventory-valuation computation** has been
+  asked in Paper 6A in the period reviewed (ICAI cross-refers Unit III to Paper 4 Ch 2), and
+  **§10.3–§10.5 on managing collections and disbursements is unexamined** — both carry
+  chapter-test questions for that reason.
+- `RTP-J26-FQ11b` (spontaneous sources of finance) was already placed in FM Ch 2 under F02.22
+  Short-term Sources of Finance. It is left there and cross-referenced from the §27.1 block rather
+  than moved out of a merged chapter.
+- Every case MCQ answer was checked against its own final reasoning line, and all generated
+  arithmetic was re-derived independently before the merge. Case 1's two estimation methods were
+  reconciled on purpose (₹8,80,000 by the operating cycle against ₹11,40,000 by the component
+  statement, the difference being accruals, the cash balance and the prepayment) and the case asks
+  the student to explain the gap. One chapter-test MCQ had a compounded-rate option corrected from
+  29.8% to 28.0% after independent recomputation.
+- Six MCQs had their option order rotated purely to bring the key balance to an exact 25% each;
+  the explanations were updated where they referenced an option letter.
+- Tooling note unchanged: the docx builds clean (2,653,835 characters of text, 1.43 MB, zero
+  leaked internal ids), but LibreOffice in the cloud container cannot load anything the `docx` npm
+  package produces, so **the PDF still needs `./make_pdf.ps1` on Windows.**
+
 ## Back-fill list found while scoping FM Ch 7 (coverage.py, 22-09-2026)
 These official questions belong to chapters already merged and were not in their atom files. Add them in a back-fill pass after FM Ch 9:
 - MTP-J26-S2-FQ4b (meaning of cost of capital + three reasons it matters) -> FM Ch 4
@@ -174,3 +218,13 @@ These official questions belong to chapters already merged and were not in their
 - MTP-S24-S2-FQ1a (X Ltd — point of indifference, ₹84 lakh) -> FM Ch 5
 - MTP-S25-S2-FQ4a (Project X vs Project Y — profit vs wealth maximisation vs value creation) -> FM Ch 1
 - MTP-M24-S2-FQ4a and MTP-S26-S2-FQ4a (inter-relationship between investment, financing and dividend decisions) -> FM Ch 1
+
+## Back-fill list found while scoping FM Ch 9 (03-10-2026)
+These six match a working-capital keyword but are ratio-analysis questions, and belong to FM Ch 3:
+- PYQ-J25-MCQ6 and PYQ-J25-MCQ7 (VP Ltd Case Scenario II — inventory, receivables, CA and CL from ratios)
+- PYQ-J26-Q1a (AIL Limited — inventory, working capital and the Basic Defense Interval)
+- PYQ-J26-Q4c-OR (BEE Ltd — whether each transaction improves or worsens a 2:1 current ratio)
+- MTP-J26-S2-FQ1a (debtors and creditors velocity, stock turnover, fixed assets to turnover)
+- MTP-S24-S1-FQ1a (Ananya Limited — total current assets from stock turnover and liquidity ratio)
+- MTP-S25-S1-FQ1b (Gagan Pvt. Ltd. — current ratio and the components behind it)
+- MTP-S26-S2-FMCQ1 (Solstice Biotech Part I case — current, quick, turnover, debt and profitability ratios)

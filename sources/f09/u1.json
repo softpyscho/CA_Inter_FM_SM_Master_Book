@@ -1,0 +1,601 @@
+{
+ "meta": {
+  "chapter_no": 9,
+  "section": "FM",
+  "paper": "CA Intermediate · Paper 6A · Financial Management",
+  "chapter_title": "FM Chapter 9 — Management of Working Capital",
+  "short_title": "FM Ch 9 Working Capital",
+  "module": "Paper 6A Financial Management · Module 2",
+  "attempt": "January 2027",
+  "sm_edition": "ICAI BoS Study Material, Paper 6A (relevant for May 2026 examination onwards), Module 2, Chapter 9 — six units",
+  "last_verified": "03-10-2026",
+  "status_summary": "SM headings 68/68 · official atoms 51/51"
+ },
+ "sections_before": [
+  {
+   "heading": "Examiner Mindset — FM Chapter 9",
+   "blocks": [
+    {
+     "type": "box",
+     "tag": "pyq",
+     "title": "What ICAI's published papers tell us",
+     "bullets": [
+      "ICAI has published no examiners' comments for Paper 6; the guidance below comes from its suggested answers, RTPs and MTPs.",
+      "**This is the largest chapter in Paper 6A and the most heavily examined.** Sixty-eight register headings over six units, and **fifty-one official question parts** between May 2024 and September 2026 — more than Chapters 7 and 8 together.",
+      "**Two topics take almost half the marks.** **Credit policy evaluation** (eight official questions) and **factoring** (eight official questions) account for sixteen of the fifty-one parts. Learn ICAI's two printed formats cold — the Total Approach / Incremental Approach statement and the Statement showing the Evaluation of Factoring Proposal — and those sixteen questions become fill-in-the-blanks.",
+      "**The operating cycle and the cash-cost statement take most of the rest.** Six questions on the operating cycle and nine on estimating working capital, five of them specifically on the cash-cost basis.",
+      "**The Part I case scenario lands here more often than anywhere else in the paper.** Five of the fourteen papers reviewed put a ten-mark working-capital case in Division A: SA May 2025 (XYZ Ltd), SA September 2025 (RG Limited), RTP January 2025 (Samvar Ltd), RTP January 2026 (PPW Ltd) and MTP March 2024 Series I (NV Industries). September 2025's RG Limited runs the operating cycle **backwards** from the working-capital figure — the hardest single question in the chapter.",
+      "**The theory slots are short and they repeat.** Liquidity versus profitability (three times), the factors in planning working capital (three times), virtual banking (twice), trade credit versus bank overdraft, the costs of availing trade credit, factoring versus forfaiting, the treasury department's tasks and the forms of bank credit. Each is a four-mark answer that needs no arithmetic at all."
+     ]
+    },
+    {
+     "type": "box",
+     "tag": "face",
+     "title": "How ICAI marks this chapter (study guidance)",
+     "bullets": [
+      "**Decide cost basis or sales basis in the first line, and write it down.** Debtors and finished goods go in at **cash cost** unless the question says otherwise, and depreciation always comes out. Getting this wrong costs every subsequent figure.",
+      "**Write the operating cycle as R + W + F + D − C**, name each letter, then compute each period as a labelled fraction. The marks are in the five fractions, not in the total.",
+      "**Read the safety-margin wording twice.** 'A margin of 15%' on net working capital is not the same as 'a margin of 15% of the net working capital inclusive of the margin'. The second means the computed excess is 85% of the answer, so the margin is excess × 15/85, which is how ICAI applies it in RTP September 2024 (₹4,49,792 × 1/9).",
+      "**Use ICAI's own layout for credit-policy questions** — Expected Profit (a to g), then Opportunity Cost of Investment in Receivables, then Net Benefits — and close with the one-sentence recommendation. The recommendation is a mark.",
+      "**In every factoring question, state the decision rule before the arithmetic:** accept if the effective cost of factoring is below the existing cost of borrowing. Several official answers carry that sentence as a separate mark.",
+      "**Assume 360 days unless told otherwise, and say which you used.** ICAI prints both; September 2025's Wint Limited and May 2026's Puja Limited both use 365.",
+      "**Six units means six question styles.** Do not revise this chapter as one block; revise it as Unit I (estimation), Unit II (cash), Unit IV (receivables) and Unit VI (financing), which is where the questions actually come from."
+     ]
+    },
+    {
+     "type": "box",
+     "tag": "trap",
+     "title": "The five errors that cost the most marks here",
+     "bullets": [
+      "**Valuing debtors at sales value instead of cash cost.** SM §6.3 is explicit: debtors worth ₹1 lakh on a cost of sales of ₹75,000 of which ₹5,000 is depreciation tie up only **₹70,000** of funds.",
+      "**Forgetting that work-in-progress carries full material but only part of the conversion cost.** MTP January 2026 Series I gives 50% conversion with materials issued at the start; MTP January 2025 Series II gives 90% material and 60% conversion.",
+      "**Applying the lending percentage and the reserve in the wrong order** in a receivables-collateral question. RTP January 2025's Nirmoh Limited deducts the reserve first and then lends 90% of the balance.",
+      "**Using sales rather than cost of sales in the opportunity cost of receivables.** ICAI's own formula is Total Cost of Credit Sales × collection period ÷ 365 × required return.",
+      "**Confusing the two cost-of-payables formulae.** The nominal annual cost is d ÷ (100 − d) × 365 ÷ t; the compounded cost is [100 ÷ (100 − d)]^(365/t) − 1. SM Illustration 17 gives 23.5% on 2/10 net 45 using the second."
+     ]
+    }
+   ]
+  }
+ ],
+ "snapshot": {
+  "about": "How much to tie up in current assets, how to work out that figure, and where to get the money. Six units: estimating the requirement from the operating cycle or on a cash-cost basis; treasury and cash management with the Baumol and Miller-Orr models; inventory; receivables, credit policy and factoring; payables and the cost of trade credit; and the financing of working capital from spontaneous sources and from banks.",
+  "why": "It is the largest chapter in the paper, it is asked in every attempt and every RTP and MTP, and its two biggest topics — credit policy and factoring — are pure format questions once the statement layouts are learnt.",
+  "core_concepts": [
+   "F09.01–F09.04 Gross against net, permanent against temporary, and what 'optimum' working capital means",
+   "F09.05–F09.10 The nine determinants, liquidity against profitability, and the aggressive / moderate / conservative approaches",
+   "F09.11–F09.16 Estimating the requirement: the operating cycle, the component-by-component statement, the cash-cost basis and double-shift working",
+   "F09.17–F09.18 Treasury management and the five tasks of the treasury department",
+   "F09.19–F09.29 Cash management: the three Keynesian motives, cash planning, the cash budget, float, and the optimum cash balance",
+   "F09.30–F09.32 Baumol's EOQ model for cash and the Miller-Orr control-limit model",
+   "F09.33–F09.41 Recent developments in cash management, and the management of marketable securities",
+   "F09.42 Inventory management (cross-referred by ICAI to Paper 4)",
+   "F09.43–F09.52 Receivables: the three aspects, credit policy, the Total and Incremental Approaches, pledging, factoring, forfaiting and the ageing schedule",
+   "F09.53–F09.55 Payables: the cost of availing and of not availing trade credit, and the two cost-of-payables formulae",
+   "F09.56–F09.68 Financing: spontaneous against negotiated sources, commercial paper, bills discounting and the seven forms of bank credit"
+  ],
+  "key_provisions": [
+   "Working Capital = Current Assets − Current Liabilities",
+   "Operating Cycle = R + W + F + D − C",
+   "Number of operating cycles in a year = 360 (or 365) ÷ Operating cycle period",
+   "Working capital required = Annual operating cost ÷ Number of operating cycles",
+   "Debtors and finished goods are taken at cash cost, excluding profit and depreciation (SM §6.3)",
+   "Baumol: C = √(2UP ÷ S), where U is annual disbursement, P the cost per transaction and S the opportunity cost of one rupee",
+   "Miller-Orr: h as the upper limit, z as the return point, zero as the lower limit; transfer h − z out at the upper limit",
+   "Opportunity cost of receivables = Total cost of credit sales × collection period ÷ 365 (or 360) × required return",
+   "Effective cost of factoring = Net annual cost of factoring ÷ Advance to be paid × 100",
+   "Cost of not taking a discount, nominal = d ÷ (100 − d) × 365 ÷ t; compounded = [100 ÷ (100 − d)]^(365/t) − 1"
+  ],
+  "tested_areas": [
+   {
+    "text": "Evaluation of credit policies by the Total or Incremental Approach",
+    "evidence": "PYQ Sep 2024 Q3(a), May 2026 MCQ 6; RTP Sep 2024 Q11; MTP May 2025 Series I Q2(b), May 2025 Series II Part I case, Sep 2025 Series II Q3(a), Sep 2026 Series II Q1(a)"
+   },
+   {
+    "text": "Effective cost of a factoring proposal, and the accept-or-reject advice",
+    "evidence": "PYQ May 2024 Q1(c), Jan 2026 Q1(b); RTP Sep 2025 Q9, Sep 2026 Q8; MTP Mar 2024 Series I Part I case, Sep 2024 Series II Q2(a), Sep 2025 Series I MCQ (vii)"
+   },
+   {
+    "text": "Operating cycle period, number of cycles and the working capital it implies",
+    "evidence": "PYQ Sep 2024 Q1(b), Jan 2025 Q2(b), Sep 2025 Part I case; RTP May 2026 Q9; MTP Sep 2025 Series I Q1(c)"
+   },
+   {
+    "text": "Estimating working capital component by component, with a safety margin or contingency provision",
+    "evidence": "RTP Sep 2024 Q10, May 2025 Q9; MTP Jan 2025 Series II Q2(a), Jan 2026 Series I Q2(a)"
+   },
+   {
+    "text": "Working capital on a cash-cost basis",
+    "evidence": "PYQ May 2025 Part I case; RTP May 2024 Q7, Jan 2026 Part I case; MTP Mar 2024 Series II Q1(a)"
+   },
+   {
+    "text": "Cash budget, and the surplus or deficit against a target balance",
+    "evidence": "PYQ Jan 2025 Q1(a); RTP Sep 2026 Q9"
+   },
+   {
+    "text": "Baumol's model, forwards and backwards",
+    "evidence": "PYQ Jan 2026 MCQ 7; RTP Jan 2025 Part I case item (i)"
+   },
+   {
+    "text": "Liquidity against profitability, and the factors in planning working capital",
+    "evidence": "MTP Mar 2024 Series II Q4(b), Sep 2024 Series II Q2(b), Sep 2025 Series I Q4(a), Sep 2026 Series II Q4(b); RTP Sep 2025 Q10(c), Sep 2026 Q10(c)"
+   },
+   {
+    "text": "Cash cycle, cash turnover and the minimum operating cash balance",
+    "evidence": "PYQ May 2026 Q3(b); SM Illustration 11"
+   },
+   {
+    "text": "Cost of payables and the cash-discount decision",
+    "evidence": "PYQ May 2026 Q2(b); MTP Sep 2024 Series I Q4(a); RTP Sep 2025 Q10(b)"
+   }
+  ]
+ },
+ "evidence": {
+  "pyq_table": [
+   {
+    "id": "PYQ-M24-Q1c",
+    "question": "Bright Ltd: effective cost of a non-recourse factoring offer, with a redundancy payment and a cost of capital of 12.5%",
+    "concept": "F09.49",
+    "marks": 5,
+    "type": "Factoring",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M24-Q4b",
+    "question": "ABC Ltd: describe any four forms of bank credit",
+    "concept": "F09.68",
+    "marks": 4,
+    "type": "Descriptive",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S24-Q1b",
+    "question": "SK Limited: working capital requirement by the operating cycle method, with WIP and finished-goods periods to be derived",
+    "concept": "F09.13",
+    "marks": 5,
+    "type": "Operating cycle",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S24-Q3a",
+    "question": "AB Enterprises: present and two proposed credit policies by the Total Approach, with extra creditor credit on the additional variable cost",
+    "concept": "F09.47",
+    "marks": 5,
+    "type": "Credit policy",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-J25-Q1a",
+    "question": "KP Ltd: cash budget for three months with a minimum balance, temporary borrowing and investment of the excess",
+    "concept": "F09.22",
+    "marks": 5,
+    "type": "Cash budget",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-J25-Q2b",
+    "question": "MSD Limited: operating cycle period, number of cycles and working capital from an annual operating cost that includes depreciation",
+    "concept": "F09.13",
+    "marks": 3,
+    "type": "Operating cycle",
+    "repeat": "R2 (PYQ-S24-Q1b)"
+   },
+   {
+    "id": "PYQ-J25-Q4c",
+    "question": "State any two advantages of virtual banking",
+    "concept": "F09.40",
+    "marks": 2,
+    "type": "Descriptive",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-J25-MCQ8",
+    "question": "JKL Company Ltd: working capital requirement with a provision for contingencies at 20% of working capital",
+    "concept": "F09.11",
+    "marks": 2,
+    "type": "MCQ",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M25-MCQ1",
+    "question": "XYZ Ltd (Part I Case Scenario I, MCQs 1–5): a bank working-capital proposal on a cash cost basis, through to the 10% margin of safety",
+    "concept": "F09.15",
+    "marks": 10,
+    "type": "Case MCQs",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S25-MCQ1",
+    "question": "RG Limited (Part I Case Scenario I, MCQs 1–5): the whole operating cycle reconstructed backwards from a working capital figure of ₹1,01,850 and 3 cycles a year",
+    "concept": "F09.13",
+    "marks": 10,
+    "type": "Case MCQs, reverse",
+    "repeat": "R3 (PYQ-S24-Q1b as a case)"
+   },
+   {
+    "id": "PYQ-J26-Q1b",
+    "question": "X Ltd: effective cost of factoring where credit sales must first be backed out of average debtors and a 60-day collection period",
+    "concept": "F09.49",
+    "marks": 5,
+    "type": "Factoring",
+    "repeat": "R2 (PYQ-M24-Q1c)"
+   },
+   {
+    "id": "PYQ-J26-Q4b",
+    "question": "Why virtual banking is popular among customers, and the advantages of virtual banking",
+    "concept": "F09.40",
+    "marks": 4,
+    "type": "Descriptive",
+    "repeat": "R1 (PYQ-J25-Q4c)"
+   },
+   {
+    "id": "PYQ-J26-MCQ7",
+    "question": "Total annual cash disbursements backed out of a Baumol optimum cash balance of ₹30,000",
+    "concept": "F09.31",
+    "marks": 2,
+    "type": "MCQ, reverse",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M26-Q2b",
+    "question": "B Ltd: whether to take a 2% discount on a ₹75,000 invoice for paying two months early, financed by a 10% overdraft",
+    "concept": "F09.55",
+    "marks": 3,
+    "type": "Cost of payables",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M26-Q3b",
+    "question": "AR Ltd: cash cycle, cash turnover and minimum cash balance, then the effect of a 2% discount that cuts collection by 30 days",
+    "concept": "F09.12",
+    "marks": 6,
+    "type": "Cash cycle",
+    "repeat": "R4 (combines 9.12 and 9.47)"
+   },
+   {
+    "id": "PYQ-M26-MCQ6",
+    "question": "Incremental investment in debtors, and its post-tax impact, when terms are liberalised and collection unexpectedly falls",
+    "concept": "F09.47",
+    "marks": 2,
+    "type": "MCQ",
+    "repeat": "R2 (PYQ-S24-Q3a)"
+   }
+  ],
+  "trend": [
+   "Every attempt from May 2024 to May 2026 carried at least two working-capital parts, and January 2025, September 2025 and May 2026 carried three each.",
+   "**Three of the last five papers put this chapter in Division A as a ten-mark case scenario** — May 2025 (XYZ Ltd), September 2025 (RG Limited) and, counting the RTPs, January 2025 and January 2026 as well. No other chapter is used that way so consistently.",
+   "**Factoring has been asked in eight of the fourteen paper sets reviewed**, and five of those eight run the same 2/40 net 120 data with only the bad-debt percentage or the comparison rate changed: MTP March 2024 Series I (1%, bank at 14%), RTP September 2025 (1.5%, bank at 12%) and RTP September 2026 (1%, bank at 14%) are the same question three times.",
+   "**Credit policy has been asked eight times** and ICAI uses the Total Approach in every published answer except MTP May 2025 Series II, which uses the Incremental Approach.",
+   "The reverse workings are getting harder: September 2025's RG Limited inverts the whole operating cycle, and January 2026's MCQ 7 inverts Baumol's formula. Expect at least one inverted formula in Division A.",
+   "The theory marks cluster on four questions — liquidity versus profitability, the factors in planning working capital, virtual banking, and trade credit against bank overdraft — which between them appeared nine times in fourteen paper sets."
+  ]
+ },
+ "concepts": [
+  {
+   "code": "F09.01 + F09.02 + F09.03 + F09.04",
+   "title": "1–2.2 Meaning and Concept of Working Capital, its Significance, Adequate Working Capital and Optimum Working Capital",
+   "activity": "Medium",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 direct (but every numerical in the chapter rests on these definitions) · RTP 0 direct · MTP 0 direct",
+   "understand": [
+    "==**The one definition everything else hangs on** (SM §1): **Working Capital = Current Assets − Current Liabilities.**==",
+    "**When is an asset current?** SM §1: when **(i) it is expected to be realised or intends to be sold or consumed in the normal operating cycle of the entity or within twelve months after the reporting period, whichever is longer; and (ii) the asset is held primarily for the purpose of trading in the ordinary course of business.**",
+    "**The four groups of current assets** for working-capital purposes: **(a) Inventory** (raw material, work in process and finished goods), **(b) Receivables** (trade receivables and bills receivables), **(c) Cash or cash equivalents** (including short-term marketable securities) and **(d) Prepaid expenses.** Other current assets may include short-term loans or advances and accrued revenue.",
+    "**When is a liability current?** When **(i) it is expected to be settled in the normal operating cycle or within twelve months, whichever is longer; and (ii) it is settled either by the use of current assets or by the creation of a new current liability.** The two groups are **(a) Payables** (trade and bills payables) and **(b) Outstanding payments** (wages and salary, overheads and other expenses).",
+    "==**Two ways of cutting the concept, and ICAI draws both as a tree** (SM §1):\n**On the basis of value** → **Gross** working capital = the firm's **investment in current assets**; **Net** working capital = **current assets less current liabilities**.\n**On the basis of time** → **Permanent** and **Fluctuating (temporary)**.==",
+    "**Permanent working capital** is the **base working capital — the minimum level of investment in current assets carried by the entity at all times** to carry on its day-to-day activities. It stays invested unless operations are scaled up or down permanently, and **it is generally financed by long-term sources of finance.**",
+    "**Temporary (variable, fluctuating) working capital** is what is needed **in addition to** the permanent amount, to finance short-term requirements **arising from fluctuation in sales volume** — the extra inventory held for a seasonal peak, for instance. ==**Both kinds are necessary to facilitate production and sales through the operating cycle.**==",
+    "**A positive working capital indicates the company's ability to pay its short-term liabilities; a negative working capital shows inability to meet short-term obligations.**",
+    "==**Why too much is as bad as too little** (SM §2.1). **Too large:** the company has **idle funds**; since funds have a cost it pays interest on funds invested in surplus working capital, and there is an **opportunity cost** — the return it could have earned on long-term investment. ==**ICAI cites the Bureau of Public Enterprises studies: one reason for the poor performance of public sector undertakings in India has been the large amount of funds locked up in working capital, which results in over capitalization — too large funds for requirements, a low rate of return, a less than optimal use of resources.**==",
+    "==**Too small:** the firm **runs the risk of insolvency**; paucity of working capital may mean it cannot meet its liabilities, and it may not hold enough inventory to meet customers' demand, **losing sales and eventually some reputation as well.**==",
+    "**The long-term point ICAI makes twice.** Maintaining adequate working capital matters in the long term too: when a business makes an investment decision it must consider not only the outlay on the machine or building but **the additional current assets usually required with any expansion of activity** — increased production means **additional stocks of raw materials and work-in-progress**; increased sales mean **higher debtors and finished goods**; and a general increase in scale **tends to imply a need for greater levels of working capital.**",
+    "==**What 'optimum' means** (SM §2.2). **Current ratio (current assets ÷ current liabilities) has traditionally been considered the best indicator of the working capital situation**, supplemented by the **acid test ratio**. ==**A current ratio of 2 for a manufacturing firm implies an optimum amount of working capital**; a higher ratio may indicate inefficient use of funds and a lower ratio liquidity problems. The quick ratio should be **at least 1**, where quick assets are **current assets less inventory and prepaid expenses.**==",
+    "**But ICAI immediately qualifies the thumb rule, and this is the examinable sentence:** **'optimum working capital can be determined only with reference to the particular circumstances of a specific situation.'** Where inventories are easily saleable and debtors are as good as liquid cash the current ratio **may be lower than 2 and yet the firm may be sound**; a **restaurant**, whose finished goods are perishable, cannot afford to hold a large amount of working capital; a company whose **products take a longer production time** may need more. ==**In a nutshell, both excessive and inadequate working capital positions are dangerous.**=="
+   ],
+   "example": "January 2026's BEE Ltd question in the past paper opens 'BEE Ltd. has a current ratio of 2:1, showing enough short-term liquidity in the company' and then asks whether a series of transactions improves, worsens or leaves the ratio unchanged. The question is marked in Chapter 3 as ratio analysis, but the premise is this section's: a current ratio of 2 is the conventional benchmark, not a proof of health, and ICAI's own text says so.",
+   "provisions": [
+    {
+     "ref": "Definition (SM §1)",
+     "status": "VERIFIED",
+     "requirement": "Working Capital = Current Assets − Current Liabilities.",
+     "exam_angle": "The starting line of every numerical in the chapter; write it out before the statement."
+    },
+    {
+     "ref": "Gross and net working capital (SM §1)",
+     "status": "VERIFIED",
+     "requirement": "Gross = investment in current assets. Net = current assets less current liabilities.",
+     "exam_angle": "RTP January 2025 asks for both figures in one MCQ, and RTP January 2026 asks for gross working capital alone — read which is wanted."
+    },
+    {
+     "ref": "Permanent and temporary working capital (SM §1)",
+     "status": "VERIFIED",
+     "requirement": "Permanent is the minimum level carried at all times and is generally financed by long-term sources; temporary meets fluctuations in sales volume.",
+     "exam_angle": "The hook for Unit VI: permanent from long-term sources, temporary from short-term."
+    },
+    {
+     "ref": "Over-capitalisation from excess working capital (SM §2.1)",
+     "status": "VERIFIED",
+     "requirement": "Large idle working capital results in over capitalization — too large funds for requirements, a low rate of return and a less than optimal use of resources.",
+     "exam_angle": "The Bureau of Public Enterprises reference is ICAI's own and is worth quoting."
+    },
+    {
+     "ref": "Optimum working capital (SM §2.2)",
+     "status": "VERIFIED",
+     "requirement": "Current ratio of 2 and acid test ratio of 1 as a thumb rule, but optimum can be determined only with reference to the particular circumstances of a specific situation.",
+     "exam_angle": "Both halves are needed: give the benchmark, then the qualification with an example."
+    }
+   ],
+   "keywords": [
+    "gross and net working capital",
+    "permanent and fluctuating",
+    "base working capital",
+    "idle funds",
+    "over capitalization",
+    "risk of insolvency",
+    "current ratio of two",
+    "acid test ratio of one",
+    "particular circumstances of a specific situation"
+   ],
+   "memory": {
+    "trick": "**Value and Time.** Value splits working capital into **Gross and Net**; Time splits it into **Permanent and Fluctuating**. Two cuts, two pairs — and ICAI draws them as one tree with two branches.",
+    "key": [
+     ["Gross working capital", "Investment in current assets"],
+     ["Net working capital", "Current assets − current liabilities"],
+     ["Permanent working capital", "Minimum level at all times; financed long term"],
+     ["Temporary working capital", "The extra for sales fluctuation; financed short term"],
+     ["Too much", "Idle funds, opportunity cost, over capitalization"],
+     ["Too little", "Risk of insolvency, lost sales, lost reputation"],
+     ["Benchmark", "Current ratio 2, quick ratio 1 — as a thumb rule only"]
+    ]
+   },
+   "mistakes": [
+    "Giving gross working capital where net was asked, or the reverse. RTP January 2025 asks for both in a single option and the wrong pairing is offered as a distractor.",
+    "Saying permanent working capital should be financed by short-term sources. ICAI says the opposite, and Unit VI depends on it.",
+    "Treating a current ratio below 2 as proof of weakness. SM §2.2 gives two counter-examples — easily saleable inventories, and a restaurant.",
+    "Including inventory in quick assets. Quick assets are current assets less inventory **and** prepaid expenses.",
+    "Forgetting that a negative net working capital is a meaningful answer. RTP January 2025's Samvar Ltd produces net working capital of ₹(5.9396) lakh per store, and the negative figure is the correct one."
+   ],
+   "compare": {
+    "title": "Gross against net, and permanent against fluctuating",
+    "headers": ["", "Gross / Net (value)", "Permanent / Fluctuating (time)"],
+    "rows": [
+     ["What is measured", "How much is in current assets, and how much of it is financed by current liabilities", "How much is always needed, and how much comes and goes"],
+     ["Gross / Permanent", "Total investment in current assets", "The minimum level carried at all times"],
+     ["Net / Fluctuating", "Current assets less current liabilities", "The extra required by sales fluctuation"],
+     ["Financing implication", "None directly — it is a measurement split", "Permanent from long-term sources, temporary from short-term"],
+     ["Where it is asked", "RTP Jan 2025 MCQ (ii), RTP Jan 2026 MCQ (i)", "Unit VI §26, which opens by telling the finance manager to bifurcate the two"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §26: the bifurcation of permanent and temporary working capital drives the financing decision",
+    "🔗 FM Ch 3 §3: the current ratio and quick ratio as ratios in their own right",
+    "🔗 FM Ch 1: working capital management as one of the three finance functions",
+    "🔗 FM Ch 9 §6: the operating cycle, which is how the twelve-month test is actually applied"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Distinguish between gross and net working capital (2 marks)",
+     "Explain permanent and temporary working capital (2–4 marks)",
+     "Discuss the dangers of excessive and of inadequate working capital (4 marks)",
+     "An MCQ computing gross and net working capital from a set of components (2 marks)"
+    ],
+    "approach": [
+     "For a definition question, give the formula, then the two cuts, then one consequence of each.",
+     "For the dangers question, write two short paragraphs — too much, then too little — and name over capitalization and risk of insolvency explicitly.",
+     "For the optimum question, give the thumb rule and then ICAI's qualification with the restaurant example; the qualification is where the marks separate candidates."
+    ]
+   },
+   "official_questions": [],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.01-01",
+     "angle": "Definitions",
+     "difficulty": "Easy",
+     "question": "A firm's current assets are ₹18,00,000 and its current liabilities ₹12,00,000. Its gross working capital and net working capital are respectively:",
+     "options": {
+      "A": "₹18,00,000 and ₹6,00,000",
+      "B": "₹6,00,000 and ₹18,00,000",
+      "C": "₹18,00,000 and ₹30,00,000",
+      "D": "₹6,00,000 and ₹6,00,000"
+     },
+     "answer": "A",
+     "explanation": "SM §1: gross working capital is the firm's investment in current assets, so ₹18,00,000; net working capital is current assets less current liabilities, so ₹6,00,000. Option B reverses the two, which is the standard distractor."
+    },
+    {
+     "id": "MCQ-F09.01-02",
+     "angle": "Optimum",
+     "difficulty": "Medium",
+     "question": "A restaurant chain reports a current ratio of 1.1 : 1. According to the study material this:",
+     "options": {
+      "A": "Proves the business is heading for insolvency, since the benchmark is 2 : 1",
+      "B": "Need not indicate weakness, because optimum working capital can be determined only with reference to the particular circumstances of a specific situation",
+      "C": "Is irrelevant, because the current ratio does not measure the working capital situation",
+      "D": "Means the business is over-capitalised"
+     },
+     "answer": "B",
+     "explanation": "SM §2.2 gives the 2 : 1 thumb rule and then qualifies it in the same breath, using a restaurant as its own example: where finished goods are perishable the organisation cannot afford to hold a large amount of working capital. Option C contradicts the section, which calls the current ratio the traditional best indicator."
+    }
+   ],
+   "recap": [
+    "Working Capital = Current Assets − Current Liabilities.",
+    "Value splits it into gross (investment in current assets) and net (the difference); time splits it into permanent and fluctuating.",
+    "Permanent working capital is financed by long-term sources; temporary by short-term sources.",
+    "Excess working capital means idle funds and over capitalization; inadequate working capital means the risk of insolvency.",
+    "Current ratio 2 and quick ratio 1 are thumb rules only — optimum depends on the particular circumstances of the specific situation."
+   ]
+  },
+  {
+   "code": "F09.05",
+   "title": "3 Determinants of Working Capital",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 2 (Sep 2026 Q10(c); the same list underlies Sep 2025 Q10(c)) · MTP 0 direct",
+   "understand": [
+    "**What working capital management is concerned with** (SM §3): **(a) maintaining adequate working capital** — managing the level of individual current assets and current liabilities — **and (b) financing of the working capital.** The finance manager plans and computes the requirement, then ensures it is financed properly; **this whole exercise is known as Working Capital Management.**",
+    "**ICAI's instruction on how to forecast:** **sound financial and statistical techniques, supported by judgment, should be used to predict the quantum of working capital required at different times.**",
+    "==**The nine factors, which ICAI prints as a labelled diagram and which is the answer to 'factors to be considered while planning for working capital requirement'** (SM §3):==",
+    "==**1. Need for Cash** — identify the cash balance that allows the business to meet day-to-day expenses **but reduces cash holding costs**, for example the loss of interest on long-term investment had the surplus cash been invested there.==",
+    "==**2. Desired level of Inventory** — the level that allows **uninterrupted production** but reduces the investment in raw materials and so increases cash flow. **The techniques used are Just in Time (JIT) and Economic Order Quantity (EOQ).**==",
+    "==**3. Receivables** — identify the appropriate credit policy, that is **credit terms which will attract customers such that any impact on cash flows and the cash conversion cycle will be offset by increased revenue and hence Return on Capital** (or vice versa). **The tools are Early Payment Discounts and allowances.**==",
+    "==**4. Short-term Financing Options** — **inventory is ideally financed by credit granted by the supplier**; depending on the cash conversion cycle it may be necessary to use a bank loan or overdraft, or to 'convert debtors to cash' through factoring.==",
+    "==**5. Nature of Business** — in a **restaurant** most sales are in cash, so the need for working capital is very low; a **pharmacy or a bookstore** carries higher inventory.==",
+    "==**6. Market and Demand Conditions** — if an item's demand far exceeds its production the working capital requirement is **less**, because investment in finished goods inventory is very small with continuous sales.==",
+    "==**7. Technology and Manufacturing Policies** — where demand is **seasonal**, a business may follow a policy of **steady production throughout the year** or of **production only during the demand season**; the two choices need very different working capital.==",
+    "==**8. Operating Efficiency** — a company can reduce the requirement by **eliminating waste, improving coordination and process improvements**.==",
+    "==**9. Price Level Changes and Exchange Rate Fluctuations** — **rising prices necessitate the use of more funds for maintaining an existing level of activity**; for the same level of current assets, higher cash outlays are required, so **the effect of rising prices is that a higher amount of working capital is required**. An unfavourable exchange rate movement on imported raw materials has the same effect.==",
+    "**How to turn the list into a case answer, which is what both RTPs actually ask.** September 2026's Sunrise Healthcare faces rising raw material costs (factor 9), exchange-rate swings on imported medicines (factor 9 again), rising inventory from uncertain demand (factor 2), a credit policy under review (factor 3) and short-term financing options (factor 4). ==**Name the factor, then tie it to the fact in the case in one clause.** A bare list of nine headings scores much less than five headings each with a sentence drawn from the scenario.=="
+   ],
+   "example": "RTP September 2026 Q10(c) gives Sunrise Healthcare Pvt. Ltd., a pharmacy chain, and asks for 'the factors that should be considered while planning its working capital requirements'. ICAI's answer is this section verbatim. The marks are free if the nine headings are memorised, and the difference between a pass and a good answer is whether the candidate attaches the case's own facts — imported medicines, uncertain demand, the credit policy review — to the headings.",
+   "provisions": [
+    {
+     "ref": "Scope of working capital management (SM §3)",
+     "status": "VERIFIED",
+     "requirement": "Maintaining adequate working capital, and financing of the working capital.",
+     "exam_angle": "A two-part opening sentence that frames any answer in this section."
+    },
+    {
+     "ref": "Nine factors in planning working capital (SM §3)",
+     "status": "VERIFIED",
+     "requirement": "Need for cash · desired inventory level · receivables · short-term financing options · nature of business · market and demand conditions · technology and manufacturing policies · operating efficiency · price level changes and exchange rate fluctuations.",
+     "exam_angle": "Asked verbatim in RTP Sep 2026 Q10(c); the examinable form is the nine headings each with one line."
+    },
+    {
+     "ref": "Effect of rising prices (SM §3, factor 9)",
+     "status": "VERIFIED",
+     "requirement": "Rising prices mean higher cash outlays for the same level of current assets, so a higher amount of working capital is required.",
+     "exam_angle": "The one factor whose direction candidates get wrong; inflation increases the requirement."
+    }
+   ],
+   "keywords": [
+    "nine determinants",
+    "JIT and EOQ",
+    "early payment discounts",
+    "inventory ideally financed by supplier credit",
+    "convert debtors to cash",
+    "restaurant sells for cash",
+    "demand exceeds production means less working capital",
+    "steady production or seasonal production",
+    "rising prices require more working capital"
+   ],
+   "memory": {
+    "trick": "**The first four are the components, the last five are the environment.** Cash, inventory, receivables and short-term financing are the things the finance manager sets; nature of business, market and demand, technology, operating efficiency and price levels are the conditions he sets them in. ==Four levers, five pressures.==",
+    "key": [
+     ["Need for cash", "Enough for day-to-day, but holding cash has an opportunity cost"],
+     ["Inventory level", "Uninterrupted production at least investment — JIT, EOQ"],
+     ["Receivables", "Credit terms that attract customers — early payment discounts"],
+     ["Short-term financing", "Supplier credit first, then overdraft or factoring"],
+     ["Nature of business", "Restaurant low, pharmacy and bookstore high"],
+     ["Market and demand", "Demand above production means lower finished goods"],
+     ["Technology and policies", "Steady production all year, or only in season"],
+     ["Operating efficiency", "Eliminate waste, improve coordination"],
+     ["Price levels and forex", "Inflation and adverse rates raise the requirement"]
+    ]
+   },
+   "mistakes": [
+    "Saying inflation reduces the working capital requirement. ICAI says the opposite: higher cash outlays are needed for the same level of current assets.",
+    "Saying a business whose demand exceeds production needs more working capital. It needs less, because finished goods do not accumulate.",
+    "Listing the nine headings with no reference to the case in a case-based question. Both RTP askings are case-based.",
+    "Confusing these nine planning factors with the five factors in §4.2 that govern the **level of investment** in working capital (nature of industry, type of product, manufacturing versus trading versus service, volume of sales, credit policy). Different list, different section, and MTP September 2024 Series II Q2(b) asks for the second one.",
+    "Omitting short-term financing options, which is the only one of the nine that points forward to Unit VI."
+   ],
+   "compare": {
+    "title": "The two lists ICAI keeps close together, and which question wants which",
+    "headers": ["", "§3 — planning the requirement (nine factors)", "§4.2 — the level of investment (five factors)"],
+    "rows": [
+     ["Question wording", "'Factors to be considered while planning for working capital requirement'", "'Factors a company should consider when deciding the level of investment in working capital'"],
+     ["Asked in", "RTP Sep 2026 Q10(c)", "MTP Sep 2024 Series II Q2(b)"],
+     ["First item", "Need for cash", "Nature of industry"],
+     ["Flavour", "Operational and environmental", "Structural — what kind of business this is"],
+     ["Overlap", "Nature of business, market and demand", "Types of products, volume of sales, credit policy"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §4.2: the five factors governing the level of investment in working capital",
+    "🔗 FM Ch 9 §11.1: Baumol's model, which is factor 1 made arithmetical",
+    "🔗 FM Ch 9 §19: credit policy evaluation, which is factor 3 made arithmetical",
+    "🔗 FM Ch 9 §27: the short-term financing options of factor 4",
+    "🔗 Paper 4 Ch 2 Material Cost: EOQ and JIT, the techniques named in factor 2"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Discuss the factors to be considered while planning working capital requirements (4 marks)",
+     "A case company faces rising input costs and an inventory build-up — advise on the factors it should weigh (4 marks)",
+     "Explain how the nature of business affects the working capital requirement (2 marks)"
+    ],
+    "approach": [
+     "Open with the two concerns of working capital management, then run the nine headings.",
+     "In a case question, use only five or six of the nine but tie each to a fact in the scenario; depth beats coverage here.",
+     "Finish with price level changes, which is the factor that lets you say something about the specific industry in the case."
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "RTP-S26-FQ10c",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Descriptive",
+     "question": "Sunrise Healthcare Pvt. Ltd. operates a chain of pharmacies across India. The company has recently experienced rising raw material costs, fluctuations in exchange rates affecting imported medicines, and increasing inventory levels due to uncertain demand. Management is also reviewing its credit policy to improve cash flows and is considering various short-term financing options to meet working capital needs. In the context of the above case, discuss the factors that should be considered by Sunrise Healthcare Pvt. Ltd. while planning its working capital requirements.",
+     "answer_points": [
+      "**Open with the frame.** Working capital management is concerned with maintaining adequate working capital and with financing it; **sound financial and statistical techniques, supported by judgment, should be used to predict the quantum required at different times.**",
+      "**Price Level Changes and Exchange Rate Fluctuations** — the factor the case leads with. **Rising prices necessitate the use of more funds for maintaining an existing level of activity**: for the same level of current assets, higher cash outlays are required, so **the effect of rising prices is that a higher amount of working capital is required.** For Sunrise, **unfavourable exchange rate movement on imported medicines warrants an additional cost of the same**, compounding the effect.",
+      "**Desired level of Inventory** — identify the level that allows uninterrupted supply to the pharmacies but reduces investment in stock and so increases cash flow. **JIT and EOQ** are the techniques; with demand uncertain, the safety stock element of that calculation is what is actually rising.",
+      "**Receivables** — the credit policy under review. The test is whether **credit terms which attract customers** produce increased revenue, and hence return on capital, sufficient to offset the impact on cash flows and the cash conversion cycle. **Early payment discounts and allowances** are the tools.",
+      "**Short-term Financing Options** — **inventory is ideally financed by credit granted by the supplier**; beyond that, and depending on the cash conversion cycle, a bank loan or overdraft, or converting debtors to cash through factoring.",
+      "**Need for Cash** — the balance that meets day-to-day expenses while reducing cash holding costs, such as the interest forgone on long-term investment.",
+      "**Nature of Business** — a pharmacy carries **higher inventory** by its nature, which is ICAI's own example in this very list.",
+      "**Market and Demand Conditions** — where demand far exceeds production the requirement falls because finished goods do not accumulate; Sunrise's problem is the reverse, uncertain demand building inventory.",
+      "**Technology and Manufacturing Policies** and **Operating Efficiency** — complete the list: the production or procurement pattern chosen, and the scope to cut the requirement by eliminating waste and improving coordination."
+     ],
+     "keywords": [
+      "rising prices require more working capital",
+      "imported medicines and exchange rate",
+      "JIT and EOQ",
+      "credit terms that attract customers",
+      "supplier credit finances inventory",
+      "pharmacy carries higher inventory"
+     ],
+     "also_asked_as": ["RTP-S25-FQ10c approaches the same ground from the trade-off angle rather than the planning angle"]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.05-01",
+     "angle": "Direction of effect",
+     "difficulty": "Medium",
+     "question": "A company's raw material prices rise by 15% while its physical level of activity is unchanged. According to the study material, its working capital requirement will:",
+     "options": {
+      "A": "Fall, because the same physical stock now turns over faster",
+      "B": "Be unchanged, because the physical level of current assets has not changed",
+      "C": "Rise, because for the same level of current assets higher cash outlays are required",
+      "D": "Rise or fall depending on whether the company uses JIT"
+     },
+     "answer": "C",
+     "explanation": "SM §3, factor 9: rising prices necessitate the use of more funds for maintaining an existing level of activity; for the same level of current assets, higher cash outlays are required, so the effect of rising prices is that a higher amount of working capital is required."
+    },
+    {
+     "id": "MCQ-F09.05-02",
+     "angle": "Nature of business",
+     "difficulty": "Easy",
+     "question": "Which of these businesses does the study material cite as needing very little working capital, and why?",
+     "options": {
+      "A": "A bookstore, because books do not perish",
+      "B": "A construction company, because progress payments are received in advance",
+      "C": "A pharmacy, because medicines have a long shelf life",
+      "D": "A restaurant, because most of its sales are in cash"
+     },
+     "answer": "D",
+     "explanation": "SM §3, factor 5: 'in a business of restaurant, most of the sales are in Cash. Therefore, need for working capital is very less.' The same section gives a pharmacy and a bookstore as the opposite case, carrying higher inventory, and §4.2 gives construction as needing large investment because of its long gestation period."
+    }
+   ],
+   "recap": [
+    "Working capital management = maintaining adequate working capital + financing it.",
+    "Nine planning factors: need for cash, inventory level, receivables, short-term financing, nature of business, market and demand, technology and manufacturing policies, operating efficiency, price levels and exchange rates.",
+    "Inventory is ideally financed by supplier credit; beyond that, overdraft or factoring.",
+    "Rising prices raise the working capital requirement; demand exceeding production lowers it.",
+    "In a case question, attach the scenario's own facts to five or six headings rather than listing all nine bare."
+   ]
+  }
+ ]
+}

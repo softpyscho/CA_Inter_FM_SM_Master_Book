@@ -1,0 +1,956 @@
+{
+ "concepts": [
+  {
+   "code": "F09.48 + F09.49 + F09.50",
+   "title": "20–20.2 Financing Receivables — Pledging and Factoring, and Forfaiting",
+   "activity": "Very High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 2 (May 2024 Q1(c), Jan 2026 Q1(b)) · RTP 3 (Jan 2025 Q10, Sep 2025 Q9, Sep 2026 Q8) · MTP 4 (Mar 2024 Series I case, Sep 2024 Series II Q2(a), Jan 2025 Series II Q4(a), Sep 2025 Series I MCQ vii)",
+   "understand": [
+    "==**Nine official questions — the joint-largest topic in Chapter 9 alongside credit policy, and the one with the most reliable format.**==",
+    "==**§20.1(i) Pledging.** **'This refers to the use of a firm's receivable to secure a short term loan. After cash, a firm's receivables can be termed as its most liquid assets and this serve as prime collateral for a secured loan. The lender scrutinizes the quality of the account receivables, selects acceptable accounts, creates a lien on the collateral and fixes the percentage of financing receivables which ranges around 50 to 90%.'**==",
+    "==**Pledging's advantages and costs:** **'The major advantage of pledging accounts receivables is the ease and flexibility it provides to the borrower. Moreover, financing is done regularly. This, however, suffers on account of high cost of financing. Also being a loan, it leaves an impact on the debt equity ratio as well by increasing the amount of debt.'**==",
+    "==**§20.1(ii) Factoring.** **'This refers to outright sale of accounts receivables to a factor or a financial agency. A factor is a firm that acquires the receivables of other firms. The factoring lays down the conditions of the sale in a factoring agreement. The factoring agency bears the risk of collection and services the accounts for a fee.'**==",
+    "==**Recourse against non-recourse:** **'Recourse: In case factor is unable to collect the amount from receivables then, factor can turn back the same to the organization for resolution (which generally is by replacing those receivables with new receivables).'** **'Non-Recourse: The factor bears the ultimate risk of loss in case of default and hence in such cases they charge higher commission.'**==",
+    "==**The advantages ICAI lists, and the balance-sheet point is the examinable one:** **'The biggest advantages of factoring are the immediate conversion of receivables into cash and predicted pattern of cash flows. Financing receivables with the help of factoring can help a company having liquidity without creating a net liability on its financial condition and hence no impact on debt equity ratio.'** Also: **factoring is flexible, provides timely funds, efficient record keeping and effective management of the collection process; 'This is not considered as a loan. There is no debt repayment and hence no compromise to balance sheet, no long-term agreements or delays associated with other methods of raising capital. Factoring allows the firm to use cash for the growth needs of business.'**==",
+    "==**The evaluation format — learn it line for line, because nine questions use it** (SM §20.1):==",
+    "==**A. Annual Savings (Benefit) on taking Factoring Service**\n**· Cost of credit administration saved**\n**· Bad debts avoided**\n**· Interest saved due to reduction in average collection period (wherever applicable) = Cost of Annual Credit Sales × Rate of Interest × (Present Collection Period − New Collection Period) ÷ 360**\n**· Total**==",
+    "==**B. Annual Cost of Factoring to the Firm**\n**· Factoring Commission = Annual credit Sales × % of Commission (or calculated annually)**\n**· Interest Charged by Factor on advance = [Amount available for advance, that is Annual Credit Sales − Factoring Commission − Factoring Reserve] × [Collection Period (days) × Rate of Interest] ÷ 360**\n**· Total**==",
+    "==**C. Net Annual Benefits / Cost of Factoring to the Firm = A − B**==",
+    "==**Rate of Effective Cost of Factoring = Net Annual cost of Factoring ÷ Amount available for advance × 100**, **or** **÷ Advances to be paid × 100**, where **Advances to be paid = Amount available for advance − Interest deducted by factor.** **1 year is taken as 360 days.**==",
+    "==**ICAI's own decision rule, printed as two numbered sentences:**\n**'1. The company should avail Factoring services if rate of effective Cost of Factoring to the firm is less than the existing cost of borrowing or if availing services of factoring results into positive Net Annual Benefits.'**\n**'2. The company should not avail Factoring services if the Rate of Effective Cost of Factoring to the Firm is more than the existing cost of borrowing.'**==",
+    "==**The two denominators, and this is where official answers differ from one another.** The effective cost may be taken on the **amount available for advance** or on the **advances actually to be paid** (after the factor's interest is deducted). RTP September 2026 computes **16.09% on ₹30,03,733**, the amount available for advance, and then notes: **'If cost of factoring is calculated on the basis of total amount available for advance, then, it will be …'** a different figure. ==**Use the advance actually paid where the question gives enough to compute it, and state which denominator you used.** Both are accepted; silence is what loses the mark.==",
+    "==**The five-step working that gets you to the advance, and it is the same every time:**\n**1. Average level of receivables = Credit sales × collection period ÷ 360**\n**2. Less factoring commission (x% of the receivables)**\n**3. Less factoring reserve (y% of the receivables)**\n**4. = Amount available for advance**\n**5. Less the factor's interest for the collection period = Advance to be paid**==",
+    "==**Worked on MTP March 2024 Series I's NV Industries, whose figures recur three times.** Credit sales ₹160 lakhs (80% of ₹200 lakhs) on terms of 2/40 net 120 with half the customers taking the discount: **average collection period = (40 × 0.5) + (120 × 0.5) = 80 days**; **average receivables = ₹1,60,00,000 × 80/360 = ₹35,55,556**; **commission at 2% = ₹71,111**; **reserve at 10% = ₹3,55,556**; **amount available for advance = ₹31,28,889**; interest at 18% for 80 days deducted, giving an **advance of ₹30,03,733**; **annual cost of factoring ₹8,83,200**; **net cost ₹4,83,200**; **effective cost 16.09%.**==",
+    "==**The blended collection period is the step most often missed.** Terms of 2/40 net 120 with a 50% take-up give **80 days**, not 120 and not 40. Three official questions turn on it.==",
+    "==**§20.2 Forfaiting.** **'Forfait is a French term which means relinquish a right.'** **'Forfaiting is an arrangement of bill discounting in which a financial institution or bank buys the trade bills (invoices) or trade receivables from exporters of goods or services, where the exporter relinquish his right to receive payment from importer. Financial Institutions or banks provides immediate finance to exporter without recourse basis in which risk and rewards related with the bills/receivables transferred to the financial institutions/banks.'** It is **'a unique credit facility arrangement where an overseas buyer (importer) can open a letter of credit (or other negotiable instruments) in favour of the exporter and can import goods and services on deferred payment terms.'**==",
+    "==**The four functions, in order** (SM §20.2): **(i) the exporter sells goods or services to an overseas buyer; (ii) the importer, on the basis of trade bills and import documents, draws a letter of credit through its bank; (iii) the exporter, on receiving the letter of credit, approaches its own bank; (iv) the exporter's bank buys the letter of credit 'without recourse basis' and provides the exporter the payment for the bill.**==",
+    "==**The five salient features:** **it motivates exporters to explore new geographies as payment is assured; an overseas buyer can import goods and services on deferred payment terms; the exporter enjoys reduced transaction costs and complexities of international trade transactions; the exporter gets to compete in the international market and can continue to put his working capital to good use to scale up operations; and importers avail of forfaiting facility from international financial institutions in order to finance their imports at competitive rates.**==",
+    "==**ICAI's example:** **Exim Bank of India's 'Buyer's Credit'.** It **'facilitates exports for SMEs by providing credit to overseas buyer to import goods from India'**, **offering financing of capital goods or services on deferred payment terms**, and **'provides non-recourse finance to Indian exporters by converting deferred credit contract into cash contract. It extends advance payments to Indian exporters on behalf of the overseas buyer.'**==",
+    "==**Factoring against forfaiting — the comparison asked in MTP January 2025 Series II.** **Factoring** buys **domestic or export receivables**, may be **with or without recourse**, covers the **whole sales ledger** on a continuing basis, and includes **sales-ledger administration and collection services**. **Forfaiting** buys **export trade bills only**, is **always without recourse**, is **transaction-by-transaction** rather than a running arrangement, usually rests on a **letter of credit or other negotiable instrument**, and is **a form of bill discounting** rather than ledger management. ==**Factoring is a service plus finance; forfaiting is finance alone.**=="
+   ],
+   "example": "The same question has now been published four times with only the bad-debt percentage and the comparison rate changed: MTP March 2024 Series I (bad debts 1%, bank finance 14%, answer 16.09%), RTP September 2025 (bad debts 1.5%, bank finance 12%, answer 13.42%), RTP September 2026 (bad debts 1%, bank finance 14%, answer 16.09%) and, in a different wrapper, MTP September 2025 Series I's MCQ on the advance alone. Working the March 2024 version once delivers three later questions almost unchanged.",
+   "provisions": [
+    {
+     "ref": "Pledging (SM §20.1)",
+     "status": "VERIFIED",
+     "requirement": "Receivables secure a short-term loan; the lender selects acceptable accounts, creates a lien and finances 50 to 90%. Easy and flexible but costly, and it increases debt.",
+     "exam_angle": "The debt-equity impact is the contrast with factoring."
+    },
+    {
+     "ref": "Factoring (SM §20.1)",
+     "status": "VERIFIED",
+     "requirement": "Outright sale of receivables to a factor, which bears the risk of collection and services the accounts for a fee; recourse or non-recourse.",
+     "exam_angle": "Not a loan, so no impact on the debt-equity ratio — ICAI says so twice."
+    },
+    {
+     "ref": "The evaluation format (SM §20.1)",
+     "status": "VERIFIED",
+     "requirement": "Savings (administration saved, bad debts avoided, interest saved on a shorter collection period) less cost (commission, interest on the advance), then the effective cost on the advance.",
+     "exam_angle": "Nine official questions use it; reproduce the three savings and two costs by name."
+    },
+    {
+     "ref": "The decision rule (SM §20.1)",
+     "status": "VERIFIED",
+     "requirement": "Avail factoring if the effective cost is below the existing cost of borrowing or if the net annual benefit is positive; do not if the effective cost is higher.",
+     "exam_angle": "Several published answers award the advice as a separate mark."
+    },
+    {
+     "ref": "Forfaiting (SM §20.2)",
+     "status": "VERIFIED",
+     "requirement": "Bill discounting in which a bank buys export trade bills without recourse, the exporter relinquishing his right to receive payment from the importer.",
+     "exam_angle": "'Forfait' means relinquish a right — the etymology is ICAI's own opening."
+    }
+   ],
+   "keywords": [
+    "pledging, 50 to 90%",
+    "creates a lien on the collateral",
+    "outright sale of accounts receivables",
+    "factor bears the risk of collection",
+    "recourse and non-recourse",
+    "no impact on debt equity ratio",
+    "cost of credit administration saved",
+    "bad debts avoided",
+    "interest saved due to reduction in collection period",
+    "factoring commission",
+    "factoring reserve",
+    "amount available for advance",
+    "effective cost of factoring",
+    "relinquish a right",
+    "without recourse basis",
+    "Exim Bank Buyer's Credit"
+   ],
+   "memory": {
+    "trick": "**Receivables, commission, reserve, interest.** Four steps down to the advance: start with the **average receivables**, take off the factor's **commission**, take off the **reserve**, and that is what is **available**; then take off the factor's **interest** and that is what is **paid**. ==Savings are three (admin, bad debts, interest on a shorter cycle); costs are two (commission, interest). Three minus two, over the advance.==",
+    "key": [
+     ["Step 1", "Average receivables = credit sales × days ÷ 360"],
+     ["Step 2", "Less commission (% of receivables)"],
+     ["Step 3", "Less reserve (% of receivables)"],
+     ["Step 4", "= Amount available for advance"],
+     ["Step 5", "Less factor's interest for the period = advance paid"],
+     ["Savings", "Admin saved · bad debts avoided · interest on the shorter collection period"],
+     ["Costs", "Commission · interest charged by the factor"],
+     ["Effective cost", "Net cost ÷ advance × 100"],
+     ["Rule", "Accept if below the existing cost of borrowing"],
+     ["NV Industries", "80 days · ₹35,55,556 · ₹31,28,889 · ₹30,03,733 · 16.09%"],
+     ["Pledging", "A loan — raises debt. Factoring — a sale, no debt"],
+     ["Forfaiting", "Export bills, always without recourse, bill discounting"]
+    ]
+   },
+   "mistakes": [
+    "Using the net credit period instead of the blended collection period. Terms of 2/40 net 120 with a 50% take-up give 80 days.",
+    "Computing the commission on receivables in one place and on credit sales in another within the same answer. Pick one basis and say which — and note that January 2026's X Ltd answer does switch bases, which is recorded as an open item.",
+    "Deducting the reserve from the advance after the interest. The order is commission and reserve first, then interest on what remains.",
+    "Taking the effective cost on the average receivables. The denominator is the amount available for advance, or the advance actually paid.",
+    "Omitting the 'interest saved due to reduction in average collection period' line where the factor shortens collection. Sukrut Limited's whole benefit comes from that line.",
+    "Forgetting that bad debts avoided are reduced, not eliminated, on a recourse basis. Sukrut's bad debts fall from 1% to 0.5%, not to nil.",
+    "Saying factoring increases the debt-equity ratio. ICAI says the opposite — it is not a loan and there is no net liability."
+   ],
+   "compare": {
+    "title": "Pledging, factoring and forfaiting",
+    "headers": ["", "Pledging", "Factoring", "Forfaiting"],
+    "rows": [
+     ["Legal nature", "A secured loan with a lien on the receivables", "An outright sale of the receivables", "Purchase of export trade bills"],
+     ["Recourse", "Full — the borrower remains liable", "With or without recourse, as agreed", "Always without recourse"],
+     ["Balance-sheet effect", "Increases debt, so worsens the debt-equity ratio", "No net liability, so no impact on the debt-equity ratio", "No liability — the bill is sold"],
+     ["Percentage advanced", "Around 50 to 90% of acceptable accounts", "Receivables less commission and reserve", "The bill value less the discount"],
+     ["Services included", "None — finance only", "Risk of collection, servicing the accounts, record keeping", "Finance only"],
+     ["Scope", "Selected acceptable accounts", "The sales ledger, on a continuing arrangement", "Individual export transactions, usually under a letter of credit"],
+     ["Drawback", "High cost of financing; raises debt", "Commission plus interest; loss of customer contact", "Available only for exports"],
+     ["ICAI's example", "—", "Commercial banks and financial agencies in India", "Exim Bank of India's Buyer's Credit"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §19: credit policy, the in-house alternative to selling the receivables",
+    "🔗 FM Ch 9 §27.8: factoring as a source of working capital finance, and its difference from bills discounting",
+    "🔗 FM Ch 9 §22: the ageing schedule, which is how a lender selects acceptable accounts for pledging",
+    "🔗 FM Ch 9 §29: bills discounting as a form of bank credit",
+    "🔗 FM Ch 2 §9: international financing, the setting for forfaiting"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Compute the effective cost of factoring and advise whether to accept (5–7 marks)",
+     "An MCQ asking for the average receivables, the advance, the annual cost or the effective cost (2 marks)",
+     "Explain the difference between factoring and forfaiting (4 marks)",
+     "Explain pledging of receivables (2 marks)",
+     "Evaluate receivables offered as collateral for a bank loan, with eligibility conditions (5 marks)"
+    ],
+    "approach": [
+     "Build the five-step working note down to the advance before touching the savings and costs.",
+     "Compute the blended collection period first wherever a discount and a net period are both given.",
+     "Lay out savings (three lines) and costs (two lines) as ICAI's A and B blocks, then C as the difference.",
+     "State the denominator used for the effective cost, and close with the decision rule compared against the given borrowing rate."
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-M24-Q1c",
+     "marks": 5,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Following is the sales information in respect of Bright Ltd: Annual Sales (90% on credit) ₹7,50,00,000; Credit period 45 days; Average Collection period 70 days; Bad debts 0.75%; Credit administration cost (out of which 2/5th is avoidable) ₹18,60,000. A factor firm has offered to manage the company's debtors on a non-recourse basis at a service charge of 2%. The factor agrees to grant advance against debtors at an interest rate of 14% after withholding 20% as reserve. The payment period guaranteed by the factor is 45 days. The cost of capital of the company is 12.5%. One-time redundancy payment of ₹50,000 is required to be made to the factor. Calculate the effective cost of factoring to the company. (Assume 360 days in a year)",
+     "answer_points": [
+      "**Credit sales** = ₹7.5 crores × 90% = ==**₹6,75,00,000**==.",
+      "==**A. Savings due to factoring**==",
+      "**Bad debts saved** = 0.75% × ₹7.5 crores × 90% = ==**₹5,06,250**==.",
+      "**Administration cost saved** = ₹18.6 lakhs × 2/5 = ==**₹7,44,000**==. *Only the avoidable fraction is a saving — the question gives 2/5 for that purpose.*",
+      "**Interest saved due to reduction in the average collection period** = ₹7.5 crores × 90% × (70 − 45) ÷ 360 × 12.5% = ==**₹5,85,937.50**==. *The factor guarantees 45 days against an actual 70, and the saving is valued at the company's own 12.5% cost of capital.*",
+      "**Total savings = ==₹18,36,187.50==.**",
+      "==**B. Costs of factoring**==",
+      "**Service charge** = ₹7.5 crores × 90% × 2% = ==**₹13,50,000**==.",
+      "**Interest cost** = ₹1,15,171.875 × 360 ÷ 45 = ==**₹9,21,375**==.",
+      "**Redundancy payment** = ==**₹50,000**==.",
+      "**Total costs = ==₹23,21,375==.**",
+      "**C. Net annual cost to the firm (A − B) = ==₹4,85,187.50==** (a net cost, since the costs exceed the savings).",
+      "==**The working note that produces the advance, and it must be shown:**\n**Average level of receivables** = ₹6.75 crores × 45/360 = **₹84,37,500** *(on the factor's guaranteed 45 days, not the present 70)*\n**Service charge** = 2% of ₹84,37,500 = ₹1,68,750\n**Reserve** = 20% of ₹84,37,500 = ₹16,87,500\n**Total deductions = ₹18,56,250**\n**Amount available for advance = ₹84,37,500 − ₹18,56,250 = ₹65,81,250**\n**Less interest at 14% for 45 days = ₹1,15,171.875**\n**Net amount of advance available = ==₹64,66,078.125==**==",
+      "**Rate of effective cost of factoring** = ₹4,85,187.50 ÷ ₹64,66,078.125 × 100 = ==**7.504%**==.",
+      "==**The advice:** **'Since the rate of effective cost of factoring is less than the existing cost of capital, therefore, the proposal is acceptable.'** 7.504% against a cost of capital of 12.5%.==",
+      "==**ICAI prints three answers to this question, and all three should be known.**\n**(1) ₹4,85,187.50 and 7.504%** — the main answer, with the redundancy payment included.\n**(2) ₹4,35,187.50 and 6.730%** — ICAI's own note: **'Alternatively, if redundancy cost is taken as irrelevant for decision making, then Net Annual cost to the Firm will be ₹4,35,187.5 and Rate of effective cost of factoring will be 6.730%.'** The argument is that a **one-time** payment is not an annual cost and so does not belong in an annual rate.\n**(3) A third variant** computing the average level of receivables **on 70 days** rather than 45, giving receivables of ₹1,31,25,000, a service charge of ₹2,62,500 and a reserve of ₹26,25,000.\n==**Give answer (1) and note answer (2) in a line.** The three-way split is recorded as an open item in this chapter's verification block; it is ICAI's ambiguity, not the candidate's.==",
+      "**The two reading decisions that drive everything.** **Which collection period?** The factor guarantees 45 days, so the post-factoring receivables are sized on 45 — and the 25-day improvement is itself one of the savings. **Which administration cost?** Only the avoidable 2/5, because the other 3/5 continues whether or not the factor is appointed."
+     ],
+     "keywords": [
+      "credit sales ₹6,75,00,000",
+      "bad debts saved ₹5,06,250",
+      "only 2/5 of administration cost is avoidable",
+      "interest saved on 25 days at 12.5%",
+      "savings ₹18,36,187.50 against costs ₹23,21,375",
+      "advance ₹64,66,078.125",
+      "7.504%, or 6.730% ignoring redundancy",
+      "accept, since 7.504% < 12.5%"
+     ],
+     "also_asked_as": ["PYQ-J26-Q1b is the same computation with credit sales to be derived; MTP-S24-S2-FQ2a adds a recourse basis and an overdraft comparison"]
+    },
+    {
+     "id": "PYQ-J26-Q1b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "X Ltd. has average debtors of ₹90,00,000. The company's average collection period is 60 days. At present, it incurs credit administration expenses of ₹4,00,000 per year and bad-debt losses amounting to 1% of credit sales. A factoring company has proposed to purchase these receivables by charging a commission of 2% on credit sales. The factor will provide an advance of 85% of receivables, after keeping 15% as reserve, and will charge interest at 15% per annum for the collection period. Assume 360 days in a year. Required: (i) Calculate the effective cost of factoring. (ii) As a financial consultant, advise whether X Ltd. should accept the factoring proposal. (5 Marks)",
+     "answer_points": [
+      "==**Step 1 — back out the credit sales, which is the step the question is built on.** Average debtors = Credit sales × collection period ÷ 360, so **Credit sales = ₹90,00,000 × 360 ÷ 60 = ==₹5,40,00,000==.**==",
+      "==**A. Annual savings (benefit) on taking factoring service**==",
+      "**Cost of credit administration saved** = ==**₹4,00,000**==.",
+      "**Bad debts avoided** = 1% of ₹5,40,00,000 = ==**₹5,40,000**==.",
+      "**Total = ==₹9,40,000==.** *There is no 'interest saved' line here, because the factor does not shorten the collection period — it stays at 60 days.*",
+      "==**B. Annual cost of factoring to the firm**==",
+      "**Factoring commission** = 2% × ₹5,40,00,000 = ==**₹10,80,000**==.",
+      "**Interest charged by the factor on the advance** = (₹90,00,000 − ₹1,80,000 − ₹13,50,000) × 15% = ₹74,70,000 × 15% = ==**₹11,20,500**==.",
+      "**Total = ==₹22,00,500==.**",
+      "**C. Net cost of factoring to the firm = ₹22,00,500 − ₹9,40,000 = ==₹12,60,500==.**",
+      "**The advance.** ₹90,00,000 less commission ₹1,80,000 less reserve ₹13,50,000 = ₹74,70,000; **less interest at 15% for 60 days** = ₹74,70,000 × 0.15 × 60 ÷ 360 = ₹1,86,750; **advance to be paid = ==₹72,83,250==.**",
+      "**(i) Rate of effective cost of factoring** = ₹12,60,500 ÷ ₹72,83,250 × 100 = ==**17.307%**==.",
+      "==**(ii) The advice: reject.** An effective cost of **17.307%** is well above any plausible short-term borrowing rate, and ICAI's own rule is that **'the company should not avail Factoring services if the Rate of Effective Cost of Factoring to the Firm is more than the existing cost of borrowing.'** The proposal costs ₹12,60,500 a year net and buys nothing but the transfer of a collection function that was costing ₹4,00,000 to run. ==**X Ltd should not accept.**==",
+      "==**An inconsistency inside ICAI's own answer, which this book records rather than smooths over.** The **commission in the cost block is 2% of credit sales (₹5,40,00,000 × 2% = ₹10,80,000)**, but the **commission deducted in arriving at the advance is 2% of receivables (₹90,00,000 × 2% = ₹1,80,000)**. The same 2% is applied to two different bases in the same solution. ==ICAI's printed format permits both — **'Factoring Commission [Annual credit Sales × % of Commission (or calculated annually)]'** — but using both at once in one answer is not internally consistent. **Reproduce ICAI's figures, since they are the published key, and note the point.** It is recorded as an open item in the verification block.==",
+      "**ICAI also notes a second denominator.** Its answer adds that **'Rate of Effective Cost of Factoring to the Firm can also be calculated for advance without taking Interest into consideration'** — that is, on ₹74,70,000 rather than ₹72,83,250, giving 16.874%. Say which denominator you used.",
+      "==**The contrast with May 2024's Bright Ltd is the lesson.** Bright Ltd's factor **shortens collection from 70 days to a guaranteed 45**, and that single improvement generates ₹5,85,937 of interest saved — enough to bring the effective cost down to 7.504% and make the proposal acceptable. X Ltd's factor **changes nothing about the collection period**, so the savings block has only two lines instead of three and the cost is more than double. ==**In a factoring question, always look first for whether the collection period improves: that line is usually the difference between accept and reject.**=="
+     ],
+     "keywords": [
+      "credit sales ₹5,40,00,000 from ₹90,00,000 × 360/60",
+      "no interest-saved line — collection period unchanged",
+      "savings ₹9,40,000",
+      "commission ₹10,80,000 on credit sales",
+      "interest ₹11,20,500",
+      "net cost ₹12,60,500",
+      "advance ₹72,83,250",
+      "17.307% — reject"
+     ],
+     "also_asked_as": ["PYQ-M24-Q1c is the same format where the factor does shorten the collection period"]
+    },
+    {
+     "id": "MTP-S24-S2-FQ2a",
+     "marks": 7,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Sukrut Limited has annual credit sales of ₹75,00,000. Actual credit terms are 30 days, but its management of receivables has been poor and the average collection period is about 60 days. Bad debt is 1 per cent of total sales. A factor has offered to take over the task of debt administration and credit checking at an annual fee of 1.5 per cent of credit sales. Sukrut Limited estimates that it would save ₹45,000 per year in administration costs as a result. Due to the efficiency of the factor, the average collection period would come back to the original credit offered of 30 days and bad debts would come to 0.5% on recourse basis. The factor would pay a net advance of 80 per cent to the company at an annual interest rate of 12 per cent after withholding a reserve of 10%. Sukrut Limited is currently financing its receivables from an overdraft costing 10 per cent per year and will continue to finance the balance fund needed (which is not financed by the factor) through the overdraft facility. If the occurrence of credit sales is throughout the year, COMPUTE whether the factor's services should be accepted or rejected. Assume 360 days in a year. (7 Marks)",
+     "answer_points": [
+      "==**ICAI's published figures: factor commission ₹1,12,500, interest cost on net advances ₹53,100, total cost ₹1,65,600, and Net Benefits to the Firm ₹23,650 — so the proposal is accepted.**==",
+      "==**A. Savings, and all three lines are live here.**==",
+      "**Administration cost saved** = ==**₹45,000**==, as given.",
+      "**Bad debts saved** = 1% − 0.5% = 0.5% of ₹75,00,000 = ==**₹37,500**==. *On a **recourse** basis bad debts are **halved, not eliminated** — the factor can turn uncollected receivables back to Sukrut, so the company retains half the loss.*",
+      "**Savings in interest cost of carrying debtors**, which ICAI sets out as its working note 1: the collection period falls from **60 days to 30 days**, so the debtors financed by the 10% overdraft halve. **In-house: ₹75,00,000 × 60/360 × 10% = ₹1,25,000.** Under factoring the company finances only the portion the factor does not advance, for 30 days.",
+      "==**B. Costs of factoring.**==",
+      "**Factor commission** = annual credit sales × commission = ₹75,00,000 × 1.5% = ==**₹1,12,500**==.",
+      "**Interest cost on net advances** = ==**₹53,100**== (ICAI's working note 1 computes the factor's 12% on the advance for 30 days, against the 10% overdraft the company would otherwise have paid).",
+      "**Total cost = ==₹1,65,600==.**",
+      "**C. Net Benefits to the Firm (A − B) = ==₹23,650==.**",
+      "==**Advice:** **'Since the savings to the firm exceed the cost due to factoring, the proposal is acceptable.'**==",
+      "==**What makes this question harder than the others, and worth the seven marks.** There are **two interest rates in play** — the factor's **12%** on what it advances, and the company's own **10% overdraft** on the balance it still has to fund. ICAI's phrasing is explicit: Sukrut **'will continue to finance the balance fund needed (which is not financed by the factor) through the overdraft facility.'** ==So the comparison is not 'factoring against the overdraft' but 'factoring plus a smaller overdraft against a larger overdraft', and the interest line is a **net** figure.==",
+      "==**The recourse point is the second trap.** 'Bad debts would come to 0.5% **on recourse basis**' — so the saving is the **difference** of half a percentage point, ₹37,500, and **not** the full 1% of ₹75,000. A non-recourse arrangement would have saved the whole ₹75,000, and would have carried a higher commission for that reason: SM §20.1 says the factor **'bears the ultimate risk of loss in case of default and hence in such cases they charge higher commission.'**==",
+      "**Why the proposal wins where X Ltd's loses.** Sukrut gets **all three savings** — administration, bad debts and a 30-day improvement in collection — against a commission of only **1.5%**. X Ltd gets two savings against a **2%** commission and no improvement in collection. ==Three savings and a cheap commission beat two savings and a dear one.==",
+      "**One presentational note for seven marks.** Show working note 1 — the comparison of the in-house interest cost with the post-factoring interest cost — as a separate labelled table. It is where three of the seven marks sit, and burying it inside the cost block makes it invisible."
+     ],
+     "keywords": [
+      "administration saved ₹45,000",
+      "bad debts 1% to 0.5% on recourse = ₹37,500 saved",
+      "collection 60 days to 30 days",
+      "commission 1.5% = ₹1,12,500",
+      "interest cost on net advances ₹53,100",
+      "two rates: factor 12%, overdraft 10%",
+      "net benefit ₹23,650 — accept"
+     ],
+     "also_asked_as": ["PYQ-M24-Q1c is the non-recourse version where bad debts are fully saved"]
+    },
+    {
+     "id": "RTP-S25-FQ9",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "A firm has total sales of ₹200 lakhs of which 80% is on credit. It is offering credit terms of 2/40, net 120. Of the total, 50% of customers avail of the discount and the balance pay in 120 days. Past experience indicates that bad debt losses are around 1.5% of credit sales. The firm spends about ₹2,40,000 per annum to administer its credit sales. These are avoidable as a factor is prepared to buy the firm's receivables. He will charge 2% commission. He will pay advance against receivables to the firm at an interest rate of 18% after withholding 10% as reserve. (i) DETERMINE the effective cost of factoring. Consider year as 360 days. (ii) If bank finance for working capital is available at 12% interest, ADVISE, should the firm avail of factoring service.",
+     "answer_points": [
+      "**Credit sales** = ₹200 lakhs × 80% = ==**₹1,60,00,000**==.",
+      "==**The blended collection period, which is the first mark.** 50% of customers take the discount and pay on day 40; 50% pay on day 120. **Average collection period = (40 × 0.5) + (120 × 0.5) = ==80 days==.**==",
+      "**Average level of receivables** = ₹1,60,00,000 × 80 ÷ 360 = ==**₹35,55,556**==.",
+      "**Factoring commission** = 2% × ₹35,55,556 = ==**₹71,111**==.",
+      "**Factoring reserve** = 10% × ₹35,55,556 = ==**₹3,55,556**==.",
+      "**Amount available for advance** = ₹35,55,556 − ₹71,111 − ₹3,55,556 = ==**₹31,28,889**==.",
+      "**Less the factor's interest at 18% for 80 days** = ₹31,28,889 × 0.18 × 80 ÷ 360 = ₹1,25,156, giving an **advance of ==₹30,03,733==**.",
+      "==**A. Savings.** Administration cost saved **₹2,40,000**; bad debts avoided 1.5% of ₹1,60,00,000 = **₹2,40,000**. **Total = ₹4,80,000.** *No interest-saved line: the collection period is unchanged at 80 days.*==",
+      "==**B. Costs.** ICAI's figure for the **annual cost of factoring is ₹8,83,200** — the commission annualised plus the factor's interest annualised over the 80-day cycle.==",
+      "**C. Net cost to the firm (B − A)** = ₹8,83,200 − ₹4,80,000 = ==**₹4,03,200**==.",
+      "**(i) Effective cost of factoring** = ₹4,03,200 ÷ ₹30,03,733 × 100 = ==**13.42%**==.",
+      "==**(ii) The advice: reject.** **13.42% exceeds the 12% at which bank finance for working capital is available**, so by ICAI's rule — avail factoring only if the effective cost is **less** than the existing cost of borrowing — **the firm should not avail of the factoring service** and should fund its receivables through the bank instead.==",
+      "==**This is the same question as MTP March 2024 Series I's NV Industries and RTP September 2026 Q8, with two numbers changed.** Bad debts are **1.5%** here against **1%** in the other two, and the comparison rate is **12%** here against **14%** there. The arithmetic down to the ₹30,03,733 advance is **identical in all three**. ==The difference in bad debts changes the savings by ₹80,000 and so the effective cost from 16.09% to 13.42%, and the difference in the comparison rate flips the September 2026 decision to the same reject on a different margin. **Work the chain once and three official questions are answered.**==",
+      "**The annualisation step, which is where the ₹8,83,200 comes from and which candidates most often fumble.** The commission and the interest are both incurred **every 80 days**, that is **360 ÷ 80 = 4.5 times a year**. Annualising the per-cycle charges rather than applying the rates once to an annual figure is what ICAI's format means by **'Factoring Commission [Annual credit Sales × % of Commission (or calculated annually)]'** — the parenthesis is doing real work."
+     ],
+     "keywords": [
+      "credit sales ₹1,60,00,000",
+      "blended period (40 × 0.5) + (120 × 0.5) = 80 days",
+      "receivables ₹35,55,556",
+      "advance ₹30,03,733",
+      "savings ₹4,80,000",
+      "annual cost ₹8,83,200",
+      "net cost ₹4,03,200",
+      "13.42% against bank finance at 12% — reject"
+     ],
+     "also_asked_as": ["MTP-M24-S1-FMCQ1 and RTP-S26-FQ8 run the identical chain with bad debts at 1%, giving 16.09%"]
+    },
+    {
+     "id": "RTP-S26-FQ8",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "A firm has total annual sales of ₹200 lakhs, of which 80% are made on credit. The company offers credit terms of 2/40, net 120. Out of the total credit customers, 50% avail themselves of the cash discount, while the remaining customers settle their accounts after 120 days. Based on past experience, bad debt losses amount to approximately 1% of credit sales. In addition, the firm incurs ₹2,40,000 per annum in administering its credit sales. These costs can be avoided because a factor is willing to purchase the firm's receivables. The factor will charge a 2% commission and provide advances against receivables at an interest rate of 18%, while retaining 10% of the receivables as a reserve. Required: (i) Determine the effective cost of factoring. Assume a 360-day year. (ii) If bank finance for working capital is available at an interest rate of 14%, advise whether the firm should avail itself of the factoring service.",
+     "answer_points": [
+      "**The working is identical to RTP September 2025 Q9 down to the advance**, because only the bad-debt percentage differs. **Credit sales ₹1,60,00,000; blended collection period 80 days; average receivables ₹35,55,556; commission ₹71,111; reserve ₹3,55,556; amount available for advance ₹31,28,889; advance after interest ₹30,03,733.**",
+      "==**A. Savings.** Administration cost saved **₹2,40,000**; **bad debts avoided 1% of ₹1,60,00,000 = ₹1,60,000.** **Total = ₹4,00,000** — ₹80,000 less than the September 2025 version, because bad debts are 1% rather than 1.5%.==",
+      "**B. Annual cost of factoring = ₹8,83,200**, unchanged.",
+      "**C. Net cost to the firm = ₹8,83,200 − ₹4,00,000 = ==₹4,83,200==.**",
+      "**(i) Effective cost of factoring** = ₹4,83,200 ÷ ₹30,03,733 × 100 = ==**16.09%**==.",
+      "==**ICAI's own footnote on the denominator, reproduced because it settles a recurring question:** **'If cost of factoring is calculated on the basis of total amount available for advance, then, it will be …'** — that is, ₹4,83,200 ÷ ₹31,28,889 = **15.44%** rather than 16.09%. ==**Both are acceptable; name the denominator you used.** This book takes the advance actually paid (₹30,03,733) as the primary basis, because that is the sum the firm actually receives and ICAI's main computation uses it.==",
+      "==**(ii) The advice: reject.** **16.09% exceeds the 14% at which bank finance is available**, so the firm should **not** avail the factoring service. ICAI's rule: do not avail factoring where the effective cost exceeds the existing cost of borrowing.==",
+      "==**The three-way comparison worth tabulating once, because it shows exactly what drives a factoring decision:**\n**MTP Mar 2024 S1 (NV Industries):** bad debts 1%, bank 14% → **16.09%, reject**.\n**RTP Sep 2025 Q9:** bad debts 1.5%, bank 12% → **13.42%, reject**.\n**RTP Sep 2026 Q8:** bad debts 1%, bank 14% → **16.09%, reject**.\n==All three reject, and in every case the decisive figure is the **₹8,83,200 of annual cost against savings of only ₹4,00,000 to ₹4,80,000.** The commission of 2% on an 80-day cycle — effectively 9% a year — plus 18% interest cannot be covered by administration savings and sub-2% bad debts. **A factoring proposal only wins when it also shortens the collection period**, as Bright Ltd's and Sukrut Limited's do.==",
+      "**One point on why the bad-debt difference matters so little.** Half a percentage point on ₹1.6 crores is ₹80,000, which moves the effective cost by 2.67 percentage points. The **commission and interest structure**, not the bad-debt rate, is what makes these proposals uneconomic — which is the substantive lesson behind the repetition."
+     ],
+     "keywords": [
+      "identical chain to RTP Sep 2025",
+      "bad debts 1% = ₹1,60,000",
+      "savings ₹4,00,000",
+      "net cost ₹4,83,200",
+      "16.09% on the advance, 15.44% on the amount available",
+      "bank finance 14% — reject",
+      "a factoring proposal wins only if it shortens collection"
+     ],
+     "also_asked_as": ["MTP-M24-S1-FMCQ1 is this question as a five-MCQ Division A case; RTP-S25-FQ9 is it with bad debts at 1.5%"]
+    },
+    {
+     "id": "MTP-M24-S1-FMCQ1",
+     "marks": 10,
+     "status": "VERIFIED",
+     "format": "Case MCQs",
+     "question": "NV Industries Ltd. manages its accounts receivables internally through its sales and credit department. Total sales ledger ₹200 lakhs of which 80% is credit sales. Credit policy 2/40, net 120. On average 50% of customers avail the discount and the balance of the receivables are collected on average in 120 days. Bad debt losses are around 1% of credit sales. The firm spends about ₹2,40,000 per annum to administer its credit sales, which are avoidable as a factoring firm is prepared to buy the firm's receivables. The proposal: (i) 2% commission; (ii) advance against receivables at 18% after withholding 10% as reserve. The company also has the option of a long-term loan at 15% interest or bank finance for working capital at 14%. Consider year as 360 days. I. What is the average level of receivables? II. How much advance will the factor pay against receivables? III. What is the annual cost of factoring to the company? IV. What is the net cost to the company on taking factoring service? V. What is the effective cost of factoring on advance received? (5 × 2 = 10 Marks)",
+     "answer_points": [
+      "==**ICAI's published keys: (b), (c), (a), (d), (a).**==",
+      "**I. Average level of receivables — (b) ₹35,55,556.**\n**Total sales ₹200 lakhs → credit sales 80% = ₹160 lakhs.**\n**Average collection period = (40 × 0.5) + (120 × 0.5) = 80 days.**\n**Average level of receivables = ₹1,60,00,000 × 80 ÷ 360 = ==₹35,55,556==.**\n==Option (a) ₹53,33,333 is the figure on a 120-day period; option (b)'s neighbours are built from 40 days and from 160 days. **The blended period is the whole of this mark.**==",
+      "**II. Advance the factor will pay — (c) ₹30,03,733.**\n**Factoring commission** = ₹35,55,556 × 2/100 = ₹71,111.\n**Factoring reserve** = ₹35,55,556 × 10/100 = ₹3,55,556.\n**Amount available for advance** = ₹35,55,556 − (₹3,55,556 + ₹71,111) = **₹31,28,889**.\n**The factor deducts its interest at 18% for 80 days**: ₹31,28,889 × 0.18 × 80/360 = ₹1,25,156.\n**Advance = ₹31,28,889 − ₹1,25,156 = ==₹30,03,733==.**\n==Option (a) ₹31,28,889 is the amount **available** for advance rather than the advance **paid** — the distinction ICAI draws in its own format, and the reason it offers two denominators for the effective cost.==",
+      "**III. Annual cost of factoring — (a) ₹8,83,200.**\nThe commission and the interest are both incurred every 80 days, that is **4.5 times a year**. Annualising: **commission ₹71,111 × 4.5 = ₹3,20,000** and **interest ₹1,25,156 × 4.5 = ₹5,63,200**, giving ==**₹8,83,200**==.\n==**Equivalently and more quickly:** commission = 2% × ₹1,60,00,000 = ₹3,20,000, and interest = ₹31,28,889 × 18% = ₹5,63,200. **Both routes give ₹8,83,200, and the second is the one to use under time pressure.**==",
+      "**IV. Net cost to the company — (d) ₹4,83,200.**\n**Savings:** administration ₹2,40,000 + bad debts avoided 1% × ₹1,60,00,000 = ₹1,60,000, **total ₹4,00,000**.\n**Net cost = ₹8,83,200 − ₹4,00,000 = ==₹4,83,200==.**\n==Option (a) ₹4,00,000 is the savings figure offered as the answer, and option (b) ₹4,26,667 is a near miss built from a different collection period. **Read whether the question wants the gross cost (III) or the net cost (IV); they are consecutive MCQs for exactly that reason.**==",
+      "**V. Effective cost of factoring on advance received — (a) 16.09%.**\n**₹4,83,200 ÷ ₹30,03,733 × 100 = ==16.09%==.**\n==The question says **'on advance received'**, which settles the denominator: the advance **paid**, ₹30,03,733, not the amount available, ₹31,28,889. On the latter it would be 15.44%, offered as a distractor. **ICAI tells you which denominator it wants in the stem of the MCQ.**==",
+      "==**The decision the case does not ask for but which every later version does.** Against a **long-term loan at 15%** or **bank finance for working capital at 14%**, an effective cost of **16.09% is dearer than both**, so the factoring proposal should be **rejected**. The question gives both rates precisely so that the candidate who reaches 16.09% can see it fails against either.==",
+      "==**Why this case is the single highest-value question in Chapter 9 to work through.** Its five steps are **exactly** the five steps of the factoring format, in order, each worth two marks: the blended period and receivables, the advance, the annual cost, the net cost, the effective cost. ==**It has since been republished twice as a descriptive question (RTP September 2025 Q9 and RTP September 2026 Q8) and once as a standalone MCQ on step II alone (MTP September 2025 Series I MCQ vii). Four official questions, one chain.**=="
+     ],
+     "keywords": [
+      "credit sales ₹160 lakhs",
+      "blended period 80 days",
+      "receivables ₹35,55,556",
+      "commission ₹71,111, reserve ₹3,55,556",
+      "amount available ₹31,28,889",
+      "advance paid ₹30,03,733",
+      "annual cost ₹8,83,200",
+      "net cost ₹4,83,200",
+      "16.09% on the advance received",
+      "keys b, c, a, d, a"
+     ],
+     "also_asked_as": ["RTP-S25-FQ9, RTP-S26-FQ8 and MTP-S25-S1-FMCQ7 all draw on this chain"]
+    },
+    {
+     "id": "MTP-S25-S1-FMCQ7",
+     "marks": 2,
+     "status": "VERIFIED",
+     "format": "MCQ",
+     "question": "A company has annual credit sales of ₹6,00,00,000. The average collection period is 90 days. A factor offers to buy the receivables with a 2% commission. The factor will advance on receivables to the company at an interest rate of 18% per annum after withholding 10% as reserve. Calculate the amount of advance to be paid assuming 360 days in a year. (a) ₹1,32,00,000 (b) ₹1,28,92,500 (c) ₹1,40,38,500 (d) ₹1,26,06,000",
+     "answer_points": [
+      "**Step 1 — average level of receivables.** ₹6,00,00,000 × 90 ÷ 360 = ==**₹1,50,00,000**==.",
+      "**Step 2 — factoring commission.** 2% of ₹1,50,00,000 = ==**₹3,00,000**==.",
+      "**Step 3 — factoring reserve.** 10% of ₹1,50,00,000 = ==**₹15,00,000**==.",
+      "**Step 4 — amount available for advance.** ₹1,50,00,000 − ₹3,00,000 − ₹15,00,000 = ==**₹1,32,00,000**==.",
+      "**Step 5 — deduct the factor's interest for the collection period.** ₹1,32,00,000 × 18% × 90 ÷ 360 = ₹1,32,00,000 × 0.045 = ==**₹5,94,000**==.",
+      "**Advance to be paid = ₹1,32,00,000 − ₹5,94,000 = ==₹1,26,06,000 — option (d)==**, which is ICAI's published key.",
+      "==**The distractor that catches most candidates is option (a) ₹1,32,00,000 — the amount *available* for advance, stopped one step early.** The question asks for the **'amount of advance to be paid'**, which is after the factor's interest has been withheld. ==**ICAI's own format distinguishes the two explicitly: 'Advances to be paid = (Amount available for advance − Interest deducted by factor)'. Step 4 is not the answer; step 5 is.**==",
+      "**Option (c) ₹1,40,38,500** omits the reserve, and **option (b) ₹1,28,92,500** applies the interest for a full year rather than for the 90-day collection period — the other two single-step errors available.",
+      "==**The interest shortcut worth memorising.** 18% for 90 days on a 360-day year is **exactly 4.5%**, so the deduction is 4.5% of the amount available. Any factoring question with a 90-day period and an 18% rate reduces to multiplying by 0.955.==",
+      "**Why this two-mark MCQ is worth more than two marks of study.** It is **step II of the MTP March 2024 Series I case** lifted out and asked on its own, with different figures. ==Three of the nine factoring questions test only part of the chain — the receivables, the advance, or the annual cost — so the chain should be practised as five separable steps, not as one long computation to be run end to end.=="
+     ],
+     "keywords": [
+      "receivables ₹1,50,00,000",
+      "commission ₹3,00,000, reserve ₹15,00,000",
+      "amount available ₹1,32,00,000",
+      "interest 18% for 90 days = 4.5% = ₹5,94,000",
+      "advance paid ₹1,26,06,000",
+      "option (a) is the amount available, not the advance"
+     ],
+     "also_asked_as": ["MTP-M24-S1-FMCQ1 item II is the same step with an 80-day period"]
+    },
+    {
+     "id": "RTP-J25-FQ10",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Nirmoh Limited wants to avail a short-term loan from a bank, which grants short-term loans by keeping collateral in the form of accounts receivable. The bank is analysing the receivables to identify acceptable collateral. The company's current policy is 3/10 net 40. The bank will lend only to the extent of 90% of acceptable receivables at an interest rate of 12% only if both conditions are fulfilled, keeping a reserve of 5% for cash discount and returns: (a) customers are not currently overdue for more than 5 days to the net period; (b) average aging (payment period) of the customer should not exceed 15 days past the net period. If any condition is not fulfilled, the bank will lend 65% of the receivables subject to a reserve of 15% and interest at 15%. The corporate tax rate is 25%. The acceptable receivables are DR 01 ₹50,000 (37 days outstanding, 40 days aging); DR 02 ₹25,000 (25, 48); DR 03 ₹1,20,000 (47, 49); DR 04 ₹72,000 (10, 56); DR 05 ₹45,000 (30, 30); DR 06 ₹1,75,000 (39, 50); DR 07 ₹19,000 (55, 25); DR 08 ₹54,000 (44, 54); DR 09 ₹1,05,000 (15, 25); DR 10 ₹37,000 (22, 75). CALCULATE: (a) the total amount lent by the bank, and (b) the effective interest cost (%) to the company.",
+     "answer_points": [
+      "==**Translate the two conditions into day limits before looking at a single account — this is the whole question.**\n**Condition (a):** the net period is **40 days**, and an account must not be **overdue by more than 5 days** to it, so **'Outstanding in Days since invoiced' must not exceed 45 days.**\n**Condition (b):** **'Average aging (payment period) of the customer should not exceed 15 days past the net period'**, that is **40 + 15 = 55 days.** ICAI states it in its answer: **'it should not exceed 55 days'.**==",
+      "==**Screen all ten accounts against both tests.**\n**Fails (a), outstanding over 45 days:** DR 03 (47), DR 07 (55), DR 08 (44 — within 45, so passes (a)).\n**Fails (b), aging over 55 days:** DR 04 (56) and DR 10 (75).\n**ICAI's result:** the accounts qualifying for **90% lending** are **DR 01, DR 02, DR 05, DR 06, DR 08 and DR 09**, totalling **₹4,54,000**; the accounts falling to **65% lending** are **DR 03, DR 04, DR 07 and DR 10**, totalling **₹2,48,000.**==",
+      "==**(a) The amount lent — and ICAI's order of operations is the examinable point.**\n**90% tier:** acceptable ₹4,54,000, **less a 5% reserve of ₹22,700**, giving a net of **₹4,31,300**; **then 90% of that = ₹3,88,170.**\n**65% tier:** acceptable ₹2,48,000, **less a 15% reserve of ₹37,200**, giving a net of **₹2,10,800**; **then 65% of that = ₹1,37,020.**\n**Total short-term loan granted = ₹3,88,170 + ₹1,37,020 = ==₹5,25,190==.**==",
+      "==**Note the double haircut, and note that it is ICAI's own reading.** The reserve is deducted **first**, and the lending percentage is applied to the **balance** — not 90% of ₹4,54,000 (which would be ₹4,08,600). ICAI's table is explicit: **Total 4,54,000 → (−) Reserve 22,700 → Net 4,31,300 → Loan 3,88,170.** ==A literal reading of 'lend to the extent of 90% of acceptable receivables **subject to** a reserve of 5%' could support either order, and this book follows ICAI's. **It is recorded as an open item in the verification block.**==",
+      "==**(b) The effective interest cost.**\n**Interest at 12% on the 90% tier** = ₹3,88,170 × 0.12 = **₹46,580.40**.\n**Interest at 15% on the 65% tier** = ₹1,37,020 × 0.15 = **₹20,553**.\n**Total interest = ₹67,133.40.**\n**Effective Interest Cost (%) = Interest × (1 − t) ÷ Total short-term loan** = ₹67,133.40 × (1 − 0.25) ÷ ₹5,25,190 = ₹50,350.05 ÷ ₹5,25,190 = ==**9.59%**==.==",
+      "==**The tax shield is the detail most candidates miss.** The question gives a corporate tax rate of 25% for one reason only: **interest is deductible**, so the cost to the company is the **post-tax** figure. A pre-tax answer of 12.78% is arithmetically correct and answers a different question. ==**Where a receivables-financing question gives a tax rate, the effective cost is post-tax.**==",
+      "==**Why this question belongs to §20 and not §22.** It looks like an ageing-schedule question — ten accounts, two day-columns — but the ageing is only the **screening mechanism**. The substance is **pledging of accounts receivable** under SM §20.1: **'The lender scrutinizes the quality of the account receivables, selects acceptable accounts, creates a lien on the collateral and fixes the percentage of financing receivables which ranges around 50 to 90%.'** ==Nirmoh's two tiers, 90% and 65%, sit squarely inside ICAI's own '50 to 90%' range, and the question is the only official illustration of pledging in the period reviewed.==",
+      "**One reading trap in the data.** The two day-columns measure different things: **'Outstanding in Days since invoiced'** is how long *this* invoice has been unpaid, and **'Average Aging (payment period) in Days'** is how slowly *that customer* generally pays. An account can pass one and fail the other — DR 07 is 55 days outstanding (fails (a)) but has a 25-day aging (passes (b)), while DR 04 is only 10 days outstanding (passes (a)) but has a 56-day aging (fails (b)). ==**Test every account against both columns separately; a single combined judgement gets several accounts wrong.**=="
+     ],
+     "keywords": [
+      "policy 3/10 net 40",
+      "condition (a): outstanding ≤ 45 days",
+      "condition (b): aging ≤ 55 days",
+      "90% tier ₹4,54,000, 65% tier ₹2,48,000",
+      "reserve deducted first, then the lending percentage",
+      "loan ₹3,88,170 + ₹1,37,020 = ₹5,25,190",
+      "interest ₹67,133.40",
+      "post-tax effective cost 9.59%",
+      "this is pledging, not factoring"
+     ],
+     "also_asked_as": ["MTP-M26-S1-FQ3 uses an ageing schedule for a different purpose — the cost of the collection policy itself"]
+    },
+    {
+     "id": "MTP-J25-S2-FQ4a",
+     "marks": 4,
+     "status": "VERIFIED",
+     "format": "Descriptive",
+     "question": "EXPLAIN the difference between factoring and forfaiting. (4 Marks)",
+     "answer_points": [
+      "**Open with what each one is.** **Factoring** is the **outright sale of accounts receivables to a factor or a financial agency**; the **factoring agency bears the risk of collection and services the accounts for a fee.** **Forfaiting** — from the French **'forfait', meaning 'relinquish a right'** — is **an arrangement of bill discounting in which a financial institution or bank buys the trade bills or trade receivables from exporters of goods or services, where the exporter relinquishes his right to receive payment from the importer.**",
+      "==**1. Nature of the receivable.** Factoring covers the firm's **sales ledger generally**, domestic or export. Forfaiting is confined to **export trade bills and receivables**, arising from the sale of goods or services to an **overseas buyer**.==",
+      "==**2. Recourse.** Factoring may be **with recourse** — where the factor cannot collect, **'factor can turn back the same to the organization for resolution'** — or **without recourse**, where **'the factor bears the ultimate risk of loss in case of default and hence in such cases they charge higher commission.'** Forfaiting is **always 'without recourse'**: **'risk and rewards related with the bills/receivables transferred to the financial institutions/banks.'**==",
+      "==**3. The instrument.** Factoring rests on the **invoices themselves** under a **factoring agreement** that **'lays down the conditions of the sale'**. Forfaiting rests on a **letter of credit or other negotiable instrument** opened by the importer through its bank in favour of the exporter.==",
+      "==**4. Services provided.** Factoring is **finance plus service**: the factor provides **'efficient record keepings and effective management of the collection process'**, and relieves the client of sales-ledger administration. Forfaiting is **finance alone** — a discounting transaction, with no ledger management.==",
+      "==**5. Duration and pattern.** Factoring is typically a **continuing arrangement** over the whole ledger, giving **'immediate conversion of receivables into cash and predicted pattern of cash flows.'** Forfaiting is **transaction by transaction**, and typically on **deferred payment terms**, so that **'an overseas buyer (importer) can import goods and services on deferred payment terms.'**==",
+      "**6. What each does for the client.** Factoring **'can help a company having liquidity without creating a net liability on its financial condition and hence no impact on debt equity ratio'** and **'allows the firm to use cash for the growth needs of business.'** Forfaiting **'motivates exporters to explore new geographies as payment is assured'**, gives the exporter **'reduced transaction costs and complexities of international trade transactions'**, and lets him **'compete in the international market and continue to put his working capital to good use to scale up operations.'**",
+      "**Close with ICAI's own example of forfaiting**, which shows the two apart in practice: **Exim Bank of India's 'Buyer's Credit'** programme **'facilitates exports for SMEs by providing credit to overseas buyer to import goods from India'** and **'provides non-recourse finance to Indian exporters by converting deferred credit contract into cash contract'**, extending **advance payments to Indian exporters on behalf of the overseas buyer.**",
+      "==**The one-line summary that earns the fourth mark:** **factoring is a domestic-or-export sales-ledger service bundled with finance and may carry recourse; forfaiting is export-only, non-recourse, instrument-based finance with no service attached.**=="
+     ],
+     "keywords": [
+      "outright sale against bill discounting",
+      "relinquish a right",
+      "with or without recourse against always without recourse",
+      "sales ledger against export trade bills",
+      "letter of credit",
+      "finance plus service against finance alone",
+      "continuing arrangement against transaction by transaction",
+      "no impact on debt equity ratio",
+      "Exim Bank Buyer's Credit"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.48-01",
+     "angle": "Blended collection period",
+     "difficulty": "Medium",
+     "question": "A firm's credit terms are 3/30, net 90, and 40% of customers take the discount while the rest pay on the net date. Its average collection period is:",
+     "options": {
+      "A": "60 days",
+      "B": "90 days",
+      "C": "66 days",
+      "D": "54 days"
+     },
+     "answer": "C",
+     "explanation": "The weighted average is (30 × 0.40) + (90 × 0.60) = 12 + 54 = 66 days. Option A is the simple average of the two periods, ignoring the take-up weights; option B uses the net period alone and option D reverses the weights. Three official factoring questions turn on this step, all with a 50% take-up on 2/40 net 120, giving 80 days."
+    },
+    {
+     "id": "MCQ-F09.48-02",
+     "angle": "Factoring against pledging",
+     "difficulty": "Medium",
+     "question": "Which of the following does the study material give as an advantage of factoring **over** pledging of accounts receivable?",
+     "options": {
+      "A": "The percentage of receivables financed is higher under factoring",
+      "B": "Factoring carries no commission, only interest on the advance",
+      "C": "Factoring is always on a non-recourse basis, so the client bears no credit risk",
+      "D": "Factoring is a sale rather than a loan, so there is no net liability and no impact on the debt equity ratio"
+     },
+     "answer": "D",
+     "explanation": "SM §20.1 says factoring 'can help a company having liquidity without creating a net liability on its financial condition and hence no impact on debt equity ratio' and 'This is not considered as a loan.' Pledging, by contrast, 'being a loan, it leaves an impact on the debt equity ratio as well by increasing the amount of debt.' Option C is wrong because factoring may be with or without recourse — it is **forfaiting** that is always without recourse."
+    }
+   ],
+   "recap": [
+    "Pledging is a secured loan on selected receivables, financing 50 to 90%, and it increases debt. Factoring is an outright sale, so there is no net liability and no effect on the debt-equity ratio.",
+    "Recourse lets the factor turn uncollected receivables back to the client; non-recourse leaves the loss with the factor, which charges a higher commission for it.",
+    "The format: savings (administration, bad debts, interest on a shorter collection period) less costs (commission, interest on the advance), then the effective cost on the advance.",
+    "Five steps to the advance: receivables, less commission, less reserve, equals amount available, less the factor's interest, equals the advance paid.",
+    "Compute the blended collection period first wherever a discount period and a net period are both given — 2/40 net 120 at a 50% take-up is 80 days.",
+    "Accept factoring only if the effective cost is below the existing cost of borrowing; a proposal that does not shorten the collection period rarely passes.",
+    "Forfaiting means relinquishing a right: export bills only, always without recourse, usually under a letter of credit, and finance without service."
+   ]
+  },
+  {
+   "code": "F09.51 + F09.52",
+   "title": "21–22 Innovations in Receivable Management, and the Monitoring of Receivables",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 1 (May 2026 Series I Q3, 10 marks)",
+   "understand": [
+    "==**§21 The five determinants of innovation in receivables management** (SM §21), and ICAI's framing: **'the nature of accounts receivables is such that decisions made elsewhere in the organization are likely to affect the level of resources that are expended on the management of accounts receivables.'**==",
+    "==**1. Re-engineering Receivable Process** — **'Re-engineering is a fundamental re-think and re-design of business processes by incorporating modern business approaches.'** Three aspects offer the opportunity:==",
+    "==**(a) Centralisation** — **'Centralisation of high nature transactions of accounts receivables and payable is one of the practices for better efficiency. This focuses attention on specialized groups for speedy recovery.'**==",
+    "==**(b) Alternative Payment Strategies** — **'It is observed that payment of accounts outstanding is likely to be quicker where a number of payment alternatives are made available to customers. Besides, this convenient payment method is a marketing tool that is of benefit in attracting and retaining customers.'** The five modes ICAI lists: **(i) Direct debit — 'authorization for the transfer of funds from the purchaser's bank account'; (ii) Integrated Voice Response (IVR) — 'uses human operators and a computer-based system to allow customers to make payment over phone', beneficial where a large number of payments are processed regularly; (iii) Collection by a third party — 'the payment can be collected by an authorized external firm', by cash, cheque, credit card or EFT, with banks also acting as collecting agents; (iv) Lock Box Processing — 'an outsourced partner captures cheques and invoice data and transmits the file to the client firm for processing in that firm's systems'; (v) Payments via Internet using fund transfer methods like RTGS, NEFT, IPMS UPIs, and app-based payment.**==",
+    "==**(c) Customer Orientation** — **'Where individual customers or a group of customers have some strategic importance to the firm a case study approach may be followed to develop good customer relations. A critical study of this group may lead to formation of a strategy for prompt settlement of debt.'**==",
+    "==**2. Evaluation of Risk** — **'Risk evaluation is a major component in the establishment of an effective control mechanism. Once risks have been properly assessed controls can be introduced to either contain the risk to an acceptable level or to eliminate them entirely.'** It also **'provides an opportunity for removing inefficient practices'** and **'involves a re-think of processes and questioning the way that tasks are performed.'**==",
+    "==**3. Use of Latest Technology** — the major innovations being **'the integration of systems used in the management of accounts receivables, the automation and the use of e-commerce.'**\n**(a) E-commerce** — **'the use of computer and electronic telecommunication technologies, particularly on an inter-organisational level, to support trading in goods and services'**, using **Electronic Data Inter-change (EDI), Electronic Mail, Electronic Funds Transfer (EFT) and Electronic Catalogue Systems**, with **Amazon and Flipkart** as ICAI's examples.\n**(b) Automated Accounts Receivable Management Systems** — **'Manual systems of recording the transactions and managing receivables are not only cumbersome but ultimately costly also. These integrated systems automatically update all the accounting records affected by a transaction.'** ICAI's example: a credit sale **'increases the amount the customer owes to the firm, reduces the inventory for the item purchased, and records the sale.'**==",
+    "==**4. Receivable Collection Practices** — **'The aim of debtors' collection should be to reduce, monitor and control the accounts receivable at the same time maintain customer goodwill.'** And the rule: **'The fundamental rule of sound receivable management should be to reduce the time lag between the sale and collection. Any delays that lengthen this span causes receivables to unnecessary build up and increase the risk of bad debts. This is equally true for the delays caused by billing and collection procedures as it is for delays caused by the customer.'**==",
+    "==**The eight collection procedures and practices** (SM §21.4): **(i) Issue of Invoice; (ii) Open account or open-end credit; (iii) Credit terms or time limits; (iv) Periodic statements and follow ups; (v) Use of payment incentives and penalties; (vi) Record keeping and Continuous Audit; (vii) Export Factoring — 'Factors provide comprehensive credit management, loss protection collection services and provision of working capital to the firms exporting internationally'; (viii) Business Process Outsourcing — 'a strategic business tool whereby an outside agency takes over the entire responsibility for managing a business process like collections in this case.'**==",
+    "==**5. Use of Financial tools/techniques**, of which ICAI develops **credit analysis** and **credit rating**: **'While determining the credit terms, the firm has to evaluate individual customers in respect of their credit worthiness and the possibility of bad debts. For this purpose, the firm has to ascertain credit rating of prospective customers.'** On rating: **'This involves decisions regarding individual parties so as to ascertain how much credit can be extended and for how long. In foreign countries specialized agencies are engaged in the task of providing rating information regarding individual parties. Dun and Broad street is one such source.'** And the test: **'The finance manager has to look into the credit-worthiness of a party and sanction credit limit only after he is convinced that the party is sound. This would involve an analysis of the financial status of the party, its reputation and previous record of meeting commitments.'**==",
+    "==**§22 Monitoring of Receivables — two steps, and the second is the examinable one.** **'Constant monitoring of the current status of receivables is very essential for any organization to make sure that its receivables management is as effective as it should be.'**==",
+    "==**(i) Computation of average age of receivables** — **'It involves computation of average collection period.'**==",
+    "==**(ii) Ageing Schedule** — **'When receivables are analysed according to their age, the process is known as preparing the ageing schedules of receivables.'**==",
+    "==**What the average collection period gives you, and what it does not.** It is **'a quick and effective method of comparing the liquidity of receivables with the liquidity of receivables in the past and also comparing liquidity of one firm with the liquidity of the other competitive firm'**, and it **'helps the firm to predict collection pattern of receivables in future.'** But the ageing schedule is needed because **'the purpose of classifying receivables by age groups is to have a closer control over the quality of individual accounts'** — it **'requires going back to the receivables' ledger where the dates of each customer's purchases and payments are available.'**==",
+    "==**Why the ageing schedule is the better tool, in ICAI's own words:** **'The ageing schedule, by indicating a tendency for old accounts to accumulate, provides a useful supplement to average collection period of receivables/sales analysis. Because an analysis of receivables in terms of associated dates of sales enables the firm to recognise the recent increases, and slumps in sales.'** And how to use it: **'To ascertain the condition of receivables for control purposes, it may be considered desirable to compare the current ageing schedule with an earlier ageing schedule in the same firm and also to compare this information with the experience of other firms.'**==",
+    "==**ICAI's own illustrative ageing schedule, which rewards being read rather than memorised:**\n**As on 30 June 2022** — 1–30 days (June) ₹41,500, **11.9%**; 31–60 (May) ₹74,200, **21.4%**; 61–90 (April) ₹1,85,600, **53.4%**; 91–120 (March) ₹35,300, **10.2%**; 121 and more ₹10,800, **3.1%**; total **₹3,47,400**.\n**As on 30 September 2022** — 1–30 (September) ₹1,00,000, **22.7%**; 31–60 (August) ₹2,50,000, **56.8%**; 61–90 (July) ₹48,000, **10.9%**; 91–120 (June) ₹40,000, **9.1%**; 121 and more ₹2,000, **0.5%**; total **₹4,40,000**.==",
+    "==**What that comparison actually shows, and it is the point of printing two dates.** In June, **53.4% of the book was 61–90 days old** and only 11.9% was current. By September, **79.5% is within 60 days** and the 61-day-and-over band has collapsed from 66.7% to 20.5%. ==**The total receivables have risen by ₹92,600 and the quality has improved sharply** — which is exactly the combination a single average collection period cannot reveal, because the average would merely have fallen without telling you whether that was better collection or lower sales.=="
+   ],
+   "example": "MTP May 2026 Series I's Shilpa Limited is the only official question on this section, and it is a ten-marker. It gives an ageing analysis of ₹21,21,800 across four buckets — Current ₹9,94,100, 31–60 days ₹4,06,500, 61–90 days ₹5,21,200, 91 or more ₹2,00,000 — a collection policy with interest charges and a cash discount, and behavioural assumptions about what proportion of each bucket pays when. The answer computes the effective cost of running that policy as a percentage of the operating cost of sales, and then asks for the three aspects of receivables management from §16.",
+   "provisions": [
+    {
+     "ref": "Five determinants of innovation (SM §21)",
+     "status": "VERIFIED",
+     "requirement": "Re-engineering the receivable process; evaluation of risk; use of latest technology; receivable collection practices; use of financial tools and techniques.",
+     "exam_angle": "Five headings, each with sub-points; name the headings before developing any."
+    },
+    {
+     "ref": "Five alternative payment modes (SM §21.1(b))",
+     "status": "VERIFIED",
+     "requirement": "Direct debit; Integrated Voice Response; collection by a third party; lock box processing; payments via internet using RTGS, NEFT, UPI and app-based payment.",
+     "exam_angle": "ICAI notes that more payment alternatives speed collection and act as a marketing tool."
+    },
+    {
+     "ref": "The fundamental rule (SM §21.4)",
+     "status": "VERIFIED",
+     "requirement": "Reduce the time lag between the sale and collection; delays from billing and collection procedures count as much as delays caused by the customer.",
+     "exam_angle": "The sentence to quote in any collection-policy answer."
+    },
+    {
+     "ref": "Credit rating (SM §21.5)",
+     "status": "VERIFIED",
+     "requirement": "Ascertain how much credit can be extended and for how long; specialized agencies such as Dun and Bradstreet provide rating information; analyse financial status, reputation and previous record of meeting commitments.",
+     "exam_angle": "The three things analysed are the examinable triple."
+    },
+    {
+     "ref": "Two monitoring steps (SM §22)",
+     "status": "VERIFIED",
+     "requirement": "Computation of the average age of receivables, and the ageing schedule.",
+     "exam_angle": "The ageing schedule supplements the average because it shows the quality of individual accounts."
+    }
+   ],
+   "keywords": [
+    "re-engineering",
+    "centralisation",
+    "alternative payment strategies",
+    "direct debit",
+    "Integrated Voice Response",
+    "lock box processing",
+    "customer orientation",
+    "evaluation of risk",
+    "Electronic Data Inter-change",
+    "automated accounts receivable management systems",
+    "reduce the time lag between the sale and collection",
+    "export factoring",
+    "business process outsourcing",
+    "Dun and Broad street",
+    "ageing schedule",
+    "tendency for old accounts to accumulate"
+   ],
+   "memory": {
+    "trick": "**Re-engineer, Risk, Technology, Collection, Tools.** Five determinants of innovation, and the first has three sub-parts — **Centralise, pay many ways, know your big customers.** ==For monitoring: the **average** tells you how long; the **ageing schedule** tells you which accounts, and ICAI prints two dates side by side to show you why that matters.==",
+    "key": [
+     ["Determinant 1", "Re-engineering: centralisation, alternative payments, customer orientation"],
+     ["Determinant 2", "Evaluation of risk — contain or eliminate"],
+     ["Determinant 3", "Latest technology — e-commerce, automated AR systems"],
+     ["Determinant 4", "Collection practices — eight procedures"],
+     ["Determinant 5", "Financial tools — credit analysis and credit rating"],
+     ["Five payment modes", "Direct debit · IVR · third party · lock box · internet/UPI"],
+     ["Fundamental rule", "Reduce the time lag between sale and collection"],
+     ["Credit rating analyses", "Financial status · reputation · previous record"],
+     ["Monitoring step 1", "Average age of receivables"],
+     ["Monitoring step 2", "Ageing schedule, compared with an earlier one and with other firms"],
+     ["What ageing adds", "Closer control over the quality of individual accounts"]
+    ]
+   },
+   "mistakes": [
+    "Giving the ageing schedule as the only monitoring step. ICAI's first step is the average age of receivables, and the schedule is called a 'useful supplement' to it.",
+    "Treating the average collection period as sufficient. It cannot distinguish improved collection from fallen sales; the ageing schedule can.",
+    "Listing only three or four of the five alternative payment modes. Lock box processing and IVR are the two most often dropped.",
+    "Confusing export factoring (a collection practice under §21.4) with factoring as a financing method (§20.1). Here it is listed for the credit management and collection services it provides.",
+    "Omitting the 'delays caused by billing and collection procedures' half of the fundamental rule. ICAI says internal delay counts as much as customer delay.",
+    "Naming a credit rating agency other than the one ICAI gives. Its example is Dun and Bradstreet, which it spells 'Dun and Broad street'."
+   ],
+   "compare": {
+    "title": "ICAI's own ageing schedule, read as a diagnosis",
+    "headers": ["Age class (days)", "30 June 2022", "% of total", "30 September 2022", "% of total"],
+    "rows": [
+     ["1–30", "₹41,500", "11.9", "₹1,00,000", "22.7"],
+     ["31–60", "₹74,200", "21.4", "₹2,50,000", "56.8"],
+     ["61–90", "₹1,85,600", "53.4", "₹48,000", "10.9"],
+     ["91–120", "₹35,300", "10.2", "₹40,000", "9.1"],
+     ["121 and more", "₹10,800", "3.1", "₹2,000", "0.5"],
+     ["Total", "₹3,47,400", "100", "₹4,40,000", "100"],
+     ["Reading", "Two-thirds of the book is over 60 days old", "—", "Four-fifths is within 60 days despite a larger book", "—"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §16: the three aspects, of which control of receivable is what §21 and §22 operationalise",
+    "🔗 FM Ch 9 §10.4: concentration banking and the lock box system, which reappear here as payment strategies",
+    "🔗 FM Ch 9 §20.1: factoring as finance, against export factoring here as a collection practice",
+    "🔗 FM Ch 9 §19: credit policy evaluation, which needs the actual collection period this section measures",
+    "🔗 FM Ch 3: debtors turnover and the average collection period as ratios"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Explain the innovations in receivable management (4 marks)",
+     "What are the alternative payment strategies available to speed collection (2–4 marks)",
+     "How should receivables be monitored, and what does an ageing schedule add to the average collection period (4 marks)",
+     "Compute the effective cost of a debt collection policy from an ageing analysis (6–10 marks)"
+    ],
+    "approach": [
+     "For the innovations, give the five headings and develop two; a list of five with no development scores poorly, and so does a long essay on one.",
+     "For monitoring, give both steps, then the three uses of the ageing schedule — closer control over individual accounts, comparison with an earlier schedule, and comparison with other firms.",
+     "For a numerical, build the bucket-by-bucket table first: amount, proportion paying, when they pay, the interest or discount applicable, and the bad debt.",
+     "State every assumption the question leaves open, as ICAI's own answer does."
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "MTP-M26-S1-FQ3",
+     "marks": 10,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Being the financial controller of Shilpa Limited, you are provided with the debt collection policy and the debtors' ageing analysis as on the date of analysis. Ageing (₹): Customer A — Current 3,12,500, 31–60 days 1,05,000, total 4,17,500; Customer B — 61–90 days 3,11,200, total 3,11,200; Customer C — Current 6,81,600, total 6,81,600; Customer D — 91 or more 1,62,000, total 1,62,000; Customer E — 61–90 days 3,01,500, 91 or more 2,10,000 and 38,000, total 5,49,500. Column totals: Current 9,94,100; 31–60 days 4,06,500; 61–90 days 5,21,200; 91 or more 2,00,000; grand total 21,21,800. Collection Policy: (a) normal credit terms are for 30 days; (b) interest of 2% is charged on accounts overdue for 45 days; (c) interest of 4% is charged on accounts overdue for more than 75 days; (d) a cash discount of 2% is given to customers who make payment within 10 days of the invoice getting due. Additional information: (a) 40% of the invoice value after bad debt falling in the ageing criteria of 31–60 days pay after the 45th day but within the 60th day, with 1.5% of the total being uncollectible; (b) 25% of the invoice value after bad debt falling in the ageing criteria of 61–90 days pay after the 75th day but within the 90th day, with 3% of the total being uncollectible; (c) 15% of the total invoice value overdue for 91 days or more are uncollectible; (d) 50% of the customers (invoice value) avail the cash discount; (e) administration cost for managing the above customers would be ₹50,000. (i) CALCULATE the effective cost involved in the collection process assuming that the operating cost of sales ratio is 0.75. (ii) EXPLAIN three aspects of management of receivables. (10 Marks)",
+     "answer_points": [
+      "==**ICAI's answer to (i): Effective Cost of Debtors Policy = 6.50%, built as**\n**(Bad debts + Cash discount + Administration Cost − Interest Charged Received) ÷ Operating Cost of Sales**\n**= (₹51,734 + ₹9,941 + ₹50,000 − ₹8,259) ÷ ₹15,91,350 = 6.50%.**==",
+      "**The denominator first, because it is the easiest mark.** **Operating cost of sales = 0.75 × ₹21,21,800 = ==₹15,91,350==.**",
+      "==**Bad debts — ₹51,734, computed bucket by bucket.**\n**31–60 days bucket:** 1.5% of the total in that bucket is uncollectible.\n**61–90 days bucket:** 3% of the total is uncollectible.\n**91 days and more:** **15% of the total invoice value** is uncollectible — the largest rate, on ₹2,00,000.\n==The rates escalate with age (1.5% → 3% → 15%), which is the whole economic point of an ageing schedule: **'by indicating a tendency for old accounts to accumulate'**, it shows where the losses actually sit.==",
+      "==**Cash discount — ₹9,941.** A **2% discount** is given to customers who pay **within 10 days of the invoice becoming due**, and **50% of the customers by invoice value avail it.** The discount is therefore computed on **half of the eligible (current) invoice value, net of bad debt**, at 2%.==",
+      "==**Interest charged and received — ₹8,259, and note that it is a *deduction* from the cost.** The policy **charges** the customer interest: **2% on accounts overdue for 45 days** and **4% on accounts overdue for more than 75 days.** Applying those rates to the stated paying proportions — **40% of the 31–60 bucket paying after day 45**, and **25% of the 61–90 bucket paying after day 75** — gives ₹8,259 of interest income, which **reduces** the net cost of running the policy.==",
+      "**Administration cost — ₹50,000**, given directly.",
+      "==**ICAI's own note, which should be reproduced:** **'In absence of information on Opportunity Rate of return on Investment, Opportunity Cost of Investment in receivables is not calculated.'** ==That is an important omission to flag: the question gives no required rate of return, so the **largest cost in a normal credit-policy evaluation — the opportunity cost of funds tied up — is absent here.** The 6.50% is therefore the cost of the *collection process*, not the full cost of the credit policy.==",
+      "==**(ii) The three aspects of management of receivables** (SM §16) — four marks of pure recall at the end of a demanding computation:==",
+      "==**1. Credit Policy.** **'A balanced credit policy should be determined for effective management of receivables. Decision of Credit standards, Credit terms and collection efforts is included in Credit policy. It involves a trade-off between the profits on additional sales that arise due to credit being extended on the one hand and the cost of carrying those debtors and bad debt losses on the other. This seeks to decide credit period, cash discount and other relevant matters.'**==",
+      "==**2. Credit Analysis.** **'This requires the finance manager to determine as to how risky it is to advance credit to a particular party. This involves due diligence or reputation check of the customers with respect to their credit worthiness.'**==",
+      "==**3. Control of Receivable.** **'This requires finance manager to follow up debtors and decide about a suitable credit collection policy. It involves both laying down of credit policies and execution of such policies.'** Add the **four costs of maintaining receivables** — the interest or opportunity cost on funds blocked, administrative costs, collection costs and defaulting costs — all four of which appear by name in part (i).==",
+      "==**Why part (ii) is where the easy marks are, and a word of exam strategy.** Part (i) is a bucket-by-bucket computation with five interlocking assumptions and is easy to lose half-way through; part (ii) is four headings from §16 that can be written in three minutes. ==**In a ten-mark question structured like this, write part (ii) first.** Several official questions in this chapter pair a hard numerical with a short recall item, and the recall item is never worth fewer than three marks.==",
+      "**One structural observation about the question itself.** The ageing analysis is given **by customer and by bucket**, but every computation uses only the **column totals**. The customer names and the distribution across them are **not needed** — they are there to make the schedule look like a real ledger, and to test whether the candidate can see that the policy operates on age bands rather than on customers. ==Work from the row of column totals: ₹9,94,100 / ₹4,06,500 / ₹5,21,200 / ₹2,00,000.=="
+     ],
+     "keywords": [
+      "operating cost of sales 0.75 × ₹21,21,800 = ₹15,91,350",
+      "bad debts ₹51,734 at 1.5%, 3% and 15% by bucket",
+      "cash discount ₹9,941 at 2% on 50% take-up",
+      "interest received ₹8,259 is deducted",
+      "administration ₹50,000",
+      "effective cost 6.50%",
+      "no opportunity cost — no rate given",
+      "three aspects: credit policy, credit analysis, control of receivable",
+      "work from the column totals, not by customer"
+     ],
+     "also_asked_as": ["RTP-J25-FQ10 uses an ageing analysis for a different purpose — screening receivables as loan collateral"]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.51-01",
+     "angle": "What ageing adds",
+     "difficulty": "Medium",
+     "question": "According to the study material, the purpose of classifying receivables by age groups is to:",
+     "options": {
+      "A": "Have a closer control over the quality of individual accounts",
+      "B": "Replace the computation of the average collection period, which is no longer reliable",
+      "C": "Comply with the disclosure requirements for trade receivables",
+      "D": "Determine the percentage of receivables a bank will accept as collateral"
+     },
+     "answer": "A",
+     "explanation": "SM §22: 'The purpose of classifying receivables by age groups is to have a closer control over the quality of individual accounts.' ICAI calls the ageing schedule a 'useful supplement' to the average collection period rather than a replacement for it — the average is step (i) of monitoring and the schedule step (ii). Option D describes how RTP January 2025's Nirmoh Limited happens to use an ageing analysis, but that is a pledging question, not the purpose of the schedule."
+    },
+    {
+     "id": "MCQ-F09.51-02",
+     "angle": "Payment strategies",
+     "difficulty": "Medium",
+     "question": "Which of the following is described in the study material as a system that 'uses human operators and a computer-based system to allow customers to make payment over phone'?",
+     "options": {
+      "A": "Electronic Data Inter-change",
+      "B": "Integrated Voice Response",
+      "C": "Lock box processing",
+      "D": "Direct debit"
+     },
+     "answer": "B",
+     "explanation": "SM §21.1(b)(ii): Integrated Voice Response (IVR) 'uses human operators and a computer-based system to allow customers to make payment over phone. This system has proved to be beneficial in the organisations processing a large number of payments regularly.' Direct debit is an authorisation to transfer funds from the purchaser's bank account; lock box processing has an outsourced partner capture cheques and invoice data; EDI is a technology used in e-commerce under §21.3."
+    }
+   ],
+   "recap": [
+    "Five determinants of innovation: re-engineering the process, evaluation of risk, latest technology, collection practices, and financial tools.",
+    "Re-engineering has three aspects: centralisation, alternative payment strategies, and customer orientation.",
+    "Five payment modes: direct debit, Integrated Voice Response, collection by a third party, lock box processing, and internet transfers including RTGS, NEFT and UPI.",
+    "The fundamental rule: reduce the time lag between sale and collection, counting internal billing delays as much as customer delays.",
+    "Credit rating analyses a party's financial status, reputation and previous record of meeting commitments; Dun and Bradstreet is ICAI's example of a rating source.",
+    "Monitoring has two steps: the average age of receivables, and the ageing schedule — which gives closer control over the quality of individual accounts and should be compared with an earlier schedule and with other firms."
+   ]
+  },
+  {
+   "code": "F09.53 + F09.54 + F09.55",
+   "title": "23–25 Management of Payables (Unit V) — Introduction, the Cost and Benefits of Trade Credit, and the Computation of the Cost of Payables",
+   "activity": "Very High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (May 2026 Q2(b)) · RTP 1 (Sep 2025 Q10(b)) · MTP 1 (Sep 2024 Series I Q4(a))",
+   "understand": [
+    "==**ICAI's opening, which is quotable and short** (SM §23): **'There is an old age saying in business that if you can buy well then you can sell well. Management of your creditors and suppliers is just as important as the management of your debtors.'**==",
+    "==**What trade credit is:** **'Trade creditor is a spontaneous / short term source of finance in the sense that it arises from ordinary business transaction.'** And the warning: **'it is also important to look after your creditors - slow payment by you may create ill-feeling and your supplies could be disrupted and also create a bad image for your company.'** **'Creditors are a vital part of effective cash management and should be managed carefully to enhance the cash position.'**==",
+    "==**§24(a) The cost of availing trade credit — four costs, and ICAI opens by conceding the usual assumption:** **'Normally it is considered that the trade credit does not carry any cost. However, it carries the following costs:'**==",
+    "==**(i) Price** — **'There is often a discount on the price that the firm undergoes when it uses trade credit, since it can take advantage of the discount only if it pays immediately. This discount can translate into a high implicit cost.'**==",
+    "==**(ii) Loss of goodwill** — **'If the credit is overstepped, suppliers may discriminate against delinquent customers if supplies become short. As with the effect of any loss of goodwill, it depends very much on the relative market strengths of the parties involved.'**==",
+    "==**(iii) Cost of managing** — **'Management of creditors involves administrative and accounting costs that would otherwise be incurred.'**==",
+    "==**(iv) Conditions** — **'Sometimes most of the suppliers insist that for availing the credit facility the order should be of some minimum size or even on regular basis.'**==",
+    "==**§24(b) The cost of NOT taking trade credit — three costs:**\n**(i) Impact of Inflation** — **'If inflation persists then the borrowers are favored over the lenders as they were better off to pay the fixed outstanding amount later than sooner. Also, the subsequent transactions shall be at higher prices.'**\n**(ii) Interest** — **'Trade credit is a type of interest free loan, therefore failure to avail this facility has an interest cost. This cost is further increased if interest rates are higher.'**\n**(iii) Inconvenience** — **'Sometimes it may also cause inconvenience to the supplier if the supplier is geared to the deferred payment.'**==",
+    "==**§25 The two formulae, and both are needed.** **'By using the trade credit judiciously, a firm can reduce the effect of growth or burden on investments in Working Capital.'**==",
+    "==**The nominal annual cost of not taking the discount: **d ÷ (100 − d) × 365 ÷ t**==",
+    "==**But ICAI immediately adds: 'the above formula does not take into account the compounding effect and therefore, the cost of credit shall be even higher. The cost of lost cash discount can be estimated by the formula:'** **[100 ÷ (100 − d)]^(365 ÷ t) − 1**==",
+    "==**where d = the size of the discount (for a 6% discount, d = 6) and t = 'The reduction in the payment period in days, necessary to obtain the early discount, or Days Credit Outstanding − Discount Period.'**==",
+    "==**SM Illustration 17 — the compounded form in action.** ABC Ltd is offered **2/10, net 45**, so **'the company has the choice of paying ₹10 per ₹100 or to invest ₹98 for an additional 35 days and eventually pay the supplier ₹100 per ₹100.'** **t = 45 − 10 = 35 days**, and\n**[100 ÷ 98]^(365/35) − 1 = ==23.5%==.**==",
+    "==**And then ICAI tests it against an actual opportunity rate**, which is the structure May 2026's past paper follows. If ABC can earn **25%** on cash and the invoice is **₹10,000**:\n**Refuse discount:** payment to supplier ₹10,000, less the return from investing ₹9,800 between day 10 and day 45 = ₹9,800 × 25% × 35/365 = **₹(235)**, giving a **net cost of ₹9,765.**\n**Accept discount:** payment of **₹9,800.**\n**'Thus, it is better for the company to refuse the discount, as return on cash retained is more than the saving on account of discount.'**==",
+    "==**SM Illustration 18 — the Dolce Company, and the error it is built to expose.** Terms of **2/10, net 30**; payments are usually made **15 days** after purchase; the accountant says the funds cost only 2% whereas a bank loan would cost 12%.==",
+    "==**ICAI's answer:** **'Rohit's argument of comparing 2% discount with 12% bank loan rate is not rational as 2% discount can be earned by making payment 5 days in advance i.e. within 10 days rather 15 days as payments are made presently. Whereas 12% bank loan rate is for a year.'** Assuming a purchase value of ₹100, the discount earned by paying within 10 days is ₹2, so the net payment is ₹98, and the **annualised benefit = (₹2 ÷ ₹98) × (365 ÷ 5) × 100 = ==149%==.** **'This means cost of not taking cash discount is 149%.'**==",
+    "==**And part (b) of the same illustration, which is the practical punchline:** **'If the bank loan facility could not be available, then in this case the company should resort to utilise maximum credit period as possible. Therefore, payment should be made in 30 days to reduce the interest cost.'** ==If you cannot afford to take the discount, **do not pay on day 15 — pay on day 30.** Paying early without taking the discount is the worst of both worlds, and it is the single most useful piece of advice in Unit V.==",
+    "==**The t to use is a judgement, and the two illustrations differ.** Illustration 17 takes **t = net period − discount period = 35 days**, because the comparison is between paying on day 10 and paying on day 45. Illustration 18 takes **t = 5 days**, because the company is **currently paying on day 15** and would have to move to day 10. ==**t is the number of days actually given up, measured from what the company does now, not always from the net date.**=="
+   ],
+   "example": "May 2026's B Ltd is Illustration 17 rebuilt with tax: a 2% discount on a ₹75,000 invoice for paying in one month instead of three, financed by a 10% overdraft, tax at 30%. ICAI gives the cash comparison — net benefit ₹1,050 against after-tax interest of ₹857.50, a net saving of ₹192.50 — and then the annualised form, 2/98 × 12/2 = 12.245% before tax and 8.571% after, against a post-tax overdraft rate of 7%. Both routes accept the discount, and ICAI prints both.",
+   "provisions": [
+    {
+     "ref": "Trade credit as a spontaneous source (SM §23)",
+     "status": "VERIFIED",
+     "requirement": "It arises from ordinary business transaction; slow payment creates ill-feeling, may disrupt supplies and damages the company's image.",
+     "exam_angle": "The 'buy well, sell well' opening is ICAI's own and worth quoting."
+    },
+    {
+     "ref": "Four costs of availing trade credit (SM §24(a))",
+     "status": "VERIFIED",
+     "requirement": "Price (the forgone discount, a high implicit cost); loss of goodwill; cost of managing; conditions imposed by suppliers.",
+     "exam_angle": "Asked in MTP Sep 2024 Series I Q4(a); open with the concession that trade credit is normally thought costless."
+    },
+    {
+     "ref": "Three costs of not taking trade credit (SM §24(b))",
+     "status": "VERIFIED",
+     "requirement": "Impact of inflation; interest, since trade credit is an interest-free loan; inconvenience to a supplier geared to deferred payment.",
+     "exam_angle": "A separate list; read whether the question asks about availing or not availing."
+    },
+    {
+     "ref": "The two cost formulae (SM §25)",
+     "status": "VERIFIED",
+     "requirement": "Nominal: d ÷ (100 − d) × 365 ÷ t. Compounded: [100 ÷ (100 − d)]^(365/t) − 1.",
+     "exam_angle": "ICAI says the nominal form understates; Illustration 17 uses the compounded one."
+    },
+    {
+     "ref": "Pay on the net date if you cannot take the discount (SM Illustration 18(b))",
+     "status": "VERIFIED",
+     "requirement": "Where bank finance is unavailable, utilise the maximum credit period possible — pay in 30 days rather than 15.",
+     "exam_angle": "A two-mark conclusion that candidates rarely give."
+    }
+   ],
+   "keywords": [
+    "buy well then you can sell well",
+    "spontaneous source of finance",
+    "slow payment may create ill-feeling",
+    "high implicit cost",
+    "discriminate against delinquent customers",
+    "relative market strengths",
+    "minimum order size",
+    "borrowers are favoured over lenders",
+    "interest free loan",
+    "d ÷ (100 − d) × 365 ÷ t",
+    "compounding effect",
+    "23.5% on 2/10 net 45",
+    "149% on paying five days early",
+    "utilise maximum credit period"
+   ],
+   "memory": {
+    "trick": "**Four costs of taking it, three of not taking it.** Taking trade credit costs you the **Price, Goodwill, Management and Conditions**; refusing it costs you **Inflation, Interest and Inconvenience**. ==Four P-G-M-C against three I-I-I.==",
+    "key": [
+     ["Cost of availing (i)", "Price — the forgone discount, a high implicit cost"],
+     ["Cost of availing (ii)", "Loss of goodwill, depending on relative market strengths"],
+     ["Cost of availing (iii)", "Cost of managing creditors"],
+     ["Cost of availing (iv)", "Conditions — minimum order size or regularity"],
+     ["Cost of not availing (i)", "Impact of inflation — borrowers are favoured"],
+     ["Cost of not availing (ii)", "Interest — trade credit is interest free"],
+     ["Cost of not availing (iii)", "Inconvenience to a supplier geared to deferred payment"],
+     ["Nominal cost", "d ÷ (100 − d) × 365 ÷ t"],
+     ["Compounded cost", "[100 ÷ (100 − d)]^(365/t) − 1"],
+     ["t", "Days actually given up, from what you do now"],
+     ["Illustration 17", "2/10 net 45 → 23.5%; refuse if you can earn 25%"],
+     ["Illustration 18", "2/10 net 30 paying on day 15 → 149%; if you cannot take it, pay on day 30"]
+    ]
+   },
+   "mistakes": [
+    "Comparing the discount percentage directly with an annual interest rate. That is exactly Rohit's error in Illustration 18: 2% for five days is not comparable with 12% for a year.",
+    "Using the nominal formula where ICAI uses the compounded one. Illustration 17's 23.5% comes from [100/98]^(365/35) − 1; the nominal form gives 21.3%.",
+    "Taking t as the net period. t is the reduction in the payment period necessary to obtain the discount — 35 days in Illustration 17 but only 5 days in Illustration 18.",
+    "Forgetting to tax-adjust both sides when a tax rate is given. May 2026's B Ltd compares 8.571% post-tax against 7% post-tax, not 12.245% against 10%.",
+    "Giving the costs of availing trade credit when asked about the costs of not availing it, or the reverse. They are two separate lists in §24.",
+    "Omitting the conclusion that a firm which cannot take the discount should pay on the last day of the net period. It is a stated part of Illustration 18."
+   ],
+   "compare": {
+    "title": "The two official cash-discount questions, and the two routes each uses",
+    "headers": ["", "SM Illustration 17 (ABC Ltd)", "PYQ May 2026 Q2(b) (B Ltd)"],
+    "rows": [
+     ["Terms", "2/10, net 45", "2% for payment in 1 month instead of 3"],
+     ["t", "35 days", "2 months"],
+     ["Annualised cost of refusing", "[100/98]^(365/35) − 1 = 23.5%", "2/98 × 12/2 = 12.245%"],
+     ["Opportunity / financing rate", "25% earned on cash retained", "10% bank overdraft"],
+     ["Tax", "Not applied", "30%, so 8.571% against 7%"],
+     ["Cash comparison", "Refuse ₹9,765 against accept ₹9,800", "Benefit ₹1,050 against interest ₹857.50"],
+     ["Decision", "Refuse the discount — the return on cash retained exceeds the saving", "Accept the discount — a net saving of ₹192.50"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §27.1: trade credit as a spontaneous source of working capital finance",
+    "🔗 FM Ch 9 §19: the same discount arithmetic from the seller's side, as a cost of the credit policy",
+    "🔗 FM Ch 9 §10.5: controlling payments, and playing the float",
+    "🔗 FM Ch 9 §29: the bank overdraft that funds an early payment",
+    "🔗 FM Ch 4: the cost of capital against which the implicit cost of trade credit is compared"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Discuss the costs of availing trade credit (4 marks)",
+     "Should the company accept a cash discount offer? Support with calculations (3 marks)",
+     "Show the difference between trade credit and bank overdraft (4 marks)",
+     "Compute the annualised cost of not taking a cash discount (2 marks)"
+    ],
+    "approach": [
+     "For the costs question, open with ICAI's concession that trade credit is normally thought costless, then give all four with one line each.",
+     "For a numerical, give the cash comparison first — it is unambiguous — and then the annualised rate as a cross-check; ICAI prints both for B Ltd.",
+     "Define t explicitly as the days given up, and say which it is.",
+     "Tax-adjust both the benefit and the financing cost when a tax rate is given.",
+     "Close with the decision in a sentence, and if the discount is refused, say that payment should then be made on the last day of the credit period."
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-M26-Q2b",
+     "marks": 3,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "B Ltd. has received an offer to get a discount of 2% on an invoice value of ₹75,000, if payment is made within one month instead of normal credit terms of 3 months. If the company makes early payment, it will need to finance the payment through a bank overdraft of 10% p.a. Tax rate is 30%. Whether B Ltd. should accept the offer? Support your decision with calculations. (3 Marks)",
+     "answer_points": [
+      "==**ICAI's main route — the cash comparison.**==",
+      "**Discount on early payment** = 2% × ₹75,000 = **₹1,500**.",
+      "**Net Benefit (A)** = ₹1,500 less tax at 30% = ==**₹1,050**==. *The discount is a reduction in a deductible expense, so it is taxed.*",
+      "**The amount that must be borrowed.** The company pays the discounted invoice, so **₹75,000 − ₹1,500 = ₹73,500**, and it must borrow that for the **two months** by which payment is advanced.",
+      "**Bank overdraft interest for 2 months** = ₹73,500 × 10% × 2/12 = ==**₹1,225**==.",
+      "**After-tax interest cost** = ₹1,225 × (1 − 0.30) = ==**₹857.50**==.",
+      "**Net Saving = ₹1,050 − ₹857.50 = ==₹192.50==.**",
+      "==**Decision:** **'Since the company gains a net benefit of ₹192.50 by making early payment, B Ltd. should accept the discount offer.'**==",
+      "==**ICAI's alternative route, printed immediately below, and worth giving as a cross-check.**\n**Annualised benefit of discount** = [Discount % ÷ (100 − Discount %)] × [12 months ÷ (Credit period − Discount period)]\n**= 2/98 × 12/2 × 100 = ==12.245%==**\n**Post-tax benefit** = 12.245% × (1 − 0.3) = ==**8.571%**==\n**Post-tax bank overdraft rate** = 10% × (1 − 0.3) = ==**7%**==\n**'Benefit of discount is more than cost of OD. Hence, discount should be accepted.'**==",
+      "==**The two routes must agree, and checking that they do takes ten seconds.** 8.571% against 7% is a margin of 1.571% a year; on ₹73,500 for two months that is ₹73,500 × 0.01571 × 2/12 = ₹192.45 — the ₹192.50 of the cash route. ==**Giving both and noting that they reconcile is how a three-mark answer becomes a complete one.**==",
+      "==**Three technique points, each of which is a mark somewhere in this chapter.**\n**(1) Tax both sides.** The discount is taxable income forgone on the expense side and the interest is deductible; applying 30% to only one of them is the commonest error and reverses the decision if applied to the interest alone.\n**(2) Borrow the net figure, not the gross.** The company pays ₹73,500, not ₹75,000, so the overdraft is on ₹73,500. Using ₹75,000 overstates the interest by ₹25 before tax.\n**(3) The period is two months, not one.** Payment moves from month 3 to month 1, so the financing is needed for the **two months saved** — which is also the t in the annualised formula.==",
+      "**And the shape of the answer.** This is SM Illustration 17 with the opposite conclusion: there the firm could earn **25%** on retained cash and so refused a discount worth 23.5%; here it can borrow at **7% post-tax** against a discount worth 8.571% post-tax, and so accepts. ==**The decision rule is the same in both — compare the annualised value of the discount with the rate at which the money can be had or placed — and only the rates differ.**=="
+     ],
+     "keywords": [
+      "discount ₹1,500, post-tax ₹1,050",
+      "borrow ₹73,500, not ₹75,000",
+      "two months, not one",
+      "interest ₹1,225, post-tax ₹857.50",
+      "net saving ₹192.50",
+      "annualised 2/98 × 12/2 = 12.245%",
+      "8.571% post-tax against 7% post-tax",
+      "accept the offer"
+     ],
+     "also_asked_as": ["SM Illustration 17 (ABC Ltd, 2/10 net 45) reaches the opposite decision on a 25% opportunity rate"]
+    },
+    {
+     "id": "MTP-S24-S1-FQ4a",
+     "marks": 4,
+     "status": "VERIFIED",
+     "format": "Descriptive",
+     "question": "DISCUSS the Costs of Availing Trade Credit. (4 Marks)",
+     "answer_points": [
+      "==**Open with ICAI's own concession, because it frames the whole answer:** **'Normally it is considered that the trade credit does not carry any cost. However, it carries the following costs.'** And set the context from §23: **trade credit is a spontaneous, short-term source of finance in the sense that it arises from ordinary business transaction** — which is precisely why its cost is invisible.==",
+      "==**(i) Price.** **'There is often a discount on the price that the firm undergoes when it uses trade credit, since it can take advantage of the discount only if it pays immediately. This discount can translate into a high implicit cost.'** ==Quantify it to show what 'high implicit cost' means: on terms of **2/10, net 45**, forgoing the discount costs **23.5% a year** on ICAI's own compounded formula (Illustration 17); and where a firm is already paying on day 15 under **2/10, net 30**, the cost of not taking the discount reaches **149% a year** (Illustration 18). **A 2% discount is never a 2% cost.**==",
+      "==**(ii) Loss of goodwill.** **'If the credit is overstepped, suppliers may discriminate against delinquent customers if supplies become short. As with the effect of any loss of goodwill, it depends very much on the relative market strengths of the parties involved.'** The qualification is the examinable part: a dominant buyer bears little of this cost, a small buyer in a tight market bears most of it. §23 adds that **slow payment 'may create ill-feeling and your supplies could be disrupted and also create a bad image for your company.'**==",
+      "==**(iii) Cost of managing.** **'Management of creditors involves administrative and accounting costs that would otherwise be incurred.'** Running a creditors ledger, reconciling supplier statements, scheduling payments and tracking discount dates all consume resource that a cash-on-delivery business does not spend.==",
+      "==**(iv) Conditions.** **'Sometimes most of the suppliers insist that for availing the credit facility the order should be of some minimum size or even on regular basis.'** The cost here is a loss of flexibility: the buyer may have to order more than it needs, or more often than it would choose, to keep the facility — which pushes the cost back into inventory holding.==",
+      "==**Close by naming the other side of the ledger**, because it shows the four costs are not an argument against trade credit. SM §24(b) gives the **costs of *not* taking trade credit**: **the impact of inflation**, since **'borrowers are favored over lenders as they were better off to pay the fixed outstanding amount later than sooner'** and later transactions will be at higher prices; **interest**, because **'trade credit is a type of interest free loan, therefore failure to avail this facility has an interest cost'**; and **inconvenience** to a supplier **'geared to the deferred payment'.**==",
+      "==**The one-sentence conclusion that earns the fourth mark:** **trade credit is free only in the sense that no interest is charged for it; its real cost is the discount forgone, and that cost must be compared with the firm's own cost of funds before a payment policy can be called rational.** Where the discount is worth more than the cost of borrowing, take it; where it is not, SM Illustration 18 is explicit that the firm **'should resort to utilise maximum credit period as possible'** — pay on the last day, not in between.=="
+     ],
+     "keywords": [
+      "normally considered to carry no cost",
+      "price — a high implicit cost",
+      "23.5% on 2/10 net 45",
+      "149% in Illustration 18",
+      "discriminate against delinquent customers",
+      "relative market strengths",
+      "administrative and accounting costs",
+      "minimum order size or regular basis",
+      "costs of not taking: inflation, interest, inconvenience",
+      "if you cannot take the discount, pay on the last day"
+     ],
+     "also_asked_as": ["RTP-S25-FQ10b asks the comparison with a bank overdraft; PYQ-M26-Q2b prices the discount"]
+    },
+    {
+     "id": "RTP-S25-FQ10b",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Descriptive",
+     "question": "Trade credit and bank overdraft are two commonly used short-term financing sources but each has distinct features. On the light of the statement SHOW the difference between trade credit and bank overdraft.",
+     "answer_points": [
+      "==**1. How it arises.** **Trade credit is a spontaneous source**: **'it arises from ordinary business transaction'** (SM §23) and needs no negotiation — **'If a buyer is able to get the credit without completing much formality, it is termed as open account trade credit'** (SM §27.1). A **bank overdraft is a negotiated source**: SM §26 classifies negotiated sources as **'those which have to be specifically negotiated with lenders say, commercial banks, financial institutions, general public etc.'**==",
+      "==**2. Who provides it.** Trade credit comes from the **supplier of goods or services**; an overdraft comes from a **commercial bank**.==",
+      "==**3. Explicit cost.** Trade credit carries **no interest** — **'Trade credit is a type of interest free loan'** (SM §24(b)) — but it has an **implicit cost**, the **discount forgone**, which **'can translate into a high implicit cost'** (SM §24(a)). An overdraft carries an **explicit rate of interest**, charged on the amount actually drawn.==",
+      "==**4. Security.** Trade credit is **unsecured**, resting on the trading relationship and the buyer's reputation. An overdraft is typically **secured**, and SM §29 notes that **'the banks will impose limits on the amount they can lend'**.==",
+      "==**5. Flexibility and repayment.** An overdraft is highly flexible: **'It is a short-term borrowing facility made available to the companies in case of urgent need of funds. … When the borrowed funds are no longer required they can quickly and easily be repaid'** — but **'the banks issue overdrafts with a right to call them in at short notice'** (SM §29). Trade credit is tied to the **purchase cycle**: it rises and falls with buying, cannot be drawn on demand, and is repaid on the invoice due date.==",
+      "==**6. Conditions attached.** Trade credit may require **a minimum order size or regular ordering** (SM §24(a)(iv)), and overstepping it risks **loss of goodwill and disrupted supplies**. An overdraft is subject to a **sanctioned limit** and to the bank's **right of recall**, but imposes no conditions on what the buyer purchases.==",
+      "==**7. Effect on the balance sheet and on relationships.** Trade credit appears among **trade payables** and is part of the **spontaneous** working-capital base, financing about **'one-third of the total short-term requirements'** by ICAI's estimate (SM §27.1). An overdraft is **bank borrowing**; SM §6.2 expressly excludes bank credit from the current liabilities deducted in computing the working-capital requirement, because it is the **financing** of that requirement rather than a spontaneous part of it.==",
+      "==**8. Availability to the small firm.** ICAI notes that trade credit is **'more helpful to small and medium enterprises'** because of **'its simplicity, easy availability and lesser explicit cost'** (SM §27.1), whereas an overdraft depends on the bank's assessment of the borrower.==",
+      "==**The closing judgement, which is what the question's 'each has distinct features' is inviting.** Trade credit is **cheap, automatic and limited in amount and timing**; an overdraft is **dearer, negotiated and flexible in amount and timing**. ==A firm therefore uses trade credit for the **predictable, purchase-linked** part of its short-term need and the overdraft for the **variable residue** — which is the matching approach of SM §26 applied inside the short-term layer itself.=="
+     ],
+     "keywords": [
+      "spontaneous against negotiated",
+      "supplier against commercial bank",
+      "interest free but a high implicit cost",
+      "explicit interest on the amount drawn",
+      "unsecured against secured with a limit",
+      "tied to the purchase cycle against drawn on demand",
+      "right to call them in at short notice",
+      "one-third of total short-term requirements",
+      "bank credit excluded from current liabilities in §6.2"
+     ],
+     "also_asked_as": ["MTP-S24-S1-FQ4a asks the costs of availing trade credit; RTP-M24-FQ8-ii asks its importance and cost as a source"]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.53-01",
+     "angle": "The compounded formula",
+     "difficulty": "Hard",
+     "question": "A supplier offers terms of 2/10, net 45. Using the study material's formula for the cost of the lost cash discount, the annualised cost of not taking the discount is approximately:",
+     "options": {
+      "A": "16.2%",
+      "B": "2.0%",
+      "C": "23.5%",
+      "D": "21.3%"
+     },
+     "answer": "C",
+     "explanation": "SM Illustration 17: t = 45 − 10 = 35 days, and [100 ÷ (100 − 2)]^(365/35) − 1 = [100/98]^10.43 − 1 = 23.5%. Option D is the **nominal** form, 2/98 × 365/35 = 21.3%, which ICAI says 'does not take into account the compounding effect and therefore, the cost of credit shall be even higher'. Option B is the error Illustration 18 exists to expose — comparing a 2% discount directly with an annual rate."
+    },
+    {
+     "id": "MCQ-F09.53-02",
+     "angle": "Which list",
+     "difficulty": "Medium",
+     "question": "'If inflation persists then the borrowers are favored over the lenders' is given in the study material as:",
+     "options": {
+      "A": "A cost of availing trade credit",
+      "B": "A benefit of a bank overdraft over trade credit",
+      "C": "A reason suppliers impose minimum order sizes",
+      "D": "A cost of **not** taking trade credit"
+     },
+     "answer": "D",
+     "explanation": "SM §24(b) lists three costs of **not** availing trade credit: the impact of inflation (borrowers are favoured, and subsequent transactions will be at higher prices), interest (trade credit is an interest-free loan, so failing to use it has an interest cost), and inconvenience to a supplier geared to deferred payment. §24(a)'s four costs of **availing** it are price, loss of goodwill, cost of managing and conditions."
+    }
+   ],
+   "recap": [
+    "If you can buy well you can sell well: creditors deserve the same management as debtors, and slow payment risks ill-feeling, disrupted supplies and a bad image.",
+    "Four costs of availing trade credit: price (the discount forgone, a high implicit cost), loss of goodwill, cost of managing, and conditions such as minimum order size.",
+    "Three costs of not availing it: the impact of inflation, the interest cost of forgoing an interest-free loan, and inconvenience to the supplier.",
+    "Nominal cost of losing the discount = d ÷ (100 − d) × 365 ÷ t; the compounded cost is [100 ÷ (100 − d)]^(365/t) − 1, and ICAI uses the second.",
+    "t is the number of days actually given up: 35 days in Illustration 17, but only 5 in Illustration 18 where the firm already pays on day 15.",
+    "2/10 net 45 costs 23.5% a year to refuse; 2/10 net 30 refused by a firm paying on day 15 costs 149%.",
+    "If the discount cannot be taken, pay on the last day of the credit period — never in between."
+   ]
+  }
+ ]
+}

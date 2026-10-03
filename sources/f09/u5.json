@@ -1,0 +1,787 @@
+{
+ "concepts": [
+  {
+   "code": "F09.26 + F09.27 + F09.28",
+   "title": "10.3–10.5 Managing Cash Collection and Disbursements, Accelerating Cash Collections, and Controlling Payments",
+   "activity": "Medium",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 0 — a standing gap, which is why this block carries a chapter-test descriptive question",
+   "understand": [
+    "**Why the section exists** (SM §10.3): having prepared the cash budget, **'the finance manager should ensure that there is not a significant deviation between projected cash flows and actual cash flows'**, and efficiency must be brought in **by proper control of cash collection and disbursement.**",
+    "==**The twin objectives, and they pull in opposite directions by design:** **'Accelerate cash collections as much as possible; and Decelerate or delay cash disbursements within permissible time frame.'** ==Note the qualifier on the second: **within permissible time frame.** ICAI is not endorsing late payment.==",
+    "==**§10.4 Float — the four kinds, and this is the most examinable list in Unit II after Baumol.** **'The term float is used to refer to the periods that affect cash as it moves through the different stages of the collection process.'**==",
+    "==**1. Billing float** — **'An invoice is the formal document that a seller prepares and sends to the purchaser as the payment request for goods sold or services provided. The time between the sale and the mailing of the invoice is known as billing float.'**==",
+    "==**2. Mail float** — **'This is the time when a cheque is being carried by post office, messenger service or other means of delivery.'**==",
+    "==**3. Cheque processing float** — **'This is the time required for the seller to sort, record and deposit the cheque after it has been received by the company.'**==",
+    "==**4. Banking processing float** — **'This is the time from the deposit of the cheque to the crediting of funds in the sellers' account.'**==",
+    "==**How each float is attacked** (SM §10.4): **issue invoices quickly** (reducing or eliminating **billing** float); **reduce the time lag between a customer paying the bill and the cheque being collected** (reducing or eliminating **mail** float); and **make funds become available for the firm's use** (reducing or eliminating **processing** floats).==",
+    "==**Two decentralised collection systems** ICAI names — **concentration banking** and the **lock box system** — **'to speed up cash collection and reduce float time.'**==",
+    "==**(i) Concentration Banking.** **'the company establishes a number of strategic collection centers in different regions instead of a single collection center at the head office. This system reduces the period between the time a customer mails in his remittances and the time when they become spendable funds with the company. Payments received by the different collection centers are deposited with their respective local banks which in turn transfer all surplus funds to the concentration bank of head office. The concentration bank with which the company has its major bank account is generally located at the headquarters.'** ICAI calls it **'one important and popular way of reducing the size of the float.'**==",
+    "==**(ii) Lock Box System.** **'The purpose of lock box system is to eliminate the time between the receipts of remittances by the company and deposited in the bank.'** The mechanics: **the company rents the local post-office box and authorizes its bank at each of the locations to pick up remittances in the boxes. Customers are billed with instructions to mail their remittances to the lock boxes. The bank picks up the mail several times a day and deposits the cheques in the company's account.** The cheques **may be micro-filmed for record purposes and cleared for collection**, and the company receives a deposit slip and a list of all payments. **'This procedure frees the company from handling and depositing the cheques.'**==",
+    "==**The advantage, in precise terms:** **'cheques are deposited with the banks sooner and become collected funds sooner than if they were processed by the company prior to deposit. In other words, lag between the time cheques are received by the company and the time they are actually deposited in the bank (i.e. cheque processing float) is eliminated.'** ==So the lock box kills the **cheque processing float** specifically; concentration banking shortens the **mail** float.==",
+    "==**The drawback and the decision rule — the part candidates omit.** **'The main drawback of lock box system is the cost of its operation. The bank provides a number of services in addition to usual clearing of cheques and requires compensation for them. Since the cost is almost directly proportional to the number of cheques deposited, lock box arrangements are usually not profitable if the average remittance is small.'** And the rule: **'The appropriate rule for deciding whether or not to use a lock box system or for that matter, concentration banking, is simply to compare the added cost of the most efficient system with the marginal income that can be generated from the released funds. If costs are less than income, the system is profitable and if the system is not profitable, it is not worth undertaking.'**==",
+    "==**§10.5 Controlling Payments.** **'An effective control over payments can also cause faster turnover of cash. This is possible only by making payments on the due date, making excessive use of draft (bill of exchange) instead of cheques.'**==",
+    "==**Playing the float, in ICAI's own words:** **'Availability of cash can be maximized by playing the float. In this, a firm estimates accurately the time when the cheques issued will be presented for encashment and thus utilizes the float period to its advantage by issuing more cheques but having in the bank account only so much cash balance as will be sufficient to honour those cheques which are actually expected to be presented on a particular date.'** And: **'the company may make payment to its outstation suppliers by a cheque and send it through mail. The delay in transit and collection of the cheque, will be used to increase the float.'**==",
+    "==**The symmetry worth seeing, because it is what the whole section is about.** The **collection** side wants float **destroyed**; the **payment** side wants float **created**. The same four stages — billing, mail, processing, banking — are an enemy when money is coming in and an ally when money is going out. ==That symmetry is the frame for any theory answer here.=="
+   ],
+   "example": "ICAI's own Illustration 9 (Prachi Ltd) asks for a 'cleared funds forecast' over five days, with one customer paying by BACS — 'receipt of money by BACS is instantaneous' — and another by cheque that 'will be paid into Prachi Ltd's bank account on the same day as the sale is made and will clear on the third day following this (excluding day of payment)'. The three-day clearing gap is the banking processing float made arithmetical, and the contrast with the instantaneous BACS receipt is exactly why a company pushes customers towards electronic payment.",
+   "provisions": [
+    {
+     "ref": "The twin objectives (SM §10.3)",
+     "status": "VERIFIED",
+     "requirement": "Accelerate cash collections as much as possible; decelerate or delay cash disbursements within permissible time frame.",
+     "exam_angle": "Quote the qualifier 'within permissible time frame' — it is what separates float management from late payment."
+    },
+    {
+     "ref": "The four floats (SM §10.4)",
+     "status": "VERIFIED",
+     "requirement": "Billing float (sale to invoice); mail float (cheque in transit); cheque processing float (sort, record, deposit); banking processing float (deposit to credit).",
+     "exam_angle": "Name all four with their boundaries; each is defined by two events, not one."
+    },
+    {
+     "ref": "Concentration banking (SM §10.4)",
+     "status": "VERIFIED",
+     "requirement": "Strategic regional collection centres deposit with local banks, which transfer surplus funds to the concentration bank at head office.",
+     "exam_angle": "'One important and popular way of reducing the size of the float.'"
+    },
+    {
+     "ref": "Lock box system (SM §10.4)",
+     "status": "VERIFIED",
+     "requirement": "The company rents local post-office boxes and authorises its banks to collect and deposit remittances directly, eliminating the cheque processing float.",
+     "exam_angle": "The advantage is specific — the processing float, not all float; and the drawback is cost proportional to the number of cheques."
+    },
+    {
+     "ref": "The decision rule (SM §10.4)",
+     "status": "VERIFIED",
+     "requirement": "Compare the added cost of the most efficient system with the marginal income generated from the released funds.",
+     "exam_angle": "A cost-benefit test, and it applies to concentration banking as well as to the lock box."
+    },
+    {
+     "ref": "Playing the float (SM §10.5)",
+     "status": "VERIFIED",
+     "requirement": "Estimate accurately when cheques issued will be presented and hold only enough balance to honour those actually expected on that date.",
+     "exam_angle": "Pair it with 'making payments on the due date' and 'use of draft instead of cheques'."
+    }
+   ],
+   "keywords": [
+    "accelerate collections, decelerate disbursements",
+    "within permissible time frame",
+    "billing float",
+    "mail float",
+    "cheque processing float",
+    "banking processing float",
+    "concentration banking",
+    "lock box system",
+    "spendable funds",
+    "not profitable if the average remittance is small",
+    "playing the float",
+    "draft instead of cheques"
+   ],
+   "memory": {
+    "trick": "**Bill, Mail, Process, Bank.** Four floats in the order money travels: you write the **bill**, the cheque comes by **mail**, you **process** it, the **bank** clears it. ==Concentration banking shortens the mail leg; the lock box deletes the processing leg.==",
+    "key": [
+     ["Billing float", "Sale → invoice mailed"],
+     ["Mail float", "Cheque in transit"],
+     ["Cheque processing float", "Receipt → deposit"],
+     ["Banking processing float", "Deposit → credit"],
+     ["Concentration banking", "Regional centres, local banks, surplus swept to head office"],
+     ["Lock box", "Bank collects from a rented PO box several times a day"],
+     ["Lock box kills", "The cheque processing float"],
+     ["Lock box drawback", "Cost proportional to cheque numbers; poor for small remittances"],
+     ["Decision rule", "Added cost against marginal income from released funds"],
+     ["Playing the float", "Hold only enough to honour the cheques expected that day"]
+    ]
+   },
+   "mistakes": [
+    "Giving three floats instead of four. Candidates routinely merge cheque processing and banking processing float, but ICAI separates them at the moment of deposit.",
+    "Saying the lock box system eliminates all float. It eliminates the cheque processing float; mail and banking floats remain.",
+    "Describing concentration banking as a single central collection point. It is the opposite — several regional centres feeding one concentration bank.",
+    "Omitting the cost-benefit rule. The marks for the lock box question are split between the mechanism, the advantage, the drawback and the rule.",
+    "Presenting 'delay disbursements' without ICAI's qualifier. The words are 'within permissible time frame', and 'making payments on the due date' is the stated method.",
+    "Confusing playing the float with dishonouring cheques. The firm holds enough for the cheques actually expected to be presented, not less."
+   ],
+   "compare": {
+    "title": "Concentration banking against the lock box system",
+    "headers": ["", "Concentration banking", "Lock box system"],
+    "rows": [
+     ["What is decentralised", "Collection centres run by the company", "Post-office boxes serviced by the company's banks"],
+     ["Who handles the cheque", "The company's regional centre, then the local bank", "The bank only — the company never touches it"],
+     ["Float attacked", "Mainly the mail float, by shortening the distance", "The cheque processing float, which is eliminated"],
+     ["Funds movement", "Local banks transfer surplus funds to the concentration bank at head office", "Banks deposit directly into the company's account and send a deposit slip"],
+     ["Main drawback", "Running several collection centres", "Cost of operation, almost directly proportional to the number of cheques deposited"],
+     ["When unsuitable", "Where remittances are geographically concentrated already", "Where the average remittance is small"],
+     ["Decision rule", "Same for both: added cost against marginal income from released funds", "Same for both"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §9.3: the cash budget, whose projections this section polices",
+    "🔗 FM Ch 9 §12.1 and §12.6: electronic fund transfer and electronic cash management, which attack float directly",
+    "🔗 FM Ch 9 §21: alternative payment strategies in receivable management — direct debit, IVR, lock box processing",
+    "🔗 FM Ch 9 §20: factoring, the outright alternative to managing collection float at all",
+    "🔗 FM Ch 9 §25: the cost of payables, which prices the 'delay disbursements' objective"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Explain the different kinds of float with reference to management of cash (4 marks)",
+     "What is concentration banking and the lock box system (4 marks)",
+     "How can a firm accelerate its cash collections (4 marks)",
+     "Explain 'playing the float' (2 marks)"
+    ],
+    "approach": [
+     "Open with the twin objectives; they frame both halves of the section in one line.",
+     "For the floats, define each by its two boundary events — a float is a period, so say where it starts and where it ends.",
+     "For the two systems, give the mechanism, the float attacked, the drawback and the cost-benefit rule. Four elements, four marks.",
+     "For playing the float, quote the estimation point: the firm keeps only so much balance as will honour the cheques actually expected on that date."
+    ]
+   },
+   "official_questions": [],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.26-01",
+     "angle": "Float definitions",
+     "difficulty": "Medium",
+     "question": "The time required for the seller to sort, record and deposit a cheque after it has been received by the company is:",
+     "options": {
+      "A": "Mail float",
+      "B": "Banking processing float",
+      "C": "Cheque processing float",
+      "D": "Billing float"
+     },
+     "answer": "C",
+     "explanation": "SM §10.4 defines four floats. Cheque processing float runs from receipt to deposit; banking processing float runs from deposit to the crediting of funds; mail float is the cheque in transit; billing float is the gap between the sale and the mailing of the invoice. The lock box system eliminates the cheque processing float specifically, because the bank deposits the cheque before the company ever sees it."
+    },
+    {
+     "id": "MCQ-F09.26-02",
+     "angle": "Decision rule",
+     "difficulty": "Medium",
+     "question": "According to the study material, the appropriate rule for deciding whether to adopt a lock box system or concentration banking is to:",
+     "options": {
+      "A": "Adopt it whenever the average remittance exceeds the per-cheque bank charge",
+      "B": "Adopt it whenever it reduces any kind of float, since float has no offsetting benefit",
+      "C": "Adopt it only if the bank will waive its charges on the clearing of cheques",
+      "D": "Compare the added cost of the most efficient system with the marginal income that can be generated from the released funds"
+     },
+     "answer": "D",
+     "explanation": "SM §10.4: 'The appropriate rule ... is simply to compare the added cost of the most efficient system with the marginal income that can be generated from the released funds. If costs are less than income, the system is profitable and if the system is not profitable, it is not worth undertaking.' Option A is a rule of thumb ICAI does not give; option B ignores the cost side, which is the lock box's main drawback."
+    }
+   ],
+   "recap": [
+    "Twin objectives: accelerate collections, and delay disbursements within permissible time frame.",
+    "Four floats: billing (sale to invoice), mail (cheque in transit), cheque processing (receipt to deposit), banking processing (deposit to credit).",
+    "Concentration banking uses regional collection centres whose local banks sweep surplus funds to the concentration bank at head office.",
+    "The lock box system has the bank collect from a rented PO box several times a day, eliminating the cheque processing float; its cost is proportional to the number of cheques, so it suits large remittances.",
+    "For either system, compare the added cost with the marginal income from the released funds.",
+    "On the payment side: pay on the due date, use drafts rather than cheques, and play the float by holding only what the cheques expected that day require."
+   ]
+  },
+  {
+   "code": "F09.29 + F09.30 + F09.31 + F09.32",
+   "title": "10.6–11.2 Determining the Optimum Cash Balance, Cash Management Models, Baumol's EOQ Model and the Miller-Orr Model",
+   "activity": "Very High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (Jan 2026 MCQ 7) · RTP 1 (Jan 2025 Part I case item (i)) · MTP 0",
+   "understand": [
+    "==**§10.6 The question the models answer.** A firm should maintain an optimum cash balance for day-to-day operations and **'may also carry additional cash as a buffer or safety stock. The amount of cash balance will depend on the risk-return trade off.'** ICAI's framing: the firm should hold **'just enough, i.e. neither too much (to avoid any opportunity cost) nor too little cash balance (to settle day to day payments)'** — and then poses the question the two models split: **'How to determine the optimum cash balance if cash flows are predictable and if they are not predictable?'**==",
+    "==**§11 The two families.** **'All these models can be put in two categories: Inventory type models; and Stochastic models.'** **Inventory type models** — **'William J. Baumol's economic order quantity model applies equally to cash management problems under conditions of certainty or where the cash flows are predictable.'** **Stochastic models** — **'in a situation where the EOQ Model is not applicable, stochastic model of cash management helps in determining the optimum level of cash balance. It happens when the demand for cash is stochastic and not known in advance.'**==",
+    "**The purpose common to both:** **'to ensure that cash does not remain idle unnecessarily and at the same time the firm is not confronted with a situation of cash shortage.'**",
+    "==**§11.1 Baumol's model (1952).** **'According to this model, optimum cash level is that level of cash where the carrying costs and transactions costs are the minimum.'**==",
+    "==**The two costs, defined precisely:** **'The carrying costs refer to the cost of holding cash, namely, the opportunity cost or interest foregone on marketable securities. The transaction costs refer to the cost involved in getting the marketable securities converted into cash. This happens when the firm falls short of cash and has to sell the securities resulting in clerical, brokerage, registration and other costs.'**==",
+    "==**The formula** (SM §11.1): **C = √(2U × P ÷ S)**, where\n**C = Optimum cash balance**\n**U = Annual (or monthly) cash disbursement**\n**P = Fixed cost per transaction**\n**S = Opportunity cost of one rupee p.a. (or p.m.)**==",
+    "==**The four assumptions:** **(i) cash needs of the firm are known with certainty; (ii) the cash is used uniformly over a period of time and it is also known with certainty; (iii) the holding cost is known and it is constant; (iv) the transaction cost also remains constant.**==",
+    "==**SM Illustration 10, the forward computation.** Total disbursements ₹1,05,000 per month or **₹12,60,000 per year**; administrative and transaction cost of transferring cash **₹20 per transfer**; marketable securities yield **8% per annum**.\n**C = √(2 × ₹12,60,000 × ₹20 ÷ 0.08) = ₹25,100.**==",
+    "==**And the reverse computation, which is what the exam actually asks.** January 2026's MCQ 7 gives **C = ₹30,000, P = ₹25 and S = 10%** and asks for **U**. Square both sides: **C² = 2UP ÷ S**, so **U = C²S ÷ 2P** = (₹30,000² × 0.10) ÷ (2 × ₹25) = ₹9,00,00,00,000 × 0.10 ÷ ₹50 = **₹18,00,000**. ==**Learn the rearranged form U = C²S ÷ 2P; two of the three official Baumol questions run backwards.**==",
+    "==**Units discipline, which is where marks are lost.** U and S must be on the **same time basis** — annual disbursement with an annual opportunity cost, or monthly with monthly. ICAI's formula note says so expressly: **'U = Annual (or monthly) cash disbursement'** and **'S = Opportunity cost of one rupee p.a. (or p.m.)'**. In Illustration 10 the monthly ₹1,05,000 is converted to the annual ₹12,60,000 before the 8% is applied; in RTP January 2025's Samvar Ltd the monthly disbursement of ₹1.50 lakh is likewise annualised to ₹18,00,000 against a 12% annual yield, giving **C = √(2 × 18,00,000 × 20 ÷ 0.12) = ₹24,495.**==",
+    "==**The limitation, and it is the bridge to Miller-Orr:** **'The limitation of the Baumol's model is that it does not allow the cash flows to fluctuate. Firms in practice do not use their cash balance uniformly nor are they able to predict daily cash inflows and outflows.'**==",
+    "==**§11.2 The Miller-Orr model (1966).** **'According to this model the net cash flow is completely stochastic.'** **'When changes in cash balance occur randomly the application of control theory serves a useful purpose. The Miller-Orr model is one of such control limit models. This model is designed to determine the time and size of transfers between an investment account and cash account.'**==",
+    "==**The three limits:** **'h as upper limit, z as the return point; and zero as the lower limit.'**==",
+    "==**The three rules:**\n**'When the cash balance reaches the upper limit, the transfer of cash equal to h – z is invested in marketable securities account.'**\n**'When it touches the lower limit, a transfer from marketable securities account to cash account is made.'**\n**'During the period when cash balance stays between (h, z) and (z, 0) i.e. high and low limits no transactions between cash and marketable securities account is made.'**==",
+    "==**What sets the limits:** **'The high and low limits of cash balance are set up on the basis of fixed cost associated with the securities transactions, the opportunity cost of holding cash and the degree of likely fluctuations in cash balances. These limits satisfy the demands for cash at the lowest possible total costs.'**==",
+    "==**Why it is preferred:** **'The MO Model is more realistic since it allows variations in cash balance within lower and upper limits. The finance manager can set the limits according to the firm's liquidity requirements i.e., maintaining minimum and maximum cash balance.'**==",
+    "==**A point of fact worth knowing for an MCQ.** **The current SM gives no formula for h or z** — only the control-limit description. So a Miller-Orr question in Paper 6A can only be **descriptive or conceptual**: the three limits, the three rules, the three determinants, and the comparison with Baumol. ==Do not expect to compute a return point, and do not invent the cube-root formula from other syllabuses.=="
+   ],
+   "example": "January 2026's MCQ 7 is Baumol inverted in two lines: 'A firm maintains a separate account for cash disbursement. The administrative and transaction cost of transferring cash to the disbursement account is ₹25 per transfer. Marketable securities yield 10% per annum. The firm has determined its optimum cash balance at ₹30,000. What will be the Total Annual Cash Disbursements?' U = C²S ÷ 2P = (30,000² × 0.10) ÷ 50 = ₹18,00,000, option (A). The question is a direct rearrangement of SM Illustration 10, whose own wording it borrows almost verbatim.",
+   "provisions": [
+    {
+     "ref": "The two families of model (SM §11)",
+     "status": "VERIFIED",
+     "requirement": "Inventory type models (Baumol, for predictable flows) and stochastic models (Miller-Orr, where demand for cash is not known in advance).",
+     "exam_angle": "Say which applies when; the distinction is the whole of §11's opening."
+    },
+    {
+     "ref": "Baumol's optimum (SM §11.1)",
+     "status": "VERIFIED",
+     "requirement": "The level of cash where carrying costs and transaction costs are the minimum; C = √(2UP ÷ S).",
+     "exam_angle": "Define both costs before computing; the definitions are marks in a theory question."
+    },
+    {
+     "ref": "Baumol's four assumptions (SM §11.1)",
+     "status": "VERIFIED",
+     "requirement": "Cash needs known with certainty; cash used uniformly and known with certainty; holding cost known and constant; transaction cost constant.",
+     "exam_angle": "The first two are what Miller-Orr relaxes."
+    },
+    {
+     "ref": "Miller-Orr's three limits (SM §11.2)",
+     "status": "VERIFIED",
+     "requirement": "h as the upper limit, z as the return point, zero as the lower limit; invest h − z at the upper limit, sell securities at the lower limit, do nothing in between.",
+     "exam_angle": "No formula is given in the current SM, so the question must be descriptive."
+    },
+    {
+     "ref": "What sets the Miller-Orr limits (SM §11.2)",
+     "status": "VERIFIED",
+     "requirement": "The fixed cost of securities transactions, the opportunity cost of holding cash, and the degree of likely fluctuations in cash balances.",
+     "exam_angle": "Three determinants; the third is what Baumol has no room for."
+    }
+   ],
+   "keywords": [
+    "inventory type and stochastic models",
+    "carrying costs and transaction costs are the minimum",
+    "interest foregone on marketable securities",
+    "clerical, brokerage, registration",
+    "C = √(2UP ÷ S)",
+    "U = C²S ÷ 2P",
+    "does not allow the cash flows to fluctuate",
+    "completely stochastic",
+    "control limit model",
+    "h, z and zero",
+    "transfer h − z",
+    "degree of likely fluctuations"
+   ],
+   "memory": {
+    "trick": "**Baumol is a sawtooth; Miller-Orr is a corridor.** Baumol draws cash falling steadily to zero and being topped up by the same amount each time; Miller-Orr draws it wandering randomly between a floor and a ceiling and being knocked back to a **return point** only when it hits one. ==Certainty gives you a formula; randomness gives you limits.==",
+    "key": [
+     ["Baumol applies when", "Cash flows are predictable / certain"],
+     ["Miller-Orr applies when", "Demand for cash is stochastic, not known in advance"],
+     ["Carrying cost", "Opportunity cost or interest forgone on marketable securities"],
+     ["Transaction cost", "Clerical, brokerage, registration on converting securities to cash"],
+     ["Baumol forward", "C = √(2UP ÷ S)"],
+     ["Baumol reverse", "U = C²S ÷ 2P"],
+     ["Illustration 10", "₹12,60,000 · ₹20 · 8% → ₹25,100"],
+     ["Samvar Ltd", "₹18,00,000 · ₹20 · 12% → ₹24,495"],
+     ["PYQ Jan 2026 MCQ 7", "₹30,000 · ₹25 · 10% → U = ₹18,00,000"],
+     ["Miller-Orr limits", "h upper, z return point, zero lower"],
+     ["At h", "Invest h − z in marketable securities"],
+     ["At zero", "Sell securities to restore cash"]
+    ]
+   },
+   "mistakes": [
+    "Mixing a monthly disbursement with an annual opportunity cost. Annualise U first — Illustration 10 converts ₹1,05,000 a month to ₹12,60,000 a year before applying 8%.",
+    "Using the yield as a percentage rather than a decimal. S is the opportunity cost of one rupee, so 8% is 0.08.",
+    "Forgetting to double U in the numerator. The 2 is part of the formula, and omitting it understates C by about 29%.",
+    "Trying to compute Miller-Orr's return point. The current SM gives no formula; the model is examinable descriptively only.",
+    "Saying that at the upper limit the whole balance is invested. The transfer is h − z, which leaves the return point in cash.",
+    "Attributing the three motives for holding cash to Baumol. Those are Keynes's, in §9.1.",
+    "Saying Baumol assumes the transaction cost varies with the amount transferred. It is a fixed cost per transaction, and constant."
+   ],
+   "compare": {
+    "title": "Baumol against Miller-Orr",
+    "headers": ["", "Baumol (1952)", "Miller-Orr (1966)"],
+    "rows": [
+     ["Family", "Inventory type model (the EOQ applied to cash)", "Stochastic model / control limit model"],
+     ["Cash flow assumption", "Known with certainty and used uniformly", "Net cash flow is completely stochastic"],
+     ["What is computed", "A single optimum balance C", "Three control limits — h, z and zero"],
+     ["Action trigger", "Balance runs down; sell securities for C each time", "Balance hits h (invest h − z) or zero (sell securities)"],
+     ["Costs balanced", "Carrying cost against transaction cost", "Fixed transaction cost, opportunity cost, and the degree of likely fluctuations"],
+     ["Formula in the SM", "C = √(2UP ÷ S)", "None given — description only"],
+     ["Limitation / advantage", "'Does not allow the cash flows to fluctuate'", "'More realistic since it allows variations in cash balance within lower and upper limits'"],
+     ["Asked as", "A computation, forwards or backwards", "A descriptive or conceptual question"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §9.1: Keynes's three motives, the reasons behind the balance these models size",
+    "🔗 FM Ch 9 §13: management of marketable securities, the other side of every Baumol transfer",
+    "🔗 FM Ch 9 §12.2: the zero balance account, the practical descendant of these models",
+    "🔗 FM Ch 9 §9.3: the cash budget, which produces the disbursement figure U",
+    "🔗 Paper 4 Ch 2 Material Cost: the EOQ formula Baumol borrows wholesale"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Determine the optimum cash balance according to William J. Baumol's model (2–3 marks)",
+     "An MCQ giving the optimum balance and asking for the annual disbursement, the transfer cost or the yield (2 marks)",
+     "Explain the Miller-Orr cash management model (2–4 marks)",
+     "Distinguish between the Baumol and Miller-Orr models (4 marks)"
+    ],
+    "approach": [
+     "Write the formula with every symbol named before substituting; it is worth a mark and it prevents the units error.",
+     "Annualise the disbursement if the opportunity cost is annual, and say so in a note.",
+     "For a reverse question, write C² = 2UP ÷ S and rearrange explicitly rather than solving by trial.",
+     "For Miller-Orr, give the three limits, the three rules and the three determinants, and close with the comparison to Baumol — that is the full four marks without any arithmetic."
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-J26-MCQ7",
+     "marks": 2,
+     "status": "VERIFIED",
+     "format": "MCQ",
+     "question": "A firm maintains a separate account for cash disbursement. The administrative and transaction cost of transferring cash to the disbursement account is ₹25 per transfer. Marketable securities yield 10% per annum. The firm has determined its optimum cash balance at ₹30,000, according to the William J. Baumol Model. What will be the Total Annual Cash Disbursements of the firm? (A) ₹18,00,000 (B) ₹45,00,000 (C) ₹36,00,000 (D) ₹27,00,000",
+     "answer_points": [
+      "**Write the model first, with its symbols named.** **C = √(2U × P ÷ S)**, where C is the optimum cash balance, **U the annual cash disbursement**, **P the fixed cost per transaction** and **S the opportunity cost of one rupee per annum.**",
+      "**Identify what is given and what is wanted.** C = **₹30,000**; P = **₹25**; S = **0.10**. **U is the unknown.**",
+      "**Square both sides and rearrange.** C² = 2UP ÷ S, so ==**U = C²S ÷ 2P**==.",
+      "**Substitute.** U = (₹30,000 × ₹30,000 × 0.10) ÷ (2 × ₹25) = (₹90,00,00,000 × 0.10) ÷ ₹50 = ₹9,00,00,000 ÷ ₹50 = ==**₹18,00,000 — option (A)**==, which is ICAI's published key.",
+      "**Check it forwards in ten seconds.** √(2 × ₹18,00,000 × ₹25 ÷ 0.10) = √(₹9,00,00,000 ÷ 0.10) ÷ ... more directly, 2 × 18,00,000 × 25 = ₹9,00,00,000; ÷ 0.10 = ₹90,00,00,000; √₹90,00,00,000 = **₹30,000** ✓",
+      "==**Why the distractors are what they are.** **₹45,00,000** is what you get by using **S = 0.04** (that is, dividing the yield by 2.5 or confusing it with a half-yearly rate); **₹36,00,000** comes from forgetting the 2 in the numerator and so solving U = C²S ÷ P; **₹27,00,000** comes from treating the yield as 15%. ==All three are reachable by a single misplaced constant, which is the mark of a well-built Baumol MCQ.==",
+      "==**The transferable point.** Of the three official Baumol questions in the period reviewed, **two run backwards** — this one for U, and RTP January 2025's Samvar Ltd for C from a monthly disbursement that must first be annualised. **Memorise the rearranged form U = C²S ÷ 2P alongside the forward form**, and treat 'the firm has determined its optimum cash balance at …' as the standing signal that the formula is to be inverted.==",
+      "**One unit check that costs nothing.** The question gives an **annual** yield and asks for an **annual** disbursement, so no conversion is needed here. Where the disbursement is given monthly — as in Illustration 10's ₹1,05,000 and Samvar's ₹1.50 lakh — **annualise it before applying an annual S**, or the answer is out by a factor of √12."
+     ],
+     "keywords": [
+      "C = √(2UP ÷ S)",
+      "U = C²S ÷ 2P",
+      "₹30,000² × 0.10 ÷ 50",
+      "₹18,00,000",
+      "option (A)",
+      "annualise U if S is annual"
+     ],
+     "also_asked_as": ["RTP-J25-FQ1 item (i) computes C forwards from a monthly disbursement of ₹1.50 lakh and a 12% yield, giving ₹24,495"]
+    },
+    {
+     "id": "RTP-J25-FQ1",
+     "marks": 10,
+     "status": "VERIFIED",
+     "format": "Case MCQs",
+     "question": "Samvar Ltd, a leading FMCG company operating stores under the GoMART brand, is contemplating 50 additional stores needing ₹200 lakhs per store. Average sales would be ₹120 lakhs p.a. with a GP margin of 18%. 15% of customers pay by debit and credit card through POS systems, which take approximately 9 days for funds to be credited; installing a POS system costs 2% of total sales through POS. Perishable products are 60% of sales, semi-durable 25% and durable the balance, with inventory storage periods of 10, 30 and 60 days respectively. Suppliers provide an average 30 days' credit. Each store employs 20 personnel with monthly average salaries of ₹4 lakhs per store, paid on the 1st of the next month. Samvar plans to keep the optimum cash balance in hand as suggested by Baumol's model; excess cash is invested in marketable securities yielding 12% p.a. Total disbursement for the year is estimated at ₹1.50 lakhs per month with a transaction cost of ₹20 per transfer. Based on the above, calculate for each store: (i) The optimum cash balance — (A) ₹7,071 (B) ₹26,500 (C) ₹7,150 (D) ₹24,495. (ii) The Gross and Net Working Capital for the next year — (A) ₹6.7730 L, (5.9396 L) (B) ₹6.7730 L, 12.7125 L (C) ₹200 L, (5.9396L) (D) ₹(5.9396 L), 6.7730 L. [Items (iii) to (v) of the same case are cost-of-capital items cross-referenced to Chapter 4.]",
+     "answer_points": [
+      "==**Item (i) — the optimum cash balance. Answer (D) ₹24,495.**==",
+      "**Annualise the disbursement first.** The total disbursement is **₹1.50 lakhs per month**, so **U = ₹1,50,000 × 12 = ₹18,00,000** — and this step is the whole question, because the yield is given per annum.",
+      "**Apply Baumol.** **C = √(2UP ÷ S)** = √(2 × ₹18,00,000 × ₹20 ÷ 0.12) = √(₹7,20,00,000 ÷ 0.12) = √₹60,00,00,000 = ==**₹24,495**==.",
+      "==**Why option (A) ₹7,071 is there, and it is the single most instructive distractor in the chapter.** √(2 × ₹1,50,000 × ₹20 ÷ 0.12) = √₹5,00,00,000 = **₹7,071** — the answer you get by using the **monthly** disbursement against the **annual** opportunity cost. The two figures differ by exactly **√12**. ==ICAI has built the question so that the units error produces a clean, plausible number.==",
+      "**Item (ii) — Gross and Net Working Capital. Answer (A) ₹6.7730 lakh and ₹(5.9396) lakh.**",
+      "**Current assets, store by store.** **Inventory**, weighted by the three product classes on the cost of goods sold (sales ₹120 lakhs at an 18% GP margin gives a COGS of ₹98.40 lakhs): perishable 60% for 10 days, semi-durable 25% for 30 days and durable 15% for 60 days. **Debtors**, only on the **15% of sales settled through POS**, outstanding **9 days**. Plus the **₹24,495 of optimum cash** from item (i).",
+      "**Current liabilities.** **Creditors** at **30 days** of purchases, and **salaries outstanding** of **₹4 lakhs** — one month's payroll, because employees' dues are paid on the 1st of the next month.",
+      "==**Why net working capital is negative, and it is the point of the item.** The salary accrual of ₹4 lakhs plus a month of supplier credit together exceed a current-asset base built on **10-to-60-day inventory and 9-day card receivables**. A retail FMCG store collects almost everything in cash at the till and pays its suppliers and staff in arrear, so it runs on **negative working capital** — **₹(5.9396) lakh per store**. ==**A negative figure is the right answer here, not an error to be corrected**, and option (D) is offered precisely for candidates who assume the signs must be the other way round.==",
+      "**Note what the POS fee is for.** The **2% of sales through POS** is a **cost**, not a working-capital item; it belongs to the profitability of the store, and items (iii) to (v) of the case use it. It does not enter the gross or net working capital computation.",
+      "==**On the placement of this atom.** Items (i) and (ii) are Chapter 9; items (iii) to (v) — the total funds needed per store, the overall cost of capital on a 2:1 debt-equity mix with slab-based rates, and the revenue subsidy that depends on the cost of capital not exceeding 10% — are **Chapter 4 cost-of-capital items**. The case is recorded here because its opening two items are working capital and the scenario is framed around 'the additional capital needed for the smooth running of fixed assets and its daily operations'. ==**Cross-reference Chapter 4 §7 for items (iii) to (v).**=="
+     ],
+     "keywords": [
+      "annualise ₹1.50 lakh a month to ₹18,00,000",
+      "C = √(2 × 18,00,000 × 20 ÷ 0.12) = ₹24,495",
+      "₹7,071 is the monthly-against-annual units error",
+      "inventory weighted 60/25/15 over 10/30/60 days",
+      "debtors only on 15% POS sales for 9 days",
+      "one month's salary accrual ₹4 lakhs",
+      "gross ₹6.7730 L, net ₹(5.9396) L",
+      "negative working capital is correct for retail"
+     ],
+     "also_asked_as": ["PYQ-J26-MCQ7 inverts the same formula; SM Illustration 10 is the forward computation on ₹12,60,000 and 8%"]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.29-01",
+     "angle": "Baumol units",
+     "difficulty": "Hard",
+     "question": "A firm's cash disbursements are ₹2,00,000 per month, the cost per transfer is ₹50 and marketable securities yield 9% per annum. The optimum cash balance under Baumol's model is:",
+     "options": {
+      "A": "₹51,640",
+      "B": "₹14,907",
+      "C": "₹4,714",
+      "D": "₹1,09,545"
+     },
+     "answer": "A",
+     "explanation": "Annualise the disbursement: U = ₹2,00,000 × 12 = ₹24,00,000. C = √(2 × ₹24,00,000 × ₹50 ÷ 0.09) = √(₹24,00,00,000 ÷ 0.09) = √₹26,66,66,66,667 = ₹51,640. Option B uses the monthly ₹2,00,000 against the annual 9%, understating the answer by a factor of √12 — the error RTP January 2025's Samvar Ltd offers as its own first distractor. Option C omits the 2 as well."
+    },
+    {
+     "id": "MCQ-F09.29-02",
+     "angle": "Miller-Orr mechanics",
+     "difficulty": "Medium",
+     "question": "Under the Miller-Orr model, when the cash balance reaches the upper limit h, the firm:",
+     "options": {
+      "A": "Transfers the whole balance h into marketable securities, leaving the account at zero",
+      "B": "Transfers cash equal to h − z into marketable securities, returning the balance to the return point z",
+      "C": "Takes no action, since the upper limit is an alert rather than a trigger",
+      "D": "Raises the return point z to equal h and leaves the cash where it is"
+     },
+     "answer": "B",
+     "explanation": "SM §11.2: 'When the cash balance reaches the upper limit, the transfer of cash equal to h – z is invested in marketable securities account.' The balance therefore falls to the return point z, not to zero — zero is the lower limit, at which a transfer out of securities into cash is made. Between the limits no transactions take place at all."
+    }
+   ],
+   "recap": [
+    "Inventory type models (Baumol) suit predictable cash flows; stochastic models (Miller-Orr) suit cash demand not known in advance.",
+    "Baumol's optimum is where carrying cost — interest forgone on marketable securities — and transaction cost are together least.",
+    "C = √(2UP ÷ S); rearranged, U = C²S ÷ 2P. Illustration 10 gives ₹25,100; Samvar Ltd gives ₹24,495.",
+    "Keep U and S on the same time basis; a monthly U against an annual S is wrong by √12.",
+    "Baumol's limitation is that it does not allow cash flows to fluctuate.",
+    "Miller-Orr sets h, z and zero: at h invest h − z, at zero sell securities, in between do nothing. The current SM gives no formula for h or z."
+   ]
+  },
+  {
+   "code": "F09.33 + F09.34 + F09.35 + F09.36 + F09.37 + F09.38 + F09.39 + F09.40",
+   "title": "12–12.7 Recent Developments in Cash Management — Electronic Fund Transfer, Zero Balance Account, Money Market Operations, Petty Cash Imprest System, Management of Temporary Cash Surplus, Electronic Cash Management System and Virtual Banking",
+   "activity": "High",
+   "update_sensitive": true,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 2 (Jan 2025 Q4(c), Jan 2026 Q4(b)) · RTP 0 · MTP 0",
+   "understand": [
+    "**Why ICAI groups these seven** (SM §12): **'Both technological advancement and desire to reduce cost of operations has led to some innovative techniques in managing cash.'** The seven are printed as a single labelled diagram, and each is a two-mark answer in its own right.",
+    "==**12.1 Electronic Fund Transfer.** With developments in information technology **'the present banking system is switching over to the computerisation of banks branches to offer efficient banking services and cash management services to their customers. The network will be linked to the different branches, banks.'** The three benefits to the customer: **instant updating of accounts; quick transfer of funds; instant information about foreign exchange rates.**==",
+    "==**12.2 Zero Balance Account.** **'For efficient cash management some firms employ an extensive policy of substituting marketable securities for cash by the use of zero balance accounts. Every day the firm totals the cheques presented for payment against the account. The firm transfers the balance amount of cash (in excess of payments) in the account if any, for buying marketable securities. In case of shortage of cash, the firm sells the marketable securities.'** ==It is the Miller-Orr corridor collapsed to a single point: the target balance is zero.==",
+    "==**12.3 Money Market Operations.** **'One of the tasks of treasury function of larger companies is the investment of surplus funds in the money market. The chief characteristic of money market banking is one of size.'** Banks obtain funds **'by competing in the money market for the deposits by the companies, public authorities, High Net worth Investors (HNI), and other banks.'** **'Deposits are made for specific periods ranging from overnight to one year; highly competitive rates which reflect supply and demand on a daily, even hourly basis are quoted. Consequently, the rates can fluctuate quite dramatically, especially for the shorter-term deposits.'**==",
+    "==**12.4 Petty Cash Imprest System.** **'For better control on cash, generally the companies use petty cash imprest system wherein the day-to-day petty expenses are estimated taking into account past experience and future needs and generally a week's requirement of cash will be kept separate for making petty expenses. Again, the next week will commence with the pre-determined balance. This will reduce the strain of the management in managing petty cash expenses and help in the managing cash efficiently.'**==",
+    "==**12.5 Management of Temporary Cash Surplus.** Temporary surpluses can be profitably invested in: **short-term deposits in banks and financial institutions; short-term debt market instruments; or long term debt instruments with flexible maturity dates; shares of blue chip listed companies.** **'Choice of investment can be based on economic situation, volatility of returns and also the risk appetite of the organization.'**==",
+    "==**12.6 Electronic Cash Management System.** **'Most of the cash management systems now-a-days are electronically based, since speed is the essence of any cash management system. Electronically, transfer of data as well as funds play a key role in any cash management system. Various elements in the process of cash management are linked through a satellite.'** The places interlinked include **where the instrument is collected, where cash is to be transferred in the company's account, and where the payment is to be transferred.**==",
+    "**ICAI's limited-access point, which is the detail that marks out a full answer:** a networked system **'may also provide a very limited access to third parties like parties having very regular dealings of receipts and payments with the company'** — its example being a finance company that gives **sub-brokers limited access to verify the collections made through them for determination of commission.**",
+    "==**The thirteen results of electronic cash management**, of which four or five should be named: **significant saving in time; increase in interest earned and decrease in interest expense; reduces paper-work and hence manpower; greater accounting accuracy as it allows easy detection of book-keeping errors; more control over time and funds; supports electronic payments; faster transfer of funds from one location to another; speedy conversion of various instruments into cash; making available funds wherever required, whenever required; reduction in the amount of 'idle float' to the maximum possible extent; ensures no idle funds are placed at any place in the organization; makes inter-bank balancing of funds much easier; a true form of centralized Cash Management; produces faster electronic reconciliation; reduces the number of cheques issued.**==",
+    "==**12.7 Virtual Banking — the most examined item in this block, asked in January 2025 and again in January 2026.** **'Broadly virtual banking denotes the provision of banking and related services through extensive use of information technology without direct recourse to the bank by the customer.'**==",
+    "**The context ICAI sets:** the practice of banking changed significantly **in the nineties**; **'while banks are striving to strengthen customer base and relationship and move towards relationship banking, customers are increasingly moving away from the confines of traditional branch banking and are seeking the convenience of remote electronic banking services including net banking & mobile banking. And even within the broad spectrum of electronic banking the virtual banking has gained prominence.'** Its origin **'in the developed countries can be traced back to the seventies with the installation of Automated Teller Machines (ATMs)'**, after which **'driven by the competitive market environment as well as various technological and customer pressures, other types of virtual banking services have grown in prominence throughout the world.'**",
+    "==**The four advantages of virtual banking** (SM §12.7) — the exact list both past-paper questions want:\n**1. Lower cost of handling a transaction.**\n**2. The increased speed of response to customer requirements.**\n**3. The lower cost of operating branch network along with reduced staff costs leads to cost efficiency.**\n**4. Virtual banking allows the possibility of improved and a range of services being made available to the customer rapidly, accurately and at his convenience.**==",
+    "==**And the separate sentence on popularity, which January 2026 asks for by name:** **'The popularity which virtual banking services have won among customers is due to the speed, convenience and round the clock access they offer.'** ==Three words — **speed, convenience, round the clock access** — and they answer 'why is it popular' as distinct from 'what are its advantages'.==",
+    "==**The RBI measures ICAI lists, which are the update-sensitive part of this block.** Since the **mid-Eighties**: **computerized settlement of clearing transactions, Magnetic Ink Character Recognition (MICR) technology, inter-city clearing facilities and high value clearing facilities, the Electronic Clearing Service Scheme (ECSS), the Electronic Funds Transfer (EFT) scheme, UPI payment platforms, Real Time Gross Settlement System (RTGS), Delivery vs. Payment (DVP) for Government securities transactions, and the Indian Financial Network (INFINET).** Further: **the Centralised Funds Management System (CFMS), the Securities Services System (SSS) and the Structured Financial Messaging System (SFMS).** ==**This list changes between editions — verify it against the edition applicable to the attempt before quoting it.**=="
+   ],
+   "example": "January 2025 asked for 'any two advantages of virtual banking' for two marks; January 2026 asked 'Why the Virtual banking service is popular among the customers? Discuss the advantages of Virtual Banking' for four marks. The second is the first plus one extra sentence — the popularity line about speed, convenience and round-the-clock access. A candidate who had written out the four advantages once in January 2025 had the whole four-mark answer twelve months later.",
+   "provisions": [
+    {
+     "ref": "Zero balance account (SM §12.2)",
+     "status": "VERIFIED",
+     "requirement": "Daily totalling of cheques presented; the excess buys marketable securities and a shortage is met by selling them.",
+     "exam_angle": "The practical application of the cash management models; name the daily cycle."
+    },
+    {
+     "ref": "Petty cash imprest system (SM §12.4)",
+     "status": "VERIFIED",
+     "requirement": "A week's requirement estimated from past experience and future needs, with the next week commencing at the pre-determined balance.",
+     "exam_angle": "A two-mark definition; the 'pre-determined balance' is the defining feature."
+    },
+    {
+     "ref": "Temporary cash surplus (SM §12.5)",
+     "status": "VERIFIED",
+     "requirement": "Short-term bank and FI deposits, short-term debt market instruments, long-term debt with flexible maturity dates, and blue chip shares.",
+     "exam_angle": "Choice depends on the economic situation, volatility of returns and the organisation's risk appetite."
+    },
+    {
+     "ref": "Virtual banking definition (SM §12.7)",
+     "status": "VERIFIED",
+     "requirement": "The provision of banking and related services through extensive use of information technology without direct recourse to the bank by the customer.",
+     "exam_angle": "The phrase 'without direct recourse to the bank by the customer' is the examinable core."
+    },
+    {
+     "ref": "Four advantages of virtual banking (SM §12.7)",
+     "status": "VERIFIED",
+     "requirement": "Lower cost per transaction; increased speed of response; cost efficiency from a smaller branch network and lower staff costs; improved and wider services delivered rapidly, accurately and conveniently.",
+     "exam_angle": "Asked in PYQ Jan 2025 Q4(c) and Jan 2026 Q4(b)."
+    },
+    {
+     "ref": "RBI payment-system measures (SM §12.7)",
+     "status": "UPDATE SENSITIVE",
+     "requirement": "MICR, ECSS, EFT, UPI, RTGS, DVP, INFINET, CFMS, SSS, SFMS.",
+     "exam_angle": "Edition-sensitive; verify before quoting."
+    }
+   ],
+   "keywords": [
+    "instant updating of accounts",
+    "zero balance account",
+    "overnight to one year",
+    "pre-determined balance",
+    "risk appetite of the organization",
+    "linked through a satellite",
+    "limited access to third parties",
+    "idle float",
+    "without direct recourse to the bank",
+    "lower cost of handling a transaction",
+    "speed, convenience and round the clock access",
+    "MICR, RTGS, UPI, INFINET"
+   ],
+   "memory": {
+    "trick": "**Transfer, Zero, Market, Petty, Surplus, Electronic, Virtual.** Seven developments in the order ICAI prints them, and the mnemonic is the shape of the money: it **moves** (EFT), it is **swept to nothing** (zero balance), it is **parked** (money market), it is **rationed** (imprest), it is **invested** (surplus), it is **wired** (electronic), and the **bank itself disappears** (virtual).",
+    "key": [
+     ["Electronic Fund Transfer", "Instant updating, quick transfer, instant forex rates"],
+     ["Zero Balance Account", "Daily sweep: excess buys securities, shortage sells them"],
+     ["Money Market Operations", "Deposits from overnight to one year at hourly-moving rates"],
+     ["Petty Cash Imprest", "A week's float, each week starting at the pre-determined balance"],
+     ["Temporary Cash Surplus", "Bank deposits, short-term debt, flexible long-term debt, blue chips"],
+     ["Electronic Cash Management", "Speed is the essence; reduces idle float; true centralised cash management"],
+     ["Virtual Banking", "Banking without direct recourse to the bank by the customer"],
+     ["Four advantages", "Lower transaction cost · faster response · cheaper branch and staff · better and wider services"],
+     ["Why popular", "Speed, convenience, round the clock access"]
+    ]
+   },
+   "mistakes": [
+    "Answering 'why is virtual banking popular' with the four advantages. ICAI gives a separate sentence — speed, convenience and round-the-clock access — and January 2026 asks both halves.",
+    "Defining virtual banking as internet banking. ICAI's definition is wider: services provided through extensive use of information technology without direct recourse to the bank, and it traces the origin to ATMs in the seventies.",
+    "Describing a zero balance account as an account that may not be overdrawn. It is an account swept daily to zero against marketable securities.",
+    "Saying money market deposits are long term. ICAI's range is overnight to one year.",
+    "Omitting 'long term debt instruments with flexible maturity dates' from the temporary-surplus list; it is the one item candidates do not expect.",
+    "Quoting the RBI measures list without checking the edition. It is marked update-sensitive for a reason."
+   ],
+   "compare": {
+    "title": "The seven developments and what each one is for",
+    "headers": ["Development", "The problem it solves", "The defining mechanism"],
+    "rows": [
+     ["Electronic Fund Transfer", "Delay and uncertainty in moving funds between branches and banks", "A computerised network linking branches and banks"],
+     ["Zero Balance Account", "Idle cash sitting in a disbursement account", "Daily totalling of cheques presented, with the excess invested"],
+     ["Money Market Operations", "Surplus funds earning nothing", "Deposits from overnight to one year at competitive rates"],
+     ["Petty Cash Imprest System", "Management time consumed by small expenses", "A week's float restored to a pre-determined balance"],
+     ["Management of Temporary Cash Surplus", "Choosing where to park a surplus", "Matching the instrument to the economic situation, volatility and risk appetite"],
+     ["Electronic Cash Management System", "Slow reconciliation and idle float across locations", "Elements of the process linked electronically, with limited third-party access"],
+     ["Virtual Banking", "The cost and inconvenience of branch banking", "Services through IT without direct recourse to the bank by the customer"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §11.2: Miller-Orr, of which the zero balance account is the practical form",
+    "🔗 FM Ch 9 §13: management of marketable securities, where the surplus of §12.5 goes",
+    "🔗 FM Ch 9 §10.4: float, which §12.6 says electronic systems reduce to a minimum",
+    "🔗 FM Ch 9 §21: alternative payment strategies in receivable management — the same technology from the collections side",
+    "🔗 FM Ch 2 §10: contemporary sources of funding, the financing counterpart of these developments"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "State any two advantages of virtual banking (2 marks)",
+     "Why is virtual banking popular among customers, and what are its advantages (4 marks)",
+     "Explain the zero balance account / the petty cash imprest system (2 marks)",
+     "How may a temporary cash surplus be invested (2–4 marks)",
+     "What are the results of an electronic cash management system (4 marks)"
+    ],
+    "approach": [
+     "For virtual banking, open with the definition sentence, answer the popularity question in its own line, then number the four advantages.",
+     "For a two-mark item, give the definition and one consequence; do not pad.",
+     "For the electronic cash management results, pick five of the thirteen and lead with the saving in time and the reduction in idle float — they connect to the rest of the unit.",
+     "Where the question is about the RBI's measures, name four or five and add that the list is edition-sensitive."
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-J25-Q4c",
+     "marks": 2,
+     "status": "VERIFIED",
+     "format": "Descriptive",
+     "question": "State any two advantages of virtual banking. (2 Marks) [OR — the alternative part (c), on the exclusion of financing cost principle, is a Chapter 7 question.]",
+     "answer_points": [
+      "**Open with one line of definition, which frames the advantages and costs nothing.** **Virtual banking denotes the provision of banking and related services through extensive use of information technology without direct recourse to the bank by the customer.**",
+      "==**Advantage 1 — Lower cost of handling a transaction.**== A transaction executed through an electronic channel costs the bank a fraction of the same transaction at a counter, and that saving is what makes the model viable.",
+      "==**Advantage 2 — The increased speed of response to customer requirements.**== Requests are acted on without the delay of physical presence or branch processing hours.",
+      "**Two more are available if the examiner wants a fuller answer**, and in a two-mark question naming all four costs three extra lines: ==**the lower cost of operating the branch network along with reduced staff costs, which leads to cost efficiency**==; and ==**the possibility of improved and a range of services being made available to the customer rapidly, accurately and at his convenience.**==",
+      "==**The two-mark discipline.** The question says **'any two'**, so **two advantages, each with a short clause of explanation, is the complete answer.** Writing all four is not penalised but earns nothing extra; writing two bare phrases with no explanation risks half a mark each. ==**Name the advantage, then say why it follows.**==",
+      "**If a sentence of context is wanted**, ICAI's own is available: virtual banking's origin **in the developed countries can be traced back to the seventies with the installation of Automated Teller Machines (ATMs)**, and its growth since has been **driven by the competitive market environment as well as various technological and customer pressures.**"
+     ],
+     "keywords": [
+      "without direct recourse to the bank",
+      "lower cost of handling a transaction",
+      "increased speed of response",
+      "lower cost of operating branch network",
+      "improved and a range of services",
+      "any two means two with explanation"
+     ],
+     "also_asked_as": ["PYQ-J26-Q4b asks the same list plus the reason for its popularity, for four marks"]
+    },
+    {
+     "id": "PYQ-J26-Q4b",
+     "marks": 4,
+     "status": "VERIFIED",
+     "format": "Descriptive",
+     "question": "Why the Virtual banking service is popular among the customers? Discuss the advantages of Virtual Banking. (4 Marks)",
+     "answer_points": [
+      "==**The question has two halves, and ICAI's answer has two distinct sources. Answer them separately or half the marks go missing.**==",
+      "**Definition first.** **Virtual banking denotes the provision of banking and related services through extensive use of information technology without direct recourse to the bank by the customer.** Its origin in the developed countries **can be traced back to the seventies with the installation of Automated Teller Machines (ATMs)**, and other forms have since grown **driven by the competitive market environment as well as various technological and customer pressures.**",
+      "==**Part one — why it is popular among customers.** ICAI's sentence: **'The popularity which virtual banking services have won among customers is due to the speed, convenience and round the clock access they offer.'** Expand each in a clause:==\n**Speed** — instructions take effect without the delay of branch processing;\n**Convenience** — the service is reached from wherever the customer is, so **customers are 'increasingly moving away from the confines of traditional branch banking'**;\n**Round the clock access** — the service is not bounded by banking hours.",
+      "==**Part two — the advantages, which are the bank's side of the same coin. All four:**==",
+      "**1. ==Lower cost of handling a transaction.==**",
+      "**2. ==The increased speed of response to customer requirements.==**",
+      "**3. ==The lower cost of operating branch network along with reduced staff costs leads to cost efficiency.==**",
+      "**4. ==Virtual banking allows the possibility of improved and a range of services being made available to the customer rapidly, accurately and at his convenience.==**",
+      "==**The structural point that earns the fourth mark.** Items 1 and 3 are **benefits to the bank**; items 2 and 4 are **benefits to the customer** — and items 2 and 4 are where the popularity in part one comes from. Saying so explicitly shows the two halves of the question are connected rather than repeated.==",
+      "**If space allows, one line of context on the Indian payment system.** The RBI has taken numerous measures since the mid-Eighties to strengthen the payments mechanism, among them **MICR technology, the Electronic Clearing Service Scheme, the Electronic Funds Transfer scheme, UPI payment platforms, RTGS, Delivery versus Payment for Government securities and INFINET** — the infrastructure without which virtual banking could not operate at scale. *(This list is edition-sensitive; verify it against the Study Material applicable to the attempt.)*",
+      "**A four-mark answer in four parts, then.** Definition (quarter mark's worth of framing), the three reasons for popularity, the four advantages, and the one-line observation that two of the advantages accrue to the bank and two to the customer. ==Resist the temptation to merge the popularity line into the advantages list — January 2026 asks for both because they are separately printed in the Study Material.=="
+     ],
+     "keywords": [
+      "speed, convenience, round the clock access",
+      "without direct recourse to the bank",
+      "ATMs in the seventies",
+      "lower cost of handling a transaction",
+      "increased speed of response",
+      "lower branch and staff costs",
+      "improved and a range of services",
+      "two advantages to the bank, two to the customer"
+     ],
+     "also_asked_as": ["PYQ-J25-Q4c asks for any two of the advantages alone, for two marks"]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.33-01",
+     "angle": "Zero balance account",
+     "difficulty": "Medium",
+     "question": "A zero balance account, as described in the study material, operates by:",
+     "options": {
+      "A": "Prohibiting the account from being overdrawn at any time",
+      "B": "Maintaining a nil minimum balance requirement for small depositors",
+      "C": "Totalling the cheques presented for payment each day and investing any excess cash in marketable securities, selling securities where there is a shortage",
+      "D": "Transferring the whole balance to a concentration bank at the end of every week"
+     },
+     "answer": "C",
+     "explanation": "SM §12.2: 'Every day the firm totals the cheques presented for payment against the account. The firm transfers the balance amount of cash (in excess of payments) in the account if any, for buying marketable securities. In case of shortage of cash, the firm sells the marketable securities.' It is an extensive policy of substituting marketable securities for cash, and the practical descendant of the cash management models."
+    },
+    {
+     "id": "MCQ-F09.33-02",
+     "angle": "Virtual banking",
+     "difficulty": "Easy",
+     "question": "The study material attributes the popularity of virtual banking among customers to:",
+     "options": {
+      "A": "Lower interest rates on deposits held electronically",
+      "B": "The regulatory protection offered by the Reserve Bank of India to electronic transactions",
+      "C": "The elimination of all transaction charges",
+      "D": "The speed, convenience and round the clock access they offer"
+     },
+     "answer": "D",
+     "explanation": "SM §12.7: 'The popularity which virtual banking services have won among customers is due to the speed, convenience and round the clock access they offer.' This sentence is printed separately from the four advantages, and SA January 2026 Q4(b) asks for both — the popularity and the advantages — as distinct halves of one question."
+    }
+   ],
+   "recap": [
+    "Seven developments: electronic fund transfer, zero balance account, money market operations, petty cash imprest, management of temporary cash surplus, electronic cash management, virtual banking.",
+    "A zero balance account is swept daily: excess buys marketable securities, a shortage sells them.",
+    "Money market deposits run from overnight to one year at rates that move daily or hourly.",
+    "A temporary surplus goes into short-term bank deposits, short-term debt instruments, flexible long-term debt or blue chip shares, chosen on the economic situation, volatility and risk appetite.",
+    "Virtual banking is banking through information technology without direct recourse to the bank by the customer.",
+    "It is popular for speed, convenience and round-the-clock access; its four advantages are lower transaction cost, faster response, cheaper branch and staff costs, and better and wider services."
+   ]
+  },
+  {
+   "code": "F09.41",
+   "title": "13 Management of Marketable Securities",
+   "activity": "Medium",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 direct (but SM Illustration 11 underlies PYQ May 2026 Q3(b)) · RTP 0 · MTP 0",
+   "understand": [
+    "==**Why it belongs in a cash chapter** (SM §13): **'Management of marketable securities is an integral part of investment of cash as this may serve both the purposes of liquidity and cash, provided choice of investment is made correctly. As the working capital needs are fluctuating, it is possible to park excess funds in some short-term securities, which can be liquidated when need for cash is felt.'**==",
+    "==**The three principles of selection, and this is the examinable list:**==",
+    "==**Safety.** **'Return and risks go hand in hand. As the objective in this investment is ensuring liquidity, minimum risk is the criterion of selection.'**==",
+    "==**Maturity.** **'Matching of maturity and forecasted cash needs is essential. Prices of long term securities fluctuate more with changes in interest rates and are therefore, riskier. Since this is for temporary excess funds, short term securities are preferred.'**==",
+    "==**Marketability.** **'It refers to the convenience, speed and cost at which a security can be converted into cash. If the security can be sold quickly without loss of time and price it is highly liquid or marketable.'**==",
+    "==**What the choice is limited to** (SM §13): **'The choice of marketable securities is mainly limited to Government treasury bills, Deposits with banks and Inter-corporate deposits.'** Also attractive: **Units of Unit Trust of India and commercial papers of corporates**, along with **deposits with sister concerns or associate companies.** And: **'Besides this Money Market Mutual Funds (MMMFs) have also emerged as one of the avenues of short-term investment.'**==",
+    "==**SM Illustration 11 sits in this section, and it is the only numerical here — the Sai Trading computation that May 2026's AR Ltd reproduces.** Debtors collected after 45 days; inventory held 75 days; creditors paid in 30 days; ₹120 lakhs spent annually at a constant rate; 10% earned on investments.\n**(a) Cash cycle = 45 + 75 − 30 = 90 days (3 months); cash turnover = 12 ÷ 3 = 4.**\n**(b) Minimum operating cash = Total operating annual outlay ÷ cash turnover = ₹120 lakhs ÷ 4 = ₹30 lakhs.**\n**(c) Cut the inventory holding period by 30 days: cycle = 45 + 45 − 30 = 60 days (2 months); turnover = 6; minimum cash = ₹120 lakhs ÷ 6 = ₹20 lakhs; reduction in investment = ₹10 lakhs; saving = 0.10 × ₹10 lakhs = ₹1 lakh.**==",
+    "==**Why ICAI puts that illustration here rather than in §6.** The ₹10 lakhs released by shortening the cycle has to **go somewhere**, and the 10% it earns is the **return on marketable securities**. ==The saving of ₹1 lakh is not an accounting entry — it is the yield on funds moved out of the operating cycle and into short-term securities, which is precisely what this section is about.==",
+    "==**The tension to state in any theory answer.** The three principles pull against return: **safety** rules out higher-yielding paper, **maturity** rules out long-dated paper where the yield curve is usually steeper, and **marketability** rules out illiquid paper that pays a premium for being illiquid. ==A marketable-securities portfolio is deliberately a low-return portfolio, because its job is to be **cash that happens to earn something**, not an investment.=="
+   ],
+   "example": "May 2026's AR Ltd asks for 'the cash cycle and the minimum cash balance to be maintained to meet its obligations' and then prices a cash discount against the balance released — which is SM Illustration 11 with ₹200 lakhs of sales, a 10% margin and a 12% opportunity cost. The ₹15 lakh release is valued at 12% post-tax, giving ₹1.26 lakhs, exactly as Illustration 11 values its ₹10 lakh release at 10%, giving ₹1 lakh. The section is the bridge between a shorter operating cycle and an actual rupee saving.",
+   "provisions": [
+    {
+     "ref": "Why marketable securities are held (SM §13)",
+     "status": "VERIFIED",
+     "requirement": "An integral part of investment of cash, serving both liquidity and cash, parking excess funds that can be liquidated when cash is needed.",
+     "exam_angle": "The opening sentence; it explains the section's place in the unit."
+    },
+    {
+     "ref": "Three principles of selection (SM §13)",
+     "status": "VERIFIED",
+     "requirement": "Safety — minimum risk is the criterion; Maturity — match maturity to forecast cash needs, preferring short-term; Marketability — the convenience, speed and cost of conversion into cash.",
+     "exam_angle": "Name all three with ICAI's own reason for each."
+    },
+    {
+     "ref": "The permitted universe (SM §13)",
+     "status": "VERIFIED",
+     "requirement": "Mainly Government treasury bills, bank deposits and inter-corporate deposits; also UTI units, commercial paper, deposits with sister concerns, and Money Market Mutual Funds.",
+     "exam_angle": "'Mainly limited to' the first three — say so, then add the others."
+    },
+    {
+     "ref": "Illustration 11 (SM §13)",
+     "status": "VERIFIED",
+     "requirement": "Cash cycle 90 days, turnover 4, minimum cash ₹30 lakhs; after a 30-day inventory cut, 60 days, turnover 6, ₹20 lakhs, a ₹10 lakh release and a ₹1 lakh saving at 10%.",
+     "exam_angle": "The template for PYQ May 2026 Q3(b)."
+    }
+   ],
+   "keywords": [
+    "serves both liquidity and cash",
+    "park excess funds",
+    "minimum risk is the criterion",
+    "matching of maturity and forecasted cash needs",
+    "convenience, speed and cost",
+    "treasury bills, bank deposits, inter-corporate deposits",
+    "Money Market Mutual Funds",
+    "cash turnover",
+    "minimum operating cash"
+   ],
+   "memory": {
+    "trick": "**Safe, short, saleable.** The three principles in three words: it must not lose money (**safety**), it must mature when you need the cash (**maturity**), and you must be able to sell it in a hurry without a haircut (**marketability**). ==Return is not on the list, and that is deliberate.==",
+    "key": [
+     ["Safety", "Minimum risk is the criterion of selection"],
+     ["Maturity", "Match to forecast cash needs; short term preferred"],
+     ["Marketability", "Convenience, speed and cost of conversion to cash"],
+     ["Mainly limited to", "Treasury bills, bank deposits, inter-corporate deposits"],
+     ["Also", "UTI units, commercial paper, sister-concern deposits, MMMFs"],
+     ["Illustration 11 (a)", "45 + 75 − 30 = 90 days; turnover 4"],
+     ["Illustration 11 (b)", "₹120 lakhs ÷ 4 = ₹30 lakhs"],
+     ["Illustration 11 (c)", "60 days, turnover 6, ₹20 lakhs; ₹10 lakh released; ₹1 lakh saved at 10%"]
+    ]
+   },
+   "mistakes": [
+    "Listing return or yield as one of the principles of selection. ICAI's three are safety, maturity and marketability, and it says expressly that minimum risk is the criterion.",
+    "Preferring long-term securities for a higher yield. ICAI's reason against them is specific: prices of long-term securities fluctuate more with changes in interest rates and are therefore riskier.",
+    "Treating marketability as the same thing as maturity. Maturity is when the instrument repays; marketability is whether it can be sold before then without loss of time or price.",
+    "Omitting inter-corporate deposits from the main three. ICAI names them alongside treasury bills and bank deposits.",
+    "Computing the saving in Illustration 11 on the whole ₹120 lakhs rather than on the ₹10 lakhs released. The return applies to the funds freed, not to the turnover."
+   ],
+   "compare": {
+    "title": "The three principles against each other",
+    "headers": ["Principle", "ICAI's test", "What it rules out"],
+    "rows": [
+     ["Safety", "Minimum risk, because the objective is ensuring liquidity", "Higher-yielding credit-risky paper"],
+     ["Maturity", "Match maturity to forecast cash needs; prefer short term", "Long-dated securities, whose prices move more with interest rates"],
+     ["Marketability", "Can it be sold quickly without loss of time or price?", "Illiquid instruments, however well rated"],
+     ["Net effect", "A deliberately low-return portfolio", "Any attempt to treat the surplus as an investment rather than as cash"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §11.1: Baumol, whose transaction cost is the cost of converting these securities into cash",
+    "🔗 FM Ch 9 §12.2: the zero balance account, which buys and sells these securities daily",
+    "🔗 FM Ch 9 §12.5: management of temporary cash surplus, the same question asked from the other side",
+    "🔗 FM Ch 9 §12: SM Illustration 11, and PYQ May 2026 Q3(b) which reworks it",
+    "🔗 FM Ch 2 §7: short-term sources of finance, where commercial paper appears as a liability rather than an asset"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "What principles should guide the selection of marketable securities (2–4 marks)",
+     "Calculate the cash cycle, the cash turnover and the minimum cash balance, and the saving from shortening the cycle (3–4 marks)",
+     "In what instruments may a company park a temporary surplus (2 marks)"
+    ],
+    "approach": [
+     "Give the three principles with ICAI's reason attached to each; a bare list of three words scores poorly.",
+     "Name the three instruments ICAI says the choice is 'mainly limited to', then add the others as further avenues.",
+     "For the numerical, follow Illustration 11's order: cycle, turnover, minimum cash, then the revised cycle and the saving on the funds released."
+    ]
+   },
+   "official_questions": [],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.41-01",
+     "angle": "Principles",
+     "difficulty": "Easy",
+     "question": "According to the study material, the criterion of selection in choosing marketable securities for a temporary surplus is:",
+     "options": {
+      "A": "Minimum risk, since the objective in this investment is ensuring liquidity",
+      "B": "Maximum post-tax yield, since the funds would otherwise earn nothing",
+      "C": "The longest available maturity, to lock in the prevailing interest rate",
+      "D": "Equal weighting between risk and return, as in any portfolio decision"
+     },
+     "answer": "A",
+     "explanation": "SM §13, under Safety: 'Return and risks go hand in hand. As the objective in this investment is ensuring liquidity, minimum risk is the criterion of selection.' Option C contradicts the Maturity principle, which prefers short-term securities because the prices of long-term securities fluctuate more with changes in interest rates and are therefore riskier."
+    },
+    {
+     "id": "MCQ-F09.41-02",
+     "angle": "Illustration 11",
+     "difficulty": "Hard",
+     "question": "A firm's debtors are collected after 40 days, inventory is held 80 days and creditors are paid in 30 days. It spends ₹180 lakhs annually at a constant rate and earns 8% on investments. If the inventory holding period is cut by 30 days, the annual saving is:",
+     "options": {
+      "A": "₹1.60 lakhs",
+      "B": "₹1.20 lakhs",
+      "C": "₹0.96 lakhs",
+      "D": "₹2.40 lakhs"
+     },
+     "answer": "B",
+     "explanation": "Cash cycle = 40 + 80 − 30 = 90 days, turnover 360 ÷ 90 = 4, minimum cash ₹180 lakhs ÷ 4 = ₹45 lakhs. After the 30-day cut: 40 + 50 − 30 = 60 days, turnover 6, minimum cash ₹180 lakhs ÷ 6 = ₹30 lakhs. Funds released = ₹45 − ₹30 = ₹15 lakhs, and the saving is 8% of ₹15 lakhs = ₹1.20 lakhs (SM Illustration 11's method). Option D applies the 8% to the ₹30 lakh revised balance instead of to the ₹15 lakh release, which is the commonest error here; option A applies it to a ₹20 lakh release."
+    }
+   ],
+   "recap": [
+    "Marketable securities park a fluctuating surplus so that it serves both liquidity and cash.",
+    "Three principles: safety (minimum risk is the criterion), maturity (match forecast cash needs; short term preferred), marketability (convenience, speed and cost of conversion).",
+    "The choice is mainly limited to treasury bills, bank deposits and inter-corporate deposits; also UTI units, commercial paper, sister-concern deposits and Money Market Mutual Funds.",
+    "Illustration 11: a 90-day cycle on ₹120 lakhs needs ₹30 lakhs of cash; cutting inventory by 30 days releases ₹10 lakhs and saves ₹1 lakh at 10%.",
+    "The portfolio is deliberately low-return, because its job is to be cash that earns something."
+   ]
+  }
+ ]
+}

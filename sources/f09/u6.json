@@ -1,0 +1,856 @@
+{
+ "concepts": [
+  {
+   "code": "F09.42",
+   "title": "14 Inventory Management (Unit III)",
+   "activity": "Low",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 1 (May 2025 Series II Part I case, items 3 and 5)",
+   "understand": [
+    "==**The shortest unit in the chapter, and ICAI says why.** **'Inventories constitute a major element of working capital. It is, therefore, important that investment in inventory is properly controlled.'** But then: **'Inventory Management has been discussed in detail in Chapter 2 (Material Cost) Paper 4: Cost and Management Accounting. Students are advised to refer the same.'**==",
+    "==**What ICAI does state here, and it is the examinable content of Unit III.** **'The objectives of inventory management are, to a great extent, similar to the objectives of cash management.'** That is the sentence to open any answer with: adequate stock for operations, nothing blocked in idle stock, and the surplus avoided rather than invested.==",
+    "==**The nine problems inventory management covers** (SM §14): **fixation of minimum and maximum levels; determining the size of inventory to be carried; deciding about the issues, receipts and inspection procedures; determining the economic order quantity; proper storage facilities; keeping check over obsolescence; and ensuring control over movement of inventories.**==",
+    "==**What this means for Paper 6A.** **No EOQ computation has been asked in any Paper 6A past paper, RTP or MTP in the period reviewed**, and the SM gives no formula here. What *has* been asked is **inventory as a component of the working-capital decision** — the holding period that feeds R, W and F in the operating cycle, the trade-off in §4.1, and the **ranking of inventory-reduction proposals by their benefit**, which is what MTP May 2025 Series II's AMPL case does. ==**Revise this unit as a theory section and as a feeder into Units I and IV, not as a quantitative topic.**==",
+    "**The cross-references that make the unit usable.** Inventory appears five times elsewhere in this chapter, and each appearance is where a question is likely to come from:",
+    "==**§3, factor 2 — Desired level of Inventory:** identify the level that **allows uninterrupted production but reduces investment in raw materials and hence increases cash flow**, using **JIT and EOQ**.==",
+    "==**§4.1 — the trade-off row:** the higher side gives **fewer stock-outs and so higher profitability**; the lower side **requires less capital but endangers stock-out and loss of goodwill**; the balancing tools are **EOQ and JIT to carry the optimum level**.==",
+    "==**§4.2 — the level of investment:** a **manufacturing** entity holds **three levels of inventory** (raw material, work-in-process, finished goods), a **trading** entity only **trading stock**, a **service** entity only **consumables**; and **consumer durables carry large inventory compared with perishable products.**==",
+    "==**§4.3 — the approaches:** an **aggressive** policy **holds a lower level of inventory** and risks stock-outs; a **conservative** policy keeps **inventory level higher** and risks **inventory obsolescence** and **shortage of liquidity in the long run due to longer operating cycles.**==",
+    "==**§6 — the operating cycle:** **R**, **W** and **F** are three of the five periods, and together they are usually the largest part of the cycle. MTP September 2025 Series I's Wint Limited runs 53 + 35 + 45 = **133 days of inventory** inside a 147-day cycle.==",
+    "==**The one quantitative skill Unit III has actually been tested on — ranking inventory proposals by benefit.** MTP May 2025 Series II's AMPL gives three schemes to cut a finished-goods holding period that has stretched from 2–2½ months to 4–4½ months: **(1) a discount of up to 12% expected to sell 1,000 units a quarter; (2) an exchange scheme offsetting an average ₹3,500 a machine, expected to sell 4,650 units a year; (3) an advance-order scheme — ₹3,000 on order, ₹9,500 on delivery 1½ months later, a ₹4,500 benefit to the customer — expected to sell 400 machines a month.** The MCQ asks for the three ranked **'based on benefit analysis to the company in the form of sales'**, and a further MCQ asks for the **optimum combination of inventory proposal and credit policy.** ==**The method is to convert each scheme to annual units and then to annual contribution, and rank on that — not on the per-unit concession.**=="
+   ],
+   "example": "MTP May 2025 Series II's AMPL case is the only place inventory management carries marks in its own right in the period reviewed, and it does so by asking for a ranking rather than a formula. Proposal 2's exchange scheme sells 4,650 units a year at an average ₹3,500 offset; proposal 3's advance scheme sells 400 a month, that is 4,800 a year, and collects ₹3,000 up front; proposal 1's discount sells only 1,000 a quarter, 4,000 a year. Annualising each is the whole computation, and the case then pairs the best inventory proposal with the better of two credit policies.",
+   "provisions": [
+    {
+     "ref": "Objectives of inventory management (SM §14)",
+     "status": "VERIFIED",
+     "requirement": "To a great extent similar to the objectives of cash management.",
+     "exam_angle": "The opening sentence of any answer: adequate stock, nothing idle, no surplus."
+    },
+    {
+     "ref": "The problems it covers (SM §14)",
+     "status": "VERIFIED",
+     "requirement": "Minimum and maximum levels; size of inventory; issues, receipts and inspection procedures; economic order quantity; storage facilities; check over obsolescence; control over movement.",
+     "exam_angle": "A seven-item list that is the whole of §14's substance."
+    },
+    {
+     "ref": "Cross-reference to Paper 4 (SM §14)",
+     "status": "VERIFIED",
+     "requirement": "Inventory management is discussed in detail in Chapter 2 (Material Cost) of Paper 4: Cost and Management Accounting.",
+     "exam_angle": "ICAI's own direction; the quantitative techniques live there, not here."
+    }
+   ],
+   "keywords": [
+    "major element of working capital",
+    "similar to the objectives of cash management",
+    "minimum and maximum levels",
+    "economic order quantity",
+    "check over obsolescence",
+    "control over movement",
+    "refer Paper 4 Material Cost",
+    "three levels of inventory"
+   ],
+   "memory": {
+    "trick": "**Unit III is a signpost, not a chapter.** One page, one cross-reference, and seven problem headings. ==Where inventory earns marks in Paper 6A is in the **other** units: as factor 2 of the determinants, as a row in the trade-off table, as R, W and F in the operating cycle, and as the thing an aggressive or conservative policy holds less or more of.==",
+    "key": [
+     ["Objectives", "Similar to those of cash management"],
+     ["Seven problems", "Levels · size · procedures · EOQ · storage · obsolescence · movement"],
+     ["Detail is in", "Paper 4, Chapter 2 Material Cost"],
+     ["In §3", "Desired inventory level — JIT and EOQ"],
+     ["In §4.1", "Fewer stock-outs against less capital tied up"],
+     ["In §4.2", "Three levels for manufacturing, one for trading, consumables for service"],
+     ["In §4.3", "Aggressive holds less; conservative risks obsolescence"],
+     ["In §6", "R, W and F — usually most of the cycle"]
+    ]
+   },
+   "mistakes": [
+    "Preparing EOQ computations for Paper 6A. No such question has been asked in the period reviewed, and the SM gives no formula in this chapter.",
+    "Ignoring Unit III entirely because it is short. Its one sentence on objectives, and its seven-item list, are both quotable in a working-capital theory answer.",
+    "Forgetting that a service entity still holds inventory. ICAI says it holds consumables.",
+    "Ranking inventory proposals on the concession per unit rather than on the annual benefit. AMPL's proposal 1 offers the largest discount and ranks worst because it sells the fewest units.",
+    "Treating inventory obsolescence as a general risk rather than as ICAI's stated disadvantage of the conservative approach."
+   ],
+   "compare": {
+    "title": "Where inventory is actually examined in Paper 6A",
+    "headers": ["Section", "What it asks", "Official question"],
+    "rows": [
+     ["§14 Unit III", "Objectives and the seven problems", "Not asked directly"],
+     ["§3 factor 2", "The desired level, and JIT / EOQ as the tools", "RTP Sep 2026 Q10(c)"],
+     ["§4.1", "The profitability–liquidity trade-off on inventory", "RTP Sep 2025 Q10(c); MTP Sep 2025 Series I Q4(a)"],
+     ["§4.2", "Three levels of inventory by type of entity", "MTP Sep 2024 Series II Q2(b)"],
+     ["§6", "R, W and F as components of the operating cycle", "PYQ Sep 2024 Q1(b), Jan 2025 Q2(b), Sep 2025 case; RTP May 2026 Q9; MTP Sep 2025 Series I"],
+     ["Benefit ranking", "Ranking inventory-reduction schemes by annual benefit", "MTP May 2025 Series II Part I case, items 3 and 5"]
+    ]
+   },
+   "links": [
+    "🔗 Paper 4 Ch 2 Material Cost: EOQ, re-order levels, ABC analysis and the quantitative techniques ICAI directs you to",
+    "🔗 FM Ch 9 §3: the desired level of inventory as a determinant of working capital",
+    "🔗 FM Ch 9 §4.1: the inventory row of the trade-off table",
+    "🔗 FM Ch 9 §6: R, W and F in the operating cycle",
+    "🔗 FM Ch 9 §19: credit policy, which MTP May 2025 Series II pairs with the inventory decision"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "State the objectives and scope of inventory management (2 marks)",
+     "An MCQ ranking inventory-reduction proposals by benefit (2 marks)",
+     "Inventory as a component in any operating-cycle or working-capital statement question (part of a larger numerical)"
+    ],
+    "approach": [
+     "Open with the 'similar to the objectives of cash management' sentence, then the seven problem headings.",
+     "Add ICAI's own cross-reference to Paper 4; naming it shows you know where the detail sits.",
+     "For a ranking MCQ, annualise every scheme to units first, then to contribution, and rank on the annual figure."
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "MTP-M25-S2-FMCQ1",
+     "marks": 10,
+     "status": "VERIFIED",
+     "format": "Case MCQs",
+     "question": "AMPL, a washing-machine manufacturer facing declining sales, identified poor inventory management (piling stocks, high imports, high selling price) and poor receivables management (poor credit policy and collection, bad debts). Four plans were presented. (1) A 5% average discount giving ₹15,675 per machine had no significant impact; a reduction above 10% was associated with increased demand, and a plan of up to 12% was estimated to sell about 1,000 units every quarter. (2) An exchange scheme, offsetting ₹3,000 to ₹4,000 of price (an average offset of ₹3,500 per machine), estimated at 4,650 units in the next year. (3) An all-round inventory reduction: the total inventory holding period is about 3½ months of which finished goods alone is 2 to 2½ months, recently stretched to 4 to 4½ months; under a proposed scheme a customer paying ₹3,000 in advance takes delivery after 1½ months and pays ₹9,500 on delivery, a benefit of ₹4,500 for waiting, with an estimated 400 machines a month. (4) Dealership sales are ₹3,65,00,000 with a present policy of 60 days' credit but an average collection period of about 120 days; 90% of sales are on credit, of which 15% is to customers whose financial position is not sound with bad debt losses of 2% of sales to those customers; cost of sales is 80% and collection expenses ₹5,00,000 a year. Policy A: terms of \"2/15, net 60\", two-thirds expected to take the discount, no change in sales, collection period for the rest falling to 80 days, no change in bad debts, collection cost down 30%. Policy B: relax credit standards by 20 days, sales up 10%, marginal customers taking an average 150 days with bad debts rising to 2.5% on sales to financially unsound customers, collection expenses up ₹1,00,000. Required rate of return 15%, 360 days a year. (MCQs 1–5, 2 marks each)",
+     "answer_points": [
+      "==**MCQ 1 — the incremental benefit of Policy A. ICAI's answer: (a) ₹6,24,500.**==\n**Credit sales** = ₹3,65,00,000 × 0.90 = **₹3,28,50,000**, unchanged under Policy A because sales do not change.\n**Cost of sales at 80%** = ₹2,62,80,000, so **operating profit = ₹65,70,000** on both the current policy and Policy A.\nThe gain comes from three sources: **a shorter collection period** (two-thirds pay on day 15, the rest on day 80, against a current 120 days) releasing investment in receivables at 15%; **collection costs down 30%** of ₹5,00,000, that is ₹1,50,000; against **the cost of the 2% discount** on the two-thirds who take it.\n==**Net: ₹6,24,500 in favour of Policy A.** Note that option (d) offers **₹(−)6,24,500**, the same figure signed the other way — so the direction of the comparison must be stated, not just the magnitude.==",
+      "==**MCQ 2 — the incremental benefit of Policy B. ICAI's answer: (d) ₹2,31,444.**==\n**Sales rise 10%**, so credit sales become ₹3,28,50,000 × 1.10 = **₹3,61,35,000**, and the incremental contribution is 20% of the incremental credit sales.\nAgainst that: the **marginal customers take 150 days**, so the investment in receivables rises sharply at 15%; **bad debts rise to 2.5%** on the 15% of sales to financially unsound customers; and **collection expenses rise ₹1,00,000**.\n==**Net: ₹2,31,444** — positive, but **well below Policy A's ₹6,24,500**, which is what decides MCQ 5.==",
+      "==**MCQ 3 — ranking the three inventory proposals by benefit in the form of sales. The method, which is the examinable skill:** annualise each scheme's units, then value them.==\n**Proposal 1** — a 12% discount, **1,000 units a quarter = 4,000 units a year**, each sold at 88% of the list price.\n**Proposal 2** — the exchange scheme, **4,650 units a year**, each with an average ₹3,500 offset.\n**Proposal 3** — the advance-order scheme, **400 machines a month = 4,800 units a year**, with ₹3,000 collected 1½ months before delivery and a ₹4,500 concession.\n==**Ranked on annual units the order is 3, 2, 1 — and proposal 3 also collects part of the price in advance, which shortens the cycle as well as moving the stock.** Proposal 1 offers the deepest concession and shifts the fewest units, so it ranks last.==",
+      "==**MCQ 4 — the bad debt expense under each policy.** Policy A leaves bad debts unchanged, so the figure is the current one; Policy B raises the rate from 2% to **2.5% on sales to financially unsound customers** and raises sales 10%, so its figure is higher. **The pairing to look for is 'same under A, higher under B'** — ICAI's options are built so that two of them give the same figure twice, which cannot be right for a policy that changes both the rate and the volume.==",
+      "==**MCQ 5 — the optimum combination. The logic, and it is the point of the whole case:** take the **best inventory proposal** from MCQ 3 and the **better credit policy** from MCQs 1 and 2. Policy A's ₹6,24,500 beats Policy B's ₹2,31,444, and proposal 3 leads the inventory ranking. ==**The two decisions are independent — one is about how fast stock moves, the other about how fast cash comes back — so the optimum is simply the better of each, not a trade-off between them.**==",
+      "==**Why this case is worth working even though it looks like four unrelated plans.** It is the only official question that puts **inventory management and receivables management in the same decision**, and its structure is ICAI's own answer to the §4.1 trade-off table: **inventory and receivables are two of the five components, and a company in trouble has usually got both wrong at once.** The AMPL narrative — piling stocks *and* a 120-day collection period against a 60-day policy — is that table in prose.==",
+      "**One technique note.** Every figure in the credit-policy half rests on **₹3,28,50,000 of credit sales (90% of ₹3,65,00,000)**, not on the ₹3,65,00,000 of total sales. Using the gross figure inflates the contribution, the bad debts and the receivables investment together, and produces a plausible-looking wrong answer in every one of the three credit MCQs."
+     ],
+     "keywords": [
+      "credit sales 90% = ₹3,28,50,000",
+      "cost of sales 80%, contribution 20%",
+      "Policy A incremental benefit ₹6,24,500",
+      "Policy B incremental benefit ₹2,31,444",
+      "annualise proposals: 4,000 / 4,650 / 4,800 units",
+      "rank 3, 2, 1",
+      "bad debts unchanged under A, higher under B",
+      "optimum = best inventory proposal + better credit policy"
+     ],
+     "also_asked_as": ["RTP-S24-FQ11 and MTP-M25-S1-FQ2b use the same credit-policy comparison without the inventory half"]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.42-01",
+     "angle": "Scope",
+     "difficulty": "Easy",
+     "question": "Which of the following does the study material **not** list among the problems covered by inventory management in Chapter 9?",
+     "options": {
+      "A": "Fixation of minimum and maximum levels",
+      "B": "Keeping check over obsolescence",
+      "C": "Computation of the cost of capital applicable to inventory financing",
+      "D": "Determining the economic order quantity"
+     },
+     "answer": "C",
+     "explanation": "SM §14 lists fixation of minimum and maximum levels, determining the size of inventory to be carried, deciding about issues, receipts and inspection procedures, determining the economic order quantity, proper storage facilities, keeping check over obsolescence, and ensuring control over movement of inventories. The cost of capital is Chapter 4's subject; this section instead directs students to Paper 4, Chapter 2 Material Cost for the quantitative detail."
+    },
+    {
+     "id": "MCQ-F09.42-02",
+     "angle": "Objectives",
+     "difficulty": "Medium",
+     "question": "The study material describes the objectives of inventory management as:",
+     "options": {
+      "A": "Minimising the total investment in inventory in every circumstance",
+      "B": "Maximising the inventory turnover ratio",
+      "C": "Identical to the objectives of receivables management",
+      "D": "To a great extent similar to the objectives of cash management"
+     },
+     "answer": "D",
+     "explanation": "SM §14: 'The objectives of inventory management are, to a great extent, similar to the objectives of cash management.' That means adequate stock for operations, nothing blocked unnecessarily, and a balance between the two — not minimisation, which §4.1 shows carries the risk of stock-outs and loss of goodwill."
+    }
+   ],
+   "recap": [
+    "Inventories are a major element of working capital, and ICAI directs students to Paper 4 Chapter 2 for the detail.",
+    "The objectives are to a great extent similar to those of cash management.",
+    "Seven problems: minimum and maximum levels, size of inventory, procedures for issues, receipts and inspection, EOQ, storage, obsolescence and control over movement.",
+    "In Paper 6A inventory earns marks through the determinants, the trade-off table, the three-entity comparison, the approaches and the operating cycle.",
+    "Where a question ranks inventory-reduction schemes, annualise the units first and rank on annual benefit, not on the concession per unit."
+   ]
+  },
+  {
+   "code": "F09.43 + F09.44",
+   "title": "15–16 Meaning and Objective of Receivables Management, and the Aspects of Management of Debtors",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 direct · RTP 0 · MTP 1 (May 2026 Series I Q3(ii))",
+   "understand": [
+    "==**The definition** (SM §15): **'Management of receivables refers to planning and controlling of debt owed to the firm from customer on account of credit sales. It is also known as trade credit management.'**==",
+    "==**The objective:** **'The basic objective of management of receivables (debtors) is to optimise the return on investment on these assets.'** Note the word — **optimise**, not maximise or minimise.==",
+    "==**Why there is an optimum at all, in ICAI's own balance:** **'When large amounts are tied up in receivables, there are chances of bad debts and there will be cost of collection of debts. On the contrary, if the investment in receivables is low, the sales may be restricted, since the competitors may offer more liberal terms. Therefore, management of receivables is an important issue and requires proper policies and their implementation.'**==",
+    "==**§16 The three aspects of management of receivables — the list May 2026 asks for by name:**==",
+    "==**1. Credit Policy.** **'A balanced credit policy should be determined for effective management of receivables. Decision of Credit standards, Credit terms and collection efforts is included in Credit policy. It involves a trade-off between the profits on additional sales that arise due to credit being extended on the one hand and the cost of carrying those debtors and bad debt losses on the other. This seeks to decide credit period, cash discount and other relevant matters.'**==",
+    "==**How credit terms are written, and this is tested in every credit-policy question.** **'The credit period is generally stated in terms of net days. For example, if the firm's credit terms are \"net 50\". It is expected that customers will repay credit obligations not later than 50 days.'** And the cash discount policy specifies **(a) the rate of cash discount, (b) the cash discount period, and (c) the net credit period** — so **'3/15 net 60' means a 3% discount if the customer pays within 15 days; if he does not avail the offer he must make payment within 60 days.**==",
+    "==**2. Credit Analysis.** **'This requires the finance manager to determine as to how risky it is to advance credit to a particular party. This involves due diligence or reputation check of the customers with respect to their credit worthiness.'**==",
+    "==**3. Control of Receivable.** **'This requires finance manager to follow up debtors and decide about a suitable credit collection policy. It involves both laying down of credit policies and execution of such policies.'**==",
+    "==**The four costs of maintaining receivables, which ICAI prints under aspect 3 and which belong in any answer on the subject:**\n**(i) 'The company requires additional funds as resources are blocked in receivables which involves a cost in the form of interest (loan funds) or opportunity cost (own funds)';**\n**(ii) 'Administrative costs which include record keeping, investigation of credit worthiness etc.';**\n**(iii) 'Collection costs';**\n**(iv) 'Defaulting costs'.**==",
+    "==**The four costs map directly onto the lines of every credit-policy statement, and seeing that saves a great deal of time:**\n**Cost (i)** → the **opportunity cost of investment in receivables** line;\n**Cost (ii)** → the **administration cost** line (and the figure a factor saves);\n**Cost (iii)** → the **collection expenses** line;\n**Cost (iv)** → the **bad debts** line.\n==**A credit-policy numerical is the four costs of §16 arranged in a column against the contribution from additional sales.**==",
+    "**One vocabulary point.** ICAI uses **'management of receivables'**, **'management of debtors'** and **'trade credit management'** interchangeably in this unit, and the SM's own chapter summary switches to **'management of sundry debtors'**. All four mean the same thing; do not read a distinction into the change of word."
+   ],
+   "example": "MTP May 2026 Series I Q3 is a ten-mark question whose part (i) computes the effective cost of a debtors' ageing policy and whose part (ii) simply says 'EXPLAIN three aspects of management of receivables'. Part (ii) is this section verbatim — credit policy, credit analysis and control of receivable — and it is free marks for anyone who has learnt the three headings, sitting at the end of a demanding arithmetical part.",
+   "provisions": [
+    {
+     "ref": "Definition (SM §15)",
+     "status": "VERIFIED",
+     "requirement": "Planning and controlling of debt owed to the firm from customers on account of credit sales; also known as trade credit management.",
+     "exam_angle": "Open with it, and name the alternative label."
+    },
+    {
+     "ref": "Objective (SM §15)",
+     "status": "VERIFIED",
+     "requirement": "To optimise the return on investment on these assets.",
+     "exam_angle": "'Optimise' — the two-sided balance follows from the word."
+    },
+    {
+     "ref": "Three aspects (SM §16)",
+     "status": "VERIFIED",
+     "requirement": "Credit policy (credit standards, credit terms, collection efforts); credit analysis; control of receivable.",
+     "exam_angle": "Asked in MTP May 2026 Series I Q3(ii)."
+    },
+    {
+     "ref": "Credit terms notation (SM §16)",
+     "status": "VERIFIED",
+     "requirement": "'Net 50' means payment not later than 50 days; '3/15 net 60' means a 3% discount for payment within 15 days, otherwise payment within 60 days.",
+     "exam_angle": "Every credit-policy numerical uses this notation; read it correctly before computing."
+    },
+    {
+     "ref": "Four costs of maintaining receivables (SM §16)",
+     "status": "VERIFIED",
+     "requirement": "Interest or opportunity cost on funds blocked; administrative costs; collection costs; defaulting costs.",
+     "exam_angle": "They are the four cost lines of the evaluation statement."
+    }
+   ],
+   "keywords": [
+    "planning and controlling of debt owed",
+    "trade credit management",
+    "optimise the return on investment",
+    "credit standards, credit terms, collection efforts",
+    "net 50",
+    "3/15 net 60",
+    "credit analysis",
+    "due diligence or reputation check",
+    "control of receivable",
+    "interest or opportunity cost",
+    "administrative costs",
+    "collection costs",
+    "defaulting costs"
+   ],
+   "memory": {
+    "trick": "**Policy, Analysis, Control.** Decide the terms, check the customer, chase the money. ==And the four costs are **Interest, Admin, Collection, Default** — which is also, in order, the bottom half of every credit-policy statement you will ever write.==",
+    "key": [
+     ["Aspect 1", "Credit policy — standards, terms, collection efforts"],
+     ["Aspect 2", "Credit analysis — how risky is this party"],
+     ["Aspect 3", "Control of receivable — follow up and collection policy"],
+     ["Cost (i)", "Interest on loan funds or opportunity cost of own funds"],
+     ["Cost (ii)", "Administrative — record keeping, credit investigation"],
+     ["Cost (iii)", "Collection costs"],
+     ["Cost (iv)", "Defaulting costs — bad debts"],
+     ["'net 50'", "Pay not later than day 50"],
+     ["'3/15 net 60'", "3% off if paid by day 15, else pay by day 60"],
+     ["Objective", "Optimise the return on investment in receivables"]
+    ]
+   },
+   "mistakes": [
+    "Giving two aspects instead of three. Credit analysis is the one most often dropped, and it is the middle item.",
+    "Saying the objective is to minimise receivables. ICAI says optimise, and gives the cost of being too restrictive — competitors offer more liberal terms and sales are lost.",
+    "Misreading '2/10 net 30' as a 10% discount or a 2-day period. The first number is the percentage, the second the discount period.",
+    "Omitting the four costs when asked about managing receivables; they are printed in §16 and are the bridge to the numerical work.",
+    "Treating credit standards and credit terms as the same thing. Standards decide **who** gets credit; terms decide **on what conditions**. Both sit inside credit policy, along with collection efforts."
+   ],
+   "compare": {
+    "title": "The three aspects and what each one decides",
+    "headers": ["Aspect", "The question it answers", "The instruments"],
+    "rows": [
+     ["Credit policy", "On what terms will we sell on credit?", "Credit standards, credit terms, collection efforts; credit period and cash discount"],
+     ["Credit analysis", "Should we sell on credit to this particular party?", "Due diligence, reputation check, credit rating"],
+     ["Control of receivable", "Are we actually collecting what we are owed?", "Follow-up, a suitable credit collection policy, and its execution"],
+     ["The trade-off running through all three", "Profits on additional sales against the cost of carrying debtors and bad debt losses", "The four costs: interest, administration, collection, default"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §17: the factors determining credit policy, which aspect 1 leaves to be listed",
+    "🔗 FM Ch 9 §19: the Total and Incremental Approaches, aspect 1 made arithmetical",
+    "🔗 FM Ch 9 §21: credit analysis and credit rating, aspect 2 in detail",
+    "🔗 FM Ch 9 §22: monitoring of receivables and the ageing schedule, aspect 3 in detail",
+    "🔗 FM Ch 9 §4.1: the receivables row of the trade-off table"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Explain the three aspects of management of receivables (3–4 marks)",
+     "What are the costs of maintaining receivables (2–4 marks)",
+     "What is meant by credit terms of '2/10 net 30' (1–2 marks)",
+     "State the objective of receivables management (2 marks)"
+    ],
+    "approach": [
+     "Name the three aspects, then give each one sentence of what it decides and one of how.",
+     "Add the four costs under aspect 3, where ICAI prints them; they lift a three-mark answer to a complete one.",
+     "If the question is about the objective, use the word 'optimise' and then give both sides — bad debts and collection cost on one hand, restricted sales and more liberal competitors on the other."
+    ]
+   },
+   "official_questions": [],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.43-01",
+     "angle": "Credit terms notation",
+     "difficulty": "Easy",
+     "question": "A firm's credit terms are stated as '3/15 net 60'. This means:",
+     "options": {
+      "A": "A 3% discount for payment within 15 days, failing which payment must be made within 60 days",
+      "B": "A 15% discount for payment within 3 days, failing which payment must be made within 60 days",
+      "C": "A 3% discount for payment within 60 days, with a 15-day grace period",
+      "D": "Interest at 3% for every 15 days of delay beyond 60 days"
+     },
+     "answer": "A",
+     "explanation": "SM §16: 'the credit terms may be expressed as \"3/15 net 60\". This means that a 3% discount will be granted if the customer pays within 15 days; if he does not avail the offer he must make payment within 60 days.' The cash discount policy specifies three things — the rate, the discount period and the net credit period — in that order."
+    },
+    {
+     "id": "MCQ-F09.43-02",
+     "angle": "The four costs",
+     "difficulty": "Medium",
+     "question": "Which of the following is **not** one of the four costs of maintaining receivables listed in the study material?",
+     "options": {
+      "A": "Interest on loan funds or the opportunity cost of own funds blocked in receivables",
+      "B": "The cash discount granted to customers who pay early",
+      "C": "Administrative costs, including record keeping and investigation of credit worthiness",
+      "D": "Defaulting costs"
+     },
+     "answer": "B",
+     "explanation": "SM §16 lists four costs: the interest or opportunity cost on funds blocked, administrative costs, collection costs and defaulting costs. The cash discount is a **term** of the credit policy rather than a cost of maintaining receivables — though it does appear as a separate line in the evaluation statement of §19, which is why it is a tempting answer."
+    }
+   ],
+   "recap": [
+    "Receivables management is the planning and controlling of debt owed on credit sales; it is also called trade credit management.",
+    "The objective is to optimise the return on investment in receivables — too much brings bad debts and collection cost, too little loses sales to more liberal competitors.",
+    "Three aspects: credit policy (standards, terms, collection efforts), credit analysis, and control of receivable.",
+    "'Net 50' means pay by day 50; '3/15 net 60' means 3% off by day 15, otherwise pay by day 60.",
+    "Four costs of maintaining receivables: interest or opportunity cost, administrative, collection and defaulting — the four cost lines of every evaluation statement."
+   ]
+  },
+  {
+   "code": "F09.45 + F09.46",
+   "title": "17–18 Factors Determining Credit Policy, and the Factors under the Control of the Finance Manager",
+   "activity": "Medium",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 direct (PYQ-S24-Q3a and PYQ-M26-MCQ6 apply the ideas) · RTP 0 · MTP 0 direct",
+   "understand": [
+    "==**Why credit policy matters** (SM §17): **'The credit policy is an important factor determining both the quantity and the quality of accounts receivables.'** Note both nouns — how much is owed, and how good it is.==",
+    "==**The seven factors determining the size of the investment in receivables** (SM §17):\n**(i) The effect of credit on the volume of sales;**\n**(ii) Credit terms;**\n**(iii) Cash discount;**\n**(iv) Policies and practices of the firm for selecting credit customers;**\n**(v) Paying practices and habits of the customers;**\n**(vi) The firm's policy and practice of collection; and**\n**(vii) The degree of operating efficiency in the billing, record keeping and adjustment function.**==",
+    "==**And ICAI's rider to factor (vii), which is the sentence that distinguishes a full answer:** **'other costs such as interest, collection costs and bad debts etc., would also have an impact on the size of the investment in receivables. The rising trend in these costs would depress the size of investment in receivables.'** ==Rising costs **shrink** the receivables a firm is willing to carry — the causation runs that way, not the other.==",
+    "==**Lenient against stringent — the two postures:** **'The firm which follows a lenient credit policy sells on credit to customers on very liberal terms and standards. On the contrary a firm following a stringent credit policy sells on credit on a highly selective basis only to those customers who have proper credit worthiness and who are financially sound.'**==",
+    "==**What each posture costs** (SM §17): **'Any increase in accounts receivables that is, additional extension of trade credit not only results in higher sales but also requires additional financing to support the increased investment in accounts receivables. The costs of credit investigations and collection efforts and the chances of bad debts are also increased.'** And the other way: **'a decrease in accounts receivable due to a stringent credit policy may be as a result of reduced sales with competitors offering better credit terms.'**==",
+    "==**§18 The four things the finance manager actually controls.** **'The finance manager has operating responsibility for the management of the investment in receivables. His involvement includes:'**\n**(a) 'Supervising the administration of credit';**\n**(b) 'Contribute to top management decisions relating to the best credit policies of the firm';**\n**(c) 'Deciding the criteria for selection of credit applications'; and**\n**(d) 'Speed up the conversion of receivables into cash by aggressive collection policy'.**==",
+    "==**And the closing sentence, which is the whole unit in one line:** **'In summary the finance manager has to strike a balance between the cost of increased investment in receivables and profits from the higher levels of sales.'** ==That sentence *is* the structure of every Total Approach statement: profits from higher sales at the top, cost of increased investment at the bottom, net benefit at the foot.==",
+    "==**How §17 and §18 differ, because a question will name one of them.** §17 lists the factors that **determine** the investment — most of which the firm does not control, such as **the paying practices and habits of the customers** and **competitors' terms**. §18 lists what the finance manager **can do about it** — supervise, advise, set selection criteria, and collect faster. ==**One list is about the environment, the other about the levers.**==",
+    "==**The connection to the arithmetic.** Each of §17's seven factors appears as an input in a credit-policy numerical: **(i)** as the increase in sales; **(ii)** as the collection period; **(iii)** as the cash discount line; **(iv)** and **(v)** together as the bad-debt percentage and the actual collection period (which is why September 2024's AB Enterprises and MTP May 2025 Series II's AMPL both give a policy period *and* a longer actual period); **(vi)** as the collection expenses; **(vii)** as the administration cost. ==**Reading the question through this list guarantees no given figure is left unused.**=="
+   ],
+   "example": "MTP May 2025 Series II's AMPL illustrates factors (iv) and (v) sharply: the company has 'a present policy of extending 60 days credit but most of its dealers in the recent period have stretched payments and the average collection period was about 120 days'. The 60 days is the firm's credit terms, factor (ii); the 120 days is the paying practices and habits of the customers, factor (v). The gap between them is the whole reason the company is reviewing its policy — and in the arithmetic it is the 120 days, not the 60, that sizes the current investment in receivables.",
+   "provisions": [
+    {
+     "ref": "What credit policy determines (SM §17)",
+     "status": "VERIFIED",
+     "requirement": "Both the quantity and the quality of accounts receivables.",
+     "exam_angle": "A two-word opening that frames the seven factors."
+    },
+    {
+     "ref": "Seven factors (SM §17)",
+     "status": "VERIFIED",
+     "requirement": "Effect of credit on sales volume; credit terms; cash discount; policies for selecting credit customers; customers' paying practices; the firm's collection policy; operating efficiency in billing, record keeping and adjustment.",
+     "exam_angle": "Add the rider that rising interest, collection and bad-debt costs depress the investment."
+    },
+    {
+     "ref": "Lenient and stringent policies (SM §17)",
+     "status": "VERIFIED",
+     "requirement": "Lenient sells on very liberal terms and standards; stringent sells on a highly selective basis only to the creditworthy and financially sound.",
+     "exam_angle": "Give the cost of each: more financing, investigation and bad debts; or reduced sales as competitors offer better terms."
+    },
+    {
+     "ref": "Four responsibilities of the finance manager (SM §18)",
+     "status": "VERIFIED",
+     "requirement": "Supervise the administration of credit; contribute to top management decisions on credit policy; decide the criteria for selecting credit applications; speed up conversion into cash by an aggressive collection policy.",
+     "exam_angle": "A different list from §17; read which the question asks for."
+    },
+    {
+     "ref": "The balance to strike (SM §18)",
+     "status": "VERIFIED",
+     "requirement": "Between the cost of increased investment in receivables and the profits from higher levels of sales.",
+     "exam_angle": "Quote it to open or close any credit-policy answer, numerical or descriptive."
+    }
+   ],
+   "keywords": [
+    "quantity and quality of receivables",
+    "effect of credit on the volume of sales",
+    "paying practices and habits of the customers",
+    "operating efficiency in billing, record keeping and adjustment",
+    "rising trend in these costs would depress the size of investment",
+    "lenient credit policy",
+    "stringent credit policy",
+    "highly selective basis",
+    "supervising the administration of credit",
+    "aggressive collection policy",
+    "strike a balance"
+   ],
+   "memory": {
+    "trick": "**Seven factors, four levers.** §17's seven are mostly **things that happen to you** — how customers pay, what competitors offer, how costs trend. §18's four are **things you do** — supervise, advise, select, collect. ==Ask which half the question wants before writing a word.==",
+    "key": [
+     ["Factor (i)", "Effect of credit on sales volume"],
+     ["Factor (ii)", "Credit terms"],
+     ["Factor (iii)", "Cash discount"],
+     ["Factor (iv)", "Policies for selecting credit customers"],
+     ["Factor (v)", "Customers' paying practices and habits"],
+     ["Factor (vi)", "The firm's collection policy and practice"],
+     ["Factor (vii)", "Operating efficiency in billing and record keeping"],
+     ["The rider", "Rising interest, collection and bad-debt costs depress the investment"],
+     ["Lever (a)", "Supervise the administration of credit"],
+     ["Lever (b)", "Contribute to top management credit-policy decisions"],
+     ["Lever (c)", "Decide the criteria for selecting credit applications"],
+     ["Lever (d)", "Speed up conversion by an aggressive collection policy"]
+    ]
+   },
+   "mistakes": [
+    "Answering §18's question with §17's list. The two sections are adjacent and ICAI distinguishes them: factors that determine, against the finance manager's own involvement.",
+    "Saying a rising trend in interest and bad-debt costs increases the investment in receivables. ICAI says it depresses it — the firm pulls back.",
+    "Sizing the current investment on the stated credit terms rather than the actual collection period. AMPL's 60-day policy and 120-day practice are given separately for exactly that reason.",
+    "Describing a stringent policy as costless. ICAI's cost is explicit: reduced sales, with competitors offering better credit terms.",
+    "Omitting factor (vii). Operating efficiency in billing and record keeping is the one factor that is purely internal and purely administrative, and it is the bridge to §22's monitoring."
+   ],
+   "compare": {
+    "title": "Lenient against stringent credit policy",
+    "headers": ["", "Lenient", "Stringent"],
+    "rows": [
+     ["Who gets credit", "Customers on very liberal terms and standards", "Only those with proper credit worthiness who are financially sound, on a highly selective basis"],
+     ["Effect on sales", "Higher", "Reduced, especially where competitors offer better terms"],
+     ["Financing need", "Additional financing to support the increased investment", "Lower"],
+     ["Credit investigation and collection cost", "Increased", "Lower per rupee of sales, though the investigation is deeper per customer"],
+     ["Bad debts", "Chances increased", "Lower"],
+     ["In the arithmetic", "More contribution at the top of the statement, more opportunity cost and bad debts at the bottom", "The reverse"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §16: credit policy as the first of the three aspects",
+    "🔗 FM Ch 9 §19: the Total and Incremental Approaches, where these factors become figures",
+    "🔗 FM Ch 9 §21: credit analysis and credit rating, which operationalise factor (iv)",
+    "🔗 FM Ch 9 §22: monitoring of receivables, which operationalise factor (vi) and lever (d)",
+    "🔗 FM Ch 9 §4.3: aggressive and conservative approaches — lenient and stringent are their receivables counterparts"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "State the factors determining credit policy (4 marks)",
+     "What factors are under the control of the finance manager in managing receivables (2–4 marks)",
+     "Distinguish between a lenient and a stringent credit policy (2–4 marks)"
+    ],
+    "approach": [
+     "For §17, give the seven factors and then the rider about rising costs depressing the investment.",
+     "For §18, give the four responsibilities and close with the 'strike a balance' sentence.",
+     "For the comparison, build a short table — who gets credit, sales, financing, costs, bad debts — rather than two paragraphs."
+    ]
+   },
+   "official_questions": [],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.45-01",
+     "angle": "Direction of effect",
+     "difficulty": "Medium",
+     "question": "According to the study material, a rising trend in interest costs, collection costs and bad debts would:",
+     "options": {
+      "A": "Increase the size of the investment in receivables, since each rupee of receivables now costs more to carry",
+      "B": "Leave the size of the investment unchanged, since these are costs rather than assets",
+      "C": "Depress the size of the investment in receivables",
+      "D": "Affect only the quality, not the quantity, of receivables"
+     },
+     "answer": "C",
+     "explanation": "SM §17: 'other costs such as interest, collection costs and bad debts etc., would also have an impact on the size of the investment in receivables. The rising trend in these costs would depress the size of investment in receivables.' As carrying receivables becomes dearer the firm tightens its policy and carries fewer of them — which is also why §17 says credit policy determines both the quantity and the quality."
+    },
+    {
+     "id": "MCQ-F09.45-02",
+     "angle": "Which list",
+     "difficulty": "Medium",
+     "question": "'Speed up the conversion of receivables into cash by an aggressive collection policy' appears in the study material as:",
+     "options": {
+      "A": "A factor determining credit policy under §17",
+      "B": "An innovation in receivable management under §21",
+      "C": "One of the three aspects of management of debtors under §16",
+      "D": "One of the four areas of the finance manager's involvement under §18"
+     },
+     "answer": "D",
+     "explanation": "SM §18 lists the finance manager's involvement as supervising the administration of credit, contributing to top management decisions on credit policy, deciding the criteria for selection of credit applications, and speeding up the conversion of receivables into cash by an aggressive collection policy. §17's list is of factors that determine the investment, several of which — such as customers' paying habits — are outside the firm's control."
+    }
+   ],
+   "recap": [
+    "Credit policy determines both the quantity and the quality of receivables.",
+    "Seven determining factors: effect of credit on sales, credit terms, cash discount, customer-selection policies, customers' paying habits, the firm's collection practice, and operating efficiency in billing and record keeping.",
+    "A rising trend in interest, collection and bad-debt costs depresses the investment in receivables.",
+    "Lenient means liberal terms, higher sales, more financing, more investigation and more bad debts; stringent means highly selective credit and reduced sales as competitors offer better terms.",
+    "The finance manager's four levers: supervise credit administration, advise on policy, set selection criteria, and collect faster.",
+    "The whole unit in one sentence: strike a balance between the cost of increased investment in receivables and the profits from higher sales."
+   ]
+  },
+  {
+   "code": "F09.47",
+   "title": "19 Approaches to Evaluation of Credit Policies — the Total Approach and the Incremental Approach",
+   "activity": "Very High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 2 (Sep 2024 Q3(a), May 2026 MCQ 6) · RTP 1 (Sep 2024 Q11) · MTP 4 (May 2025 Series I Q2(b), May 2025 Series II case, Sep 2025 Series II Q3(a), Sep 2026 Series II Q1(a))",
+   "understand": [
+    "==**The most examined single topic in Chapter 9 — eight official questions.** **'There are basically two methods of evaluating the credit policies to be adopted by a Company – Total Approach and Incremental Approach.'** ICAI prints a format for each, and **uses the Total Approach in every published answer except MTP May 2025 Series II.**==",
+    "==**The Total Approach format** (SM §19), which should be reproduced line for line:\n**A. Expected Profit:**\n**(a) Credit Sales**\n**(b) Total Cost other than Bad Debts: (i) Variable Costs; (ii) Fixed Costs**\n**(c) Bad Debts**\n**(d) Cash discount**\n**(e) Expected Net Profit before Tax (a − b − c − d)**\n**(f) Less: Tax**\n**(g) Expected Profit after Tax**\n**B. Opportunity Cost of Investments in Receivables locked up in Collection Period**\n**Net Benefits (A − B)**\nand then: **'Advise: The Policy……. should be adopted since the net benefits under this policy are higher as compared to other policies.'**==",
+    "==**The two formulae ICAI prints beneath the format, and both are routinely needed:**\n**(i) Total Fixed Cost = [Average Cost per unit − Variable Cost per unit] × No. of units sold on credit under the Present Policy**\n**(ii) Opportunity Cost = Total Cost of Credit Sales × [Collection period (days) ÷ 365 or 360] × [Required Rate of Return ÷ 100]**==",
+    "==**Why formula (i) matters so much.** Fixed cost is **computed on the present policy's volume and then held constant** across all the proposed policies. A candidate who scales fixed cost with sales turns a fixed cost into a variable one and destroys the comparison. September 2024's AB Enterprises shows it plainly: fixed cost is **₹5,00,000 in all three columns** while units rise from 30,000 to 33,000 to 35,000.==",
+    "==**And why formula (ii) matters.** The opportunity cost is computed on the **total cost of credit sales**, not on sales value — because the funds tied up in a debtor are the **cost** of what was sold, not the price. ICAI's formula says so, and every published answer follows it.==",
+    "==**The Incremental Approach format** (SM §19), which works in differences rather than levels:\n**A. Incremental Expected Profit:** Credit Sales → **(a) Incremental Credit Sales**; **(b) Less: Incremental Costs of Credit Sales — (i) Variable Costs, (ii) Fixed Costs**; **(c) Incremental Bad Debt Losses**; **(d) Incremental Cash Discount**; **(e) Incremental Expected Profit (a − b − c − d)**; **(f) Less: Tax**; **(g) Incremental Expected Profit after Tax**\n**B. Required Return on Incremental Investments:** **(a) Cost of Credit Sales**; **(b) Collection Period (in days)**; **(c) Investment in Receivable (a × b ÷ 365 or 360)** — and then the incremental investment and the required return on it.==",
+    "==**Which to use.** **Use the Total Approach unless the question says otherwise** — it is what ICAI uses in seven of the eight official answers, it is harder to go wrong with, and September 2024's past paper asks for it by name ('using the Total Approach method'). The Incremental Approach gives the same decision and is quicker where only one proposed policy is on the table.==",
+    "==**The six variations the official questions ring, and recognising which one you have is most of the work:**==",
+    "==**Variation 1 — plain policies with no discount and no tax** (PYQ Sep 2024 AB Enterprises; RTP Sep 2024 Banu Limited; MTP May 2025 Series I ABC Pvt Ltd). Contribution, fixed cost, bad debts, then opportunity cost. **Watch for extra creditor credit on the additional variable cost**, which AB Enterprises gives as 15 days and which *reduces* the investment in receivables.==",
+    "==**Variation 2 — receivables turnover instead of a collection period** (RTP Sep 2024; MTP May 2025 Series I). **Collection period = 360 ÷ turnover**, so a turnover of 4 is 90 days, 3 is 120 days and 2.4 is 150 days. Convert first.==",
+    "==**Variation 3 — a cash discount, with a stated take-up** (MTP Sep 2025 Series II Oggy Limited; MTP Sep 2026 Series II). The discount cost is **sales × discount % × take-up %**, and the collection period becomes a **weighted average** of the discount-takers and the rest.==",
+    "==**Variation 4 — tax, and an expected return expressed as a percentage** (Oggy Limited). ICAI computes the **after-tax profit on the change**, divides it by the **change in receivables investment**, and compares that return with the opportunity cost: **expected return 4.8% against a 10% opportunity cost gives a net gain of 5.2%**, because the investment has *fallen*.==",
+    "==**Variation 5 — a manager's salary charged to one policy only** (RTP Sep 2024 Banu Limited: ₹50,000 a month, that is ₹6 lakhs a year, on Policy Option II alone). It is a **fixed cost of that policy**, and it is what makes Option II lose.==",
+    "==**Variation 6 — an MCQ asking only for the incremental investment and its post-tax effect** (PYQ May 2026 MCQ 6). Compute the receivables investment **at cost** under each policy and difference them.==",
+    "==**The sign convention that catches people.** Where a liberalised policy **shortens** the collection period — as in Oggy Limited (30 days to 20) and May 2026's MCQ 6 (35 days to 10) — the investment in receivables **falls**, so the opportunity cost is a **saving**, not a cost. ICAI writes it as a negative investment: Oggy's **₹41,111 − ₹60,000 = ₹(18,889)**. ==**Keep the sign; a released investment earning the required return is a benefit.**=="
+   ],
+   "example": "September 2024's AB Enterprises is the cleanest Total Approach question in the set. Turnover ₹30 lakhs, 30 days' collection, zero bad debts; two policies extending collection by 15 and 30 days for ₹3,00,000 and ₹5,00,000 of extra sales with 1% and 3.5% bad debts; selling price ₹100, variable cost ₹50, fixed cost ₹5,00,000; required return 20%; and creditors giving 15 days' extra credit on the additional variable cost. Expected profits ₹10,00,000 / ₹11,17,000 / ₹11,27,500, opportunity costs ₹33,333 / ₹52,500 / ₹72,917, and net benefits ₹9,66,667 / ₹10,64,500 / ₹10,54,583 — so Policy A wins even though Policy B earns more profit.",
+   "provisions": [
+    {
+     "ref": "The two approaches (SM §19)",
+     "status": "VERIFIED",
+     "requirement": "Total Approach and Incremental Approach, with a printed format for each.",
+     "exam_angle": "Use the Total Approach by default; ICAI does in seven of eight answers."
+    },
+    {
+     "ref": "Total fixed cost formula (SM §19)",
+     "status": "VERIFIED",
+     "requirement": "[Average cost per unit − variable cost per unit] × units sold on credit under the present policy.",
+     "exam_angle": "Fixed cost is computed once and held constant across every policy column."
+    },
+    {
+     "ref": "Opportunity cost formula (SM §19)",
+     "status": "VERIFIED",
+     "requirement": "Total cost of credit sales × collection period ÷ 365 (or 360) × required rate of return.",
+     "exam_angle": "On cost, never on sales value."
+    },
+    {
+     "ref": "The advice line (SM §19)",
+     "status": "VERIFIED",
+     "requirement": "'The Policy … should be adopted since the net benefits under this policy are higher as compared to other policies.'",
+     "exam_angle": "A separate mark in several published answers; write it as a sentence."
+    }
+   ],
+   "keywords": [
+    "Total Approach",
+    "Incremental Approach",
+    "expected profit before tax",
+    "opportunity cost of investment in receivables",
+    "net benefits",
+    "total cost of credit sales",
+    "fixed cost held constant",
+    "receivables turnover to collection period",
+    "weighted average collection period",
+    "released investment is a saving",
+    "the policy should be adopted since the net benefits are higher"
+   ],
+   "memory": {
+    "trick": "**Profit up top, opportunity cost below, net benefit at the foot.** Four cost lines inside the profit block — **variable, fixed, bad debts, discount** — then tax, then the one line that is not a cost at all but a forgone return. ==And fixed cost is written once and copied across.==",
+    "key": [
+     ["A(a)", "Credit sales"],
+     ["A(b)", "Variable costs + fixed costs (fixed from the present policy's volume)"],
+     ["A(c)", "Bad debts"],
+     ["A(d)", "Cash discount"],
+     ["A(e)–(g)", "Profit before tax, tax, profit after tax"],
+     ["B", "Total cost of credit sales × days ÷ 360 × required return"],
+     ["Net benefit", "A − B, and the highest wins"],
+     ["Turnover 4 / 3 / 2.4", "90 / 120 / 150 days"],
+     ["Discount cost", "Sales × discount % × take-up %"],
+     ["Shorter collection", "Investment falls — the opportunity cost is a saving"],
+     ["AB Enterprises", "₹9,66,667 / ₹10,64,500 / ₹10,54,583 → Policy A"],
+     ["Banu Limited", "₹77.10 / ₹79.25 / ₹72.10 lakhs → Option I"]
+    ]
+   },
+   "mistakes": [
+    "Scaling fixed cost with sales. ICAI computes it once from the present policy and holds it constant; AB Enterprises keeps it at ₹5,00,000 across three columns.",
+    "Computing the opportunity cost on sales value. The formula uses the total cost of credit sales.",
+    "Forgetting to convert a receivables turnover ratio into days. A turnover of 2.4 is 150 days, not 2.4 days.",
+    "Charging a policy-specific fixed cost to every policy. Banu Limited's ₹50,000-a-month manager belongs to Option II alone.",
+    "Ignoring extra creditor credit on the additional variable cost. AB Enterprises's 15 days reduces the net investment in receivables and ICAI shows it as a separate working.",
+    "Dropping the sign when the investment falls. Oggy Limited's ₹(18,889) release turns the opportunity cost into a gain.",
+    "Omitting the advice sentence. Several published answers award it separately.",
+    "Picking the policy with the highest expected profit. AB Enterprises's Policy B earns more profit and still loses on net benefit."
+   ],
+   "compare": {
+    "title": "The eight official credit-policy questions and what each one adds",
+    "headers": ["Question", "Policies", "The twist", "Answer"],
+    "rows": [
+     ["PYQ Sep 2024 Q3(a) AB Enterprises", "Present + A + B", "Extra 15 days' creditor credit on the additional variable cost; Total Approach named in the question", "Policy A: ₹10,64,500"],
+     ["RTP Sep 2024 Q11 Banu Limited", "Present + I + II", "A manager's salary of ₹50,000 a month charged to Option II only; turnover ratios of 5, 4 and 3", "Option I: ₹79.25 lakhs"],
+     ["MTP May 2025 S1 Q2(b) ABC Pvt Ltd", "Present + 1 + 2", "Turnover ratios 4, 3 and 2.4; variable costs 70% of selling price", "Policy 1: ₹12,20,000"],
+     ["MTP May 2025 S2 case AMPL", "Present + A + B", "Incremental Approach; 90% credit sales; bad debts only on 15% of customers", "A: ₹6,24,500 against B: ₹2,31,444"],
+     ["MTP Sep 2025 S2 Q3(a) Oggy Limited", "net 30 → 2/10 net 30", "Discount with 50% take-up, 50% tax, and a collection period that falls", "Change: net gain 5.2%"],
+     ["MTP Sep 2026 S2 Q1(a)", "1/15 net 45 → 2/15 net 60", "ICAI assumes the discount is not availed; 30% tax; 12% after-tax return", "Change: ₹21,250 better"],
+     ["PYQ May 2026 MCQ 6", "35 days → 10 days", "Collection period falls while sales rise; investment at cost releases ₹1,00,000", "(D) ₹(1,00,000) and ₹6,000"],
+     ["SM §19 format", "Present + I + II + III", "The printed template both approaches follow", "—"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §16: the four costs of maintaining receivables, which are the statement's cost lines",
+    "🔗 FM Ch 9 §17: the seven factors, which are the statement's inputs",
+    "🔗 FM Ch 9 §20: factoring, the alternative to managing the policy in-house",
+    "🔗 FM Ch 9 §25: the cost of payables, the same discount arithmetic seen from the buyer's side",
+    "🔗 FM Ch 9 §22: the ageing schedule, which tells you the actual collection period to use"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Evaluate the present and proposed credit policies by the Total Approach and recommend one (4–8 marks)",
+     "Advise whether the firm should change its credit period, with a cash discount and tax (5–8 marks)",
+     "An MCQ computing the incremental investment in debtors and its post-tax effect (2 marks)",
+     "A Part I case comparing two credit policies and ranking inventory proposals (10 marks)"
+    ],
+    "approach": [
+     "Draw ICAI's Total Approach skeleton before reading the figures, then fill it; the structure prevents omissions.",
+     "Compute fixed cost once, from the present policy, and copy it across.",
+     "Convert every turnover ratio into days in a working note.",
+     "Compute the opportunity cost on the total cost of credit sales, and keep the sign if the investment falls.",
+     "Close with the advice sentence naming the policy and the reason."
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-S24-Q3a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "AB Enterprises deals in hardware materials having current turnover ₹30 Lakhs per annum. All sales are on credit and the average collection period is 30 days with zero bad debts. The customers are requesting an increase in the credit period. As a result of the increase in credit period sales will also increase. Other information: Credit policy A — increase in collection period 15 days, increase in sales ₹3,00,000, bad debts anticipated 1%; Credit policy B — increase in collection period 30 days, increase in sales ₹5,00,000, bad debts anticipated 3.5%. The selling price is ₹100 per unit, variable cost per unit is ₹50 and fixed cost is ₹5,00,000. Required rate of return on additional investment is 20%. Creditors for variable cost are ready to give 15 days extra credit for the additional cost incurred. Assume a 360 days year. You are required to analyse the present and proposed credit policies using the \"Total Approach\" method and recommend the credit policy to be adopted. (5 Marks)",
+     "answer_points": [
+      "**Units first, because everything is per unit.** Present 30,00,000 ÷ ₹100 = **30,000 units**; Policy A 33,00,000 ÷ ₹100 = **33,000 units**; Policy B 35,00,000 ÷ ₹100 = **35,000 units**. Credit periods **30 / 45 / 60 days**.",
+      "==**A. Statement showing the Evaluation of Credit Policies (Total Approach)**==",
+      "**(a) Credit sales at ₹100 per unit** — ₹30,00,000 · ₹33,00,000 · ₹35,00,000.",
+      "**(b) Total cost other than bad debts.** **Variable costs at ₹50 per unit** — ₹15,00,000 · ₹16,50,000 · ₹17,50,000. **Fixed costs — ₹5,00,000 in all three columns.** Totals **₹20,00,000 · ₹21,50,000 · ₹22,50,000.**",
+      "**(c) Bad debts** — nil · ₹33,000 (1% of ₹33,00,000) · ₹1,22,500 (3.5% of ₹35,00,000).",
+      "**(d) Expected Profit [(a) − (b) − (c)]** — ==**₹10,00,000 · ₹11,17,000 · ₹11,27,500**==.",
+      "**B. Opportunity Cost of Investments in Receivables** — ==**₹33,333 · ₹52,500 · ₹72,917**==.",
+      "**C. Net Benefits (A − B)** — ==**₹9,66,667 · ₹10,64,500 · ₹10,54,583**==.",
+      "==**Recommendation:** **'The Proposed Policy A (i.e. increase in collection period by 15 days or total 45 days) should be adopted since the net benefits under this policy are higher as compared to other policies.'**==",
+      "==**The working note that carries the marks — the opportunity cost, with the creditor offset.** ICAI's own four-line table:\n**(a) Cost of Sales (Variable Cost + Fixed Cost)** — ₹20,00,000 · ₹21,50,000 · ₹22,50,000\n**(b) Average Debtors = Cost of Sales × Credit period ÷ 360** — ₹1,66,667 · ₹2,68,750 · ₹3,75,000\n**(c) Average Creditors for extra variable cost [(Variable Cost) × 15 ÷ 360]** — nil · ₹6,250 · ₹10,417\n**(d) Average Investment = (b) − (c)**, and the opportunity cost is **20% of (d)**.==",
+      "==**Why (c) exists and what it means.** The suppliers are giving **15 days' extra credit on the *additional* variable cost** — so under Policy A the extra ₹1,50,000 of variable cost is financed by creditors for 15 days, ₹1,50,000 × 15/360 = **₹6,250**; under Policy B the extra ₹2,50,000 gives ₹2,50,000 × 15/360 = **₹10,417**. ==That amount **reduces** the firm's own investment in receivables, and so reduces the opportunity cost. Omitting it overstates the opportunity cost under both proposed policies and can flip the recommendation.==",
+      "==**The lesson of the answer, and it is the single most useful thing in the chapter.** **Policy B earns the highest expected profit (₹11,27,500) and still loses.** Its longer 60-day collection period and 3.5% bad debts tie up ₹3,75,000 of cost against Policy A's ₹2,68,750, and at 20% that extra ₹1,06,250 of investment costs ₹20,417 — more than the ₹10,500 of extra profit it brings. ==**A credit policy question is never won on profit alone; the opportunity cost line is where the decision is actually made.**==",
+      "**Three technique points.** **Fixed cost stays at ₹5,00,000** — the units change but the cost does not. **The opportunity cost is computed on cost of sales**, not on credit sales, per ICAI's formula. And **360 days** is used throughout, as the question directs."
+     ],
+     "keywords": [
+      "30,000 / 33,000 / 35,000 units",
+      "30 / 45 / 60 days",
+      "fixed cost ₹5,00,000 constant",
+      "expected profit ₹10,00,000 / ₹11,17,000 / ₹11,27,500",
+      "average creditors for extra variable cost × 15/360",
+      "opportunity cost ₹33,333 / ₹52,500 / ₹72,917",
+      "net benefits ₹9,66,667 / ₹10,64,500 / ₹10,54,583",
+      "Policy A, despite Policy B's higher profit"
+     ],
+     "also_asked_as": ["RTP-S24-FQ11 and MTP-M25-S1-FQ2b are the same structure with turnover ratios instead of days"]
+    },
+    {
+     "id": "RTP-S24-FQ11",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Banu Limited is considering relaxing its present credit policy and is in the process of evaluating two proposed policies. Currently, the firm has annual credit sales of ₹225 lakhs and an accounts receivable turnover ratio of 5 times a year. The current level of loss due to bad debts is ₹7,50,000. The firm is required to give a return of 20% on the investment in new accounts receivables. Policy option II requires a manager to manage the receivables with a salary of ₹50,000 per month. The company's variable costs are 60% of the selling price. (Amount in lakhs) Present Policy: annual credit sales 225, receivable turnover ratio 5, bad debt losses 7.5. Policy Option I: 275, 4, 22.5. Policy Option II: 350, 3, 47.5. Which is a better option?",
+     "answer_points": [
+      "==**Convert the turnover ratios into days first — this is the step the question is built on.** Collection period = 360 ÷ turnover: **5 times → 72 days**; **4 times → 90 days**; **3 times → 120 days.** *(ICAI's answer works in these periods.)*",
+      "**Variable cost at 60% of selling price** — ₹135 lakhs · ₹165 lakhs · ₹210 lakhs, which is the line ICAI labels **'Variable Costs other than manager salary'**.",
+      "==**Fixed cost, and the trap.** The **manager's salary of ₹50,000 a month is ₹6 lakhs a year and is charged to Policy Option II alone**, because only that option requires the manager. It is **not** spread across the three columns. ==This single line is what decides the question.==",
+      "**Bad debts** — ₹7.5 lakhs · ₹22.5 lakhs · ₹47.5 lakhs, as given.",
+      "**A. Expected profit** = credit sales − total cost other than bad debts − bad debts, computed column by column.",
+      "**B. Opportunity cost of investment in receivables** = total cost of credit sales × collection period ÷ 360 × 20%.",
+      "**C. Net Benefits (A − B)** — ICAI's published figures: ==**₹77.10 lakhs · ₹79.25 lakhs · ₹72.10 lakhs**==.",
+      "==**Recommendation:** **'The Proposed Policy I should be adopted since the net benefits under this policy is higher than those under other policies.'**==",
+      "==**Why Option II fails despite ₹350 lakhs of sales — three forces pulling the same way.** Its **bad debts of ₹47.5 lakhs** are more than six times the present level; its **collection period of 120 days** is two-thirds longer than the present 72, so the investment in receivables balloons; and it alone carries the **₹6 lakhs of manager salary**. The extra ₹125 lakhs of sales brings only 40% contribution, ₹50 lakhs, and the three costs together consume more than that. ==**More sales, more bad debts, slower collection and a new fixed cost: the classic over-relaxation.**==",
+      "**The contrast with Option I, which is the teaching point.** Option I raises sales by ₹50 lakhs, worsens bad debts by ₹15 lakhs and lengthens collection by 18 days — and wins by ₹2.15 lakhs. ==**The relationship between relaxation and benefit is not monotonic: there is an optimum, and going past it destroys value.** That is §16's 'balanced credit policy' and §18's 'strike a balance' made arithmetical.==",
+      "**Two technique notes.** The turnover-to-days conversion must be done **before** anything else, because both the investment and the comparison depend on it. And the manager's salary should be shown as a **separate labelled line**, not folded into variable costs — ICAI's own answer labels the variable cost row 'other than manager salary' precisely to keep them apart."
+     ],
+     "keywords": [
+      "turnover 5 / 4 / 3 → 72 / 90 / 120 days",
+      "variable cost 60% of selling price",
+      "manager salary ₹6 lakhs charged to Option II only",
+      "bad debts 7.5 / 22.5 / 47.5 lakhs",
+      "net benefits ₹77.10 / ₹79.25 / ₹72.10 lakhs",
+      "Option I is best — relaxation has an optimum"
+     ],
+     "also_asked_as": ["MTP-M25-S1-FQ2b is the same question at one-fifth scale without the manager's salary"]
+    },
+    {
+     "id": "MTP-M25-S1-FQ2b",
+     "marks": 4,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "ABC Pvt. Ltd. is considering relaxing its present credit policy for accounts receivable and is in the process of evaluating two proposed policies. Currently, the company has annual credit sales of ₹50 lakhs and an accounts receivable turnover ratio of 4 times a year. The current level of loss due to bad debts is ₹1,50,000. The company is required to give a return of 20% on the investment in new accounts receivable. The company's variable costs are 70% of the selling price. Particulars — Present Policy: annual credit sales ₹50,00,000, accounts receivable turnover ratio 4 times, bad debt losses ₹1,50,000. Proposed Policy 1: ₹60,00,000, 3 times, ₹3,00,000. Proposed Policy 2: ₹67,50,000, 2.4 times, ₹4,50,000. IDENTIFY which is the better policy. (4 Marks)",
+     "answer_points": [
+      "**Collection periods from the turnover ratios.** 360 ÷ 4 = **90 days**; 360 ÷ 3 = **120 days**; 360 ÷ 2.4 = **150 days**.",
+      "**Variable costs at 70% of selling price** — ₹35,00,000 · ₹42,00,000 · ₹47,25,000.",
+      "==**Fixed cost, held constant.** Using ICAI's formula, total fixed cost is derived from the present policy and **carried unchanged across all three columns.** With variable cost at 70%, the balance of the present policy's cost structure is fixed.==",
+      "**A. Expected profit** = credit sales − (variable + fixed) − bad debts. ICAI's published row: ==**₹13,50,000 · ₹15,00,000 · ₹15,75,000**==.",
+      "**B. Opportunity cost of investments in accounts receivable** = total cost of credit sales × collection period ÷ 360 × 20%. ICAI's row: ==**₹1,75,000 · ₹2,80,000 · ₹3,93,750**==.",
+      "**C. Net Benefits (A − B)** — ==**₹11,75,000 · ₹12,20,000 · ₹11,81,250**==.",
+      "==**Recommendation:** **'The Proposed Policy 1 should be adopted since the net benefits under this policy are higher as compared to other policies.'**==",
+      "==**The shape of the answer is identical to Banu Limited's, and that is worth noticing.** Expected profit rises monotonically — ₹13.50 → ₹15.00 → ₹15.75 lakhs — while net benefit peaks in the middle: ₹11.75 → ₹12.20 → ₹11.81 lakhs. **The opportunity cost grows faster than the profit**, because the collection period lengthens by 30 days at each step while the contribution margin is only 30% of the incremental sales. ==**Both questions are built to punish the candidate who reads off the highest profit.**==",
+      "**The arithmetic that makes Policy 2 lose.** From Policy 1 to Policy 2, profit rises ₹75,000 but the opportunity cost rises ₹1,13,750 — a net loss of ₹38,750. The driver is the 150-day collection period: ₹47,25,000 of cost held for 150 days ties up ₹19,68,750, against ₹14,00,000 at 120 days.",
+      "**Two notes for the four marks.** Show the **turnover-to-days conversion** as a labelled line; it is the first mark. And give the **recommendation as a sentence**, in ICAI's own words — it is the last."
+     ],
+     "keywords": [
+      "turnover 4 / 3 / 2.4 → 90 / 120 / 150 days",
+      "variable cost 70%",
+      "expected profit ₹13,50,000 / ₹15,00,000 / ₹15,75,000",
+      "opportunity cost ₹1,75,000 / ₹2,80,000 / ₹3,93,750",
+      "net benefits ₹11,75,000 / ₹12,20,000 / ₹11,81,250",
+      "Proposed Policy 1"
+     ],
+     "also_asked_as": ["RTP-S24-FQ11 is the same question at five times the scale with a manager's salary added to the second option"]
+    },
+    {
+     "id": "MTP-S25-S2-FQ3a",
+     "marks": 8,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Oggy Limited has current credit sales of ₹7,20,000. It is considering revising its credit policy. The proposed terms of credit will be \"2/10, net 30\" against the present policy of \"net 30\". As a result, Oggy Limited's credit sales are expected to increase by ₹20,000 and the average collection period will reduce from 30 days to 20 days. It is also expected that 50 percent of the customers will take the discounts and pay on the 10th day and the rest of the customers will pay on the 30th day. Bad debt losses will remain at 2 percent of sales. The variable cost ratio is 70 percent. Its corporate tax rate is 50 percent and the opportunity cost of investment in receivables is 10 percent. ADVISE whether Oggy Limited should change its credit period. (8 Marks)",
+     "answer_points": [
+      "==**This question uses a different, and faster, structure from the Total Approach — ICAI computes a *return on the change* and compares it with the opportunity cost. Follow its lettering.**==",
+      "**The data, restated.** Current credit sales ₹7,20,000; **new level ₹7,40,000**; collection period **30 days → 20 days**; discount 2% with a **50% take-up**; bad debts 2% of sales; variable cost 70%; tax 50%; opportunity cost 10%.",
+      "**Receivables before and after.** **Current level = ₹7,20,000 × 30 ÷ 360 = ₹60,000.** **New level = ₹7,40,000 × 20 ÷ 360 = ₹41,111.**",
+      "**(A) Increased credit sales** = ₹20,000.",
+      "**(B) Contribution from increased credit sales** = ₹20,000 × (1 − 0.70) = ==**₹6,000**==.",
+      "**(C) Bad debt loss on the increase** = ₹20,000 × 2% = ==**₹400**==.",
+      "**(D) Cost of cash discount** = ₹7,40,000 × 0.02 × 0.5 = ==**₹7,400**==. *Note the base: the **whole new sales figure**, not just the increase, because half of all customers take the discount.*",
+      "**(E) After-tax profit** = (B − C − D) × (1 − 0.5) = (₹6,000 − ₹400 − ₹7,400) × 0.5 = ==**₹(900)**==.",
+      "**(F) Decrease in receivable investment** = ₹41,111 − ₹60,000 = ==**₹(18,889)**==.",
+      "**(G) Expected return (E ÷ F)** = ₹(900) ÷ ₹(18,889) = ==**4.8%**==.",
+      "**(H) Net Gain % = 10% − G** = ==**5.2%**==.",
+      "==**Conclusion:** **'Oggy Limited should change the credit policy because it results in net gain of 5.2%.'**==",
+      "==**Why this looks paradoxical and is not.** The policy **loses ₹900 of after-tax profit** — the ₹7,400 discount swamps the ₹6,000 of extra contribution. But it also **releases ₹18,889 of investment**, and that released money earns **10%** elsewhere. The firm is giving up a 4.8% return on the released funds in order to free them for a 10% use, so it gains **5.2% on ₹18,889**, about ₹982 a year. ==**Both the numerator and the denominator are negative, and the negatives are the point: this is a policy that shrinks the receivables book, and the test is whether what it costs is less than what the freed capital earns.**==",
+      "==**The sign discipline, which is the single most important thing in this question.** If either negative is dropped, G comes out as −4.8% and H as 14.8%, which is wrong and conspicuously so. **Carry both signs and state what they mean in words**: a negative (E) is a loss of profit, a negative (F) is a release of funds, and their ratio is the cost of that release.==",
+      "**On the discount base.** A common error is to apply the 2% to the ₹20,000 increase (₹200) or to the 50% of sales *value* taken by discount-takers without the discount rate. ICAI's figure is ₹7,40,000 × 2% × 50% = ₹7,400, and the logic is that **half the customers on the new, higher sales base take two per cent off.**",
+      "**One cross-check available in ten seconds.** The weighted average collection period implied by the take-up is (0.5 × 10) + (0.5 × 30) = **20 days**, which is exactly the figure the question gives. If that arithmetic had not reconciled, the 20 days would have been an inconsistency worth flagging."
+     ],
+     "keywords": [
+      "receivables ₹60,000 → ₹41,111",
+      "contribution ₹6,000",
+      "bad debt ₹400",
+      "discount ₹7,400 on the whole new sales base",
+      "after-tax ₹(900)",
+      "release ₹(18,889)",
+      "expected return 4.8%",
+      "net gain 5.2% — change the policy",
+      "weighted average 20 days checks out"
+     ],
+     "also_asked_as": ["MTP-S26-S2-FQ1a prices a discount policy the other way, by net profit rather than by return"]
+    },
+    {
+     "id": "MTP-S26-S2-FQ1a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "The current credit sales of a firm is ₹20,00,000 and the firm still has unutilized capacity. In order to boost its sales, the firm is willing to relax its credit policy. The firm proposes a new credit policy of 2/15 net 60 days as against the present policy of 1/15 net 45 days. The firm expects an increase in sales by 15%. However, it is also expected that bad debts will go up to 2.5% of sales from 1.5%. The contribution to sales ratio of the firm is 25%. The firm's tax rate is 30% and the firm requires an after tax return of 12% on its investment. Should the firm change the credit policy? (5 Marks)",
+     "answer_points": [
+      "==**ICAI's Evaluation of Credit Policies, present against proposed:**==",
+      "**Credit Sales** — ₹20,00,000 · **₹23,00,000** (115% of ₹20,00,000).",
+      "**Variable Cost (75%)** — ₹(15,00,000) · ₹(17,25,000). *The contribution-to-sales ratio of 25% makes the variable cost ratio 75%.*",
+      "**Contribution** — ₹5,00,000 · ₹5,75,000.",
+      "**Bad Debts** — ₹(30,000), that is 1.5% of ₹20,00,000 · ₹(57,500), that is 2.5% of ₹23,00,000.",
+      "**Profit Before Tax** — ₹4,70,000 · ₹5,17,500.",
+      "**Tax at 30%** — ₹(1,41,000) · ₹(1,55,250).",
+      "**Profit After Tax** — ₹3,29,000 · ₹3,62,250.",
+      "**Opportunity Cost** — ₹(22,500) · ₹(34,500).",
+      "**Net Profit** — ==**₹3,06,500 · ₹3,27,750**==.",
+      "==**Conclusion:** **'In the proposed scheme the net profit is more by ₹21,250 i.e. (₹3,27,750 − ₹3,06,500), hence, the company should change the credit policy.'**==",
+      "**The opportunity cost working, which ICAI shows separately.** **Present policy** = Variable Cost × (Collection period ÷ 360) × Required rate of return = ₹15,00,000 × 45/360 × 12% = ==**₹22,500**==. **Proposed policy** = ₹17,25,000 × 60/360 × 12% = ==**₹34,500**==.",
+      "==**The three assumptions ICAI records, and the first is a real simplification worth flagging:**\n**(i) 'Cash discount is not availed by the debtors.'**\n**(ii) 'Debtors are utilising the full credit period for payment.'**\n**(iii) 'Number of days in a year is 360 days.'**==",
+      "==**Why assumption (i) matters.** The question carefully specifies **2/15 against 1/15** — a doubling of the discount rate — and then ICAI's answer **prices neither discount at all**, taking the collection period as the full 45 and 60 days. The discount terms do no work in the published solution. ==**Reproduce ICAI's answer, since it is the published key, but state the assumption explicitly**: a solution that costed the discount at some take-up rate would be defensible and would reduce the proposed policy's advantage, and naming the assumption is what protects the mark either way. Contrast MTP September 2025 Series II's Oggy Limited, where the 50% take-up is given and the discount **is** costed at ₹7,400.==",
+      "**On the opportunity cost base.** ICAI uses **variable cost**, not total cost of sales — consistent with the question's framing that the firm **'still has unutilized capacity'**, so no additional fixed cost is incurred and the only funds tied up in the extra debtors are variable. ==That is a genuine and defensible refinement of the general formula, and the 'unutilized capacity' clause is the signal for it.==",
+      "**The structural contrast with AB Enterprises worth one line.** Here the relaxation **wins** by ₹21,250; in September 2024's AB Enterprises the deeper relaxation **loses**. The difference is that this firm has spare capacity and a 25% contribution ratio with bad debts rising only one percentage point, while AB Enterprises's Policy B doubles the collection period and multiplies bad debts three and a half times. ==**Relaxation pays where capacity is idle and the credit quality holds; it destroys value where neither is true.**=="
+     ],
+     "keywords": [
+      "contribution ratio 25% so variable cost 75%",
+      "sales ₹23,00,000",
+      "bad debts 1.5% → 2.5%",
+      "opportunity cost on variable cost, 45 and 60 days at 12%",
+      "₹22,500 and ₹34,500",
+      "net profit ₹3,06,500 → ₹3,27,750",
+      "better by ₹21,250 — change the policy",
+      "ICAI assumes the cash discount is not availed"
+     ],
+     "also_asked_as": ["MTP-S25-S2-FQ3a prices the discount explicitly on a 50% take-up"]
+    },
+    {
+     "id": "PYQ-M26-MCQ6",
+     "marks": 2,
+     "status": "VERIFIED",
+     "format": "MCQ",
+     "question": "A company has credit sales of ₹20,00,000 with an average collection period of 35 days. It wants to liberalize its existing credit terms which are expected to increase sales to ₹25,00,000. However, the average collection period is expected to decline to 10 days. Profit Volume ratio is 20% and opportunity cost (post-tax) is 6%. Tax rate is 40%. Assume 360 days in a year. What is the incremental investment in debtors and its impact on post-tax profitability? (A) ₹(1,25,000) and ₹7,500 (B) ₹(1,00,000) and ₹(6,000) (C) ₹(1,25,000) and ₹(7,500) (D) ₹(1,00,000) and ₹6,000",
+     "answer_points": [
+      "**Investment in debtors is computed at cost, not at sales value.** With a P/V ratio of 20%, the **variable cost ratio is 80%**.",
+      "**Present investment** = ₹20,00,000 × 0.80 × 35 ÷ 360 = ₹16,00,000 × 35/360 = ==**₹1,55,556**==.",
+      "**Proposed investment** = ₹25,00,000 × 0.80 × 10 ÷ 360 = ₹20,00,000 × 10/360 = ==**₹55,556**==.",
+      "**Incremental investment** = ₹55,556 − ₹1,55,556 = ==**₹(1,00,000)**== — a **release** of ₹1,00,000, which is why the figure is bracketed.",
+      "**Impact on post-tax profitability of that release** = ₹1,00,000 × 6% = ==**₹6,000**==, a **saving**, since the opportunity cost is given **post-tax** and so needs no further tax adjustment.",
+      "**Answer: ==(D) ₹(1,00,000) and ₹6,000==**, which is ICAI's published key.",
+      "==**Why the ₹(1,25,000) options are there.** ₹20,00,000 × 35/360 = ₹1,94,444 and ₹25,00,000 × 10/360 = ₹69,444, a difference of **₹1,25,000** — the answer you get by computing the investment at **sales value** instead of at cost. ==**That is the distractor the question is built around, and it is the error §19's formula exists to prevent: the funds tied up in a debtor are the cost of what was sold, not the price.**==",
+      "==**A point of fact worth recording about ICAI's own pairing.** The 'impact on post-tax profitability' column in the key is **only the ₹6,000 of opportunity-cost saving on the released investment.** It does **not** include the gain from the extra ₹5,00,000 of sales, which at a 20% P/V ratio is ₹1,00,000 of contribution, ₹60,000 after tax at 40%. ==So the ₹6,000 answers a narrower question than the words 'impact on post-tax profitability' suggest — it is the impact **of the incremental investment**, which is what the first half of the question asked about. **Read the column as 'the return on the change in investment', and the pairing makes sense.**==",
+      "**What makes this question unusual, and worth a note.** The collection period **falls** while sales **rise** — a liberalisation that speeds up collection. That is counter-intuitive and is what makes both figures negative-then-positive. ==Whenever a relaxation shortens the collection period, expect a release of funds and an opportunity-cost **saving**, and keep the brackets.==",
+      "**And the full picture, if the question had asked for it.** Extra contribution ₹1,00,000, post-tax ₹60,000, plus the ₹6,000 saving, against no change in bad debts or discount, gives a net gain of ₹66,000 — so the liberalisation is clearly worth adopting. The MCQ simply does not test that step."
+     ],
+     "keywords": [
+      "P/V 20% so variable cost 80%",
+      "investment at cost, not sales value",
+      "₹1,55,556 → ₹55,556",
+      "release ₹(1,00,000)",
+      "6% post-tax on the release = ₹6,000",
+      "option (D)",
+      "₹1,25,000 is the sales-value error"
+     ],
+     "also_asked_as": ["MTP-S25-S2-FQ3a computes the same release-and-return logic as a percentage net gain"]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.47-01",
+     "angle": "Opportunity cost base",
+     "difficulty": "Medium",
+     "question": "A firm's credit sales are ₹40,00,000, its variable cost ratio 75%, its fixed costs ₹4,00,000 and its collection period 72 days. At a required return of 15% and a 360-day year, the opportunity cost of the investment in receivables under the Total Approach is:",
+     "options": {
+      "A": "₹1,02,000",
+      "B": "₹1,20,000",
+      "C": "₹90,000",
+      "D": "₹12,00,000"
+     },
+     "answer": "A",
+     "explanation": "ICAI's formula is Total Cost of Credit Sales × collection period ÷ 360 × required rate of return. Total cost = ₹30,00,000 variable + ₹4,00,000 fixed = ₹34,00,000. So ₹34,00,000 × 72/360 × 15% = ₹6,80,000 × 15% = ₹1,02,000. Option B computes on sales value (₹40,00,000 × 72/360 × 15%), the error PYQ May 2026 MCQ 6 is built around; option C omits the fixed cost."
+    },
+    {
+     "id": "MCQ-F09.47-02",
+     "angle": "Which policy wins",
+     "difficulty": "Hard",
+     "question": "Three policies give expected profits of ₹13,50,000, ₹15,00,000 and ₹15,75,000, with opportunity costs of investment in receivables of ₹1,75,000, ₹2,80,000 and ₹3,93,750 respectively. Under the Total Approach the policy to be adopted is:",
+     "options": {
+      "A": "The third, because it produces the highest expected profit",
+      "B": "The second, because it produces the highest net benefit",
+      "C": "The first, because it carries the lowest opportunity cost",
+      "D": "Any of the three, since the differences are not material"
+     },
+     "answer": "B",
+     "explanation": "Net benefits are ₹11,75,000, ₹12,20,000 and ₹11,81,250, so the second policy wins — these are MTP May 2025 Series I's published figures for ABC Pvt. Ltd. The question is the chapter's standing trap: expected profit rises monotonically while net benefit peaks in the middle, because the opportunity cost grows faster than the contribution as the collection period lengthens. RTP September 2024's Banu Limited has the same shape."
+    }
+   ],
+   "recap": [
+    "Two approaches: Total and Incremental. ICAI uses the Total Approach in seven of eight published answers.",
+    "Total Approach: credit sales, less variable and fixed costs, less bad debts, less cash discount, less tax, then the opportunity cost of receivables, giving net benefit.",
+    "Fixed cost is computed from the present policy's volume and held constant across every column.",
+    "The opportunity cost is computed on the total cost of credit sales × collection period ÷ 360 × required return.",
+    "Convert any receivables turnover ratio into days first: 4, 3 and 2.4 times are 90, 120 and 150 days.",
+    "Never pick the policy with the highest profit; net benefit peaks before profit does, as both AB Enterprises and ABC Pvt Ltd show.",
+    "Where a relaxation shortens collection, the investment falls and the opportunity cost becomes a saving — keep the negative sign."
+   ]
+  }
+ ]
+}

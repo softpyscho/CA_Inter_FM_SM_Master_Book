@@ -1,0 +1,715 @@
+{
+ "concepts": [
+  {
+   "code": "F09.56 + F09.57 + F09.58",
+   "title": "26–27.1 Financing of Working Capital — Introduction, Sources of Finance, and Spontaneous Sources",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 1 (May 2024 Q8(ii); RTP Jan 2026 Q11(b) on the same heading is placed in FM Ch 2 under F02.22) · MTP 1 (Jan 2025 Series I Q4(a), placed under F09.09)",
+   "understand": [
+    "==**The opening instruction, which is the whole logic of Unit VI** (SM §26): **'After determining the amount of working capital required, the next step to be taken by the finance manager is to arrange the funds. As discussed earlier, it is advisable that the finance manager bifurcate the working capital requirements between the permanent working capital and temporary working capital.'**==",
+    "==**And the rule that follows:** **'The permanent working capital is always needed irrespective of sales fluctuation; hence it should be financed by the long-term sources such as debt and equity. On the contrary the temporary working capital may be financed by the short-term sources of finance.'**==",
+    "==**The two broad categories** (SM §26):\n**Spontaneous Sources** — **'those which naturally arise in the course of business operations. Trade credit, credit from employees, credit from suppliers of services, etc. are some of the examples which may be quoted in this respect.'**\n**Negotiated Sources** — **'as the name implies, are those which have to be specifically negotiated with lenders say, commercial banks, financial institutions, general public etc.'**==",
+    "==**The six parameters guiding the choice of source** (SM §26) — the list to give for any 'what factors' question on financing:\n**(i) Cost factor**\n**(ii) Impact on credit rating**\n**(iii) Feasibility**\n**(iv) Reliability**\n**(v) Restrictions**\n**(vi) Hedging approach or matching approach i.e., Financing of assets with the same maturity as of assets.**==",
+    "==**§27.1 The three spontaneous sources, in ICAI's order:**==",
+    "==**(a) Trade Credit.** **'Trade credit is a spontaneous source of finance which is normally extended to the purchaser organization by the sellers or services providers.'** And the figure worth quoting: **'This source of financing working capital is more important since it contributes to about one-third of the total short-term requirements. The dependence on this source is higher due to lesser cost of finance as compared with other sources.'** **'Trade credit is guaranteed when a company acquires supplies, merchandise or materials and does not pay immediately. If a buyer is able to get the credit without completing much formality, it is termed as open account trade credit.'**==",
+    "==**(b) Bills Payable.** **'in the case of Bills Payable the purchaser will have to give a written promise to pay the amount of the bill/invoice either on demand or at a fixed future date to the seller or the bearer of the note.'** ICAI's gloss on both: **'Due to its simplicity, easy availability and lesser explicit cost, the dependence on this source is much more in all small or big organizations. Especially, for small enterprises this form of credit is more helpful to small and medium enterprises. The amount of such financing depends on the volume of purchases and the payment timing.'**==",
+    "==**(c) Accrued Expenses.** **'Another spontaneous source of short-term financing is the accrued expenses or the outstanding expenses liabilities. The accrued expenses refer to the services availed by the firm, but the payment for which has yet to be made. It is a built in and an automatic source of finance as most of the services like wages, salaries, taxes, duties etc., are paid at the end of the period.'** And the key sentence: **'The accrued expenses represent an interest free source of finance. There is no explicit or implicit cost associated with the accrued expenses and the firm can ensure liquidity by accruing these expenses.'**==",
+    "==**The distinction between trade credit and accrued expenses that is worth stating, because it is the answer to 'what is the cost of these sources'.** Trade credit has **no explicit cost but a real implicit cost** — the discount forgone, which SM §24(a) calls **'a high implicit cost'** and §25 values at 23.5% or more. **Accrued expenses have neither:** ICAI says expressly **'There is no explicit or implicit cost associated with the accrued expenses.'** ==**So of the three spontaneous sources, accruals are the only genuinely free finance in the whole syllabus**, and the limit on them is not cost but the fact that the firm cannot choose when wages and taxes fall due.==",
+    "==**Why 'spontaneous' matters for the arithmetic, not just the theory.** Spontaneous sources are the **current liabilities deducted in the working-capital statement** of §6.2 — trade payables, outstanding wages, outstanding overheads. **Negotiated sources are not deducted**, because SM §6.2 says working capital is lowered by current liabilities **'(other than bank credit)'**. ==**That single parenthesis is the link between Unit I and Unit VI: the statement computes what the negotiated sources must fund, after the spontaneous ones have done their work.**==",
+    "**A placement note.** RTP January 2026 Q11(b) — **'What do you understand by Spontaneous Sources of finance and explain its sources of finance?'** — is the most direct question on this heading in the period reviewed, and it is already placed in **FM Chapter 2 under F02.22 Short-term Sources of Finance**, which covers the same ground. It is cross-referenced here rather than moved."
+   ],
+   "example": "RTP May 2024 Q8(ii) asks for 'the importance of trade credit and accruals as source of working capital' and then, pointedly, 'What is the cost of these sources?' The second half is the whole question: trade credit's cost is the discount forgone — an implicit cost that can exceed 20% a year — while accruals have no explicit or implicit cost at all. A candidate who answers 'both are free' has missed the distinction ICAI drew two sections earlier.",
+   "provisions": [
+    {
+     "ref": "Bifurcate permanent and temporary (SM §26)",
+     "status": "VERIFIED",
+     "requirement": "Permanent working capital from long-term sources such as debt and equity; temporary from short-term sources.",
+     "exam_angle": "The opening sentence of any financing answer."
+    },
+    {
+     "ref": "Spontaneous and negotiated sources (SM §26)",
+     "status": "VERIFIED",
+     "requirement": "Spontaneous arise naturally in the course of business operations; negotiated must be specifically negotiated with lenders.",
+     "exam_angle": "Trade credit, credit from employees and credit from suppliers of services are ICAI's own examples of the first."
+    },
+    {
+     "ref": "Six parameters guiding the choice (SM §26)",
+     "status": "VERIFIED",
+     "requirement": "Cost factor, impact on credit rating, feasibility, reliability, restrictions, and the hedging or matching approach.",
+     "exam_angle": "The answer to 'what factors should it consider' in a financing question."
+    },
+    {
+     "ref": "Trade credit's share (SM §27.1(a))",
+     "status": "VERIFIED",
+     "requirement": "It contributes about one-third of the total short-term requirements, and dependence is higher because of its lower cost.",
+     "exam_angle": "A quotable figure that shows why the source matters."
+    },
+    {
+     "ref": "Accrued expenses have no cost (SM §27.1(c))",
+     "status": "VERIFIED",
+     "requirement": "An interest-free source with no explicit or implicit cost; a built-in and automatic source because wages, salaries, taxes and duties are paid at the end of the period.",
+     "exam_angle": "The one source in the syllabus that is genuinely free."
+    }
+   ],
+   "keywords": [
+    "bifurcate permanent and temporary",
+    "spontaneous sources",
+    "negotiated sources",
+    "cost, credit rating, feasibility, reliability, restrictions",
+    "hedging or matching approach",
+    "one-third of total short-term requirements",
+    "open account trade credit",
+    "written promise to pay",
+    "built in and automatic source",
+    "no explicit or implicit cost",
+    "other than bank credit"
+   ],
+   "memory": {
+    "trick": "**Spontaneous comes, negotiated is fetched.** Three spontaneous sources — **trade credit, bills payable, accrued expenses** — arrive on their own because the business trades and employs. Everything else in Unit VI has to be asked for. ==And of the three, only **accruals** cost nothing at all; trade credit costs the discount you did not take.==",
+    "key": [
+     ["Permanent working capital", "Long-term sources — debt and equity"],
+     ["Temporary working capital", "Short-term sources"],
+     ["Spontaneous", "Arise naturally — trade credit, credit from employees, credit from suppliers of services"],
+     ["Negotiated", "Specifically negotiated — banks, financial institutions, the public"],
+     ["Six parameters", "Cost · credit rating · feasibility · reliability · restrictions · matching"],
+     ["Trade credit", "About one-third of short-term requirements; 'open account' if informal"],
+     ["Bills payable", "A written promise, on demand or at a fixed future date"],
+     ["Accrued expenses", "Wages, salaries, taxes, duties — no explicit or implicit cost"],
+     ["Link to §6.2", "Spontaneous sources are the current liabilities deducted; bank credit is not"]
+    ]
+   },
+   "mistakes": [
+    "Saying permanent working capital should be financed short term. ICAI says the opposite, and §26 opens with it.",
+    "Calling trade credit a free source. Its explicit cost is nil but its implicit cost — the discount forgone — can exceed 20% a year.",
+    "Saying accrued expenses have an implicit cost. ICAI is explicit that they have neither explicit nor implicit cost.",
+    "Treating a bank overdraft as a spontaneous source. It is negotiated, and §6.2 excludes bank credit from the current liabilities deducted in the working-capital statement.",
+    "Giving only four or five of the six parameters. 'Restrictions' and 'reliability' are the two usually dropped, and the sixth — the matching approach — is the one that carries the argument.",
+    "Confusing bills payable with bills discounting. Bills payable is a source of credit **taken** by the buyer; bills discounting (§27.6) is finance **raised** by the seller against a bill."
+   ],
+   "compare": {
+    "title": "The three spontaneous sources against each other",
+    "headers": ["", "Trade credit", "Bills payable", "Accrued expenses"],
+    "rows": [
+     ["How it arises", "Supplies acquired and not paid for immediately", "A written promise to pay given to the seller", "Services availed for which payment is not yet due"],
+     ["Formality", "Often none — 'open account trade credit'", "A negotiable instrument, payable on demand or at a fixed future date", "None at all — built in and automatic"],
+     ["Explicit cost", "None", "None", "None"],
+     ["Implicit cost", "The cash discount forgone — 'a high implicit cost'", "The same, where a discount was available", "None — ICAI says so expressly"],
+     ["What it depends on", "The volume of purchases and the payment timing", "The volume of purchases and the payment timing", "The payroll and statutory payment cycle"],
+     ["Share of short-term finance", "About one-third of the total short-term requirements", "Included in the same estimate", "Not separately quantified by ICAI"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §24–25: the cost of availing trade credit, and the arithmetic of the discount forgone",
+    "🔗 FM Ch 9 §6.2: the current liabilities deducted in the working-capital statement — spontaneous sources at work",
+    "🔗 FM Ch 9 §4.3: the aggressive and conservative approaches, which decide how much of the temporary layer is pushed onto short-term funds",
+    "🔗 FM Ch 2 §7 and §22: short-term sources of finance, where RTP Jan 2026's spontaneous-sources question is placed",
+    "🔗 FM Ch 9 §28–29: the negotiated bank sources that fund what the spontaneous ones do not"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Explain the importance of trade credit and accruals as a source of working capital, and the cost of these sources (4 marks)",
+     "What do you understand by spontaneous sources of finance (2–4 marks)",
+     "What parameters should guide the choice of a source for financing working capital (2–4 marks)",
+     "Why should permanent and temporary working capital be financed differently (2 marks)"
+    ],
+    "approach": [
+     "Open with the bifurcation rule; it is one line and it frames everything.",
+     "Define spontaneous against negotiated, then name the three spontaneous sources with one line each.",
+     "Where the question asks about cost, distinguish explicit from implicit and say that accruals have neither.",
+     "For the parameters question, give all six and develop the matching approach, which is the one with analytical content."
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "RTP-M24-FQ8-ii",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Descriptive",
+     "question": "EXPLAIN the importance of trade credit and accruals as source of working capital. What is the cost of these sources?",
+     "answer_points": [
+      "==**The question has two halves and the second is where the marks separate. Answer them in order.**==",
+      "**Set the frame.** Both are **spontaneous sources** of working capital finance: SM §26 defines these as **'those which naturally arise in the course of business operations'**, as against **negotiated sources**, which **'have to be specifically negotiated with lenders say, commercial banks, financial institutions, general public etc.'**",
+      "==**Trade credit — its importance.** **'Trade credit is a spontaneous source of finance which is normally extended to the purchaser organization by the sellers or services providers.'** ICAI quantifies its importance: **'This source of financing working capital is more important since it contributes to about one-third of the total short-term requirements. The dependence on this source is higher due to lesser cost of finance as compared with other sources.'**==",
+      "**How it arises, and the two forms.** **'Trade credit is guaranteed when a company acquires supplies, merchandise or materials and does not pay immediately.'** Where the buyer gets credit **'without completing much formality, it is termed as open account trade credit'**; where the purchaser **'gives a written promise to pay the amount of the bill/invoice either on demand or at a fixed future date'**, it is **bills payable**. **'Due to its simplicity, easy availability and lesser explicit cost, the dependence on this source is much more in all small or big organizations'**, and it **'is more helpful to small and medium enterprises'**. The amount available **'depends on the volume of purchases and the payment timing.'**",
+      "==**Accruals — their importance.** **'Another spontaneous source of short-term financing is the accrued expenses or the outstanding expenses liabilities. The accrued expenses refer to the services availed by the firm, but the payment for which has yet to be made.'** **'It is a built in and an automatic source of finance as most of the services like wages, salaries, taxes, duties etc., are paid at the end of the period.'**==",
+      "==**The cost — and this is the half of the question that is actually being tested.**==",
+      "==**Trade credit has no explicit cost but a substantial implicit one.** SM §24(a) is blunt: **'Normally it is considered that the trade credit does not carry any cost. However, it carries the following costs'** — the first being **Price**: **'There is often a discount on the price that the firm undergoes when it uses trade credit, since it can take advantage of the discount only if it pays immediately. This discount can translate into a high implicit cost.'** ==Quantify it with ICAI's own formula from §25: on terms of **2/10 net 45** the cost of not taking the discount is **[100 ÷ 98]^(365/35) − 1 = 23.5% a year**; on **2/10 net 30** refused by a firm already paying on day 15 it reaches **149%** (Illustration 18). **The other costs ICAI lists are loss of goodwill, the cost of managing creditors, and the conditions suppliers impose such as a minimum order size.**==",
+      "==**Accruals have no cost at all, and ICAI says so in terms:** **'The accrued expenses represent an interest free source of finance. There is no explicit or implicit cost associated with the accrued expenses and the firm can ensure liquidity by accruing these expenses.'** ==**This is the only source in the syllabus of which that can be said.**==",
+      "==**The distinction to close on, because it is the answer the question is driving at.** **Trade credit is cheap but not free** — its price is the discount forgone, and that price is high enough that a firm able to borrow at 12% should normally take the discount instead. **Accruals are free but not elective** — the firm cannot choose when wages, salaries, taxes and duties fall due, so the amount of finance they provide is set by the payroll and statutory cycle rather than by any decision of the finance manager. ==**One source is a choice with a cost; the other is a cost-free constraint.**==",
+      "**One sentence on the limit of both, which shows judgement.** SM §23 warns that **'slow payment by you may create ill-feeling and your supplies could be disrupted and also create a bad image for your company'** — so trade credit cannot be stretched indefinitely; and accruals cannot be stretched at all without default on wages or statutory dues. Beyond these, the firm must go to the **negotiated sources** of §27.2 onwards."
+     ],
+     "keywords": [
+      "spontaneous against negotiated",
+      "one-third of total short-term requirements",
+      "open account trade credit",
+      "bills payable — a written promise",
+      "built in and automatic source",
+      "no explicit cost but a high implicit cost",
+      "23.5% on 2/10 net 45; 149% in Illustration 18",
+      "no explicit or implicit cost for accruals",
+      "cheap but not free against free but not elective"
+     ],
+     "also_asked_as": ["MTP-S24-S1-FQ4a asks the costs of availing trade credit alone; RTP Jan 2026 Q11(b) asks for spontaneous sources directly and is placed in FM Ch 2 under F02.22"]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.56-01",
+     "angle": "Cost of spontaneous sources",
+     "difficulty": "Medium",
+     "question": "According to the study material, which of the following is true of accrued expenses as a source of working capital finance?",
+     "options": {
+      "A": "There is no explicit or implicit cost associated with them",
+      "B": "They carry no explicit cost but a high implicit cost in the form of the discount forgone",
+      "C": "They carry an implicit cost equal to the firm's weighted average cost of capital",
+      "D": "They are a negotiated rather than a spontaneous source"
+     },
+     "answer": "A",
+     "explanation": "SM §27.1(c): 'The accrued expenses represent an interest free source of finance. There is no explicit or implicit cost associated with the accrued expenses and the firm can ensure liquidity by accruing these expenses.' Option B describes **trade credit**, whose implicit cost is the discount forgone — §24(a) calls it 'a high implicit cost' and §25 values it at 23.5% on terms of 2/10 net 45."
+    },
+    {
+     "id": "MCQ-F09.56-02",
+     "angle": "The six parameters",
+     "difficulty": "Medium",
+     "question": "Which of the following is listed in the study material as one of the parameters guiding the finance manager's choice of a source for financing working capital?",
+     "options": {
+      "A": "The dividend payout ratio",
+      "B": "The hedging or matching approach, that is financing of assets with the same maturity as of assets",
+      "C": "The number of operating cycles in the year",
+      "D": "The current assets to fixed assets ratio"
+     },
+     "answer": "B",
+     "explanation": "SM §26 lists six parameters: cost factor, impact on credit rating, feasibility, reliability, restrictions, and 'Hedging approach or matching approach i.e., Financing of assets with the same maturity as of assets'. The sixth is the one with analytical content — it is why permanent working capital is funded long term and temporary working capital short term."
+    }
+   ],
+   "recap": [
+    "Bifurcate the requirement: permanent working capital from long-term debt and equity, temporary from short-term sources.",
+    "Spontaneous sources arise naturally in business operations; negotiated sources must be specifically negotiated with lenders.",
+    "Six parameters guide the choice: cost, impact on credit rating, feasibility, reliability, restrictions, and the hedging or matching approach.",
+    "The three spontaneous sources are trade credit, bills payable and accrued expenses.",
+    "Trade credit contributes about one-third of total short-term requirements and is informal where it is 'open account'.",
+    "Trade credit has no explicit cost but a high implicit one — the discount forgone. Accrued expenses have no explicit or implicit cost at all."
+   ]
+  },
+  {
+   "code": "F09.59 + F09.60 + F09.61 + F09.62",
+   "title": "27.2–27.5 Inter-corporate Loans and Deposits, Commercial Papers, Funds Generated from Operations, and Public Deposits",
+   "activity": "Medium",
+   "update_sensitive": true,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 1 (Mar 2024 Series I MCQ 4 on public deposits, placed in FM Ch 2 under F02.23)",
+   "understand": [
+    "==**§27.2 Inter-corporate Loans and Deposits.** **'Sometimes, organizations having surplus funds invest for short-term period with other organizations. The rate of interest will be higher than the bank rate of interest and depends on the financial soundness of the borrower company. This source of finance reduces dependence on bank financing.'**==",
+    "==**The symmetry worth noticing.** An inter-corporate deposit is a **marketable security** to the lender — SM §13 names **'Inter-corporate deposits'** as one of the three instruments the choice of marketable securities is **'mainly limited to'** — and a **source of working capital finance** to the borrower. ==Unit II and Unit VI are looking at the same instrument from opposite sides of the transaction.==",
+    "==**§27.3 Commercial Papers — the most specified instrument in Unit VI, and the one most likely to carry an MCQ.** **'Commercial Paper (CP) is an unsecured promissory note issued by a firm to raise funds for a short period. This is an instrument that enables highly rated corporate borrowers for short-term borrowings and provides an additional financial instrument to investors with a freely negotiable interest rate.'**==",
+    "==**The two specifications to memorise:** **'The maturity period ranges from minimum 7 days to less than 1 year from the date of issue.'** And: **'CP can be issued in denomination of ₹5 lakhs or multiples thereof.'**==",
+    "==**The five advantages of CP to the issuer** (SM §27.3):\n**(a) 'CP is sold on an unsecured basis and does not contain any restrictive conditions.'**\n**(b) 'Maturing CP can be repaid by selling new CP and thus can provide a continuous source of funds.'**\n**(c) 'Maturity of CP can be tailored to suit the requirement of the issuing firm.'**\n**(d) 'CP can be issued as a source of fund even when money market is tight.'**\n**(e) 'Generally, the cost of CP to the issuing firm is lower than the cost of commercial bank loans.'**==",
+    "==**The two limitations:**\n**(i) 'Only highly credit rating firms can use it. New and moderately rated firm generally are not in a position to issue CP.'**\n**(ii) 'CP can neither be redeemed before maturity nor can be extended beyond maturity.'**==",
+    "==**The tension between advantage (b) and limitation (ii), which is the examinable subtlety.** A maturing CP **can be rolled over by issuing a new one**, giving 'a continuous source of funds' — but **the existing paper cannot itself be extended or redeemed early.** ==So the continuity is achieved by replacement, not by renegotiation, and that exposes the issuer to **roll-over risk** if its rating falls or the market closes. Advantage (d) — issuable even when the money market is tight — is ICAI's counter to that concern.==",
+    "==**§27.4 Funds Generated from Operations.** **'Funds generated from operations, during an accounting period, increase working capital by an equivalent amount. The two main components of funds generated from operations are profit and depreciation. Working capital will increase by the extent of funds generated from operations.'**==",
+    "==**Why depreciation belongs in that list, which puzzles candidates.** Depreciation is **not** a source of cash in itself, but it is a **non-cash charge already deducted in arriving at profit**, so adding it back gives the funds the operations actually generated. ==It is the same adjustment §10.2's long-period cash budget makes — **'Add: Depreciation and other development expenses incurred to be written off'** — and the same reason §6.3 removes it from the cash cost of sales. **The chapter treats depreciation consistently in three places: excluded from a cash cost, added back to a profit, and never shown as a payment.**==",
+    "==**§27.5 Public Deposits.** **'Deposits from the public are one of the important sources of finance particularly for well-established big companies with huge capital base for short and medium-term.'** ==Note the three qualifications ICAI attaches: **well-established**, **big**, and **huge capital base** — public deposits are not available to a small or new company, which is the same constraint as limitation (i) on commercial paper.==",
+    "==**The regulatory dimension, and why this block is marked update-sensitive.** The acceptance of public deposits by companies is governed by the **Companies Act, 2013 and the rules made under it**, which limit the amount, the tenure and the eligibility of the depositing company — and MTP March 2024 Series I asked an MCQ on **'the maximum period for which a company can accept Public Deposits'**. That question is placed in **FM Chapter 2 under F02.23 Other Sources of Financing**, where the detail sits. ==**Verify any period or limit against the Study Material edition applicable to the attempt before quoting it; Chapter 9 §27.5 itself gives no figures.**=="
+   ],
+   "example": "MTP March 2024 Series I's Part I MCQ 4 asks 'What is the maximum period for which company can accept Public Deposits?' — the only official question in the period reviewed on any of these four sources, and it is answered from Chapter 2 rather than from here. The lesson for Chapter 9 is that §27.2 to §27.5 are examined as recognition rather than computation: know the maturity range and denomination of commercial paper, know that inter-corporate deposits carry a rate above the bank rate, and know that funds from operations are profit plus depreciation.",
+   "provisions": [
+    {
+     "ref": "Inter-corporate loans and deposits (SM §27.2)",
+     "status": "VERIFIED",
+     "requirement": "Surplus funds placed short term with other organisations; the rate exceeds the bank rate and depends on the borrower's financial soundness; it reduces dependence on bank financing.",
+     "exam_angle": "The same instrument is a marketable security to the lender under §13."
+    },
+    {
+     "ref": "Commercial paper — definition and specifications (SM §27.3)",
+     "status": "VERIFIED",
+     "requirement": "An unsecured promissory note for short-period funds; maturity from a minimum of 7 days to less than 1 year; denomination of ₹5 lakhs or multiples thereof.",
+     "exam_angle": "The two numbers are the most MCQ-able facts in Unit VI."
+    },
+    {
+     "ref": "CP advantages and limitations (SM §27.3)",
+     "status": "VERIFIED",
+     "requirement": "Five advantages — unsecured with no restrictive conditions, roll-over gives continuity, tailored maturity, issuable in a tight market, cheaper than bank loans. Two limitations — only highly rated firms, and no early redemption or extension.",
+     "exam_angle": "Five against two; the limitation about redemption is the one candidates omit."
+    },
+    {
+     "ref": "Funds generated from operations (SM §27.4)",
+     "status": "VERIFIED",
+     "requirement": "Profit and depreciation are the two main components; working capital increases by the extent of funds generated.",
+     "exam_angle": "Depreciation is added back as a non-cash charge, consistent with §6.3 and §10.2."
+    },
+    {
+     "ref": "Public deposits (SM §27.5)",
+     "status": "UPDATE SENSITIVE",
+     "requirement": "An important source particularly for well-established big companies with a huge capital base, for short and medium term.",
+     "exam_angle": "The statutory limits are in Chapter 2; verify them against the applicable edition."
+    }
+   ],
+   "keywords": [
+    "inter-corporate deposits",
+    "higher than the bank rate",
+    "reduces dependence on bank financing",
+    "unsecured promissory note",
+    "highly rated corporate borrowers",
+    "freely negotiable interest rate",
+    "7 days to less than 1 year",
+    "₹5 lakhs or multiples thereof",
+    "no restrictive conditions",
+    "continuous source of funds",
+    "neither redeemed before maturity nor extended",
+    "profit and depreciation",
+    "well-established big companies"
+   ],
+   "memory": {
+    "trick": "**Seven days to a year, five lakhs a slice.** The two commercial-paper numbers, and they are the likeliest MCQ in Unit VI. ==For the rest: an inter-corporate deposit pays **above** the bank rate; funds from operations are **profit plus depreciation**; public deposits need a company that is **well-established, big, and heavily capitalised.**==",
+    "key": [
+     ["Inter-corporate deposits", "Short term, above bank rate, depends on the borrower's soundness"],
+     ["CP — what", "Unsecured promissory note, freely negotiable rate"],
+     ["CP — who", "Highly rated corporate borrowers only"],
+     ["CP — how long", "Minimum 7 days to less than 1 year"],
+     ["CP — how much", "₹5 lakhs or multiples thereof"],
+     ["CP advantages", "Unsecured, roll-over continuity, tailored maturity, issuable in a tight market, cheaper than bank loans"],
+     ["CP limitations", "Only highly rated firms; no early redemption, no extension"],
+     ["Funds from operations", "Profit + depreciation"],
+     ["Public deposits", "Well-established big companies, huge capital base, short and medium term"]
+    ]
+   },
+   "mistakes": [
+    "Giving commercial paper's maturity as 'up to one year'. ICAI's words are 'minimum 7 days to **less than** 1 year' — a CP cannot run for a full year.",
+    "Saying commercial paper is secured, or that it carries restrictive covenants. ICAI's first advantage is that it is sold on an unsecured basis and contains no restrictive conditions.",
+    "Saying a commercial paper can be extended on maturity. It cannot; a **new** CP can be issued to repay the old one, which is a different thing.",
+    "Omitting depreciation from funds generated from operations. It is one of ICAI's two named components.",
+    "Treating public deposits as available to any company. ICAI confines them to well-established big companies with a huge capital base.",
+    "Quoting a maximum period for public deposits from memory. The statutory limits are edition-sensitive and sit in Chapter 2."
+   ],
+   "compare": {
+    "title": "The four negotiated sources of §27.2 to §27.5",
+    "headers": ["Source", "Who can use it", "Term", "Cost"],
+    "rows": [
+     ["Inter-corporate loans and deposits", "Any company, subject to the lender's view of its soundness", "Short term", "Above the bank rate, varying with financial soundness"],
+     ["Commercial paper", "Highly rated corporate borrowers only", "Minimum 7 days to less than 1 year", "Generally lower than commercial bank loans"],
+     ["Funds generated from operations", "Every profitable company", "Permanent, as earned", "No explicit cost; the opportunity cost of retention"],
+     ["Public deposits", "Well-established big companies with a huge capital base", "Short and medium term", "Interest, within the statutory ceiling"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 2 §7 and §23: short-term and other sources of finance, where public deposits and commercial paper are developed and where MTP Mar 2024's MCQ is placed",
+    "🔗 FM Ch 9 §13: inter-corporate deposits and commercial paper as marketable securities — the lender's side",
+    "🔗 FM Ch 9 §12.3: money market operations, the market in which CP is placed",
+    "🔗 FM Ch 9 §10.2: the long-period cash budget, which adds depreciation back in the same way as §27.4",
+    "🔗 FM Ch 8 §5: retained earnings and growth, the dividend-side view of funds generated from operations"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Explain commercial paper, with its advantages and limitations (4 marks)",
+     "An MCQ on the maturity period or the denomination of commercial paper (2 marks)",
+     "What are inter-corporate loans and deposits (2 marks)",
+     "Explain funds generated from operations as a source of working capital (2 marks)"
+    ],
+    "approach": [
+     "For commercial paper, give the definition, the two specifications, then the five advantages and two limitations — that is a full four marks with nothing invented.",
+     "Name the roll-over point and the no-extension point together, and say they are compatible: continuity comes from replacement, not renewal.",
+     "For funds from operations, name both components and explain why depreciation is added back.",
+     "For public deposits, give ICAI's three qualifications and say that the statutory limits are in Chapter 2."
+    ]
+   },
+   "official_questions": [],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.59-01",
+     "angle": "CP specifications",
+     "difficulty": "Easy",
+     "question": "According to the study material, the maturity period of commercial paper and its minimum denomination are:",
+     "options": {
+      "A": "Minimum 15 days to less than 1 year, in denominations of ₹5 lakhs",
+      "B": "Minimum 7 days to 3 years, in denominations of ₹1 lakh",
+      "C": "Minimum 7 days to less than 1 year, in denominations of ₹5 lakhs or multiples thereof",
+      "D": "Minimum 30 days to 1 year, in denominations of ₹10 lakhs"
+     },
+     "answer": "C",
+     "explanation": "SM §27.3: 'The maturity period ranges from minimum 7 days to less than 1 year from the date of issue. CP can be issued in denomination of ₹5 lakhs or multiples thereof.' Note 'less than 1 year', not 'up to 1 year' — a commercial paper cannot run for a full year, which keeps it a money-market instrument."
+    },
+    {
+     "id": "MCQ-F09.59-02",
+     "angle": "CP limitations",
+     "difficulty": "Medium",
+     "question": "Which of the following is given in the study material as a **limitation** of commercial paper?",
+     "options": {
+      "A": "It contains restrictive conditions that constrain the issuer's operations",
+      "B": "Its cost to the issuing firm is generally higher than the cost of commercial bank loans",
+      "C": "It cannot be issued when the money market is tight",
+      "D": "It can neither be redeemed before maturity nor extended beyond maturity"
+     },
+     "answer": "D",
+     "explanation": "SM §27.3 gives two limitations: only highly credit-rated firms can use it, and 'CP can neither be redeemed before maturity nor can be extended beyond maturity'. Options A, B and C are the negatives of three of ICAI's five **advantages** — that CP is unsecured with no restrictive conditions, that its cost is generally lower than bank loans, and that it can be issued even when the money market is tight."
+    }
+   ],
+   "recap": [
+    "Inter-corporate deposits place one company's surplus with another, at a rate above the bank rate depending on the borrower's soundness, and reduce dependence on bank finance.",
+    "Commercial paper is an unsecured promissory note for highly rated corporate borrowers, with a maturity from a minimum of 7 days to less than 1 year, in denominations of ₹5 lakhs or multiples.",
+    "Its five advantages: unsecured with no restrictive conditions, roll-over continuity, tailored maturity, issuable in a tight market, and cheaper than bank loans.",
+    "Its two limitations: only highly rated firms can use it, and it can neither be redeemed early nor extended.",
+    "Funds generated from operations are profit plus depreciation, and they increase working capital by that amount.",
+    "Public deposits suit well-established big companies with a huge capital base, for short and medium term; the statutory limits are in Chapter 2 and are edition-sensitive."
+   ]
+  },
+  {
+   "code": "F09.63 + F09.64 + F09.65",
+   "title": "27.6–27.8 Bills Discounting, the Bill Rediscounting Scheme, and Factoring as a Source of Finance",
+   "activity": "Medium",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 direct · RTP 0 direct · MTP 0 direct — but the factoring-against-bills-discounting comparison is the examinable core and connects to the nine §20 questions",
+   "understand": [
+    "==**§27.6 Bills Discounting.** **'Bill discounting is recognized as an important short-term Financial Instrument and it is widely used method of short-term financing. In a process of bill discounting, the supplier of goods draws a bill of exchange with direction to the buyer to pay a certain amount of money after a certain period, and gets its acceptance from the buyer or drawee of the bill.'**==",
+    "==**The mechanics implied, and worth spelling out:** the **seller** draws the bill, the **buyer** accepts it, and the seller then takes it to a **bank**, which pays him the face value **less a discount** for the unexpired period. The seller gets cash now; the bank collects from the buyer on maturity. ==It is the mirror image of the buyer's **bills payable** in §27.1(b): one instrument, two balance sheets.==",
+    "==**§27.7 The Bill Rediscounting Scheme.** **'The Bill rediscounting Scheme was introduced by Reserve Bank of India with effect from 1st November, 1970 in order to extend the use of the bill of exchange as an instrument for providing credit and the creation of a bill market in India with a facility for the rediscounting of eligible bills by banks. Under the bills rediscounting scheme, all licensed scheduled banks are eligible to offer bills of exchange to the Reserve Bank for rediscount.'**==",
+    "==**The three facts in that sentence, each MCQ-able:** the scheme was introduced by the **RBI**, with effect from **1 November 1970**, and **all licensed scheduled banks** are eligible to offer eligible bills to the RBI for rediscount. Its purposes were to **extend the use of the bill of exchange as a credit instrument** and to **create a bill market in India.**==",
+    "==**Why rediscounting matters to the borrower, which the text leaves implicit.** A bank that can **rediscount** a bill with the RBI does not have to hold it to maturity, so its own liquidity is not locked up — which makes it **willing to discount more bills for its customers.** ==The scheme is a liquidity facility for banks whose benefit reaches the trading company as greater availability of bill finance.==",
+    "==**§27.8 Factoring as a source of working-capital finance.** ICAI cross-refers to Unit IV and then restates the concept in financing terms: **'Factoring is a method of financing whereby a firm sells its trade debts at a discount to a financial institution.'** More fully: **'factoring is a continuous arrangement between a financial institution, (namely the factor) and a firm (namely the client) which sells goods and services to trade customers on credit. As per this arrangement, the factor purchases the client's trade debts including accounts receivables either with or without recourse to the client, and thus, exercises control over the credit extended to the customers and administers the sales ledger of his client.'** And the plain-language summary: **'To put it in a layman's language, a factor is an agent who collects the dues of his client for a certain fee.'**==",
+    "==**The four differences between factoring and bills discounting — a short, highly examinable list** (SM §27.8):\n**(i) 'Factoring is called as Invoice factoring whereas bills discounting is known as Invoice discounting.'**\n**(ii) 'In factoring the parties are known as client, factor and debtor whereas in bills discounting they are known as Drawer, Drawee and Payee.'**\n**(iii) 'Factoring is a sort of management of book debts whereas bills discounting is a sort of borrowing from commercial banks.'**\n**(iv) 'For factoring there is no specific Act; whereas in the case of bills discounting, the Negotiable Instrument Act is applicable.'**==",
+    "==**Difference (iii) is the substantive one and the other three follow from it.** Factoring is the **sale and management of a book of debts**; bills discounting is **borrowing against a single instrument.** ==That is why factoring is a **continuous arrangement** over the whole ledger with ledger administration included, while discounting is **transaction by transaction** with no service attached — and why factoring needs no special statute while a bill of exchange is governed by the Negotiable Instruments Act.==",
+    "==**The three-way distinction candidates most often blur — factoring, bills discounting and forfaiting:**\n**Factoring** — the sales ledger, domestic or export, with or without recourse, finance **plus** service, no specific Act.\n**Bills discounting** — a single accepted bill, domestic or export, borrowing from a bank, governed by the **Negotiable Instruments Act.**\n**Forfaiting** (§20.2) — **export** bills only, **always** without recourse, usually under a **letter of credit**, finance **without** service.\n==All three convert receivables into cash; they differ in scope, in recourse, in whether a service comes with the money, and in the law that governs them.=="
+   ],
+   "example": "ICAI's own structure makes the point: factoring appears twice in this chapter — once in Unit IV §20.1 as a way of financing receivables, with a nine-question computational format, and again here in Unit VI §27.8 as one of the sources of working-capital finance, with no arithmetic at all but a four-point comparison against bills discounting. The same instrument is examined quantitatively in one unit and qualitatively in the other, and a question asking for 'sources of working capital finance' expects the §27.8 treatment, not the §20.1 format.",
+   "provisions": [
+    {
+     "ref": "Bills discounting (SM §27.6)",
+     "status": "VERIFIED",
+     "requirement": "The supplier draws a bill of exchange directing the buyer to pay after a certain period and obtains the buyer's acceptance; it is a widely used method of short-term financing.",
+     "exam_angle": "Name the three steps: draw, accept, discount."
+    },
+    {
+     "ref": "Bill Rediscounting Scheme (SM §27.7)",
+     "status": "VERIFIED",
+     "requirement": "Introduced by the RBI with effect from 1 November 1970, to extend the use of the bill of exchange as a credit instrument and create a bill market in India; all licensed scheduled banks may offer eligible bills to the RBI for rediscount.",
+     "exam_angle": "The date and the eligibility are both quotable specifics."
+    },
+    {
+     "ref": "Factoring as a financing method (SM §27.8)",
+     "status": "VERIFIED",
+     "requirement": "A firm sells its trade debts at a discount to a financial institution under a continuous arrangement; the factor purchases the debts with or without recourse, controls the credit extended and administers the sales ledger.",
+     "exam_angle": "'A factor is an agent who collects the dues of his client for a certain fee' is ICAI's own plain-language line."
+    },
+    {
+     "ref": "Four differences from bills discounting (SM §27.8)",
+     "status": "VERIFIED",
+     "requirement": "Invoice factoring against invoice discounting; client/factor/debtor against drawer/drawee/payee; management of book debts against borrowing from banks; no specific Act against the Negotiable Instruments Act.",
+     "exam_angle": "Four crisp points — ideal for a two or four-mark 'distinguish' question."
+    }
+   ],
+   "keywords": [
+    "draws a bill of exchange",
+    "gets its acceptance from the drawee",
+    "widely used method of short-term financing",
+    "Reserve Bank of India",
+    "1st November 1970",
+    "creation of a bill market in India",
+    "all licensed scheduled banks",
+    "sells its trade debts at a discount",
+    "continuous arrangement",
+    "administers the sales ledger",
+    "an agent who collects the dues",
+    "invoice factoring against invoice discounting",
+    "client, factor and debtor",
+    "drawer, drawee and payee",
+    "management of book debts against borrowing",
+    "Negotiable Instrument Act"
+   ],
+   "memory": {
+    "trick": "**Factoring manages a book; discounting borrows on a bill.** Everything else follows: a book needs **ledger administration** and a **continuous arrangement** and no special statute; a bill is a **negotiable instrument** with a drawer, a drawee and a payee, governed by the **Negotiable Instruments Act**. ==And rediscounting is the bank's own escape valve, dated **1 November 1970**.==",
+    "key": [
+     ["Bills discounting", "Seller draws, buyer accepts, bank discounts"],
+     ["Rediscounting", "RBI scheme from 1 Nov 1970; all licensed scheduled banks eligible"],
+     ["Its purposes", "Extend the bill as a credit instrument; create a bill market in India"],
+     ["Factoring", "Sale of trade debts at a discount, with ledger administration"],
+     ["Difference (i)", "Invoice factoring against invoice discounting"],
+     ["Difference (ii)", "Client, factor, debtor against drawer, drawee, payee"],
+     ["Difference (iii)", "Management of book debts against borrowing from banks"],
+     ["Difference (iv)", "No specific Act against the Negotiable Instruments Act"]
+    ]
+   },
+   "mistakes": [
+    "Giving the parties to a factoring arrangement as drawer, drawee and payee. Those are the bill-discounting parties; factoring has client, factor and debtor.",
+    "Saying the Negotiable Instruments Act governs factoring. ICAI says there is no specific Act for factoring.",
+    "Describing bills discounting as a sale of the receivable. ICAI calls it 'a sort of borrowing from commercial banks'; factoring is the sale.",
+    "Confusing discounting with rediscounting. The company discounts a bill with its bank; the bank rediscounts it with the RBI.",
+    "Dating the Bill Rediscounting Scheme from Bank nationalisation or from the Negotiable Instruments Act. ICAI's date is 1 November 1970.",
+    "Treating factoring here as a computational topic. §27.8 is qualitative; the arithmetic is §20.1's."
+   ],
+   "compare": {
+    "title": "Factoring, bills discounting and forfaiting",
+    "headers": ["", "Factoring", "Bills discounting", "Forfaiting"],
+    "rows": [
+     ["ICAI's label", "Invoice factoring", "Invoice discounting", "A form of bill discounting, without recourse"],
+     ["Parties", "Client, factor, debtor", "Drawer, drawee, payee", "Exporter, importer, exporter's bank"],
+     ["Economic nature", "Management of book debts — a sale", "Borrowing from commercial banks", "Purchase of export bills"],
+     ["Governing law", "No specific Act", "The Negotiable Instruments Act", "Contract plus the instrument's own law"],
+     ["Scope", "The whole sales ledger, continuously", "A single accepted bill", "A single export transaction"],
+     ["Recourse", "With or without, as agreed", "With recourse to the drawer", "Always without recourse"],
+     ["Service included", "Credit control and sales-ledger administration", "None", "None"],
+     ["Where examined", "§20.1 quantitatively, §27.8 qualitatively", "§27.6 and §29 (a form of bank credit)", "§20.2"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §20.1: the factoring evaluation format and the nine official questions on it",
+    "🔗 FM Ch 9 §20.2: forfaiting, the export-only, non-recourse cousin of bills discounting",
+    "🔗 FM Ch 9 §27.1(b): bills payable, the same bill seen from the buyer's side",
+    "🔗 FM Ch 9 §29: bills discounting and bills acceptance as forms of bank credit",
+    "🔗 FM Ch 2 §7: short-term sources of finance"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Distinguish between factoring and bills discounting (2–4 marks)",
+     "Explain the Bill Rediscounting Scheme (2 marks)",
+     "Explain bills discounting as a source of short-term finance (2 marks)",
+     "Name the sources of working capital finance (2–4 marks)"
+     ],
+    "approach": [
+     "For the comparison, give ICAI's four points in its own order; they are already compressed and need no padding.",
+     "Lead with difference (iii) if space is short — management of book debts against borrowing — because the others follow from it.",
+     "For rediscounting, give the authority, the date, the eligibility and the two purposes; that is a complete two-mark answer.",
+     "Where the question asks for 'sources', list all eight of §27.1 to §27.8 before developing any."
+    ]
+   },
+   "official_questions": [],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.63-01",
+     "angle": "Factoring against discounting",
+     "difficulty": "Medium",
+     "question": "According to the study material, the parties to a bills discounting transaction are known as:",
+     "options": {
+      "A": "Client, factor and debtor",
+      "B": "Drawer, drawee and payee",
+      "C": "Exporter, importer and forfaiter",
+      "D": "Borrower, lender and guarantor"
+     },
+     "answer": "B",
+     "explanation": "SM §27.8 lists four differences, the second being: 'In factoring the parties are known as client, factor and debtor whereas in bills discounting they are known as Drawer, Drawee and Payee.' Option A gives the factoring parties. The vocabulary follows the economic nature — factoring is management of book debts, bills discounting is borrowing against a negotiable instrument governed by the Negotiable Instruments Act."
+    },
+    {
+     "id": "MCQ-F09.63-02",
+     "angle": "Rediscounting",
+     "difficulty": "Medium",
+     "question": "The Bill Rediscounting Scheme was introduced by:",
+     "options": {
+      "A": "The Securities and Exchange Board of India, to create a secondary market in commercial paper",
+      "B": "The Reserve Bank of India with effect from 1st November 1970, to extend the use of the bill of exchange as a credit instrument and create a bill market in India",
+      "C": "The Government of India under the Negotiable Instruments Act, to standardise bill formats",
+      "D": "The Indian Banks' Association, to allow banks to trade bills among themselves"
+     },
+     "answer": "B",
+     "explanation": "SM §27.7: 'The Bill rediscounting Scheme was introduced by Reserve Bank of India with effect from 1st November, 1970 in order to extend the use of the bill of exchange as an instrument for providing credit and the creation of a bill market in India with a facility for the rediscounting of eligible bills by banks.' All licensed scheduled banks are eligible to offer bills of exchange to the RBI for rediscount."
+    }
+   ],
+   "recap": [
+    "In bills discounting the supplier draws a bill directing the buyer to pay after a period, obtains the buyer's acceptance, and discounts it with a bank.",
+    "The Bill Rediscounting Scheme was introduced by the RBI from 1 November 1970 to extend the bill as a credit instrument and create a bill market in India; all licensed scheduled banks may offer eligible bills to the RBI.",
+    "Factoring is the sale of trade debts at a discount under a continuous arrangement in which the factor controls the credit extended and administers the sales ledger — 'an agent who collects the dues of his client for a certain fee'.",
+    "Four differences: invoice factoring against invoice discounting; client/factor/debtor against drawer/drawee/payee; management of book debts against borrowing from banks; no specific Act against the Negotiable Instruments Act.",
+    "The substantive difference is the third, and the other three follow from it."
+   ]
+  },
+  {
+   "code": "F09.66 + F09.67 + F09.68",
+   "title": "28–29 Working Capital Finance from Banks, the RBI's Instructions, and the Forms of Bank Credit",
+   "activity": "High",
+   "update_sensitive": true,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (May 2024 Q4(b)) · RTP 1 (Sep 2025 Q10(b), placed under F09.54) · MTP 0",
+   "understand": [
+    "==**§28 Banks as the main supplier.** **'Banks in India today constitute the major suppliers of working capital credit to any business activity. Recently, some term lending financial institutions have also announced schemes for working capital financing.'**==",
+    "==**The two committees, which are the names to know:** **'The two committees viz., Tandon Committee and Chore Committee have evolved definite guidelines and parameters in working capital financing, which have laid the foundations for development and innovation in the area.'**==",
+    "==**§28.1 The instruction that matters, and it is a withdrawal rather than a rule.** **'Reserve Bank of India has withdrawn the prescription, in regard to assessment of working capital needs, based on the concept of Maximum Permissible Bank Finance (MPBF), in April 1997. Banks are now free to evolve, with the approval of their Boards, methods for assessing the working capital requirements of borrowers, within the prudential guidelines and exposure norms prescribed.'**==",
+    "==**What banks must still observe:** **'Banks, however, have to take into account Reserve Bank's instructions relating to directed credit (such as priority sector, export, etc.), and prohibition of credit (such as bridge finance, rediscounting of bills earlier discounted by NBFCs) while formulating their lending policies.'**==",
+    "==**And the consequence:** **'With the above liberalizations, all the instructions relating to MPBF issued by RBI from time to time stand withdrawn. Further, various instructions/guidelines issued to banks with objective of ensuring lending discipline in appraisal, sanction, monitoring and utilization of bank finance cease to be mandatory. However, banks have the option of incorporating such of the instructions/guidelines as are considered necessary in their lending policies/procedures.'**==",
+    "==**The examinable shape of §28.1 is therefore unusual: it is a section about a rule that no longer applies.** The marks come from knowing **(a)** that MPBF **was** the prescribed method, **(b)** that the RBI **withdrew** it in **April 1997**, **(c)** that banks now set their own methods with **Board approval** within **prudential guidelines and exposure norms**, and **(d)** that **directed credit and prohibition of credit instructions still bind.** ==Do not compute an MPBF; the current Study Material gives no formula for it.==",
+    "==**§29 The seven forms of bank credit — the list May 2024 asked for, and the most reliably examinable list in Unit VI:**==",
+    "==**1. Cash Credit.** **'This facility will be given by the banker to the customers by giving certain amount of credit facility on continuous basis. The borrower will not be allowed to exceed the limits sanctioned by the bank.'**==",
+    "==**2. Bank Overdraft.** **'It is a short-term borrowing facility made available to the companies in case of urgent need of funds. The banks will impose limits on the amount they can lend. When the borrowed funds are no longer required they can quickly and easily be repaid. The banks issue overdrafts with a right to call them in at short notice.'**==",
+    "==**3. Bills Discounting.** **'The Company which sells goods on credit will normally draw a bill on the buyer who will accept it and sends it to the seller of goods. The seller, in turn discounts the bill with his banker. The banker will generally earmark the discounting bill limit.'**==",
+    "==**4. Bills Acceptance.** **'To obtain finance under this type of arrangement a company draws a bill of exchange on bank. The bank accepts the bill thereby promising to pay out the amount of the bill at some specified future date.'**==",
+    "==**5. Line of Credit.** **'Line of Credit is a commitment by a bank to lend a certain amount of funds on demand specifying the maximum amount.'**==",
+    "==**6. Letter of Credit.** **'It is an arrangement by which the issuing bank on the instructions of a customer or on its own behalf undertakes to pay or accept or negotiate or authorizes another bank to do so against stipulated documents subject to compliance with specified terms and conditions.'**==",
+    "==**7. Bank Guarantees.** **'Bank guarantee is one of the facilities that the commercial banks extend on behalf of their clients in favour of third parties who will be the beneficiaries of the guarantees.'**==",
+    "==**The distinction that separates a good answer from a list — which of the seven actually provide funds.** **Cash credit, overdraft, bills discounting** and a drawn **line of credit** put money in the company's hands. **Bills acceptance, letter of credit** and **bank guarantee** are **non-fund-based**: the bank lends its **name and creditworthiness**, not its cash, and pays only if the company does not. ==**A four-mark answer that groups the seven into fund-based and non-fund-based shows understanding that a bare list cannot.**==",
+    "==**Cash credit against overdraft, which is the pair most often confused.** Both are running limits the borrower may not exceed. **Cash credit** is **'on continuous basis'** and is the standard working-capital facility, normally secured against inventory and receivables. **Overdraft** is **'in case of urgent need of funds'**, is repaid **'quickly and easily'** when no longer required, and is issued **'with a right to call them in at short notice'**. ==Cash credit is the regular facility; the overdraft is the emergency one, and the right of recall is what makes the difference.=="
+   ],
+   "example": "May 2024's Q4(b) is the model question: 'ABC Ltd. is approaching the banks for financing its business activity. You are required to describe any four forms of bank credit for the consideration of the company.' Four marks, four forms, and the word 'describe' means each needs a sentence of substance rather than a label. Choosing cash credit, overdraft, bills discounting and letter of credit gives a mix of fund-based and non-fund-based facilities, which lets the answer close with one sentence on the distinction.",
+   "provisions": [
+    {
+     "ref": "Banks as the major supplier (SM §28)",
+     "status": "VERIFIED",
+     "requirement": "Banks constitute the major suppliers of working capital credit; the Tandon Committee and the Chore Committee evolved the guidelines and parameters.",
+     "exam_angle": "Both committee names are expected."
+    },
+    {
+     "ref": "MPBF withdrawn (SM §28.1)",
+     "status": "UPDATE SENSITIVE",
+     "requirement": "The RBI withdrew the MPBF prescription in April 1997; banks now evolve their own methods with Board approval within prudential guidelines and exposure norms.",
+     "exam_angle": "Know the withdrawal and its date; no MPBF formula is given in the current SM."
+    },
+    {
+     "ref": "What still binds (SM §28.1)",
+     "status": "VERIFIED",
+     "requirement": "Instructions on directed credit (priority sector, export) and prohibition of credit (bridge finance, rediscounting of bills earlier discounted by NBFCs).",
+     "exam_angle": "ICAI's two examples of each are the quotable detail."
+    },
+    {
+     "ref": "Seven forms of bank credit (SM §29)",
+     "status": "VERIFIED",
+     "requirement": "Cash credit · bank overdraft · bills discounting · bills acceptance · line of credit · letter of credit · bank guarantees.",
+     "exam_angle": "Asked in PYQ May 2024 Q4(b); describe four, and group them as fund-based and non-fund-based."
+    }
+   ],
+   "keywords": [
+    "major suppliers of working capital credit",
+    "Tandon Committee",
+    "Chore Committee",
+    "Maximum Permissible Bank Finance",
+    "withdrawn in April 1997",
+    "prudential guidelines and exposure norms",
+    "directed credit",
+    "prohibition of credit",
+    "cash credit on continuous basis",
+    "right to call them in at short notice",
+    "earmark the discounting bill limit",
+    "draws a bill of exchange on bank",
+    "commitment to lend on demand",
+    "pay or accept or negotiate",
+    "in favour of third parties"
+   ],
+   "memory": {
+    "trick": "**Four that lend money, three that lend a name.** **Cash credit, overdraft, bills discounting, line of credit** hand over funds; **bills acceptance, letter of credit, bank guarantee** hand over the bank's creditworthiness. ==Seven forms, two families — and the second family costs the bank nothing unless the customer fails.==",
+    "key": [
+     ["Cash credit", "Continuous facility within a sanctioned limit — the standard working-capital line"],
+     ["Bank overdraft", "For urgent need; repaid easily; callable at short notice"],
+     ["Bills discounting", "Seller discounts an accepted bill; the bank earmarks a limit"],
+     ["Bills acceptance", "The company draws on the bank; the bank accepts and promises to pay"],
+     ["Line of credit", "A commitment to lend a certain amount on demand, with a maximum"],
+     ["Letter of credit", "The bank undertakes to pay, accept or negotiate against stipulated documents"],
+     ["Bank guarantee", "Extended on behalf of clients in favour of third-party beneficiaries"],
+     ["Fund-based", "Cash credit, overdraft, bills discounting, drawn line of credit"],
+     ["Non-fund-based", "Bills acceptance, letter of credit, bank guarantee"],
+     ["MPBF", "Withdrawn by the RBI in April 1997"]
+    ]
+   },
+   "mistakes": [
+    "Computing an MPBF. The prescription was withdrawn in April 1997 and the current Study Material gives no formula.",
+    "Naming only one committee. ICAI names both Tandon and Chore.",
+    "Treating a letter of credit or a bank guarantee as a cash advance. They are non-fund-based: the bank lends its name and pays only on the customer's default.",
+    "Saying a cash credit facility may be exceeded if the need arises. ICAI is explicit that 'the borrower will not be allowed to exceed the limits sanctioned by the bank'.",
+    "Describing an overdraft as a committed facility. It is issued 'with a right to call them in at short notice', which is the opposite of a line of credit's commitment.",
+    "Confusing bills discounting with bills acceptance. In discounting the company draws on its **buyer**; in acceptance it draws on the **bank**.",
+    "Giving fewer than four forms where four are asked for, or giving four labels without describing them. May 2024 says 'describe'."
+   ],
+   "compare": {
+    "title": "The seven forms of bank credit, grouped",
+    "headers": ["Form", "Fund-based?", "ICAI's defining feature"],
+    "rows": [
+     ["Cash credit", "Yes", "A continuous facility within a sanctioned limit the borrower may not exceed"],
+     ["Bank overdraft", "Yes", "For urgent need, easily repaid, and callable at short notice"],
+     ["Bills discounting", "Yes", "The seller discounts a buyer-accepted bill; the bank earmarks a limit"],
+     ["Line of credit", "Yes, when drawn", "A commitment by the bank to lend a certain amount on demand, with a maximum specified"],
+     ["Bills acceptance", "No", "The company draws on the bank, which accepts and promises to pay at a future date"],
+     ["Letter of credit", "No", "The bank undertakes to pay, accept or negotiate against stipulated documents"],
+     ["Bank guarantees", "No", "Extended on behalf of clients in favour of third-party beneficiaries"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §27.6: bills discounting as a source in its own right",
+    "🔗 FM Ch 9 §24–25: the overdraft as the alternative to taking a cash discount",
+    "🔗 FM Ch 9 §6.2: bank credit excluded from the current liabilities deducted — this is what the statement sizes",
+    "🔗 FM Ch 9 §14 and §20.1: inventory and receivables, the usual security for a cash credit limit",
+    "🔗 FM Ch 2 §3.7: loans from commercial banks as a long-term source"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Describe any four forms of bank credit (4 marks)",
+     "What are the forms of bank credit available for working capital (4 marks)",
+     "Show the difference between trade credit and bank overdraft (4 marks)",
+     "Explain the RBI's position on the assessment of working capital needs (2 marks)"
+    ],
+    "approach": [
+     "Name the form, describe it in ICAI's own terms in one or two sentences, and say what it is used for.",
+     "Pick a mix of fund-based and non-fund-based forms, then close with one sentence on the distinction; it costs a line and demonstrates understanding.",
+     "For the MPBF question, give the withdrawal, its date, what replaced it, and what still binds — four facts, two marks."
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-M24-Q4b",
+     "marks": 4,
+     "status": "VERIFIED",
+     "format": "Descriptive",
+     "question": "ABC Ltd. is approaching the banks for financing its business activity. You are required to describe any four forms of bank credit for the consideration of the company. (4 Marks)",
+     "answer_points": [
+      "**Open with the setting in one line.** **'Banks in India today constitute the major suppliers of working capital credit to any business activity'**, and the guidelines in the area were evolved by the **Tandon Committee and the Chore Committee.** The bank credit available to ABC Ltd will generally take one of the following forms.",
+      "==**1. Cash Credit.** **'This facility will be given by the banker to the customers by giving certain amount of credit facility on continuous basis. The borrower will not be allowed to exceed the limits sanctioned by the bank.'** ==It is the **standard working-capital facility**: a running limit, normally secured against inventory and receivables, on which the company draws and repays as its operating cycle requires, paying interest only on the amount actually outstanding.==",
+      "==**2. Bank Overdraft.** **'It is a short-term borrowing facility made available to the companies in case of urgent need of funds. The banks will impose limits on the amount they can lend. When the borrowed funds are no longer required they can quickly and easily be repaid. The banks issue overdrafts with a right to call them in at short notice.'** ==For ABC Ltd this is the facility to meet an **unforeseen** gap — the deficit a cash budget reveals in a particular month — rather than the regular requirement; the **right of recall** is the price of that flexibility.==",
+      "==**3. Bills Discounting.** **'The Company which sells goods on credit will normally draw a bill on the buyer who will accept it and sends it to the seller of goods. The seller, in turn discounts the bill with his banker. The banker will generally earmark the discounting bill limit.'** ==It converts a **specific accepted receivable** into cash now, at a discount for the unexpired period — so unlike cash credit it is **transaction-linked**, and it suits a company whose sales are to creditworthy buyers willing to accept bills.==",
+      "==**4. Letter of Credit.** **'It is an arrangement by which the issuing bank on the instructions of a customer or on its own behalf undertakes to pay or accept or negotiate or authorizes another bank to do so against stipulated documents subject to compliance with specified terms and conditions.'** ==This is **non-fund-based**: the bank advances no money but lends ABC Ltd its **creditworthiness**, enabling the company to obtain supplies — often imports — on credit from suppliers who would not otherwise extend it.==",
+      "==**The three further forms, named briefly in case a fuller answer is wanted:** **Bills Acceptance**, where **'a company draws a bill of exchange on bank'** and **'the bank accepts the bill thereby promising to pay out the amount of the bill at some specified future date'**; **Line of Credit**, **'a commitment by a bank to lend a certain amount of funds on demand specifying the maximum amount'**; and **Bank Guarantees**, **'one of the facilities that the commercial banks extend on behalf of their clients in favour of third parties who will be the beneficiaries of the guarantees.'**==",
+      "==**The closing sentence that lifts the answer, and it costs one line.** Of the seven forms, **cash credit, overdraft, bills discounting and a drawn line of credit are fund-based** — the bank parts with money; **bills acceptance, letter of credit and bank guarantee are non-fund-based** — the bank parts only with its name, and pays only if ABC Ltd does not. ==**For a company approaching banks for the first time, the non-fund-based facilities are usually the cheapest and easiest to obtain, and the question's framing — 'approaching the banks for financing its business activity' — invites exactly that observation.**==",
+      "**One point of exam technique.** The question says **'describe'** and **'any four'**. Four forms at a sentence each, with the fund-based grouping as a closing line, is a complete four-mark answer; seven labels with no description is not. ==Pick the four you can describe in ICAI's own words rather than the four that come first in the list.=="
+     ],
+     "keywords": [
+      "banks are the major suppliers of working capital credit",
+      "Tandon and Chore Committees",
+      "cash credit on continuous basis, limit not to be exceeded",
+      "overdraft for urgent need, callable at short notice",
+      "bills discounting — the bank earmarks a limit",
+      "letter of credit — pay, accept or negotiate against documents",
+      "bills acceptance, line of credit, bank guarantees",
+      "fund-based against non-fund-based"
+     ],
+     "also_asked_as": ["RTP-S25-FQ10b compares the overdraft with trade credit; MTP-J25-S1-FQ4a asks about short-term against long-term financing of current assets"]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.66-01",
+     "angle": "MPBF",
+     "difficulty": "Medium",
+     "question": "The concept of Maximum Permissible Bank Finance (MPBF) as a prescribed basis for assessing working capital needs was:",
+     "options": {
+      "A": "Introduced by the Chore Committee and is still mandatory for all scheduled banks",
+      "B": "Replaced by a formula based on the operating cycle, prescribed by the RBI",
+      "C": "Withdrawn by the Reserve Bank of India in April 1997, leaving banks free to evolve their own methods with Board approval",
+      "D": "Never prescribed by the RBI; it was always a matter for individual banks"
+     },
+     "answer": "C",
+     "explanation": "SM §28.1: 'Reserve Bank of India has withdrawn the prescription, in regard to assessment of working capital needs, based on the concept of Maximum Permissible Bank Finance (MPBF), in April 1997. Banks are now free to evolve, with the approval of their Boards, methods for assessing the working capital requirements of borrowers, within the prudential guidelines and exposure norms prescribed.' Banks must still observe the RBI's instructions on directed credit and prohibition of credit."
+    },
+    {
+     "id": "MCQ-F09.66-02",
+     "angle": "Fund-based or not",
+     "difficulty": "Medium",
+     "question": "Which of the following forms of bank credit is **non-fund-based**, in that the bank undertakes an obligation rather than advancing money?",
+     "options": {
+      "A": "Cash credit",
+      "B": "Bank overdraft",
+      "C": "Bills discounting",
+      "D": "Bank guarantee"
+     },
+     "answer": "D",
+     "explanation": "A bank guarantee is 'extended on behalf of their clients in favour of third parties who will be the beneficiaries of the guarantees' (SM §29) — the bank lends its creditworthiness and pays only if the client defaults. Letters of credit and bills acceptance are non-fund-based for the same reason. Cash credit, overdraft and bills discounting all put funds in the borrower's hands."
+    }
+   ],
+   "recap": [
+    "Banks are the major suppliers of working capital credit; the Tandon and Chore Committees evolved the guidelines.",
+    "The RBI withdrew the MPBF prescription in April 1997; banks now set their own assessment methods with Board approval, within prudential guidelines and exposure norms.",
+    "Instructions on directed credit (priority sector, export) and prohibition of credit (bridge finance, rediscounting NBFC-discounted bills) still bind.",
+    "Seven forms of bank credit: cash credit, bank overdraft, bills discounting, bills acceptance, line of credit, letter of credit, bank guarantees.",
+    "Cash credit is the continuous working-capital line; the overdraft is for urgent need and is callable at short notice.",
+    "Four are fund-based and three — bills acceptance, letter of credit and bank guarantee — lend the bank's name rather than its cash."
+   ]
+  }
+ ]
+}

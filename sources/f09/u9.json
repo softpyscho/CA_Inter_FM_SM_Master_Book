@@ -1,0 +1,887 @@
+{
+ "confusing": [
+  {
+   "title": "The pairs that cost marks in working-capital questions",
+   "headers": ["Looks similar", "The real difference", "Give-away word"],
+   "rows": [
+    ["Gross working capital vs net working capital", "Gross is the investment in current assets; net deducts current liabilities", "'Gross' means before any deduction"],
+    ["Permanent vs temporary working capital", "Permanent is the minimum carried at all times, financed long term; temporary meets sales fluctuation, financed short term", "Does it disappear when sales fall back?"],
+    ["Finished goods vs debtors, on a cash-cost basis", "Finished goods at the cash cost of **production**; debtors at the cash cost of **sales**", "Has it passed the sales office yet?"],
+    ["W vs F in the operating cycle", "W is divided by cost of production; F by cost of goods sold", "The denominator is the cost flowing through that stage"],
+    ["'20% of working capital' vs '20% inclusive of the margin'", "The first multiplies by 1.20; the second divides by 0.80", "The word 'inclusive' is a gross-up instruction"],
+    ["Operating cycle vs cash cycle", "The cycle splits inventory into R, W and F; the cash cycle takes inventory as one period", "A cash cycle produces a minimum cash balance, not a working-capital figure"],
+    ["Baumol vs Miller-Orr", "Baumol assumes certainty and gives one optimum; Miller-Orr assumes randomness and gives three limits", "If the cash flow is stochastic it is Miller-Orr"],
+    ["Cheque processing float vs banking processing float", "Processing runs from receipt to deposit; banking from deposit to credit", "The moment of deposit divides them"],
+    ["Concentration banking vs lock box", "Concentration banking uses the company's own regional centres; the lock box has the bank collect directly", "Who opens the envelope?"],
+    ["Total Approach vs Incremental Approach", "Total works in levels for every policy; Incremental works in differences", "Does the statement show the present policy's own profit?"],
+    ["Factoring vs pledging", "Factoring is a sale, so no debt; pledging is a loan secured on receivables, so debt rises", "Does the debt-equity ratio move?"],
+    ["Factoring vs forfaiting", "Factoring covers the sales ledger, may be with recourse, includes service; forfaiting is export bills only, always without recourse, finance alone", "If it is an export bill under a letter of credit it is forfaiting"],
+    ["Factoring vs bills discounting", "Management of book debts against borrowing from a bank; client/factor/debtor against drawer/drawee/payee", "Which statute applies — none, or the Negotiable Instruments Act?"],
+    ["Bills payable vs bills discounting", "Bills payable is credit the buyer takes; bills discounting is cash the seller raises", "Which side of the invoice are you on?"],
+    ["Bills discounting vs bills acceptance", "In discounting the company draws on its buyer; in acceptance it draws on the bank", "Who accepts the bill?"],
+    ["Cash credit vs bank overdraft", "Cash credit is the continuous working-capital line; the overdraft is for urgent need and is callable at short notice", "The right of recall"],
+    ["Cost of availing trade credit vs cost of not availing it", "Four costs for availing (price, goodwill, managing, conditions); three for not availing (inflation, interest, inconvenience)", "Read the preposition in the question"],
+    ["Nominal vs compounded cost of a lost discount", "d ÷ (100 − d) × 365 ÷ t, against [100 ÷ (100 − d)]^(365/t) − 1", "ICAI uses the second in Illustration 17"],
+    ["Spontaneous vs negotiated sources", "Spontaneous arise from ordinary business transaction; negotiated must be asked for", "Bank credit is never spontaneous, and §6.2 excludes it from current liabilities"],
+    ["§3's nine factors vs §4.2's five factors", "Nine for planning the requirement; five for deciding the level of investment", "'Planning' against 'level of investment'"]
+   ]
+  },
+  {
+   "title": "Which method answers which question",
+   "headers": ["If the question asks", "Use", "And state"],
+   "rows": [
+    ["How many days does the cycle take, and what working capital does that imply?", "Operating cycle method (§6.1)", "R + W + F + D − C, the number of cycles, then operating cost ÷ cycles"],
+    ["Prepare a statement of the working capital requirement", "Component method (§6.2)", "Each asset at the cost that has reached it, then current liabilities, then the margin"],
+    ["Prepare it on a cash cost basis", "§6.3", "Two working notes: cash cost of production, then cash cost of sales"],
+    ["What extra working capital if output doubles on a second shift?", "§6.4", "Stocks rise less than proportionately, WIP is unchanged, fixed cost per unit halves"],
+    ["What is the minimum cash balance to meet obligations?", "Cash cycle (SM Illustration 11)", "Annual outlay ÷ cash turnover, where the outlay is sales less net profit"],
+    ["What is the optimum cash balance?", "Baumol (§11.1)", "C = √(2UP ÷ S), with U and S on the same time basis"],
+    ["How should cash be managed when flows are random?", "Miller-Orr (§11.2)", "h, z and zero; transfer h − z at the upper limit"],
+    ["Prepare a cash budget", "§10.1", "Opening, receipts, payments, balance before adjustment, borrow or invest, closing"],
+    ["What is the surplus or deficit against a target balance?", "§10.1, cumulative layout", "The carry-forward makes the peak requirement visible"],
+    ["Which credit policy should be adopted?", "Total Approach (§19)", "Expected profit, less the opportunity cost of receivables, equals net benefit"],
+    ["Should the factoring offer be accepted?", "§20.1", "Savings less costs, over the advance; compare with the cost of borrowing"],
+    ["Should the cash discount be taken?", "§25", "The annualised cost of refusing, against the rate at which money can be had"],
+    ["Where should the money come from?", "§26 to §29", "Bifurcate permanent and temporary, then match the maturity of the source"]
+   ]
+  }
+ ],
+ "cases": [
+  {
+   "id": "CASE-F09-INT-1",
+   "title": "Integrated Case 1 — Konark Ceramics Ltd. prepares a bank proposal, and then checks it against the operating cycle",
+   "facts": [
+    "Konark Ceramics Ltd. is applying to its bank for a working capital limit and has asked you to prepare the proposal on a cash cost basis.",
+    "Annual sales are ₹72,00,000, all on credit, with two months allowed to customers. The company sells at a gross profit of 20% on sales.",
+    "Annual costs are: materials consumed ₹18,00,000, with two months' credit from suppliers; wages ₹14,40,000, with a one-month lag in payment; cash manufacturing expenses ₹10,80,000, paid one month in arrear; administrative expenses ₹5,40,000, paid one month in arrear; and selling expenses ₹4,20,000, paid quarterly in advance.",
+    "Depreciation of ₹4,80,000 is treated as part of the cost of production but is to be ignored on a cash cost basis.",
+    "The company holds one month's stock each of raw materials and finished goods, and keeps a cash balance of ₹2,00,000. Work-in-progress is to be ignored.",
+    "A safety margin of 10% is to be added. Assume 360 days, and that purchases equal consumption because stock levels are stable."
+   ],
+   "questions": [
+    {
+     "q": "The annual cash cost of production and the annual cash cost of sales are respectively:",
+     "options": {
+      "A": "₹43,20,000 and ₹52,80,000",
+      "B": "₹48,00,000 and ₹57,60,000",
+      "C": "₹43,20,000 and ₹57,60,000",
+      "D": "₹52,80,000 and ₹72,00,000"
+     },
+     "answer": "A",
+     "reasoning": [
+      "**Cash cost of production** = materials + wages + **cash** manufacturing expenses = ₹18,00,000 + ₹14,40,000 + ₹10,80,000 = ==**₹43,20,000**==. *Depreciation is excluded: SM §6.3 says non-cash costs are taken out because the funds actually blocked are only the cash costs.*",
+      "**Cash cost of sales** = cash cost of production + administrative + selling = ₹43,20,000 + ₹5,40,000 + ₹4,20,000 = ==**₹52,80,000**==.",
+      "==**The five-second check ICAI itself builds into Illustration 4.** Add back the depreciation of ₹4,80,000 to reach a **total cost of sales of ₹57,60,000**, which is **80% of sales of ₹72,00,000** — exactly the 20% gross profit the question states. ==If that reconciliation fails, a cost line has been misplaced before any current asset has been computed.**==",
+      "==Option B gives the figures **including depreciation** — ₹48,00,000 and ₹57,60,000 — which is the single commonest error in this question type. Option C mixes the two bases: a cash cost of production with a total cost of sales.=="
+     ]
+    },
+    {
+     "q": "The gross working capital on a cash cost basis is:",
+     "options": {
+      "A": "₹14,95,000",
+      "B": "₹16,95,000",
+      "C": "₹19,15,000",
+      "D": "₹11,40,000"
+     },
+     "answer": "B",
+     "reasoning": [
+      "**Raw materials** = ₹18,00,000 × 1/12 = **₹1,50,000**.",
+      "**Finished goods** = **cash cost of production** ₹43,20,000 × 1/12 = **₹3,60,000**. *Production, not sales — the goods are still in the warehouse and have not borne administrative or selling costs.*",
+      "**Debtors** = **cash cost of sales** ₹52,80,000 × 2/12 = **₹8,80,000**. *Sales, not production — and at cost, not at the ₹12,00,000 that two months of sales value would give.*",
+      "**Selling expenses paid in advance** = ₹4,20,000 × 3/12 = **₹1,05,000**. *Paid **quarterly in advance**, so three months sit as a **current asset**, not as a liability.*",
+      "**Cash balance** = **₹2,00,000**, as given.",
+      "**Gross Working Capital = ₹1,50,000 + ₹3,60,000 + ₹8,80,000 + ₹1,05,000 + ₹2,00,000 = ==₹16,95,000==.**",
+      "==Option C, ₹19,15,000, is what results from valuing debtors at the sales figure of ₹12,00,000 less the prepayment treatment — the two errors §6.3 exists to prevent. Option D is the **net** figure, offered to catch a candidate who reads past the word 'gross'.==",
+      "==**One structural point worth carrying.** Of the ₹16,95,000, **debtors alone are ₹8,80,000 — 52% of the gross requirement.** In almost every official question in this chapter the debtors line is the largest single asset, which is why Unit IV carries more marks than Units I and II together.=="
+     ]
+    },
+    {
+     "q": "The total working capital requirement to be put in the bank proposal, after the safety margin, is:",
+     "options": {
+      "A": "₹11,40,000",
+      "B": "₹18,64,500",
+      "C": "₹12,54,000",
+      "D": "₹12,66,667"
+     },
+     "answer": "C",
+     "reasoning": [
+      "**Current liabilities.** Creditors ₹18,00,000 × 2/12 = **₹3,00,000**; outstanding wages ₹14,40,000 × 1/12 = **₹1,20,000**; outstanding manufacturing expenses ₹10,80,000 × 1/12 = **₹90,000**; outstanding administrative expenses ₹5,40,000 × 1/12 = **₹45,000**. **Total = ₹5,55,000.**",
+      "**Net working capital** = ₹16,95,000 − ₹5,55,000 = ==**₹11,40,000**==.",
+      "**Add the safety margin at 10%** = ₹1,14,000. **Total Working Capital requirement = ==₹12,54,000==.**",
+      "==**Why 10% here is a mark-up and not a gross-up.** The question says simply **'a safety margin of 10% is to be added'**, with no 'inclusive of the margin' — so it is ₹11,40,000 × 1.10. Option D, ₹12,66,667, is the **gross-up** answer ₹11,40,000 ÷ 0.90, which MTP January 2025 Series II's wording would have required. ==**The two readings differ by ₹12,667 on these figures, and the only clue is whether the word 'inclusive' appears.**==",
+      "==Option B, ₹18,64,500, applies the margin to the **gross** working capital instead of the net — a slip that is easy to make if the statement is not laid out with Net Working Capital as a visible subtotal.==",
+      "**One note to write into the proposal.** The selling expenses prepayment of ₹1,05,000 is the only item in the statement on the **asset** side that arises from an expense, and it is there because the payment is made **in advance**. ==Every other expense in this question is paid **in arrear** and so reduces the requirement. Reading the direction of each lag — 'in advance' is an asset, 'in arrear' is a liability — is worth more in this question than any single calculation.=="
+     ]
+    },
+    {
+     "q": "Checking the same figures by the operating cycle method, the net operating cycle and the number of cycles in the year are:",
+     "options": {
+      "A": "120 days and 3 times",
+      "B": "90 days and 4 times",
+      "C": "30 days and 12 times",
+      "D": "60 days and 6 times"
+     },
+     "answer": "D",
+     "reasoning": [
+      "**R** = average raw material ÷ consumption per day = ₹1,50,000 ÷ (₹18,00,000 ÷ 360) = ₹1,50,000 ÷ ₹5,000 = **30 days**.",
+      "**W** = **nil**, since work-in-progress is to be ignored.",
+      "**F** = average finished goods ÷ cost of goods sold per day = ₹3,60,000 ÷ (₹43,20,000 ÷ 360) = ₹3,60,000 ÷ ₹12,000 = **30 days**.",
+      "**D** = average debtors ÷ credit sales per day, on the cash cost basis used throughout = ₹8,80,000 ÷ (₹52,80,000 ÷ 360) = ₹8,80,000 ÷ ₹14,666.67 = **60 days**.",
+      "**C** = average creditors ÷ credit purchases per day = ₹3,00,000 ÷ (₹18,00,000 ÷ 360) = **60 days**.",
+      "**Net operating cycle** = 30 + 0 + 30 + 60 − 60 = ==**60 days**==, and the **number of cycles** = 360 ÷ 60 = ==**6 times**==.",
+      "==**And now the point of the question, which is the most useful idea in Unit I.** Working capital by the operating cycle method = annual operating cost ÷ number of cycles = **₹52,80,000 ÷ 6 = ₹8,80,000** — against the **₹11,40,000** the component statement produced. **The two methods disagree by ₹2,60,000, and both are right.**==",
+      "==**Why they differ.** The operating cycle method nets off **only the creditors' period**; the component statement also deducts the **accruals on wages, manufacturing and administrative expenses (₹2,55,000)** and adds the **cash balance (₹2,00,000)** and the **prepayment (₹1,05,000)**, none of which appears anywhere in R + W + F + D − C. **₹8,80,000 − ₹2,55,000 + ₹2,00,000 + ₹1,05,000 = ₹11,30,000**, within rounding of the statement figure. ==**The cycle method is a quick estimate built from inventory, debtors and creditors alone; the component statement is the complete one, and it is what a bank is given.**==",
+      "**Which to quote if a question asks for both.** Give the component figure as the requirement and the cycle as the diagnostic, and say in one line why they differ. ==SM §5 itself calls the operating cycle **'one of the most reliable methods'** — not the only one, and not the most complete.=="
+     ]
+    }
+   ],
+   "concepts": ["F09.15", "F09.14", "F09.13", "F09.11"],
+   "trap": "Question 1 hides depreciation inside the manufacturing figure; question 2 rewards knowing that finished goods take production cost and debtors take cost of sales, and that a prepayment is an asset; question 3 turns on whether 'a safety margin of 10%' is a mark-up or a gross-up; and question 4 is there to show that the two estimation methods are not expected to agree."
+  },
+  {
+   "id": "CASE-F09-INT-2",
+   "title": "Integrated Case 2 — Vindhya Auto Components Ltd. weighs a factor's offer",
+   "facts": [
+    "Vindhya Auto Components Ltd. has annual credit sales of ₹5,40,00,000 and an average collection period of 72 days. Bad debts run at 1.25% of credit sales.",
+    "The company spends ₹6,00,000 a year on credit administration, of which 70% would be avoidable if the function were outsourced.",
+    "A factor has offered to purchase the receivables on a non-recourse basis. Its terms are: a commission of 1.5%, an advance of 85% of receivables after withholding 15% as a reserve, and interest at 16% per annum for the collection period.",
+    "The factor undertakes to bring the average collection period down to 60 days.",
+    "Vindhya's own cost of short-term borrowing is 13% per annum. Assume 360 days in a year."
+   ],
+   "questions": [
+    {
+     "q": "The average level of receivables before the factoring arrangement, and the level the factor's collection period would produce, are:",
+     "options": {
+      "A": "₹1,08,00,000 and ₹1,08,00,000",
+      "B": "₹90,00,000 and ₹1,08,00,000",
+      "C": "₹1,08,00,000 and ₹90,00,000",
+      "D": "₹1,29,60,000 and ₹1,08,00,000"
+     },
+     "answer": "C",
+     "reasoning": [
+      "**Present receivables** = credit sales × collection period ÷ 360 = ₹5,40,00,000 × 72 ÷ 360 = ==**₹1,08,00,000**==.",
+      "**After factoring**, at the guaranteed 60 days = ₹5,40,00,000 × 60 ÷ 360 = ==**₹90,00,000**==.",
+      "==**Which figure the rest of the computation uses, and this is the decision that governs the whole case.** The **₹90,00,000** is the base for the factor's commission, reserve and interest, because that is the book the factor will actually be managing. The **₹1,08,00,000** is used only once — to size the **interest saved** on the 12 days of collection the factor removes.==",
+      "**ICAI's precedent.** May 2024's Bright Ltd works exactly this way: the factor guarantees 45 days against an actual 70, and ICAI computes the average level of receivables on **45 days** while valuing the 25-day improvement as a separate saving.",
+      "==Option B reverses the two, and option D computes the present receivables on an 86-day period. **The arithmetic here is trivial; the sequencing is not.**=="
+     ]
+    },
+    {
+     "q": "The total annual savings on taking the factoring service are:",
+     "options": {
+      "A": "₹10,95,000",
+      "B": "₹6,75,000",
+      "C": "₹11,40,000",
+      "D": "₹13,29,000"
+     },
+     "answer": "D",
+     "reasoning": [
+      "**All three of ICAI's savings lines are live in this question, which is what makes the offer worth taking.**",
+      "**Cost of credit administration saved** = 70% × ₹6,00,000 = ==**₹4,20,000**==. *Only the avoidable portion; the other 30% continues whether or not the factor is appointed.*",
+      "**Bad debts avoided** = 1.25% × ₹5,40,00,000 = ==**₹6,75,000**==. *The arrangement is **non-recourse**, so the whole bad-debt loss passes to the factor — contrast MTP September 2024 Series II's Sukrut Limited, where a **recourse** basis cut bad debts only from 1% to 0.5% and the saving was half the figure.*",
+      "**Interest saved due to the reduction in the average collection period** = cost of annual credit sales × rate of interest × (present collection period − new collection period) ÷ 360 = ₹5,40,00,000 × 13% × (72 − 60) ÷ 360 = ₹5,40,00,000 × 0.13 × 12/360 = ==**₹2,34,000**==. *Valued at **Vindhya's own 13%**, because the funds released are funds it no longer has to borrow.*",
+      "**Total savings = ₹4,20,000 + ₹6,75,000 + ₹2,34,000 = ==₹13,29,000==.**",
+      "==Option A omits the interest saved, option B gives the bad debts alone, and option C charges the **whole** ₹6,00,000 of administration cost as a saving. **Each distractor drops exactly one of the three lines, which is how a well-built factoring MCQ is constructed** — and it is why the savings block should be written out as three labelled lines rather than a single total.=="
+     ]
+    },
+    {
+     "q": "The amount available for advance, and the advance the factor will actually pay, are:",
+     "options": {
+      "A": "₹75,15,000 and ₹73,14,600",
+      "B": "₹76,50,000 and ₹73,44,000",
+      "C": "₹75,15,000 and ₹75,15,000",
+      "D": "₹90,00,000 and ₹76,50,000"
+     },
+     "answer": "A",
+     "reasoning": [
+      "**Start from the post-factoring receivables of ₹90,00,000 and work down ICAI's five steps.**",
+      "**Less factoring commission** = 1.5% × ₹90,00,000 = **₹1,35,000**.",
+      "**Less factoring reserve** = 15% × ₹90,00,000 = **₹13,50,000**.",
+      "**Amount available for advance** = ₹90,00,000 − ₹1,35,000 − ₹13,50,000 = ==**₹75,15,000**==.",
+      "**Less the factor's interest at 16% for the 60-day collection period** = ₹75,15,000 × 0.16 × 60/360 = ₹75,15,000 × 0.026667 = **₹2,00,400**.",
+      "**Advance to be paid** = ₹75,15,000 − ₹2,00,400 = ==**₹73,14,600**==.",
+      "==**The distinction options C and D are built around.** ICAI's format states it in terms: **'Advances to be paid = (Amount available for advance − Interest deducted by factor).'** ==**Option C stops at step 4**, which is the error MTP September 2025 Series I's MCQ (vii) exists to catch — there option (a) ₹1,32,00,000 was the amount available and the answer was ₹1,26,06,000. **Option D deducts only the reserve and calls 85% of receivables the advance**, ignoring both the commission and the interest.==",
+      "**The shortcut for the interest step.** 16% for 60 days on a 360-day year is exactly **16% ÷ 6 = 2.667%**, so the advance is **97.333%** of the amount available. ==Any factoring question reduces the last step to one multiplication once the rate and the period are turned into a single percentage.=="
+     ]
+    },
+    {
+     "q": "The effective cost of factoring, and the advice to Vindhya, are:",
+     "options": {
+      "A": "9.09% and reject, since the company can borrow at 13%",
+      "B": "9.34% and accept, since the effective cost is below the company's 13% cost of borrowing",
+      "C": "26.90% and reject",
+      "D": "9.34% and reject, since factoring always costs more than bank finance"
+     },
+     "answer": "B",
+     "reasoning": [
+      "**The annual cost of factoring.** **Commission** = 1.5% × ₹5,40,00,000 = **₹8,10,000** *(annualised on credit sales, per ICAI's format)*. **Interest charged by the factor**, annualised = ₹75,15,000 × 16% = **₹12,02,400**. **Total cost = ₹20,12,400.**",
+      "**Net annual cost of factoring** = ₹20,12,400 − ₹13,29,000 = ==**₹6,83,400**==.",
+      "**Rate of effective cost of factoring** = Net annual cost ÷ Advance to be paid × 100 = ₹6,83,400 ÷ ₹73,14,600 × 100 = ==**9.34%**==.",
+      "==**The advice.** ICAI's rule is explicit: **'The company should avail Factoring services if rate of effective Cost of Factoring to the firm is less than the existing cost of borrowing.'** At **9.34% against a cost of borrowing of 13%**, the offer is **cheaper than the money it replaces**, so ==**Vindhya should accept the factoring proposal**==.==",
+      "==**Why this offer passes where most official ones fail, and it is the lesson of the whole case.** The three published 2/40-net-120 questions all **reject**, with effective costs of 13.42% and 16.09%, because their factors do **nothing** to the collection period and their savings come to only ₹4,00,000–₹4,80,000. Vindhya's factor **shortens collection by 12 days** and takes the bad debts on a **non-recourse** basis, so all three savings lines fire and together they cover two-thirds of the cost. ==**A factoring proposal is won or lost on whether the factor improves the collection period and absorbs the credit risk — not on the commission rate.**==",
+      "==Option A, 9.09%, is the figure obtained by using the **amount available for advance** (₹75,15,000) as the denominator instead of the advance paid. **That denominator is itself acceptable — RTP September 2026 offers both — but the paired advice is wrong**, which is what makes the option a trap rather than a second right answer. **Option D has the arithmetic right and the conclusion backwards**, and the reason given is simply untrue.==",
+      "**One sentence to add in a descriptive version of this question.** The ₹1,35,000 commission deducted in computing the advance and the ₹8,10,000 charged as the annual cost are the **same 1.5% on two different bases** — receivables and credit sales. ==ICAI's own format permits both (**'Annual credit Sales × % of Commission (or calculated annually)'**), and January 2026's X Ltd answer uses both in one solution. Say which basis each figure uses and the point cannot be marked against you.=="
+     ]
+    }
+   ],
+   "concepts": ["F09.49", "F09.47", "F09.48", "F09.52"],
+   "trap": "Question 1 decides which receivables figure drives the rest; question 2 pays for all three savings lines, and each distractor drops exactly one; question 3 separates the amount available from the advance actually paid; and question 4 rewards knowing ICAI's decision rule rather than a general prejudice about factoring."
+  }
+ ],
+ "chapter_test": {
+  "mcqs": [
+   {
+    "id": "CT-MCQ-F09-01",
+    "question": "The operating cycle of a firm is correctly expressed as:",
+    "options": {
+     "A": "R + W + F + D − C, where C is the credit period allowed by suppliers",
+     "B": "R + W + F + D + C",
+     "C": "R + W + F − D + C",
+     "D": "R + W + F + C − D"
+    },
+    "answer": "A",
+    "explanation": "SM §6: Operating Cycle = R + W + F + D − C, where R is the raw material storage period, W the work-in-progress holding period, F the finished goods storage period, D the receivables collection period and C the credit period allowed by suppliers. C is the only subtraction, because supplier credit is the one stage that funds the cycle rather than consuming funds."
+   },
+   {
+    "id": "CT-MCQ-F09-02",
+    "question": "On a cash cost basis, finished goods and debtors are valued respectively at:",
+    "options": {
+     "A": "The cash cost of production and the cash cost of sales",
+     "B": "The cash cost of sales and the cash cost of production",
+     "C": "The cash cost of production and the sales value",
+     "D": "The total cost of production including depreciation, and the cash cost of sales"
+    },
+    "answer": "A",
+    "explanation": "SM §6.2 and §6.3: only cash cost is considered for debtors and finished goods, because sales to debtors include cost and profit whereas working capital need not fund the profit, and depreciation is excluded as a non-cash expense. Finished goods have not yet borne administrative and selling costs, so they take the cost of production; debtors have, so they take the cost of sales."
+   },
+   {
+    "id": "CT-MCQ-F09-03",
+    "question": "A firm's total cash disbursements are ₹24,00,000 a year, the cost per transfer is ₹30 and marketable securities yield 12% per annum. Its optimum cash balance under Baumol's model is:",
+    "options": {
+     "A": "₹34,641",
+     "B": "₹24,495",
+     "C": "₹10,000",
+     "D": "₹1,20,000"
+    },
+    "answer": "A",
+    "explanation": "C = √(2UP ÷ S) = √(2 × ₹24,00,000 × ₹30 ÷ 0.12) = √(₹14,40,00,000 ÷ 0.12) = √₹12,00,00,00,000 = ₹34,641. Option C omits the 2 and the division by S in the wrong order; option D is the annual disbursement divided by 20. The carrying cost of the balance is the interest forgone on marketable securities, and the transaction cost is the clerical, brokerage and registration cost of converting them into cash."
+   },
+   {
+    "id": "CT-MCQ-F09-04",
+    "question": "The period between the sale and the mailing of the invoice is known as:",
+    "options": {
+     "A": "Billing float",
+     "B": "Mail float",
+     "C": "Cheque processing float",
+     "D": "Banking processing float"
+    },
+    "answer": "A",
+    "explanation": "SM §10.4 defines four floats: billing float is the time between the sale and the mailing of the invoice; mail float is the cheque in transit; cheque processing float is the time taken by the seller to sort, record and deposit the cheque; and banking processing float runs from deposit to the crediting of funds. A firm attacks the billing float simply by issuing invoices quickly."
+   },
+   {
+    "id": "CT-MCQ-F09-05",
+    "question": "Under the Total Approach to evaluating credit policies, the fixed cost used in each proposed policy's column is:",
+    "options": {
+     "A": "Scaled in proportion to that policy's sales",
+     "B": "The amount computed from the present policy's volume, held constant across all policies",
+     "C": "Excluded altogether, since fixed costs are irrelevant to a credit decision",
+     "D": "Replaced by the opportunity cost of investment in receivables"
+    },
+    "answer": "B",
+    "explanation": "SM §19: Total Fixed Cost = [Average cost per unit − Variable cost per unit] × number of units sold on credit under the Present Policy, and that figure is carried unchanged into every column. September 2024's AB Enterprises keeps fixed cost at ₹5,00,000 while units rise from 30,000 to 33,000 to 35,000 — scaling it with sales would turn a fixed cost into a variable one and destroy the comparison."
+   },
+   {
+    "id": "CT-MCQ-F09-06",
+    "question": "Commercial paper may be issued for a maturity period of:",
+    "options": {
+     "A": "A minimum of 15 days to a maximum of 3 years",
+     "B": "A minimum of 7 days to less than 1 year from the date of issue",
+     "C": "Overnight to 1 year, at freely negotiable rates",
+     "D": "Any period, provided the issuer is a highly rated corporate borrower"
+    },
+    "answer": "B",
+    "explanation": "SM §27.3: 'The maturity period ranges from minimum 7 days to less than 1 year from the date of issue. CP can be issued in denomination of ₹5 lakhs or multiples thereof.' Option C describes the range of money-market deposits in §12.3, which run from overnight to one year — a different instrument in a different section."
+   },
+   {
+    "id": "CT-MCQ-F09-07",
+    "question": "Which of the following is true of forfaiting but **not** of factoring?",
+    "options": {
+     "A": "It converts receivables into immediate cash",
+     "B": "It may be arranged either with or without recourse to the client",
+     "C": "It is always without recourse and is confined to export trade bills",
+     "D": "It includes administration of the client's sales ledger"
+    },
+    "answer": "C",
+    "explanation": "SM §20.2: forfaiting is finance provided to exporters 'without recourse basis in which risk and rewards related with the bills/receivables transferred to the financial institutions/banks', and it applies to trade bills from the export of goods or services. Factoring may be with or without recourse (option B) and includes sales-ledger administration (option D); both convert receivables into cash (option A)."
+   },
+   {
+    "id": "CT-MCQ-F09-08",
+    "question": "A working capital statement shows an excess of current assets over current liabilities of ₹24,00,000. A safety margin is to be kept at 20% of the net working capital required **inclusive of the margin amount**. The total net working capital is:",
+    "options": {
+     "A": "₹28,80,000",
+     "B": "₹19,20,000",
+     "C": "₹30,00,000",
+     "D": "₹26,40,000"
+    },
+    "answer": "C",
+    "explanation": "'Inclusive of the margin' means the computed excess is 80% of the answer, so net working capital = ₹24,00,000 ÷ 0.80 = ₹30,00,000 and the margin is ₹6,00,000. Option A adds a flat 20%, which is what a margin stated simply as '20%' would require — RTP September 2024 applies the gross-up as ₹4,49,792 × 1/9 for a 10% margin inclusive of itself, and MTP January 2025 Series II divides by 0.85 for a 15% one."
+   },
+   {
+    "id": "CT-MCQ-F09-09",
+    "question": "Which of the following forms of bank credit is non-fund-based, in that the bank lends its creditworthiness rather than its money?",
+    "options": {
+     "A": "Cash credit",
+     "B": "Bills discounting",
+     "C": "A letter of credit",
+     "D": "A bank overdraft"
+    },
+    "answer": "C",
+    "explanation": "SM §29: a letter of credit is 'an arrangement by which the issuing bank on the instructions of a customer or on its own behalf undertakes to pay or accept or negotiate or authorizes another bank to do so against stipulated documents' — the bank advances nothing unless the customer fails. Bills acceptance and bank guarantees are non-fund-based for the same reason. Cash credit, bills discounting and the overdraft all put funds in the borrower's hands."
+   },
+   {
+    "id": "CT-MCQ-F09-10",
+    "question": "A supplier offers terms of 3/15, net 60. Using the study material's formula for the cost of the lost cash discount, the annualised cost of not taking the discount is approximately:",
+    "options": {
+     "A": "3.0%",
+     "B": "25.1%",
+     "C": "18.6%",
+     "D": "28.0%"
+    },
+    "answer": "D",
+    "explanation": "t = 60 − 15 = 45 days, and the compounded formula is [100 ÷ (100 − d)]^(365/t) − 1 = [100/97]^(365/45) − 1 = [1.030928]^8.111 − 1 = 28.0%. Option B is the nominal form, 3/97 × 365/45 = 25.1% — ICAI says the nominal formula 'does not take into account the compounding effect and therefore, the cost of credit shall be even higher', which is exactly the gap between 25.1% and 28.0%. Option A is the error SM Illustration 18 exists to expose: comparing a discount percentage directly with an annual rate."
+   },
+   {
+    "id": "CT-MCQ-F09-11",
+    "question": "The Miller-Orr cash management model differs from Baumol's model principally in that it:",
+    "options": {
+     "A": "Minimises the sum of carrying costs and transaction costs, which Baumol does not",
+     "B": "Applies only where the firm holds no marketable securities",
+     "C": "Requires the cash balance to be returned to zero whenever the upper limit is reached",
+     "D": "Treats the net cash flow as completely stochastic and sets control limits rather than a single optimum balance"
+    },
+    "answer": "D",
+    "explanation": "SM §11.2: 'According to this model the net cash flow is completely stochastic', and the model sets h as the upper limit, z as the return point and zero as the lower limit. Baumol's limitation, ICAI says, 'is that it does not allow the cash flows to fluctuate'. Option A describes what both models do; option C is wrong because the transfer at the upper limit is h − z, which leaves the balance at the return point."
+   },
+   {
+    "id": "CT-MCQ-F09-12",
+    "question": "Which of the following is a spontaneous source of working capital finance carrying neither an explicit nor an implicit cost?",
+    "options": {
+     "A": "Trade credit",
+     "B": "Commercial paper",
+     "C": "A bank overdraft",
+     "D": "Accrued expenses"
+    },
+    "answer": "D",
+    "explanation": "SM §27.1(c): 'The accrued expenses represent an interest free source of finance. There is no explicit or implicit cost associated with the accrued expenses.' Trade credit is also spontaneous and carries no explicit cost, but its implicit cost — the discount forgone — is what §24(a) calls 'a high implicit cost'. Commercial paper and bank overdrafts are negotiated sources carrying explicit interest."
+   }
+  ],
+  "descriptive": [
+   {
+    "id": "CT-D-F09-01",
+    "marks": "5",
+    "question": "From the following information of Arcot Textiles Ltd. for the year ended 31 March 2026, calculate the net operating cycle period, the number of operating cycles in the year, and the amount of working capital required. Annual purchases of raw material (all credit) ₹14,40,000; annual cost of production ₹21,60,000; annual cost of goods sold ₹25,20,000; annual operating cost ₹28,80,000; annual sales (all credit) ₹36,00,000. Opening and closing balances: raw material ₹1,00,000 and ₹1,40,000; work-in-progress ₹80,000 and ₹1,00,000; finished goods ₹1,80,000 and ₹2,40,000; debtors ₹3,60,000 and ₹4,40,000; creditors ₹1,00,000 and ₹1,40,000. Assume 360 days in a year.",
+    "answer_points": [
+     "**State the formula and the convention.** **Operating Cycle = R + W + F + D − C**; 360 days assumed.",
+     "**Derive the raw material consumed first**, because the question gives purchases, not consumption. **Consumed = Opening + Purchases − Closing** = ₹1,00,000 + ₹14,40,000 − ₹1,40,000 = **₹14,00,000**.",
+     "**R** = average raw material ÷ consumption per day = [(₹1,00,000 + ₹1,40,000) ÷ 2] ÷ (₹14,00,000 ÷ 360) = ₹1,20,000 ÷ ₹3,888.89 = **31 days**.",
+     "**W** = average WIP ÷ cost of production per day = [(₹80,000 + ₹1,00,000) ÷ 2] ÷ (₹21,60,000 ÷ 360) = ₹90,000 ÷ ₹6,000 = **15 days**.",
+     "**F** = average finished goods ÷ cost of goods sold per day = [(₹1,80,000 + ₹2,40,000) ÷ 2] ÷ (₹25,20,000 ÷ 360) = ₹2,10,000 ÷ ₹7,000 = **30 days**.",
+     "**D** = average debtors ÷ credit sales per day = [(₹3,60,000 + ₹4,40,000) ÷ 2] ÷ (₹36,00,000 ÷ 360) = ₹4,00,000 ÷ ₹10,000 = **40 days**.",
+     "**C** = average creditors ÷ credit purchases per day = [(₹1,00,000 + ₹1,40,000) ÷ 2] ÷ (₹14,40,000 ÷ 360) = ₹1,20,000 ÷ ₹4,000 = **30 days**.",
+     "**(i) Net operating cycle** = 31 + 15 + 30 + 40 − 30 = **86 days**.",
+     "**(ii) Number of operating cycles** = 360 ÷ 86 = **4.186 times**.",
+     "**(iii) Working capital required** = annual operating cost ÷ number of cycles = ₹28,80,000 ÷ 4.186 = **₹6,87,996**, say **₹6,88,000**.",
+     "**Three points of technique to state.** **(a)** The denominator for R is **consumption**, which had to be derived; using purchases would give 30 days instead of 31. **(b)** The denominator for C is **purchases**, not consumption — the two differ here by ₹40,000. **(c)** The working capital is computed on the **annual operating cost of ₹28,80,000**, not on the cost of goods sold of ₹25,20,000, and the question gives both to test that."
+    ],
+    "keywords": [
+     "consumed = opening + purchases − closing",
+     "R on consumption, C on purchases",
+     "31 + 15 + 30 + 40 − 30 = 86 days",
+     "4.186 cycles",
+     "operating cost ₹28,80,000 ÷ 4.186",
+     "₹6,88,000"
+    ]
+   },
+   {
+    "id": "CT-D-F09-02",
+    "marks": "5",
+    "question": "Mysore Pumps Ltd. is considering relaxing its credit policy. Its present annual credit sales are ₹60,00,000 with an accounts receivable turnover ratio of 6 times a year and bad debt losses of ₹90,000. Proposed Policy A would raise sales to ₹72,00,000 with a turnover ratio of 4 times and bad debts of ₹2,16,000; Proposed Policy B would raise sales to ₹80,00,000 with a turnover ratio of 3 times and bad debts of ₹4,00,000. Variable costs are 65% of the selling price and fixed costs are ₹8,00,000. The company requires a return of 18% on the investment in receivables. Assume 360 days in a year. Evaluate the policies by the Total Approach and recommend one.",
+    "answer_points": [
+     "**Convert the turnover ratios into collection periods first.** 360 ÷ 6 = **60 days**; 360 ÷ 4 = **90 days**; 360 ÷ 3 = **120 days**.",
+     "**A. Expected profit, by column.**\n**(a) Credit sales** — ₹60,00,000 · ₹72,00,000 · ₹80,00,000.\n**(b) Variable costs at 65%** — ₹39,00,000 · ₹46,80,000 · ₹52,00,000. **Fixed costs — ₹8,00,000 in all three columns.** Totals **₹47,00,000 · ₹54,80,000 · ₹60,00,000**.\n**(c) Bad debts** — ₹90,000 · ₹2,16,000 · ₹4,00,000.\n**(d) Expected profit (a − b − c)** — **₹12,10,000 · ₹15,04,000 · ₹16,00,000**.",
+     "**B. Opportunity cost of investment in receivables** = total cost of credit sales × collection period ÷ 360 × 18%:\nPresent ₹47,00,000 × 60/360 × 18% = **₹1,41,000**;\nPolicy A ₹54,80,000 × 90/360 × 18% = **₹2,46,600**;\nPolicy B ₹60,00,000 × 120/360 × 18% = **₹3,60,000**.",
+     "**C. Net benefits (A − B)** — **₹10,69,000 · ₹12,57,400 · ₹12,40,000**.",
+     "**Recommendation.** **Proposed Policy A should be adopted, since the net benefits under this policy are higher than under the other policies.**",
+     "**The comment that earns the last mark.** Expected profit rises at every step — ₹12.10 lakhs to ₹15.04 lakhs to ₹16.00 lakhs — but **net benefit peaks at Policy A**. Between A and B the profit rises by ₹96,000 while the opportunity cost rises by ₹1,13,400, so the extra sales do not pay for the extra 30 days of credit.",
+     "**Two technique points.** **Fixed cost is held at ₹8,00,000 in every column**, computed once from the present policy; and the opportunity cost is taken on the **total cost of credit sales**, not on sales value — ICAI's own formula in §19."
+    ],
+    "keywords": [
+     "turnover 6 / 4 / 3 → 60 / 90 / 120 days",
+     "fixed cost ₹8,00,000 constant",
+     "expected profit ₹12,10,000 / ₹15,04,000 / ₹16,00,000",
+     "opportunity cost ₹1,41,000 / ₹2,46,600 / ₹3,60,000",
+     "net benefits ₹10,69,000 / ₹12,57,400 / ₹12,40,000",
+     "Policy A, though Policy B earns more profit"
+    ]
+   },
+   {
+    "id": "CT-D-F09-03",
+    "marks": "4",
+    "question": "Explain the different kinds of float with reference to the management of cash, and describe the two decentralised collection systems a firm may use to reduce float time, including the rule for deciding whether to adopt them.",
+    "answer_points": [
+     "**Open with the definition and the objective.** **'The term float is used to refer to the periods that affect cash as it moves through the different stages of the collection process.'** The twin objectives of managing cash flows are to **accelerate cash collections as much as possible** and to **decelerate or delay cash disbursements within permissible time frame.**",
+     "**The four floats, each defined by its two boundary events.**\n**Billing float** — **'the time between the sale and the mailing of the invoice.'**\n**Mail float** — **'the time when a cheque is being carried by post office, messenger service or other means of delivery.'**\n**Cheque processing float** — **'the time required for the seller to sort, record and deposit the cheque after it has been received by the company.'**\n**Banking processing float** — **'the time from the deposit of the cheque to the crediting of funds in the sellers' account.'**",
+     "**How each is attacked.** Issue invoices quickly to cut the **billing** float; reduce the lag between the customer paying and the cheque being collected to cut the **mail** float; and make funds available for the firm's use to cut the **processing** floats.",
+     "**Concentration Banking.** **'the company establishes a number of strategic collection centers in different regions instead of a single collection center at the head office.'** Payments are **deposited with the respective local banks, which transfer all surplus funds to the concentration bank of head office**, generally located at the headquarters. ICAI calls it **'one important and popular way of reducing the size of the float.'**",
+     "**Lock Box System.** **'The purpose of lock box system is to eliminate the time between the receipts of remittances by the company and deposited in the bank.'** The company **rents a local post-office box and authorises its bank at each location to pick up the remittances**; the bank **picks up the mail several times a day and deposits the cheques in the company's account**, sending a deposit slip and a list of payments. **'This procedure frees the company from handling and depositing the cheques.'** Its specific effect is that the **cheque processing float is eliminated**.",
+     "**The drawback.** **'The main drawback of lock box system is the cost of its operation … Since the cost is almost directly proportional to the number of cheques deposited, lock box arrangements are usually not profitable if the average remittance is small.'**",
+     "**The decision rule, which applies to both systems.** **'The appropriate rule for deciding whether or not to use a lock box system or for that matter, concentration banking, is simply to compare the added cost of the most efficient system with the marginal income that can be generated from the released funds. If costs are less than income, the system is profitable and if the system is not profitable, it is not worth undertaking.'**",
+     "**Close on the symmetry.** On the collection side float is to be destroyed; on the payment side it is to be created — **'availability of cash can be maximized by playing the float'**, by estimating accurately when cheques issued will be presented and holding only enough balance to honour those actually expected on that date."
+    ],
+    "keywords": [
+     "float is a period, defined by two events",
+     "billing, mail, cheque processing, banking processing",
+     "concentration banking — regional centres, surplus swept to head office",
+     "lock box eliminates the cheque processing float",
+     "not profitable if the average remittance is small",
+     "added cost against marginal income from released funds",
+     "playing the float on the payment side"
+    ]
+   },
+   {
+    "id": "CT-D-F09-04",
+    "marks": "4",
+    "question": "Discuss the costs of availing trade credit and the costs of not availing it, and explain how a firm should decide whether to take a cash discount offered by a supplier.",
+    "answer_points": [
+     "**Open with ICAI's concession.** **'Normally it is considered that the trade credit does not carry any cost. However, it carries the following costs.'** Trade credit is a **spontaneous source of finance** that **arises from ordinary business transaction** and contributes **about one-third of total short-term requirements.**",
+     "**The four costs of availing trade credit.**\n**(i) Price** — **'There is often a discount on the price that the firm undergoes when it uses trade credit, since it can take advantage of the discount only if it pays immediately. This discount can translate into a high implicit cost.'**\n**(ii) Loss of goodwill** — **'If the credit is overstepped, suppliers may discriminate against delinquent customers if supplies become short'**, and the effect **'depends very much on the relative market strengths of the parties involved.'**\n**(iii) Cost of managing** — **'administrative and accounting costs that would otherwise be incurred.'**\n**(iv) Conditions** — suppliers may **'insist that for availing the credit facility the order should be of some minimum size or even on regular basis.'**",
+     "**The three costs of not availing it.**\n**(i) Impact of inflation** — **'borrowers are favored over the lenders as they were better off to pay the fixed outstanding amount later than sooner'**, and later transactions will be at higher prices.\n**(ii) Interest** — **'Trade credit is a type of interest free loan, therefore failure to avail this facility has an interest cost.'**\n**(iii) Inconvenience** — to a supplier **'geared to the deferred payment.'**",
+     "**How to decide on a cash discount — the arithmetic.** Compute the annualised cost of **not** taking it. The nominal form is **d ÷ (100 − d) × 365 ÷ t**; ICAI notes this **'does not take into account the compounding effect'** and gives the better form **[100 ÷ (100 − d)]^(365 ÷ t) − 1**, where **d is the size of the discount and t is the reduction in the payment period necessary to obtain it.**",
+     "**Then compare it with the rate at which money can be had or placed.** On SM Illustration 17's terms of **2/10, net 45**, the cost of refusing is **23.5%**; because the company can earn **25%** on the cash retained, **'it is better for the company to refuse the discount, as return on cash retained is more than the saving on account of discount.'** Conversely, May 2026's B Ltd can borrow at **7% post-tax** against a discount worth **8.571% post-tax**, so it accepts.",
+     "**The t to use is a judgement.** It is the number of days **actually given up**: 35 days in Illustration 17, where the comparison is day 10 against day 45, but only **5 days** in Illustration 18, where the company already pays on day 15 — which is why the cost there reaches **149%**.",
+     "**And the conclusion if the discount cannot be taken.** SM Illustration 18(b): **'If the bank loan facility could not be available, then in this case the company should resort to utilise maximum credit period as possible. Therefore, payment should be made in 30 days to reduce the interest cost.'** Paying early **without** taking the discount is the worst of both outcomes."
+    ],
+    "keywords": [
+     "normally considered to carry no cost",
+     "price, goodwill, managing, conditions",
+     "inflation, interest, inconvenience",
+     "d ÷ (100 − d) × 365 ÷ t",
+     "compounded [100 ÷ (100 − d)]^(365/t) − 1",
+     "23.5% against a 25% return — refuse",
+     "t is the days actually given up",
+     "if you cannot take it, pay on the last day"
+    ]
+   },
+   {
+    "id": "CT-D-F09-05",
+    "marks": "4",
+    "question": "Explain the two broad categories into which working capital finance may be classified, the parameters that should guide a finance manager's choice of source, and the forms of bank credit available.",
+    "answer_points": [
+     "**Start with the bifurcation, which governs everything else.** **'It is advisable that the finance manager bifurcate the working capital requirements between the permanent working capital and temporary working capital. The permanent working capital is always needed irrespective of sales fluctuation; hence it should be financed by the long-term sources such as debt and equity. On the contrary the temporary working capital may be financed by the short-term sources of finance.'**",
+     "**The two categories.** **Spontaneous sources** are **'those which naturally arise in the course of business operations'** — ICAI's examples are **trade credit, credit from employees and credit from suppliers of services.** **Negotiated sources** are **'those which have to be specifically negotiated with lenders say, commercial banks, financial institutions, general public etc.'**",
+     "**The three spontaneous sources.** **Trade credit**, contributing **about one-third of total short-term requirements**, and termed **'open account trade credit'** where no formality is required; **bills payable**, where the purchaser gives **a written promise to pay on demand or at a fixed future date**; and **accrued expenses**, a **'built in and an automatic source'** which **'represent an interest free source of finance'** with **'no explicit or implicit cost'.**",
+     "**The six parameters guiding the choice.** **(i) Cost factor; (ii) Impact on credit rating; (iii) Feasibility; (iv) Reliability; (v) Restrictions; and (vi) Hedging approach or matching approach i.e., Financing of assets with the same maturity as of assets.**",
+     "**The negotiated sources beyond banks.** **Inter-corporate loans and deposits**, at a rate **higher than the bank rate** depending on the borrower's financial soundness; **commercial paper**, an **unsecured promissory note** for **highly rated corporate borrowers**, with a maturity from **a minimum of 7 days to less than 1 year** in denominations of **₹5 lakhs or multiples**; **funds generated from operations**, being **profit and depreciation**; **public deposits**, for **well-established big companies with huge capital base**; **bills discounting** and the **Bill Rediscounting Scheme** of the RBI, effective from **1 November 1970**; and **factoring**.",
+     "**The forms of bank credit** (SM §29), **banks being 'the major suppliers of working capital credit'**: **cash credit** — a facility **'on continuous basis'** which the borrower may not exceed; **bank overdraft** — for **'urgent need of funds'**, easily repaid and **callable at short notice**; **bills discounting** — the seller discounts a buyer-accepted bill, the bank **earmarking a limit**; **bills acceptance** — the company **draws a bill on the bank**, which accepts it; **line of credit** — **'a commitment by a bank to lend a certain amount of funds on demand specifying the maximum amount'**; **letter of credit** — the bank **'undertakes to pay or accept or negotiate'** against stipulated documents; and **bank guarantees**, extended **'on behalf of their clients in favour of third parties'.**",
+     "**One line that shows understanding rather than recall.** Of the seven forms, **cash credit, overdraft, bills discounting and a drawn line of credit are fund-based**, while **bills acceptance, letter of credit and bank guarantee are non-fund-based** — the bank lends its name and pays only on default.",
+     "**And on assessment.** The **RBI withdrew the Maximum Permissible Bank Finance prescription in April 1997**; banks are **'now free to evolve, with the approval of their Boards, methods for assessing the working capital requirements of borrowers, within the prudential guidelines and exposure norms prescribed'**, subject still to the instructions on **directed credit** and **prohibition of credit**. The **Tandon and Chore Committees** laid the original foundations in this area."
+    ],
+    "keywords": [
+     "bifurcate permanent and temporary",
+     "spontaneous against negotiated",
+     "accruals have no explicit or implicit cost",
+     "cost, credit rating, feasibility, reliability, restrictions, matching",
+     "commercial paper 7 days to less than 1 year, ₹5 lakhs",
+     "seven forms of bank credit",
+     "fund-based against non-fund-based",
+     "MPBF withdrawn April 1997",
+     "Tandon and Chore Committees"
+    ]
+   },
+   {
+    "id": "CT-D-F09-06",
+    "marks": "3",
+    "question": "Explain the approaches of working capital investment, and the relationship between the current assets to fixed assets ratio and the return on total assets.",
+    "answer_points": [
+     "**The three approaches, decided by organisational policy and the risk-return trade off.**",
+     "**Aggressive** — investment is kept at **minimal investment in current assets**: the entity **holds a lower level of inventory, follows a strict credit policy and keeps less cash balance.** The advantage is that **a lower level of funds is tied up, which results in lower financial costs**; the flip side is the **risk of stock-outs** and that **the organisation could not grow, which leads to lower utilisation of fixed assets and long-term debts**, so that **in the long run the firm may stay behind the competitors.** It **'would better suit a highly integrated organisation with efficient processes.'**",
+     "**Conservative** — the organisation **invests high capital in current assets**, keeping **inventory higher, credit policies liberal, and cash balance as high as to meet any current liabilities immediately.** Advantages: **higher sales volume, increased demand due to the liberal credit policy, and increased goodwill among suppliers due to payment in short time.** Disadvantages: **increased cost of capital, inventory obsolescence, higher risk of bad debts, and shortage of liquidity in the long run due to longer operating cycles.**",
+     "**Moderate** — in between, where **'a balance between the risk and return is maintained to gain more by using the funds in very efficient manner.'**",
+     "**ICAI's summary sentence.** **'A conservative policy implies greater liquidity and lower risk whereas an aggressive policy indicates higher risk and poor liquidity. Moderate current assets policy will fall in the middle … which most of the firms follow to strike an appropriate balance as per the requirements of their trade or industry.'** A firm **may follow a different policy at different times.**",
+     "**The ratio.** **'Dividing current assets by fixed assets gives current assets/fixed assets ratio. Assuming a constant level of fixed assets, a higher current assets/fixed assets ratio indicates a conservative current assets policy and a lower current assets/fixed assets ratio means an aggressive current assets policy.'**",
+     "**The relationship, with ICAI's own figures.** On SM Illustration 1 — sales ₹20,00,000, EBIT ₹2,00,000, fixed assets ₹5,00,000 — current assets of **₹5,00,000, ₹4,00,000 and ₹3,00,000** give returns on total assets of **20%, 22.22% and 25%** against CA/FA ratios of **1.00, 0.80 and 0.60**. ICAI concludes that the table **'reflects inverse relationship between Current Assets / Fixed Assets ratio and Return on Total Assets.'**",
+     "**Why that must be so, in one line.** With EBIT and fixed assets constant, holding more current assets enlarges the denominator of the return without touching the numerator. And ICAI adds that **'generally, current assets do not increase in direct proportion to output; current assets may increase at a decreasing rate with output'**, because **'as the output increases, the firm starts using its current asset more efficiently.'**",
+     "**Close on the objective.** **'In determining the optimum level of current assets, the firm should balance the profitability – solvency tangle by minimizing total costs – Cost of liquidity and cost of illiquidity.'**"
+    ],
+    "keywords": [
+     "aggressive, conservative, moderate",
+     "highly integrated organisation with efficient processes",
+     "inventory obsolescence and longer operating cycles",
+     "conservative = greater liquidity, lower risk",
+     "higher CA/FA ratio is conservative",
+     "1.00 / 0.80 / 0.60 against 20% / 22.22% / 25%",
+     "inverse relationship",
+     "increase at a decreasing rate",
+     "cost of liquidity and cost of illiquidity"
+    ]
+   }
+  ]
+ },
+ "recall": {
+  "quick": [
+   {"q": "State the operating cycle equation and name each term.", "a": "Operating Cycle = R + W + F + D − C: raw material storage period, work-in-progress holding period, finished goods storage period, receivables collection period, less the credit period allowed by suppliers."},
+   {"q": "How is the working capital requirement found from the cycle?", "a": "Number of cycles = 360 or 365 ÷ cycle period; working capital = annual operating cost ÷ number of cycles."},
+   {"q": "At what value do finished goods and debtors enter a cash-cost statement?", "a": "Finished goods at the cash cost of production; debtors at the cash cost of sales. Profit and depreciation are excluded from both."},
+   {"q": "State Baumol's formula and define each symbol.", "a": "C = √(2UP ÷ S), where C is the optimum cash balance, U the annual or monthly cash disbursement, P the fixed cost per transaction and S the opportunity cost of one rupee for the same period."},
+   {"q": "Name the three limits of the Miller-Orr model and the action at each.", "a": "h the upper limit — invest h − z in marketable securities; z the return point; zero the lower limit — transfer from securities to cash. Between the limits, no transaction."},
+   {"q": "Name the four kinds of float.", "a": "Billing float, mail float, cheque processing float and banking processing float."},
+   {"q": "State the opportunity cost formula used in credit policy evaluation.", "a": "Total cost of credit sales × collection period (days) ÷ 365 or 360 × required rate of return ÷ 100."},
+   {"q": "State the formula for the rate of effective cost of factoring.", "a": "Net annual cost of factoring ÷ amount available for advance (or ÷ advances to be paid) × 100."},
+   {"q": "Give the two formulae for the cost of a lost cash discount.", "a": "Nominal: d ÷ (100 − d) × 365 ÷ t. Compounded: [100 ÷ (100 − d)]^(365 ÷ t) − 1."},
+   {"q": "Name the seven forms of bank credit.", "a": "Cash credit, bank overdraft, bills discounting, bills acceptance, line of credit, letter of credit and bank guarantees."}
+  ],
+  "fill": [
+   {"q": "Working Capital = Current Assets − ______.", "a": "Current Liabilities"},
+   {"q": "The work-in-progress holding period is average WIP divided by average ______ per day.", "a": "cost of production"},
+   {"q": "The finished goods storage period is average finished goods divided by average ______ per day.", "a": "cost of goods sold"},
+   {"q": "Working capital is lowered by current liabilities arising in the normal course of business, other than ______.", "a": "bank credit"},
+   {"q": "Cash cycle = debtors days + inventory days − ______ days.", "a": "creditors"},
+   {"q": "Minimum operating cash = total operating annual outlay ÷ ______.", "a": "cash turnover"},
+   {"q": "Commercial paper has a maturity from a minimum of 7 days to ______ from the date of issue.", "a": "less than 1 year"},
+   {"q": "Commercial paper may be issued in denominations of ______ or multiples thereof.", "a": "₹5 lakhs"},
+   {"q": "The RBI withdrew the prescription based on Maximum Permissible Bank Finance in ______.", "a": "April 1997"},
+   {"q": "The Bill Rediscounting Scheme was introduced by the RBI with effect from ______.", "a": "1 November 1970"},
+   {"q": "The two committees that evolved guidelines in working capital financing are the ______ Committee and the ______ Committee.", "a": "Tandon; Chore"},
+   {"q": "The two main components of funds generated from operations are profit and ______.", "a": "depreciation"}
+  ],
+  "true_false": [
+   {"s": "Permanent working capital should be financed by short-term sources, since it relates to current assets.", "a": "False", "reason": "SM §26: permanent working capital is always needed irrespective of sales fluctuation and should be financed by long-term sources such as debt and equity; only temporary working capital goes to short-term sources."},
+   {"s": "A higher current assets to fixed assets ratio indicates an aggressive working capital policy.", "a": "False", "reason": "It indicates a conservative policy. With fixed assets constant, holding more current assets means more cushion and a lower return on total assets — SM Illustration 1's 1.00, 0.80 and 0.60 against 20%, 22.22% and 25%."},
+   {"s": "Under double-shift working, the capital tied up in materials in process remains the same as with single-shift working.", "a": "True", "reason": "SM §6.4: work started in the first shift is completed in the second, so the cost of work-in-process does not change unless the second shift's workers are paid at a higher rate."},
+   {"s": "A rising trend in interest costs, collection costs and bad debts increases the size of the investment in receivables.", "a": "False", "reason": "SM §17 says the rising trend in these costs would depress it — as carrying receivables becomes dearer the firm tightens its credit policy."},
+   {"s": "Accrued expenses carry no explicit or implicit cost.", "a": "True", "reason": "SM §27.1(c) says so in terms. Trade credit also carries no explicit cost, but its implicit cost — the discount forgone — is substantial."},
+   {"s": "Factoring increases the debt-equity ratio because the factor advances funds against the receivables.", "a": "False", "reason": "SM §20.1: factoring gives liquidity 'without creating a net liability on its financial condition and hence no impact on debt equity ratio'. It is pledging, being a loan, that increases debt."},
+   {"s": "Forfaiting may be arranged either with or without recourse to the exporter.", "a": "False", "reason": "Forfaiting is always 'without recourse basis', the risk and rewards passing to the financial institution. It is factoring that may be either."},
+   {"s": "A letter of credit is a fund-based facility, since the bank pays the supplier directly.", "a": "False", "reason": "It is non-fund-based: the issuing bank undertakes to pay, accept or negotiate against stipulated documents, and parts with money only if its customer does not."},
+   {"s": "A commercial paper may be extended beyond its maturity if the issuer's rating is unchanged.", "a": "False", "reason": "SM §27.3: 'CP can neither be redeemed before maturity nor can be extended beyond maturity.' Continuity is achieved by issuing new paper to repay the old, which is a replacement rather than an extension."},
+   {"s": "The lock box system eliminates the cheque processing float.", "a": "True", "reason": "SM §10.4: the lag between the time cheques are received by the company and the time they are deposited in the bank is eliminated, because the bank collects and deposits them directly."}
+  ],
+  "one_word": [
+   {"q": "The minimum level of investment in current assets carried at all times.", "a": "Permanent working capital"},
+   {"q": "The firm's total investment in current assets.", "a": "Gross working capital"},
+   {"q": "The approach that keeps investment in current assets at a minimum.", "a": "Aggressive"},
+   {"q": "The financing principle of matching the maturity of a source to the maturity of the asset.", "a": "The hedging or matching approach"},
+   {"q": "The cash-management model that applies where cash flows are completely stochastic.", "a": "The Miller-Orr model"},
+   {"q": "The decentralised system in which banks collect from rented post-office boxes.", "a": "The lock box system"},
+   {"q": "Holding only enough bank balance to honour the cheques expected to be presented that day.", "a": "Playing the float"},
+   {"q": "The account swept to nil each day against marketable securities.", "a": "Zero balance account"},
+   {"q": "Trade credit obtained without completing much formality.", "a": "Open account trade credit"},
+   {"q": "The outright sale of accounts receivable to a financial agency.", "a": "Factoring"},
+   {"q": "The French term meaning 'relinquish a right'.", "a": "Forfait (forfaiting)"},
+   {"q": "The prescription for assessing working capital needs that the RBI withdrew in April 1997.", "a": "Maximum Permissible Bank Finance (MPBF)"}
+  ],
+  "match": {
+   "left": [
+    "Baumol's model",
+    "Miller-Orr model",
+    "Concentration banking",
+    "Lock box system",
+    "Total Approach",
+    "Factoring",
+    "Forfaiting",
+    "Cash credit"
+   ],
+   "right": [
+    "Export bills only, always without recourse, usually under a letter of credit",
+    "C = √(2UP ÷ S) — optimum where carrying and transaction costs are least",
+    "A continuous bank facility within a sanctioned limit the borrower may not exceed",
+    "Regional collection centres whose local banks sweep surplus funds to head office",
+    "Outright sale of the sales ledger, with or without recourse, including ledger administration",
+    "h, z and zero — invest h − z at the upper limit",
+    "Expected profit less the opportunity cost of receivables, for every policy in levels",
+    "Banks collect from rented post-office boxes, eliminating the cheque processing float"
+   ],
+   "key": [
+    "Baumol's model – C = √(2UP ÷ S) — optimum where carrying and transaction costs are least",
+    "Miller-Orr model – h, z and zero — invest h − z at the upper limit",
+    "Concentration banking – Regional collection centres whose local banks sweep surplus funds to head office",
+    "Lock box system – Banks collect from rented post-office boxes, eliminating the cheque processing float",
+    "Total Approach – Expected profit less the opportunity cost of receivables, for every policy in levels",
+    "Factoring – Outright sale of the sales ledger, with or without recourse, including ledger administration",
+    "Forfaiting – Export bills only, always without recourse, usually under a letter of credit",
+    "Cash credit – A continuous bank facility within a sanctioned limit the borrower may not exceed"
+   ]
+  },
+  "differentiate": [
+   {"q": "Gross working capital vs net working capital", "a": "Both measure the same balance sheet from the value point of view. Gross working capital is the firm's investment in current assets; net working capital is current assets less current liabilities. A positive net figure indicates the ability to pay short-term liabilities, a negative one the inability — though a retail business collecting in cash and paying in arrear may run on negative net working capital quite soundly, as RTP January 2025's Samvar Ltd does at ₹(5.9396) lakh a store."},
+   {"q": "Aggressive vs conservative working capital investment", "a": "Aggressive keeps current assets at a minimum — lower inventory, a strict credit policy, less cash — so less funding is tied up and financial costs are lower, but there is stock-out risk and growth is forgone, leaving lower utilisation of fixed assets and long-term debt. Conservative invests high in current assets, winning higher sales volume, demand from liberal credit and supplier goodwill, but paying an increased cost of capital and risking inventory obsolescence, bad debts and a longer operating cycle. Conservative means greater liquidity and lower risk; aggressive means higher risk and poor liquidity."},
+   {"q": "Baumol's model vs the Miller-Orr model", "a": "Both determine how much cash to hold and both balance the cost of holding cash against the cost of converting securities. Baumol is an inventory-type model assuming cash needs are known with certainty and used uniformly; it gives a single optimum C = √(2UP ÷ S), and its stated limitation is that it does not allow cash flows to fluctuate. Miller-Orr is a stochastic control-limit model: the net cash flow is completely random, and it sets h, z and zero, investing h − z at the upper limit and selling securities at the lower. The current Study Material gives no formula for Miller-Orr's limits."},
+   {"q": "Factoring vs bills discounting", "a": "Both convert receivables into cash before due date. Factoring is 'invoice factoring' — a sort of management of book debts, between client, factor and debtor, continuous over the whole sales ledger, with credit control and ledger administration included, and no specific Act applies. Bills discounting is 'invoice discounting' — a sort of borrowing from commercial banks, between drawer, drawee and payee, transaction by transaction with no service attached, and the Negotiable Instruments Act applies."},
+   {"q": "Factoring vs forfaiting", "a": "Both are non-loan ways of turning receivables into cash. Factoring covers domestic or export receivables, may be with or without recourse, runs as a continuing arrangement over the ledger, and bundles finance with credit control and sales-ledger administration. Forfaiting applies only to export trade bills, is always without recourse, works transaction by transaction usually under a letter of credit or other negotiable instrument, and provides finance alone. Exim Bank of India's Buyer's Credit is ICAI's example of forfaiting."},
+   {"q": "Trade credit vs bank overdraft", "a": "Both are short-term sources. Trade credit is spontaneous — it arises from ordinary business transaction, comes from the supplier, is unsecured and informal where it is 'open account', carries no explicit interest but a high implicit cost in the discount forgone, and is tied to the purchase cycle. A bank overdraft is negotiated with a commercial bank, is usually secured and limited, carries explicit interest on the amount drawn, can be drawn and repaid quickly for an urgent need, and is issued with a right to call it in at short notice. Trade credit funds about one-third of short-term requirements; §6.2 excludes bank credit from the current liabilities deducted in sizing the requirement."},
+   {"q": "Cash credit vs bank overdraft", "a": "Both are running bank limits the borrower may not exceed, and both charge interest on the drawn amount. Cash credit is given 'on continuous basis' and is the standard working-capital facility, normally secured against inventory and receivables. A bank overdraft is 'made available to the companies in case of urgent need of funds', can be repaid 'quickly and easily' when no longer needed, and is issued with a right of recall at short notice — which is the operative distinction."},
+   {"q": "Total Approach vs Incremental Approach to credit policy evaluation", "a": "Both reach the same decision and both end in a net benefit compared across policies. The Total Approach states every policy in levels — credit sales, variable and fixed costs, bad debts, cash discount, tax, then the opportunity cost of receivables — and ICAI uses it in seven of its eight published answers. The Incremental Approach states only the differences from the present policy and the required return on the incremental investment; it is quicker where one proposal is on the table but unforgiving, because nothing in the statement reveals the level it started from."}
+  ],
+  "flowchart": {
+   "steps": [
+    "Read the requirement: a cycle, a statement, a cash budget, a policy choice, or a source",
+    "Fix the conventions in the first two lines: 360 or 365 days, and cost basis or sales basis",
+    "For an estimation question, build two working notes first — the cost per unit, and the annual cash cost of production and of sales",
+    "Value each current asset at the cost that has reached it: raw material on consumption, WIP on material plus the completed part of conversion, finished goods on cost of production, debtors on cash cost of sales",
+    "Add prepayments as current assets and the minimum cash balance; subtotal as Gross Working Capital",
+    "Deduct current liabilities — trade payables on credit purchases, wages and overheads on their lags — but never bank credit",
+    "Apply the margin last, and read whether it is a mark-up ('20% of working capital') or a gross-up ('inclusive of the margin')",
+    "For a cycle question instead, compute the five periods as labelled fractions, add as R + W + F + D − C, divide the year, then divide the annual operating cost",
+    "For a credit policy, build ICAI's Total Approach skeleton, hold fixed cost constant, convert turnover ratios to days, and keep the sign if the investment falls",
+    "For factoring, run the five steps to the advance, then three savings less two costs, then the effective cost against the cost of borrowing",
+    "Close with the decision in words, and state every assumption as a numbered note"
+   ],
+   "note": "Steps 2 to 7 are the estimation route and steps 8 to 10 the decision routes; every official question in this chapter is one of the four, and the conventions fixed in step 2 decide whether the rest can be right."
+  }
+ },
+ "revision": {
+  "five": [
+   "Operating Cycle = R + W + F + D − C; cycles = 360 or 365 ÷ cycle; working capital = annual operating cost ÷ cycles.",
+   "Finished goods at the cash cost of production, debtors at the cash cost of sales; profit and depreciation fund nothing.",
+   "Baumol: C = √(2UP ÷ S), with U and S on the same time basis. Miller-Orr: h, z and zero, investing h − z at the top.",
+   "Credit policy: expected profit less the opportunity cost of receivables (on cost of sales, not sales value), and the highest net benefit wins — not the highest profit.",
+   "Factoring: receivables, less commission, less reserve, less the factor's interest; effective cost on the advance, accepted only if below the cost of borrowing."
+  ],
+  "fifteen": [
+   "Add the nine determinants of §3 and the five factors of §4.2, and know which question wants which.",
+   "Add the three approaches and the CA/FA ratio, with Illustration 1's 20% / 22.22% / 25% against 1.00 / 0.80 / 0.60.",
+   "Add the two margin forms: '20% of working capital' multiplies by 1.20, 'inclusive of the margin' divides by 0.80.",
+   "Add the four floats, concentration banking, the lock box, and the cost-benefit rule that governs both.",
+   "Add the four purposes of a cash budget and the three methods of cash flow budgeting, with receipts and payments the one commonly used.",
+   "Add the cost-of-payables formulae and the fact that t is the days actually given up."
+  ],
+  "thirty": [
+   "Work one cash-cost statement end to end — Lever Ltd / PPW Ltd, ending at ₹16,33,000 — and check the cash cost of sales by adding back the gross profit.",
+   "Work SA September 2025's RG Limited backwards: ₹1,01,850 ÷ 1.05 × 3 = ₹2,91,000, then down the cost sheet to all five periods.",
+   "Work one Total Approach credit policy with turnover ratios — ABC Pvt Ltd's 90 / 120 / 150 days — and see net benefit peak before profit does.",
+   "Work the NV Industries factoring chain once: 80 days, ₹35,55,556, ₹31,28,889, ₹30,03,733, ₹8,83,200, ₹4,83,200, 16.09%.",
+   "Work January 2025's KP Ltd cash budget and September 2026's Jahanara Fashions, and see why one closes at the minimum and the other cumulates.",
+   "Add the seven forms of bank credit grouped as fund-based and non-fund-based, and the MPBF withdrawal of April 1997."
+  ],
+  "sixty": [
+   "Work both integrated cases and all twelve chapter-test MCQs, then the six descriptive questions against the model points.",
+   "Work May 2024's Bright Ltd and January 2026's X Ltd side by side: 7.504% accepted against 17.307% rejected, and see that the difference is whether the factor shortens the collection period.",
+   "Work RTP January 2025's Nirmoh Limited for pledging — the two day-limits, the reserve-then-percentage order, and the post-tax 9.59%.",
+   "Work MTP May 2026 Series I's Shilpa Limited for the ageing-based cost of a collection policy, 6.50%, and note that no opportunity cost is computed because no rate is given.",
+   "Work MTP September 2025 Series II's Oggy Limited for the negative-over-negative return of 4.8% and the 5.2% net gain.",
+   "Work SM Illustration 5's Samreen Enterprises for double-shift working: ₹1,92,000 to ₹2,86,800, so ₹94,800 more, with WIP units unchanged and debtors restated at cost."
+  ]
+ },
+ "one_page": {
+  "sections": [
+   {
+    "title": "Unit I — the requirement",
+    "points": [
+     "Working Capital = Current Assets − Current Liabilities; gross is the investment in current assets, net the difference",
+     "Permanent working capital is the minimum carried at all times, financed long term; temporary meets sales fluctuation, financed short term",
+     "Too much means idle funds and over capitalization; too little means the risk of insolvency and lost sales",
+     "Current ratio 2 and quick ratio 1 are thumb rules only — optimum depends on the particular circumstances of the specific situation",
+     "Nine planning factors: cash · inventory · receivables · short-term financing · nature of business · market and demand · technology · operating efficiency · price levels and forex",
+     "Three Es: economy in financing, efficiency in utilisation, effectiveness in achieving objectives",
+     "Five components in the trade-off: inventory, receivables, pre-paid expenses, cash, payables — the payables row reads the opposite way",
+     "Investment asks 'how much' (effectiveness); financing asks 'where from' (economy)",
+     "Aggressive / moderate / conservative; a higher CA/FA ratio is conservative, and the ratio moves inversely to return on total assets",
+     "Illustration 1: ₹5L / ₹4L / ₹3L of current assets → 20% / 22.22% / 25% and 1.00 / 0.80 / 0.60",
+     "Minimise total costs — the cost of liquidity plus the cost of illiquidity"
+    ]
+   },
+   {
+    "title": "Unit I — estimating it",
+    "points": [
+     "Three methods: current assets holding period (the operating cycle, 'one of the most reliable'), ratio of sales, ratio of fixed investments",
+     "Operating Cycle = R + W + F + D − C, and C is the only subtraction",
+     "R ÷ consumption · W ÷ cost of production · F ÷ cost of goods sold · D ÷ credit sales · C ÷ credit purchases, each per day",
+     "Cycles = 360 or 365 ÷ cycle; working capital = annual operating cost ÷ cycles; more cycles is better",
+     "Each current asset = units per period × the cost that has reached it × the holding period",
+     "Debtors and finished goods at cash cost — profit and depreciation are excluded",
+     "Prepayments are current assets; bank credit is never deducted as a current liability",
+     "Split WIP into material and conversion and apply the two completion percentages separately",
+     "Cash cost of production = material + wages + cash manufacturing; cash cost of sales adds administrative and selling",
+     "Illustration 4: ₹25,80,000 and ₹29,40,000 → ₹6,00,000 net, ₹7,20,000 with a 20% margin",
+     "Double shift: stocks rise less than proportionately, WIP is unchanged, fixed cost per unit halves — Samreen needs ₹94,800 more"
+    ]
+   },
+   {
+    "title": "Unit II — treasury and cash",
+    "points": [
+     "Treasury management: planning, organizing and controlling funds and working capital for best use, liquidity, lower cost and less risk",
+     "Five tasks: cash management · currency management · fund management · banking · corporate finance",
+     "Keynes's three motives: transaction, speculative, precautionary",
+     "Cash budget — the most significant device; four purposes; three methods, of which receipts and payments is commonly used",
+     "Accruals and depreciation never enter a receipts-and-payments budget",
+     "Four floats: billing · mail · cheque processing · banking processing",
+     "Concentration banking shortens the mail float; the lock box eliminates the cheque processing float",
+     "Decide either by comparing added cost with the marginal income from released funds",
+     "Baumol: C = √(2UP ÷ S); carrying cost is interest forgone, transaction cost is clerical, brokerage and registration",
+     "Illustration 10: ₹12,60,000 · ₹20 · 8% → ₹25,100. Samvar Ltd: ₹18,00,000 · ₹20 · 12% → ₹24,495",
+     "Miller-Orr: net cash flow completely stochastic; h, z and zero; invest h − z at the top; no formula in the SM",
+     "Seven recent developments, ending in virtual banking — popular for speed, convenience and round-the-clock access",
+     "Marketable securities: safety, maturity, marketability — mainly treasury bills, bank deposits and inter-corporate deposits",
+     "Cash cycle = debtors + inventory − creditors; minimum cash = annual outlay ÷ cash turnover"
+    ]
+   },
+   {
+    "title": "Units III to V — inventory, receivables, payables",
+    "points": [
+     "Inventory: objectives similar to cash management; detail is in Paper 4 Chapter 2",
+     "Receivables management is trade credit management, and the objective is to optimise the return on investment",
+     "Three aspects: credit policy · credit analysis · control of receivable",
+     "Four costs: interest or opportunity cost · administrative · collection · defaulting",
+     "'3/15 net 60' — 3% off by day 15, otherwise pay by day 60",
+     "Seven factors determining credit policy, and a rising trend in costs depresses the investment",
+     "Total Approach: credit sales − variable − fixed − bad debts − discount − tax, then the opportunity cost of receivables",
+     "Fixed cost from the present policy, held constant; opportunity cost on cost of credit sales",
+     "Net benefit peaks before profit does — AB Enterprises's Policy A, ABC Pvt Ltd's Policy 1, Banu Limited's Option I",
+     "Factoring: receivables − commission − reserve = available; − interest = advance; effective cost = net cost ÷ advance",
+     "Three savings (administration, bad debts, interest on a shorter cycle) against two costs (commission, interest)",
+     "Accept if the effective cost is below the cost of borrowing — Bright Ltd 7.504% yes, X Ltd 17.307% no",
+     "Pledging is a loan and raises debt; factoring is a sale and does not; forfaiting is export-only and always without recourse",
+     "Monitoring: the average age of receivables, then the ageing schedule for closer control over individual accounts",
+     "Payables: four costs of availing trade credit, three of not availing it",
+     "Lost discount: nominal d ÷ (100 − d) × 365 ÷ t; compounded [100 ÷ (100 − d)]^(365/t) − 1 — 23.5% on 2/10 net 45",
+     "If you cannot take the discount, pay on the last day of the credit period"
+    ]
+   },
+   {
+    "title": "Unit VI — financing it",
+    "points": [
+     "Bifurcate permanent and temporary, and match the maturity of the source to the asset",
+     "Six parameters: cost · credit rating · feasibility · reliability · restrictions · the hedging or matching approach",
+     "Spontaneous: trade credit (about one-third of short-term needs), bills payable, accrued expenses",
+     "Accrued expenses have no explicit or implicit cost; trade credit has no explicit cost but a high implicit one",
+     "Commercial paper: unsecured promissory note, highly rated issuers, 7 days to less than 1 year, ₹5 lakhs or multiples",
+     "Five CP advantages and two limitations — no early redemption and no extension",
+     "Funds from operations = profit + depreciation; public deposits suit well-established big companies",
+     "Bill Rediscounting Scheme: RBI, from 1 November 1970, all licensed scheduled banks eligible",
+     "Factoring against bills discounting: management of book debts against borrowing; no specific Act against the Negotiable Instruments Act",
+     "MPBF withdrawn by the RBI in April 1997; banks set their own methods with Board approval; Tandon and Chore Committees",
+     "Seven forms of bank credit — four fund-based, three (bills acceptance, letter of credit, bank guarantee) non-fund-based"
+    ]
+   },
+   {
+    "title": "The figures worth carrying into the hall",
+    "points": [
+     "SK Limited: 65 + 22 + 60 + 36 − 63 = 120 days, 3 cycles, ₹6,25,000",
+     "MSD Limited: 96 days, 3.75 cycles, ₹16,00,000 — or ₹14,72,000 on cash cost",
+     "RG Limited: ₹1,01,850 ÷ 1.05 × 3 = ₹2,91,000; periods 65, 30, 40, 48 and 63 days",
+     "Puja Limited: 86 days, 4.244 cycles, ₹2,23,845.42 (365 days). Wint Limited: 147 days, 2.48 cycles, ₹1,874 lakh",
+     "Lever Ltd / PPW Ltd: ₹33,60,000 and ₹38,40,000 → ₹18,30,000 gross, ₹14,20,000 net, ₹16,33,000 total",
+     "TMT Limited: ₹4,49,792 + ₹49,977 (× 1/9) = ₹4,99,769",
+     "ABC Ltd (Jan 2025 S2): excess ₹11,99,839 ÷ 0.85 = ₹14,11,575",
+     "KP Ltd: borrow ₹0.7 L and ₹3.7 L, invest ₹5 L; Jahanara: ₹(59,000), ₹(94,000), ₹81,000",
+     "AB Enterprises: ₹9,66,667 / ₹10,64,500 / ₹10,54,583 → Policy A",
+     "Banu Limited: ₹77.10 / ₹79.25 / ₹72.10 lakhs → Option I. ABC Pvt Ltd: ₹11,75,000 / ₹12,20,000 / ₹11,81,250 → Policy 1",
+     "NV Industries: 80 days, ₹35,55,556, ₹31,28,889, ₹30,03,733, ₹8,83,200, ₹4,83,200, 16.09%",
+     "Bright Ltd: ₹18,36,187.50 − ₹23,21,375 = ₹4,85,187.50 over ₹64,66,078 = 7.504% (or 6.730%)",
+     "X Ltd: ₹9,40,000 − ₹22,00,500 = ₹12,60,500 over ₹72,83,250 = 17.307% — reject",
+     "Sukrut Limited: net benefit ₹23,650 — accept. Oggy Limited: net gain 5.2% — change",
+     "Nirmoh Limited: ₹5,25,190 lent, effective cost 9.59% post-tax. Shilpa Limited: 6.50%",
+     "AR Ltd: 120-day cycle, ₹60 lakhs minimum cash; the discount scheme nets ₹(0.42) lakhs — reject",
+     "B Ltd: ₹192.50 net saving, 8.571% against 7% — accept"
+    ]
+   }
+  ]
+ },
+ "verification": {
+  "sources": [
+   "ICAI SM Paper 6A Module 2 Ch 9 'Management of Working Capital' (relevant for May 2026 examination onwards edition), Units I to VI, §1 to §29, with Examples and Illustrations 1 to 18",
+   "Suggested answers May 2024 – May 2026",
+   "RTPs May 2024 – Sep 2026",
+   "MTPs Mar 2024 – Aug 2026 (third-party copies of ICAI MTPs)",
+   "sources/register.json F09.01–F09.68 · sources/atoms/atoms_F09.json (51 atoms)"
+  ],
+  "open_items": [
+   {
+    "id": "OV-F09-01",
+    "item": "SA May 2024 Q1(c) (Bright Ltd) is published with three different answers. The main solution gives a net annual cost of ₹4,85,187.50 and an effective cost of 7.504%; ICAI's own note gives ₹4,35,187.50 and 6.730% if the one-time redundancy payment is treated as irrelevant; and a third variant computes the average level of receivables on 70 days rather than the factor's guaranteed 45. All three are reproduced, with the first as the primary answer.",
+    "resolve_with": "None needed; give the main answer and note the alternative"
+   },
+   {
+    "id": "OV-F09-02",
+    "item": "SA January 2026 Q1(b) (X Ltd) applies the 2% factoring commission to credit sales of ₹5,40,00,000 in the cost block (₹10,80,000) but to receivables of ₹90,00,000 in computing the advance (₹1,80,000). ICAI's printed format permits either basis — 'Annual credit Sales × % of Commission (or calculated annually)' — but using both in one solution is not internally consistent. The published figures are reproduced and the point noted.",
+    "resolve_with": "None needed; state which basis each figure uses"
+   },
+   {
+    "id": "OV-F09-03",
+    "item": "RTP May 2025 Q9 (Parshvam Limited) labels the excess of current assets over current liabilities as ₹9,62,124 and then computes the 15% safety margin on ₹9,87,124 — a base ₹25,000 higher, equal to the excess plus the advance income tax. The printed total of ₹11,06,443 is consistent with the margin as computed but not with the base as labelled. ICAI's figures are reproduced unchanged.",
+    "resolve_with": "None needed; the discrepancy is in the label, not the method"
+   },
+   {
+    "id": "OV-F09-04",
+    "item": "RTP January 2025 Q10 (Nirmoh Limited) deducts the reserve from the acceptable receivables first and then applies the 90% or 65% lending percentage to the balance — a double haircut. A literal reading of 'lend only to the extent of 90% of acceptable receivables … subject to a reserve of 5%' could support either order. ICAI's order is followed.",
+    "resolve_with": "None needed; follow ICAI's published working"
+   },
+   {
+    "id": "OV-F09-05",
+    "item": "SA May 2025 Part I Case Scenario I (XYZ Ltd) applies the 10% margin of safety as a plain mark-up (₹4,85,250 × 1.10 = ₹5,33,775, the published key), whereas RTP September 2024 Q10 applies a 10% provision as a gross-up (× 1/9) and MTP January 2025 Series II applies a 15% margin as a gross-up (÷ 0.85). The wording differs in each — only the latter two say 'including that provision' or 'inclusive of the margin amount' — so the treatments are reconcilable, but the chapter flags the pattern because the arithmetic differs materially.",
+    "resolve_with": "None needed; read the preposition in the question"
+   },
+   {
+    "id": "OV-F09-06",
+    "item": "SA May 2026 Part I MCQ 6 pairs an incremental investment in debtors of ₹(1,00,000) with an 'impact on post-tax profitability' of ₹6,000 — the opportunity-cost saving on the released investment alone. It excludes the post-tax contribution of ₹60,000 on the additional ₹5,00,000 of sales, so the column answers a narrower question than its wording suggests. ICAI's key (D) is reproduced with the point explained.",
+    "resolve_with": "None needed; read the column as the return on the change in investment"
+   },
+   {
+    "id": "OV-F09-07",
+    "item": "MTP September 2026 Series II Q1(a) specifies credit terms of 2/15 net 60 against 1/15 net 45 and then records the assumption 'Cash discount is not availed by the debtors', so neither discount is priced and the collection periods are taken as the full 45 and 60 days. Contrast MTP September 2025 Series II (Oggy Limited), where a 50% take-up is given and the discount is costed at ₹7,400. ICAI's published answer is reproduced with the assumption stated.",
+    "resolve_with": "None needed; state the assumption where the take-up is not given"
+   },
+   {
+    "id": "OV-F09-08",
+    "item": "SA January 2025 Q2(b) (MSD Limited) is published with two answers — ₹16,00,000 on the annual operating cost as stated and ₹14,72,000 on a cash-cost basis after removing the ₹4,80,000 of depreciation. Both are given, with the basis named.",
+    "resolve_with": "None needed"
+   },
+   {
+    "id": "OV-F09-09",
+    "item": "SA May 2026 Q3(b) (AR Ltd) is published with two readings of the discount scheme — a flat 30-day collection period giving a 90-day cash cycle, and a weighted 42-day period giving a 102-day cycle. The recommendation to reject is the same under both. The flat reading is given as the main answer, matching the question's words, with the weighted reading as a note.",
+    "resolve_with": "None needed; the decision is robust to the assumption"
+   },
+   {
+    "id": "OV-F09-10",
+    "item": "RTP September 2026 Q8 computes the effective cost of factoring on the advance paid (16.09%) and notes in a footnote that it would differ if computed on the total amount available for advance (15.44%). The two denominators are both in ICAI's printed format. This book takes the advance paid as primary and names the denominator in every worked answer.",
+    "resolve_with": "None needed; name the denominator used"
+   },
+   {
+    "id": "OV-F09-11",
+    "item": "RTP January 2026 Q11(b) — 'What do you understand by Spontaneous Sources of finance and explain its sources of finance?' — is the most direct question on F09.58, but it was already placed in FM Chapter 2 under F02.22 Short-term Sources of Finance, which covers the same ground. It is left where it is and cross-referenced from the §27.1 block rather than moved out of a merged chapter.",
+    "resolve_with": "None needed"
+   },
+   {
+    "id": "OV-F09-12",
+    "item": "The RBI payment-system list in §12.7 (MICR, ECSS, EFT, UPI, RTGS, DVP, INFINET, CFMS, SSS, SFMS) and the statutory position on public deposits in §27.5 are edition-sensitive. Both blocks are marked update_sensitive, and §28.1's MPBF withdrawal date of April 1997 should also be checked against the applicable edition.",
+    "resolve_with": "Verify against the Study Material edition applicable to the January 2027 attempt"
+   },
+   {
+    "id": "OV-F09-13",
+    "item": "No EOQ or inventory-valuation computation has been asked in any Paper 6A past paper, RTP or MTP in the period reviewed, and the SM gives no formula in §14, directing students instead to Paper 4 Chapter 2. Unit III is therefore treated as a theory section and as a feeder into Units I and IV. The §10.3 to §10.5 material on managing collections and disbursements is likewise unexamined in the period and carries a chapter-test descriptive question for that reason.",
+    "resolve_with": "None needed; both are standing gaps rather than omissions"
+   },
+   {
+    "id": "OV-F09-14",
+    "item": "Six official questions that match a working-capital keyword are ratio-analysis questions and are excluded from this chapter and recorded for the FM Chapter 3 back-fill: SA January 2025 Case Scenario II (VP Ltd, MCQs 6 and 7), SA January 2026 Q1(a) (AIL Limited, ending in a Basic Defense Interval), SA January 2026 Q4(c)-OR (BEE Ltd current-ratio impact table), MTP January 2026 Series II Q1(a) (velocity ratios), MTP September 2024 Series I Q1(a) (Ananya Limited) and MTP September 2026 Series II Part I case (Solstice Biotech). SA January 2025 MCQ 8 (JKL Company) is included here because a contingency provision on working capital is a §5 step rather than a ratio.",
+    "resolve_with": "Add the six to the FM Ch 3 back-fill list"
+   },
+   {
+    "id": "OV-F09-15",
+    "item": "The SM's own chapter summary uses 'management of sundry debtors' where Unit IV uses 'management of receivables' and 'management of debtors', and §15 adds 'trade credit management' as a further synonym. All four denote the same thing and no distinction is drawn between them.",
+    "resolve_with": "None needed"
+   }
+  ],
+  "qa": [
+   {"check": "SM headings covered", "result": "68 of 68 (F09.01 to F09.68), across all six units"},
+   {"check": "Official questions placed", "result": "51 of 51"},
+   {"check": "Topic blocks", "result": "26, grouped by unit: 8 for Unit I, 7 for Unit II, 7 for Units III to V, 4 for Unit VI"},
+   {"check": "Generated MCQ key balance", "result": "Target A18 · B18 · C18 · D18 across 52 concept MCQs, 8 case MCQs and 12 chapter-test MCQs"},
+   {"check": "Case MCQ answers checked against their own final reasoning line", "result": "Both cases checked; each question's reasoning ends on the option stated as the answer"},
+   {"check": "Figures cross-checked against ICAI's own published answers", "result": "SK Limited 22/60 days, 120 days, 3 cycles, ₹6,25,000; MSD Limited 96 days, 3.75, ₹16,00,000 and ₹14,72,000; RG Limited ₹2,91,000 / ₹2,61,000 / ₹2,56,800 / ₹1,45,800 / ₹1,49,550 and 65/30/40/63/48 days with keys B, D, C, B, B; XYZ Ltd keys A, C, D, D, A and ₹5,33,775; Puja Limited 86 days, 4.244, ₹2,23,845.42; Wint Limited 147 days, 2.48, ₹1,874 lakh; TMT Limited ₹4,49,792 and ₹4,99,769; Parshvam ₹14,37,727 and ₹11,06,443 with export cash cost ₹26,27,158; ABC Ltd ₹11,99,839.08 / ₹2,11,736.31 / ₹14,11,575; MTP J26-S1 ₹8,07,471 and ₹42,52,913; Lever Ltd / PPW Ltd ₹33,60,000 / ₹38,40,000 / ₹18,30,000 / ₹14,20,000 / ₹16,33,000; PQ Ltd ₹13,23,953 and ₹15,51,233; KP Ltd closing 1 / 2 / 1 with borrowing 0.7 and 3.7 and investment 5; Jahanara ₹(59,000) / ₹(94,000) / ₹81,000; Samvar ₹24,495 and ₹6.7730 L / ₹(5.9396) L; PYQ J26 MCQ 7 ₹18,00,000; AB Enterprises ₹9,66,667 / ₹10,64,500 / ₹10,54,583; Banu Limited ₹77.10 / ₹79.25 / ₹72.10 lakhs; ABC Pvt Ltd ₹11,75,000 / ₹12,20,000 / ₹11,81,250; AMPL ₹6,24,500 and ₹2,31,444; Oggy Limited ₹(900) / ₹(18,889) / 4.8% / 5.2%; MTP S26-S2 ₹3,06,500 / ₹3,27,750 / ₹21,250 with opportunity costs ₹22,500 and ₹34,500; PYQ M26 MCQ 6 ₹(1,00,000) and ₹6,000; Bright Ltd ₹18,36,187.50 / ₹23,21,375 / ₹4,85,187.50 / ₹64,66,078.125 / 7.504% and 6.730%; X Ltd ₹9,40,000 / ₹22,00,500 / ₹12,60,500 / ₹72,83,250 / 17.307%; Sukrut ₹1,12,500 / ₹53,100 / ₹1,65,600 / ₹23,650; NV Industries ₹35,55,556 / ₹31,28,889 / ₹8,83,200 / ₹4,83,200 / 16.09% with keys b, c, a, d, a; RTP S25 ₹4,03,200 and 13.42%; RTP S26 ₹4,83,200 and 16.09%; MTP S25-S1 MCQ vii ₹1,26,06,000; Nirmoh ₹4,54,000 / ₹2,48,000 / ₹3,88,170 / ₹1,37,020 / ₹5,25,190 / 9.59%; Shilpa ₹51,734 / ₹9,941 / ₹50,000 / ₹8,259 / ₹15,91,350 / 6.50%; AR Ltd 120 days / 3 / ₹180 lakhs / ₹60 lakhs / ₹45 lakhs / ₹1.26 lakhs / ₹1.68 lakhs / ₹(0.42) lakhs; B Ltd ₹1,050 / ₹857.50 / ₹192.50 / 12.245% / 8.571% / 7%; JKL ₹60 lakh"},
+   {"check": "Figures cross-checked against the SM's own illustrations", "result": "Illustration 1 20% / 22.22% / 25% and 1.00 / 0.80 / 0.60; Illustration 2 30 + 22 + 18 + 45 − 30 = 85 days and 4.23 cycles; Illustration 4 ₹25,80,000 / ₹29,40,000 / ₹9,10,000 / ₹3,10,000 / ₹6,00,000 / ₹7,20,000; Illustration 5 ₹2,26,000 / ₹3,44,000 / ₹34,000 / ₹57,200 / ₹1,92,000 / ₹2,86,800 / ₹94,800 with cost per unit ₹16.00 and ₹12.40; Illustration 10 ₹25,100 on ₹12,60,000, ₹20 and 8%; Illustration 11 90 days / 4 / ₹30 lakhs then 60 days / 6 / ₹20 lakhs / ₹1 lakh saving; Illustration 17 23.5% on 2/10 net 45 with ₹9,765 against ₹9,800; Illustration 18 149% on five days; the ageing schedule percentages 11.9 / 21.4 / 53.4 / 10.2 / 3.1 and 22.7 / 56.8 / 10.9 / 9.1 / 0.5"},
+   {"check": "Independent arithmetic on the generated content", "result": "Both integrated cases and all twelve chapter-test MCQs re-derived from first principles; Case 1's two estimation methods reconciled (₹8,80,000 by cycle against ₹11,40,000 by statement, the difference being accruals, cash and prepayments); Case 2's effective cost of 9.34% verified against both denominators"},
+   {"check": "Examiners' comments", "result": "ICAI publishes none for Paper 6; none are invented"}
+  ]
+ }
+}

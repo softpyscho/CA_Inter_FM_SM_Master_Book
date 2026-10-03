@@ -1,0 +1,554 @@
+{
+ "concepts": [
+  {
+   "code": "F09.17 + F09.18",
+   "title": "7–8 Treasury Management: Meaning, and the Functions of the Treasury Department",
+   "activity": "Medium",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 1 (May 2026 Q10(b)) · MTP 0",
+   "understand": [
+    "**Why treasury became a discipline** (SM §7): in the wake of the competitive business environment resulting from the **liberalization of the economy**, there is pressure to **manage cash scientifically**. **'The demand for funds for expansions coupled with high interest rates, foreign exchange volatility and the growing volume of financial transactions have necessitated efficient management of money.'**",
+    "==**ICAI's definition, which should be reproduced in full because every clause carries a mark:** **'Treasury management encompasses planning, organizing & controlling the funds & working capital of an enterprise in order to ensure best use of funds, maintain liquidity, reduce overall cost of funds and mitigating operational & financial risk. It involves the corporate handling of all financial matters, the generation of external and internal funds for business, the management of currencies and cash flows and the complex, strategies, policies and procedures of corporate finance.'**==",
+    "==**What treasury management mainly deals with:** **working capital management**, and **financial risk management (which includes forex and interest rate management).**==",
+    "==**The four key goals of treasury management** (SM §7):\n**1. Maximize the return on the available cash;**\n**2. Minimize interest cost on borrowings;**\n**3. Mobilise as much cash as possible for corporate ventures for maximum returns; and**\n**4. Effective dealing in forex, money and commodity markets to reduce risks arising because of fluctuating exchange rates, interest rates and prices which can in turn affect the profitability of the organization.**==",
+    "==**§8 The five fundamental tasks of the treasury department, and ICAI's framing sentence that the RTP quotes back at the candidate:** **'The treasury department have evolved in importance over number of years from being responsible for only cash handling issues to technical areas revolving around hedging forex risks, composition of capital structure etc.'**==",
+    "==**1. Cash Management.** It involves **efficient cash collection process and managing payment of cash both inside the organisation and to third parties.** **'There may be complete centralization within a group treasury or the treasury may simply advise subsidiaries and divisions on policy matter viz., collection/payment periods, discounts, etc.'** Treasury will also **manage surplus funds in an investment portfolio**, whose **investment policy will consider future needs for liquid funds and acceptable levels of risk as determined by company policy.**==",
+    "==**2. Currency Management.** The department **manages the foreign currency risk exposure of the company.** In a large MNC the **first step will usually be to set off intra-group indebtedness**; **the use of matching receipts and payments in the same currency will save transaction costs and also will save the organization from any unfavorable exchange movements.** Treasury **might advise on the currency to be used when invoicing overseas sales**, and will **manage any net exchange exposures in accordance with company policy — if risks are to be minimized then forward contracts can be used either to buy or sell currency forward.**==",
+    "==**3. Fund Management.** Treasury is **responsible for planning and sourcing the company's short, medium and long-term cash needs.** It **facilitates temporary investment of surplus funds by mapping the time gap between funds inflow and outflow**, and **will also participate in the decision on capital structure and forecast future interest and foreign currency rates.**==",
+    "==**4. Banking.** **'It is important that a company maintains a good relationship with its bankers.'** Treasury **carries out negotiations with bankers with respect to interest rates, foreign exchange rates etc. and acts as the initial point of contact with them.** **Short-term finance can come in the form of bank loans or through the sale of commercial paper in the money market.**==",
+    "==**5. Corporate Finance.** Treasury is **involved with both acquisition and divestment activities within the group.** In addition it **will often have responsibility for investor relations** — an activity that **'has assumed increased importance in markets where share-price performance is regarded as crucial and may affect the company's ability to undertake acquisition activity or, if the price falls drastically, render it vulnerable to a hostile bid.'**==",
+    "==**The shape of the four-mark answer.** The question will quote the 'evolved in importance' sentence and ask for the fundamental tasks. **Name all five with a one-line description each, and lead with cash management** — it is the one that belongs to this chapter, and the other four show the breadth ICAI's sentence is pointing at. ==Candidates who give only cash management and currency management lose half the marks even if those two are written well.=="
+   ],
+   "example": "RTP May 2026 Q10(b) sets the question in its purest form: it quotes the 'evolved its importance over the years from being responsible for only cash handling issues to technical areas revolving around hedging forex risks and composition of capital structure' sentence and asks the candidate to 'EXPLAIN briefly the fundamental tasks for which treasury department is responsible'. The answer is the five headings. The question is designed so that the quoted sentence itself tells you two of the five — forex (currency management) and capital structure (fund management) — leaving cash management, banking and corporate finance to be supplied.",
+   "provisions": [
+    {
+     "ref": "Definition of treasury management (SM §7)",
+     "status": "VERIFIED",
+     "requirement": "Planning, organizing and controlling the funds and working capital of an enterprise to ensure best use of funds, maintain liquidity, reduce overall cost of funds and mitigate operational and financial risk.",
+     "exam_angle": "Reproduce the whole sentence; the four purposes at the end are each a mark."
+    },
+    {
+     "ref": "What it deals with (SM §7)",
+     "status": "VERIFIED",
+     "requirement": "Working capital management, and financial risk management including forex and interest rate management.",
+     "exam_angle": "Explains why treasury sits inside this chapter at all."
+    },
+    {
+     "ref": "Four key goals (SM §7)",
+     "status": "VERIFIED",
+     "requirement": "Maximise return on available cash; minimise interest cost on borrowings; mobilise cash for corporate ventures; deal effectively in forex, money and commodity markets.",
+     "exam_angle": "A separate list from the five tasks; read which the question wants."
+    },
+    {
+     "ref": "Five fundamental tasks (SM §8)",
+     "status": "VERIFIED",
+     "requirement": "Cash management · currency management · fund management · banking · corporate finance.",
+     "exam_angle": "RTP May 2026 Q10(b) asks for exactly these five."
+    }
+   ],
+   "keywords": [
+    "liberalization of the economy",
+    "planning, organizing and controlling the funds",
+    "best use of funds",
+    "mitigating operational and financial risk",
+    "set off intra-group indebtedness",
+    "matching receipts and payments in the same currency",
+    "initial point of contact with bankers",
+    "investor relations",
+    "vulnerable to a hostile bid"
+   ],
+   "memory": {
+    "trick": "**Cash, Currency, Funds, Banks, Corporate.** Five tasks in a rising order of horizon: today's **cash**, this month's **currency** exposure, this year's **funds**, the standing **bank** relationship, and the structural **corporate** finance work. ==The first is working capital; the last is Chapter 5.==",
+    "key": [
+     ["Cash management", "Collections, payments, and the surplus investment portfolio"],
+     ["Currency management", "Set off intra-group debt, match currencies, use forwards"],
+     ["Fund management", "Short, medium and long-term needs; capital structure input"],
+     ["Banking", "Negotiate rates; the initial point of contact"],
+     ["Corporate finance", "Acquisitions, divestments and investor relations"],
+     ["Goal 1", "Maximise the return on available cash"],
+     ["Goal 2", "Minimise interest cost on borrowings"],
+     ["Goal 3", "Mobilise cash for corporate ventures"],
+     ["Goal 4", "Deal effectively in forex, money and commodity markets"]
+    ]
+   },
+   "mistakes": [
+    "Giving the four goals when the question asks for the five tasks, or the reverse. ICAI prints both lists one page apart.",
+    "Reducing treasury management to cash management. ICAI's own definition names currencies, cash flows and 'the complex strategies, policies and procedures of corporate finance'.",
+    "Omitting corporate finance and investor relations, which is the task most candidates do not expect to find under 'treasury'.",
+    "Saying forward contracts are used to speculate. ICAI's words are 'if risks are to be minimized then forward contracts can be used either to buy or sell currency forward'.",
+    "Forgetting the first step in currency management for a group: setting off intra-group indebtedness before any hedging."
+   ],
+   "compare": {
+    "title": "The two lists in Unit II's opening sections",
+    "headers": ["", "Key goals of treasury management (§7)", "Fundamental tasks of the department (§8)"],
+    "rows": [
+     ["Count", "Four", "Five"],
+     ["First item", "Maximize the return on available cash", "Cash management"],
+     ["Nature", "Objectives — what treasury is trying to achieve", "Functions — what the department actually does"],
+     ["Scope", "Returns, costs, mobilisation, market dealing", "Cash, currency, funds, banking, corporate finance"],
+     ["Asked in", "Not yet asked directly in the period reviewed", "RTP May 2026 Q10(b)"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §9: management of cash, the first of the five tasks in detail",
+    "🔗 FM Ch 9 §13: management of marketable securities, the 'investment portfolio' of task 1",
+    "🔗 FM Ch 9 §29: the forms of bank credit negotiated under task 4",
+    "🔗 FM Ch 5: capital structure, which task 3 says treasury participates in",
+    "🔗 FM Ch 2 §9: international financing, the context for task 2"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Explain briefly the fundamental tasks for which the treasury department is responsible (4 marks)",
+     "What is treasury management, and what are its key goals (4 marks)",
+     "Explain the currency management function of a treasury department (2 marks)"
+    ],
+    "approach": [
+     "Open with ICAI's definition sentence; it alone covers planning, organising, controlling, liquidity, cost and risk.",
+     "Then run the five tasks as a numbered list with one line each. Do not merge them into prose.",
+     "If marks allow, add the two sub-points under cash management — centralisation versus advisory, and the surplus investment portfolio."
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "RTP-M26-FQ10b",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Descriptive",
+     "question": "\"The treasury department of a business concern has evolved its importance over the years from being responsible for only cash handling issues to technical areas revolving around hedging forex risks and composition of capital structure.\" In the light of this statement, EXPLAIN briefly the fundamental tasks for which treasury department is responsible.",
+     "answer_points": [
+      "**Open by accepting the premise and defining the function.** **Treasury management encompasses planning, organizing and controlling the funds and working capital of an enterprise in order to ensure the best use of funds, maintain liquidity, reduce the overall cost of funds and mitigate operational and financial risk.** It involves **the corporate handling of all financial matters, the generation of external and internal funds for business, the management of currencies and cash flows, and the complex strategies, policies and procedures of corporate finance.**",
+      "==**1. Cash Management.** It involves **efficient cash collection process and managing payment of cash both inside the organisation and to third parties.** There may be **complete centralization within a group treasury**, or the treasury may **simply advise subsidiaries and divisions on policy matters such as collection and payment periods and discounts.** Treasury also **manages surplus funds in an investment portfolio**, whose investment policy **considers future needs for liquid funds and acceptable levels of risk as determined by company policy.**==",
+      "==**2. Currency Management.** The treasury **manages the foreign currency risk exposure of the company.** In a large multinational the **first step is usually to set off intra-group indebtedness**; **matching receipts and payments in the same currency saves transaction costs and protects the organisation from unfavourable exchange movements.** Treasury **may advise on the currency to be used when invoicing overseas sales**, and **manages net exchange exposures in accordance with company policy — where risks are to be minimised, forward contracts can be used to buy or sell currency forward.** *This is the 'hedging forex risks' half of the quoted statement.*==",
+      "==**3. Fund Management.** Treasury is **responsible for planning and sourcing the company's short, medium and long-term cash needs**, and **facilitates the temporary investment of surplus funds by mapping the time gap between funds inflow and outflow.** It also **participates in the decision on capital structure and forecasts future interest and foreign currency rates.** *This is the 'composition of capital structure' half of the quoted statement.*==",
+      "==**4. Banking.** **It is important that a company maintains a good relationship with its bankers.** The treasury **carries out negotiations with bankers with respect to interest rates and foreign exchange rates, and acts as the initial point of contact with them.** **Short-term finance can come in the form of bank loans or through the sale of commercial paper in the money market.**==",
+      "==**5. Corporate Finance.** Treasury is **involved with both acquisition and divestment activities within the group**, and **will often have responsibility for investor relations.** ICAI adds why that matters: investor relations **'has assumed increased importance in markets where share-price performance is regarded as crucial and may affect the company's ability to undertake acquisition activity or, if the price falls drastically, render it vulnerable to a hostile bid.'**==",
+      "**Close by answering the statement directly.** The evolution the statement describes is visible in the list itself: **task 1 is the original 'cash handling' role, tasks 2 and 3 are the 'technical areas' it grew into, and tasks 4 and 5 are the relationships that growth made necessary.** What treasury deals with today is **working capital management and financial risk management, the latter including forex and interest rate management.**",
+      "**If marks allow, add the four key goals as a closing list:** **maximize the return on available cash; minimize interest cost on borrowings; mobilise as much cash as possible for corporate ventures for maximum returns; and deal effectively in forex, money and commodity markets to reduce the risks arising from fluctuating exchange rates, interest rates and prices.**"
+     ],
+     "keywords": [
+      "planning, organizing and controlling the funds",
+      "cash management, currency, fund, banking, corporate finance",
+      "set off intra-group indebtedness",
+      "matching receipts and payments in the same currency",
+      "initial point of contact with bankers",
+      "investor relations and hostile bid",
+      "working capital and financial risk management"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.17-01",
+     "angle": "The five tasks",
+     "difficulty": "Easy",
+     "question": "Which of the following is **not** one of the five fundamental tasks of the treasury department listed in the study material?",
+     "options": {
+      "A": "Internal audit of the cash collection process",
+      "B": "Currency management",
+      "C": "Corporate finance, including investor relations",
+      "D": "Banking"
+     },
+     "answer": "A",
+     "explanation": "SM §8 lists cash management, currency management, fund management, banking and corporate finance. Internal audit is not among them — treasury runs the collection process, it does not audit it. Investor relations is included, under corporate finance, which is the item candidates least expect."
+    },
+    {
+     "id": "MCQ-F09.17-02",
+     "angle": "Currency management",
+     "difficulty": "Medium",
+     "question": "According to the study material, the **first step** a large multinational's treasury department usually takes in managing foreign currency risk is to:",
+     "options": {
+      "A": "Buy forward contracts covering the whole gross exposure",
+      "B": "Set off intra-group indebtedness",
+      "C": "Invoice all overseas sales in the home currency",
+      "D": "Shift surplus funds into the money market"
+     },
+     "answer": "B",
+     "explanation": "SM §8, task 2: 'In a large multinational company (MNC) the first step will usually be to set off intra-group indebtedness.' Only the net exposure that survives that netting is then hedged, and ICAI says forward contracts are used to manage 'net exchange exposures'. Hedging the gross exposure would pay transaction costs on positions that cancel each other out."
+    }
+   ],
+   "recap": [
+    "Treasury management is the planning, organising and controlling of funds and working capital to ensure best use of funds, liquidity, lower cost of funds and reduced operational and financial risk.",
+    "It mainly deals with working capital management and financial risk management, the latter covering forex and interest rates.",
+    "Four goals: maximise return on cash, minimise interest cost, mobilise cash for ventures, deal effectively in forex, money and commodity markets.",
+    "Five tasks: cash management, currency management, fund management, banking, corporate finance.",
+    "In currency management the first step for a group is to set off intra-group indebtedness, then match currencies, then hedge the net exposure with forwards."
+   ]
+  },
+  {
+   "code": "F09.19 + F09.20 + F09.21",
+   "title": "9–9.2 Management of Cash, the Need for Cash, and Cash Planning",
+   "activity": "Medium",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 indirect (May 2026 Q3(b) uses the minimum-cash logic) · RTP 0 direct · MTP 0 direct",
+   "understand": [
+    "==**What cash management manages** (SM §9): **(i) cash flows into and out of the firm; (ii) cash flows within the firm; and (iii) cash balances held by the firm at a point of time by financing deficit or investing surplus cash.**==",
+    "==**The three objectives:** **provide adequate cash to each of its units as per requirements; no funds are blocked in idle cash; and the surplus cash (if any) should be invested in order to maximize returns for the business.**==",
+    "==**ICAI's summary of the tension, worth one line in any answer:** **'A cash management scheme therefore, is a delicate balance between the twin objectives of liquidity and costs.'**==",
+    "==**§9.1 The three motives for holding cash, which ICAI expressly attributes to Lord Keynes, 'a British Economist':**==",
+    "==**Transaction need** — **'Cash facilitates the meeting of the day-to-day expenses and other debt payments.'** Normally the inflow from operations should be sufficient, **'But sometimes this inflow may be temporarily blocked. In such cases, it is only the reserve cash balance that can enable the firm to make its payments in time.'**==",
+    "==**Speculative needs** — **'Cash may be held in order to take advantage of profitable opportunities that may present themselves and which may be lost for want of ready cash/settlement.'**==",
+    "==**Precautionary needs** — **'Cash may be held to act as for providing safety against unexpected events.'** ICAI illustrates it with a proverb: **'Safety as is explained by the saying that a man has only three friends an old wife, an old dog and money at bank.'**==",
+    "==**§9.2 Cash planning.** **'Cash Planning is a technique to plan and control the use of cash. This protects the financial conditions of the firm by developing a projected cash statement from a forecast of expected cash inflows and outflows for a given period.'**==",
+    "**On frequency:** it **may be done periodically either on daily, weekly or monthly basis**, and **'the period and frequency of cash planning generally depends upon the size of the firm and philosophy of the management.'** ICAI adds the consequence of growth: **'As firms grows and business operations become complex, cash planning becomes inevitable for continuing success.'**",
+    "**What the first step is:** **'The very first step in this direction is to estimate the requirement of cash. For this purpose, cash flow statements and cash budget are required to be prepared.'** ICAI notes that cash flow and funds flow statements are covered in the Accounting paper at Intermediate level, **and that the preparation of the cash budget is demonstrated here** — which tells you where the examinable arithmetic lies.",
+    "==**The link to the minimum balance, which is where the marks actually are.** The transaction and precautionary motives are what justify a **minimum cash balance** in a working-capital statement and a **target balance** in a cash budget. **Minimum operating cash = total operating annual outlay ÷ cash turnover** (SM Illustration 11) is the arithmetical expression of the transaction motive; the contingency or safety margin is the arithmetical expression of the precautionary motive. ==When a question asks why a company keeps ₹1,00,000 'for contingencies', the answer is the precautionary need, and naming Keynes costs nothing.=="
+   ],
+   "example": "January 2025's KP Ltd cash budget tells the candidate that 'the company has to maintain minimum cash balance of 1 Lakh. If there is cash balance deficit in any month, company would take a temporary short term loan and if cash balance exceed 2 Lakh, then company would invest for short term excess amount'. That single instruction is all three sections in action: the ₹1 lakh floor is the transaction and precautionary need, the temporary loan is financing the deficit, and the short-term investment of the excess is 'no funds are blocked in idle cash'.",
+   "provisions": [
+    {
+     "ref": "What cash management covers (SM §9)",
+     "status": "VERIFIED",
+     "requirement": "Flows into and out of the firm, flows within the firm, and the balances held at a point of time.",
+     "exam_angle": "Three limbs, and the third is the one that produces the arithmetic."
+    },
+    {
+     "ref": "Three objectives (SM §9)",
+     "status": "VERIFIED",
+     "requirement": "Adequate cash to each unit; no funds blocked in idle cash; surplus invested to maximise returns.",
+     "exam_angle": "Reproduced almost verbatim in the SM's own chapter summary."
+    },
+    {
+     "ref": "Three motives for holding cash (SM §9.1, after Keynes)",
+     "status": "VERIFIED",
+     "requirement": "Transaction need, speculative need, precautionary need.",
+     "exam_angle": "Name Keynes; ICAI does, and the attribution is part of the expected answer."
+    },
+    {
+     "ref": "Cash planning (SM §9.2)",
+     "status": "VERIFIED",
+     "requirement": "A technique to plan and control the use of cash by developing a projected cash statement from forecast inflows and outflows for a given period.",
+     "exam_angle": "The definition sentence, plus the point that frequency depends on size and management philosophy."
+    }
+   ],
+   "keywords": [
+    "flows into, out of and within the firm",
+    "no funds blocked in idle cash",
+    "delicate balance between liquidity and costs",
+    "transaction need",
+    "speculative needs",
+    "precautionary needs",
+    "Lord Keynes",
+    "projected cash statement",
+    "cash planning becomes inevitable"
+   ],
+   "memory": {
+    "trick": "**Transact, speculate, protect.** Keynes's three: cash to **pay** what is due, cash to **pounce** on a bargain, cash to **survive** a shock. ==And ICAI's three objectives mirror them backwards: enough cash, no idle cash, surplus invested.==",
+    "key": [
+     ["Transaction need", "Day-to-day expenses and debt payments; the reserve when inflow is blocked"],
+     ["Speculative need", "To take a profitable opportunity that would be lost for want of ready cash"],
+     ["Precautionary need", "Safety against unexpected events"],
+     ["Objective 1", "Adequate cash to each unit"],
+     ["Objective 2", "No funds blocked in idle cash"],
+     ["Objective 3", "Invest the surplus to maximise returns"],
+     ["Cash planning", "A projected cash statement from forecast inflows and outflows"],
+     ["Frequency", "Daily, weekly or monthly — depends on size and management philosophy"]
+    ]
+   },
+   "mistakes": [
+    "Giving only two of the three motives. The speculative motive is the one most often dropped, and it is the one with the most distinctive wording.",
+    "Attributing the three motives to Baumol. They are Keynes's; Baumol gives the formula for the optimum balance, not the reasons for holding any.",
+    "Saying cash management aims to minimise the cash balance. It aims at a 'delicate balance between the twin objectives of liquidity and costs'.",
+    "Omitting 'cash flows within the firm'. Inter-divisional and inter-unit movement is one of the three limbs and is why centralisation appears under treasury's cash management task.",
+    "Treating cash planning and the cash budget as the same thing. Cash planning is the technique; the cash budget is the principal device, and §9.3 says so."
+   ],
+   "compare": {
+    "title": "The three motives and what each produces in a numerical answer",
+    "headers": ["Motive", "ICAI's words", "Where it shows up in the arithmetic"],
+    "rows": [
+     ["Transaction", "Meeting day-to-day expenses and other debt payments", "The minimum operating cash balance = annual outlay ÷ cash turnover"],
+     ["Speculative", "To take advantage of profitable opportunities lost for want of ready cash", "The case for holding marketable securities rather than nothing at all"],
+     ["Precautionary", "Safety against unexpected events", "The contingency provision or safety margin in a working-capital statement"],
+     ["All three together", "A delicate balance between liquidity and costs", "The target cash balance in a cash budget, and the trigger for borrowing or investing"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §9.3: the cash budget, the principal device of cash planning",
+    "🔗 FM Ch 9 §10.6 and §11: determining the optimum cash balance, and the Baumol and Miller-Orr models",
+    "🔗 FM Ch 9 §13: marketable securities, where the surplus of objective 3 goes",
+    "🔗 FM Ch 9 §5: the minimum cash balance line in the working-capital statement",
+    "🔗 FM Ch 9 §8: cash management as the first of treasury's five tasks"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "State the objectives of cash management (2 marks)",
+     "Explain the three basic considerations in determining the amount of cash to hold (2–4 marks)",
+     "What is cash planning, and how often should it be done (2 marks)"
+    ],
+    "approach": [
+     "For the motives, name Keynes, then the three with one line each, then the balancing sentence about liquidity and costs.",
+     "For the objectives, give all three; the middle one — no funds blocked in idle cash — is the one that connects to the rest of the chapter.",
+     "Keep cash planning and the cash budget distinct: the technique, then the device."
+    ]
+   },
+   "official_questions": [],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.19-01",
+     "angle": "The three motives",
+     "difficulty": "Easy",
+     "question": "A company keeps a cash reserve so that it can buy raw material at short notice if a supplier offers an unusually low price. In the study material's terms this is:",
+     "options": {
+      "A": "A transaction need",
+      "B": "A precautionary need",
+      "C": "A speculative need",
+      "D": "A compensating balance requirement"
+     },
+     "answer": "C",
+     "explanation": "SM §9.1: speculative needs arise where 'cash may be held in order to take advantage of profitable opportunities that may present themselves and which may be lost for want of ready cash/settlement'. The transaction need covers day-to-day expenses and debt payments; the precautionary need covers safety against unexpected events. The three are Keynes's."
+    },
+    {
+     "id": "MCQ-F09.19-02",
+     "angle": "Objectives",
+     "difficulty": "Medium",
+     "question": "Which of the following is **not** one of the three objectives of cash management given in the study material?",
+     "options": {
+      "A": "Provide adequate cash to each of its units as per requirements",
+      "B": "Ensure no funds are blocked in idle cash",
+      "C": "Invest any surplus cash in order to maximise returns for the business",
+      "D": "Minimise the total cash balance held at every point in the year"
+     },
+     "answer": "D",
+     "explanation": "SM §9 gives the first three. Minimising the balance is not an objective: ICAI's own summing-up is that 'a cash management scheme is a delicate balance between the twin objectives of liquidity and costs', and the transaction and precautionary motives both argue for holding a positive balance."
+    }
+   ],
+   "recap": [
+    "Cash management covers flows into and out of the firm, flows within it, and the balances held at a point in time.",
+    "Three objectives: adequate cash to each unit, no funds blocked in idle cash, surplus invested for maximum return.",
+    "Keynes's three motives: transaction, speculative and precautionary.",
+    "Cash planning builds a projected cash statement from forecast inflows and outflows; frequency depends on the firm's size and management philosophy.",
+    "The whole scheme is a delicate balance between liquidity and costs."
+   ]
+  },
+  {
+   "code": "F09.22 + F09.23 + F09.24 + F09.25",
+   "title": "9.3–10.2 The Cash Budget, the Methods of Cash Flow Budgeting, and Cash Budgets for Short and Long Periods",
+   "activity": "Very High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (Jan 2025 Q1(a)) · RTP 1 (Sep 2026 Q9) · MTP 0",
+   "understand": [
+    "==**What a cash budget is** (SM §9.3): **'Cash Budget is the most significant device to plan for and control cash receipts and payments. This represents cash requirements of business during the budget period.'**==",
+    "==**The four purposes, each of which is a mark:**\n**1. Coordinate the timings of cash needs** — **'It identifies the period(s) when there might either be a shortage of cash or an abnormally large cash requirement';**\n**2. **'It also helps to pinpoint period(s) when there is likely to be excess cash';**\n**3. **'It enables firm which has sufficient cash to take advantage like cash discounts on its accounts payable';** and\n**4. **'Lastly it helps to plan/arrange adequately needed funds (avoiding excess/shortage of cash) on favorable terms.'**==",
+    "**And what the firm does with the answer:** **'On the basis of cash budget, the firm can decide to invest surplus cash in marketable securities and earn profits. On the contrary, any shortages can also be managed by making overdraft or credit arrangements with banks.'**",
+    "==**The two steps in preparing it** (SM §9.3): **(a) selection of the period of time to be covered by the budget — it also defines the planning horizon; (b) selection of factors that have a bearing on cash flows**, which are divided into **operating (cash flows generated by operations of the firm)** and **financial (cash flows generated by financial activities of the firm).**==",
+    "==**§10 Three methods of cash flow budgeting, and ICAI says which one business actually uses:**==",
+    "==**1. Receipts and Payments Method.** **'In this method all the expected receipts and payments for budget period are considered. All the cash inflow and outflow of all functional budgets including capital expenditure budgets are considered. Accruals and adjustments in accounts will not affect the cash flow budget. Anticipated cash inflow is added to the opening balance of cash and all cash payments are deducted from this to arrive at the closing balance of cash.'** ==**'This method is commonly used in business organizations.'**==",
+    "==**2. Adjusted Income Method.** **'In this method the annual cash flows are calculated by adjusting the sales revenue and cost figures for delays in receipts and payments (change in debtors and creditors) and eliminating non-cash items such as depreciation.'**==",
+    "==**3. Adjusted Balance Sheet Method.** **'In this method, the budgeted balance sheet is predicted by expressing each type of asset (except cash & bank) and short-term liabilities as percentage of the expected sales. The profit is also calculated as a percentage of sales, so that the increase in owner's equity can be forecasted. Known adjustments may be made to long-term liabilities and the balance sheet will then show if additional finance is needed (if budgeted assets exceed budgeted liabilities) or if there will be a positive cash balance (if budgeted liabilities exceed budgeted assets).'**==",
+    "**One point ICAI makes twice:** **'the capital budget will also be considered in the preparation of cash flow budget because the annual budget may disclose a need for new capital investments and also, the costs and revenues of any new projects coming on stream will need to be incorporated in the short-term budgets.'**",
+    "==**§10.1 The short-period cash budget — what has to be estimated.**\n**Receipts:** **(1) receipts from debtors; (2) cash sales; (3) any other source of receipt of cash** (ICAI's example is a dividend from a subsidiary company).\n**Payments:** **(1) payments for purchases; (2) payments for expenses; (3) payments made periodically but not every month** — **debenture interest, income tax paid in advance, sales tax or GST**; **(4) special payments in a particular month**, for example **dividends to shareholders, redemption of debentures, repayments of loans.**==",
+    "==**§10.2 The long-period cash budget**, which **'often resembles the projected sources and application of funds statement.'** The procedure: **take the cash at bank and in hand at the beginning of the year; ADD trading profit (before tax) expected to be earned, depreciation and other development expenses to be written off, sale proceeds of assets, proceeds of fresh issue of shares or debentures, and any reduction in working capital (current assets except cash, less current liabilities); DEDUCT dividends to be paid, cost of assets to be purchased, taxes to be paid, debentures or preference shares to be redeemed, and any increase in working capital.**==",
+    "==**The layout to use for the short-period budget — the one both official questions are marked against:**\n**Opening balance · Add: Receipts · = Total cash available (A) · Less: Payments (itemised) · = Total payments (B) · Closing balance before adjustment · Minimum cash balance desired · Less: Temporary investment · Add: Temporary borrowing · = Cash closing balance.**\nJanuary 2025's KP Ltd answer uses exactly those rows. ==**Keep the 'closing balance before adjustment' line visible: it is where the surplus or deficit is read off, and it is a mark.**==",
+    "==**Two ways ICAI expresses the same answer, and both appear in official papers.** KP Ltd is asked to **prepare the budget and close at the minimum balance**, borrowing or investing as needed. September 2026's Jahanara Fashions is asked for the **'surplus/deficit of cash in relation to their target cash balance'**, and ICAI's answer uses a **cumulative** layout: opening balance, inflows, outflows, net cash flow, **cumulative net cash flow**, opening plus cumulative, minimum balance required, and then **surplus or (deficit)**. ==**Read the requirement: 'prepare a cash budget' wants the first layout; 'what will be the surplus or deficit against the target' wants the second.**=="
+   ],
+   "example": "September 2026's Jahanara Fashions runs three months with all sales in cash, purchases paid a month in arrear (so January pays December's ₹3,50,000), rent ₹10,000, partners' drawings ₹25,000, salaries varying, and ₹40,000 of furniture bought for cash in January. Against an opening balance of ₹6,000 and a target of ₹15,000 the answer is a deficit of ₹(59,000) in January, ₹(94,000) in February and a surplus of ₹81,000 in March. The cumulative column is what makes February's figure worse than January's even though February's own net outflow is smaller.",
+   "provisions": [
+    {
+     "ref": "Definition and purposes (SM §9.3)",
+     "status": "VERIFIED",
+     "requirement": "The most significant device to plan for and control cash receipts and payments; four purposes — coordinate timings, pinpoint excess, take cash discounts, arrange funds on favourable terms.",
+     "exam_angle": "Four purposes, four marks in a theory question."
+    },
+    {
+     "ref": "Three methods of cash flow budgeting (SM §10)",
+     "status": "VERIFIED",
+     "requirement": "Receipts and payments (commonly used in business), adjusted income, adjusted balance sheet.",
+     "exam_angle": "Name all three and say which is commonly used; ICAI singles it out."
+    },
+    {
+     "ref": "Short-period estimates (SM §10.1)",
+     "status": "VERIFIED",
+     "requirement": "Receipts from debtors, cash sales, other receipts; payments for purchases and expenses, periodic payments, and special payments.",
+     "exam_angle": "The checklist for not missing a line in a numerical."
+    },
+    {
+     "ref": "Long-period procedure (SM §10.2)",
+     "status": "VERIFIED",
+     "requirement": "Opening cash, add trading profit, depreciation, asset sale proceeds, fresh issues and reductions in working capital; deduct dividends, asset purchases, taxes, redemptions and increases in working capital.",
+     "exam_angle": "It resembles a projected sources and application of funds statement — say so."
+    }
+   ],
+   "keywords": [
+    "most significant device",
+    "coordinate the timings of cash needs",
+    "pinpoint periods of excess cash",
+    "cash discounts on accounts payable",
+    "receipts and payments method",
+    "adjusted income method",
+    "adjusted balance sheet method",
+    "accruals will not affect the cash flow budget",
+    "closing balance before adjustment",
+    "cumulative net cash flow"
+   ],
+   "memory": {
+    "trick": "**Receipts and payments, income adjusted, balance sheet adjusted.** Three methods, in order of how far they move from actual cash: the first counts cash, the second starts from profit and strips the accruals, the third starts from the balance sheet and works out what is missing. ==Only the first is 'commonly used in business organizations'.==",
+    "key": [
+     ["Purpose 1", "Identify shortages and abnormally large requirements"],
+     ["Purpose 2", "Pinpoint periods of excess cash"],
+     ["Purpose 3", "Take cash discounts on accounts payable"],
+     ["Purpose 4", "Arrange needed funds on favourable terms"],
+     ["Method 1", "Receipts and payments — commonly used"],
+     ["Method 2", "Adjusted income — from profit, stripping accruals and depreciation"],
+     ["Method 3", "Adjusted balance sheet — assets and liabilities as a percentage of sales"],
+     ["Short-period layout", "Opening, receipts, payments, balance before adjustment, invest or borrow, closing"],
+     ["Long-period layout", "Opening cash + profit + depreciation + sales of assets + issues − dividends − assets − tax − redemptions, ± working capital"]
+    ]
+   },
+   "mistakes": [
+    "Putting accruals into the cash budget. ICAI is explicit: 'Accruals and adjustments in accounts will not affect the cash flow budget.'",
+    "Including depreciation as a payment. It is a non-cash item and never appears in a receipts-and-payments budget.",
+    "Forgetting the opening creditors in the first month. September 2026's Jahanara pays December's ₹3,50,000 in January, which the question gives separately for that purpose.",
+    "Omitting the 'closing balance before adjustment' line and jumping straight to the final balance. The borrowing or investment cannot be derived without it.",
+    "Netting the borrowing and the investment in the same month. They are separate rows and only one is used in any month.",
+    "Treating drawings or dividends as non-cash. They are payments and go in the month they are paid.",
+    "Using sales rather than the collection pattern. January 2025's KP Ltd allows two months' credit, so July's receipts are May's sales."
+   ],
+   "compare": {
+    "title": "The two cash-budget layouts the official questions use",
+    "headers": ["", "KP Ltd (PYQ Jan 2025 Q1a) — 'prepare a cash budget'", "Jahanara Fashions (RTP Sep 2026 Q9) — 'surplus/deficit against the target'"],
+    "rows": [
+     ["Opening row", "Opening balance, carried from the previous month's closing", "Opening balance, shown once for the first month only"],
+     ["Middle", "Receipts, total available, payments, total payments", "Inflows, outflows, net cash flow"],
+     ["The key line", "Closing balance before adjustment", "Cumulative net cash flow"],
+     ["Then", "Minimum balance desired; less temporary investment; add temporary borrowing", "Opening balance + cumulative; less minimum balance required"],
+     ["Answer", "Cash closing balance equal to the minimum in each month", "Surplus or (deficit) for each month"],
+     ["Figures", "Borrowing ₹0.7 L in July and ₹3.7 L in September; investment ₹5 L in August", "₹(59,000), ₹(94,000), ₹81,000"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §9.2: cash planning, of which the budget is the principal device",
+    "🔗 FM Ch 9 §10.6 and §11: the optimum cash balance, which sets the target the budget closes to",
+    "🔗 FM Ch 9 §13: marketable securities, where the budgeted surplus is parked",
+    "🔗 FM Ch 9 §29: the overdraft and cash credit that fund the budgeted deficit",
+    "🔗 FM Ch 7: the capital budget, which ICAI says must be incorporated into the cash budget"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Prepare a cash budget for three months (5 marks)",
+     "Prepare a cash budget for a quarter and state the surplus or deficit against a target balance (5 marks)",
+     "Explain the methods of cash flow budgeting (2–4 marks)",
+     "State the purposes of a cash budget (2 marks)"
+    ],
+    "approach": [
+     "Lay out the months as columns and the items as rows, never the other way round.",
+     "Put the collection and payment lags into a working note first — one small table of sales and purchases by month, shifted by the lag — then read the budget off it.",
+     "Keep depreciation and all accruals out entirely.",
+     "Show the balance before adjustment, then the borrowing or investment, then the closing balance.",
+     "If the question asks for the surplus or deficit against a target, use the cumulative layout; if it asks for a budget, close each month at the minimum."
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-J25-Q1a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "KP Ltd. has provided the following information: (i) Estimated monthly sales (₹ in lakh): April-2024 10, May-2024 12, June-2024 15, July-2024 10, August-2024 13, September-2024 14. (ii) Gross Profit Ratio is 20%. (iii) Cost of Goods sold is paid in the next month. (iv) Sales are on credit and a credit period of 2 months is allowed. (v) Indirect Expenses are paid in the same month; monthly indirect expenses (₹ in lakh): June-2024 1.0, July-2024 1.2, August-2024 1.0, September-2024 1.3. (vi) Dividend amounting ₹3 Lakh will be paid in the month of September 2024. (vii) Cash Balance on 01/07/2024 was ₹1.5 Lakh. (viii) The company has to maintain a minimum cash balance of ₹1 Lakh. If there is a cash balance deficit in any month, the company would take a temporary short term loan and if the cash balance exceeds ₹2 Lakh, then the company would invest the short term excess amount of ₹2 Lakh. (ix) Ignore the interest on short term loans and short term investments. You are required to prepare a Cash Budget for three months starting from July 2024. (5 Marks)",
+     "answer_points": [
+      "**Working Note first — the two lags, laid out as a small table.**\n**Collections:** a two-month credit period means **July collects May's sales of ₹12 L, August collects June's ₹15 L, and September collects July's ₹10 L.**\n**Cost of goods sold** is 80% of sales (gross profit 20%), paid the **next** month:\nsales June ₹15 L → COGS ₹12 L, paid in **July**;\nsales July ₹10 L → COGS ₹8 L, paid in **August**;\nsales August ₹13 L → COGS ₹10.4 L, paid in **September**.\n*(ICAI's own working note also computes September's COGS of ₹11.2 L, which falls due in October and so sits outside the budget.)*",
+      "==**The Cash Budget (₹ in lakh), in ICAI's rows:**==",
+      "**Opening Balance** — July **1.5**, August **1**, September **2**.",
+      "**Add: Receipts — Collection from debtors** — July **12**, August **15**, September **10**.",
+      "**Total cash available (A)** — July **13.5**, August **16**, September **12**.",
+      "**Less: Payments** — **Payment of COGS** July **12**, August **8**, September **10.4**; **Payment of indirect expenses** July **1.2**, August **1**, September **1.3**; **Payment of dividend** September **3**.",
+      "**Total payments (B)** — July **13.2**, August **9**, September **14.7**.",
+      "**Closing Balance before adjustment** — July **0.3**, August **7**, September **(2.7)**.",
+      "**Minimum cash balance desired** — **1** in each month.",
+      "**Less: Temporary Investment** — August **5**.\n**Add: Temporary Borrowing** — July **0.7**, September **3.7**.",
+      "**Cash Closing Balance** — July **1**, August **2**, September **1**.",
+      "==**The adjustment rules, applied exactly as the question states them, and this is where the marks separate.**\n**July:** the balance before adjustment is ₹0.3 L, below the ₹1 L minimum, so **borrow ₹0.7 L** to reach exactly ₹1 L.\n**August:** ₹7 L, which exceeds ₹2 L, so **invest the excess over ₹2 L** — the question says the company invests when the balance exceeds ₹2 L, and ICAI invests **₹5 L**, leaving ₹2 L. *Note that August therefore closes at ₹2 L, not ₹1 L.*\n**September:** ₹(2.7) L, so **borrow ₹3.7 L** to reach ₹1 L.==",
+      "==**The one point of interpretation worth stating as a note.** Clause (viii) reads 'if cash balance exceed 2 Lakh, then company would invest for short term excess amount of 2 Lakh'. ICAI reads this as **invest the amount in excess of ₹2 lakh** — hence ₹5 L invested out of ₹7 L, closing at ₹2 L. **Say so in a note**, because the alternative reading (invest a fixed ₹2 L) would close August at ₹5 L and change nothing else. Stating the reading taken protects the mark.==",
+      "**Why the September deficit is so much larger than July's.** September carries three payments — ₹10.4 L of COGS, ₹1.3 L of expenses and the ₹3 L dividend — against collections of only ₹10 L, because July's sales were the lowest of the six months at ₹10 L and the two-month lag lands them in September. ==**The budget's purpose is visible in that single column: it identifies the period when there is 'an abnormally large cash requirement' two months before it arrives.**==",
+      "**Three things that do not appear anywhere in the budget.** April's and September's sales collections (outside the window), September's COGS payment (falls in October), and any interest on the loans or investments (the question says to ignore it). A candidate who includes the interest introduces a circularity the question has deliberately removed."
+     ],
+     "keywords": [
+      "two-month collection lag",
+      "COGS 80% of sales, paid next month",
+      "closing balance before adjustment 0.3, 7, (2.7)",
+      "borrow 0.7 and 3.7, invest 5",
+      "closing 1, 2, 1",
+      "September dividend ₹3 L"
+     ],
+     "also_asked_as": ["RTP-S26-FQ9 asks the same structure as a surplus/deficit against a target balance"]
+    },
+    {
+     "id": "RTP-S26-FQ9",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "You have been asked to prepare a cash budget for the next quarter, January through March, for Jahanara Fashions. (a) Sales are expected to be ₹4,00,000 in January, ₹4,00,000 in February and ₹6,00,000 in March, all in cash. (b) The estimated purchases are ₹3,80,000 in January, ₹3,60,000 in February and ₹4,50,000 in March; payments for purchases will be made after a lag of one month, and outstanding on account of purchases in December last are ₹3,50,000. (c) The rent per month is ₹10,000 and the partners' personal withdrawal per month is ₹25,000. (d) Salaries and other expenses payable in cash are expected to be ₹25,000 in January, ₹20,000 in February and ₹30,000 in March. (e) They plan to buy furniture worth ₹40,000 on cash payment in January. (f) The cash balance at present is ₹6,000. Their target cash balance, however, is ₹15,000. What will be the surplus/deficit of cash in relation to their target cash balance?",
+     "answer_points": [
+      "**Note the three features that shape the answer.** **All sales are in cash**, so there is no collection lag and no debtors. **Purchases are paid a month in arrear**, so January pays December's **₹3,50,000**, February pays January's ₹3,80,000 and March pays February's ₹3,60,000 — **March's own ₹4,50,000 is not paid in the quarter.** And the question asks for the **surplus or deficit against the target**, not for a closing balance.",
+      "**Outflows, month by month.**\n**January:** purchases ₹3,50,000 + rent ₹10,000 + drawings ₹25,000 + salaries ₹25,000 + furniture ₹40,000 = ==**₹4,50,000**==.\n**February:** purchases ₹3,80,000 + rent ₹10,000 + drawings ₹25,000 + salaries ₹20,000 = ==**₹4,35,000**==.\n**March:** purchases ₹3,60,000 + rent ₹10,000 + drawings ₹25,000 + salaries ₹30,000 = ==**₹4,25,000**==.",
+      "==**ICAI's cumulative layout, which is what the question's wording calls for:**==",
+      "**1. Opening balance** — January **₹6,000** (shown once).",
+      "**2. Inflows** — ₹4,00,000 · ₹4,00,000 · ₹6,00,000.",
+      "**3. Outflows** — ₹4,50,000 · ₹4,35,000 · ₹4,25,000.",
+      "**4. Net cash flow (2 − 3)** — ==**₹(50,000)**== · ==**₹(35,000)**== · ==**₹1,75,000**==.",
+      "**5. Cumulative net cash flow** — ₹(50,000) · ₹(85,000) · ₹90,000.",
+      "**6. Opening balance + cumulative net cash flow** — ₹(44,000) · ₹(79,000) · ₹96,000.",
+      "**7. Minimum cash balance required** — ₹15,000 in each month.",
+      "**8. Surplus / (Deficit)** — ==**₹(59,000)**== · ==**₹(94,000)**== · ==**₹81,000**==.",
+      "==**Why the cumulative column matters, and it is the whole point of the layout.** February's own net outflow of ₹35,000 is **smaller** than January's ₹50,000, yet February's deficit of ₹(94,000) is **larger** than January's ₹(59,000). The deficit is cumulative: the shortfall carries forward, and the firm has to fund the **worst cumulative position**, not the worst monthly flow. ==**A month-by-month layout that resets the opening balance each month hides this and would give the wrong borrowing requirement.**==",
+      "**The conclusion to write.** The firm needs arrangements for about **₹94,000** — its peak requirement, reached at the end of February — and that need is **temporary**: by the end of March the cumulative position has swung to a **₹81,000 surplus** above the target, available for short-term investment. **Overdraft or credit arrangements with banks** are the right instrument precisely because the need reverses within the quarter.",
+      "**Two deliberate omissions in the data.** The **₹4,50,000 of March purchases** is never paid inside the budget, and there are **no debtors** because all sales are cash. Both simplify the arithmetic, which is how the question makes room for the cumulative point it is really testing.",
+      "**And one line worth adding on the drawings.** Partners' personal withdrawals of ₹25,000 a month are **cash payments** and belong in the budget, even though they are an appropriation rather than an expense. A cash budget records movements of cash, not items of profit and loss — which is the same reason **depreciation never appears** and **accruals do not affect it.**"
+     ],
+     "keywords": [
+      "all sales in cash, purchases lagged one month",
+      "January pays December's ₹3,50,000",
+      "outflows ₹4,50,000 / ₹4,35,000 / ₹4,25,000",
+      "cumulative net cash flow",
+      "deficits ₹(59,000) and ₹(94,000), surplus ₹81,000",
+      "peak need at end February, reverses by March",
+      "drawings are cash payments"
+     ],
+     "also_asked_as": ["PYQ-J25-Q1a is the same structure asked as a full cash budget closing at a minimum balance"]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.22-01",
+     "angle": "Methods",
+     "difficulty": "Medium",
+     "question": "Which method of cash flow budgeting does the study material describe as calculating the annual cash flows by adjusting the sales revenue and cost figures for delays in receipts and payments and eliminating non-cash items such as depreciation?",
+     "options": {
+      "A": "The adjusted income method",
+      "B": "The receipts and payments method",
+      "C": "The adjusted balance sheet method",
+      "D": "The sources and application of funds method"
+     },
+     "answer": "A",
+     "explanation": "SM §10 gives three methods. The adjusted income method starts from the income figures and adjusts for the change in debtors and creditors and for non-cash items. The receipts and payments method counts expected cash flows directly and is the one 'commonly used in business organizations'. The adjusted balance sheet method expresses assets and short-term liabilities as a percentage of expected sales."
+    },
+    {
+     "id": "MCQ-F09.22-02",
+     "angle": "Cumulative position",
+     "difficulty": "Hard",
+     "question": "A firm opens a quarter with ₹10,000 of cash and a target balance of ₹20,000. Its net cash flows are ₹(40,000) in month 1, ₹(30,000) in month 2 and ₹1,00,000 in month 3. Its deficit against the target at the end of month 2 is:",
+     "options": {
+      "A": "₹(30,000)",
+      "B": "₹(80,000)",
+      "C": "₹(50,000)",
+      "D": "₹(60,000)"
+     },
+     "answer": "B",
+     "explanation": "Cumulative net cash flow to the end of month 2 is ₹(70,000); adding the ₹10,000 opening balance gives ₹(60,000); deducting the ₹20,000 target gives a deficit of ₹(80,000). This is RTP September 2026's layout. Option A takes month 2's flow alone, option D stops at the cash position without applying the target, and option C omits the first month's carry-forward — the error the cumulative row exists to prevent."
+    }
+   ],
+   "recap": [
+    "The cash budget is the most significant device to plan and control cash receipts and payments; its four purposes are to coordinate timings, pinpoint excess, enable cash discounts and arrange funds on favourable terms.",
+    "Three methods: receipts and payments (commonly used), adjusted income, and adjusted balance sheet.",
+    "Accruals and depreciation never enter a receipts-and-payments budget.",
+    "Short-period layout: opening, receipts, payments, balance before adjustment, invest or borrow, closing at the minimum.",
+    "Where the question asks for a surplus or deficit against a target, use the cumulative layout — the carry-forward is what makes the peak requirement visible.",
+    "The long-period budget resembles a projected sources and application of funds statement."
+   ]
+  }
+ ]
+}

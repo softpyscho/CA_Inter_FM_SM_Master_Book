@@ -1,0 +1,363 @@
+{
+ "chapter": "F09 — FM Chapter 9: Management of Working Capital",
+ "note": "Official questions mapped to FM Chapter 9 (Management of Working Capital), the six-unit chapter that carries 68 register headings. Primary code first. Four placement rules were applied and are worth stating. (1) A question that computes the working-capital components from ratios alone, without an operating cycle or a cash-cost statement, is ratio analysis and belongs to FM Ch 3, not here — so SA-J25 Case Scenario II (VP Ltd), SA-J26 Q1(a) (AIL Limited, which ends in a Basic Defense Interval), SA-J26 Q4(c)-OR (BEE Ltd current-ratio impact table), MTP-J26-S2 Q1(a) (velocity ratios), MTP-S24-S1 Q1(a) (Ananya Limited) and MTP-S26-S2's Part I case (Solstice Biotech) are all excluded and recorded in the Chapter 3 back-fill list instead. (2) SA-J25 MCQ 8 (JKL Company, a contingency provision computed on working capital) is included, because the provision for contingencies is a Chapter 9 §5 step, not a ratio. (3) RTP-J26 Q11(b) (spontaneous sources of finance) was already placed in FM Ch 2 under F02.22 Short-term Sources of Finance, which covers the same ground as §27.1 here; it is left where it is and cross-referenced from the §27.1 block rather than moved out of a merged chapter. (4) MTP-M26-S1 Q1(b) is CAPM and MTP-M26-S1's buyback question is capital structure; neither is here despite matching a keyword. Case-scenario MCQ sets are recorded as one atom using the first MCQ's id.",
+ "atoms": [
+  {
+   "id": "PYQ-S24-Q1b",
+   "codes": ["F09.13", "F09.12"],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-S24 Q1(b) SK Limited — working capital requirement by the operating cycle method: WIP holding period 22 days and finished goods storage period 60 days derived from average stocks, a net operating cycle of 120 days, 3 cycles a year and ₹6,25,000 of working capital"
+  },
+  {
+   "id": "PYQ-S24-Q3a",
+   "codes": ["F09.47", "F09.45"],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-S24 Q3(a) AB Enterprises — present and two proposed credit policies evaluated by the Total Approach, with creditors for the extra variable cost given 15 days' credit; net benefits ₹9,66,667, ₹10,64,500 and ₹10,54,583, so Policy A at 45 days is recommended"
+  },
+  {
+   "id": "PYQ-J25-Q1a",
+   "codes": ["F09.22", "F09.24", "F09.21"],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-J25 Q1(a) KP Ltd — cash budget for July to September with a 2-month debtors lag, cost of goods sold paid a month later, a minimum balance of ₹1 lakh, temporary borrowing when short and investment of the excess over ₹2 lakh"
+  },
+  {
+   "id": "PYQ-J25-Q2b",
+   "codes": ["F09.13"],
+   "marks": 3,
+   "format": "Theory + numerical",
+   "src": "SA-J25 Q2(b) MSD Limited — operating cycle of 96 days, 3.75 cycles a year and working capital of ₹16,00,000, with ICAI also printing ₹14,72,000 on a cash-cost basis after removing the ₹4,80,000 of depreciation"
+  },
+  {
+   "id": "PYQ-J25-Q4c",
+   "codes": ["F09.40"],
+   "marks": 2,
+   "format": "Theory",
+   "src": "SA-J25 Q4(c) any two advantages of virtual banking (the OR alternative, the exclusion of financing cost principle, is a Chapter 7 question)"
+  },
+  {
+   "id": "PYQ-J25-MCQ8",
+   "codes": ["F09.11", "F09.01"],
+   "marks": 2,
+   "format": "MCQ",
+   "src": "SA-J25 FM Part I MCQ 8 JKL Company Ltd — working capital requirement where a provision for contingencies at 20% of working capital is added to a ₹50 lakh excess of current assets over current liabilities; answer (B) ₹60 lakh"
+  },
+  {
+   "id": "PYQ-M24-Q1c",
+   "codes": ["F09.49", "F09.48"],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-M24 Q1(c) Bright Ltd — effective cost of a non-recourse factoring offer: savings ₹18,36,187.50 against costs ₹23,21,375, a net annual cost of ₹4,85,187.50 on an advance of ₹64,66,078.125, giving 7.504%; ICAI also prints 6.730% if the redundancy payment is treated as irrelevant, and a third variant taking receivables for 70 days"
+  },
+  {
+   "id": "PYQ-M24-Q4b",
+   "codes": ["F09.68", "F09.66"],
+   "marks": 4,
+   "format": "Theory",
+   "src": "SA-M24 Q4(b) ABC Ltd — describe any four forms of bank credit"
+  },
+  {
+   "id": "PYQ-M25-MCQ1",
+   "codes": ["F09.15", "F09.14", "F09.11"],
+   "marks": 10,
+   "format": "Case MCQs",
+   "src": "SA-M25 FM Part I Case Scenario I (MCQs 1-5) XYZ Ltd — a working-capital loan proposal prepared on a cash cost basis: total manufacturing cost and cost of sales, finished goods and debtors (domestic at 2 months, foreign at half a month), total current assets, total current liabilities and the estimated working capital with a 10% margin of safety; keys A, C, D, D, A"
+  },
+  {
+   "id": "PYQ-S25-MCQ1",
+   "codes": ["F09.13", "F09.12"],
+   "marks": 10,
+   "format": "Case MCQs",
+   "src": "SA-S25 FM Part I Case Scenario I (MCQs 1-5) RG Limited — the operating cycle worked backwards from a working capital figure of ₹1,01,850 inclusive of a 5% contingency and 3 cycles a year: operating expenses ₹2,91,000 and COGS ₹2,61,000, cost of production ₹2,56,800 and FG period 40 days, raw material consumed ₹1,45,800 and credit purchases ₹1,49,550, RM period 65 days and WIP period 30 days, creditors 63 days and debtors 48 days; keys B, D, C, B, B"
+  },
+  {
+   "id": "PYQ-J26-Q1b",
+   "codes": ["F09.49"],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-J26 Q1(b) X Ltd — credit sales of ₹5,40,00,000 backed out from average debtors of ₹90,00,000 and a 60-day collection period; savings ₹9,40,000, cost of factoring ₹22,00,500, net cost ₹12,60,500 on an advance of ₹72,83,250, an effective cost of 17.307%, and the advice to reject"
+  },
+  {
+   "id": "PYQ-J26-Q4b",
+   "codes": ["F09.40"],
+   "marks": 4,
+   "format": "Theory",
+   "src": "SA-J26 Q4(b) why virtual banking is popular among customers, and the advantages of virtual banking"
+  },
+  {
+   "id": "PYQ-J26-MCQ7",
+   "codes": ["F09.31"],
+   "marks": 2,
+   "format": "MCQ",
+   "src": "SA-J26 FM Part I MCQ 7 — Baumol's model run backwards: total annual cash disbursements from an optimum cash balance of ₹30,000, a transfer cost of ₹25 and a marketable-securities yield of 10%; answer (A) ₹18,00,000"
+  },
+  {
+   "id": "PYQ-M26-Q2b",
+   "codes": ["F09.55", "F09.54"],
+   "marks": 3,
+   "format": "Case numerical",
+   "src": "SA-M26 Q2(b) B Ltd — a 2% discount on a ₹75,000 invoice for payment in one month instead of three, financed by a 10% overdraft: net benefit ₹1,050 against after-tax interest of ₹857.50, a net saving of ₹192.50; ICAI also prints the annualised form, 12.245% before tax and 8.571% after, against a post-tax overdraft rate of 7%"
+  },
+  {
+   "id": "PYQ-M26-Q3b",
+   "codes": ["F09.12", "F09.29", "F09.19"],
+   "marks": 6,
+   "format": "Case numerical",
+   "src": "SA-M26 Q3(b) AR Ltd — cash cycle of 120 days, cash turnover 3, total cash outlay ₹180 lakhs and a minimum operating cash balance of ₹60 lakhs; then a 2% discount to cut collection by 30 days gives a 90-day cycle, ₹45 lakhs of cash, a ₹15 lakh release, an opportunity saving of ₹1.26 lakhs against a discount cost of ₹1.68 lakhs and so a net ₹(0.42) lakhs — reject. ICAI also prints the 42-day/102-day variant"
+  },
+  {
+   "id": "PYQ-M26-MCQ6",
+   "codes": ["F09.47", "F09.46"],
+   "marks": 2,
+   "format": "MCQ",
+   "src": "SA-M26 FM Part I MCQ 6 — incremental investment in debtors when liberalised terms raise sales from ₹20,00,000 to ₹25,00,000 while collection falls from 35 to 10 days, with a 20% P/V ratio; answer (D) a release of ₹(1,00,000) and ₹6,000 of post-tax opportunity saving"
+  },
+  {
+   "id": "RTP-M24-FQ7",
+   "codes": ["F09.15", "F09.14"],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-M24 FM Q7 PQ Ltd — projected statement of profit or loss and of working capital on a cash cost basis for the first two years of a new segment, with WIP at 15% of production taking full material and 40% of other expenses, closing stock at cost of production and a 10% contingency margin; ₹13,23,953 in year 1 and ₹15,51,233 in year 2"
+  },
+  {
+   "id": "RTP-M24-FQ8-ii",
+   "codes": ["F09.58", "F09.54", "F09.57"],
+   "marks": null,
+   "format": "Theory",
+   "src": "RTP-M24 FM Q8(ii) the importance of trade credit and accruals as a source of working capital, and the cost of these sources"
+  },
+  {
+   "id": "RTP-S24-FQ10",
+   "codes": ["F09.14", "F09.11"],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-S24 FM Q10 TMT Limited — projected statement of working capital for the first year of a new electric-toy plant, debtors taken at cost, with a contingency provision of 10% of the requirement inclusive of the provision (ICAI applies it as ₹4,49,792 × 1/9 = ₹49,977, giving ₹4,99,769)"
+  },
+  {
+   "id": "RTP-S24-FQ11",
+   "codes": ["F09.47"],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-S24 FM Q11 Banu Limited — present policy and two options evaluated on net benefit, with a manager's salary of ₹50,000 a month charged only to Option II; ₹77.10, ₹79.25 and ₹72.10 lakhs, so Option I wins"
+  },
+  {
+   "id": "RTP-J25-FQ1",
+   "codes": ["F09.31", "F09.01", "F09.14"],
+   "marks": 10,
+   "format": "Case MCQs",
+   "src": "RTP-J25 FM Q1 Samvar Ltd (integrated case scenario, MCQs i-v) — the optimum cash balance under Baumol's model, ₹24,495 on disbursements of ₹1.50 lakh a month and a ₹20 transfer cost, and gross and net working capital of ₹6.7730 lakh and ₹(5.9396) lakh for a GoMART store; items iii to v of the same case are cost-of-capital items cross-referenced to Chapter 4"
+  },
+  {
+   "id": "RTP-J25-FQ10",
+   "codes": ["F09.48", "F09.52"],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-J25 FM Q10 Nirmoh Limited — receivables screened as collateral against a 3/10 net 40 policy: accounts meeting both conditions lend at 90% with a 5% reserve at 12%, the rest at 65% with a 15% reserve at 15%; total loan ₹5,25,190 and an effective interest cost of 9.59% after a 25% tax shield"
+  },
+  {
+   "id": "RTP-M25-FQ9",
+   "codes": ["F09.14", "F09.15"],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-M25 FM Q9 Parshvam Limited — estimated working capital statement with imports on 3 months' credit carrying 20% customs duty and a 5% drawback, exports priced 10% below domestic (a gross profit of 11.11% on export sales), an export letter of credit realised in 1 month at a 5% fee, and a 15% safety margin; gross working capital ₹14,37,727 and net working capital ₹11,06,443, with the advice to discontinue exports on monetary grounds since the export cash cost of sales of ₹26,27,158 exceeds export sales of ₹24,80,000"
+  },
+  {
+   "id": "RTP-S25-FQ9",
+   "codes": ["F09.49"],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-S25 FM Q9 — effective cost of factoring on credit terms of 2/40 net 120 with bad debts of 1.5%: net cost ₹4,03,200 on an advance of ₹30,03,733, an effective cost of 13.42%, which exceeds bank finance at 12% so factoring is rejected"
+  },
+  {
+   "id": "RTP-S25-FQ10b",
+   "codes": ["F09.54", "F09.68"],
+   "marks": null,
+   "format": "Theory",
+   "src": "RTP-S25 FM Q10(b) the difference between trade credit and bank overdraft as short-term financing sources"
+  },
+  {
+   "id": "RTP-S25-FQ10c",
+   "codes": ["F09.06", "F09.07"],
+   "marks": null,
+   "format": "Theory",
+   "src": "RTP-S25 FM Q10(c) ABC Ltd — the trade-offs a rapidly growing company makes between the components of working capital (inventory, receivables, advances, payables and cash), answered from the scope of working capital management"
+  },
+  {
+   "id": "RTP-J26-FQ1",
+   "codes": ["F09.15", "F09.01", "F09.11"],
+   "marks": 10,
+   "format": "Case MCQs",
+   "src": "RTP-J26 FM Q1 PPW Ltd (Part I case scenario, MCQs i-v) — gross working capital on a cash cost basis ₹18,30,000 and the requirement with a 15% margin ₹16,33,000, then the current ratio, quick ratio and working capital turnover ratio computed on cash cost of sales, all excluding the margin; keys C, A and three ratio items"
+  },
+  {
+   "id": "RTP-M26-FQ9",
+   "codes": ["F09.13"],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-M26 FM Q9 Puja Limited — net operating cycle of 86 days on a 365-day year (R 53 + W 21 + F 26 + D 41 − C 55), 4.244 cycles and working capital of ₹2,23,845.42 from an annual operating cost of ₹9,50,000"
+  },
+  {
+   "id": "RTP-M26-FQ10b",
+   "codes": ["F09.18", "F09.17"],
+   "marks": null,
+   "format": "Theory",
+   "src": "RTP-M26 FM Q10(b) the fundamental tasks for which the treasury department is responsible, set against the statement that treasury has evolved from cash handling to hedging forex risk and capital structure"
+  },
+  {
+   "id": "RTP-S26-FQ8",
+   "codes": ["F09.49"],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-S26 FM Q8 — the same 2/40 net 120 factoring template with bad debts of 1% instead of 1.5%: net cost ₹4,83,200 on an advance of ₹30,03,733, an effective cost of 16.09%, rejected against bank finance at 14%"
+  },
+  {
+   "id": "RTP-S26-FQ9",
+   "codes": ["F09.22", "F09.24"],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-S26 FM Q9 Jahanara Fashions — cash budget for January to March against a target balance of ₹15,000: deficits of ₹(59,000) and ₹(94,000) in January and February and a surplus of ₹81,000 in March, with purchases paid a month in arrear"
+  },
+  {
+   "id": "RTP-S26-FQ10c",
+   "codes": ["F09.05"],
+   "marks": null,
+   "format": "Theory",
+   "src": "RTP-S26 FM Q10(c) Sunrise Healthcare Pvt. Ltd. — the factors to be considered while planning working capital requirements, for a pharmacy chain facing rising input costs, exchange-rate swings on imported medicines and rising inventory"
+  },
+  {
+   "id": "MTP-M24-S1-FMCQ1",
+   "codes": ["F09.49"],
+   "marks": 10,
+   "format": "Case MCQs",
+   "src": "MTP-M24-S1 FM Part I case scenario (MCQs I-V) NV Industries Ltd — average level of receivables ₹35,55,556 on a blended 80-day collection period, advance ₹30,03,733, annual cost of factoring ₹8,83,200, net cost ₹4,83,200 and an effective cost of 16.09%; keys b, c, a, d, a"
+  },
+  {
+   "id": "MTP-M24-S2-FQ1a",
+   "codes": ["F09.15"],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-M24-S2 FM Q1(a) Lever Ltd — working capital on a cash cost basis ignoring work-in-progress, with sales promotion paid monthly in advance and a 15% margin: net working capital ₹14,20,000 plus ₹2,13,000, a total of ₹16,33,000 (the same data set later reused as RTP-J26's PPW Ltd case)"
+  },
+  {
+   "id": "MTP-M24-S2-FQ4b",
+   "codes": ["F09.07", "F09.04"],
+   "marks": 4,
+   "format": "Theory",
+   "src": "MTP-M24-S2 FM Q4(b) the liquidity versus profitability issue in the management of working capital"
+  },
+  {
+   "id": "MTP-S24-S1-FQ4a",
+   "codes": ["F09.54", "F09.55"],
+   "marks": 4,
+   "format": "Theory",
+   "src": "MTP-S24-S1 FM Q4(a) the costs of availing trade credit"
+  },
+  {
+   "id": "MTP-S24-S2-FQ2a",
+   "codes": ["F09.49"],
+   "marks": 7,
+   "format": "Case numerical",
+   "src": "MTP-S24-S2 FM Q2(a) Sukrut Limited — a factor's offer at a 1.5% fee with recourse, cutting collection from 60 days back to 30 and bad debts from 1% to 0.5%, with the balance still financed by a 10% overdraft: factor commission ₹1,12,500, interest ₹53,100, total cost ₹1,65,600 and net benefit ₹23,650, so the offer is accepted"
+  },
+  {
+   "id": "MTP-S24-S2-FQ2b",
+   "codes": ["F09.08", "F09.09"],
+   "marks": 3,
+   "format": "Theory",
+   "src": "MTP-S24-S2 FM Q2(b) the factors a company should consider when deciding the level of investment in working capital"
+  },
+  {
+   "id": "MTP-J25-S1-FQ4a",
+   "codes": ["F09.09", "F09.08"],
+   "marks": 4,
+   "format": "Theory",
+   "src": "MTP-J25-S1 FM Q4(a) financing current assets by short-term against long-term loans — how to balance risk and return, and the factors that make the financing optimal"
+  },
+  {
+   "id": "MTP-J25-S2-FQ2a",
+   "codes": ["F09.14", "F09.15"],
+   "marks": 6,
+   "format": "Case numerical",
+   "src": "MTP-J25-S2 FM Q2(a) ABC Ltd — net working capital for a first bank application on 31,200 units, with WIP at 30% of finished goods produced valued at prime cost (material 90% in process, conversion 60% complete) and a safety margin of 15% of the net requirement inclusive of the margin: ₹14,11,575 after a margin of ₹2,11,736"
+  },
+  {
+   "id": "MTP-J25-S2-FQ4a",
+   "codes": ["F09.50", "F09.49"],
+   "marks": 4,
+   "format": "Theory",
+   "src": "MTP-J25-S2 FM Q4(a) the difference between factoring and forfaiting"
+  },
+  {
+   "id": "MTP-M25-S1-FQ2b",
+   "codes": ["F09.47"],
+   "marks": 4,
+   "format": "Case numerical",
+   "src": "MTP-M25-S1 FM Q2(b) ABC Pvt. Ltd. — a present policy and two proposals compared on net benefit with receivables turnover falling from 4 to 3 to 2.4 times: ₹11,75,000, ₹12,20,000 and ₹11,81,250, so Proposed Policy 1 is adopted"
+  },
+  {
+   "id": "MTP-M25-S2-FMCQ1",
+   "codes": ["F09.42", "F09.47", "F09.45"],
+   "marks": 10,
+   "format": "Case MCQs",
+   "src": "MTP-M25-S2 FM Part I case scenario (MCQs 1-5) AMPL — the incremental benefit of a 2/15 net 60 cash-discount policy (₹6,24,500) against a relaxation of credit standards by 20 days, the bad-debt expense under each, three inventory-reduction proposals ranked on benefit, and the optimum combination of inventory proposal and credit policy"
+  },
+  {
+   "id": "MTP-S25-S1-FQ1c",
+   "codes": ["F09.13"],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "MTP-S25-S1 FM Q1(c) Wint Limited — net operating cycle of 147 days (R 53 + W 35 + F 45 + D 77 − C 63) on a 365-day year, 2.48 cycles, working capital ₹1,703.63 lakh and ₹1,874 lakh including a 10% contingency reserve"
+  },
+  {
+   "id": "MTP-S25-S1-FQ4a",
+   "codes": ["F09.07", "F09.10"],
+   "marks": 4,
+   "format": "Theory",
+   "src": "MTP-S25-S1 FM Q4(a) whether raising the current ratio by accumulating inventory is sound working-capital management, and the risks of that strategy"
+  },
+  {
+   "id": "MTP-S25-S1-FMCQ7",
+   "codes": ["F09.49"],
+   "marks": 2,
+   "format": "MCQ",
+   "src": "MTP-S25-S1 FM MCQ (vii) — the advance a factor pays on annual credit sales of ₹6,00,00,000 with a 90-day collection period, a 2% commission, a 10% reserve and interest at 18%; answer (d) ₹1,26,06,000"
+  },
+  {
+   "id": "MTP-S25-S2-FQ3a",
+   "codes": ["F09.47"],
+   "marks": 8,
+   "format": "Case numerical",
+   "src": "MTP-S25-S2 FM Q3(a) Oggy Limited — terms of 2/10 net 30 against net 30: an after-tax loss of ₹(900) on a receivables release of ₹(18,889) gives an expected return of 4.8% against an opportunity cost of 10%, a net gain of 5.2%, so the policy is changed"
+  },
+  {
+   "id": "MTP-J26-S1-FQ2a",
+   "codes": ["F09.14"],
+   "marks": 8,
+   "format": "Case numerical",
+   "src": "MTP-J26-S1 FM Q2(a) a newly formed company's net working capital for a first bank application on a 52-week year: 1,04,000 completed units plus 4,000 of work-in-progress at 50% conversion with materials issued at the start, finished goods 8,000 units, debtors 8 weeks and a 1½-week wage lag; ₹42,52,913"
+  },
+  {
+   "id": "MTP-M26-S1-FQ3",
+   "codes": ["F09.52", "F09.44", "F09.46"],
+   "marks": 10,
+   "format": "Case numerical",
+   "src": "MTP-M26-S1 FM Q3 Shilpa Limited — a debtors' ageing analysis of ₹21,21,800 across four buckets turned into the effective cost of the collection process: bad debts ₹51,734 plus cash discount ₹9,941 plus administration ₹50,000 less interest recovered ₹8,259, over an operating cost of sales of ₹15,91,350, giving 6.50%; part (ii) asks for the three aspects of management of receivables"
+  },
+  {
+   "id": "MTP-S26-S2-FQ1a",
+   "codes": ["F09.47"],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-S26-S2 FM Q1(a) — a proposed policy of 2/15 net 60 against 1/15 net 45 with sales up 15% and bad debts up from 1.5% to 2.5%: net profit ₹3,06,500 against ₹3,27,750, an improvement of ₹21,250, so the policy is changed (ICAI assumes the cash discount is not availed)"
+  },
+  {
+   "id": "MTP-S26-S2-FQ4b",
+   "codes": ["F09.07", "F09.04"],
+   "marks": 4,
+   "format": "Theory",
+   "src": "MTP-S26-S2 FM Q4(b) the liquidity versus profitability issue in the management of working capital (the same question as MTP-M24-S2 Q4(b))"
+  }
+ ]
+}

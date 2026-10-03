@@ -1,0 +1,865 @@
+{
+ "concepts": [
+  {
+   "code": "F09.13",
+   "title": "6.1 Working Capital Based on Operating Cycle",
+   "activity": "Very High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 3 (Sep 2024 Q1(b), Jan 2025 Q2(b), Sep 2025 Part I case) · RTP 1 (May 2026 Q9) · MTP 1 (Sep 2025 Series I Q1(c))",
+   "understand": [
+    "==**The method in three steps** (SM §6.1): **(1) compute each of the five periods; (2) add them as R + W + F + D − C to get the cycle; (3) divide the year by the cycle to get the number of cycles, and divide the annual operating cost by that number to get the working capital.**==",
+    "==**SM Illustration 2 is the template, and ICAI reuses it in five official questions.** XYZ Ltd: raw material consumed ₹6,00,000 with average stock ₹50,000 → **R = 50,000 ÷ (6,00,000 ÷ 360) = 50,000 ÷ 1,667 = 30 days**. Cost of production ₹5,00,000 with average WIP ₹30,000 → **W = 30,000 ÷ 1,389 = 22 days**. Cost of goods sold ₹8,00,000 with average finished goods ₹40,000 → **F = 40,000 ÷ 2,222 = 18 days**. Collection **45 days**, credit availed **30 days**. **Net operating cycle = 30 + 22 + 18 + 45 − 30 = 85 days**, and **number of cycles = 360 ÷ 85 = 4.23 times.**==",
+    "==**Then the third step, which Illustration 2 does not show but every exam question needs:** **Amount of Working Capital Required = Annual Operating Cost ÷ Number of Operating Cycles.**==",
+    "==**Which 'annual operating cost'?** ICAI uses **cost of goods sold plus administration and selling expenses** — September 2024's SK Limited takes ₹14,61,000 + ₹4,14,000 = ₹18,75,000. Where the question simply gives an 'annual operating cost', use it as given.==",
+    "==**And whether to strip out depreciation.** January 2025's MSD Limited gives an annual operating cost of ₹60,00,000 **'including depreciation of ₹4,80,000'**, and ICAI prints **both** answers: **₹16,00,000** on the gross cost and **₹14,72,000** on the cash cost of ₹55,20,000. ==**Give the gross figure as the main answer and the cash-cost figure as a note, saying which basis each uses.** The fact that ICAI prints both means a candidate who gives one with the basis stated cannot be marked wrong.==",
+    "**Deriving periods that are not given — the skill September 2024 actually tested.** SK Limited gives cost of production ₹15,48,000, cost of goods sold ₹14,61,000, average WIP ₹94,600 and average finished goods ₹2,43,500, with R, D and C given as 65, 36 and 63 days. So **W = ₹94,600 ÷ (₹15,48,000 ÷ 360) = 22 days** and **F = ₹2,43,500 ÷ (₹14,61,000 ÷ 360) = 60 days**, giving **65 + 22 + 60 + 36 − 63 = 120 days**, **3 cycles**, and **₹18,75,000 ÷ 3 = ₹6,25,000.**",
+    "==**Running the cycle backwards — September 2025's RG Limited, the hardest question in the chapter.** The question gives the **answer** (working capital ₹1,01,850 after a 5% contingency) and **3 cycles a year**, and asks for the five periods. The chain is: **working capital before contingency = ₹1,01,850 ÷ 1.05 = ₹97,000**; **total operating cost = ₹97,000 × 3 = ₹2,91,000**; then every component unwinds from the cost sheet. ==**Learn the chain, not the numbers: contingency out → multiply by cycles → operating cost → COGS → cost of production → raw material consumed → purchases.**==",
+    "==**The cost-sheet identities that chain needs, and they are the real content of this section:**\n**Cost of Goods Sold = Total operating cost − Selling and distribution expenses**\n**Cost of Production = COGS + Closing finished goods − Opening finished goods**\n**Raw Material Consumed = Cost of production − Wages and manufacturing expenses + Closing WIP − Opening WIP**\n**Credit Purchases = Raw material consumed + Closing raw material − Opening raw material**==",
+    "**The day-count convention matters more here than anywhere else.** ICAI uses **360 days** in September 2024, January 2025 and September 2025, and **365 days** in May 2026's Puja Limited and MTP September 2025 Series I's Wint Limited. ==**The question always says which. Write it in the first line and use it in all five denominators.**==",
+    "**Average or closing?** Where opening and closing figures are both given, ICAI uses the **simple average**. Where only one is given, it uses that one. September 2025's RG Limited gives both for all three inventories and ICAI averages each.",
+    "==**The contingency sits at the end, never in the middle.** Compute the working capital from the cycle first, then add the provision. Wint Limited: ₹1,703.63 lakh from the cycle, **plus a 10% contingency reserve of ₹170.363 lakh = ₹1,874 lakh.**=="
+   ],
+   "example": "September 2025's RG Limited is worth working twice. From ₹1,01,850 and 3 cycles: ₹97,000 of working capital, ₹2,91,000 of operating expenses, ₹2,61,000 of COGS after taking out ₹30,000 of selling and distribution, ₹2,56,800 of cost of production after the finished-goods movement, ₹1,45,800 of raw material consumed after wages and the WIP movement, and ₹1,49,550 of credit purchases. The five periods then fall out: 65, 30, 40, 48 and 63 days — and the 48-day debtors period is itself recovered from the cycle total of 120 days, since every other figure is known. The whole case is one long substitution.",
+   "provisions": [
+    {
+     "ref": "The three-step method (SM §6.1)",
+     "status": "VERIFIED",
+     "requirement": "Compute the five periods; add as R + W + F + D − C; divide the annual operating cost by the number of cycles.",
+     "exam_angle": "Step 3 is the one Illustration 2 omits and every exam question requires."
+    },
+    {
+     "ref": "Illustration 2 figures (SM §6.1)",
+     "status": "VERIFIED",
+     "requirement": "R 30, W 22, F 18, D 45, C 30 → 85 days → 4.23 cycles.",
+     "exam_angle": "The template; five official questions are this illustration with different data."
+    },
+    {
+     "ref": "Annual operating cost (ICAI practice)",
+     "status": "VERIFIED",
+     "requirement": "Cost of goods sold plus administration and selling expenses, or the figure the question gives.",
+     "exam_angle": "September 2024 adds ₹4,14,000 of administration and selling to ₹14,61,000 of COGS."
+    },
+    {
+     "ref": "Depreciation in the operating cost",
+     "status": "VERIFIED",
+     "requirement": "ICAI prints both the gross and the cash-cost answers where depreciation is disclosed (MSD Limited: ₹16,00,000 and ₹14,72,000).",
+     "exam_angle": "Give both with the basis named; neither can then be marked wrong."
+    }
+   ],
+   "keywords": [
+    "R + W + F + D − C",
+    "number of operating cycles",
+    "annual operating cost ÷ number of cycles",
+    "derive W and F from the cost sheet",
+    "reverse the cycle",
+    "contingency added at the end",
+    "360 or 365 as the question says"
+   ],
+   "memory": {
+    "trick": "**Periods, cycle, cycles, cost.** Four words in order: find the **periods**, add them into the **cycle**, divide the year to get the number of **cycles**, divide the annual **cost** by that number. ==And when the question gives you the cost and asks for the periods, run the same four words backwards.==",
+    "key": [
+     ["Step 1", "Five periods, each a labelled fraction"],
+     ["Step 2", "Cycle = R + W + F + D − C"],
+     ["Step 3", "Cycles = 360 or 365 ÷ cycle"],
+     ["Step 4", "Working capital = annual operating cost ÷ cycles"],
+     ["Step 5", "Add the contingency or safety margin last"],
+     ["SK Limited", "120 days · 3 cycles · ₹6,25,000"],
+     ["MSD Limited", "96 days · 3.75 cycles · ₹16,00,000 (or ₹14,72,000 cash)"],
+     ["Puja Limited", "86 days · 4.244 cycles · ₹2,23,845 (365 days)"],
+     ["Wint Limited", "147 days · 2.48 cycles · ₹1,874 lakh with contingency (365 days)"],
+     ["RG Limited", "₹1,01,850 ÷ 1.05 × 3 = ₹2,91,000 of operating cost"]
+    ]
+   },
+   "mistakes": [
+    "Dividing the annual operating cost by the cycle in days instead of by the number of cycles. The two differ by a factor of 360.",
+    "Adding the contingency before computing the cycle. It goes on at the very end.",
+    "Using the closing inventory where opening and closing are both given. ICAI averages them.",
+    "Mixing 360 and 365 between denominators. Puja Limited and Wint Limited both use 365 throughout.",
+    "Forgetting that the number of cycles can be fractional. 3.75, 4.23, 4.244 and 2.48 all appear in official answers; do not round to a whole number.",
+    "In a reverse question, dividing by 1.05 and then forgetting to multiply by the number of cycles. Both steps are needed to reach the operating cost."
+   ],
+   "compare": {
+    "title": "The five official operating-cycle questions side by side",
+    "headers": ["", "Days", "Cycle", "Cycles/yr", "Working capital"],
+    "rows": [
+     ["SK Limited (PYQ Sep 2024 Q1b)", "360", "65 + 22 + 60 + 36 − 63 = 120", "3", "₹6,25,000 on an operating cost of ₹18,75,000"],
+     ["MSD Limited (PYQ Jan 2025 Q2b)", "360", "61 + 20 + 30 + 45 − 60 = 96", "3.75", "₹16,00,000, or ₹14,72,000 on cash cost"],
+     ["RG Limited (PYQ Sep 2025 case)", "360", "65 + 30 + 40 + 48 − 63 = 120", "3", "₹1,01,850 given, worked backwards"],
+     ["Puja Limited (RTP May 2026 Q9)", "365", "53 + 21 + 26 + 41 − 55 = 86", "4.244", "₹2,23,845.42 on ₹9,50,000"],
+     ["Wint Limited (MTP Sep 2025 S1 Q1c)", "365", "53 + 35 + 45 + 77 − 63 = 147", "2.48", "₹1,703.63 lakh, ₹1,874 lakh with 10% contingency"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §6: the formula and the five component denominators",
+    "🔗 FM Ch 9 §6.2: the component-by-component statement, which answers the same question a different way",
+    "🔗 FM Ch 9 §5: the operating cycle as the most reliable of the three estimation methods",
+    "🔗 FM Ch 3: the turnover ratios, which are these five periods inverted",
+    "🔗 FM Ch 9 §12 (Unit II): the cash cycle, this cycle with inventory taken as one period"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Calculate the operating cycle period, the number of cycles in a year and the working capital required (3–5 marks)",
+     "Derive the WIP and finished goods periods from the cost figures, then the cycle (5 marks)",
+     "A Part I case giving the working capital and the number of cycles, asking for every period (10 marks)",
+     "Compute the cycle on a 365-day year with a contingency reserve (5 marks)"
+    ],
+    "approach": [
+     "Write the convention and the formula in the first two lines: '365 days assumed' and 'Operating Cycle = R + W + F + D − C'.",
+     "Set out each period as a labelled fraction with its numerator and denominator visible; that is where the marks are.",
+     "Compute cycles to two decimals and do not round.",
+     "Add the contingency as a separate final line, and state whether it is a mark-up or a gross-up.",
+     "In a reverse question, write the chain as a numbered list before computing anything — contingency out, times cycles, operating cost, then down the cost sheet."
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-S24-Q1b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "The following information is available for SK Limited for the year ended on 31st March, 2024: Cost of production ₹15,48,000; Cost of goods sold ₹14,61,000; Average stock of work-in-progress ₹94,600; Average stock of finished goods ₹2,43,500; Administration and Selling expenses ₹4,14,000; Receivables collection period 36 days; Raw Material Storage period 65 days; Creditors payment period 63 days. You are required to calculate the working capital requirement by operating cycle method. Assume a 360 days year. (5 Marks)",
+     "answer_points": [
+      "**State the formula and the convention.** **Operating Cycle = R + W + F + D − C**, where R is the raw material storage period, W the work-in-progress holding period, F the finished goods storage period, D the receivables collection period and C the credit period allowed by suppliers. **360 days assumed.**",
+      "**R = 65 days** (given). **D = 36 days** (given). **C = 63 days** (given).",
+      "**W, which must be derived.** W = Average work-in-progress ÷ Average cost of production per day = **₹94,600 ÷ (₹15,48,000 ÷ 360) = ₹94,600 ÷ ₹4,300 = ==22 days==**.",
+      "**F, which must be derived.** F = Average stock of finished goods ÷ Average cost of goods sold per day = **₹2,43,500 ÷ (₹14,61,000 ÷ 360) = ₹2,43,500 ÷ ₹4,058.33 = ==60 days==**.",
+      "**The cycle.** 65 + 22 + 60 + 36 − 63 = ==**120 days**==.",
+      "**Number of operating cycles in a year** = 360 ÷ 120 = ==**3 times**==.",
+      "**Annual operating cost** = Cost of goods sold + Administration and selling expenses = ₹14,61,000 + ₹4,14,000 = **₹18,75,000**.",
+      "**Amount of working capital required** = Annual operating cost ÷ Number of operating cycles = ₹18,75,000 ÷ 3 = ==**₹6,25,000**==.",
+      "==**The two derivations are the whole question.** Everything else is given, and a candidate who divides WIP by cost of goods sold (giving 23 days) or finished goods by cost of production (giving 57 days) reaches a cycle of 119 or 117 days and loses the rest of the marks by consequence. ==**WIP is divided by cost of production because that is the cost flowing through the WIP stage; finished goods by cost of goods sold because that is the cost flowing out of the finished goods stage.**==",
+      "**One note worth adding.** The cost of production here **exceeds** the cost of goods sold (₹15,48,000 against ₹14,61,000), which means finished goods **built up** over the year by ₹87,000. The question does not ask for that, but it confirms the two figures have not been transposed — a useful ten-second check."
+     ],
+     "keywords": [
+      "W = WIP ÷ cost of production per day = 22 days",
+      "F = FG ÷ cost of goods sold per day = 60 days",
+      "cycle 120 days",
+      "3 cycles",
+      "operating cost ₹18,75,000",
+      "₹6,25,000"
+     ],
+     "also_asked_as": ["PYQ-J25-Q2b is the same computation with all five periods given; PYQ-S25-MCQ1 is the same computation run backwards"]
+    },
+    {
+     "id": "PYQ-J25-Q2b",
+     "marks": 3,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "The following information pertain to MSD Limited for the year ending 31st March, 2024: Raw material storage period 61 days; Work-in-progress conversion period 20 days; Finished goods storage period 30 days; Debt collection period 45 days; Creditors payment period 60 days. The annual operating cost (including depreciation of ₹4,80,000) was ₹60,00,000. Assume 360 days in a year. You are required to calculate: (i) Operating cycle period (ii) Number of operating cycles in a year (iii) Amount of working capital required for the company. (1 + 1 + 1 = 3 Marks)",
+     "answer_points": [
+      "**(i) Operating cycle period.** Operating Cycle = R + W + F + D − C, where R is the raw material storage period, W the work-in-progress holding period, F the finished goods storage period, D the debtors collection period and C the credit period availed.\n**= 61 + 20 + 30 + 45 − 60 = ==96 days==.**",
+      "**(ii) Number of operating cycles in the year** = 360 ÷ Operating cycle period = 360 ÷ 96 = ==**3.75 times**==.",
+      "**(iii) Amount of working capital required** = Annual operating cost ÷ Number of operating cycles = ₹60,00,000 ÷ 3.75 = ==**₹16,00,000**==.",
+      "==**And ICAI's own alternative, which it prints immediately below.** On a **cash cost basis** the depreciation is excluded: (₹60,00,000 − ₹4,80,000) ÷ 3.75 = ₹55,20,000 ÷ 3.75 = ==**₹14,72,000**==.==",
+      "==**Why the question discloses the depreciation at all.** It is the examiner's signal that the cash-cost treatment is in play. The clean answer gives **₹16,00,000** as the figure on the operating cost as stated, then adds one line: **'On a cash cost basis, excluding depreciation of ₹4,80,000 which is a non-cash charge, the requirement is ₹14,72,000.'** Both are in ICAI's published answer, so stating the basis protects the mark either way.==",
+      "**The principle behind the alternative** (SM §6.3): **some of the cost items are non-cash costs; depreciation is a non-cash cost item**, and the actual funds blocked are only the cash costs. A working-capital figure is a statement about **funds tied up**, and depreciation ties up no funds.",
+      "**A three-mark question, one mark each — so write all three parts separately and label them.** The marking here is strictly one mark per numbered requirement, and a candidate who runs the three together into a single paragraph risks the examiner missing part (ii)."
+     ],
+     "keywords": [
+      "96 days",
+      "3.75 cycles",
+      "₹16,00,000",
+      "₹14,72,000 on cash cost",
+      "depreciation is a non-cash cost",
+      "one mark per part"
+     ],
+     "also_asked_as": ["PYQ-S24-Q1b requires two of the five periods to be derived first; RTP-M26-FQ9 is the same question on a 365-day year"]
+    },
+    {
+     "id": "PYQ-S25-MCQ1",
+     "marks": 10,
+     "status": "VERIFIED",
+     "format": "Case MCQs",
+     "question": "RG Limited has estimated that the number of operating cycles in year 2025-26 will be 3. The amount of working capital required after taking an estimated 5% unforeseen contingency is ₹1,01,850. Opening stock of finished goods is ₹31,100 and the closing stock will be lesser by ₹4,200 from the opening stock. Opening stock of raw material is ₹24,450 and closing stock of raw material will be ₹28,200. Opening stock of work in progress is ₹20,500 and closing stock of work in progress will be more by ₹1,800 from the opening stock. Wages and manufacturing expenses during the year will be ₹1,12,800. Selling and distribution expenses during the year will be ₹30,000. Average creditors for the year is ₹26,170. All purchases will be done on credit basis only. Assume a 360 days year. (MCQs 1–5, 2 marks each)",
+     "answer_points": [
+      "==**The architecture first. This case gives the destination and asks for the road.** The chain is: **working capital after contingency → working capital before contingency → total operating cost → cost of goods sold → cost of production → raw material consumed → credit purchases**, and only then do the five periods fall out. Write the chain down before computing anything.==",
+      "**MCQ 1 — Total Operating Expenses and Cost of Goods Sold. Answer (B) ₹2,91,000 and ₹2,61,000.**\nWorking capital before the contingency = ₹1,01,850 ÷ 1.05 = **₹97,000**.\nWorking capital = Annual operating cost ÷ number of cycles, so **Total operating cost = ₹97,000 × 3 = ==₹2,91,000==**.\n**Cost of goods sold = Total operating cost − Selling and distribution expenses** = ₹2,91,000 − ₹30,000 = ==**₹2,61,000**==.",
+      "**MCQ 2 — Cost of Production and Finished Goods storage period. Answer (D) ₹2,56,800 and 40 days.**\nClosing finished goods = ₹31,100 − ₹4,200 = **₹26,900**.\n**Cost of production = COGS + Closing FG − Opening FG** = ₹2,61,000 + ₹26,900 − ₹31,100 = ==**₹2,56,800**==.\nAverage finished goods = (₹31,100 + ₹26,900) ÷ 2 = ₹29,000, so **F = ₹29,000 ÷ (₹2,61,000 ÷ 360) = ₹29,000 ÷ ₹725 = ==40 days==**.",
+      "**MCQ 3 — Raw Material Consumed and Credit purchases. Answer (C) ₹1,45,800 and ₹1,49,550.**\nClosing WIP = ₹20,500 + ₹1,800 = **₹22,300**.\n**Raw material consumed = Cost of production − Wages and manufacturing expenses + Closing WIP − Opening WIP** = ₹2,56,800 − ₹1,12,800 + ₹22,300 − ₹20,500 = ==**₹1,45,800**==.\n**Credit purchases = Raw material consumed + Closing RM − Opening RM** = ₹1,45,800 + ₹28,200 − ₹24,450 = ==**₹1,49,550**==.",
+      "**MCQ 4 — Raw material storage period and WIP conversion period. Answer (B) 65 days and 30 days.**\nAverage raw material = (₹24,450 + ₹28,200) ÷ 2 = ₹26,325, so **R = ₹26,325 ÷ (₹1,45,800 ÷ 360) = ₹26,325 ÷ ₹405 = ==65 days==**.\nAverage WIP = (₹20,500 + ₹22,300) ÷ 2 = ₹21,400, so **W = ₹21,400 ÷ (₹2,56,800 ÷ 360) = ₹21,400 ÷ ₹713.33 = ==30 days==**.",
+      "**MCQ 5 — Creditors Payment period and Debtors Collection period. Answer (B) 63 days and 48 days.**\n**C = ₹26,170 ÷ (₹1,49,550 ÷ 360) = ₹26,170 ÷ ₹415.42 = ==63 days==**.\n**D is recovered from the cycle, not from a debtors figure** — none is given. With 3 cycles the cycle is 360 ÷ 3 = **120 days**, and since 120 = R + W + F + D − C, **D = 120 − 65 − 30 − 40 + 63 = ==48 days==**.",
+      "==**That last step is what makes the case hard, and it is the one worth rehearsing.** There is no average-receivables figure anywhere in the question. The debtors period can only come from the identity, which means every earlier figure has to be right for it to be reachable. **The case is a single chain with no redundancy: one wrong division and the last MCQ is unanswerable.**==",
+      "**The five answers, in ICAI's published key: B, D, C, B, B.** Four of the five first options are the correct ones in only one case, so the key is not guessable from position.",
+      "==**The transferable lesson.** Every forward operating-cycle question can be inverted, and ICAI has now done it in a Division A case. Learn the **four cost-sheet identities** — COGS from operating cost, cost of production from COGS, raw material consumed from cost of production, purchases from consumption — because they are the only new content in the whole case. The five period formulae are unchanged.=="
+     ],
+     "keywords": [
+      "₹1,01,850 ÷ 1.05 = ₹97,000",
+      "× 3 cycles = ₹2,91,000",
+      "COGS ₹2,61,000",
+      "cost of production ₹2,56,800",
+      "RM consumed ₹1,45,800",
+      "credit purchases ₹1,49,550",
+      "65, 30, 40, 63 days",
+      "D recovered from the 120-day cycle = 48 days",
+      "keys B, D, C, B, B"
+     ],
+     "also_asked_as": ["PYQ-S24-Q1b and PYQ-J25-Q2b run the same cycle forwards"]
+    },
+    {
+     "id": "RTP-M26-FQ9",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Following information is forecasted by Puja Limited for the year ending 31st March: Raw Material opening ₹45,000 closing ₹65,356; Work-in-progress opening ₹35,000 closing ₹51,300; Finished goods opening ₹60,181 closing ₹70,175; Debtors opening ₹1,12,123 closing ₹1,35,000; Creditors opening ₹50,079 closing ₹70,469. Annual purchases of raw material (all credit) ₹4,00,000; Annual cost of production ₹7,50,000; Annual cost of goods sold ₹9,15,000; Annual operating cost ₹9,50,000; Annual sales (all credit) ₹11,00,000. You may take one year as equal to 365 days. You are required to CALCULATE: (i) Net operating cycle period (ii) Number of operating cycles in the year (iii) Amount of working capital requirement using operating cycles.",
+     "answer_points": [
+      "**Note the convention: 365 days**, not 360. Every denominator below uses it.",
+      "**Raw material consumed must be derived first**, because the question gives purchases, not consumption. **Consumed = Opening RM + Purchases − Closing RM** = ₹45,000 + ₹4,00,000 − ₹65,356 = **₹3,79,644**.",
+      "**R = Average raw material ÷ consumption per day.** Average RM = (₹45,000 + ₹65,356) ÷ 2 = ₹55,178. **R = ₹55,178 ÷ (₹3,79,644 ÷ 365) = ₹55,178 ÷ ₹1,040.12 = ==53 days==**.",
+      "**W = Average WIP ÷ cost of production per day.** Average WIP = (₹35,000 + ₹51,300) ÷ 2 = ₹43,150. **W = ₹43,150 ÷ (₹7,50,000 ÷ 365) = ₹43,150 ÷ ₹2,054.79 = ==21 days==**.",
+      "**F = Average finished goods ÷ cost of goods sold per day.** Average FG = (₹60,181 + ₹70,175) ÷ 2 = ₹65,178. **F = ₹65,178 ÷ (₹9,15,000 ÷ 365) = ₹65,178 ÷ ₹2,506.85 = ==26 days==**.",
+      "**D = Average debtors ÷ credit sales per day.** Average debtors = (₹1,12,123 + ₹1,35,000) ÷ 2 = ₹1,23,562. **D = ₹1,23,562 ÷ (₹11,00,000 ÷ 365) = ₹1,23,562 ÷ ₹3,013.70 = ==41 days==**.",
+      "**C = Average creditors ÷ credit purchases per day.** Average creditors = (₹50,079 + ₹70,469) ÷ 2 = ₹60,274. **C = ₹60,274 ÷ (₹4,00,000 ÷ 365) = ₹60,274 ÷ ₹1,095.89 = ==55 days==**.",
+      "**(i) Net operating cycle period** = R + W + F + D − C = 53 + 21 + 26 + 41 − 55 = ==**86 days**==.",
+      "**(ii) Number of operating cycles in the year** = 365 ÷ 86 = ==**4.244**==.",
+      "**(iii) Amount of working capital requirement** = Annual operating cost ÷ Number of operating cycles = ₹9,50,000 ÷ 4.244 = ==**₹2,23,845.42**==.",
+      "==**The one trap in this question is the first step.** The denominator for R is **consumption**, and the question gives **purchases**. A candidate who divides the average stock by purchases per day gets 50 days instead of 53, and the error carries through to the cycle, the number of cycles and the working capital. ==**Whenever a question gives 'annual purchases of raw material' rather than 'raw material consumed', derive the consumption from the stock movement before touching R.**==",
+      "**Do not round the number of cycles.** 4.244 to three decimals gives ₹2,23,845.42; rounding to 4.24 gives ₹2,24,056 and rounding to 4 gives ₹2,37,500 — a ₹13,655 error on a figure ICAI prints to the paisa."
+     ],
+     "keywords": [
+      "365 days",
+      "consumption = opening + purchases − closing",
+      "53, 21, 26, 41, 55 days",
+      "86 days",
+      "4.244 cycles",
+      "₹2,23,845.42"
+     ],
+     "also_asked_as": ["MTP-S25-S1-FQ1c is the same 365-day structure with a contingency reserve added"]
+    },
+    {
+     "id": "MTP-S25-S1-FQ1c",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Wint Limited is a mid-sized manufacturing company specializing in industrial equipment parts. It operates on a just-in-time procurement strategy but has recently faced delays in raw material deliveries due to supply chain disruptions, so management has decided to maintain slightly higher inventories and build in a contingency reserve. Forecast balances (₹ in lakh) as at 31st March 2025 and 2024: Raw Material 845 / 585; Work-in-progress 663 / 455; Finished goods 910 / 780; Receivables 1,755 / 1,456; Payables 923 / 884. For the year ending 31st March 2025: annual purchases of raw materials (on credit) ₹5,200 lakh; annual cost of production ₹5,850 lakh; annual cost of goods sold ₹6,825 lakh; annual operating cost ₹4,225 lakh; annual sales (on credit) ₹7,605 lakh. Management wants to set aside a 10% contingency reserve in the working capital. Calculate the Net Operating Cycle Period, the Number of Operating Cycles in the year, and the Working Capital Requirement including the 10% contingency.",
+     "answer_points": [
+      "**365 days, as ICAI's answer uses throughout.**",
+      "**Raw material consumed** = Opening + Purchases − Closing = ₹585 + ₹5,200 − ₹845 = **₹4,940 lakh**.",
+      "**R** = Average RM ÷ consumption per day = [(585 + 845) ÷ 2] ÷ (4,940 ÷ 365) = ₹715 ÷ ₹13.534 = ==**53 days**==.",
+      "**W** = Average WIP ÷ cost of production per day = [(455 + 663) ÷ 2] ÷ (5,850 ÷ 365) = ₹559 ÷ ₹16.027 = ==**35 days**==.",
+      "**F** = Average FG ÷ cost of goods sold per day = [(780 + 910) ÷ 2] ÷ (6,825 ÷ 365) = ₹845 ÷ ₹18.699 = ==**45 days**==.",
+      "**D** = Average receivables ÷ credit sales per day = [(1,456 + 1,755) ÷ 2] ÷ (7,605 ÷ 365) = ₹1,605.5 ÷ ₹20.836 = ==**77 days**==.",
+      "**C** = Average payables ÷ credit purchases per day = [(884 + 923) ÷ 2] ÷ (5,200 ÷ 365) = ₹903.5 ÷ ₹14.247 = ==**63 days**== (ICAI prints 63.42, rounded to 63).",
+      "**(i) Net Operating Cycle Period** = 53 + 35 + 45 + 77 − 63 = ==**147 days**==.",
+      "**(ii) Number of Operating Cycles** = 365 ÷ 147 = ==**2.48 times**==.",
+      "**(iii) Working capital** = Annual operating cost ÷ cycles = ₹4,225 lakh ÷ 2.48 = ==**₹1,703.63 lakh**==.\n**Add the 10% contingency reserve** = ₹170.363 lakh.\n**Total Working Capital Requirement = ==₹1,874 lakh==** (ICAI's figure, ₹1,873.99 rounded).",
+      "==**Note which cost goes where, because this question deliberately separates them.** The **cycle** uses cost of production, cost of goods sold and credit sales as denominators; the **working capital** uses the **annual operating cost of ₹4,225 lakh**, which is *lower* than the cost of goods sold of ₹6,825 lakh. ==A candidate who divides ₹6,825 lakh by 2.48 gets ₹2,752 lakh and is badly wrong. The operating cost given is the one to use.==",
+      "**The 147-day cycle is the longest in any official question**, driven by a 77-day receivables period against a 63-day payables period. The case's own narrative explains it: a just-in-time company has abandoned just-in-time, so R, W and F have all risen together — which is the point of giving the two years' balances.",
+      "**The contingency here is a straight 10% mark-up**, not a gross-up: 'set aside a 10% contingency reserve in the working capital' adds 10% of ₹1,703.63 lakh. Contrast RTP September 2024, where 'a provision for contingencies required @ 10% of working capital requirement **including that provision**' is applied as × 1/9."
+     ],
+     "keywords": [
+      "365 days",
+      "53, 35, 45, 77, 63",
+      "147 days",
+      "2.48 cycles",
+      "operating cost ₹4,225 lakh, not COGS",
+      "₹1,703.63 lakh plus 10% = ₹1,874 lakh"
+     ],
+     "also_asked_as": ["RTP-M26-FQ9 is the same structure without the contingency"]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.13-01",
+     "angle": "Reverse working",
+     "difficulty": "Hard",
+     "question": "A company's working capital requirement, after adding an unforeseen contingency of 5%, is ₹2,10,000, and the number of operating cycles in the year is 4. Its total annual operating cost is:",
+     "options": {
+      "A": "₹8,40,000",
+      "B": "₹8,82,000",
+      "C": "₹8,00,000",
+      "D": "₹50,000"
+     },
+     "answer": "C",
+     "explanation": "Working capital before the contingency = ₹2,10,000 ÷ 1.05 = ₹2,00,000. Since working capital = annual operating cost ÷ number of cycles, the operating cost = ₹2,00,000 × 4 = ₹8,00,000. This is the opening step of SA September 2025's RG Limited case. Option A multiplies ₹2,10,000 by 4 without removing the contingency; option B adds 5% instead of removing it; option D divides rather than multiplies by the cycles."
+    },
+    {
+     "id": "MCQ-F09.13-02",
+     "angle": "Which cost to divide",
+     "difficulty": "Medium",
+     "question": "A firm's operating cycle is 90 days on a 360-day year. Its cost of goods sold is ₹54,00,000 and its annual operating cost is ₹60,00,000. The working capital required by the operating cycle method is:",
+     "options": {
+      "A": "₹13,50,000",
+      "B": "₹1,50,000",
+      "C": "₹2,40,00,000",
+      "D": "₹15,00,000"
+     },
+     "answer": "D",
+     "explanation": "Number of cycles = 360 ÷ 90 = 4, and working capital = annual operating cost ÷ number of cycles = ₹60,00,000 ÷ 4 = ₹15,00,000. Option A divides the cost of goods sold instead of the operating cost — the error MTP September 2025 Series I is built to catch, since there the two differ sharply. Option B divides the operating cost by the cycle in days instead of by the number of cycles; option C multiplies by 4."
+    }
+   ],
+   "recap": [
+    "Four steps: the five periods, the cycle, the number of cycles, then annual operating cost ÷ number of cycles.",
+    "Derive W from cost of production and F from cost of goods sold; never swap them.",
+    "Where purchases are given rather than consumption, derive consumption from the stock movement before computing R.",
+    "Divide the annual operating cost the question gives, which may be well below the cost of goods sold.",
+    "The contingency goes on last: '10% of working capital' is × 1.10, '10% including the provision' is × 1/9.",
+    "The cycle can be run backwards: contingency out, × cycles, operating cost, then down the cost sheet — SA September 2025's RG Limited."
+   ]
+  },
+  {
+   "code": "F09.14",
+   "title": "6.2 Estimation of the Amount of Different Components of Current Assets and Current Liabilities",
+   "activity": "Very High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 direct (but PYQ-M25-MCQ1 applies the whole statement) · RTP 2 (Sep 2024 Q10, May 2025 Q9) · MTP 2 (Jan 2025 Series II Q2(a), Jan 2026 Series I Q2(a))",
+   "understand": [
+    "**Why the holding periods matter** (SM §6.2): the constituents of current assets and current liabilities **have a direct bearing on the computation of working capital and the operating cycle**, and their holding periods **may either contract or expand the net operating cycle period**. ==**Shorter the operating cycle period, lower will be the requirement of working capital and vice-versa.**==",
+    "==**The five current-asset formulae** (SM §6.2). Each is **units per period × cost per unit × holding period**, with the period scaled by 12 months or 365 days:==",
+    "==**(i) Raw Materials Inventory** = (Estimated production in units ÷ 12 months or 365 days) × **Estimated cost per unit** × Average raw material storage period==",
+    "==**(ii) Work-in-Progress Inventory** = (Estimated production ÷ 12 or 365) × **Estimated WIP cost per unit** × Average WIP holding period==",
+    "==**(iii) Finished Goods** = (Estimated production ÷ 12 or 365) × **Estimated cost of production per unit** × Average finished goods storage period==",
+    "==**(iv) Receivables (Debtors)** = (Estimated credit sales ÷ 12 or 365) × **Estimated cost of sales excluding depreciation per unit** × Average receivable collection period==",
+    "==**(v) Cash and Cash equivalents** — the **minimum desired cash and bank balance** to be maintained, simply **added** to the current assets.==",
+    "==**ICAI's own note on (iii) and (iv), and it is the most important sentence in §6.2:** **'Note that only cash cost is considered for debtors and finished goods elements (as the sales to debtors include cost & profit whereas the funds required for working capital purposes doesn't need to include profit). Further, non-cash expense like depreciation is also excluded.'**==",
+    "==**The three current-liability formulae:**\n**(i) Trade Payables** = (Estimated credit purchase ÷ 12 months or 365 days) × Credit period allowed by suppliers\n**(ii) Direct Wages** = (Estimated labour hours × wage rate per hour ÷ 12 or 365) × Average time lag in payment of wages\n**(iii) Overheads (other than depreciation and amortization)** = (Estimated overheads ÷ 12 or 360) × Average time lag in payment of overheads==",
+    "**Why current liabilities are deducted, and the parenthesis that matters:** **'the amount of working capital is lowered to the extent of current liabilities (other than bank credit) arising in the normal course of business.'** ==Bank credit is a **financing** source, not a spontaneous current liability, so it does not come off the requirement — the requirement is what the bank is being asked to fund.==",
+    "==**The statement format ICAI prints, and the one to reproduce** (SM §6.2):\n**I. Current Assets:** Inventories (raw materials, work-in-process, finished goods) · Receivables (trade debtors, bills) · Prepaid Expenses · Minimum Cash Balance → **Gross Working Capital**\n**II. Current Liabilities:** Trade Payables · Bills Payables · Outstanding wages and overheads · ... → total\n**Net Working Capital (I − II)**, then the safety margin, then the **Total Working Capital Requirement.**==",
+    "==**Work-in-progress is where most marks are lost, and the official questions give three different conventions:**\n**Materials fully in process, conversion part-complete** — MTP January 2026 Series I: 'assume 50% completion stage in respect of conversion cost, materials issued at the start of the processing', so WIP carries **100% of material and 50% of wages and overheads.**\n**Both part-complete** — MTP January 2025 Series II: 'Material 90% into process, relevant conversion cost 60% completed'.\n**Valued at prime cost** — SM Illustration 5: WIP 'valued at prime cost', so material plus wages only, no overheads.\n==**Read the convention, write it as a note, and apply it to each cost element separately.**==",
+    "==**Prepaid expenses go in as current assets.** Where an expense is **paid in advance** — 'sales promotion expenses paid quarterly in advance', 'administrative expenses payable in advance for 2 months' — the prepayment is a **current asset**, not a deduction. SM Illustration 4 puts ₹30,000 of advance sales promotion in current assets. ==Candidates routinely net it against the liabilities instead.==",
+    "==**The safety margin, in its two forms.** **'Assuming a 20% safety margin'** (SM Illustration 4) is a **mark-up**: net working capital ₹6,00,000 + ₹1,20,000 = ₹7,20,000. **'Safety margin to be kept at 15% of the net working capital required inclusive of the margin amount'** (MTP January 2025 Series II) is a **gross-up**: the computed excess is 85% of the answer, so the margin is **excess × 15/85.**=="
+   ],
+   "example": "RTP September 2024's TMT Limited is the cleanest example of the whole statement: 40,000 units produced against 35,000 sold in the first year, so finished goods are the 5,000-unit difference; raw material at 3 months' consumption; debtors at 1½ months **taken at cost**, as the question says expressly; creditors at 4 months of purchases; wages lagging 1 month and overheads half a month; a cash balance of ₹60,000; and a contingency of 10% of the requirement *including* the provision, which ICAI applies as ₹4,49,792 × 1/9 = ₹49,977, giving ₹4,99,769.",
+   "provisions": [
+    {
+     "ref": "The five current-asset formulae (SM §6.2)",
+     "status": "VERIFIED",
+     "requirement": "Production or credit sales per period × cost per unit × holding period; plus the minimum cash balance.",
+     "exam_angle": "Each line of the statement is one of these five; write the fraction in the statement itself."
+    },
+    {
+     "ref": "Cash cost for debtors and finished goods (SM §6.2 note)",
+     "status": "VERIFIED",
+     "requirement": "Only cash cost is considered for debtors and finished goods, because sales include profit which working capital need not fund, and depreciation is excluded as a non-cash expense.",
+     "exam_angle": "The single most-tested instruction in the chapter; quote the reason, not just the rule."
+    },
+    {
+     "ref": "The three current-liability formulae (SM §6.2)",
+     "status": "VERIFIED",
+     "requirement": "Trade payables on credit purchases; direct wages on the wage bill; overheads other than depreciation and amortization.",
+     "exam_angle": "Overheads exclude depreciation on both sides of the statement."
+    },
+    {
+     "ref": "Bank credit excluded from current liabilities (SM §6.2)",
+     "status": "VERIFIED",
+     "requirement": "Working capital is lowered by current liabilities other than bank credit arising in the normal course of business.",
+     "exam_angle": "A bank overdraft already drawn is not deducted; the statement computes what the bank must fund."
+    },
+    {
+     "ref": "Statement format (SM §6.2)",
+     "status": "VERIFIED",
+     "requirement": "Current assets to Gross Working Capital; current liabilities; Net Working Capital; safety margin; Total Working Capital Requirement.",
+     "exam_angle": "Reproduce the five headings even if a line is nil; the structure carries marks."
+    }
+   ],
+   "keywords": [
+    "units × cost per unit × holding period",
+    "only cash cost for debtors and finished goods",
+    "depreciation excluded",
+    "other than bank credit",
+    "prepaid expenses are current assets",
+    "WIP conversion percentage",
+    "valued at prime cost",
+    "gross working capital",
+    "safety margin"
+   ],
+   "memory": {
+    "trick": "**Each asset at the cost that has reached it.** Raw material at **material cost**; WIP at **material plus the completed part of conversion**; finished goods at **cost of production**; debtors at **cash cost of sales**. ==The cost climbs as the unit moves down the factory, and the only thing that never climbs in is **profit**.==",
+    "key": [
+     ["Raw material", "Production ÷ 12 × material cost per unit × storage period"],
+     ["Work-in-progress", "Production ÷ 12 × WIP cost per unit × holding period"],
+     ["Finished goods", "Production ÷ 12 × cost of production per unit × storage period"],
+     ["Debtors", "Credit sales ÷ 12 × cash cost of sales per unit × collection period"],
+     ["Cash", "The minimum desired balance, simply added"],
+     ["Prepaid expenses", "A current ASSET — not a deduction"],
+     ["Trade payables", "Credit purchases ÷ 12 × supplier credit period"],
+     ["Wages and overheads", "The annual figure ÷ 12 × the lag"],
+     ["Bank credit", "Never deducted — it is the thing being sized"],
+     ["Safety margin", "Mark-up on net, or gross-up if 'inclusive'"]
+    ]
+   },
+   "mistakes": [
+    "Valuing debtors at sales value. ICAI's note is explicit: debtors go in at cash cost, because working capital need not fund the profit element.",
+    "Leaving depreciation in the finished goods or debtors valuation. It is a non-cash cost and comes out of both.",
+    "Netting prepaid expenses against current liabilities. They are current assets and appear above the Gross Working Capital line.",
+    "Applying the WIP completion percentage to material as well as conversion when the question says materials are issued at the start. Then material is 100% and only conversion is part-complete.",
+    "Deducting a bank overdraft as a current liability. SM §6.2 excludes bank credit expressly.",
+    "Treating a safety margin 'inclusive of the margin amount' as a simple percentage addition. It is a gross-up.",
+    "Using production units for debtors or sales units for finished goods. Finished goods follow **production** units (or the production-sales difference where stock is building); debtors follow **credit sales**."
+   ],
+   "compare": {
+    "title": "Work-in-progress: the three conventions the official questions use",
+    "headers": ["Source", "Wording", "Material element", "Conversion element"],
+    "rows": [
+     ["MTP Jan 2026 Series I", "'50% completion stage in respect of conversion cost (materials issued at the start)'", "100%", "50%"],
+     ["MTP Jan 2025 Series II", "'Material – 90% into process, relevant conversion cost – 60% completed'", "90%", "60%"],
+     ["SM Illustration 5", "'Work-in-progress (valued at prime cost)'", "100%", "Wages only; no overheads"],
+     ["RTP May 2024 Q7", "'requiring full materials but only 40% of the other expenses'", "100%", "40%"],
+     ["RTP May 2025 Q9", "'Goods remain in process for half a month with 90% raw materials introduced'", "90%", "ICAI assumes 50% for wages and overheads, and says so in a note"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §6.3: the cash-cost basis, which is this statement with the note applied throughout",
+    "🔗 FM Ch 9 §6.1: the operating cycle method, the alternative route to the same figure",
+    "🔗 FM Ch 9 §6.4: double-shift working, which reruns this statement at two activity levels",
+    "🔗 FM Ch 9 §28: the bank finance this statement is usually prepared for",
+    "🔗 Paper 4: the cost sheet, whose prime cost and cost of production feed the valuations"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Prepare a projected statement of working capital requirement (5–8 marks)",
+     "Calculate net working capital for a first application to a bank (6–8 marks)",
+     "Prepare the statement for two years of a new venture (8 marks)",
+     "A Part I case walking through manufacturing cost, finished goods and debtors, current assets, current liabilities and the margin (10 marks)"
+    ],
+    "approach": [
+     "Open with two working notes: the cost per unit build-up, and the annual cash cost of production and of sales. Everything in the statement then references them.",
+     "Write the fraction inside each line of the statement — ICAI's own answers do, and it is how the marks are awarded.",
+     "State every assumption as a numbered note: the day count, the WIP convention, whether debtors are at cost, and what the margin is applied to.",
+     "Keep Gross Working Capital as a visible subtotal; several questions ask only for that."
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "RTP-S24-FQ10",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "TMT Limited is commencing a new project for manufacture of electric toys. Cost information for annual production of 60,000 units at full capacity: Raw materials ₹20; Direct labour ₹15; Manufacturing overheads — variable ₹15, fixed ₹10, total ₹25; Selling and distribution overheads — variable ₹3, fixed ₹1, total ₹4; Total cost ₹64; Profit ₹16; Selling price ₹80. In the first year expected production and sales are 40,000 units and 35,000 units respectively. (i) Stock of raw materials 3 months' consumption; (ii) Credit allowable for debtors 1½ months; (iii) Credit allowable by creditors 4 months; (iv) Lag in payment of wages 1 month; (v) Lag in payment of overheads ½ month; (vi) Cash in hand and bank expected to be ₹60,000; (vii) Provision for contingencies required @ 10% of working capital requirement including that provision. PREPARE a projected statement of working capital requirement for the first year of operations. Debtors are taken at cost.",
+     "answer_points": [
+      "**Two working notes first — they carry the statement.**\n**Purchases of raw material during the year:** consumed 40,000 × ₹20 = ₹8,00,000, **add** closing stock (3 months' consumption) ₹2,00,000, **less** opening stock nil = **₹10,00,000 of purchases**.\n**Cost build-up on 40,000 units produced:** raw material ₹8,00,000, direct labour ₹6,00,000, manufacturing overheads (variable ₹15 × 40,000 = ₹6,00,000; fixed ₹10 × 60,000 capacity apportioned — ICAI charges fixed overheads on the **production** of 40,000 units at ₹10, giving ₹4,00,000) and so on. **Follow the question's per-unit rates on actual production.**",
+      "**Current Assets.**\n**Raw material stock** = 3 months of ₹8,00,000 = **₹2,00,000**.\n**Finished goods** = the 5,000 units unsold (40,000 produced less 35,000 sold), valued at **cost of production**.\n**Debtors** = 1½ months of the cost of sales — and the question says expressly **'Debtors are taken at cost'**, so no profit element.\n**Cash in hand and bank** = **₹60,000**.\n→ **Total (A)**.",
+      "**Current Liabilities.**\n**Creditors for materials** = 4 months of purchases = ₹10,00,000 × 4/12 = **₹3,33,333**.\n**Outstanding wages** = 1 month of ₹6,00,000 = **₹50,000**.\n**Outstanding overheads** = ½ month of the overheads.\n→ **Total (B) = ₹4,40,208** in ICAI's answer.",
+      "**Working Capital Requirement before Contingencies (A − B) = ==₹4,49,792==.**",
+      "==**The contingency, and this is the examinable step.** The provision is **'@ 10% of working capital requirement *including* that provision'**. So if W is the answer, the computed figure ₹4,49,792 is 90% of W and the provision is 10% of W. ==**Provision = ₹4,49,792 × 10/90 = ₹4,49,792 × 1/9 = ₹49,977**, exactly as ICAI computes it.==\n**Estimated Working Capital Requirement = ₹4,49,792 + ₹49,977 = ==₹4,99,769==.**",
+      "==**Check it the other way to be sure: 10% of ₹4,99,769 is ₹49,977, and ₹4,99,769 − ₹49,977 = ₹4,49,792 ✓.** A candidate who adds a flat 10% gets ₹4,94,771 — close enough to look right and wrong by ₹4,998.==",
+      "**Three notes to write out, because each is a judgement the examiner is looking for.** **(1)** Debtors at cost, as directed. **(2)** Work-in-progress ignored, as the question gives no WIP data. **(3)** Finished goods are the physical difference between production and sales, valued at cost of production — the question's 40,000-against-35,000 split exists only to create that stock.",
+      "**Why the first-year split matters.** Purchases are driven by **consumption plus closing stock**, consumption by **production**, and finished goods by **production less sales**. Using 60,000 units anywhere is the error the question is built around: 60,000 is full capacity and is relevant only to the per-unit fixed cost rates."
+     ],
+     "keywords": [
+      "purchases = consumption + closing stock",
+      "finished goods = 5,000 units at cost of production",
+      "debtors at cost, as directed",
+      "creditors 4 months of purchases",
+      "₹4,49,792 before contingency",
+      "× 1/9 = ₹49,977",
+      "₹4,99,769"
+     ],
+     "also_asked_as": ["MTP-J25-S2-FQ2a and MTP-J26-S1-FQ2a are the same statement with different conventions; RTP-M25-FQ9 adds imports and exports"]
+    },
+    {
+     "id": "RTP-M25-FQ9",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Parshvam Limited plans to expand internationally. Materials used: domestic on 2 months' credit ₹9,00,000, imports on 3 months' credit ₹6,00,000. Lag in payment of wages 1 month ₹6,00,000. Lag in payment of manufacturing overheads ½ month ₹26,40,000. Sales: domestic on 1.5 months' credit ₹30,00,000, export on 3 months' credit (sale price 10% below domestic price) ₹24,80,000. Administrative expenses payable in advance for 2 months ₹3,60,000. Lag in payment of selling and distribution expenses 1 month ₹3,00,000. Advance income tax of ₹25,000 for the quarter falling in the next financial year is paid. Manufacturing overheads include depreciation on a new machine costing ₹24,00,000 at 10%. Cash gross profit is 20% on domestic sales. The EPC Board provides a revenue subsidy of 2.5% for the new machine. Parshvam submits a letter of credit and avails the export sales value within 1 month, the institution charging a fee of 5%. Raw materials imported attract customs duty at 20% paid up front with a duty drawback of 5% credited upfront. One month's stock each of raw materials and finished goods; goods in process half a month with 90% raw materials introduced; cash and bank ₹1,50,000; safety margin 15%. (A) PREPARE the estimated working capital statement. (B) ADVISE whether Parshvam should continue with the export business.",
+     "answer_points": [
+      "==**Part (A) — the statement, with ICAI's published totals: Gross working capital ₹14,37,727, excess of current assets over current liabilities ₹9,62,124, safety margin ₹1,44,319 and Net working capital ₹11,06,443.**==",
+      "**The export gross profit has to be derived before anything else, and it is the heart of the question.** Let the domestic selling price be ₹100; cash gross profit is 20%, so **cost per unit is ₹80**. The export price is **10% below domestic = ₹90**, while **the cost to produce the exported goods remains ₹80**. So the **export gross profit is ₹10, and as a percentage of export sales it is 10 ÷ 90 = ==11.11%==**, not 20%.",
+      "**Cash cost of sales, split two ways.** Domestic ₹30,00,000 less 20% = ₹24,00,000; export ₹24,80,000 less 11.11% = ₹22,04,444 (ICAI's figure); total cash cost of sales **₹46,04,444** across sales of ₹54,80,000.",
+      "**Current Liabilities, from ICAI's own statement.** Creditors: domestic ₹9,00,000 × 2/12 = **₹1,50,000**; imports ₹6,00,000 × 3/12 = **₹1,50,000**. Wages ₹6,00,000 × 1/12 = **₹50,000**. Manufacturing overheads ₹23,40,000 × 0.5/12 = **₹97,500** — note **₹23,40,000, not ₹26,40,000**, because the ₹2,40,000 of depreciation (10% of ₹24,00,000) has been stripped out as a non-cash cost. Other overheads ₹74,472 × 0.5/12 = **₹3,103**. Selling and distribution ₹3,00,000 × 1/12 = **₹25,000**.",
+      "**Current Assets** carry one-month raw material and finished goods stocks, half a month of WIP with **90% of raw materials introduced**, debtors at **1.5 months on domestic and 1 month on export** (because the letter of credit realises the export value within a month, not three), the **two months of administrative expenses paid in advance**, the **₹25,000 of advance income tax**, and **₹1,50,000 of cash and bank** — gross working capital **₹14,37,727**.",
+      "==**Part (B) — the advice, in ICAI's own words.** **'If just the monetary aspects and factors are considered then, Parshvam limited should discontinue its operations at international level as the Cash Cost of sales for export at ₹26,27,158 is higher than the Export sales value which is just ₹24,80,000.'** The ₹26,27,158 is the export cash cost of sales **grossed up by the 5% letter-of-credit fee and the net customs cost**, against export revenue of ₹24,80,000 — a loss of **₹1,47,158**.==",
+      "==**But ICAI does not stop at the arithmetic, and nor should the answer:** **'In reality, non-monetary factors are also considered in decision making; exports will add a new customer base for the company. Furthermore, existence at international level brings on a high credibility and image to the company, etc.'** The two-part structure — reject on the numbers, then name the strategic offsets — is how the advice mark is earned.==",
+      "==**An inconsistency in ICAI's own safety margin, which this book records rather than smooths over.** The statement shows **'Excess of CA over CL ₹9,62,124'** and then **'Add: 15% safety margin (₹9,87,124 × 15%) = ₹1,44,319'** — applying the percentage to **₹9,87,124**, a figure ₹25,000 higher than the stated excess and equal to it plus the advance income tax. ₹9,62,124 + ₹1,44,319 = ₹11,06,443, which is the printed net working capital, so the total is internally consistent with the margin as computed but not with the base as labelled. ==A straight 15% mark-up on ₹9,62,124 would be ₹1,44,319 only if the base were ₹9,62,127 — so the ₹25,000 is a labelling slip, not a method. **Reproduce ICAI's figures and note the discrepancy; do not invent a third number.**==",
+      "**Four assumptions ICAI itself records, and they should be written out.** **(a)** Working capital is estimated on a cash cost basis. **(b)** Other overheads are assumed to be part of production. **(c)** In the absence of information on the percentage completion for wages, manufacturing and other overheads, **50% completion is assumed for WIP**. **(d)** Other overheads are also assumed outstanding for half a month; alternatively nothing is outstanding or prepaid.",
+      "==**The transferable technique.** When a question prices exports below domestic, **never carry the domestic gross-profit percentage across.** The cost per unit is unchanged, so the margin falls both absolutely and proportionately, and the percentage must be recomputed on the export price. That single step is worth more marks here than the entire current-liabilities column.=="
+     ],
+     "keywords": [
+      "export gross profit 10 ÷ 90 = 11.11%",
+      "depreciation ₹2,40,000 stripped from manufacturing overheads",
+      "export debtors 1 month, not 3, because of the letter of credit",
+      "gross working capital ₹14,37,727",
+      "net working capital ₹11,06,443",
+      "export cash cost ₹26,27,158 exceeds sales ₹24,80,000",
+      "discontinue on monetary grounds, but name the non-monetary offsets"
+     ],
+     "also_asked_as": ["RTP-S24-FQ10 is the same statement without the import-export overlay"]
+    },
+    {
+     "id": "MTP-J25-S2-FQ2a",
+     "marks": 6,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "ABC Ltd., a newly formed company, has applied to a Private Bank for the first time for financing its working capital requirements. Projections for the current year: completed units of production 31,200; raw material cost ₹40 per unit; direct wages ₹25 per unit; overhead ₹40 per unit (including ₹10 of depreciation); selling price ₹150 per unit; GP ratio (cash cost) 30%; net profit ratio 25% (on total cost); raw material in stock average of 30 days' consumption; work in progress stock at 30% of finished goods produced units, valued at prime cost (material 90% into process, relevant conversion cost 60% completed); finished goods stock 2,500 units; credit allowed by the supplier 30 days; credit allowed to purchasers 45 days; direct wages lag in payment 15 days; expected cash balance ₹1,25,000. Safety margin is to be kept at 15% of the net working capital required inclusive of the margin amount. Production is even throughout the year (360 days). All sales are on credit. CALCULATE the Net Working Capital Requirement. (6 Marks)",
+     "answer_points": [
+      "==**ICAI's answer: estimation of working capital on a cash cost basis, with an excess of current assets over current liabilities of ₹11,99,839.08, a safety margin of ₹2,11,736.31 and a Net Working Capital of ₹14,11,575.**==",
+      "**Step 1 — the cash cost per unit, because the question hands you a trap in the overhead line.** Raw material ₹40 + direct wages ₹25 + overhead ₹40 = ₹105 of total cost per unit, but ₹10 of that overhead **is depreciation**. **Cash cost per unit = ₹40 + ₹25 + ₹30 = ==₹95==.**",
+      "**Step 2 — the WIP valuation, with two percentages to apply separately.** WIP is **30% of the finished goods produced**, so 31,200 × 30% = **9,360 units**, **valued at prime cost** with **material 90% in process and conversion 60% complete**:\nmaterial 9,360 × ₹40 × 90% and wages 9,360 × ₹25 × 60%. *Prime cost means material and wages only; overheads do not enter the WIP valuation at all.*",
+      "**Step 3 — Current Assets.**\n**Raw material** = 30 days of consumption = (31,200 × ₹40) × 30/360.\n**Work-in-progress** as computed in step 2.\n**Finished goods** = 2,500 units × the cash cost of production per unit.\n**Debtors** = 45 days of the cash cost of sales.\n**Cash** = **₹1,25,000**, as given.",
+      "**Step 4 — Current Liabilities.**\n**Creditors** = 30 days of raw material purchases.\n**Outstanding wages** = 15 days of the wage bill = (31,200 × ₹25) × 15/360.\n*Overheads carry no stated lag in this question, so nothing is outstanding on them — say so as a note rather than inventing a lag.*",
+      "==**Step 5 — the safety margin, and this is why the question is set.** The margin is **'15% of the net working capital required *inclusive of* the margin amount'**. So the computed excess of ₹11,99,839.08 is **85%** of the answer:\n**Excess ÷ 0.85 = Net working capital**, that is ₹11,99,839.08 ÷ 0.85 = **₹14,11,575.39**, and the **margin is ₹2,11,736.31**.\nICAI sets it out as a proportion table — **excess 85 → ₹11,99,839.08, safety margin 15 → ₹2,11,736.31, net working capital 100 → ₹14,11,575** — which is exactly the gross-up.==",
+      "==**Compare the two margin forms side by side, because three official questions turn on the difference.** A **15% safety margin** on ₹11,99,839 would be ₹1,79,976, giving ₹13,79,815. A **15% margin inclusive of itself** is ₹2,11,736, giving ₹14,11,575. ==**The gap is ₹31,760, and the wording is the only clue.**==",
+      "**Two figures in the question are deliberately unused.** The **GP ratio (cash cost) of 30%** and the **net profit ratio of 25% on total cost** are consistency checks on the ₹150 selling price, not inputs to the statement: the statement is built from the cost per unit and the holding periods. A candidate who tries to derive the cash cost of sales from the 30% GP ratio instead of from the ₹95 cash cost per unit will get a different and wrong figure.",
+      "**Write the basis as a heading.** ICAI titles its own answer **'Estimation of working capital required (cash cost basis)'**. That heading tells the examiner the depreciation has been handled, and it costs one line."
+     ],
+     "keywords": [
+      "cash cost per unit ₹95 after removing ₹10 depreciation",
+      "WIP 9,360 units at prime cost, material 90% wages 60%",
+      "excess ₹11,99,839.08",
+      "margin inclusive: ÷ 0.85",
+      "safety margin ₹2,11,736.31",
+      "net working capital ₹14,11,575"
+     ],
+     "also_asked_as": ["MTP-J26-S1-FQ2a is the same 'newly formed company applies to a bank' question on a 52-week year"]
+    },
+    {
+     "id": "MTP-J26-S1-FQ2a",
+     "marks": 8,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "A newly formed company has applied to the commercial bank for the first time for financing its working capital requirements. Estimated level of activity: 1,04,000 completed units of production plus 4,000 units of work-in-progress. Estimated cost per unit: raw material ₹80, direct wages ₹30, overheads (exclusive of depreciation) ₹60, total cost ₹170, selling price ₹200. Raw materials in stock: average 4 weeks' consumption. Work-in-progress: assume 50% completion stage in respect of conversion cost, materials issued at the start of the processing. Finished goods in stock 8,000 units. Credit allowed by suppliers average 4 weeks. Credit allowed to debtors/receivables average 8 weeks. Lag in payment of wages average 1½ weeks. Cash at banks expected to be ₹25,000. Production is carried on evenly throughout the year (52 weeks) and wages and overheads accrue similarly. All sales are on credit. CALCULATE Net Working Capital. (8 Marks)",
+     "answer_points": [
+      "==**ICAI's answer: Net Working Capital (A − B) = ₹42,52,913**, with current liabilities of ₹8,07,471.==",
+      "**Note the two features that make this version different from MTP January 2025 Series II.** The year is **52 weeks**, not 360 days, so every period is a fraction of 52. And the overheads are given **'exclusive of depreciation'**, so **no adjustment is needed** — the ₹170 total cost is already a cash cost, and ₹60 of overhead goes in whole.",
+      "**Raw material consumed.** The company processes **1,04,000 completed units plus 4,000 units of WIP = 1,08,000 units' worth of material**, because materials are issued at the start of processing. **Material consumed = 1,08,000 × ₹80 = ₹86,40,000.**",
+      "**Current Assets.**\n**Raw material stock** = 4 weeks of consumption = ₹86,40,000 × 4/52.\n**Work-in-progress** = 4,000 units carrying **100% of material (₹80) and 50% of conversion (50% of ₹30 + ₹60 = ₹45)**, so **4,000 × ₹125 = ₹5,00,000**. *This is the step the question is built on: materials issued at the start means material is complete, not half-complete.*\n**Finished goods** = 8,000 units × cost of production per unit (₹80 + ₹30 + ₹60 = ₹170).\n**Debtors** = 8 weeks of the cost of sales, on 1,04,000 units less the 8,000 held in stock.\n**Cash at bank** = **₹25,000**.",
+      "**Current Liabilities.**\n**Creditors for materials** = 4 weeks of purchases = ₹86,40,000 × 4/52.\n**Outstanding wages** = 1½ weeks of the wage bill.\n**Outstanding overheads** = accrue similarly to wages, per the question's instruction.\n→ **₹8,07,471** in ICAI's answer.",
+      "**Net Working Capital = ₹42,52,913.** *There is no safety margin in this version — do not add one.*",
+      "==**The WIP comparison worth memorising.** Three official questions, three different WIP rules, all from the same family of question:\n**Here:** materials at the start → **material 100%, conversion 50%**.\n**MTP Jan 2025 Series II:** → **material 90%, conversion 60%**, and valued at **prime cost** so overheads are out entirely.\n**RTP May 2024 Q7:** → **full materials, 40% of other expenses**.\n==**Read the sentence, split the cost into material and conversion, and apply the two percentages separately. Never apply one percentage to the whole cost.**==",
+      "**On the 52-week convention.** Use **4/52, 8/52 and 1.5/52**, not 4/48 or monthly equivalents. Mixing weeks and months within one statement is the commonest arithmetic slip in this question type, and ICAI's answer is consistent in weeks throughout.",
+      "**Why there are 1,08,000 units of material but 1,04,000 units of production.** The 4,000 WIP units have had their material issued but are only half converted, so they belong in the material consumption and in the WIP valuation, and they do **not** reach finished goods or debtors. Tracking the unit flow — 1,08,000 material in, 1,04,000 completed, 8,000 held, 96,000 sold — before touching the statement prevents every double-count."
+     ],
+     "keywords": [
+      "52 weeks",
+      "overheads already exclusive of depreciation",
+      "1,08,000 units of material for 1,04,000 completed",
+      "WIP material 100%, conversion 50%, ₹125 per unit",
+      "current liabilities ₹8,07,471",
+      "net working capital ₹42,52,913",
+      "no safety margin in this version"
+     ],
+     "also_asked_as": ["MTP-J25-S2-FQ2a is the same question with a 15% inclusive safety margin and a prime-cost WIP"]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.14-01",
+     "angle": "Work-in-progress",
+     "difficulty": "Hard",
+     "question": "A company has 5,000 units in work-in-progress. Material cost is ₹60 per unit and conversion cost ₹40 per unit. Materials are issued at the start of processing and the units are 50% complete as to conversion. The value of work-in-progress is:",
+     "options": {
+      "A": "₹4,00,000",
+      "B": "₹2,50,000",
+      "C": "₹5,00,000",
+      "D": "₹3,00,000"
+     },
+     "answer": "A",
+     "explanation": "Material is complete because it is issued at the start, so 5,000 × ₹60 = ₹3,00,000; conversion is half complete, so 5,000 × ₹40 × 50% = ₹1,00,000. Total ₹4,00,000. Option B applies 50% to the whole ₹100 — the error MTP January 2026 Series I is designed to catch. Option D values material only, and option C values both in full."
+    },
+    {
+     "id": "MCQ-F09.14-02",
+     "angle": "Safety margin wording",
+     "difficulty": "Hard",
+     "question": "A statement shows an excess of current assets over current liabilities of ₹8,50,000. A safety margin is to be kept at 15% of the net working capital required **inclusive of the margin amount**. The total net working capital is:",
+     "options": {
+      "A": "₹9,77,500",
+      "B": "₹10,00,000",
+      "C": "₹7,22,500",
+      "D": "₹9,78,261"
+     },
+     "answer": "B",
+     "explanation": "'Inclusive of the margin' means the computed excess is 85% of the answer, so net working capital = ₹8,50,000 ÷ 0.85 = ₹10,00,000 and the margin is ₹1,50,000. Option A adds a flat 15%, which is the trap: MTP January 2025 Series II applies the gross-up and the two readings differ by ₹22,500 here. Option C deducts the margin instead of adding it."
+    }
+   ],
+   "recap": [
+    "Each current asset = units per period × the cost that has reached that stage × the holding period.",
+    "Debtors and finished goods go in at cash cost — profit is excluded because working capital need not fund it, and depreciation is excluded as a non-cash charge.",
+    "Prepaid expenses are current assets; bank credit is never deducted as a current liability.",
+    "Split work-in-progress into material and conversion and apply the two completion percentages separately.",
+    "Reproduce ICAI's statement headings: current assets to Gross Working Capital, current liabilities, Net Working Capital, margin, Total Requirement.",
+    "A plain percentage margin is a mark-up; a margin 'inclusive of the margin amount' is a gross-up by (1 − x)."
+   ]
+  },
+  {
+   "code": "F09.15 + F09.16",
+   "title": "6.3–6.4 Working Capital Requirement Estimation based on Cash Cost, and the Effect of Double Shift Working",
+   "activity": "Very High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (May 2025 Part I case) · RTP 2 (May 2024 Q7, Jan 2026 Part I case) · MTP 1 (Mar 2024 Series II Q1(a))",
+   "understand": [
+    "==**The idea in one sentence** (SM §6.3): **'in the case of current assets, like sundry debtors and finished goods, etc., the exact amount of funds blocked is less than the amount of such current assets.'**==",
+    "==**ICAI's own three-step example, which is the whole section:** debtors of **₹1 lakh** on a cost of sales of **₹75,000** block only ₹75,000, because **'the rest (₹25,000) is profit'**. If ₹5,000 of that ₹75,000 is **depreciation**, a non-cash cost, then **'the actual funds blocked in terms of sundry debtors totaling ₹1 lakh is only ₹70,000'** — and **'₹70,000 is the amount of funds required to finance sundry debtors worth ₹1 lakh'**. Finished goods, valued at cost, are treated the same way: **non-cash costs may be excluded to work out the amount of funds blocked.**==",
+    "==**The method, in ICAI's words:** **'Many experts, therefore, calculate the working capital requirements by working out the cash costs of finished goods and sundry debtors. Under this approach, the debtors are calculated not as a percentage of sales value but as a percentage of cash costs. Similarly, finished goods are valued according to cash costs.'**==",
+    "==**The two working notes every cash-cost question needs, straight from SM Illustration 4:**\n**(i) Annual Cash Cost of Production** = Material consumed + Wages + **Cash** manufacturing expenses *(depreciation excluded)*\n**(ii) Annual Cash Cost of Sales** = Cash cost of production + Administrative expenses + Sales promotion (and other selling) expenses==",
+    "==**SM Illustration 4, worth knowing by heart because three official questions are the same question.** XYZ Co: sales ₹36,00,000 at two months' credit; materials ₹9,00,000 (two months' credit); wages ₹7,20,000 (one month lag); cash manufacturing expenses ₹9,60,000 (one month arrear); administrative ₹2,40,000 (one month lag); sales promotion ₹1,20,000 (quarterly in advance); gross profit 25%; one month's stock each of raw material and finished goods; cash ₹1,00,000; 20% safety margin; ignore WIP.==",
+    "==**Cash cost of production** = 9,00,000 + 7,20,000 + 9,60,000 = **₹25,80,000**. **Cash cost of sales** = 25,80,000 + 2,40,000 + 1,20,000 = **₹29,40,000** — and ICAI checks it by adding the 25% gross profit of ₹9,60,000 to reach sales of ₹36,00,000 ✓==",
+    "==**Current assets:** raw materials 9,00,000 × 1/12 = **₹75,000**; finished goods **25,80,000** × 1/12 = **₹2,15,000**; debtors **29,40,000** × 2/12 = **₹4,90,000**; sales promotion prepaid 1,20,000 × 3/12 = **₹30,000**; cash **₹1,00,000** → **Gross Working Capital ₹9,10,000.**==",
+    "==**Current liabilities:** creditors 9,00,000 × 2/12 = ₹1,50,000; wages 7,20,000 × 1/12 = ₹60,000; manufacturing expenses 9,60,000 × 1/12 = ₹80,000; administrative 2,40,000 × 1/12 = ₹20,000 → **₹3,10,000.**==",
+    "==**Net working capital ₹6,00,000, plus a 20% safety margin of ₹1,20,000, giving a Total Working Capital requirement of ₹7,20,000.**==",
+    "==**Which figure values which asset — the three-line rule that is the examinable core:**\n**Raw material stock → material consumed**\n**Finished goods → cash cost of *production***\n**Debtors → cash cost of *sales***\nFinished goods have not yet borne the administrative and selling costs; debtors have. ==**Using the cash cost of sales for finished goods is the commonest single error in this section.**==",
+    "**§6.4 Double shift working — what changes and what does not** (SM §6.4). **'The greatest economy in introducing double shift is the greater utilization of fixed assets. Although production increases, little or very marginal funds may be required for additional assets.'** But the extra hours do move the working capital:",
+    "==**Stocks rise, but not proportionately:** **'an increase in stocks will be required as the production rises. However, it is quite possible that the increase may not be proportionate to the rise in production since the minimum level of stocks may not be very much higher. Thus, it is quite likely that the level of stocks may not be required to be doubled as the production goes up two-fold.'**==",
+    "==**Work-in-progress does not change at all, and this is the examinable sentence:** **'The amount of materials in process will not change due to double shift working since work started in the first shift will be completed in the second; hence, capital tied up in materials in process will be the same as with single shift working. As such the cost of work-in-process will not change unless the second shift's workers are paid at a higher rate.'**==",
+    "==**And two economies:** **'additional requirements of materials & other resources may result in some economies (for example better negotiation with vendors on account increased purchase of materials etc). Further all the fixed costs may not increase with additional shift.'** The second is the one that does the arithmetical work: **fixed cost per unit halves when units double.**==",
+    "==**SM Illustration 5 — Samreen Enterprises, the only double-shift question ICAI has published, and its figures are the ones to carry.** Single shift 24,000 units at a total cost of ₹16.00 per unit; double shift 48,000 units at **₹12.40** per unit, because material falls from ₹6.00 to ₹5.40 (a 10% supplier discount), fixed wages from ₹2.00 to ₹1.00 per unit and fixed overheads from ₹4.00 to ₹2.00 per unit, while the variable elements per unit are unchanged.==",
+    "==**The comparative statement:** current assets rise from **₹2,26,000 to ₹3,44,000**, current liabilities from **₹34,000 to ₹57,200**, working capital from **₹1,92,000 to ₹2,86,800**, so the **additional working capital requirement is ₹94,800.**==",
+    "==**Two traps inside Illustration 5.** **(1) WIP units stay at 2,000** in both columns — exactly as §6.4 says — and only the per-unit rate changes, from ₹11.00 to ₹9.40. **(2) Sundry debtors are restated at cost:** the question gives debtors of ₹1,08,000, which is 6,000 units at the ₹18 selling price, and ICAI puts them in at **6,000 × ₹16.00 = ₹96,000** under single shift and **12,000 × ₹12.40 = ₹1,48,800** under double shift. ==**The given debtors figure is a sales-value figure and must be converted to units and then to cost.**==",
+    "**ICAI flags two possible readings of the double-shift question and tells you which to take:** **'(i) To assess the impact of double shift for long term as a matter of production policy. (ii) To assess the impact of double shift to mitigate the immediate demand for next year only. The first approach is more appropriate and fulfilling the requirement of the question.'** ==Say which approach you are taking in the first line.=="
+   ],
+   "example": "RTP January 2026's PPW Ltd and MTP March 2024 Series II's Lever Ltd are the same data set — sales ₹48,00,000 at three months' credit, materials ₹12,00,000, wages ₹9,60,000, cash manufacturing ₹12,00,000, administrative ₹3,60,000, sales promotion ₹1,20,000 paid monthly in advance, gross profit 20%, two months' stock each, cash ₹1,00,000, 15% margin, ignore WIP. Cash cost of production ₹33,60,000, cash cost of sales ₹38,40,000, gross working capital ₹18,30,000, net working capital ₹14,20,000, margin ₹2,13,000 and a total of ₹16,33,000. ICAI published it as an MTP descriptive question in 2024 and as a five-MCQ Division A case in 2026.",
+   "provisions": [
+    {
+     "ref": "The cash-cost principle (SM §6.3)",
+     "status": "VERIFIED",
+     "requirement": "Debtors are calculated as a percentage of cash costs, not of sales value; finished goods are valued at cash cost; non-cash costs such as depreciation are excluded.",
+     "exam_angle": "ICAI's ₹1 lakh / ₹75,000 / ₹70,000 example is the best three-line justification to quote."
+    },
+    {
+     "ref": "The two working notes (SM Illustration 4)",
+     "status": "VERIFIED",
+     "requirement": "Annual cash cost of production, then annual cash cost of sales.",
+     "exam_angle": "Finished goods take the first; debtors take the second."
+    },
+    {
+     "ref": "Work-in-progress under double shift (SM §6.4)",
+     "status": "VERIFIED",
+     "requirement": "The amount of materials in process will not change, since work started in the first shift is completed in the second — unless the second shift's workers are paid at a higher rate.",
+     "exam_angle": "The quotable sentence; WIP units stay constant and only the rate moves."
+    },
+    {
+     "ref": "Stocks under double shift (SM §6.4)",
+     "status": "VERIFIED",
+     "requirement": "Stocks rise but not proportionately, since the minimum level need not be much higher.",
+     "exam_angle": "Explains why a doubling of output does not double working capital."
+    },
+    {
+     "ref": "Which approach to take (SM Illustration 5)",
+     "status": "VERIFIED",
+     "requirement": "The long-term production-policy approach is 'more appropriate and fulfilling the requirement of the question'.",
+     "exam_angle": "State the approach in the first line; ICAI distinguishes two and prefers one."
+    }
+   ],
+   "keywords": [
+    "funds blocked are less than the current asset",
+    "the rest is profit",
+    "debtors as a percentage of cash costs",
+    "cash cost of production",
+    "cash cost of sales",
+    "finished goods at cost of production",
+    "greater utilization of fixed assets",
+    "materials in process will not change",
+    "fixed cost per unit halves",
+    "debtors restated at cost"
+   ],
+   "memory": {
+    "trick": "**Production for goods, sales for debtors.** Finished goods are sitting in the factory, so they carry the **cash cost of production**; debtors have walked out of the door past the sales office, so they carry the **cash cost of sales**. ==And neither of them carries a rupee of profit or a rupee of depreciation.==",
+    "key": [
+     ["Cash cost of production", "Material + wages + cash manufacturing expenses"],
+     ["Cash cost of sales", "Cash cost of production + administrative + selling"],
+     ["Raw material stock", "Valued on material consumed"],
+     ["Finished goods", "Valued on cash cost of production"],
+     ["Debtors", "Valued on cash cost of sales"],
+     ["Illustration 4", "₹25,80,000 / ₹29,40,000 → ₹6,00,000 + 20% = ₹7,20,000"],
+     ["PPW / Lever", "₹33,60,000 / ₹38,40,000 → ₹14,20,000 + 15% = ₹16,33,000"],
+     ["Double shift: WIP", "Units unchanged; only the rate falls"],
+     ["Double shift: fixed cost", "Per unit halves when units double"],
+     ["Illustration 5", "₹1,92,000 → ₹2,86,800, so ₹94,800 more"]
+    ]
+   },
+   "mistakes": [
+    "Valuing finished goods on the cash cost of sales. They have not yet borne administrative and selling costs.",
+    "Leaving depreciation in the cash cost of production. RTP May 2025's Parshvam strips ₹2,40,000 out of ₹26,40,000 of manufacturing overheads for exactly this reason.",
+    "Taking debtors at sales value in a cash-cost question. The whole point of §6.3 is that they are not.",
+    "Doubling the WIP under double-shift working. SM §6.4 says it does not change.",
+    "Keeping the fixed cost per unit constant when output doubles. The total is constant, so the per-unit figure halves — which is what cuts Samreen's cost per unit from ₹16.00 to ₹12.40.",
+    "Using the debtors figure as given in a double-shift question. Convert it to units at the selling price, then value those units at cost.",
+    "Forgetting that a supplier discount on increased volume changes the material rate in every line it touches — stock, WIP, finished goods, debtors and creditors all move from ₹6.00 to ₹5.40 in Illustration 5."
+   ],
+   "compare": {
+    "title": "The three cash-cost questions ICAI keeps reusing",
+    "headers": ["", "SM Illustration 4 (XYZ Co)", "MTP Mar 2024 S2 / RTP Jan 2026 (Lever / PPW)", "PYQ May 2025 case (XYZ Ltd)"],
+    "rows": [
+     ["Sales and credit", "₹36,00,000, 2 months", "₹48,00,000, 3 months", "₹30,00,000; domestic 2 months, foreign ½ month"],
+     ["Gross profit", "25% on sales", "20% on sales", "25% on COGS"],
+     ["Cash cost of production", "₹25,80,000", "₹33,60,000", "₹20,70,000"],
+     ["Cash cost of sales", "₹29,40,000", "₹38,40,000", "₹23,40,000"],
+     ["Gross working capital", "₹9,10,000", "₹18,30,000", "₹8,31,250"],
+     ["Net working capital", "₹6,00,000", "₹14,20,000", "₹6,06,250 before margin"],
+     ["Margin", "20% → ₹7,20,000", "15% → ₹16,33,000", "10% → ₹5,33,775 (ICAI's key)"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 9 §6.2: the component statement this section modifies",
+    "🔗 FM Ch 9 §6.1: the operating cycle method, which can also be run on cash cost",
+    "🔗 FM Ch 9 §28: the bank application these statements are prepared for",
+    "🔗 FM Ch 6 §2: the fixed-cost behaviour that makes double-shift working cheaper per unit",
+    "🔗 Paper 4: the cost sheet, and the prime cost at which WIP is often valued"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Compute the working capital requirement on a cash cost basis, ignoring work-in-progress (5–6 marks)",
+     "Prepare a projected profit statement and a cash-cost working capital statement for two years (8 marks)",
+     "Prepare the additional working capital requirement if output is doubled by an extra shift (8 marks)",
+     "A Part I case walking through cash cost of production, cash cost of sales, current assets, current liabilities and the margin (10 marks)"
+    ],
+    "approach": [
+     "Head the answer 'Statement of Working Capital requirements (cash cost basis)' — ICAI does, and it signals that depreciation has been handled.",
+     "Put the two working notes first and reference them from the statement lines.",
+     "Check the cash cost of sales by adding the gross profit back to reach the sales figure; it takes five seconds and catches any slip.",
+     "For a double-shift question, say which of ICAI's two approaches you are taking, build a two-column comparative statement, and answer with the difference rather than the total."
+    ]
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-M25-MCQ1",
+     "marks": 10,
+     "status": "VERIFIED",
+     "format": "Case MCQs",
+     "question": "XYZ Ltd. wants to establish a shoe manufacturing unit and approaches a commercial bank for a working capital loan. It wants to maintain a margin of safety of 10% for contingencies and keep a cash balance of ₹90,000. The product will be sold at a gross profit margin of 25% on COGS. Depreciation will be part of cost of production. Stock of raw material will be held at 1.5 months of its consumption, finished goods inventory at one month's requirement, valued at manufacturing cost. Total estimated annual sales ₹30,00,000, of which 20% are foreign sales with a delay of ½ month in realisation; all domestic sales are on credit with a 2-month period. Raw material consumed will be 25% of estimated sales with 2 months' credit from suppliers. Wages will be 20% of sales, paid with a ½ month lag. Outstanding cash manufacturing overheads at the year end will be ₹60,000, paid one month in arrear. Estimated total administrative cost (paid after one month) ₹1,80,000. Annual sales promotion expenses ₹90,000, paid quarterly in advance. The proposal is to be on a cash cost basis. (MCQs 1–5, 2 marks each)",
+     "answer_points": [
+      "==**ICAI's published keys: A, C, D, D, A.**==",
+      "**MCQ 1 — total manufacturing cost and total cost of sales on a cash cost basis. Answer (A) ₹20,70,000 and ₹23,40,000.**\nSales ₹30,00,000 at a gross profit of **25% on COGS** means **COGS = ₹30,00,000 ÷ 1.25 = ₹24,00,000**.\nRaw material consumed = 25% of sales = **₹7,50,000**. Wages = 20% of sales = **₹6,00,000**.\nCash manufacturing overheads: ₹60,000 outstanding at a one-month lag implies an annual figure of **₹7,20,000**.\n**Cash manufacturing cost = ₹7,50,000 + ₹6,00,000 + ₹7,20,000 = ==₹20,70,000==** — the gap to the ₹24,00,000 COGS being the depreciation, which the question says is part of cost of production and which the cash basis excludes.\n**Cash cost of sales = ₹20,70,000 + ₹1,80,000 administrative + ₹90,000 sales promotion = ==₹23,40,000==.**",
+      "**MCQ 2 — finished goods inventory and debtors on a cash cost basis. Answer (C) ₹1,72,500 and ₹3,31,500.**\n**Finished goods** = one month of the **cash manufacturing cost** = ₹20,70,000 × 1/12 = ==**₹1,72,500**==. *Note the question's own instruction: finished goods are 'valued at manufacturing cost', so the cash cost of production, not of sales.*\n**Debtors**, split by market on the **cash cost of sales**: domestic 80% × ₹23,40,000 × 2/12 = ₹3,12,000; foreign 20% × ₹23,40,000 × 0.5/12 = ₹19,500. **Total ==₹3,31,500==.**\n==**Option B offers ₹1,72,500 and ₹3,40,000** — the right finished goods with debtors taken at a flat two months on everything, ignoring the half-month foreign realisation. **Option A offers ₹2,00,000 and ₹4,25,000**, both at sales value. The distractors are built from the two errors this section warns about.==",
+      "**MCQ 3 — total estimated current assets on a cash cost basis. Answer (D) ₹7,10,250.**\nRaw material stock = 1.5 months of consumption = ₹7,50,000 × 1.5/12 = **₹93,750**.\nFinished goods **₹1,72,500**; debtors **₹3,31,500**.\nSales promotion prepaid = ₹90,000 × 3/12 = **₹22,500** *(quarterly in advance)*.\nCash balance **₹90,000**.\n**Total = ₹93,750 + ₹1,72,500 + ₹3,31,500 + ₹22,500 + ₹90,000 = ==₹7,10,250==.**",
+      "**MCQ 4 — total estimated current liabilities. Answer (D) ₹2,25,000.**\nCreditors = 2 months of raw material consumption = ₹7,50,000 × 2/12 = **₹1,25,000**.\nOutstanding wages = ½ month = ₹6,00,000 × 0.5/12 = **₹25,000**.\nOutstanding manufacturing overheads = **₹60,000**, given directly.\nOutstanding administrative cost = one month = ₹1,80,000 × 1/12 = **₹15,000**.\n**Total = ₹1,25,000 + ₹25,000 + ₹60,000 + ₹15,000 = ==₹2,25,000==.**",
+      "**MCQ 5 — the estimated working capital for the proposal. Answer (A) ₹5,33,775.**\n**Net working capital = ₹7,10,250 − ₹2,25,000 = ₹4,85,250.**\n**Margin of safety at 10%**, which ICAI applies here as a **gross-up**: ₹4,85,250 ÷ 0.90 = ==**₹5,39,167**== — and yet the published key is **(A) ₹5,33,775**.\n==**Reconciling the key.** ₹5,33,775 is ₹4,85,250 **× 1.1**, which is ₹5,33,775 exactly. So ICAI treats 'a margin of safety of 10% for contingencies' here as a **plain 10% mark-up**, not a gross-up — the opposite of its treatment in RTP September 2024 (×1/9) and MTP January 2025 Series II (÷0.85). ==**The lesson is not which is right but that the wording governs: 'a margin of safety of 10%' with no 'inclusive' is a mark-up; 'inclusive of the margin amount' is a gross-up.**==",
+      "==**The single most useful thing in this case is the valuation ladder, visible across MCQs 2 and 3:** raw material on **consumption**, finished goods on **cash manufacturing cost**, debtors on **cash cost of sales**, prepayments at their **advance period**, and cash **as given**. Five assets, five different bases, all in one ten-mark question.==",
+      "**And one detail that catches good candidates.** The gross profit is **25% on COGS**, not on sales. COGS is therefore ₹30,00,000 ÷ 1.25 = ₹24,00,000, not ₹30,00,000 × 0.75 = ₹22,50,000. The difference of ₹1,50,000 changes every figure after it."
+     ],
+     "keywords": [
+      "25% on COGS, so divide by 1.25",
+      "cash manufacturing cost ₹20,70,000",
+      "cash cost of sales ₹23,40,000",
+      "finished goods at manufacturing cost ₹1,72,500",
+      "debtors split 2 months domestic, ½ month foreign = ₹3,31,500",
+      "current assets ₹7,10,250",
+      "current liabilities ₹2,25,000",
+      "₹5,33,775 — a 10% mark-up, not a gross-up",
+      "keys A, C, D, D, A"
+     ],
+     "also_asked_as": ["RTP-J26-FQ1 is the same case format on the Lever Ltd / PPW Ltd data"]
+    },
+    {
+     "id": "RTP-J26-FQ1",
+     "marks": 10,
+     "status": "VERIFIED",
+     "format": "Case MCQs",
+     "question": "PPW Ltd recorded annual sales of ₹48,00,000 with a 3-month credit period. Annual costs: materials consumed ₹12,00,000 (suppliers allow 2 months' credit); wages ₹9,60,000 (1-month lag); cash manufacturing expenses ₹12,00,000 (settled 1 month in arrears); administrative expenses ₹3,60,000 (1-month lag); sales promotion expenses ₹1,20,000 (paid monthly in advance). Gross profit margin 20%. Two months' stock each of raw materials and finished goods. Depreciation is part of cost of production but is to be ignored on a cash cost basis. Minimum cash balance ₹1,00,000. (i) Gross working capital on cash cost basis? (ii) Working capital requirement on a cash cost basis, ignoring WIP, assuming a 15% margin? (iii) Current ratio excluding the 15% margin? (iv) Quick ratio excluding the 15% margin? (v) Working capital turnover ratio based on cash cost of sales? (MCQs i–v, 2 marks each)",
+     "answer_points": [
+      "==**ICAI's published keys for the first two: (i) (C) ₹18,30,000 and (ii) (A) ₹16,33,000.**==",
+      "**The two working notes, which are the whole case.**\n**Annual cash cost of production** = materials ₹12,00,000 + wages ₹9,60,000 + manufacturing expenses ₹12,00,000 = ==**₹33,60,000**==.\n**Annual cash cost of sales** = ₹33,60,000 + administrative ₹3,60,000 + sales promotion ₹1,20,000 = ==**₹38,40,000**==.\n**The check ICAI prints:** add gross profit at 20% on sales (25% on cost of sales) of ₹9,60,000 and you reach **sales of ₹48,00,000** ✓",
+      "**(i) Gross working capital.**\nRaw materials = ₹12,00,000 × 2/12 = **₹2,00,000**\nFinished goods = **₹33,60,000** × 2/12 = **₹5,60,000** *(cash cost of production)*\nReceivables = **₹38,40,000** × 3/12 = **₹9,60,000** *(cash cost of sales)*\nSales promotion paid in advance = ₹1,20,000 × 1/12 = **₹10,000** *(monthly in advance)*\nCash = **₹1,00,000**\n**Gross Working Capital = ₹2,00,000 + ₹5,60,000 + ₹9,60,000 + ₹10,000 + ₹1,00,000 = ==₹18,30,000==.**",
+      "**(ii) The requirement with a 15% margin.**\n**Current liabilities:** creditors ₹12,00,000 × 2/12 = ₹2,00,000; wages ₹9,60,000 × 1/12 = ₹80,000; manufacturing expenses ₹12,00,000 × 1/12 = ₹1,00,000; administrative ₹3,60,000 × 1/12 = ₹30,000 → **₹4,10,000**.\n**Net working capital = ₹18,30,000 − ₹4,10,000 = ₹14,20,000.**\n**Add a 15% safety margin of ₹2,13,000** → **Total working capital requirement = ==₹16,33,000==.**",
+      "**(iii) Current ratio, excluding the margin** = Current assets ÷ Current liabilities = ₹18,30,000 ÷ ₹4,10,000 = ==**4.46 : 1**==.",
+      "**(iv) Quick ratio, excluding the margin.** Quick assets exclude **inventory and prepaid expenses**, so ₹18,30,000 − ₹2,00,000 − ₹5,60,000 − ₹10,000 = **₹10,60,000**, and ₹10,60,000 ÷ ₹4,10,000 = ==**2.59 : 1**==.",
+      "**(v) Working capital turnover ratio on cash cost of sales** = ₹38,40,000 ÷ ₹14,20,000 = ==**2.70 times**==.",
+      "==**The most useful observation about this case is not in the arithmetic.** The identical data set was published as **MTP March 2024 Series II Q1(a)**, a five-mark descriptive question asking for the working capital on a cash cost basis with a 15% margin — answer ₹16,33,000. Twenty-two months later ICAI re-published it as a ten-mark Division A case with three ratios bolted on. ==**Working the MTP question would have delivered two of the five MCQs outright.** It is the clearest evidence in the paper that the MTPs are worth doing as question banks, not just as mocks.==",
+      "**On the ratios in parts (iii) to (v), which are a Chapter 3 skill applied to a Chapter 9 statement.** The instruction **'excluding the 15% margin'** means the ratios use the ₹18,30,000 and ₹4,10,000 from the statement, **not** the ₹16,33,000 total. The margin is a cushion the bank is being asked to fund, not an asset the company holds.",
+      "**And note the denominator of the last ratio.** Working capital turnover is computed on the **cash cost of sales (₹38,40,000)**, as the question specifies, divided by the **net working capital before the margin (₹14,20,000)**. Using sales of ₹48,00,000 gives 3.38 times, which is offered as option (B) — the distractor for exactly that substitution."
+     ],
+     "keywords": [
+      "cash cost of production ₹33,60,000",
+      "cash cost of sales ₹38,40,000",
+      "gross working capital ₹18,30,000",
+      "net ₹14,20,000 plus 15% = ₹16,33,000",
+      "current ratio 4.46 : 1",
+      "quick ratio 2.59 : 1",
+      "working capital turnover 2.70 times",
+      "same data as MTP Mar 2024 Series II"
+     ],
+     "also_asked_as": ["MTP-M24-S2-FQ1a is the identical data set as a five-mark descriptive question"]
+    },
+    {
+     "id": "MTP-M24-S2-FQ1a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "The below information for Lever Ltd is provided on an annual basis: Sales at 3 months' credit ₹48,00,000; Materials consumed (suppliers extend 2 months' credit) ₹12,00,000; Wages paid (one month lag in payment) ₹9,60,000; Cash manufacturing expenses (paid one month in arrear) ₹12,00,000; Administrative expense (one month lag in payment) ₹3,60,000; Sales promotion expense (paid monthly in advance) ₹1,20,000. The Company sells its products at a gross profit of 20%. The Company keeps two months' stock of raw materials and two months' stock of finished goods. Depreciation is considered as a part of cost of production. Cash balance is retained at ₹1,00,000. Assuming a 15% margin, COMPUTE the working capital requirements of the Company on cash cost basis. Ignore work-in-progress. (5 Marks)",
+     "answer_points": [
+      "**Head the statement as ICAI does: 'Statement of Working Capital requirements (cash cost basis)'.**",
+      "**Working Note (i) — Annual Cash Cost of Production.** Material consumed ₹12,00,000 + Wages ₹9,60,000 + Manufacturing expenses ₹12,00,000 = ==**₹33,60,000**==. *Depreciation, though part of cost of production, is a non-cash cost and so is outside this figure; the question's mention of it is the signal to exclude it.*",
+      "**Working Note (ii) — Annual Cash Cost of Sales.** Cash cost of production ₹33,60,000 + Administrative ₹3,60,000 + Sales promotion ₹1,20,000 = ==**₹38,40,000**==. **Check:** add gross profit at 20% on sales, that is 25% on cost of sales, of ₹9,60,000 → **₹48,00,000 of sales** ✓",
+      "**A. Current Assets.**\nRaw materials ₹12,00,000 × 2/12 = **₹2,00,000**\nFinished goods ₹33,60,000 × 2/12 = **₹5,60,000**\nReceivables ₹38,40,000 × 3/12 = **₹9,60,000**\nSales promotion expenses paid in advance ₹1,20,000 × 1/12 = **₹10,000**\nCash balance = **₹1,00,000**\n**Gross Working Capital = ==₹18,30,000==**",
+      "**B. Current Liabilities.**\nCreditors for materials ₹12,00,000 × 2/12 = **₹2,00,000**\nWages outstanding ₹9,60,000 × 1/12 = **₹80,000**\nManufacturing expenses outstanding ₹12,00,000 × 1/12 = **₹1,00,000**\nAdministrative expenses outstanding ₹3,60,000 × 1/12 = **₹30,000**\n**Total = ==₹4,10,000==**",
+      "**Net working capital (A − B) = ₹18,30,000 − ₹4,10,000 = ==₹14,20,000==.**\n**Add: Safety margin @ 15% = ₹2,13,000.**\n**Total Working Capital requirements = ==₹16,33,000==.**",
+      "==**Three valuation decisions carry the five marks, and they are the same three every cash-cost question tests:** **finished goods at the cash cost of *production* (₹33,60,000)**, **receivables at the cash cost of *sales* (₹38,40,000)**, and **sales promotion as a prepaid current *asset* of ₹10,000** rather than a deduction. Get those three right and the statement cannot go far wrong.==",
+      "**On the margin.** 'Assuming a 15% margin' with no qualifier is a **plain 15% mark-up** on the net figure — ₹14,20,000 × 1.15 = ₹16,33,000. Contrast MTP January 2025 Series II, where the margin is '15% of the net working capital required **inclusive of the margin amount**' and the computation becomes a gross-up by 0.85.",
+      "**Why work-in-progress is ignored here.** The question says so, and no WIP data is given. Say so as a note; it is the same instruction SM Illustration 4 carries, and this question is Illustration 4 rescaled."
+     ],
+     "keywords": [
+      "cash cost of production ₹33,60,000",
+      "cash cost of sales ₹38,40,000",
+      "finished goods on production, receivables on sales",
+      "prepaid sales promotion ₹10,000 is an asset",
+      "gross ₹18,30,000, net ₹14,20,000",
+      "15% mark-up → ₹16,33,000"
+     ],
+     "also_asked_as": ["RTP-J26-FQ1 publishes this identical data set as a five-MCQ Division A case"]
+    },
+    {
+     "id": "RTP-M24-FQ7",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "PQ Ltd. has commenced a new business segment in 2023-24. Cost per unit for annual production of 25,000 units at full capacity: Material ₹100; Labour and variable overhead expenses ₹50; Fixed manufacturing expenses ₹35; Depreciation ₹15; Selling expenses (80% variable) ₹10. In the first two years production and sales are expected to be: Year 1 — 12,000 produced, 10,000 sold; Year 2 — 18,000 produced, 19,000 sold. Selling price ₹250. Additional information: (a) Stock of materials 2 months' average consumption; (b) Debtors 1.5 months' average sales; (c) Cash balance ₹50,000; (d) Creditors for supply of materials 1 month's average purchase during the year; (e) All expenses will be paid 1 month in advance during the year. Goods equal to 15% of the year's production (in physical units) will be in process on average, requiring full materials but only 40% of the other expenses. A 10% margin for contingencies is to be made on the computed figure, and closing stock is valued at cost of production. PREPARE for the two years: (i) a projected statement of Profit/Loss (ignoring taxation); and (ii) a projected statement of working capital requirements on a cash cost basis.",
+     "answer_points": [
+      "==**ICAI's published totals: Net working capital ₹12,03,594 in Year 1 and ₹14,10,212 in Year 2; add the 10% contingency margin of ₹1,20,359 and ₹1,41,021; Total working capital required ₹13,23,953 and ₹15,51,233.**==",
+      "**Why two years, and why it is harder than it looks.** Year 1 produces 12,000 and sells 10,000, so **finished goods build by 2,000 units**. Year 2 produces 18,000 and sells 19,000, so stock **falls by 1,000 units**, leaving 1,000 units at the year end. Every current-asset line therefore moves on a different base in each year, and the opening stock of Year 2 is the closing stock of Year 1.",
+      "**The cash cost per unit, and the depreciation line is the point of the question.** Of the ₹210 total cost per unit (100 + 50 + 35 + 15 + 10), **₹15 is depreciation**, so the **cash cost per unit is ₹195** at full capacity rates. But fixed manufacturing expenses and the fixed 20% of selling expenses are stated **per unit at 25,000 units**, so at 12,000 and 18,000 units the **totals** must be held constant and the per-unit figures recomputed — fixed manufacturing ₹35 × 25,000 = ₹8,75,000 a year regardless of volume.",
+      "**Work-in-progress.** **15% of the year's production in physical units** — 1,800 units in Year 1, 2,700 in Year 2 — carrying **full material (₹100) and 40% of the other expenses**. Apply the 40% to labour, variable overheads and the apportioned fixed manufacturing expenses, and **not** to depreciation, which is outside the cash cost altogether.",
+      "**Current Assets.** Material stock at **2 months of average consumption**; WIP as above; **finished goods at cost of production** (the closing physical stock × the cash cost of production per unit); **debtors at 1.5 months of average sales — on a cash cost basis, so at the cash cost of sales, not at ₹250**; **prepaid expenses**, since all expenses are paid **one month in advance**, which makes a month's expenses a current asset; and **cash ₹50,000**.",
+      "**Current Liabilities.** **Creditors for one month's average purchases** — and purchases, not consumption: **purchases = consumption + closing material stock − opening material stock.** ICAI's statement shows ₹1,16,667 and ₹1,58,333 for the two years.",
+      "**The contingency.** **'A 10% margin for contingencies on computed figure'** is a plain **mark-up** on the net working capital, not a gross-up: ₹12,03,594 × 10% = ₹1,20,359, giving ₹13,23,953.",
+      "==**The trap peculiar to this question: 'All expenses will be paid 1 month in advance during the year.'** That single clause moves every expense from the **current liabilities** side to the **current assets** side. There are no outstanding wages, no outstanding overheads and no outstanding selling expenses — instead there is **one month of prepaid expenses as a current asset**. A candidate who puts them in as liabilities reverses the sign on a large block of the statement. ==**Read the direction of every lag: 'in arrear' is a liability, 'in advance' is an asset.**==",
+      "**Part (i), the profit statement, is not optional padding.** It produces the cost of goods sold and the cost of sales figures that part (ii) then divides by 12. Build it as a cost sheet — material consumed, labour and variable overheads, fixed manufacturing, depreciation, giving gross factory cost; adjust for WIP and finished goods; add selling expenses — and the working-capital statement follows from it almost mechanically.",
+      "**One consistency check worth thirty seconds.** Year 2's working capital is higher than Year 1's by ₹2,06,618 even though finished-goods stock has **fallen**, because sales rose from 10,000 to 19,000 units and debtors nearly doubled. If your Year 2 figure comes out lower than Year 1's, the debtors line is wrong."
+     ],
+     "keywords": [
+      "two years, stock builds then falls",
+      "cash cost excludes ₹15 depreciation",
+      "fixed expenses are totals, not per-unit at lower volumes",
+      "WIP 15% of production, full material, 40% other",
+      "expenses paid in advance are a current ASSET",
+      "creditors on purchases, not consumption",
+      "₹13,23,953 and ₹15,51,233"
+     ],
+     "also_asked_as": ["RTP-S24-FQ10 is the single-year version of the same new-venture structure"]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F09.15-01",
+     "angle": "Which cost values which asset",
+     "difficulty": "Medium",
+     "question": "On a cash cost basis, the cash cost of production is ₹33,60,000 and the cash cost of sales ₹38,40,000. Two months' stock of finished goods and three months' receivables are respectively:",
+     "options": {
+      "A": "₹6,40,000 and ₹9,60,000",
+      "B": "₹5,60,000 and ₹8,40,000",
+      "C": "₹5,60,000 and ₹9,60,000",
+      "D": "₹6,40,000 and ₹8,40,000"
+     },
+     "answer": "C",
+     "explanation": "Finished goods are valued on the cash cost of production: ₹33,60,000 × 2/12 = ₹5,60,000. Receivables are valued on the cash cost of sales: ₹38,40,000 × 3/12 = ₹9,60,000. These are RTP January 2026's PPW Ltd figures. Option A values finished goods on the cost of sales and option B values receivables on the cost of production — the two halves of the same error."
+    },
+    {
+     "id": "MCQ-F09.15-02",
+     "angle": "Double shift",
+     "difficulty": "Medium",
+     "question": "According to the study material, when a company moves from single-shift to double-shift working, the capital tied up in materials in process will:",
+     "options": {
+      "A": "Double, because production has doubled",
+      "B": "Rise, but less than proportionately, because the minimum level need not be much higher",
+      "C": "Fall, because the second shift completes the first shift's work",
+      "D": "Remain the same, unless the second shift's workers are paid at a higher rate"
+     },
+     "answer": "D",
+     "explanation": "SM §6.4: 'The amount of materials in process will not change due to double shift working since work started in the first shift will be completed in the second; hence, capital tied up in materials in process will be the same as with single shift working. As such the cost of work-in-process will not change unless the second shift's workers are paid at a higher rate.' Option B is the study material's statement about **stocks**, not about work-in-progress — the two sentences sit one after the other and are routinely swapped."
+    }
+   ],
+   "recap": [
+    "The funds blocked in debtors and finished goods are less than their book amount: profit and depreciation fund nothing.",
+    "Build two working notes: the annual cash cost of production, then the annual cash cost of sales.",
+    "Finished goods take the cash cost of production; debtors take the cash cost of sales; raw material takes consumption.",
+    "'In arrear' is a current liability; 'in advance' is a prepaid current asset.",
+    "SM Illustration 4: ₹25,80,000 and ₹29,40,000 → ₹6,00,000 net, ₹7,20,000 with a 20% margin.",
+    "Under double shift, stocks rise less than proportionately, WIP does not change at all, and the fixed cost per unit halves — Samreen needs ₹94,800 more."
+   ]
+  }
+ ]
+}
