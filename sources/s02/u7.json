@@ -1,0 +1,806 @@
+{
+ "concepts": [
+  {
+   "code": "S02.22",
+   "title": "2.7 Competitive Strategy",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 1 (as a secondary code)",
+   "understand": [
+    "==**Competition is a fundamental attribute of economic systems and business**, and it is frequently connected with small and large organisations alike. **Businesses compete with each other for the same set of resources and customers.**== Within an industry, competition is frequently encouraged with the **wider goal of attaining and achieving higher quality services or superior goods** that the firm may manufacture or develop.",
+    "==**The competitive strategy of a business is concerned with how to compete in the business areas in which the organization operates.** In other words, **competitive strategy defines how a firm expects to create and sustain a competitive advantage over competitors.** Having a competitive advantage over competitors means **being more profitable in the long run**.==",
+    "==**The competitive strategy of a firm within a certain business field is analysed using two criteria: the creation of competitive advantage and the protection of competitive advantage.**== Those two criteria are the heart of this heading — create it, then protect it.",
+    "**Why the analysis matters.** An important component of industry and competitive analysis involves **delving into the industry's competitive process to discover what the main sources of competitive pressure are and how strong each competitive force is**. ==This analytical step is **essential because managers cannot devise a successful strategy without in-depth understanding of the industry's competitive character**.== Even though competitive pressures in various industries are never precisely the same, **the competitive process works similarly enough to use a common analytical framework** in gauging the nature and intensity of competitive forces.",
+    "==**Porter's five forces model is useful in understanding the competition.** It is a powerful tool for **systematically diagnosing the main competitive pressures in a market and assessing how strong and important each one is**. Not only is it the widely used technique of competition analysis, but it is also **relatively easy to understand and apply**.==",
+    "Read this heading as the bridge of the chapter's last section: §2.7 states *what* competitive strategy is and *which* framework serves it; §2.7.1 supplies the tool for mapping rivals (the competitive landscape); §2.7.2 supplies the test of what matters most in the industry (key success factors)."
+   ],
+   "example": "A regional dairy decides it will compete on cold-chain reliability rather than price. Creating that advantage means investing in chillers and routing software; protecting it means long-term farmer contracts and exclusive retail freezers. The 'how to compete' choice plus those two criteria — creation and protection — are its competitive strategy.",
+   "keywords": [
+    "fundamental attribute of economic systems",
+    "same set of resources and customers",
+    "higher quality services or superior goods",
+    "how to compete in the business areas in which the organization operates",
+    "create and sustain a competitive advantage",
+    "more profitable in the long run",
+    "creation of competitive advantage and the protection of competitive advantage",
+    "delving into the industry's competitive process",
+    "cannot devise a successful strategy without in-depth understanding",
+    "common analytical framework",
+    "relatively easy to understand and apply"
+   ],
+   "memory": {
+    "trick": "Competitive strategy answers **'how to compete'** and is judged on **two criteria: Create and Protect**. (Chapter 1's three levels: corporate = where to compete, business = how to compete, functional = how to implement. Competitive strategy is business level.)",
+    "key": [
+     [
+      "Question",
+      "How to compete in the business areas in which the organisation operates"
+     ],
+     [
+      "Definition",
+      "How a firm expects to create and sustain a competitive advantage over competitors"
+     ],
+     [
+      "Criterion 1",
+      "Creation of competitive advantage"
+     ],
+     [
+      "Criterion 2",
+      "Protection of competitive advantage"
+     ],
+     [
+      "Framework",
+      "Porter's five forces — widely used, relatively easy to understand and apply"
+     ]
+    ],
+    "recall_trigger": "How to compete — create it, then protect it"
+   },
+   "mistakes": [
+    "Giving one criterion. Competitive strategy is analysed using **two** — creation and protection of competitive advantage.",
+    "Confusing competitive strategy with corporate strategy. Competitive strategy is 'how to compete' within the business areas the organisation already operates in; corporate strategy decides which businesses to be in.",
+    "Defining competitive advantage as higher market share. The study material's test is **being more profitable in the long run**.",
+    "Treating the five forces as one of several equally-ranked tools here. The study material singles it out as the useful framework and praises its ease of application."
+   ],
+   "links": [
+    "🔗 SM Ch 1 §1.6: business-level strategy answers 'how to compete' — competitive strategy is that level",
+    "🔗 S02.14: the five forces model is the named framework for this analysis",
+    "🔗 S02.17: Porter's two routes to advantage — differentiation and cost advantage",
+    "🔗 SM Ch 3 §3.12: the generic strategies are the concrete competitive strategies"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Appears as the companion code to competitive-landscape questions (MTP Sep 2024 S1 Q3(a) carries S02.22 as a secondary code)",
+     "Likely stand-alone form: 'What is competitive strategy? State the two criteria by which it is analysed' or a short note"
+    ],
+    "approach": [
+     "Define it in one line — how to compete, and how the firm expects to create and sustain advantage — then give the two criteria, then say why in-depth understanding of the industry's competitive character is essential and name the five forces model as the framework.",
+     "Where a question pairs this heading with the competitive landscape, use §2.7 for the 'why' and §2.7.1 for the 'how'."
+    ],
+    "official_pattern": "No stand-alone published question; ICAI's answer to 'Understanding the competitive landscape is important to build upon a competitive advantage' opens with the landscape definition and then moves to the five steps, with this heading supplying the framing sentence about competitive advantage.",
+    "time_tip": "If asked as a short note, 4–5 minutes is enough (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S02.22-1",
+     "form": "Short note (5 marks)",
+     "marks": 5,
+     "question": "Write a short note on competitive strategy, stating the two criteria by which it is analysed and why an in-depth understanding of the industry's competitive character is essential.",
+     "answer_points": [
+      "Competition is a fundamental attribute of economic systems and business; businesses compete with each other for the **same set of resources and customers**, and within an industry competition is encouraged with the wider goal of achieving higher quality services or superior goods.",
+      "**Competitive strategy is concerned with how to compete in the business areas in which the organisation operates** — it defines how a firm expects to **create and sustain a competitive advantage over competitors**. Having a competitive advantage means **being more profitable in the long run**.",
+      "**The two criteria:** the competitive strategy of a firm within a certain business field is analysed using **the creation of competitive advantage** and **the protection of competitive advantage**.",
+      "**Why in-depth understanding is essential:** an important component of industry and competitive analysis involves delving into the industry's competitive process to discover the main sources of competitive pressure and how strong each force is; **managers cannot devise a successful strategy without in-depth understanding of the industry's competitive character**.",
+      "Although competitive pressures in various industries are never precisely the same, the competitive process works similarly enough to use a **common analytical framework** — Porter's five forces model, which is widely used and relatively easy to understand and apply."
+     ],
+     "keywords": [
+      "how to compete",
+      "create and sustain a competitive advantage",
+      "more profitable in the long run",
+      "creation… protection",
+      "cannot devise a successful strategy",
+      "common analytical framework"
+     ]
+    }
+   ],
+   "official_questions": [],
+   "mcqs": [
+    {
+     "id": "MCQ-S02.22-01",
+     "angle": "Two criteria",
+     "difficulty": "Moderate",
+     "question": "The competitive strategy of a firm within a certain business field is analysed using two criteria. These are:",
+     "options": {
+      "A": "Market share and profitability",
+      "B": "The creation of competitive advantage and the protection of competitive advantage",
+      "C": "Cost leadership and differentiation",
+      "D": "Growth rate and relative market share"
+     },
+     "answer": "B",
+     "explanation": "SM §2.7 states the two criteria as the creation of competitive advantage and the protection of competitive advantage.",
+     "why_wrong": {
+      "A": "Profitability is the *test* of advantage, not a criterion of analysis.",
+      "C": "Those are Porter's two routes to generating advantage (§2.5.4), not the criteria for analysing competitive strategy.",
+      "D": "Those are the two axes of the BCG matrix (Chapter 4)."
+     },
+     "trap": "Option C is from the same chapter and is the most tempting wrong answer.",
+     "concept": "S02.22"
+    },
+    {
+     "id": "MCQ-S02.22-02",
+     "angle": "Meaning of advantage",
+     "difficulty": "Easy",
+     "question": "As per the study material, having a competitive advantage over competitors means:",
+     "options": {
+      "A": "Holding the largest market share in the industry",
+      "B": "Charging the lowest price in the industry",
+      "C": "Being more profitable in the long run",
+      "D": "Having the widest product range"
+     },
+     "answer": "C",
+     "explanation": "SM §2.7: 'Having a competitive advantage over competitors means being more profitable in the long run.'",
+     "why_wrong": {
+      "A": "Share is not the published test.",
+      "B": "Low price is a route (cost advantage), not the meaning of advantage.",
+      "D": "Range is not mentioned."
+     },
+     "trap": "All three wrong options are common proxies for advantage; the study material's test is long-run profitability.",
+     "concept": "S02.22"
+    }
+   ],
+   "recap": [
+    "Competitive strategy = how to compete in the business areas the organisation operates in; how it expects to create and sustain advantage.",
+    "Competitive advantage = being more profitable in the long run.",
+    "Two criteria of analysis: creation and protection of competitive advantage.",
+    "Managers cannot devise a successful strategy without in-depth understanding of the industry's competitive character.",
+    "Porter's five forces is the common analytical framework — widely used and relatively easy to apply."
+   ]
+  },
+  {
+   "code": "S02.23",
+   "title": "2.7.1 Competitive Landscape (and Strategic Group Mapping)",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 3 · RTP 6 · MTP 6",
+   "understand": [
+    "==**Competitive landscape is a business analysis which identifies competitors, either direct or indirect.**== It is about **identifying and understanding the competitors** and at the same time it **permits the comprehension of their vision, mission, core values, niche market, strengths and weaknesses**. ==Understanding the competitive landscape **requires an application of \"competitive intelligence\"**.==",
+    "==An **in-depth investigation and analysis of a firm's competition** allows it to **assess the competitors' strengths and weaknesses in the marketplace** and helps it to **choose and implement effective strategies that will improve its competitive advantage**. Thus, **understanding the competitive landscape is important to build upon a competitive advantage.**==",
+    "**The five steps to understand the competitive landscape** — the single most-examined list in SM Chapter 2, with the questions each step answers:",
+    "**(i) Identify the competitor.** The first step is to identify the competitors in the firm's industry and **have actual data about their respective market share**. ==*This answers: Who are the competitors and how big are they?*==",
+    "**(ii) Understand the competitors.** Once identified, the strategist can use **market research reports, the internet, newspapers, social media, industry reports and various other sources** to understand the products and services offered by them **in different markets**. ==*This answers: What are their products and services?*==",
+    "**(iii) Determine the strengths of the competitors.** What are their strengths? What do they do well? Do they offer great products? Why are consumers liking their product or service? Do they utilise marketing in a way that comparatively reaches out to more consumers? Why do customers give them their business? ==*This answers: What are their financial positions? What gives them cost and price advantage? What are they likely to do next? How strong is their distribution network? What are their human resource strengths?*==",
+    "**(iv) Determine the weaknesses of the competitors.** Identify the areas where the competitor is lacking or weak. Weaknesses (and strengths) can be identified by **going through consumer reports and reviews appearing in various media**; **financial strength and weakness can always be learnt from annual reports**. ==*This answers: Where are they lacking?*==",
+    "**(v) Put all of the information together.** The strategist should put together all information about competitors and **draw inference about what they are not offering and what the firm can do to fill in the gaps**; the strategist can also know the areas which need to be strengthened by the firm. ==*This answers: What will the business do with this information? What improvements does the firm need to make? How can the firm exploit the weaknesses of competitors?*==",
+    "**Strategic group mapping — the companion tool.** ICAI treats this as the tool to use whenever a case asks for the **market positions of rival companies grouped into like positions**. ==**A strategic group consists of those rival firms which have similar competitive approaches and positions in the market.**==",
+    "**The four-step procedure for constructing a strategic group map:** ==**(1) Identify the competitive characteristics that differentiate firms in the industry** — the typical variables being **price/quality range (high, medium, low); geographic coverage (local, regional, national, global); degree of vertical integration (none, partial, full); product-line breadth (wide, narrow); use of distribution channels (one, some, all); and degree of service offered (no-frills, limited, full)**. **(2) Plot the firms on a two-variable map** using pairs of these differentiating characteristics. **(3) Assign firms that fall in about the same strategy space to the same strategic group.** **(4) Draw circles around each strategic group, making the circles proportional to the size of the group's respective share of total industry sales revenues.**==",
+    "**The insights a map yields** (from ICAI's May 2026 MTP answer): it helps understand competitive positioning, **identifies direct competitors within the same strategic group**, reveals **market gaps or opportunities** such as underserved segments, highlights **mobility barriers between groups** — the difficulty of moving from the low-end to the premium segment — and assists in analysing the **intensity of competition within and across groups**.",
+    "**ICAI's labelling tension, recorded rather than smoothed over.** ICAI's RTPs print their own chapter headings, and in some RTPs the strategic-group-mapping question is printed under **Chapter 3**, although the register places Competitive Landscape at S02.23 in Chapter 2. This book follows the register and keeps all strategic-group-mapping material here, where the five steps and the four-step procedure sit together. The practical consequence for a candidate is nil — the answer is the same either way — but it explains why the same question can be found under two chapter labels in ICAI's own material."
+   ],
+   "example": "Asked to study rivals in the energy-drink segment, the strategist picks price band and product breadth as the two variables, plots eleven brands, finds three clusters (mass low-price, mid-price mainstream, premium functional) and draws circles sized by sales. The map shows that no one occupies 'premium, narrow range, health-positioned' — the gap the new line will fill. That is strategic group mapping answering a competitive-landscape question.",
+   "keywords": [
+    "identifies competitors, either direct or indirect",
+    "vision, mission, core values, niche market, strengths and weaknesses",
+    "competitive intelligence",
+    "in-depth investigation and analysis",
+    "choose and implement effective strategies",
+    "actual data about their respective market share",
+    "market research report, internet, newspapers, social media, industry reports",
+    "annual reports",
+    "what they are not offering",
+    "fill in the gaps",
+    "similar competitive approaches and positions in the market",
+    "price/quality range",
+    "degree of vertical integration",
+    "product-line breadth",
+    "no-frills, limited, full",
+    "two-variable map",
+    "same strategy space",
+    "circles proportional to the size of the group's respective share",
+    "mobility barriers"
+   ],
+   "memory": {
+    "trick": "Five steps = \"I-U-S-W-P\" (\"Identify, Understand, Strengths, Weaknesses, Put together\"). Four map steps = \"I-P-A-D\" (\"Identify variables, Plot firms, Assign groups, Draw circles\").",
+    "key": [
+     [
+      "I",
+      "Identify the competitor — who and how big"
+     ],
+     [
+      "U",
+      "Understand the competitors — what products and services"
+     ],
+     [
+      "S",
+      "Strengths — finances, cost advantage, next moves, distribution, HR"
+     ],
+     [
+      "W",
+      "Weaknesses — where they are lacking (consumer reports, annual reports)"
+     ],
+     [
+      "P",
+      "Put it together — the gaps, the improvements, how to exploit"
+     ]
+    ],
+    "recall_trigger": "Identify, Understand, Strengths, Weaknesses, Put together"
+   },
+   "mistakes": [
+    "Answering a competitive-landscape case with Porter's Five Forces. The published answer to the Riya Sharma case is the five steps, not the five forces.",
+    "Giving the five steps when the question asks for the **procedure** of strategic group mapping, or the reverse. 'Name the tool and explain the procedure' wants the four map steps; 'explain the steps to understand the competitive landscape' wants the five.",
+    "Omitting step 4 of the map — drawing circles **proportional to each group's share of total industry sales revenues**. It is a full mark and the step most often dropped.",
+    "Forgetting the questions each step answers. ICAI prints them in the study material, and the Jan 2026 paper's 'their vision, mission and financial status' wording comes straight from them.",
+    "Answering 'understanding the customer' as part of the competitive landscape. ICAI's MTP key marks that as the factor **not** relevant — the landscape is about competitors."
+   ],
+   "links": [
+    "🔗 S02.02: 'Competitor Analysis: strategic groups, performance, objectives, strategies, culture, cost structure' is the framework entry for this heading",
+    "🔗 S02.14: the landscape describes rivals; the five forces measure the pressure they exert",
+    "🔗 S02.24: once rivals are mapped, the KSFs say which dimensions of the map actually matter",
+    "🔗 SM Ch 3: SWOT uses the competitor strengths and weaknesses gathered here",
+    "🔗 SM Ch 4: the BCG and GE matrices need the market-share data gathered in step 1"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "The five steps, set as a case: Riya Sharma's confectionery (RTP May 2024 Q9, RTP Jan 2026 Q9), Arun Kumar's CeramiCrafts (RTP Jan 2025 Q9), Rohit Khanna's Green Basket (PYQ Jan 2026 Q5(c)), ZymaTech's smart-home rivals (MTP Sep 2025 S1 Q1(b))",
+     "The statement form: 'Understanding the competitive landscape is important to build upon a competitive advantage. Explain.' (MTP Sep 2024 S1 Q3(a))",
+     "Strategic group mapping: name the tool and give the procedure (PYQ Jan 2026 Q5(a), MTP Mar 2024 S1 Q3(a), MTP Sep 2024 S2 Q4(b) OR, MTP May 2026 S1 Q1(a), MTP Sep 2026 S2 Q2(b))",
+     "Five MCQs naming the tool or the irrelevant factor"
+    ],
+    "approach": [
+     "Decide first which list is wanted. A stem that says 'understand the competitors / competitor analysis / vision, mission, financial status' wants the **five steps**; a stem that says 'market position of rival companies / grouping them into like positions / competitive positioning by price and features' wants **strategic group mapping** and its four steps.",
+     "In a case, apply each step to the named rivals. ICAI's ZymaTech answer names HomeEdge's brand loyalty, AutoNest's affordability and distribution, and IntelliSpace's AI innovation but weak post-sales service, then recommends the mid-range AI position — step 5 doing real work."
+    ],
+    "official_pattern": "ICAI reuses two answers: the five steps (five papers, near-identical wording) and the four-step mapping procedure (five papers, identical wording down to the list of six differentiating variables). In 2026 it asked both in a single paper — Q5(a) for the map, Q5(c) for the steps.",
+    "time_tip": "5 marks ≈ 7 minutes — one mark per step in either list (study guidance); ICAI's Jan 2026 answers run to five numbered points each."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S02.23-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "What is a strategic group? Explain the procedure for constructing a strategic group map, and state the insights such a map can yield.",
+     "answer_points": [
+      "A **strategic group** consists of those rival firms which have **similar competitive approaches and positions in the market**. Strategic group mapping is the tool used to identify the market positions of rival companies by grouping them into like positions.",
+      "**Step 1:** identify the competitive characteristics that differentiate firms in the industry — typical variables are price/quality range (high, medium, low); geographic coverage (local, regional, national, global); degree of vertical integration (none, partial, full); product-line breadth (wide, narrow); use of distribution channels (one, some, all); and degree of service offered (no-frills, limited, full).",
+      "**Step 2:** plot the firms on a **two-variable map** using pairs of these differentiating characteristics. **Step 3:** assign firms that fall in about the same **strategy space** to the same strategic group.",
+      "**Step 4:** draw circles around each strategic group, **making the circles proportional to the size of the group's respective share of total industry sales revenues**.",
+      "**Insights:** it shows the competitive positioning of firms; identifies **direct competitors within the same strategic group**; reveals **market gaps or opportunities** such as underserved segments; highlights **mobility barriers between groups**, such as the difficulty of moving from the low-end to the premium segment; and assists in analysing the **intensity of competition within and across groups**."
+     ],
+     "keywords": [
+      "similar competitive approaches and positions",
+      "price/quality range",
+      "two-variable map",
+      "same strategy space",
+      "circles proportional",
+      "mobility barriers"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "RTP-M24-SQ9",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "Riya Sharma owns a confectionery business in Jaipur, specializing in homemade chocolates and candies. Despite holding a substantial market share in the central region, her business has experienced declining sales of these products over the last few years. Concerned about the market dynamics, Riya consults a management expert for guidance. The consultant recommends a comprehensive understanding of the competitive landscape. Explain the steps to be followed by Riya Sharma to understand the competitive landscape to address the sales decline.",
+     "answer_points": [
+      "**(i) Identify the competitor:** the first step is to identify the competitors in the firm's industry and have actual data about their respective market share.",
+      "**(ii) Understand the competitors:** once identified, the strategist can use market research reports, the internet, newspapers, social media, industry reports and various other sources to understand the products and services offered by them in different markets.",
+      "**(iii) Determine the strengths of the competitors:** what is the strength of the competitors? What do they do well? Do they offer great products? Do they utilise marketing in a way that comparatively reaches out to more consumers? Why do customers give them their business?",
+      "**(iv) Determine the weaknesses of the competitors:** weaknesses (and strengths) can be identified by going through consumer reports and reviews appearing in various media — consumers are often willing to give their opinions, especially when the products or services are either great or very poor.",
+      "**(v) Put all of the information together:** the strategist should put together all information about competitors and draw inference about what they are not offering and what the firm can do to fill in the gaps; the strategist can also know the areas which need to be strengthened by the firm.",
+      "**Note on classification:** although the stem talks about market dynamics and rising competition, ICAI's published answer is the five steps of the competitive landscape, **not** Porter's five forces. The identical case and answer were reprinted two years later as RTP-J26-SQ9."
+     ],
+     "keywords": [
+      "identify the competitor",
+      "actual data about their respective market share",
+      "market research report",
+      "consumer reports and reviews",
+      "fill in the gaps"
+     ],
+     "also_asked_as": [
+      "RTP-J26-SQ9 reprints this case and answer unchanged under ICAI's own 'Chapter 2-Strategic Analysis: External Environment' heading."
+     ]
+    },
+    {
+     "id": "RTP-J25-SQ9",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "Mr. Arun Kumar has built a successful business in the handmade ceramic products industry in Gujarat. His company, CeramiCrafts, is renowned for crafting distinctive, high-quality ceramic home décor items that have gained a strong foothold in the market. However, recent market shifts and rising competition have impacted sales. Seeking professional guidance, Mr. Kumar consults a strategic advisor who recommends an in-depth analysis of the competitive landscape. To comprehend the competitive landscape, what steps should Mr. Kumar follow?",
+     "answer_points": [
+      "Understanding the competitive landscape involves **identifying both direct and indirect competitors** while gaining insights into their **vision, mission, core values, niche markets, and strengths and weaknesses**.",
+      "**(i) Identify the competitor:** gather actual data on the market share and positioning of competitors within the handmade ceramic products industry.",
+      "**(ii) Understand the competitors:** use market research reports, the internet, newspapers, social media, industry reports and other sources to understand the products and services offered and how competitors position themselves in different markets, including their unique selling propositions.",
+      "**(iii) Determine the strengths of the competitors:** assess what competitors excel at — superior product quality, marketing strategies that reach a wider base, and why consumers choose them — to identify where CeramiCrafts can enhance its offerings.",
+      "**(iv) Determine the weaknesses of the competitors:** identify weaknesses by reviewing customer feedback, consumer reports and reviews, and find opportunities to position CeramiCrafts as a better alternative.",
+      "**(v) Put all of the information together:** consolidate everything to identify gaps in the market the company can fill and areas where it needs to improve, then devise strategies that strengthen its market position. ICAI closes by noting that the tailored approach ensures the insights are directly applicable to the handmade ceramic products industry in Gujarat."
+     ],
+     "keywords": [
+      "direct and indirect competitors",
+      "vision, mission, core values, niche markets",
+      "unique selling propositions",
+      "position CeramiCrafts as a better alternative",
+      "identify gaps in the market"
+     ]
+    },
+    {
+     "id": "PYQ-J26-Q5c",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Mr. Rohit Khanna runs a chain of organic grocery stores under the brand name \"Green Basket\" in northern India. Over the past two years, he has faced intense competition from large retail chains and online delivery platforms offering organic products at discounted prices. Despite loyal customers, his profit margins are shrinking. On his consultant's advice, Rohit decided to undertake a comprehensive study to understand the competitors, their vision, mission, and financial status to gain competitive advantage. Identify the business analysis done by Mr. Rohit and discuss steps to carry out the same. (5 Marks)",
+     "answer_points": [
+      "Mr. Rohit Khanna has undertaken **Competitor Analysis / Competitive Landscape analysis** — a part of external environment analysis, wherein a firm systematically studies its competitors to understand their objectives, strategies, strengths, weaknesses and capabilities in order to gain competitive advantage.",
+      "**1. Identify the Competitors:** identify existing and potential competitors in the industry and collect data regarding their respective market shares.",
+      "**2. Understand the Competitors:** gather information about competitors' products and services, pricing, distribution and strategies through market research reports, internet, newspapers, social media and industry publications.",
+      "**3. Determine Competitors' Strengths:** analyse what competitors do well — superior products, strong branding, effective marketing or efficient operations — and why customers prefer them.",
+      "**4. Determine Competitors' Weaknesses:** weaknesses are identified through consumer reports, reviews and feedback available in various media, highlighting areas where competitors underperform.",
+      "**5. Put all of the information together:** consolidate all information to identify gaps in competitors' offerings and areas where the firm can improve or differentiate to build competitive advantage. ICAI closes: through competitor analysis Mr. Rohit can better understand the competitive dynamics of the organic grocery market and formulate suitable strategies to protect profit margins and sustain Green Basket's competitive position."
+     ],
+     "keywords": [
+      "Competitor Analysis/Competitive Landscape analysis",
+      "part of external environment analysis",
+      "existing and potential competitors",
+      "where competitors underperform",
+      "gaps in competitors' offerings"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "MTP-S24-S1-SQ3a puts the same material as a statement question — 'Understanding the competitive landscape is important to build upon a competitive advantage. Explain.' — and ICAI's answer opens with the landscape definition, adds the in-depth-investigation sentence, and then gives the same five steps. MTP-S25-S1-SQ1b applies the five steps to ZymaTech against HomeEdge, AutoNest and IntelliSpace, exploiting IntelliSpace's weak post-sales service and recommending a mid-range AI-integrated position."
+     ]
+    },
+    {
+     "id": "PYQ-J26-Q5a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Full Health Limited is a beverage company engaged in the production and distribution of energy drink. It plans to launch a new line of beverages targeted at health-conscious consumers. The Indian energy drink market, however, is already saturated with strong competitors, including several well-established national and international brands that command a significant market share. Considering the dominant position of these rival firms in the segment, which analytical tool would you recommend the manager to use to assess the market environment? Additionally, explain the procedure for implementing this tool effectively. (5 Marks)",
+     "answer_points": [
+      "**Strategic Group Mapping** is the most appropriate analytical tool. Since the Indian energy drink market is saturated and dominated by strong national and international competitors, this tool helps analyse competition within the industry by **grouping firms that follow similar strategies**, enabling the manager to understand the relative competitive positions of rival firms and identify **strategic gaps or opportunities**.",
+      "**1.** Identify the competitive characteristics that differentiate firms in the industry — price/quality range (high, medium, low), geographic coverage (local, regional, national, global), degree of vertical integration (none, partial, full), product-line breadth (wide, narrow), distribution channels used (one, some, all), and degree of service offered (no-frills, limited, full).",
+      "**2.** Plot firms on a **two-variable map** using selected pairs of these differentiating characteristics.",
+      "**3.** Assign firms falling in the same **strategy space** to the same strategic group.",
+      "**4.** Draw circles around each strategic group, making the circles **proportional to the group's respective share of total industry sales revenue**.",
+      "**Conclusion:** strategic group mapping helps the manager assess intra-industry competitive dynamics and take informed decisions before launching a new beverage line in a highly competitive market."
+     ],
+     "keywords": [
+      "Strategic Group Mapping",
+      "grouping firms that follow similar strategies",
+      "strategic gaps or opportunities",
+      "two-variable map",
+      "strategy space",
+      "proportional to the group's respective share"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "The identical four-step procedure is published for MTP-M24-S1-SQ3a (a beverage company studying rivals in the energy drink segment), MTP-S26-S2-SQ2b (recommend a tool to analyse the competitive position of rival companies) and as the OR alternative in MTP Sep 2024 Series 2 Q4(b). MTP-M26-S1-SQ1a asks the same for smartphone companies by price range and product features, and its answer adds the list of insights a map yields, including mobility barriers between groups."
+     ]
+    },
+    {
+     "id": "MTP-M26-S1-SQ1a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "A strategic analyst wants to study the competitive positioning of companies in the smartphone industry based on price range and product features. Explain how the analyst can use Strategic Group Mapping to analyse the industry. Also, state the insights that can be derived from such a map. (5 Marks)",
+     "answer_points": [
+      "**Step 1 — Identify key variables:** select relevant competitive dimensions such as price (low to high) and product features (basic to advanced).",
+      "**Step 2 — Plot companies on a graph:** position each smartphone company on a two-dimensional map using these variables.",
+      "**Step 3 — Form strategic groups:** companies with similar strategies (for example high price–high features, or low price–basic features) cluster together, forming strategic groups.",
+      "**Step 4 — Represent market share:** the size of each group's circle may indicate the market share of firms within that group.",
+      "**Insights:** understanding the competitive positioning of firms in the industry; identifying **direct competitors within the same strategic group**; revealing **market gaps or opportunities**, such as underserved segments; highlighting **mobility barriers between groups**, such as the difficulty of moving from the low-end to the premium segment; and assisting in analysing the **intensity of competition within and across groups**.",
+      "**Conclusion:** strategic group mapping provides a visual and analytical tool for better strategic decision-making in the smartphone industry."
+     ],
+     "keywords": [
+      "identify key variables",
+      "two-dimensional map",
+      "cluster together",
+      "market gaps or opportunities",
+      "mobility barriers between groups",
+      "intensity of competition within and across groups"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "PYQ-J25-MCQ10",
+     "question": "Primo Neo Logistics wants to ascertain the market positions of rival companies having similar competitive approaches in the market with the intent to identify the strongest or the weakest players. Tool for identifying the strongest and weakest competitors is known as:",
+     "options": {
+      "A": "Strategic Group Mapping",
+      "B": "Portfolio Analysis",
+      "C": "Strategic Surveillance",
+      "D": "Strategic Audit"
+     },
+     "answer": "A",
+     "explanation": "A strategic group consists of rival firms with similar competitive approaches and positions in the market, and strategic group mapping is the tool for identifying their market positions (SM §2.7.1). ICAI key: (A).",
+     "why_wrong": {
+      "B": "Portfolio analysis allocates resources among a firm's own businesses.",
+      "C": "Strategic surveillance is a Chapter 5 control type.",
+      "D": "A strategic audit evaluates performance against plan."
+     },
+     "trap": "The stem's phrase 'similar competitive approaches' is lifted from the definition of a strategic group.",
+     "concept": "S02.23"
+    },
+    {
+     "id": "RTP-J26-SMCQ5",
+     "question": "In the Indian automobile industry, firms like Speedo Motors and Turbo Auto compete in the mid-range car segment, focusing on fuel efficiency. Meanwhile, LuxeDrive and Elite Motors dominate the premium segment, emphasizing luxury and advanced technology. Each group follows distinct pricing and marketing strategies and movement between these segments is limited due to brand perception and R&D costs. What does this scenario best illustrate?",
+     "options": {
+      "A": "Strategic Alliances",
+      "B": "Strategic Group Mapping",
+      "C": "Value Chain Analysis",
+      "D": "Core Competence Identification"
+     },
+     "answer": "B",
+     "explanation": "Two clusters of rivals with similar approaches, distinct strategies and limited movement between them is the textbook picture of strategic groups separated by mobility barriers. ICAI key: (b).",
+     "why_wrong": {
+      "A": "No collaboration between firms is described.",
+      "C": "No internal activity analysis is described.",
+      "D": "No distinctive internal capability is identified."
+     },
+     "trap": "'Limited movement between segments' is the mobility-barrier clue that confirms strategic groups rather than mere segmentation.",
+     "concept": "S02.23"
+    },
+    {
+     "id": "RTP-M25-SMCQ4",
+     "question": "A sportswear brand, Athleon, is introducing a new range of eco-friendly performance shoes for fitness enthusiasts. The strategic manager wants to analyze the market position of competing brands in the sustainable sports footwear segment. Which tool can be used for this analysis?",
+     "options": {
+      "A": "SWOT Analysis",
+      "B": "Strategic Group Mapping",
+      "C": "BCG Matrix",
+      "D": "Value Chain Analysis"
+     },
+     "answer": "B",
+     "explanation": "'Market position of competing brands' is the standing trigger for strategic group mapping (SM §2.7.1). ICAI key: (b).",
+     "why_wrong": {
+      "A": "SWOT assesses the firm's own strengths, weaknesses, opportunities and threats.",
+      "C": "The BCG matrix positions a firm's own business units.",
+      "D": "Value chain analysis examines internal activities."
+     },
+     "trap": "SWOT is the default guess for any 'analyse the market' MCQ; the words 'market position of competing brands' decide it.",
+     "concept": "S02.23"
+    },
+    {
+     "id": "RTP-S26-SMCQ4",
+     "question": "StrideX Footwear Ltd. is planning to strengthen its position in the sports shoe market. Before acquiring a smaller rival, the management wants to identify competitor groups based on their pricing strategies and product range to locate firms with weak competitive positions. Which strategic tool would be most useful for this purpose?",
+     "options": {
+      "A": "Merger and Acquisition Planning",
+      "B": "BCG Growth Matrix",
+      "C": "Strategic Group Mapping",
+      "D": "GE Nine-Cell Matrix"
+     },
+     "answer": "C",
+     "explanation": "Identifying competitor groups by pricing and product range — two of the six differentiating variables — in order to find weakly positioned firms is exactly what a strategic group map does. ICAI key: (c).",
+     "why_wrong": {
+      "A": "That is the transaction process, not the analytical tool.",
+      "B": "The BCG matrix plots the firm's own units on growth and relative share.",
+      "D": "The GE matrix scores industry attractiveness against business strength for the firm's own units."
+     },
+     "trap": "The acquisition context tempts option A; the question asks for the analytical tool that locates the target.",
+     "concept": "S02.23"
+    },
+    {
+     "id": "MTP-J26-S2-SMCQ-B-ii",
+     "question": "Imagine you are tasked with analyzing the competitive landscape for a new product launch. In this context, which of the following factors is **not** relevant to understanding the competitive landscape?",
+     "options": {
+      "A": "Identifying the competitor",
+      "B": "Understanding the customer",
+      "C": "Determining the strength of the competitors",
+      "D": "Determining the weakness of the competitors"
+     },
+     "answer": "B",
+     "explanation": "The five steps are identify the competitor, understand the competitors, determine their strengths, determine their weaknesses, and put all the information together. Understanding the **customer** belongs to customer analysis (§2.6.2), not the competitive landscape. ICAI key: (B).",
+     "why_wrong": {
+      "A": "Step 1.",
+      "C": "Step 3.",
+      "D": "Step 4."
+     },
+     "trap": "'Understanding the customer' is a real and important activity — but under a different heading, which is what makes it the answer to a 'not relevant' question.",
+     "concept": "S02.23"
+    },
+    {
+     "id": "MCQ-S02.23-01",
+     "angle": "Which step",
+     "difficulty": "Moderate",
+     "question": "In the procedure for constructing a strategic group map, the final step is to:",
+     "options": {
+      "A": "Draw circles around each strategic group, proportional to the group's share of total industry sales revenues",
+      "B": "Assign firms in about the same strategy space to the same strategic group",
+      "C": "Plot the firms on a two-variable map",
+      "D": "Identify the competitive characteristics that differentiate firms in the industry"
+     },
+     "answer": "A",
+     "explanation": "SM §2.7.1 gives the order as: identify differentiating characteristics → plot on a two-variable map → assign firms in the same strategy space to a group → draw circles proportional to each group's share of total industry sales revenues.",
+     "why_wrong": {
+      "B": "Third step.",
+      "C": "Second step.",
+      "D": "First step."
+     },
+     "trap": "The circle-drawing step is the one candidates most often omit, so it is also the one most often tested.",
+     "concept": "S02.23"
+    },
+    {
+     "id": "MCQ-S02.23-02",
+     "angle": "Where to look",
+     "difficulty": "Easy",
+     "question": "As per the study material, a competitor's financial strength and weakness can always be learnt from:",
+     "options": {
+      "A": "Trade association circulars",
+      "B": "Annual reports",
+      "C": "Supplier interviews",
+      "D": "Customer satisfaction surveys"
+     },
+     "answer": "B",
+     "explanation": "SM §2.7.1, step (iv): weaknesses and strengths can be identified from consumer reports and reviews appearing in various media, and **financial strength and weakness can always be learnt from annual reports**.",
+     "why_wrong": {
+      "A": "Not mentioned.",
+      "C": "Suppliers are listed as a source for customer analysis, not for competitor financials.",
+      "D": "Surveys reveal perception, not financial position."
+     },
+     "trap": "Consumer reports and reviews are named in the same sentence but for non-financial strengths and weaknesses.",
+     "concept": "S02.23"
+    },
+    {
+     "id": "MCQ-S02.23-03",
+     "angle": "Definition",
+     "difficulty": "Easy",
+     "question": "Understanding the competitive landscape is said in the study material to require the application of:",
+     "options": {
+      "A": "Competitive intelligence",
+      "B": "Strategic surveillance",
+      "C": "Benchmarking",
+      "D": "Due diligence"
+     },
+     "answer": "A",
+     "explanation": "SM §2.7.1: 'Understanding of competitive landscape requires an application of \"competitive intelligence\".'",
+     "why_wrong": {
+      "B": "Strategic surveillance is a Chapter 5 control type.",
+      "C": "Benchmarking is not used in this passage.",
+      "D": "Due diligence is not used in this passage."
+     },
+     "trap": "All four are real strategic-management terms; only one appears in this sentence.",
+     "concept": "S02.23"
+    }
+   ],
+   "recap": [
+    "Competitive landscape identifies direct and indirect competitors and their vision, mission, core values, niche market, strengths and weaknesses; it requires competitive intelligence.",
+    "Five steps: identify · understand · strengths · weaknesses · put it together.",
+    "A strategic group = rival firms with similar competitive approaches and positions.",
+    "Map procedure: identify differentiating variables → plot on a two-variable map → assign to groups → draw circles proportional to each group's share of industry sales.",
+    "Six typical variables: price/quality range, geographic coverage, vertical integration, product-line breadth, distribution channels, degree of service.",
+    "Insights: positioning, direct rivals, market gaps, mobility barriers, intensity of competition."
+   ]
+  },
+  {
+   "code": "S02.24",
+   "title": "2.7.2 Key Factors for Competitive Success",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 · RTP 0 · MTP 3",
+   "understand": [
+    "==**An industry's Key Success Factors (KSFs) are those things that most affect industry members' ability to prosper in the marketplace** — the particular **strategy elements, product attributes, resources, competencies, competitive capabilities, and business outcomes** that spell the difference between **profit and loss** and, ultimately, between **competitive success or failure**.== KSFs by their very nature are **so important that all firms in the industry must pay close attention to them**.",
+    "==**Key success factors are the prerequisites for industry success** or, to put it another way, **KSFs are the factors that shape whether a company will be financially and competitively successful.**==",
+    "**The three questions whose answers help identify an industry's KSFs** — asked verbatim in May 2025:",
+    "**(i)** ==**On what basis do customers choose between the competing brands of sellers? What product attributes are crucial to sales?**==",
+    "**(ii)** ==**What resources and competitive capabilities does a seller need to have to be competitively successful** — better human capital, quality of product or quantity of product, cost of service, etc.?==",
+    "**(iii)** ==**What does it take for sellers to achieve a sustainable competitive advantage, something that can be sustained for the long term?**==",
+    "**ICAI's illustration:** ==in **apparel manufacturing**, the KSFs are **appealing designs and colour combinations** (to create buyer interest) and **low-cost manufacturing efficiency** (to permit attractive retail pricing and ample profit margins).==",
+    "**Why identifying them is a top priority.** Determining the industry's KSFs, given prevailing and anticipated industry and competitive conditions, is a **top-priority analytical consideration**. At the very least, managers need to understand the industry situation well enough to **know what is more important to competitive success and what is less important**, and to know **what kind of resources are competitively valuable**. ==**Misdiagnosing the industry factors critical to long-term competitive success greatly raises the risk of a misdirected strategy.**==",
+    "**How KSFs convert into advantage.** ==An organisation with a perceptive understanding of industry KSFs **can gain sustainable competitive advantage by training its strategy on industry KSFs and devoting its energies to being distinctively better than rivals on one or more of these factors**. Business organisations that stand out on a particular KSF enjoy a **stronger market position** — **being distinctively better than rivals on one or more key success factors presents a golden opportunity for gaining competitive advantage**. Hence, using the industry's KSFs as **cornerstones for the company's strategy**, and trying to gain sustainable competitive advantage by **excelling at one particular KSF**, is a fruitful competitive strategy approach.==",
+    "**How many, and the warning against padding the list.** ==**Key success factors vary from industry to industry and even from time to time within the same industry** as driving forces and competitive conditions change. **Only rarely does an industry have more than three or four key success factors at any one time**, and even among these three or four, **one or two usually outrank the others in importance**. Managers therefore have to **resist the temptation to include factors that have only minor importance**. The purpose of identifying KSFs is to make judgments about what things are more important to competitive success and what things are less important — **to compile a list of every factor that matters even a little bit defeats the purpose** of concentrating management attention on the factors truly critical to long-term competitive success.=="
+   ],
+   "example": "A smartphone maker whose customers choose on battery life, camera quality and seamless software identifies three KSFs — product innovation, cost efficiency through a tuned supply chain, and customer experience. It then funds R&D continuously, streamlines procurement to hold cost leadership without quality loss, and invests in after-sales and ecosystem integration. Excelling at one of the three, not listing twelve, is what ICAI's answer prescribes.",
+   "keywords": [
+    "most affect industry members' ability to prosper",
+    "strategy elements, product attributes, resources, competencies, competitive capabilities, and business outcomes",
+    "difference between profit and loss",
+    "all firms in the industry must pay close attention",
+    "prerequisites for industry success",
+    "financially and competitively successful",
+    "on what basis do customers choose",
+    "resources and competitive capabilities",
+    "sustainable competitive advantage",
+    "appealing designs and colour combinations",
+    "low-cost manufacturing efficiency",
+    "top-priority analytical consideration",
+    "misdiagnosing… misdirected strategy",
+    "distinctively better than rivals",
+    "golden opportunity",
+    "cornerstones for the company's strategy",
+    "more than three or four",
+    "one or two usually outrank the others",
+    "defeats the purpose"
+   ],
+   "memory": {
+    "trick": "Three questions = \"C-R-S\" (\"Choose, Resources, Sustain\"): why customers **C**hoose · what **R**esources are needed · what it takes to **S**ustain advantage. And the cap: **rarely more than three or four KSFs**.",
+    "key": [
+     [
+      "C",
+      "On what basis do customers choose between competing brands? Which product attributes are crucial to sales?"
+     ],
+     [
+      "R",
+      "What resources and competitive capabilities does a seller need?"
+     ],
+     [
+      "S",
+      "What does it take to achieve a sustainable competitive advantage?"
+     ],
+     [
+      "Cap",
+      "Rarely more than three or four at a time; one or two outrank the rest"
+     ]
+    ],
+    "recall_trigger": "Choose, Resources, Sustain — and never more than three or four"
+   },
+   "mistakes": [
+    "Listing a dozen KSFs for an industry. The study material explicitly warns that compiling every factor that matters even a little bit **defeats the purpose**.",
+    "Treating KSFs as fixed. They vary from industry to industry and from time to time within the same industry.",
+    "Giving two questions instead of three. The third — what it takes to achieve a *sustainable* advantage — is the one most often dropped and is worth a mark on its own.",
+    "Describing KSFs as the firm's strengths. They are the **industry's** prerequisites; the firm's task is to be distinctively better than rivals on one or more of them."
+   ],
+   "links": [
+    "🔗 S02.23: a strategic group map shows which rivals are strong on which dimension; the KSFs say which dimensions matter",
+    "🔗 S02.12: KSFs usually live in particular value-chain activities",
+    "🔗 S02.17: excelling at a KSF is how a firm creates differentiation or cost advantage",
+    "🔗 SM Ch 3: core competencies are the internal counterpart of an industry's KSFs"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "'What do you mean by Key Success Factors? Structure the questions… Also state how the understanding can help ascertain sustainable competitive advantages' (PYQ May 2025 Q8(a), split 1 + 2 + 2)",
+     "'Analyze the role of Key Success Factors in determining competitive success within an industry' (MTP Jan 2025 S2 Q2(a), repeated as MTP Sep 2024 S2 Q2(a))",
+     "A case asking the candidate to identify the KSFs from the industry conditions described and say how to build sustainable advantage from them (MTP May 2025 S2 Q1(a))"
+    ],
+    "approach": [
+     "Define KSFs with the full list of what they comprise — strategy elements, product attributes, resources, competencies, competitive capabilities and business outcomes — then the 'prerequisites for industry success' line.",
+     "Give the three identification questions as a bulleted block, then the advantage paragraph: train strategy on the KSFs, be distinctively better than rivals on one or more, and note that misdiagnosis raises the risk of a misdirected strategy.",
+     "In a case, name only two or three KSFs drawn from the stem's own facts, then give two or three actions. ICAI's ABC Tech answer names exactly three KSFs and three actions."
+    ],
+    "official_pattern": "ICAI publishes two forms. The May 2025 answer follows the 1 + 2 + 2 split literally: a definition paragraph, the three questions as bullets, and a closing paragraph on tailoring strategy and the cost of misjudgement. The MTP 'role of KSFs' answer is a single definitional paragraph — shorter than candidates expect.",
+    "time_tip": "5 marks ≈ 7 minutes; the 1 + 2 + 2 split means about 1.5 minutes on the definition, 3 on the questions and 2.5 on the advantage (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S02.24-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "How many key success factors does an industry usually have, and why does the study material warn managers against listing more? Illustrate with the apparel industry.",
+     "answer_points": [
+      "Key success factors **vary from industry to industry and even from time to time within the same industry** as driving forces and competitive conditions change.",
+      "**Only rarely does an industry have more than three or four key success factors at any one time**, and even among these three or four, **one or two usually outrank the others in importance**.",
+      "Managers therefore have to **resist the temptation to include factors that have only minor importance** on their list.",
+      "**The reason:** the purpose of identifying KSFs is to make judgments about what is more important to competitive success and what is less important. **To compile a list of every factor that matters even a little bit defeats the purpose** of concentrating management attention on the factors truly critical to long-term competitive success.",
+      "**Illustration:** in apparel manufacturing the KSFs are **appealing designs and colour combinations**, to create buyer interest, and **low-cost manufacturing efficiency**, to permit attractive retail pricing and ample profit margins — two factors, not ten. Misdiagnosing the factors critical to long-term success greatly raises the risk of a misdirected strategy."
+     ],
+     "keywords": [
+      "vary from industry to industry",
+      "three or four",
+      "one or two usually outrank",
+      "resist the temptation",
+      "defeats the purpose",
+      "appealing designs and colour combinations",
+      "low-cost manufacturing efficiency"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "PYQ-M25-Q8a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "What do you mean by Key Success Factors (KSF)? Structure the questions, answer to which can help identify KSFs of a company. Also state, as to how the understanding can help ascertain sustainable competitive advantages. (1 + 2 + 2 = 5 Marks)",
+     "answer_points": [
+      "**Key Success Factors (KSFs)** are those factors that most significantly impact an industry member's ability to succeed in the marketplace. These include **strategic elements, product attributes, resources, competencies, capabilities and outcomes** that determine whether a firm achieves profitability and competitive success. In other words, **KSFs are the prerequisites for success in an industry**.",
+      "**Question 1:** On what basis do customers choose between the competing brands of sellers?",
+      "**Question 2:** What resources and competitive capabilities are necessary to be successful?",
+      "**Question 3:** What does it take to achieve a sustainable competitive advantage?",
+      "**How the understanding helps:** a company that accurately understands the industry's KSFs can **tailor its strategy to focus on excelling in these critical areas**. By being **distinctively better than competitors on one or more key success factors**, the company can gain a sustainable competitive advantage.",
+      "**The warning:** misjudging the importance of KSFs can lead to a **misdirected strategy and competitive failure**. Thus, aligning the company's efforts with the industry's KSFs increases the likelihood of long-term success and a stronger market position."
+     ],
+     "keywords": [
+      "most significantly impact",
+      "prerequisites for success in an industry",
+      "on what basis do customers choose",
+      "resources and competitive capabilities",
+      "distinctively better than competitors",
+      "misdirected strategy"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "MTP-J25-S2-SQ2a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Analyze the role of Key Success Factors (KSFs) in determining competitive success within an industry. (5 Marks)",
+     "answer_points": [
+      "An industry's Key Success Factors are those things that **most affect industry members' ability to prosper in the marketplace** — the particular strategy elements, product attributes, resources, competencies, competitive capabilities and business outcomes that **spell the difference between profit and loss** and, ultimately, between **competitive success or failure**.",
+      "KSFs by their very nature are **so important that all firms in the industry must pay close attention to them**.",
+      "They are the **prerequisites for industry success** or, to put it another way, **KSFs are the rules that shape whether a company will be financially and competitively successful**.",
+      "ICAI's published answer for this form of the question is this definitional paragraph alone — shorter than candidates expect, which is worth knowing: a full-length answer should add the three identification questions and the advantage paragraph, but the core marks sit in the definition.",
+      "A complete answer therefore continues: the three questions that identify KSFs; the apparel-industry illustration; the point that only rarely does an industry have more than three or four KSFs; and the conclusion that being distinctively better than rivals on one or more presents a golden opportunity for competitive advantage."
+     ],
+     "keywords": [
+      "most affect industry members' ability to prosper",
+      "spell the difference between profit & loss",
+      "pay close attention",
+      "prerequisites for industry success",
+      "rules that shape"
+     ],
+     "also_asked_as": [
+      "MTP-S24-S2-SQ2a asks the identical question with the identical published answer."
+     ]
+    },
+    {
+     "id": "MTP-M25-S2-SQ1a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "ABC Tech, a leading smartphone manufacturer, is navigating a highly competitive market where innovation and cost efficiency are key. Customers prioritize battery life, camera quality, and seamless software integration when choosing a brand. To stay ahead, ABC Tech invests heavily in research and development, optimizes its supply chain for cost-effective production, and enhances customer service. Identify the Key Success Factors (KSFs) for ABC Tech based on the industry conditions described. How can the company achieve a sustainable competitive advantage by leveraging these factors? (5 Marks)",
+     "answer_points": [
+      "**KSF 1 — Product Innovation:** superior battery life, camera quality and seamless software integration are the crucial attributes influencing customer choice.",
+      "**KSF 2 — Cost Efficiency:** optimising the supply chain ensures competitive pricing and higher profit margins.",
+      "**KSF 3 — Customer Experience:** high-quality customer service builds brand loyalty and differentiation.",
+      "**Action 1:** focus on continuous R&D to introduce advanced features that set its products apart. **Action 2:** streamline the supply chain to maintain cost leadership while ensuring product quality. **Action 3:** enhance customer engagement through superior after-sales service and ecosystem integration.",
+      "**Conclusion:** by excelling in these KSFs, ABC Tech can establish a distinct market position and outperform competitors in the long run.",
+      "**Note on classification:** although the stem mentions R&D, supply chain and customer service — three value-chain activities — ICAI's published answer is framed entirely as Key Success Factors, which is why this atom's primary code is S02.24 rather than S02.12."
+     ],
+     "keywords": [
+      "product innovation",
+      "cost efficiency",
+      "customer experience",
+      "continuous R&D",
+      "cost leadership while ensuring product quality",
+      "ecosystem integration"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-S02.24-01",
+     "angle": "How many",
+     "difficulty": "Moderate",
+     "question": "As per the study material, how many key success factors does an industry usually have at any one time?",
+     "options": {
+      "A": "Rarely more than three or four, of which one or two usually outrank the others",
+      "B": "Exactly five, matching Porter's five forces",
+      "C": "At least ten, covering every function of the business",
+      "D": "One, which defines the industry"
+     },
+     "answer": "A",
+     "explanation": "SM §2.7.2: 'Only rarely does an industry have more than three or four key success factors at any one time. And even among these three or four, one or two usually outrank the others in importance.'",
+     "why_wrong": {
+      "B": "No connection to the five forces is drawn.",
+      "C": "The study material warns that listing every factor defeats the purpose.",
+      "D": "One or two outrank the others, but the usual number is three or four."
+     },
+     "trap": "Option B links two famous lists that the study material keeps separate.",
+     "concept": "S02.24"
+    },
+    {
+     "id": "MCQ-S02.24-02",
+     "angle": "The illustration",
+     "difficulty": "Easy",
+     "question": "In apparel manufacturing, the study material names the key success factors as:",
+     "options": {
+      "A": "Brand endorsement and retail footprint",
+      "B": "Export incentives and duty drawback",
+      "C": "Appealing designs and colour combinations, and low-cost manufacturing efficiency",
+      "D": "Vertical integration and patent protection"
+     },
+     "answer": "C",
+     "explanation": "SM §2.7.2: in apparel manufacturing the KSFs are appealing designs and colour combinations, to create buyer interest, and low-cost manufacturing efficiency, to permit attractive retail pricing and ample profit margins.",
+     "why_wrong": {
+      "A": "Not the named factors.",
+      "B": "Not mentioned in this chapter.",
+      "D": "Vertical integration is a strategic-group variable; patents are an entry barrier."
+     },
+     "trap": "All four sound plausible for the garment trade; only one pair is printed.",
+     "concept": "S02.24"
+    }
+   ],
+   "recap": [
+    "KSFs are what most affect industry members' ability to prosper — strategy elements, product attributes, resources, competencies, capabilities and business outcomes; the prerequisites for industry success.",
+    "Three identification questions: why customers choose between brands · what resources and capabilities are needed · what it takes to sustain advantage.",
+    "Apparel illustration: appealing designs and colour combinations, plus low-cost manufacturing efficiency.",
+    "Being distinctively better than rivals on one or more KSFs is a golden opportunity; misdiagnosis risks a misdirected strategy.",
+    "Rarely more than three or four at a time; listing everything defeats the purpose."
+   ]
+  }
+ ]
+}

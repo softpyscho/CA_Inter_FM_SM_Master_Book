@@ -1,0 +1,544 @@
+{
+ "concepts": [
+  {
+   "code": "S02.15",
+   "title": "2.5.2 Attractiveness of Industry",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 0 (appears only as the second half of five-forces answers)",
+   "understand": [
+    "==**The industry analysis culminates into identification of various issues and draws conclusions about the relative attractiveness or unattractiveness of the industry, both near-term and long-term.**== Strategists assess the industry outlook carefully, deciding whether industry and competitive conditions present an **attractive business opportunity** or whether growth and profit prospects are **gloomy**. This matters because companies invest capital — either the promoters' or from the public — and **should be inherently careful in choosing an industry**.",
+    "**The nine factors on which management may base such conclusions:**",
+    "**(i)** The industry's **growth potential** — is it futuristically viable?",
+    "**(ii)** Whether **competition currently permits adequate profitability**, and whether competitive forces will become **stronger or weaker**.",
+    "**(iii)** Whether industry profitability will be **favourably or unfavourably affected by the prevailing driving forces**.",
+    "**(iv)** The **competitive position of the organisation** in the industry and whether that position is likely to grow stronger or weaker. ICAI's parenthesis is important: ==being a **well-entrenched leader or strongly positioned contender in an otherwise lacklustre industry can still produce good profitability**; however, having to **fight an uphill battle against much stronger rivals can make an otherwise attractive industry unattractive**.==",
+    "**(v)** The **potential to capitalise on the vulnerabilities of weaker rivals** — perhaps converting an unattractive industry situation into a potentially rewarding company opportunity.",
+    "**(vi)** Whether the company is **able to defend against or counteract the factors** that make the industry unattractive.",
+    "**(vii)** The **degrees of risk and uncertainty** in the industry's future.",
+    "**(viii)** The **severity of problems confronting the industry as a whole**.",
+    "**(ix)** Whether **continued participation in this industry adds importantly to the firm's ability to be successful in other industries** in which it may have business interests.",
+    "**The general proposition and its qualification.** As a general proposition, ==if an industry's overall profit prospects are **above average**, the industry can be considered **attractive**; if below average, it is **unattractive**. However, **it is a mistake to think of industries as being attractive or unattractive to all firms in the industry and all potential entrants** — **attractiveness is relative, not absolute.** Industry environments unattractive to weak competitors may be attractive to strong competitors.==",
+    "**What follows from the verdict.** An assessment that the industry is **fundamentally attractive** typically suggests that current participants employ strategies calculated to **strengthen their long-term competitive positions**, expanding sales efforts and investing in additional facilities and equipment as needed.",
+    "If the industry and competitive situation is judged **relatively unattractive**, more successful participants may choose to **invest cautiously**, look for ways to **protect their long-term competitiveness and profitability**, and perhaps **acquire smaller firms if the price is right**; over the longer term, strong companies may consider **diversification into more attractive businesses**.",
+    "**Weak companies in unattractive industries** may consider **merging with a rival to bolster market share and profitability** or, alternatively, **begin looking outside the industry for attractive diversification opportunities**."
+   ],
+   "example": "Two firms look at the same slow-growing, price-competitive packaging industry. The entrenched leader with the lowest costs reads it as attractive and funds a new plant. A sub-scale follower reads the same industry as unattractive and merges with a rival to bolster share. Both readings are correct — that is what 'attractiveness is relative, not absolute' means.",
+   "keywords": [
+    "culminates into identification of various issues",
+    "both near-term and long-term",
+    "gloomy",
+    "inherent careful in choosing an industry",
+    "futuristically viable",
+    "well-entrenched leader",
+    "lacklustre industry can still produce good profitability",
+    "uphill battle against much stronger rivals",
+    "vulnerabilities of weaker rivals",
+    "degrees of risk and uncertainty",
+    "above average… below average",
+    "attractiveness is relative, not absolute",
+    "invest cautiously",
+    "acquire smaller firms if the price is right",
+    "merging with a rival to bolster market share"
+   ],
+   "memory": {
+    "trick": "Three strategic postures follow the verdict — **Strong firm + attractive industry** = expand and invest; **strong firm + unattractive industry** = invest cautiously, protect, buy cheap, then diversify; **weak firm + unattractive industry** = merge or leave.",
+    "key": [
+     [
+      "Attractive",
+      "Strengthen long-term positions; expand sales efforts; invest in facilities"
+     ],
+     [
+      "Unattractive, strong",
+      "Invest cautiously; protect competitiveness; acquire smaller firms if the price is right; later diversify"
+     ],
+     [
+      "Unattractive, weak",
+      "Merge with a rival to bolster share, or look outside the industry to diversify"
+     ],
+     [
+      "Rule",
+      "Attractiveness is relative, not absolute"
+     ]
+    ],
+    "recall_trigger": "Who is asking? Strong or weak — the industry's attractiveness depends on it"
+   },
+   "mistakes": [
+    "Declaring an industry attractive or unattractive in the abstract. The study material insists attractiveness is relative to the firm asking the question.",
+    "Giving only the growth-potential factor. The published list has nine factors, and the firm's own competitive position is one of them.",
+    "Prescribing exit for every unattractive industry. Strong participants are told to invest cautiously, protect profitability and buy smaller firms cheaply before considering diversification.",
+    "Ignoring the near-term/long-term split. The conclusion must be drawn 'both near-term and long-term'."
+   ],
+   "links": [
+    "🔗 S02.14: the collective strength of the five forces is the main input to this judgement",
+    "🔗 S02.13: industry analysis culminates here",
+    "🔗 SM Ch 4: the GE nine-cell matrix plots industry attractiveness against business strength, and the BCG matrix uses market growth",
+    "🔗 S02.16: a strong experience-curve position is what lets a leader profit in a lacklustre industry"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Has never been asked on its own in the period reviewed; it appears as the closing judgement in five-forces answers (RTP Jan 2026 Q10 and PYQ Jan 2025 Q8(a) both carry S02.15 as a secondary code)",
+     "A likely future form: 'State the factors on which management bases its conclusion about industry attractiveness' or 'Attractiveness is relative, not absolute — discuss'"
+    ],
+    "approach": [
+     "Open with the 'culminates… both near-term and long-term' sentence, give the nine factors as a numbered list, then the above-average/below-average proposition, then the relative-not-absolute qualification.",
+     "If the question is a case, finish with the posture that matches the firm's strength — expand, invest cautiously, or merge and look outside."
+    ],
+    "official_pattern": "No stand-alone published question. ICAI's five-forces answers end with the attractiveness sentence — 'these forces collectively determine industry's attractiveness and profitability' — which is this heading doing its work inside another answer.",
+    "time_tip": "If asked as a 5-mark part, nine factors at about 30 seconds each plus the two propositions fills seven minutes (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S02.15-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "\"Attractiveness is relative, not absolute.\" Explain how a strategist concludes on the attractiveness of an industry, and what strategies follow from the conclusion.",
+     "answer_points": [
+      "Industry analysis culminates in conclusions about the relative attractiveness or unattractiveness of the industry, **both near-term and long-term**; companies invest the promoters' or the public's capital and should be careful in choosing an industry.",
+      "**The factors considered:** growth potential and futuristic viability; whether competition currently permits adequate profitability and whether the forces will strengthen or weaken; whether prevailing driving forces will affect profitability favourably or unfavourably; the firm's own competitive position and whether it will grow stronger or weaker; the potential to capitalise on the vulnerabilities of weaker rivals; the ability to defend against or counteract the unattractive factors; the degrees of risk and uncertainty; the severity of problems confronting the industry as a whole; and whether continued participation adds importantly to the firm's success in other industries.",
+      "**The general proposition:** above-average overall profit prospects make an industry attractive; below-average prospects make it unattractive.",
+      "**The qualification:** it is a mistake to think of industries as attractive or unattractive to all firms and all potential entrants — attractiveness is relative, not absolute. Environments unattractive to weak competitors may be attractive to strong ones; a well-entrenched leader in a lacklustre industry can still earn good profits, while an uphill battle against much stronger rivals can make an otherwise attractive industry unattractive.",
+      "**Strategies that follow:** if attractive, strengthen long-term competitive positions, expand sales efforts and invest in facilities. If unattractive, successful participants invest cautiously, protect long-term competitiveness and profitability, perhaps acquire smaller firms if the price is right, and over the longer term consider diversification. Weak companies in unattractive industries may merge with a rival to bolster market share and profitability, or look outside the industry for diversification opportunities."
+     ],
+     "keywords": [
+      "near-term and long-term",
+      "futuristically viable",
+      "vulnerabilities of weaker rivals",
+      "relative, not absolute",
+      "invest cautiously",
+      "if the price is right",
+      "merging with a rival"
+     ]
+    }
+   ],
+   "official_questions": [],
+   "mcqs": [
+    {
+     "id": "MCQ-S02.15-01",
+     "angle": "Relative or absolute",
+     "difficulty": "Moderate",
+     "question": "As per the study material, which statement about industry attractiveness is correct?",
+     "options": {
+      "A": "Attractiveness is relative, not absolute — an environment unattractive to weak competitors may be attractive to strong ones",
+      "B": "An industry with below-average profit prospects is unattractive to every firm in it",
+      "C": "Attractiveness is judged only in the long term, since near-term conditions fluctuate",
+      "D": "A well-entrenched leader in a lacklustre industry cannot earn good profitability"
+     },
+     "answer": "A",
+     "explanation": "SM §2.5.2: 'Attractiveness is relative, not absolute. Industry environments unattractive to weak competitors may be attractive to strong competitors.'",
+     "why_wrong": {
+      "B": "The study material calls it a mistake to think of industries as attractive or unattractive to all firms and all potential entrants.",
+      "C": "Conclusions are drawn both near-term and long-term.",
+      "D": "The study material says such a leader can still produce good profitability."
+     },
+     "trap": "Option B states the general proposition correctly but over-extends it to every firm, which the next sentence of the study material denies.",
+     "concept": "S02.15"
+    },
+    {
+     "id": "MCQ-S02.15-02",
+     "angle": "Which posture",
+     "difficulty": "Moderate",
+     "question": "A weak company in an industry judged relatively unattractive is, as per the study material, likely to:",
+     "options": {
+      "A": "Expand sales efforts and invest in additional facilities and equipment",
+      "B": "Acquire several larger rivals to gain scale",
+      "C": "Consider merging with a rival to bolster market share and profitability, or look outside the industry for diversification opportunities",
+      "D": "Raise prices to restore margins"
+     },
+     "answer": "C",
+     "explanation": "SM §2.5.2 prescribes exactly this for weak companies in unattractive industries; expansion and investment are the response to an attractive industry, and buying *smaller* firms cheaply is the strong participant's option.",
+     "why_wrong": {
+      "A": "That is the posture for a fundamentally attractive industry.",
+      "B": "The study material refers to acquiring **smaller** firms if the price is right, and that option belongs to strong participants.",
+      "D": "No such prescription appears; in an unattractive industry rivalry usually prevents price rises."
+     },
+     "trap": "Option B inverts 'smaller firms if the price is right' into 'larger rivals'.",
+     "concept": "S02.15"
+    }
+   ],
+   "recap": [
+    "Industry analysis culminates in a near-term and long-term attractiveness verdict.",
+    "Nine factors, including the firm's own competitive position and the ability to exploit weaker rivals.",
+    "Above-average prospects = attractive; below-average = unattractive — but attractiveness is relative, not absolute.",
+    "Attractive → strengthen position, expand, invest. Unattractive and strong → invest cautiously, protect, buy small firms cheap, later diversify. Unattractive and weak → merge or look outside."
+   ]
+  },
+  {
+   "code": "S02.16",
+   "title": "2.5.3 Experience Curve",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 · RTP 1 · MTP 2",
+   "understand": [
+    "==**The experience curve is akin to a learning curve, which explains the efficiency increase gained by workers through repetitive productive work.** The experience curve is based on the commonly observed phenomenon that **unit costs decline as a firm accumulates experience in terms of a cumulative volume of production**. It is based on the concept, **\"we learn as we grow\"**.==",
+    "==**The implication** is that **larger firms in an industry would tend to have lower unit costs as compared to those for smaller companies, thereby gaining a competitive cost advantage.**==",
+    "**The experience curve results from a variety of factors:** **learning effects, economies of scale, product redesign and technological improvements in production.** Note that economies of scale is only *one* of the four causes — the experience curve is not a synonym for scale economies.",
+    "**The three features of the experience curve:** **(i)** as business organisations grow, **they gain experience**; **(ii)** experience may provide an **advantage over the competition** — ==**experience is a key barrier to entry**==; **(iii)** **large and successful organisations possess a stronger \"experience effect\"**.",
+    "A typical experience curve is drawn with cumulative volume on one axis and unit cost on the other, falling steeply at first and then flattening. ==**As a business grows, it understands the complexities and benefits from its experiences.**==",
+    "**Relevance in strategic management.** The concept is relevant for a number of areas. **(i)** It is considered **a barrier for new firms contemplating entry** into an industry. **(ii)** It is **used to build market share and discourage competition.** **(iii)** ICAI's contemporary Indian illustration: ==**in the contemporary Indian automobile industry, the experience curve phenomenon seems to be working in Maruti Suzuki.**== **(iv)** For competitors facing an entrenched experience-curve leader, ==**the likely strategic choice can be a market niche approach or segmentation based on demography or geography.**==",
+    "Read this heading together with §2.5.1: 'economies of scale' is the second of the seven barriers to entry, and 'experience is a key barrier to entry' is the experience curve's own second feature — ICAI connects the two deliberately, which is why MTP September 2026 Series 2 offered the experience curve and the barriers to entry as alternatives to each other in one question."
+   ],
+   "example": "Two cement plants start the same year. The one that has since produced four times the tonnage has retrained its crews, redesigned its kiln feed, bought bigger mills and automated packing — four of the four stated causes — and its cost per tonne is materially lower. A new entrant cannot buy that position; it can only pick a niche, such as a single state or a specialist grade. That is the experience curve both as a cost advantage and as a barrier to entry.",
+   "keywords": [
+    "akin to a learning curve",
+    "efficiency increase gained by workers through repetitive productive work",
+    "unit costs decline as a firm accumulates experience",
+    "cumulative volume of production",
+    "we learn as we grow",
+    "larger firms… lower unit costs",
+    "competitive cost advantage",
+    "learning effects, economies of scale, product redesign and technological improvements",
+    "experience is a key barrier to entry",
+    "stronger experience effect",
+    "understands the complexities",
+    "build market share and discourage competition",
+    "Maruti Suzuki",
+    "market niche approach or segmentation based on demography or geography"
+   ],
+   "memory": {
+    "trick": "Four causes = \"L-E-P-T\" (\"Learn, Expand, Perfect, Technologise\"): Learning effects, Economies of scale, Product redesign, Technological improvements. Three features = Grow → Advantage (barrier) → Bigger firms, stronger effect.",
+    "key": [
+     [
+      "L",
+      "Learning effects"
+     ],
+     [
+      "E",
+      "Economies of scale"
+     ],
+     [
+      "P",
+      "Product redesign"
+     ],
+     [
+      "T",
+      "Technological improvements in production"
+     ],
+     [
+      "Features",
+      "Grow and gain experience · experience is a key barrier to entry · large firms have a stronger experience effect"
+     ]
+    ],
+    "recall_trigger": "Learn, Expand, Perfect, Technologise — we learn as we grow"
+   },
+   "mistakes": [
+    "Equating the experience curve with economies of scale. Scale is one of four causes; learning effects, product redesign and technological improvements are the others.",
+    "Omitting 'we learn as we grow'. It is the study material's own encapsulation and an easy keyword mark.",
+    "Dropping the niche prescription. A complete 'relevance' answer ends with the competitor's likely response — a market niche approach or segmentation by demography or geography.",
+    "Forgetting the Maruti Suzuki illustration, which ICAI prints in the chapter and candidates can cite verbatim."
+   ],
+   "links": [
+    "🔗 S02.14: economies of scale and experience are both barriers to entry",
+    "🔗 S02.11: cumulative volume grows as the product moves through its life cycle",
+    "🔗 S02.17: a cost advantage is one of Porter's two routes to competitive advantage",
+    "🔗 FM Ch 7: operating leverage — high fixed costs spread over greater volume is the financial counterpart of this curve"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "'Explain the concept of Experience Curve and highlight its relevance in strategic management' (RTP May 2024 Q10, repeated as MTP Sep 2025 S2 Q3(b))",
+     "'Which concept explains the efficiency increase gained by workers through repetitive production work? List down its relevance features' (PYQ Sep 2025 Q6(b), repeated as MTP Sep 2026 S2 Q4(b))"
+    ],
+    "approach": [
+     "Name the concept in the first line when the question describes it instead of naming it — ICAI's September 2025 answer opens 'The concept is Experience Curve.'",
+     "Then give the definition with 'we learn as we grow', the implication for larger firms, the four causes, and the three or four features; close with the strategic-management relevance."
+    ],
+    "official_pattern": "ICAI publishes two slightly different lists. The RTP May 2024 answer gives the three features as bullet points and then the relevance paragraph with Maruti Suzuki. The Sep 2025 answer gives **four** 'relevant features' bullets, adding 'experience is considered a key barrier to entry for new firms contemplating industry entry' as a separate bullet, and closes with a sentence tying growth, learning, cost reduction and competitive advantage together.",
+    "time_tip": "5 marks ≈ 7 minutes (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S02.16-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "State the factors from which the experience curve results, and explain the strategic choice open to a competitor facing a firm that enjoys a strong experience-curve position.",
+     "answer_points": [
+      "The experience curve results from a variety of factors: **learning effects, economies of scale, product redesign and technological improvements in production.**",
+      "Its features are that as organisations grow they gain experience; experience may provide an advantage over the competition and is a key barrier to entry; and large and successful organisations possess a stronger 'experience effect'.",
+      "The implication is that larger firms tend to have lower unit costs than smaller companies, gaining a competitive cost advantage; the concept is used to **build market share and discourage competition**, and ICAI cites **Maruti Suzuki** in the contemporary Indian automobile industry.",
+      "**The competitor's strategic choice:** facing such a firm, the likely choice is a **market niche approach, or segmentation based on demography or geography** — competing where the leader's accumulated volume advantage does not apply.",
+      "This is why the experience curve is treated as a barrier for new firms contemplating entry into an industry, alongside economies of scale in the list of seven barriers to entry."
+     ],
+     "keywords": [
+      "learning effects",
+      "product redesign",
+      "technological improvements in production",
+      "key barrier to entry",
+      "market niche approach",
+      "segmentation based on demography or geography"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "RTP-M24-SQ10",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "Explain the concept of Experience Curve and highlight its relevance in strategic management.",
+     "answer_points": [
+      "Experience curve is **akin to a learning curve which explains the efficiency increase gained by workers through repetitive productive work**. It is based on the commonly observed phenomenon that **unit costs decline as a firm accumulates experience in terms of a cumulative volume of production** — the concept, **\"we learn as we grow\"**.",
+      "**The implication** is that larger firms in an industry would tend to have **lower unit costs** as compared to smaller companies, thereby gaining a **competitive cost advantage**.",
+      "**The experience curve results from a variety of factors** such as learning effects, economies of scale, product redesign and technological improvements in production.",
+      "**Features:** as business organisations grow, they gain experience; experience may provide an advantage over the competition — **experience is a key barrier to entry**; large and successful organisations possess a stronger 'experience effect'.",
+      "**As a business grows, it understands the complexities and benefits from its experiences.**",
+      "**Relevance in strategic management:** the experience curve is considered **a barrier for new firms contemplating entry** in an industry, and it is also **used to build market share and discourage competition**."
+     ],
+     "keywords": [
+      "akin to a learning curve",
+      "we learn as we grow",
+      "competitive cost advantage",
+      "key barrier to entry",
+      "build market share and discourage competition"
+     ],
+     "also_asked_as": [
+      "MTP-S25-S2-SQ3b asks the identical question with the identical published answer."
+     ]
+    },
+    {
+     "id": "PYQ-S25-Q6b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Which concept explains the efficiency increase gained by worker through repetitive production work, leading to cost reduction and competitive advantage? List down its relevance features in strategic management. (5 Marks)",
+     "answer_points": [
+      "**The concept is Experience Curve.** The experience curve, akin to a learning curve, explains the efficiency increase gained by workers through repetitive productive work. It is based on the phenomenon that unit costs decline as a firm accumulates experience in terms of a cumulative volume of production — the idea being, **\"we learn as we grow.\"**",
+      "**Relevant feature 1:** as business organisations grow, they gain experience which **enables cost efficiencies**.",
+      "**Relevant feature 2:** experience may provide an advantage over competition, as **lower costs create a barrier for new entrants**.",
+      "**Relevant feature 3:** experience is considered a **key barrier to entry** for new firms contemplating industry entry.",
+      "**Relevant feature 4:** large and successful organisations possess a **stronger experience effect**, helping in leadership and cost advantage.",
+      "**ICAI's closing sentence:** thus the experience curve is a critical concept in strategic management as it links growth with learning, cost reduction and competitive advantage, making it a strong determinant of industry positioning and entry barriers."
+     ],
+     "keywords": [
+      "The concept is Experience Curve",
+      "enables cost efficiencies",
+      "barrier for new entrants",
+      "stronger experience effect",
+      "industry positioning and entry barriers"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "MTP-S26-S2-SQ4b asks this question with an OR alternative on the common barriers restraining new entrepreneurs, and reproduces both published answers — making it the one place where ICAI explicitly pairs the experience curve with the barriers-to-entry list."
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-S02.16-01",
+     "angle": "Which cause",
+     "difficulty": "Moderate",
+     "question": "Which of the following is **not** listed in the study material as a factor from which the experience curve results?",
+     "options": {
+      "A": "Brand loyalty built through advertising",
+      "B": "Learning effects",
+      "C": "Product redesign",
+      "D": "Technological improvements in production"
+     },
+     "answer": "A",
+     "explanation": "SM §2.5.3 lists four factors: learning effects, economies of scale, product redesign and technological improvements in production. Brand loyalty is a barrier to entry (brand identity), not a cause of the experience curve.",
+     "why_wrong": {
+      "B": "Listed.",
+      "C": "Listed.",
+      "D": "Listed."
+     },
+     "trap": "Brand identity is a genuine concept from the same chapter, but it belongs to the barriers-to-entry list.",
+     "concept": "S02.16"
+    },
+    {
+     "id": "MCQ-S02.16-02",
+     "angle": "Company illustration",
+     "difficulty": "Easy",
+     "question": "Which company does the study material cite as an example of the experience curve phenomenon in the contemporary Indian automobile industry?",
+     "options": {
+      "A": "Tata Motors",
+      "B": "Mahindra & Mahindra",
+      "C": "Maruti Suzuki",
+      "D": "Hero MotoCorp"
+     },
+     "answer": "C",
+     "explanation": "SM §2.5.3: 'In the contemporary Indian automobile industry, the experience curve phenomenon seems to be working in Maruti Suzuki.'",
+     "why_wrong": {
+      "A": "Not cited in this chapter.",
+      "B": "Not cited in this chapter.",
+      "D": "Not cited in this chapter."
+     },
+     "trap": "All four are real Indian automotive firms; only one is named.",
+     "concept": "S02.16"
+    }
+   ],
+   "recap": [
+    "Experience curve: unit costs decline as cumulative volume of production grows — 'we learn as we grow'.",
+    "Implication: larger firms have lower unit costs and a competitive cost advantage.",
+    "Four causes: learning effects, economies of scale, product redesign, technological improvements in production.",
+    "Three features: growth brings experience · experience is a key barrier to entry · large firms have a stronger experience effect.",
+    "Relevance: barrier to entry, builds market share, discourages competition; Maruti Suzuki is ICAI's illustration; rivals respond with a niche or demographic/geographic segmentation."
+   ]
+  },
+  {
+   "code": "S02.17",
+   "title": "2.5.4 Value Creation",
+   "activity": "Core",
+   "update_sensitive": true,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 0 — a heading added in the 2026 syllabus edition and not yet examined",
+   "understand": [
+    "**The concept of value creation** was introduced primarily for providing products and services to customers **with more worth**. ==**Value is measured by a product's features, quality, availability, durability, performance and by its services, for which customers are willing to pay.**== The concept later took more space in business, and organisations started discussing **value creation for stakeholders**.",
+    "==**Value creation is an activity or performance by the firm to create value that increases the worth of goods, services, business processes or even the whole business system.**== Many businesses now focus on value creation both for **customers purchasing its products and services** and for **stakeholders in the business who want to see their investment appreciate in value**. Ultimately the concept gives a business a **competitive advantage in the industry** and helps it earn **above average profits/returns**.",
+    "**The profitable pricing band.** The chapter's figure sets out the arithmetic of value creation on a single vertical scale: at the bottom is the **firm's cost of value creation**; above it is the **price**; above that, the **value to customer**. The gap between price and cost is the **firm's margin**; the gap between value to customer and price is the **customer's surplus**; and the whole band between cost and value to customer is the **profitable pricing band**. ==**It is basically the value the consumer wants to pay, over and above the price that the business wants to charge from the consumer. This excess amount is called value creation, wherein the consumers value the product or service more than it actually costs them.**==",
+    "**Competitive advantage leads to superior profitability.** ==At the most basic level, how profitable a company becomes depends on **three factors**: **(1) the value customers place on the company's products; (2) the price that a company charges for its products; and (3) the costs of creating those products.**==",
+    "**Utility versus price.** The value customers place on a product reflects the **utility** they get from it — **the happiness or satisfaction gained from consuming or owning the product**. ==**Utility must be distinguished from price. Utility is something that customers get from a product**; it is a function of the attributes of the product, such as its **performance, design, quality, and point-of-sale and after-sale service**.==",
+    "**Porter's two routes.** Companies ultimately aim to achieve **sustainable competitive advantage**, which enables them to succeed in the long run. ==Michael Porter argues that a company can generate competitive advantage in **two different ways, either through differentiation or cost advantage**.== According to Porter, **differentiation means the capability to provide customers superior and special value in the form of a product's special features and quality, or in the form of after-sales customer service**. As a result of differentiation a company **can demand a higher price** for its products or services, and it will earn higher profits from differentiation **in case the expenses stay comparable to the costs of competitors**.",
+    "**Why the value chain follows.** Differentiation and cost advantage affect a company's ability to achieve competitive advantage, but **many different organisational functions influence whether a company can achieve either**. ==Michael Porter used the concept of the **value chain** to explore more closely the different functions of organisations and the mutual interactions among them: **value chain analysis provides an excellent tool to examine the origin of competitive advantage**, dividing the organisation into **two strategically important groups of activities — primary activities and supporting activities** — which help comprehend the **potential sources for differentiation** and understand an **organisation's cost behaviour**.=="
+   ],
+   "example": "A premium water purifier costs the maker ₹6,000, sells at ₹11,000, and a buyer who values the health benefit and the five-year service plan would have paid ₹14,000. The firm's margin is ₹5,000, the customer's surplus is ₹3,000, and the profitable pricing band runs from ₹6,000 to ₹14,000. The ₹3,000 the customer keeps is the value created — and it is what makes the purchase feel worth more than it cost.",
+   "keywords": [
+    "products and services to the customers with more worth",
+    "features, quality, availability, durability, performance",
+    "increases the worth of goods, services, business processes or even the whole business system",
+    "above average profits/returns",
+    "customer's surplus",
+    "firm's margin",
+    "firm's cost of value creation",
+    "profitable pricing band",
+    "value the consumer wants to pay, over and above the price",
+    "three factors",
+    "utility",
+    "happiness or satisfaction gained from consuming or owning",
+    "utility must be distinguished from price",
+    "differentiation or cost advantage",
+    "demand higher price",
+    "expenses stay comparable to the costs of competitors",
+    "examine the origin of competitive advantage",
+    "potential sources for differentiation"
+   ],
+   "memory": {
+    "trick": "Three profitability factors = **V-P-C** (\"Value, Price, Cost\"). Stack them bottom-up: **C**ost → **P**rice → **V**alue; margin sits between C and P, customer's surplus between P and V.",
+    "key": [
+     [
+      "V",
+      "Value customers place on the product (utility: performance, design, quality, service)"
+     ],
+     [
+      "P",
+      "Price the company charges"
+     ],
+     [
+      "C",
+      "Cost of creating the product"
+     ],
+     [
+      "Margin",
+      "Price minus cost — the firm's share"
+     ],
+     [
+      "Surplus",
+      "Value minus price — the customer's share"
+     ]
+    ],
+    "recall_trigger": "Cost, Price, Value — margin below, surplus above"
+   },
+   "mistakes": [
+    "Equating value with price. The study material insists utility is something customers *get* from a product, and must be distinguished from price.",
+    "Naming four or five factors of profitability. There are **three**: value customers place on the product, the price charged, and the cost of creating it.",
+    "Giving three routes to competitive advantage. Porter's argument as quoted here is **two** — differentiation or cost advantage. (The generic-strategies treatment in Chapter 3 adds focus.)",
+    "Forgetting the condition on differentiation: higher profits follow **only if expenses stay comparable to competitors' costs**.",
+    "Treating value creation as a customer-only idea. The study material extends it to stakeholders who want their investment to appreciate."
+   ],
+   "links": [
+    "🔗 S02.12: Porter used the value chain precisely to explore the origin of competitive advantage described here",
+    "🔗 S02.10: value is measured by the product's features, quality and services — the third characteristic of a business product",
+    "🔗 SM Ch 3 §3.12: Porter's generic strategies develop cost leadership and differentiation in full",
+    "🔗 FM Ch 1 §4: maximising shareholders' wealth is the financial statement of 'value creation for stakeholders'"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Not yet examined. The most likely forms are a 5-mark 'explain the concept of value creation and the three factors on which profitability depends', or an MCQ distinguishing utility from price, or a case asking which of Porter's two routes a firm is following"
+    ],
+    "approach": [
+     "Open with the definition — an activity or performance by the firm to create value that increases the worth of goods, services, business processes or even the whole business system — then the three factors, then utility versus price, then Porter's two routes.",
+     "If a diagram is wanted, draw the vertical band: cost at the bottom, price in the middle, value to customer at the top, labelling firm's margin and customer's surplus."
+    ],
+    "official_pattern": "No published question yet. Because the heading is new in the 2026 edition and sits between two heavily examined headings, treat it as live for the next attempt.",
+    "time_tip": "5 marks ≈ 7 minutes (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S02.17-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "Explain the concept of value creation. On what three factors does a company's profitability depend, and how does the study material distinguish utility from price?",
+     "answer_points": [
+      "**Value creation** is an activity or performance by the firm to create value that increases the worth of goods, services, business processes or even the whole business system. It was introduced to provide products and services to customers with more worth, and value is measured by a product's features, quality, availability, durability, performance and services, for which customers are willing to pay.",
+      "Businesses now focus on value creation both for customers buying their products and for stakeholders who want their investment to appreciate; ultimately it gives competitive advantage in the industry and helps earn above-average profits or returns.",
+      "**The three factors on which profitability depends:** (1) the value customers place on the company's products; (2) the price the company charges for its products; and (3) the costs of creating those products.",
+      "**Utility versus price:** the value customers place on a product reflects the utility they get from it — the happiness or satisfaction gained from consuming or owning the product. Utility must be distinguished from price: utility is something customers *get* from a product, and is a function of the attributes of the product such as performance, design, quality and point-of-sale and after-sale service.",
+      "The gap between value to customer and price is the **customer's surplus**; between price and cost is the **firm's margin**; the whole band is the **profitable pricing band**. The excess of what the consumer would pay over the price charged is value creation — the consumer values the product more than it actually costs them."
+     ],
+     "keywords": [
+      "increases the worth of goods, services, business processes",
+      "above average profits/returns",
+      "three factors",
+      "happiness or satisfaction",
+      "utility must be distinguished from price",
+      "customer's surplus",
+      "profitable pricing band"
+     ]
+    }
+   ],
+   "official_questions": [],
+   "mcqs": [
+    {
+     "id": "MCQ-S02.17-01",
+     "angle": "Three factors",
+     "difficulty": "Moderate",
+     "question": "At the most basic level, how profitable a company becomes depends on three factors. Which of the following is **not** one of them?",
+     "options": {
+      "A": "The value customers place on the company's products",
+      "B": "The price the company charges for its products",
+      "C": "The market share held by the company's closest rival",
+      "D": "The costs of creating those products"
+     },
+     "answer": "C",
+     "explanation": "SM §2.5.4 lists exactly three factors: the value customers place on the products, the price charged, and the costs of creating them.",
+     "why_wrong": {
+      "A": "Listed, first.",
+      "B": "Listed, second.",
+      "D": "Listed, third."
+     },
+     "trap": "A rival's market share matters to rivalry (§2.5.1) but is not one of the three profitability factors.",
+     "concept": "S02.17"
+    },
+    {
+     "id": "MCQ-S02.17-02",
+     "angle": "Utility",
+     "difficulty": "Moderate",
+     "question": "As per the study material, utility is:",
+     "options": {
+      "A": "The same as the price a customer pays",
+      "B": "The firm's margin over its cost of value creation",
+      "C": "The happiness or satisfaction gained from consuming or owning the product, and a function of its performance, design, quality and service",
+      "D": "The difference between the firm's cost and the industry's average cost"
+     },
+     "answer": "C",
+     "explanation": "SM §2.5.4: the value customers place on a product reflects the utility they get from it — the happiness or satisfaction gained from consuming or owning the product; utility must be distinguished from price and is a function of attributes such as performance, design, quality, and point-of-sale and after-sale service.",
+     "why_wrong": {
+      "A": "The study material expressly distinguishes utility from price.",
+      "B": "That is the firm's margin.",
+      "D": "That is a cost comparison, not utility."
+     },
+     "trap": "Option A is the common assumption the study material goes out of its way to deny.",
+     "concept": "S02.17"
+    }
+   ],
+   "recap": [
+    "Value creation increases the worth of goods, services, business processes or the whole business system — for customers and for stakeholders.",
+    "Stack: cost of value creation → price → value to customer; margin below the price, customer's surplus above it, profitable pricing band across the whole.",
+    "Three profitability factors: value customers place on the product, price charged, cost of creating it.",
+    "Utility = happiness or satisfaction from consuming or owning; distinct from price; a function of performance, design, quality and service.",
+    "Porter's two routes: differentiation (higher price, if expenses stay comparable) or cost advantage; the value chain is how he examines the origin of either."
+   ]
+  }
+ ]
+}

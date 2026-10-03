@@ -1,0 +1,746 @@
+{
+ "meta": {
+  "chapter_no": 2,
+  "section": "SM",
+  "paper": "CA Intermediate · Paper 6B · Strategic Management",
+  "chapter_title": "SM Chapter 2 — Strategic Analysis: External Environment",
+  "short_title": "SM Ch 2 Strategic Analysis: External Environment",
+  "module": "Paper 6B Strategic Management",
+  "attempt": "January 2027",
+  "sm_edition": "ICAI BoS Study Material, Paper 6B Strategic Management (relevant for May 2026 examination onwards), Chapter 2 (pp. 2.1–2.46)",
+  "last_verified": "03-10-2026",
+  "status_summary": "SM headings 24/24 · official atoms 90/90"
+ },
+ "sections_before": [
+  {
+   "heading": "Examiner Mindset — SM Chapter 2",
+   "blocks": [
+    {
+     "type": "box",
+     "tag": "pyq",
+     "title": "What ICAI's published papers tell us",
+     "bullets": [
+      "ICAI has not published examiners' comments for Paper 6, so this guidance comes from ICAI's suggested answers, RTPs and MTPs.",
+      "This is the **heaviest SM chapter in the paper**: 90 official items in the period reviewed — 21 past-paper items, 16 RTP descriptive questions, 17 RTP MCQ items, 29 MTP descriptive questions and 7 MTP case-MCQ items. Every attempt from May 2024 to May 2026 carries 7–12 marks from it.",
+      "Top areas by volume: **Porter's Five Forces** (17 items), **Competitive Landscape and strategic group mapping** (15), **PESTLE** (10), **Value Chain Analysis** (8), **Product Life Cycle** (7).",
+      "**ICAI's RTPs print their own chapter headings.** Every RTP from May 2024 to September 2026 places exactly two questions under 'Chapter 2-Strategic Analysis: External Environment' — always numbered 9 and 10. Question 9 is a case; question 10 is a direct theory question.",
+      "Four headings have never carried a question of their own in the period reviewed: §2.1 Introduction, §2.5.4 Value Creation, §2.6 Market & Customer and §2.6.1 Customer. They are still written up in full here and carry chapter-test questions, because the 2026 syllabus edition added them."
+     ]
+    },
+    {
+     "type": "box",
+     "tag": "face",
+     "title": "How ICAI answers this chapter (study guidance)",
+     "bullets": [
+      "Case questions carry an **identification mark**: name the tool or force first (Strategic Group Mapping, PESTLE, Threat of New Entrants, Demographic Environment), then reproduce the study-material list, then apply it to the facts. ICAI's own answers follow exactly that order.",
+      "ICAI's answers are **list-faithful**: five steps to understand the competitive landscape, six PESTLE factors, seven barriers to entry, six conditions of cut-throat rivalry, five primary and four support activities, five characteristics of business products, four steps in international strategic planning, four steps in strategic group mapping.",
+      "Two questions recur almost verbatim across papers. 'Value chain analysis… support activities' appears as PYQ May 2025 Q7(a) and MTP Jan 2026 S1 Q4(a) word for word; 'both activities are intertwined… primary activities' appears as PYQ Sep 2024 Q6(b), RTP Sep 2025 Q10 and RTP Sep 2026 Q10. Learn both halves of the value chain.",
+      "Where a case names rival **groups** (price bands, segments, feature tiers), ICAI's answer is **strategic group mapping** with its four-step procedure — never SWOT and never the BCG matrix. This single answer covers PYQ Jan 2025 MCQ 10, PYQ Jan 2026 Q5(a), MTP Mar 2024 S1 Q3(a), MTP Sep 2024 S2 Q4(b) OR, MTP May 2026 S1 Q1(a), MTP Sep 2026 S2 Q2(b), RTP May 2025 MCQ 4, RTP Jan 2026 MCQ 5 and RTP Sep 2026 MCQ 4."
+     ]
+    },
+    {
+     "type": "box",
+     "tag": "trap",
+     "title": "Where candidates lose marks here",
+     "bullets": [
+      "Answering a 'competitive landscape' case with Porter's Five Forces. ICAI's answer to the Riya Sharma confectionery case (RTP May 2024 Q9, repeated in RTP Jan 2026 Q9) is the **five steps to understand the competitive landscape**, even though the stem talks about market dynamics and rising competition.",
+      "Mixing the **Demographic** and **Socio-cultural** environments. ICAI's test: age, gender, income, education, assets, region are *characteristics* of the population — demographic. Traditions, values, beliefs, literacy standards, ethics, stratification are *behaviour and belief* — socio-cultural.",
+      "Writing PESTLE's 'S' as 'social' only. The study material heads it **socio-cultural**, and the drivers table lists lifestyle trends, demographics, consumer attitudes, buying patterns, ethnic/religious factors and media perception under it.",
+      "Listing primary activities when the question asks for support activities, or the reverse. Primary: inbound logistics, operations, outbound logistics, marketing and sales, service. Support: procurement, technology development, human resource management, infrastructure."
+     ]
+    }
+   ]
+  }
+ ],
+ "snapshot": {
+  "about": "The external half of strategic analysis: what strategic analysis is and its two limitations; the business environment and the five ways interaction with it strengthens a firm; micro versus macro environment and the five elements of the macro environment; PESTLE as the tool for scanning it; internationalisation and the international environment at three levels; product characteristics, the product life cycle and Porter's value chain; industry environment analysis through Porter's Five Forces, industry attractiveness, the experience curve and value creation; market, customer, customer analysis and customer behaviour; and competitive strategy, the competitive landscape and key success factors.",
+  "why": "It is the largest single source of SM marks in Paper 6B — 91 official items in nine RTPs, eight past papers and fifteen MTPs. Nearly all of it is list-based recall applied to a short case, so it is the cheapest chapter to secure.",
+  "core_concepts": [
+   "S02.02 / S02.03 Strategic analysis, its two situational considerations, two limitations, and the external/internal analysis framework",
+   "S02.04 / S02.05 Business environment, five benefits of interaction, micro versus macro environment",
+   "S02.06 Five elements of the macro environment: demographic, socio-cultural, economic, political-legal, technological",
+   "S02.07 PESTLE: six key factors and the drivers-of-change table",
+   "S02.08 / S02.09 Internationalisation: three characteristics of a global business, four steps in international strategic planning, reasons to go global; multinational, regional and country analysis",
+   "S02.10 / S02.11 / S02.12 Five characteristics of business products; the four PLC stages; value chain analysis with five primary and four support activities",
+   "S02.13 / S02.14 / S02.15 / S02.16 / S02.17 Industry environment analysis; Porter's Five Forces; industry attractiveness; experience curve; value creation",
+   "S02.18 to S02.21 Market, four Ps and marketing orientations; customer versus consumer; customer analysis; customer behaviour in four conceptual domains",
+   "S02.22 / S02.23 / S02.24 Competitive strategy; five steps to understand the competitive landscape; key success factors and the three questions that identify them"
+  ],
+  "key_provisions": [
+   "William F. Glueck on environmental analysis; Kenichi Ohmae — 'The analysis is the critical starting point of strategic thinking'",
+   "Gluek and Jauch on the most important environmental factors",
+   "Michael Porter: Five Forces, value chain, differentiation and cost advantage as the two routes to competitive advantage"
+  ],
+  "tested_areas": [
+   {
+    "text": "Porter's Five Forces — the five areas of competitive pressure, barriers to entry, buyer and supplier power, cut-throat rivalry",
+    "evidence": "PYQ Sep 2024 Q8(a), Jan 2025 Q8(a), Jan 2026 Q8(a); RTP Jan 2025 Q10, May 2025 Q9, Jan 2026 Q10, May 2026 Q9, Sep 2024 Q10, Sep 2026 Q9; MTP Jan 2025 S1 Q3(a), Sep 2024 S1 Q4(a), Jan 2026 S2 Q2(b), Sep 2026 S2 Q4(b) OR; RTP Jan 2026 MCQ 3, May 2026 MCQ 3 and case MCQ 1(iii); MTP Jan 2025 S1 A(v), Jan 2026 S1 B(ii), Mar 2024 S1 A(ii)"
+   },
+   {
+    "text": "Competitive landscape and strategic group mapping",
+    "evidence": "PYQ Jan 2025 MCQ 10, Jan 2026 Q5(a) & Q5(c); RTP Jan 2025 Q9, May 2024 Q9, Jan 2026 Q9, May 2025 MCQ 4, Jan 2026 MCQ 5, Sep 2026 MCQ 4; MTP Mar 2024 S1 Q3(a), Sep 2024 S1 Q3(a), Sep 2024 S2 Q4(b) OR, Sep 2025 S1 Q1(b), May 2026 S1 Q1(a), Sep 2026 S2 Q2(b), Jan 2026 S2 B(ii)"
+   },
+   {
+    "text": "PESTLE and the elements of the macro environment",
+    "evidence": "RTP May 2026 Q10, Sep 2025 Q9; MTP Mar 2024 S1 Q1(b), Jan 2026 S1 Q1(b), Sep 2025 S2 Q1(a), Sep 2024 S2 Q4(b); PYQ Sep 2025 MCQ 12; RTP Jan 2025 MCQ 1(i), Jan 2026 MCQ 1(iv), May 2026 MCQ 1(i), Sep 2025 MCQ 1(i), Sep 2026 MCQ 3; MTP Jan 2025 S1 A(iii), Jan 2026 S2 A(i)"
+   },
+   {
+    "text": "Value chain analysis — primary and support activities",
+    "evidence": "PYQ Sep 2024 Q6(b), May 2025 Q7(a), Sep 2025 MCQ 10; RTP Sep 2025 Q10, Sep 2026 Q10, Jan 2025 MCQ 1(v), May 2026 MCQ 1(ii); MTP Jan 2026 S1 Q4(a)"
+   },
+   {
+    "text": "Business environment and the benefits of interaction",
+    "evidence": "PYQ May 2024 Q5(c), Sep 2025 Q8(a); RTP May 2025 Q10; MTP May 2025 S2 Q2(b), May 2026 S1 Q2(b)"
+   },
+   {
+    "text": "Product life cycle and characteristics of business products",
+    "evidence": "PYQ Jan 2025 MCQ 9, May 2024 Q7(a), May 2026 Q6(a); RTP Sep 2024 Q9, Jan 2025 MCQ 3, May 2025 MCQ 1(ii), Sep 2024 MCQ 3; MTP May 2025 S1 Q4(a), May 2025 S1 Q2(a), Jan 2025 S2 Q1(b), Mar 2024 S2 Q2(b), Jan 2025 S2 B(iii)"
+   },
+   {
+    "text": "Internationalisation, KSFs, experience curve and customer behaviour",
+    "evidence": "PYQ Jan 2025 Q6(a), May 2026 Q7(a), May 2025 Q8(a), Sep 2025 Q6(b), May 2026 MCQ 15; RTP May 2024 Q10, May 2025 MCQ 1(iii); MTP May 2026 S1 Q3(b), Sep 2025 S1 Q2(b), Jan 2025 S2 Q2(a), Sep 2024 S2 Q2(a), May 2025 S2 Q1(a), Sep 2025 S2 Q3(b), Sep 2026 S2 Q4(b), Jan 2025 S1 Q1(b), Mar 2024 S1 Q2(b), Jan 2026 S2 Q1(a)"
+   }
+  ],
+  "mistakes": [
+   "Treating 'competitive landscape' as a synonym for Porter's Five Forces. ICAI answers the first with five steps and the second with five forces.",
+   "Putting value chain analysis in the internal-environment chapter. ICAI's own RTP labels place it under Chapter 2 (RTP Sep 2025 Q10 and RTP Sep 2026 Q10 both sit under the Chapter 2 heading), although Chapter 3 teaches internal analysis.",
+   "Confusing the micro environment (suppliers, consumers, marketing intermediaries, competitors — direct and regular) with the macro environment (economic, socio-cultural, technological, political and legal — beyond direct control).",
+   "Giving only four PESTLE factors. The framework was expanded from PEST; the 'L' and the second 'E' are legal and environmental.",
+   "Answering a product-life-cycle case with one stage when the facts describe a transition. ICAI's answer to the slow-growth-then-rapid-expansion case names **two** stages, introduction and growth."
+  ],
+  "links": [
+   "SM Ch 1 §1.2 — strategic analysis is the second activity of the strategic management process",
+   "SM Ch 3 Internal Environment — SWOT, core competencies, Mendelow's Matrix, channels and the generic strategies; ICAI labels those Chapter 3 even where they read like external analysis",
+   "SM Ch 4 Strategic Choices — the PLC concept drives strategic choice; the BCG and GE matrices use industry attractiveness",
+   "SM Ch 5 Strategy Implementation and Evaluation — strategic surveillance and special alert control respond to the environmental shocks scanned here",
+   "FM Ch 1 §7 — the financing and investment decisions a firm takes are shaped by the economic environment analysed here"
+  ],
+  "revision_path": "5 min: five forces, five steps of competitive landscape, six PESTLE factors, four PLC stages · 15 min: add seven barriers to entry, six conditions of cut-throat rivalry, five primary and four support activities, five characteristics of business products · 30 min: add five elements of the macro environment, benefits of interaction with the environment, four steps of strategic group mapping, KSFs and the three questions, experience curve, four domains of customer behaviour · 60 min: write full answers to the nine recurring questions and work both integrated cases."
+ },
+ "evidence": {
+  "pyq_table": [
+   {
+    "id": "PYQ-M24-Q5c",
+    "question": "Yash choosing Bengaluru for a tech start-up — define business environment and the ways interaction helps strategy",
+    "concept": "S02.04",
+    "marks": 5,
+    "type": "Case: define + explain (1 + 4)",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M24-Q7a",
+    "question": "Key characteristics of business products that contribute to competitiveness and market dynamics",
+    "concept": "S02.10",
+    "marks": 5,
+    "type": "Explain + list",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S24-Q6b",
+    "question": "Value chain: are primary and support activities intertwined; the main areas of primary activities",
+    "concept": "S02.12",
+    "marks": 5,
+    "type": "Agree/disagree + list",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S24-Q8a",
+    "question": "Common barriers that restrain new entrepreneurs, in light of Porter's five forces",
+    "concept": "S02.14",
+    "marks": 5,
+    "type": "Explain + list",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-J25-MCQ9",
+    "question": "PNL's declining airways business is at which phase of the product life cycle",
+    "concept": "S02.11",
+    "marks": 2,
+    "type": "Case MCQ",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-J25-MCQ10",
+    "question": "Tool for identifying the strongest and weakest competitors",
+    "concept": "S02.23",
+    "marks": 2,
+    "type": "Case MCQ",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-J25-Q6a",
+    "question": "'International development is expensive and challenging' — internationalisation and the steps in international strategic planning",
+    "concept": "S02.08",
+    "marks": 5,
+    "type": "Explain + steps",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-J25-Q8a",
+    "question": "Conditions in which rivalry among competitors is cut-throat and industry profitability is low",
+    "concept": "S02.14",
+    "marks": 5,
+    "type": "Explain + list",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M25-MCQ10",
+    "question": "Analysis of strategic groups and cost structure is which type of strategic analysis",
+    "concept": "S02.02",
+    "marks": 2,
+    "type": "Case MCQ",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M25-Q7a",
+    "question": "What is value chain analysis; the support activities as stated by Michael Porter",
+    "concept": "S02.12",
+    "marks": 5,
+    "type": "Define + list (1 + 4)",
+    "repeat": "R2 (PYQ-S24-Q6b)"
+   },
+   {
+    "id": "PYQ-M25-Q8a",
+    "question": "Key Success Factors: meaning, the questions that identify them, and how they give sustainable competitive advantage",
+    "concept": "S02.24",
+    "marks": 5,
+    "type": "Define + structure + explain (1 + 2 + 2)",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S25-MCQ10",
+    "question": "Solar Tech's retail partnerships affect which value chain activity",
+    "concept": "S02.12",
+    "marks": 2,
+    "type": "Case MCQ",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S25-MCQ12",
+    "question": "Expanding into a country with low electricity access — which external factor is the primary reason",
+    "concept": "S02.06",
+    "marks": 2,
+    "type": "Case MCQ",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S25-Q6b",
+    "question": "Which concept explains efficiency gained through repetitive production work; its relevant features",
+    "concept": "S02.16",
+    "marks": 5,
+    "type": "Identify + list",
+    "repeat": "R2 (RTP-M24-SQ10)"
+   },
+   {
+    "id": "PYQ-S25-Q8a",
+    "question": "'A close and continuous interaction…' — explain business environment and how interaction helps the firm",
+    "concept": "S02.04",
+    "marks": 5,
+    "type": "Explain + list",
+    "repeat": "R2 (PYQ-M24-Q5c)"
+   },
+   {
+    "id": "PYQ-J26-Q5a",
+    "question": "Full Health Limited entering a saturated energy drink market — recommend the analytical tool and its procedure",
+    "concept": "S02.23",
+    "marks": 5,
+    "type": "Case: identify + procedure",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-J26-Q5c",
+    "question": "Mr. Rohit Khanna's 'Green Basket' studying competitors' vision, mission and finances — identify the analysis and its steps",
+    "concept": "S02.23",
+    "marks": 5,
+    "type": "Case: identify + steps",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-J26-Q8a",
+    "question": "Identify the areas of the market in which competitive pressure operates",
+    "concept": "S02.14",
+    "marks": 5,
+    "type": "List",
+    "repeat": "R2 (PYQ-J25-Q8a)"
+   },
+   {
+    "id": "PYQ-M26-MCQ15",
+    "question": "Personal preferences, attitudes, lifestyle, motivation and perception — which conceptual domain of consumer behaviour",
+    "concept": "S02.21",
+    "marks": 2,
+    "type": "MCQ",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M26-Q6a",
+    "question": "Inherent characteristics of business products that must be managed to maintain profitability",
+    "concept": "S02.10",
+    "marks": 5,
+    "type": "Analyse + list",
+    "repeat": "R1 (PYQ-M24-Q7a)"
+   },
+   {
+    "id": "PYQ-M26-Q7a",
+    "question": "Market inadequacy, resource needs and the collapse of international barriers — why companies globalise",
+    "concept": "S02.08",
+    "marks": 5,
+    "type": "Analyse + list",
+    "repeat": "R2 (PYQ-J25-Q6a)"
+   }
+  ],
+  "trend": [
+   "Present in **every** attempt from May 2024 to May 2026 with at least one 5-mark descriptive part; May 2025 and Jan 2026 carried two.",
+   "May 2024's suggested answers do not include the MCQ part, so no May 2024 MCQ is listed — the chapter's 2024 presence is descriptive only.",
+   "Porter's Five Forces has been asked in three of the last six papers, each time on a different force or sub-list: barriers to entry (Sep 2024), cut-throat rivalry (Jan 2025), the five areas of pressure (Jan 2026).",
+   "Strategic group mapping surged in 2026: PYQ Jan 2026 asked it twice in one paper, Q5(a) and Q5(c), the second phrased as 'competitor analysis'.",
+   "Value chain analysis appears in four of the last six papers, alternating between the primary-activity list and the support-activity list.",
+   "The 2026 edition's new headings — value creation, market and customer, customer analysis — have only reached MCQ level so far (PYQ May 2026 MCQ 15 on internal influences); expect a 5-mark descriptive part next."
+  ]
+ },
+ "concepts": [
+  {
+   "code": "S02.01 + S02.02 + S02.03",
+   "title": "2.1–2.2.1 Introduction; Strategic Analysis; Issues to Consider",
+   "activity": "Foundation",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 · RTP 0 · MTP 0",
+   "understand": [
+    "**Introduction (§2.1).** Organisations range from small local businesses to multinational corporations and are distinguished by size, type of products, markets, geographical coverage and legal status. Whatever the distinguishing feature, ==they do not operate in a vacuum==: they continuously act and react to what happens outside their periphery. The factors outside business operations are the **organisational or business environment** — in the specific context of business, **a set of all external factors that weigh in the minds of the managers**. Drawing an analogy with 'atmosphere', one can envision **layers** of such influences: international politico-legal, socio-cultural, economic, demographic, ecological and technological environment → the same domestic layer → industry-shaping competitive forces → the firm's stakeholders → the firm's internal environment.",
+    "The process of strategy formulation **begins with a strategic analysis**, whose objective is to compile information about internal and external environments in order to assess possibilities while formulating strategic objectives and contemplating strategic activities.",
+    "**Strategic analysis (§2.2).** Strategy formulation is not a task in which managers can get by with intuition, opinions, instincts and creative thinking. ==Judgments about what strategies to pursue need to flow directly from analysis of a firm's external environment and its internal resources and capabilities.==",
+    "**Environmental scanning** is a natural and continuous activity for every business: some do it informally, others have a formal structure. It is just as important to learn about a change in tax regulations through television news as through well-established reading material from experts — **the capacity to collect important information in informal settings usually separates great entrepreneurs and managers**. But using *only* informal techniques exposes the organisation to **missed opportunities and unanticipated hazards**; a systematic approach is essential for managing risk and uncertainty.",
+    "**The two important situational considerations** are: (1) **industry and competitive conditions**, and (2) **an organisation's own capabilities, resources, internal strengths, weaknesses and market position**.",
+    "**The analytical sequence** runs from strategic appraisal of the external and internal situation → evaluation of alternative strategies → the final choice of strategy. Without perceptive understanding of both environments, managers are far more likely to finalise a game plan that does not fit the situation, holds little prospect of competitive advantage and is unlikely to boost performance.",
+    "==**Two major limitations of strategic analysis.** First, it gives a lot of innovative options but does not tell which one to pick — the options can be overlapping, confusing or difficult to implement. Second, it can be time-consuming, hurting overall organisational functioning and straining other efficient innovations such as developing a new product or service.==",
+    "**Issues to consider (§2.2.1) — three of them.** **(i) Strategy evolves over a period of time.** Each strategic decision must balance the different factors that impact and constrain strategy; a key element of strategic analysis is the probable outcomes of everyday decisions. A current strategy is the result of several little choices taken over a protracted period. Management radically changes strategy when it tries to speed up organisational growth. Strategy is influenced by experience but has to be updated when results become clear — it therefore **evolves with time**.",
+    "**(ii) Balance of external and internal factors.** In practice, strategic analysis necessitates a reasonable balance between many and conflicting challenges, because **a perfect fit between them is unlikely**. Management must consider opportunities, influences and constraints together: there are factors *driving* a decision, such as entering a new market, and concurrently *constraints* that limit the option, such as the presence of a large opponent. Some of these aspects are under the firm's control; others are way beyond existing capabilities.",
+    "**(iii) Risk.** The complexity and intermingling of variables in the environment reduces strategic balance. Competitive markets, liberalisation, globalisation, booms, recessions, technological advancements and inter-country relationships all pose risk at varying degrees. An important task is to **identify potential imbalances or risks and assess their consequences**.",
+    "**External risk** arises from inconsistencies between strategies and the forces in the environment. **Internal risk** arises from forces that are either within the organisation or directly interacting with it on a routine basis.",
+    "**The framework of strategic analysis.** External analysis has four components — **Customer Analysis** (segments, motivations, unmet needs), **Competitor Analysis** (strategic groups, performance, objectives, strategies, culture, cost structure), **Market Analysis** (size, growth, profitability, entry barriers) and **Environmental Analysis** (technological, government, economic, cultural, demographic). Internal analysis has two — **Performance Analysis** (profitability, sales, customer satisfaction, product quality, relative cost, new products, human resources) and **Determinants Analysis** (past and current strategies, strategic problems, organisational capabilities and constraints, financial resources, strengths and weaknesses). External analysis yields opportunities, threats, trends and strategic uncertainties; internal analysis yields strategic strengths, weaknesses, problems, constraints and uncertainties. Both feed **strategy identification and selection**: identify strategic alternatives → select strategy → implement the operating plan → review strategies.",
+    "**Industries differ widely** in economic characteristics, competitive situations and future profit prospects — by overall size and market growth rate, pace of technological change, geographic boundaries, number and size of buyers and sellers, whether products are virtually identical or highly differentiated, the extent to which costs are affected by economies of scale, distribution channels, marketing opportunities, disposable income of prospective buyers and government support. Competition focuses on **price** in some industries, on **quality and reliability** in others (monitors for PCs and laptops), on **product features and performance** (mobile phones), on **quick service and convenience** (online shopping and fast foods) or on **brand reputation** (laundry detergents and soft drinks). ==Leading companies in unattractive industries can find it hard to earn respectable profits, while even weak companies in attractive industries can achieve good performance.=="
+   ],
+   "example": "A hospital chain studying the age profile of a city, the number and size of rival hospitals, insurance reimbursement rates and its own bed occupancy is doing all four kinds of external analysis at once — customer, competitor, market and environmental. If it then produces fifteen possible strategies and spends six months choosing between them, it has run straight into both published limitations of strategic analysis.",
+   "keywords": [
+    "a set of all external factors that weigh in the minds of the managers",
+    "flow directly from analysis",
+    "missed opportunities and unanticipated hazards",
+    "industry and competitive conditions",
+    "gives a lot of innovative options but doesn't tell which one to pick",
+    "time-consuming",
+    "strategy evolves over a period of time",
+    "a perfect fit between them is unlikely",
+    "competitor analysis: strategic groups, performance, objectives, strategies, culture, cost structure"
+   ],
+   "memory": {
+    "trick": "External analysis = \"C-C-M-E\" (\"Customers Compete, Markets Evolve\"): Customer, Competitor, Market, Environmental. Internal = \"P-D\": Performance, Determinants.",
+    "key": [
+     [
+      "C",
+      "Customer analysis — segments, motivations, unmet needs"
+     ],
+     [
+      "C",
+      "Competitor analysis — strategic groups, cost structure"
+     ],
+     [
+      "M",
+      "Market analysis — size, growth, profitability, entry barriers"
+     ],
+     [
+      "E",
+      "Environmental analysis — technological, government, economic, cultural, demographic"
+     ],
+     [
+      "P",
+      "Performance analysis — profitability, sales, product quality"
+     ],
+     [
+      "D",
+      "Determinants analysis — past strategies, capabilities, constraints"
+     ]
+    ],
+    "recall_trigger": "Customers Compete, Markets Evolve — then Performance and Determinants"
+   },
+   "mistakes": [
+    "Giving three or four limitations of strategic analysis. The study material states **two**.",
+    "Listing SWOT as a component of external analysis. SWOT is the *output* (opportunities and threats from external, strengths and weaknesses from internal), and is itself a Chapter 3 topic under ICAI's RTP labels.",
+    "Writing 'risk' as one of the limitations. Risk is the third *issue to consider*, not a limitation."
+   ],
+   "links": [
+    "🔗 SM Ch 1 §1.2: strategic analysis is the second activity of the strategic management process",
+    "🔗 S02.23: competitor analysis in this framework is expanded into the five steps of understanding the competitive landscape",
+    "🔗 SM Ch 3: performance and determinants analysis are developed as internal-environment analysis"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "MCQ naming one of the four external-analysis components from a description (asked in PYQ May 2025 MCQ 10)",
+     "A 5-mark part on the limitations of strategic analysis or the issues to consider",
+     "The opening paragraph of any external-analysis answer"
+    ],
+    "approach": [
+     "For the MCQ, match the clue words: 'strategic groups… cost structure' → competitor analysis; 'size, growth, entry barriers' → market analysis; 'segments, unmet needs' → customer analysis; 'technological, government, demographic' → environmental analysis.",
+     "For a descriptive part, open with the definition of business environment, then the two situational considerations, then the required list."
+    ],
+    "official_pattern": "ICAI's one published question here is an MCQ whose key is 'Competitor analysis' — taken straight from the external-analysis table.",
+    "time_tip": "MCQ ≈ 2 minutes; 5-mark part ≈ 7 minutes (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S02.02-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "Strategic analysis is a continuous process which is not without limitations. State its two major limitations, and explain the three issues that must be considered while carrying out a strategic analysis.",
+     "answer_points": [
+      "**Limitation 1:** It gives a lot of innovative options but does not tell which one to pick; the options can be overlapping, confusing or difficult to implement.",
+      "**Limitation 2:** It can be time-consuming at times, hurting overall organisational functioning and also straining other efficient innovations such as developing a new product or service.",
+      "**Issue 1 — Strategy evolves over a period of time:** a current strategy is the result of several little choices taken over a protracted period; strategy is influenced by experience but has to be updated when results become clear.",
+      "**Issue 2 — Balance of external and internal factors:** a perfect fit between many and conflicting challenges is unlikely; management must weigh the factors driving a decision against the constraints limiting it, some within and some beyond its control.",
+      "**Issue 3 — Risk:** complexity and intermingling of environmental variables reduce strategic balance; external risk arises from inconsistency between strategy and environmental forces, internal risk from forces within or routinely interacting with the organisation. The task is to identify potential imbalances and assess their consequences."
+     ],
+     "keywords": [
+      "doesn't tell which one to pick",
+      "time-consuming",
+      "evolves with time",
+      "perfect fit is unlikely",
+      "external risk",
+      "internal risk"
+     ]
+    }
+   ],
+   "official_questions": [],
+   "mcqs": [
+    {
+     "id": "PYQ-M25-MCQ10",
+     "question": "M/s. ABCD Ltd., to identify the right approach to select and implement its strategy, decided to conduct an in-depth strategic analysis on strategic groups, objectives, performance and cost structure of companies having similar operations in the market. Analysis of strategic groups and cost structure can be termed as which type of strategic analysis?",
+     "options": {
+      "A": "Competitor analysis",
+      "B": "Determinants analysis",
+      "C": "Environmental analysis",
+      "D": "Market analysis"
+     },
+     "answer": "A",
+     "explanation": "In the framework of strategic analysis (SM §2.2), **competitor analysis** is listed as covering strategic groups, performance, objectives, strategies, culture and cost structure. ICAI key: (A).",
+     "why_wrong": {
+      "B": "Determinants analysis is an *internal* component — past and current strategies, capabilities, constraints, financial resources.",
+      "C": "Environmental analysis covers technological, government, economic, cultural and demographic factors.",
+      "D": "Market analysis covers size, growth, profitability and entry barriers, not rivals' cost structures."
+     },
+     "trap": "'Strategic groups' tempts candidates towards market analysis; the published table files it under competitor analysis.",
+     "concept": "S02.02"
+    },
+    {
+     "id": "MCQ-S02.02-01",
+     "angle": "How many",
+     "difficulty": "Easy",
+     "question": "As per the study material, how many major limitations of strategic analysis are stated, and what is the first of them?",
+     "options": {
+      "A": "Four limitations; the first is that the environment is highly complex and turbulent",
+      "B": "Two limitations; the first is that it gives many innovative options but does not tell which one to pick",
+      "C": "Three limitations; the first is that it is a costly process",
+      "D": "Five limitations; the first is that competitive responses cannot be estimated"
+     },
+     "answer": "B",
+     "explanation": "SM §2.2 states exactly two limitations: it gives a lot of innovative options but does not tell which one to pick, and it can be time-consuming.",
+     "why_wrong": {
+      "A": "Four limitations belong to *strategic management* (SM §1.4.2), not strategic analysis.",
+      "C": "'Costly process' is again a limitation of strategic management.",
+      "D": "No such list exists."
+     },
+     "trap": "Borrowing Chapter 1's four limitations of strategic management.",
+     "concept": "S02.02"
+    },
+    {
+     "id": "MCQ-S02.03-01",
+     "angle": "Match the risk",
+     "difficulty": "Moderate",
+     "question": "A firm's strategy becomes obsolete because the environment has changed over several years. In the study material's classification of strategic risk, this is:",
+     "options": {
+      "A": "Internal risk over a short time",
+      "B": "Internal risk over a long time",
+      "C": "External risk over a short time",
+      "D": "External risk over a long time"
+     },
+     "answer": "D",
+     "explanation": "SM §2.2.1 figure: external risk over a long time is 'changes in the environment lead to obsolescence of strategy'. External–short is 'errors in interpreting the environment cause strategic failure'; internal–short is 'organizational capacity is unable to cope up with strategic demands'; internal–long is 'inconsistencies with the strategy are developed on account of changes in internal capacities and preferences'.",
+     "why_wrong": {
+      "A": "That cell is inability of organisational capacity to cope with strategic demands.",
+      "B": "That cell is inconsistency arising from changed internal capacities and preferences.",
+      "C": "That cell is error in interpreting the environment."
+     },
+     "trap": "The word 'obsolescence' suggests internal decay; the table files it as external and long.",
+     "concept": "S02.03"
+    }
+   ],
+   "recap": [
+    "Business environment = all external factors that weigh in the minds of the managers; layers from international to the firm's internal environment.",
+    "Two situational considerations: industry and competitive conditions; the organisation's own capabilities, resources, strengths, weaknesses and market position.",
+    "Two limitations: many options but no choice rule; time-consuming.",
+    "Three issues: strategy evolves over time; balance of external and internal factors; risk (external and internal × short and long).",
+    "External analysis = customer, competitor, market, environmental. Internal = performance, determinants."
+   ]
+  },
+  {
+   "code": "S02.04 + S02.05",
+   "title": "2.3–2.3.1 Strategy and Business Environment; Micro and Macro Environment",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 2 · RTP 1 · MTP 2",
+   "understand": [
+    "**Strategy and business environment (§2.3).** To accomplish the goals and objectives of a business, the strategist creates strategies and formulates policies considering **both internal and external factors**. Strategic management provides a framework for adjusting to the demands of an **unpredictable environment and an uncertain future**. The relationship is a triangle: **Management ↔ Strategy ↔ Environment ↔ Resources**.",
+    "==**The term 'business environment' refers to all external factors, influences or situations that in some way affect business decisions, plans and operations.**== It is **highly dynamic and continuously evolving**. Strategists provide an **interface** between organisational abilities and the opportunities and challenges of the larger environment. ==Organisational success is determined by its business environment, and even more from its relationship with it.==",
+    "**The five benefits of close and continuous interaction between a business and its environment** — the single most-asked list in this chapter:",
+    "**(i) Determine opportunities and threats.** The interaction explains opportunities and threats: it helps find new needs and wants of consumers, changes in laws, changes in social behaviours, and tells what new products competitors are bringing to market to attract consumers.",
+    "**(ii) Give direction for growth.** Interaction enables the business to identify areas for growth and expansion. Once the business is aware of and understands the changes happening around it, it can plan and strategise to have a successful business.",
+    "**(iii) Continuous learning.** Managers are motivated to continuously update their **knowledge, understanding and skills** to meet the predicted changes in the realm of business.",
+    "**(iv) Image building.** Environmental understanding helps organisations improve their image by showing **sensitivity to the environment** in which they operate. ICAI's own illustration: in view of the shortage of power, many companies set up **captive power plants** at their factories to meet their own requirement and extend surplus capacity in the vicinity.",
+    "**(v) Meeting competition.** It helps businesses analyse competitors' strategies and formulate their own accordingly — the idea is to flourish and beat competition for its products and services.",
+    "As the world gets smaller and competition increases, organisations face increasing pressure to develop their businesses and strengthen competitiveness. To flourish, ==a business must be aware of, assess and respond to the many opportunities and threats present in its environment==, and must be able to **handle and adapt** to them.",
+    "**Micro and macro environment (§2.3.1).** The environment can be described in terms of **opportunities and threats** in the external environment and **strengths and weaknesses** in the internal environment. The external environment is categorised into two major types: **micro environment** and **macro environment**.",
+    "==**Micro environment** is related to the small area or immediate periphery of an organisation. It influences the organisation **regularly and directly**. It consists of **suppliers, consumers, marketing intermediaries, competitors**, etc. — specific to the said business or firm.== Within the micro environment, a firm must address: the **employees** of the firm, their characteristics and how they are organised; the existing **customer base** on which the firm relies for business; the ways in which the firm can raise its **finance**; who the firm's **suppliers** are and how the links between the two are being developed; the local **community** within which the firm operates; and the **direct competition** and their comparative performance.",
+    "==**The macro environment** is the portion of the outside world that significantly affects how an organisation operates but is typically much **beyond its direct control and influence**.== The factors in the micro environment often relate an organisation to the macro issues influencing the way a firm reacts in the marketplace."
+   ],
+   "example": "A packaged-foods firm notices (a) a wholesaler demanding longer credit — micro, and (b) a nationwide shift towards low-sugar diets — macro. It can renegotiate the credit term; it cannot reverse the diet shift, only respond to it with a sugar-free line. That asymmetry is exactly what 'beyond its direct control and influence' means.",
+   "keywords": [
+    "all external factors, influences, or situations",
+    "highly dynamic and continuously evolving",
+    "interface",
+    "determine opportunities and threats",
+    "give direction for growth",
+    "continuous learning",
+    "image building",
+    "meeting competition",
+    "captive power plants",
+    "immediate periphery",
+    "regularly and directly",
+    "beyond its direct control and influence"
+   ],
+   "memory": {
+    "trick": "Five benefits = \"O-G-L-I-C\" (\"Opportunity Gives Learning, Image, Competitiveness\").",
+    "key": [
+     [
+      "O",
+      "Opportunities and threats determined"
+     ],
+     [
+      "G",
+      "Growth direction given"
+     ],
+     [
+      "L",
+      "Learning made continuous"
+     ],
+     [
+      "I",
+      "Image built"
+     ],
+     [
+      "C",
+      "Competition met"
+     ]
+    ],
+    "recall_trigger": "Opportunity Gives Learning, Image, Competitiveness"
+   },
+   "mistakes": [
+    "Putting competitors in the macro environment. The study material lists competitors under the **micro** environment, because they act on the firm directly and regularly.",
+    "Treating the micro environment as the *internal* environment. Both micro and macro are **external**; the internal environment is strengths and weaknesses.",
+    "Writing the five benefits as benefits of *strategic management*. Those are Chapter 1's seven benefits — a different list."
+   ],
+   "links": [
+    "🔗 S02.06: the macro environment is broken into five elements",
+    "🔗 S02.07: PESTLE is the tool used to scan the macro environment",
+    "🔗 S02.14: the industry-shaping competitive forces lie between the micro environment and the macro",
+    "🔗 SM Ch 3: the internal environment — strengths and weaknesses"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "A 5-mark case naming a city or location and asking for business environment plus the five benefits (asked four times: PYQ May 2024 Q5(c), PYQ Sep 2025 Q8(a), MTP May 2025 S2 Q2(b), MTP May 2026 S1 Q2(b)) and once more as RTP May 2025 Q10",
+     "MCQ distinguishing micro from macro"
+    ],
+    "approach": [
+     "Open with the one-line definition — 'all external factors, influences or situations that in some way affect business decisions, plans and operations' — then say it is highly dynamic and continuously evolving.",
+     "Then give all five benefits with the heading in bold, **and apply each one to the facts in the stem**. Every ICAI answer to this question applies all five to the named entrepreneur."
+    ],
+    "official_pattern": "ICAI's answers to the Yash/Bengaluru and Aarav/Pune cases are identical in structure: one definition sentence that names the city, then the five benefits, each one re-worded around the facts.",
+    "time_tip": "5 marks ≈ 7 minutes: 1 mark definition + 4 marks for the five benefits (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S02.05-1",
+     "form": "Distinguish (5 marks)",
+     "marks": 5,
+     "question": "Distinguish between the micro and the macro environment of a business, and state the issues a firm must address within its micro environment.",
+     "answer_points": [
+      "**Micro environment** relates to the small area or immediate periphery of the organisation and influences it regularly and directly; it consists of suppliers, consumers, marketing intermediaries and competitors, and is specific to the particular firm.",
+      "**Macro environment** is the portion of the outside world that significantly affects how an organisation operates but is typically much beyond its direct control and influence; it has broader dimensions — economic, socio-cultural, technological, political and legal factors.",
+      "**Issues within the micro environment:** the employees of the firm, their characteristics and how they are organised; the existing customer base on which the firm relies; the ways in which the firm can raise its finance; who the firm's suppliers are and how the links between the two are developed; the local community within which the firm operates; and the direct competition and their comparative performance.",
+      "The factors in the micro environment often relate an organisation to the macro issues influencing the way it reacts in the marketplace.",
+      "Both are **external**; the internal environment is a separate matter of strengths and weaknesses."
+     ],
+     "keywords": [
+      "immediate periphery",
+      "regularly and directly",
+      "beyond its direct control",
+      "marketing intermediaries",
+      "comparative performance"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "PYQ-M24-Q5c",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Yash is planning to launch his new tech start-up. He is exploring different locations across the country to establish his company in the right business environment. One option is the city of Bengaluru, the silicon valley of India, with an engaging network of entrepreneurs, investors, advisors and mentors. Coupled with various subsidies for new ventures and tax benefits, Bengaluru might be an ideal choice for Yash to establish his company and increase the chances of success. Define the term Business Environment with respect to the above scenario. Explain the different ways in which the interaction of a business with its environment can be helpful in developing a successful strategy. (1 + 4 = 5 Marks)",
+     "answer_points": [
+      "**Business Environment** refers to all external factors, influences or situations that affect business decisions, plans and operations. In Yash's case these factors include the dynamic and evolving conditions in Bengaluru, which impact the strategic decisions for his tech start-up.",
+      "**Determine Opportunities and Threats:** interaction helps Yash identify new consumer needs, emerging trends and potential market opportunities, guiding the development of innovative products and services; understanding changes in laws, social behaviours and competitor actions enables him to anticipate and mitigate threats, keeping the start-up resilient and adaptive.",
+      "**Give Direction for Growth:** by analysing the external environment Yash can pinpoint areas for expansion; recognising market trends and technological advancements allows him to strategise so the start-up scales successfully, aligning its goals with market dynamics.",
+      "**Continuous Learning:** continuous interaction motivates Yash and his team to update their knowledge, understanding and skills; staying informed about industry trends keeps the start-up competitive and promotes innovation and responsiveness.",
+      "**Image Building:** understanding and responding to environmental needs helps build a positive image — adopting sustainable practices or contributing to local initiatives enhances reputation and attracts customers and partners who value corporate social responsibility.",
+      "**Meeting Competition:** interaction allows Yash to analyse competitors' strategies and adapt; understanding their strengths and weaknesses helps craft strategies that provide a competitive edge and position the start-up uniquely in the market."
+     ],
+     "keywords": [
+      "all external factors",
+      "opportunities and threats",
+      "direction for growth",
+      "continuous learning",
+      "image building",
+      "meeting competition"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "RTP May 2025 Q10 repeats the Yash/Bengaluru case verbatim under ICAI's own 'Chapter 2' heading; MTP May 2025 Series 2 Q2(b) re-sets it as Aarav launching an organic food brand in Pune, and ICAI's answer applies the identical five benefits to health trends, sustainable sourcing and eco-friendly packaging."
+     ]
+    },
+    {
+     "id": "PYQ-S25-Q8a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "\"A close and continuous interaction between a business and its environment helps in strengthening the business firm and using its resources more effectively.\" Explain Business environment and discuss how does the interaction between a business and its environment helps the business firm. (5 Marks)",
+     "answer_points": [
+      "The term **business environment** refers to all external factors, influences or situations that in some way affect business decisions, plans and operations. It is highly dynamic and continuously evolving. Organisational success depends not only on its internal abilities but also on its relationship with the external environment.",
+      "**(i) Determine opportunities and threats:** the interaction explains opportunities and threats — it helps find new needs and wants of consumers, changes in laws, changes in social behaviours, and tells what new products competitors are bringing in the market to attract consumers.",
+      "**(ii) Give direction for growth:** interaction enables the business to identify areas for growth and expansion; once aware of the changes happening around it, the business can plan and strategise to have a successful business.",
+      "**(iii) Continuous learning:** managers are motivated to continuously update their knowledge, understanding and skills to meet the predicted changes in the realm of business.",
+      "**(iv) Image building:** environmental understanding helps business organisations improve their image by showing their sensitivity to the environment in which they operate.",
+      "**(v) Meeting competition:** it helps businesses analyse competitors' strategies and formulate their own accordingly; the idea is to flourish and beat competition for its products and services."
+     ],
+     "keywords": [
+      "highly dynamic and continuously evolving",
+      "not only on its internal abilities",
+      "new needs and wants",
+      "areas for growth and expansion",
+      "sensitivity to the environment"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "MTP May 2026 Series 1 Q2(b) reproduces this question and ICAI's answer word for word."
+     ]
+    },
+    {
+     "id": "RTP-M25-SQ10",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "Yash is planning to launch his new tech start-up. He is exploring different locations across the country to establish his company in the right business environment. One option is the city of Bengaluru, the Silicon Valley of India, with an engaging network of entrepreneurs, investors, advisors and mentors. Coupled with various subsidies for new ventures and tax benefits, Bengaluru might be an ideal choice for Yash to establish his company and increase the chances of success. Define the term Business Environment with respect to the above scenario. Explain the different ways in which the interaction of a business with its environment can be helpful in developing a successful strategy.",
+     "answer_points": [
+      "Business Environment refers to all external factors, influences or situations that affect business decisions, plans and operations; in Yash's case the dynamic and evolving conditions in Bengaluru.",
+      "The same five benefits are then applied to the facts: determine opportunities and threats; give direction for growth; continuous learning; image building; meeting competition.",
+      "ICAI's RTP answer is the published past-paper answer reused unchanged — proof that this list is expected verbatim."
+     ],
+     "keywords": [
+      "Silicon Valley of India",
+      "subsidies for new ventures",
+      "five benefits of interaction"
+     ]
+    },
+    {
+     "id": "MTP-M25-S2-SQ2b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Aarav is planning to launch his new organic food brand. He is evaluating different cities across the country to establish his business in the most suitable environment. One promising option is Pune, a city known for its health-conscious consumers, strong distribution networks, and government initiatives supporting sustainable businesses. With favorable policies, tax benefits, and access to experienced mentors, Pune seems like an ideal choice for Aarav to launch and scale his organic food brand successfully. Define the term Business Environment with respect to the above scenario. Explain how a business's interaction with its environment can contribute to the development of a successful strategy. (5 Marks)",
+     "answer_points": [
+      "Business Environment refers to the external factors, influences and conditions that impact a business's decisions, strategies and operations — here the evolving consumer preferences, government policies and market dynamics in Pune.",
+      "**Determine Opportunities and Threats:** assess market demand for organic products, emerging health trends and regulatory frameworks; anticipate competition and supply-chain disruptions.",
+      "**Give Direction for Growth:** align the business with the growing demand for organic and sustainable food options and introduce innovative product offerings.",
+      "**Continuous Learning:** stay updated with nutrition trends, technological advancements in food processing and changing consumer preferences.",
+      "**Image Building:** sustainable sourcing, eco-friendly packaging and ethical farming practices enhance reputation; a socially responsible business attracts loyal customers and gains market trust.",
+      "**Meeting Competition:** analyse competitors' strategies and differentiate through unique selling propositions, better distribution networks or customer engagement initiatives."
+     ],
+     "keywords": [
+      "health-conscious consumers",
+      "eco-friendly packaging",
+      "unique selling propositions"
+     ]
+    },
+    {
+     "id": "MTP-M26-S1-SQ2b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "\"A close and continuous interaction between a business and its environment helps in strengthening the business firm and using its resources more effectively.\" Explain Business environment and discuss how does the interaction between a business and its environment helps the business firm. (5 Marks)",
+     "answer_points": [
+      "Identical to PYQ Sep 2025 Q8(a): the definition, then the five numbered benefits — determine opportunities and threats, give direction for growth, continuous learning, image building, meeting competition.",
+      "ICAI's MTP answer reuses the suggested answer from September 2025 without a word changed."
+     ],
+     "keywords": [
+      "close and continuous interaction",
+      "using its resources more effectively"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-S02.04-01",
+     "angle": "Apply the benefit",
+     "difficulty": "Moderate",
+     "question": "Facing a nationwide power shortage, a manufacturer sets up a captive power plant at its factory and supplies the surplus to neighbouring units. In the study material's list of benefits of interaction with the environment, this is the illustration of:",
+     "options": {
+      "A": "Meeting competition",
+      "B": "Continuous learning",
+      "C": "Image building",
+      "D": "Determining opportunities and threats"
+     },
+     "answer": "C",
+     "explanation": "SM §2.3 gives exactly this example under **image building**: understanding the needs of the environment showcases that the business is aware and responsive, creating a positive image.",
+     "why_wrong": {
+      "A": "Meeting competition is about analysing rivals' strategies.",
+      "B": "Continuous learning is managers updating knowledge, understanding and skills.",
+      "D": "Determining opportunities and threats is about consumer needs, laws, social behaviours and competitors' new products."
+     },
+     "trap": "The captive plant also saves cost, which tempts 'opportunities'; the study material files it under image building.",
+     "concept": "S02.04"
+    },
+    {
+     "id": "MCQ-S02.05-01",
+     "angle": "Classify",
+     "difficulty": "Easy",
+     "question": "Which of the following is a component of the **micro** environment as classified in the study material?",
+     "options": {
+      "A": "Inflation and interest rates",
+      "B": "Social traditions, values and beliefs",
+      "C": "Government policies and taxation",
+      "D": "Marketing intermediaries"
+     },
+     "answer": "D",
+     "explanation": "SM §2.3.1: the micro environment consists of suppliers, consumers, marketing intermediaries and competitors — factors specific to the firm that affect it directly and regularly.",
+     "why_wrong": {
+      "A": "Economic — macro.",
+      "B": "Socio-cultural — macro.",
+      "C": "Political-legal — macro."
+     },
+     "trap": "All four 'affect' the firm; only one acts on it directly and regularly.",
+     "concept": "S02.05"
+    }
+   ],
+   "recap": [
+    "Business environment = all external factors, influences or situations affecting business decisions, plans and operations; highly dynamic and continuously evolving.",
+    "Five benefits of interaction: opportunities and threats, direction for growth, continuous learning, image building, meeting competition.",
+    "Micro = immediate periphery, direct and regular — suppliers, consumers, marketing intermediaries, competitors; six issues from employees to direct competition.",
+    "Macro = significantly affects operations but beyond direct control and influence."
+   ]
+  }
+ ]
+}

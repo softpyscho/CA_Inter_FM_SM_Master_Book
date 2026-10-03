@@ -1,0 +1,801 @@
+{
+ "concepts": [
+  {
+   "code": "S02.10",
+   "title": "2.4 Understanding Product and Industry",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 2 · RTP 0 · MTP 3",
+   "understand": [
+    "**Businesses sell products.** ==A product can be either a good or a service — it might be a physical good, a service, or an experience.== Business products have **five characteristics**, and this five-item list is what every question under this heading asks for.",
+    "**1. Products are either tangible or intangible.** A **tangible** product can be handled, seen and physically felt — a car, book, pen, table, mobile handset. An **intangible** product is not a physical good — telecom services, banking, insurance or repair services.",
+    "**2. Product has a price.** Businesses determine the cost of their products and charge a price for them. ==**The dynamics of supply and demand influence the market price**; the market price is the price at which **quantity provided equals quantity desired**.== The price that may be paid is determined by **the market, the quality, the marketing and the targeted group**. ==In the present competitive world **price is often given by the market and businesses have to work on costs to maintain profitability**== — on account of competition, businesses are **not able to fix market price by adding a profit margin on costs**; rather, they work on **reducing costs given the prevailing market price**.",
+    "**3. Products have certain features that deliver satisfaction.** A **product feature is a component of a product that satisfies a consumer need**. Features determine product pricing, and businesses **alter features during the development process to optimise the user experience**. Products should provide **value satisfaction** to the customers for whom they are meant. Features distinguish a product in terms of its **function, design, quality and experience**. ==A customer's **cumulative experience with a product from its purchase to the end of its useful life** is an important component of a product feature.==",
+    "**4. Product is pivotal for business.** ==The product is **at the centre of business around which all strategic activities revolve**.== The product **enables production, quality, sales, marketing, logistics and other business processes** — it is the **driving force behind business activities**.",
+    "**5. A product has a useful life.** Every product has a **usable life after which it must be replaced**, as well as a **life cycle after which it is to be reinvented or may cease to exist**. ICAI's illustration: **fixed line telephone instruments have largely been replaced by mobile phones.**",
+    "**Why industries differ.** The surrounding discussion in §2.2 and §2.4 makes the industry point that follows from the product point: industries differ widely in economic characteristics, competitive situations and future profit prospects, and the basis of competition itself differs — **price** in some industries, **quality and reliability** in others (monitors for PCs and laptops), **product features and performance** (mobile phones), **quick service and convenience** (online shopping and fast foods), or **brand reputation** (laundry detergents and soft drinks). Situating the product in its industry is therefore the first step of industry analysis."
+   ],
+   "example": "An office-furniture maker undercut by online retailers cannot raise its price — the market gives the price. Its only levers are the five characteristics: use better materials and design (tangible), add free installation and extended warranty (intangible and service features), work on costs rather than margins (price), keep the product at the centre of every process (pivotal), and plan the reinvention of each line before its useful life runs out (life cycle). That is ICAI's own answer to the Reshuffle Corp question.",
+   "keywords": [
+    "a good or a service",
+    "tangible or intangible",
+    "quantity provided equals quantity desired",
+    "price is often given by the market",
+    "work on costs to maintain profitability",
+    "a component of a product that satisfies a consumer need",
+    "function, design, quality and experience",
+    "cumulative experience",
+    "at the centre of business around which all strategic activities revolve",
+    "driving force behind business activities",
+    "reinvented or may cease to exist"
+   ],
+   "memory": {
+    "trick": "Five characteristics = \"T-P-F-P-L\" (\"The Price Feature Pivots Life\"): Tangibility, Price, Features, Pivotal, Life.",
+    "key": [
+     [
+      "T",
+      "Tangible or intangible"
+     ],
+     [
+      "P",
+      "Price — set by supply and demand; work on costs, not margins"
+     ],
+     [
+      "F",
+      "Features that deliver satisfaction — function, design, quality, experience"
+     ],
+     [
+      "P",
+      "Pivotal for business — the centre around which strategy revolves"
+     ],
+     [
+      "L",
+      "Life — usable life and a life cycle"
+     ]
+    ],
+    "recall_trigger": "The Price Feature Pivots Life"
+   },
+   "mistakes": [
+    "Listing the four Ps of marketing instead of the five characteristics of a product. The four Ps belong to §2.6.",
+    "Saying price is fixed by adding a margin to cost. The study material says the opposite: price is often given by the market and the firm must work on costs.",
+    "Omitting 'product is pivotal for business'. It is the characteristic candidates most often drop, and it carries a full mark in a five-item list.",
+    "Treating 'useful life' and 'life cycle' as the same thing. Useful life ends in replacement of the unit; the life cycle ends in reinvention or extinction of the product."
+   ],
+   "links": [
+    "🔗 S02.11: the fifth characteristic — a life cycle — opens straight into the product life cycle",
+    "🔗 S02.12: features and service are value-chain activities",
+    "🔗 S02.17: value to the customer is what the price band is measured against",
+    "🔗 FM Ch 9 §2: working capital is tied up in exactly these products while they move through the operating cycle"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "'What are the key characteristics of business products…' — a straight five-item list (PYQ May 2024 Q7(a), repeated in MTP May 2025 S1 Q2(a))",
+     "A supply-and-demand framing of the same list (PYQ May 2026 Q6(a))",
+     "A case asking how a firm can differentiate using the characteristics (MTP Jan 2025 S2 Q1(b), repeated in MTP Mar 2024 S2 Q2(b))"
+    ],
+    "approach": [
+     "Open with 'A product can be either a good or a service', then number the five characteristics with the study material's own sub-headings in bold.",
+     "In the differentiation version, convert each characteristic into an action: materials and design, cost optimisation and value-added services, feature optimisation from customer feedback, a product-centric approach, and life-cycle management. ICAI's answer uses exactly those five action headings."
+    ],
+    "official_pattern": "ICAI has published this list three times with near-identical wording, and once as the Reshuffle Corp application. The May 2026 version adds the supply-and-demand sentence and the explicit instruction that firms 'need to control and reduce costs to maintain profitability'.",
+    "time_tip": "5 marks ≈ 7 minutes — one mark per characteristic (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S02.10-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "\"In the present competitive world price is often given by the market.\" Explain this statement with reference to the characteristics of business products, and state what it implies for a firm's approach to costing.",
+     "answer_points": [
+      "A product can be either a good or a service; one of its five characteristics is that **product has a price**. The dynamics of supply and demand influence the market price, which is the price at which quantity provided equals quantity desired.",
+      "The price that may be paid is determined by the market, the quality, the marketing and the targeted group — not by the seller alone.",
+      "**Implication for costing:** on account of competition, businesses are not able to fix the market price by adding a profit margin on costs. Instead they must **work on reducing the costs given the prevailing market price** in order to maintain profitability.",
+      "The other characteristics interact with this: features determine product pricing, and businesses alter features during development to optimise the user experience, so cost reduction must not destroy the function, design, quality and experience that deliver value satisfaction.",
+      "Because the product is pivotal — the centre around which all strategic activities revolve — cost control has to run through production, quality, sales, marketing and logistics together, and must be planned against the product's useful life and life cycle."
+     ],
+     "keywords": [
+      "quantity provided equals quantity desired",
+      "not able to fix market price by adding profit margin",
+      "work on reducing the costs",
+      "value satisfaction",
+      "pivotal"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "PYQ-M24-Q7a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "What are the key characteristics of business products that contribute to the overall competitiveness and dynamics of the market? (5 Marks)",
+     "answer_points": [
+      "Businesses sell products. A product can be either a good or a service — it might be a physical good or a service, an experience.",
+      "**1. Products are either tangible or intangible.** A tangible product can be handled, seen and physically felt — a car, book, pen, table, mobile handset. An intangible product is not a physical good — telecom services, banking, insurance or repair services.",
+      "**2. Product has a price.** Businesses determine the cost of their products and charge a price. The dynamics of supply and demand influence the market price; the market price is the price at which quantity provided equals quantity desired. The price that may be paid is determined by the market, the quality, the marketing and the targeted group. In the present competitive world price is often given by the market and businesses have to work on costs to maintain profitability.",
+      "**3. Products have certain features that deliver satisfaction.** A product feature is a component of a product that satisfies a consumer need; features determine product pricing, and businesses alter features during the development process to optimise the user experience. Features distinguish a product in terms of function, design, quality and experience, and the customer's cumulative experience from purchase to the end of useful life is an important component of a product feature.",
+      "**4. Product is pivotal for business.** The product is at the centre of business around which all strategic activities revolve; it enables production, quality, sales, marketing, logistics and other business processes, and is the driving force behind business activities.",
+      "**5. A product has a useful life.** Every product has a usable life after which it must be replaced, as well as a life cycle after which it is to be reinvented or may cease to exist — fixed line telephone instruments have largely been replaced by mobile phones."
+     ],
+     "keywords": [
+      "tangible or intangible",
+      "quantity provided equals quantity desired",
+      "satisfies a consumer need",
+      "all strategic activities revolve",
+      "usable life"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "MTP-M25-S1-SQ2a asks the identical question and ICAI reproduces the same five-point answer."
+     ]
+    },
+    {
+     "id": "PYQ-M26-Q6a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "\"In a modern competitive landscape, the interaction of supply and demand determines the price at which quantity provided equals to quantity desired.\" Analyse the inherent characteristics of business products that must be managed to maintain profitability under these market dynamics. (5 Marks)",
+     "answer_points": [
+      "Business products possess certain inherent characteristics that businesses must manage effectively to maintain profitability in a competitive market where price is determined by the interaction of supply and demand.",
+      "**1. Products are Tangible or Intangible** — a car, mobile phone or table, or banking, insurance and telecom services; both types must be managed efficiently to satisfy customer requirements.",
+      "**2. Product has a Price** — determined by market forces of supply and demand, the market price being where quantity supplied equals quantity demanded. In the present competitive environment businesses often cannot fix prices by simply adding profit margins over cost; therefore firms need to **control and reduce costs** to maintain profitability.",
+      "**3. Products have Features that Deliver Satisfaction** — design, quality, function and customer experience provide value and satisfaction; businesses continuously improve features to optimise customer experience and differentiate from competitors.",
+      "**4. Product is Pivotal for Business** — the centre around which all strategic and operational activities revolve, including production, quality control, marketing, logistics and sales; the product acts as the driving force behind operations and profitability.",
+      "**5. Product has a Useful Life** — every product has a useful life and a product life cycle after which it may require replacement, reinvention or discontinuation; businesses must innovate and update products continuously to remain competitive and profitable."
+     ],
+     "keywords": [
+      "interaction of supply and demand",
+      "control and reduce costs",
+      "differentiate products from competitors",
+      "driving force behind business operations",
+      "replacement, reinvention or discontinuation"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "MTP-J25-S2-SQ1b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Reshuffle Corp is a company that manufactures and sells office furniture. They offer a range of products, from desks and chairs to cabinets and shelves. Recently, the company has been facing increased competition from online retailers offering similar products at lower prices. Analyzing the characteristics of products in the furniture industry, discuss how Reshuffle Corp can differentiate its products to maintain a competitive edge in the market. (5 Marks)",
+     "answer_points": [
+      "**Tangible and Intangible Aspects:** focus on the tangible side with high-quality materials and innovative designs that are functional and aesthetically pleasing, and emphasise the intangible side with excellent customer service and a strong brand reputation for reliability and durability.",
+      "**Pricing Strategies:** while market prices are often dictated by competition, work on cost optimisation to maintain profitability, and consider value-added services such as free installation or extended warranties to justify a higher price point.",
+      "**Product Features:** continually optimise features based on customer feedback and market trends so products deliver maximum satisfaction — features that enhance functionality, design, quality and overall user experience.",
+      "**Product Centric Approach:** keep products at the centre of strategic activities, aligning all business processes from production to sales and marketing to customer needs and expectations.",
+      "**Product Life Cycle Management:** be aware of the life cycle of products and plan for reinvention or replacement accordingly, introducing new product lines or upgrading existing ones to keep up with changing preferences and trends."
+     ],
+     "keywords": [
+      "high-quality materials and innovative designs",
+      "cost optimization",
+      "free installation or extended warranties",
+      "product centric approach",
+      "plan for reinvention"
+     ],
+     "also_asked_as": [
+      "MTP-M24-S2-SQ2b sets the identical Reshuffle Corp case with the same published answer."
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-S02.10-01",
+     "angle": "Which characteristic",
+     "difficulty": "Moderate",
+     "question": "A customer's cumulative experience with a product from its purchase to the end of its useful life is described in the study material as an important component of:",
+     "options": {
+      "A": "A product feature",
+      "B": "The product's useful life",
+      "C": "The product's price",
+      "D": "The intangibility of the product"
+     },
+     "answer": "A",
+     "explanation": "SM §2.4, third characteristic: features distinguish a product in terms of function, design, quality and experience, and the customer's cumulative experience from purchase to the end of useful life is an important component of a product feature.",
+     "why_wrong": {
+      "B": "Useful life is the separate fifth characteristic — the period after which the product must be replaced.",
+      "C": "Price is determined by the market, quality, marketing and targeted group.",
+      "D": "Intangibility is about whether the product is a physical good."
+     },
+     "trap": "The phrase 'useful life' appears in the sentence, baiting option B.",
+     "concept": "S02.10"
+    },
+    {
+     "id": "MCQ-S02.10-02",
+     "angle": "True of the market price",
+     "difficulty": "Easy",
+     "question": "As per the study material, in the present competitive world:",
+     "options": {
+      "A": "Businesses fix the market price by adding a profit margin on their costs",
+      "B": "Price is often given by the market and businesses have to work on costs to maintain profitability",
+      "C": "Price is fixed by the industry leader and followed by the rest",
+      "D": "Price is determined solely by the quality of the product"
+     },
+     "answer": "B",
+     "explanation": "SM §2.4: 'In the present competitive world price is often given by the market and businesses have to work on costs to maintain profitability… businesses are not able to fix market price by adding profit margin on the costs.'",
+     "why_wrong": {
+      "A": "Explicitly denied by the study material.",
+      "C": "Price leadership is not the stated position; supply and demand set the market price.",
+      "D": "Price is determined by the market, the quality, the marketing **and** the targeted group."
+     },
+     "trap": "Option A is standard cost-plus pricing from costing papers; this chapter rejects it.",
+     "concept": "S02.10"
+    },
+    {
+     "id": "MCQ-S02.10-03",
+     "angle": "Basis of competition",
+     "difficulty": "Moderate",
+     "question": "The study material illustrates that the basis of competition differs between industries. Which pairing matches its examples?",
+     "options": {
+      "A": "Monitors for PCs and laptops — brand reputation",
+      "B": "Laundry detergents and soft drinks — product features and performance",
+      "C": "Online shopping and fast foods — quality and reliability",
+      "D": "Mobile phones — product features and performance"
+     },
+     "answer": "D",
+     "explanation": "SM §2.2: competition centres on quality and reliability in monitors for PCs and laptops, on product features and performance in mobile phones, on quick service and convenience in online shopping and fast foods, and on brand reputation in laundry detergents and soft drinks.",
+     "why_wrong": {
+      "A": "Monitors are the quality-and-reliability example.",
+      "B": "Detergents and soft drinks are the brand-reputation example.",
+      "C": "Online shopping and fast foods are the quick-service-and-convenience example."
+     },
+     "trap": "All four industries and all four bases are from the study material; only the pairing differs.",
+     "concept": "S02.10"
+    }
+   ],
+   "recap": [
+    "A product is a good, a service or an experience.",
+    "Five characteristics: tangible or intangible · has a price · features that deliver satisfaction · pivotal for business · has a useful life.",
+    "Market price = where quantity provided equals quantity desired; firms work on costs, not margins.",
+    "Features cover function, design, quality and experience, including cumulative experience to end of life.",
+    "Fixed-line phones replaced by mobiles is ICAI's own illustration of the life-cycle point."
+   ]
+  },
+  {
+   "code": "S02.11",
+   "title": "2.4.1 Product Life Cycle",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 · RTP 4 · MTP 2",
+   "understand": [
+    "==**The product life cycle (PLC) is an S-shaped curve which exhibits the relationship of sales with respect to time for a product that passes through the four successive stages of introduction, growth, maturity and decline.**== It is **an important concept in strategic choice** and **a useful concept for guiding strategic choice**. ==If **businesses are substituted for product**, the concept of PLC could work just as well.==",
+    "**Stage 1 — Introduction.** **Slow sales growth**, in which **competition is almost negligible**, **prices are relatively high**, and **markets are limited**. The growth in sales is at a lower rate **because of lack of awareness on the part of customers**.",
+    "**Stage 2 — Growth.** **Rapid market acceptance.** The **demand expands rapidly, prices fall, competition increases and the market expands**. The customer **has knowledge about the product and shows interest in purchasing it**.",
+    "**Stage 3 — Maturity.** There is a **slowdown in the growth rate**. **Competition gets tough and the market gets stabilised. Profit comes down because of stiff competition.** At this stage organisations have to **work for maintaining stability**.",
+    "**Stage 4 — Decline.** **Sharp downward drift in sales.** Sales and profits fall sharply **because some new product replaces the existing product**. A **combination of strategies** can be implemented to stay in the market, **either by diversification or retrenchment**.",
+    "==**The main advantage of the PLC approach is that it can be used to diagnose a portfolio of products (or businesses) in order to establish the stage at which each of them exists.**== Particular attention is to be paid to the businesses that are in the **declining** stage.",
+    "**The strategic choices that follow from the diagnosis:** **expansion** may be a feasible alternative for businesses in the **introductory and growth** stages; **mature** businesses may be used as **sources of cash for investment in other businesses which need resources**; a combination of strategies like **selective harvesting, retrenchment**, etc. may be adopted for **declining** businesses. In this way a **balanced portfolio of businesses** may be built up by exercising a strategic choice based on the PLC concept."
+   ],
+   "example": "A logistics firm's road business is in maturity (stable market, thin margins) while its airways partnership is in decline (sales and profits down steeply) and its newly launched drone pilot is in introduction (high price, few customers, no rivals). The PLC diagnosis tells it to harvest road cash, retrench or diversify out of airways, and fund the drone venture — which is exactly the 'balanced portfolio' use the study material describes.",
+   "keywords": [
+    "S-shaped curve",
+    "four successive stages",
+    "businesses are substituted for product",
+    "slow sales growth",
+    "competition is almost negligible",
+    "lack of awareness",
+    "rapid market acceptance",
+    "demand expands rapidly, prices fall",
+    "slowdown in growth rate",
+    "market gets stabilised",
+    "sharp downward drift",
+    "diagnose a portfolio of products",
+    "selective harvesting, retrenchment",
+    "balanced portfolio"
+   ],
+   "memory": {
+    "trick": "\"I-G-M-D\" (\"Infants Grow, Mature, Decline\") — and attach one price-and-competition fact to each: Introduction (high price, no competition), Growth (prices fall, competition rises), Maturity (tough competition, profit down), Decline (sales crash, replaced).",
+    "key": [
+     [
+      "I",
+      "Introduction — slow growth, negligible competition, high prices, limited markets, no awareness"
+     ],
+     [
+      "G",
+      "Growth — rapid acceptance, demand expands, prices fall, competition increases"
+     ],
+     [
+      "M",
+      "Maturity — growth slows, competition tough, market stabilises, profit falls, maintain stability"
+     ],
+     [
+      "D",
+      "Decline — sharp drift down, replaced by a new product, diversify or retrench"
+     ]
+    ],
+    "recall_trigger": "Infants Grow, Mature, Decline"
+   },
+   "mistakes": [
+    "Naming one stage when the facts describe a movement between two. ICAI's answer to the 'slow growth then rapid expansion' case names **introduction and growth** and explains both.",
+    "Saying prices rise in the growth stage. They **fall** — the study material is explicit.",
+    "Treating maturity as the stage of highest marketing spend per unit. ICAI's published key for that MCQ is the **introduction** stage.",
+    "Forgetting that the PLC is a tool of **strategic choice**: a complete answer ends with expansion for introduction and growth, cash-cow use for maturity, and selective harvesting or retrenchment for decline."
+   ],
+   "links": [
+    "🔗 S02.10: the fifth characteristic of a product — it has a life cycle",
+    "🔗 S02.16: the experience curve explains why unit costs fall as cumulative volume grows through the cycle",
+    "🔗 SM Ch 4: the BCG matrix and the grand strategies of expansion, stability and retrenchment that the PLC diagnosis points to",
+    "🔗 S02.08: internationalisation can extend the lifespan of a product"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "A case describing a sequence of symptoms and asking which stage or stages (RTP Sep 2024 Q9, repeated in MTP May 2025 S1 Q4(a))",
+     "MCQs naming the stage from one symptom — five in the period reviewed, covering decline, maturity, growth and introduction"
+    ],
+    "approach": [
+     "Match symptoms, not sentiment: 'slow sales growth, limited markets, high prices' → introduction; 'demand expanded rapidly, prices fell, competition increased' → growth; 'plateau despite heavy promotion' → maturity; 'sales and profits declined steeply' → decline.",
+     "Where two sets of symptoms appear in one stem, name both stages and justify each from the stem's own words."
+    ],
+    "official_pattern": "ICAI's answer to the two-stage case gives a paragraph per stage, each opening with the stage name in bold and then quoting the matching symptoms back from the question.",
+    "time_tip": "MCQ ≈ 2 minutes; 5-mark case ≈ 7 minutes (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S02.11-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "Explain the product life cycle and state the main advantage of the approach, together with the strategic choice appropriate to each stage.",
+     "answer_points": [
+      "The PLC is an **S-shaped curve** exhibiting the relationship of sales with respect to time for a product passing through four successive stages — introduction, growth, maturity and decline. If businesses are substituted for products, the concept works just as well.",
+      "**Introduction:** slow sales growth, almost negligible competition, relatively high prices and limited markets; growth is slow because of lack of customer awareness. **Growth:** rapid market acceptance — demand expands rapidly, prices fall, competition increases and the market expands.",
+      "**Maturity:** slowdown in the growth rate; competition gets tough, the market stabilises and profit comes down because of stiff competition, so organisations work for maintaining stability. **Decline:** sharp downward drift in sales as a new product replaces the existing one; a combination of strategies — diversification or retrenchment — may be used to stay in the market.",
+      "**Main advantage:** it can be used to **diagnose a portfolio of products (or businesses)** in order to establish the stage at which each exists, with particular attention to those in the declining stage.",
+      "**Strategic choice by stage:** expansion is feasible for businesses in the introductory and growth stages; mature businesses may be used as sources of cash for investment in other businesses needing resources; selective harvesting, retrenchment and similar combinations suit declining businesses. In this way a balanced portfolio of businesses is built up."
+     ],
+     "keywords": [
+      "S-shaped curve",
+      "lack of awareness",
+      "prices fall",
+      "maintaining stability",
+      "diagnose a portfolio",
+      "selective harvesting",
+      "balanced portfolio"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "RTP-S24-SQ9",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "A company has recently launched a new product in the market. Initially, it faced slow sales growth, limited markets, and high prices. However, over time, the demand for the product expanded rapidly, prices fell, and competition increased. Identify the stages of the product life cycle (PLC) that the company went through.",
+     "answer_points": [
+      "The company went through **two** stages of the product life cycle.",
+      "**Introduction stage:** initially the company faced slow sales growth, limited markets and high prices, which are characteristic of the introduction stage. During this stage **competition is almost negligible, and customers have limited knowledge about the product**.",
+      "**Growth stage:** over time the demand for the product expanded rapidly, prices fell and competition increased — typical features of the growth stage. In this stage **the product gains market acceptance, and customers become more aware of the product's benefits and show interest in purchasing it**.",
+      "The answer therefore names both stages and maps each symptom in the question to the stage it belongs to — ICAI's own structure for every PLC case."
+     ],
+     "keywords": [
+      "slow sales growth, limited markets, and high prices",
+      "competition is almost negligible",
+      "demand expanded rapidly, prices fell",
+      "gains market acceptance"
+     ],
+     "also_asked_as": [
+      "MTP-M25-S1-SQ4a asks the identical question for 5 marks with the same published answer."
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "PYQ-J25-MCQ9",
+     "question": "Primo Neo Logistics (PNL) transports goods by road and also takes the services of private airways as its logistics partner. However, there is a sharp decline in business through airways as sales and profits have declined steeply. The business through private airways is at which phase of product life cycle?",
+     "options": {
+      "A": "Introduction",
+      "B": "Growth",
+      "C": "Maturity",
+      "D": "Decline"
+     },
+     "answer": "D",
+     "explanation": "A sharp downward drift in sales and profits is the decline stage (SM §2.4.1), where some new product replaces the existing one and the firm must diversify or retrench. ICAI key: (D).",
+     "why_wrong": {
+      "A": "Introduction has slow growth from a low base, not a decline from a high one.",
+      "B": "Growth has rapidly expanding demand.",
+      "C": "Maturity has a slowdown in growth and stabilised market, not a steep fall."
+     },
+     "trap": "'Slowdown' and 'sharp decline' are different: maturity slows, decline falls.",
+     "concept": "S02.11"
+    },
+    {
+     "id": "RTP-J25-SMCQ3",
+     "question": "A company's flagship product has experienced a plateau in sales despite heavy promotions and marketing. What phase of the Product Life Cycle are they likely in, and what is the best strategic option to consider?",
+     "options": {
+      "A": "Introduction; increase prices",
+      "B": "Growth; diversify product range",
+      "C": "Maturity; seek product differentiation",
+      "D": "Decline; invest in new technology"
+     },
+     "answer": "C",
+     "explanation": "A plateau in sales despite heavy promotion is the maturity stage — slowdown in growth rate, tough competition, stabilised market, profit down, and the organisation must work for maintaining stability. ICAI key: (c).",
+     "why_wrong": {
+      "A": "Introduction already has relatively high prices and no plateau.",
+      "B": "Growth shows rapidly expanding demand, not a plateau.",
+      "D": "Decline shows a sharp downward drift, not a plateau."
+     },
+     "trap": "'Despite heavy promotions' tempts decline; a plateau is stabilisation, which is maturity.",
+     "concept": "S02.11"
+    },
+    {
+     "id": "RTP-M25-SMCQ1-ii",
+     "question": "DezineFabs embarked on a strategic move to introduce specific product variants at a particular phase of the product life cycle. In which phase did DezineFabs introduce gluten-free and organic variants of their products?",
+     "options": {
+      "A": "Introduction phase, targeting early market entrants",
+      "B": "Growth phase, capitalizing on expanding market demand",
+      "C": "Maturity phase, aiming to maintain market share",
+      "D": "Decline phase, attempting to revive fading product sales"
+     },
+     "answer": "B",
+     "explanation": "ICAI key: (b). Adding variants to ride expanding demand is the growth stage, where demand expands rapidly, the market expands and customers already know the product.",
+     "why_wrong": {
+      "A": "Introduction is marked by lack of awareness and limited markets.",
+      "C": "Maturity variants aim at stability, which the case does not describe.",
+      "D": "Decline would show a sharp fall in sales."
+     },
+     "trap": "Variant launches occur at several stages; the stem's driver is expanding market demand.",
+     "concept": "S02.11"
+    },
+    {
+     "id": "RTP-S24-SMCQ3",
+     "question": "A traditional desi ghee company modernized its production and introduced pro-biotic desi ghee, facing initial market doubts. Aggressive marketing campaigns highlighted its benefits, gaining acceptance. During which stage of the product life cycle did the desi ghee company face doubts but gain acceptance through aggressive marketing campaigns?",
+     "options": {
+      "A": "Introduction stage",
+      "B": "Growth stage",
+      "C": "Maturity stage",
+      "D": "Decline stage"
+     },
+     "answer": "A",
+     "explanation": "Initial doubts are the study material's 'lack of awareness on the part of customers', and heavy promotion to overcome them belongs to the introduction stage. ICAI key: (a).",
+     "why_wrong": {
+      "B": "Growth begins once acceptance is achieved.",
+      "C": "Maturity has a stabilised market.",
+      "D": "Decline has falling sales and profits."
+     },
+     "trap": "'Gaining acceptance' sounds like growth; the stage in which acceptance has to be won is introduction.",
+     "concept": "S02.11"
+    },
+    {
+     "id": "MTP-J25-S2-SMCQ-B-iii",
+     "question": "During which stage of the Product Life Cycle would you typically expect the highest marketing expenditure per unit sold as companies aggressively promote their product?",
+     "options": {
+      "A": "Maturity",
+      "B": "Introduction",
+      "C": "Growth",
+      "D": "Decline"
+     },
+     "answer": "B",
+     "explanation": "In introduction, sales volumes are low and awareness has to be created, so promotional spend per unit sold is at its highest. ICAI key: (b).",
+     "why_wrong": {
+      "A": "Maturity spends heavily in total but over a large stabilised volume.",
+      "C": "Growth spreads promotion over rapidly expanding volume.",
+      "D": "Decline sees promotion withdrawn as the firm harvests or retrenches."
+     },
+     "trap": "Total marketing spend peaks later; the question asks **per unit sold**.",
+     "concept": "S02.11"
+    },
+    {
+     "id": "MCQ-S02.11-01",
+     "angle": "Stated advantage",
+     "difficulty": "Moderate",
+     "question": "What does the study material state as the **main advantage** of the product life cycle approach?",
+     "options": {
+      "A": "It can be used to diagnose a portfolio of products or businesses to establish the stage at which each exists",
+      "B": "It predicts the exact length of each stage",
+      "C": "It fixes the selling price appropriate to each stage",
+      "D": "It measures the profitability of each product line"
+     },
+     "answer": "A",
+     "explanation": "SM §2.4.1: the main advantage is that the PLC can be used to diagnose a portfolio of products (or businesses) in order to establish the stage at which each of them exists, with particular attention to those in the declining stage.",
+     "why_wrong": {
+      "B": "No predictive timing is claimed.",
+      "C": "Price behaviour is described, not prescribed.",
+      "D": "Profitability measurement is not the stated advantage."
+     },
+     "trap": "All four sound like benefits; only one is the published 'main advantage'.",
+     "concept": "S02.11"
+    },
+    {
+     "id": "MCQ-S02.11-02",
+     "angle": "Strategy by stage",
+     "difficulty": "Easy",
+     "question": "As per the study material, mature businesses in a portfolio are best used as:",
+     "options": {
+      "A": "Candidates for immediate divestment",
+      "B": "Sources of cash for investment in other businesses which need resources",
+      "C": "Targets for the highest capital expenditure",
+      "D": "Businesses requiring selective harvesting and retrenchment"
+     },
+     "answer": "B",
+     "explanation": "SM §2.4.1: expansion suits introduction and growth; **mature businesses may be used as sources of cash for investment in other businesses which need resources**; selective harvesting and retrenchment suit declining businesses.",
+     "why_wrong": {
+      "A": "Divestment is not prescribed for maturity.",
+      "C": "Highest capital expenditure suits the introductory and growth stages.",
+      "D": "That is the prescription for declining businesses."
+     },
+     "trap": "Option D is a genuine quotation from the same paragraph, but attached to the wrong stage.",
+     "concept": "S02.11"
+    }
+   ],
+   "recap": [
+    "PLC = S-shaped curve of sales against time through introduction, growth, maturity, decline; works for businesses too.",
+    "Introduction: slow growth, negligible competition, high prices, limited markets, no awareness.",
+    "Growth: rapid acceptance, demand expands, prices fall, competition increases.",
+    "Maturity: growth slows, competition tough, market stabilises, profit falls — maintain stability.",
+    "Decline: sharp fall as a new product replaces it — diversify or retrench.",
+    "Main advantage: diagnose a portfolio and build a balanced one."
+   ]
+  },
+  {
+   "code": "S02.12",
+   "title": "2.4.2 Value Chain Analysis",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 2 · RTP 4 · MTP 2",
+   "understand": [
+    "**Why value matters.** With each transaction, successful businesses produce value for their consumers in the form of **satisfaction** and for themselves and their shareholders in the form of **profits**. ==Companies that generate more value are more likely to profit than those that generate less value.==",
+    "==**Value chain analysis is a method of examining each activity in the value chain of a business in order to identify areas for improvement.**== It is a method used by strategists to **break down each process that their business employs**, and can be used to improve the sequence of operations, enhancing efficiency and creating competitive advantage. It can be used by businesses of **all sizes, from sole proprietorships to multinational organisations**. When doing a value chain analysis you must analyse **how each stage in the process adds or subtracts value** from the end product or service.",
+    "**Origin.** Value chain analysis was **originally introduced as an accounting analysis** to shed light on the **'value added' of separate steps in complex manufacturing processes**, in order to determine where cost improvements could be made and/or value creation improved. ==The two basic steps of **identifying separate activities** and **assessing the value added from each** were linked to an analysis of an organisation's **competitive advantage by Michael Porter**.==",
+    "==**One of the key aspects of value chain analysis is the recognition that organizations are much more than a random collection of machines, material, money and people.** These resources are of no value unless **deployed into activities and organised into systems and routines** which ensure that products or services are produced which are valued by the final consumer/user.== It is these **competences to perform particular activities and the ability to manage linkages between activities** which are the source of competitive advantage. Porter argued that an understanding of strategic capability must start with an identification of these separate value activities.",
+    "**The five primary activities.** **(1) Inbound logistics** — activities concerned with **receiving, storing and distributing the inputs** to the product/service: materials handling, stock control, transport, warehousing. **(2) Operations** — **transform these inputs into the final product or service**: machining, packaging, assembly, testing — converting raw materials into finished goods. **(3) Outbound logistics** — **collect, store and distribute the product to customers**; for tangible products this means warehousing, materials handling and transport, and for services it may be more concerned with **arrangements for bringing customers to the service** if it is at a fixed location (e.g. sports events). **(4) Marketing and sales** — **the means whereby consumers/users are made aware of the product/service and are able to purchase it**: sales administration, advertising, selling; in public services, **communication networks which help users access a particular service**. **(5) Service** — all those activities which **enhance or maintain the value of a product/service**: installation, repair, training and spares.",
+    "**The four support activities.** Each group of primary activities is linked to support activities. **(1) Procurement** — the **processes for acquiring the various resource inputs to the primary activities (not the resources themselves)**; as such it occurs in **many parts of the organisation**. **(2) Technology development** — **all value activities have a 'technology', even if it is simply know-how**; the key technologies may concern the product directly (R&D, product design), the processes (process development) or a particular resource (raw-material improvements). **(3) Human resource management** — a particularly important area which **transcends all primary activities**: recruiting, managing, training, developing and rewarding people. **(4) Infrastructure** — the systems of **planning, finance, quality control and information management**, crucially important to performance in the primary activities; infrastructure also consists of **the structures and routines of the organisation which sustain its culture**.",
+    "==Primary and support activities are **intertwined**: this is the proposition ICAI puts to candidates three times, and the expected answer is 'Yes, I agree', followed by the definition and then whichever list the question asks for.=="
+   ],
+   "example": "A solar-panel maker that forms partnerships with retail chains to widen distribution is acting on **outbound logistics** — collecting, storing and distributing the product to customers. If instead it had negotiated better silicon contracts, that would be **procurement**; if it had improved cell efficiency in the lab, **technology development**; if it had set up an installation and repair network, **service**.",
+   "keywords": [
+    "generate more value are more likely to profit",
+    "examining each activity",
+    "break down each process",
+    "adds or subtracts value",
+    "originally introduced as an accounting analysis",
+    "value added of separate steps",
+    "linked to competitive advantage by Michael Porter",
+    "much more than a random collection of machines, material, money and people",
+    "systems and routines",
+    "ability to manage linkages between activities",
+    "inbound logistics, operations, outbound logistics, marketing and sales, service",
+    "procurement, technology development, human resource management, infrastructure",
+    "not to the resources themselves",
+    "transcends all primary activities",
+    "intertwined"
+   ],
+   "memory": {
+    "trick": "Primary = \"I-O-O-M-S\" (\"In, Operate, Out, Market, Serve\"). Support = \"P-T-H-I\" (\"Procure The Human Infrastructure\").",
+    "key": [
+     [
+      "I",
+      "Inbound logistics — receiving, storing, distributing inputs"
+     ],
+     [
+      "O",
+      "Operations — transform inputs into the final product"
+     ],
+     [
+      "O",
+      "Outbound logistics — collect, store, distribute to customers"
+     ],
+     [
+      "M",
+      "Marketing and sales — awareness and ability to purchase"
+     ],
+     [
+      "S",
+      "Service — installation, repair, training, spares"
+     ],
+     [
+      "P/T/H/I",
+      "Procurement · Technology development · HRM · Infrastructure"
+     ]
+    ],
+    "recall_trigger": "In, Operate, Out, Market, Serve — then Procure The Human Infrastructure"
+   },
+   "mistakes": [
+    "Giving the primary list when the question asks for support activities, or the reverse. PYQ May 2025 asked for **support**; PYQ Sep 2024 asked for **primary**. Read the verb.",
+    "Defining procurement as the resources acquired. The study material is explicit: it refers to the **processes** for acquiring inputs, **not to the resources themselves**.",
+    "Placing human resource management in only one activity. It **transcends all primary activities**.",
+    "Forgetting infrastructure's cultural half — the structures and routines of the organisation that sustain its culture, not only planning, finance, quality control and information management.",
+    "Answering 'no' to the 'are they intertwined?' question. ICAI's published answer begins 'Yes, I agree'."
+   ],
+   "links": [
+    "🔗 S02.17: value creation — Porter's two routes to competitive advantage are differentiation and cost advantage, and the value chain is how he explores them",
+    "🔗 S02.24: a firm's KSFs usually sit in particular value-chain activities",
+    "🔗 SM Ch 3: core competencies and the resource-based view extend this analysis inward"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "'What do you mean by value chain analysis? Delineate the **support** activities as stated by Michael Porter' (PYQ May 2025 Q7(a), MTP Jan 2026 S1 Q4(a) — identical)",
+     "'Both the activities are intertwined. Do you agree? Also delineate the main areas in which **primary** activities are grouped' (PYQ Sep 2024 Q6(b), RTP Sep 2025 Q10, RTP Sep 2026 Q10 — identical)",
+     "MCQs naming the activity affected by a described action (PYQ Sep 2025 MCQ 10, RTP Jan 2025 MCQ 1(v), RTP May 2026 MCQ 1(ii))"
+    ],
+    "approach": [
+     "Lead with the one-line definition ICAI itself uses — 'a strategic tool used to examine each business activity to determine how it adds value, helping firms improve efficiency, identify cost-saving opportunities and gain competitive advantage through better coordination and performance of internal processes'.",
+     "Then give the asked list as four or five numbered headings in bold with one explanatory sentence each. Do not give both lists unless asked."
+    ],
+    "official_pattern": "ICAI's support-activity answer is exactly four numbered points; its primary-activity answer is exactly five, each with a bracketed example. The two answers are reused verbatim across five papers.",
+    "time_tip": "5 marks ≈ 7 minutes: 1 mark for the definition and 4 for the list (study guidance, matching ICAI's own '1 + 4' split in May 2025)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S02.12-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "\"Organisations are much more than a random collection of machines, material, money and people.\" Explain this statement in the context of value chain analysis, and state the origin of the technique.",
+     "answer_points": [
+      "Resources are **of no value unless deployed into activities and organised into systems and routines** which ensure that products or services are produced that are valued by the final consumer or user.",
+      "It is the **competences to perform particular activities** and the **ability to manage the linkages between activities** that are the source of competitive advantage for organisations; Porter argued that an understanding of strategic capability must start with an identification of these separate value activities.",
+      "**Origin:** value chain analysis was originally introduced as an **accounting analysis**, to shed light on the 'value added' of separate steps in complex manufacturing processes, in order to determine where cost improvements could be made and/or value creation improved.",
+      "The two basic steps — **identifying separate activities** and **assessing the value added from each** — were linked to an analysis of an organisation's competitive advantage by **Michael Porter**.",
+      "Value chain analysis has since been widely used as a means of describing the activities within and around an organisation and relating them to an assessment of its competitive strength, or its ability to provide value-for-money products or services; it suits businesses of all sizes from sole proprietorships to multinationals."
+     ],
+     "keywords": [
+      "random collection",
+      "systems and routines",
+      "manage linkages between activities",
+      "accounting analysis",
+      "value added of separate steps"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "PYQ-M25-Q7a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "What do you mean by value chain analysis? Delineate the support activities in value chain analysis, as stated by Michael Porter. (1 + 4 = 5 Marks)",
+     "answer_points": [
+      "**Value chain analysis** is a strategic tool used to examine each business activity to determine how it adds value, helping firms improve efficiency, identify cost-saving opportunities and gain competitive advantage through better coordination and performance of internal processes.",
+      "Michael Porter identified **four main categories of support activities** that support the primary activities and help the organisation achieve competitive advantage.",
+      "**1. Procurement:** the processes involved in acquiring the various resource inputs needed for the primary activities. It focuses on **how resources are sourced rather than the resources themselves**, and occurs across many parts of the organisation.",
+      "**2. Technology Development:** every value activity has an associated technology or know-how — R&D, product design, process development and improvements in resources such as raw materials. It enhances the efficiency and effectiveness of value activities.",
+      "**3. Human Resource Management:** spans across all primary activities and involves recruiting, managing, training, developing and rewarding employees; effective HR management is vital to ensure the organisation has the right people to perform its activities successfully.",
+      "**4. Infrastructure:** the systems and routines that support the entire organisation, including planning, finance, quality control, information management and organisational culture. It sustains and coordinates primary and support activities and is crucial for overall organisational performance."
+     ],
+     "keywords": [
+      "how resources are sourced rather than the resources themselves",
+      "associated technology or know-how",
+      "spans across all primary activities",
+      "systems and routines",
+      "sustains and coordinates"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "MTP-J26-S1-SQ4a is the same question with the same published answer, word for word."
+     ]
+    },
+    {
+     "id": "PYQ-S24-Q6b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Value Chain Analysis consist two activities: Primary activities and Support activities. As per Michael Porter both the activities are intertwined. Do you agree with the statement? Also delineate the main areas in which primary activities of any organization are grouped. (5 Marks)",
+     "answer_points": [
+      "**Yes, I agree** that value chain analysis consists of two activities — primary activities and support activities — and that as per Michael Porter both are intertwined. It is a tool used to examine the activities that create value in an organisation, helping to enhance efficiency and build competitive advantage; it breaks down a business's operations to identify areas for improvement in value creation.",
+      "**1. Inbound logistics:** activities related to receiving, storing and distributing inputs — materials handling, stock control and transport.",
+      "**2. Operations:** transforming inputs into final products or services — machining, packaging, assembly.",
+      "**3. Outbound logistics:** collecting, storing and delivering products to customers — warehousing, transport.",
+      "**4. Marketing and sales:** promoting and selling the product or service, including advertising and sales administration.",
+      "**5. Service:** enhancing or maintaining product value — installation, repair, training."
+     ],
+     "keywords": [
+      "Yes, I agree",
+      "intertwined",
+      "materials handling, stock control",
+      "machining, packaging, assembly",
+      "installation, repair, training"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "The identical question appears under ICAI's own 'Chapter 2' RTP label twice — RTP-S25-SQ10 and RTP-S26-SQ10 — with the same five-point answer. Note that RTP Sep 2025 prints 'Chapter 3-Strategic Analysis: Internal Environment' immediately **after** this question, confirming that ICAI itself files value chain analysis in Chapter 2."
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "PYQ-S25-MCQ10",
+     "question": "Solar Tech expands its distribution network by forming partnerships with retail chains. This directly affects which value chain activity?",
+     "options": {
+      "A": "Firms infrastructure",
+      "B": "Inbound logistics",
+      "C": "Outbound logistics",
+      "D": "Technology development"
+     },
+     "answer": "C",
+     "explanation": "Outbound logistics collect, store and distribute the product to customers (SM §2.4.2); a retail distribution network is squarely outbound. ICAI key: (C).",
+     "why_wrong": {
+      "A": "Infrastructure is planning, finance, quality control, information management and culture.",
+      "B": "Inbound logistics handle inputs coming in, not finished goods going out.",
+      "D": "Technology development is R&D, product and process design."
+     },
+     "trap": "'Partnerships' suggests infrastructure or procurement; the object of the partnership is distribution of the finished product.",
+     "concept": "S02.12"
+    },
+    {
+     "id": "RTP-J25-SMCQ1-v",
+     "question": "The primary factor contributing to Horizon Technologies' remarkable transformation was their commitment to systematic analysis. What role did value chain analysis play in this transformation, and how did it drive their success in both local and global markets?",
+     "options": {
+      "A": "Value chain analysis revealed opportunities for diversification, enabling them to cater to various market segments",
+      "B": "It allowed the company to identify and eliminate inefficiencies in their operations, resulting in cost reductions and improved product quality",
+      "C": "Value chain analysis highlighted the need for excessive vertical integration, helping them control the entire supply chain",
+      "D": "Horizon Technologies used value chain analysis primarily for financial forecasting and budgeting"
+     },
+     "answer": "B",
+     "explanation": "Value chain analysis examines each activity to identify areas for improvement, improving efficiency and building competitive advantage (SM §2.4.2). ICAI key: (b).",
+     "why_wrong": {
+      "A": "Diversification is a Chapter 4 strategic choice, not what the value chain delivers.",
+      "C": "The study material never prescribes 'excessive' vertical integration.",
+      "D": "Although the technique began as an accounting analysis, it is not a forecasting or budgeting tool."
+     },
+     "trap": "Option D exploits the fact that value chain analysis originated as an accounting analysis.",
+     "concept": "S02.12"
+    },
+    {
+     "id": "RTP-M26-SMCQ1-ii",
+     "question": "By partnering with battery suppliers, improving assembly lines, and investing in service centers, EcoRide focused on strengthening its entire chain of operations. Which framework does this reflect and how does it add competitive advantage to the EV industry?",
+     "options": {
+      "A": "Value Chain Analysis",
+      "B": "Experience Curve",
+      "C": "Ansoff's Growth Matrix",
+      "D": "McKinsey 7S Framework"
+     },
+     "answer": "A",
+     "explanation": "Suppliers (procurement), assembly lines (operations) and service centres (service) are three value-chain activities acted on together — the recognition that competitive advantage comes from competences in activities and the linkages between them. ICAI key: (a).",
+     "why_wrong": {
+      "B": "The experience curve explains falling unit costs with cumulative volume.",
+      "C": "Ansoff's matrix identifies product-market growth options.",
+      "D": "The 7S framework aligns internal organisational elements."
+     },
+     "trap": "'Improving assembly lines' could suggest the experience curve; the stem names three *different* activities across the chain.",
+     "concept": "S02.12"
+    },
+    {
+     "id": "MCQ-S02.12-01",
+     "angle": "Definition precision",
+     "difficulty": "Moderate",
+     "question": "In Porter's value chain, procurement refers to:",
+     "options": {
+      "A": "The processes for acquiring the various resource inputs to the primary activities, not the resources themselves",
+      "B": "The raw materials, components and consumables bought by the firm",
+      "C": "The receiving, storing and distributing of inputs",
+      "D": "The negotiation of selling prices with large buyers"
+     },
+     "answer": "A",
+     "explanation": "SM §2.4.2 is explicit: procurement 'refers to the processes for acquiring the various resource inputs to the primary activities (not to the resources themselves)', and occurs in many parts of the organisation.",
+     "why_wrong": {
+      "B": "Those are the resources, which the study material excludes.",
+      "C": "That is inbound logistics, a primary activity.",
+      "D": "That is marketing and sales."
+     },
+     "trap": "Options B and C are the two things procurement is most often confused with — the resources and the handling of them.",
+     "concept": "S02.12"
+    },
+    {
+     "id": "MCQ-S02.12-02",
+     "angle": "Service sector application",
+     "difficulty": "Moderate",
+     "question": "For a service delivered at a fixed location, such as a sports event, the study material says outbound logistics is more concerned with:",
+     "options": {
+      "A": "Warehousing and materials handling of the output",
+      "B": "Stock control of the inputs required",
+      "C": "Arrangements for bringing customers to the service",
+      "D": "Installation, repair and training"
+     },
+     "answer": "C",
+     "explanation": "SM §2.4.2: for tangible products outbound logistics means warehousing, materials handling and transport, but 'in the case of services, it may be more concerned with arrangements for bringing customers to the service, if it is a fixed location (e.g. sports events)'.",
+     "why_wrong": {
+      "A": "That is the tangible-product form of outbound logistics.",
+      "B": "Stock control is inbound logistics.",
+      "D": "Those are the service activity."
+     },
+     "trap": "Option D's wording is the definition of the fifth primary activity, 'Service', which is a different thing from outbound logistics for a service business.",
+     "concept": "S02.12"
+    }
+   ],
+   "recap": [
+    "Value chain analysis examines each activity to find where value is added or subtracted; began as an accounting analysis, linked to competitive advantage by Porter.",
+    "Organisations are more than a random collection of machines, material, money and people — value comes from activities, systems, routines and the linkages between them.",
+    "Primary: inbound logistics, operations, outbound logistics, marketing and sales, service.",
+    "Support: procurement (processes, not resources), technology development (every activity has one), HRM (transcends all primary activities), infrastructure (planning, finance, quality control, information management, culture).",
+    "The expected answer to 'are they intertwined?' is 'Yes, I agree'."
+   ]
+  }
+ ]
+}

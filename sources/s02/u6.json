@@ -1,0 +1,600 @@
+{
+ "concepts": [
+  {
+   "code": "S02.18 + S02.19",
+   "title": "2.6–2.6.1 Market and Customer; Customer",
+   "activity": "Core",
+   "update_sensitive": true,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 0 — headings added in the 2026 syllabus edition",
+   "understand": [
+    "==**A market is a place for interested parties, buyers and sellers, where items and services can be exchanged for a price.**== The market might be **physical**, such as a departmental store where people engage in person, or **virtual**, such as an online market where buyers and sellers do not meet in person but use tools of technology to strike a deal.",
+    "The term market applies to a **wide range of contexts**: the **stock exchange**, where securities are traded; a **group of individuals trying to buy a specific commodity or service in a specific place**, such as a grain or vegetable market where farmers come to sell their produce; and a **business or industry**, such as the global oil market.",
+    "**Market versus marketing.** ==While the market is a **place**, business strategists work on **marketing** to improve the chances of success.== The term marketing encompasses a wide range of operations, including **research, designing, pricing, promotion, transportation and distribution**.",
+    "==**The four Ps of marketing — product, place, pricing and promotion.**== Market activities are often categorised and explained in terms of these four, which **help marketers identify customer needs so they may meet their demands and deliver satisfaction**. ==**Delivering the best customer experience and establishing, maintaining and growing relationships with customers are the main goals of marketing.**==",
+    "**The four orientations of product marketing.** The orientation of product marketing has evolved and acquired different dimensions centred around **product, production, sales and customers**:",
+    "**(i) Product orientation** — businesses think that **buyers will choose those products that have the best quality, performance, design, or features**.",
+    "**(ii) Production orientation** — businesses believe that **customers choose low price products**.",
+    "**(iii) Sales orientation** — businesses believe that **if they spend enough money on advertisement, sales and promotion, customers can be persuaded to make a purchase**.",
+    "**(iv) Customer or market orientation** — ==strategists **prioritise efforts on their customers**. In order to create better value propositions, businesses **gather, disseminate and use customer and competitive information**. A customer-centric business is one that **continuously learns from its customers' needs and market dynamics**. In the present times, the success of many businesses lies in customer-centric approaches.==",
+    "**Customer (§2.6.1).** ==**A customer is a person or business that buys products or services from another organisation.** Customers are important because **they provide revenue and organisations cannot exist without them**.== All businesses vie for customers, either by **aggressively marketing their products or by lowering their pricing to boost their customer bases**.",
+    "**Customer versus consumer — the thin distinction.** The terms are practically synonymous and are frequently used interchangeably, but there is a thin distinction. ==**Individuals or businesses that consume or utilise products and services are referred to as consumers. Customers are the purchasers of products and services in the economy, and they might exist as consumers or only as customers.**== ICAI's illustration: **in homes, groceries are often bought by a parent and consumed by all the members of the family.**",
+    "**Why firms research customer characteristics.** Businesses routinely research the characteristics of their consumers **in order to fine-tune their marketing strategies and adjust their inventory to attract the most customers**. ==Customers are frequently **categorised based on demographics such as age, race, gender, ethnicity, economic level and geographic region**, which may all assist businesses in **developing a profile of a perfect customer**.=="
+   ],
+   "example": "A cloud-services firm sells an enterprise subscription to a company's procurement head — the **customer** — while the employees who actually use the software are the **consumers**. When the firm prices for the procurement head's budget but designs for the employees' experience, it is managing the thin distinction the study material draws, and the tension ICAI builds into its ZGE case between 'enterprise customers demand cost-efficient packages' and 'end users prioritize seamless, high-speed performance'.",
+   "keywords": [
+    "a place for interested parties",
+    "physical… virtual",
+    "stock exchange",
+    "global oil market",
+    "the market is a place",
+    "research, designing, pricing, promotion, transportation, and distribution",
+    "product, place, pricing, and promotion",
+    "best customer experience",
+    "product, production, sales and customers",
+    "best quality, performance, design, or features",
+    "customers choose low price products",
+    "persuaded to make a purchase",
+    "gather, disseminate, and use customer and competitive information",
+    "continuously learn from its customers' needs",
+    "they provide revenue and organisations cannot exist without them",
+    "consumers… customers are the purchasers",
+    "profile of a perfect customer"
+   ],
+   "memory": {
+    "trick": "Four orientations in historical order = \"P-P-S-C\" (\"Product, Production, Sales, Customer\"): first make it good, then make it cheap, then push it hard, finally ask the customer. Four Ps = Product, Place, Pricing, Promotion.",
+    "key": [
+     [
+      "Product orientation",
+      "Buyers choose the best quality, performance, design or features"
+     ],
+     [
+      "Production orientation",
+      "Customers choose low price products"
+     ],
+     [
+      "Sales orientation",
+      "Enough advertising and promotion persuades a purchase"
+     ],
+     [
+      "Customer orientation",
+      "Gather, disseminate and use customer and competitive information; learn continuously"
+     ]
+    ],
+    "recall_trigger": "Product, Production, Sales, Customer — good, cheap, pushed, asked"
+   },
+   "mistakes": [
+    "Confusing product orientation with production orientation. Product = best quality and features; production = low price.",
+    "Calling the four Ps 'product, price, place, people'. The study material's four are **product, place, pricing and promotion**.",
+    "Saying customer and consumer are identical. They are *practically* synonymous, but a customer purchases and may or may not consume.",
+    "Describing the market as an activity. The study material is explicit that the market is a **place** and marketing is the activity."
+   ],
+   "links": [
+    "🔗 S02.20: customer analysis builds the customer profile referred to here",
+    "🔗 S02.21: customer behaviour goes beyond identifying customers to explain how they purchase",
+    "🔗 S02.17: delivering value to the customer is what a customer orientation operationalises",
+    "🔗 SM Ch 3: channels of distribution develop the 'place' element of the four Ps"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Not yet examined as a descriptive part. Likely forms: 'Explain the different orientations of product marketing', 'Distinguish between a customer and a consumer', or an MCQ on the four Ps"
+    ],
+    "approach": [
+     "For the orientations, give all four with the belief each rests on, and end by saying that in the present times the success of many businesses lies in customer-centric approaches.",
+     "For the customer/consumer distinction, give the two definitions and then ICAI's grocery illustration — the parent buys, the family consumes."
+    ],
+    "official_pattern": "No published question. ICAI has, however, built the customer-versus-consumer tension into an MTP case scenario (the ZGE cloud-computing pricing dilemma), which signals that the distinction is live.",
+    "time_tip": "5 marks ≈ 7 minutes (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S02.18-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "Explain the different orientations that product marketing has acquired, and state the main goals of marketing.",
+     "answer_points": [
+      "The orientation of product marketing has evolved and acquired different dimensions centred around **product, production, sales and customers**.",
+      "**Product orientation:** businesses think that buyers will choose those products that have the best quality, performance, design or features.",
+      "**Production orientation:** businesses believe that customers choose low price products.",
+      "**Sales orientation:** businesses believe that if they spend enough money on advertisement, sales and promotion, customers can be persuaded to make a purchase.",
+      "**Customer or market orientation:** strategists prioritise efforts on their customers; to create better value propositions, businesses gather, disseminate and use customer and competitive information. A customer-centric business continuously learns from its customers' needs and market dynamics, and in the present times the success of many businesses lies in customer-centric approaches.",
+      "**Main goals of marketing:** delivering the best customer experience, and establishing, maintaining and growing relationships with customers. Marketing itself encompasses research, designing, pricing, promotion, transportation and distribution, and is often categorised in terms of the four Ps — product, place, pricing and promotion — which help marketers identify customer needs so they may meet their demands and deliver satisfaction."
+     ],
+     "keywords": [
+      "product, production, sales and customers",
+      "best quality, performance, design, or features",
+      "low price products",
+      "persuaded to make a purchase",
+      "gather, disseminate, and use",
+      "best customer experience"
+     ]
+    }
+   ],
+   "official_questions": [],
+   "mcqs": [
+    {
+     "id": "MCQ-S02.18-01",
+     "angle": "Which orientation",
+     "difficulty": "Moderate",
+     "question": "A firm is convinced that heavy spending on advertisement and promotion will persuade customers to buy. Which orientation of product marketing does this reflect?",
+     "options": {
+      "A": "Product orientation",
+      "B": "Sales orientation",
+      "C": "Production orientation",
+      "D": "Customer orientation"
+     },
+     "answer": "B",
+     "explanation": "SM §2.6: 'Sales-oriented businesses believe that if they spend enough money on advertisement, sales and promotion, customers can be persuaded to make a purchase.'",
+     "why_wrong": {
+      "A": "Product orientation believes buyers choose the best quality, performance, design or features.",
+      "C": "Production orientation believes customers choose low price products.",
+      "D": "Customer orientation gathers, disseminates and uses customer and competitive information."
+     },
+     "trap": "'Sales and promotion' appears in both the sales orientation's belief and the four Ps; the belief about persuasion is what identifies the orientation.",
+     "concept": "S02.18"
+    },
+    {
+     "id": "MCQ-S02.19-01",
+     "angle": "Customer vs consumer",
+     "difficulty": "Easy",
+     "question": "Groceries bought by a parent and consumed by all the members of the family illustrate which distinction drawn in the study material?",
+     "options": {
+      "A": "That a market may be physical or virtual",
+      "B": "That marketing differs from the market",
+      "C": "That a customer is the purchaser while consumers are those who consume or utilise the products",
+      "D": "That demographics determine the profile of a perfect customer"
+     },
+     "answer": "C",
+     "explanation": "SM §2.6.1: individuals or businesses that consume or utilise products are consumers; customers are the purchasers, and may exist as consumers or only as customers — illustrated by the parent who buys groceries for the family.",
+     "why_wrong": {
+      "A": "That distinction concerns where exchange happens.",
+      "B": "That distinction concerns place versus activity.",
+      "D": "Demographic profiling is a separate point in the same paragraph."
+     },
+     "trap": "Option D is from the very next sentence of the study material but answers a different question.",
+     "concept": "S02.19"
+    },
+    {
+     "id": "MCQ-S02.18-02",
+     "angle": "The four Ps",
+     "difficulty": "Easy",
+     "question": "Market activities are often categorised in terms of the four Ps of marketing. As per the study material these are:",
+     "options": {
+      "A": "Product, people, process, physical evidence",
+      "B": "Product, place, pricing and promotion",
+      "C": "Product, price, positioning and packaging",
+      "D": "Planning, pricing, promotion and placement"
+     },
+     "answer": "B",
+     "explanation": "SM §2.6 names the four Ps as product, place, pricing and promotion, and says they help marketers identify customer needs so they may meet their demands and deliver satisfaction.",
+     "why_wrong": {
+      "A": "Those are the extended service Ps, not in this chapter.",
+      "C": "Positioning and packaging are not among the four.",
+      "D": "Planning is not one of the four Ps."
+     },
+     "trap": "Option A is the familiar seven-P extension, which the study material does not use here.",
+     "concept": "S02.18"
+    }
+   ],
+   "recap": [
+    "A market is a place — physical or virtual — where items and services are exchanged for a price; marketing is the activity.",
+    "Marketing covers research, designing, pricing, promotion, transportation and distribution; four Ps = product, place, pricing, promotion.",
+    "Main goals: best customer experience and establishing, maintaining and growing customer relationships.",
+    "Four orientations: product (quality and features), production (low price), sales (persuasion through promotion), customer (learn continuously from customers).",
+    "Customer purchases; consumer consumes. A customer may be both, or only a customer."
+   ]
+  },
+  {
+   "code": "S02.20",
+   "title": "2.6.2 Customer Analysis",
+   "activity": "Core",
+   "update_sensitive": true,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 0 as a primary code (appears as a secondary code in two official items)",
+   "understand": [
+    "==**Customer analysis is an essential marketing component of any strategic business plan. It identifies target clients, determines their wants, and then defines how the product meets those needs.**== Thus it involves the **examination and evaluation of consumer needs, desires and wants**.",
+    "**What customer analysis includes — five activities:** **(i)** the **administration of customer surveys**; **(ii)** the **study of consumer data**; **(iii)** the **evaluation of market positioning strategies**; **(iv)** the **development of customer profiles**; and **(v)** the **selection of the best market segmentation techniques**.",
+    "==Using the facts generated by customer analysis, an **effective profiling of customers** may be established. **Customer profiles can reveal demographic information about customers.**==",
+    "**Who can help gather the information.** ==A number of parties can assist: **buyers, sellers, distributors, salespeople, managers, wholesalers, retailers, suppliers and creditors.**== Note how wide that list is — it reaches beyond the firm's own staff into the whole channel and even its creditors.",
+    "==**Successful businesses constantly monitor the behaviour of existing and prospective customers.**== That sentence is the bridge into §2.6.3: customer analysis identifies *who* the customers are and *what* they want; customer behaviour explains *how* they buy.",
+    "**Where this sits in the framework.** Customer analysis is the first of the four components of external analysis listed in §2.2 — 'Customer Analysis: Segments, motivations, unmet needs'. Read the two passages together: segments come from the segmentation techniques, motivations from the surveys and consumer data, and unmet needs from the evaluation of needs, desires and wants."
+   ],
+   "example": "A nutrition brand entering Tier-2 cities runs a survey, buys retail scan data, studies where rival brands sit on price and health positioning, builds three customer profiles (young gym-goers, diabetic adults, elderly buyers) and chooses to segment on health concern rather than income. Those are the five published activities of customer analysis, in order.",
+   "keywords": [
+    "essential marketing component",
+    "identifies target clients, determines their wants",
+    "defines how the product meets those needs",
+    "examination and evaluation of consumer needs, desires, and wants",
+    "administration of customer surveys",
+    "study of consumer data",
+    "evaluation of market positioning strategies",
+    "development of customer profiles",
+    "best market segmentation techniques",
+    "buyers, sellers, distributors, salespeople, managers, wholesalers, retailers, suppliers, and creditors",
+    "constantly monitor the behaviour of existing and prospective customers"
+   ],
+   "memory": {
+    "trick": "Five activities = \"S-D-P-P-S\" (\"Survey Data, Position, Profile, Segment\").",
+    "key": [
+     [
+      "S",
+      "Surveys administered"
+     ],
+     [
+      "D",
+      "Data on consumers studied"
+     ],
+     [
+      "P",
+      "Positioning strategies evaluated"
+     ],
+     [
+      "P",
+      "Profiles of customers developed"
+     ],
+     [
+      "S",
+      "Segmentation techniques selected"
+     ]
+    ],
+    "recall_trigger": "Survey Data, Position, Profile, Segment"
+   },
+   "mistakes": [
+    "Reducing customer analysis to market research. It also covers positioning evaluation, profiling and the choice of segmentation technique.",
+    "Listing only the firm's own people as sources. The published list includes distributors, wholesalers, retailers, suppliers and creditors.",
+    "Confusing customer analysis with customer behaviour. Analysis identifies target clients and their wants; behaviour explains how they purchase."
+   ],
+   "links": [
+    "🔗 S02.02: 'Customer Analysis: segments, motivations, unmet needs' is the first component of external analysis",
+    "🔗 S02.21: customer behaviour moves beyond identification to explain purchasing",
+    "🔗 S02.23: competitor analysis is the parallel exercise on rivals",
+    "🔗 S02.06: customer profiles reveal demographic information — the demographic environment at firm level"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Appears as the companion code to customer-behaviour questions (MTP Jan 2025 S1 Q1(b) and RTP Sep 2026 MCQ 3 both carry S02.20 as a secondary code)",
+     "Likely stand-alone form: 'What does customer analysis include?' or 'Who can assist in gathering information to assess the needs and desires of consumers?'"
+    ],
+    "approach": [
+     "Define it in the study material's own words, give the five activities, then the list of parties who can help gather information, and close with the monitoring sentence.",
+     "If a case asks for a marketing strategy, run customer analysis first (who and what they want) and customer behaviour second (how they buy) — the order ICAI's smartphone answer follows."
+    ],
+    "official_pattern": "No stand-alone published question; the heading does its work inside customer-behaviour answers, where the first step is always to identify the target customers.",
+    "time_tip": "5 marks ≈ 7 minutes (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S02.20-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "What is customer analysis and what does it include? State who can assist a firm in gathering the information needed to assess the needs and desires of consumers.",
+     "answer_points": [
+      "**Customer analysis** is an essential marketing component of any strategic business plan. It identifies target clients, determines their wants, and then defines how the product meets those needs; it involves the examination and evaluation of consumer needs, desires and wants.",
+      "**It includes:** the administration of customer surveys; the study of consumer data; the evaluation of market positioning strategies; the development of customer profiles; and the selection of the best market segmentation techniques.",
+      "Using the facts generated, an effective profiling of customers may be established, and customer profiles can reveal **demographic information** about customers.",
+      "**Parties who can assist** in gathering information to effectively assess the needs and desires of consumers: buyers, sellers, distributors, salespeople, managers, wholesalers, retailers, suppliers and creditors.",
+      "Successful businesses **constantly monitor the behaviour of existing and prospective customers**, which is where customer analysis leads into the study of customer behaviour."
+     ],
+     "keywords": [
+      "identifies target clients",
+      "needs, desires, and wants",
+      "market positioning strategies",
+      "customer profiles",
+      "segmentation techniques",
+      "wholesalers, retailers, suppliers, and creditors"
+     ]
+    }
+   ],
+   "official_questions": [],
+   "mcqs": [
+    {
+     "id": "MCQ-S02.20-01",
+     "angle": "Which is included",
+     "difficulty": "Moderate",
+     "question": "Which of the following is listed in the study material as part of customer analysis?",
+     "options": {
+      "A": "Drawing circles proportional to each strategic group's share of industry sales",
+      "B": "The selection of the best market segmentation techniques",
+      "C": "Rating each of the five competitive forces as fierce, strong, moderate or weak",
+      "D": "Assessing the value added by each step of the manufacturing process"
+     },
+     "answer": "B",
+     "explanation": "SM §2.6.2 lists customer surveys, the study of consumer data, the evaluation of market positioning strategies, the development of customer profiles and the selection of the best market segmentation techniques.",
+     "why_wrong": {
+      "A": "That is step 4 of strategic group mapping (§2.7.1).",
+      "C": "That is step 2 of the Five Forces procedure (§2.5.1).",
+      "D": "That is value chain analysis (§2.4.2)."
+     },
+     "trap": "Each wrong option is a genuine step from another tool in the same chapter.",
+     "concept": "S02.20"
+    },
+    {
+     "id": "MCQ-S02.20-02",
+     "angle": "Sources of information",
+     "difficulty": "Easy",
+     "question": "As per the study material, which of these parties can assist in gathering information to assess the needs and desires of consumers?",
+     "options": {
+      "A": "Only the firm's own salespeople and managers",
+      "B": "Only independent market research agencies",
+      "C": "Buyers, sellers, distributors, salespeople, managers, wholesalers, retailers, suppliers and creditors",
+      "D": "Only the firm's existing customers"
+     },
+     "answer": "C",
+     "explanation": "SM §2.6.2 lists all nine parties, extending well beyond the firm's own staff into the channel, its suppliers and even its creditors.",
+     "why_wrong": {
+      "A": "Too narrow; the published list is far wider.",
+      "B": "Research agencies are not even named in the list.",
+      "D": "Prospective as well as existing customers matter, and the list includes many non-customers."
+     },
+     "trap": "The breadth of the list — including creditors — is the point being tested.",
+     "concept": "S02.20"
+    }
+   ],
+   "recap": [
+    "Customer analysis identifies target clients, determines their wants, and defines how the product meets those needs.",
+    "Five activities: surveys, consumer data, positioning evaluation, customer profiles, segmentation technique choice.",
+    "Profiles reveal demographic information.",
+    "Nine parties can help gather information, from buyers and distributors to suppliers and creditors.",
+    "Successful businesses constantly monitor existing and prospective customers."
+   ]
+  },
+  {
+   "code": "S02.21",
+   "title": "2.6.3 Customer Behaviour",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 · RTP 1 · MTP 3",
+   "understand": [
+    "==**Customer behaviour moves beyond the identification of customers to explain how they purchase products.** It examines elements like **shopping frequency, product preferences, and the perception of your marketing, sales, and service offerings.**== Understanding these details allows businesses to **communicate with customers in an effective manner**.",
+    "==Understanding the behaviours of customers enables businesses to **establish effective marketing and advertising campaigns, provide products and services that meet their needs, and retain customers for repeat sales**.==",
+    "**The conceptual domains.** The study material says consumer behaviour may be influenced by a number of things, and that these elements **can be categorised into the following three conceptual domains** — then prints **four** headings: External Influences, Internal Influences, Decision Making and Post-decision Processes. ==**This is an inconsistency in ICAI's own text**: the sentence says three, the list has four. ICAI's published answers resolve it both ways — MTP Jan 2025 Series 1 says 'the following conceptual domains' and gives four, while MTP Jan 2026 Series 2 says consumer behaviour 'is influenced by **four** major conceptual domains' and gives four. **Write four, and name them all**; a question that asks for 'the three conceptual domains' is still answered safely with the four headings.==",
+    "**(1) External Influences.** ==External influences, **like advertisement, peer recommendations or social norms**, have a **direct impact on the psychological and internal processes** that influence various consumer decisions.== The focus of external effects is on the numerous elements that have an impact on customers **as they choose which needs to satisfy and which products to use** to do so. ==These aspects are divided into **two groups — the company's marketing efforts and the numerous environmental elements.**==",
+    "**(2) Internal Influences.** ==**Internal processes are psychological factors internal to the customer and affect consumer decision making.**== Consumer behaviour is influenced by a **combination of internal and external influences, including motivation and attitudes**.",
+    "**The process figure.** The chapter's diagram shows **External Factors** (market stimuli, environmental factors) and **Internal Factors** both feeding **Decision Making**, which leads to **Purchase and Post Purchase Actions**.",
+    "**(3) Decision Making.** ==**A rational consumer, as decision maker, would seek information about potential decisions and carefully integrate this with the existing knowledge about the product. After weighing the advantages and disadvantages of each option, they would make a decision.**== The **four stages** of the decision-making process are: **(i) Problem recognition** — identify an existing need or desire that is unfulfilled; **(ii) Search for desirable alternatives and list them**; **(iii) Seeking information on available alternatives and weighing their pros and cons**; **(iv) Make a final choice**.",
+    "==This behaviour of making decisions happens very frequently. **However, it mostly applies when the purchase is one that is significant to the customer**, such as when the product could have a significant influence on their **health or self-image**. The process is **extremely valid when purchasing a car, television or a refrigerator, in contrast to the purchase of ice creams or soft drinks.**==",
+    "**(4) Post-decision Processes.** ==After making a decision and purchasing a product, the final phase is **evaluating the outcome**. The consumer's reaction may vary depending upon the satisfaction: **a happy customer may make a repeat purchase and recommend it to others, while a customer with dissonance will neither purchase the product again nor recommend it to others.**=="
+   ],
+   "example": "A luxury skincare brand's sales jump after celebrity endorsements. External influences (the endorsement and social-media promotion) act on internal influences (aspirational self-image, altered perception of quality), which speed up the four-stage decision process by reducing perceived risk; whether the spike lasts depends on the post-decision phase — satisfied buyers repeat and recommend, dissonant ones do neither. That is ICAI's own answer structure for exactly this case.",
+   "keywords": [
+    "moves beyond the identification of customers",
+    "shopping frequency, product preferences",
+    "perception of your marketing, sales, and service offerings",
+    "retain customers for repeat sales",
+    "three conceptual domains",
+    "advertisement, peer recommendations or social norms",
+    "direct impact on the psychological and internal processes",
+    "which needs to satisfy and which products to use",
+    "the company's marketing efforts and the numerous environmental elements",
+    "psychological factors internal to customer",
+    "motivation and attitudes",
+    "rational consumer",
+    "problem recognition",
+    "search for desirable alternative",
+    "weighing their pros and cons",
+    "make a final choice",
+    "health or self-image",
+    "car, television or a refrigerator",
+    "ice creams or soft drinks",
+    "evaluating the outcome",
+    "customer with dissonance"
+   ],
+   "memory": {
+    "trick": "Four domains in the order the figure draws them = **E → I → D → P** (\"External, Internal, Decision, Post\"). Four decision stages = \"P-S-S-C\" (\"Problem, Search, Seek, Choose\").",
+    "key": [
+     [
+      "E",
+      "External influences — advertisement, peer recommendations, social norms; two groups: marketing efforts and environmental elements"
+     ],
+     [
+      "I",
+      "Internal influences — psychological factors, motivation and attitudes"
+     ],
+     [
+      "D",
+      "Decision making — problem recognition, search, seek information, final choice"
+     ],
+     [
+      "P",
+      "Post-decision processes — satisfaction brings repeat purchase; dissonance brings neither repeat nor recommendation"
+     ]
+    ],
+    "recall_trigger": "External, Internal, Decision, Post — then Problem, Search, Seek, Choose"
+   },
+   "mistakes": [
+    "Answering 'external influences' when the stem lists personal preferences, attitudes, lifestyle, motivation and perception. Those are **internal** — ICAI's May 2026 key is (D) Internal influences.",
+    "Writing only three domains because the opening sentence says three. Write all four headings; ICAI's own later answer calls them four.",
+    "Forgetting that external influences split into **two groups** — the company's marketing efforts and the environmental elements.",
+    "Omitting the significance qualification. The full decision process applies mainly to purchases significant to the customer — a car, television or refrigerator — not to ice creams or soft drinks.",
+    "Describing the post-decision phase only positively. The study material names **dissonance**, where the customer neither repurchases nor recommends."
+   ],
+   "links": [
+    "🔗 S02.20: customer analysis identifies who they are; behaviour explains how they buy",
+    "🔗 S02.06: socio-cultural factors and demographics are among the environmental elements acting externally",
+    "🔗 S02.11: in the introduction stage, lack of awareness blocks problem recognition",
+    "🔗 S02.17: the perceived utility a customer places on a product is formed in these domains"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "A case asking for a marketing strategy 'using the concept of customer behaviour' (MTP Jan 2025 S1 Q1(b), repeated as MTP Mar 2024 S1 Q2(b))",
+     "A case asking what factors influence a sudden change in buying behaviour and why understanding it matters (MTP Jan 2026 S2 Q1(a))",
+     "MCQs naming the domain from a described set of influences (PYQ May 2026 MCQ 15, RTP May 2025 MCQ 1(iii))"
+    ],
+    "approach": [
+     "Use the four domains as the four headings of the answer and convert each into a concrete action for the case: external → influencers, forums, endorsements; internal → appeal to the motive, highlight the unique selling points; decision making → give specifications and comparisons so they can weigh alternatives; post-decision → after-sales service, feedback and reviews.",
+     "Close with why it matters: effective communication, campaigns that work, products that meet needs, and customers retained for repeat sales."
+    ],
+    "official_pattern": "ICAI's smartphone answer gives exactly four bullets, one per domain, each converted into a marketing action. Its skincare answer numbers the same four domains and spells out the four decision stages inside the third.",
+    "time_tip": "5 marks ≈ 7 minutes — about a minute per domain plus the opening and closing (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S02.21-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "Explain the stages of the consumer decision-making process, and state when the study material says this process is most applicable.",
+     "answer_points": [
+      "A **rational consumer**, as decision maker, would seek information about potential decisions and carefully integrate this with existing knowledge about the product; after weighing the advantages and disadvantages of each option, they would make a decision.",
+      "**Stage 1 — Problem recognition:** identify an existing need or desire that is unfulfilled.",
+      "**Stage 2 — Search for desirable alternatives and list them.** **Stage 3 — Seeking information on available alternatives and weighing their pros and cons.**",
+      "**Stage 4 — Make a final choice.**",
+      "**When it applies:** this behaviour happens very frequently, but it mostly applies when the purchase is **significant to the customer** — such as when the product could have a significant influence on their **health or self-image**. The process is extremely valid when purchasing a **car, television or refrigerator**, in contrast to the purchase of **ice creams or soft drinks**.",
+      "The stage that follows is the **post-decision process** — evaluating the outcome; a happy customer may repurchase and recommend, while a customer with dissonance will neither purchase again nor recommend."
+     ],
+     "keywords": [
+      "rational consumer",
+      "problem recognition",
+      "weighing their pros and cons",
+      "final choice",
+      "health or self-image",
+      "car, television or a refrigerator",
+      "dissonance"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "MTP-J25-S1-SQ1b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "You are a strategic manager for a tech company launching a new smartphone model. The company wants to target tech-savvy consumers who value innovation and cutting-edge technology. Using the concept of customer behavior, develop a marketing strategy to promote the new smartphone. (5 Marks)",
+     "answer_points": [
+      "To target tech-savvy consumers the company can develop a marketing strategy based on customer behaviour, whose influences fall into the following conceptual domains.",
+      "**External Influences:** utilise online platforms and tech forums to generate buzz around the new smartphone; partner with tech influencers and bloggers to review the product and create awareness among tech-savvy consumers.",
+      "**Internal Influences:** appeal to the desire for innovation and advanced features; highlight the unique selling points of the smartphone — its cutting-edge technology, performance and design.",
+      "**Decision Making:** recognise that tech-savvy consumers are early adopters who value functionality and performance; provide detailed specifications and comparisons with other smartphones to help them make an informed decision.",
+      "**Post-decision Processes:** offer excellent customer service and support to address any technical issues or concerns; encourage customers to provide feedback and reviews to build credibility and trust among tech-savvy consumers.",
+      "By understanding the behaviour of tech-savvy consumers and aligning the marketing strategy with their preferences, the company can effectively promote the new smartphone and attract this demographic."
+     ],
+     "keywords": [
+      "online platforms and tech forums",
+      "tech influencers and bloggers",
+      "desire for innovation",
+      "early adopters",
+      "detailed specifications and comparisons",
+      "feedback and reviews"
+     ],
+     "also_asked_as": [
+      "MTP-M24-S1-SQ2b sets the identical smartphone question with the same published answer."
+     ]
+    },
+    {
+     "id": "MTP-J26-S2-SQ1a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "A luxury skincare brand saw a sudden spike in sales after celebrity endorsements and social media promotions. What factors could be influencing this change in consumer buying behavior, and why is understanding such behavior critical to business success? (5 Marks)",
+     "answer_points": [
+      "The surge is explained through the framework of **Consumer Behaviour**, which goes beyond identifying customers and focuses on how they purchase products, their preferences, perceptions and shopping patterns. ICAI states here that consumer behaviour is influenced by **four major conceptual domains**.",
+      "**1. External Influences:** advertisements, celebrity endorsements, peer recommendations and social norms. Here the endorsements and social-media promotions acted as strong **marketing stimuli**, directly shaping how consumers perceived the brand and influencing their decision to purchase.",
+      "**2. Internal Influences:** psychological processes within the consumer — motivation, attitudes and perception. The promotions may have altered the consumer's perception of the product's quality and created motivation linked to **beauty, self-image or aspirational lifestyles**.",
+      "**3. Decision-Making Process:** problem recognition → search for alternatives → information seeking and evaluation → final choice. The endorsements helped consumers recognise the product as a desirable solution, provided information and **reduced perceived risk**, leading to quicker and more confident decision-making.",
+      "**4. Post-Decision Processes:** satisfied customers will repeat their purchase and recommend the brand, sustaining the increased sales; dissatisfied customers may experience **dissonance** and not return.",
+      "**Why it is critical:** understanding customer behaviour — its external and internal influences, decision-making stages and post-purchase reactions — enables businesses to communicate effectively, design relevant marketing campaigns, deliver products that meet consumer needs and retain customers for repeat sales."
+     ],
+     "keywords": [
+      "four major conceptual domains",
+      "marketing stimuli",
+      "self-image or aspirational lifestyles",
+      "reducing perceived risk",
+      "dissonance",
+      "retain customers for repeat sales"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "PYQ-M26-MCQ15",
+     "question": "A fashion retail company is designing a new marketing campaign for Generation Z. During its market survey, the company observes that customers' personal preferences, attitudes, lifestyle, motivation, and perception of quality strongly influence their buying behaviour, even before they are exposed to advertisements or peer opinions. Considering these facts, the company should primarily focus on which conceptual domain of the consumer behaviour?",
+     "options": {
+      "A": "Cultural influences",
+      "B": "Social influences",
+      "C": "External influences",
+      "D": "Internal influences"
+     },
+     "answer": "D",
+     "explanation": "Internal processes are psychological factors internal to the customer that affect decision making, including motivation and attitudes (SM §2.6.3). The stem's clincher is 'even before they are exposed to advertisements or peer opinions', which rules out external influences. ICAI key: (D).",
+     "why_wrong": {
+      "A": "Not one of the published domains.",
+      "B": "Not one of the published domains.",
+      "C": "External influences are advertisement, peer recommendations and social norms — expressly excluded by the stem."
+     },
+     "trap": "Options A and B are plausible-sounding categories that the study material does not use as domains at all.",
+     "concept": "S02.21"
+    },
+    {
+     "id": "RTP-M25-SMCQ1-iii",
+     "question": "DezineFabs showcased agility in adapting to evolving customer preferences. How did they respond to changing customer behavior, as highlighted in the given case?",
+     "options": {
+      "A": "By increasing the prices of their products to enhance exclusivity",
+      "B": "By introducing a sustainable clothing line in response to a growing demand for eco-friendly fashion",
+      "C": "By ignoring customer feedback and focusing solely on their original product range",
+      "D": "By reducing the variety of their products to simplify their offerings"
+     },
+     "answer": "B",
+     "explanation": "Responding to a documented shift in consumer preference with a matching product line is the customer-centric response the study material describes — continuously learning from customers' needs and market dynamics. ICAI key: (b).",
+     "why_wrong": {
+      "A": "Raising price is not a response to behaviour change.",
+      "C": "Ignoring feedback is the opposite of a customer orientation.",
+      "D": "Narrowing the range does not respond to the new preference."
+     },
+     "trap": "Only one option actually acts on the observed change in behaviour.",
+     "concept": "S02.21"
+    },
+    {
+     "id": "MCQ-S02.21-01",
+     "angle": "Two groups",
+     "difficulty": "Moderate",
+     "question": "The study material divides external influences on consumer behaviour into two groups. These are:",
+     "options": {
+      "A": "The company's marketing efforts and the numerous environmental elements",
+      "B": "Motivation and attitudes",
+      "C": "Problem recognition and final choice",
+      "D": "Satisfaction and dissonance"
+     },
+     "answer": "A",
+     "explanation": "SM §2.6.3: the aspects of external influence 'are divided into two groups – the company's marketing efforts and the numerous environmental elements'.",
+     "why_wrong": {
+      "B": "Those are internal influences.",
+      "C": "Those are two of the four decision-making stages.",
+      "D": "Those are the two post-decision outcomes."
+     },
+     "trap": "Every option is a genuine pair from this heading, but only one answers the question asked.",
+     "concept": "S02.21"
+    },
+    {
+     "id": "MCQ-S02.21-02",
+     "angle": "When the process applies",
+     "difficulty": "Easy",
+     "question": "As per the study material, the full four-stage consumer decision-making process is extremely valid when purchasing:",
+     "options": {
+      "A": "Ice creams or soft drinks",
+      "B": "Newspapers and magazines",
+      "C": "Everyday groceries",
+      "D": "A car, television or a refrigerator"
+     },
+     "answer": "D",
+     "explanation": "SM §2.6.3: the process mostly applies when the purchase is significant to the customer — where the product could significantly influence health or self-image — and is 'extremely valid when purchasing a car, television or a refrigerator in contrast to purchase of ice creams or soft drinks'.",
+     "why_wrong": {
+      "A": "Named as the contrast case.",
+      "B": "Not mentioned; a low-involvement purchase.",
+      "C": "Not mentioned; a routine purchase."
+     },
+     "trap": "Option A is the study material's own counter-example, which makes it a tempting misread.",
+     "concept": "S02.21"
+    }
+   ],
+   "recap": [
+    "Customer behaviour explains how customers purchase — shopping frequency, product preferences, perception of marketing, sales and service.",
+    "Four domains (ICAI's text says three and prints four): external influences, internal influences, decision making, post-decision processes.",
+    "External influences split into the company's marketing efforts and the environmental elements.",
+    "Decision stages: problem recognition → search for alternatives → seek information and weigh pros and cons → final choice.",
+    "Applies mainly to significant purchases — car, television, refrigerator — not ice creams or soft drinks.",
+    "Post-decision: satisfaction brings repeat purchase and recommendation; dissonance brings neither."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,959 @@
+{
+ "confusing": [
+  {
+   "title": "Competitive Landscape vs Porter's Five Forces — the two questions ICAI keeps side by side",
+   "headers": [
+    "Basis",
+    "Competitive Landscape (§2.7.1)",
+    "Porter's Five Forces (§2.5.1)"
+   ],
+   "rows": [
+    [
+     "Question answered",
+     "Who are our competitors, and what are they good and bad at?",
+     "How much competitive pressure does this industry carry, and from where?"
+    ],
+    [
+     "Unit of study",
+     "Named rival firms, direct and indirect",
+     "The industry as a whole"
+    ],
+    [
+     "The list to write",
+     "Five steps: identify · understand · strengths · weaknesses · put together",
+     "Five forces, or the five areas of competitive pressure"
+    ],
+    [
+     "Tool it carries",
+     "Strategic group mapping, four steps",
+     "Three steps: identify pressures → rate each → judge collective strength"
+    ],
+    [
+     "Needs the tool called",
+     "Competitive intelligence",
+     "A common analytical framework"
+    ],
+    [
+     "Output",
+     "Gaps the firm can fill; areas it must strengthen",
+     "Whether the collective strength permits attractive profits"
+    ],
+    [
+     "Case clue",
+     "'understand the competitors', 'their vision, mission and financial status', 'market position of rival companies', 'group them into like positions'",
+     "'intense competition', 'suppliers raised prices', 'cheaper alternatives', 'new players entering', 'large clients negotiate hard'"
+    ],
+    [
+     "ICAI's own trap",
+     "The Riya Sharma confectionery case sounds like market dynamics but is answered with the five **steps**",
+     "The FreshSip juice case sounds like competitor analysis but is answered as the **industry environment**"
+    ]
+   ],
+   "spot_it": "Ask what the examiner wants named. If the answer is a *firm* (who they are, what they do well), it is the landscape. If the answer is a *force* (where the pressure comes from), it is Porter."
+  },
+  {
+   "title": "Demographic vs Socio-Cultural vs Economic environment",
+   "headers": [
+    "Basis",
+    "Demographic",
+    "Socio-cultural",
+    "Economic"
+   ],
+   "rows": [
+    [
+     "What it is",
+     "Characteristics of a population",
+     "Behaviour and the belief system of that population",
+     "The overall economic situation around the business"
+    ],
+    [
+     "Contents",
+     "Age, gender, income, race, education, assets, house ownership, job position, region",
+     "Social traditions, values and beliefs, literacy standards, ethical standards, social stratification, conflict, cohesiveness",
+     "GDP, per capita income, capital availability, forex reserves, foreign trade, capital market strength, interest rates, disposable income, unemployment, inflation"
+    ],
+    [
+     "Firm's questions",
+     "What trends affect the market size of the industry? Which represent opportunities or threats?",
+     "What norms must we adjust to, since core beliefs are persistent?",
+     "What is the effect of economic prospects, growth and inflation on operations?"
+    ],
+    [
+     "What it determines",
+     "Consumer preferences and demand",
+     "Mission and objective setting; product and market decisions",
+     "The strength and size of the market"
+    ],
+    [
+     "ICAI's example",
+     "India's relatively younger population attracting multinationals",
+     "Core beliefs that a business cannot change and must work within",
+     "Higher interest rates reducing real-estate buyers' loan capacity and demand"
+    ],
+    [
+     "Exam clue",
+     "A list of age groups, income levels and locations",
+     "Attitudes, ethics, public backlash, lifestyle beliefs",
+     "Purchasing power, prices, savings, credit availability, demand for an alternative"
+    ]
+   ],
+   "spot_it": "If the stem gives you numbers about people, it is demographic. If it gives you opinions about people, it is socio-cultural. If it gives you money, it is economic."
+  },
+  {
+   "title": "Which list does the question want? The nine recurring lists of SM Chapter 2",
+   "headers": [
+    "Trigger words in the question",
+    "The list expected",
+    "How many items"
+   ],
+   "rows": [
+    [
+     "'close and continuous interaction', 'define business environment'",
+     "Benefits of interaction with the environment",
+     "5 — opportunities and threats, growth direction, continuous learning, image building, meeting competition"
+    ],
+    [
+     "'assist in analysing the macro-environment', 'assess the external factors'",
+     "PESTLE factors",
+     "6 — political, economic, socio-cultural, technological, legal, environmental"
+    ],
+    [
+     "'characteristics of business products', 'interaction of supply and demand'",
+     "Characteristics of a business product",
+     "5 — tangible/intangible, price, features, pivotal, useful life"
+    ],
+    [
+     "'slow sales growth then rapid demand', 'plateau in sales'",
+     "Product life cycle stages",
+     "4 — introduction, growth, maturity, decline"
+    ],
+    [
+     "'support activities' / 'primary activities', 'both are intertwined'",
+     "Value chain",
+     "4 support / 5 primary"
+    ],
+    [
+     "'barriers which restrain new entrepreneurs'",
+     "Barriers to entry",
+     "7 — capital, scale, differentiation, switching costs, brand identity, distribution channels, retaliation"
+    ],
+    [
+     "'rivalry… cut throat', 'industry profitability is low'",
+     "Conditions of cut-throat rivalry",
+     "6 — leader, number of competitors, fixed costs, exit barriers, differentiation, slow growth"
+    ],
+    [
+     "'understand the competitors', 'competitor analysis'",
+     "Steps to understand the competitive landscape",
+     "5 — identify, understand, strengths, weaknesses, put together"
+    ],
+    [
+     "'market position of rival companies', 'group them into like positions'",
+     "Strategic group mapping procedure",
+     "4 — identify variables, plot, assign groups, draw proportional circles"
+    ],
+    [
+     "'internationalization', 'steps in such strategic planning'",
+     "International strategic planning steps",
+     "4 — evaluate, scope, objectives, strategies"
+    ],
+    [
+     "'why companies globalise'",
+     "Reasons for globalisation",
+     "7 in ICAI's May 2026 answer — growth, shrinking distance, inadequate domestic markets, resources, transport costs, foreign market expansion, services and regional integration"
+    ],
+    [
+     "'efficiency gained through repetitive production work'",
+     "Experience curve features",
+     "3 features, 4 causes"
+    ],
+    [
+     "'Key Success Factors', 'structure the questions'",
+     "KSF identification questions",
+     "3 — basis of customer choice, resources and capabilities needed, what sustains advantage"
+    ],
+    [
+     "'using the concept of customer behaviour'",
+     "Conceptual domains of consumer behaviour",
+     "4 — external, internal, decision making, post-decision (ICAI's text says 'three' and prints four)"
+    ]
+   ],
+   "spot_it": "Nine of these fourteen lists have been asked at least twice in three years. Before writing, name the list in your head and count its items; then write the count in the margin and tick each item off."
+  }
+ ],
+ "cases": [
+  {
+   "id": "CASE-S02-INT-1",
+   "title": "Integrated Case 1 — Kaveri Appliances Ltd. (external scan to competitive position)",
+   "facts": [
+    "Kaveri Appliances Ltd. makes domestic water purifiers in Coimbatore and sells across four southern states. Its strategy team is preparing a three-year plan and has gathered the following facts.",
+    "**Macro facts.** The State has announced a 15% capital subsidy for appliance manufacturing and has tightened e-waste rules, which will require Kaveri to fund a take-back scheme. Bank lending rates have risen by 150 basis points. Census data for the four states shows a rising share of households in the 25–40 age band with monthly incomes above ₹60,000. Public concern about plastic waste has grown sharply, and three competitors have been criticised in the press for non-recyclable filter cartridges. A new low-cost UV-LED purification module has become commercially available.",
+    "**Industry facts.** Four firms, including Kaveri, hold roughly equal shares of the branded southern market; none can dictate price. All four assemble in leased plants with heavy annual lease and staff commitments. Two large e-commerce platforms account for 48% of Kaveri's sales and press annually for deeper discounts. The single supplier of the membrane used in Kaveri's premium range holds the relevant patent and has raised prices twice this year. Packaged drinking-water home delivery is spreading rapidly in the same cities at a lower monthly cost than owning a purifier.",
+    "**Competitor facts.** AquaNeat sells only through its own service franchisees, carries the widest range, charges a premium and is nationally known. ValuePure sells a narrow two-model range at the lowest price through all channels, with no installation service. PureLife matches Kaveri on price and range but its published accounts show interest cover below 1.5 and its online reviews complain repeatedly about delayed service visits.",
+    "**Kaveri's own facts.** Its oldest gravity-filter line has had falling sales and profits for three years as RO models replaced it. Its mid-price RO range has grown fast for two years, with prices softening as rivals copied it. Its new UV-LED model has just been launched: few customers know of it, the price is high and no rival offers one. Cumulative output of the mid-price range has quadrupled in four years and its cost per unit has fallen 22% over the same period, from retraining, a redesigned housing, a larger moulding press and automated leak-testing."
+   ],
+   "questions": [
+    {
+     "q": "Classify Kaveri's three product lines by product-life-cycle stage, and state the strategic choice the study material attaches to each.",
+     "options": {
+      "A": "Gravity filter in maturity, RO range in decline, UV-LED in growth — harvest all three",
+      "B": "Gravity filter in decline, RO range in growth, UV-LED in introduction — selective harvesting or retrenchment for the first, expansion for the other two",
+      "C": "All three in maturity — maintain stability across the portfolio",
+      "D": "Gravity filter in introduction, RO range in maturity, UV-LED in growth — invest in the first two only"
+     },
+     "answer": "B",
+     "reasoning": [
+      "**Gravity filter — decline:** 'sharp downward drift in sales… some new product replaces the existing product' (SM §2.4.1). RO models replacing it is the textbook cause. A combination of strategies — diversification or retrenchment, and in portfolio terms selective harvesting — applies.",
+      "**Mid-price RO — growth:** 'the demand expands rapidly, prices fall, competition increases and market expands'. Prices softening as rivals copy is the growth signature, not maturity.",
+      "**UV-LED — introduction:** 'slow sales growth, competition is almost negligible, prices are relatively high, and markets are limited… lack of awareness on the part of customers'. All four conditions are present.",
+      "**Strategic choice by stage:** expansion is feasible for introductory and growth businesses; mature businesses are cash sources; selective harvesting and retrenchment suit declining ones. The main advantage of the PLC approach is exactly this diagnosis of a portfolio."
+     ]
+    },
+    {
+     "q": "Using Porter's Five Forces, which single force is Kaveri's **supplier** problem, and which force does the spread of packaged water home delivery represent?",
+     "options": {
+      "A": "Both are supplier bargaining power, because both concern inputs",
+      "B": "The membrane supplier is rivalry; packaged water is a new entrant",
+      "C": "The membrane supplier is supplier bargaining power; packaged water home delivery is the threat of substitutes",
+      "D": "The membrane supplier is a barrier to entry; packaged water is buyer bargaining power"
+     },
+     "answer": "C",
+     "reasoning": [
+      "**Supplier power:** suppliers command bargaining power when 'their products are crucial to the buyer and substitutes are not available', when they 'can erect high switching costs' and when they are 'more concentrated than their buyers' (SM §2.5.1). A sole patented membrane supplier meets all three, and supplier power 'determines the cost of raw materials and other inputs… and therefore industry attractiveness and profitability'.",
+      "**Substitutes:** 'Substitute products offering a price advantage and/or performance improvement to the consumer can drastically alter the competitive character of an industry. And they can bring it about all of a sudden.' The test is a product that performs 'the same, or nearly the same, function' — delivered drinking water performs the purifier's function at lower monthly cost, and comes from a different industry.",
+      "ICAI's own parallel: coir suffered at the hands of synthetic fibre; and real estate, insurance, bonds and bank deposits are substitutes for common stocks because they are alternate ways to invest funds.",
+      "Note that the e-commerce platforms taking 48% of sales and pressing for discounts are a third, separate force: buyer bargaining power, since they 'spend a lot of money on the industry's products, i.e. they are big buyers'."
+     ]
+    },
+    {
+     "q": "Kaveri's four equal rivals, their heavy lease and staff commitments, and the absence of product differences point to which published conditions, and with what consequence?",
+     "options": {
+      "A": "High exit barriers alone, which raise industry profitability",
+      "B": "A strong industry leader disciplining price wars, which protects margins",
+      "C": "Slow growth alone, which is temporary and self-correcting",
+      "D": "Number of competitors, high fixed costs and lack of product differentiation — three of the six conditions of cut-throat rivalry, which lower profitability for all"
+     },
+     "answer": "D",
+     "reasoning": [
+      "**Number of competitors:** with four roughly equal firms and no leader, 'the leader's ability to exert pricing discipline diminishes with the increased number of rivals', and no single firm can control pricing.",
+      "**High fixed costs:** 'when rivals operate with high fixed costs, they feel strong motivation to utilize their capacity and therefore are inclined to cut prices when they have excess capacity… profitability tends to be lower in industries characterized by high fixed costs'. Leases and staff commitments are exactly that.",
+      "**Lack of product differentiation:** 'firms can sometimes insulate themselves from price wars by differentiating their products… profitability tends to be lower in industries involving undifferentiated commodities'.",
+      "Option A inverts the rule: profitability tends to be **higher** in industries with **few** exit barriers, because rivalry declines when competitors can leave. Option B fails because the facts say no firm can dictate price, so there is no disciplining leader."
+     ]
+    },
+    {
+     "q": "Kaveri wants to position itself against AquaNeat, ValuePure and PureLife. Name the tool, the two variables it should plot, and the step at which PureLife's weakness enters the analysis.",
+     "options": {
+      "A": "Strategic group mapping; price/quality range and degree of service offered; PureLife's weakness enters at step (iv), determining the weaknesses of competitors",
+      "B": "SWOT analysis; strengths and weaknesses; PureLife's weakness is a threat to Kaveri",
+      "C": "BCG matrix; market growth and relative market share; PureLife is a dog",
+      "D": "PESTLE analysis; legal and economic factors; PureLife's interest cover is an economic factor"
+     },
+     "answer": "A",
+     "reasoning": [
+      "**The tool:** a strategic group consists of rival firms with similar competitive approaches and positions in the market, and strategic group mapping identifies those positions (SM §2.7.1). ICAI recommends it whenever a case asks for the market position of rivals — PYQ Jan 2026 Q5(a), MTP Mar 2024 S1 Q3(a), MTP May 2026 S1 Q1(a).",
+      "**The variables:** the six typical variables are price/quality range, geographic coverage, degree of vertical integration, product-line breadth, use of distribution channels and degree of service offered. The facts differentiate these four firms on price band and on service: AquaNeat is premium with franchised service, ValuePure is lowest price with no installation service, PureLife and Kaveri sit in the middle. Product-line breadth would serve equally well as the second variable.",
+      "**Where the weakness enters:** step (iv) of the competitive landscape — 'weaknesses (and strengths) can be identified by going through consumer reports and reviews appearing in various media', and 'financial strength and weakness can always be learnt from annual reports'. PureLife's delayed-service reviews and sub-1.5 interest cover are both named sources.",
+      "**Step (v) then does the work:** put all the information together, draw an inference about what rivals are **not** offering and what Kaveri can do to fill the gap — here, a mid-price model with reliable service and a recyclable cartridge, aimed at the group PureLife is failing."
+     ]
+    }
+   ],
+   "takeaway": "One case can demand four different lists — the PLC stages, the five forces, the six conditions of rivalry and the competitive-landscape steps with strategic group mapping. The discipline that earns the marks is naming which list the sub-question wants before writing a word of it."
+  },
+  {
+   "id": "CASE-S02-INT-2",
+   "title": "Integrated Case 2 — Nalanda Learning Ltd. (macro scan, customer behaviour and key success factors)",
+   "facts": [
+    "Nalanda Learning Ltd. sells examination-preparation courses in India and is considering its first overseas venture.",
+    "**The macro scan.** A new education regulation will require every online provider to register and file quarterly data. GST on digital services may be revised. Household spending on coaching in Tier-2 cities has risen with incomes, while the share of 18–24 year-olds in the population is at its peak. Parents increasingly judge providers by placement outcomes rather than by the number of lectures. Generative-AI tutors have appeared and three start-ups now offer unlimited AI doubt-solving at a tenth of Nalanda's fee. Nalanda's own servers consume a large amount of power and it has been asked to publish its energy usage.",
+    "**The overseas plan.** Nalanda first mapped global demand for Indian-curriculum coaching and currency and regulatory trends; then narrowed to the Gulf region, where a large expatriate Indian population and strong purchasing power make demand likely; then studied the United Arab Emirates in detail — its education licensing rules, corporate tax, data-residency law and the local preference for in-person revision classes — before deciding between a franchise and a wholly owned centre.",
+    "**Customer facts.** A buyer survey found that the fee is almost always paid by a parent while the course is used by the student. Enrolment spikes after a topper's video testimonial is circulated on social media. Students who enrol say they first recognised they were behind in a subject, then listed three or four providers, then compared syllabus coverage, faculty and price before choosing. Those who passed renewed for the next level and recommended Nalanda to juniors; those who failed did neither and said so publicly.",
+    "**Industry facts.** Across the coaching industry, students choose almost entirely on faculty reputation and on published results; costs per enrolled student fall steeply as a batch fills, because faculty cost is fixed; and the providers that last are those whose brand is trusted by parents. Nalanda's strategy head has drafted a list of eleven 'key success factors' for the board, including office décor and the number of social-media posts per week."
+   ],
+   "questions": [
+    {
+     "q": "Classify Nalanda's six macro facts into the PESTLE heads.",
+     "options": {
+      "A": "Registration rules — legal; GST revision — economic; rising Tier-2 spending and the 18–24 peak — socio-cultural and demographic (Social under PESTLE); outcome-based judgement — social; AI tutors — technological; energy disclosure — environmental",
+      "B": "All six are political, since each involves a rule or a trend",
+      "C": "Registration rules — political; AI tutors — legal; energy disclosure — economic; the rest — social",
+      "D": "Registration and GST — legal; AI and energy — technological; the rest cannot be classified"
+     },
+     "answer": "A",
+     "reasoning": [
+      "**Legal factors** 'affect how a company operates, its costs, and the demand for its products, ease of business' — a registration and quarterly-filing obligation is squarely legal (SM §2.3.3).",
+      "**Economic factors:** tax policy sits in the political head in the drivers table ('current and future taxation policy') and GST on services also changes price and demand; ICAI's PESTLE answers treat tax as political and the demand consequence as economic. Either attribution earns the mark provided the reasoning is given — but rising household spending and purchasing power is unambiguously economic.",
+      "**Social (socio-cultural) and demographic:** the 18–24 share is a population *characteristic* (demographic environment, §2.3.2) while the shift to judging providers by placement outcomes is a change in *attitudes* (socio-cultural). Under PESTLE both fall in the 'S' head, whose drivers include lifestyle trends, demographics, consumer attitudes and opinions, and consumer buying patterns.",
+      "**Technological:** AI tutors are the study material's own example of a technology that is simultaneously opportunity and threat, 'making obsolete most of the existing business products and services'. **Environmental:** energy consumption and waste disposal are named drivers under the environmental head."
+     ]
+    },
+    {
+     "q": "The three-stage overseas scan Nalanda ran corresponds to which published framework?",
+     "options": {
+      "A": "The three strategic levels — corporate, business and functional",
+      "B": "The three levels of international environmental assessment — multinational, regional and country",
+      "C": "The three steps of using Porter's Five Forces",
+      "D": "The three issues to consider for strategic analysis"
+     },
+     "answer": "B",
+     "reasoning": [
+      "**Multinational environmental analysis** 'involves identifying, anticipating, and monitoring significant components of the global environment on a large scale', including governments' free or interventionist tendencies — Nalanda's first stage.",
+      "**Regional environmental analysis** is 'a more in-depth evaluation of the critical factors in a specific geographical area', emphasising 'discovering market opportunities for a goods, services, or innovations in the chosen location' — the Gulf stage.",
+      "**Country environmental analysis** 'has to take a deeper look at the important environmental factors. Study of economic, legal, political, and cultural dimensions is required… customised for each of the countries to develop effective market entrance strategies' — the UAE stage, which is why the franchise-versus-own-centre choice belongs there.",
+      "An assessment of the external environment is 'the first step toward internationalisation', and the four steps of international strategic planning follow: evaluate global opportunities and threats against internal capabilities, describe the scope of operations, create global business objectives, develop distinct corporate strategies."
+     ]
+    },
+    {
+     "q": "On the customer facts, which pairing is correct?",
+     "options": {
+      "A": "The parent is the consumer and the student the customer; the testimonial is an internal influence; renewal is a decision-making stage",
+      "B": "Both parent and student are customers; the testimonial is a post-decision process; failure is dissonance",
+      "C": "The parent is the customer and the student the consumer; the testimonial is an external influence; the four-step comparison is the decision-making domain; renewal and public criticism are the post-decision processes",
+      "D": "The distinction between customer and consumer does not apply to services"
+     },
+     "answer": "C",
+     "reasoning": [
+      "**Customer versus consumer:** 'Customers are the purchasers of products and services in the economy, and they might exist as consumers or only as customers', while 'individuals or businesses that consume or utilise products and services are referred to as consumers' (SM §2.6.1). ICAI's own illustration is the parent who buys groceries consumed by the whole family — the same structure as a parent paying for a student's course.",
+      "**External influence:** external influences are 'like advertisement, peer recommendations or social norms', divided into 'the company's marketing efforts and the numerous environmental elements'. A circulated topper testimonial is both a marketing effort and a peer recommendation.",
+      "**Decision making:** the stated stages are problem recognition (realising they are behind), search for desirable alternatives and listing them (three or four providers), seeking information and weighing pros and cons (syllabus, faculty, price) and making a final choice. The study material adds that the full process 'mostly applies when the purchase is one that is significant to the customer' — a course that shapes a career qualifies.",
+      "**Post-decision processes:** 'a happy customer may make repeat purchase and recommend to others, customer with dissonance will neither purchase the product again nor recommend it to others'. Renewal and recommendation on one side, public criticism on the other."
+     ]
+    },
+    {
+     "q": "Advise the board on the strategy head's eleven-item KSF list.",
+     "options": {
+      "A": "Approve it; a longer list captures more of what matters",
+      "B": "Reject the list and substitute Porter's five forces, since KSFs are not a published concept",
+      "C": "Keep only the items that can be measured in rupees",
+      "D": "Cut it to three or four — faculty reputation and published results (why customers choose), batch-fill cost efficiency (the resource and capability needed) and parental trust in the brand (what sustains advantage) — and resist the minor items"
+     },
+     "answer": "D",
+     "reasoning": [
+      "The study material is explicit: 'Only rarely does an industry have more than three or four key success factors at any one time. And even among these three or four, one or two usually outrank the others in importance. Managers, therefore, have to resist the temptation to include factors that have only minor importance on their list.'",
+      "It goes further on the reason: 'To compile a list of every factor that matters even a little bit defeats the purpose of concentrating management attention on the factors truly critical to long-term competitive success.' Office décor and posts per week are exactly such minor items.",
+      "**The three identification questions produce the short list.** On what basis do customers choose between competing brands, and what product attributes are crucial to sales? — faculty reputation and published results. What resources and competitive capabilities does a seller need? — the cost efficiency that comes from filling batches against a fixed faculty cost. What does it take to achieve a sustainable competitive advantage? — parental trust in the brand, which the industry facts say determines which providers last.",
+      "**Then act on them:** 'an organisation with perceptive understanding of industry KSFs can gain sustainable competitive advantage by training its strategy on industry KSFs and devoting its energies to being distinctively better than rivals on one or more of these factors', while 'misdiagnosing the industry factors critical to long-term competitive success greatly raises the risk of a misdirected strategy'."
+     ]
+    }
+   ],
+   "takeaway": "The 2026 edition's newer headings — market and customer, customer analysis, customer behaviour — are examined through exactly this kind of case. Note how the customer/consumer distinction, the four behavioural domains and the KSF cap each turn a plausible-sounding business decision into a specific published rule."
+  }
+ ],
+ "chapter_test": {
+  "mcqs": [
+   {
+    "id": "CT-MCQ-S02-01",
+    "question": "The study material states two major limitations of strategic analysis. The second is that it:",
+    "options": {
+     "A": "Can be time-consuming, hurting overall organisational functioning and straining other efficient innovations",
+     "B": "Cannot be applied to service businesses",
+     "C": "Requires a formal environmental scanning department",
+     "D": "Ignores the internal environment altogether"
+    },
+    "answer": "A",
+    "explanation": "SM §2.2: the first limitation is that it gives many options without telling which to pick; the second is that it can be time-consuming, hurting organisational functioning and straining other efficient innovations such as developing a new product or service."
+   },
+   {
+    "id": "CT-MCQ-S02-02",
+    "question": "Within the micro environment, which of the following issues does the study material say a firm must address?",
+    "options": {
+     "A": "Inflation and the exchange rate",
+     "B": "The ways in which the firm can raise its finance",
+     "C": "The political ideology of the ruling party",
+     "D": "International treaty and law"
+    },
+    "answer": "B",
+    "explanation": "SM §2.3.1 lists six micro-environment issues: the employees and how they are organised, the existing customer base, the ways the firm can raise finance, who the suppliers are and how the links are developed, the local community, and the direct competition and their comparative performance."
+   },
+   {
+    "id": "CT-MCQ-S02-03",
+    "question": "'Replacement technology/solutions', 'maturity of technology' and 'innovation potential' appear in the study material as drivers of change under which PESTLE head?",
+    "options": {
+     "A": "Economic",
+     "B": "Legal",
+     "C": "Environmental",
+     "D": "Technological"
+    },
+    "answer": "D",
+    "explanation": "SM §2.3.3 drivers table, technological head: replacement technology/solutions; maturity of technology; manufacturing maturity and capacity; innovation potential; technology access, licensing, patents, property rights and copyrights."
+   },
+   {
+    "id": "CT-MCQ-S02-04",
+    "question": "Which is the **second** step in international strategic planning?",
+    "options": {
+     "A": "Create the firm's global business objectives",
+     "B": "Describe the scope of the firm's global commercial operations",
+     "C": "Develop distinct corporate strategies for the global business and the whole organisation",
+     "D": "Evaluate global opportunities and threats and rate them with internal capabilities"
+    },
+    "answer": "B",
+    "explanation": "SM §2.3.4: evaluate global opportunities and threats → describe the scope of operations → create global business objectives → develop distinct corporate strategies."
+   },
+   {
+    "id": "CT-MCQ-S02-05",
+    "question": "A product feature is described in the study material as:",
+    "options": {
+     "A": "The physical packaging of the product",
+     "B": "The warranty attached to the product",
+     "C": "A component of a product that satisfies a consumer need",
+     "D": "The margin the product earns over its cost"
+    },
+    "answer": "C",
+    "explanation": "SM §2.4: 'A product feature is a component of a product that satisfies a consumer need.' Features determine product pricing and are altered during development to optimise the user experience."
+   },
+   {
+    "id": "CT-MCQ-S02-06",
+    "question": "In the growth stage of the product life cycle, as described in the study material:",
+    "options": {
+     "A": "Prices rise because demand exceeds supply",
+     "B": "Competition remains almost negligible",
+     "C": "Demand expands rapidly, prices fall, competition increases and the market expands",
+     "D": "Profit falls because the market has stabilised"
+    },
+    "answer": "C",
+    "explanation": "SM §2.4.1: the growth stage has rapid market acceptance — demand expands rapidly, prices fall, competition increases and the market expands, and the customer has knowledge about the product."
+   },
+   {
+    "id": "CT-MCQ-S02-07",
+    "question": "'Human resource management' is placed among the support activities of the value chain because it:",
+    "options": {
+     "A": "Is managed by a separate department",
+     "B": "Transcends all primary activities",
+     "C": "Is the most expensive activity in most firms",
+     "D": "Does not add value directly"
+    },
+    "answer": "B",
+    "explanation": "SM §2.4.2: human resource management 'is a particularly important area which transcends all primary activities', covering recruiting, managing, training, developing and rewarding people."
+   },
+   {
+    "id": "CT-MCQ-S02-08",
+    "question": "The study material says a firm's profitability tends to be higher when:",
+    "options": {
+     "A": "Other firms are blocked from entering the industry",
+     "B": "Exit barriers are high",
+     "C": "Fixed costs are high",
+     "D": "Products are undifferentiated commodities"
+    },
+    "answer": "A",
+    "explanation": "SM §2.5.1, threat of new entrants: 'A firm's profitability tends to be higher when other firms are blocked from entering the industry.' The other three options all reduce profitability."
+   },
+   {
+    "id": "CT-MCQ-S02-09",
+    "question": "The study material's four factors from which the experience curve results are:",
+    "options": {
+     "A": "Learning effects, economies of scale, product redesign and technological improvements in production",
+     "B": "Capital, scale, differentiation and brand",
+     "C": "Volume, price, cost and margin",
+     "D": "Procurement, technology, human resources and infrastructure"
+    },
+    "answer": "A",
+    "explanation": "SM §2.5.3 lists exactly these four. Option B is part of the barriers-to-entry list and option D is the value chain's support activities."
+   },
+   {
+    "id": "CT-MCQ-S02-10",
+    "question": "In the value-creation diagram, the gap between the **value to customer** and the **price** is called:",
+    "options": {
+     "A": "The firm's margin",
+     "B": "The firm's cost of value creation",
+     "C": "The profitable pricing band",
+     "D": "The customer's surplus"
+    },
+    "answer": "D",
+    "explanation": "SM §2.5.4 figure: cost of value creation at the bottom, then price, then value to customer; price minus cost is the firm's margin, value minus price is the customer's surplus, and the whole band is the profitable pricing band."
+   },
+   {
+    "id": "CT-MCQ-S02-11",
+    "question": "A business that believes customers will choose the product with the best quality, performance, design or features has which orientation?",
+    "options": {
+     "A": "Production orientation",
+     "B": "Product orientation",
+     "C": "Sales orientation",
+     "D": "Customer orientation"
+    },
+    "answer": "B",
+    "explanation": "SM §2.6: product-oriented businesses think buyers choose products with the best quality, performance, design or features; production-oriented businesses believe customers choose low-price products."
+   },
+   {
+    "id": "CT-MCQ-S02-12",
+    "question": "Which of the following is **not** among the typical variables used to differentiate firms when constructing a strategic group map?",
+    "options": {
+     "A": "Degree of vertical integration (none, partial, full)",
+     "B": "Product-line breadth (wide, narrow)",
+     "C": "Degree of service offered (no-frills, limited, full)",
+     "D": "Ratio of debt to equity (low, medium, high)"
+    },
+    "answer": "D",
+    "explanation": "SM §2.7.1 names six variables: price/quality range; geographic coverage; degree of vertical integration; product-line breadth; use of distribution channels; and degree of service offered. Capital structure is not among them."
+   },
+   {
+    "id": "CT-MCQ-S02-13",
+    "question": "The study material's own illustration of an industry's key success factors is drawn from:",
+    "options": {
+     "A": "Apparel manufacturing — appealing designs and colour combinations, and low-cost manufacturing efficiency",
+     "B": "Automobiles — the experience curve at Maruti Suzuki",
+     "C": "Coir — competition from synthetic fibre",
+     "D": "Real estate — the effect of higher interest rates on buyers"
+    },
+    "answer": "A",
+    "explanation": "SM §2.7.2 uses apparel manufacturing. The other three are genuine illustrations from this chapter but of the experience curve (§2.5.3), the threat of substitutes (§2.5.1) and the economic environment (§2.3.2) respectively."
+   }
+  ],
+  "descriptive": [
+   {
+    "id": "CT-D-S02-01",
+    "marks": 5,
+    "question": "In light of the five forces as propagated by Michael Porter, explain the common barriers which may cause restraint for the keenness of new entrepreneurs.",
+    "answer_points": [
+     "Open with the framing: these barriers increase the competitiveness of existing firms and discourage new entrants, impacting industry profitability; barriers to entry are economic forces or 'hurdles' that slow down or impede entry.",
+     "**Capital requirements** — firms lacking funds are effectively barred, enhancing incumbents' profitability. **Economies of scale** — the decline in per-unit cost as volume grows lets large firms produce high volumes at successively lower costs.",
+     "**Product differentiation** — physical or perceptual differences that make a product special or unique in customers' eyes; the cost of creating genuine differences may be too high for new entrants. **Switching costs** — buyers may have to test a product, negotiate new contracts, train personnel or modify facilities, incurring financial and psychological costs.",
+     "**Brand identity** — particularly important for infrequently purchased, high unit cost products; new entrants must commit substantial resources over a long period. **Access to distribution channels** — existing firms often influence channels and can retard or impede their use.",
+     "**Possibility of aggressive retaliation** — the mere threat can deter entry; a new firm's launch may lead incumbents to cut prices and raise advertising budgets."
+    ]
+   },
+   {
+    "id": "CT-D-S02-02",
+    "marks": 5,
+    "question": "A manufacturer of home audio systems finds that its sales have plateaued despite heavy promotion, while a rival's new wireless speaker range is growing fast. Identify the product-life-cycle stages involved, and advise the manufacturer on the strategic choices open to it.",
+    "answer_points": [
+     "The firm's own range is in **maturity**: a slowdown in the growth rate, tough competition, a stabilised market and profit coming down because of stiff competition. At this stage organisations have to work for maintaining stability.",
+     "The rival's range is in **growth**: rapid market acceptance, with demand expanding rapidly, prices falling, competition increasing and the market expanding.",
+     "**The main advantage of the PLC approach** is that it can be used to diagnose a portfolio of products or businesses to establish the stage at which each exists, with particular attention to those in the declining stage.",
+     "**Strategic choices:** expansion is feasible for businesses in the introductory and growth stages; mature businesses may be used as sources of cash for investment in other businesses which need resources; a combination of strategies such as selective harvesting and retrenchment may be adopted for declining businesses.",
+     "**Advice:** treat the mature range as a cash source and fund entry into the growing wireless segment, so that a balanced portfolio of businesses is built up by exercising strategic choice based on the PLC concept. If the mature range slips into decline — a sharp downward drift as a new product replaces it — diversification or retrenchment follows."
+    ]
+   },
+   {
+    "id": "CT-D-S02-03",
+    "marks": 5,
+    "question": "A hospital group wants to understand the competitive landscape of its city before opening a fourth facility. Explain the steps it should follow and the questions each step answers.",
+    "answer_points": [
+     "Competitive landscape is a business analysis which identifies competitors, either direct or indirect, and permits comprehension of their vision, mission, core values, niche market, strengths and weaknesses; it requires an application of **competitive intelligence**.",
+     "**(i) Identify the competitor** — identify the competitors in the industry and have actual data about their respective market share. *Who are the competitors and how big are they?*",
+     "**(ii) Understand the competitors** — use market research reports, the internet, newspapers, social media, industry reports and other sources to understand the products and services they offer in different markets. *What are their products and services?*",
+     "**(iii) Determine the strengths of the competitors** — what do they do well, and why do customers give them their business? *What are their financial positions? What gives them cost and price advantage? What are they likely to do next? How strong is their distribution network? What are their human resource strengths?*",
+     "**(iv) Determine the weaknesses of the competitors** — identified from consumer reports and reviews in various media, and financial weakness from annual reports. *Where are they lacking?* **(v) Put all of the information together** — draw an inference about what they are not offering and what the firm can do to fill in the gaps. *What will the business do with this information? What improvements does the firm need to make? How can the firm exploit the weaknesses of competitors?*"
+    ]
+   },
+   {
+    "id": "CT-D-S02-04",
+    "marks": 5,
+    "question": "Explain value creation and the profitable pricing band, and state the two ways in which, according to Michael Porter, a company can generate competitive advantage.",
+    "answer_points": [
+     "**Value creation** is an activity or performance by the firm to create value that increases the worth of goods, services, business processes or even the whole business system. Value is measured by a product's features, quality, availability, durability, performance and services, for which customers are willing to pay; businesses now pursue it both for customers and for stakeholders who want their investment to appreciate.",
+     "**Three factors** determine how profitable a company becomes: the value customers place on its products, the price it charges, and the costs of creating those products.",
+     "**The profitable pricing band:** the firm's cost of value creation sits at the bottom, the price above it and the value to the customer above that. Price minus cost is the **firm's margin**; value minus price is the **customer's surplus**; the whole band is the **profitable pricing band**. The excess of what a consumer would pay over the price charged is value creation — the consumer values the product or service more than it actually costs them.",
+     "**Utility versus price:** the value customers place on a product reflects the utility they get — the happiness or satisfaction gained from consuming or owning it. Utility must be distinguished from price; it is a function of attributes such as performance, design, quality and point-of-sale and after-sale service.",
+     "**Porter's two routes:** differentiation — the capability to provide customers superior and special value through special features, quality or after-sales service, allowing a higher price and higher profits provided expenses stay comparable to competitors' costs — or **cost advantage**. Porter used the value chain to explore which organisational functions deliver either, dividing the firm into primary and supporting activities to reveal the potential sources of differentiation and the firm's cost behaviour."
+    ]
+   },
+   {
+    "id": "CT-D-S02-05",
+    "marks": 5,
+    "question": "A food-delivery platform has seen a sudden rise in orders after a festival campaign featuring local chefs. Using the conceptual domains of consumer behaviour, explain what may be driving the change and why understanding it matters.",
+    "answer_points": [
+     "Customer behaviour moves beyond the identification of customers to explain **how they purchase products**, examining shopping frequency, product preferences and the perception of the firm's marketing, sales and service offerings.",
+     "**External influences** — advertisement, peer recommendations and social norms — have a direct impact on the psychological and internal processes behind consumer decisions, and divide into **the company's marketing efforts and the numerous environmental elements**. The festival campaign and the chefs' endorsement are both.",
+     "**Internal influences** are psychological factors internal to the customer, including **motivation and attitudes**; a festival campaign works on the motive to celebrate and on the perception of authenticity.",
+     "**Decision making** — a rational consumer seeks information, integrates it with existing knowledge, weighs advantages and disadvantages and chooses, through problem recognition → search for alternatives → seeking information and weighing pros and cons → final choice. Note the qualification: the full process mostly applies to purchases significant to the customer, such as a car, television or refrigerator, rather than to an impulse food order.",
+     "**Post-decision processes** — the final phase is evaluating the outcome: a happy customer may make a repeat purchase and recommend it to others, while a customer with dissonance will neither purchase again nor recommend. **Why it matters:** understanding these behaviours enables businesses to establish effective marketing and advertising campaigns, provide products and services that meet customers' needs, and retain customers for repeat sales."
+    ]
+   },
+   {
+    "id": "CT-D-S02-06",
+    "marks": 5,
+    "question": "\"Attractiveness is relative, not absolute.\" Explain the factors on which a conclusion about industry attractiveness is based, and the strategies that follow for strong and weak participants.",
+    "answer_points": [
+     "Industry analysis culminates in conclusions about the relative attractiveness or unattractiveness of the industry, **both near-term and long-term**; companies invest the promoters' or the public's capital and should be careful in choosing an industry.",
+     "**The factors:** growth potential and futuristic viability; whether competition currently permits adequate profitability and whether the forces will strengthen or weaken; whether prevailing driving forces will affect profitability favourably or unfavourably; the firm's own competitive position and whether it will grow stronger or weaker; the potential to capitalise on the vulnerabilities of weaker rivals; the ability to defend against or counteract the unattractive factors; the degrees of risk and uncertainty; the severity of problems facing the industry as a whole; and whether continued participation adds importantly to success in other industries.",
+     "**The proposition and its limit:** above-average overall profit prospects make an industry attractive and below-average prospects unattractive; but it is a mistake to think of industries as attractive or unattractive to all firms and all potential entrants — environments unattractive to weak competitors may be attractive to strong ones. A well-entrenched leader in a lacklustre industry can still earn good profitability, while an uphill battle against much stronger rivals can make an otherwise attractive industry unattractive.",
+     "**If attractive:** participants employ strategies calculated to strengthen their long-term competitive positions, expanding sales efforts and investing in additional facilities and equipment as needed.",
+     "**If unattractive:** more successful participants invest cautiously, look for ways to protect long-term competitiveness and profitability, and perhaps acquire smaller firms if the price is right, with strong companies considering diversification into more attractive businesses over the longer term. **Weak companies in unattractive industries** may merge with a rival to bolster market share and profitability, or begin looking outside the industry for attractive diversification opportunities."
+    ]
+   }
+  ]
+ },
+ "recall": {
+  "quick": [
+   {
+    "q": "State the two major limitations of strategic analysis.",
+    "a": "It gives many innovative options but does not tell which one to pick; and it can be time-consuming, hurting organisational functioning."
+   },
+   {
+    "q": "Name the five benefits of interaction between a business and its environment.",
+    "a": "Determine opportunities and threats; give direction for growth; continuous learning; image building; meeting competition."
+   },
+   {
+    "q": "Name the five elements of the macro environment.",
+    "a": "Demographic, socio-cultural, economic, political-legal, technological."
+   },
+   {
+    "q": "What does PESTLE stand for, and what was it before?",
+    "a": "Political, economic, socio-cultural, technological, legal, environmental. It was PEST before legal and environmental were added."
+   },
+   {
+    "q": "Name the four steps in international strategic planning.",
+    "a": "Evaluate global opportunities and threats against internal capabilities; describe the scope of global operations; create global business objectives; develop distinct corporate strategies."
+   },
+   {
+    "q": "Name the five characteristics of business products.",
+    "a": "Tangible or intangible; has a price; features that deliver satisfaction; pivotal for business; has a useful life."
+   },
+   {
+    "q": "Name the five primary and four support activities of the value chain.",
+    "a": "Primary: inbound logistics, operations, outbound logistics, marketing and sales, service. Support: procurement, technology development, human resource management, infrastructure."
+   },
+   {
+    "q": "Name the seven barriers to entry.",
+    "a": "Capital requirements, economies of scale, product differentiation, switching costs, brand identity, access to distribution channels, possibility of aggressive retaliation."
+   },
+   {
+    "q": "Name the six conditions in which rivalry becomes cut-throat.",
+    "a": "Industry leader, number of competitors, high fixed costs, exit barriers, lack of product differentiation, slow growth."
+   },
+   {
+    "q": "Name the five steps to understand the competitive landscape.",
+    "a": "Identify the competitor; understand the competitors; determine their strengths; determine their weaknesses; put all of the information together."
+   },
+   {
+    "q": "Name the four steps of strategic group mapping.",
+    "a": "Identify the differentiating competitive characteristics; plot firms on a two-variable map; assign firms in the same strategy space to the same group; draw circles proportional to each group's share of total industry sales revenues."
+   },
+   {
+    "q": "Name the three questions that identify an industry's KSFs.",
+    "a": "On what basis do customers choose between competing brands (and which product attributes are crucial to sales)? What resources and competitive capabilities does a seller need? What does it take to achieve a sustainable competitive advantage?"
+   }
+  ],
+  "fill": [
+   {
+    "q": "The market price is the price at which quantity ______ equals quantity ______.",
+    "a": "provided; desired"
+   },
+   {
+    "q": "The experience curve is based on the concept, \"______\".",
+    "a": "we learn as we grow"
+   },
+   {
+    "q": "Procurement refers to the ______ for acquiring the various resource inputs to the primary activities, ______ the resources themselves.",
+    "a": "processes; not to"
+   },
+   {
+    "q": "Only rarely does an industry have more than ______ or ______ key success factors at any one time.",
+    "a": "three; four"
+   },
+   {
+    "q": "Industry attractiveness is ______, not ______.",
+    "a": "relative; absolute"
+   },
+   {
+    "q": "Understanding the competitive landscape requires an application of \"______\".",
+    "a": "competitive intelligence"
+   }
+  ],
+  "true_false": [
+   {
+    "q": "Competitors are part of the macro environment.",
+    "a": "False. The study material lists suppliers, consumers, marketing intermediaries and competitors under the **micro** environment, because they act directly and regularly."
+   },
+   {
+    "q": "Profitability tends to be higher in industries with high exit barriers.",
+    "a": "False. Profitability tends to be higher in industries with **few** exit barriers, because rivalry declines when competitors can leave."
+   },
+   {
+    "q": "The strategic-management process is fundamentally different for a global firm.",
+    "a": "False. It is essentially the same, but much more complicated due to additional variables and linkages."
+   },
+   {
+    "q": "The study material says the conceptual domains of consumer behaviour are three in number.",
+    "a": "Partly. The sentence says three but the list that follows has four headings — external influences, internal influences, decision making and post-decision processes — and ICAI's own January 2026 answer calls them four. Write four."
+   },
+   {
+    "q": "A customer and a consumer always mean the same person.",
+    "a": "False. A customer is the purchaser and may exist as a consumer or only as a customer; the parent who buys groceries for the family is the customer, the family are the consumers."
+   },
+   {
+    "q": "Value chain analysis began as a tool of competitive strategy.",
+    "a": "False. It was originally introduced as an **accounting analysis** of the value added of separate steps in complex manufacturing processes; Porter later linked it to competitive advantage."
+   }
+  ],
+  "one_word": [
+   {
+    "q": "The tool for identifying the market positions of rival firms by grouping them into like positions.",
+    "a": "Strategic group mapping"
+   },
+   {
+    "q": "The force represented by coir's displacement by synthetic fibre.",
+    "a": "Threat of substitutes"
+   },
+   {
+    "q": "The company ICAI cites for the experience curve in the Indian automobile industry.",
+    "a": "Maruti Suzuki"
+   },
+   {
+    "q": "The gap between the price charged and the firm's cost of value creation.",
+    "a": "The firm's margin"
+   },
+   {
+    "q": "The PLC stage with slow sales growth, negligible competition, high prices and limited markets.",
+    "a": "Introduction"
+   },
+   {
+    "q": "The post-purchase state in which a customer neither repurchases nor recommends.",
+    "a": "Dissonance"
+   }
+  ],
+  "match": {
+   "left": [
+    "Gluek and Jauch",
+    "Kenichi Ohmae",
+    "William F. Glueck",
+    "Michael Porter",
+    "Maruti Suzuki"
+   ],
+   "right": [
+    "The experience curve phenomenon in the contemporary Indian automobile industry",
+    "Environmental analysis is the process by which strategists monitor the economic, governmental/legal, market/competitive, supplier/technological, geographic and social settings",
+    "The most important environmental factors are socio-economic, technological, supplier, competitors and government",
+    "The analysis is the critical starting point of strategic thinking",
+    "The five forces, the value chain, and differentiation or cost advantage as the two routes to competitive advantage"
+   ],
+   "key": [
+    "1-c",
+    "2-d",
+    "3-b",
+    "4-e",
+    "5-a"
+   ]
+  },
+  "differentiate": [
+   {
+    "q": "Micro vs macro environment",
+    "a": "Micro is the immediate periphery — suppliers, consumers, marketing intermediaries, competitors — influencing the firm directly and regularly. Macro significantly affects operations but is typically beyond the firm's direct control and influence."
+   },
+   {
+    "q": "Competitive landscape vs Porter's five forces",
+    "a": "The landscape identifies and understands named rivals in five steps and ends in the gaps the firm can fill. The five forces diagnose industry-wide competitive pressure in three steps and end in a judgement on whether attractive profits are available."
+   },
+   {
+    "q": "Customer analysis vs customer behaviour",
+    "a": "Customer analysis identifies target clients and determines their wants through surveys, data, positioning evaluation, profiles and segmentation. Customer behaviour explains how they purchase — shopping frequency, preferences and perception — through four conceptual domains."
+   },
+   {
+    "q": "Experience curve vs economies of scale",
+    "a": "Economies of scale are the decline in per-unit cost as volume grows, and are one of four causes of the experience curve. The experience curve is the wider phenomenon that unit costs fall with **cumulative** volume, also through learning effects, product redesign and technological improvements."
+   },
+   {
+    "q": "Utility vs price",
+    "a": "Utility is what customers get from a product — the happiness or satisfaction of consuming or owning it, a function of performance, design, quality and service. Price is what the company charges. The study material insists the two must be distinguished."
+   }
+  ],
+  "flowchart": {
+   "steps": [
+    "Strategic analysis",
+    "Strategy and business environment",
+    "Understanding product and industry",
+    "Industry environment analysis",
+    "Market and customer",
+    "Competitive strategy"
+   ],
+   "blanks": [
+    1,
+    4
+   ]
+  }
+ },
+ "revision": {
+  "five": [
+   "Five forces: new entrants, buyers, suppliers, rivalry, substitutes — collective strength decides whether attractive profits are available.",
+   "Five steps of the competitive landscape: identify, understand, strengths, weaknesses, put together.",
+   "Six PESTLE factors; it was PEST until legal and environmental were added.",
+   "Four PLC stages: introduction (high price, no rivals), growth (prices fall, rivals arrive), maturity (plateau, profit down), decline (replaced).",
+   "Value chain: five primary (in, operate, out, market, serve) and four support (procurement, technology, HRM, infrastructure)."
+  ],
+  "fifteen": [
+   "Seven barriers to entry and six conditions of cut-throat rivalry — the two lists ICAI asks most often after the landscape steps.",
+   "Five benefits of interaction with the business environment, applied to the named entrepreneur in the stem.",
+   "Five characteristics of business products, and why price is given by the market so costs must be worked on.",
+   "Strategic group mapping: six differentiating variables, four procedure steps, and the insights including mobility barriers.",
+   "Three KSF questions, the apparel illustration, and the cap of three or four factors."
+  ],
+  "thirty": [
+   "Five elements of the macro environment with the demographic-versus-socio-cultural test, and ICAI's Make in India / Aatmanirbhar Bharat / PLI examples.",
+   "Internationalisation: three characteristics of a global business, four planning steps, the reasons to go global, and the three levels of international environmental assessment.",
+   "Experience curve: definition, four causes, three features, Maruti Suzuki, and the niche response open to rivals.",
+   "Value creation: the three profitability factors, utility versus price, the profitable pricing band, and Porter's two routes.",
+   "Market and customer: four Ps, four marketing orientations, customer versus consumer, the five activities of customer analysis, and the four domains of customer behaviour with the four decision stages."
+  ],
+  "sixty": [
+   "Write full 5-mark answers for the nine recurring questions: business environment and benefits; PESTLE; internationalisation steps; characteristics of business products; value chain (both lists); barriers to entry; cut-throat rivalry; competitive landscape steps; strategic group mapping procedure.",
+   "Work both integrated cases and the thirteen-MCQ chapter test, then check every answer against the published list it comes from.",
+   "Redo all 30 official MCQs in this chapter and justify why each of the other three options fails.",
+   "For each of the four unexamined headings — introduction, value creation, market and customer, customer — write a 5-mark answer from scratch, since the 2026 edition added them and they are overdue."
+  ]
+ },
+ "one_page": {
+  "sections": [
+   {
+    "title": "Strategic analysis",
+    "points": [
+     "Judgments must flow directly from analysis of the external environment and internal resources",
+     "Two situational considerations: industry and competitive conditions; own capabilities and market position",
+     "Two limitations: many options, no choice rule; time-consuming",
+     "Three issues: strategy evolves; balance of external and internal; risk (external/internal × short/long)",
+     "External analysis: customer, competitor, market, environmental. Internal: performance, determinants"
+    ]
+   },
+   {
+    "title": "Business environment",
+    "points": [
+     "All external factors, influences or situations affecting business decisions, plans and operations",
+     "Five benefits of interaction: opportunities and threats, growth direction, learning, image, competition",
+     "Micro: suppliers, consumers, intermediaries, competitors — direct and regular",
+     "Macro: economic, socio-cultural, technological, political, legal — beyond direct control"
+    ]
+   },
+   {
+    "title": "Macro elements and PESTLE",
+    "points": [
+     "Demographic (characteristics) vs socio-cultural (behaviour and beliefs)",
+     "Economic determines the strength and size of the market",
+     "Political-legal: partly general, partly specific; Make in India, Aatmanirbhar Bharat, PLI",
+     "Technology is opportunity and threat at once; AI, ML, RPA",
+     "PESTLE: six factors, was PEST; encourages proactive and structured thinking"
+    ]
+   },
+   {
+    "title": "Going global",
+    "points": [
+     "Global business: common ownership, common pool of resources, common strategy",
+     "Four steps: evaluate, scope, objectives, strategies",
+     "Reasons: growth, shrinking distance, inadequate domestic markets, resources, transport costs, foreign market expansion, services and regional integration, collapsing trade barriers, alliances",
+     "Three levels of assessment: multinational, regional, country"
+    ]
+   },
+   {
+    "title": "Product, PLC and value chain",
+    "points": [
+     "Five characteristics: tangible/intangible, price, features, pivotal, useful life",
+     "PLC: introduction, growth, maturity, decline; diagnose a portfolio; expansion, cash source, harvest/retrench",
+     "Primary: inbound logistics, operations, outbound logistics, marketing and sales, service",
+     "Support: procurement (processes, not resources), technology development, HRM (transcends all), infrastructure"
+    ]
+   },
+   {
+    "title": "Industry and the five forces",
+    "points": [
+     "Goal: estimate competitive pressure now and in the near future",
+     "Three steps: identify, rate (fierce/strong/moderate/weak), judge collective strength",
+     "Seven barriers: capital, scale, differentiation, switching costs, brand, channels, retaliation",
+     "Buyer power: knowledge, big buyers, product not critical and buyers concentrated",
+     "Supplier power: crucial with no substitutes, high switching costs, more concentrated",
+     "Cut-throat rivalry: leader, number, fixed costs, exit barriers, no differentiation, slow growth",
+     "Substitutes: latent, sudden, same or nearly the same function"
+    ]
+   },
+   {
+    "title": "Attractiveness, experience, value",
+    "points": [
+     "Attractiveness: near-term and long-term; nine factors; relative, not absolute",
+     "Attractive → expand; unattractive and strong → invest cautiously, buy small firms cheap; unattractive and weak → merge or leave",
+     "Experience curve: unit costs fall with cumulative volume; 'we learn as we grow'; four causes; a key barrier to entry; Maruti Suzuki",
+     "Value creation: cost → price → value; margin and customer's surplus; three profitability factors; utility ≠ price; differentiation or cost advantage"
+    ]
+   },
+   {
+    "title": "Market, customer and competition",
+    "points": [
+     "Market is a place; marketing is the activity; four Ps = product, place, pricing, promotion",
+     "Four orientations: product, production, sales, customer",
+     "Customer purchases; consumer consumes",
+     "Customer analysis: surveys, data, positioning, profiles, segmentation",
+     "Customer behaviour: external, internal, decision making (problem → search → seek → choose), post-decision (repeat or dissonance)",
+     "Competitive strategy: how to compete; create and protect advantage; more profitable in the long run",
+     "Landscape: five steps + strategic group mapping's four; KSFs: three questions, three or four factors only"
+    ]
+   }
+  ]
+ },
+ "verification": {
+  "sources": [
+   "ICAI SM Paper 6B Chapter 2 (edition relevant for May 2026 examination onwards), pp. 2.1–2.46",
+   "Suggested answers May 2024 – May 2026 (eight papers; May 2025 is split across the 6A and 6B files, with the SM MCQs printed in the 6A file)",
+   "RTPs May 2024 – Sep 2026 (nine papers, each printing ICAI's own chapter headings over the SM descriptive questions)",
+   "MTPs Mar 2024 – Sep 2026 (third-party copies of ICAI MTPs)"
+  ],
+  "open_items": [
+   {
+    "id": "OV-S02-01",
+    "item": "ICAI's text says consumer behaviour's influences 'can be categorised into the following three conceptual domains' and then prints four headings (external influences, internal influences, decision making, post-decision processes). Its own answers resolve this both ways — MTP Jan 2025 S1 avoids the number, MTP Jan 2026 S2 says 'four major conceptual domains'.",
+    "resolve_with": "Watch the next study-material corrigendum; meanwhile answer with four named domains, which both published answers support"
+   },
+   {
+    "id": "OV-S02-02",
+    "item": "ICAI's RTPs print strategic-group-mapping questions under Chapter 3 in some papers although the register places Competitive Landscape at S02.23 in Chapter 2. The register is followed here.",
+    "resolve_with": "No action needed for answering; recorded so that a reader who finds the question under a Chapter 3 label is not confused"
+   },
+   {
+    "id": "OV-S02-03",
+    "item": "ICAI labels **value chain analysis** Chapter 2 (RTP Sep 2025 Q10 and RTP Sep 2026 Q10 sit under the Chapter 2 heading, with the Chapter 3 heading printed immediately afterwards), although value chain is widely taught as internal analysis and the companion Chapter 3 covers core competencies.",
+    "resolve_with": "Follow ICAI's label; cross-reference from SM Ch 3 when that chapter is written"
+   },
+   {
+    "id": "OV-S02-04",
+    "item": "PYQ May 2025 MCQ 15 is set 'in a competitive landscape' but ICAI's key is 'special alert control', a Chapter 5 concept. It has been removed from this chapter's atom file and recorded for SM Ch 5.",
+    "resolve_with": "Place the atom in SM Ch 5 when that chapter is built"
+   },
+   {
+    "id": "OV-S02-05",
+    "item": "PYQ May 2025 MCQ 12 asks what 'elevating customer service to an unprecedented level through a better customer interface, online repair service and on-site service' is known as, and ICAI's key is 'Augmented marketing' — a term defined in SM Chapter 3 under types of marketing, not in Chapter 2's value chain. It has been removed from this chapter's atom file.",
+    "resolve_with": "Place the atom in SM Ch 3 when that chapter is built"
+   },
+   {
+    "id": "OV-S02-06",
+    "item": "RTP May 2024 Q9 and RTP Jan 2026 Q9 (Riya Sharma's confectionery) read like an industry-rivalry case but ICAI answers them with the five steps of the competitive landscape. Mapped to S02.23 accordingly.",
+    "resolve_with": "None; the published answer is decisive and is reproduced in full in this chapter"
+   },
+   {
+    "id": "OV-S02-07",
+    "item": "PYQ Jan 2026 Q5(a) (Full Health Limited in a saturated energy-drink market) reads like an industry-attractiveness question but ICAI answers it with strategic group mapping. Mapped to S02.23 rather than S02.15.",
+    "resolve_with": "None; recorded because the stem's wording would mislead a candidate towards attractiveness"
+   },
+   {
+    "id": "OV-S02-08",
+    "item": "MTP May 2025 Series 2 Q1(a) (ABC Tech) describes three value-chain activities — R&D, supply chain, customer service — but ICAI's answer is framed wholly as Key Success Factors, so S02.24 is its primary code.",
+    "resolve_with": "None; both codes are carried on the atom"
+   },
+   {
+    "id": "OV-S02-09",
+    "item": "RTP Sep 2026 MCQ 3 (FreshKart Retail) opens with changing customer preference but ICAI's key is 'technological environment', so S02.06 is its primary code ahead of S02.21.",
+    "resolve_with": "None; recorded because the stem's opening would mislead towards customer behaviour"
+   },
+   {
+    "id": "OV-S02-10",
+    "item": "Four register headings carry no official question of their own in the period reviewed: S02.01 Introduction, S02.17 Value Creation, S02.18 Market & Customer and S02.19 Customer. S02.15 Attractiveness of Industry and S02.20 Customer Analysis appear only as secondary codes, and S02.22 Competitive Strategy only once as a secondary code.",
+    "resolve_with": "All seven are written up in full with expected questions and chapter-test coverage; revisit after the next two attempts to see which have been examined"
+   },
+   {
+    "id": "OV-S02-11",
+    "item": "May 2024's published suggested answers do not include the MCQ part of the paper, so no May 2024 MCQ appears in the evidence table for this chapter.",
+    "resolve_with": "Check whether ICAI later publishes the May 2024 MCQ answers"
+   },
+   {
+    "id": "OV-S02-12",
+    "item": "The MTP September 2026 Series I question paper was not available; the Series 2 paper and both answer files were used.",
+    "resolve_with": "Download the Series I paper from the ICAI BoS mock test portal"
+   },
+   {
+    "id": "OV-S02-13",
+    "item": "ICAI's answer to RTP May 2026 Q10 and MTP Sep 2024 S2 Q4(b) heads the third PESTLE factor 'Social Factors' while the study material heads it 'socio-cultural'. Both are used in this chapter, matching whichever source is being quoted.",
+    "resolve_with": "None; no mark turns on it, but the study-material heading is the safer one to write"
+   }
+  ],
+  "qa": [
+   "All 24 register headings S02.01–S02.24 are covered by the 19 topic blocks.",
+   "All 90 atoms in atoms_S02.json are placed: 37 as official question entries and 30 as official MCQ entries, with the remaining 23 placed by full id inside also_asked_as notes on the question they repeat.",
+   "Every quoted ICAI answer in this chapter was read from the extracted text of the published paper, not reconstructed; the seven mapping corrections recorded above were each made after reading the published answer in full.",
+   "Every official MCQ carries ICAI's published key, taken from the Answer Key table in the suggested answers, the SUGGESTED ANSWERS/HINTS block in the RTPs, or the PART I answer block in the MTP answer files."
+  ]
+ }
+}

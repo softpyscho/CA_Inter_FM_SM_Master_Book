@@ -1,0 +1,723 @@
+{
+ "concepts": [
+  {
+   "code": "S02.13",
+   "title": "2.5 Industry Environment Analysis",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 1 · MTP 0",
+   "understand": [
+    "**A combination of ideas and methodologies** may be utilised to create a clear picture of **key industry traits, competition intensity, industry change drivers, rival firms' market positions and tactics, competitive success, and profit forecasts**. ==Industry analysis enables strategic understanding about the entire state of any industry and allows decisions about **whether the industry is lucrative or not**.==",
+    "==**The goal of the industry environment analysis, which is typically an important step of strategic analysis, is to estimate the amount of competitive pressures the business is presently facing and is expected to face in the near future.**==",
+    "**The analysis entails seeing the firm in the context of a bigger framework.** The purpose of industrial analysis is to **get insight into a wide range of elements within and outside the business**; analysing these elements **enhances knowledge of the surrounding and serves as the foundation for aligning strategy with changing industry circumstances and realities**.",
+    "Note the distinction from the macro environment: §2.3 covered what lies **outside the industry** and is beyond the firm's control; §2.5 covers the **industry** itself — the layer the chapter-opening figure calls the **industry-shaping competitive force**, sitting between the domestic macro environment and the firm's own stakeholders.",
+    "The chapter then supplies four tools for this layer, each with its own heading: **Porter's Five Forces Model** (§2.5.1) to diagnose competitive pressure, **Attractiveness of Industry** (§2.5.2) to draw the conclusion, the **Experience Curve** (§2.5.3) to explain cost positions within the industry, and **Value Creation** (§2.5.4) to explain where profit comes from."
+   ],
+   "example": "A same-day delivery company planning to enter Tier-2 cities gathers four facts — e-commerce clients building in-house delivery, fuel prices up 18%, drone start-ups attracting venture capital, and large clients negotiating hard on rates. Industry environment analysis is the step of turning those four facts into an estimate of present and near-future competitive pressure; the Five Forces model is the framework that labels each one.",
+   "keywords": [
+    "key industry traits",
+    "industry change drivers",
+    "whether the industry is lucrative or not",
+    "estimate the amount of competitive pressures",
+    "presently facing and is expected to face in the near future",
+    "seeing the firm in the context of a bigger framework",
+    "aligning strategy with changing industry circumstances and realities"
+   ],
+   "memory": {
+    "trick": "Industry analysis answers one question — **'Is this industry lucrative, now and soon?'** Four tools answer it: Forces (pressure), Attractiveness (verdict), Experience curve (cost), Value creation (profit).",
+    "key": [
+     [
+      "Forces",
+      "§2.5.1 — how much competitive pressure"
+     ],
+     [
+      "Attractiveness",
+      "§2.5.2 — the near-term and long-term verdict"
+     ],
+     [
+      "Experience",
+      "§2.5.3 — why big firms have lower unit costs"
+     ],
+     [
+      "Value",
+      "§2.5.4 — where superior profitability comes from"
+     ]
+    ],
+    "recall_trigger": "Is this industry lucrative, now and soon?"
+   },
+   "mistakes": [
+    "Confusing industry environment analysis with macro-environment analysis. The macro layer is scanned by PESTLE; the industry layer is scanned by the Five Forces.",
+    "Describing the goal as 'to study competitors'. The published goal is to **estimate the amount of competitive pressure** the business faces now and expects to face in the near future.",
+    "Giving a single-period answer. The definition is explicitly forward-looking — 'presently facing and is expected to face in the near future'."
+   ],
+   "links": [
+    "🔗 S02.14: Porter's Five Forces is the tool for this layer",
+    "🔗 S02.15: industry analysis culminates in a judgement on attractiveness",
+    "🔗 S02.23: rival firms' market positions and tactics are mapped through the competitive landscape",
+    "🔗 SM Ch 4: the GE nine-cell matrix scores industry attractiveness against business strength"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "A multi-bullet case asking the candidate to run a Five Forces analysis and name the relevant force for each bullet (RTP Sep 2026 Q9)",
+     "A short identification question asking which aspect of external analysis a described situation reflects (RTP May 2026 Q9)"
+    ],
+    "approach": [
+     "Open by naming the framework and its purpose — to analyse the competitive forces operating in an industry and assess its attractiveness — then take the stem's facts one at a time.",
+     "ICAI's September 2026 answer is laid out as a **three-column table**: Observation | Relevant Force | Explanation, followed by a closing paragraph of advice. Reproduce that layout."
+    ],
+    "official_pattern": "The one published question under this heading is answered with a table mapping each observation to one force, then a recommendation to improve operational efficiency, adopt innovative technologies and differentiate services before expanding.",
+    "time_tip": "5 marks ≈ 7 minutes — about one minute per force plus the opening and the recommendation (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S02.13-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "State the goal and purpose of industry environment analysis, and explain how it differs from an analysis of the macro environment.",
+     "answer_points": [
+      "**Goal:** industry environment analysis, typically an important step of strategic analysis, aims to **estimate the amount of competitive pressures the business is presently facing and is expected to face in the near future**.",
+      "**Purpose:** to get insight into a wide range of elements within and outside the business; analysing them enhances knowledge of the surroundings and serves as the foundation for **aligning strategy with changing industry circumstances and realities**.",
+      "A combination of ideas and methodologies is used to build a clear picture of key industry traits, competition intensity, industry change drivers, rival firms' market positions and tactics, competitive success and profit forecasts — enabling a decision on **whether the industry is lucrative or not**.",
+      "**Difference from macro analysis:** the macro environment consists of economic, socio-cultural, technological, political and legal factors that are typically beyond the firm's direct control and are scanned with PESTLE. The industry environment is the narrower, industry-shaping competitive layer, scanned with Porter's Five Forces.",
+      "The analysis entails **seeing the firm in the context of a bigger framework** — it situates the firm between the macro environment above and its own stakeholders and internal environment below."
+     ],
+     "keywords": [
+      "estimate the amount of competitive pressures",
+      "near future",
+      "industry change drivers",
+      "lucrative or not",
+      "bigger framework"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "RTP-S26-SQ9",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "SwiftDeliver Logistics Ltd. is a same-day delivery company operating in six metropolitan cities in India. The company is considering expanding to Tier-2 cities. As part of due diligence, the Strategic Planning team is conducting an industry environment analysis. The team has gathered the following information: (a) Many e-commerce firms are building in-house delivery capabilities. (b) Fuel prices have risen 18% in the past year. (c) Drone-based last-mile delivery start-ups are attracting significant venture capital funding. (d) Large e-commerce clients negotiate aggressively on delivery rates. Conduct a Porter's Five Forces analysis for SwiftDeliver using the information provided, identifying the relevant force for each bullet point.",
+     "answer_points": [
+      "Porter's Five Forces Model, developed by Michael Porter, is a framework used to analyse the competitive forces operating in an industry and to assess its attractiveness.",
+      "**E-commerce firms building in-house delivery → Threat of New Entrants.** Large e-commerce companies developing their own logistics networks increase competition in the industry, reduce dependence on third-party logistics providers like SwiftDeliver and may adversely affect its market share.",
+      "**Fuel prices up 18% → Bargaining Power of Suppliers.** Fuel is a key input for logistics companies; an increase in fuel prices raises operating costs, indicating higher supplier bargaining power and affecting profitability.",
+      "**Drone-based last-mile start-ups attracting funding → Threat of Substitute Products or Services.** Drone delivery is an alternative mode of last-mile delivery; as the technology develops it may offer faster and more cost-effective solutions, posing a substitute threat to traditional logistics services.",
+      "**Large clients negotiating aggressively → Bargaining Power of Buyers.** Large customers place bulk orders and contribute significantly to revenue; their strong bargaining position enables them to demand lower prices, customised services and better delivery terms, reducing profit margins.",
+      "**Conclusion:** the industry analysis indicates a highly competitive environment characterised by increasing competition, strong bargaining power of buyers and suppliers, and emerging substitute technologies. Before expanding into Tier-2 cities, the company should focus on **improving operational efficiency, adopting innovative technologies, and differentiating its services** to sustain its competitive advantage."
+     ],
+     "keywords": [
+      "threat of new entrants",
+      "bargaining power of suppliers",
+      "threat of substitute products or services",
+      "bargaining power of buyers",
+      "improving operational efficiency"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-S02.13-01",
+     "angle": "Stated goal",
+     "difficulty": "Easy",
+     "question": "As per the study material, the goal of industry environment analysis is to:",
+     "options": {
+      "A": "Estimate the amount of competitive pressures the business is presently facing and is expected to face in the near future",
+      "B": "Rank the firm's internal strengths against its weaknesses",
+      "C": "Forecast the firm's sales for the next financial year",
+      "D": "Identify the firm's core competencies"
+     },
+     "answer": "A",
+     "explanation": "SM §2.5 states the goal in exactly these words, adding that it is typically an important step of strategic analysis.",
+     "why_wrong": {
+      "B": "That is internal analysis (Chapter 3).",
+      "C": "No forecasting function is claimed.",
+      "D": "Core competencies are a Chapter 3 topic."
+     },
+     "trap": "All four are legitimate strategic activities; only one is the published goal of this step.",
+     "concept": "S02.13"
+    },
+    {
+     "id": "MCQ-S02.13-02",
+     "angle": "Which layer",
+     "difficulty": "Moderate",
+     "question": "A beverage firm finds that several established brands, low-priced local players and substitute drinks such as smoothies and flavoured milk are competing intensely. Which aspect of external environment analysis does this reflect?",
+     "options": {
+      "A": "The demographic environment",
+      "B": "The international environment",
+      "C": "The political-legal environment",
+      "D": "The competitive (industry) environment"
+     },
+     "answer": "D",
+     "explanation": "Existing competitors, new entrants, substitutes and pricing rivalry are factors within the industry that influence a firm's competitive position — the competitive or industry environment (SM §2.5), as ICAI's answer to RTP May 2026 Q9 states.",
+     "why_wrong": {
+      "A": "No population characteristics are described.",
+      "B": "The facts are domestic.",
+      "C": "No government policy or law is described."
+     },
+     "trap": "Substitutes and rivals sit in the industry layer, not the macro layer, even though both are 'external'.",
+     "concept": "S02.13"
+    }
+   ],
+   "recap": [
+    "Goal: estimate competitive pressure now and in the near future.",
+    "Purpose: insight into elements within and outside the business, as the foundation for aligning strategy with industry realities.",
+    "Output: a judgement on whether the industry is lucrative.",
+    "Four tools follow: Five Forces, attractiveness, experience curve, value creation."
+   ]
+  },
+  {
+   "code": "S02.14",
+   "title": "2.5.1 Porter's Five Forces Model of Competition",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 3 · RTP 8 · MTP 6",
+   "understand": [
+    "**Every business operates in a competitive environment,** and the competitive state of an industry applies a strong influence on how firms develop their strategies. ==**Porter's Five Forces analysis is a simple but efficient way for determining the key sources of competition in a business or industry** — a powerful and widely used tool to **systematically diagnose the significant competitive pressures in a market and assess the strength and importance of each**.== Understanding the variables that affect an industry helps to **adapt strategy, boost profitability, and stay ahead of the competition**. A strategist may use a strong position to organisational advantage, or reinforce a weak one to avoid making mistakes in future.",
+    "**Porter's unit of analysis.** Michael Porter believes that ==the basic unit of analysis for understanding is **a group of competitors producing goods or services that compete directly with each other**== — **it is the industry where competitive advantage is ultimately won or lost**. It is through competitive strategy that the organisation attempts to adopt an approach to compete in the industry. **The character, mix and intricacies of competitive forces are never the same from one industry to another.**",
+    "==**The five areas of the overall market** in which competitive pressures operate — the exact list ICAI asked for in January 2026:== **(i)** competitive pressures associated with the **market manoeuvring and jockeying for buyer patronage that goes on among rival sellers** in the industry; **(ii)** competitive pressures associated with the **threat of new entrants** into the market; **(iii)** competitive pressures coming from the **attempts of companies in other industries to win buyers over to their own substitute products**; **(iv)** competitive pressures stemming from **supplier bargaining power and supplier-seller collaboration**; **(v)** competitive pressures stemming from **buyer bargaining power and seller-buyer collaboration**.",
+    "**The three steps for using the model.** **Step 1:** identify the specific competitive pressures associated with each of the five forces. **Step 2:** evaluate **how strong** the pressures comprising each of the five forces are — **fierce, strong, moderate to normal, or weak**. **Step 3:** determine whether the **collective strength** of the five competitive forces is **conducive to earning attractive profits**.",
+    "Porter's model is ==**one of the most effective and enduring conceptual frameworks** used to assess the nature of the competitive environment and to describe an industry's structure. **The interrelationship among these five forces gives each industry its own particular competitive environment.**== By applying it to their own industries, managers can gauge their firm's strengths, weaknesses and future opportunities.",
+    "**FORCE I — The Threat of New Entrants.** ==New entrants **reduce industry profitability** because they **add new production capacity**, leading to an increase in supply of the product **even at a lower price**, and can **substantially erode existing firms' market share position**.== New entrants are always a powerful source of competition; the new capacity and product range they bring throw up new competitive pressure, and **the bigger the new entrant, the more severe the competitive effect**. New entrants also **place a limit on prices** and affect profitability. ==A firm's profitability tends to be **higher when other firms are blocked from entering** the industry.== To discourage new entrants, existing firms try to **raise barriers to entry** — **economic forces (or 'hurdles') that slow down or impede entry by other firms**.",
+    "**The seven barriers to entry.** **(i) Capital Requirements** — when a large amount of capital is required to enter an industry, firms lacking funds are **effectively barred**, enhancing the profitability of existing firms. **(ii) Economies of Scale** — the **decline in the per-unit cost of production (or other activity) as volume grows**; a large firm enjoying economies of scale can produce high volumes at successively lower costs, which discourages new entrants. **(iii) Product Differentiation** — the **physical or perceptual differences, or enhancements, that make a product special or unique in the eyes of customers** (ICAI's example: personal care products and cosmetics); differentiation reinforces entry barriers because **the cost of creating genuine product differences may be too high for new entrants**. **(iv) Switching Costs** — a new entrant must persuade existing customers of other companies to switch; to switch, buyers may need to **test a new firm's product, negotiate new purchase contracts, train personnel to use the equipment, or modify facilities**, incurring substantial **financial (and psychological)** costs, so when switching costs are high buyers are reluctant to change. **(v) Brand Identity** — particularly important for **infrequently purchased products that carry a high unit cost** to the buyer; new entrants face significant difficulty building brand identity because they must **commit substantial resources over a long period**. **(vi) Access to Distribution Channels** — the **unavailability of distribution channels** for new entrants; despite the growing power of the internet, many firms continue to rely on control of physical distribution channels, and existing firms often have significant influence over them and can **retard or impede their use** by new firms. **(vii) Possibility of Aggressive Retaliation** — sometimes **the mere threat** of aggressive retaliation deters entry; for example, a new firm's product introduction may lead incumbents to **reduce prices and increase advertising budgets**.",
+    "**FORCE II — Bargaining Power of Buyers.** This force becomes **heavier depending on the possibilities of the buyers forming groups or cartels** — mostly a phenomenon seen in **industrial products**, where users come together formally or informally and exert pressure on the producer. ==Buyer power influences **not only the prices the producer can charge but also, in many cases, the costs and investments of the producer**, because powerful buyers usually bargain for better services, which involve cost and investment on the producer's part.== The leverage is particularly evident when: **(i)** buyers have **full knowledge of the sources of products and their substitutes**; **(ii)** they **spend a lot of money on the industry's products, i.e. they are big buyers**; **(iii)** the industry's product is **not perceived as critical to the buyer's needs** and buyers are **more concentrated than the firms supplying** the product, so they can easily switch to available substitutes.",
+    "**FORCE III — Bargaining Power of Suppliers.** ==**The more specialised the offering from the supplier, the greater is his clout**; and if suppliers are also **limited in number**, they stand a still better chance of exhibiting bargaining power.== Supplier power **determines the cost of raw materials and other inputs** of the industry and therefore **industry attractiveness and profitability**. Suppliers command bargaining power when: **(i)** their products are **crucial to the buyer and substitutes are not available**; **(ii)** they can **erect high switching costs**; **(iii)** they are **more concentrated than their buyers**.",
+    "**FORCE IV — The Nature of Rivalry in the Industry.** This is what is normally understood as competition. For any player the competitors influence strategic decisions at different levels, and the impact is evident more at the **functional level** — in prices charged, advertising, pressures on costs and product. ==**The intensity of rivalry is a significant determinant of industry attractiveness and profitability**; it can influence the costs of suppliers, distribution and attracting customers. **The more intensive the rivalry, the less attractive is the industry.**==",
+    "**The six conditions in which rivalry turns cut-throat and industry profitability is low.** **(i) Industry Leader** — a strong industry leader can **discourage price wars by disciplining initiators**; because of its greater financial resources a leader can generally **outlast smaller rivals in a price war**, and knowing this, smaller rivals often avoid initiating such a contest. **(ii) Number of Competitors** — even when a leader exists, its ability to exert pricing discipline **diminishes with the increased number of rivals**, as communicating expectations to players becomes more difficult. **(iii) Fixed Costs** — rivals with **high fixed costs** feel strong motivation to utilise capacity and are therefore inclined to **cut prices when they have excess capacity**; price cutting causes profitability to fall for all firms, so profitability tends to be lower in industries characterised by high fixed costs. **(iv) Exit Barriers** — rivalry declines if some competitors leave, so **profitability tends to be higher in industries with few exit barriers**; assets of a firm considering exit may be **highly specialised and therefore of little value to any other firm**, so it can find no buyer and does not exit, and its continued presence exerts **downward pressure on the profitability of all competitors**. **(v) Product Differentiation** — firms can **insulate themselves from price wars** by differentiating, so profitability tends to be higher where differentiation is possible and **lower in industries involving undifferentiated commodities such as memory chips, natural resources, processed metals and railroads**. **(vi) Slow Growth** — industries whose growth is slowing face more intense rivalry, as rivals must **fight harder to grow or even to keep existing market share**.",
+    "**FORCE V — Threat of Substitutes.** ==**Substitute products are a latent source of competition** in an industry; in many cases they become a major constituent of competition.== Substitutes offering a **price advantage and/or performance improvement** to the consumer **can drastically alter the competitive character of an industry — and they can bring it about all of a sudden**. ICAI's example: **coir suffered at the hands of synthetic fibre.** ==Wherever **substantial investment in R&D** is taking place, threats from substitute products can be expected.== To predict profit pressure from this source, firms must **search for products that perform the same, or nearly the same, function** as their existing products — ICAI's example: **real estate, insurance, bonds and bank deposits are clear substitutes for common stocks**, because they represent alternate ways to invest funds.",
+    "**The forces together.** ==The five forces together determine industry attractiveness and profitability, because they influence the causes that underlie it== — elements such as the cost and investment needed to be a player in the industry are governed by these forces. **The collective strength of the five competitive forces determines the scope to earn attractive profits, and the strength of the forces may vary from industry to industry.**"
+   ],
+   "example": "A vacuum-cleaner maker with four equal-sized rivals making similar products faces fierce **rivalry** (similar sizes, no differentiation, no one can dominate); the rivals' patents create a high **barrier to entry**; a large number of small raw-material suppliers means **weak supplier power**. The case gives nothing on buyers or substitutes — but ICAI's own answer still notes that domestic help is a substitute for a vacuum cleaner and that similar products let customers shift easily, which only intensifies rivalry.",
+   "keywords": [
+    "simple but efficient way",
+    "systematically diagnose",
+    "a group of competitors producing goods or services that compete directly",
+    "won or lost",
+    "market manoeuvring and jockeying for buyer patronage",
+    "fierce, strong, moderate to normal, or weak",
+    "collective strength",
+    "add new production capacity",
+    "economic forces (or 'hurdles')",
+    "effectively barred",
+    "decline in the per-unit cost",
+    "physical or perceptual differences",
+    "financial (and psychological) costs",
+    "infrequently purchased products",
+    "retard or impede their use",
+    "mere threat of aggressive retaliation",
+    "groups or cartels",
+    "costs and investments of the producer",
+    "the more specialised the offering, the greater is his clout",
+    "the more intensive the rivalry, the less attractive is the industry",
+    "outlast smaller rivals in a price war",
+    "highly specialised and therefore of little value",
+    "memory chips, natural resources, processed metals and railroads",
+    "latent source of competition",
+    "coir suffered at the hands of synthetic fibre",
+    "all of a sudden",
+    "substitutes for common stocks"
+   ],
+   "memory": {
+    "trick": "Seven barriers = \"C-E-P-S-B-A-A\" (\"Capital Economies Prevent Switching, Brands And Attacks\"). Six cut-throat conditions = \"L-N-F-E-D-G\" (\"Leader, Number, Fixed costs, Exit, Differentiation, Growth\").",
+    "key": [
+     [
+      "C",
+      "Capital requirements"
+     ],
+     [
+      "E",
+      "Economies of scale"
+     ],
+     [
+      "P",
+      "Product differentiation"
+     ],
+     [
+      "S",
+      "Switching costs"
+     ],
+     [
+      "B",
+      "Brand identity"
+     ],
+     [
+      "A",
+      "Access to distribution channels"
+     ],
+     [
+      "A",
+      "Aggressive retaliation possible"
+     ]
+    ],
+    "recall_trigger": "Capital Economies Prevent Switching, Brands And Attacks"
+   },
+   "mistakes": [
+    "Listing five forces when the question asks for the **five areas of the market in which competitive pressure operates**. ICAI's January 2026 answer uses the 'competitive pressures associated with…' wording, not the force names.",
+    "Giving five or six barriers to entry. There are **seven**, and 'possibility of aggressive retaliation' is the one most often dropped.",
+    "Saying rivalry is lower when exit barriers are high. The opposite: high exit barriers keep rivals in, so **profitability is higher where exit barriers are few**.",
+    "Treating a shortage or price rise of a key input as a cost problem rather than a force. Fuel prices rising is **supplier bargaining power**.",
+    "Forgetting that substitutes come from **other industries** — the question is which products perform the same or nearly the same function, not which rivals sell a similar product."
+   ],
+   "links": [
+    "🔗 S02.07: the PESTLE technological head also 'determines barriers to entry'",
+    "🔗 S02.15: the collective strength of the forces feeds the attractiveness judgement",
+    "🔗 S02.16: the experience curve is itself described as a key barrier to entry",
+    "🔗 S02.22: competitive strategy is where the model is applied",
+    "🔗 SM Ch 3 §3.12: Porter's generic strategies — cost leadership, differentiation and focus — are the responses to these forces"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "The barriers-to-entry list (PYQ Sep 2024 Q8(a); repeated identically as MTP Jan 2026 S2 Q2(b) and as the OR in MTP Sep 2026 S2 Q4(b))",
+     "The cut-throat rivalry list (PYQ Jan 2025 Q8(a); repeated identically as RTP Jan 2026 Q10)",
+     "The five areas of competitive pressure (PYQ Jan 2026 Q8(a))",
+     "The five forces as a list (RTP Jan 2025 Q10)",
+     "Buyer power (MTP Sep 2024 S1 Q4(a))",
+     "Cases: the Easy Access registration requirement raising entry barriers (RTP May 2025 Q9, MTP Jan 2025 S1 Q3(a)); the Rajiv Arya vacuum-cleaner industry (RTP Sep 2024 Q10)",
+     "Six MCQs naming the single force at work"
+    ],
+    "approach": [
+     "Identify which **sub-list** is wanted before writing: the five forces, the five areas of pressure, the seven barriers, the three conditions of buyer power, the three of supplier power, or the six of cut-throat rivalry. Writing the wrong list scores nothing.",
+     "In a case, label each fact with one force and say which way profitability moves. Where the stem is silent on a force, say so — ICAI's own answer to the vacuum-cleaner case states 'There is no information relating to substitutes and bargaining power of customers' and then reasons anyway."
+    ],
+    "official_pattern": "ICAI reuses three answers verbatim: the seven barriers (three papers), the six cut-throat conditions (two papers), and the five-force list. Its case answers are short — the Easy Access answer is one paragraph that names 'increasing barriers to entry and thereby reducing the threat of new entrants' and closes with the phrase 'which is known as Price War'.",
+    "time_tip": "5 marks ≈ 7 minutes; a seven-item list needs about 45 seconds an item, so keep each barrier to two lines (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S02.14-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "State the three steps a strategist follows to use Porter's Five Forces model, and explain the bargaining power of suppliers.",
+     "answer_points": [
+      "**Step 1:** identify the specific competitive pressures associated with each of the five forces. **Step 2:** evaluate how strong the pressures comprising each of the five forces are — fierce, strong, moderate to normal, or weak. **Step 3:** determine whether the collective strength of the five competitive forces is conducive to earning attractive profits.",
+      "**Bargaining power of suppliers:** suppliers quite often exercise considerable bargaining power over companies. The more specialised the offering from the supplier, the greater is his clout; and if the suppliers are also limited in number, they stand a still better chance to exhibit their bargaining power.",
+      "Supplier bargaining power **determines the cost of raw materials and other inputs** of the industry and therefore industry attractiveness and profitability.",
+      "Suppliers command bargaining power over a firm when **(i)** their products are crucial to the buyer and substitutes are not available; **(ii)** they can erect high switching costs; **(iii)** they are more concentrated than their buyers.",
+      "The interrelationship among all five forces gives each industry its own particular competitive environment, and the collective strength determines the scope to earn attractive profits."
+     ],
+     "keywords": [
+      "fierce, strong, moderate to normal, or weak",
+      "collective strength",
+      "more specialised the offering",
+      "limited in number",
+      "more concentrated than their buyers"
+     ]
+    },
+    {
+     "id": "EQ-S02.14-2",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "\"Substitute products are a latent source of competition.\" Explain the threat of substitutes with the study material's own illustrations, and state how a firm should search for them.",
+     "answer_points": [
+      "Substitute products are a **latent** source of competition in an industry; in many cases they become a **major constituent** of competition.",
+      "Substitute products offering a **price advantage and/or performance improvement** to the consumer can **drastically alter the competitive character of an industry — and they can bring it about all of a sudden**.",
+      "**Illustration:** coir suffered at the hands of synthetic fibre. Wherever substantial investment in **R&D** is taking place, threats from substitute products can be expected.",
+      "**How to search:** to predict profit pressure from this source, firms must search for products that **perform the same, or nearly the same, function** as their existing products. Real estate, insurance, bonds and bank deposits are clear substitutes for common stocks, because they represent alternate ways to invest funds.",
+      "Substitutes usually **limit the prices and profits** in an industry, and so form one of the five pressures whose collective strength determines the scope for attractive profits."
+     ],
+     "keywords": [
+      "latent source of competition",
+      "price advantage and/or performance improvement",
+      "all of a sudden",
+      "coir… synthetic fibre",
+      "perform the same, or nearly the same, function"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "PYQ-S24-Q8a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "In light of the five forces as propagated by Michael Porter, explain the common barriers which may cause restrain for the keenness of new entrepreneurs. (5 Marks)",
+     "answer_points": [
+      "In light of Michael Porter's Five Forces, new entrepreneurs often face significant barriers that restrain their keenness to enter an industry; these barriers increase the competitiveness of existing firms and discourage new entrants, impacting industry profitability.",
+      "**(i) Capital Requirements:** when a large amount of capital is required to enter an industry, firms lacking funds are effectively barred from the industry, thus enhancing the profitability of existing firms.",
+      "**(ii) Economies of Scale:** many industries are characterised by economic activities driven by economies of scale — the decline in the per-unit cost of production (or other activity) as volume grows.",
+      "**(iii) Product Differentiation:** the physical or perceptual differences, or enhancements, that make a product special or unique in the eyes of customers. **(iv) Switching Costs:** a new entrant must persuade existing customers of other companies to switch to its products; when switching costs are high, buyers are often reluctant to change.",
+      "**(v) Brand Identity:** the brand identity of products or services offered by existing firms is another entry barrier, particularly important for infrequently purchased products that carry a high unit cost to the buyer.",
+      "**(vi) Access to Distribution Channels:** the unavailability of distribution channels poses a significant barrier; despite the growing power of the internet many firms continue to rely on control of physical distribution channels. **(vii) Possibility of Aggressive Retaliation:** sometimes the mere threat of aggressive retaliation by incumbents can deter entry."
+     ],
+     "keywords": [
+      "effectively barred",
+      "decline in the per-unit cost",
+      "physical or perceptual differences",
+      "reluctant to change",
+      "infrequently purchased products",
+      "mere threat of aggressive retaliation"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "MTP-J26-S2-SQ2b asks the identical question with the identical published answer, and MTP-S26-S2-SQ4b offers it as the OR alternative to the experience-curve question. Three appearances make the seven barriers the single highest-yield list in this chapter."
+     ]
+    },
+    {
+     "id": "PYQ-J25-Q8a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "As per one of the five forces of competition, Michael Porter stated that the more intensive is the rivalry, the less attractive is the industry. In view of this, explain the conditions in which rivalry among competitors tends to be cut throat and industry profitability is low. (5 Marks)",
+     "answer_points": [
+      "**1. Industry Leader Presence:** while a strong industry leader can help maintain pricing discipline, the effectiveness diminishes as the number of competitors increases; many rivals can engage in aggressive pricing strategies, decreasing profitability.",
+      "**2. Number of Competitors:** a higher number of competitors increases rivalry, making it difficult for any single firm to control pricing, which leads to intensified price competition.",
+      "**3. High Fixed Costs:** industries with high fixed costs create pressure on firms to fully utilise capacity; when firms face excess capacity they resort to price cuts to maintain sales volume, which diminishes profitability across the industry.",
+      "**4. Exit Barriers:** high exit barriers prevent firms from leaving, keeping competition high; specialised assets or other constraints lead firms to remain in the market, maintaining competitive pressure and negatively impacting profitability for all players.",
+      "**5. Product Differentiation:** in industries lacking differentiation, firms primarily compete on price, leading to price wars and lower profitability; firms that can differentiate tend to achieve higher margins and reduce competitive pressure.",
+      "**6. Slow Industry Growth:** when growth slows, firms adopt aggressive tactics to protect or gain market share, intensifying rivalry and diminishing profitability as they compete for a limited customer base."
+     ],
+     "keywords": [
+      "pricing discipline",
+      "difficult for any single firm to control pricing",
+      "excess capacity",
+      "specialised assets",
+      "price wars",
+      "limited customer base"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "RTP-J26-SQ10 asks the same thing under ICAI's own 'Chapter 2' heading and reproduces this answer verbatim, adding the closing summary sentence that lists all six conditions together."
+     ]
+    },
+    {
+     "id": "PYQ-J26-Q8a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Porter's five forces model hold that the state of competition in an industry is a composite of active competitive pressure in the market. Identify the areas of market in which competitive pressure operates. (5 Marks)",
+     "answer_points": [
+      "Porter's Five Forces Model holds that the state of competition in an industry is a composite of competitive pressures operating in **five areas of the overall market**:",
+      "Competitive pressures associated with the **market manoeuvring and jockeying for buyer patronage** that goes on among rival sellers in the industry.",
+      "Competitive pressures associated with the **threat of new entrants** into the market.",
+      "Competitive pressures coming from the **attempts of companies in other industries to win buyers over to their own substitute products**.",
+      "Competitive pressures stemming from **supplier bargaining power and supplier-seller collaboration**.",
+      "Competitive pressures stemming from **buyer bargaining power and seller-buyer collaboration**."
+     ],
+     "keywords": [
+      "composite of competitive pressures",
+      "jockeying for buyer patronage",
+      "companies in other industries",
+      "supplier-seller collaboration",
+      "seller-buyer collaboration"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "RTP-J25-SQ10",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "According to Michael Porter, what are the five competitive forces that exist within an industry?",
+     "answer_points": [
+      "**Threat of New Entrants:** new entrants bring added capacity and product variety, intensifying competition and impacting prices; the size of new entrants magnifies their competitive influence, placing constraints on prices and affecting existing players' profitability.",
+      "**Bargaining power of Buyers:** the ability of buyers to form groups or cartels influences their bargaining power; this force, particularly in industrial products, impacts pricing and often leads to demand for better services, influencing costs and investments for producers.",
+      "**Bargaining power of Suppliers:** suppliers with specialised offerings exert significant bargaining power, especially when limited in number; supplier bargaining power determines raw material costs, affecting industry attractiveness and profitability.",
+      "**Rivalry among Current Players:** existing players engage in competition, influencing strategic decisions across various levels; this rivalry is evident in pricing, advertising, cost pressures and product strategies.",
+      "**Threats from Substitutes:** substitute products can alter an industry's competitive dynamics, offering price advantages or performance improvements; substitutes limit prices and profits, and industries with substantial R&D investments are particularly susceptible.",
+      "**Closing line:** these forces collectively determine the industry's attractiveness and profitability by influencing factors such as the costs and investments required for industry participation; the strength of these forces varies across industries, ultimately shaping the potential for earning attractive profits."
+     ],
+     "keywords": [
+      "added capacity and product variety",
+      "groups or cartels",
+      "specialised offerings",
+      "pricing, advertising, cost pressures",
+      "substantial R&D investments"
+     ]
+    },
+    {
+     "id": "RTP-M25-SQ9",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "Easy Access is a marketing services company providing consultancy to a range of business clients. Easy Access and its rivals have managed to persuade the Government to require all marketing services companies to complete a time-consuming and bureaucratic registration process and to comply with an industry code of conduct. Do you think that by doing this Easy Access and its rivals has an advantage in some ways to fight off competitors? Explain.",
+     "answer_points": [
+      "**Yes**, Easy Access and its rivals get an advantage from this move.",
+      "The new bureaucratic process is **making it more complicated for organisations to start up and enter the Easy Access market, increasing barriers to entry and thereby reducing the threat of new entrants**.",
+      "New entrants can reduce an industry's profitability because they **add new production capacity**, leading to an increase in supply of the product, sometimes even at a lower price, and can **substantially erode existing firms' market share position**.",
+      "New entrants are always a powerful source of competition: the new capacity and product range they bring in throws up new competitive pressure, and **the bigger the new entrant, the more severe the competitive effect**.",
+      "New entrants also **place a limit on prices and affect the profitability of existing players, which is known as Price War** — ICAI's own closing phrase in this answer."
+     ],
+     "keywords": [
+      "increasing barriers to entry",
+      "reducing the threat of new entrants",
+      "add new production capacity",
+      "erode existing firm's market share",
+      "known as Price War"
+     ],
+     "also_asked_as": [
+      "MTP-J25-S1-SQ3a sets the identical Easy Access case for 5 marks with the same published answer."
+     ]
+    },
+    {
+     "id": "RTP-S24-SQ10",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "Rajiv Arya owns an electrical appliance company specializing in the manufacture of domestic vacuum cleaners. The market is competitive, with four other manufacturers offering similar products and achieving comparable sales volumes. Additionally, these rival firms hold several patents related to the vacuum cleaner technology. The supplier base for raw materials is extensive, with multiple suppliers available. Identify and explain the significant forces from Porter's Five Forces framework that are relevant to Rajiv Arya's company.",
+     "answer_points": [
+      "**Competitive rivalry** will be a significant force, as all the rivals are similar in size and manufacture similar products — it is difficult for any single manufacturer to dominate the market.",
+      "**Threat of new entrants is low:** a large number of patents will make it difficult for new entrants to break into the market.",
+      "**Bargaining power of suppliers is low:** as there are a large number of small suppliers, the power that suppliers can exert will be low.",
+      "**On the forces the case is silent about:** ICAI states that there is no information relating to substitutes and bargaining power of customers in the scenario — but reasons anyway that a domestic vacuum cleaner **directly competes with other options such as house maids**, and the availability of house maids at low cost can significantly disturb sales.",
+      "Further, as the products are similar, **customers can easily shift from one company to another, which will only enhance competitive rivalry**.",
+      "The lesson for presentation: name the forces the facts support, say explicitly where the facts are silent, and still reason about the silent force if a sensible substitute or buyer argument exists."
+     ],
+     "keywords": [
+      "similar in sizes",
+      "difficult for any single manufacturer to dominate",
+      "patents",
+      "large number of small suppliers",
+      "house maids",
+      "easily shift from one company to another"
+     ]
+    },
+    {
+     "id": "RTP-M26-SQ9",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "Riya, the strategy manager of FreshSip Beverages Ltd., was studying the packaged fruit juice market in India before launching a new preservative-free juice brand. She observed that several established brands, low-priced local players, and substitute drinks like smoothies and flavored milk were competing intensely. Which aspect of external environment analysis is reflected in this situation?",
+     "answer_points": [
+      "The situation reflects the **competitive environment (industry environment)** aspect of external environment analysis.",
+      "The competitive environment consists of factors **within the industry** that influence a firm's competitive position — existing competitors, new entrants, substitutes and pricing rivalry. Firms must evaluate industry structure and competitive forces before entering or expanding in a market.",
+      "In the given case Riya observed the presence of many established brands, low-cost local players and substitute beverages like smoothies and flavoured milk. This indicates **intense industry rivalry and a strong threat from substitutes**.",
+      "Such conditions affect profitability and market-entry decisions.",
+      "Therefore FreshSip must assess competitive forces and develop appropriate strategies such as **differentiation or cost competitiveness** to succeed."
+     ],
+     "keywords": [
+      "competitive environment (industry environment)",
+      "factors within the industry",
+      "intense industry rivalry",
+      "strong threat from substitutes",
+      "differentiation or cost competitiveness"
+     ]
+    },
+    {
+     "id": "MTP-S24-S1-SQ4a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Buyers can exert considerable pressure on business. Do you agree? Discuss. (5 Marks)",
+     "answer_points": [
+      "**Yes.** Buyers of an industry's products or services can sometimes exert considerable pressure on existing firms to secure **lower prices or better services**. This is evident in situations where buyers enjoy a superior position to the seller of the product.",
+      "The leverage is particularly evident when **(i)** buyers have **full knowledge of the sources of products and their substitutes**;",
+      "**(ii)** they **spend a lot of money on the industry's products, i.e. they are big buyers**;",
+      "**(iii)** the industry's product is **not perceived as critical to the buyer's needs** and buyers are **more concentrated than the firms supplying** the product, so they can easily switch to the substitutes available.",
+      "Buyer power is heavier where buyers can form **groups or cartels** — mostly seen in industrial products — and it influences not only prices but also the producer's **costs and investments**, because powerful buyers bargain for better services."
+     ],
+     "keywords": [
+      "lower prices or better services",
+      "superior position",
+      "full knowledge of the sources",
+      "big buyers",
+      "more concentrated than firms supplying"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "RTP-J26-SMCQ3",
+     "question": "EcoRide Motors, an Indian electric scooter company, faces rising competition from new EV start-ups offering affordable models. Battery suppliers have raised costs due to global shortages, while customers now compare multiple brands online before purchase. Traditional petrol scooter manufacturers are also entering the EV segment. EcoRide struggles to maintain profitability despite growing market demand. Which force poses the greatest threat to EcoRide's profitability?",
+     "options": {
+      "A": "Threat of Substitutes",
+      "B": "Bargaining Power of Suppliers",
+      "C": "Rivalry among Existing Competitors",
+      "D": "Bargaining Power of Buyers"
+     },
+     "answer": "C",
+     "explanation": "New start-ups, petrol manufacturers entering the segment and price-comparing customers all converge on intensifying rivalry, and 'the more intensive the rivalry, the less attractive is the industry' (SM §2.5.1). ICAI key: (c).",
+     "why_wrong": {
+      "A": "Petrol scooters are rivals in the same industry segment, not substitutes from another industry.",
+      "B": "Supplier cost pressure is present but is one of four pressures described, not the greatest.",
+      "D": "Buyers compare brands but are not concentrated big buyers."
+     },
+     "trap": "Four forces are deliberately seeded in the stem; the question asks which is greatest.",
+     "concept": "S02.14"
+    },
+    {
+     "id": "RTP-M26-SMCQ1-iii",
+     "question": "When EcoRide attempted to enter the budget scooter market but failed due to intense competition and thin margins, which of Porter's Five Forces best explains the challenge, and how did it affect profitability?",
+     "options": {
+      "A": "Threat of Substitutes",
+      "B": "Bargaining Power of Suppliers",
+      "C": "Competitive Rivalry among Existing Firms",
+      "D": "Bargaining Power of Buyers"
+     },
+     "answer": "C",
+     "explanation": "Intense competition with thin margins is the signature of cut-throat rivalry — undifferentiated products and price competition drive profitability down for all (SM §2.5.1). ICAI key: (c).",
+     "why_wrong": {
+      "A": "No alternative product from another industry is named.",
+      "B": "No input supplier is named here.",
+      "D": "No buyer concentration is named."
+     },
+     "trap": "'Failed to enter' tempts 'threat of new entrants'; but EcoRide was itself the entrant, and the force it ran into was existing rivalry.",
+     "concept": "S02.14"
+    },
+    {
+     "id": "RTP-M26-SMCQ3",
+     "question": "In the smartphone industry, if a few large component manufacturers control the supply of specialised OLED screens and there are no viable alternative suppliers, the smartphone brands face high pressure from:",
+     "options": {
+      "A": "Bargaining power of buyers",
+      "B": "Threat of substitutes",
+      "C": "Bargaining power of suppliers",
+      "D": "Industry rivalry"
+     },
+     "answer": "C",
+     "explanation": "Suppliers command bargaining power when their products are crucial to the buyer and substitutes are not available, and when they are limited in number and more concentrated than their buyers (SM §2.5.1). ICAI key: (c).",
+     "why_wrong": {
+      "A": "The smartphone brands are the buyers here, not the pressurising party.",
+      "B": "'No viable alternative suppliers' is the absence of substitute *inputs*, which is a condition of supplier power, not the substitutes force.",
+      "D": "No rival behaviour is described."
+     },
+     "trap": "The words 'no viable alternative' pull towards 'substitutes'; in Porter's model, the absence of substitute inputs is what *gives* suppliers their power.",
+     "concept": "S02.14"
+    },
+    {
+     "id": "MTP-J25-S1-SMCQ-A-v",
+     "question": "Which key industry force, as per Porter's Five Forces, is reflected in EcoForge's challenges from cheaper alternatives and intense competition?",
+     "options": {
+      "A": "Threat of New Entrants",
+      "B": "Bargaining Power of Suppliers",
+      "C": "Bargaining Power of Buyers",
+      "D": "Threat of Substitutes"
+     },
+     "answer": "D",
+     "explanation": "'Cheaper alternatives' are substitute products offering a price advantage, which the study material says can drastically alter the competitive character of an industry. ICAI key: (D).",
+     "why_wrong": {
+      "A": "No new firm entering is described.",
+      "B": "No input supplier is described.",
+      "C": "No buyer concentration is described."
+     },
+     "trap": "'Intense competition' tempts rivalry, but the distinctive fact is the cheaper alternative.",
+     "concept": "S02.14"
+    },
+    {
+     "id": "MTP-J26-S1-SMCQ-B-ii",
+     "question": "In the Indian smartphone market, Chinese brands completely captured the budget segment. Which of Porter's Five Forces is intensified by the presence of numerous players offering functionally similar, low-priced products?",
+     "options": {
+      "A": "Rivalry Among Existing Competitors",
+      "B": "Bargaining Power of Suppliers",
+      "C": "Threat of New Entrants",
+      "D": "Bargaining Power of Buyers"
+     },
+     "answer": "A",
+     "explanation": "Numerous players with undifferentiated products competing on price is precisely the study material's condition for cut-throat rivalry — number of competitors plus lack of product differentiation. ICAI key: (A).",
+     "why_wrong": {
+      "B": "No input supplier is described.",
+      "C": "The brands have already captured the segment; they are incumbents now.",
+      "D": "Buyers are fragmented consumers."
+     },
+     "trap": "'Captured the segment' suggests new entrants; the force intensified by *numerous* similar players is rivalry.",
+     "concept": "S02.14"
+    },
+    {
+     "id": "MTP-M24-S1-SMCQ-A-ii",
+     "question": "How did Zing protect its market share from potential competitors?",
+     "options": {
+      "A": "Price-cutting strategy",
+      "B": "Branded software and switching costs",
+      "C": "Aggressive marketing campaigns",
+      "D": "International expansion"
+     },
+     "answer": "B",
+     "explanation": "Brand identity and switching costs are two of the seven barriers to entry: buyers incur substantial financial and psychological costs in switching, and brand identity requires substantial resources committed over a long period (SM §2.5.1). ICAI key: (b).",
+     "why_wrong": {
+      "A": "Price cutting is a rivalry tactic that lowers everyone's profitability.",
+      "C": "Advertising is the incumbents' *retaliation* response, not what protected the share here.",
+      "D": "International expansion is a growth choice, not an entry barrier."
+     },
+     "trap": "All four are real competitive actions; only two of the seven published barriers appear in one option.",
+     "concept": "S02.14"
+    },
+    {
+     "id": "MCQ-S02.14-01",
+     "angle": "Count the list",
+     "difficulty": "Easy",
+     "question": "Which of the following is **not** one of the seven barriers to entry listed in the study material?",
+     "options": {
+      "A": "Possibility of aggressive retaliation",
+      "B": "Access to distribution channels",
+      "C": "Government ownership of the industry",
+      "D": "Switching costs"
+     },
+     "answer": "C",
+     "explanation": "SM §2.5.1 lists capital requirements, economies of scale, product differentiation, switching costs, brand identity, access to distribution channels and possibility of aggressive retaliation. Government ownership is not among them.",
+     "why_wrong": {
+      "A": "Listed, seventh.",
+      "B": "Listed, sixth.",
+      "D": "Listed, fourth."
+     },
+     "trap": "Government ownership is a real-world barrier but is not in the published list; the political-legal environment covers it instead.",
+     "concept": "S02.14"
+    },
+    {
+     "id": "MCQ-S02.14-02",
+     "angle": "Direction of the effect",
+     "difficulty": "Moderate",
+     "question": "As per the study material, profitability tends to be **higher** in industries:",
+     "options": {
+      "A": "With high fixed costs",
+      "B": "With few exit barriers",
+      "C": "Whose growth is slowing",
+      "D": "Involving undifferentiated commodities"
+     },
+     "answer": "B",
+     "explanation": "SM §2.5.1: 'Rivalry among competitors declines if some competitors leave an industry. Profitability therefore tends to be higher in industries with few exit barriers.'",
+     "why_wrong": {
+      "A": "High fixed costs push firms to cut prices when they have excess capacity, lowering profitability.",
+      "C": "Slowing growth intensifies rivalry and reduces profitability.",
+      "D": "Undifferentiated commodities — memory chips, natural resources, processed metals, railroads — show lower profitability."
+     },
+     "trap": "The intuitive answer is that high exit barriers protect incumbents; the study material says the opposite, because trapped rivals keep competing.",
+     "concept": "S02.14"
+    },
+    {
+     "id": "MCQ-S02.14-03",
+     "angle": "Porter's unit of analysis",
+     "difficulty": "Moderate",
+     "question": "According to the study material, Michael Porter believes the basic unit of analysis for understanding competition is:",
+     "options": {
+      "A": "The individual firm and its resources",
+      "B": "The national economy",
+      "C": "A group of competitors producing goods or services that compete directly with each other",
+      "D": "The customer segment being served"
+     },
+     "answer": "C",
+     "explanation": "SM §2.5.1: Porter believes the basic unit of analysis is a group of competitors producing goods or services that compete directly with each other — it is the industry where competitive advantage is ultimately won or lost.",
+     "why_wrong": {
+      "A": "The resource view of the firm is the Chapter 3 perspective.",
+      "B": "The national economy is the macro environment.",
+      "D": "Customer segments belong to customer analysis (§2.6.2)."
+     },
+     "trap": "Porter is also associated with the value chain, which is firm-level; his *competition* unit of analysis is the industry.",
+     "concept": "S02.14"
+    },
+    {
+     "id": "MCQ-S02.14-04",
+     "angle": "Which step",
+     "difficulty": "Easy",
+     "question": "In the three-step use of the Five Forces model, the strategist's **second** step is to:",
+     "options": {
+      "A": "Identify the specific competitive pressures associated with each of the five forces",
+      "B": "Determine whether the collective strength of the forces is conducive to earning attractive profits",
+      "C": "Draw circles proportional to each group's share of industry sales",
+      "D": "Evaluate how strong the pressures comprising each of the five forces are — fierce, strong, moderate to normal, or weak"
+     },
+     "answer": "D",
+     "explanation": "SM §2.5.1: Step 1 identify the pressures; Step 2 evaluate how strong each is (fierce, strong, moderate to normal, weak); Step 3 determine whether collective strength is conducive to attractive profits.",
+     "why_wrong": {
+      "A": "That is Step 1.",
+      "B": "That is Step 3.",
+      "C": "That is Step 4 of strategic group mapping (§2.7.1), a different tool."
+     },
+     "trap": "Option C belongs to a different four-step procedure in the same chapter.",
+     "concept": "S02.14"
+    }
+   ],
+   "recap": [
+    "Five forces: new entrants, buyer power, supplier power, rivalry, substitutes; their interrelationship gives each industry its own competitive environment.",
+    "Five areas of pressure (ICAI's own wording): jockeying among rival sellers, threat of entry, other industries' substitutes, supplier power and collaboration, buyer power and collaboration.",
+    "Three steps: identify pressures → rate each fierce/strong/moderate/weak → judge collective strength.",
+    "Seven barriers: capital, economies of scale, differentiation, switching costs, brand identity, distribution channels, aggressive retaliation.",
+    "Buyer power when: full knowledge of sources and substitutes · big buyers · product not critical and buyers more concentrated.",
+    "Supplier power when: products crucial and no substitutes · high switching costs · more concentrated than buyers.",
+    "Cut-throat rivalry: leader, number of competitors, high fixed costs, exit barriers, no differentiation, slow growth.",
+    "Substitutes are latent, can change an industry all of a sudden, and come from products performing the same or nearly the same function."
+   ]
+  }
+ ]
+}

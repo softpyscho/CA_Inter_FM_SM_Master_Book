@@ -14,6 +14,7 @@ Updated 03-10-2026. Target attempt: January 2027.
 | Builder, merge/validate, bookmark, index-link and scan scripts | Done — adapted from the Audit book for Paper 6's two sections |
 | Review PDF (front matter + both chapters) | Done — `CA_Inter_FMSM_Master_Book.pdf` |
 | FM Chapters 2–9 written and merged | Done — `book/Ch02.json` to `book/Ch09.json`; **Section A (FM) is complete**; see the progress ledger below |
+| SM Chapter 2 written and merged | Done — `book/Ch11.json` (24/24 headings, 90/90 atoms placed) |
 
 ## Chapter numbering used in the book
 
@@ -22,9 +23,10 @@ Topic codes: `F01.07.01` prints as "FM Ch 1 §7.1"; `S01.05.02` prints as "SM Ch
 
 ## Next steps (updated 03-10-2026)
 
-1. SM Ch 2–5 (24, 14, 15 and 18 register headings) -> `book/Ch11.json` to `book/Ch14.json`.
-2. Back-fill pass: the stray official questions listed at the end of this file, plus the six
-   ratio-analysis questions found while scoping FM Ch 9 (see the FM Ch 9 section).
+1. SM Ch 3–5 (14, 15 and 18 register headings) -> `book/Ch12.json` to `book/Ch14.json`.
+2. Back-fill pass: the stray official questions listed at the end of this file (FM Ch 1, 3, 4, 5)
+   plus the two SM atoms displaced out of SM Ch 2 (see the SM Ch 2 section), then re-run
+   `sources/coverage.py`.
 3. Full front matter: chapter weightage chart from the mark counts, whole-paper trends,
    "changes to watch", diagnostic test.
 4. Back matter: cross-chapter cases, two mock exams, study plans, mistake book, 24-hour book,
@@ -210,6 +212,67 @@ Topic codes: `F01.07.01` prints as "FM Ch 1 §7.1"; `S01.05.02` prints as "SM Ch
   leaked internal ids), but LibreOffice in the cloud container cannot load anything the `docx` npm
   package produces, so **the PDF still needs `./make_pdf.ps1` on Windows.**
 
+## SM Ch 2 — Strategic Analysis: External Environment — DONE (03-10-2026)
+
+`book/Ch11.json`, built from `sources/s02/u1.json` to `u8.json` and `sources/atoms/atoms_S02.json`.
+
+Merge output: 24/24 register headings covered, 90/90 official atoms placed, 19 topic blocks,
+37 official question entries, 30 official MCQ entries, 64 generated MCQs with keys
+**A16 B16 C16 D16 (deviation 0.0%)**, 2 integrated cases, 13+6 chapter test, zero errors and
+zero placement warnings. Docx scan: no raw official ids, no `S02.xx` codes, no internal ids,
+no placeholder words.
+
+This is the largest SM chapter in the paper. Atom mix: 21 past-paper items, 16 RTP descriptive
+questions, 17 RTP MCQ items, 29 MTP descriptive questions, 7 MTP case-MCQ items.
+Heaviest headings: Porter's Five Forces (17 atoms), Competitive Landscape (15), PESTLE (10),
+Value Chain (8), Product Life Cycle (7).
+
+**The mapping discovery that made SM mapping tractable:** ICAI's RTPs print their own chapter
+headings — "Chapter 2-Strategic Analysis: External Environment" — above the questions belonging
+to each chapter, and every RTP from May 2024 to September 2026 places exactly two questions
+(always numbered 9 and 10) under the Chapter 2 heading. For those 16 atoms the mapping is
+transcription, not judgement. The same labels will carry SM Ch 3–5.
+
+**Seven mapping corrections made after reading ICAI's published answers in full** (all recorded
+in the chapter's `verification.open_items` and in the note field of `atoms_S02.json`):
+
+- `PYQ-M25-MCQ15` removed — set "in a competitive landscape" but ICAI's key is *special alert
+  control*, an SM Ch 5 concept. Back-fill to SM Ch 5.
+- `PYQ-M25-MCQ12` removed — ICAI's key is *augmented marketing*, defined in SM Ch 3 under types
+  of marketing, not in Chapter 2's value chain. Back-fill to SM Ch 3.
+- `RTP-M24-SQ9` and `RTP-J26-SQ9` (Riya Sharma's confectionery) moved from S02.13/S02.14 to
+  **S02.23** — the stem reads like industry rivalry but ICAI answers with the five steps of the
+  competitive landscape.
+- `PYQ-J26-Q5a` (Full Health Limited) moved from S02.15 to **S02.23** — reads like industry
+  attractiveness but ICAI answers with strategic group mapping.
+- `MTP-M25-S2-SQ1a` (ABC Tech) — S02.24 made primary; the stem names three value-chain
+  activities but ICAI's answer is framed wholly as Key Success Factors.
+- `RTP-S26-SMCQ3` (FreshKart Retail) — S02.06 made primary; the stem opens with changing
+  customer preference but the published key is *technological environment*.
+
+**ICAI inconsistencies documented rather than smoothed over:**
+
+- The study material says consumer behaviour's influences fall into "three conceptual domains"
+  and then prints **four** headings. ICAI's own answers resolve it both ways — MTP Jan 2025 S1
+  avoids the number, MTP Jan 2026 S2 says "four major conceptual domains". The chapter says to
+  write four.
+- ICAI files **value chain analysis** under Chapter 2 in its RTP labels (Sep 2025 Q10 and
+  Sep 2026 Q10 both sit under the Chapter 2 heading) although it is widely taught as internal
+  analysis; and it files some **strategic group mapping** questions under Chapter 3 although the
+  register places Competitive Landscape at S02.23. The register is followed; both are recorded.
+- ICAI's PESTLE answers head the third factor "Social Factors" while the study material heads it
+  "socio-cultural".
+
+**Headings with no official question of their own:** S02.01 Introduction, S02.17 Value Creation,
+S02.18 Market & Customer and S02.19 Customer carry no atom at all; S02.15 Attractiveness of
+Industry, S02.20 Customer Analysis and S02.22 Competitive Strategy appear only as secondary
+codes. All seven are written up in full with expected questions and chapter-test coverage,
+because four of them are new in the 2026 syllabus edition and are overdue for examination.
+
+**Tooling added for the SM section** (in the session scratchpad): `qa.py` resolves an atom id to
+its full published question text plus ICAI's answer across SA, RTP and MTP files; `mcqd.py`
+resolves an MCQ atom id to its stem and four options. Both will be reused for SM Ch 3–5.
+
 ## Back-fill list found while scoping FM Ch 7 (coverage.py, 22-09-2026)
 These official questions belong to chapters already merged and were not in their atom files. Add them in a back-fill pass after FM Ch 9:
 - MTP-J26-S2-FQ4b (meaning of cost of capital + three reasons it matters) -> FM Ch 4
@@ -228,3 +291,11 @@ These six match a working-capital keyword but are ratio-analysis questions, and 
 - MTP-S24-S1-FQ1a (Ananya Limited — total current assets from stock turnover and liquidity ratio)
 - MTP-S25-S1-FQ1b (Gagan Pvt. Ltd. — current ratio and the components behind it)
 - MTP-S26-S2-FMCQ1 (Solstice Biotech Part I case — current, quick, turnover, debt and profitability ratios)
+
+## Back-fill list found while building SM Ch 2 (03-10-2026)
+Two official SM MCQs were removed from `atoms_S02.json` because ICAI's published key names a
+concept that belongs to another chapter. Place them when those chapters are built:
+- PYQ-M25-MCQ15 (M/s A, B and C — merger forcing an intense review of strategy; key: special
+  alert control) -> SM Ch 5
+- PYQ-M25-MCQ12 (elevating customer service through a better interface, online repair and on-site
+  service; key: augmented marketing) -> SM Ch 3

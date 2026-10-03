@@ -1,0 +1,780 @@
+{
+ "concepts": [
+  {
+   "code": "S02.06",
+   "title": "2.3.2 Elements of the Macro Environment",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 · RTP 3 · MTP 0",
+   "understand": [
+    "**The macro environment has broader dimensions**: it consists of **economic, socio-cultural, technological, political and legal** factors. Classifying the relevant environment into components or sectors helps an organisation **cope with its complexity, comprehend the different influences operating, and relate the environmental changes to its strategic management process**.",
+    "ICAI quotes **Gluek and Jauch**: \"The environment includes factors outside the firm which can lead to opportunities for, or threats to the firm. Although, there are many factors, the most important of the factors are **socio-economic, technological, supplier, competitors, and government**.\"",
+    "**1. Demographic Environment.** Demographics are the characteristics of a population that have been classified and explained according to certain criteria such as **age, gender and income**, in order to understand the features of a specific group. Demographical analysis considers **race, age, income, education, possession of assets, house ownership, job position, region, and the degree of education**. India has a relatively younger population compared with many other countries, and many multinationals are interested in India considering its population size. Two issues must be addressed: ==**What demographic trends will affect the market size of the industry? What demographic trends represent opportunities or threats?**== The **size, age distribution, geographic dispersion, ethnic mix and income distribution** of a population are all of great importance.",
+    "**2. Socio-Cultural Environment.** A general factor that influences almost all enterprises in a similar manner. It represents a complex group of factors such as **social traditions, values and beliefs, level and standards of literacy, the ethical standards and state of society, the extent of social stratification, conflict and cohesiveness**. ==It differs from demographics in the sense that it is **not the characteristics of the population, but the behaviour and the belief system** of that population.== The **core beliefs of a particular society tend to be persistent** — it is difficult for a business to change these core values, so businesses have to adjust to social norms and beliefs to operate successfully. The social environment primarily affects the strategic management process in the areas of **mission and objective setting, and decisions related to products and markets**.",
+    "**3. Economic Environment.** Economic conditions have a **direct bearing** on business strategies. The economic environment refers to the overall economic situation around the business and includes conditions at the **regional, national and global** levels; it encompasses conditions in the markets for resources that affect the supply of inputs and outputs, their costs, and the dependability, quality and availability. ==Economic environment determines the **strength and size of the market**.== Purchasing power depends on **current income, prices, savings, circulation of money, debt and credit availability**; the **income distribution pattern** determines business possibilities. The factors include **gross domestic product, per capita income, markets for goods and services, availability of capital, foreign exchange reserve, growth of foreign trade, strength of capital market, interest rates, disposable income, unemployment and inflation**. ICAI's illustration: **higher interest rates are detrimental for businesses with high debt**; in the real estate market they reduce prospective buyers' ability to avail loans and pay instalments, thus lowering demand.",
+    "**4. Political-Legal Environment.** Takes into account the **general level of political development, the degree to which business and economic issues have been politicised, the degree of political morality, the state of law and order, political stability, the political ideology and practices of the ruling party, the effectiveness and purposefulness of governmental agencies, and the scope and type of governmental intervention** in the economy and industry. It is **partly general to all similar enterprises and partly specific to an individual enterprise**. Businesses prefer a country with a sound legal system, and must have a good working knowledge of the major laws protecting **consumers, competition and organizations** — companies, competition, intellectual property, foreign exchange and labour law. **Nationalism** supports measures aimed at enhancing a country's position in international business: ICAI names **Make in India**, **Aatmanirbhar Bharat** and the **Production Linked Incentives scheme**, which rewards businesses for increased sales of goods produced domestically, encourages foreign businesses to open in India, incentivises domestic manufacturing expansion, creates jobs and lessens India's reliance on imports.",
+    "**5. Technological Environment.** Technology has changed the way people communicate and do things, and the way businesses operate. ==**Technology and business are linked and are interdependent on one another.**== Businesses help society access the outcomes of technological research and development, raising everyone's standard of living. With technology, organisations **reduce paperwork, schedule payments more efficiently and coordinate inventories effectively**, which reduces costs and **shrinks time and distance**, capturing competitive advantage. Technological advancements might require a business to **drastically alter its operational, production and marketing strategies**. ==Technology is leading to many new business opportunities **as well as making obsolete most of the existing business products and services** — it can act as an opportunity when effectively adopted, and as a threat at the same time.== ICAI names **artificial intelligence, machine learning and robotic process automation** as new tools that can be both."
+   ],
+   "example": "A nutrition-supplement firm studying a Tier-2 city's age groups, income levels, lifestyle patterns and health concerns before fixing its price is working in the **demographic** environment — even though 'lifestyle' sounds socio-cultural, ICAI's answer to exactly this case (RTP Sep 2025 Q9) names the demographic environment, because age, income and health concerns are population *characteristics*.",
+   "keywords": [
+    "cope with its complexity",
+    "Gluek and Jauch",
+    "socio-economic, technological, supplier, competitors, and government",
+    "characteristics of a population",
+    "not the characteristics of the population, but the behaviour and the belief system",
+    "core beliefs tend to be persistent",
+    "strength and size of the market",
+    "partly general and partly specific",
+    "Make in India, Aatmanirbhar Bharat, Production Linked Incentives",
+    "technology and business are linked and interdependent",
+    "making obsolete most of the existing business products and services"
+   ],
+   "memory": {
+    "trick": "Five elements = \"D-S-E-P-T\" (\"Don't Study Economics Past Ten\"): Demographic, Socio-cultural, Economic, Political-legal, Technological.",
+    "key": [
+     [
+      "D",
+      "Demographic — age, gender, income, education, region (characteristics)"
+     ],
+     [
+      "S",
+      "Socio-cultural — traditions, values, beliefs, literacy, ethics (behaviour)"
+     ],
+     [
+      "E",
+      "Economic — GDP, per capita income, interest rates, inflation, disposable income"
+     ],
+     [
+      "P",
+      "Political-legal — stability, ideology, intervention, consumer and competition law"
+     ],
+     [
+      "T",
+      "Technological — AI, ML, RPA; opportunity and threat at once"
+     ]
+    ],
+    "recall_trigger": "Don't Study Economics Past Ten"
+   },
+   "mistakes": [
+    "Answering 'socio-cultural' when a case lists age groups and income levels. Those are demographic. The test is characteristics (demographic) versus behaviour and beliefs (socio-cultural).",
+    "Leaving the demographic environment out of the list of five. ICAI's own answer to RTP Sep 2025 Q9 lists demographic **first**.",
+    "Describing technology only as an opportunity. The study material is explicit that it is simultaneously a threat, making most existing products and services obsolete.",
+    "Forgetting that the political-legal environment is *partly* specific to an individual enterprise, not wholly general."
+   ],
+   "links": [
+    "🔗 S02.07: PESTLE is the tool that scans these same elements, with legal and environmental added",
+    "🔗 S02.05: these are the contents of the macro environment",
+    "🔗 FM Ch 4 / Ch 6: interest rates and the cost of capital — the economic environment in financial terms"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "A case naming population data and asking which external factor was considered, plus the major categories (RTP Sep 2025 Q9)",
+     "MCQ identifying the one element that disrupted a firm (RTP Sep 2025 MCQ 1(i), RTP Sep 2026 MCQ 3, PYQ Sep 2025 MCQ 12)"
+    ],
+    "approach": [
+     "Name the element in the first line, justify it from the exact words of the stem, then list the remaining categories with one line each.",
+     "In MCQs, look for the *source* of the change: new digital writing tools or AI platforms → technological; low electricity access creating demand → economic/demand side; ethical backlash over environmental damage → socio-cultural."
+    ],
+    "official_pattern": "ICAI answers RTP Sep 2025 Q9 by naming the **Demographic Environment** first, then listing demographic, economic, political-legal, technological and socio-cultural — note that its order is not the study material's order, and it omits nothing.",
+    "time_tip": "5 marks ≈ 7 minutes; MCQ ≈ 2 minutes (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S02.06-1",
+     "form": "Distinguish + explain (5 marks)",
+     "marks": 5,
+     "question": "Distinguish between the demographic and the socio-cultural environment, and explain why technology is described in the study material as both an opportunity and a threat.",
+     "answer_points": [
+      "**Demographic environment** consists of the characteristics of a population classified according to criteria such as age, gender and income — race, education, possession of assets, house ownership, job position and region. The firm must ask what demographic trends will affect the market size of the industry and which represent opportunities or threats.",
+      "**Socio-cultural environment** is a complex group of factors such as social traditions, values and beliefs, level and standards of literacy, ethical standards and state of society, and the extent of social stratification, conflict and cohesiveness.",
+      "**The distinction:** socio-cultural factors are not the *characteristics* of the population but the *behaviour and belief system* of that population. Core beliefs tend to be persistent, so businesses must adjust to them rather than change them.",
+      "**Technology as opportunity:** it reduces paperwork, schedules payments efficiently, coordinates inventories, cuts costs, shrinks time and distance and so captures competitive advantage; new discoveries let businesses adapt for the advancement of society.",
+      "**Technology as threat:** technological advancements may require a business to drastically alter its operational, production and marketing strategies, and technology makes obsolete most existing business products and services. Artificial intelligence, machine learning and robotic process automation can act as both."
+     ],
+     "keywords": [
+      "characteristics of a population",
+      "behaviour and the belief system",
+      "core beliefs tend to be persistent",
+      "shrink time and distance",
+      "making obsolete"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "RTP-S25-SQ9",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "Nuvanta Healthcare is planning to launch a nutrition supplement targeted at urban consumers in Tier-2 Indian cities. The product team analyzed local population data — age groups, income levels, lifestyle patterns and health concerns — before finalizing the formulation and pricing. They are also reviewing how changes in government policy and tech adoption may affect the rollout. What kind of external factor has Nuvanta considered for pricing the product? Briefly explain the major categories of such external influences that shape business strategy.",
+     "answer_points": [
+      "Nuvanta Healthcare has considered the **Demographic Environment** as an external factor for pricing its nutrition supplement. The analysis of local population data — age groups, income levels, lifestyle patterns and health concerns — reflects the company's effort to understand its target consumers and formulate a suitable pricing strategy.",
+      "**Demographic Environment** — population size, age distribution, income levels, education and occupation, which affect consumer preferences and demand.",
+      "**Economic Environment** — purchasing power, inflation rates and overall economic conditions that influence pricing and market potential.",
+      "**Political-Legal Environment** — government policies, regulations and legal aspects that can impact product rollout and compliance requirements.",
+      "**Technological Environment** — rapid technological changes affect production, product design, marketing and distribution, influencing how companies deliver value.",
+      "**Socio-Cultural Environment** — lifestyle patterns, health consciousness, social values and consumer attitudes that influence buying behaviour."
+     ],
+     "keywords": [
+      "Demographic Environment",
+      "age groups, income levels",
+      "purchasing power",
+      "compliance requirements",
+      "health consciousness"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "PYQ-S25-MCQ12",
+     "question": "Solar Tech is considering expanding into a developing country where electricity access is low. Which external factor is the primary reason for this decision?",
+     "options": {
+      "A": "Low production costs in the target country",
+      "B": "Strong competition from global solar brands",
+      "C": "Availability of skilled solar engineers",
+      "D": "High demand for alternative energy sources"
+     },
+     "answer": "D",
+     "explanation": "Low electricity access creates unmet demand for alternative energy — an economic/market condition of the macro environment that determines the strength and size of the market (SM §2.3.2). ICAI key: (D).",
+     "why_wrong": {
+      "A": "Cost is an input consideration, not the reason low access attracts entry.",
+      "B": "Competition is a deterrent, not a reason.",
+      "C": "Skilled engineers are a resource factor, not the primary driver stated."
+     },
+     "trap": "Three of the options are genuine external factors; only one explains why *low electricity access* makes the country attractive.",
+     "concept": "S02.06"
+    },
+    {
+     "id": "RTP-S25-SMCQ1-i",
+     "question": "Royal Pens, a century-old brand, began losing relevance as the market embraced modern digital writing tools. What external environmental factor caused the greatest disruption to Royal Pens' business model, requiring a strategic shift that the company struggled to make?",
+     "options": {
+      "A": "Political instability",
+      "B": "Rising inflation",
+      "C": "Legal regulations",
+      "D": "Technological advancement"
+     },
+     "answer": "D",
+     "explanation": "SM §2.3.2: technology leads to new opportunities **as well as making obsolete most existing business products and services**. Digital writing tools displacing pens is the textbook case. ICAI key: (d).",
+     "why_wrong": {
+      "A": "Nothing in the facts concerns government stability.",
+      "B": "Inflation affects costs and purchasing power, not product obsolescence.",
+      "C": "No regulatory change is described."
+     },
+     "trap": "'Losing relevance' sounds socio-cultural; the cause named in the stem is a new technology.",
+     "concept": "S02.06"
+    },
+    {
+     "id": "RTP-S26-SMCQ3",
+     "question": "FreshKart Retail Ltd. observed that an increasing number of customers preferred shopping through mobile applications and expected doorstep delivery. In response, the company launched an AI-enabled e-commerce platform, creating an entirely new online business segment and attracting a large customer base. The emergence of such new markets and business segments is primarily influenced by which component of the external environment?",
+     "options": {
+      "A": "Political environment",
+      "B": "Economic environment",
+      "C": "Sociocultural environment",
+      "D": "Technological environment"
+     },
+     "answer": "D",
+     "explanation": "SM §2.3.2: 'Technology is leading to many new business opportunities as well as making obsolete most of the existing business products and services.' The *emergence of new markets and segments* is the technological environment. ICAI key: (d).",
+     "why_wrong": {
+      "A": "No government intervention is described.",
+      "B": "No change in income, inflation or purchasing power is described.",
+      "C": "Customer preference is the *symptom*; the question asks what influences the emergence of the new segment."
+     },
+     "trap": "The stem opens with changing customer preference, which pulls towards socio-cultural; the question asks about the emergence of the new market, which the study material attributes to technology.",
+     "concept": "S02.06"
+    },
+    {
+     "id": "MCQ-S02.06-01",
+     "angle": "Who said it",
+     "difficulty": "Easy",
+     "question": "\"The environment includes factors outside the firm which can lead to opportunities for, or threats to the firm… the most important of the factors are socio-economic, technological, supplier, competitors, and government.\" This is quoted in the study material from:",
+     "options": {
+      "A": "Michael Porter",
+      "B": "Gluek and Jauch",
+      "C": "Kenichi Ohmae",
+      "D": "Igor H. Ansoff"
+     },
+     "answer": "B",
+     "explanation": "SM §2.3.2 attributes the quotation to **Gluek and Jauch**.",
+     "why_wrong": {
+      "A": "Porter is quoted for the five forces and the value chain.",
+      "C": "Ohmae's quoted line is 'The analysis is the critical starting point of strategic thinking.'",
+      "D": "Ansoff is quoted in Chapter 1 on the 'common thread'."
+     },
+     "trap": "William F. Glueck is quoted separately in the chapter opener on environmental analysis; the five-factor quotation is from Gluek and Jauch.",
+     "concept": "S02.06"
+    },
+    {
+     "id": "MCQ-S02.06-02",
+     "angle": "Scheme recall",
+     "difficulty": "Moderate",
+     "question": "Which scheme does the study material cite as rewarding businesses for increased sales of goods produced domestically, under the political-legal environment?",
+     "options": {
+      "A": "Start-up India",
+      "B": "Digital India",
+      "C": "Skill India Mission",
+      "D": "Production Linked Incentives scheme"
+     },
+     "answer": "D",
+     "explanation": "SM §2.3.2 names the **Production Linked Incentives scheme** alongside Make in India and Aatmanirbhar Bharat as expressions of nationalism in the political-legal environment.",
+     "why_wrong": {
+      "A": "Not mentioned in this chapter.",
+      "B": "Not mentioned in this chapter.",
+      "C": "Not mentioned in this chapter."
+     },
+     "trap": "All four are real Indian schemes; only one is named in the study material here.",
+     "concept": "S02.06"
+    }
+   ],
+   "recap": [
+    "Five elements: demographic, socio-cultural, economic, political-legal, technological.",
+    "Demographic = characteristics of the population; socio-cultural = its behaviour and belief system.",
+    "Economic environment determines the strength and size of the market.",
+    "Political-legal is partly general to all similar enterprises and partly specific to one enterprise.",
+    "Technology is simultaneously an opportunity and a threat; AI, ML and RPA are ICAI's examples."
+   ]
+  },
+  {
+   "code": "S02.07",
+   "title": "2.3.3 PESTLE — A Tool to Analyse the Macro Environment",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 4 · MTP 6",
+   "understand": [
+    "**PESTLE** is the framework for analysis of macro-environmental factors, frequently used to assess the business environment in which a firm operates. It was formerly **PEST** — political, economic, social and technological — and was ==later **expanded to include environmental and legal factors**==.",
+    "PESTLE analysis involves **identifying the political, economic, socio-cultural, technological, legal and environmental influences** on an organisation and providing **a way of scanning the environmental influences that have affected or are likely to affect an organisation or its policy**.",
+    "The acronym: **P – political · E – economic · S – socio-cultural · T – technological · L – legal · E – environmental**.",
+    "==**The advantage of this tool is that it encourages management into proactive and structured thinking in its decision making.**== It is also **simple to understand and quick to implement**.",
+    "**The Key Factors — six, in the study material's own words:**",
+    "**Political factors** are how and to what extent the **government intervenes in the economy and the activities of business firms**. They may also influence the goods and services which the government wants to be provided and those it does not. Governments have great influence on the **health, education and infrastructure** of a nation.",
+    "**Economic factors** have major impacts on how businesses operate and take decisions. **Interest rates** affect a firm's cost of capital and therefore the extent to which a business grows and expands. **Exchange rates** affect the costs of exporting goods and the supply and price of imported goods. **Money supply, inflation, credit flow, per capita income and growth rates** all bear on business decisions.",
+    "**Social factors** affect the **demand** for a company's products and **how that company operates**.",
+    "**Technological factors** can determine **barriers to entry**, the **minimum efficient production level** and influence **outsourcing decisions**; technological shifts can affect **costs, quality, and lead to innovation**.",
+    "**Legal factors** affect **how a company operates, its costs, and the demand for its products, ease of business**.",
+    "**Environmental factors** affect industries such as **tourism, farming and insurance**. Growing awareness of climate change is affecting how companies operate and the products they offer — ==**it is both creating new markets and diminishing or destroying existing ones**==.",
+    "**The drivers of change.** On the basis of these factors it should be possible to identify a number of key environmental influences, which are in effect the **drivers of change** — the factors that require to be considered in making meaningful decisions. The study material's table lists, under each head: **Political** — political stability; political principles and ideologies; current and future taxation policy; regulatory bodies and processes; government policies; government term and change; thrust areas of political leaders. **Economic** — economy situation and trends; market and trade cycles; specific industry factors; customer/end-user drivers; interest and exchange rates; inflation and unemployment; strength of consumer spending. **Social** — lifestyle trends; demographics; consumer attitudes and opinions; brand, company, technology image; consumer buying patterns; ethnic/religious factors; media views and perception. **Technological** — replacement technology/solutions; maturity of technology; manufacturing maturity and capacity; innovation potential; technology access, licensing, patents, property rights and copyrights. **Legal** — business and corporate laws; employment law; competition law; health and safety law; international treaty and law; regional legislation. **Environmental** — ecological/environmental issues; environmental hazards; environmental legislation; energy consumption; waste disposal."
+   ],
+   "example": "A consumer-electronics firm entering a new country asks six questions in turn: will the government remain stable and welcome foreign investment (P); what are GDP growth, inflation and the exchange rate (E); what are the cultural norms and demographics of buyers (S); is the infrastructure and level of technology adoption adequate (T); do foreign-investment, intellectual-property and labour laws permit the plan (L); and will environmental regulation and climate exposure affect operations and reputation (E). That is ICAI's own answer to the ABC Corp question, asked four times.",
+   "keywords": [
+    "expanded to include environmental and legal factors",
+    "a way of scanning the environmental influences",
+    "proactive and structured thinking",
+    "simple to understand and quick to implement",
+    "how and to what extent the government intervenes",
+    "barriers to entry, minimum efficient production level, outsourcing decisions",
+    "ease of business",
+    "creating new markets and diminishing or destroying existing ones",
+    "drivers of change"
+   ],
+   "memory": {
+    "trick": "PESTLE in order, and remember the two late arrivals: the framework was **PEST** until **L** and **E** were bolted on. 'PEST then LEgal-Environmental.'",
+    "key": [
+     [
+      "P",
+      "Political — extent of government intervention; health, education, infrastructure"
+     ],
+     [
+      "E",
+      "Economic — interest rates (cost of capital), exchange rates (exports/imports)"
+     ],
+     [
+      "S",
+      "Socio-cultural — demand for products and how the company operates"
+     ],
+     [
+      "T",
+      "Technological — barriers to entry, minimum efficient production level, outsourcing"
+     ],
+     [
+      "L",
+      "Legal — operations, costs, demand, ease of business"
+     ],
+     [
+      "E",
+      "Environmental — tourism, farming, insurance; climate change creates and destroys markets"
+     ]
+    ],
+    "recall_trigger": "PEST, then Legal and Environmental were added"
+   },
+   "mistakes": [
+    "Giving four factors because the original framework was PEST. The expanded framework has six.",
+    "Writing 'S' as 'social' and then listing only social factors. The study material's own heading for the acronym is **socio-cultural**.",
+    "Omitting the stated advantage. A full-mark answer says PESTLE 'encourages management into proactive and structured thinking in its decision making' and is simple and quick.",
+    "Describing environmental factors only as a constraint. The study material says climate-change awareness is **both** creating new markets and destroying existing ones."
+   ],
+   "links": [
+    "🔗 S02.06: PESTLE scans the same five elements, splitting political-legal and adding environmental",
+    "🔗 S02.14: technological factors determine barriers to entry — a link straight into Porter's first force",
+    "🔗 SM Ch 3: SWOT uses the opportunities and threats PESTLE produces"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "'How does the PESTLE framework assist in analysing the macro-environment?' — a pure six-factor list (RTP May 2026 Q10, MTP Sep 2024 S2 Q4(b))",
+     "The ABC Corp case: how PESTLE helps assess a decision to expand into a new country (MTP Mar 2024 S1 Q1(b), MTP Jan 2026 S1 Q1(b), MTP Sep 2025 S2 Q1(a) — three identical appearances)",
+     "MCQs naming the one PESTLE factor behind a described pressure (five of them in the period reviewed)"
+    ],
+    "approach": [
+     "Write the six factors as numbered headings in PESTLE order and give each a one-line meaning plus one applied sentence. ICAI's answers do exactly this and nothing more.",
+     "Close with the comprehensiveness sentence: 'By analysing these factors, the PESTLE framework provides a comprehensive understanding of the macro-environment, helping organisations anticipate changes, adapt strategies, and make informed decisions.' That is ICAI's own closing line in two papers."
+    ],
+    "official_pattern": "The six-factor answer is reproduced identically in RTP May 2026 Q10 and MTP Sep 2024 S2 Q4(b); the ABC Corp application is reproduced identically in three MTPs. Nothing else has ever been asked under this heading.",
+    "time_tip": "5 marks ≈ 7 minutes — roughly 40 seconds per factor plus the opening and closing lines (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S02.07-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "What is PESTLE analysis? State its advantage, and explain the six key factors it covers.",
+     "answer_points": [
+      "PESTLE is a framework for the analysis of macro-environmental factors. It involves identifying the political, economic, socio-cultural, technological, legal and environmental influences on an organisation and provides a way of scanning the environmental influences that have affected or are likely to affect an organisation or its policy. It was earlier PEST and was later expanded to include environmental and legal factors.",
+      "**Advantage:** it is simple to understand and quick to implement, and it encourages management into proactive and structured thinking in its decision making.",
+      "**Political** — how and to what extent the government intervenes in the economy and in business activity; influence over which goods and services are provided; great influence on health, education and infrastructure.",
+      "**Economic** — interest rates affect the cost of capital and therefore growth and expansion; exchange rates affect export costs and the supply and price of imports; money supply, inflation, credit flow, per capita income and growth rates all bear on decisions.",
+      "**Socio-cultural** — affects the demand for a company's products and how the company operates. **Technological** — determines barriers to entry and the minimum efficient production level, influences outsourcing decisions, and affects costs, quality and innovation.",
+      "**Legal** — affects how a company operates, its costs, the demand for its products and the ease of doing business. **Environmental** — affects industries such as tourism, farming and insurance; growing climate-change awareness is both creating new markets and diminishing or destroying existing ones."
+     ],
+     "keywords": [
+      "way of scanning",
+      "proactive and structured thinking",
+      "minimum efficient production level",
+      "ease of business",
+      "creating new markets and destroying existing ones"
+     ]
+    },
+    {
+     "id": "EQ-S02.07-2",
+     "form": "List (5 marks)",
+     "marks": 5,
+     "question": "Identify the key environmental influences — the 'drivers of change' — that the study material lists under the Political and the Technological heads of a PESTLE analysis.",
+     "answer_points": [
+      "**Political drivers of change:** political stability; political principles and ideologies; current and future taxation policy; regulatory bodies and processes; government policies; government term and change; thrust areas of political leaders.",
+      "**Technological drivers of change:** replacement technology and solutions; maturity of technology; manufacturing maturity and capacity; innovation potential; technology access, licensing, patents, property rights and copyrights.",
+      "These drivers are the factors that require to be considered in making meaningful decisions — the practical output of a PESTLE scan.",
+      "The remaining four heads carry their own driver lists: economic (economy situation and trends, market and trade cycles, specific industry factors, customer drivers, interest and exchange rates, inflation and unemployment, strength of consumer spending); social (lifestyle trends, demographics, consumer attitudes and opinions, brand and technology image, consumer buying patterns, ethnic/religious factors, media views and perception); legal (business and corporate laws, employment law, competition law, health and safety law, international treaty and law, regional legislation); environmental (ecological issues, environmental hazards, environmental legislation, energy consumption, waste disposal)."
+     ],
+     "keywords": [
+      "thrust areas of political leaders",
+      "replacement technology",
+      "manufacturing maturity and capacity",
+      "licensing, patents, property rights and copyrights",
+      "drivers of change"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "RTP-M26-SQ10",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "How does the PESTLE framework assist in analyzing the macro-environment?",
+     "answer_points": [
+      "The PESTLE framework assists in analysing the macro-environment by **systematically evaluating six external factors** that impact an organisation's operations and strategy.",
+      "**1. Political Factors:** government policies, regulations, political stability and taxation. Understanding these helps organisations anticipate regulatory changes and government interventions.",
+      "**2. Economic Factors:** interest rates, inflation, exchange rates and economic growth, which influence business costs, consumer purchasing power and overall market conditions.",
+      "**3. Social Factors:** demographic trends, lifestyle changes, cultural norms and consumer attitudes; insights help align products and services with evolving consumer preferences.",
+      "**4. Technological Factors:** technological advancements, innovation rates and technological infrastructure, which impact production processes, product development and competitive positioning.",
+      "**5. Legal Factors:** business laws, employment regulations, health and safety standards and compliance requirements — crucial for regulatory compliance and avoiding legal risks. **6. Environmental Factors:** ecological issues, sustainability practices and environmental regulations; awareness helps businesses adapt to climate change and meet sustainability goals.",
+      "**Closing line (ICAI's own):** by analysing these factors the PESTLE framework provides a comprehensive understanding of the macro-environment, helping organisations anticipate changes, adapt strategies and make informed decisions."
+     ],
+     "keywords": [
+      "systematically evaluating six external factors",
+      "anticipate regulatory changes",
+      "consumer purchasing power",
+      "competitive positioning",
+      "comprehensive understanding"
+     ],
+     "also_asked_as": [
+      "MTP-S24-S2-SQ4b asks the identical question and ICAI's answer is reproduced word for word; that MTP also offers an 'OR' alternative on strategic group mapping, which is covered at S02.23."
+     ]
+    },
+    {
+     "id": "MTP-J26-S1-SQ1b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "ABC Corp, a multinational consumer electronics company, is planning to expand its operations into a new country. The company's senior management is evaluating the potential risks and opportunities of entering this new market. As part of their analysis, they decide to use the PESTLE framework to assess the external factors that could impact their decision. How can the PESTLE framework help ABC Corp assess the external factors affecting its decision to expand into a new country? (5 Marks)",
+     "answer_points": [
+      "**Political Factors:** stability of the government, government policies on foreign investment, trade agreements and regulatory frameworks — allowing ABC Corp to assess the political risks of entering the new market.",
+      "**Economic Factors:** GDP growth rate, inflation rate, exchange rates and economic stability — letting the company understand the economic environment and its potential impact on business operations.",
+      "**Social Factors:** cultural norms, demographics and lifestyle trends, which influence consumer behaviour and demand; understanding them helps tailor marketing strategies to the new market.",
+      "**Technological Factors:** infrastructure, technological advancements and the level of technology adoption, which determine the technological requirements for entering the market.",
+      "**Legal Factors:** laws and regulations on foreign investment, intellectual property rights and labour, ensuring compliance with legal requirements.",
+      "**Environmental Factors:** climate change, environmental regulations and sustainability practices, which affect operations and reputation. Overall, PESTLE gives ABC Corp a comprehensive analysis of the external factors affecting the expansion decision, helping it make informed and strategic decisions."
+     ],
+     "keywords": [
+      "policies on foreign investment",
+      "economic stability",
+      "tailor its marketing strategies",
+      "level of technology adoption",
+      "intellectual property rights"
+     ],
+     "also_asked_as": [
+      "The same ABC Corp question appears twice more with an identical published answer: MTP-M24-S1-SQ1b and MTP-S25-S2-SQ1a. Three appearances in fifteen MTPs make this the single most repeated PESTLE question in the paper."
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "RTP-J25-SMCQ1-i",
+     "question": "In Horizon Technologies' journey towards globalization, PESTLE analysis played a pivotal role in navigating diverse international markets. Which aspect of PESTLE analysis proved to be the most challenging for Horizon Technologies?",
+     "options": {
+      "A": "Socio-cultural factors, as they struggled to keep up with changing trends and cultural preferences",
+      "B": "Legal factors, given the complex regulatory landscape in foreign markets",
+      "C": "Environmental factors, with the need to adhere to varying sustainability standards",
+      "D": "Technological factors, due to rapid changes in local technology preferences"
+     },
+     "answer": "A",
+     "explanation": "ICAI key: (a). Social factors affect the demand for a company's products and how that company operates (SM §2.3.3); in a globalisation case the published answer treats shifting trends and cultural preferences as the hardest to track.",
+     "why_wrong": {
+      "B": "Legal complexity is real but is not the aspect ICAI's key names.",
+      "C": "Sustainability standards are an environmental factor, not the key.",
+      "D": "Technology preference changes are not the aspect named."
+     },
+     "trap": "All four are genuine PESTLE heads; the case facts decide.",
+     "concept": "S02.07"
+    },
+    {
+     "id": "RTP-J26-SMCQ1-iv",
+     "question": "The public perception and ethical backlash concerning environmental damage and technological unemployment, which severely impacted Hepha.io's operations in the West, are analysed under which factor of the PESTLE analysis?",
+     "options": {
+      "A": "Political",
+      "B": "Technological",
+      "C": "Economic",
+      "D": "Socio-Cultural"
+     },
+     "answer": "D",
+     "explanation": "Public perception and ethical backlash are matters of social attitudes and ethical standards of society — the socio-cultural factor, which affects demand and how the company operates (SM §2.3.2, §2.3.3). ICAI key: (d).",
+     "why_wrong": {
+      "A": "No government intervention is described.",
+      "B": "Technological unemployment is the *subject* of the backlash; the force at work is public attitude.",
+      "C": "No change in income, inflation or growth is described."
+     },
+     "trap": "The words 'environmental damage' and 'technological' both appear in the stem, baiting the 'E' and 'T' options.",
+     "concept": "S02.07"
+    },
+    {
+     "id": "RTP-M26-SMCQ1-i",
+     "question": "EcoRide's initial success was supported by external factors such as EV subsidies and rising fuel costs. Which specific environmental analysis tool should EcoRide use to systematically assess these factors, and why would it be more suitable than SWOT in this context?",
+     "options": {
+      "A": "BCG Matrix",
+      "B": "PESTLE Analysis",
+      "C": "Porter's Five Forces",
+      "D": "Strategic Group Mapping"
+     },
+     "answer": "B",
+     "explanation": "Subsidies are a political factor and fuel costs an economic factor — both macro-environmental, which is precisely what PESTLE scans. SWOT mixes internal and external and does not systematise the macro scan. ICAI key: (b).",
+     "why_wrong": {
+      "A": "The BCG matrix allocates resources among business units.",
+      "C": "Five Forces analyses industry competition, not government subsidies.",
+      "D": "Strategic group mapping positions rivals, not macro factors."
+     },
+     "trap": "Porter's Five Forces is also an 'environment' tool, but for the *industry* environment, not the macro environment.",
+     "concept": "S02.07"
+    },
+    {
+     "id": "MTP-J25-S1-SMCQ-A-iii",
+     "question": "The case mentions EcoForge identifying \"critical influence of regulatory policies and socio-cultural factors shaping consumer preferences.\" Which strategic analysis framework is most relevant here?",
+     "options": {
+      "A": "SWOT Analysis",
+      "B": "Value Chain Analysis",
+      "C": "PESTLE Analysis",
+      "D": "Ansoff's Matrix"
+     },
+     "answer": "C",
+     "explanation": "Regulatory policies (political/legal) plus socio-cultural factors are two PESTLE heads named in the same breath. ICAI key: (C).",
+     "why_wrong": {
+      "A": "SWOT would also need internal strengths and weaknesses, which the stem does not give.",
+      "B": "Value chain analysis examines internal activities.",
+      "D": "Ansoff's matrix identifies growth options."
+     },
+     "trap": "SWOT is the reflex answer to any 'analysis' MCQ; here only external macro heads are named.",
+     "concept": "S02.07"
+    },
+    {
+     "id": "MTP-J26-S2-SMCQ-A-i",
+     "question": "Which external factor from the PESTLE analysis is most likely to require Titan Tech to adapt its data management practices?",
+     "options": {
+      "A": "Government incentives for digital transformation",
+      "B": "Changes in data privacy regulations",
+      "C": "Rising disposable incomes of SMEs",
+      "D": "Advancements in AI and blockchain"
+     },
+     "answer": "B",
+     "explanation": "Legal factors affect how a company operates and its costs (SM §2.3.3); data privacy regulation is the legal head, and it is what forces a change in *data management practices*. ICAI key: (B).",
+     "why_wrong": {
+      "A": "An incentive is political and expands opportunity; it does not compel a change in practice.",
+      "C": "Disposable income is economic and affects demand.",
+      "D": "AI and blockchain are technological enablers, not compliance obligations."
+     },
+     "trap": "Option D is attractive because the subject is data and technology; the *requirement* to adapt comes from law.",
+     "concept": "S02.07"
+    },
+    {
+     "id": "MCQ-S02.07-01",
+     "angle": "Which head",
+     "difficulty": "Moderate",
+     "question": "The study material states that this PESTLE factor 'can determine barriers to entry, minimum efficient production level and influence outsourcing decisions'. Which factor is it?",
+     "options": {
+      "A": "Legal",
+      "B": "Economic",
+      "C": "Political",
+      "D": "Technological"
+     },
+     "answer": "D",
+     "explanation": "SM §2.3.3 lists barriers to entry, minimum efficient production level and outsourcing decisions under **technological factors**, adding that technological shifts affect costs, quality and lead to innovation.",
+     "why_wrong": {
+      "A": "Legal factors affect operations, costs, demand and ease of business.",
+      "B": "Economic factors are interest rates, exchange rates, money supply, inflation, credit flow, per capita income and growth rates.",
+      "C": "Political factors are the extent of government intervention and influence over health, education and infrastructure."
+     },
+     "trap": "'Barriers to entry' sounds like Porter's first force; the phrase is also used verbatim in the PESTLE technological head.",
+     "concept": "S02.07"
+    },
+    {
+     "id": "MCQ-S02.07-02",
+     "angle": "Stated advantage",
+     "difficulty": "Easy",
+     "question": "What does the study material state as the advantage of the PESTLE tool?",
+     "options": {
+      "A": "It quantifies the probability of each environmental change",
+      "B": "It ranks opportunities against threats in a single score",
+      "C": "It replaces the need for industry analysis",
+      "D": "It encourages management into proactive and structured thinking in its decision making"
+     },
+     "answer": "D",
+     "explanation": "SM §2.3.3: 'The PESTLE analysis is simple to understand and quick to implement. The advantage of this tool is that it encourages management into proactive and structured thinking in its decision making.'",
+     "why_wrong": {
+      "A": "No quantification is claimed.",
+      "B": "No scoring is claimed.",
+      "C": "Industry analysis (§2.5) is a separate and necessary step."
+     },
+     "trap": "Options A and B describe things PESTLE is often assumed to do but the study material never claims.",
+     "concept": "S02.07"
+    }
+   ],
+   "recap": [
+    "PESTLE = political, economic, socio-cultural, technological, legal, environmental; was PEST, expanded by L and E.",
+    "Advantage: simple, quick, and it encourages proactive and structured thinking.",
+    "Technological head owns 'barriers to entry, minimum efficient production level, outsourcing decisions'.",
+    "Environmental head: climate-change awareness both creates new markets and destroys existing ones.",
+    "The six driver lists are the practical output — learn at least the political and technological ones."
+   ]
+  },
+  {
+   "code": "S02.08 + S02.09",
+   "title": "2.3.4–2.3.5 Internationalization of Business; International Environment",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 2 · RTP 0 · MTP 2",
+   "understand": [
+    "**Internationalisation (§2.3.4)** has emerged as the **dominant commercial trend over the last couple of decades**. It enables a business to **enter new markets in search of greater earnings and less expensive resources**, to **achieve greater economies of scale** and to **extend the lifespan of its products**.",
+    "==The strategic-management process is **essentially the same** for global firms as for domestic firms; nevertheless, international processes are **much more complicated due to additional variables and linkages**.== Scanning the external environment is one method for an organisation to identify opportunities and threats in global markets.",
+    "**Three characteristics of a global business.** (i) It is a **conglomerate of multiple units** located in different parts of the globe but all **linked by common ownership**. (ii) Multiple units **draw on a common pool of resources** — money, credit, information, patents, trade names and control systems. (iii) The units **respond to some common strategy**; besides, its managers and shareholders are also based in different nations.",
+    "**Developing internationally — the four steps in international strategic planning.** ==International development is expensive and challenging, so moving on in a thorough and structured manner is the ideal approach.== (1) **Evaluate global opportunities and threats** and rate them with the internal capabilities. (2) **Describe the scope** of the firm's global commercial operations. (3) **Create the firm's global business objectives.** (4) **Develop distinct corporate strategies** for the global business and the whole organisation.",
+    "**Why do businesses go global?** Two important factors in the rapid rise of multinationals are **technological developments and evolving political views**: worldwide communication makes it easier to define and implement global strategy by linking headquarters with overseas operations, and improved transportation has increased the mobility of money, people, raw materials and finished items. The reasons are:",
+    "**(i) The need to grow** — the first and foremost reason, and the basic need of every organisation; finding opportunities elsewhere, organisations extend and globalise their operations.",
+    "**(ii) Shrinking time and distance** — faster communication, speedier transportation, growing financial flow of funds and rapid technological changes.",
+    "**(iii) Domestic markets are no longer adequate** — the competition present domestically may not exist in some international markets.",
+    "**(iv) Need for reliable or cheaper sources** of raw materials, cheap labour; many foreign businesses shift operations to take advantage of a vast pool of talent.",
+    "**(v) Reducing high transportation costs** — it may be cheaper to produce near the market.",
+    "**(vi) Foreign markets opening up or growing big** — exporters then look at overseas manufacturing plants and sales branches to generate higher sales and better cash flow.",
+    "**(vii) The rise of services** to constitute the largest single sector in the world economy, and **regional economic integration** involving both the world's largest economies and certain developing economies.",
+    "**(viii) The apparent and real collapse of international trade barriers**, which redefines the roles of state and industry: increased privatisation of manufacturing and services, less government interference, more dependence on the value-added sector, and lower trade tariffs and customs barriers.",
+    "**(ix) Strategic alliances** — globalisation has made companies in different countries form alliances to ward off economic and technological threats and leverage their respective comparative and competitive advantages.",
+    "**International environment (§2.3.5).** The social, cultural, demographic, environmental, political, governmental, legal and technological factors an international organisation faces are **nearly limitless**, and their number and complexity **increase manifold** as the number of products and geographic areas served increase. ==An assessment of the external environment is the **first step toward internationalisation**.== Assessments can be done at **three levels: multinational, regional and country**.",
+    "**Multinational environmental analysis** involves **identifying, anticipating and monitoring significant components of the global environment on a large scale**. Understanding global developments covering economic and other macro elements is important; governments may have **free or interventionist tendencies** that must be carefully considered, and these characteristics are evaluated on their **present and expected future impact**.",
+    "**Regional environmental analysis** is a **more in-depth evaluation of the critical factors in a specific geographical area**, emphasising the discovery of market opportunities for goods, services or innovations in the chosen location.",
+    "**Country environmental analysis** takes a **deeper look** at the important environmental factors; study of **economic, legal, political and cultural dimensions** is required for planning to succeed, and the analysis must be **customised for each country** to develop effective market-entrance strategies.",
+    "International environment has become an inherent part of strategic management for businesses of all sizes with global interests, involving **political risks, cultural differences, exchange rate fluctuations, legal compliances and taxation issues**."
+   ],
+   "example": "An Indian pharmaceutical firm scans world regulatory trends and currency blocs (multinational level), then narrows to the East African market for generics (regional level), then studies Kenya's drug-pricing law, tax regime, political stability and prescribing culture before choosing between export and a local plant (country level). Each level is narrower and deeper than the last.",
+   "keywords": [
+    "dominant commercial trend",
+    "extend the lifespan of its products",
+    "essentially the same… much more complicated",
+    "conglomerate of multiple units",
+    "common pool of resources",
+    "respond to some common strategy",
+    "expensive and challenging",
+    "evaluate global opportunities and threats",
+    "describe the scope",
+    "shrinking of time and distance",
+    "collapse of international trade barriers",
+    "first step toward internationalisation",
+    "multinational, regional, and country"
+   ],
+   "memory": {
+    "trick": "Four planning steps = \"E-S-O-S\" (\"Every Smart Organisation Strategises\"): Evaluate, Scope, Objectives, Strategies. Three levels narrow like a funnel: **M**ulti-national → **R**egional → **C**ountry (MRC, 'More Refined, Closer').",
+    "key": [
+     [
+      "E",
+      "Evaluate global opportunities and threats against internal capabilities"
+     ],
+     [
+      "S",
+      "Scope of global commercial operations described"
+     ],
+     [
+      "O",
+      "Objectives for the global business created"
+     ],
+     [
+      "S",
+      "Strategies — distinct corporate strategies for global and whole organisation"
+     ]
+    ],
+    "recall_trigger": "Every Smart Organisation Strategises; then More Refined, Closer"
+   },
+   "mistakes": [
+    "Saying the strategic-management process is *different* for global firms. ICAI says it is essentially the same, but much more complicated because of additional variables and linkages.",
+    "Giving the three characteristics of a global business as 'size, revenue, presence'. The three are common ownership, a common pool of resources, and a common strategy.",
+    "Confusing the four *planning steps* with the *reasons* for going global. A question asking for 'steps involved in such strategic planning' wants the four; one asking 'why companies globalise' wants the reasons.",
+    "Naming only two levels of international environmental assessment. There are three: multinational, regional, country."
+   ],
+   "links": [
+    "🔗 S02.07: a country environmental analysis is in substance a PESTLE scan of one country",
+    "🔗 S02.11: internationalisation extends the lifespan of products — a PLC application",
+    "🔗 SM Ch 4: strategic alliances as a route to global expansion",
+    "🔗 FM Ch 2 §4: foreign-currency borrowing and the risks of operating across currencies"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "'International development is expensive and challenging' — explain internationalisation and the steps in such strategic planning (PYQ Jan 2025 Q6(a), repeated in MTP Sep 2025 S1 Q2(b) and MTP May 2026 S1 Q3(b))",
+     "'Market inadequacy, resource needs and the collapse of international barriers' — analyse the reasons companies globalise (PYQ May 2026 Q7(a))"
+    ],
+    "approach": [
+     "Open with the benefits sentence — new markets, greater earnings, cheaper resources, economies of scale, prolonged product lifecycles — then say why it is complex, then give the four numbered steps.",
+     "For the 'why globalise' version, number the reasons and keep 'need to grow' first; ICAI's answer begins with it explicitly as 'the foremost reason'."
+    ],
+    "official_pattern": "ICAI's answer to the Jan 2025 question is four steps with one explanatory line each, bracketed by an opening paragraph on complexity and a closing paragraph on thriving despite the costs. The May 2026 answer is seven numbered reasons.",
+    "time_tip": "5 marks ≈ 7 minutes (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S02.09-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "An assessment of the external environment is the first step toward internationalisation. Explain the three levels at which assessments of the international environment can be done.",
+     "answer_points": [
+      "The social, cultural, demographic, environmental, political, governmental, legal and technological factors an international organisation faces are nearly limitless, and their number and complexity increase manifold as the number of products and geographic areas served increases.",
+      "**Multinational environmental analysis** involves identifying, anticipating and monitoring significant components of the global environment on a large scale. Understanding global developments covering economic and other macro elements matters, and governments' free or interventionist tendencies must be carefully considered, evaluated on their present and expected future impact.",
+      "**Regional environmental analysis** is a more in-depth evaluation of the critical factors in a specific geographical area, emphasising the discovery of market opportunities for goods, services or innovations in the chosen location.",
+      "**Country environmental analysis** takes a deeper look at the important environmental factors; study of economic, legal, political and cultural dimensions is required for planning to be successful, and the analysis must be customised for each country to develop effective market-entrance strategies.",
+      "International environment has become an inherent part of strategic management for businesses of all sizes with global interests, involving political risks, cultural differences, exchange rate fluctuations, legal compliances and taxation issues."
+     ],
+     "keywords": [
+      "nearly limitless",
+      "increase manifold",
+      "free or interventionist tendencies",
+      "customised for each country",
+      "exchange rate fluctuations"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "PYQ-J25-Q6a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "\"International development is expensive and challenging\". In the context of the statement, explain the internationalization of business and the steps involved in such strategic planning. (5 Marks)",
+     "answer_points": [
+      "**Internationalization has become a pivotal trend** for businesses aiming to enhance profitability and access cheaper resources. It allows companies to explore new markets, achieve economies of scale and prolong product lifecycles. However, the process is **complex due to additional variables and linkages** that differ from domestic operations.",
+      "**Step 1 — Evaluate Global Opportunities and Threats:** businesses must assess potential global markets, identifying opportunities and threats while aligning them with their internal capabilities.",
+      "**Step 2 — Describe the Scope of Operations:** clearly defining the extent of the firm's international commercial activities is crucial for focused strategy development.",
+      "**Step 3 — Create Global Business Objectives:** establishing clear objectives guides the organisation's international efforts and aligns with its overall mission.",
+      "**Step 4 — Develop Distinct Corporate Strategies:** formulating specific strategies tailored for global operations ensures the organisation can effectively compete in diverse markets.",
+      "These steps facilitate the identification of market opportunities and the formulation of effective global strategies, enabling businesses to thrive in the international arena **despite the inherent challenges and costs** associated with such expansion."
+     ],
+     "keywords": [
+      "pivotal trend",
+      "prolong product lifecycles",
+      "additional variables and linkages",
+      "align with internal capabilities",
+      "distinct corporate strategies"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "The same question with the same published answer appears as MTP-S25-S1-SQ2b and MTP-M26-S1-SQ3b — three appearances of one question, which makes the four steps the highest-yield list in this heading."
+     ]
+    },
+    {
+     "id": "PYQ-M26-Q7a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "\"Beyond the basic need to grow modern organizations are driven by a mix of market inadequacy resource needs and the collapse of international barriers.\" Analyse the various reasons why companies choose to globalise their operations. (5 Marks)",
+     "answer_points": [
+      "Globalisation refers to the process of expanding business operations beyond domestic boundaries into international markets, for strategic, economic and competitive reasons.",
+      "**1. Need for Growth** — the foremost reason for internationalisation; organisations expand globally in search of new business opportunities, higher sales and greater earnings.",
+      "**2. Shrinking Time and Distance** — rapid technological developments, faster communication, speedier transportation and increased financial flows have reduced geographical barriers.",
+      "**3. Inadequacy of Domestic Markets** — domestic markets are often insufficient for long-term growth; companies enter international markets where competition may be less intense.",
+      "**4. Availability of Resources** — access to reliable and cheaper raw materials, skilled labour and talent pools abroad. **5. Reduction in Transportation Costs** — overseas plants near target markets reduce transportation costs, delivery time and logistics expenses.",
+      "**6. Expansion of Foreign Markets** — when foreign markets grow substantially, organisations establish overseas production and sales units to increase sales volume and improve cash flows. **7. Growth of Service Sector and Regional Integration** — the growing importance of services and regional economic integration encourage international expansion."
+     ],
+     "keywords": [
+      "foremost reason",
+      "shrinking time and distance",
+      "inadequacy of domestic markets",
+      "talent pools",
+      "regional economic integration"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-S02.08-01",
+     "angle": "Three characteristics",
+     "difficulty": "Moderate",
+     "question": "Which of the following is **not** one of the three characteristics of a global business stated in the study material?",
+     "options": {
+      "A": "Its multiple units are linked by common ownership",
+      "B": "Its units draw on a common pool of resources such as money, credit, information, patents and trade names",
+      "C": "Its units respond to some common strategy",
+      "D": "Its revenue from foreign operations exceeds that from domestic operations"
+     },
+     "answer": "D",
+     "explanation": "SM §2.3.4 gives exactly three characteristics — common ownership, a common pool of resources, and a common strategy (with managers and shareholders based in different nations). No revenue threshold is stated.",
+     "why_wrong": {
+      "A": "Stated characteristic.",
+      "B": "Stated characteristic.",
+      "C": "Stated characteristic."
+     },
+     "trap": "A revenue test sounds plausible and is used in practice, but the study material defines a global business structurally, not financially.",
+     "concept": "S02.08"
+    },
+    {
+     "id": "MCQ-S02.09-01",
+     "angle": "Which level",
+     "difficulty": "Easy",
+     "question": "A firm studies a single market's drug-pricing law, tax regime, political stability and prescribing culture before choosing its entry mode. At which level of international environmental assessment is it working?",
+     "options": {
+      "A": "Multinational environmental analysis",
+      "B": "Regional environmental analysis",
+      "C": "Industry environment analysis",
+      "D": "Country environmental analysis"
+     },
+     "answer": "D",
+     "explanation": "SM §2.3.5: country environmental analysis takes a deeper look at economic, legal, political and cultural dimensions, customised for each country to develop effective market-entrance strategies.",
+     "why_wrong": {
+      "A": "Multinational analysis monitors the global environment on a large scale.",
+      "B": "Regional analysis evaluates critical factors in a specific geographical area to find market opportunities.",
+      "C": "Industry environment analysis (§2.5) estimates competitive pressures, not country law and culture."
+     },
+     "trap": "'Market-entrance strategy' appears in the country-level definition, so entry-mode questions resolve to the country level.",
+     "concept": "S02.09"
+    }
+   ],
+   "recap": [
+    "Internationalisation: new markets, greater earnings, cheaper resources, economies of scale, prolonged product lifecycles.",
+    "Process is essentially the same as domestic but much more complicated — additional variables and linkages.",
+    "Global business: common ownership, common pool of resources, common strategy.",
+    "Four planning steps: evaluate opportunities and threats → describe scope → create objectives → develop distinct strategies.",
+    "Three levels of assessment: multinational, regional, country."
+   ]
+  }
+ ]
+}

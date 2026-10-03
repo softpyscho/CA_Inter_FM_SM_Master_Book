@@ -1,0 +1,851 @@
+{
+ "chapter": "S02 — SM Chapter 2: Strategic Analysis — External Environment",
+ "note": "Official questions mapped to SM Chapter 2. Codes: primary first. key = ICAI's published answer key for MCQs. Three mapping rules were applied. (1) **ICAI's RTPs print their own chapter headings** — 'Chapter 2-Strategic Analysis: External Environment' — above the questions belonging to each chapter, so every RTP descriptive atom here carries ICAI's own label rather than this book's judgement; the labelled pairs are SQ9 and SQ10 in each of the nine RTPs from May 2024 to September 2026. (2) Past-paper and MTP descriptive questions carry no chapter label, so they are mapped by the concept tested, and where that concept sits in another chapter the question is excluded — channels (S03.08), SWOT (S03.11), the generic strategies and bases of differentiation (S03.12, S03.14), core competencies (S03.09, S03.10), Mendelow's Matrix (S03.03) and the key strategic drivers (S03.04) are all Chapter 3 under ICAI's own RTP labels, even though several of them read like external analysis. (3) Part I case-scenario MCQ items are included where the tested concept is unambiguously a Chapter 2 concept; items whose concept spans chapters are left to the chapter that owns the concept. MTP case-scenario items use the id form MTP-<paper>-S<n>-SMCQ-<A|B>-<roman>, matching the convention already used in atoms_S01.json. Two tensions worth recording: ICAI labels **strategic group mapping** questions Chapter 3 in some RTPs although the register places Competitive Landscape at S02.23, and it labels **value chain analysis** Chapter 2 (S02.12) although value chain is often taught as internal analysis — both follow ICAI's labels here. Six corrections were made after reading ICAI's published answers in full: PYQ May 2025 MCQ 15 was removed from this chapter because, although its stem is set 'in a competitive landscape', ICAI's key is 'special alert control', a Chapter 5 concept, and the atom is recorded for SM Ch 5 instead; RTP May 2024 Q9 and RTP Jan 2026 Q9 (Riya Sharma's confectionery) are answered by ICAI with the five steps to understand the competitive landscape, so they move from S02.13/S02.14 to S02.23; PYQ Jan 2026 Q5(a) (Full Health Limited) is answered with strategic group mapping, so it moves from S02.15 to S02.23; MTP May 2025 Series 2 Q1(a) (ABC Tech) is answered purely as Key Success Factors, so S02.24 becomes its primary code; and RTP Sep 2026 MCQ 3 (FreshKart Retail) has the published key 'technological environment', so S02.06 becomes its primary code ahead of S02.21. A seventh correction: PYQ May 2025 MCQ 12 (elevating customer service through a better interface, online repair and on-site service) was also removed, because ICAI's key is 'Augmented marketing', a term defined in SM Chapter 3 under types of marketing, not in the value chain of Chapter 2; the atom is recorded for SM Ch 3.",
+ "atoms": [
+  {
+   "id": "RTP-J25-SQ9",
+   "codes": [
+    "S02.23",
+    "S02.13"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-J25 SM Q9 (ICAI label: Chapter 2) CeramiCrafts, Gujarat handmade ceramics — market shifts and rising competition; the advisor recommends studying the competitive landscape"
+  },
+  {
+   "id": "RTP-J25-SQ10",
+   "codes": [
+    "S02.14"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-J25 SM Q10 (ICAI label: Chapter 2) according to Michael Porter, what are the five competitive forces that exist within an industry"
+  },
+  {
+   "id": "RTP-J26-SQ9",
+   "codes": [
+    "S02.23"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-J26 SM Q9 (ICAI label: Chapter 2) Riya Sharma's Jaipur confectionery — declining sales despite a substantial market share; the expert recommends a comprehensive understanding of the industry environment"
+  },
+  {
+   "id": "RTP-J26-SQ10",
+   "codes": [
+    "S02.14",
+    "S02.15"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-J26 SM Q10 (ICAI label: Chapter 2) the situations in which competition among firms becomes cut-throat, lowering industry profitability"
+  },
+  {
+   "id": "RTP-M24-SQ9",
+   "codes": [
+    "S02.23"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-M24 SM Q9 (ICAI label: Chapter 2) Riya Sharma's confectionery — the same case later reused in RTP-J26"
+  },
+  {
+   "id": "RTP-M24-SQ10",
+   "codes": [
+    "S02.16"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-M24 SM Q10 (ICAI label: Chapter 2) the concept of the Experience Curve and its relevance in strategic management"
+  },
+  {
+   "id": "RTP-M25-SQ9",
+   "codes": [
+    "S02.14"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-M25 SM Q9 (ICAI label: Chapter 2) Easy Access — rivals persuade the Government to impose a bureaucratic registration process and an industry code of conduct; is that an advantage (barriers to entry)"
+  },
+  {
+   "id": "RTP-M25-SQ10",
+   "codes": [
+    "S02.04",
+    "S02.06"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-M25 SM Q10 (ICAI label: Chapter 2) Yash choosing a location for a tech start-up — Bengaluru's network, talent and ecosystem as the business environment"
+  },
+  {
+   "id": "RTP-M26-SQ9",
+   "codes": [
+    "S02.14"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-M26 SM Q9 (ICAI label: Chapter 2) FreshSip Beverages studying the packaged fruit juice market — established brands, low-priced local players and substitute drinks"
+  },
+  {
+   "id": "RTP-M26-SQ10",
+   "codes": [
+    "S02.07",
+    "S02.06"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-M26 SM Q10 (ICAI label: Chapter 2) how the PESTLE framework assists in analysing the macro-environment"
+  },
+  {
+   "id": "RTP-S24-SQ9",
+   "codes": [
+    "S02.11"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-S24 SM Q9 (ICAI label: Chapter 2) a new product with slow sales growth, limited markets and high prices, then rapid demand growth, falling prices and rising competition — identify the product life cycle stages"
+  },
+  {
+   "id": "RTP-S24-SQ10",
+   "codes": [
+    "S02.14"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-S24 SM Q10 (ICAI label: Chapter 2) Rajiv Arya's vacuum cleaner company — four rivals with comparable volumes, rival patents and an extensive supplier base; analyse the five forces"
+  },
+  {
+   "id": "RTP-S25-SQ9",
+   "codes": [
+    "S02.06",
+    "S02.05"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-S25 SM Q9 (ICAI label: Chapter 2) Nuvanta Healthcare analysing age groups, income levels, lifestyle patterns and health concerns, plus government policy and tech adoption — what kind of external analysis"
+  },
+  {
+   "id": "RTP-S25-SQ10",
+   "codes": [
+    "S02.12"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-S25 SM Q10 (ICAI label: Chapter 2) Value Chain Analysis — primary and support activities as intertwined, and the main areas of primary activities"
+  },
+  {
+   "id": "RTP-S26-SQ9",
+   "codes": [
+    "S02.13",
+    "S02.14"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-S26 SM Q9 (ICAI label: Chapter 2) SwiftDeliver Logistics expanding to Tier-2 cities — e-commerce firms building in-house delivery, fuel price movements; conduct an industry environment analysis"
+  },
+  {
+   "id": "RTP-S26-SQ10",
+   "codes": [
+    "S02.12"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-S26 SM Q10 (ICAI label: Chapter 2) Value Chain Analysis — the same question as RTP-S25 SM Q10, repeated verbatim"
+  },
+  {
+   "id": "PYQ-J25-Q6a",
+   "codes": [
+    "S02.08",
+    "S02.09"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "SA-J25 SM Q6(a) 'International development is expensive and challenging' — the internationalization of business and the steps involved in such strategic planning"
+  },
+  {
+   "id": "PYQ-J25-Q8a",
+   "codes": [
+    "S02.14",
+    "S02.15"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "SA-J25 SM Q8(a) the conditions in which rivalry among competitors tends to be cut-throat and industry profitability is low"
+  },
+  {
+   "id": "PYQ-J26-Q5a",
+   "codes": [
+    "S02.23"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "SA-J26 SM Q5(a) Full Health Limited launching into a saturated energy drink market against established national and international brands — strategic group mapping / industry attractiveness"
+  },
+  {
+   "id": "PYQ-J26-Q5c",
+   "codes": [
+    "S02.23"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "SA-J26 SM Q5(c) Mr. Rohit Khanna's 'Green Basket' organic grocery chain — competitor analysis / competitive landscape analysis, and its steps"
+  },
+  {
+   "id": "PYQ-J26-Q8a",
+   "codes": [
+    "S02.14"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "SA-J26 SM Q8(a) Porter's five forces model — identify the areas of the market in which competitive pressure operates"
+  },
+  {
+   "id": "PYQ-M24-Q5c",
+   "codes": [
+    "S02.04",
+    "S02.05"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "SA-M24 SM Q5(c) Yash choosing Bengaluru, the silicon valley of India, for a tech start-up — the right business environment"
+  },
+  {
+   "id": "PYQ-M24-Q7a",
+   "codes": [
+    "S02.10"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "SA-M24 SM Q7(a) the key characteristics of business products that contribute to the overall competitiveness and dynamics of the market"
+  },
+  {
+   "id": "PYQ-M25-Q7a",
+   "codes": [
+    "S02.12"
+   ],
+   "marks": 5,
+   "format": "Descriptive (1 + 4)",
+   "src": "SA-M25 SM Q7(a) what is meant by value chain analysis, and the support activities as stated by Michael Porter"
+  },
+  {
+   "id": "PYQ-M25-Q8a",
+   "codes": [
+    "S02.24"
+   ],
+   "marks": 5,
+   "format": "Descriptive (1 + 2 + 2)",
+   "src": "SA-M25 SM Q8(a) Key Success Factors — the meaning, the questions that help identify a company's KSFs, and how the understanding helps ascertain sustainable competitive advantage"
+  },
+  {
+   "id": "PYQ-M26-Q6a",
+   "codes": [
+    "S02.10"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "SA-M26 SM Q6(a) the interaction of supply and demand in a modern competitive landscape — the inherent characteristics of business products that must be managed to maintain profitability"
+  },
+  {
+   "id": "PYQ-M26-Q7a",
+   "codes": [
+    "S02.08"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "SA-M26 SM Q7(a) market inadequacy, resource needs and the collapse of international barriers — the various reasons why companies choose to globalise their operations"
+  },
+  {
+   "id": "PYQ-S24-Q6b",
+   "codes": [
+    "S02.12"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "SA-S24 SM Q6(b) Value Chain Analysis — primary and support activities as intertwined, and the main areas in which primary activities are grouped"
+  },
+  {
+   "id": "PYQ-S24-Q8a",
+   "codes": [
+    "S02.14"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "SA-S24 SM Q8(a) the common barriers which may restrain the keenness of new entrepreneurs, in light of Porter's five forces"
+  },
+  {
+   "id": "PYQ-S25-Q6b",
+   "codes": [
+    "S02.16"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "SA-S25 SM Q6(b) the concept explaining the efficiency increase gained by workers through repetitive production work — the experience curve and its relevance features"
+  },
+  {
+   "id": "PYQ-S25-Q8a",
+   "codes": [
+    "S02.04",
+    "S02.05"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "SA-S25 SM Q8(a) 'A close and continuous interaction between a business and its environment helps in strengthening the business firm' — explain business environment and how the interaction helps"
+  },
+  {
+   "id": "MTP-J25-S1-SQ1b",
+   "codes": [
+    "S02.21",
+    "S02.20"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-J25-S1 SM Q1(b) a tech company launching a smartphone for tech-savvy consumers — develop a marketing strategy using the concept of customer behaviour"
+  },
+  {
+   "id": "MTP-J25-S1-SQ3a",
+   "codes": [
+    "S02.14"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-J25-S1 SM Q3(a) Easy Access and its rivals securing a bureaucratic registration requirement — barriers to entry as an advantage"
+  },
+  {
+   "id": "MTP-J25-S2-SQ1b",
+   "codes": [
+    "S02.10"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-J25-S2 SM Q1(b) Reshuffle Corp office furniture facing online competition — the characteristics of products in the industry, and how to differentiate"
+  },
+  {
+   "id": "MTP-J25-S2-SQ2a",
+   "codes": [
+    "S02.24"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-J25-S2 SM Q2(a) the role of Key Success Factors in determining competitive success within an industry"
+  },
+  {
+   "id": "MTP-J26-S1-SQ1b",
+   "codes": [
+    "S02.07"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-J26-S1 SM Q1(b) ABC Corp expanding into a new country — how the PESTLE framework helps assess the external factors"
+  },
+  {
+   "id": "MTP-J26-S1-SQ4a",
+   "codes": [
+    "S02.12"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-J26-S1 SM Q4(a) value chain analysis, and the support activities as stated by Michael Porter"
+  },
+  {
+   "id": "MTP-J26-S2-SQ1a",
+   "codes": [
+    "S02.21"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-J26-S2 SM Q1(a) a luxury skincare brand's sales spike after celebrity endorsements — the factors influencing consumer buying behaviour and why understanding it is critical"
+  },
+  {
+   "id": "MTP-J26-S2-SQ2b",
+   "codes": [
+    "S02.14"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-J26-S2 SM Q2(b) the common barriers which may restrain the keenness of new entrepreneurs, in light of Porter's five forces"
+  },
+  {
+   "id": "MTP-M24-S1-SQ1b",
+   "codes": [
+    "S02.07"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-M24-S1 SM Q1(b) ABC Corp and the PESTLE framework — the same question later reused in MTP-J26-S1 and MTP-S25-S2"
+  },
+  {
+   "id": "MTP-M24-S1-SQ2b",
+   "codes": [
+    "S02.21"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-M24-S1 SM Q2(b) the smartphone marketing strategy using customer behaviour — the same question later reused in MTP-J25-S1"
+  },
+  {
+   "id": "MTP-M24-S1-SQ3a",
+   "codes": [
+    "S02.23"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-M24-S1 SM Q3(a) a beverage company studying the market position of rivals in the energy drink segment — name the tool (strategic group mapping) and the procedure"
+  },
+  {
+   "id": "MTP-M24-S2-SQ2b",
+   "codes": [
+    "S02.10"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-M24-S2 SM Q2(b) Reshuffle Corp office furniture — the characteristics of products in the furniture industry"
+  },
+  {
+   "id": "MTP-M25-S1-SQ2a",
+   "codes": [
+    "S02.10"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-M25-S1 SM Q2(a) the key characteristics of business products that contribute to the overall competitiveness and dynamics of the market"
+  },
+  {
+   "id": "MTP-M25-S1-SQ4a",
+   "codes": [
+    "S02.11"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-M25-S1 SM Q4(a) a product with slow initial sales then rapid demand growth and rising competition — identify the product life cycle stages"
+  },
+  {
+   "id": "MTP-M25-S2-SQ1a",
+   "codes": [
+    "S02.24",
+    "S02.12"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-M25-S2 SM Q1(a) ABC Tech smartphones — R&D investment, supply-chain optimisation and customer service enhancement as a value chain, against customers who prioritise battery life, camera and software"
+  },
+  {
+   "id": "MTP-M25-S2-SQ2b",
+   "codes": [
+    "S02.04",
+    "S02.05"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-M25-S2 SM Q2(b) Aarav choosing a city for an organic food brand — Pune's health-conscious consumers, distribution networks, government initiatives, tax benefits and talent as the business environment"
+  },
+  {
+   "id": "MTP-M26-S1-SQ1a",
+   "codes": [
+    "S02.23"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-M26-S1 SM Q1(a) studying the competitive positioning of smartphone companies by price range and product features — strategic group mapping and the insights it yields"
+  },
+  {
+   "id": "MTP-M26-S1-SQ2b",
+   "codes": [
+    "S02.04"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-M26-S1 SM Q2(b) 'A close and continuous interaction between a business and its environment helps in strengthening the business firm' — business environment and how the interaction helps"
+  },
+  {
+   "id": "MTP-M26-S1-SQ3b",
+   "codes": [
+    "S02.08"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-M26-S1 SM Q3(b) 'International development is expensive and challenging' — the internationalization of business and the steps in such strategic planning"
+  },
+  {
+   "id": "MTP-S24-S1-SQ3a",
+   "codes": [
+    "S02.23",
+    "S02.22"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-S24-S1 SM Q3(a) 'Understanding the competitive landscape is important to build upon a competitive advantage' — explain"
+  },
+  {
+   "id": "MTP-S24-S1-SQ4a",
+   "codes": [
+    "S02.14"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-S24-S1 SM Q4(a) 'Buyers can exert considerable pressure on business' — do you agree; the bargaining power of buyers"
+  },
+  {
+   "id": "MTP-S24-S2-SQ2a",
+   "codes": [
+    "S02.24"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-S24-S2 SM Q2(a) the role of Key Success Factors in determining competitive success within an industry"
+  },
+  {
+   "id": "MTP-S24-S2-SQ4b",
+   "codes": [
+    "S02.07",
+    "S02.23"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-S24-S2 SM Q4(b) how the PESTLE framework assists in analysing the macro-environment, with the OR alternative asking for the tool to group fifteen national rivals into like positions (strategic group mapping)"
+  },
+  {
+   "id": "MTP-S25-S1-SQ1b",
+   "codes": [
+    "S02.23",
+    "S02.24"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-S25-S1 SM Q1(b) ZymaTech against HomeEdge, AutoNest and IntelliSpace in smart home devices — each rival's distinct edge and IntelliSpace's service weakness; the competitive landscape"
+  },
+  {
+   "id": "MTP-S25-S1-SQ2b",
+   "codes": [
+    "S02.08"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-S25-S1 SM Q2(b) 'International development is expensive and challenging' — internationalization of business and the steps involved"
+  },
+  {
+   "id": "MTP-S25-S2-SQ1a",
+   "codes": [
+    "S02.07"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-S25-S2 SM Q1(a) ABC Corp and the PESTLE framework — the third appearance of the same question"
+  },
+  {
+   "id": "MTP-S25-S2-SQ3b",
+   "codes": [
+    "S02.16"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-S25-S2 SM Q3(b) the concept of the Experience Curve and its relevance in strategic management"
+  },
+  {
+   "id": "MTP-S26-S2-SQ2b",
+   "codes": [
+    "S02.23"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-S26-S2 SM Q2(b) recommend a tool to analyse the competitive position of rival companies and outline its step-by-step procedure (strategic group mapping)"
+  },
+  {
+   "id": "MTP-S26-S2-SQ4b",
+   "codes": [
+    "S02.16",
+    "S02.14"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-S26-S2 SM Q4(b) the concept explaining efficiency gained through repetitive production work and its relevance features, with the OR alternative on the five forces barriers to entry"
+  },
+  {
+   "id": "PYQ-J25-MCQ9",
+   "codes": [
+    "S02.11"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "key": "D",
+   "src": "SA-J25 SM MCQ 9 (Primo Neo Logistics case) the business through private airways is at which phase of the product life cycle"
+  },
+  {
+   "id": "PYQ-J25-MCQ10",
+   "codes": [
+    "S02.23"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "key": "A",
+   "src": "SA-J25 SM MCQ 10 the tool for identifying the strongest and weakest competitors (strategic group mapping)"
+  },
+  {
+   "id": "PYQ-M25-MCQ10",
+   "codes": [
+    "S02.02",
+    "S02.03"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "key": "A",
+   "src": "SA-M25 SM MCQ 10 analysis of strategic groups and cost structure — which type of strategic analysis"
+  },
+  {
+   "id": "PYQ-M26-MCQ15",
+   "codes": [
+    "S02.21"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "key": "D",
+   "src": "SA-M26 SM MCQ 15 a fashion retailer finding that personal preferences, attitudes, lifestyle, motivation and perception of quality shape Generation Z buying behaviour"
+  },
+  {
+   "id": "PYQ-S25-MCQ10",
+   "codes": [
+    "S02.12"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "key": "C",
+   "src": "SA-S25 SM MCQ 10 Solar Tech expanding its distribution network through retail partnerships — which value chain activity is affected"
+  },
+  {
+   "id": "PYQ-S25-MCQ12",
+   "codes": [
+    "S02.06",
+    "S02.05"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "key": "D",
+   "src": "SA-S25 SM MCQ 12 Solar Tech considering a developing country with low electricity access — the primary external factor behind the decision"
+  },
+  {
+   "id": "RTP-J25-SMCQ1-i",
+   "codes": [
+    "S02.07"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "RTP-J25 SM case MCQ 1(i) Horizon Technologies' globalization — which aspect of PESTLE analysis proved most challenging"
+  },
+  {
+   "id": "RTP-J25-SMCQ1-v",
+   "codes": [
+    "S02.12"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "RTP-J25 SM case MCQ 1(v) the role value chain analysis played in Horizon Technologies' transformation"
+  },
+  {
+   "id": "RTP-J25-SMCQ3",
+   "codes": [
+    "S02.11"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "src": "RTP-J25 SM MCQ 3 a flagship product's sales plateau despite heavy promotion — which phase of the product life cycle, and the best strategic option"
+  },
+  {
+   "id": "RTP-J26-SMCQ1-iv",
+   "codes": [
+    "S02.07",
+    "S02.06"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "RTP-J26 SM case MCQ 1(iv) Hepha.io's ethical backlash over environmental damage and technological unemployment — under which factor is it analysed"
+  },
+  {
+   "id": "RTP-J26-SMCQ3",
+   "codes": [
+    "S02.14"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "src": "RTP-J26 SM MCQ 3 EcoRide Motors facing EV start-ups, battery suppliers raising costs and demanding customers — the five forces at work"
+  },
+  {
+   "id": "RTP-J26-SMCQ5",
+   "codes": [
+    "S02.23"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "src": "RTP-J26 SM MCQ 5 Speedo Motors and Turbo Auto in mid-range cars against LuxeDrive and Elite Motors in premium — strategic groups"
+  },
+  {
+   "id": "RTP-M25-SMCQ1-ii",
+   "codes": [
+    "S02.11"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "RTP-M25 SM case MCQ 1(ii) DezineFabs introducing gluten-free and organic variants — in which phase of the product life cycle"
+  },
+  {
+   "id": "RTP-M25-SMCQ1-iii",
+   "codes": [
+    "S02.21"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "RTP-M25 SM case MCQ 1(iii) how DezineFabs responded to changing customer behaviour"
+  },
+  {
+   "id": "RTP-M25-SMCQ4",
+   "codes": [
+    "S02.23"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "src": "RTP-M25 SM MCQ 4 Athleon analysing the market position of competing eco-friendly performance shoe brands"
+  },
+  {
+   "id": "RTP-M26-SMCQ1-i",
+   "codes": [
+    "S02.07"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "RTP-M26 SM case MCQ 1(i) EcoRide's reliance on EV subsidies and rising fuel costs — which environmental analysis tool should be used"
+  },
+  {
+   "id": "RTP-M26-SMCQ1-ii",
+   "codes": [
+    "S02.12"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "RTP-M26 SM case MCQ 1(ii) EcoRide partnering with battery suppliers, improving assembly lines and investing in service centres — which framework does strengthening the entire chain reflect"
+  },
+  {
+   "id": "RTP-M26-SMCQ1-iii",
+   "codes": [
+    "S02.14"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "RTP-M26 SM case MCQ 1(iii) EcoRide's failure in the budget scooter market on intense competition and thin margins — which of Porter's Five Forces explains it"
+  },
+  {
+   "id": "RTP-M26-SMCQ3",
+   "codes": [
+    "S02.14"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "src": "RTP-M26 SM MCQ 3 a few large manufacturers controlling the supply of specialised OLED screens with no viable alternatives — the bargaining power of suppliers"
+  },
+  {
+   "id": "RTP-S24-SMCQ3",
+   "codes": [
+    "S02.11"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "src": "RTP-S24 SM MCQ 3 a traditional desi ghee company introducing pro-biotic ghee, overcoming initial market doubts through aggressive marketing — the product life cycle stage"
+  },
+  {
+   "id": "RTP-S25-SMCQ1-i",
+   "codes": [
+    "S02.06",
+    "S02.05"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "RTP-S25 SM case MCQ 1(i) Royal Pens losing relevance as the market embraced digital writing tools — which external environmental factor caused the greatest disruption"
+  },
+  {
+   "id": "RTP-S26-SMCQ3",
+   "codes": [
+    "S02.06",
+    "S02.21"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "src": "RTP-S26 SM MCQ 3 FreshKart Retail responding to customers preferring mobile applications and doorstep delivery with an AI-enabled app"
+  },
+  {
+   "id": "RTP-S26-SMCQ4",
+   "codes": [
+    "S02.23"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "src": "RTP-S26 SM MCQ 4 StrideX Footwear identifying competitor groups by pricing strategy before acquiring a smaller rival"
+  },
+  {
+   "id": "MTP-J25-S1-SMCQ-A-iii",
+   "codes": [
+    "S02.07"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "key": "C",
+   "src": "MTP-J25-S1 SM case A(iii) EcoForge identifying the critical influence of regulatory policies and socio-cultural factors — which strategic analysis framework is most relevant (PESTLE)"
+  },
+  {
+   "id": "MTP-J25-S1-SMCQ-A-v",
+   "codes": [
+    "S02.14"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "key": "D",
+   "src": "MTP-J25-S1 SM case A(v) which key industry force, as per Porter's Five Forces, is reflected in EcoForge's challenges from cheaper alternatives and intense competition (threat of substitutes)"
+  },
+  {
+   "id": "MTP-J25-S2-SMCQ-B-iii",
+   "codes": [
+    "S02.11"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "key": "B",
+   "src": "MTP-J25-S2 SM case B(iii) during which stage of the product life cycle would the highest marketing expenditure per unit sold be expected"
+  },
+  {
+   "id": "MTP-J26-S1-SMCQ-B-ii",
+   "codes": [
+    "S02.14"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "key": "A",
+   "src": "MTP-J26-S1 SM case B(ii) Chinese brands capturing the Indian budget smartphone segment — which of Porter's Five Forces is intensified by numerous players offering functionally similar, low-priced products"
+  },
+  {
+   "id": "MTP-J26-S2-SMCQ-A-i",
+   "codes": [
+    "S02.07"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "key": "B",
+   "src": "MTP-J26-S2 SM case A(i) which external factor from the PESTLE analysis is most likely to require Titan Tech to adapt its data management practices"
+  },
+  {
+   "id": "MTP-J26-S2-SMCQ-B-ii",
+   "codes": [
+    "S02.23"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "key": "B",
+   "src": "MTP-J26-S2 SM case B(ii) analysing the competitive landscape for a new product launch — which factor is not relevant to understanding it"
+  },
+  {
+   "id": "MTP-M24-S1-SMCQ-A-ii",
+   "codes": [
+    "S02.14"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "key": "B",
+   "src": "MTP-M24-S1 SM case A(ii) how Zing protected its market share from potential competitors (barriers to entry)"
+  }
+ ]
+}
