@@ -1,0 +1,1129 @@
+{
+ "meta": {
+  "chapter_no": 7,
+  "section": "FM",
+  "paper": "CA Intermediate · Paper 6A · Financial Management",
+  "chapter_title": "FM Chapter 7 — Investment Decisions",
+  "short_title": "FM Ch 7 Investment Decisions",
+  "module": "Paper 6A Financial Management · Module 2",
+  "attempt": "January 2027",
+  "sm_edition": "ICAI BoS Study Material, Paper 6A (relevant for May 2026 examination onwards), Module 2, Chapter 7",
+  "last_verified": "03-10-2026",
+  "status_summary": "SM headings 33/33 · official atoms 35/35"
+ },
+ "sections_before": [
+  {
+   "heading": "Examiner Mindset — FM Chapter 7",
+   "blocks": [
+    {
+     "type": "box",
+     "tag": "pyq",
+     "title": "What ICAI's published papers tell us",
+     "bullets": [
+      "ICAI has published no examiners' comments for Paper 6; the guidance below comes from its suggested answers, RTPs and MTPs.",
+      "**This is the single heaviest chapter in Paper 6A.** Eleven past-paper parts between May 2024 and May 2026, a question in every one of the eight RTPs, and a question in eleven of the MTPs — and it is the chapter ICAI most often builds a whole case scenario around.",
+      "**The marks are almost never in the formula.** NPV, PI, payback and IRR are one line each. The marks sit in the cash-flow table above them: the depreciation tax shield, the working capital that goes out at the start and comes back at the end, the salvage value and the tax on it, and the old machine's sale proceeds in a replacement question.",
+      "**Replacement is the favourite setting.** HCP Ltd (May 2024), Global Beverage (Sep 2025), R Ltd (May 2026), HMR Ltd (RTP May 2024), Linty (RTP May 2025), NC Ltd (MTP Mar 2024) — all the same shape: an old machine, a new machine, and the incremental flows between them.",
+      "The 1-mark and 2-mark parts rotate through a short list: **the exclusion of financing costs principle, the payback reciprocal, the discounted payback period, the cut-off rate, MIRR, and the IRR acceptance rule** — asked nine times across the past papers and MTPs."
+     ]
+    },
+    {
+     "type": "box",
+     "tag": "face",
+     "title": "How ICAI marks this chapter (study guidance)",
+     "bullets": [
+      "**Build the cash-flow table before you reach for a technique.** Lay out year 0 separately, then years 1 to n, then the terminal year on its own line. Every mark in a 5-mark or 7-mark question is in that table.",
+      "**Add depreciation back.** It is the mistake that costs most marks in this chapter: depreciation is deducted to find the tax, then added back to find the cash flow.",
+      "**Never deduct interest.** The discount rate already carries the cost of debt (SM §6.2). If the question hands you a profit figure that is already net of interest, add back Interest × (1 − t).",
+      "**State the decision.** 'NPV is ₹27,340, which is positive, so the project should be accepted' earns the mark that 'NPV = ₹27,340' does not.",
+      "Where a question gives an IRR and asks for the investment, **work the formula backwards**: at the IRR the NPV is zero, so the initial investment equals the present value of the inflows discounted at that rate (May 2025 Q3(a), MTP Jan 2025 Series I MCQ 7)."
+     ]
+    }
+   ]
+  }
+ ],
+ "snapshot": {
+  "about": "How a firm decides whether to commit money for years: estimating the incremental post-tax cash flows of a project, then appraising them with the two non-discounting techniques (payback period and ARR) and the five discounting techniques (NPV, PI, IRR, discounted payback and MIRR), and resolving the conflicts between them under capital rationing and unequal lives.",
+  "why": "It is the largest chapter in Paper 6A, it appears in every attempt, and it is where the cost of capital computed in Chapter 4 is finally put to work as the discount rate.",
+  "core_concepts": [
+   "F07.01–F07.07 Why capital budgeting matters, the six-phase process, and the types of investment decision",
+   "F07.08–F07.12 Estimating project cash flows, and the four principles that govern them",
+   "F07.13–F07.17 The non-discounting techniques: payback period, payback reciprocal and ARR",
+   "F07.18–F07.22 NPV, profitability index and IRR with their decision rules",
+   "F07.23–F07.29 Where IRR misleads, and the three scenarios in which NPV and IRR disagree",
+   "F07.30–F07.33 The decision-criteria summary, capital rationing, and projects with unequal lives"
+  ],
+  "key_provisions": [
+   "NPV = Present value of cash inflows − Present value of cash outflows; accept if NPV ≥ 0",
+   "PI = Sum of discounted cash inflows ÷ Initial cash outlay (or total discounted outflow); accept if PI ≥ 1",
+   "IRR = LR + [NPV at LR ÷ (NPV at LR − NPV at HR)] × (HR − LR); accept if IRR ≥ cut-off rate",
+   "Payback period = Total initial capital investment ÷ Annual expected after-tax net cash flow",
+   "Average investment = ½ (Initial investment − Salvage value) + Salvage value + Additional working capital",
+   "Equivalent annualised criterion = NPV ÷ PVAF for the project's own life"
+  ],
+  "tested_areas": [
+   {
+    "text": "NPV (and usually PI with it) of a replacement decision",
+    "evidence": "PYQ May 2024 Q3(a), Sep 2025 Q1(c), May 2026 Q2(a); RTP May 2024, May 2025; MTP Mar 2024 Series I, Sep 2024 Series I"
+   },
+   {
+    "text": "NPV of a fresh project, with working capital and WDV depreciation",
+    "evidence": "PYQ Jan 2025 Q3(a); RTP Jan 2025, Jan 2026, May 2026; MTP Mar 2024 Series II, Jan 2025 Series II, Sep 2026 Series II"
+   },
+   {
+    "text": "Working backwards from a given IRR to the initial investment",
+    "evidence": "PYQ May 2025 Q3(a); MTP Jan 2025 Series I MCQ 7"
+   },
+   {
+    "text": "Discounted payback period and the desirability factor together",
+    "evidence": "PYQ Sep 2024 Part I case, May 2024 Q3(a), May 2025 Q3(a); RTP Sep 2026; MTP May 2025 Series II"
+   },
+   {
+    "text": "ARR on average investment",
+    "evidence": "PYQ Jan 2026 Q2(b); MTP Sep 2024 Series I"
+   },
+   {
+    "text": "Choosing between projects of unequal lives",
+    "evidence": "PYQ May 2026 Q2(a); MTP Sep 2025 Series I Part I case"
+   },
+   {
+    "text": "Short theory parts: exclusion of financing costs, payback reciprocal, discounted payback, cut-off rate, MIRR, IRR acceptance rule",
+    "evidence": "PYQ May 2024 Q4(c), Jan 2025 Q4(c) OR; MTP Jan 2025 Series I, Mar 2024 Series I and II, May 2025 Series II"
+   }
+  ],
+  "mistakes": [
+   "Forgetting to add depreciation back after charging it for tax — the commonest single error in the chapter.",
+   "Deducting interest inside the cash flows while also discounting at the WACC, so the cost of debt is counted twice.",
+   "Treating a sunk cost such as a feasibility-study fee, or an apportioned existing overhead, as part of the project's outflow.",
+   "Leaving working capital out of the terminal year, where it comes back as an inflow with no tax on it.",
+   "Ranking mutually exclusive projects of different size by IRR, which is a percentage and blind to scale."
+  ],
+  "links": [
+   "🔗 FM Ch 4 §10: the WACC that becomes this chapter's discount rate",
+   "🔗 FM Ch 1 §7: investment decisions as one of the three finance functions",
+   "🔗 FM Ch 6 §3.2: contribution and the P/V ratio, which generate the project's operating inflows",
+   "🔗 FM Ch 9 §4: the working capital that every project carries"
+  ],
+  "revision_path": "5 min: the seven techniques with their accept-reject rules · 15 min: add the cash-flow table layout and the three categories of flow · 30 min: work one replacement NPV and one IRR interpolation end to end · 60 min: add capital rationing and the equivalent annualised criterion."
+ },
+ "evidence": {
+  "pyq_table": [
+   {
+    "id": "PYQ-S24-MCQ1",
+    "question": "Part I case scenario: depreciation, cash inflow after taxes for years 1–3, discounted cash inflow after taxes, NPV and discounted payback period of an investment proposal",
+    "concept": "F07.08",
+    "marks": 10,
+    "type": "Case MCQs",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M24-Q3a",
+    "question": "HCP Ltd: replacement of machine A by CNC machine B — NPV, profitability index, replacement advice and discounted pay-back period",
+    "concept": "F07.19",
+    "marks": "—",
+    "type": "Replacement NPV",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M24-Q4c",
+    "question": "Relevance of the payback reciprocal in capital budgeting decisions",
+    "concept": "F07.16",
+    "marks": 2,
+    "type": "Descriptive",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-J25-Q3a",
+    "question": "SRT Limited: aluminium smelting plant — NPV and profitability index, with debtors, stocks and creditors recouped in year 5",
+    "concept": "F07.19",
+    "marks": 6,
+    "type": "Fresh project NPV",
+    "repeat": "R2 (PYQ-M24-Q3a)"
+   },
+   {
+    "id": "PYQ-J25-Q4c-OR",
+    "question": "The concept of the exclusion of financing cost principle",
+    "concept": "F07.11",
+    "marks": 2,
+    "type": "Descriptive",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M25-Q3a",
+    "question": "A capital project: initial investment worked backwards from an IRR of 12%, then NPV, profitability index, discounted payback period and MIRR",
+    "concept": "F07.21",
+    "marks": 6,
+    "type": "Reverse working",
+    "repeat": "R4 (combines 9.1, 9.2, 9.3, 9.4, 9.5)"
+   },
+   {
+    "id": "PYQ-S25-Q1c",
+    "question": "Global Beverage Corporation: NPV of replacing a bottling machine five years into its ten-year life",
+    "concept": "F07.19",
+    "marks": 5,
+    "type": "Replacement NPV",
+    "repeat": "R2 (PYQ-M24-Q3a)"
+   },
+   {
+    "id": "PYQ-J26-Q2b",
+    "question": "Algo Steel Ltd: average rate of return on average investment, and NPV discounted at the WACC of an 80:20 equity-debt structure",
+    "concept": "F07.17",
+    "marks": 5,
+    "type": "ARR and NPV",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M26-Q2a",
+    "question": "R Ltd: Machine M (5 years) against Machine N (7 years) — NPV and profitability index for each, then the choice on the equivalent annualised criterion",
+    "concept": "F07.33",
+    "marks": 7,
+    "type": "Unequal lives",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M26-MCQ7",
+    "question": "FG Ltd: required rate of return from CAPM as the cut-off for a one-year plan, and whether the plan is worthwhile",
+    "concept": "F07.22",
+    "marks": 2,
+    "type": "MCQ",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M26-MCQ8",
+    "question": "IRR by interpolation from NPV at 16% and at 20%, and the accept-reject call at a cost of capital of 18.50%",
+    "concept": "F07.21",
+    "marks": 1,
+    "type": "MCQ",
+    "repeat": "R2 (PYQ-M25-Q3a)"
+   }
+  ],
+  "trend": [
+   "Every attempt from May 2024 to May 2026 carried a capital budgeting question, and four of the six carried two or more.",
+   "September 2024 and May 2026 put the chapter into Part I as well, as a five-MCQ case scenario and as two standalone MCQs — so the chapter can cost 10 marks before the descriptive paper even starts.",
+   "May 2025 compressed five techniques into one 6-mark question by giving the IRR and the cost of capital and asking candidates to reconstruct everything else from them.",
+   "May 2026 was the first past paper to ask for the equivalent annualised criterion, which the study material gives only at §11.2."
+  ],
+  "rtp_takeaways": [
+   "Every RTP from May 2024 to September 2026 carries a question ICAI labels 'Investment Decision', 'Investment Decisions' or 'Capital Budgeting Decision'.",
+   "Three RTPs set the chapter as a five-MCQ case scenario — Mr. Ronak's Goa hotel (Sep 2024), Mint Technologies (Sep 2025) and the AURO-style cases — where the MCQs walk through net initial investment, NPV, payback, accounting profit and IRR in sequence.",
+   "The January 2025 RTP is the cleanest available drill on the block-of-assets rule: a single asset in its block, WDV depreciation at 20%, and capital gains tax at 15% on the terminal sale.",
+   "September 2026's P Limited question asks for the discounted payback period, NPV and IRR of two machines of different lives in one question — the chapter's whole second half in a single sitting."
+  ],
+  "mtp_takeaways": [
+   "Eleven MTPs carry a capital budgeting question; the commonest instruction is 'CALCULATE the NPV and ADVISE'.",
+   "The March 2024 Series II RMC World Ltd project reappears almost unchanged as September 2026 Series II's Nova Green Mobility Ltd — same capacity-utilisation ladder, same 40% WDV depreciation, a new industry. Working one works both.",
+   "September 2025 Series I put the equivalent annual cost of two warehouses of unequal lives into Part I as a five-MCQ case, a year before the past paper asked for the same idea.",
+   "The 2-mark theory slots have carried the cut-off rate (Mar 2024 Series I), the discounted payback period (Mar 2024 Series II), the internal rate of return (May 2025 Series II) and MIRR (Jan 2025 Series I)."
+  ],
+  "note": "Counting method: every official part mapped to this chapter from ICAI suggested answers (May 2024 to May 2026), RTPs (May 2024 to Sep 2026, using ICAI's own topic labels) and MTPs (Mar 2024 to Aug 2026). ICAI's published May 2024 suggested answers do not print the mark allocation for Q3(a), so its marks column shows a dash rather than a guessed figure."
+ },
+ "concepts": [
+  {
+   "code": "F07.01 + F07.02",
+   "title": "1–2 Investment Decisions and the Purpose of Capital Budgeting",
+   "activity": "Foundation",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 0",
+   "understand": [
+    "==**Investment decision is concerned with optimum utilization of fund to maximize the wealth of the organization and in turn the wealth of its shareholders.**== It is the second of the three functions of financial management met in Chapter 1, after financing decisions and before dividend decisions.",
+    "The study material makes a point that is easy to miss: **even entities that do not exist for profit must make investment decisions** — not to earn profit, but to fulfil their mission.",
+    "**Why the name 'capital budgeting'.** Every rupee of capital raised bears a cost (Chapter 4's cost of capital), so every rupee must be invested prudently. That requires planning for capital, and planning is done through budgeting. ==Investment decisions are therefore popularly known as **Capital Budgeting**, which means applying the principles of budgeting to capital investment.==",
+    "==**Capital budgeting involves three things** (SM §1): identification of investment projects that are **strategic to the business's overall objectives**; estimating and evaluating **post-tax incremental cash flows** for each proposal; and selection of the proposal that **maximizes the return to the investors**.==",
+    "==**Four reasons the decision is critical** (SM §2): **(i) Substantial Investment** — long-term objectives and the very existence of the organisation are at stake, and the size and timing of the cash flows decide which sources of finance are used; **(ii) Long time period** — the decision affects not only future benefits and costs but the rate and direction of the firm's growth; **(iii) Irreversibility** — once implemented it is very difficult and economically not possible to reverse, because of upfront payment, contractual obligations and technological impossibilities; **(iv) Complex decisions** — it rests on an assessment of future events that are hard to predict, and not every benefit or cost can be put in quantitative terms.==",
+    "Read 'post-tax incremental' in the second bullet as the chapter's whole discipline in two words. **Incremental** rules out everything that would happen anyway; **post-tax** rules out pre-tax shortcuts. Sections 5 and 6 are simply those two words worked out in detail."
+   ],
+   "example": "A company deciding whether to add a second production line is not asking 'will the line be profitable?' but 'what extra cash, after tax, will exist because the line exists?' — and whether that extra cash, discounted at the company's cost of capital, exceeds what the line costs.",
+   "provisions": [
+    {
+     "ref": "What capital budgeting involves (SM §1)",
+     "status": "VERIFIED",
+     "requirement": "Identification of strategic investment projects; estimating and evaluating post-tax incremental cash flows; selection of the proposal that maximises the return to investors.",
+     "exam_angle": "A 2-mark part can ask what capital budgeting involves; these three lines are the answer."
+    },
+    {
+     "ref": "Why the decisions are critical (SM §2)",
+     "status": "VERIFIED",
+     "requirement": "Substantial investment, long time period, irreversibility, complex decisions.",
+     "exam_angle": "Four headings with one line each; do not write four lines on the first and nothing on the rest."
+    }
+   ],
+   "keywords": [
+    "optimum utilization of fund",
+    "wealth maximization",
+    "applying the principles of budgeting",
+    "post-tax incremental cash flows",
+    "substantial investment",
+    "irreversibility"
+   ],
+   "memory": {
+    "trick": "**SLIC** — **S**ubstantial investment, **L**ong time period, **I**rreversibility, **C**omplex decisions. Four reasons, four letters.",
+    "key": [
+     ["Investment decision", "Optimum use of funds to maximise wealth"],
+     ["Capital budgeting", "Budgeting principles applied to capital investment"],
+     ["Three steps", "Identify strategic projects · estimate post-tax incremental flows · select the one maximising investor return"],
+     ["Four reasons", "Substantial · Long · Irreversible · Complex"]
+    ],
+    "recall_trigger": "SLIC — the four reasons it cannot be got wrong"
+   },
+   "mistakes": [
+    "Writing 'profit maximisation' where the study material says wealth maximisation; the chapter is built on cash flows, not accounting profit.",
+    "Reducing 'irreversibility' to 'the decision is permanent' without the reasons ICAI gives — upfront payment, contractual obligations, technological impossibility."
+   ],
+   "links": [
+    "🔗 FM Ch 1 §7: the three finance functions, of which this is the second",
+    "🔗 FM Ch 4 §10: the cost of capital that makes prudent investment necessary"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "State what capital budgeting involves (2 marks)",
+     "Discuss the importance or purpose of capital budgeting for a business entity (2–4 marks)"
+    ],
+    "approach": [
+     "Give the four reasons as four labelled headings, one sentence each, and name them in ICAI's own words"
+    ],
+    "official_pattern": "Not yet asked directly in a past paper for Paper 6; it is the standard opening paragraph of every case scenario in the chapter.",
+    "time_tip": "2 marks ≈ 3.5 minutes (study guidance)."
+   },
+   "mcqs": [
+    {
+     "id": "MCQ-F07.01-01",
+     "angle": "Definition",
+     "difficulty": "Easy",
+     "question": "Capital budgeting, as the study material explains the term, means:",
+     "options": {
+      "A": "Applying the principles of budgeting to capital investment",
+      "B": "Budgeting for the firm's working capital needs",
+      "C": "Deciding the mix of equity and debt in the capital structure",
+      "D": "Preparing the cash budget for the coming year"
+     },
+     "answer": "A",
+     "explanation": "SM §1: because investment of capital requires proper planning and planning is done through budgeting, investment decisions are popularly known as capital budgeting, 'which means applying the principles of budgeting for capital investment'.",
+     "why_wrong": {
+      "B": "That is working capital management, Chapter 9.",
+      "C": "That is the financing decision, Chapters 4 and 5.",
+      "D": "A cash budget is a short-term liquidity tool, not a long-term investment appraisal."
+     },
+     "trap": "All four options contain the word 'budget'; only one is about long-term capital investment.",
+     "concept": "F07.01"
+    },
+    {
+     "id": "MCQ-F07.02-01",
+     "angle": "Reasons",
+     "difficulty": "Easy",
+     "question": "Which of the following is NOT one of the four reasons the study material gives for capital budgeting decisions being critical?",
+     "options": {
+      "A": "Substantial investment",
+      "B": "Reversibility of the decision at low cost",
+      "C": "Long time period",
+      "D": "Complexity of the decision"
+     },
+     "answer": "B",
+     "explanation": "SM §2 lists substantial investment, long time period, irreversibility and complex decisions. Irreversibility is the reason — most investment decisions cannot be reversed, because of upfront payment, contractual obligations and technological impossibilities.",
+     "why_wrong": {
+      "A": "Listed first in §2.",
+      "C": "Listed second in §2.",
+      "D": "Listed fourth in §2."
+     },
+     "trap": "Option B states the opposite of ICAI's reason; read the direction, not just the keyword.",
+     "concept": "F07.02"
+    }
+   ],
+   "recap": [
+    "Investment decision = optimum use of funds to maximise the wealth of the organisation and its shareholders.",
+    "Capital budgeting = applying the principles of budgeting to capital investment.",
+    "It involves identifying strategic projects, estimating post-tax incremental cash flows, and selecting the proposal that maximises investor return.",
+    "Critical because of substantial investment, long time period, irreversibility and complexity."
+   ]
+  },
+  {
+   "code": "F07.03 + F07.07",
+   "title": "3 and 4.3 The Capital Budgeting Process and the Steps of the Procedure",
+   "activity": "Moderate",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 0",
+   "understand": [
+    "==**How formal the process needs to be depends on five things** (SM §3): the **size of the organisation**; the **number of projects** to be considered; the **direct financial benefit of each project considered by itself**; the **composition of the firm's existing assets and management's desire to change that composition**; and the **timing of expenditures** associated with the projects finally accepted.==",
+    "==**The six phases** (SM §3): **(i) Planning** — the process begins with identification of potential investment opportunities; the opportunity then enters the planning phase, where its potential effect on the firm's fortunes and management's ability to exploit it are assessed. Opportunities of little merit are rejected; promising ones advance as a proposal to the evaluation phase.==",
+    "==**(ii) Evaluation** — determination of the proposal and its investments, inflows and outflows. Appraisal techniques, from the simple payback method and accounting rate of return to the more sophisticated discounted cash flow techniques, are used. **The technique selected should be the one that enables the manager to make the best decision in the light of prevailing circumstances.** **(iii) Selection** — considering returns, risks and the cost of capital, the organisation chooses among the projects which maximises shareholders' wealth.==",
+    "==**(iv) Implementation** — the firm acquires the necessary funds, purchases the assets and begins implementation. **(v) Control** — progress is monitored with feedback reports: capital expenditure progress reports, performance reports comparing actual performance against plans set, and **post completion audits**. **(vi) Review** — when a project terminates, or even before, the entire project is reviewed to explain its success or failure; the review may have implications for the firm's planning and evaluation procedures and may produce ideas for new proposals.==",
+    "==**The three steps of the capital budgeting procedure** (SM §4.3): **1.** Estimation of cash flows over the entire life for each of the projects under consideration. **2.** Evaluate each of the alternatives, using different decision criteria. **3.** Determining the minimum required rate of return (i.e., **WACC**) to be used as discount rate.==",
+    "Those three steps are why the chapter is **divided into two sections**: Section 1 is Estimation of Cash Flows (§5–§6), Section 2 is Capital Budgeting Techniques (§7–§11). The third step is imported whole from Chapter 4."
+   ],
+   "example": "A proposal to build a new warehouse is identified by the logistics head (planning), appraised on NPV and discounted payback by the finance team (evaluation), chosen over a competing proposal because it adds more to shareholders' wealth (selection), funded and built (implementation), tracked against the capital expenditure budget month by month (control), and audited after commissioning to explain the overrun (review).",
+   "provisions": [
+    {
+     "ref": "Six phases of the process (SM §3)",
+     "status": "VERIFIED",
+     "requirement": "Planning, Evaluation, Selection, Implementation, Control, Review.",
+     "exam_angle": "Name all six in order; a 4-mark part expects one explanatory line each."
+    },
+    {
+     "ref": "Steps of capital budgeting procedure (SM §4.3)",
+     "status": "VERIFIED",
+     "requirement": "Estimate cash flows over the entire life; evaluate each alternative using different decision criteria; determine the minimum required rate of return (WACC) as the discount rate.",
+     "exam_angle": "Three steps only — do not confuse these with the six phases of §3."
+    }
+   ],
+   "keywords": [
+    "post completion audits",
+    "feedback reports",
+    "prevailing circumstances",
+    "minimum required rate of return",
+    "WACC as discount rate",
+    "composition of existing assets"
+   ],
+   "memory": {
+    "trick": "**P-E-S-I-C-R** — **P**lanning, **E**valuation, **S**election, **I**mplementation, **C**ontrol, **R**eview. Read it as 'PESICR', six phases in order.",
+    "key": [
+     ["Phase 1", "Planning — identify, assess merit, advance a proposal"],
+     ["Phase 2", "Evaluation — investments, inflows, outflows, appraisal techniques"],
+     ["Phase 3", "Selection — returns, risks and cost of capital; maximise wealth"],
+     ["Phase 4", "Implementation — acquire funds, purchase assets, begin"],
+     ["Phase 5", "Control — feedback reports and post completion audits"],
+     ["Phase 6", "Review — explain success or failure; feed back into planning"],
+     ["Three steps (§4.3)", "Estimate flows · evaluate alternatives · fix the WACC as discount rate"]
+    ],
+    "recall_trigger": "PESICR, then the three steps"
+   },
+   "mistakes": [
+    "Giving the six phases of §3 when the question asks for the three steps of §4.3, or the reverse.",
+    "Stopping at Implementation; Control and Review carry marks and are the two phases candidates most often omit."
+   ],
+   "compare": {
+    "title": "The six phases against the three steps (SM §3 and §4.3)",
+    "headers": [
+     "SM §3 — the process (six phases)",
+     "SM §4.3 — the procedure (three steps)"
+    ],
+    "rows": [
+     ["Planning — identify and screen opportunities", "1. Estimate cash flows over the entire life of each project"],
+     ["Evaluation — appraise with payback, ARR, DCF", "2. Evaluate each alternative using different decision criteria"],
+     ["Selection — choose what maximises wealth", "3. Determine the minimum required rate of return (WACC) as the discount rate"],
+     ["Implementation — fund, buy, start", "—"],
+     ["Control — feedback reports, post completion audits", "—"],
+     ["Review — explain success or failure", "—"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 7 §5: step 1 of the procedure, worked out in full",
+    "🔗 FM Ch 7 §7: step 2 of the procedure, worked out in full",
+    "🔗 FM Ch 4 §10: step 3 — the WACC that becomes the discount rate"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Explain the capital budgeting process (4 marks)",
+     "State the steps of the capital budgeting procedure (2 marks)"
+    ],
+    "approach": [
+     "Six phases in order with one line each; name the feedback reports and post completion audit under Control"
+    ],
+    "official_pattern": "Not yet asked directly in Paper 6's past papers; the phases underlie the narrative of every case scenario.",
+    "time_tip": "4 marks ≈ 7 minutes (study guidance)."
+   },
+   "mcqs": [
+    {
+     "id": "MCQ-F07.03-01",
+     "angle": "Sequence",
+     "difficulty": "Moderate",
+     "question": "In the capital budgeting process set out by the study material, post completion audits belong to which phase?",
+     "options": {
+      "A": "Evaluation",
+      "B": "Selection",
+      "C": "Control",
+      "D": "Review"
+     },
+     "answer": "C",
+     "explanation": "SM §3(v): under Control, progress is monitored with the aid of feedback reports, and these reports include capital expenditure progress reports, performance reports comparing actual performance against plans set, and post completion audits.",
+     "why_wrong": {
+      "A": "Evaluation determines the proposal's investments, inflows and outflows before the money is spent.",
+      "B": "Selection is the choice among competing projects.",
+      "D": "Review happens when a project terminates and explains its success or failure; the audit itself is listed under Control."
+     },
+     "trap": "'Post completion' sounds like Review, but ICAI lists the audit among Control's feedback reports.",
+     "concept": "F07.03"
+    },
+    {
+     "id": "MCQ-F07.07-01",
+     "angle": "Procedure",
+     "difficulty": "Easy",
+     "question": "Which of the following is the third step of the capital budgeting procedure as listed in the study material?",
+     "options": {
+      "A": "Determining the minimum required rate of return to be used as the discount rate",
+      "B": "Estimation of cash flows over the entire life of each project",
+      "C": "Evaluating each alternative using different decision criteria",
+      "D": "Conducting a post completion audit of the project"
+     },
+     "answer": "A",
+     "explanation": "SM §4.3 lists three steps: estimation of cash flows over the entire life; evaluation of each alternative using different decision criteria; and determining the minimum required rate of return (i.e., WACC) to be used as discount rate.",
+     "why_wrong": {
+      "B": "That is the first step.",
+      "C": "That is the second step.",
+      "D": "That is part of the Control phase in §3, not a step of the §4.3 procedure."
+     },
+     "trap": "The discount rate comes last in ICAI's list even though it is used throughout the second step.",
+     "concept": "F07.07"
+    }
+   ],
+   "recap": [
+    "Six phases: Planning, Evaluation, Selection, Implementation, Control, Review.",
+    "Control carries the feedback reports and the post completion audit; Review explains success or failure.",
+    "Three steps of the procedure: estimate cash flows, evaluate alternatives, fix the WACC as the discount rate.",
+    "How formal the process is depends on size, number of projects, each project's own financial benefit, the asset composition management wants, and the timing of expenditures."
+   ]
+  },
+  {
+   "code": "F07.04 + F07.05 + F07.06",
+   "title": "4–4.2 Types of Capital Investment Decisions",
+   "activity": "Moderate",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 0",
+   "understand": [
+    "==There are two ways to classify a capital budgeting decision (SM §4): **on the basis of the firm's existence**, and **on the basis of the decision situation**.==",
+    "==**On the basis of the firm's existence** (SM §4.1): **(i) Replacement and Modernisation decisions** — aimed at improving operating efficiency and reducing cost. Plant and machinery needs replacing either because its **economic life is over** (the **replacement** decision) or because it has become **technologically outdated** (the **modernisation** decision). ==**Both replacement and modernisation decisions are called cost reduction decisions.**==",
+    "==**(ii) Expansion decisions** — an existing successful firm experiences growth in demand for its product line; if it faces shortage or delay in delivery because production facilities are inadequate, it may propose to add capacity to the existing line. **(iii) Diversification decisions** — proposals to diversify into new product lines or new markets, to reduce the risk of failure by dealing in different products or operating in several markets. ==**Both expansion and diversification decisions are called revenue expansion decisions.**==",
+    "==**On the basis of situations** (SM §4.2): **(i) Mutually exclusive decisions** — two or more alternative proposals such that **acceptance of one excludes acceptance of the others**; the study material's own example is a firm choosing between a semi-automatic and a highly automatic machine. **(ii) Accept-Reject decisions** — proposals that are **independent and do not compete** with each other; all proposals giving a return higher than a certain desired rate are accepted and the rest rejected. **(iii) Contingent decisions** — made when proposals are **dependable** (dependent) proposals: investment in one requires investment in one or more others, as a factory in a remote area also requires investment in roads and housing.==",
+    "The two classifications answer different questions. The first asks **why** the firm is spending (to cut cost, or to earn more revenue). The second asks **how the proposals relate to each other** — and that is the one the techniques care about, because §10's decision table has a separate column for mutually exclusive projects."
+   ],
+   "example": "Replacing a worn-out lathe is a replacement decision and a cost reduction decision. Replacing a working lathe with a CNC machine because the old one is technologically outdated is a modernisation decision — still a cost reduction decision. Adding a second shift's worth of lathes because orders are being delayed is an expansion decision, and therefore a revenue expansion decision.",
+   "provisions": [
+    {
+     "ref": "On the basis of firm's existence (SM §4.1)",
+     "status": "VERIFIED",
+     "requirement": "Replacement and modernisation (cost reduction decisions); expansion and diversification (revenue expansion decisions).",
+     "exam_angle": "The grouping labels — cost reduction and revenue expansion — are what distinguishes a full answer from a list."
+    },
+    {
+     "ref": "On the basis of situations (SM §4.2)",
+     "status": "VERIFIED",
+     "requirement": "Mutually exclusive, accept-reject, contingent.",
+     "exam_angle": "An MCQ can describe a situation and ask which of the three it is; look for whether accepting one forces out, has no effect on, or requires the other."
+    }
+   ],
+   "keywords": [
+    "cost reduction decisions",
+    "revenue expansion decisions",
+    "economic life is over",
+    "technologically outdated",
+    "mutually exclusive",
+    "contingent decisions"
+   ],
+   "memory": {
+    "trick": "**Replacement and Modernisation cut cost; Expansion and Diversification raise revenue.** Then for situations: **one-or-the-other (mutually exclusive) · one-on-its-own (accept-reject) · one-brings-another (contingent)**.",
+    "key": [
+     ["Replacement", "Economic life over — cost reduction"],
+     ["Modernisation", "Technologically outdated — cost reduction"],
+     ["Expansion", "Add capacity to the existing line — revenue expansion"],
+     ["Diversification", "New product lines or markets — revenue expansion"],
+     ["Mutually exclusive", "Accepting one excludes the others"],
+     ["Accept-Reject", "Independent; judged against a desired rate of return"],
+     ["Contingent", "Dependent; one investment requires another"]
+    ],
+    "recall_trigger": "Cut cost or raise revenue; exclude, stand alone, or drag another along"
+   },
+   "mistakes": [
+    "Swapping replacement and modernisation — replacement is because the economic life is over, modernisation because the asset is technologically outdated.",
+    "Calling diversification a cost reduction decision; expansion and diversification are both revenue expansion decisions.",
+    "Treating contingent proposals as mutually exclusive; contingent proposals go together, exclusive proposals cannot."
+   ],
+   "compare": {
+    "title": "The two classifications side by side (SM §4.1 and §4.2)",
+    "headers": [
+     "Classification",
+     "Types",
+     "Grouping label"
+    ],
+    "rows": [
+     ["On the basis of firm's existence", "Replacement; Modernisation", "Cost reduction decisions"],
+     ["On the basis of firm's existence", "Expansion; Diversification", "Revenue expansion decisions"],
+     ["On the basis of situations", "Mutually exclusive", "Accepting one excludes the others"],
+     ["On the basis of situations", "Accept-Reject", "Independent proposals, judged on a minimum return"],
+     ["On the basis of situations", "Contingent", "Dependent proposals; one requires another"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 7 §10: the decision table, which treats mutually exclusive projects separately",
+    "🔗 FM Ch 7 §11.2: unequal lives, a problem that only arises for mutually exclusive proposals",
+    "🔗 FM Ch 5 §2: expansion and diversification as the occasions for raising fresh capital"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Explain the types of capital investment decisions (4 marks)",
+     "Identify, from a described situation, whether the decision is mutually exclusive, accept-reject or contingent (MCQ)"
+    ],
+    "approach": [
+     "Draw the two-branch tree first — existence and situation — then fill three types under each branch, naming the two grouping labels"
+    ],
+    "official_pattern": "Not yet set as a standalone past-paper part; replacement and modernisation supply the setting for most of the chapter's numericals.",
+    "time_tip": "4 marks ≈ 7 minutes (study guidance)."
+   },
+   "mcqs": [
+    {
+     "id": "MCQ-F07.05-01",
+     "angle": "Classification",
+     "difficulty": "Moderate",
+     "question": "A company replaces a fully working machine because a technologically superior model has come to the market. Under the study material's classification this is:",
+     "options": {
+      "A": "A replacement decision, and a revenue expansion decision",
+      "B": "An expansion decision, and a cost reduction decision",
+      "C": "A diversification decision, and a cost reduction decision",
+      "D": "A modernisation decision, and a cost reduction decision"
+     },
+     "answer": "D",
+     "explanation": "SM §4.1(i): where the asset is replaced because it has become technologically outdated the decision is a modernisation decision, and both replacement and modernisation decisions are called cost reduction decisions.",
+     "why_wrong": {
+      "A": "It is modernisation rather than replacement, and cost reduction rather than revenue expansion.",
+      "B": "Capacity is not being added to meet unmet demand, so it is not an expansion decision.",
+      "C": "No new product line or market is being entered."
+     },
+     "trap": "'Replacing a machine' is not automatically a replacement decision; ICAI reserves that label for the case where the economic life is over.",
+     "concept": "F07.05"
+    },
+    {
+     "id": "MCQ-F07.06-01",
+     "angle": "Situation",
+     "difficulty": "Moderate",
+     "question": "A company that sets up a factory in a remote area must also build approach roads and housing for its employees. The decision on the roads and housing is:",
+     "options": {
+      "A": "A mutually exclusive decision",
+      "B": "A contingent decision",
+      "C": "An accept-reject decision",
+      "D": "A diversification decision"
+     },
+     "answer": "B",
+     "explanation": "SM §4.2(iii): contingent decisions are made when the proposals are dependable proposals — investment in one proposal requires investment in one or more others, and ICAI's own illustration is exactly the remote-area factory that forces investment in infrastructure such as roads and employee housing.",
+     "why_wrong": {
+      "A": "Nothing is being excluded; the two investments go together.",
+      "C": "Accept-reject applies to proposals that are independent and do not compete.",
+      "D": "Diversification is a classification by the firm's existence, not by the decision situation."
+     },
+     "trap": "The infrastructure spend has no NPV of its own; it rides on the factory, which is what makes the decision contingent.",
+     "concept": "F07.06"
+    }
+   ],
+   "recap": [
+    "Two classifications: by the firm's existence, and by the decision situation.",
+    "Replacement (life over) and modernisation (technologically outdated) are cost reduction decisions.",
+    "Expansion (add capacity) and diversification (new products or markets) are revenue expansion decisions.",
+    "Mutually exclusive excludes, accept-reject stands alone, contingent requires another investment."
+   ]
+  },
+  {
+   "code": "F07.08",
+   "title": "5 Estimation of Project Cash Flows",
+   "activity": "Very High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (Sep 2024 Part I case) · RTP 4 (Sep 2024, Sep 2025, Jan 2026, May 2026) · MTP 1 (Sep 2024 Series I)",
+   "understand": [
+    "==**Capital budgeting analysis considers only incremental cash flows** from an investment likely to result due to acceptance of the project.== ARR is the one technique that works on accounting profit, and the study material immediately warns why that is a weakness: the timing of cash flow may not match the period of profit, and non-cash items like depreciation have no immediate cash outflow.",
+    "==**The life of the project** may be determined by **technological obsolescence**, **physical deterioration** and **decline in demand for the product**.== However good the maintenance policy or the forecasting, uncertainty will always be there.",
+    "==**Six items that need consideration** when calculating cash flows (SM §5):==\n**(a) Depreciation** — a non-cash item that does not itself affect cash flow, but ==**the tax shield from depreciation must be considered; since the benefit reduces the cash outflow for taxes, it is treated as a cash inflow.**== **SM Example 1:** X Ltd. has turnover ₹30 crore and cash expenses ₹25 crore, tax 30%, depreciation ₹1.50 crore. Without depreciation, PBT ₹5 crore, tax ₹1.50 crore, cash flow ₹3.50 crore. With depreciation, PBT ₹3.50 crore, tax ₹1.05 crore, PAT ₹2.45 crore, add back depreciation ₹1.50 crore, **cash flow ₹3.95 crore**. ==The ₹0.45 crore difference (₹1.50 − ₹1.05) is the **tax shield**.==",
+    "==**(b) Opportunity Cost** — foregoing of a benefit due to choosing an alternative investment option.== ICAI's illustration: land acquired ten years ago for ₹1 crore that could be sold today for ₹10 crore. If the project uses the land, ==**₹10 crore — the sale value, not the historical cost — forms part of the initial outlay.**== Opportunity cost can arise both at the time of the initial outlay and during the project. ==**Opportunity costs are considered for estimation of cash outflows.**==",
+    "==**(c) Sunk Cost** — an outlay already incurred in the past that cannot be reversed. Such costs have no impact on decision making and **must be excluded** from capital budgeting analysis.== ICAI's illustration: ₹1,00,000 of consultancy fees already paid for a project report or feasibility study is irrelevant, because it has already been paid and will not change the decision.",
+    "==**(d) Working Capital** — the initial working capital requirement is treated as a **cash outflow**, and at the end of the project its **release is treated as a cash inflow**. **No depreciation is provided on working capital.** Additional working capital required during the life of the project is a cash outflow at that time, and any reduction in working capital is a cash inflow. If nothing is specifically mentioned about the release, **assume the full amount is realised at the end of the project**.==",
+    "==**(e) Allocated Overheads** — expenditure already incurred and merely apportioned to the new proposal is **not** a cash flow. Only an **incremental** overhead cost, expected because the proposal is accepted, is treated as a cash outflow.== **(f) Additional Capital Investment** — capital investment need not all fall at the beginning; where it is required during the project it is a cash outflow at that time.",
+    "==**Three categories of cash flow** (SM §5). **(a) Initial Cash Outflow**, which depends on the type of decision:==\nFor a **fresh proposal or expansion**: Cost of new asset(s) **+** Installation/Set-Up Costs **+** Investment in Working Capital **=** Initial Cash Outflow.\nFor a **replacement**: Cost of new asset(s) **+** Installation/Set-Up Costs **±** Increase (decrease) in net working capital level **−** Net proceeds from sale of old assets **±** Tax expense (saving/loss) due to sale of the old asset **=** Initial Cash Outflow.",
+    "==**(b) Interim Cash Flows.** For a fresh or completely new project: Profit after Tax **+** Non-cash expenses such as depreciation **±** Net decrease (increase) in working capital **=** Interim net cash flow for the period.==\nFor a **replacement**: Net increase (decrease) in operating revenue **±** Net decrease (increase) in operating expenses **=** Net changes in income before taxes **±** Net decrease (increase) in taxes **=** Net change in income after taxes **±** Net decrease (increase) in depreciation charges **=** Incremental net cash flow for the period.",
+    "==**(c) Terminal-Year Net Cash Flow:** Final salvage value (less disposal costs) of the asset **+** Interim cash flow **±** Tax savings (tax expenses) due to sale or disposal of the asset, including depreciation **+** Release of net working capital **=** Terminal year net cash flow.==",
+    "Two sentences carry most of this section's marks in an exam. **Depreciation is deducted to find the tax and then added back to find the cash flow.** And **the terminal year has three extras the middle years do not: salvage value, the tax on it, and the release of working capital.**"
+   ],
+   "example": "September 2024's Part I case walked candidates through this section in order: first depreciation, then cash inflow after taxes for years 1 to 3, then the discounted inflows, then NPV, then discounted payback — five MCQs that are really one cash-flow table built one row at a time.",
+   "provisions": [
+    {
+     "ref": "Incremental principle (SM §5)",
+     "status": "VERIFIED",
+     "requirement": "Only incremental cash flows likely to result from accepting the project are considered.",
+     "exam_angle": "Every 'ignore this item' instruction in an exam question is this principle in disguise."
+    },
+    {
+     "ref": "Depreciation tax shield (SM §5(a), Example 1)",
+     "status": "VERIFIED",
+     "requirement": "Depreciation is non-cash, but the tax it saves is an inflow; charge it for tax, then add it back.",
+     "exam_angle": "The commonest 1-mark deduction in the whole chapter is a cash flow with depreciation not added back."
+    },
+    {
+     "ref": "Sunk cost and opportunity cost (SM §5(b) and (c))",
+     "status": "VERIFIED",
+     "requirement": "Sunk costs are excluded; opportunity costs at current sale value are included in the outflow.",
+     "exam_angle": "A feasibility-study fee already paid is the standard sunk-cost bait; land at market value is the standard opportunity-cost bait."
+    },
+    {
+     "ref": "Working capital (SM §5(d))",
+     "status": "VERIFIED",
+     "requirement": "Initial working capital is an outflow, its release at the end is an inflow, no depreciation is charged on it, and if nothing is said the full amount is assumed released at the end.",
+     "exam_angle": "The release is tax free; do not apply the tax rate to it."
+    },
+    {
+     "ref": "Terminal-year cash flow (SM §5(c))",
+     "status": "VERIFIED",
+     "requirement": "Salvage value net of disposal cost, plus the interim flow, adjusted for tax on disposal, plus the release of working capital.",
+     "exam_angle": "Three extras in the last year; omitting the working-capital release is the usual slip."
+    }
+   ],
+   "keywords": [
+    "incremental cash flows",
+    "tax shield",
+    "opportunity cost",
+    "sunk cost",
+    "release of working capital",
+    "allocated overheads",
+    "terminal-year net cash flow"
+   ],
+   "memory": {
+    "trick": "**DOSWAA** for the six items — **D**epreciation, **O**pportunity cost, **S**unk cost, **W**orking capital, **A**llocated overheads, **A**dditional capital investment. Then **three buckets**: year 0, the middle years, the last year.",
+    "key": [
+     ["Depreciation", "Non-cash; charge for tax, add back for cash flow"],
+     ["Opportunity cost", "Include at today's sale value, in the outflow"],
+     ["Sunk cost", "Exclude entirely"],
+     ["Working capital", "Out at the start, back at the end, never depreciated, never taxed on release"],
+     ["Allocated overhead", "Exclude; include only the incremental part"],
+     ["Additional capital", "Outflow in the year it falls"],
+     ["Terminal year extras", "Salvage value · tax on disposal · release of working capital"]
+    ],
+    "recall_trigger": "DOSWAA, then year 0 — middle — last"
+   },
+   "mistakes": [
+    "Not adding depreciation back after charging it for tax.",
+    "Bringing a feasibility-study fee or consultancy fee already paid into the initial outlay.",
+    "Valuing land already owned at its historical cost instead of its current sale value.",
+    "Taxing the release of working capital in the terminal year.",
+    "Including an apportioned share of existing factory overhead that will be incurred whether or not the project goes ahead."
+   ],
+   "compare": {
+    "title": "Initial outflow: fresh project against replacement (SM §5(a))",
+    "headers": [
+     "Line",
+     "Fresh proposal or expansion",
+     "Replacement"
+    ],
+    "rows": [
+     ["Cost of new asset(s)", "Include", "Include"],
+     ["Installation / set-up costs", "Include", "Include"],
+     ["Working capital", "Investment in working capital", "Increase (decrease) in net working capital level"],
+     ["Sale of old asset", "Not applicable", "Less net proceeds from sale of old assets"],
+     ["Tax on that sale", "Not applicable", "Add / (less) tax expense (saving or loss) on the sale"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 7 §6.1: the tax treatment of the terminal sale, which depends on the block of assets",
+    "🔗 FM Ch 7 §6.2: why interest never appears in these flows",
+    "🔗 FM Ch 9 §4: how the working capital figure itself is estimated",
+    "🔗 FM Ch 6 §3.2: contribution, which generates the operating inflow"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Compute the relevant cash flows / cash inflow after taxes for each year (3–5 marks, or a whole Part I case)",
+     "Compute the net initial investment of a project where land, a feasibility study and working capital are all mentioned",
+     "Identify which of several listed items is or is not a relevant cash flow (MCQ)"
+    ],
+    "approach": [
+     "Write the CFAT ladder vertically and fill it year by year: Sales − Variable cost = Contribution − Fixed cash cost − Depreciation = EBT − Tax = EAT + Depreciation = CFAT",
+     "Keep year 0 and the terminal year on separate lines so the three extras in the last year are not lost",
+     "Before computing anything, strike out every sunk cost and every merely apportioned overhead the question mentions"
+    ],
+    "official_pattern": "PYQ-S24-MCQ1; RTP-S24-FQ1; RTP-S25-FQ1; RTP-J26-FQ9; RTP-M26-FQ8; MTP-S24-S1-FQ3a.",
+    "time_tip": "A 5-mark cash-flow table ≈ 9 minutes; a five-MCQ Part I case ≈ 18 minutes (study guidance)."
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-S24-MCQ1",
+     "marks": 10,
+     "status": "VERIFIED",
+     "format": "Case MCQs",
+     "question": "Part I Case Scenario I of the September 2024 paper. From the data of an investment proposal, candidates were asked in sequence for (1) the depreciation figures, (2) the cash inflow after taxes for year 1, year 2 and year 3, (3) the discounted cash inflow after taxes for the same three years, (4) the net present value of the proposal, and (5) its discounted payback period.",
+     "answer_points": [
+      "**The whole case is one table.** Each MCQ is a row or a column of the single CFAT statement the proposal needs, so the efficient route is to build the table once and read five answers off it rather than compute five times.",
+      "**Row order (SM §6.3).** Sales value, less variable cost, **contribution**; less fixed cash cost excluding interest; less **depreciation**; **EBT**; less tax; **EAT**; add back depreciation; **CFAT**.",
+      "**Depreciation first.** The depreciation MCQ comes first in ICAI's own sequence because every later row depends on it. Compute it on the depreciable base over the stated life, on the stated method.",
+      "**Then discount.** The discounted CFAT row is the CFAT row multiplied by the present value factor for that year, nothing more.",
+      "**NPV** is the total of the discounted CFAT row less the initial investment; **discounted payback** is the year in which the cumulative discounted CFAT first equals the initial investment, plus the fraction of the following year (SM §9.4).",
+      "**Why this matters beyond the five marks each.** The sequence depreciation → CFAT → discounted CFAT → NPV → discounted payback is the skeleton of every descriptive question in this chapter."
+     ],
+     "conclusion": "One cash-flow table, read five ways — and the order ICAI asks the MCQs in is the order to build it.",
+     "keywords": [
+      "depreciation",
+      "cash inflow after taxes",
+      "discounted cash inflow",
+      "net present value",
+      "discounted payback period"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "RTP-S24-FQ1",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case MCQs",
+     "question": "Mr. Ronak, a doctor with a private hospital in Goa, is appraising a 15-year hotel project. Land ₹250 million and construction ₹100 million; salvage value of construction at the end of year 15 is 25% of its cost; furniture ₹1,50,000 per normal room (40 rooms) and ₹3,80,000 per deluxe suite (8 suites), ₹7,00,000 for the conference and wedding hall and ₹10,00,000 for the restaurant, replaced at the end of year 10 at a price 15% higher with salvage at 5% of the original prices; 4 elevators at ₹35,00,000 each depreciated at 5%; electronic appliances ₹35 million with 15% salvage at the end of year 15; renovation ₹20,00,000 at the end of year 12 with scrap of ₹1,75,000; a state subsidy of 15% on the initial capex received when the cost is incurred and a further non-taxable 10% on annual revenue expenses for the first three years credited at the end of year 5; annual recurring expenses ₹1,80,00,000 rising 10% once after year 10, plus ₹5,00,000 a year of training; a tax holiday for five years and 25% tax thereafter; cost of equity 12% and hurdle rate 15%; SLM depreciation, 360-day year. Required: (i) net initial investment, (ii) NPV, (iii) payback period, (iv) recurring accounting profit for the first three years, (v) IRR.",
+     "answer_points": [
+      "**(i) Net initial investment.** Add land, construction, all furniture, the four elevators and the electronic appliances, then **deduct the 15% capital subsidy, because it is received at the time the cost is incurred** and so belongs in year 0 rather than in a later year.",
+      "**(ii) and (iii).** Build the CFAT row for years 1 to 15, remembering that **no tax is charged for the first five years** (tax holiday) and 25% thereafter, and that the ₹5,00,000 training spend is an annual revenue outflow. Years 10, 12 and 15 each carry an extra: furniture replacement and its salvage in year 10, renovation net of scrap in year 12, and all the terminal salvage values in year 15.",
+      "**The non-taxable subsidy on revenue expenses** is credited only at the end of year 5 — so it is a year-5 inflow of three years' worth, and **no tax is deducted from it**.",
+      "**(iv) Accounting profit is not cash flow.** This requirement exists to make the distinction: the recurring accounting profit is revenue less recurring expenses less **depreciation**, with no add-back, while the CFAT adds depreciation back.",
+      "**(v) IRR** by interpolation between two rates that bracket a zero NPV (SM §9.3), using the hurdle rate of 15% as one of them since the answer options cluster around it.",
+      "**The lesson of the question is scheduling, not arithmetic.** Every figure in it is easy; the marks are in putting each figure in the right year — subsidy in year 0, revenue subsidy in year 5, furniture in year 10, renovation in year 12, salvage in year 15."
+     ],
+     "conclusion": "A 15-year timeline with five dated events on it; get the dates right and the appraisal follows.",
+     "keywords": [
+      "net initial investment",
+      "capital subsidy",
+      "tax holiday",
+      "accounting profit against cash flow",
+      "hurdle rate"
+     ]
+    },
+    {
+     "id": "RTP-S25-FQ1",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case MCQs",
+     "question": "Mint Technologies, an IT infrastructure startup, has won a tender to set up secure VPN connections across 100 branches of a bank. Initial network setup cost ₹150 million, with a further ₹10 million invested each year starting at the beginning and growing 10% a year; equipment at ₹0.1 million per office, the office count starting at 100 and growing 30% for five years; maintenance at 10% of equipment and 15% of network; manpower cost ₹1 million; 15% of revenue shared with the local authority; revenue ₹0.5 million per office, not indexed to inflation; capital and operating expenditure growing 10% a year; tax 30%; depreciation of equipment and network at 10%; discount rate 20%; growth at the industry average of 3% after year 5. Required: (i) CFAT for year 1, (ii) CFAT for year 5, (iii) the terminal value, (iv) the total present value, (v) the IRR.",
+     "answer_points": [
+      "**Revenue is driven by the office count, and the office count compounds.** 100 offices in year 1 growing 30% a year gives 130, 169, 220 and 286 — and both revenue (₹0.5 million an office) and equipment cost (₹0.1 million an office) follow it.",
+      "**The revenue share is an operating cost, not a tax.** 15% of revenue goes to the local authority before tax is computed.",
+      "**CFAT each year** = revenue − revenue share − maintenance − manpower − depreciation = EBT; less tax at 30%; add depreciation back. The year-1 CFAT is negative if the initial setup is treated as a year-1 outflow, which is what ICAI's instruction 'assume all the expenditure including initial setup cost from year 1' requires.",
+      "**(iii) Terminal value** capitalises the year-5 flow at the discount rate less the perpetual growth rate: **TV = CFAT₅ × (1 + g) ÷ (k − g)** with k = 20% and g = 3%.",
+      "**(iv) Total present value** discounts years 1 to 5 at 20% and adds the discounted terminal value.",
+      "**(v) IRR** is the rate at which that total equals the outlay, found by interpolation between two trial rates.",
+      "**Why this question is worth working even though it is long.** It is the only official question in the chapter that uses a **terminal value**, and the technique — capitalise the last explicit year and discount it back — is the bridge between this chapter and business valuation."
+     ],
+     "conclusion": "A compounding office count, a revenue share before tax, and a terminal value capitalised at k − g.",
+     "keywords": [
+      "CFAT",
+      "terminal value",
+      "k − g",
+      "compounding office count",
+      "revenue share"
+     ]
+    },
+    {
+     "id": "RTP-J26-FQ9",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "ABC Manufacturing Ltd, a mid-sized engineering and fabrication company supplying precision components to the automobile and heavy machinery sectors, has proposed a capital investment project to purchase and install advanced CNC machines and automated assembly lines. The project is to be financed partly through internal accruals and largely through term loans from XYZ Bank, and the company has approached the bank for project financing of the initial outlay citing strong growth in demand. (ICAI label: Investment Decision.)",
+     "answer_points": [
+      "**Start with the initial outlay, not the loan.** The project's appraisal is independent of how it is financed: the term loan changes neither the cash flows nor, in this chapter, the discount rate, which already carries the cost of debt (SM §6.2).",
+      "**Cost of the CNC machines plus installation** is the capital outflow; any working capital the higher throughput needs is added to it, and comes back in the final year.",
+      "**Annual inflow** = incremental contribution from the extra output, less incremental fixed cash costs, less depreciation, less tax, plus depreciation back.",
+      "**Terminal year** adds the salvage value of the machines and the tax effect of their disposal, on the block-of-assets rule of §6.1.",
+      "**What the bank's involvement is doing in the question.** It is there to tempt candidates into deducting interest on the term loan inside the cash flows. ==That would double count the cost of debt, because the discount rate already reflects it.==",
+      "**Conclude in the bank's language**: a positive NPV at the company's cost of capital, with the payback inside the loan tenor, is what supports the financing request."
+     ],
+     "conclusion": "Appraise the project, not the loan — the financing is a distraction the exclusion of financing costs principle removes.",
+     "keywords": [
+      "incremental cash flows",
+      "project financing",
+      "exclusion of financing costs",
+      "salvage value"
+     ]
+    },
+    {
+     "id": "RTP-M26-FQ8",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "EquipLease Financial Services Ltd., an equipment leasing company of 15 years' standing whose model is to buy high-value machinery and lease it out while retaining ownership, has purchased a specialised CNC precision machine: purchase cost ₹10,00,000 paid upfront, expected useful life 4 years, with lease rentals, depreciation and tax as given. (ICAI label: Investment Decisions.)",
+     "answer_points": [
+      "**From the lessor's side the lease rental is the inflow.** The machine is the outflow at time zero; the rentals are the annual operating inflow; depreciation is charged to compute tax and added back.",
+      "**Annual cash flow** = Lease rental − operating cost (if any) − depreciation = EBT; less tax; add depreciation back.",
+      "**Terminal year** carries the machine's residual value and the tax effect of its sale under §6.1.",
+      "**Discount at the company's cost of capital** and accept if the NPV is positive — the lessor's decision is an ordinary capital budgeting decision in which the asset happens to earn rent rather than make goods.",
+      "**The chapter point ICAI is making.** ==An investment's inflow does not have to be a sale; a cost saving, a rental or an avoided outflow is just as much an incremental inflow.== The same idea drives Orion Aerospace's video conferencing question and Parmarth Limited's AI question."
+     ],
+     "conclusion": "A leasing company's purchase is a capital budgeting decision with rent as the inflow.",
+     "keywords": [
+      "lease rental as inflow",
+      "depreciation added back",
+      "residual value",
+      "cost of capital"
+     ]
+    },
+    {
+     "id": "MTP-S24-S1-FQ3a",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Parmarth Limited, a manufacturer of computers, is planning to introduce Artificial Intelligence into its computer process. Estimated annual savings: ₹3,50,000 in production delays caused by inventory problems; the salaries of 5 employees at ₹4,20,000 each a year; ₹1,75,000 of lost sales recovered; and ₹3,25,000 gained from timely billing. Annual maintenance and operating costs, payable in advance at the beginning of each year, are ₹1,80,000, ₹2,00,000, ₹1,20,000, ₹1,10,000 and ₹1,30,000 for years 1 to 5. Two AI specialists are to be engaged on stated salaries.",
+     "answer_points": [
+      "**The inflow is a saving.** Add the four savings — ₹3,50,000 + (5 × ₹4,20,000 = ₹21,00,000) + ₹1,75,000 + ₹3,25,000 — to get the gross annual benefit, then deduct the AI specialists' salaries, which are the new cost the project creates.",
+      "==**'Paid in advance (at the beginning)' changes the year, not the amount.**== The year-1 maintenance cost of ₹1,80,000 is paid at time zero, the year-2 cost at the end of year 1, and so on. Discount each at the factor for the year in which it is **paid**, not the year it relates to.",
+      "**Build the table with two separate columns** — operating savings net of the specialists' salaries, discounted at the year-end factor; and maintenance costs, discounted one year earlier.",
+      "**Depreciation** on the capital cost is charged to find the tax and added back, as always.",
+      "**Conclude on NPV.** Where the question also asks for ARR or payback, the same table serves: the accounting profit line is the CFAT line before the depreciation add-back.",
+      "**The trap worth naming.** ==A cost paid in advance for five years occupies years 0 to 4, so the fifth payment is discounted at the year-4 factor and the project still has a year-5 inflow.== Candidates who discount all five at years 1 to 5 lose the whole timing mark."
+     ],
+     "conclusion": "A savings-driven project whose only difficulty is that its costs are paid a year earlier than they are earned.",
+     "keywords": [
+      "savings as inflow",
+      "paid in advance",
+      "timing of discount factors",
+      "incremental cost"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F07.08-01",
+     "angle": "Relevance",
+     "difficulty": "Moderate",
+     "question": "A company paid ₹1,00,000 last year to consultants for a feasibility study on a project it is now appraising. It also owns land bought ten years ago for ₹1 crore which would fetch ₹10 crore today and which the project will use. The amounts to be brought into the project's cash flows are:",
+     "options": {
+      "A": "₹1,00,000 and ₹1 crore",
+      "B": "₹1,00,000 and ₹10 crore",
+      "C": "Nil and ₹10 crore",
+      "D": "Nil and ₹1 crore"
+     },
+     "answer": "C",
+     "explanation": "SM §5(c): the consultancy fee is a sunk cost, already incurred and irreversible, so it is excluded. SM §5(b): the land is an opportunity cost, and it is its present sale value of ₹10 crore — the benefit forgone by using it — that forms part of the initial outlay, not its historical cost.",
+     "why_wrong": {
+      "A": "Both figures are wrong: the fee is sunk and the land enters at market value.",
+      "B": "The fee is sunk, however recently it was paid.",
+      "D": "Historical cost is irrelevant to an opportunity cost."
+     },
+     "trap": "One item is excluded altogether and the other is included at a figure that appears nowhere in the books.",
+     "concept": "F07.08"
+    },
+    {
+     "id": "MCQ-F07.08-02",
+     "angle": "Terminal year",
+     "difficulty": "Easy",
+     "question": "Which of the following appears in the terminal-year net cash flow of a project but not in its interim cash flows?",
+     "options": {
+      "A": "Release of net working capital",
+      "B": "Depreciation added back to profit after tax",
+      "C": "Tax on operating profit",
+      "D": "Incremental fixed cash cost"
+     },
+     "answer": "A",
+     "explanation": "SM §5(c): the terminal-year net cash flow adds the final salvage value net of disposal costs, the tax saving or expense on that disposal, and the release of net working capital to the interim cash flow for that period. The release of working capital arises only at the end.",
+     "why_wrong": {
+      "B": "Depreciation is added back in every year of the project.",
+      "C": "Tax is charged in every year in which there is a profit.",
+      "D": "Fixed cash costs recur throughout the project's life."
+     },
+     "trap": "Three of the four options are ordinary annual items; only one is dated to the last year.",
+     "concept": "F07.08"
+    }
+   ],
+   "recap": [
+    "Only incremental cash flows count; project life is set by obsolescence, deterioration or falling demand.",
+    "Six items: depreciation (tax shield), opportunity cost (include at market value), sunk cost (exclude), working capital (out then back, untaxed), allocated overheads (exclude unless incremental), additional capital investment.",
+    "Initial outflow differs between a fresh project and a replacement — the replacement nets off the old asset's sale proceeds and the tax on them.",
+    "Terminal year adds salvage value, tax on disposal, and the release of working capital."
+   ]
+  },
+  {
+   "code": "F07.09 + F07.12",
+   "title": "6 and 6.3 Basic Principles for Measuring Project Cash Flows, and the Post-tax Principle",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 3 (Jan 2025 Series II, Jan 2026 Series II, Sep 2026 Series I)",
+   "understand": [
+    "==Section 6 sets out the principles that govern every cash-flow table in the chapter. There are three: the **block of assets and depreciation** principle (§6.1), the **exclusion of financing costs** principle (§6.2), and the **post-tax** principle (§6.3).==",
+    "==**The post-tax principle** (SM §6.3): **tax payments, like other payments, must be properly deducted in deriving the cash flows — that is, cash flows must be defined in post-tax terms.** It is always better to avoid using pre-tax cash flows and a pre-tax discounting rate. ==**The discounting rate and the cash flows both must be post-tax only.**==",
+    "==**The CFAT statement ICAI prints** (SM §6.3):==\nSales value **less** Variable Cost **=** **Contribution**\n**less** Fixed Cost, being (a) **Fixed Cash Cost excluding Interest** and (b) **Depreciation**\n**=** **Earning Before Tax (EBT)**\n**less** Tax\n**=** **Earning After Tax (EAT)**\n**add** Depreciation\n**=** **Cash Inflow After Tax (CFAT)**",
+    "Three details in that statement earn marks on their own. The fixed cost line is split into **cash** cost and **depreciation**, because only the first is a real payment. The cash cost is **excluding interest**, which is §6.2 enforced inside the layout. And depreciation appears **twice** — once as a deduction and once as an add-back.",
+    "**SM Illustration 1 end to end.** ABC Ltd. is evaluating machinery with a depreciable base of ₹1,00,000, an economic life of 4 years, and changes in earnings before taxes and depreciation of ₹45,000, ₹30,000, ₹25,000 and ₹35,000. Straight-line depreciation and a 20% tax rate. ==Depreciation = ₹1,00,000 ÷ 4 = **₹25,000** a year.==\n\n| Year | 1 | 2 | 3 | 4 |\n|---|---|---|---|---|\n| Earnings before tax and depreciation | 45,000 | 30,000 | 25,000 | 35,000 |\n| Less: Depreciation | (25,000) | (25,000) | (25,000) | (25,000) |\n| Earnings before tax | 20,000 | 5,000 | 0 | 10,000 |\n| Less: Tax @ 20% | (4,000) | (1,000) | 0 | (2,000) |\n| Earnings after tax | 16,000 | 4,000 | 0 | 8,000 |\n| Add: Depreciation | 25,000 | 25,000 | 25,000 | 25,000 |\n| **Net cash flow** | **41,000** | **29,000** | **25,000** | **33,000** |\n\n==Year 3 is the one to notice: earnings before tax are nil, so the tax is nil, yet **the cash flow is ₹25,000 — the whole of the depreciation**.== That is the depreciation tax shield at its clearest.",
+    "**Why the principle is stated as a warning rather than a formula.** A pre-tax cash flow discounted at a pre-tax rate can give the right answer by accident, but a **post-tax flow discounted at a pre-tax rate, or the reverse, is always wrong** — and that mismatch is what exam questions set up when they give an interest rate 'post tax' or a cost of capital 'before tax'."
+   ],
+   "example": "MTP January 2025 Series II's Hemsparsh question hands candidates earnings 'before tax but after deducting interest expense' — a figure that breaches two principles at once. It has to be grossed back up for interest under §6.2 before being taken through the §6.3 ladder.",
+   "provisions": [
+    {
+     "ref": "Post-tax principle (SM §6.3)",
+     "status": "VERIFIED",
+     "requirement": "Cash flows must be defined in post-tax terms; the discounting rate and the cash flows must both be post-tax.",
+     "exam_angle": "Where a question gives a 'post-tax interest rate', gross it up by dividing by (1 − t) before computing the interest amount."
+    },
+    {
+     "ref": "CFAT statement (SM §6.3)",
+     "status": "VERIFIED",
+     "requirement": "Sales − Variable cost = Contribution; less fixed cash cost excluding interest and depreciation = EBT; less tax = EAT; add depreciation = CFAT.",
+     "exam_angle": "Reproduce the ladder as a labelled statement; examiners award the layout as well as the figures."
+    },
+    {
+     "ref": "The three principles of §6",
+     "status": "VERIFIED",
+     "requirement": "Block of assets and depreciation; exclusion of financing costs; post-tax.",
+     "exam_angle": "A 2-mark part can ask for the basic principles for measuring project cash flows — name all three."
+    }
+   ],
+   "keywords": [
+    "post-tax terms",
+    "fixed cash cost excluding interest",
+    "Cash Inflow After Tax",
+    "depreciation added back",
+    "both must be post-tax"
+   ],
+   "memory": {
+    "trick": "**Down, then up.** Depreciation goes **down** the statement to reduce tax, then comes back **up** to the cash flow. Everything between EBT and EAT is the only place tax ever appears.",
+    "key": [
+     ["Three principles (§6)", "Block of assets · exclusion of financing costs · post-tax"],
+     ["CFAT ladder", "Sales − VC = Contribution − Fixed cash cost − Dep = EBT − Tax = EAT + Dep = CFAT"],
+     ["Fixed cost line", "Split into cash cost (excluding interest) and depreciation"],
+     ["Rate and flows", "Both post-tax, never one of each"],
+     ["Post-tax rate given", "Gross up: pre-tax rate = post-tax rate ÷ (1 − t)"]
+    ],
+    "recall_trigger": "Depreciation goes down then comes back up"
+   },
+   "mistakes": [
+    "Discounting a post-tax cash flow at a pre-tax rate, or a pre-tax flow at a post-tax rate.",
+    "Leaving interest inside the fixed cash cost line.",
+    "Charging tax on a year in which EBT is nil or negative without saying so, instead of showing the tax as nil.",
+    "Treating a 'post-tax interest rate' as the rate to apply to the loan; it has to be grossed up by (1 − t) first."
+   ],
+   "links": [
+    "🔗 FM Ch 7 §6.1: the first of the three principles",
+    "🔗 FM Ch 7 §6.2: the second of the three principles",
+    "🔗 FM Ch 4 §4: the post-tax cost of debt, which is why the discount rate is already post-tax",
+    "🔗 FM Ch 6 §3.2: contribution, the first subtotal of the CFAT ladder"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Compute the cash inflow after tax for each year of a project (3–5 marks)",
+     "State the basic principles for measuring project cash flows (2 marks)",
+     "Appraise a project where the data are given before tax but after interest"
+    ],
+    "approach": [
+     "Write the CFAT ladder as a vertical statement with the fixed cost line split into cash cost and depreciation",
+     "Check the rate and the flows are on the same tax footing before discounting anything"
+    ],
+    "official_pattern": "MTP-J25-S2-FQ3; MTP-J26-S2-FQ1c; MTP-S26-S1-FMCQ1.",
+    "time_tip": "5 marks ≈ 9 minutes (study guidance)."
+   },
+   "official_questions": [
+    {
+     "id": "MTP-J25-S2-FQ3",
+     "marks": 10,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Hemsparsh Private Limited, a consultancy firm headquartered at Ahmedabad, plans a branch in Australia. A professional was paid ₹2,00,000 for the project report and ₹5,00,000 was spent on R&D. Initial outlay ₹25 crore for property and infrastructure plus ₹5 crore of working capital; calculations end at the end of year 10. Earnings before tax but after deducting interest expense run from ₹2,00,00,000 in year 1 to ₹2,90,00,000 in year 10, and those amounts include an allocated common cost of ₹12,50,000. Dividends of 10% of post-tax earnings are to be paid every year. The company will borrow ₹3 crore at a post-tax interest rate of 6.5% in India. Under the tax treaty the first three years are tax free and from year 4, 75% of corporate taxes are paid in the headquarters country and the balance in the other; total corporate tax rate 30%, capital gains tax 15% payable only in the headquarters country. Salvage value for depreciation purposes ₹90,00,000, assets disposed of at ₹3,50,00,000 at the end; no other assets in the block. The company wants a premium of 3% over the current MCLR of 12%. Required: NPV from the Indian law perspective, and two measures to recoup the investment within 3.5 years.",
+     "answer_points": [
+      "**Four items have to be dealt with before a single figure is discounted, and each is one of §5 and §6's principles:**",
+      "**The ₹2,00,000 project report fee and the ₹5,00,000 R&D cost are sunk costs** (SM §5(c)) — already incurred, so excluded.",
+      "**The ₹12,50,000 allocated common cost is added back** (SM §5(e)) — it is existing expenditure apportioned to the new branch, not an incremental outflow, so it has to be removed from the earnings figure.",
+      "==**The earnings are 'after deducting interest expense', so interest must be added back** (SM §6.2). The post-tax rate of 6.5% has to be grossed up first: pre-tax rate = 6.5% ÷ (1 − 0.30) = **9.286%**, so interest on ₹3 crore ≈ **₹27.86 lakh**, and it is that pre-tax amount that is added back before tax is computed.==",
+      "**The 10% dividend is irrelevant** (SM §6.2): expected dividends are deemed irrelevant in cash flow analysis.",
+      "**The discount rate is MCLR plus the premium**, 12% + 3% = **15%**, and it is already a post-tax required return, so the flows must be post-tax too (SM §6.3).",
+      "**Tax schedule.** Years 1 to 3 are tax free. From year 4, tax at 30% — but the requirement is the **Indian** perspective, and as the headquarters country India takes 75% of it, so **22.5% of taxable profit** is the Indian outflow.",
+      "**Terminal year.** Working capital of ₹5 crore is released. The assets are sold for ₹3,50,00,000 against a tax written-down value built from the ₹90,00,000 salvage basis; since there is **no other asset in the block**, the excess is a capital gain taxed at **15% in India only** (SM §6.1, Case 1).",
+      "**The two measures** for a 3.5-year recoupment are judgement, not arithmetic: accelerate the inflows (front-load billing, advance retainers) or reduce the outlay (lease rather than buy the property, phase the infrastructure) — the point being that the payback period is shortened either by raising early cash flows or by cutting the initial investment."
+     ],
+     "conclusion": "Every principle in §5 and §6 in one question: sunk costs out, allocated cost back, interest grossed up and added back, dividends ignored, flows and rate both post-tax.",
+     "keywords": [
+      "sunk cost",
+      "allocated common cost",
+      "post-tax interest grossed up",
+      "exclusion of financing costs",
+      "MCLR plus premium",
+      "capital gains at 15%"
+     ]
+    },
+    {
+     "id": "MTP-J26-S2-FQ1c",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Orion Aerospace Ltd. manufactures highly customised components for satellites launched by France and Germany and operates from eight locations including its central headquarters. To reduce escalating travel costs the Finance Director is considering video conferencing instead of physical meetings. Previously two executives from each location travelled to headquarters twice a year, at an average travel cost of ₹27,000 per executive per trip. Under the proposal a video conferencing system would be installed at each location at ₹8,25,000 per location, with the running costs, life and tax rate as given.",
+     "answer_points": [
+      "**Count the trips, not the locations.** Travel is incurred by the **seven** locations other than headquarters — two executives each, twice a year — so the avoided travel is 7 × 2 × 2 = **28 trips a year** at ₹27,000, or **₹7,56,000 a year**. Whether headquarters' own executives travel is the judgement the question is testing; state the assumption.",
+      "**The inflow is an avoided outflow.** ==A cost saving is an incremental cash inflow exactly as a sale would be (SM §5).== Deduct the running cost of the systems from the saving to get the net annual benefit before depreciation and tax.",
+      "**Outflow** = ₹8,25,000 × 8 locations if headquarters also needs a unit, which it does, since the meetings are held there. State the count you use.",
+      "**Then the ordinary ladder** (SM §6.3): net saving − depreciation = EBT; less tax; add depreciation back = CFAT. Discount at the cost of capital and accept on a positive NPV.",
+      "**Why this sits under §6.09 rather than under NPV.** The question is not about the NPV formula at all; it is about **identifying what is incremental** — which trips disappear, which do not, and which units have to be bought."
+     ],
+     "conclusion": "An avoided cost is an inflow; the whole question is a careful count of the trips that stop.",
+     "keywords": [
+      "cost saving as inflow",
+      "incremental",
+      "avoided travel cost",
+      "state your assumption"
+     ]
+    },
+    {
+     "id": "MTP-S26-S1-FMCQ1",
+     "marks": 10,
+     "status": "VERIFIED",
+     "format": "Case MCQs",
+     "question": "Part I case scenario of the September 2026 Series I mock: a company is deciding whether to process its waste further instead of disposing of it externally. The five MCQs ask for the incremental contribution before depreciation and tax, the cash inflow after taxes, the present value of the annual cash inflows, the NPV, and the profit before tax.",
+     "answer_points": [
+      "**(1) Incremental contribution before depreciation and tax.** ICAI's own working: incremental revenue ₹1,10,00,000 less incremental processing cost ₹50,00,000 less a further ₹10,00,000 = **₹50,00,000**.",
+      "**(2) Cash inflow after taxes.** Less depreciation of ₹1,20,00,000 ÷ 10 = ₹12,00,000, giving **profit before tax ₹38,00,000**; less tax at 50% = ₹19,00,000; **profit after tax ₹19,00,000**; add back depreciation ₹12,00,000 = **CFAT ₹31,00,000**.",
+      "**(3) Present value of the annual inflows.** ₹31,00,000 × PVAF = ₹31,00,000 × 5.019 = **₹1,55,58,900**.",
+      "**(4) NPV.** ₹1,55,58,900 − initial investment ₹1,20,00,000 = **₹35,58,900**. ==Since the NPV is positive, the company should process the waste further instead of disposing of it externally.==",
+      "**(5) Profit before tax** is the ₹38,00,000 computed at step 2 — ICAI asks it last to check that candidates can separate the accounting figure from the cash figure.",
+      "**The arithmetic is trivial; the sequencing is the lesson.** Contribution → depreciation → tax → add back → annuity factor → NPV, in that order, with the accounting profit available as a by-product at step 2."
+     ],
+     "conclusion": "NPV ₹35,58,900 — process the waste. The five MCQs are five rows of one table.",
+     "keywords": [
+      "incremental contribution",
+      "cash inflow after taxes",
+      "PVAF 5.019",
+      "NPV",
+      "profit before tax"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6. The Series I question paper is not published; the figures above are ICAI's own, taken from the published answer file."
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F07.12-01",
+     "angle": "Computation",
+     "difficulty": "Moderate",
+     "question": "A project's earnings before tax and depreciation in year 3 are nil. Depreciation for the year is ₹25,000 and the tax rate is 20%. The project's net cash flow for year 3 is:",
+     "options": {
+      "A": "Nil",
+      "B": "₹20,000",
+      "C": "₹5,000",
+      "D": "₹25,000"
+     },
+     "answer": "D",
+     "explanation": "SM Illustration 1, year 3: earnings before tax and depreciation nil, less depreciation ₹25,000 gives earnings before tax of nil in ICAI's own table, tax nil, earnings after tax nil, and adding depreciation back of ₹25,000 gives a net cash flow of ₹25,000. The whole of the depreciation survives as cash because no tax is paid.",
+     "why_wrong": {
+      "A": "Confuses the accounting result with the cash result; the add-back of depreciation remains.",
+      "B": "₹25,000 less 20% — but there is no tax to deduct from a nil profit.",
+      "C": "20% of ₹25,000 is the tax shield in a profit-making year, not the cash flow here."
+     },
+     "trap": "A nil profit does not mean a nil cash flow; depreciation is still added back.",
+     "concept": "F07.12"
+    },
+    {
+     "id": "MCQ-F07.09-01",
+     "angle": "Principles",
+     "difficulty": "Easy",
+     "question": "Under the post-tax principle of the study material:",
+     "options": {
+      "A": "Cash flows may be taken before tax provided the discount rate is also before tax",
+      "B": "Both the cash flows and the discounting rate must be post-tax",
+      "C": "Cash flows must be post-tax but the discount rate should be pre-tax",
+      "D": "Tax is ignored because it is a statutory and not a project cost"
+     },
+     "answer": "B",
+     "explanation": "SM §6.3: tax payments must be properly deducted in deriving the cash flows, it is always better to avoid using pre-tax cash flows and a pre-tax discounting rate, and 'the discounting rate and the cash flows, both must be post-tax only'.",
+     "why_wrong": {
+      "A": "ICAI expressly says it is always better to avoid the pre-tax route.",
+      "C": "That mismatch is the error the principle exists to prevent.",
+      "D": "Tax is a payment like any other and must be deducted."
+     },
+     "trap": "Option A is the answer a cost accountant might defend; the study material rules it out in terms.",
+     "concept": "F07.12"
+    }
+   ],
+   "recap": [
+    "Three principles in §6: block of assets, exclusion of financing costs, post-tax.",
+    "CFAT ladder: Sales − VC = Contribution − fixed cash cost (excluding interest) − depreciation = EBT − tax = EAT + depreciation = CFAT.",
+    "The flows and the discount rate must be on the same tax footing — both post-tax.",
+    "A nil-profit year still produces a cash flow equal to the depreciation."
+   ]
+  }
+ ]
+}

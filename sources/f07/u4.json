@@ -1,0 +1,1001 @@
+{
+ "confusing": [
+  {
+   "title": "The pairs that cost marks in capital budgeting questions",
+   "headers": [
+    "Looks similar",
+    "The real difference",
+    "Give-away word"
+   ],
+   "rows": [
+    [
+     "Payback period vs discounted payback period",
+     "Both cumulate inflows until the outlay is recovered; only the second discounts them first, which always lengthens the answer",
+     "The word 'discounted' — and if the answer is shorter than the simple payback, it is wrong"
+    ],
+    [
+     "NPV vs profitability index",
+     "NPV = PV of inflows − PV of outflows, in rupees; PI = PV of inflows ÷ PV of outflows, a ratio. PI = 1 + NPV ÷ I",
+     "'Which project adds most?' is NPV; 'which gives most per rupee?' is PI"
+    ],
+    [
+     "IRR vs MIRR",
+     "IRR assumes inflows are reinvested at the IRR itself; MIRR compounds them forward at the cost of capital and then solves for a rate",
+     "'Terminal value' means MIRR"
+    ],
+    [
+     "ARR vs IRR",
+     "ARR is average accounting profit over investment, undiscounted; IRR is the discount rate at which NPV is nil",
+     "ARR works on profit; IRR works on cash"
+    ],
+    [
+     "Payback reciprocal vs IRR",
+     "The reciprocal approximates the IRR, but only where inflows are level and the life is at least twice the payback period",
+     "An approximation needs its two conditions stated"
+    ],
+    [
+     "Initial investment vs average investment",
+     "ARR may use either; average investment = ½ (Initial − Salvage) + Salvage + additional working capital",
+     "'Based on average investment' doubles the ARR, roughly"
+    ],
+    [
+     "Replacement decision vs modernisation decision",
+     "Replacement is because the economic life is over; modernisation is because the asset is technologically outdated. Both are cost reduction decisions",
+     "Is the old machine worn out, or merely obsolete?"
+    ],
+    [
+     "Mutually exclusive vs contingent proposals",
+     "Mutually exclusive: accepting one excludes the others. Contingent: accepting one requires the other",
+     "'Will also have to invest in' means contingent"
+    ],
+    [
+     "Sunk cost vs opportunity cost",
+     "A sunk cost is already incurred and excluded entirely; an opportunity cost is a benefit forgone and included at its current value",
+     "'Already paid' excludes; 'could have been sold for' includes"
+    ],
+    [
+     "Sole asset in a block vs several assets in a block",
+     "Sole asset: no depreciation in the terminal year, and a short-term capital gain or loss arises. Several: depreciation on (opening WDV − sale value), and none if the sale value is higher",
+     "'Only asset in the block' crystallises the gain or loss"
+    ],
+    [
+     "Fixed cost including depreciation vs fixed cash cost",
+     "Only the cash part is deducted as a payment; the depreciation part is deducted for tax and added back",
+     "'Fixed cost including depreciation' means subtract the depreciation out first"
+    ],
+    [
+     "Replacement chain vs equivalent annualised criterion",
+     "Both handle unequal lives. The chain repeats the shorter project to a common life; the criterion divides each NPV by the PVAF for its own life",
+     "Lives of 3 and 5 years need 15 years of chain — use the criterion"
+    ],
+    [
+     "Working capital released vs salvage value",
+     "Both are terminal-year inflows, but the release of working capital is never taxed while the salvage value usually is",
+     "No tax on the release"
+    ],
+    [
+     "Cut-off rate vs internal rate of return",
+     "The cut-off rate is what management requires; the IRR is what the project delivers. The project is accepted when the second is at least the first",
+     "One is given, the other is computed"
+    ]
+   ]
+  },
+  {
+   "title": "Which technique answers which question",
+   "headers": [
+    "If the question asks",
+    "Use",
+    "And state"
+   ],
+   "rows": [
+    ["How long until the money is back?", "Payback period", "Compared with the maximum acceptable payback period"],
+    ["How long until the money is back, in today's rupees?", "Discounted payback period", "That it is superior because it respects the time value of money"],
+    ["What accounting return does the project show?", "ARR", "Whether the denominator is initial or average investment"],
+    ["How much wealth does the project add?", "NPV", "Accept if NPV ≥ 0"],
+    ["How much wealth per rupee committed?", "Profitability index", "Accept if PI ≥ 1"],
+    ["What return does the project earn?", "IRR", "Accept if IRR ≥ the cut-off rate"],
+    ["What return does it earn if cash is reinvested at the cost of capital?", "MIRR", "That it is also called the terminal value method"],
+    ["Which of these, given a limited budget?", "Capital rationing (§11.1)", "Divisible: NPV per rupee. Indivisible: combinations"],
+    ["Which of these, given different lives?", "Equivalent annualised criterion (§11.2)", "NPV ÷ PVAF for each project's own life"]
+   ]
+  }
+ ],
+ "cases": [
+  {
+   "id": "CASE-F07-INT-1",
+   "title": "Integrated Case 1 — Vedanta Castings Ltd. decides whether to replace",
+   "facts": [
+    "Vedanta Castings Ltd. bought its present moulding machine four years ago for ₹12,00,000. It has a total useful life of ten years, is depreciated on the straight line method with no salvage value, and can be sold today for ₹5,00,000.",
+    "The replacement under consideration costs ₹20,00,000 plus ₹1,00,000 of installation, has a six-year life and an estimated salvage value of ₹3,00,000 at the end of year 6.",
+    "The higher throughput will need ₹1,50,000 of additional working capital, released at the end of year 6.",
+    "Annual contribution will rise from ₹9,00,000 to ₹15,00,000, and annual fixed cash costs will rise by ₹1,00,000.",
+    "The company paid a consultant ₹40,000 last year for a feasibility report on the replacement. The tax rate is 30%, the cost of capital 10%, and the loss on sale of the old machine attracts tax relief at 30%. PVAF(10%, 6) = 4.355; PVIF(10%, 6) = 0.564; PVIF(10%, 1 to 5) = 0.909, 0.826, 0.751, 0.683, 0.621."
+   ],
+   "questions": [
+    {
+     "q": "The net initial cash outflow of the replacement is:",
+     "options": {
+      "A": "₹22,50,000",
+      "B": "₹17,50,000",
+      "C": "₹16,84,000",
+      "D": "₹17,24,000"
+     },
+     "answer": "C",
+     "reasoning": [
+      "**Start from the replacement layout of SM §5(a)(ii).** Cost of new asset ₹20,00,000 **add** installation ₹1,00,000 **add** increase in net working capital ₹1,50,000 = ₹22,50,000.",
+      "**Less net proceeds from sale of the old asset** ₹5,00,000 → ₹17,50,000.",
+      "**Less the tax saving on the loss on that sale.** The old machine's book value is ₹12,00,000 × 6/10 = **₹7,20,000**, so the loss on sale is ₹7,20,000 − ₹5,00,000 = **₹2,20,000**, and the tax relief at 30% is **₹66,000**. ₹17,50,000 − ₹66,000 = **₹16,84,000**.",
+      "==**The ₹40,000 consultancy fee is a sunk cost** (SM §5(c)) — already incurred and irreversible — so it appears nowhere. Option D is the answer for a candidate who adds it back in.==",
+      "Option A omits the old machine altogether, which is the one thing a replacement decision cannot do. Option B stops before the tax relief."
+     ]
+    },
+    {
+     "q": "The annual incremental cash inflow after tax is:",
+     "options": {
+      "A": "₹5,00,000",
+      "B": "₹3,20,000",
+      "C": "₹2,24,000",
+      "D": "₹4,04,000"
+     },
+     "answer": "D",
+     "reasoning": [
+      "**Incremental depreciation first.** The new machine's depreciation base is ₹20,00,000 + ₹1,00,000 − ₹3,00,000 = ₹18,00,000, so depreciation is **₹3,00,000** a year. The old machine's was ₹12,00,000 ÷ 10 = **₹1,20,000** a year, and it had six years left to run. ==**Incremental depreciation = ₹3,00,000 − ₹1,20,000 = ₹1,80,000.**==",
+      "**Then the ladder.** Incremental contribution ₹15,00,000 − ₹9,00,000 = ₹6,00,000; less incremental fixed cash cost ₹1,00,000 = **₹5,00,000**; less incremental depreciation ₹1,80,000 = **incremental PBT ₹3,20,000**; less tax at 30% ₹96,000 = **PAT ₹2,24,000**; **add depreciation back ₹1,80,000** = ==**₹4,04,000**==.",
+      "Option A stops at the pre-depreciation saving. Option B stops at PBT. ==Option C is PAT — the single commonest error in the chapter, which is forgetting to add the depreciation back.==",
+      "Note that the salvage value is **excluded from the depreciation base and counted once, in year 6**. Counting it in both places, or in neither, changes every figure that follows."
+     ]
+    },
+    {
+     "q": "The net present value of the replacement is:",
+     "options": {
+      "A": "₹5,82,870",
+      "B": "₹3,29,220",
+      "C": "₹(2,80,480)",
+      "D": "₹75,420"
+     },
+     "answer": "B",
+     "reasoning": [
+      "**Present value of the annual inflows.** ₹4,04,000 × PVAF(10%, 6) 4.355 = **₹17,59,420**.",
+      "**Terminal year extras.** Salvage ₹3,00,000 **plus** release of working capital ₹1,50,000 = ₹4,50,000 × PVIF(10%, 6) 0.564 = **₹2,53,800**. ==The release of working capital carries no tax (SM §5(d)).==",
+      "**Total present value of inflows = ₹17,59,420 + ₹2,53,800 = ₹20,13,220.**",
+      "==**NPV = ₹20,13,220 − ₹16,84,000 = ₹3,29,220.**==",
+      "Option A omits the initial outflow's tax relief and the working capital, inflating the result. ==Option C is the NPV the same project would show if the incremental contribution were only ₹4,00,000 rather than ₹6,00,000 — a reminder of how narrow the margin in a replacement decision usually is.== Option D forgets the terminal-year extras altogether."
+     ]
+    },
+    {
+     "q": "The profitability index and the discounted payback period are, and the decision is:",
+     "options": {
+      "A": "0.84 and 5.32 years — reject, because the index is below 1",
+      "B": "1.20 and 4.32 years — accept",
+      "C": "1.20 and 6.00 years — reject, because recovery takes the whole life",
+      "D": "1.20 and 5.32 years — accept"
+     },
+     "answer": "D",
+     "reasoning": [
+      "**Profitability index** = PV of inflows ÷ net initial outflow = ₹20,13,220 ÷ ₹16,84,000 = ==**1.20**==. It can be cross-checked from the identity PI = 1 + NPV ÷ I = 1 + (₹3,29,220 ÷ ₹16,84,000) = 1.1955.",
+      "**Discounted payback period.** Discounted inflows are ₹3,67,236, ₹3,33,704, ₹3,03,404, ₹2,75,932 and ₹2,50,884 for years 1 to 5, cumulating to **₹15,31,160**, and year 6's inflow of ₹4,04,000 + ₹4,50,000 = ₹8,54,000 discounts to ₹4,81,656. So recovery falls in year 6: ==**5 + (₹16,84,000 − ₹15,31,160) ÷ ₹4,81,656 = 5 + 0.32 = 5.32 years**==.",
+      "==**The decision.** NPV is positive at ₹3,29,220 and PI is above 1, so **the machine should be replaced** (SM §9.1 and §9.2). The discounted payback of 5.32 years against a six-year life is tight, and it is worth saying so — but it is not a rejection criterion unless management has set a maximum acceptable payback period shorter than that.==",
+      "Option A inverts the index. Option B is the **simple** payback period's neighbourhood, not the discounted one. Option C treats a long discounted payback as decisive, which §10 does not: the payback rule compares against management's maximum acceptable period, and none is given here."
+     ]
+    }
+   ],
+   "concepts": [
+    "F07.05",
+    "F07.08",
+    "F07.09",
+    "F07.19",
+    "F07.20",
+    "F07.26"
+   ],
+   "trap": "Three separate items in this case are there to be left out or put in at the wrong figure: the ₹40,000 consultancy fee (excluded entirely), the ₹1,50,000 of working capital (out at the start, back untaxed at the end) and the ₹3,00,000 salvage value (out of the depreciation base, into year 6's inflow). A candidate who handles all three correctly will reach ₹3,29,220; one who mishandles any of them will not."
+  },
+  {
+   "id": "CASE-F07-INT-2",
+   "title": "Integrated Case 2 — Saptagiri Packaging Ltd. and two lines of different lives",
+   "facts": [
+    "Saptagiri Packaging Ltd. must install one of two mutually exclusive packaging lines. Line P costs ₹12,00,000 and will generate cash inflows after tax of ₹4,20,000 a year for 4 years, with no salvage value.",
+    "Line Q costs ₹18,00,000 and will generate cash inflows after tax of ₹4,70,000 a year for 6 years, with no salvage value.",
+    "The company's cost of capital is 10%.",
+    "Annuity factors: PVAF(10%, 4) = 3.170; PVAF(10%, 6) = 4.355; PVAF(14%, 4) = 2.914; PVAF(16%, 4) = 2.798; PVAF(14%, 6) = 3.889; PVAF(16%, 6) = 3.685.",
+    "The managing director, looking at the two internal rates of return, proposes Line P. The finance director disagrees."
+   ],
+   "questions": [
+    {
+     "q": "The net present values of Line P and Line Q respectively are:",
+     "options": {
+      "A": "₹13,31,400 and ₹20,46,850",
+      "B": "₹1,31,400 and ₹2,04,685",
+      "C": "₹4,80,000 and ₹10,20,000",
+      "D": "₹1,31,400 and ₹2,46,850"
+     },
+     "answer": "D",
+     "reasoning": [
+      "**Line P.** ₹4,20,000 × 3.170 = ₹13,31,400 of present value, less the ₹12,00,000 outlay = ==**NPV ₹1,31,400**==.",
+      "**Line Q.** ₹4,70,000 × 4.355 = ₹20,46,850 of present value, less the ₹18,00,000 outlay = ==**NPV ₹2,46,850**==.",
+      "Option A gives the present values of the inflows without deducting the outlays — the last subtraction is what makes a number an NPV.",
+      "Option C is the undiscounted surplus (₹16,80,000 − ₹12,00,000 and ₹28,20,000 − ₹18,00,000), which ignores the time value of money entirely.",
+      "**On NPV, Line Q is better by ₹1,15,450.**"
+     ]
+    },
+    {
+     "q": "The internal rate of return of Line P, and the proposal that the IRR criterion favours, are:",
+     "options": {
+      "A": "14.98% — Line P, whose IRR of 14.98% exceeds Line Q's 14.58%",
+      "B": "14.58% — Line Q",
+      "C": "15.98% — Line P",
+      "D": "10.00% — neither, since both equal the cost of capital"
+     },
+     "answer": "A",
+     "reasoning": [
+      "**Find the annuity factor the project implies.** ₹12,00,000 ÷ ₹4,20,000 = **2.857**, which in the four-year row lies between 2.914 (14%) and 2.798 (16%).",
+      "**Discount at both rates.** At 14%: ₹4,20,000 × 2.914 = ₹12,23,880, so NPV = **+₹23,880**. At 16%: ₹4,20,000 × 2.798 = ₹11,75,160, so NPV = **−₹24,840**.",
+      "==**Interpolate** (SM §9.3): IRR = 14 + [₹23,880 ÷ (₹23,880 + ₹24,840)] × 2 = 14 + (23,880 ÷ 48,720) × 2 = 14 + 0.98 = **14.98%**.==",
+      "**Line Q by the same route.** ₹18,00,000 ÷ ₹4,70,000 = 3.830, between 3.889 (14%) and 3.685 (16%). NPV at 14% = +₹27,830; at 16% = −₹68,050. IRR = 14 + (27,830 ÷ 95,880) × 2 = ==**14.58%**==.",
+      "==So **the IRR criterion favours Line P**, 14.98% against 14.58% — which is the managing director's argument, and the reason this case exists.=="
+     ]
+    },
+    {
+     "q": "The equivalent annualised net present values of Line P and Line Q respectively are:",
+     "options": {
+      "A": "₹32,850 and ₹41,142",
+      "B": "₹41,451 and ₹56,682",
+      "C": "₹56,682 and ₹41,451",
+      "D": "₹1,31,400 and ₹2,46,850, since the criterion does not change the NPV"
+     },
+     "answer": "B",
+     "reasoning": [
+      "==**Equivalent annualised NPV = NPV ÷ PVAF for the project's own life** (SM §11.2).==",
+      "**Line P** = ₹1,31,400 ÷ 3.170 = ==**₹41,451 a year**==.",
+      "**Line Q** = ₹2,46,850 ÷ 4.355 = ==**₹56,682 a year**==.",
+      "Option A divides each NPV by the number of years rather than by the annuity factor — ₹1,31,400 ÷ 4 = ₹32,850 and ₹2,46,850 ÷ 6 = ₹41,142. ==The annuity factor, not the plain life, is what converts a present value into an equivalent annual amount.==",
+      "Option C reverses the two. Option D misstates the criterion: the whole purpose of the division is that raw NPVs of projects with different lives are not comparable.",
+      "**On the equivalent annualised criterion Line Q is better, by ₹15,231 a year.**"
+     ]
+    },
+    {
+     "q": "Which proposal should the company install, and on what reasoning?",
+     "options": {
+      "A": "Line P, because its internal rate of return is the higher and the IRR measures the return the project actually earns",
+      "B": "Line P, because its outlay is ₹6,00,000 lower and the saved capital can be invested elsewhere",
+      "C": "Line Q, because NPV and the equivalent annualised criterion both favour it, and IRR is a percentage that ignores both the scale of the investment and the difference in lives",
+      "D": "Either, since both have a positive NPV and an IRR above the cost of capital"
+     },
+     "answer": "C",
+     "reasoning": [
+      "**Line up the four results.** NPV: Q ₹2,46,850 against P ₹1,31,400 — **Q**. IRR: P 14.98% against Q 14.58% — **P**. Equivalent annualised NPV: Q ₹56,682 against P ₹41,451 — **Q**.",
+      "==**Two of ICAI's three conflict scenarios are present at once** (SM §9.7): a **scale disparity** (₹18,00,000 against ₹12,00,000) and a **disparity in life** (6 years against 4). Each on its own is enough to make the IRR ranking unreliable, because **IRR is a relative measure expressed in percentage and does not take into account the scale of investment or the quantum of money earned** (SM §9.3.2).==",
+      "==**NPV is the criterion in conformity with basic financial objectives**, because it is the addition to shareholders' wealth (SM §9.1). And since the lives differ, the NPV comparison is confirmed by the **equivalent annualised criterion** of §11.2, which is the proper test for unequal lives. **Both point to Line Q.** The finance director is right.==",
+      "Option A states the managing director's case. It is not wrong about what IRR measures; it is wrong to let that measure decide between proposals of different size and length.",
+      "Option B is a real argument but not an available one: the proposals are **mutually exclusive**, and nothing in the facts offers an alternative use for the ₹6,00,000. If such an alternative existed, the case would be one of capital rationing under §11.1.",
+      "Option D abandons the decision. ==Both proposals clear their hurdles, which is precisely why a choice has to be made — and 'either' is never an answer to a mutually exclusive question.=="
+     ]
+    }
+   ],
+   "concepts": [
+    "F07.06",
+    "F07.19",
+    "F07.21",
+    "F07.23",
+    "F07.29",
+    "F07.33"
+   ],
+   "trap": "The IRR here is not wrong, and it is not a trick: Line P genuinely earns a higher percentage. What makes it the wrong basis for the decision is that the two proposals differ in both size and life, which are two of the three scenarios §9.7 names. Answer the question ICAI asks — which line to install — on NPV confirmed by the equivalent annualised criterion, and explain why the higher IRR does not settle it."
+  }
+ ],
+ "chapter_test": {
+  "mcqs": [
+   {
+    "id": "CT-MCQ-F07-01",
+    "question": "The decision rule under the net present value method is to accept the proposal when:",
+    "options": {
+     "A": "NPV > 0 only",
+     "B": "NPV ≥ 0",
+     "C": "NPV ≥ 1",
+     "D": "NPV ≥ the initial investment"
+    },
+    "answer": "B",
+    "explanation": "SM §9.1 and the summary table at §10: if NPV ≥ 0 the proposal is accepted and if NPV < 0 it is rejected. A nil NPV means the project exactly earns its cost of capital, which is acceptable. PI, not NPV, is compared with 1."
+   },
+   {
+    "id": "CT-MCQ-F07-02",
+    "question": "Which item is excluded from a project's cash flows altogether?",
+    "options": {
+     "A": "A feasibility study fee already paid",
+     "B": "The current market value of land already owned that the project will use",
+     "C": "Working capital released at the end of the project",
+     "D": "An increase in overhead cost expected because the project is accepted"
+    },
+    "answer": "A",
+    "explanation": "SM §5(c): a sunk cost is an outlay already incurred that cannot be reversed; it has no impact on decision making and is excluded. The land is an opportunity cost included at its present sale value (§5(b)); the working capital release is a terminal inflow (§5(d)); and an incremental overhead is a cash outflow (§5(e))."
+   },
+   {
+    "id": "CT-MCQ-F07-03",
+    "question": "A machine with a written-down value of ₹40,960 at the start of its final year, being the only asset in its block, is sold for ₹50,000. The tax rate is 30%. The terminal-year tax effect is:",
+    "options": {
+     "A": "A tax benefit of ₹9,288 on a short-term capital loss",
+     "B": "Depreciation of ₹8,192 giving a benefit of ₹2,458",
+     "C": "A tax outflow of ₹2,712 on a short-term capital gain of ₹9,040",
+     "D": "Nil, because the sale value exceeds the written-down value"
+    },
+    "answer": "C",
+    "explanation": "SM §6.1, Example 2 as varied by ICAI: where the asset is the only one in its block and the sale value of ₹50,000 exceeds the opening WDV of ₹40,960, a short-term capital gain of ₹9,040 arises and the tax outflow at 30% is ₹2,712. Option D would be correct if there were several assets in the block."
+   },
+   {
+    "id": "CT-MCQ-F07-04",
+    "question": "A project's profit before interest and tax is ₹50,000, interest payable is ₹5,000 and the tax rate is 30%. Its profit after tax excluding financing cost is:",
+    "options": {
+     "A": "₹31,500",
+     "B": "₹45,000",
+     "C": "₹36,500",
+     "D": "₹35,000"
+    },
+    "answer": "D",
+    "explanation": "SM §6.2, Example 3 year 4: profit after tax is (₹50,000 − ₹5,000) × 0.70 = ₹31,500, to which Interest × (1 − t) = ₹3,500 is added back, giving ₹35,000 — the same figure as taxing the profit before interest and tax directly, ₹50,000 × 0.70."
+   },
+   {
+    "id": "CT-MCQ-F07-05",
+    "question": "A project costs ₹20,00,000 and yields an annual profit of ₹3,00,000 after depreciation at 12½% straight line but before tax at 50%. Its payback period is:",
+    "options": {
+     "A": "6.67 years",
+     "B": "13.33 years",
+     "C": "5 years",
+     "D": "4 years"
+    },
+    "answer": "C",
+    "explanation": "SM §8.1, Example 4: profit before tax ₹3,00,000 less tax at 50% gives ₹1,50,000, to which depreciation of ₹2,50,000 (12½% of ₹20,00,000) is added back for a cash inflow of ₹4,00,000. Payback = ₹20,00,000 ÷ ₹4,00,000 = 5 years. Option A divides by profit after tax and option B by profit before tax, both forgetting the add-back."
+   },
+   {
+    "id": "CT-MCQ-F07-06",
+    "question": "A project needs ₹10,00,000, earns average annual profit after tax and depreciation of ₹92,000, and its plant can be sold for ₹80,000 after five years. Its ARR on average investment is:",
+    "options": {
+     "A": "9.20%",
+     "B": "18.40%",
+     "C": "11.50%",
+     "D": "17.04%"
+    },
+    "answer": "D",
+    "explanation": "SM Illustration 2: average investment = ½ (₹10,00,000 − ₹80,000) + ₹80,000 = ₹5,40,000, so ARR = ₹92,000 ÷ ₹5,40,000 = 17.04%. On initial investment the same project gives 9.2%, which is option A."
+   },
+   {
+    "id": "CT-MCQ-F07-07",
+    "question": "Three projects have investments of ₹60,000, ₹1,00,000 and ₹1,50,000 and NPVs of ₹15,000, ₹20,000 and ₹25,000. The project with the highest profitability index is:",
+    "options": {
+     "A": "The third, with a PI of 1.167",
+     "B": "The second, with a PI of 1.20",
+     "C": "All three equally, since each NPV is positive",
+     "D": "The first, with a PI of 1.25"
+    },
+    "answer": "D",
+    "explanation": "RTP Jan 2026 FM Q2: PV of inflows = NPV + I, so ₹75,000, ₹1,20,000 and ₹1,75,000, and PI = PV ÷ I gives 1.25, 1.20 and 1.167. The smallest project has the highest index, while the largest has the highest NPV — the ranking conflict of SM §9.7 Scenario 1."
+   },
+   {
+    "id": "CT-MCQ-F07-08",
+    "question": "A project's NPV is +₹27,750 at 12% and −₹500 at 13%. Its IRR is:",
+    "options": {
+     "A": "12.500%",
+     "B": "12.978%",
+     "C": "13.018%",
+     "D": "12.018%"
+    },
+    "answer": "B",
+    "explanation": "SM Illustration 6: IRR = 12% + [₹27,750 ÷ (₹27,750 + ₹500)] × 1% = 12% + 27,750 ÷ 28,250 = 12.978%. The IRR must lie between the two trial rates and nearer the rate whose NPV is smaller in magnitude, which is 13%."
+   },
+   {
+    "id": "CT-MCQ-F07-09",
+    "question": "Multiple internal rates of return can arise where:",
+    "options": {
+     "A": "The project's cash flows change signs or reverse during its life",
+     "B": "The annual cash inflows are unequal",
+     "C": "The project is compared with another of a different life",
+     "D": "The cost of capital exceeds the internal rate of return"
+    },
+    "answer": "A",
+    "explanation": "SM §9.3.4: where project cash flows change signs or reverse during the life of a project — an initial outflow followed by inflows and then a major outflow — there may be more than one IRR, and the project should be invested in only if the cost of capital lies between IRR₁ and IRR₂."
+   },
+   {
+    "id": "CT-MCQ-F07-10",
+    "question": "In computing MIRR, all cash flows apart from the initial investment are brought to the terminal value using:",
+    "options": {
+     "A": "The project's internal rate of return",
+     "B": "The risk free rate",
+     "C": "An appropriate discount rate, usually the cost of capital",
+     "D": "The average of the IRR and the cost of capital"
+    },
+    "answer": "C",
+    "explanation": "SM §9.5: under MIRR all cash flows apart from the initial investment are brought to the terminal value using an appropriate discount rate, usually the cost of capital. Using the IRR itself would simply reproduce the IRR, and it is that assumption MIRR exists to replace."
+   },
+   {
+    "id": "CT-MCQ-F07-11",
+    "question": "Under capital rationing, where the competing projects are independent and indivisible, the study material directs that:",
+    "options": {
+     "A": "Projects be ranked on NPV per rupee of capital and a part-project taken at the margin",
+     "B": "The single project with the highest NPV be taken and the balance of the budget returned",
+     "C": "Projects be ranked on IRR, highest first",
+     "D": "Projects be ranked on absolute NPV and mixed up to the point available resources are exhausted"
+    },
+    "answer": "D",
+    "explanation": "SM §11.1(ii): where projects are not divisible they are ranked on the basis of absolute NPV and mixed up to the point available resources are exhausted. ICAI's own Illustration 13 then prefers the combination E + B + D over E + B + C, despite D ranking below C, because it gives a higher total NPV."
+   },
+   {
+    "id": "CT-MCQ-F07-12",
+    "question": "Project A has a 6-year life and an NPV of ₹6,49,094; Project B has a 3-year life and an NPV of ₹5,15,488. PVAF at 12% is 4.112 for six years and 2.402 for three. The project to be selected, and why, is:",
+    "options": {
+     "A": "Project A, because its NPV is higher",
+     "B": "Project B, because its equivalent annualised NPV of ₹2,14,608 exceeds Project A's ₹1,57,854",
+     "C": "Project A, because its equivalent annualised NPV is ₹1,57,854 against ₹2,14,608",
+     "D": "Project B, because its life is shorter and so its cash flows are less uncertain"
+    },
+    "answer": "B",
+    "explanation": "SM §11.2, Illustration 14: dividing each NPV by the PVAF for its own life gives ₹1,57,854 for A and ₹2,14,608 for B, so Project B should be selected even though its NPV is lower. Raw NPVs cannot be compared where the lives differ, and a shorter life is not by itself a reason for preference."
+   }
+  ],
+  "descriptive": [
+   {
+    "id": "CT-D-F07-01",
+    "marks": "5",
+    "question": "A company is considering a project requiring an outlay of ₹15,00,000 on plant and ₹2,00,000 of working capital, released at the end of year 5. Cash flows before depreciation and tax are ₹5,50,000 a year for five years. Depreciation is on the straight line method with a salvage value of ₹1,00,000. Tax is 30% and the cost of capital 12%. PVAF(12%, 5) = 3.605; PVIF(12%, 5) = 0.567. Calculate the net present value, the profitability index and the discounted payback period, and advise. PVIF(12%, 1 to 4) = 0.893, 0.797, 0.712, 0.636.",
+    "answer_points": [
+     "**Depreciation** = (₹15,00,000 − ₹1,00,000) ÷ 5 = **₹2,80,000** a year.",
+     "**Annual CFAT.** Cash flow before depreciation and tax ₹5,50,000; less depreciation ₹2,80,000 = **EBT ₹2,70,000**; less tax at 30% ₹81,000 = **EAT ₹1,89,000**; add depreciation back ₹2,80,000 = **CFAT ₹4,69,000**.",
+     "**Initial outflow** = ₹15,00,000 + ₹2,00,000 = **₹17,00,000**.",
+     "**Present value of the annual inflows** = ₹4,69,000 × 3.605 = **₹16,90,745**.",
+     "**Terminal year** adds the salvage value ₹1,00,000 and the release of working capital ₹2,00,000 — ₹3,00,000 × 0.567 = **₹1,70,100**. Note that **the release of working capital is not taxed** (SM §5(d)).",
+     "**Total present value of inflows = ₹18,60,845.** **NPV = ₹18,60,845 − ₹17,00,000 = ₹1,60,845.**",
+     "**Profitability index** = ₹18,60,845 ÷ ₹17,00,000 = **1.095**, which cross-checks as 1 + (₹1,60,845 ÷ ₹17,00,000).",
+     "**Discounted payback period.** Discounted CFAT: ₹4,18,817, ₹3,73,793, ₹3,33,928, ₹2,98,284 and ₹2,65,923 for years 1 to 5, cumulating to ₹4,18,817, ₹7,92,610, ₹11,26,538, ₹14,24,822 and ₹16,90,745; year 5 also carries ₹1,70,100 of terminal inflow, so the cumulative total at the end of year 5 is ₹18,60,845. The outlay of ₹17,00,000 is passed during year 5, when the discounted inflow is ₹2,65,923 + ₹1,70,100 = ₹4,36,023. **Discounted payback = 4 + (₹17,00,000 − ₹14,24,822) ÷ ₹4,36,023 = 4 + 0.63 = 4.63 years.**",
+     "**Advice.** The NPV is positive and the profitability index exceeds 1, so **the project should be accepted** (SM §9.1 and §9.2). The discounted payback of 4.63 years against a five-year life leaves little margin, and that should be stated alongside the recommendation."
+    ],
+    "keywords": [
+     "depreciation net of salvage",
+     "CFAT",
+     "release of working capital untaxed",
+     "profitability index",
+     "discounted payback"
+    ]
+   },
+   {
+    "id": "CT-D-F07-02",
+    "marks": "5",
+    "question": "A company is replacing an old machine with a new one. The old machine cost ₹8,00,000 six years ago and is depreciated straight line over ten years with no salvage; it can be sold today for ₹2,00,000. The new machine costs ₹14,00,000 with a four-year life and a salvage value of ₹2,00,000. Annual cash operating savings are ₹5,00,000. The old machine is the only asset in its block and the tax rate is 30%; the cost of capital is 10%. PVAF(10%, 4) = 3.170; PVIF(10%, 4) = 0.683. Calculate the NPV of the replacement and advise, treating the terminal sale under the block-of-assets rule.",
+    "answer_points": [
+     "**Initial outflow.** Cost of new machine ₹14,00,000 less sale proceeds of the old ₹2,00,000 = ₹12,00,000. The old machine's book value is ₹8,00,000 × 4/10 = ₹3,20,000, so the **loss on sale is ₹1,20,000** and the tax relief at 30% is **₹36,000**. **Net initial outflow = ₹11,64,000.**",
+     "**Incremental depreciation.** New machine: (₹14,00,000 − ₹2,00,000) ÷ 4 = **₹3,00,000**. Old machine: ₹8,00,000 ÷ 10 = **₹80,000**, which it would have charged for its four remaining years. **Incremental depreciation = ₹2,20,000.**",
+     "**Annual CFAT.** Savings ₹5,00,000; less incremental depreciation ₹2,20,000 = ₹2,80,000; less tax at 30% ₹84,000 = ₹1,96,000; add depreciation back ₹2,20,000 = **₹4,16,000**.",
+     "**Present value of the annual inflows** = ₹4,16,000 × 3.170 = **₹13,18,720**.",
+     "**Terminal year, under SM §6.1.** The new machine is sold for its salvage value of ₹2,00,000. Because it is the sole asset in its block and the depreciation base already brought the written-down value down to ₹2,00,000 under the straight line method, **there is no capital gain or loss and no further tax effect**: the ₹2,00,000 is a clean inflow, worth ₹2,00,000 × 0.683 = **₹1,36,600**.",
+     "**Total present value of inflows = ₹14,55,320. NPV = ₹14,55,320 − ₹11,64,000 = ₹2,91,320.**",
+     "**Advice.** The NPV is positive, so **the old machine should be replaced.**",
+     "**The point to state explicitly.** Where the salvage value is **excluded from the depreciation base**, as it is under the straight line method here, the written-down value at the end of the life equals the salvage value and the block-of-assets rule produces no gain or loss. It is under the **written down value** method, where the closing WDV rarely equals the sale value, that §6.1's Case 1 and Case 2 become decisive."
+    ],
+    "keywords": [
+     "trade in of the old machine",
+     "tax relief on the book loss",
+     "incremental depreciation",
+     "block of assets",
+     "no gain where WDV equals salvage"
+    ]
+   },
+   {
+    "id": "CT-D-F07-03",
+    "marks": "4",
+    "question": "State the concept of the exclusion of financing costs principle, and explain how a project's cash flows are adjusted where the profit figure given has been struck after interest.",
+    "answer_points": [
+     "**The principle.** When cash flows relating to long-term funds are being defined, the financing costs of those funds — **interest on long-term debt and equity dividend** — are excluded from the analysis.",
+     "**The reason.** Interest and dividend payments are **already reflected in the weighted average cost of capital** used as the discount rate, so deducting them again inside the cash flows would **count the cost of long-term funds twice**.",
+     "**The two limbs.** (i) **The interest on long-term debt is ignored while computing profits and taxes.** (ii) **The expected dividends are deemed irrelevant in cash flow analysis.**",
+     "**Why dividends raise no difficulty.** They come only out of profit after taxes, so they never enter the computation in the first place.",
+     "**The adjustment for interest.** Interest is usually deducted in arriving at profit after tax, so **an amount equal to Interest × (1 − Tax rate) must be added back** to the profit after tax figure. ICAI's identity: Profit Before Interest and Tax × (1 − t) = (PBT + Interest)(1 − t) = PBT(1 − t) + Interest(1 − t) = Profit After Tax + Interest(1 − t).",
+     "**The equivalent route.** Applying the tax rate **directly to the profit before interest and tax** gives the same answer. ICAI's Example 3 proves it: on a PBIT of ₹40,000 with interest of ₹5,000 and tax at 30%, both routes give ₹28,000.",
+     "**One practical warning.** Where a question gives a **post-tax interest rate**, gross it up first — pre-tax rate = post-tax rate ÷ (1 − t) — before computing the interest amount to be added back."
+    ],
+    "keywords": [
+     "counted twice",
+     "reflected in the WACC",
+     "interest ignored, dividends irrelevant",
+     "Interest (1 − t)",
+     "post-tax rate grossed up"
+    ]
+   },
+   {
+    "id": "CT-D-F07-04",
+    "marks": "4",
+    "question": "Compare the net present value and internal rate of return methods, and state the scenarios in which the two reach different conclusions.",
+    "answer_points": [
+     "**What they share** (SM §9.6). Both are **discounted cash flow methods which consider the time value of money**, and both **consider all cash flows over the expected useful life** of the investment.",
+     "**How they differ in form.** NPV is an **absolute** measure, expressed in rupees, and uses a given desired rate of return. IRR is a **relative** measure, expressed as a percentage, and estimates the rate at which the present value of the inflows equals the outflow.",
+     "**Scenario 1 — scale or size disparity.** Because IRR is relative and NPV absolute, projects of different size may be ranked differently. ICAI's Illustration 10: NPV at 10% of ₹25,050 and ₹59,300 against IRRs of 24.26% and 21.48% — NPV prefers the larger project and IRR the smaller.",
+     "**Scenario 2 — time disparity in cash flows.** Total inflows may be similar but their timing different, with a larger part arriving early in one project and late in the other. ICAI's Illustration 11: NPV of ₹51,950 and ₹53,350 against IRRs of 24.87% and 17.60%.",
+     "**Scenario 3 — disparity in life of proposals.** Conflict may arise where two mutually exclusive projects have unequal lives. ICAI's Illustration 12: NPV at 12% of ₹1,69,750 and ₹3,36,400 against IRRs of 50.00% and 43.07%.",
+     "**The reason behind all three** (SM §9.3.3). NPV assumes cash flows are **reinvested at the discount rate**; IRR assumes they are **reinvested at the project's own IRR**. That assumption favours projects with heavy cash flows in the early years.",
+     "**Which should prevail.** NPV, because it measures the **addition to shareholders' wealth** and so conforms to the basic financial objective. Where a project with a larger fund commitment has the lower IRR, it may still contribute more in absolute NPV, and a decision based only on IRR would then be wrong. Where the lives differ, the NPV comparison must be made on an equivalent annualised basis under §11.2."
+    ],
+    "keywords": [
+     "both discount all flows over the useful life",
+     "absolute against relative",
+     "scale disparity",
+     "time disparity",
+     "unequal lives",
+     "reinvestment assumption"
+    ]
+   },
+   {
+    "id": "CT-D-F07-05",
+    "marks": "4",
+    "question": "A company with a capital spending limit of ₹1,20,000 has five projects, all with positive NPVs at its cut-off rate of 15%: A ₹50,000 (NPV ₹15,400), B ₹40,000 (₹18,700), C ₹25,000 (₹10,100), D ₹30,000 (₹11,200) and E ₹35,000 (₹19,300). Illustrate the package of projects to be undertaken if the projects are independent and divisible, and separately if they are not divisible.",
+    "answer_points": [
+     "**The situation is capital rationing** (SM §11.1): every project is worth doing on its own NPV, but the capital available is not enough for all of them.",
+     "**Where the projects are divisible, rank on NPV per rupee of capital.** A: ₹15,400 ÷ ₹50,000 = **0.31** (rank 5). B: ₹18,700 ÷ ₹40,000 = **0.47** (rank 2). C: ₹10,100 ÷ ₹25,000 = **0.40** (rank 3). D: ₹11,200 ÷ ₹30,000 = **0.37** (rank 4). E: ₹19,300 ÷ ₹35,000 = **0.55** (rank 1).",
+     "**Build the package in rank order.** E ₹35,000 (NPV ₹19,300) + B ₹40,000 (₹18,700) + C ₹25,000 (₹10,100) = ₹1,00,000 invested, leaving ₹20,000 — which buys **two-thirds of project D**, contributing ₹7,500 of its ₹11,200 NPV. **Total investment ₹1,20,000; total NPV ₹55,600. Project A is rejected and only two-thirds of project D is undertaken.**",
+     "**Where the projects are not divisible, rank on absolute NPV and examine combinations** up to the point resources are exhausted. **E + B + C** = ₹1,00,000 invested, NPV **₹48,100**. **E + B + D** = ₹1,05,000 invested, NPV **₹49,200**.",
+     "**E + B + D is preferable**, as it provides a higher NPV **despite D ranking lower than C** on NPV per rupee.",
+     "**The lesson.** A ranking by NPV per rupee is a reliable guide only while part-projects are possible. Once they are not, the ranking is a starting point and combinations must be tested — which is exactly the limitation §9.2 records for the profitability index: it fails as a guide in resolving capital rationing where projects are indivisible.",
+     "**And note that indivisibility wastes capital.** The best indivisible package spends ₹1,05,000 of the ₹1,20,000 available; the aim is to waste the least **value**, not the least money."
+    ],
+    "keywords": [
+     "capital rationing",
+     "NPV per rupee of capital",
+     "two-thirds of project D",
+     "combinations",
+     "D ranking lower than C"
+    ]
+   },
+   {
+    "id": "CT-D-F07-06",
+    "marks": "3",
+    "question": "Explain the methods available for choosing between projects with unequal lives, and state the drawback of the first of them.",
+    "answer_points": [
+     "**When the problem arises** (SM §11.2). Two situations: **retaining an old asset or replacing it with a new one**, and **choosing one proposal among two mutually exclusive proposals**. Evaluating either poses no special problem where the lives are the same; the problem arises where they are unequal, because raw NPVs are then not comparable.",
+     "**Method 1 — Replacement Chain (Common Life) Method.** The shorter project is assumed to be repeated until the two lives are equal, and the NPVs are then compared over that common life. On ICAI's Illustration 14, Project B's three-year life is doubled to match Project A's six years, and the NPV of the extended Project B is **₹8,82,403** against Project A's ₹6,49,094 — so Project B becomes the more attractive.",
+     "**Its drawback.** Where the two lives are not simple multiples the arithmetic becomes impractical: **comparing a three-year project with a five-year one would require analysing fifteen years, the common multiple of the two lives.**",
+     "**Method 2 — Equivalent Annualized Criterion**, in three steps: **(a)** compute the NPV using the WACC or discounting rate; **(b)** compute the Present Value Annuity Factor of that rate **for the period of each project**; **(c)** divide the NPV by the PVAF and compare the values.",
+     "**On ICAI's own figures.** Project A: ₹6,49,094 ÷ 4.112 = **₹1,57,854**. Project B: ₹5,15,488 ÷ 2.402 = **₹2,14,608**. **Project B should be selected** — the project with the lower NPV, because it earns more per year of life.",
+     "**Where the NPVs are negative**, as in a choice between two cost-saving assets neither of which pays for itself, the same division gives an **equivalent annual cost**, and the option with the **least negative** figure is chosen."
+    ],
+    "keywords": [
+     "replacement chain",
+     "common multiple of fifteen years",
+     "equivalent annualised criterion",
+     "NPV ÷ PVAF for its own life",
+     "equivalent annual cost"
+    ]
+   }
+  ]
+ },
+ "recall": {
+  "quick": [
+   {
+    "q": "Name the seven capital budgeting techniques in the study material's classification.",
+    "a": "Non-discounting: payback period and accounting rate of return. Discounting: NPV, profitability index, IRR, discounted payback period and MIRR."
+   },
+   {
+    "q": "What are the four reasons capital budgeting decisions are critical?",
+    "a": "Substantial investment, long time period, irreversibility and complex decisions."
+   },
+   {
+    "q": "Name the six phases of the capital budgeting process.",
+    "a": "Planning, Evaluation, Selection, Implementation, Control and Review."
+   },
+   {
+    "q": "What are the three basic principles for measuring project cash flows?",
+    "a": "Block of assets and depreciation; exclusion of financing costs; the post-tax principle."
+   },
+   {
+    "q": "What are the three categories into which project cash flows are placed?",
+    "a": "Initial cash outflow, interim cash flows and terminal-year net cash flow."
+   },
+   {
+    "q": "What does the terminal-year cash flow carry that the interim years do not?",
+    "a": "The final salvage value net of disposal cost, the tax saving or expense on that disposal, and the release of net working capital."
+   },
+   {
+    "q": "Under what two conditions is the payback reciprocal a close approximation of the IRR?",
+    "a": "The life of the project is at least twice the payback period, and the project generates equal amounts of annual cash inflows."
+   },
+   {
+    "q": "What are the three scenarios in which NPV and IRR reach different conclusions?",
+    "a": "Scale or size disparity, time disparity in cash flows, and disparity in the life of the proposals."
+   }
+  ],
+  "fill": [
+   {
+    "q": "Net present value = Present value of cash inflows − ______.",
+    "a": "Present value of cash outflows"
+   },
+   {
+    "q": "Profitability index = Sum of discounted cash inflows ÷ ______.",
+    "a": "Initial cash outlay, or total discounted cash outflow as the case may be"
+   },
+   {
+    "q": "IRR = LR + [NPV at LR ÷ (NPV at LR − NPV at HR)] × ______.",
+    "a": "(HR − LR)"
+   },
+   {
+    "q": "Payback period = Total initial capital investment ÷ ______.",
+    "a": "Annual expected after-tax net cash flow"
+   },
+   {
+    "q": "Average investment = ½ (Initial investment − Salvage value) + Salvage value + ______.",
+    "a": "Additional working capital"
+   },
+   {
+    "q": "Payback reciprocal = ______ ÷ Initial investment.",
+    "a": "Average annual cash inflow"
+   },
+   {
+    "q": "Equivalent annualised criterion = NPV ÷ ______.",
+    "a": "The present value annuity factor for the project's own life"
+   },
+   {
+    "q": "Where interest has been deducted in arriving at profit after tax, add back ______.",
+    "a": "Interest × (1 − Tax rate)"
+   }
+  ],
+  "true_false": [
+   {
+    "s": "Depreciation is excluded from a project's cash flows altogether because it is a non-cash item.",
+    "a": "False",
+    "reason": "It is deducted to compute the tax and then added back to compute the cash flow; the tax it saves is a real inflow, which SM §5(a) calls the tax shield."
+   },
+   {
+    "s": "A feasibility study fee already paid is part of the project's initial outflow.",
+    "a": "False",
+    "reason": "It is a sunk cost, already incurred and irreversible, and SM §5(c) excludes it from capital budgeting analysis."
+   },
+   {
+    "s": "Land already owned enters a project's outflow at the price originally paid for it.",
+    "a": "False",
+    "reason": "It enters as an opportunity cost at its present sale value — ICAI's own example uses ₹10 crore of current value against a ₹1 crore historical cost."
+   },
+   {
+    "s": "The release of working capital in the terminal year is taxed as income.",
+    "a": "False",
+    "reason": "It is a return of the firm's own money and carries no tax; SM §5(d) adds that no depreciation is provided on working capital either."
+   },
+   {
+    "s": "Where an asset is the only one in its block, no depreciation is charged in the terminal year.",
+    "a": "True",
+    "reason": "SM §6.1 Case 1: the block ceases to exist, so the difference between opening WDV and sale value is a short-term capital loss or gain rather than depreciation."
+   },
+   {
+    "s": "A project with a nil net present value should be rejected.",
+    "a": "False",
+    "reason": "SM §9.1 and §10 accept where NPV ≥ 0; a nil NPV means the project exactly earns its cost of capital."
+   },
+   {
+    "s": "The discounted payback period can be shorter than the simple payback period.",
+    "a": "False",
+    "reason": "Discounting reduces every inflow, so recovery can only take longer — ICAI's Example 10 turns 5 years into about 10 at a 15% required rate."
+   },
+   {
+    "s": "Between two mutually exclusive projects of unequal lives, the one with the higher NPV should always be chosen.",
+    "a": "False",
+    "reason": "SM §11.2 requires the replacement chain or the equivalent annualised criterion; in ICAI's Illustration 14 and in May 2026's past paper the project with the lower NPV wins."
+   }
+  ],
+  "one_word": [
+   {
+    "q": "An outlay already incurred that cannot be reversed and is excluded from the analysis.",
+    "a": "Sunk cost"
+   },
+   {
+    "q": "The benefit forgone by using an asset in this project rather than its best alternative.",
+    "a": "Opportunity cost"
+   },
+   {
+    "q": "The tax saved because depreciation is charged.",
+    "a": "Tax shield"
+   },
+   {
+    "q": "A group of assets within a class on which depreciation is charged at the same rate.",
+    "a": "Block of assets"
+   },
+   {
+    "q": "The minimum rate management wishes to have from any project.",
+    "a": "Cut-off rate"
+   },
+   {
+    "q": "Another name for the profitability index used in the study material.",
+    "a": "Desirability factor (or present value index)"
+   },
+   {
+    "q": "Another name for the modified internal rate of return method.",
+    "a": "Terminal value method"
+   },
+   {
+    "q": "The method that repeats a shorter project until two projects' lives are equal.",
+    "a": "Replacement chain (common life) method"
+   }
+  ],
+  "match": {
+   "left": [
+    "Payback period",
+    "ARR",
+    "NPV",
+    "Profitability index",
+    "IRR",
+    "MIRR",
+    "Equivalent annualised criterion"
+   ],
+   "right": [
+    "NPV ÷ PVAF for the project's own life — used for unequal lives",
+    "Accept if ≥ 1; a relative measure of profitability",
+    "Average annual net income ÷ investment — works on accounting profit",
+    "Accept if the rate exceeds the cut-off rate; assumes reinvestment at itself",
+    "Total initial capital investment ÷ annual after-tax net cash flow",
+    "Inflows compounded to a terminal value at the cost of capital",
+    "PV of inflows − PV of outflows; accept if ≥ 0"
+   ],
+   "key": [
+    "Payback period – Total initial capital investment ÷ annual after-tax net cash flow",
+    "ARR – Average annual net income ÷ investment — works on accounting profit",
+    "NPV – PV of inflows − PV of outflows; accept if ≥ 0",
+    "Profitability index – Accept if ≥ 1; a relative measure of profitability",
+    "IRR – Accept if the rate exceeds the cut-off rate; assumes reinvestment at itself",
+    "MIRR – Inflows compounded to a terminal value at the cost of capital",
+    "Equivalent annualised criterion – NPV ÷ PVAF for the project's own life — used for unequal lives"
+   ]
+  },
+  "differentiate": [
+   {
+    "q": "Payback period vs discounted payback period",
+    "a": "Both measure the time for cumulative inflows to recover the outflow. The payback period uses undiscounted inflows and so ignores the time value of money; the discounted payback period discounts them at a predetermined rate first, and is therefore considered superior. Discounting always lengthens the answer, and the gap widens as the required rate rises."
+   },
+   {
+    "q": "NPV vs profitability index",
+    "a": "NPV is an absolute measure, the rupee addition to shareholders' wealth, accepted when it is at least nil. PI is a relative measure, discounted inflows per rupee of discounted outflow, accepted when it is at least 1. PI = 1 + NPV ÷ I, so the two never disagree on accept-reject, but they disagree on ranking whenever the outlays differ."
+   },
+   {
+    "q": "IRR vs MIRR",
+    "a": "Both are rates of return at which the project's present value balances. IRR assumes all inflows are reinvested at the IRR itself, can be more than one where cash flows change sign, and may conflict with NPV. MIRR compounds all inflows except the initial investment to a terminal value at the cost of capital and then solves for the rate — which eliminates multiple rates, fixes the reinvestment assumption, and gives results consistent with NPV."
+   },
+   {
+    "q": "ARR vs IRR",
+    "a": "ARR is average annual accounting net income as a percentage of initial or average investment; it ignores the time value of money and depends on the firm's accounting policies. IRR is the discount rate at which the present value of cash inflows equals the outflow; it works on cash, considers the time value of money and all cash flows, and is compared with the cut-off rate."
+   },
+   {
+    "q": "Mutually exclusive decisions vs contingent decisions",
+    "a": "Mutually exclusive proposals are such that accepting one excludes accepting the others — a semi-automatic machine or a highly automatic one. Contingent proposals are dependent: investing in one requires investing in one or more others, as a factory in a remote area requires roads and employee housing."
+   },
+   {
+    "q": "Replacement chain method vs equivalent annualised criterion",
+    "a": "Both resolve a comparison between projects of unequal lives. The replacement chain repeats the shorter project until the lives match and compares NPVs over that common life; its drawback is that lives of three and five years need a fifteen-year analysis. The equivalent annualised criterion divides each project's NPV by the annuity factor for its own life, needing no common life at all."
+   }
+  ],
+  "flowchart": {
+   "steps": [
+    "Strike out every sunk cost and every merely apportioned overhead the question mentions",
+    "Build year 0: cost of the asset + installation + working capital, less the old asset's sale proceeds and the tax on that sale if this is a replacement",
+    "Build the depreciation ladder — straight line on cost less salvage, or WDV at the stated rate",
+    "Build the annual CFAT: Sales − variable cost = Contribution − fixed cash cost (excluding interest) − depreciation = EBT − tax = EAT + depreciation = CFAT",
+    "Build the terminal year: CFAT + salvage net of disposal cost ± tax under the block-of-assets rule + release of working capital",
+    "Discount at the WACC: annuity factor where the flow is level, year-by-year factors where it is not",
+    "NPV = PV of inflows − PV of outflows · PI = PV of inflows ÷ PV of outflows · discounted payback from the cumulative column",
+    "If asked for IRR, find two rates that straddle a nil NPV and interpolate; if asked for MIRR, compound the inflows forward at the cost of capital instead",
+    "If the lives differ, divide each NPV by the PVAF for its own life before comparing",
+    "State the decision in words, with the reason"
+   ],
+   "note": "Steps 1 to 5 carry most of the marks in every numerical in this chapter; steps 6 to 9 are one line each."
+  }
+ },
+ "revision": {
+  "five": [
+   "NPV = PV of inflows − PV of outflows; accept if NPV ≥ 0. PI = inflows ÷ outflows; accept if PI ≥ 1. IRR ≥ cut-off rate; accept.",
+   "Depreciation is deducted for tax and added back for cash. Interest is never deducted. Sunk costs and apportioned overheads are never included.",
+   "Working capital goes out at the start and comes back untaxed at the end; the terminal year also carries salvage value and the tax on it.",
+   "Sole asset in its block: no depreciation in the terminal year, and a short-term capital gain or loss arises. Several assets: depreciation on (opening WDV − sale value).",
+   "Unequal lives: equivalent annualised NPV = NPV ÷ PVAF for the project's own life. It reversed the NPV ranking in May 2026's past paper."
+  ],
+  "fifteen": [
+   "Add the CFAT ladder in full, with the fixed cost line split into cash cost and depreciation.",
+   "Add the two initial-outflow layouts — fresh project against replacement — and the three categories of cash flow.",
+   "Add average investment = ½ (Initial − Salvage) + Salvage + additional working capital, and the three versions of ARR.",
+   "Add the payback reciprocal with both of its conditions, and the interpolation formula for IRR.",
+   "Add MIRR: compound every inflow forward at the cost of capital, the last factor being 1.000, then (TV ÷ outflow)^(1/n) − 1.",
+   "Add the capital rationing rule: divisible means NPV per rupee; indivisible means absolute NPV plus combinations."
+  ],
+  "thirty": [
+   "Work one replacement NPV end to end — HCP Ltd. (May 2024) is the best single drill, with its subsidy discounted in the outflow and undiscounted in the depreciation base.",
+   "Work one reverse-working question — May 2025 Q3(a), where an IRR of 12% gives the initial investment of ₹3,08,640 and five techniques follow from it.",
+   "Work the block-of-assets grid from SM Example 2: ₹9,288, ₹1,858 and ₹2,712 in ICAI's three variants.",
+   "Add the §10 decision table in full, both columns, noting that only the PI row is qualified for mutually exclusive projects.",
+   "Add the three conflict scenarios of §9.7 with one of ICAI's illustrations attached to each.",
+   "Add the two unequal-lives methods, with the replacement chain's fifteen-year drawback."
+  ],
+  "sixty": [
+   "Work both integrated cases and all twelve chapter-test MCQs, then the six descriptive questions against the model points.",
+   "Work the four past papers that carry a full NPV: HCP Ltd. (May 2024), SRT Limited (Jan 2025), Global Beverage (Sep 2025) and R Ltd. (May 2026) — the last two because one ends in a rejection and the other in a ranking reversal.",
+   "Work RMC World Ltd. (MTP Mar 2024 Series II) once, and you have worked Nova Green Mobility Ltd. (MTP Sep 2026 Series II) as well.",
+   "Work Algo Steel Ltd. (Jan 2026) for the two hidden figures — the tax rate inside the depreciation shield and the discount rate inside the capital structure.",
+   "Work the Baton and Katon case (MTP Sep 2025 Series I) for an equivalent annual cost comparison where both NPVs are negative.",
+   "Finish on capital rationing — SM Illustration 13 — because it is the one section of the chapter that no past paper, RTP or MTP has yet tested."
+  ]
+ },
+ "one_page": {
+  "sections": [
+   {
+    "title": "What the chapter is about",
+    "points": [
+     "Investment decision = optimum use of funds to maximise the wealth of the organisation and its shareholders",
+     "Capital budgeting = applying the principles of budgeting to capital investment",
+     "It involves identifying strategic projects, estimating post-tax incremental cash flows, and selecting the proposal that maximises investor return",
+     "Critical because of substantial investment, long time period, irreversibility and complexity",
+     "Six phases: Planning · Evaluation · Selection · Implementation · Control · Review",
+     "Three steps of the procedure: estimate cash flows · evaluate alternatives · fix the WACC as the discount rate"
+    ]
+   },
+   {
+    "title": "Types of decision",
+    "points": [
+     "By the firm's existence: replacement (life over) and modernisation (technologically outdated) = cost reduction decisions",
+     "Expansion (add capacity) and diversification (new products or markets) = revenue expansion decisions",
+     "By situation: mutually exclusive (accepting one excludes the others), accept-reject (independent), contingent (one requires another)"
+    ]
+   },
+   {
+    "title": "Estimating the cash flows",
+    "points": [
+     "Only incremental post-tax cash flows count",
+     "Depreciation: deduct for tax, add back for cash — the tax shield is an inflow",
+     "Opportunity cost: include at current sale value · Sunk cost: exclude entirely",
+     "Working capital: out at the start, back untaxed at the end, never depreciated",
+     "Allocated overhead: exclude, unless it is incremental · Additional capital: outflow in the year it falls",
+     "Three categories: initial outflow · interim flows · terminal-year flow",
+     "Terminal year extras: salvage net of disposal cost · tax on disposal · release of working capital"
+    ]
+   },
+   {
+    "title": "The three principles of §6",
+    "points": [
+     "Block of assets: sole asset → no depreciation in the terminal year, STCL or STCG arises. Several assets → depreciation on (opening WDV − sale value), none if the sale value is higher",
+     "Exclusion of financing costs: interest on long-term debt ignored, dividends irrelevant — both are already in the WACC",
+     "If interest was deducted, add back Interest × (1 − t); or tax the profit before interest and tax directly",
+     "Post-tax: the cash flows and the discount rate must both be post-tax",
+     "CFAT ladder: Sales − VC = Contribution − fixed cash cost (excluding interest) − depreciation = EBT − tax = EAT + depreciation = CFAT"
+    ]
+   },
+   {
+    "title": "The two non-discounting techniques",
+    "points": [
+     "Payback period = total initial capital investment ÷ annual after-tax net cash flow; for uneven flows cumulate and add the fraction of the final year",
+     "Advantages: easy, understandable, a proxy for risk. Limitations: ignores the time value of money, ignores flows after payback, biased against long projects",
+     "Payback reciprocal = average annual cash inflow ÷ initial investment ≈ IRR, but only for level inflows over a life of at least twice the payback",
+     "ARR = average annual net income ÷ investment (initial or average)",
+     "Average investment = ½ (Initial − Salvage) + Salvage + additional working capital",
+     "ARR's unique limitation: it depends on accounting policy, because it works on profit rather than cash"
+    ]
+   },
+   {
+    "title": "The five discounting techniques",
+    "points": [
+     "NPV = PV of inflows − PV of outflows; accept if ≥ 0; highest positive NPV among mutually exclusive projects",
+     "PI = discounted inflows ÷ discounted outflows; accept if ≥ 1; PI = 1 + NPV ÷ I",
+     "IRR = the rate at which NPV is nil; IRR = LR + [NPV at LR ÷ (NPV at LR − NPV at HR)] × (HR − LR); accept if ≥ the cut-off rate",
+     "Discounted payback period = payback on discounted flows; superior to simple payback, and always longer",
+     "MIRR = (terminal value ÷ outflow)^(1/n) − 1, the terminal value being the inflows compounded forward at the cost of capital with a final factor of 1.000",
+     "Cut-off rate = the minimum return management requires, usually based on the cost of capital; usable as the discount rate or the opportunity cost rate"
+    ]
+   },
+   {
+    "title": "Where the techniques disagree",
+    "points": [
+     "IRR is a percentage and ignores the scale of investment and the quantum of money earned",
+     "NPV assumes reinvestment at the discount rate; IRR assumes reinvestment at its own rate, which flatters front-loaded projects",
+     "Multiple IRR arises where the cash flows change sign more than once; invest only if the cost of capital lies between the two rates",
+     "Three conflict scenarios: scale or size disparity · time disparity in cash flows · unequal lives",
+     "NPV decides, because it measures the addition to shareholders' wealth"
+    ]
+   },
+   {
+    "title": "The two special cases",
+    "points": [
+     "Capital rationing: several positive-NPV projects, not enough capital",
+     "Divisible projects → rank on NPV per rupee of capital, taking a fraction of the marginal project",
+     "Indivisible projects → rank on absolute NPV and test combinations; the lower-ranked project may belong in the chosen package",
+     "Unequal lives: replacement chain (repeat the shorter project to a common life) or the equivalent annualised criterion",
+     "Equivalent annualised NPV = NPV ÷ PVAF for the project's own life; where the NPVs are negative the result is an equivalent annual cost and the least negative wins"
+    ]
+   },
+   {
+    "title": "The figures worth carrying into the hall",
+    "points": [
+     "Block of assets (SM Example 2): opening WDV ₹40,960 · Case 1 benefit ₹9,288 · Case 2 benefit ₹1,858 · Case 1 outflow ₹2,712 on a ₹50,000 sale",
+     "ARR (SM Example 7): 37.15% annual basis · 26.67% total investment basis · 41.03% average investment basis",
+     "IRR illustrations: 12.978% · 10.704% · 15.74%",
+     "MIRR (SM Illustration 9): terminal value ₹2,13,587 on ₹1,36,000 → 9% at a cost of capital of 8%",
+     "Capital rationing (SM Illustration 13): ₹55,600 divisible · ₹49,200 indivisible on E + B + D",
+     "Unequal lives (SM Illustration 14): ₹1,57,854 against ₹2,14,608 → the shorter project wins"
+    ]
+   }
+  ]
+ },
+ "verification": {
+  "sources": [
+   "ICAI SM Paper 6A Module 2 Ch 7 'Investment Decisions' (relevant for May 2026 examination onwards edition), §1 to §11.2 with Examples 1–10 and Illustrations 1–18",
+   "Suggested answers May 2024 – May 2026, including the Part I case scenarios of September 2024 and May 2026",
+   "RTPs May 2024 – Sep 2026 (chapter assignment follows ICAI's own topic labels — 'Investment Decision', 'Investment Decisions', 'Capital Budgeting Decision')",
+   "MTPs Mar 2024 – Aug 2026 (third-party copies of ICAI MTPs; Sep 2026 Series I question paper not available)",
+   "sources/register.json F07.01–F07.33 · sources/atoms/atoms_F07.json (35 atoms)"
+  ],
+  "open_items": [
+   {
+    "id": "OV-F07-01",
+    "item": "RTP Jan 2025 FM Q9 states that the asset is the only one in its block, which under SM §6.1 Case 1 means no depreciation should be charged in the terminal year. ICAI's published answer nevertheless charges ₹69.63 lakhs of depreciation in year 5 and then computes the short-term capital loss on the resulting closing written-down value. Both the SM rule and ICAI's own treatment are reproduced; neither has been harmonised away.",
+    "resolve_with": "None needed; reproduce ICAI's treatment when answering that question and the SM rule when asked the principle"
+   },
+   {
+    "id": "OV-F07-02",
+    "item": "MTP Mar 2024 Series I FM Q2(a) (NC Ltd.) gives a tax rate of 40% and uses 40% for the depreciation shields, but computes the tax shield on the capital loss at 30% — ₹3.73 crores × 30% = ₹1.12 crores. At 40% it would be ₹1.49 crores and the NPV ₹59.62 crores rather than ₹59.47 crores. The inconsistency is in ICAI's answer.",
+    "resolve_with": "None needed; use the question's own 40% if asked the principle, with a note"
+   },
+   {
+    "id": "OV-F07-03",
+    "item": "MTP Sep 2026 Series I question paper is not published. Its Part I case scenario (processing waste further rather than disposing of it externally) is reconstructed from the published answer file, whose own figures are used: incremental contribution ₹50,00,000, CFAT ₹31,00,000, PVAF 5.019, NPV ₹35,58,900.",
+    "resolve_with": "Download the question paper from the ICAI BoS portal if it is released"
+   },
+   {
+    "id": "OV-F07-04",
+    "item": "ICAI's published May 2024 suggested answers do not print the mark allocation for Q3(a) (HCP Ltd.), and the May 2024 question paper in sources/qp has no text layer. The atom and the evidence table therefore show a dash rather than an inferred figure.",
+    "resolve_with": "Obtain a text-searchable copy of the May 2024 question paper"
+   },
+   {
+    "id": "OV-F07-05",
+    "item": "RTP Sep 2026 FM Q7 (P Limited) advises selecting Machine I because it ranks better on two of the three measures computed, although NPV — which SM §9.1 and §10 make the criterion in conformity with wealth maximisation — favours Machine II by ₹31,165, and the machines have unequal lives (5 years against 6) so that §11.2 would ordinarily apply. On an equivalent annualised comparison Machine II also wins, ₹28,721 a year against ₹24,108. ICAI's computation and advice are reproduced, with the reservation stated.",
+    "resolve_with": "None needed; reproduce ICAI's answer and add the NPV and equivalent-annualised reservation in one sentence"
+   },
+   {
+    "id": "OV-F07-06",
+    "item": "MTP Jan 2025 Series I FM MCQ 7 prints the annuity factor as 'PVAF (15,4 years) 3.79', while ICAI's own answer uses it as PVAF (10%, 5 years) = 3.79, which is the reading consistent with the stated IRR of 10% and life of 5 years. The printed label is a misprint.",
+    "resolve_with": "None needed; the answer file settles the intended reading"
+   },
+   {
+    "id": "OV-F07-07",
+    "item": "MTP Sep 2025 Series I FM Part I case prints option (ii)(b) as ₹(14,071) while ICAI's answer computes ₹(14,077); ₹(53,365) ÷ 3.791 = ₹14,077.3. Option (b) is the intended key either way.",
+    "resolve_with": "None needed"
+   },
+   {
+    "id": "OV-F07-08",
+    "item": "Capital budgeting under capital rationing (SM §11.1, Illustration 13) has not been asked in any past paper, RTP or MTP between May 2024 and September 2026. It is a standing gap in the official question set and therefore a live risk for the January 2027 attempt; the chapter test carries a 4-mark descriptive question on it for that reason.",
+    "resolve_with": "None needed; the gap is the reason for the coverage"
+   },
+   {
+    "id": "OV-F07-09",
+    "item": "SM Illustration 18 (HMR Ltd., in §11.2) and RTP May 2024 FM Q5 are the same question with different figures — book value ₹2,40,000 against ₹2,50,000, trade-in ₹1,00,000 against ₹1,50,000, price ₹4,50,000 against ₹6,00,000, and the book and tax depreciation methods reversed between them. Both are reproduced where they belong rather than merged.",
+    "resolve_with": "None needed; the pair is useful as a drill"
+   }
+  ],
+  "qa": [
+   {
+    "check": "SM headings covered",
+    "result": "33 of 33 (F07.01 to F07.33)"
+   },
+   {
+    "check": "Official questions placed",
+    "result": "35 of 35"
+   },
+   {
+    "check": "Topic blocks",
+    "result": "18"
+   },
+   {
+    "check": "Generated MCQ key balance",
+    "result": "Target A14 · B14 · C14 · D14 across 36 concept MCQs, 8 case MCQs and 12 chapter-test MCQs"
+   },
+   {
+    "check": "Case MCQ answers checked against their own final reasoning line",
+    "result": "Both cases checked; Case 1 Q4 and Case 2 Q4 each state the decision the reasoning reaches"
+   },
+   {
+    "check": "Figures cross-checked against ICAI's own published answers",
+    "result": "HCP Ltd. NPV ₹4,71,640 / PI 1.224 / DPP 4.87 years; SRT Limited NPV ₹81,44,884 / PI 4.62; Global Beverage NPV ₹(2,63,870); Algo Steel ARR 63.07% / WACC 12% / NPV ₹18,86,370; R Ltd. EAC ₹1,37,060 against ₹1,10,500; May 2025 Q3(a) investment ₹3,08,640 / NPV ₹13,730 / PI 1.0445 / DPP 3.845 years / MIRR 11.20%; RTP Jan 2025 NPV ₹135.20 lakhs / IRR 18.89% / PI 1.1352; RTP Sep 2026 Machine I 4.49 years / ₹86,909 / 15.46% and Machine II 5.41 years / ₹1,18,074 / 14.74%; RMC World NPV ₹3,18,98,684; NC Ltd. NPV ₹59.47 crores; Linty ₹9,70,000 and ₹10,98,000 of inflow; Baton ₹(53,365) / ₹(14,077) and Katon ₹(41,667) / ₹(7,810); MTP May 2026 Series I Option I ₹(4,938) and Option II +₹476"
+   },
+   {
+    "check": "Figures cross-checked against the SM's own examples and illustrations",
+    "result": "Example 1 tax shield ₹0.45 crore; Example 2 WDV ₹40,960 with ₹9,288 / ₹1,858 / ₹2,712; Example 3 PAT excluding financing cost ₹7,000 / ₹14,000 / ₹28,000 / ₹35,000; Example 4 payback 5 years; Example 5 payback 3 and 3¼ years; Example 6 reciprocal 20%; Example 7 ARR 37.15% / 26.67% / 41.03%; Example 10 discounted payback about 10 years; Illustration 1 cash flows ₹41,000 / ₹29,000 / ₹25,000 / ₹33,000; Illustration 2 ARR 9.2% and 17.04%; Illustration 3 NPV ₹27,340; Illustration 4 NPVs ₹(19,750) / ₹25,635 / ₹27,050 / ₹(3,750); Illustration 5 factors 1.18 / 1.27 / 1.001; Illustration 6 IRR 12.978%; Illustration 7 IRR 10.704%; Illustration 8 IRR 15.74%; Illustration 9 MIRR 9% on a terminal value of ₹2,13,587; Illustrations 10–12 the three conflict scenarios; Illustration 13 ₹55,600 and ₹49,200; Illustration 14 ₹1,57,854 and ₹2,14,608 with the chain NPV ₹8,82,403"
+   },
+   {
+    "check": "Examiners' comments",
+    "result": "ICAI publishes none for Paper 6; none are invented"
+   }
+  ]
+ }
+}

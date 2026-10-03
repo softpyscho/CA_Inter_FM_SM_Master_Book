@@ -1,0 +1,918 @@
+{
+ "concepts": [
+  {
+   "code": "F07.10",
+   "title": "6.1 Block of Assets and Depreciation",
+   "activity": "Very High",
+   "update_sensitive": true,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 1 (Jan 2025) · MTP 3 (Mar 2024 Series I and II, Sep 2026 Series II)",
+   "understand": [
+    "==The tax shield from depreciation is part of the project's cash flow, and **taxable income is computed as per the provisions of the Income Tax or similar Act**. That Act works on the concept of a **'Block of Assets' — a group of assets falling within a particular class of assets** (building, machinery, furniture) **in respect of which depreciation is charged at the same rate**.==",
+    "==**The whole of §6.1 turns on one question: does the block consist of one asset, or several?** The treatment of tax in the terminal year depends on the answer.==",
+    "**SM Example 2, the working the examiner expects.** A Ltd. acquires machinery for ₹1,00,000, depreciable at **20% WDV**, expected life 5 years, salvage value ₹10,000. Depreciation for the first four years is common to both cases:\n\n| | ₹ |\n|---|---|\n| Purchase price | 1,00,000 |\n| Less: Depreciation @ 20% year 1 | 20,000 |\n| WDV end of year 1 | 80,000 |\n| Less: Depreciation @ 20% year 2 | 16,000 |\n| WDV end of year 2 | 64,000 |\n| Less: Depreciation @ 20% year 3 | 12,800 |\n| WDV end of year 3 | 51,200 |\n| Less: Depreciation @ 20% year 4 | 10,240 |\n| **WDV end of year 4** | **40,960** |",
+    "==**Case 1 — there is no other asset in the block.** When there is only one asset in the block and the block ceases to exist at the end of year 5, ==**no depreciation is charged in year 5**== and the tax benefit or loss is computed on the short-term capital loss or gain: WDV at the beginning of year 5 ₹40,960 **less** sale value ₹10,000 **=** **short-term capital loss (STCL) ₹30,960**; ==**tax benefit on STCL at 30% = ₹9,288**==.",
+    "==**Case 2 — more than one asset exists in the block.** Depreciation **is** charged in the terminal year, on a WDV found by **deducting the sale value from the WDV at the beginning of that year**: ₹40,960 − ₹10,000 = ₹30,960; depreciation at 20% = ₹6,192; ==**tax benefit on depreciation at 30% = ₹1,858**==.",
+    "==**Now change the sale value to ₹50,000.** In **Case 2 no depreciation is provided at all**, because the WDV at the beginning of year 5 (₹40,960) is **less than** the sale value of ₹50,000. In **Case 1** there is a **short-term capital gain** of ₹50,000 − ₹40,960 = **₹9,040**, and a **tax outflow on STCG at 30% of ₹2,712**.==",
+    "Read the four outcomes as a 2 × 2 grid: **one asset or many**, crossed with **sale below WDV or above it**. One asset and sale below WDV gives a capital loss and a tax **benefit**; one asset and sale above WDV gives a capital gain and a tax **outflow**; many assets and sale below WDV gives depreciation on the net figure; many assets and sale above WDV gives **no depreciation**.",
+    "**Where the exam questions sit.** Almost every official question in this chapter that uses WDV depreciation says, in one line, either 'this is the only asset in the entire block' (RTP Jan 2025) or 'assume no other assets in the block' (MTP Jan 2025 Series II) — and that line is worth a mark or two on its own, because it decides whether the terminal year carries depreciation or a capital gain or loss."
+   ],
+   "example": "RTP January 2025's project depreciates ₹850 lakh at 20% WDV to a year-5-closing WDV of ₹278.53 lakh and sells the asset for ₹140 lakh, giving a short-term capital loss of ₹138.53 lakh and, at 15%, a tax saving of ₹20.78 lakh — worth ₹10.81 lakh in present value and the difference between an NPV of ₹124.39 lakh and ICAI's ₹135.20 lakh.",
+   "provisions": [
+    {
+     "ref": "Block of assets (SM §6.1)",
+     "status": "VERIFIED",
+     "requirement": "A block of assets is a group of assets within a class on which depreciation is charged at the same rate; the tax treatment in the terminal year depends on whether the block holds one asset or several.",
+     "exam_angle": "Look for the sentence in the question that tells you which case applies; it is never an accident."
+    },
+    {
+     "ref": "Case 1 — sole asset in the block (SM §6.1)",
+     "status": "VERIFIED",
+     "requirement": "No depreciation in the terminal year; the difference between opening WDV and sale value is a short-term capital loss (tax benefit) or gain (tax outflow).",
+     "exam_angle": "Use the capital gains tax rate if the question gives one separately, as RTP Jan 2025 does at 15%."
+    },
+    {
+     "ref": "Case 2 — several assets in the block (SM §6.1)",
+     "status": "VERIFIED",
+     "requirement": "Depreciation is charged in the terminal year on (opening WDV − sale value); if the sale value exceeds the opening WDV, no depreciation is provided.",
+     "exam_angle": "There is no capital gain or loss in Case 2 — the block absorbs it."
+    }
+   ],
+   "keywords": [
+    "block of assets",
+    "same rate of depreciation",
+    "no other asset in the block",
+    "short term capital loss",
+    "short term capital gain",
+    "no depreciation shall be provided"
+   ],
+   "memory": {
+    "trick": "**Alone it crystallises; in company it absorbs.** A sole asset in its block crystallises a capital gain or loss on sale; an asset among others is absorbed into the block, so the difference simply changes next year's depreciation base.",
+    "key": [
+     ["One asset · sale < WDV", "No depreciation in the last year; STCL; tax benefit"],
+     ["One asset · sale > WDV", "No depreciation in the last year; STCG; tax outflow"],
+     ["Many assets · sale < WDV", "Depreciation on (opening WDV − sale value)"],
+     ["Many assets · sale > WDV", "No depreciation at all"],
+     ["SM figures", "₹1,00,000 at 20% WDV → WDV ₹40,960 at start of year 5"],
+     ["Case 1 at ₹10,000", "STCL ₹30,960 → tax benefit ₹9,288 at 30%"],
+     ["Case 2 at ₹10,000", "Depreciation ₹6,192 → tax benefit ₹1,858 at 30%"],
+     ["Case 1 at ₹50,000", "STCG ₹9,040 → tax outflow ₹2,712 at 30%"]
+    ],
+    "recall_trigger": "Alone it crystallises; in company it absorbs"
+   },
+   "mistakes": [
+    "Charging depreciation in the terminal year when the asset is the only one in its block — ICAI's Case 1 says no depreciation is charged in that year.",
+    "Computing depreciation in Case 2 on the full opening WDV instead of on opening WDV less sale value.",
+    "Providing depreciation in Case 2 when the sale value exceeds the opening WDV; ICAI says none is provided.",
+    "Using the normal tax rate on a capital gain or loss where the question gives a separate capital gains rate.",
+    "Treating the whole sale proceeds as taxable; only the excess over WDV is."
+   ],
+   "compare": {
+    "title": "The four terminal-year outcomes (SM §6.1, Example 2)",
+    "headers": [
+     "Block",
+     "Sale value below opening WDV",
+     "Sale value above opening WDV"
+    ],
+    "rows": [
+     ["Only one asset in the block", "No depreciation in the terminal year; STCL = WDV − sale value; tax benefit (SM: ₹30,960 → ₹9,288 at 30%)", "No depreciation in the terminal year; STCG = sale value − WDV; tax outflow (SM: ₹9,040 → ₹2,712 at 30%)"],
+     ["More than one asset in the block", "Depreciation charged on (WDV − sale value) (SM: ₹30,960 × 20% = ₹6,192 → ₹1,858 at 30%)", "No depreciation provided at all"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 7 §5: the terminal-year cash flow this feeds",
+    "🔗 FM Ch 7 §6.3: the post-tax principle, which makes the shield a cash flow",
+    "🔗 FM Ch 2 §4: the lease-or-buy comparison, where the same depreciation shield decides the answer"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Compute the NPV of a project depreciated on WDV where the asset is the only one in its block (8–10 marks)",
+     "Compute the tax benefit or outflow on the terminal sale of an asset (2–3 marks inside a larger question)"
+    ],
+    "approach": [
+     "Build the WDV ladder year by year before anything else; the terminal figure is what the last year needs",
+     "Read the question for 'only asset in the block' or 'no other assets in the block', and apply Case 1 or Case 2 accordingly",
+     "Where a separate capital gains rate is given, use it for the terminal difference and the normal rate for the operating flows"
+    ],
+    "official_pattern": "RTP-J25-FQ9; MTP-M24-S1-FQ2a; MTP-M24-S2-FQ1c; MTP-S26-S2-FQ1c.",
+    "time_tip": "A full WDV-based NPV ≈ 15–18 minutes for 8–10 marks (study guidance)."
+   },
+   "official_questions": [
+    {
+     "id": "RTP-J25-FQ9",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "A company is considering a project requiring ₹850 lakhs in plant and machinery and ₹150 lakhs in working capital. Cash flows before tax and depreciation over five years are ₹290, ₹320, ₹360, ₹390 and ₹270 lakhs. The desired rate of return is 14%; assets are depreciated at 20% on written down value; scrap value at the end of year five is ₹140 lakhs; income tax 20%; this is the only asset in the entire block; capital gains tax is 15% (for capital loss as well). Calculate the NPV and advise, the IRR, and the desirability factor.",
+     "answer_points": [
+      "**Present value of cash outflow.** Initial investment ₹850 lakhs plus working capital ₹150 lakhs = **₹1,000 lakhs at time zero**.",
+      "**Depreciation ladder at 20% WDV** (₹ lakhs): **170.00, 136.00, 108.80, 87.04, 69.63**, leaving a written-down value of **₹278.53 lakhs** at the end of year 5.",
+      "**CFAT (₹ lakhs).** NPBDT 290 / 320 / 360 / 390 / 270; less depreciation gives NPBT 120.00 / 184.00 / 251.20 / 302.96 / 200.37; less tax at 20% gives NPAT 96.00 / 147.20 / 200.96 / 242.37 / 160.29; add depreciation back gives **CFAT 266.00 / 283.20 / 309.76 / 329.41 / 229.93**.",
+      "**Year 5 carries two extras**: the **release of working capital ₹150 lakhs** and the **scrap ₹140 lakhs**, both added to that year's CFAT before discounting. At 14% the five present values are 234.08, 218.06, 207.54, 194.35 and 270.36, so **total PV of inflows = ₹1,124.40 lakhs**.",
+      "**The capital loss, computed separately.** WDV at the end of year 5 ₹278.53 lakhs less sale value ₹140 lakhs = **loss on sale ₹138.53 lakhs**; tax saving at the capital gains rate of **15% = ₹20.78 lakhs**; discounted at the year-5 factor of 0.52 = **₹10.81 lakhs**.",
+      "==**NPV = ₹1,124.40 + ₹10.81 − ₹1,000 = ₹135.20 lakhs.** Since the NPV is positive the project should be accepted.==",
+      "**IRR.** At 16% the NPV is still positive at ₹77.29 lakhs; at 20% it is negative at ₹(29.75) lakhs. Interpolating, **IRR = 16 + [77.29 ÷ (77.29 + 29.75)] × 4 = 18.89%**, comfortably above the 14% required return.",
+      "**Desirability factor** = total PV of inflows ₹1,135.21 lakhs (₹1,124.40 + ₹10.81) ÷ PV of outflow ₹1,000 lakhs = **1.1352**.",
+      "==**A divergence worth knowing about.** The question says the asset is the only one in its block, which under SM §6.1 Case 1 means **no depreciation in year 5**. ICAI's published answer nevertheless charges ₹69.63 lakhs of depreciation in year 5 and then computes the capital loss on the resulting closing WDV. Reproduce ICAI's own treatment in an answer to this question, but state the SM rule if asked the principle — the two are not the same, and the examiner's own figures follow the answer rather than the rule.=="
+     ],
+     "conclusion": "NPV ₹135.20 lakhs, IRR 18.89%, PI 1.1352 — accept. The capital loss is computed outside the CFAT table and added as its own present value.",
+     "keywords": [
+      "20% WDV",
+      "only asset in the block",
+      "short term capital loss",
+      "capital gains tax 15%",
+      "release of working capital",
+      "desirability factor"
+     ]
+    },
+    {
+     "id": "MTP-M24-S1-FQ2a",
+     "marks": 8,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "NC Ltd. is considering a new machine. The old machine processes 5,000 units of TVs a week; the new machine, which is product specific, can produce 15,000 units a week. The new machine costs ₹100 crores and requires working capital of ₹3 crores, released at the end of year 5, with a salvage value of ₹20 crores. Demand for TVs is 10,000 units a week. Each TV sells for ₹30,000 at a P/V ratio of 0.10. The company works 56 weeks a year. Additional fixed costs excluding depreciation rise by ₹10 crores. Tax 40%; after-tax cost of capital 20%; depreciation 25% on WDV for both tax and accounts; the existing machine has no scrap value. Advise whether to replace.",
+     "answer_points": [
+      "==**The first mark is in reading the three capacity figures.** The new machine can make 15,000 units a week, but **demand is only 10,000**, and the old machine already makes 5,000 — so the **increase in sales is 5,000 units a week**, not 10,000 and not 15,000.==",
+      "**Contribution per unit** = ₹30,000 × 0.10 = **₹3,000**. **Increase in contribution** = 5,000 × ₹3,000 × 56 weeks = **₹84 crores**. Less additional fixed cost ₹10 crores = **increase in profit ₹74 crores**; less tax at 40% ₹29.6 crores = **profit after tax ₹44.4 crores a year**.",
+      "**Depreciation at 25% WDV on ₹100 crores** (₹ crores): 25.00, 18.75, 14.06, 10.55, 7.91, leaving a WDV of **₹23.73 crores**. The tax shield each year is 40% of depreciation — ₹10, ₹7.5, ₹5.62, ₹4.22, ₹3.16 crores — and discounted at 20% these come to **₹20.07 crores in present value**.",
+      "**Tax shield on the capital loss.** WDV ₹23.73 crores less sale value ₹20 crores = ₹3.73 crores of loss; ICAI's published answer computes the shield as **₹1.12 crores**, worth ₹0.45 crores discounted at the year-5 factor of 0.40.",
+      "**NPV (₹ crores).** Initial investment (100) + working capital (3) + profit after tax 44.4 × PVAF 2.99 = 132.76 + present value of the depreciation shield 20.07 + salvage 20 × 0.40 = 8.00 + capital-loss shield 0.45 + working-capital release 3 × 0.40 = 1.20. ==**NPV = ₹59.47 crores, so the company is advised to replace the old machine.**==",
+      "**Note on ICAI's own arithmetic.** The question gives a tax rate of 40%, and the depreciation shields in ICAI's answer use 40%; the capital-loss shield of ₹1.12 crores, however, is computed at **30%** (₹3.73 crores × 30%). At 40% it would be ₹1.49 crores and the NPV ₹59.62 crores. The inconsistency is ICAI's, not the candidate's — use 40% if you are asked the principle, and say so in a note.",
+      "**Why the profit after tax is treated as an annuity.** The incremental contribution is the same every year, so it is multiplied by PVAF(20%, 5) = 2.99 in one step, while the depreciation shield — which falls every year on WDV — has to be discounted year by year."
+     ],
+     "conclusion": "NPV ₹59.47 crores — replace. The whole question hinges on an incremental volume of 5,000 units a week, not 10,000.",
+     "keywords": [
+      "incremental volume",
+      "P/V ratio 0.10",
+      "25% WDV",
+      "tax shield on depreciation",
+      "capital loss",
+      "PVAF 2.99"
+     ]
+    },
+    {
+     "id": "MTP-M24-S2-FQ1c",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "RMC World Ltd. is considering a project to manufacture home automation gadgets: capital expenditure ₹1,000 lakhs and working capital ₹150 lakhs. Plant capacity is 3 lakh units a year, with capacity utilisation of 50%, 65%, 80%, 100% and 100% over the five-year life. Average price per unit ₹600, netting a contribution of 60%. Annual fixed costs excluding depreciation are ₹200 lakhs in year 1, ₹350 lakhs in year 2 and ₹500 lakhs from year 3. Scrap value of the capital asset at the end of year 5 is ₹200 lakhs. Depreciation on written down value at 40% for income tax purposes. Tax 30%; cost of capital 12%. An additional ₹200 lakhs of working capital is required at the end of year 3. No capital gains tax applies. Compute the NPV, and state whether Secure Venture Capital — which invests only where the net addition to shareholder wealth exceeds ₹100 lakhs — would invest.",
+     "answer_points": [
+      "**Contribution ladder.** Units = 3,00,000 × utilisation, so 1,50,000 / 1,95,000 / 2,40,000 / 3,00,000 / 3,00,000 units; sales at ₹600 are ₹900 / ₹1,170 / ₹1,440 / ₹1,800 / ₹1,800 lakhs; **contribution at 60% is ₹540 / ₹702 / ₹864 / ₹1,080 / ₹1,080 lakhs**.",
+      "**Depreciation at 40% WDV on ₹1,000 lakhs**: ₹400.00, ₹240.00, ₹144.00, ₹86.40, ₹51.84 lakhs, closing WDV **₹77.76 lakhs**.",
+      "**EBT and PAT.** Year 1 shows a **loss** of ₹60 lakhs (₹540 − ₹200 − ₹400), on which ICAI applies the 30% rate as a credit, giving a PAT of **₹(42) lakhs**. Years 2 to 5 give PAT of **₹78.40, ₹154.00, ₹345.52 and ₹369.712 lakhs**.",
+      "**CFAT** = PAT + depreciation: **₹358.00, ₹318.40, ₹298.00, ₹431.92 and ₹421.552 lakhs**.",
+      "**Three dated extras.** The additional working capital of ₹200 lakhs is an **outflow at the end of year 3** (₹200 × 0.7118 = ₹142.36 lakhs); the **whole ₹350 lakhs of working capital** — ₹150 initial plus ₹200 additional — is **released in year 5**; and the scrap of ₹200 lakhs is a year-5 inflow that is **not taxed, because the question says no capital gains tax applies**.",
+      "==**NPV = ₹318.98 lakhs (₹3,18,98,684).**== Since the net addition to shareholder wealth of about ₹319 lakhs exceeds the ₹100 lakhs the venture capital firm requires, **Secure Venture Capital would invest**.",
+      "**Why the year-1 loss matters.** Treating the ₹60 lakhs loss as giving no tax effect at all would make year 1's PAT ₹(60) lakhs and the CFAT ₹340 lakhs — ₹18 lakhs lower, and about ₹16 lakhs lower in present value. ICAI's answer takes the tax credit; say which assumption you are using.",
+      "**Worth noting for the January 2027 attempt.** This question reappears, almost unchanged, as September 2026 Series II's Nova Green Mobility Ltd. Working this one works both."
+     ],
+     "conclusion": "NPV ₹318.99 lakhs — the venture capital firm's ₹100 lakhs threshold is comfortably cleared.",
+     "keywords": [
+      "capacity utilisation ladder",
+      "40% WDV",
+      "additional working capital in year 3",
+      "no capital gains tax",
+      "net addition to shareholder wealth"
+     ]
+    },
+    {
+     "id": "MTP-S26-S2-FQ1c",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Nova Green Mobility Ltd., a profitable manufacturer of electrical components, is evaluating a proposal to enter the electric-vehicle charging equipment business by setting up a plant to manufacture smart EV charging stations. Capital outlay ₹1,000 lakhs and working capital ₹150 lakhs; annual capacity 3 lakh units; capacity utilisation 50%, 65%, 80%, 100% and 100% over five years; average price ₹600 per unit at a contribution margin of 60%; annual fixed costs excluding depreciation as stated.",
+     "answer_points": [
+      "==**This is March 2024 Series II's RMC World Ltd. question in a new industry.** The outlay, the working capital, the capacity, the utilisation ladder, the price and the contribution margin are identical; only the product has changed from home automation gadgets to EV charging stations.==",
+      "**Method, therefore, is identical.** Units = 3,00,000 × utilisation; sales at ₹600; contribution at 60%; less fixed cash cost; less WDV depreciation; tax; add depreciation back.",
+      "**Check the three variables ICAI does change between reuses** before copying an answer across: the **depreciation rate**, the **tax rate** and the **discount rate**. Everything else in the two questions has matched so far.",
+      "**Terminal year** carries the scrap value, the tax treatment of the sale under §6.1, and the release of all working capital introduced — initial and additional.",
+      "**What to take from the pairing.** ICAI's MTP bank is reused with the surface details changed. A question worked once in full, with the method written out rather than only the figures, is worth two or three questions in the paper."
+     ],
+     "conclusion": "A renamed RMC World Ltd. — same ladder, same WDV depreciation, same terminal-year extras.",
+     "keywords": [
+      "capacity utilisation",
+      "contribution margin 60%",
+      "WDV depreciation",
+      "reused question"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F07.10-01",
+     "angle": "Case 1",
+     "difficulty": "Moderate",
+     "question": "A machine bought for ₹1,00,000 is depreciated at 20% WDV, giving a written-down value of ₹40,960 at the beginning of year 5. It is the only asset in its block and is sold in year 5 for ₹10,000. The tax rate is 30%. The terminal-year tax effect is:",
+     "options": {
+      "A": "Depreciation of ₹6,192 giving a tax benefit of ₹1,858",
+      "B": "Depreciation of ₹8,192 giving a tax benefit of ₹2,458",
+      "C": "A short-term capital loss of ₹30,960 giving a tax benefit of ₹9,288",
+      "D": "No tax effect, because the block has ceased to exist"
+     },
+     "answer": "C",
+     "explanation": "SM §6.1 Case 1: where there is only one asset in the block and the block ceases to exist at the end of year 5, no depreciation is charged in year 5 and the difference between the opening WDV of ₹40,960 and the sale value of ₹10,000 is a short-term capital loss of ₹30,960, on which the tax benefit at 30% is ₹9,288.",
+     "why_wrong": {
+      "A": "That is Case 2, where more than one asset exists in the block.",
+      "B": "20% of the full opening WDV — the wrong base even for Case 2, which uses opening WDV less sale value.",
+      "D": "The block ceasing to exist is precisely what crystallises the capital loss."
+     },
+     "trap": "The sole-asset case gives the *larger* tax benefit, because the whole unrecovered cost is written off at once rather than at 20% a year.",
+     "concept": "F07.10"
+    },
+    {
+     "id": "MCQ-F07.10-02",
+     "angle": "Case 2",
+     "difficulty": "Moderate",
+     "question": "The same machine has a written-down value of ₹40,960 at the beginning of year 5, but there are several other assets in its block. It is sold for ₹50,000. In year 5:",
+     "options": {
+      "A": "A short-term capital gain of ₹9,040 arises, taxed at 30%",
+      "B": "Depreciation of ₹10,000 is charged on the excess",
+      "C": "Depreciation of ₹8,192 is charged on the opening WDV",
+      "D": "No depreciation is provided at all"
+     },
+     "answer": "D",
+     "explanation": "SM §6.1: in Case 2 depreciation in the terminal year is charged on opening WDV less sale value. Where the sale value of ₹50,000 exceeds the opening WDV of ₹40,960 there is nothing left to depreciate, and ICAI states expressly that no depreciation shall be provided.",
+     "why_wrong": {
+      "A": "A capital gain arises only in Case 1, where the asset is alone in its block; ICAI computes ₹9,040 and a tax outflow of ₹2,712 for that case.",
+      "B": "There is no rule charging depreciation on an excess of sale value over WDV.",
+      "C": "Depreciation in the terminal year is never charged on the full opening WDV in Case 2."
+     },
+     "trap": "The same two figures — ₹40,960 and ₹50,000 — give a taxable gain in one case and simply no depreciation in the other.",
+     "concept": "F07.10"
+    }
+   ],
+   "recap": [
+    "A block of assets is a class of assets depreciated at the same rate; the terminal-year tax effect depends on whether the block holds one asset or several.",
+    "Sole asset: no depreciation in the terminal year; the difference between opening WDV and sale value is a short-term capital loss or gain.",
+    "Several assets: depreciation on (opening WDV − sale value), and none at all if the sale value is higher.",
+    "SM figures to carry: ₹40,960 opening WDV; ₹9,288 benefit in Case 1 at a ₹10,000 sale; ₹1,858 in Case 2; ₹2,712 outflow at a ₹50,000 sale in Case 1."
+   ]
+  },
+  {
+   "code": "F07.11",
+   "title": "6.2 Exclusion of Financing Costs Principle",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (Jan 2025 Q4(c) OR) · RTP 0 · MTP 0",
+   "understand": [
+    "==**When cash flows relating to long-term funds are being defined, financing costs of long-term funds — interest on long-term debt and equity dividend — should be excluded from the analysis.** The interest and dividend payments are reflected in the **weighted average cost of capital**; so if they were also deducted in defining the cash flows, ==**the cost of long-term funds would be counted twice**==.",
+    "==**The exclusion of financing costs principle means that** (SM §6.2): **(i) the interest on long-term debt is ignored while computing profits and taxes; (ii) the expected dividends are deemed irrelevant in cash flow analysis.**==",
+    "==Dividends pose no difficulty, since they come only out of profit after taxes. **Interest needs to be handled properly**, because it is usually deducted in arriving at profit after tax — so ==**an amount equal to 'Interest × (1 − Tax rate)' must be added back to the figure of profit after tax**==.",
+    "**The algebra ICAI prints, which is worth reproducing in an answer:**\n= Profit Before Interest and Tax × (1 − Tax rate)\n= (Profit Before Tax + Interest) × (1 − Tax rate)\n= (Profit Before Tax) × (1 − Tax rate) + (Interest) × (1 − Tax rate)\n= **Profit After Tax + Interest × (1 − Tax rate)**\n==Whether the tax rate is applied directly to the profit before interest and tax, or the tax-adjusted interest is added back to profit after tax, **the result is the same**.==",
+    "**SM Example 3, both routes.** XYZ Ltd.'s profit before interest and tax for four years is ₹10,000, ₹20,000, ₹40,000 and ₹50,000; interest payable is ₹5,000 and the tax rate 30%.\n\n| | Year 1 | Year 2 | Year 3 | Year 4 |\n|---|---|---|---|---|\n| Profit before interest and tax | 10,000 | 20,000 | 40,000 | 50,000 |\n| Less: Interest | (5,000) | (5,000) | (5,000) | (5,000) |\n| | 5,000 | 15,000 | 35,000 | 45,000 |\n| Less: Tax @ 30% | (1,500) | (4,500) | (10,500) | (13,500) |\n| Profit after tax | 3,500 | 10,500 | 24,500 | 31,500 |\n| Add: Interest (1 − t) | 3,500 | 3,500 | 3,500 | 3,500 |\n| **PAT excluding financing cost** | **7,000** | **14,000** | **28,000** | **35,000** |\n\n==**Alternatively**, apply the tax rate straight to the profit before interest and tax: ₹10,000 − 30% = **₹7,000**; ₹20,000 − 30% = **₹14,000**; ₹40,000 − 30% = **₹28,000**; ₹50,000 − 30% = **₹35,000** — the same four figures.==",
+    "**Why this is the principle most often breached in an exam.** Questions do not usually say 'interest has been deducted'; they say the figures are 'earnings before tax' — which, read carefully, means **after** interest. MTP January 2025 Series II's Hemsparsh question is explicit about it ('Earnings before tax but after deducting Interest Exp'), and that is the warning to look for."
+   ],
+   "example": "Where a question gives profit before interest and tax, apply the tax rate to it directly and no add-back is needed. Where it gives profit after tax on a figure that was struck after interest, add back Interest × (1 − t). Both routes reach the same cash flow; mixing them, or doing neither, understates the project's cash flow by the whole of Interest × (1 − t).",
+   "provisions": [
+    {
+     "ref": "Exclusion of financing costs (SM §6.2)",
+     "status": "VERIFIED",
+     "requirement": "Interest on long-term debt is ignored in computing profits and taxes; expected dividends are irrelevant to cash flow analysis.",
+     "exam_angle": "A 2-mark part asks for exactly these two limbs — the past paper of January 2025 did (Q4(c) OR)."
+    },
+    {
+     "ref": "The add-back (SM §6.2)",
+     "status": "VERIFIED",
+     "requirement": "Add Interest × (1 − Tax rate) back to profit after tax; equivalently apply the tax rate directly to profit before interest and tax.",
+     "exam_angle": "Show the identity, not just the arithmetic; the algebra itself carries a mark."
+    }
+   ],
+   "keywords": [
+    "financing costs of long-term funds",
+    "counted twice",
+    "interest on long-term debt is ignored",
+    "expected dividends are deemed irrelevant",
+    "Interest (1 − Tax rate)"
+   ],
+   "memory": {
+    "trick": "**The discount rate already paid for the debt.** Deduct interest inside the cash flows as well and you have paid for it twice. Dividends never get in, because they come out of post-tax profit anyway.",
+    "key": [
+     ["Why exclude", "Interest and dividends are already in the WACC; deducting them again double counts"],
+     ["Limb (i)", "Interest on long-term debt ignored in computing profits and taxes"],
+     ["Limb (ii)", "Expected dividends deemed irrelevant"],
+     ["If interest was deducted", "Add back Interest × (1 − t) to PAT"],
+     ["Equivalent route", "Tax the profit before interest and tax directly"],
+     ["SM Example 3", "₹10,000 PBIT, interest ₹5,000, tax 30% → ₹7,000 either way"]
+    ],
+    "recall_trigger": "The discount rate already paid for the debt"
+   },
+   "mistakes": [
+    "Adding back the full interest instead of Interest × (1 − t); the tax relief on the interest has already been taken.",
+    "Doing both — taxing PBIT directly and then also adding back tax-adjusted interest — which overstates the cash flow.",
+    "Deducting the equity dividend from the project's cash flow; ICAI calls expected dividends irrelevant.",
+    "Applying the principle to short-term interest on working capital finance; the principle is about financing costs of long-term funds."
+   ],
+   "links": [
+    "🔗 FM Ch 4 §10: the WACC in which interest and dividends already sit",
+    "🔗 FM Ch 7 §6.3: the post-tax principle, which governs the same statement",
+    "🔗 FM Ch 6 §4: the leverage in which interest does appear — the contrast is worth holding on to"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "State the concept of the exclusion of financing cost principle (2 marks)",
+     "Compute cash flows where the earnings given are after interest (inside a larger numerical)"
+    ],
+    "approach": [
+     "Give both limbs — interest ignored, dividends irrelevant — and the reason, which is the double counting against the WACC",
+     "Where a number has to be fixed, show the add-back as Interest × (1 − t) and name the figure"
+    ],
+    "official_pattern": "PYQ-J25-Q4c-OR; the principle underlies MTP-J25-S2-FQ3 and RTP-J26-FQ9.",
+    "time_tip": "2 marks ≈ 3.5 minutes (study guidance)."
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-J25-Q4c-OR",
+     "marks": 2,
+     "status": "VERIFIED",
+     "format": "Descriptive",
+     "question": "State the concept of exclusion of Financing Cost Principle. (2 Marks)",
+     "answer_points": [
+      "**The principle.** When cash flows relating to long-term funds are being defined, the financing costs of those funds — **interest on long-term debt and equity dividend** — are excluded from the analysis.",
+      "**The reason.** Those interest and dividend payments are **already reflected in the weighted average cost of capital** used as the discount rate. Deducting them again inside the cash flows would **count the cost of long-term funds twice**.",
+      "==**The principle therefore means two things:** (i) **the interest on long-term debt is ignored while computing profits and taxes**; (ii) **the expected dividends are deemed irrelevant in cash flow analysis**.==",
+      "**The practical consequence.** Dividends raise no difficulty, since they come only out of profit after taxes. Interest does, because it is usually deducted in arriving at profit after tax — so **an amount equal to Interest × (1 − Tax rate) should be added back** to the profit after tax figure.",
+      "**Equivalently**, applying the tax rate directly to the profit before interest and tax gives the same result, which ICAI demonstrates in Example 3 of the chapter."
+     ],
+     "conclusion": "Interest and dividends belong to the discount rate, not to the cash flows; if interest has been deducted, add back Interest × (1 − t).",
+     "keywords": [
+      "financing costs of long-term funds",
+      "reflected in the WACC",
+      "counted twice",
+      "Interest (1 − t) added back"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F07.11-01",
+     "angle": "Computation",
+     "difficulty": "Moderate",
+     "question": "A project's profit before interest and tax is ₹40,000, interest payable is ₹5,000 and the tax rate is 30%. The profit after tax excluding financing cost is:",
+     "options": {
+      "A": "₹28,000",
+      "B": "₹24,500",
+      "C": "₹26,250",
+      "D": "₹31,500"
+     },
+     "answer": "A",
+     "explanation": "SM §6.2, Example 3 year 3: profit after tax is (₹40,000 − ₹5,000) × 0.70 = ₹24,500, to which Interest × (1 − t) = ₹5,000 × 0.70 = ₹3,500 is added back, giving ₹28,000. The same figure follows from taxing the profit before interest and tax directly: ₹40,000 × 0.70 = ₹28,000.",
+     "why_wrong": {
+      "B": "That is profit after tax with the interest still deducted and no add-back.",
+      "C": "₹5,000 added back gross rather than net of tax, deducted from the wrong base.",
+      "D": "That is year 4's figure in ICAI's example, on a profit before interest and tax of ₹50,000."
+     },
+     "trap": "Two routes, one answer — if the two routes disagree, the add-back was taken gross instead of net of tax.",
+     "concept": "F07.11"
+    },
+    {
+     "id": "MCQ-F07.11-02",
+     "angle": "Principle",
+     "difficulty": "Easy",
+     "question": "The exclusion of financing costs principle is applied because:",
+     "options": {
+      "A": "Interest is not an allowable deduction for tax purposes",
+      "B": "Interest and dividends are already reflected in the weighted average cost of capital, so deducting them again would count the cost of long-term funds twice",
+      "C": "Dividends are paid out of profit after tax and so can never affect cash flow",
+      "D": "Financing costs cannot be estimated accurately at the appraisal stage"
+     },
+     "answer": "B",
+     "explanation": "SM §6.2: the interest and dividend payments are reflected in the weighted average cost of capital, so if interest on long-term debt and dividend on equity capital were deducted in defining the cash flows, the cost of long-term funds would be counted twice.",
+     "why_wrong": {
+      "A": "Interest is allowable; that is precisely why the add-back is net of tax.",
+      "C": "True of dividends but not the reason for the principle, which covers interest as well.",
+      "D": "Estimation difficulty is not ICAI's reason."
+     },
+     "trap": "Option C is a true statement that ICAI itself makes — but as a practical aside, not as the reason for the principle.",
+     "concept": "F07.11"
+    }
+   ],
+   "recap": [
+    "Interest on long-term debt is ignored in computing profits and taxes; expected dividends are irrelevant.",
+    "The reason is double counting: both are already in the WACC used as the discount rate.",
+    "If interest has been deducted, add back Interest × (1 − t).",
+    "Taxing profit before interest and tax directly gives the same answer — SM Example 3 proves it."
+   ]
+  },
+  {
+   "code": "F07.13 + F07.14",
+   "title": "7–8 Capital Budgeting Techniques and the Non-Discounting Family",
+   "activity": "Moderate",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 0",
+   "understand": [
+    "==To maximise the return to shareholders, the best or most profitable projects must be selected: **the results of making a bad long-term investment decision can be devastating in both financial and strategic terms**.==",
+    "==**The study material's classification** (SM §7). **Traditional or non-discounting**: **Payback Period** and **Accounting Rate of Return (ARR)**. **Time adjusted or discounted cash flows**: **Net Present Value (NPV)**, **Profitability Index (PI)**, **Internal Rate of Return (IRR)**, **Discounted Payback Period** and **Modified Internal Rate of Return (MIRR)**.==",
+    "==Seven techniques in all — **two non-discounting and five discounting**.== ICAI notes that organisations may use one or more of them, that some use different methods for different types of project, and that others use multiple methods for evaluating each project.",
+    "==**What makes the non-discounting techniques 'traditional'** (SM §8): **these techniques do not discount the future cash flows.** There are two of them — payback period and accounting rate of return.==",
+    "The division is not merely administrative. It is the single most useful organising idea in the chapter, because **every limitation of the two traditional techniques is a version of the same sentence — they ignore the time value of money** — and every advantage of the five discounted techniques is a version of its opposite.",
+    "**Where the discount rate itself comes from** (SM §9, 'Determining Discount Rate'): theoretically it is the return the firm would have earned by investing the same funds in **the best available alternative investment that has the same risk**. Because identifying that alternative is difficult in practice, organisations use a substitute — a **minimum rate of return that all capital projects must meet**, based perhaps on an industry average or the cost of other opportunities — and ==**many organisations choose to use the overall cost of capital, or Weighted Average Cost of Capital (WACC)**, that they have incurred or expect to incur in raising the funds needed for an investment.=="
+   ],
+   "example": "A company might screen every proposal on payback period to weed out anything that takes more than four years to recover, and then appraise the survivors on NPV. That is ICAI's point that organisations use multiple methods — and it is also why the traditional techniques have not disappeared despite their limitations.",
+   "provisions": [
+    {
+     "ref": "Classification of techniques (SM §7)",
+     "status": "VERIFIED",
+     "requirement": "Non-discounting: payback period, ARR. Discounting: NPV, PI, IRR, discounted payback period, MIRR.",
+     "exam_angle": "Name all seven and put each on the right side of the line; an MCQ often asks which of four listed techniques is not a discounting technique."
+    },
+    {
+     "ref": "Determining the discount rate (SM §9)",
+     "status": "VERIFIED",
+     "requirement": "Theoretically the return on the best available alternative of the same risk; in practice a minimum required rate, commonly the WACC.",
+     "exam_angle": "This is also the answer to 'what is the cut-off rate?' in §9.3.1."
+    }
+   ],
+   "keywords": [
+    "traditional or non-discounting",
+    "time adjusted or discounted cash flows",
+    "devastating in both financial and strategic terms",
+    "best available alternative investment of the same risk",
+    "minimum rate of return"
+   ],
+   "memory": {
+    "trick": "**Two out, five in.** Out of the discounting family: **payback and ARR**. In it: **NPV, PI, IRR, discounted payback, MIRR**. The discounted payback period is the bridge — payback's idea with discounting's discipline.",
+    "key": [
+     ["Non-discounting (2)", "Payback period · Accounting Rate of Return"],
+     ["Discounting (5)", "NPV · PI · IRR · Discounted payback period · MIRR"],
+     ["Common failing of the 2", "They ignore the time value of money"],
+     ["Discount rate in theory", "Return on the best alternative of the same risk"],
+     ["Discount rate in practice", "A minimum required rate — usually the WACC"]
+    ],
+    "recall_trigger": "Two out, five in — and the bridge between them is discounted payback"
+   },
+   "mistakes": [
+    "Counting the discounted payback period among the traditional techniques because it has 'payback' in its name.",
+    "Calling MIRR a traditional technique; it is the most recent of the five discounted ones.",
+    "Saying the discount rate 'is the cost of capital' without ICAI's qualification that the cost of capital is the practical substitute for the return on the best alternative of the same risk."
+   ],
+   "compare": {
+    "title": "The seven techniques (SM §7)",
+    "headers": [
+     "Family",
+     "Technique",
+     "Decision variable"
+    ],
+    "rows": [
+     ["Traditional / non-discounting", "Payback period", "Time to recover the outlay"],
+     ["Traditional / non-discounting", "Accounting Rate of Return (ARR)", "Average annual net income as a percentage of investment"],
+     ["Time adjusted / discounted", "Net Present Value (NPV)", "Absolute rupee addition to wealth"],
+     ["Time adjusted / discounted", "Profitability Index (PI)", "Discounted inflows per rupee of outflow"],
+     ["Time adjusted / discounted", "Internal Rate of Return (IRR)", "The rate at which NPV is zero"],
+     ["Time adjusted / discounted", "Discounted payback period", "Time to recover the outlay in present value terms"],
+     ["Time adjusted / discounted", "Modified IRR (MIRR)", "The rate equating the terminal value to the outlay"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 7 §10: the decision-criteria table that covers all of them",
+    "🔗 FM Ch 4 §10: the WACC used as the discount rate",
+    "🔗 FM Ch 7 §9.3.1: the cut-off rate, which is the same idea under another name"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Classify the capital budgeting techniques (2 marks)",
+     "Identify which of four listed techniques does not consider the time value of money (MCQ)"
+    ],
+    "approach": [
+     "Draw the two-branch tree with two techniques on the left and five on the right, then name them"
+    ],
+    "official_pattern": "Not yet asked as a standalone part; the classification frames every numerical in the chapter.",
+    "time_tip": "2 marks ≈ 3.5 minutes (study guidance)."
+   },
+   "mcqs": [
+    {
+     "id": "MCQ-F07.13-01",
+     "angle": "Classification",
+     "difficulty": "Easy",
+     "question": "Which of the following is a traditional or non-discounting capital budgeting technique?",
+     "options": {
+      "A": "Modified internal rate of return",
+      "B": "Discounted payback period",
+      "C": "Accounting rate of return",
+      "D": "Profitability index"
+     },
+     "answer": "C",
+     "explanation": "SM §7 and §8: the traditional or non-discounting techniques are the payback period and the accounting rate of return; these do not discount the future cash flows. NPV, PI, IRR, discounted payback period and MIRR are all time-adjusted or discounted techniques.",
+     "why_wrong": {
+      "A": "MIRR brings the inflows to a terminal value using a discount rate.",
+      "B": "The discounted payback period discounts the inflows before cumulating them; the word 'discounted' in its name is the giveaway.",
+      "D": "PI is a ratio of discounted inflows to the outlay."
+     },
+     "trap": "Two of the four options contain the word 'payback' or 'return' — read for whether discounting happens, not for the family name.",
+     "concept": "F07.13"
+    },
+    {
+     "id": "MCQ-F07.14-01",
+     "angle": "Discount rate",
+     "difficulty": "Moderate",
+     "question": "According to the study material, the discount rate used in capital budgeting is theoretically:",
+     "options": {
+      "A": "The risk-free rate of return available on government securities",
+      "B": "The rate of interest on the firm's long-term borrowings",
+      "C": "The firm's accounting rate of return on existing assets",
+      "D": "The rate of return the firm would have earned by investing the same funds in the best available alternative investment that has the same risk"
+     },
+     "answer": "D",
+     "explanation": "SM §9, 'Determining Discount Rate': theoretically the discount rate or desired rate of return is the rate the firm would have earned by investing the same funds in the best available alternative investment that has the same risk. Because that is difficult to identify in practice, organisations commonly use the overall cost of capital or WACC instead.",
+     "why_wrong": {
+      "A": "A risk-free rate ignores the project's risk, which ICAI's definition holds constant.",
+      "B": "The cost of debt alone is only one component of the WACC that serves as the practical substitute.",
+      "C": "ARR on existing assets is an accounting measure, not an opportunity cost."
+     },
+     "trap": "The practical answer (WACC) and the theoretical answer (opportunity cost at equal risk) are different; the question asks for the theoretical one.",
+     "concept": "F07.14"
+    }
+   ],
+   "recap": [
+    "Seven techniques: two non-discounting (payback, ARR) and five discounting (NPV, PI, IRR, discounted payback, MIRR).",
+    "The non-discounting techniques do not discount future cash flows — that is the definition and also the limitation.",
+    "The discount rate is theoretically the opportunity cost at equal risk; in practice it is a minimum required rate, usually the WACC.",
+    "Organisations may use one technique, different techniques for different projects, or several for the same project."
+   ]
+  },
+  {
+   "code": "F07.15 + F07.16",
+   "title": "8.1–8.1.1 Payback Period and the Payback Reciprocal",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (May 2024 Q4(c)) · RTP 0 · MTP 1 (Jan 2025 Series I MCQ 7)",
+   "understand": [
+    "==**Time required to recover the initial cash-outflow is called pay-back period.** The payback period of an investment is the length of time required for the **cumulative total net cash flows** from the investment to equal the **total initial cash outlays**. At that point the investor has recovered all the money invested.==",
+    "==**Two steps** (SM §8.1): first determine the **total initial capital investment (cash outflow)**; then calculate or estimate the **annual expected after-tax cash flows** over the useful life.==",
+    "==**Uniform cash flows:** ==**Payback period = Total initial capital investment ÷ Annual expected after-tax net cash flow**==.\n**SM Example 4.** A project costs ₹20,00,000 and yields an annual profit of ₹3,00,000 after depreciation at 12½% straight line but before tax at 50%. Profit before tax ₹3,00,000; less tax at 50% ₹1,50,000; profit after tax ₹1,50,000; **add depreciation written off ₹2,50,000**; **total cash inflow ₹4,00,000**. ==Payback = ₹20,00,000 ÷ ₹4,00,000 = **5 years**.== Depreciation is added back because it does not result in cash outflow — **cash from a project equals profit after tax plus depreciation**.",
+    "==**Non-uniform cash flows:** cumulate the inflows year by year; the payback period is the period at which the cumulative total equals the initial investment. If no exact match occurs, identify the year in which it falls and compute **the fraction of that year**.==\n**SM Example 5.** Initial outlay ₹2,00,000 with inflows of ₹80,000, ₹60,000, ₹60,000 and ₹20,000. Cumulative inflows are ₹80,000, ₹1,40,000, ₹2,00,000 and ₹2,20,000 — the cumulative figure equals the outlay in **year 3**, so the payback period is **3 years**.\nIf the outlay were ₹2,05,000 instead: ₹2,00,000 is recovered in three years and the balance of ₹5,000 in part of year 4, so the **part of year 4 = ₹5,000 ÷ ₹20,000 = ¼**, and ==the payback period is **3¼ years**==.",
+    "==**Advantages of payback period** (SM §8.1): it is **easy to compute**; it is **easy to understand**, giving a quick estimate of the time needed to recoup the cash invested; and ==**its length can serve as an estimate of the project's risk — the longer the payback period, the riskier the project**, since long-term predictions are less reliable.== In industries with high obsolescence risk such as software, or where an organisation is short of cash, short payback periods often become the determining factor.",
+    "==**Limitations of payback period** (SM §8.1): it **ignores the time value of money** — two projects with the same payback are treated as equal even if one earns most of its inflows early and the other late; it **fails to consider total profitability**, counting only the inflows up to the point of recovery and **ignoring all cash flows after the payback period**; and it **places much emphasis on short payback periods, thereby ignoring long-term projects**.==",
+    "==**Payback reciprocal** (SM §8.1.1). A major drawback of the payback method is that **it does not indicate any cut-off period** for the investment decision. It is argued that ==**the reciprocal of the payback would be a close approximation of the Internal Rate of Return if the life of the project is at least twice the payback period and the project generates equal amounts of annual cash inflows**==. In practice it is a helpful tool for quick estimation of a project's rate of return, provided its life is at least twice the payback period.",
+    "==**Payback Reciprocal = Average annual cash inflow ÷ Initial investment.**==\n**SM Example 6.** A project requires ₹20,000 and gives annual cash inflow of ₹4,000, with a useful life estimated at 10 years. Payback reciprocal = ₹4,000 × 100 ÷ ₹20,000 = ==**20%**==, which provides a reasonable approximation of the internal rate of return. ==Note that the life (10 years) is exactly twice the payback period (5 years), which is the condition ICAI attaches.=="
+   ],
+   "example": "MTP January 2025 Series I turned the reciprocal inside out: it gave an annual cost saving of ₹1,80,000, an IRR of 10% and a five-year life, and asked for the payback period. Since at the IRR the present value of the inflows equals the investment, the investment is ₹1,80,000 × PVAF(10%, 5) = ₹1,80,000 × 3.79 = ₹6,82,200, and the payback period is ₹6,82,200 ÷ ₹1,80,000 = 3.79 years — the same number as the annuity factor.",
+   "provisions": [
+    {
+     "ref": "Payback period, uniform flows (SM §8.1)",
+     "status": "VERIFIED",
+     "requirement": "Total initial capital investment ÷ Annual expected after-tax net cash flow.",
+     "exam_angle": "The denominator is cash, so profit after tax plus depreciation — never profit alone."
+    },
+    {
+     "ref": "Payback period, non-uniform flows (SM §8.1)",
+     "status": "VERIFIED",
+     "requirement": "Cumulate the inflows; find the year in which the cumulative total reaches the outlay; add the fraction of the following year as balance outlay ÷ that year's inflow.",
+     "exam_angle": "Write the cumulative column; examiners award it."
+    },
+    {
+     "ref": "Payback reciprocal (SM §8.1.1)",
+     "status": "VERIFIED",
+     "requirement": "Average annual cash inflow ÷ Initial investment; a close approximation of the IRR where the project's life is at least twice the payback period and the annual inflows are equal.",
+     "exam_angle": "Both conditions must be stated — equal annual inflows AND life of at least twice the payback period."
+    }
+   ],
+   "keywords": [
+    "cumulative total net cash flows",
+    "profit after tax plus depreciation",
+    "fraction of the year",
+    "estimate of a project's risk",
+    "ignores cash flows after the payback period",
+    "at least twice the payback period"
+   ],
+   "memory": {
+    "trick": "**Payback asks 'when do I get my money back?' and nothing else.** It cannot see past that date, and it cannot see the calendar — no discounting. The reciprocal turns the answer into a percentage, but only if the inflows are level and the life is at least double.",
+    "key": [
+     ["Uniform flows", "Investment ÷ annual CFAT"],
+     ["Non-uniform flows", "Cumulate, then add balance ÷ next year's inflow"],
+     ["Cash inflow", "PAT + depreciation"],
+     ["Advantages", "Easy to compute · easy to understand · a proxy for risk"],
+     ["Limitations", "Ignores time value · ignores flows after payback · biased against long projects"],
+     ["Reciprocal", "Average annual cash inflow ÷ Initial investment"],
+     ["Reciprocal conditions", "Equal annual inflows AND life ≥ 2 × payback"],
+     ["SM Example 6", "₹4,000 ÷ ₹20,000 = 20% ≈ IRR"]
+    ],
+    "recall_trigger": "When do I get my money back — and nothing else"
+   },
+   "mistakes": [
+    "Dividing the investment by profit after tax instead of by profit after tax plus depreciation.",
+    "Rounding the payback period up to a whole year instead of computing the fraction.",
+    "Quoting the reciprocal as an approximation of the IRR without the two conditions ICAI attaches.",
+    "Saying payback 'ignores profitability' without ICAI's precise point — that it ignores the cash flows arising after the payback period."
+   ],
+   "compare": {
+    "title": "Payback period: what it does and does not see (SM §8.1)",
+    "headers": [
+     "Advantage",
+     "The matching limitation"
+    ],
+    "rows": [
+     ["Easy to compute and to understand", "Because no discounting is done — it ignores the time value of money"],
+     ["Gives a quick estimate of when the cash comes back", "It stops looking at that point and ignores all later cash flows"],
+     ["Length serves as an estimate of the project's risk", "It therefore favours short projects and ignores long-term ones"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 7 §9.4: the discounted payback period, which removes the first limitation",
+    "🔗 FM Ch 7 §9.3: the IRR that the payback reciprocal approximates",
+    "🔗 FM Ch 7 §10: the decision rule — accept if payback is within the maximum acceptable period"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Calculate the payback period (1–2 marks inside a larger question)",
+     "Discuss the relevance of the payback reciprocal in capital budgeting decisions (2 marks)",
+     "Find the payback period from a given IRR and annual cost saving (MCQ)"
+    ],
+    "approach": [
+     "Convert profit to cash first: profit after tax plus depreciation",
+     "For uneven flows write a cumulative column and compute the fraction of the final year explicitly",
+     "For the reciprocal, state both conditions before giving the percentage"
+    ],
+    "official_pattern": "PYQ-M24-Q4c; MTP-J25-S1-FMCQ7.",
+    "time_tip": "2 marks ≈ 3.5 minutes (study guidance)."
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-M24-Q4c",
+     "marks": 2,
+     "status": "VERIFIED",
+     "format": "Descriptive",
+     "question": "Discuss the relevance of Payback reciprocal in capital budgeting decisions. (2 Marks)",
+     "answer_points": [
+      "**The problem it solves.** A major drawback of the payback period method is that ==**it does not indicate any cut-off period for the purpose of the investment decision**== — it tells you when the money comes back but not whether that is good enough.",
+      "**What the reciprocal is.** As the name indicates, it is the reciprocal of the payback period: ==**Payback Reciprocal = Average annual cash inflow ÷ Initial investment**==, expressed as a percentage.",
+      "==**Its relevance.** It is argued that **the reciprocal of the payback would be a close approximation of the Internal Rate of Return** — and therefore a usable rate of return against which a cut-off can be applied — **if two conditions hold: the life of the project is at least twice the payback period, and the project generates equal amounts of annual cash inflows**.==",
+      "**In practice** it is a helpful tool for the **quick estimation of the rate of return of a project**, provided its life is at least twice the payback period.",
+      "**ICAI's own illustration.** A project costing ₹20,000 with an annual cash inflow of ₹4,000 and a ten-year life has a payback reciprocal of ₹4,000 ÷ ₹20,000 = **20%**, which is a reasonable approximation of its internal rate of return. Note that the ten-year life is exactly twice the five-year payback, which is what makes the approximation safe."
+     ],
+     "conclusion": "It converts a payback period into an approximate IRR, and so supplies the cut-off that the payback period itself cannot give — but only for level inflows over a life of at least twice the payback.",
+     "keywords": [
+      "does not indicate any cut off period",
+      "close approximation of the IRR",
+      "at least twice the payback period",
+      "equal amounts of annual cash inflows"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "MTP-J25-S1-FMCQ7",
+     "marks": 2,
+     "status": "VERIFIED",
+     "format": "MCQ",
+     "question": "Data on a capital project being evaluated by the management of Aman Ltd.: annual cost saving ₹1,80,000; useful life 5 years; internal rate of return 10%; salvage value nil; PVAF 3.79. Based on the information, the payback period of the project will be — (a) 2.652 (b) 2.850 (c) 3.790 (d) 3.855",
+     "answer_points": [
+      "==**At the IRR the NPV is zero**, so the **initial investment equals the present value of the inflows discounted at the IRR** (SM §9.3).==",
+      "**Initial investment** = Annual cost savings × PVAF = ₹1,80,000 × 3.79 = **₹6,82,200**.",
+      "**Payback period** = Initial investment ÷ Annual cost savings = ₹6,82,200 ÷ ₹1,80,000 = ==**3.79 years — option (c)**==.",
+      "==**Why the answer is the annuity factor itself.** Dividing by the same annual figure that was multiplied by it simply returns the factor. So for a project with level inflows, **the payback period in years equals the PVAF at the IRR for the project's life** — a one-line shortcut worth carrying into the exam.==",
+      "**A note on the printed data.** The question paper labels the factor 'PVAF (15,4 years) 3.79'. ICAI's own answer uses it as **PVAF (10%, 5 years) = 3.79**, which is the correct reading given the stated IRR of 10% and life of 5 years; the printed label is a misprint. Use the IRR and life the question states, not the label.",
+      "**Cross-check with the reciprocal.** The payback reciprocal here is 1 ÷ 3.79 = 26.4%, well above the 10% IRR — because ICAI's condition that the life be at least twice the payback period is not met (5 years against 3.79). The reciprocal is a usable approximation only when that condition holds."
+     ],
+     "conclusion": "Option (c) 3.790 — and the general rule that for level inflows the payback period equals the PVAF at the IRR.",
+     "keywords": [
+      "at the IRR the NPV is zero",
+      "PVAF",
+      "payback equals the annuity factor",
+      "misprinted label"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F07.15-01",
+     "angle": "Computation",
+     "difficulty": "Moderate",
+     "question": "A project costing ₹2,05,000 generates cash inflows of ₹80,000, ₹60,000, ₹60,000 and ₹20,000 over four years. Its payback period is:",
+     "options": {
+      "A": "3¼ years",
+      "B": "3 years",
+      "C": "4 years",
+      "D": "2¾ years"
+     },
+     "answer": "A",
+     "explanation": "SM §8.1, Example 5 as varied by ICAI: cumulative inflows are ₹80,000, ₹1,40,000, ₹2,00,000 and ₹2,20,000. ₹2,00,000 is recovered in three years, leaving ₹5,000 to come out of year 4's inflow of ₹20,000, so the fraction of year 4 is ₹5,000 ÷ ₹20,000 = ¼ and the payback period is 3¼ years.",
+     "why_wrong": {
+      "B": "3 years recovers only ₹2,00,000 of the ₹2,05,000 outlay.",
+      "C": "Rounding up to a whole year ignores ICAI's instruction to compute the fraction.",
+      "D": "Cumulative inflows reach only ₹1,40,000 by the end of year 2."
+     },
+     "trap": "The fraction is the balance outlay over *that year's* inflow, not over the total inflow.",
+     "concept": "F07.15"
+    },
+    {
+     "id": "MCQ-F07.16-01",
+     "angle": "Conditions",
+     "difficulty": "Moderate",
+     "question": "The payback reciprocal is a close approximation of the internal rate of return only if:",
+     "options": {
+      "A": "The project's life is at least twice the payback period and the annual cash inflows are equal",
+      "B": "The project's life is at least equal to the payback period and the inflows rise each year",
+      "C": "The project has no salvage value and is depreciated on the written down value method",
+      "D": "The payback period is computed on discounted cash flows"
+     },
+     "answer": "A",
+     "explanation": "SM §8.1.1: it is argued that the reciprocal of the payback would be a close approximation of the internal rate of return if the life of the project is at least twice the payback period and the project generates equal amounts of annual cash inflows.",
+     "why_wrong": {
+      "B": "'At least equal' is not enough; ICAI requires at least twice. And the inflows must be equal, not rising.",
+      "C": "Depreciation method and salvage value are irrelevant to the condition.",
+      "D": "Discounting the payback period gives the discounted payback period, a different technique."
+     },
+     "trap": "Two conditions, and candidates routinely give only one.",
+     "concept": "F07.16"
+    }
+   ],
+   "recap": [
+    "Payback period = initial investment ÷ annual CFAT, or cumulate uneven flows and add the fraction of the final year.",
+    "Cash inflow = profit after tax + depreciation.",
+    "Advantages: easy, understandable, a proxy for risk. Limitations: ignores the time value of money, ignores flows after payback, biased against long projects.",
+    "Payback reciprocal = average annual cash inflow ÷ initial investment, approximating the IRR only for level inflows over a life of at least twice the payback."
+   ]
+  },
+  {
+   "code": "F07.17",
+   "title": "8.2 Accounting (Book) Rate of Return or Average Rate of Return (ARR)",
+   "activity": "High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (Jan 2026 Q2(b)) · RTP 0 · MTP 1 (Sep 2024 Series I)",
+   "understand": [
+    "==**The accounting rate of return of an investment measures the average annual net income of the project (incremental income) as a percentage of the investment.**==\n==**Accounting Rate of Return (ARR) = Average annual net income ÷ Investment**==",
+    "==The numerator is the **average annual net income generated by the project over its useful life**. The denominator can be **either the initial investment (including installation cost) or the average investment over the useful life**. ==**Average investment means the average amount of fund remaining blocked during the lifetime of the project.**==",
+    "**SM Example 7 and the three versions ICAI prints.** Times Ltd. invests ₹3,00,000 for 3 years; salvage value ₹90,000; profit before depreciation ₹1,50,000 each year. Depreciation is ₹70,000 a year, so profit after depreciation is ₹80,000 a year, and the investment runs ₹3,00,000 → ₹2,30,000 → ₹1,60,000 → ₹90,000.\n\n==**Version 1 — Annual Basis.** ARR for each year = Profit after depreciation ÷ Investment at the **beginning** of that year: ₹80,000 ÷ ₹3,00,000 = **26.67%**; ₹80,000 ÷ ₹2,30,000 = **34.78%**; ₹80,000 ÷ ₹1,60,000 = **50%**. **Average ARR = (26.67 + 34.78 + 50.00) ÷ 3 = 37.15%.**==",
+    "==**Version 2 — Total Investment Basis.** ARR = Average annual profit ÷ Investment in the beginning = ₹80,000 ÷ ₹3,00,000 = **26.67%**.==\n==**Version 3 — Average Investment Basis.** ARR = Average annual profit ÷ Average investment. **Average Investment = (₹3,00,000 + ₹90,000) ÷ 2 = ₹1,95,000**, or equivalently ==**½ (Initial Investment − Salvage Value) + Salvage Value**== = ½ (₹3,00,000 − ₹90,000) + ₹90,000 = ₹1,95,000. **ARR = ₹80,000 ÷ ₹1,95,000 = 41.03%.**==",
+    "==**Where additional working capital is required** during the project's life in addition to initial working capital, the average investment formula is modified: ==**½ (Initial Investment − Salvage Value) + Salvage Value + Additional Working Capital**==. Continuing ICAI's example with ₹45,000 of additional working capital: average investment = ½ (₹3,00,000 − ₹90,000) + ₹90,000 + ₹45,000 = **₹2,40,000**, and ARR = ₹80,000 ÷ ₹2,40,000 = **33.33%**.",
+    "**SM Illustration 2.** A project needing ₹10,00,000 yields profit after tax and depreciation of ₹50,000, ₹75,000, ₹1,25,000, ₹1,30,000 and ₹80,000 — total ₹4,60,000 — with plant and machinery saleable for ₹80,000 at the end of year 5. ==Average annual profit = ₹4,60,000 ÷ 5 = **₹92,000**. **On initial investment: ₹92,000 ÷ ₹10,00,000 = 9.2%.** Average investment = ½ (₹10,00,000 − ₹80,000) + ₹80,000 = ₹4,60,000 + ₹80,000 = **₹5,40,000**, so **on average investment: ₹92,000 ÷ ₹5,40,000 = 17.04%**.==",
+    "==ICAI notes that this rate is compared with the rate expected on other projects, and sometimes with a **minimum rate called the cut-off rate** — management may decide, for example, not to undertake any project with an average annual yield after tax of less than 20%, so that any proposal below 20% is automatically rejected.==",
+    "==**Advantages of ARR** (SM §8.2): it uses **readily available data that is routinely generated for financial reports** and needs no special procedures; it **may mirror the method used to evaluate operating results and management performance**, so using the same procedure in decision making and performance evaluation **ensures consistency**; and it **considers all net incomes over the entire life** of the project, providing a measure of the investment's profitability.==",
+    "==**Limitations of ARR** (SM §8.2): like payback it **ignores the time value of money** and treats all cash flows as equal; it **uses accounting numbers dependent on the organisation's choice of accounting procedures**, so different depreciation methods can lead to substantially different net income and book values; it **ignores cash flows**, and net cash flow is a better measure of performance than net income; and **including only the book value of the invested asset ignores** that a project can require **commitments of working capital and other outlays** not in that book value.==",
+    "**The practical rule for the exam.** Unless the question says otherwise, **read 'ARR' as Version 3 — average annual profit after tax over average investment** — because that is what the official questions ask for. January 2026's Algo Steel question says so expressly: 'Calculate Average Rate of Return (ARR) **based on Average Investment**'."
+   ],
+   "example": "Algo Steel Ltd. (January 2026) gives the tax rate indirectly — a depreciation tax saving of ₹1,35,000 a year on depreciation of ₹5,40,000 implies a tax rate of 25% — and then asks for ARR on average investment: average PAT ₹8,32,500 over average investment ₹13,20,000, or 63.07%.",
+   "provisions": [
+    {
+     "ref": "ARR formula (SM §8.2)",
+     "status": "VERIFIED",
+     "requirement": "Average annual net income ÷ Investment, where the denominator may be the initial investment or the average investment.",
+     "exam_angle": "State which denominator you are using; ICAI says the same method must be used for all investments under consideration."
+    },
+    {
+     "ref": "Average investment (SM §8.2)",
+     "status": "VERIFIED",
+     "requirement": "½ (Initial Investment − Salvage Value) + Salvage Value, plus Additional Working Capital where required.",
+     "exam_angle": "Equivalent to (Initial Investment + Salvage Value) ÷ 2 when there is no additional working capital — use whichever form the figures suit."
+    },
+    {
+     "ref": "The three versions (SM §8.2, Example 7)",
+     "status": "VERIFIED",
+     "requirement": "Annual basis (average of year-by-year rates, 37.15%); total investment basis (26.67%); average investment basis (41.03%).",
+     "exam_angle": "Three different answers from one set of figures — which is exactly why ICAI insists the chosen method be stated and applied consistently."
+    }
+   ],
+   "keywords": [
+    "average annual net income",
+    "average investment",
+    "fund remained blocked",
+    "cut-off rate",
+    "readily available data",
+    "ignores cash flows",
+    "choice of accounting procedures"
+   ],
+   "memory": {
+    "trick": "**Half the sinking cost, plus the floor.** Average investment = half of what actually wears away (Initial − Salvage), plus the salvage that never does — then add any extra working capital, which never wears away either.",
+    "key": [
+     ["ARR", "Average annual net income ÷ Investment"],
+     ["Average investment", "½ (Initial − Salvage) + Salvage + Additional working capital"],
+     ["Version 1", "Annual basis — average the year-by-year rates (SM: 37.15%)"],
+     ["Version 2", "Total investment basis (SM: 26.67%)"],
+     ["Version 3", "Average investment basis (SM: 41.03%)"],
+     ["SM Illustration 2", "9.2% on initial investment · 17.04% on average investment"],
+     ["Advantages", "Readily available data · mirrors performance evaluation · covers the whole life"],
+     ["Limitations", "Ignores time value · accounting-policy dependent · ignores cash flows · ignores working capital"]
+    ],
+    "recall_trigger": "Half the sinking cost, plus the floor"
+   },
+   "mistakes": [
+    "Using profit before tax in the numerator; ARR takes net income, which in the official questions is profit after tax and depreciation.",
+    "Using profit before depreciation; depreciation must be charged, because ARR is an accounting measure and not a cash measure.",
+    "Computing average investment as half the initial investment when there is a salvage value — the salvage value stays blocked throughout and must be added back.",
+    "Leaving additional working capital out of average investment where the question provides it.",
+    "Mixing versions within one answer, for instance an average profit numerator against a beginning-of-year denominator."
+   ],
+   "compare": {
+    "title": "ARR against the payback period (SM §8.1 and §8.2)",
+    "headers": [
+     "",
+     "Payback period",
+     "ARR"
+    ],
+    "rows": [
+     ["Measures", "Time to recover the outlay", "Average annual net income as a percentage of investment"],
+     ["Works on", "Cash flows", "Accounting profit after depreciation"],
+     ["Covers the whole life?", "No — it stops at recovery", "Yes — it averages income over the entire life"],
+     ["Time value of money", "Ignored", "Ignored"],
+     ["Decision rule (§10)", "Accept if within the maximum acceptable payback period", "Accept if ARR ≥ the minimum acceptable rate of return"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 7 §10: the decision rule — accept if ARR is at least the minimum acceptable rate",
+    "🔗 FM Ch 7 §9.3.1: the cut-off rate, the same idea applied to IRR",
+    "🔗 FM Ch 3 §3.3: return on investment, the ratio ARR most resembles"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Calculate the average rate of return based on average investment (3–5 marks)",
+     "Compute ARR alongside NPV for the same project (Jan 2026 Q2(b))",
+     "State the advantages and limitations of ARR (2–4 marks)"
+    ],
+    "approach": [
+     "Build a profit-after-tax row first — cash flow before depreciation and tax, less depreciation, less tax",
+     "Average that row over the project's life for the numerator",
+     "Use ½ (Initial − Salvage) + Salvage (+ additional working capital) for the denominator, and say so"
+    ],
+    "official_pattern": "PYQ-J26-Q2b; MTP-S24-S1-FQ3a also carries an ARR requirement.",
+    "time_tip": "5 marks ≈ 9 minutes (study guidance)."
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-J26-Q2b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Algo Steel Ltd. has a capital structure of 80% equity and 20% debt. Cost of equity is 13.5%; the debt is a bank loan at 8% per annum; taxes are to be considered. The shortlisted project: initial investment ₹24,00,000; estimated salvage value 10% of initial investment; life 4 years; tax savings on depreciation ₹1,35,000 p.a.; straight line method. Expected cash flows before depreciation and tax: ₹12,00,000, ₹20,00,000, ₹18,00,000 and ₹16,00,000. PV factors at 10% are 0.909, 0.826, 0.751, 0.683 and at 12% are 0.893, 0.797, 0.712, 0.636. Required: (i) average rate of return based on average investment; (ii) NPV using the WACC.",
+     "answer_points": [
+      "==**Step 1 — find the tax rate from the depreciation shield.** Salvage value = 10% of ₹24,00,000 = ₹2,40,000, so annual depreciation = (₹24,00,000 − ₹2,40,000) ÷ 4 = **₹5,40,000**. Tax saving on depreciation = Depreciation × Tax rate, so ₹1,35,000 = ₹5,40,000 × t and **t = 25%**.== The tax rate is nowhere stated in the question; it has to be extracted this way.",
+      "**Step 2 — profit after tax.** Cash flow before depreciation and tax ₹12,00,000 / ₹20,00,000 / ₹18,00,000 / ₹16,00,000; less depreciation ₹5,40,000 each year gives profit before tax ₹6,60,000 / ₹14,60,000 / ₹12,60,000 / ₹10,60,000; less tax at 25% gives **PAT ₹4,95,000 / ₹10,95,000 / ₹9,45,000 / ₹7,95,000**.",
+      "**Step 3 — (i) ARR on average investment.** Total PAT = ₹33,30,000, so **average PAT = ₹8,32,500**. Average investment = (₹24,00,000 + ₹2,40,000) ÷ 2 = **₹13,20,000**, which is the same as ½ (₹24,00,000 − ₹2,40,000) + ₹2,40,000. ==**ARR = ₹8,32,500 ÷ ₹13,20,000 = 63.07%.**==",
+      "==**Step 4 — the WACC, which is why two sets of PV factors are given.** WACC = (0.80 × 13.5%) + (0.20 × post-tax cost of debt), and the post-tax cost of debt = 8% × (1 − 0.25) = **6%**. So WACC = 10.8% + 1.2% = **12%** — and the 12% factors are the ones to use. The 10% factors are a distractor.==",
+      "**Step 5 — (ii) CFAT and NPV.** CFAT = PAT + depreciation = **₹10,35,000 / ₹16,35,000 / ₹14,85,000 / ₹13,35,000**, plus the **salvage value of ₹2,40,000 in year 4**. Discounting at 12%: ₹9,24,255 + ₹13,03,095 + ₹10,57,320 + ₹8,49,060 + ₹1,52,640 = **₹42,86,370**. ==**NPV = ₹42,86,370 − ₹24,00,000 = ₹18,86,370.**==",
+      "**Why this question is the best single drill in the chapter.** It hides the tax rate inside the depreciation shield, hides the discount rate inside the capital structure, and then asks for one accounting measure and one cash measure from the same data — so the candidate has to keep the profit row and the cash row apart.",
+      "**Two cross-checks.** Depreciation under SLM must use cost **less salvage**, not cost alone — using ₹6,00,000 would give a tax shield of ₹1,50,000, not the ₹1,35,000 stated. And the salvage value appears **once**, in year 4's inflow, not in the depreciation base twice."
+     ],
+     "conclusion": "ARR 63.07% on average investment; NPV ₹18,86,370 at a WACC of 12%. Both the tax rate and the discount rate have to be derived before either answer is possible.",
+     "keywords": [
+      "tax rate from the depreciation shield",
+      "average investment",
+      "WACC 12%",
+      "post-tax cost of debt 6%",
+      "CFAT",
+      "salvage value in year 4"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F07.17-01",
+     "angle": "Average investment",
+     "difficulty": "Moderate",
+     "question": "A project requires an investment of ₹10,00,000 and the plant can be sold for ₹80,000 at the end of its five-year life. Average annual profit after tax and depreciation is ₹92,000. The ARR on average investment is:",
+     "options": {
+      "A": "9.20%",
+      "B": "18.40%",
+      "C": "17.04%",
+      "D": "20.00%"
+     },
+     "answer": "C",
+     "explanation": "SM Illustration 2: average investment = ½ (₹10,00,000 − ₹80,000) + ₹80,000 = ₹4,60,000 + ₹80,000 = ₹5,40,000, and ARR = ₹92,000 ÷ ₹5,40,000 = 17.04%. On initial investment the same project gives 9.2%.",
+     "why_wrong": {
+      "A": "That is ARR on the initial investment of ₹10,00,000.",
+      "B": "₹92,000 ÷ ₹5,00,000 — half the initial investment, with the salvage value left out of the denominator.",
+      "D": "The illustrative cut-off rate ICAI mentions in the same paragraph, not this project's ARR."
+     },
+     "trap": "Average investment is not half the initial investment; the salvage value stays blocked and is added back.",
+     "concept": "F07.17"
+    },
+    {
+     "id": "MCQ-F07.17-02",
+     "angle": "Limitations",
+     "difficulty": "Moderate",
+     "question": "Which of the following is a limitation of ARR that the study material does NOT attribute to the payback period as well?",
+     "options": {
+      "A": "It ignores the time value of money",
+      "B": "It depends on the organisation's choice of accounting procedures, such as the depreciation method",
+      "C": "It is easy to compute from available data",
+      "D": "It places emphasis on short projects"
+     },
+     "answer": "B",
+     "explanation": "SM §8.2: ARR uses accounting numbers that depend on the organisation's choice of accounting procedures, and different procedures such as different depreciation methods can lead to substantially different amounts for an investment's net income and book values. Payback works on cash flows and is not exposed to that distortion.",
+     "why_wrong": {
+      "A": "ICAI lists this limitation for both techniques — it is the common failing of the non-discounting family.",
+      "C": "That is an advantage of both, not a limitation.",
+      "D": "That limitation ICAI attributes to the payback period."
+     },
+     "trap": "The accounting-policy dependence is the one limitation unique to ARR — because it is the only technique that works on profit rather than cash.",
+     "concept": "F07.17"
+    }
+   ],
+   "recap": [
+    "ARR = average annual net income ÷ investment, the denominator being either initial or average investment.",
+    "Average investment = ½ (Initial − Salvage) + Salvage + additional working capital.",
+    "SM Example 7 gives three different ARRs from one set of figures: 37.15%, 26.67% and 41.03% — so the method chosen must be stated.",
+    "Unique limitation: ARR depends on accounting policy, because it works on profit, not cash."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,369 @@
+{
+ "chapter": "F07 — FM Chapter 7: Investment Decisions",
+ "note": "Official questions mapped to FM Chapter 7 (Investment Decisions). Primary code first. RTP assignment follows ICAI's own topic labels ('Investment Decision', 'Investment Decisions', 'Capital Budgeting Decision'); past papers and MTPs follow the appraisal technique the question computes. Case-scenario MCQ sets are recorded as one atom, using the first MCQ's id, in the same way as RTP-S26-FQ1 in atoms_F04.json. Where ICAI's published text does not print a mark allocation, marks is null.",
+ "atoms": [
+  {
+   "id": "PYQ-S24-MCQ1",
+   "codes": [
+    "F07.08",
+    "F07.19",
+    "F07.26"
+   ],
+   "marks": 10,
+   "format": "Case MCQs",
+   "src": "SA-S24 FM Part I Case Scenario I (MCQs 1-5) — depreciation, cash inflow after taxes for years 1-3, discounted cash inflow after taxes, NPV and discounted payback period of an investment proposal"
+  },
+  {
+   "id": "PYQ-M24-Q3a",
+   "codes": [
+    "F07.19",
+    "F07.20",
+    "F07.26"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "SA-M24 Q3(a) HCP Ltd — replacement of machine A by CNC machine B: NPV, profitability index, replacement advice and discounted pay-back period (ICAI's published May 2024 text does not print the mark allocation)"
+  },
+  {
+   "id": "PYQ-M24-Q4c",
+   "codes": [
+    "F07.16"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "SA-M24 Q4(c) relevance of the payback reciprocal in capital budgeting decisions"
+  },
+  {
+   "id": "PYQ-J25-Q3a",
+   "codes": [
+    "F07.19",
+    "F07.20",
+    "F07.08"
+   ],
+   "marks": 6,
+   "format": "Case numerical",
+   "src": "SA-J25 Q3(a) SRT Limited — aluminium smelting and moulding plant: NPV and profitability index with working-capital changes recouped in year 5"
+  },
+  {
+   "id": "PYQ-J25-Q4c-OR",
+   "codes": [
+    "F07.11"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "SA-J25 Q4(c) OR the concept of the exclusion of financing cost principle"
+  },
+  {
+   "id": "PYQ-M25-Q3a",
+   "codes": [
+    "F07.21",
+    "F07.19",
+    "F07.20",
+    "F07.26",
+    "F07.27"
+   ],
+   "marks": 6,
+   "format": "Case numerical",
+   "src": "SA-M25 Q3(a) a capital project — initial investment worked backwards from an IRR of 12%, then NPV, profitability index, discounted payback period and MIRR"
+  },
+  {
+   "id": "PYQ-S25-Q1c",
+   "codes": [
+    "F07.19"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-S25 Q1(c) Global Beverage Corporation — NPV of replacing a bottling machine five years into a ten-year life"
+  },
+  {
+   "id": "PYQ-J26-Q2b",
+   "codes": [
+    "F07.17",
+    "F07.19"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-J26 Q2(b) Algo Steel Ltd — average rate of return on average investment and NPV discounted at the WACC of an 80:20 equity-debt structure"
+  },
+  {
+   "id": "PYQ-M26-Q2a",
+   "codes": [
+    "F07.33",
+    "F07.19",
+    "F07.20"
+   ],
+   "marks": 7,
+   "format": "Case numerical",
+   "src": "SA-M26 Q2(a) R Ltd — Machine M (5 years) against Machine N (7 years): NPV and profitability index for each, then the choice on the equivalent annualised criterion"
+  },
+  {
+   "id": "PYQ-M26-MCQ7",
+   "codes": [
+    "F07.22",
+    "F07.13"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "key": "C",
+   "src": "SA-M26 FM Part I MCQ 7 FG Ltd — required rate of return from CAPM as the cut-off for a one-year investment plan, and whether the plan is worthwhile"
+  },
+  {
+   "id": "PYQ-M26-MCQ8",
+   "codes": [
+    "F07.21",
+    "F07.22"
+   ],
+   "marks": 1,
+   "format": "MCQ",
+   "key": "B",
+   "src": "SA-M26 FM Part I MCQ 8 IRR by interpolation from NPV at 16% and at 20%, and the accept-reject call at a cost of capital of 18.50%"
+  },
+  {
+   "id": "RTP-M24-FQ5",
+   "codes": [
+    "F07.19",
+    "F07.10"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-M24 FM Q5 HMR Ltd — replacing a manually operated machine, trade-in allowance against the new machine, WDV depreciation in the books but SLM for tax (ICAI label: Investment Decisions)"
+  },
+  {
+   "id": "RTP-S24-FQ1",
+   "codes": [
+    "F07.08",
+    "F07.19",
+    "F07.15",
+    "F07.21"
+   ],
+   "marks": null,
+   "format": "Case MCQs",
+   "src": "RTP-S24 FM Q1 Mr. Ronak's Goa hotel project — net initial investment, NPV, payback period, recurring accounting profit and IRR (ICAI label: Investment Decision)"
+  },
+  {
+   "id": "RTP-J25-FQ9",
+   "codes": [
+    "F07.10",
+    "F07.19"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-J25 FM Q9 a new project in plant and machinery plus working capital — NPV with WDV depreciation at 20%, the asset the only one in its block, and capital gains tax at 15%"
+  },
+  {
+   "id": "RTP-M25-FQ1",
+   "codes": [
+    "F07.19",
+    "F07.15"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-M25 FM Q1 Linty — automatic machine models TMT 1 and TMT 2 replacing manual labour over a ten-year life (ICAI label: Investment Decision)"
+  },
+  {
+   "id": "RTP-S25-FQ1",
+   "codes": [
+    "F07.08",
+    "F07.19",
+    "F07.21"
+   ],
+   "marks": null,
+   "format": "Case MCQs",
+   "src": "RTP-S25 FM Q1 Mint Technologies — VPN roll-out for 100 bank branches: CFAT for years 1 and 5, terminal value, total present value and IRR (ICAI label: Case Scenarios)"
+  },
+  {
+   "id": "RTP-J26-FQ2",
+   "codes": [
+    "F07.20",
+    "F07.19"
+   ],
+   "marks": null,
+   "format": "MCQ",
+   "key": "A",
+   "src": "RTP-J26 FM Q2 three projects with given NPV and initial investment — which recommendation follows from the PI criterion and which from NPV"
+  },
+  {
+   "id": "RTP-J26-FQ9",
+   "codes": [
+    "F07.08",
+    "F07.19"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-J26 FM Q9 ABC Manufacturing Ltd — CNC machines and automated assembly lines put to XYZ Bank for project finance (ICAI label: Investment Decision)"
+  },
+  {
+   "id": "RTP-M26-FQ8",
+   "codes": [
+    "F07.08",
+    "F07.19"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-M26 FM Q8 EquipLease Financial Services Ltd — a CNC precision machine bought to lease out (ICAI label: Investment Decisions)"
+  },
+  {
+   "id": "RTP-S26-FQ7",
+   "codes": [
+    "F07.26",
+    "F07.19",
+    "F07.21"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-S26 FM Q7 P Limited — Machine I (5 years) against Machine II (6 years): discounted payback period, NPV and IRR for each (ICAI label: Capital Budgeting Decision)"
+  },
+  {
+   "id": "MTP-J25-S1-FMCQ7",
+   "codes": [
+    "F07.15",
+    "F07.21"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "key": "C",
+   "src": "MTP-J25-S1 FM MCQ 7 Aman Ltd — payback period of a project from its annual cost saving and an IRR of 10%"
+  },
+  {
+   "id": "MTP-J25-S1-FQ4c-OR",
+   "codes": [
+    "F07.27"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-J25-S1 FM Q4(c) OR define the Modified Internal Rate of Return method"
+  },
+  {
+   "id": "MTP-J25-S2-FQ3",
+   "codes": [
+    "F07.12",
+    "F07.08",
+    "F07.19"
+   ],
+   "marks": 10,
+   "format": "Case numerical",
+   "src": "MTP-J25-S2 FM Q3 Hemsparsh Private Limited — an Australian branch appraised over ten years with a tax holiday, allocated common cost, capital gains at 15% and a hurdle rate built from MCLR plus a premium"
+  },
+  {
+   "id": "MTP-M24-S1-FQ2a",
+   "codes": [
+    "F07.10",
+    "F07.19"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "MTP-M24-S1 FM Q2(a) NC Ltd — a product-specific machine raising weekly capacity to 15,000 units, working capital released in year 5, depreciation at 25% WDV"
+  },
+  {
+   "id": "MTP-M24-S1-FQ2b",
+   "codes": [
+    "F07.22",
+    "F07.13"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-M24-S1 FM Q2(b) short note on the cut-off rate"
+  },
+  {
+   "id": "MTP-M24-S2-FQ1c",
+   "codes": [
+    "F07.10",
+    "F07.19"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "MTP-M24-S2 FM Q1(c) RMC World Ltd — home automation gadget project with capacity utilisation rising from 50% to 100% and WDV depreciation at 40%"
+  },
+  {
+   "id": "MTP-M24-S2-FQ4c",
+   "codes": [
+    "F07.26"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-M24-S2 FM Q4(c) the concept of the discounted payback period"
+  },
+  {
+   "id": "MTP-M25-S2-FQ1a",
+   "codes": [
+    "F07.26",
+    "F07.20",
+    "F07.19"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-M25-S2 FM Q1(a) two projects at a cost of capital of 10% — discounted payback period, desirability factor and NPV, with a sales-promotion outflow in year 3 left out of the given cash flows"
+  },
+  {
+   "id": "MTP-M25-S2-FQ3b",
+   "codes": [
+    "F07.21"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-M25-S2 FM Q3(b) short note on the internal rate of return"
+  },
+  {
+   "id": "MTP-M26-S1-FQ1c",
+   "codes": [
+    "F07.19",
+    "F07.29"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "MTP-M26-S1 FM Q1(c) a machine costing ` 50,000 — service the part at the end of year 1 for a three-year life, or replace it at the end of year 2 for a four-year life, and the effect of a ` 5,000 purchase discount"
+  },
+  {
+   "id": "MTP-S24-S1-FQ3a",
+   "codes": [
+    "F07.08",
+    "F07.19"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "MTP-S24-S1 FM Q3(a) Parmarth Limited — introducing AI into the computer process, with operating and maintenance costs paid at the beginning of each year"
+  },
+  {
+   "id": "MTP-S25-S1-FMCQ1",
+   "codes": [
+    "F07.33",
+    "F07.19"
+   ],
+   "marks": 10,
+   "format": "Case MCQs",
+   "src": "MTP-S25-S1 FM Part I case scenario (MCQs 1-5) ABC Ltd — warehouses Baton (5 years) and Katon (8 years): NPV of each after depreciation and expense tax shields, equivalent annual cost of each, and the choice between them"
+  },
+  {
+   "id": "MTP-S26-S1-FMCQ1",
+   "codes": [
+    "F07.09",
+    "F07.08",
+    "F07.19"
+   ],
+   "marks": 10,
+   "format": "Case MCQs",
+   "src": "MTP-S26-S1 FM Part I case scenario (MCQs 1-5) processing waste further instead of disposing of it externally — incremental contribution before depreciation and tax, cash inflow after taxes, present value of the annual inflows and NPV (reconstructed from the answer file; the Series I question paper is not published)"
+  },
+  {
+   "id": "MTP-S26-S2-FQ1c",
+   "codes": [
+    "F07.10",
+    "F07.19"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "MTP-S26-S2 FM Q1(c) Nova Green Mobility Ltd — a smart EV charging station plant, the same frame as RMC World Ltd with capacity utilisation rising from 50% to 100%"
+  },
+  {
+   "id": "MTP-J26-S2-FQ1c",
+   "codes": [
+    "F07.09",
+    "F07.19",
+    "F07.08"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "MTP-J26-S2 FM Q1(c) Orion Aerospace Ltd — video conferencing at eight locations appraised against the executive travel cost it saves"
+  }
+ ]
+}
