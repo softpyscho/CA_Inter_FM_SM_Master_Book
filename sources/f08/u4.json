@@ -1,0 +1,995 @@
+{
+ "confusing": [
+  {
+   "title": "The pairs that cost marks in dividend questions",
+   "headers": [
+    "Looks similar",
+    "The real difference",
+    "Give-away word"
+   ],
+   "rows": [
+    [
+     "Walter's Model vs Gordon's Model",
+     "Walter divides by Ke alone; Gordon divides by Ke − br, so a payout change moves Gordon's denominator as well as its numerator",
+     "If growth appears anywhere, it is Gordon"
+    ],
+    [
+     "Walter at r = Ke vs Gordon at r = Ke",
+     "Walter: every payout ratio is optimum. Gordon: there is no optimum ratio",
+     "Same economics, opposite wording — answer in the model's own words"
+    ],
+    [
+     "Retention ratio (b) vs payout ratio (1 − b)",
+     "Gordon's numerator is E₁(1 − b), the payout; the denominator carries br, the retention",
+     "b appears in both, once as its complement"
+    ],
+    [
+     "g = br vs g = r",
+     "Growth is the retained part of earnings times the return on it, never the return alone",
+     "If nothing is retained, nothing grows"
+    ],
+    [
+     "Ke vs the P/E ratio",
+     "Ke = 1 ÷ (P/E). A P/E of 11 means Ke of 9.09%, not 11%",
+     "A P/E given instead of a cost of capital is an instruction to invert it"
+    ],
+    [
+     "D₀ vs D₁",
+     "Gordon's growth form is D₀(1 + g) ÷ (Ke − g); the numerator is next year's dividend",
+     "'Dividend paid' is D₀; 'expected dividend' is D₁"
+    ],
+    [
+     "Stock dividend (bonus issue) vs stock split",
+     "A bonus issue capitalises reserves and leaves the face value alone; a split cuts the face value and touches no reserve",
+     "Did the face value change?"
+    ],
+    [
+     "Cash dividend vs share buyback",
+     "A dividend drops the price and leaves the share count; a buyback cuts the share count and leaves the price. Wealth is the same either way",
+     "HM Ltd: ₹2,000 both ways"
+    ],
+    [
+     "Constant dividend policy vs stable dividend policy",
+     "Constant fixes the amount of dividend; stable fixes the payout ratio",
+     "A Dividend Equalisation Reserve Fund belongs to the constant policy"
+    ],
+    [
+     "Lintner's Model vs Walter and Gordon",
+     "Lintner's dividend depends on last year's dividend as well as this year's earnings; Walter and Gordon never look back",
+     "If D₀ is in the formula as a starting point, it is Lintner"
+    ],
+    [
+     "MM's three situations vs the three DDM growth cases",
+     "MM's three are ways of funding a dividend (reserves, new issue, no dividend); DDM's three are growth patterns (zero, constant, variable)",
+     "One is about funding, the other about growth"
+    ],
+    [
+     "Net profit vs earnings for equity shareholders",
+     "The preference dividend has to be deducted before EPS is computed",
+     "Any question giving preference capital is testing this"
+    ],
+    [
+     "Ex-dividend price vs cum-dividend price",
+     "Ex-dividend is the next day's price, after the right to dividend has gone",
+     "'Ex' means the right has gone"
+    ],
+    [
+     "Dividend yield vs capital yield",
+     "In Gordon's model Ke = D₁ ÷ P₀ + g; the first term is the dividend yield and g is the capital yield",
+     "g is also called capital appreciation"
+    ]
+   ]
+  },
+  {
+   "title": "Which model answers which question",
+   "headers": [
+    "If the question asks",
+    "Use",
+    "And state"
+   ],
+   "rows": [
+    ["Does dividend policy affect the value of the firm?", "MM hypothesis (§8.1)", "No — value depends solely on earning power; prove it both ways"],
+    ["What price does this payout produce, with no growth in the formula?", "Walter (§8.2)", "The comparison of r with Ke, and whether the policy is optimal"],
+    ["What price does this payout produce, allowing for growth?", "Gordon (§8.2)", "g = br, and that Ke must exceed g"],
+    ["What is the share worth if dividends grow at different rates over time?", "Dividend Discount Model, variable growth", "Each phase valued separately, with the terminal value discounted to today"],
+    ["What return can an investor expect from this price?", "Gordon rearranged: Ke = D₁ ÷ P₀ + g", "The split between dividend yield and capital yield"],
+    ["What dividend will the company actually declare this year?", "Lintner (§7)", "That it depends on last year's dividend as well as the target payout"],
+    ["How many new shares must be issued to pay this dividend?", "MM: Δn = [I − (E − nD₁)] ÷ P₁", "That the value of the firm is unchanged at n × P₀"],
+    ["What happens to book value per share on a buyback?", "§10", "Net worth falls by the amount paid; above book value, BVPS falls"],
+    ["Why split a share that is trading at ₹1,000?", "§9", "To regulate the price; the share has become less tradable"]
+   ]
+  }
+ ],
+ "cases": [
+  {
+   "id": "CASE-F08-INT-1",
+   "title": "Integrated Case 1 — Himgiri Ceramics Ltd. puts three models to the same data",
+   "facts": [
+    "Himgiri Ceramics Ltd. earned a net profit after tax of ₹48,00,000 for the year ended 31 March 2026. Its capital consists of 10% preference share capital of ₹60,00,000 and 7,00,000 equity shares of ₹10 each.",
+    "The company's policy is to retain 40% of the earnings available to equity shareholders.",
+    "Its return on investment is 18% and its cost of equity is 12%. The share currently trades at ₹70.",
+    "The Board plans an investment of ₹50,00,000 during the coming year, and will issue fresh equity shares for whatever the retained earnings do not cover.",
+    "One director argues that the dividend should be raised because 'shareholders prefer cash in hand'; another says the payout should be cut to nil; the chief financial officer says that on the best theory available it makes no difference at all."
+   ],
+   "questions": [
+    {
+     "q": "Earnings per share and dividend per share are respectively:",
+     "options": {
+      "A": "₹6.00 and ₹3.60",
+      "B": "₹6.86 and ₹4.11",
+      "C": "₹6.00 and ₹2.40",
+      "D": "₹4.80 and ₹2.88"
+     },
+     "answer": "A",
+     "reasoning": [
+      "**Deduct the preference dividend first.** 10% of ₹60,00,000 = **₹6,00,000**, so **earnings available to equity shareholders = ₹48,00,000 − ₹6,00,000 = ₹42,00,000**.",
+      "==**EPS = ₹42,00,000 ÷ 7,00,000 shares = ₹6.00.**==",
+      "**A 40% retention means a 60% payout**, so ==**DPS = 60% of ₹6.00 = ₹3.60**==.",
+      "==Option B is what a candidate gets by dividing the **whole** net profit of ₹48,00,000 by 7,00,000 shares and forgetting the preference dividend — the single commonest error in this chapter.== Option C takes 40% of EPS as the dividend instead of 60%, confusing retention with payout."
+     ]
+    },
+    {
+     "q": "The price per share under Walter's Model and under Gordon's Model is respectively:",
+     "options": {
+      "A": "₹60.00 and ₹60.00",
+      "B": "₹75.00 and ₹60.00",
+      "C": "₹50.00 and ₹75.00",
+      "D": "₹60.00 and ₹75.00"
+     },
+     "answer": "D",
+     "reasoning": [
+      "**Walter.** r ÷ Ke = 0.18 ÷ 0.12 = **1.5**.\nP = [₹3.60 + 1.5 × (₹6.00 − ₹3.60)] ÷ 0.12 = [₹3.60 + ₹3.60] ÷ 0.12 = ₹7.20 ÷ 0.12 = ==**₹60.00**==.",
+      "**Gordon.** **g = br = 0.40 × 0.18 = 7.2%**, so\nP₀ = E₁(1 − b) ÷ (Ke − br) = ₹6.00 × 0.60 ÷ (0.12 − 0.072) = ₹3.60 ÷ 0.048 = ==**₹75.00**==.",
+      "==**Why Gordon is the higher figure here.** Both models agree the company should retain, because r of 18% exceeds Ke of 12%. But **Gordon credits the retention twice** — once by the earnings it keeps and again by shrinking the denominator to 0.048 — while Walter divides by the full 0.12. ==**The gap of ₹15 is the value Gordon attributes to growth and Walter does not.**==",
+      "Option A assumes the two models must agree, which they only do when r = Ke. Option B reverses them."
+     ]
+    },
+    {
+     "q": "On the figures given, the directors' arguments should be resolved as follows:",
+     "options": {
+      "A": "The first director is right: raising the payout raises the price, since shareholders prefer current income",
+      "B": "The second director is right on both relevance models: with r above Ke the optimum payout is nil, and Walter's price would then be ₹75.00",
+      "C": "Neither relevance model can be applied, because the market price of ₹70 lies between the two computed prices",
+      "D": "The chief financial officer is right, and the other two arguments can be disregarded"
+     },
+     "answer": "B",
+     "reasoning": [
+      "==**The test is r against Ke, and nothing else.** Here **r of 18% exceeds Ke of 12%**, so Himgiri is a **growth company**: under both Walter and Gordon the **optimum dividend payout ratio is zero**, and under Walter the correlation between dividend and price is **negative**.==",
+      "**The confirming computation.** At a nil payout Walter gives P = [0 + 1.5 × ₹6.00] ÷ 0.12 = ₹9.00 ÷ 0.12 = ==**₹75.00**==, against the ₹60.00 the present 60% payout produces. ==**The payout is costing ₹15 a share.**==",
+      "**Why the first director is wrong as a matter of these models.** The preference for near dividends is real — SM §4 says shareholders give more importance to near dividends than to future dividends and capital gains — but it is a **practical consideration**, not something either relevance model prices. ==On the figures, every rupee paid out is a rupee the company could have turned into 18% against a shareholder requirement of 12%.==",
+      "==**And why the CFO is not simply right either.** MM's conclusion is correct **within its assumptions**, and option D's instruction to 'disregard' the other arguments is what makes it wrong: the assumptions include **no taxes and no transaction costs**, and dividends have been taxable in the investor's hands since 1 April 2020 (SM §6(9)). ==The models disagree because they rest on different assumptions, not because two of them are mistaken.==",
+      "Option C is a non-answer: a market price differing from a model price tells you the model's assumptions do not hold, not that the model cannot be applied."
+     ]
+    },
+    {
+     "q": "Applying the MM hypothesis, the price at the end of the year if the dividend is paid, and the value of the firm, are:",
+     "options": {
+      "A": "₹78.40 and ₹5,23,60,000",
+      "B": "₹74.80 and ₹5,56,80,000",
+      "C": "₹74.80 and ₹4,90,00,000",
+      "D": "₹66.40 and ₹4,90,00,000"
+     },
+     "answer": "C",
+     "reasoning": [
+      "**The year-end price.** P₁ = P₀(1 + Ke) − D₁ = ₹70 × 1.12 − ₹3.60 = ₹78.40 − ₹3.60 = ==**₹74.80**==.",
+      "**The new shares.** Total dividend = 7,00,000 × ₹3.60 = ₹25,20,000, so **retained earnings = ₹42,00,000 − ₹25,20,000 = ₹16,80,000** and the funds to be raised are ₹50,00,000 − ₹16,80,000 = **₹33,20,000**. Δn = ₹33,20,000 ÷ ₹74.80 = **44,385 shares** approximately.",
+      "**The value of the firm.** nP₀ = [(7,00,000 + 44,385) × ₹74.80 − ₹50,00,000 + ₹42,00,000] ÷ 1.12 = [₹5,56,80,000 − ₹8,00,000] ÷ 1.12 = ₹5,48,80,000 ÷ 1.12 = ==**₹4,90,00,000**==.",
+      "==**And the one-line check.** n × P₀ = 7,00,000 × ₹70 = **₹4,90,00,000** — the same figure, as it must be under MM. ==Running that multiplication first would have identified the answer without the formula at all.==",
+      "Option A uses the no-dividend price of ₹78.40 with the wrong value. ==Option B offers ₹5,56,80,000, which is **(n + Δn)P₁** — the numerator before the investment and earnings adjustment and before discounting; it is the most tempting wrong answer because it appears in the working.== Option D deducts the dividend before applying Ke."
+     ]
+    }
+   ],
+   "concepts": [
+    "F08.09",
+    "F08.10",
+    "F08.04",
+    "F08.06"
+   ],
+   "trap": "The preference dividend in question 1 decides every later figure; and in question 4 the number that appears in the middle of the working — ₹5,56,80,000 — is offered as an answer. The defence against both is the same: compute EPS as a labelled working, and check the MM value against n × P₀ before writing anything down."
+  },
+  {
+   "id": "CASE-F08-INT-2",
+   "title": "Integrated Case 2 — Nilgiri Foods Ltd. chooses between three ways of rewarding shareholders",
+   "facts": [
+    "Nilgiri Foods Ltd. has 5,00,000 equity shares of ₹10 each and a book value per share of ₹60. Earnings per share for the year are ₹8.",
+    "The company's return on investment is 15% and its cost of equity is 12%.",
+    "The Board has set itself the objective of a market price of ₹120 per share under Gordon's Model, and wants to know what retention policy that implies.",
+    "Two alternatives to a larger cash dividend are also on the table: a bonus issue in the ratio 1:4, and a buyback of 50,000 shares at ₹120 each.",
+    "The company's shareholders are largely retail investors who have held the share for several years."
+   ],
+   "questions": [
+    {
+     "q": "The retention ratio that gives a Gordon price of ₹120, and the resulting dividend per share, are:",
+     "options": {
+      "A": "0.40 and ₹4.80",
+      "B": "0.50 and ₹4.00",
+      "C": "0.64 and ₹2.88",
+      "D": "0.36 and ₹5.12"
+     },
+     "answer": "C",
+     "reasoning": [
+      "**Set up Gordon's model with b as the unknown.** P₀ = E(1 − b) ÷ (Ke − br):\n**₹120 = ₹8(1 − b) ÷ (0.12 − 0.15b)**",
+      "**Clear the fraction and collect.** 120(0.12 − 0.15b) = 8(1 − b) → **14.4 − 18b = 8 − 8b** → **6.4 = 10b** → ==**b = 0.64**==.",
+      "**So the payout ratio is 1 − 0.64 = 0.36**, and ==**DPS = 0.36 × ₹8 = ₹2.88**==.",
+      "==**The reason this cannot be solved by inspection** is that **b sits in both the numerator and the denominator** — raising the retention cuts the dividend and simultaneously raises the growth rate. That is the distinguishing skill of a Gordon reverse working, and it is exactly the step September 2025's Saraswati Ltd and the May 2026 RTP both require.==",
+      "**The check, which takes five seconds.** g = br = 0.64 × 0.15 = 9.6%, so P₀ = ₹2.88 ÷ (0.12 − 0.096) = ₹2.88 ÷ 0.024 = **₹120** ✓. Option D is the payout ratio offered as the retention ratio, with the dividend to match."
+     ]
+    },
+    {
+     "q": "At that same payout, the price under Walter's Model would be:",
+     "options": {
+      "A": "₹77.33",
+      "B": "₹120.00",
+      "C": "₹66.67",
+      "D": "₹83.33"
+     },
+     "answer": "A",
+     "reasoning": [
+      "**Walter, with D = ₹2.88 and E = ₹8.** r ÷ Ke = 0.15 ÷ 0.12 = **1.25**.\nP = [₹2.88 + 1.25 × (₹8.00 − ₹2.88)] ÷ 0.12 = [₹2.88 + 1.25 × ₹5.12] ÷ 0.12 = [₹2.88 + ₹6.40] ÷ 0.12 = ₹9.28 ÷ 0.12 = ==**₹77.33**==.",
+      "==**The gap of ₹42.67 between the two models is the whole lesson.** Both say the same thing qualitatively — r of 15% beats Ke of 12%, so retain — but **Gordon capitalises the dividend at a spread of only 0.024** while **Walter divides by the full 0.12, five times larger**. ==**A Board that sets a target price 'under Gordon's Model' has chosen the model that flatters retention most.**==",
+      "**Option C is Walter's price at a 100% payout** (₹8 ÷ 0.12 = ₹66.67) and **option D is Walter's price at a nil payout** (1.25 × ₹8 ÷ 0.12 = ₹83.33). ==Those two figures bracket every Walter answer for this company, which is the quickest check available: ₹77.33 sits inside the range and ₹120 does not.==",
+      "Option B assumes the models must agree on the price, which they do only when r = Ke."
+     ]
+    },
+    {
+     "q": "If the company makes a bonus issue in the ratio 1:4 instead of raising the cash dividend, then for a shareholder holding 400 shares:",
+     "options": {
+      "A": "Wealth increases by 25%, because 100 additional shares are received free",
+      "B": "Wealth increases, and the company's net worth increases by the amount capitalised",
+      "C": "Wealth is unchanged and the company's reserves are unaffected, only the face value falling",
+      "D": "Wealth is unchanged; the holding becomes 500 shares at a proportionately lower price, and the company's reserves are capitalised with total net worth unchanged"
+     },
+     "answer": "D",
+     "reasoning": [
+      "**What the shareholder gets.** A 1:4 bonus means one new share for every four held, so 400 shares become ==**500 shares**==. The price falls in the same proportion — four-fifths of what it was — so ==**the value of the holding is exactly what it was**==.",
+      "==**ICAI's own words on this** (SM §3): a stock dividend **'does not affect the wealth of shareholders and therefore it has no value for them'**, being **'a method of capitalising the past earnings of the shareholders and a formal way of recognising earnings which the shareholders already own'**. **James Porterfield regards stock dividends as a division of corporate pie into a larger number of pieces.**==",
+      "**What happens in the company.** Equity share capital **increases** and reserves and surplus **decrease** by the same amount, so ==**total net worth is not affected, as retained earnings are only capitalised**==. The bonus must come out of **share premium and free reserves**, not out of a revaluation capital reserve.",
+      "==Option C describes a **stock split**, not a bonus issue — a split cuts the face value and leaves reserves alone, which is the distinction most often missed.== Options A and B both create wealth out of a book entry.",
+      "**The one genuine benefit, worth a sentence in a descriptive answer.** For these long-standing retail holders the bonus shares arrive **untaxed**, being treated as a capital asset rather than as dividend, and ==**the holding period for bonus shares starts from the date of their issue**, which SM §3 says discourages immediate selling and so supports the price.=="
+     ]
+    },
+    {
+     "q": "If instead the company buys back 50,000 shares at ₹120 each, the book value per share and the earnings per share after the buyback will be:",
+     "options": {
+      "A": "₹60.00 and ₹8.00, both unchanged",
+      "B": "₹53.33 and ₹8.89",
+      "C": "₹66.67 and ₹8.89",
+      "D": "₹53.33 and ₹7.20"
+     },
+     "answer": "B",
+     "reasoning": [
+      "**Net worth before and after.** Before: 5,00,000 × ₹60 = **₹3,00,00,000**. The buyback pays 50,000 × ₹120 = **₹60,00,000**, and ==**net worth falls by exactly the amount paid**==, to **₹2,40,00,000**.",
+      "**Shares after** = 5,00,000 − 50,000 = **4,50,000**, so ==**book value per share = ₹2,40,00,000 ÷ 4,50,000 = ₹53.33**==.",
+      "**Earnings are unchanged** at 5,00,000 × ₹8 = ₹40,00,000, so ==**EPS = ₹40,00,000 ÷ 4,50,000 = ₹8.89**==.",
+      "==**Why book value falls while EPS rises, which is the point of the question.** The company paid **₹120 for shares carrying ₹60 of book value** — twice over. ==**A buyback above book value always reduces book value per share**, while **EPS always rises** because the same earnings are spread over fewer shares.== Option C has book value rising, which could only happen on a buyback **below** book value.==",
+      "**And the connection back to the chapter.** SM §10.1 calls a buyback **'a form of shareholders' dividend'** because **as the number of circulating shares falls, the amount of dividend per share in the future increases** — which is the ₹8.89 against ₹8.00 made visible.",
+      "==**The recommendation the case is driving at.** For long-standing retail holders a **bonus issue** conserves cash, arrives untaxed and does nothing for value; a **buyback at twice book value** raises EPS but halves nothing except the balance sheet; and a **higher cash dividend** is the one option the models positively argue against, since r of 15% exceeds Ke of 12%. ==On these figures the defensible answer is to **retain**, as part (i) implies, and to use a bonus issue if the shareholders need to be given something.=="
+     ]
+    }
+   ],
+   "concepts": [
+    "F08.10",
+    "F08.03",
+    "F08.13",
+    "F08.15",
+    "F08.16"
+   ],
+   "trap": "Question 1 cannot be solved by inspection because b appears above and below the line; question 3 offers the stock-split answer as a distractor for the bonus issue; and question 4 rewards knowing the direction of travel — book value down, EPS up — before any arithmetic is done."
+  }
+ ],
+ "chapter_test": {
+  "mcqs": [
+   {
+    "id": "CT-MCQ-F08-01",
+    "question": "Under Walter's Model, Gordon's Model and the MM hypothesis respectively, the denominator by which the dividend-related numerator is divided is:",
+    "options": {
+     "A": "Ke, Ke − br, and (1 + Ke)",
+     "B": "Ke − br, Ke, and (1 + Ke)",
+     "C": "Ke, Ke, and Ke",
+     "D": "Ke − g, Ke − g, and Ke"
+    },
+    "answer": "A",
+    "explanation": "SM §8: Walter's P = [D + (r ÷ Ke)(E − D)] ÷ Ke; Gordon's P₀ = E₁(1 − b) ÷ (Ke − br); MM's P₀ = (P₁ + D₁) ÷ (1 + Ke). Gordon is the only one of the three whose denominator moves when the payout ratio changes."
+   },
+   {
+    "id": "CT-MCQ-F08-02",
+    "question": "A company's net profit is ₹30,00,000, it has 12% preference share capital of ₹1,00,00,000 and 6,00,000 equity shares of ₹10 each. Its EPS is:",
+    "options": {
+     "A": "₹5.00",
+     "B": "₹3.00",
+     "C": "₹2.00",
+     "D": "₹4.20"
+    },
+    "answer": "B",
+    "explanation": "RTP September 2024's Gamma Ltd: net profit ₹30,00,000 less preference dividend of 12% on ₹1,00,00,000 = ₹12,00,000, leaving ₹18,00,000 for equity shareholders; over 6,00,000 shares that is ₹3.00. Option A is what results from dividing the whole net profit by the share count."
+   },
+   {
+    "id": "CT-MCQ-F08-03",
+    "question": "The market price of a share is ₹198 and its EPS is ₹18. The cost of equity to be used in Walter's Model is:",
+    "options": {
+     "A": "11%",
+     "B": "18%",
+     "C": "9.091%",
+     "D": "Cannot be determined without the dividend"
+    },
+    "answer": "C",
+    "explanation": "RTP January 2025: the P/E ratio is ₹198 ÷ ₹18 = 11, and Ke = 1 ÷ (P/E) = 1 ÷ 11 = 9.091%. Option A gives the P/E itself rather than its reciprocal."
+   },
+   {
+    "id": "CT-MCQ-F08-04",
+    "question": "Under Gordon's Model, a company with r of 18% and Ke of 15% increases its dividend payout ratio from 60% to 80%. The market price per share will:",
+    "options": {
+     "A": "Increase, because shareholders receive more cash",
+     "B": "Remain unchanged, because earnings are unchanged",
+     "C": "Increase, because the growth rate falls and so does risk",
+     "D": "Decrease, because with r above Ke the optimum payout is zero"
+    },
+    "answer": "D",
+    "explanation": "MTP September 2025 Series II: at a 60% payout g is 7.2% and the price ₹76.92; at 80% g falls to 3.6% and the price to ₹70.18. With r above Ke the optimum payout is nil, so any increase in payout reduces the price."
+   },
+   {
+    "id": "CT-MCQ-F08-05",
+    "question": "A share quoted at ₹120 belongs to a risk class whose capitalisation rate is 9.6%, and a dividend of ₹6.40 is declared. Under the MM approach the year-end price is:",
+    "options": {
+     "A": "₹125.12",
+     "B": "₹131.52",
+     "C": "₹137.92",
+     "D": "₹113.60"
+    },
+    "answer": "A",
+    "explanation": "MTP January 2026 Series I's Perfact Ltd: P₁ = P₀(1 + Ke) − D₁ = ₹120 × 1.096 − ₹6.40 = ₹131.52 − ₹6.40 = ₹125.12. Option B is the price if no dividend were declared."
+   },
+   {
+    "id": "CT-MCQ-F08-06",
+    "question": "Lintner's Model has two parameters. They are:",
+    "options": {
+     "A": "The retention ratio and the return on investment",
+     "B": "The cost of equity and the growth rate",
+     "C": "The target payout ratio and the spread at which current dividends adjust to the target",
+     "D": "The dividend yield and the capital yield"
+    },
+    "answer": "C",
+    "explanation": "SM §7(c): Lintner's model has two parameters — the target payout ratio, and the spread at which current dividends adjust to the target — combined in D₁ = D₀ + [(EPS × Target payout) − D₀] × Af."
+   },
+   {
+    "id": "CT-MCQ-F08-07",
+    "question": "Under Gordon's Model, where the return on investment equals the cost of capital, the study material states that:",
+    "options": {
+     "A": "Every payout ratio is optimum",
+     "B": "The optimum payout ratio is 50%",
+     "C": "The model cannot be applied, since the growth rate becomes indeterminate",
+     "D": "There is no optimum ratio"
+    },
+    "answer": "D",
+    "explanation": "SM §8.2: Gordon's table gives 'there is no optimum ratio' for a constant company where r = Ke. Walter's table describes the same situation as 'every payout ratio is optimum', which is option A — the two models are worded differently and ICAI prints both."
+   },
+   {
+    "id": "CT-MCQ-F08-08",
+    "question": "Which of the following is NOT an assumption of the MM hypothesis of dividend policy?",
+    "options": {
+     "A": "Perfect capital markets, with all investors rational and information freely available",
+     "B": "The firm has a target payout ratio towards which dividends adjust gradually",
+     "C": "No taxes or tax discrimination between dividend income and capital appreciation",
+     "D": "Risk of uncertainty does not exist"
+    },
+    "answer": "B",
+    "explanation": "SM §8.1 lists perfect capital markets, no taxes, a fixed investment policy, no floatation or transaction cost, and no risk of uncertainty. A target payout ratio with gradual adjustment is a parameter of Lintner's Model in §7, not an MM assumption."
+   },
+   {
+    "id": "CT-MCQ-F08-09",
+    "question": "A company pays a dividend of ₹2 per share, growth is expected at 2% a year and the expected return on equity capital is 15%. Under Gordon's growth model the price of the share is:",
+    "options": {
+     "A": "₹15.69",
+     "B": "₹13.33",
+     "C": "₹15.38",
+     "D": "₹100.00"
+    },
+    "answer": "A",
+    "explanation": "SM Illustration 6: P = D₀(1 + g) ÷ (Ke − g) = ₹2 × 1.02 ÷ (0.15 − 0.02) = ₹2.04 ÷ 0.13 = ₹15.69. Option C uses D₀ of ₹2 without growing it; option B divides by Ke alone."
+   },
+   {
+    "id": "CT-MCQ-F08-10",
+    "question": "A bonus issue differs from a stock split in that a bonus issue:",
+    "options": {
+     "A": "Reduces the face value per share while a stock split does not",
+     "B": "Increases total net worth while a stock split leaves it unchanged",
+     "C": "Requires cash to be paid out while a stock split does not",
+     "D": "Capitalises reserves and leaves the face value unchanged, while a stock split reduces the face value"
+    },
+    "answer": "D",
+    "explanation": "SM §3 and §9: a bonus issue increases equity share capital and reduces reserves and surplus, leaving total net worth unaffected, with the face value unchanged. A stock split splits one share of ₹500 into five of ₹100, reducing the face value and touching no reserve."
+   },
+   {
+    "id": "CT-MCQ-F08-11",
+    "question": "A company with a book value per share of ₹60 buys back shares at ₹120 each. After the buyback:",
+    "options": {
+     "A": "Book value per share falls and earnings per share rises",
+     "B": "Book value per share rises and earnings per share falls",
+     "C": "Both book value per share and earnings per share rise",
+     "D": "Both remain unchanged, since the shareholders' wealth is unaffected"
+    },
+    "answer": "A",
+    "explanation": "Net worth falls by the amount paid and the share count falls, and because ₹120 exceeds the book value of ₹60 the numerator falls proportionately more, so book value per share declines. Earnings are unchanged over fewer shares, so EPS rises — which is why SM §10.1 calls a buyback a form of shareholders' dividend."
+   },
+   {
+    "id": "CT-MCQ-F08-12",
+    "question": "Dividends on shares held as investment, received on or after 1 April 2020, are:",
+    "options": {
+     "A": "Exempt in the hands of the shareholder under section 10(34)",
+     "B": "Subject to dividend distribution tax in the hands of the company under section 115-O",
+     "C": "Exempt up to a threshold and taxable beyond it at a flat rate",
+     "D": "Taxable in the hands of the investor under the head 'Other income' at the applicable slab rate"
+    },
+    "answer": "D",
+    "explanation": "SM §6(9): by the amendment made by the Finance Act 2020, the exemption under section 10(34) does not apply to dividend received on or after 1 April 2020, and dividend income from shares held as investment is taxable under the head 'Other income' at the applicable slab rate. Options A and B describe the position before that date."
+   }
+  ],
+  "descriptive": [
+   {
+    "id": "CT-D-F08-01",
+    "marks": "5",
+    "question": "The following figures are taken from the accounts of Deccan Alloys Ltd.: net profit ₹40,00,000; 10% preference share capital ₹50,00,000; equity share capital ₹50,00,000 in shares of ₹10 each; return on investment 20%; cost of equity 16%; retention ratio 60%. Calculate the market price per share under (a) Walter's Model and (b) Gordon's Model, and comment on whether the dividend policy is optimal.",
+    "answer_points": [
+     "**EPS, as a labelled working.** Net profit ₹40,00,000; less preference dividend 10% of ₹50,00,000 = ₹5,00,000; **earnings for equity shareholders ₹35,00,000**. Shares = ₹50,00,000 ÷ ₹10 = 5,00,000, so **EPS = ₹7.00**.",
+     "**Dividend per share.** Retention 60% means a payout of 40%, so **D = 0.40 × ₹7.00 = ₹2.80**.",
+     "**(a) Walter.** r ÷ Ke = 0.20 ÷ 0.16 = 1.25. P = [₹2.80 + 1.25 × (₹7.00 − ₹2.80)] ÷ 0.16 = [₹2.80 + ₹5.25] ÷ 0.16 = ₹8.05 ÷ 0.16 = **₹50.31**.",
+     "**(b) Gordon.** g = br = 0.60 × 0.20 = **12%**. P₀ = E₁(1 − b) ÷ (Ke − br) = ₹7.00 × 0.40 ÷ (0.16 − 0.12) = ₹2.80 ÷ 0.04 = **₹70.00**.",
+     "**Comment.** **r of 20% exceeds Ke of 16%**, so Deccan Alloys is a **growth company** and under both models the **optimum dividend payout ratio is zero**. The present 40% payout is therefore **not optimal**.",
+     "**Quantify the cost.** At a nil payout Walter would give [0 + 1.25 × ₹7.00] ÷ 0.16 = ₹8.75 ÷ 0.16 = **₹54.69**, so the 40% payout costs about **₹4.38 a share** on Walter's measure.",
+     "**And note the model difference.** Gordon's ₹70.00 exceeds Walter's ₹50.31 because Gordon's denominator is **Ke − br = 0.04** against Walter's **Ke = 0.16** — four times smaller. With g of 12% against a Ke of 16%, ICAI's 'Ke > g' assumption holds but with little margin, so the Gordon figure is sensitive to any change in r."
+    ],
+    "keywords": [
+     "preference dividend deducted",
+     "EPS ₹7.00",
+     "Walter ₹50.31",
+     "g = br = 12%",
+     "Gordon ₹70.00",
+     "r > Ke so optimum payout is zero"
+    ]
+   },
+   {
+    "id": "CT-D-F08-02",
+    "marks": "5",
+    "question": "Konkan Cements Ltd. has 2,50,000 equity shares outstanding at the beginning of the year, with a market price of ₹160 per share. The rate of capitalisation appropriate to its risk class is 15%, and the Board is contemplating a dividend of ₹8 per share. Net income for the year is expected to be ₹50,00,000 and the company plans an investment of ₹80,00,000. Using the MM hypothesis, calculate the year-end market price per share and the value of the firm, both when the dividend is paid and when it is not, and comment on your result.",
+    "answer_points": [
+     "**Data.** n = 2,50,000; P₀ = ₹160; Ke = 15%; E = ₹50,00,000; I = ₹80,00,000; D₁ = ₹8, so nD₁ = ₹20,00,000.",
+     "**Dividend not paid.** P₁ = ₹160 × 1.15 − 0 = **₹184**. Retained earnings = ₹50,00,000, so funds to be raised = ₹80,00,000 − ₹50,00,000 = ₹30,00,000 and **Δn = ₹30,00,000 ÷ ₹184 = 16,304 shares** approximately.\nValue: nP₀ = [(2,50,000 + 16,304) × ₹184 − ₹80,00,000 + ₹50,00,000] ÷ 1.15 = [₹4,90,00,000 − ₹30,00,000] ÷ 1.15 = ₹4,60,00,000 ÷ 1.15 = **₹4,00,00,000**.",
+     "**Dividend paid.** P₁ = ₹160 × 1.15 − ₹8 = **₹176**. Retained earnings = ₹50,00,000 − ₹20,00,000 = ₹30,00,000, so funds to be raised = ₹80,00,000 − ₹30,00,000 = ₹50,00,000 and **Δn = ₹50,00,000 ÷ ₹176 = 28,409 shares** approximately.\nValue: nP₀ = [(2,50,000 + 28,409) × ₹176 − ₹80,00,000 + ₹50,00,000] ÷ 1.15 = [₹4,90,00,000 − ₹30,00,000] ÷ 1.15 = **₹4,00,00,000**.",
+     "**Comment.** The value of the firm is **₹4,00,00,000 whether or not the dividend is paid**, which is also simply n × P₀ = 2,50,000 × ₹160. **Under the MM hypothesis the dividend decision is irrelevant to the value of the firm.**",
+     "**Why the two computations had to agree.** In both cases **(n + Δn)P₁ = ₹4,90,00,000**. Paying the dividend lowers P₁ by exactly ₹8 and forces exactly ₹20,00,000 more of new issue; the extra shares are worth precisely the fall in value of the existing ones.",
+     "**The assumption to name.** The result holds because MM assumes **no taxes and no tax discrimination between dividend income and capital appreciation**, and **no floatation or transaction cost** on the new issue. In practice the issue would carry floatation cost and the dividend would be taxable in the shareholder's hands, so the two routes would not be exactly equal."
+    ],
+    "keywords": [
+     "P₁ = P₀(1 + Ke) − D₁",
+     "Δn at the year-end price",
+     "value equals n × P₀",
+     "(n + Δn)P₁ identical",
+     "no taxes and no floatation cost"
+    ]
+   },
+   {
+    "id": "CT-D-F08-03",
+    "marks": "4",
+    "question": "State the assumptions of Walter's Model, and explain the relationship Walter's Model establishes between the internal rate of return, the cost of capital and the optimum dividend payout ratio.",
+    "answer_points": [
+     "**Assumptions (SM §8.2).** All investment proposals of the firm are to be **financed through retained earnings only**; **'r' rate of return and 'Ke' cost of capital are constant**; **perfect capital markets**, with all investors rational and information freely available; **no taxes or no tax discrimination between dividend income and capital appreciation**, an assumption necessary for universal applicability since tax rates differ between countries; **no floatation or transaction cost**; and **the firm has perpetual life**.",
+     "**The relationship, in ICAI's own terms.** The formula emphasises two factors — the **dividend per share**, and the **relationship between the internal rate of return and the cost of capital (the market capitalisation rate)**.",
+     "**If r exceeds Ke** the firm is a **growth company**: it can invest the funds in a better manner, so **shareholders can accept a low dividend because the value of their share would be higher**. The correlation between the size of the dividend and the market price is **negative** and the **optimum payout ratio is zero**.",
+     "**If r equals Ke** the firm is a **constant company**: there is **no correlation** between the size of the dividend and the market price, and **every payout ratio is optimum**.",
+     "**If r is less than Ke** the firm is a **declining company**: it is not in a position to cover the cost of capital, so **shareholders would prefer a higher dividend so that they can utilise their funds elsewhere in more profitable opportunities**. The correlation is **positive** and the **optimum payout ratio is 100%**.",
+     "**What the model explains.** Walter's Model explains **why the market prices of shares of growing companies are high even though the dividend paid out is low**, and equally why the shares of certain companies that pay higher dividends and retain very little are also high.",
+     "**And the cost it draws attention to.** Retention involves **an opportunity cost — the benefits which shareholders forego in terms of leaving the funds in the business** — so the comparison of r with Ke is a comparison between what the company can earn and what the shareholder could earn elsewhere."
+    ],
+    "keywords": [
+     "retained earnings only",
+     "perpetual life",
+     "market capitalisation rate",
+     "negative correlation",
+     "every payout ratio is optimum",
+     "opportunity cost of retention"
+    ]
+   },
+   {
+    "id": "CT-D-F08-04",
+    "marks": "4",
+    "question": "Distinguish between the dividend irrelevance theory and the dividend relevance theory, and state the Bird-in-hand argument.",
+    "answer_points": [
+     "**The two families (SM §1 and §8).** **Irrelevance theory is the MM Approach**; **relevance theory comprises Walter's Model, Gordon's Model and the Lintner Model**.",
+     "**The irrelevance position.** Modigliani and Miller, in 1961, held that **a firm's dividend policy has no effect on either the price of the firm's stock or its cost of capital**: the **market value of equity shares depends solely on the firm's earning power and is not influenced by the manner in which earnings are split between dividends and retained earnings**, and is **not affected by dividend size**. Under MM there is **no meaningful distinction between dividend and share repurchases**.",
+     "**Why it holds — the arbitrage argument.** A shareholder can replicate any dividend policy at no cost: a dividend from reserves is a **transfer from one pocket to another pocket of the shareholders**; a dividend funded by a new issue brings cash but an **equal capital loss through dilution**; and where no dividend is paid the shareholder can sell part of the holding to create a **home-made dividend**.",
+     "**The relevance position.** Walter and Gordon both hold that **dividend is relevant and the dividend policy of a company affects its value**, the direction depending on whether **r exceeds, equals or falls short of Ke**. Lintner adds that the **dividend actually declared depends on last year's dividend as well as this year's earnings**.",
+     "**The Bird-in-hand theory — Gordon's Revised Model.** Myron Gordon revised his model to consider risk and uncertainty, on two arguments: **(i) investors are risk averse, and (ii) investors put a premium on certain return and a discount on uncertain return**.",
+     "**Gordon's conclusion.** **What is available at present is preferable to what may be available in the future.** As investors are rational they want to avoid risk and uncertainty, so they would **prefer to pay a higher price for shares on which current dividends are paid** and would **discount the value of shares of a firm which postpones dividends** — and **the discount rate would vary with the retention rate**.",
+     "**Where the disagreement really lies.** It is in the assumptions, not the arithmetic. MM assumes **no taxes, no transaction cost and no uncertainty**; remove any of those and dividend policy begins to matter. The bird-in-hand argument is precisely the removal of the third."
+    ],
+    "keywords": [
+     "irrelevance is MM",
+     "relevance is Walter, Gordon and Lintner",
+     "solely on earning power",
+     "home-made dividend",
+     "premium on certain return",
+     "discount rate varies with the retention rate"
+    ]
+   },
+   {
+    "id": "CT-D-F08-05",
+    "marks": "4",
+    "question": "Explain the three forms of dividend recognised by the study material, and show why the effect of a cash dividend and of a share repurchase on shareholders' wealth is the same.",
+    "answer_points": [
+     "**1. Cash dividend**, the most common form. 'Cash' means **cash, cheque, warrant, demand draft, pay order or directly through Electronic Clearing Service (ECS), but not in kind**.",
+     "**2. Share repurchases** — a transaction in which the company **buys back its own shares using corporate cash**. The shares bought back may be classified as **treasury shares, kept for re-issuance in future**, or **cancelled shares, if retired from issued share capital**. ICAI notes that **share repurchases are also viewed as one form of dividend distribution**.",
+     "**3. Stock dividend (bonus shares)** — a distribution of shares in lieu of cash dividend, issued to existing shareholders **without any consideration** and distributed proportionately, so **proportionate ownership is retained**. Equity share capital increases and reserves and surplus decrease, and **total net worth is not affected as retained earnings are only capitalised**.",
+     "**The equivalence, on ICAI's own HM Ltd figures.** HM Ltd has 1 crore shares quoted at ₹200 and proposes a dividend of ₹50 a share, ₹50 crores in total. Take a shareholder holding 10 shares.",
+     "**Option 1 — cash dividend.** The ex-dividend price is ₹200 − ₹50 = **₹150**. The shareholder has **₹500 of cash** (₹50 × 10) and **shares worth ₹1,500** (₹150 × 10) — a total of **₹2,000**.",
+     "**Option 2 — share repurchase of ₹50 crores.** At ₹200 that is 25 lakh shares, 25% of the 1 crore outstanding, so **4 of the 10 shares are repurchased for ₹800**. Market capitalisation falls from ₹200 crores to ₹150 crores over the remaining 75 lakh shares, so **the price stays at ₹200**, and the 6 remaining shares are worth **₹1,200** — again a total of **₹2,000**.",
+     "**The conclusion.** **Keeping other things the same, such as tax considerations, the effect of a cash dividend and of a share repurchase on shareholders' wealth is the same.** The difference is in the mechanics: a dividend lowers the price and leaves the share count, a repurchase lowers the share count and leaves the price. That identity is also why MM say there is **no meaningful distinction between dividend and share repurchases**."
+    ],
+    "keywords": [
+     "not in kind",
+     "treasury shares and cancelled shares",
+     "retained earnings only capitalised",
+     "ex-dividend price ₹150",
+     "price stays at ₹200",
+     "₹2,000 either way"
+    ]
+   },
+   {
+    "id": "CT-D-F08-06",
+    "marks": "3",
+    "question": "Explain the relationship between retained earnings and growth, and state the three growth cases of the Dividend Discount Model.",
+    "answer_points": [
+     "**The relationship (SM §5).** It is captured in one equation: **Growth (g) = br**, where **g** is the growth rate of the firm, **b** the **retention ratio** and **r** the **rate of return on investment**.",
+     "**ICAI's illustration.** A Ltd and B Ltd each have ₹50,00,000 of equity capital earning 20%, so each earns ₹10,00,000. A Ltd distributes **100%**; B Ltd distributes **50%** and retains ₹5,00,000. Next year A Ltd's capital employed is still ₹50,00,000 and it earns **₹10,00,000**, while B Ltd's is ₹55,00,000 and it earns **₹11,00,000** — a rise of **10%**, which is exactly **b × r = 0.50 × 20%**.",
+     "**Why it matters for the models.** Gordon's denominator is **Ke − br**, so **every change in the payout ratio changes the growth rate as well as the dividend**. That is why in Gordon's model a higher payout can lower the price even though more cash is being handed over.",
+     "**The three DDM cases (SM §8.2).** **(a) Zero growth rate** — all dividends remain the same, so the intrinsic value is **P₀ = D ÷ Ke**. ICAI's illustration: a no-growth company paying ₹5 with Ke of 10% is worth ₹50.",
+     "**(b) Constant growth rate, Gordon's Growth Model** — **P₀ = D₀(1 + g) ÷ (Ke − g)**, with g = b × r and b = (1 − dividend payout ratio). ICAI's illustration: a ₹2 dividend growing at 2% with a required return of 15% gives ₹15.69.",
+     "**(c) Variable growth rate** — multi-stage growth models, most commonly **three different rates: an initial high rate of growth, a transition to slower growth, and a sustainable steady rate**. The constant-growth model is extended, **each phase calculated using the constant-growth method at its own rate**, and **the present values of each stage are added to derive the intrinsic value**. Also called the **three staged growth model**.",
+     "**One caution worth adding.** Gordon requires **Ke > g**, an assumption **based on the principles of the series of the sum of a geometric progression** — so a computation producing a nil or negative denominator has breached the model rather than found a very valuable share."
+    ],
+    "keywords": [
+     "g = br",
+     "capital employed grows by the retention",
+     "zero growth P₀ = D ÷ Ke",
+     "constant growth D₀(1 + g) ÷ (Ke − g)",
+     "three staged growth model",
+     "Ke > g"
+    ]
+   }
+  ]
+ },
+ "recall": {
+  "quick": [
+   {
+    "q": "Name the irrelevance theory and the three relevance theories of dividend.",
+    "a": "Irrelevance: the MM Approach. Relevance: Walter's Model, Gordon's Model and the Lintner Model."
+   },
+   {
+    "q": "State Walter's formula.",
+    "a": "P = [D + (r ÷ Ke)(E − D)] ÷ Ke, where P is the market price, E earnings per share, D dividend per share, Ke the cost of equity and r the internal rate of return."
+   },
+   {
+    "q": "State Gordon's formula in both its forms.",
+    "a": "P₀ = E₁(1 − b) ÷ (Ke − br), and in growth form P₀ = D₀(1 + g) ÷ (Ke − g)."
+   },
+   {
+    "q": "State the MM pricing relation and the value-of-firm formula.",
+    "a": "P₀ = (P₁ + D₁) ÷ (1 + Ke), so P₁ = P₀(1 + Ke) − D₁; and nP₀ = [(n + Δn)P₁ − I + E] ÷ (1 + Ke)."
+   },
+   {
+    "q": "What are the three forms of dividend?",
+    "a": "Cash dividend; share repurchases, held as treasury shares or cancelled; and stock dividend or bonus shares."
+   },
+   {
+    "q": "What are the three situations under the MM hypothesis?",
+    "a": "Dividend paid from reserve and surplus; dividend paid from a new issue of shares; and no dividend paid, the shareholder creating a home-made dividend."
+   },
+   {
+    "q": "What are the two parameters of Lintner's Model?",
+    "a": "The target payout ratio, and the spread at which current dividends adjust to the target."
+   },
+   {
+    "q": "What are the two main types of share buyback?",
+    "a": "Through an open market, using the secondary market; and through a tender offer, at a fixed price at which all shareholders can participate."
+   }
+  ],
+  "fill": [
+   {
+    "q": "Growth (g) = ______ × r.",
+    "a": "b, the retention ratio"
+   },
+   {
+    "q": "In Gordon's Model the denominator is Ke − ______.",
+    "a": "br (that is, Ke − g)"
+   },
+   {
+    "q": "Where a P/E ratio is given instead of a cost of equity, Ke = ______.",
+    "a": "1 ÷ (P/E)"
+   },
+   {
+    "q": "Under MM, the number of new shares to be issued is Δn = [I − (E − nD₁)] ÷ ______.",
+    "a": "P₁, the price at the end of the period"
+   },
+   {
+    "q": "Lintner: D₁ = D₀ + [(EPS × Target payout) − D₀] × ______.",
+    "a": "Af, the adjustment factor or speed of adjustment"
+   },
+   {
+    "q": "Under the zero-growth Dividend Discount Model, P₀ = ______.",
+    "a": "D ÷ Ke"
+   },
+   {
+    "q": "Bonus shares may be issued only out of ______ and free reserves.",
+    "a": "share premium"
+   },
+   {
+    "q": "A stock split of one ₹500 share into five shares reduces the ______ to ₹100.",
+    "a": "face value per share"
+   }
+  ],
+  "true_false": [
+   {
+    "s": "Under Walter's Model, a company whose return on investment exceeds its cost of capital should distribute all its earnings.",
+    "a": "False",
+    "reason": "Where r exceeds Ke the correlation between dividend and price is negative and the optimum payout ratio is zero — the company should retain everything."
+   },
+   {
+    "s": "Gordon's Model and Walter's Model will always give the same price for the same data.",
+    "a": "False",
+    "reason": "Walter divides by Ke while Gordon divides by Ke − br, so the two can differ widely. On RTP September 2024's Gamma Ltd the prices are ₹19.44 and ₹58.27."
+   },
+   {
+    "s": "Under the MM hypothesis the value of the firm is the number of shares times the current market price, whatever the dividend policy.",
+    "a": "True",
+    "reason": "Paying a dividend lowers the year-end price by exactly the dividend per share and forces exactly enough new issue to compensate, so nP₀ is unchanged. It is the one-line check on every MM computation."
+   },
+   {
+    "s": "A bonus issue increases the total net worth of the company.",
+    "a": "False",
+    "reason": "Equity share capital rises and reserves and surplus fall by the same amount; total net worth is not affected, as retained earnings are only capitalised."
+   },
+   {
+    "s": "A share buyback always increases the book value per share.",
+    "a": "False",
+    "reason": "Net worth falls by the amount paid. Where the buyback price exceeds the pre-buyback book value per share — as in MTP September 2024 Series II, ₹297 against ₹208.03 — book value per share falls."
+   },
+   {
+    "s": "Dividend received by a shareholder on or after 1 April 2020 is exempt under section 10(34).",
+    "a": "False",
+    "reason": "The Finance Act 2020 withdrew that exemption; dividend income from shares held as investment is now taxable in the investor's hands under 'Other income' at slab rates."
+   },
+   {
+    "s": "Under Gordon's Model, where r equals Ke, every payout ratio is optimum.",
+    "a": "False",
+    "reason": "That is Walter's wording. Gordon's own table says there is no optimum ratio, and ICAI prints both forms."
+   },
+   {
+    "s": "A stock split and a stock dividend both leave the face value of the share unchanged.",
+    "a": "False",
+    "reason": "A stock split reduces the face value proportionately; a stock dividend leaves it unchanged and capitalises reserves instead."
+   }
+  ],
+  "one_word": [
+   {
+    "q": "Shares that no longer carry the right to dividend.",
+    "a": "Ex-dividend"
+   },
+   {
+    "q": "The cash a shareholder raises by selling part of his holding when no dividend is paid.",
+    "a": "Home-made dividend"
+   },
+   {
+    "q": "The reserve created to maintain a constant dividend amount through bad years.",
+    "a": "Dividend Equalisation Reserve Fund"
+   },
+   {
+    "q": "The second parameter of Lintner's Model, also called the speed of adjustment.",
+    "a": "The spread (adjustment factor, Af)"
+   },
+   {
+    "q": "The name Gordon gave to his revised model incorporating risk and uncertainty.",
+    "a": "The Bird-in-hand theory"
+   },
+   {
+    "q": "Repurchased shares kept for re-issuance in future.",
+    "a": "Treasury shares"
+   },
+   {
+    "q": "The buyback route in which a fixed price is offered to all shareholders.",
+    "a": "Tender offer"
+   },
+   {
+    "q": "The other name the study material gives for the growth rate g in Gordon's model.",
+    "a": "Capital appreciation or capital yield"
+   }
+  ],
+  "match": {
+   "left": [
+    "MM Approach",
+    "Walter's Model",
+    "Gordon's Model",
+    "Lintner's Model",
+    "Stock split",
+    "Share buyback",
+    "Bird-in-hand theory"
+   ],
+   "right": [
+    "P = [D + (r ÷ Ke)(E − D)] ÷ Ke — divides by Ke alone",
+    "Investors put a premium on certain return and a discount on uncertain return",
+    "One share of ₹500 into five of ₹100 — face value falls, net worth unchanged",
+    "P₀ = (P₁ + D₁) ÷ (1 + Ke) — value depends solely on earning power",
+    "Shares cancelled, so future dividend per share rises",
+    "D₁ = D₀ + [(EPS × Target payout) − D₀] × Af",
+    "P₀ = E₁(1 − b) ÷ (Ke − br) — the payout moves the denominator too"
+   ],
+   "key": [
+    "MM Approach – P₀ = (P₁ + D₁) ÷ (1 + Ke) — value depends solely on earning power",
+    "Walter's Model – P = [D + (r ÷ Ke)(E − D)] ÷ Ke — divides by Ke alone",
+    "Gordon's Model – P₀ = E₁(1 − b) ÷ (Ke − br) — the payout moves the denominator too",
+    "Lintner's Model – D₁ = D₀ + [(EPS × Target payout) − D₀] × Af",
+    "Stock split – One share of ₹500 into five of ₹100 — face value falls, net worth unchanged",
+    "Share buyback – Shares cancelled, so future dividend per share rises",
+    "Bird-in-hand theory – Investors put a premium on certain return and a discount on uncertain return"
+   ]
+  },
+  "differentiate": [
+   {
+    "q": "Walter's Model vs Gordon's Model",
+    "a": "Both hold dividend relevant and both compare r with Ke. Walter's price is [D + (r ÷ Ke)(E − D)] ÷ Ke, with Ke as the only denominator, and it does not use a growth rate. Gordon's is E₁(1 − b) ÷ (Ke − br), so the payout ratio changes the denominator through g = br as well as the numerator — which makes Gordon's prices far more sensitive to the payout. At r = Ke, Walter says every payout ratio is optimum while Gordon says there is no optimum ratio. Walter assumes perpetual life; Gordon assumes an all-equity firm and Ke > g."
+   },
+   {
+    "q": "Dividend irrelevance vs dividend relevance",
+    "a": "Irrelevance is the MM Approach: dividend policy affects neither the share price nor the cost of capital, because market value depends solely on earning power and a shareholder can replicate any policy costlessly. Relevance is Walter, Gordon and Lintner: dividend policy does affect value, the direction depending on whether r exceeds, equals or falls short of Ke. The disagreement is about assumptions — MM requires no taxes, no transaction cost and no uncertainty."
+   },
+   {
+    "q": "Stock dividend vs stock split",
+    "a": "Both raise the number of shares and leave total net worth and every proportionate holding unchanged. A stock dividend keeps the face value and capitalises reserves, so equity share capital rises and reserves fall; it is a way of rewarding shareholders while conserving cash. A stock split reduces the face value proportionately and touches no reserve; its purpose is to regulate the price so that a high-priced share remains tradable."
+   },
+   {
+    "q": "Cash dividend vs share buyback",
+    "a": "Both return cash to shareholders and both leave shareholders' wealth unchanged at the moment of the event — ICAI's HM Ltd example gives ₹2,000 either way. A cash dividend leaves the share count alone and drops the price to its ex-dividend level. A buyback reduces the share count and leaves the price broadly where it was, so future earnings and dividend per share rise for those who stayed. Under MM there is no meaningful distinction between the two."
+   },
+   {
+    "q": "Constant dividend policy vs stable dividend policy",
+    "a": "A constant dividend policy fixes the amount or rate of dividend irrespective of earnings, supported by a Dividend Equalisation Reserve Fund earmarked by marketable securities, and treats common shareholders at par with preference shareholders. A stable dividend policy fixes the payout ratio, so the amount fluctuates in direct proportion to earnings and no dividend is paid where there is a loss; internal financing adjusts automatically and the policy guards against over- and under-payment."
+   },
+   {
+    "q": "Mature companies vs growth companies in dividend policy",
+    "a": "Mature companies, having few investment opportunities, show high payout ratios; their share prices are sensitive to any change in the payout, and only a small portion of earnings is kept for emergent needs. Growth companies have low payout ratios because they need funds for fast-growing fixed assets; they retain all earnings and declare bonus shares to offset shareholders' dividend requirements, and they increase dividends gradually as profitable investment opportunities start falling."
+   }
+  ],
+  "flowchart": {
+   "steps": [
+    "Compute EPS: net profit − preference dividend, ÷ number of equity shares",
+    "Identify the payout ratio and the retention ratio b, and so the dividend per share D",
+    "Identify Ke — and where a P/E ratio is given instead, take Ke = 1 ÷ (P/E)",
+    "Identify r; where it is not given, derive it as total earnings ÷ equity share capital, or from g = br",
+    "Compare r with Ke and write the sentence: growth, constant or declining, and the optimum payout",
+    "For Walter: P = [D + (r ÷ Ke)(E − D)] ÷ Ke, dividing by Ke inside and outside the bracket",
+    "For Gordon: compute g = br first, check Ke > g, then P₀ = E₁(1 − b) ÷ (Ke − br)",
+    "For a reverse working, put the unknown (D, b or r) into the same equation and solve the one linear equation — remembering that b sits above and below the line in Gordon",
+    "For MM: P₁ = P₀(1 + Ke) − D₁, then Δn = [I − (E − nD₁)] ÷ P₁, then nP₀, and check it equals n × P₀",
+    "Close with the decision in words: whether the policy is optimal, and what payout the model recommends"
+   ],
+   "note": "Steps 1 to 5 are common to every question in the chapter and carry most of the marks; steps 6 to 9 are one substitution each."
+  }
+ },
+ "revision": {
+  "five": [
+   "Walter: P = [D + (r ÷ Ke)(E − D)] ÷ Ke. Gordon: P₀ = E₁(1 − b) ÷ (Ke − br). MM: P₁ = P₀(1 + Ke) − D₁.",
+   "r > Ke → optimum payout zero · r = Ke → every ratio optimum (Walter) or no optimum ratio (Gordon) · r < Ke → 100%.",
+   "g = br, and Gordon's denominator is Ke − br, so a payout change moves the denominator too.",
+   "Under MM the value of the firm is always n × P₀, whatever the dividend policy.",
+   "EPS first, every time: net profit less preference dividend, over the number of equity shares. And Ke = 1 ÷ (P/E)."
+  ],
+  "fifteen": [
+   "Add the five MM assumptions and the three MM situations, with the home-made dividend.",
+   "Add the seven Gordon assumptions, especially Ke > g on the geometric-progression argument.",
+   "Add the six Walter assumptions, with retained-earnings-only financing and perpetual life as the two unique ones.",
+   "Add Δn = [I − (E − nD₁)] ÷ P₁ and the fact that (n + Δn)P₁ is the same under both policies.",
+   "Add Lintner: two parameters and D₁ = D₀ + [(EPS × Target payout) − D₀] × Af.",
+   "Add the three forms of dividend and the HM Ltd equivalence of ₹2,000 either way."
+  ],
+  "thirty": [
+   "Work one Walter reverse working end to end — LP Ltd (Jan 2025) for the dividend, K Ltd (May 2026) for the retention ratio.",
+   "Work the RTP January 2025 / MTP September 2026 template: ROI from earnings over equity capital, Ke from the P/E, then the P/E at which policy has no effect.",
+   "Work one MM value-of-firm question both ways — MCO Ltd or M Ltd — and verify against n × P₀.",
+   "Work the two-stage DDM once: Vista Limited (May 2024), noting that 88% of the value is in the terminal value.",
+   "Add the nine determinants, section 123's four sources, and the taxation position since 1 April 2020.",
+   "Add stock splits (two advantages, two limitations) and share buyback (two types, and the effect on book value and EPS)."
+  ],
+  "sixty": [
+   "Work both integrated cases and all twelve chapter-test MCQs, then the six descriptive questions against the model points.",
+   "Work RTP September 2024's Gamma Ltd for the Gordon-against-Walter contrast of ₹58.27 and ₹19.44 on identical data.",
+   "Work RTP January 2026's ABC Industries for the two simultaneous equations that recover both r and Ke from two prices.",
+   "Work RTP May 2025's Mr. A for the five derived inputs — average retention, expected ROI, CAPM Ke, an annualised quarterly dividend, and EPS from the payout.",
+   "Work RTP September 2025's PQR Ltd for Gordon solved for Ke, and for the three-step chain that recovers EPS of ₹125 before the new dividend can be found.",
+   "Work MTP September 2024 Series II's Paarath Limited backwards for the buyback, and MTP September 2025 Series II's ABC Ltd for Walter, Gordon and MM on one data set."
+  ]
+ },
+ "one_page": {
+  "sections": [
+   {
+    "title": "What the chapter is about",
+    "points": [
+     "Dividend is that part of profit after tax which is distributed to shareholders; the alternative is retention for future growth",
+     "Ex-dividend: shares no longer carrying the right to dividend; the ex-dividend price is the next day's price after declaration",
+     "Irrelevance theory: MM Approach · Relevance theory: Walter, Gordon and Lintner",
+     "The decision is easy to understand but difficult to implement — paying too much invites a cut, paying too little invites over-capitalisation"
+    ]
+   },
+   {
+    "title": "Forms of dividend",
+    "points": [
+     "Cash dividend — cash, cheque, warrant, demand draft, pay order or ECS, but not in kind",
+     "Share repurchase — treasury shares (for re-issue) or cancelled shares (retired); also a form of dividend distribution",
+     "Stock dividend (bonus shares) — capitalises reserves, face value unchanged, total net worth unchanged",
+     "Bonus only out of share premium and free reserves, never a revaluation capital reserve",
+     "HM Ltd: a ₹50 dividend and a ₹50 crore buyback each leave the holder of 10 shares with ₹2,000"
+    ]
+   },
+   {
+    "title": "Policy, growth and determinants",
+    "points": [
+     "Dividend policy is governed by the long term financing decision and the wealth maximization decision",
+     "Retained earnings are preferred to a fresh issue because they avoid floatation cost; the test is whether ROI exceeds Ke",
+     "g = br — SM Example 1: retaining 50% at r = 20% gives 10% growth",
+     "Nine determinants: availability of funds · cost of capital · capital structure · stock price · investment opportunities · trend of industry · expectation of shareholders · legal constraints · taxation",
+     "Section 123: this year's profit after depreciation, past undistributed profit, both, or Government money under a guarantee — excluding unrealised and notional gains",
+     "Since 1 April 2020 dividend is taxable in the investor's hands at slab rates"
+    ]
+   },
+   {
+    "title": "Practical considerations and Lintner",
+    "points": [
+     "Mature companies: high payout, price-sensitive, small retention. Growth companies: low payout, retain and give bonus shares",
+     "Four constraints: legal · liquidity · access to the capital market (dilution of control) · investment opportunities",
+     "Constant dividend policy fixes the amount, supported by a Dividend Equalisation Reserve Fund",
+     "Stable dividend policy fixes the payout ratio, so the amount moves with earnings and no dividend is paid on a loss",
+     "Lintner: target payout ratio and the speed of adjustment, in D₁ = D₀ + [(EPS × Target payout) − D₀] × Af"
+    ]
+   },
+   {
+    "title": "MM — the irrelevance theory",
+    "points": [
+     "Market value depends solely on earning power, not on the dividend split; dividend size does not affect it",
+     "Five assumptions: perfect capital markets · no taxes · fixed investment policy · no floatation or transaction cost · no uncertainty",
+     "Three situations: dividend from reserves (one pocket to another) · dividend from a new issue (offset by dilution) · no dividend (home-made dividend)",
+     "P₀ = (P₁ + D₁) ÷ (1 + Ke), so P₁ = P₀(1 + Ke) − D₁",
+     "nP₀ = [(n + Δn)P₁ − I + E] ÷ (1 + Ke), with Δn = [I − (E − nD₁)] ÷ P₁",
+     "The value always comes back to n × P₀ — the one-line check",
+     "No meaningful distinction between dividend and share repurchase"
+    ]
+   },
+   {
+    "title": "Walter and Gordon — the relevance theories",
+    "points": [
+     "Walter: P = [D + (r ÷ Ke)(E − D)] ÷ Ke. Assumes retained-earnings-only financing, constant r and Ke, perfect markets, no taxes, no floatation cost, perpetual life",
+     "Walter's table: r > Ke negative correlation payout zero · r = Ke no correlation every ratio optimum · r < Ke positive correlation payout 100%",
+     "Maximum price rE ÷ Ke² and minimum E ÷ Ke when r > Ke; they swap when r < Ke",
+     "Gordon: P₀ = E₁(1 − b) ÷ (Ke − br), or D₀(1 + g) ÷ (Ke − g). Assumes an all-equity firm, constant r, Ke, b and g, Ke > g, retained-earnings-only financing",
+     "Gordon's table: r > Ke payout zero · r = Ke no optimum ratio · r < Ke payout 100%",
+     "Bird-in-hand: investors are risk averse and put a premium on certain return, a discount on uncertain return",
+     "DDM: zero growth D ÷ Ke · constant growth the Gordon form · variable growth valued phase by phase",
+     "Ke = D₁ ÷ P₀ + g — the dividend yield plus the capital yield"
+    ]
+   },
+   {
+    "title": "Stock splits and share buyback",
+    "points": [
+     "Split: one share of ₹500 into five of ₹100, to regulate the price where a high price makes the share less tradable",
+     "Advantages: affordable to small investors · potentially more shareholders. Limitations: the cost of the process · attracts speculators",
+     "Buyback: repurchase of own shares, share capital falls, shares cancelled; a form of shareholders' dividend since future DPS rises",
+     "Two types: open market (secondary market) and tender offer (a fixed price open to all)",
+     "Net worth falls by the amount paid; a buyback above book value reduces book value per share while EPS rises"
+    ]
+   },
+   {
+    "title": "The figures worth carrying into the hall",
+    "points": [
+     "Walter (SM Illustration 2): ₹120 at nil payout falling to ₹100 at 100% payout, on EPS ₹10, Ke 10%, r 12%",
+     "Walter reverse working (SM Illustration 3): D of ₹3.12 on EPS ₹6 to hold the price at ₹42 — payout 52%",
+     "Gordon (SM Illustration 4): ₹150 at 25% payout · ₹50 at 50% · ₹37.50 at 100%, on EPS ₹6, Ke 16%, r 20%",
+     "Gordon growth (SM Illustrations 6 and 7): ₹15.69; and ₹21 at g = 5%, ₹30.86 at 8%, ₹17.17 at 3%",
+     "MM (SM Example 2): Dev Ltd ₹22,00,000 either way, with 75,000 new shares if the dividend is paid",
+     "Gamma Ltd (RTP Sep 2024): Gordon ₹58.27 against Walter ₹19.44 on the same data",
+     "Paarath Ltd (MTP Sep 2024 S2): book value per share ₹208.03 before a buyback at ₹297, falling to ₹193.20"
+    ]
+   }
+  ]
+ },
+ "verification": {
+  "sources": [
+   "ICAI SM Paper 6A Module 2 Ch 8 'Dividend Decisions' (relevant for May 2026 examination onwards edition), §1 to §10.1 with Examples 1–2 and Illustrations 1–11",
+   "Suggested answers May 2024 – May 2026",
+   "RTPs May 2024 – Sep 2026 (chapter assignment follows ICAI's own topic labels — 'Dividend Decision', 'Dividend Decisions')",
+   "MTPs Mar 2024 – Aug 2026 (third-party copies of ICAI MTPs)",
+   "sources/register.json F08.01–F08.16 · sources/atoms/atoms_F08.json (38 atoms)"
+  ],
+  "open_items": [
+   {
+    "id": "OV-F08-01",
+    "item": "The study material places Lintner's Model in §7 (Practical Considerations in Dividend Policy, under payout policies), and the diagram at §8.1 shows only MM, Walter and Gordon as the theories. The chapter-overview diagram on the opening page, however, lists Lintner as the fourth theory. The register follows the body, so this book treats Lintner as §7 material (F08.07) and says so.",
+    "resolve_with": "None needed; answer under whichever heading the question names"
+   },
+   {
+    "id": "OV-F08-02",
+    "item": "RTP Sep 2026 FM Q6 asks for prices under the 'radical position', with dividends taxed at 25% and capital gains at 12%. The tax-differential or radical position is not in the current Study Material at all. The question is printed with the theory supplied, under F08.09, because it works by removing MM's 'no tax discrimination' assumption.",
+    "resolve_with": "None needed; the computation is examinable and the question supplies the method by naming the position"
+   },
+   {
+    "id": "OV-F08-03",
+    "item": "RTP May 2025 FM Q8 (Mr. A) gives three ROI scenarios with probabilities of 0.30, 0.60 and 0.50, which sum to 1.40 rather than 1.00. ICAI's own answer nevertheless adds the three products and reports an expected ROI of 21%. That figure is reproduced, with a note that normalising the probabilities would give 15%.",
+    "resolve_with": "None needed; reproduce ICAI's 21% and state the inconsistency"
+   },
+   {
+    "id": "OV-F08-04",
+    "item": "ICAI's published May 2024 suggested answers do not print the mark allocation for Q3(b) (Vista Limited), and QP-M24.pdf in sources/qp has no text layer. The atom and the evidence table therefore show a dash rather than an inferred figure — the same position as FM Ch 7's Q3(a).",
+    "resolve_with": "Obtain a text-searchable copy of the May 2024 question paper"
+   },
+   {
+    "id": "OV-F08-05",
+    "item": "SA-S25 Q2(b) (Saraswati Ltd) presents its data in a column that the published text renders out of order — '₹159.09' appears against 'Cost of Capital' and '8%' against 'Market price per share using Gordon's Model'. The arithmetic settles the intended reading: Ke 8%, Gordon price ₹159.09, r 12%. The chapter states the reading it adopts.",
+    "resolve_with": "None needed; only the printed layout is affected, not the figures"
+   },
+   {
+    "id": "OV-F08-06",
+    "item": "RTP Jan 2026 FM Q10 says 'the retention ratio is reduced by 20 percent'. ICAI's answer takes that as 20 percentage points (60% to 40%), not a 20% relative reduction (which would give 48%). The chapter follows ICAI's reading and says so.",
+    "resolve_with": "None needed"
+   },
+   {
+    "id": "OV-F08-07",
+    "item": "Walter's and Gordon's tables describe the r = Ke case in opposite words — Walter 'every payout ratio is optimum', Gordon 'there is no optimum ratio'. Both are reproduced where they appear; neither has been harmonised away, and the chapter test carries an MCQ on the distinction.",
+    "resolve_with": "None needed; answer in the words of the model the question names"
+   },
+   {
+    "id": "OV-F08-08",
+    "item": "Gordon's model gives a nil price at a 100% retention ratio, because the numerator E₁(1 − b) becomes zero, and gives very large prices wherever br approaches Ke (RTP Sep 2024's Gamma Ltd at a denominator of 0.015; MTP Sep 2024 Series I's QB Ltd at 0.02). Both are properties of the model rather than errors, and the chapter flags them where they arise.",
+    "resolve_with": "None needed; ICAI's 'Ke > g' assumption is the safeguard, and a breach should be stated rather than computed through"
+   },
+   {
+    "id": "OV-F08-09",
+    "item": "The share-capital and taxation paragraphs of §3 and §6 are edition-sensitive: §3 quotes short term capital gains at 15% and long term at 10%, and §6(9) describes the position after the Finance Act 2020. Both blocks are marked update_sensitive.",
+    "resolve_with": "Verify against the Study Material edition applicable to the January 2027 attempt before quoting the rates"
+   },
+   {
+    "id": "OV-F08-10",
+    "item": "A buyback financed by fresh debt in order to change the capital structure — MTP May 2026 Series I Q2(a), Zanshu Ltd — is a Chapter 5 question under the MM capital-structure hypothesis and is already placed in atoms_F05.json. It is not a Chapter 8 atom despite the word 'buyback', and the §10 block says so.",
+    "resolve_with": "None needed"
+   }
+  ],
+  "qa": [
+   {
+    "check": "SM headings covered",
+    "result": "16 of 16 (F08.01 to F08.16)"
+   },
+   {
+    "check": "Official questions placed",
+    "result": "38 of 38"
+   },
+   {
+    "check": "Topic blocks",
+    "result": "10, two of which carry code F08.10 — Walter's Model and Gordon's Model are given separate blocks because §8.2 holds both and 24 of the 38 atoms are primary to it"
+   },
+   {
+    "check": "Generated MCQ key balance",
+    "result": "Target A10 · B10 · C10 · D10 across 20 concept MCQs, 8 case MCQs and 12 chapter-test MCQs"
+   },
+   {
+    "check": "Case MCQ answers checked against their own final reasoning line",
+    "result": "Both cases checked; each question's reasoning ends on the option stated as the answer"
+   },
+   {
+    "check": "Figures cross-checked against ICAI's own published answers",
+    "result": "LP Ltd ₹51.33 and payout 85.714%; K Ltd EPS ₹6 and ₹45.33; H Ltd ₹26.67 and ₹20; Saraswati b 0.30 and DPS ₹7; PQR Ltd ₹240 / 10,000 shares / ₹288 / E ₹3,32,000; Vista ₹86.33; Gamma Ltd ₹58.27 and ₹19.44; RTP Jan 2025 ROI 18% / Ke 9.091% / P/E 5.56 / MPS ₹100.08; RTP Jan 2026 Ke 20% / r 25% / ₹62.50 and ₹50 / ₹92 and ₹66; RTP May 2025 b 0.46 / ROI 21% / g 9.66% / Gordon ₹251.15 / Walter ₹177.21; RTP Sep 2025 Ke 9.72% then 9.18% with EPS ₹125; RTP May 2026 face value ₹100 / r 10% / Walter ₹143.00 / optimum ₹162.50 / ₹10,81,600 and ₹1,08,160; RTP May 2024 MCO Ltd ₹20,00,000 either way; RTP Jan 2025 MCQ decrease of ₹444.45; M Ltd ₹80,00,000; Perfact ₹125.12 and ₹131.52; SOC Ltd ₹680 and ₹720; Paarath ₹208.03; Firms A and B ₹83.02 and ₹81.79; MTP M25-S2 MCQ 2,50,000 shares"
+   },
+   {
+    "check": "Figures cross-checked against the SM's own examples and illustrations",
+    "result": "Example 1 B Ltd earnings rising to ₹11,00,000 (10% = br); Example 2 Dev Ltd ₹22,00,000 with 75,000 new shares; Illustration 1 AB Engineering ₹10,00,000 both ways; Illustration 2 ₹120 / ₹115 / ₹110 / ₹105 / ₹100; Illustration 3 D ₹3.12 and payout 52%; Illustration 4 ₹150 / ₹50 / ₹37.50; Illustration 5 ₹50; Illustration 6 ₹15.69; Illustration 7 ₹21 / ₹30.86 / ₹17.17; HM Ltd ₹2,000 either way"
+   },
+   {
+    "check": "Examiners' comments",
+    "result": "ICAI publishes none for Paper 6; none are invented"
+   }
+  ]
+ }
+}

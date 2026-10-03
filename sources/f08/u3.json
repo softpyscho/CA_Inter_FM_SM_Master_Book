@@ -1,0 +1,857 @@
+{
+ "concepts": [
+  {
+   "code": "F08.10",
+   "title": "8.2 Dividend's Relevance Theory (ii) — Gordon's Model, the Bird-in-hand Theory and the Dividend Discount Model",
+   "activity": "Very High",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 4 (May 2024 Q3(b), Sep 2024 Q4(b), Sep 2025 Q2(b), Jan 2026 Q1(c)) · RTP 5 (Jan 2025, May 2025, May 2026, Sep 2024, Sep 2025) · MTP 4 (Jan 2025 S1 and S2, Sep 2024 S1, Sep 2025 S2)",
+   "understand": [
+    "==**According to Gordon's model, dividend is relevant and the dividend policy of a company affects its value.** The formula:\n==**P₀ = E₁(1 − b) ÷ (Ke − br)**==\nwhere **P₀** is price per share, **E₁** earnings per share, **b** the retention ratio (so **1 − b** is the payout ratio), **Ke** the cost of capital, **r** the IRR and **br** the growth rate **g**.==",
+    "==**Assumptions of Gordon's Model** (SM §8.2): the **firm is an all equity firm**, i.e. no debt; **IRR will remain constant**, because a change in IRR would change the growth rate and so the value; **Ke will remain constant**, because a change in the discount rate affects the present value; the **retention ratio (b), once decided upon, is constant**, i.e. a constant dividend payout ratio is followed; the **growth rate (g = br) is also constant**, since b and IRR remain unchanged; ==**Ke > g**, an assumption **necessary and based on the principles of the series of the sum of a geometric progression for 'n' number of years**==; and **all investment proposals are to be financed through retained earnings only**.",
+    "==**Gordon's conclusion:** when **IRR is greater than the cost of capital, the price per share increases and the dividend payout decreases**; when **IRR is lower than the cost of capital, the price per share decreases and the dividend payout increases**. The optimum payout table:==\n\n| Company | Condition | Optimum dividend payout ratio |\n|---|---|---|\n| **Growth** | **r > Ke** | **Zero** |\n| **Constant** | **r = Ke** | ==**There is no optimum ratio**== |\n| **Declining** | **r < Ke** | **100%** |\n\n==Note the wording against Walter's: at **r = Ke** Walter says **every payout ratio is optimum**, Gordon says **there is no optimum ratio**. ICAI prints both and an MCQ can turn on the difference.==",
+    "**SM Illustration 4, which shows how violently Gordon reacts to the payout.** XYZ Ltd: net profit ₹30 lakhs, 12% preference shares ₹100 lakhs, 3 lakh equity shares, r 20%, Ke 16%. Earnings for equity shareholders = ₹18 lakhs, so **EPS = ₹6**.\n**At a 25% payout:** P₀ = (6 × 0.25) ÷ [0.16 − (0.75 × 0.2)] = 1.5 ÷ (0.16 − 0.15) = 1.5 ÷ 0.01 = ==**₹150**==.\n**At a 50% payout:** P₀ = 3 ÷ (0.16 − 0.10) = ==**₹50**==.\n**At a 100% payout:** P₀ = 6 ÷ 0.16 = ==**₹37.50**==.\n==**₹150 to ₹37.50 on the same earnings**, because the payout ratio moves the **denominator** as well as the numerator — which is the single most important difference from Walter.==",
+    "==**The Bird-in-hand theory — Gordon's Revised Model.** Myron Gordon revised his model to consider risk and uncertainty, on two arguments: ==**(i) investors are risk averse, and (ii) investors put a premium on certain return and a discount on uncertain return**==. Gordon argues that **what is available at present is preferable to what may be available in the future**; as investors are rational they want to avoid risk and uncertainty, so **they would prefer to pay a higher price for shares on which current dividends are paid** and **would discount the value of shares of a firm which postpones dividends** — and **the discount rate would vary with the retention rate**.==",
+    "==**The growth form of the formula**, which is the one most official questions use:\n==**P₀ = D₀(1 + g) ÷ (Ke − g)**==\nwhere **D₀** is the current year dividend, **g** the constant annual growth rate of dividends and **Ke** the cost of equity. ICAI notes that **P₀ here is ex-dividend**, that **g = b × r**, and that **b = the proportion of retained earnings, or (1 − dividend payout ratio)**.==",
+    "==**The Dividend Discount Model (DDM)** values shares at the discounted value of future dividend payments; the DDM price is the **intrinsic value** of the stock:\n==**Intrinsic value = Sum of PV of Dividends + PV of Stock Sale Price**==\n**Stock Intrinsic Value = D₁ ÷ (1 + Ke)¹ + D₂ ÷ (1 + Ke)² + … + Dₙ ÷ (1 + Ke)ⁿ + RV ÷ (1 + Ke)ⁿ**, assuming dividend is paid at the end of each year and the stock is sold at the end of year n.==",
+    "==**Three DDM situations.** **(a) Zero Growth Rate** — all dividends remain the same, so ==**P₀ = D ÷ Ke**==. *SM Illustration 5:* a no-growth company paying ₹5 with Ke 10% gives P₀ = ₹5 ÷ 0.10 = **₹50**.\n**(b) Constant Growth Rate (Gordon's Growth Model)** — **P = D₀(1 + g) ÷ (Ke − g)**. *SM Illustration 6:* share capital ₹10 lakhs of ₹10 each, current dividend 20% (so D₀ = ₹2), growth 2%, expected return 15%: P = 2(1.02) ÷ (0.15 − 0.02) = **₹15.69**.\n**(c) Variable Growth Rate** — multi-stage growth models, most commonly **three different rates: an initial high rate, a transition to slower growth, and a sustainable steady rate**. The constant-growth model is extended, each phase calculated by the constant-growth method at its own rate, and **the present values of each stage are added to derive the intrinsic value**. Also referred to as the **three staged growth model**.==",
+    "**SM Illustration 7, on the sensitivity of the growth rate.** A firm paid ₹2 last year with growth estimated at 5% and a required return of 15%: **P = 2(1.05) ÷ 0.10 = ₹21**. ==If growth rises to **8%**, P = 2(1.08) ÷ 0.07 = **₹30.86**; if it falls to **3%**, P = 2(1.03) ÷ 0.12 = **₹17.17**.== A three-point swing in g moves the price by half.",
+    "==**Advantages of Gordon's Model:** the dividend discount model is a **useful heuristic model that relates the present stock price to the present value of its future cash flows**, and the model is **easy to understand**. **Limitations:** it **depends on projections about company growth rate and future capitalization rates of the remaining cash flows, which may be difficult to calculate accurately**, and **the true intrinsic value of a stock is difficult to determine realistically**.==",
+    "==**Three important considerations ICAI adds** (SM §8.2): **1.** With dividends growing at a constant rate of g, **the share price also grows at g** — from P₀ = D₁ ÷ (r − g), multiplying both sides by (1 + g) gives P₁ = D₂ ÷ (r − g), so **both dividend and price grow at g**. **2.** ==**Growth rate g is also referred to as capital appreciation or capital yield.**== **3.** **The dividend yield, which is D₁ ÷ P₀, will be constant**, because both dividend and price grow at the same rate, leaving dividend yield unchanged.=="
+   ],
+   "example": "September 2024's RTP is the clearest warning in the chapter. Gamma Ltd's g is br = 0.75 × 0.22 = 16.5% against a Ke of 18%, so Gordon's denominator is only 0.015 — and the price comes out at ₹58.27 against Walter's ₹19.44 on identical data. Whenever br approaches Ke, Gordon's price explodes; that is not an error, it is the geometric progression ICAI's 'Ke > g' assumption exists to protect.",
+   "provisions": [
+    {
+     "ref": "Gordon's formula (SM §8.2)",
+     "status": "VERIFIED",
+     "requirement": "P₀ = E₁(1 − b) ÷ (Ke − br), and in growth form P₀ = D₀(1 + g) ÷ (Ke − g).",
+     "exam_angle": "Use the first where EPS and the payout are given, the second where a dividend and a growth rate are given."
+    },
+    {
+     "ref": "Assumptions of Gordon's Model (SM §8.2)",
+     "status": "VERIFIED",
+     "requirement": "All equity firm; constant IRR; constant Ke; constant retention ratio; constant growth rate; Ke > g; investment financed by retained earnings only.",
+     "exam_angle": "Asked for 4 marks in September 2024. ICAI gives a reason for each — reproduce the reasons, especially for Ke > g."
+    },
+    {
+     "ref": "Bird-in-hand theory (SM §8.2)",
+     "status": "VERIFIED",
+     "requirement": "Investors are risk averse and put a premium on certain return and a discount on uncertain return; what is available at present is preferable to what may be available in the future.",
+     "exam_angle": "Two arguments; the phrase 'premium on certain return and discount on uncertain return' is the one to quote."
+    },
+    {
+     "ref": "The three DDM situations (SM §8.2)",
+     "status": "VERIFIED",
+     "requirement": "Zero growth: P₀ = D ÷ Ke. Constant growth: P₀ = D₀(1 + g) ÷ (Ke − g). Variable growth: each phase valued separately and the present values added.",
+     "exam_angle": "The variable-growth case is the past-paper form — May 2024's Vista Limited and MTP Jan 2025 Series I's Paras TMT."
+    }
+   ],
+   "keywords": [
+    "dividend is relevant",
+    "Ke > g",
+    "sum of a geometric progression",
+    "no optimum ratio",
+    "bird-in-hand",
+    "premium on certain return",
+    "intrinsic value",
+    "three staged growth model",
+    "capital appreciation or capital yield",
+    "dividend yield will be constant"
+   ],
+   "memory": {
+    "trick": "**Gordon moves the denominator.** Walter's denominator is just Ke; Gordon's is Ke − br, so a change in payout changes growth too. That is why Gordon's prices swing so much more.",
+    "key": [
+     ["Gordon", "P₀ = E₁(1 − b) ÷ (Ke − br)"],
+     ["Growth form", "P₀ = D₀(1 + g) ÷ (Ke − g)"],
+     ["Zero growth", "P₀ = D ÷ Ke"],
+     ["r > Ke", "Optimum payout zero"],
+     ["r = Ke", "No optimum ratio (Walter: every ratio is optimum)"],
+     ["r < Ke", "Optimum payout 100%"],
+     ["Seven assumptions", "All equity · constant r · constant Ke · constant b · constant g · Ke > g · retained earnings only"],
+     ["Bird-in-hand", "Risk averse; premium on certain return, discount on uncertain"],
+     ["SM Illustration 4", "₹150 at 25% payout · ₹50 at 50% · ₹37.50 at 100%"],
+     ["SM Illustration 7", "₹21 at g = 5%, ₹30.86 at 8%, ₹17.17 at 3%"]
+    ],
+    "recall_trigger": "Gordon moves the denominator"
+   },
+   "mistakes": [
+    "Writing the denominator as Ke − r instead of Ke − br, which overstates growth and inflates the price.",
+    "Using the retention ratio in the numerator; Gordon's numerator is E₁(1 − b), the payout.",
+    "Changing the payout ratio without changing g, so the denominator stays put when it should move.",
+    "Producing a negative price without comment — that means br exceeds Ke, which breaches ICAI's 'Ke > g' assumption and should be said.",
+    "Using D₀ rather than D₀(1 + g) in the growth form, which understates the price."
+   ],
+   "compare": {
+    "title": "Walter against Gordon — the same question, two answers (SM §8.2 and RTP Sep 2024)",
+    "headers": [
+     "",
+     "Walter's Model",
+     "Gordon's Model"
+    ],
+    "rows": [
+     ["Formula", "P = [D + (r ÷ Ke)(E − D)] ÷ Ke", "P₀ = E₁(1 − b) ÷ (Ke − br)"],
+     ["Denominator", "Ke only", "Ke − br, so growth is inside it"],
+     ["Effect of the payout", "Changes the numerator only", "Changes both numerator and denominator"],
+     ["At r = Ke", "Every payout ratio is optimum", "There is no optimum ratio"],
+     ["Growth rate", "Not used explicitly", "g = br, and the price grows at g too"],
+     ["Extra assumption", "Perpetual life", "All equity firm, and Ke > g"],
+     ["Gamma Ltd (RTP Sep 2024)", "**₹19.44**", "**₹58.27**"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 8 §8.2 (i): Walter's Model, the other relevance theory",
+    "🔗 FM Ch 8 §5: g = br, the identity Gordon's denominator depends on",
+    "🔗 FM Ch 4 §7.3: the growth approach to Ke — the same formula solved for the rate",
+    "🔗 FM Ch 8 §8.1: MM, which denies all of this"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Compute the price per share under Gordon's Model at given payout ratios (2–4 marks)",
+     "List the assumptions of Gordon's Model (4 marks)",
+     "Compute intrinsic value by the Dividend Discount Model with two or three growth stages (4–5 marks)",
+     "Back out the dividend, payout or retention ratio from a given Gordon price (reverse working, 2–3 marks)",
+     "Compute the expected rate of return from a price, a dividend and a growth rate"
+    ],
+    "approach": [
+     "Compute EPS, then b, then g = br, then substitute — in that order, so the denominator is never forgotten",
+     "For multi-stage growth, discount each explicit dividend, then capitalise the first steady-growth dividend and discount that lump back",
+     "Check Ke > g before reporting a price; if not, say the assumption is breached"
+    ],
+    "official_pattern": "PYQ-M24-Q3b; PYQ-S24-Q4b; PYQ-S25-Q2b; PYQ-J26-Q1c(i); RTP-J25-FQ2; RTP-M25-FQ8; RTP-M26-FQ1; RTP-S24-FQ9; RTP-S25-FQ8; MTP-J25-S1-FQ2b; MTP-J25-S2-FQ2b; MTP-S24-S1-FQ2b; MTP-S25-S2-FMCQ8.",
+    "time_tip": "2 marks ≈ 3.5 minutes; a multi-stage DDM ≈ 9 minutes (study guidance)."
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-S24-Q4b",
+     "marks": 4,
+     "status": "VERIFIED",
+     "format": "Descriptive",
+     "question": "List any four assumptions of Gordon's Model. (4 Marks)",
+     "answer_points": [
+      "==**1. The firm is an all equity firm**, i.e. it has no debt. The model values the share from its dividend stream alone, with no interest claim ahead of it.==",
+      "==**2. IRR will remain constant.** ICAI gives the reason: **a change in IRR will change the growth rate and consequently the value will be affected**, so the assumption is necessary for the formula to hold.==",
+      "==**3. Ke will remain constant**, because **a change in the discount rate will affect the present value**.==",
+      "==**4. The retention ratio (b), once decided upon, is constant**, i.e. a **constant dividend payout ratio will be followed**.==",
+      "==**5. The growth rate (g = br) is also constant**, since the retention ratio and IRR remain unchanged and growth, being a function of those two variables, will remain unaffected.==",
+      "==**6. Ke > g.** This assumption is **necessary and based on the principles of the series of the sum of a geometric progression for 'n' number of years** — if g were to equal or exceed Ke the series would not converge and the formula would give a nil or negative denominator.==",
+      "==**7. All investment proposals of the firm are to be financed through retained earnings only.**==",
+      "**The four-mark discipline.** The question asks for **any four**, so give four with ICAI's own reason attached to each — the reasons are what distinguish four marks from two. ==**Ke > g is the assumption worth including whichever four you choose**, because it is the one that can be tested arithmetically: a question whose data give br above Ke is testing whether you notice.=="
+     ],
+     "conclusion": "An all-equity firm; constant IRR; constant Ke; a constant retention ratio; a constant growth rate g = br; Ke greater than g, on the geometric-progression argument; and investment financed only out of retained earnings.",
+     "keywords": [
+      "all equity firm",
+      "constant IRR",
+      "constant Ke",
+      "constant retention ratio",
+      "g = br constant",
+      "Ke > g",
+      "geometric progression"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "RTP-S24-FQ9",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "The following information is taken from Gamma Ltd.: net profit for the year ₹30,00,000; 12% preference share capital ₹1,00,00,000; equity share capital (shares of ₹10 each) ₹60,00,000; internal rate of return on investment 22%; cost of equity capital 18%; retention ratio 75%. Calculate the market price of the share using (1) Gordon's Model and (2) Walter's Model. (ICAI label: Dividend Decision.)",
+     "answer_points": [
+      "==**Step 1 — EPS.** Net profit ₹30,00,000; less preference dividend 12% of ₹1,00,00,000 = **₹12,00,000**; **earnings for equity shareholders ₹18,00,000**. Shares = ₹60,00,000 ÷ ₹10 = **6,00,000**, so ==**EPS = ₹3.00**==. Retention 75% means a payout of 25%, so ==**D₀ = ₹0.75**==.==",
+      "==**Step 2 — (1) Gordon.** **g = br = 0.75 × 0.22 = 0.165**, i.e. **16.5%**.\nP₀ = D₀(1 + g) ÷ (Ke − g) = ₹0.75 × 1.165 ÷ (0.18 − 0.165) = ₹0.874 ÷ 0.015 = ==**₹58.27 approximately**==.==",
+      "==**Step 3 — (2) Walter.** P = [D + (r ÷ Ke)(E − D)] ÷ Ke = [₹0.75 + (0.22 ÷ 0.18)(₹3 − ₹0.75)] ÷ 0.18 = [₹0.75 + 1.2222 × ₹2.25] ÷ 0.18 = [₹0.75 + ₹2.75] ÷ 0.18 = ₹3.50 ÷ 0.18 = ==**₹19.44**==.==",
+      "==**Step 4 — the point of the question, which is the gap.** The same company, the same earnings, the same r and the same Ke give **₹58.27 under Gordon and ₹19.44 under Walter — three times the price.** The reason is entirely structural: **Gordon's denominator is Ke − br = 0.18 − 0.165 = 0.015**, while **Walter's is Ke = 0.18 — twelve times larger.** ==Gordon capitalises the dividend at the **spread between the cost of equity and the growth rate**, and when that spread is thin the price becomes very large and very sensitive.==",
+      "==**Which figure would you report?** Both, with the explanation. The models are answering different questions: Walter asks what a perpetual stream of a **fixed** dividend plus retained-earnings value is worth; Gordon asks what a **growing** dividend stream is worth. ==With br of 16.5% against a Ke of 18%, Gordon's 'Ke > g' assumption is only just satisfied, and ICAI's own 'approximately' signals that the figure should not be relied on to the rupee.==",
+      "**A cross-check on Gordon using the other form.** P₀ = E₁(1 − b) ÷ (Ke − br) = ₹3 × 0.25 ÷ 0.015 = ₹0.75 ÷ 0.015 = **₹50**, against ₹58.27 from the growth form. ==The difference is the (1 + g) factor: the first form uses **next year's** earnings and the second grows **this year's** dividend. State which form you are using — ICAI uses the growth form here.=="
+     ],
+     "conclusion": "EPS ₹3.00 and D₀ ₹0.75; Gordon gives ₹58.27 and Walter ₹19.44, the threefold gap arising because Gordon's denominator of 0.015 is twelve times smaller than Walter's 0.18.",
+     "keywords": [
+      "preference dividend deducted",
+      "EPS ₹3.00",
+      "g = br = 16.5%",
+      "₹58.27",
+      "₹19.44",
+      "thin denominator"
+     ]
+    },
+    {
+     "id": "PYQ-J26-Q1c",
+     "marks": 5,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "PQR Ltd., a leading company in the coal sector: issued share capital ₹24,00,000; dividend paid ₹10 per share; growth rate 20% p.a. in perpetuity; cost of equity 25%. Required: (i) using Gordon's Model, (a) the current market price of the share and (b) the number of issued shares if the market price per share equals the face value per share; (ii) using the MM hypothesis, (a) the market price of the share at the end of the year if dividend is paid, using the Gordon price as P₀, and (b) the amount of earnings required for the MM hypothesis to hold if the company has made new investments of ₹5,00,000 during the period and issued 1,000 new equity shares. (5 Marks)",
+     "answer_points": [
+      "==**(i)(a) Gordon's growth form.** P₀ = D₀(1 + g) ÷ (Ke − g) = ₹10 × 1.20 ÷ (0.25 − 0.20) = ₹12 ÷ 0.05 = ==**₹240**==. Note how thin the denominator is — a Ke of 25% against a g of 20% leaves only 5 percentage points, which is why the price is 24 times the dividend.==",
+      "==**(i)(b) Number of shares.** If the market price per share equals the face value per share, the face value is **₹240**, so **shares = ₹24,00,000 ÷ ₹240 = 10,000 shares**.==",
+      "==**(ii)(a) MM.** P₀ = (P₁ + D₁) ÷ (1 + Ke), so **₹240 = (P₁ + ₹12) ÷ 1.25** → P₁ = ₹300 − ₹12 = ==**₹288**==. The dividend used is **D₁ = ₹12**, the grown dividend that Gordon's numerator already assumed, not the ₹10 of D₀.==",
+      "==**(ii)(b) The earnings required.** nP₀ = [(n + Δn)P₁ − I + E] ÷ (1 + Ke):\n₹24,00,000 = [(10,000 + 1,000) × ₹288 − ₹5,00,000 + E] ÷ 1.25\n**₹30,00,000 = ₹31,68,000 − ₹5,00,000 + E = ₹26,68,000 + E**\n==**E = ₹3,32,000**==.==",
+      "==**Why this is the most instructive 5-mark question in the chapter.** It puts the two theories **in sequence on one set of data**, and the instruction 'use the current market price calculated in Gordon model as P₀' is what makes that possible. ==Gordon supplies the price; MM then takes it as given and asks what earnings are consistent with it. The question is not asking you to choose between the theories — it is asking you to run each one correctly.==",
+      "**The two places candidates lose marks here.** First, using **₹10 instead of ₹12** as D₁ in the MM step, which makes P₁ ₹290; the dividend at the end of the period is the grown one. Second, the sign of I in the value formula: ==**investment is deducted and earnings added** — [(n + Δn)P₁ **− I + E**] — and reversing them gives ₹(3,32,000) with a plausible-looking magnitude.==",
+      "**A closing check.** With E of ₹3,32,000 on 10,000 shares, EPS is ₹33.20 and the dividend of ₹12 is a payout of about 36%, implying b ≈ 64%; with g of 20% that needs r ≈ 31%. ==Comfortably above Ke of 25%, so the growth assumption is at least internally consistent — the kind of remark that shows the figures have been read rather than just produced.=="
+     ],
+     "conclusion": "Gordon price ₹240 on 10,000 shares; MM year-end price ₹288; and earnings of ₹3,32,000 are required for the MM hypothesis to hold.",
+     "keywords": [
+      "D₀(1 + g) ÷ (Ke − g)",
+      "₹240",
+      "P₁ = ₹288",
+      "nP₀ = [(n + Δn)P₁ − I + E] ÷ (1 + Ke)",
+      "E = ₹3,32,000"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "PYQ-S25-Q2b",
+     "marks": 3,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Saraswati Ltd. started business a year back with a paid-up equity capital of ₹50,00,000. Other details: earnings of the company ₹5,00,000; cost of capital 8%; market price per share using Gordon's Model ₹159.09; internal rate of return on investment 12%; number of shares 50,000. Required: (i) calculate the dividend paid per share using Gordon's Model; (ii) what will be the optimum dividend pay-out ratio according to Gordon's Model when r = Ke. (2 + 1 = 3 Marks)",
+     "answer_points": [
+      "==**Step 1 — EPS.** Earnings ₹5,00,000 over 50,000 shares gives ==**EPS = ₹10**==.==",
+      "==**Step 2 — (i) the reverse working.** Substitute into Gordon's model with **b** as the unknown:\nP₀ = E(1 − b) ÷ (Ke − br)\n**₹159.09 = ₹10(1 − b) ÷ (0.08 − 0.12b)**\n159.09(0.08 − 0.12b) = 10(1 − b)\n**12.7272 − 19.0908b = 10 − 10b**\n**2.7272 = 9.0908b**, so ==**b = 0.30**==, the **dividend payout ratio = 1 − b = 0.70**, and ==**dividend per share = ₹10 × 0.70 = ₹7**==.==",
+      "==**Step 3 — (ii) when r = Ke.** ICAI's answer is one line: ==**'When r = Ke, there is no optimum ratio.'**== Every payout gives the same price, because the gain from retaining is exactly offset by the dividend forgone.==",
+      "==**The subtlety in part (ii) worth knowing.** **Gordon says 'there is no optimum ratio'; Walter says 'every payout ratio is optimum'.** The two statements describe the same economics in opposite words, and ICAI prints each in its own table. ==Answer in the words of the model the question names.==",
+      "**On the data as ICAI presents it.** The figures are listed in a column that reads oddly — '₹159.09' appears next to 'Cost of Capital' and '8%' next to 'Market price per share using Gordon's Model' — but the arithmetic settles it: **Ke is 8%, the Gordon price is ₹159.09 and r is 12%**, which is the only reading that produces b = 0.30.",
+      "==**Why this question is worth three marks and not one.** The algebra has b in **both** the numerator and the denominator, so it cannot be solved by inspection — the equation must be cleared and collected. ==That is the distinguishing skill of a Gordon reverse working, and it is the same step RTP May 2026's ABC Ltd requires.==",
+      "**A sanity check.** With b = 0.30 and r = 12%, g = 3.6%, and the price is ₹7 ÷ (0.08 − 0.036) = ₹7 ÷ 0.044 = ₹159.09. ==The check takes five seconds and confirms both the retention ratio and the dividend.=="
+     ],
+     "conclusion": "EPS ₹10; a retention ratio of 0.30 and a payout of 70%, so the dividend is ₹7 per share; and when r = Ke, Gordon's Model says there is no optimum ratio.",
+     "keywords": [
+      "reverse working for b",
+      "b in numerator and denominator",
+      "b = 0.30",
+      "dividend ₹7",
+      "no optimum ratio when r = Ke"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "RTP-M26-FQ1",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case MCQs",
+     "question": "ABC Ltd., a newly incorporated company, issued equity shares at face value and has 10,000 shares outstanding under a pure equity structure. It earned ₹1,00,000 in 2024 and ₹1,04,000 in 2025, a consistent 4% growth. Cost of equity 8%. Under the Gordon Growth Model the market price per share at the end of 2025 is valued at ₹162.24. The Board wants the dividend policy evaluated under both the Gordon Growth Model and Walter's Model. The five MCQs ask for (i) the face value per share and the rate of return on retained earnings, (ii) the 2025 market price under Walter's Model, (iii) the optimum payout and price under Walter's Model, (iv) the capital employed, growth rate and earnings for 2026, and (v) a further capital-employed figure.",
+     "answer_points": [
+      "==**(i) Working back from the price — key (B) ₹100 and 10%.** From P₀ = D₁ ÷ (Ke − g): **₹162.24 = D₁ ÷ (0.08 − 0.04)**, so **D₁ = ₹6.4896** and **D₀ = ₹6.4896 ÷ 1.04 = ₹6.24**. EPS 2025 = ₹1,04,000 ÷ 10,000 = **₹10.40**, so the **payout ratio = ₹6.24 ÷ ₹10.40 = 60%** and the **retention ratio b = 40%**. Then from **g = br**: 0.04 = 0.40 × r, so ==**r = 10%**==. Capital employed = ₹1,00,000 ÷ 10% = **₹10,00,000**, so **face value per share = ₹10,00,000 ÷ 10,000 = ₹100**.==",
+      "==**(ii) Walter's price for 2025 — key (C) ₹143.00.** r ÷ Ke = 0.10 ÷ 0.08 = **1.25**; E = ₹10.40, D = ₹6.24, so E − D = ₹4.16.\nP = [₹6.24 + (1.25 × ₹4.16)] ÷ 0.08 = [₹6.24 + ₹5.20] ÷ 0.08 = ₹11.44 ÷ 0.08 = ==**₹143.00**==.==",
+      "==**(iii) Optimum policy and price — key (C) 0% payout, ₹162.50.** Since **r of 10% exceeds Ke of 8%**, the optimum payout under Walter is **zero**, and\nP = (r ÷ Ke) × E ÷ Ke = 1.25 × ₹10.40 ÷ 0.08 = ₹13 ÷ 0.08 = ==**₹162.50**==.==",
+      "==**(iv) Capital employed and 2026 earnings — key (C) ₹10,81,600; 4%; ₹1,08,160.** Capital employed grows by each year's retention: 2024 opening ₹10,00,000 with retention of 40% × ₹1,00,000 = ₹40,000; 2025 opening **₹10,40,000** with retention of 40% × ₹1,04,000 = ₹41,600; 2026 opening ==**₹10,81,600**==. Earnings 2026 = ₹10,81,600 × 10% = ==**₹1,08,160**==, and the **growth rate stays at 4%** — which is the point: ₹1,08,160 ÷ ₹1,04,000 = 1.04.==",
+      "==**Why the growth rate stays at exactly 4% year after year.** Capital employed grows by **b × r** of itself each year, and earnings are **r** times capital employed — so earnings grow at **br = 4%** for as long as b and r hold. ==**That is what 'g = br' actually means**, and this question is the only place in the official set where ICAI builds the capital-employed ladder to prove it.==",
+      "**The structure to notice for the exam.** This case is Gordon run **backwards** (price → D₁ → payout → b → r) and Walter run **forwards** (r, Ke, E, D → price), on one set of data. ==A candidate who can do the first step has the other four almost free; a candidate who cannot, gets nothing.==",
+      "**And a warning on part (i)'s options.** They pair a face value with a rate — ₹10 or ₹100, 8% or 10%. ==The 8% is Ke and belongs to neither answer; the trap is to carry a familiar number into the wrong slot.=="
+     ],
+     "conclusion": "Face value ₹100 and r of 10%; Walter's 2025 price ₹143.00; the optimum payout is nil at a price of ₹162.50; and capital employed of ₹10,81,600 in 2026 producing ₹1,08,160 of earnings at an unchanged 4% growth.",
+     "keywords": [
+      "working back from the Gordon price",
+      "D₀ = ₹6.24",
+      "EPS ₹10.40",
+      "r = 10% from g = br",
+      "Walter ₹143.00",
+      "optimum ₹162.50",
+      "capital employed ladder"
+     ]
+    },
+    {
+     "id": "PYQ-M24-Q3b",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Vista Limited's retained earnings per share for the year ending 31.03.2023, being 40%, is ₹3.60 per share. The company foresees a growth rate of 10% per annum in the next two years, after which the growth rate is expected to stabilise at 8% per annum. The company will maintain its existing pay-out ratio. If the investor's required rate of return is 15%, calculate the intrinsic value per share as of date using the Dividend Discount model. (ICAI's published May 2024 text does not print the mark allocation.)",
+     "answer_points": [
+      "==**Step 1 — recover D₀ from the retained earnings figure.** Retained earnings per share of **₹3.60 represents 40%** of EPS, so **EPS = ₹3.60 ÷ 0.40 = ₹9.00** and the payout of 60% gives ==**D₀ = ₹3.60 ÷ 40% × 60% = ₹5.40**== — which is how ICAI writes it.==",
+      "==**Step 2 — the three-term structure of a two-stage DDM.** ICAI's own formula:\n**P = D₁ ÷ (1 + Ke)¹ + D₂ ÷ (1 + Ke)² + [D₃ ÷ (Ke − g)] × 1 ÷ (1 + Ke)²**\nThe first two terms discount the **explicit** dividends of the high-growth phase; the third **capitalises the first steady-growth dividend** and discounts that lump back over the same two years.==",
+      "==**Step 3 — the dividends.** D₁ = ₹5.40 × 1.10 = **₹5.94**; D₂ = ₹5.94 × 1.10 = **₹6.534**; D₃ = ₹6.534 × 1.08 = **₹7.0567** (the first dividend of the 8% phase).==",
+      "==**Step 4 — the arithmetic, as ICAI sets it out.**\n₹5.94 ÷ 1.15 = **₹5.17**\n₹6.534 ÷ (1.15)² = **₹4.94**\n[₹7.0567 ÷ (0.15 − 0.08)] × 1 ÷ (1.15)² = ₹100.81 × 0.7561 = **₹76.23**\n==**Intrinsic value = ₹5.17 + ₹4.94 + ₹76.23 = ₹86.33.**==",
+      "==**The two things that make multi-stage DDM go wrong, and both are about the third term.** First, the dividend capitalised must be **D₃, the first dividend of the new phase — not D₂**; using D₂ understates the terminal value by the growth factor. Second, the terminal value sits at the **end of year 2**, so it is discounted over **two** years, not three. ==₹100.81 is a year-2 value; multiply it by the year-2 factor.==",
+      "==**How to see that the answer is reasonable.** The terminal value is **₹76.23 of the ₹86.33, or 88% of the total** — which is normal and worth saying: in a two-stage model with only two explicit years, almost all the value lies in the steady-growth phase. ==It also means the answer is far more sensitive to the 8% than to the 10%**: raise the steady rate to 9% and the terminal value becomes ₹128 and the price ₹107.==",
+      "**On the mark allocation.** ICAI's published May 2024 suggested answers do not print it for this part and the question paper has no text layer, so this book shows a dash rather than an inferred figure."
+     ],
+     "conclusion": "D₀ of ₹5.40 from an EPS of ₹9.00; dividends of ₹5.94 and ₹6.534 discounted, plus a terminal value of ₹100.81 discounted over two years — an intrinsic value of ₹86.33.",
+     "keywords": [
+      "retained earnings per share 40%",
+      "D₀ = ₹5.40",
+      "two-stage DDM",
+      "terminal value discounted over two years",
+      "₹86.33"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "MTP-J25-S1-FQ2b",
+     "marks": 4,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Paras TMT Ltd. is a TMT manufacturing company with a face value of ₹10 per share. The company is expected to grow at 10% per annum for the next four years, then 5% for an indefinite period. The rate of return expected by shareholders on their share investments is 15%. The company paid ₹4 as dividend per share for the current financial year. Find out the intrinsic value per share. (4 Marks)",
+     "answer_points": [
+      "==**Step 1 — the explicit dividends of the 10% phase.** D₀ = ₹4, so **D₁ = ₹4.40, D₂ = ₹4.84, D₃ = ₹5.324, D₄ = ₹5.8564**.==",
+      "==**Step 2 — the terminal value at the end of year 4.** The first dividend of the 5% phase is **D₅ = ₹5.8564 × 1.05 = ₹6.1492**, so\n**TV₄ = D₅ ÷ (Ke − g) = ₹6.1492 ÷ (0.15 − 0.05) = ₹6.1492 ÷ 0.10 = ₹61.49.**==",
+      "==**Step 3 — discount everything at 15%** (PVIF 0.8696, 0.7561, 0.6575, 0.5718):\n₹4.40 × 0.8696 = **₹3.83**\n₹4.84 × 0.7561 = **₹3.66**\n₹5.324 × 0.6575 = **₹3.50**\n₹5.8564 × 0.5718 = **₹3.35**\n₹61.49 × 0.5718 = **₹35.15**\n==**Intrinsic value ≈ ₹49.49 per share.**==",
+      "==**The face value of ₹10 is a distractor.** Intrinsic value under the DDM is built entirely from the **dividend stream and the required return**; the face value plays no part. ==It is in the question to tempt a candidate into expressing the ₹4 dividend as a 40% rate and then doing something with it.==",
+      "**Where the four marks sit.** One for the dividend ladder, one for the terminal value using **D₅ and not D₄**, one for discounting the terminal value at the **year-4** factor, and one for the total. ==The terminal value is ₹35.15 of the ₹49.49 — 71% — so the two terminal-value marks are more than half the question.==",
+      "==**A check on the shape of the answer.** The share pays ₹4 now and the required return is 15%; a zero-growth share would be worth ₹4 ÷ 0.15 = ₹26.67. Growth of 10% then 5% should roughly double that, and ₹49.49 does. ==Any answer below ₹27 or above ₹80 has an error in it, and the check costs one division.=="
+     ],
+     "conclusion": "About ₹49.49 per share — four explicit dividends from ₹4.40 to ₹5.8564, plus a terminal value of ₹61.49 discounted at the year-4 factor.",
+     "keywords": [
+      "two-stage growth",
+      "D₅ for the terminal value",
+      "year-4 discount factor",
+      "face value is irrelevant",
+      "₹49.49"
+     ]
+    },
+    {
+     "id": "MTP-J25-S2-FQ2b",
+     "marks": 4,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Return on Equity (ROE) of Satva Limited is 15% and the capitalization rate applicable to the company is 20%. Satva Limited's Book Value per share (BVPS) is ₹125. Calculate the intrinsic value of the share today using Gordon's model and Walter's model if the company's policy is to retain 65% of the earnings. (4 Marks)",
+     "answer_points": [
+      "==**Step 1 — EPS from ROE and BVPS**, which is the step the question exists to test. **EPS = ROE × Book Value per share = 0.15 × ₹125 = ₹18.75.** ==There is no net profit or share count given; the only route to EPS is through the book value.==",
+      "==**Step 2 — the dividend and the growth rate.** Retention **b = 65%**, so the payout is 35% and **D = 0.35 × ₹18.75 = ₹6.5625**. With **r = ROE = 15%**, **g = br = 0.65 × 0.15 = 9.75%**.==",
+      "==**Step 3 — Gordon.** P₀ = E₁(1 − b) ÷ (Ke − br) = ₹6.5625 ÷ (0.20 − 0.0975) = ₹6.5625 ÷ 0.1025 = ==**₹64.02**==.==",
+      "==**Step 4 — Walter.** r ÷ Ke = 0.15 ÷ 0.20 = **0.75**.\nP = [₹6.5625 + 0.75 × (₹18.75 − ₹6.5625)] ÷ 0.20 = [₹6.5625 + 0.75 × ₹12.1875] ÷ 0.20 = [₹6.5625 + ₹9.1406] ÷ 0.20 = ₹15.7031 ÷ 0.20 = ==**₹78.52**==.==",
+      "==**Step 5 — the comment the question invites.** Here **r of 15% is below Ke of 20%**, so this is a **declining company** on both models: the **optimum payout is 100%**, and the company's 65% retention is therefore **the wrong way round**. ==At a full payout Walter would give ₹18.75 ÷ 0.20 = **₹93.75** against the ₹78.52 it is achieving — a cost of about ₹15 a share.==",
+      "==**And note that Gordon is the lower figure this time** — ₹64.02 against Walter's ₹78.52 — the reverse of Gamma Ltd. The reason is the same mechanism read the other way: **retention here destroys value**, and Gordon punishes it twice, once by shrinking the numerator and once by adding growth the shareholders do not want to the denominator. ==When r < Ke, Gordon gives the lower price; when r > Ke and br is close to Ke, Gordon gives the far higher one.==",
+      "**A trap in the data.** 'Capitalization rate' is **Ke**, not r. The question gives ROE for r and the capitalization rate for Ke, and swapping them turns a declining company into a growth company and inverts every conclusion."
+     ],
+     "conclusion": "EPS ₹18.75 from ROE × BVPS; Gordon ₹64.02 and Walter ₹78.52; and since r of 15% is below Ke of 20% the optimum payout is 100%, so the 65% retention is costing value.",
+     "keywords": [
+      "EPS = ROE × BVPS",
+      "g = br = 9.75%",
+      "Gordon ₹64.02",
+      "Walter ₹78.52",
+      "r < Ke so payout should be 100%"
+     ]
+    },
+    {
+     "id": "MTP-S24-S1-FQ2b",
+     "marks": 4,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "The following information is given for QB Ltd.: earnings per share ₹180; dividend per share ₹45; cost of capital 17%; internal rate of return on investment 20%. Calculate the market price per share using (a) Gordon's formula and (b) Walter's formula. (4 Marks)",
+     "answer_points": [
+      "==**Step 1 — the retention ratio and the growth rate.** Retained per share = ₹180 − ₹45 = ₹135, so **b = ₹135 ÷ ₹180 = 0.75** and the payout is 25%. **g = br = 0.75 × 0.20 = 0.15**, i.e. **15%**.==",
+      "==**Step 2 — (a) Gordon.** P₀ = E₁(1 − b) ÷ (Ke − br) = ₹180 × 0.25 ÷ (0.17 − 0.15) = ₹45 ÷ 0.02 = ==**₹2,250**==.==",
+      "==**Step 3 — (b) Walter.** r ÷ Ke = 0.20 ÷ 0.17 = **1.17647**.\nP = [₹45 + 1.17647 × (₹180 − ₹45)] ÷ 0.17 = [₹45 + ₹158.82] ÷ 0.17 = ₹203.82 ÷ 0.17 = ==**₹1,198.96, say ₹1,199**==.==",
+      "==**Step 4 — why the two differ by nearly double, and what to say about it.** Gordon's denominator is **Ke − br = 0.02**; Walter's is **Ke = 0.17 — eight and a half times larger**. ==With r above Ke both models agree the company should retain, and both produce a price far above the ₹180 of earnings; but Gordon's figure of ₹2,250 is **125 times EPS**, which is a P/E no real company sustains.==",
+      "==**The lesson to carry, since this pattern recurs.** When **br is close to Ke**, Gordon's price is **arithmetically correct and economically fragile**: here a fall in r from 20% to 19% would move g to 14.25% and the price to ₹45 ÷ 0.0275 = ₹1,636 — a 27% drop from a one-point change in r. ==ICAI's 'Ke > g' assumption is satisfied by only two percentage points, and saying so is the mark of an answer that has understood the figures.==",
+      "**Mechanically, the two risks here.** In Gordon, using **₹135 (the retention) instead of ₹45 (the payout)** in the numerator, which gives ₹6,750. In Walter, dividing by 0.17 only once, which gives ₹203.82. ==Both are easy to catch: Gordon's numerator is always the dividend, and Walter's ÷ Ke appears twice.=="
+     ],
+     "conclusion": "Gordon ₹2,250 and Walter ₹1,199 — the gap arising because Gordon's denominator of 0.02 is eight and a half times smaller than Walter's 0.17.",
+     "keywords": [
+      "b = 0.75",
+      "g = 15%",
+      "Gordon ₹2,250",
+      "Walter ₹1,199",
+      "thin denominator and fragility"
+     ]
+    },
+    {
+     "id": "RTP-S25-FQ8",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "In April of the current financial year, shares of PQR Ltd. were sold for ₹1,570 per share. A long-term earnings growth rate of 8% is anticipated. PQR Ltd. paid a dividend of ₹25 per share. (i) Calculate the rate of return an investor can expect to earn, assuming that dividends are expected to grow along with earnings at 8% per year in perpetuity. (ii) It is expected that PQR Ltd. will earn about 10% on retained earnings and shall retain 60% of earnings. In this case, state whether there would be any change in the growth rate and the cost of equity. (ICAI label: Dividend Decision.)",
+     "answer_points": [
+      "==**(i) Gordon's model solved for Ke rather than for price.** Ke = D₁ ÷ P₀ + g = ₹25(1 + 0.08) ÷ ₹1,570 + 0.08 = ₹27 ÷ ₹1,570 + 0.08 = **0.0172 + 0.08** = ==**0.0972, or 9.72%**==.\n==The two components have names worth using: **0.0172 is the dividend yield** and **0.08 is the capital yield or capital appreciation** (SM §8.2, consideration 2).==",
+      "==**(ii) The new growth rate is immediate.** **g = br = 0.10 × 0.60 = 0.06**, i.e. ==**growth falls from 8% to 6%**==.",
+      "==**But the dividend changes too, and that is the part candidates miss.** ICAI reasons backwards to find the **old** retention ratio, assuming r was always 10%: **0.08 = b₁ × 0.10**, so **b₁ = 0.80** and the **old payout was 0.20**. With a payout of 0.20 producing a dividend of ₹25, ==**EPS = ₹25 ÷ 0.20 = ₹125**==. Under the new policy the payout is **1 − 0.60 = 0.40**, so ==**the new dividend D₁ = ₹125 × 0.40 = ₹50**==.==",
+      "==**The new cost of equity.** Ke = D₁ ÷ P₀ + g = ₹50 ÷ ₹1,570 + 0.06 = 0.0318 + 0.06 = ==**9.18%**==.==",
+      "==**So the answer to 'would there be any change' is yes to both — but they move in opposite directions.** The **growth rate falls** from 8% to 6%, while the **dividend yield more than doubles** from 1.72% to 3.18%, and the net effect is a **small fall in Ke** from 9.72% to 9.18%. ==Retaining less lowers growth by more than it raises the immediate yield, so the shareholder's total expected return declines.==",
+      "==**Why this question is harder than it looks.** It is a three-step reverse working disguised as a two-part question: **g gives b, b gives the payout, the payout and the dividend give EPS**, and only then can the new dividend be computed. ==A candidate who changes g to 6% and stops has answered half of part (ii) and will say Ke falls to 7.72% — which is wrong, because it leaves the dividend at ₹25.==",
+      "**And a note on the assumption ICAI makes explicit.** The whole chain depends on **r having been 10% all along**, which the question supplies only for the new scenario. ICAI states the assumption ('assuming that rate of return on retained earnings is same'); so should the answer."
+     ],
+     "conclusion": "Ke of 9.72% — a dividend yield of 1.72% plus capital yield of 8%. Under the new policy g falls to 6% but the dividend rises to ₹50 (EPS ₹125 × 40%), so Ke falls only to 9.18%.",
+     "keywords": [
+      "Ke = D₁ ÷ P₀ + g",
+      "dividend yield plus capital yield",
+      "b₁ = 0.80 backed out of g",
+      "EPS ₹125",
+      "new dividend ₹50",
+      "Ke 9.18%"
+     ]
+    },
+    {
+     "id": "RTP-M25-FQ8",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Mr. A gathered the following information: (A) the company pays a regular quarterly dividend and the last interim dividend declared was ₹3 per share; (B) turnover has grown at a compounded 25% over five years and is expected to continue; the company expects the following returns on investment against probabilities — Scenario I 20% with probability 0.30, Scenario II 15% with 0.60, Scenario III 12% with 0.50; (C) the retention ratio over the last five years has been 40%, 65%, 50%, 45% and 30%, and the company plans to retain based on the past average; (D) the current interest rate on GOI Treasury bonds is 4.5%, the beta of the company is 1.3 and the market return is 12.5%. Calculate the theoretical market price of the company's share using Gordon's model and Walter's model. (ICAI label: Dividend Decision.)",
+     "answer_points": [
+      "==**Step 1 — the retention ratio, as a simple average.** b = (40 + 65 + 50 + 45 + 30) ÷ 5 = ==**0.46**==.==",
+      "==**Step 2 — the expected return on investment.** ICAI weights each scenario by its probability: 20 × 0.30 = 6; 15 × 0.60 = 9; 12 × 0.50 = 6; ==**Expected ROI = 21%**==. ==**Note that the three probabilities sum to 1.40, not 1.00**, which is an inconsistency in ICAI's own question; its answer nevertheless adds the three products and reports 21%, and that is the figure to reproduce. Had the probabilities been normalised the expected ROI would be 21 ÷ 1.40 = 15%.==",
+      "==**Step 3 — the growth rate.** g = b × r = 0.46 × 21% = ==**9.66%**==.==",
+      "==**Step 4 — the dividend.** The ₹3 is a **quarterly** dividend, so **D₀ = ₹3 × 4 = ₹12 annually**, and **D₁ = ₹12 × 1.0966 = ₹13.16**. ==The quarterly-to-annual conversion is the trap the question is built on; ₹3 used directly gives a price of ₹62.79 instead of ₹251.15.==",
+      "==**Step 5 — Ke from CAPM.** Ke = Rf + (Rm − Rf) × β = 4.5 + (12.5 − 4.5) × 1.3 = 4.5 + 10.4 = ==**14.9%**==.==",
+      "==**Step 6 — Gordon.** P₀ = D₁ ÷ (Ke − g) = ₹13.16 ÷ (0.149 − 0.0966) = ₹13.16 ÷ 0.0524 = ==**₹251.15**==.==",
+      "==**Step 7 — Walter**, where ICAI notes expressly that *'D is constant, so no growth would be added'*. **EPS = Dividend ÷ (1 − retention ratio) = ₹12 ÷ 0.54 = ₹22.22.**\nP = [₹12 + (0.21 ÷ 0.149)(₹22.22 − ₹12)] ÷ 0.149 = [₹12 + 1.4094 × ₹10.22] ÷ 0.149 = [₹12 + ₹14.40] ÷ 0.149 = ₹26.40 ÷ 0.149 = ==**₹177.21**==.==",
+      "==**What makes this the chapter's most demanding question.** Nothing is given directly: **b** comes from a five-year average, **r** from an expected-value calculation, **Ke** from CAPM, **D₀** from a quarterly figure, and **EPS** from the dividend and the retention ratio. ==Five derived inputs before either formula can be used — and the 25% turnover growth in paragraph (B) is a **distractor**, since growth for valuation is br, not the growth of turnover.=="
+     ],
+     "conclusion": "b 0.46, expected ROI 21%, g 9.66%, D₁ ₹13.16 and Ke 14.9% from CAPM — giving ₹251.15 under Gordon and ₹177.21 under Walter on an EPS of ₹22.22.",
+     "keywords": [
+      "average retention ratio",
+      "expected ROI 21%",
+      "quarterly dividend annualised",
+      "Ke from CAPM",
+      "Gordon ₹251.15",
+      "Walter ₹177.21",
+      "turnover growth is a distractor"
+     ]
+    },
+    {
+     "id": "RTP-J25-FQ2",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "MCQ",
+     "question": "The cost of capital of a firm is 12% and its expected earnings per share at the end of the year is ₹20. Its existing payout ratio is 25%. The company is planning to increase its payout ratio to 50%. What will be the effect of this change on the market price of the equity share as per Gordon's model, if the reinvestment rate of the company is 15%? (A) It will increase by ₹444.45 (B) It will decrease by ₹444.45 (C) It will increase by ₹222.22 (D) It will decrease by ₹222.22 (ICAI label: Dividend Decision.)",
+     "answer_points": [
+      "==**ICAI's key: (B) It will decrease by ₹444.45.** Its own working:\n**Current:** D₁ = ₹20 × 25% = **₹5**; g = 0.75 × 0.15 = **11.25%**; MPS = ₹5 ÷ (0.12 − 0.1125) = ₹5 ÷ 0.0075 = ==**₹666.67**==.\n**Proposed:** D₁ = ₹20 × 50% = **₹10**; g = 0.50 × 0.15 = **7.5%**; MPS = ₹10 ÷ (0.12 − 0.075) = ₹10 ÷ 0.045 = ==**₹222.22**==.\n**Change = ₹666.67 − ₹222.22 = ₹444.45 — a decrease.**==",
+      "==**Why doubling the dividend more than halves the price.** The payout change doubles the **numerator** from ₹5 to ₹10, but it also cuts the growth rate from 11.25% to 7.5%, which **sextuples the denominator** from 0.0075 to 0.045. ==**The denominator effect overwhelms the numerator effect**, and that is the whole content of the question.==",
+      "==**The direction follows from r against Ke without any arithmetic.** Here **r of 15% exceeds Ke of 12%**, so this is a growth company: under Gordon the optimum payout is **zero**, and **any increase in payout must reduce the price**. ==That single comparison eliminates options (A) and (C) in five seconds, leaving only the magnitude to compute.==",
+      "**And note the distractor's construction.** **₹222.22 is the proposed price itself**, offered as if it were the change. ==Reading 'effect of this change' as the new price rather than the difference is the error option (D) is built for.==",
+      "**A caution on the fragility of these figures.** The original denominator is **0.0075** — three quarters of one percentage point. ==A price of ₹666.67 on earnings of ₹20 is a P/E of 33, and a small error in r or Ke would move it enormously; ICAI's 'Ke > g' assumption is barely satisfied here, which is worth noticing even in an MCQ.=="
+     ],
+     "conclusion": "Option (B) — the price falls from ₹666.67 to ₹222.22, a decrease of ₹444.45, because the higher payout cuts growth and so widens Gordon's denominator six-fold.",
+     "keywords": [
+      "payout 25% to 50%",
+      "g = br",
+      "₹666.67 to ₹222.22",
+      "denominator effect dominates",
+      "r > Ke so price falls with payout"
+     ]
+    },
+    {
+     "id": "MTP-S25-S2-FMCQ8",
+     "marks": 2,
+     "status": "VERIFIED",
+     "format": "MCQ",
+     "question": "Based on Gordon's Model, what would be the likely effect on the market price per share if the company increases its dividend payout ratio from 60% to 80%, assuming all other factors remain the same? EPS is ₹10, return on equity 18% and cost of equity 15%. ICAI's key is that the market price per share will decrease.",
+     "answer_points": [
+      "==**ICAI's key: option (b) 'Market price per share will decrease',** with its own statement of the model: *'P = [E × (1 − b)] ÷ (ke − b × r), where E = EPS = ₹10, b = retention ratio = 1 − dividend payout ratio, r = ROE = 18%, ke = cost of equity = 15%.'*==",
+      "==**At a 60% payout:** b = 40%, g = 0.40 × 0.18 = **7.2%**, so P = ₹10 × 0.60 ÷ (0.15 − 0.072) = ₹6 ÷ 0.078 = ==**₹76.92**==.\n**At an 80% payout:** b = 20%, g = 0.20 × 0.18 = **3.6%**, so P = ₹10 × 0.80 ÷ (0.15 − 0.036) = ₹8 ÷ 0.114 = ==**₹70.18**==. **The price falls by ₹6.74.**==",
+      "==**The one-line route, which is what a 2-mark MCQ wants.** **r of 18% exceeds Ke of 15%**, so the company is a growth company and under Gordon's Model **the optimum payout is zero** — therefore **any increase in payout reduces the price**. ==No computation is needed to answer; the comparison of r with Ke settles the direction.==",
+      "**Why the fall is modest here, unlike in RTP January 2025.** The denominator moves from 0.078 to 0.114 — a increase of less than half — because **br is comfortably below Ke** at both payouts. ==Where br sits very close to Ke, as in that RTP's 11.25% against 12%, the same kind of change moves the price by hundreds of rupees. The sensitivity of Gordon's price is governed by how thin the spread Ke − br is.==",
+      "**The distractor to avoid.** 'The price will increase, because shareholders receive more cash' is intuitive and wrong whenever r > Ke. ==Gordon's model says the shareholder is better off leaving the money with a company that earns 18% than taking it at a 15% opportunity cost.=="
+     ],
+     "conclusion": "The price will decrease — from ₹76.92 to ₹70.18 — because with r above Ke a higher payout sacrifices growth worth more than the extra dividend.",
+     "keywords": [
+      "E(1 − b) ÷ (Ke − br)",
+      "payout 60% to 80%",
+      "₹76.92 to ₹70.18",
+      "r > Ke so the price falls"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F08.10-03",
+     "angle": "Computation",
+     "difficulty": "Moderate",
+     "question": "A company's EPS is ₹6, its cost of capital 16% and its return on investment 20%. Under Gordon's Model, its price at a 25% dividend payout is:",
+     "options": {
+      "A": "₹37.50",
+      "B": "₹50",
+      "C": "₹150",
+      "D": "₹100"
+     },
+     "answer": "C",
+     "explanation": "SM Illustration 4: at a 25% payout b is 0.75, so g = 0.75 × 0.20 = 0.15 and P₀ = (₹6 × 0.25) ÷ (0.16 − 0.15) = ₹1.50 ÷ 0.01 = ₹150. ICAI's own series gives ₹150 at a 25% payout, ₹50 at 50% and ₹37.50 at 100%.",
+     "why_wrong": {
+      "A": "₹37.50 is the price at a 100% payout, where g is nil and P₀ = ₹6 ÷ 0.16.",
+      "B": "₹50 is the price at a 50% payout.",
+      "D": "₹100 is not one of ICAI's figures for this illustration."
+     },
+     "trap": "A tiny change in the payout moves the denominator, not just the numerator — 25% to 50% takes the price from ₹150 to ₹50.",
+     "concept": "F08.10"
+    },
+    {
+     "id": "MCQ-F08.10-04",
+     "angle": "Assumption",
+     "difficulty": "Moderate",
+     "question": "Gordon's Model assumes that Ke > g. The study material's reason for this assumption is that:",
+     "options": {
+      "A": "A company cannot grow faster than its cost of capital in the long run",
+      "B": "Otherwise the retention ratio would exceed one",
+      "C": "Otherwise the dividend yield would become negative",
+      "D": "It is necessary and based on the principles of the series of the sum of a geometric progression for 'n' number of years"
+     },
+     "answer": "D",
+     "explanation": "SM §8.2, assumptions of Gordon's Model: 'Ke > g, this assumption is necessary and based on the principles of series of sum of geometric progression for \"n\" number of years.' Without it the infinite series of discounted dividends does not converge and the formula gives a nil or negative denominator.",
+     "why_wrong": {
+      "A": "A plausible economic argument, but not ICAI's stated reason.",
+      "B": "The retention ratio is independent of the relationship between Ke and g.",
+      "C": "The dividend yield D₁ ÷ P₀ stays positive; it is the denominator Ke − g that fails."
+     },
+     "trap": "The reason is mathematical, not economic — the model is the sum of a geometric progression and needs the common ratio below one.",
+     "concept": "F08.10"
+    }
+   ],
+   "recap": [
+    "Gordon: P₀ = E₁(1 − b) ÷ (Ke − br), or in growth form P₀ = D₀(1 + g) ÷ (Ke − g).",
+    "Seven assumptions, including Ke > g on the geometric-progression argument and an all-equity firm.",
+    "r > Ke: optimum payout zero. r = Ke: no optimum ratio. r < Ke: optimum payout 100%.",
+    "The payout ratio moves Gordon's denominator as well as its numerator, which is why its prices swing far more than Walter's.",
+    "DDM: zero growth P₀ = D ÷ Ke; constant growth the Gordon form; variable growth valued phase by phase with the present values added."
+   ]
+  },
+  {
+   "code": "F08.11 + F08.12 + F08.13 + F08.14",
+   "title": "9–9.3 Stock Splits",
+   "activity": "Moderate",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (Sep 2025 Q4(a)) · RTP 0 · MTP 0",
+   "understand": [
+    "==**Meaning** (SM §9.1): ==**stock split means splitting one share into many, say, one share of ₹500 into 5 shares of ₹100**==. **Stock splits is a tool used by companies to regulate the prices of shares** — if a share price increases beyond a limit it may become **less tradable**. ICAI's own example: if a company's share price rises from ₹50 to ₹1,000 over the years, **it is possible that it might go out of range of many investors**.==",
+    "==**Advantages of Stock Splits** (SM §9.2): **1. It makes the share affordable to small investors. 2. The number of shares may increase the number of shareholders, hence the potential of investment may increase.**==",
+    "==**Limitations of Stock Splits** (SM §9.3): **1. Additional expenditure needs to be incurred on the process of stock split. 2. Low share price may attract speculators or short term investors, which are generally not preferred by any company.**==",
+    "**What a stock split does and does not change.** The **face value falls** in the same proportion as the number of shares rises, so **share capital, reserves and total net worth are all unchanged**; the market price falls proportionately; and every shareholder's proportionate holding is exactly as before. ==**Nothing of substance happens — which is precisely the point, since the object is to change the price, not the value.**==",
+    "==**Stock split against stock dividend, the distinction that carries marks.** Both increase the number of shares and leave net worth unchanged, but a **stock split reduces the face value** and makes **no entry in the accounts beyond the split of share capital**, while a **stock dividend (bonus issue) keeps the face value and capitalises reserves** — moving an amount out of reserves and surplus into equity share capital. ==So a bonus issue changes the **composition** of net worth and a split does not.==",
+    "A practical note worth having. The reason a very high price is a problem is **tradability**, not value: a ₹1,000 share cannot be bought in small amounts, which thins the market and widens the spread. ICAI's two advantages are both versions of that — affordability and a larger shareholder base — and its second limitation is the mirror image, that **too low a price attracts speculators**."
+   ],
+   "example": "A company whose share has risen from ₹50 to ₹1,000 splits one share of ₹10 face value into ten of ₹1. A holder of 100 shares now holds 1,000; the price falls from about ₹1,000 to about ₹100; share capital, reserves and the holder's stake are all exactly what they were.",
+   "provisions": [
+    {
+     "ref": "Meaning of stock split (SM §9.1)",
+     "status": "VERIFIED",
+     "requirement": "Splitting one share into many, for example one share of ₹500 into five of ₹100; a tool to regulate the price of shares where a high price makes them less tradable.",
+     "exam_angle": "Give ICAI's own numerical illustration — ₹500 into five of ₹100 — rather than only the definition."
+    },
+    {
+     "ref": "Advantages of stock splits (SM §9.2)",
+     "status": "VERIFIED",
+     "requirement": "Makes the share affordable to small investors; the larger number of shares may increase the number of shareholders and so the potential of investment.",
+     "exam_angle": "Only two advantages exist in the study material, so a question asking for two is asking for both."
+    },
+    {
+     "ref": "Limitations of stock splits (SM §9.3)",
+     "status": "VERIFIED",
+     "requirement": "Additional expenditure on the process; a low share price may attract speculators or short term investors, generally not preferred by any company.",
+     "exam_angle": "Two limitations only; the second is the one candidates forget."
+    }
+   ],
+   "keywords": [
+    "splitting one share into many",
+    "regulate the prices of shares",
+    "less tradable",
+    "out of range of many investors",
+    "affordable to small investors",
+    "attract speculators or short term investors"
+   ],
+   "memory": {
+    "trick": "**A split changes the price tag, not the price.** Two advantages — affordable, more shareholders. Two limitations — it costs money, and a cheap share attracts speculators.",
+    "key": [
+     ["Meaning", "One share of ₹500 into five of ₹100"],
+     ["Purpose", "Regulate the price; a high price is less tradable"],
+     ["Advantage 1", "Affordable to small investors"],
+     ["Advantage 2", "More shareholders, so more investment potential"],
+     ["Limitation 1", "Additional expenditure on the process"],
+     ["Limitation 2", "A low price attracts speculators and short term investors"],
+     ["Against a bonus issue", "A split cuts the face value; a bonus issue capitalises reserves"]
+    ],
+    "recall_trigger": "Changes the price tag, not the price"
+   },
+   "mistakes": [
+    "Saying a stock split increases the company's net worth or its share capital; neither changes.",
+    "Confusing a split with a bonus issue — a split reduces the face value, a bonus issue does not.",
+    "Giving only one limitation when the study material has exactly two.",
+    "Describing the purpose as rewarding shareholders; ICAI's purpose is to regulate the price so the share stays tradable."
+   ],
+   "compare": {
+    "title": "Stock split against stock dividend (bonus issue)",
+    "headers": [
+     "",
+     "Stock split (§9)",
+     "Stock dividend / bonus issue (§3)"
+    ],
+    "rows": [
+     ["Number of shares", "Increases", "Increases"],
+     ["Face value per share", "**Falls proportionately**", "**Unchanged**"],
+     ["Share capital", "Unchanged in total", "**Increases**, by capitalising reserves"],
+     ["Reserves and surplus", "Unchanged", "**Reduced**, as retained earnings are capitalised"],
+     ["Total net worth", "Unchanged", "Unchanged"],
+     ["Purpose ICAI gives", "To regulate the price so the share remains tradable", "To reward shareholders while conserving cash"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 8 §3: stock dividend, with which a split is most often confused",
+    "🔗 FM Ch 8 §10: share buyback, which moves the share count the other way",
+    "🔗 FM Ch 2 §2: equity share capital and its face value"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Discuss any two advantages and limitations of stock splits (4 marks)",
+     "Explain the meaning and purpose of a stock split (2 marks)",
+     "Distinguish between a stock split and a stock dividend (4 marks)"
+    ],
+    "approach": [
+     "Open with the meaning and ICAI's ₹500-into-five example, then the purpose, then two advantages and two limitations under headings",
+     "For the distinction, lead with the face value — that is the difference everything else follows from"
+    ],
+    "official_pattern": "PYQ-S25-Q4a.",
+    "time_tip": "4 marks ≈ 7 minutes (study guidance)."
+   },
+   "official_questions": [
+    {
+     "id": "PYQ-S25-Q4a",
+     "marks": 4,
+     "status": "VERIFIED",
+     "format": "Descriptive",
+     "question": "Discuss any 2 advantages and limitations of Stock Splits. (4 Marks)",
+     "answer_points": [
+      "**Open with what a stock split is, in one sentence, because the advantages only make sense against it.** ==**A stock split means splitting one share into many — for example one share of ₹500 into five shares of ₹100.** It is **a tool used by companies to regulate the prices of shares**: if a share price increases beyond a limit it may become **less tradable**, and ICAI's own illustration is a price that has risen from ₹50 to ₹1,000, which **might go out of range of many investors**.==",
+      "==**Advantage 1 — it makes the share affordable to small investors.** Reducing the price per share without changing the value of the holding brings the share back within the reach of investors who could not buy a ₹1,000 share.==",
+      "==**Advantage 2 — the larger number of shares may increase the number of shareholders, and hence the potential of investment may increase.** A wider shareholder base deepens the market in the share.==",
+      "==**Limitation 1 — additional expenditure needs to be incurred on the process of the stock split.** The exercise has administrative and compliance costs and produces no cash.==",
+      "==**Limitation 2 — a low share price may attract speculators or short term investors, which are generally not preferred by any company.** The same affordability that widens the shareholder base also admits holders with no long-term interest in the business.==",
+      "==**A closing sentence that shows the point has been understood.** A split **changes neither the company's net worth nor any shareholder's proportionate holding** — share capital, reserves and total net worth are all unaffected and only the face value and the number of shares move. ==**Its entire purpose is to change the price, not the value**, which is why both its advantages and both its limitations are about **who ends up holding the share** rather than about what the share is worth.==",
+      "**On structure for four marks.** Two advantages and two limitations is exactly what the study material contains, so each is worth a mark; give them as four labelled points, not as prose. ==The meaning sentence at the start costs one line and makes the four points intelligible.=="
+     ],
+     "conclusion": "Advantages: affordability to small investors, and a wider shareholder base. Limitations: the cost of the process, and the risk of attracting speculators — all four being about who holds the share rather than what it is worth.",
+     "keywords": [
+      "splitting one share into many",
+      "regulate the prices of shares",
+      "affordable to small investors",
+      "number of shareholders",
+      "additional expenditure",
+      "speculators or short term investors"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F08.12-01",
+     "angle": "Effect",
+     "difficulty": "Moderate",
+     "question": "When a company splits one share of ₹500 into five shares of ₹100:",
+     "options": {
+      "A": "The number of shares and the total share capital both rise, while reserves fall",
+      "B": "The number of shares rises, the face value falls proportionately, and total net worth is unchanged",
+      "C": "The number of shares rises and total net worth rises in the same proportion",
+      "D": "The face value is unchanged and reserves are capitalised"
+     },
+     "answer": "B",
+     "explanation": "SM §9.1: a stock split means splitting one share into many, say one share of ₹500 into five shares of ₹100. The number of shares rises five-fold and the face value falls to one-fifth, so total share capital, reserves and net worth are all unchanged — the purpose being to regulate the price so the share remains tradable.",
+     "why_wrong": {
+      "A": "Total share capital does not change, and nothing is taken out of reserves.",
+      "C": "No value is created; only the denomination changes.",
+      "D": "That describes a bonus issue under §3, not a split."
+     },
+     "trap": "Option D is the bonus issue, which is the comparison this question is really testing.",
+     "concept": "F08.12"
+    },
+    {
+     "id": "MCQ-F08.14-01",
+     "angle": "Limitations",
+     "difficulty": "Easy",
+     "question": "Which of the following does the study material give as a limitation of stock splits?",
+     "options": {
+      "A": "It reduces the company's reserves and surplus",
+      "B": "It dilutes the proportionate holding of existing shareholders",
+      "C": "It reduces the earnings per share permanently",
+      "D": "A low share price may attract speculators or short term investors, which are generally not preferred by any company"
+     },
+     "answer": "D",
+     "explanation": "SM §9.3: the two limitations are that additional expenditure needs to be incurred on the process of the stock split, and that a low share price may attract speculators or short term investors, which are generally not preferred by any company.",
+     "why_wrong": {
+      "A": "Reserves are untouched by a split; that happens on a bonus issue.",
+      "B": "Every shareholder's proportionate holding is exactly preserved.",
+      "C": "EPS falls arithmetically with the share count, but so does the price — there is no permanent loss, and ICAI does not list it."
+     },
+     "trap": "The one real drawback is about the kind of shareholder a cheap share attracts, which is the opposite side of the affordability advantage.",
+     "concept": "F08.14"
+    }
+   ],
+   "recap": [
+    "A stock split divides one share into many — ICAI's example is ₹500 into five of ₹100 — to regulate the price and keep the share tradable.",
+    "Advantages: affordable to small investors, and potentially more shareholders.",
+    "Limitations: the cost of the process, and the risk of attracting speculators or short term investors.",
+    "Face value falls proportionately; share capital, reserves, net worth and every proportionate holding are unchanged."
+   ]
+  },
+  {
+   "code": "F08.15 + F08.16",
+   "title": "10–10.1 Share Buyback",
+   "activity": "Moderate",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 1 (Sep 2024 Series II)",
+   "understand": [
+    "==**Meaning** (SM §10.1): ==**share buyback means buying or repurchasing own shares by the company, resulting in a decrease in the share capital of the company. Thus the shares bought back are cancelled, leading to a reduction in the outstanding number of shares.**==",
+    "==**Why it is a dividend decision at all.** ==**Share buyback is also a form of shareholders' dividend. As the number of circulating shares in the market falls, the amount of dividend per share in the future increases.**== That is the link back to §3, where ICAI lists share repurchase as the second form of dividend and shows that, other things equal, its effect on shareholders' wealth is the same as a cash dividend.==",
+    "==**Two main types of buyback** (SM §10.1): **through an open market**, where the company goes through the **secondary market**; and **through a tender offer**, where ==**the company offers a fixed price at which all the shareholders can participate or sell their shares**==.",
+    "**What a buyback does to the books, which is what the official question tests.** Cash leaves the company and so does an equal amount of net worth. ==**Net worth after buyback = Net worth before − amount paid for the shares**==, and **shares after = shares before − shares bought back**. Book value per share therefore moves in whichever direction the **buyback price compares with the pre-buyback book value per share**: buying back **above** book value **reduces** book value per share, and buying back **below** it **raises** book value per share.",
+    "**And what it does to EPS.** Earnings are unchanged but the share count falls, so ==**EPS rises**== — which is the usual commercial motive and also the reason a buyback at a high price can flatter EPS while destroying book value.",
+    "==Note the two provisions MM supplies in §8.1 that bear directly on this section: **under the MM hypothesis there is no meaningful distinction between dividend and share repurchases — they are both ways for a company to return cash to shareholders**; and the HM Ltd example in §3 shows the shareholder ending with **₹2,000 of wealth either way**. ==So on the irrelevance view a buyback is a dividend by another name; on the relevance view the choice between them matters because of taxation and signalling, neither of which the current Study Material develops.==",
+    "**A comparison worth holding in three lines.** A **cash dividend** leaves the share count alone and drops the price to its ex-dividend level. A **bonus issue** raises the share count and drops the price proportionately, with no cash moving. A ==**buyback lowers the share count and leaves the price broadly where it was**== — ICAI's HM Ltd figures show the price staying at ₹200 through a 25% repurchase."
+   ],
+   "example": "September 2024 Series II asks the reverse question: Paarath Limited has already repurchased 20,000 shares at a 10% premium to a market price of ₹270, and the book value per share after the buyback is ₹193.20 — what was it before? The answer runs backwards through net worth, which is the only way the question can be done.",
+   "provisions": [
+    {
+     "ref": "Meaning of share buyback (SM §10.1)",
+     "status": "VERIFIED",
+     "requirement": "Buying or repurchasing own shares, decreasing share capital; the shares bought back are cancelled, reducing the outstanding number of shares.",
+     "exam_angle": "Note the words 'cancelled' and 'reduction in outstanding number of shares' — §3 adds that repurchased shares may instead be held as treasury shares."
+    },
+    {
+     "ref": "Buyback as a dividend (SM §10.1)",
+     "status": "VERIFIED",
+     "requirement": "Share buyback is also a form of shareholders' dividend; as the number of circulating shares falls, future dividend per share increases.",
+     "exam_angle": "This is the sentence that explains why the topic sits in the dividend chapter."
+    },
+    {
+     "ref": "Two types of buyback (SM §10.1)",
+     "status": "VERIFIED",
+     "requirement": "Open market, through the secondary market; and tender offer, at a fixed price at which all shareholders can participate.",
+     "exam_angle": "Two types only; the distinguishing feature of a tender offer is the fixed price open to all."
+    }
+   ],
+   "keywords": [
+    "repurchasing own shares",
+    "decrease in share capital",
+    "shares bought back are cancelled",
+    "form of shareholders' dividend",
+    "circulating shares",
+    "open market",
+    "tender offer",
+    "fixed price"
+   ],
+   "memory": {
+    "trick": "**Fewer shares, same earnings.** A buyback is a dividend that arrives as a higher EPS and a higher future dividend per share rather than as cash to everyone.",
+    "key": [
+     ["Meaning", "Repurchase of own shares; share capital falls; shares cancelled"],
+     ["Why in this chapter", "It is a form of shareholders' dividend — future DPS rises"],
+     ["Type 1", "Open market, through the secondary market"],
+     ["Type 2", "Tender offer, at a fixed price open to all shareholders"],
+     ["Net worth after", "Net worth before − amount paid"],
+     ["Shares after", "Shares before − shares bought back"],
+     ["Buyback above book value", "Book value per share falls"],
+     ["Effect on EPS", "Rises, since earnings are unchanged"]
+    ],
+    "recall_trigger": "Fewer shares, same earnings"
+   },
+   "mistakes": [
+    "Saying the bought-back shares are reissued; ICAI's §10 says they are cancelled, though §3 allows treasury shares as an alternative classification.",
+    "Treating a buyback as having no effect on net worth; cash leaves and net worth falls by the amount paid.",
+    "Assuming book value per share always rises on a buyback; it falls where the buyback price exceeds the pre-buyback book value per share.",
+    "Describing a tender offer as a negotiated purchase from selected shareholders; the price is fixed and open to all."
+   ],
+   "compare": {
+    "title": "The three ways of returning value, side by side",
+    "headers": [
+     "",
+     "Cash dividend",
+     "Bonus issue",
+     "Share buyback"
+    ],
+    "rows": [
+     ["Cash leaves the company", "Yes", "No", "Yes"],
+     ["Number of shares", "Unchanged", "Increases", "**Decreases**"],
+     ["Market price", "Falls to the ex-dividend level", "Falls proportionately", "Broadly unchanged (HM Ltd: stays at ₹200)"],
+     ["Net worth", "Falls by the dividend", "Unchanged, reserves capitalised", "Falls by the amount paid"],
+     ["Future EPS and DPS", "Unchanged", "Falls per share", "**Rises per share**"],
+     ["Shareholder's wealth immediately after", "Unchanged", "Unchanged", "Unchanged"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 8 §3: share repurchase as the second form of dividend, with the HM Ltd equivalence",
+    "🔗 FM Ch 8 §8.1: MM's point that dividend and share repurchase are indistinguishable",
+    "🔗 FM Ch 8 §9: stock splits, which move the share count the other way",
+    "🔗 FM Ch 5 §5: EBIT-EPS analysis, where a debt-funded buyback belongs instead"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Explain the meaning of share buyback and its two types (2 marks)",
+     "Compute the book value per share before or after a buyback (5 marks)",
+     "Explain why a share buyback is regarded as a form of dividend (2 marks)"
+    ],
+    "approach": [
+     "For a computation, work through net worth: shares × book value per share, both before and after, with the amount paid as the bridge",
+     "Derive the share count from EPS and earnings where the question gives a P/E ratio and a market price"
+    ],
+    "official_pattern": "MTP-S24-S2-FQ1c. Note that a buyback financed by debt to change the capital structure — as in MTP-M26-S1-FQ2a's Zanshu Ltd — is a Chapter 5 question, not a Chapter 8 one.",
+    "time_tip": "5 marks ≈ 9 minutes (study guidance)."
+   },
+   "official_questions": [
+    {
+     "id": "MTP-S24-S2-FQ1c",
+     "marks": 5,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Paarath Limited had recently repurchased 20,000 equity shares at a premium of 10% to its prevailing market price. The book value per share (after repurchasing) is ₹193.20. Other details: earnings of the company (before buyback) ₹18,00,000; current MPS ₹270 with a P/E ratio of 18. Calculate the book value per share of the company before the re-purchase. (5 Marks)",
+     "answer_points": [
+      "==**Step 1 — the number of shares, from the P/E ratio.** **EPS = MPS ÷ P/E = ₹270 ÷ 18 = ₹15.** With earnings of ₹18,00,000, the number of shares on which that EPS is struck is ₹18,00,000 ÷ ₹15 = **1,20,000 shares** — the figure **after** the buyback, since ₹270 is the current price. Therefore **shares before the buyback = 1,20,000 + 20,000 = 1,40,000**.==",
+      "==**Step 2 — the amount paid for the buyback.** The price was a **10% premium to the prevailing market price of ₹270**, so the buyback price was **₹270 × 1.10 = ₹297**, and the total paid was **20,000 × ₹297 = ₹59,40,000**.==",
+      "==**Step 3 — net worth after the buyback.** Book value per share after is ₹193.20 on 1,20,000 shares, so **net worth after = ₹193.20 × 1,20,000 = ₹2,31,84,000**.==",
+      "==**Step 4 — net worth before, and the answer.** A buyback reduces net worth by exactly the cash paid, so **net worth before = ₹2,31,84,000 + ₹59,40,000 = ₹2,91,24,000**, and\n==**book value per share before the repurchase = ₹2,91,24,000 ÷ 1,40,000 = ₹208.03**==.==",
+      "==**The sense-check that confirms the direction.** The company bought its shares back at **₹297 against a pre-buyback book value of ₹208.03** — well **above** book value — so **book value per share had to fall**, and it did, from ₹208.03 to ₹193.20. ==**Buying back above book value always reduces book value per share; buying back below it raises book value per share.** An answer that produced a figure below ₹193.20 would be wrong on that reasoning alone.==",
+      "==**The step the whole question turns on.** The share count is nowhere given; it has to be reconstructed from **EPS = MPS ÷ P/E** and then from **earnings ÷ EPS**. ==And the 1,20,000 so obtained is the **post**-buyback count, because ₹270 is described as the *current* price — adding the 20,000 back is the move that makes the rest work.==",
+      "**What the buyback achieved commercially.** Earnings are unchanged at ₹18,00,000 but the share count has fallen by 20,000, so **EPS has risen** — from ₹18,00,000 ÷ 1,40,000 = ₹12.86 to ₹15. ==That is ICAI's point in §10.1 that a buyback is a form of shareholders' dividend: the benefit arrives as higher earnings and dividend per share for those who stayed, paid for out of net worth.=="
+     ],
+     "conclusion": "₹208.03 per share before the repurchase — reconstructed from a share count of 1,40,000, a buyback price of ₹297 and the ₹59,40,000 of net worth that left the company.",
+     "keywords": [
+      "EPS = MPS ÷ P/E",
+      "share count reconstructed",
+      "buyback price at a 10% premium",
+      "net worth falls by the amount paid",
+      "₹208.03",
+      "buyback above book value reduces BVPS"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F08.16-01",
+     "angle": "Types",
+     "difficulty": "Easy",
+     "question": "Under a buyback by way of a tender offer, as the study material describes it:",
+     "options": {
+      "A": "The company purchases shares gradually through the secondary market",
+      "B": "The company offers a fixed price at which all the shareholders can participate or sell their shares",
+      "C": "The company buys shares only from its promoters",
+      "D": "The shares bought back are held as treasury shares and must be reissued"
+     },
+     "answer": "B",
+     "explanation": "SM §10.1: there are two main types of buyback — through an open market, where the company goes through the secondary market, and through a tender offer, where the company offers a fixed price at which all the shareholders can participate or sell their shares.",
+     "why_wrong": {
+      "A": "That is the open market route, the other of the two types.",
+      "C": "Nothing in the study material restricts a buyback to promoters.",
+      "D": "Section 10.1 says the shares bought back are cancelled; §3 allows treasury shares as an alternative, but neither is specific to a tender offer."
+     },
+     "trap": "The distinguishing feature is the fixed price open to everyone, not who the seller is.",
+     "concept": "F08.16"
+    },
+    {
+     "id": "MCQ-F08.15-01",
+     "angle": "Effect",
+     "difficulty": "Moderate",
+     "question": "A company with 1,40,000 shares and a net worth of ₹2,91,24,000 buys back 20,000 shares at ₹297 each. Its book value per share after the buyback is:",
+     "options": {
+      "A": "₹208.03, unchanged",
+      "B": "₹243.00",
+      "C": "₹193.20",
+      "D": "₹297.00"
+     },
+     "answer": "C",
+     "explanation": "Net worth falls by the ₹59,40,000 paid (20,000 × ₹297) to ₹2,31,84,000, and the share count falls to 1,20,000, so book value per share is ₹2,31,84,000 ÷ 1,20,000 = ₹193.20. These are the Paarath Limited figures from MTP September 2024 Series II, read forwards.",
+     "why_wrong": {
+      "A": "₹208.03 is the book value per share before the buyback; it does not survive a repurchase above book value.",
+      "B": "Does not follow from either net worth or the share count.",
+      "D": "₹297 is the price paid, not the resulting book value."
+     },
+     "trap": "Both the numerator and the denominator fall, and because the price paid exceeds book value the numerator falls proportionately more — so book value per share declines.",
+     "concept": "F08.15"
+    }
+   ],
+   "recap": [
+    "Share buyback is the repurchase of a company's own shares, reducing share capital, with the shares bought back cancelled.",
+    "It is a form of shareholders' dividend, because fewer circulating shares mean a higher future dividend per share.",
+    "Two types: open market through the secondary market, and tender offer at a fixed price open to all shareholders.",
+    "Net worth falls by the amount paid and the share count falls, so buying back above book value reduces book value per share while EPS rises."
+   ]
+  }
+ ]
+}

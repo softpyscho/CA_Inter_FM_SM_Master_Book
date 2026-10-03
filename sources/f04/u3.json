@@ -633,7 +633,7 @@
     "approach": [
      "Write the formula, identify Rf, β and (Rm − Rf) separately, then substitute"
     ],
-    "official_pattern": "PYQ-S24-Q2a; PYQ-J25-Q2a; PYQ-J26-Q1c; RTP-M26-FQ5; MTP-S26-S2-FQ2a.",
+    "official_pattern": "PYQ-S24-Q2a; PYQ-J25-Q2a; PYQ-J26-MCQ1; RTP-M26-FQ5; MTP-S26-S2-FQ2a.",
     "time_tip": "A 1-mark CAPM line ≈ 1 to 2 minutes (study guidance)."
    },
    "write": {
@@ -677,7 +677,7 @@
      "examiner": "No examiners' comments have been published for Paper 6."
     },
     {
-     "id": "PYQ-J26-Q1c",
+     "id": "PYQ-J26-MCQ1",
      "marks": 10,
      "status": "VERIFIED",
      "format": "Case MCQs",
@@ -1170,7 +1170,7 @@
      "Always present the four-column table",
      "State the weights basis in the heading of the table"
     ],
-    "official_pattern": "PYQ-M24-Q2a; PYQ-S24-Q2a; PYQ-J25-Q2a; PYQ-M25-Q2a; PYQ-S25-Q1a; PYQ-J26-Q1c; RTP-J25-FQ5; RTP-J26-FQ6; RTP-M24-FQ2; RTP-M25-FQ5; RTP-M26-FQ5; RTP-S24-FQ5; RTP-S26-FQ1; MTP-J26-S1-FQ1a; MTP-M24-S1-FQ1b; MTP-M24-S1-FQ3a; MTP-M24-S2-FQ2b; MTP-M25-S1-FQ2a; MTP-S24-S1-FQ1b; MTP-S24-S2-FQ3a; MTP-S25-S2-FQ1c; MTP-S26-S1-FQ1c.",
+    "official_pattern": "PYQ-M24-Q2a; PYQ-S24-Q2a; PYQ-J25-Q2a; PYQ-M25-Q2a; PYQ-S25-Q1a; PYQ-J26-MCQ1; RTP-J25-FQ5; RTP-J26-FQ6; RTP-M24-FQ2; RTP-M25-FQ5; RTP-M26-FQ5; RTP-S24-FQ5; RTP-S26-FQ1; MTP-J26-S1-FQ1a; MTP-M24-S1-FQ1b; MTP-M24-S1-FQ3a; MTP-M24-S2-FQ2b; MTP-M25-S1-FQ2a; MTP-S24-S1-FQ1b; MTP-S24-S2-FQ3a; MTP-S25-S2-FQ1c; MTP-S26-S1-FQ1c.",
     "time_tip": "5 to 7 marks ≈ 9 to 13 minutes (study guidance)."
    },
    "write": {

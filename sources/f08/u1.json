@@ -1,0 +1,787 @@
+{
+ "meta": {
+  "chapter_no": 8,
+  "section": "FM",
+  "paper": "CA Intermediate · Paper 6A · Financial Management",
+  "chapter_title": "FM Chapter 8 — Dividend Decision",
+  "short_title": "FM Ch 8 Dividend Decision",
+  "module": "Paper 6A Financial Management · Module 2",
+  "attempt": "January 2027",
+  "sm_edition": "ICAI BoS Study Material, Paper 6A (relevant for May 2026 examination onwards), Module 2, Chapter 8",
+  "last_verified": "03-10-2026",
+  "status_summary": "SM headings 16/16 · official atoms 38/38"
+ },
+ "sections_before": [
+  {
+   "heading": "Examiner Mindset — FM Chapter 8",
+   "blocks": [
+    {
+     "type": "box",
+     "tag": "pyq",
+     "title": "What ICAI's published papers tell us",
+     "bullets": [
+      "ICAI has published no examiners' comments for Paper 6; the guidance below comes from its suggested answers, RTPs and MTPs.",
+      "**This chapter is asked in every attempt, and it is the cheapest chapter in the paper to score in.** Nine past-paper parts between May 2024 and May 2026, a question in every one of the eight RTPs, and a question in thirteen of the MTPs — against only sixteen SM headings and three formulae.",
+      "**Three formulae carry almost every mark.** Walter's P = [D + (r ÷ Ke)(E − D)] ÷ Ke; Gordon's P₀ = E₁(1 − b) ÷ (Ke − br); and MM's P₀ = (P₁ + D₁) ÷ (1 + Ke). Learn them cold and the chapter is arithmetic.",
+      "**The commonest single step is finding EPS before anything else.** Net profit, less preference dividend, divided by the number of shares. Gamma Ltd, K Ltd, QB Ltd, Saraswati Ltd and the RTP Walter questions all begin there, and a wrong EPS makes every later figure wrong.",
+      "**The 2-mark and 4-mark theory slots rotate through a short list**: the assumptions of MM, the assumptions of Gordon, the limitations of Walter, the parameters of Lintner's Model, the forms of dividend, and the advantages and limitations of stock splits — asked eight times across the past papers and MTPs."
+     ]
+    },
+    {
+     "type": "box",
+     "tag": "face",
+     "title": "How ICAI marks this chapter (study guidance)",
+     "bullets": [
+      "**Write the EPS working as a labelled statement**, even when the question looks like it only wants a price. Net profit − preference dividend = earnings for equity shareholders ÷ number of shares = EPS.",
+      "**Compare r with Ke and say so in words.** 'Since r of 25% exceeds Ke of 20%, the optimum payout is zero, so the company's 40% payout is not optimal' is the sentence that earns the comment mark in every Walter question.",
+      "**Under MM, prove the value is unchanged.** Compute the value both ways and state that they are equal; the mark is for the conclusion that dividend policy is irrelevant, not for the two numbers.",
+      "**Watch the reverse workings.** Four official questions give the price and ask for the dividend, the payout ratio, the retention ratio or r — so be able to run every formula backwards as well as forwards.",
+      "Where a question gives a **P/E ratio**, remember that Ke = 1 ÷ (P/E). Three RTP and MTP questions turn on that single substitution."
+     ]
+    }
+   ]
+  }
+ ],
+ "snapshot": {
+  "about": "What a company should do with profit after tax: pay it out or keep it. The forms dividend can take, the nine determinants and the practical considerations that shape a payout policy, and then the two families of theory — MM's irrelevance against the relevance of Walter and Gordon — closing with stock splits and share buyback.",
+  "why": "It is asked in every attempt and in every RTP, it rests on three short formulae, and it is the last of the three finance functions met in Chapter 1.",
+  "core_concepts": [
+   "F08.01–F08.03 What dividend means, ex-dividend, and the three forms — cash, share repurchase and stock dividend",
+   "F08.04–F08.06 Why the policy matters, g = br, and the nine determinants of the decision",
+   "F08.07 Practical considerations, the payout policies, and Lintner's Model",
+   "F08.08–F08.09 MM's dividend irrelevance, its assumptions, the three situations and the arbitrage proof",
+   "F08.10 Walter's Model, Gordon's Model, the Bird-in-hand theory and the Dividend Discount Model",
+   "F08.11–F08.16 Stock splits and share buyback"
+  ],
+  "key_provisions": [
+   "Walter: P = [D + (r ÷ Ke)(E − D)] ÷ Ke",
+   "Gordon: P₀ = E₁(1 − b) ÷ (Ke − br), and the growth form P₀ = D₀(1 + g) ÷ (Ke − g)",
+   "MM: P₀ = (P₁ + D₁) ÷ (1 + Ke), and nP₀ = [(n + Δn)P₁ − I + E] ÷ (1 + Ke)",
+   "Growth g = br, where b is the retention ratio and r the return on investment",
+   "Lintner: D₁ = D₀ + [(EPS × Target payout) − D₀] × Af",
+   "Optimum payout: r > Ke → zero · r = Ke → every ratio (Walter) / no optimum (Gordon) · r < Ke → 100%"
+  ],
+  "tested_areas": [
+   {
+    "text": "Price per share under Walter's Model, with a comment on whether the policy is optimal",
+    "evidence": "PYQ Jan 2025 Q1(c), May 2025 Q2(b), May 2026 Q3(a); RTP Jan 2025, Jan 2026, May 2025, Sep 2024; MTP May 2025 Series II, Sep 2025 Series I and II, Sep 2026 Series II, May 2026 Series I"
+   },
+   {
+    "text": "Price per share under Gordon's Model, and the optimum payout ratio",
+    "evidence": "PYQ Sep 2024 Q4(b), Sep 2025 Q2(b), Jan 2026 Q1(c), May 2026 Q3(a); RTP Jan 2025, May 2025, May 2026, Sep 2024, Sep 2025; MTP Sep 2024 Series I, Jan 2025 Series II, Sep 2025 Series II"
+   },
+   {
+    "text": "Value of the firm under the MM hypothesis, with and without dividend, and the new shares to be issued",
+    "evidence": "PYQ Jan 2026 Q1(c), May 2026 Q4(a); RTP May 2024; MTP Mar 2024 Series II, May 2025 Series I, Jan 2026 Series I and Series II, Jan 2025 Series I"
+   },
+   {
+    "text": "Reverse working — the dividend, payout ratio, retention ratio or r implied by a given price",
+    "evidence": "PYQ Jan 2025 Q1(c)(ii), Sep 2025 Q2(b), May 2026 Q3(a)(ii); RTP Jan 2026"
+   },
+   {
+    "text": "Intrinsic value by the Dividend Discount Model with multi-stage growth",
+    "evidence": "PYQ May 2024 Q3(b); MTP Jan 2025 Series I"
+   },
+   {
+    "text": "Short theory parts — assumptions of MM, assumptions of Gordon, limitations of Walter, Lintner's parameters, forms of dividend, stock splits",
+    "evidence": "PYQ Sep 2024 Q4(b), Sep 2025 Q4(a), May 2026 Q4(a); MTP Sep 2024 Series I, Jan 2025 Series II, Jan 2026 Series I and Series II"
+   },
+   {
+    "text": "Share buyback and its effect on book value per share",
+    "evidence": "MTP Sep 2024 Series II"
+   }
+  ],
+  "mistakes": [
+   "Forgetting to deduct the preference dividend before dividing by the number of equity shares, so every figure built on EPS is wrong.",
+   "Using the retention ratio where the formula wants the payout ratio — Gordon's numerator is E₁(1 − b), not E₁b.",
+   "Treating Gordon's denominator as Ke − r instead of Ke − br.",
+   "Giving a number without the comparison of r against Ke, which is where the comment mark sits.",
+   "Taking Ke as the P/E ratio instead of its reciprocal."
+  ],
+  "links": [
+   "🔗 FM Ch 1 §7: dividend decisions as the third of the three finance functions",
+   "🔗 FM Ch 4 §7.3: the growth approach to Ke — Gordon's formula rearranged to find the rate rather than the price",
+   "🔗 FM Ch 5 §4: the MM hypothesis applied to capital structure rather than to dividend",
+   "🔗 FM Ch 2 §2: bonus shares and buyback as corporate actions on share capital"
+  ],
+  "revision_path": "5 min: the three formulae and the r-against-Ke table · 15 min: add the MM situations and the assumptions of each theory · 30 min: work one Walter reverse working and one MM value-of-firm question · 60 min: add Lintner, the determinants, stock splits and buyback."
+ },
+ "evidence": {
+  "pyq_table": [
+   {
+    "id": "PYQ-M24-Q3b",
+    "question": "Vista Limited: intrinsic value per share by the Dividend Discount Model, dividends growing 10% for two years and 8% thereafter",
+    "concept": "F08.10",
+    "marks": "—",
+    "type": "Multi-stage DDM",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-J25-Q1c",
+    "question": "LP Ltd: price of the share under Walter's Model, then the payout ratio implied by a price of ₹48",
+    "concept": "F08.10",
+    "marks": 5,
+    "type": "Walter, both ways",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M25-Q2b",
+    "question": "H Ltd: maximum and minimum price of the share under Walter's Model, EPS ₹3.00, r 20%, Ke 15%",
+    "concept": "F08.10",
+    "marks": 2,
+    "type": "Walter",
+    "repeat": "R2 (PYQ-J25-Q1c)"
+   },
+   {
+    "id": "PYQ-S24-Q4b",
+    "question": "List any four assumptions of Gordon's Model",
+    "concept": "F08.10",
+    "marks": 4,
+    "type": "Descriptive",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S25-Q2b",
+    "question": "Saraswati Ltd: dividend per share backed out of a Gordon price of ₹159.09, and the optimum payout when r = Ke",
+    "concept": "F08.10",
+    "marks": 3,
+    "type": "Reverse working",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S25-Q4a",
+    "question": "Discuss any two advantages and limitations of stock splits",
+    "concept": "F08.13",
+    "marks": 4,
+    "type": "Descriptive",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-J26-Q1c",
+    "question": "PQR Ltd: current price and number of shares under Gordon, then the year-end price and the earnings required under MM",
+    "concept": "F08.10",
+    "marks": 5,
+    "type": "Gordon and MM",
+    "repeat": "R4 (combines 8.1, 8.2)"
+   },
+   {
+    "id": "PYQ-M26-Q3a",
+    "question": "K Ltd: EPS and Walter price at 20% retention, the retention ratio for a price of ₹60, and the optimum payout under Gordon",
+    "concept": "F08.10",
+    "marks": 4,
+    "type": "Walter, both ways",
+    "repeat": "R2 (PYQ-J25-Q1c)"
+   },
+   {
+    "id": "PYQ-M26-Q4a",
+    "question": "The assumptions without which the MM hypothesis of dividend policy cannot hold",
+    "concept": "F08.09",
+    "marks": 4,
+    "type": "Descriptive",
+    "repeat": "R5"
+   }
+  ],
+  "trend": [
+   "Every attempt from May 2024 to May 2026 carried a dividend question, and May 2026 and January 2026 carried two each.",
+   "Walter's Model is the single most examined idea in Paper 6A: it appears in five of the nine past-paper parts, in four RTPs and in seven MTPs.",
+   "Four of the nine past-paper parts are **reverse workings** — the price is given and the dividend, payout ratio or retention ratio is asked. ICAI has not set a plain forward Walter computation in a past paper since September 2024.",
+   "The theory slots have moved from Gordon's assumptions (Sep 2024) to stock splits (Sep 2025) to MM's assumptions (May 2026), so all three should be ready."
+  ],
+  "rtp_takeaways": [
+   "Every RTP from May 2024 to September 2026 carries a question ICAI labels 'Dividend Decision' or 'Dividend Decisions'.",
+   "The January 2025 and January 2026 RTPs set the same reverse-working shape: a market price and a payout, from which Ke and r have to be recovered — January 2026 does it with two simultaneous equations.",
+   "The September 2024 RTP's Gamma Ltd is the most instructive single question in the chapter, because the same data give a Gordon price of ₹58.27 and a Walter price of ₹19.44 — a threefold difference that is entirely the models' doing.",
+   "The September 2026 RTP asks for prices under the **radical position**, with dividends taxed at 25% and capital gains at 12%. That theory is not in the current Study Material, so the question is printed here with the theory supplied."
+  ],
+  "mtp_takeaways": [
+   "Thirteen MTPs carry a dividend question; the commonest instruction is 'ANALYSE whether the company is following an optimal dividend policy'.",
+   "The Walter 'optimal policy and the P/E at which policy has no effect' question appears three times with different figures — RTP January 2025, MTP May 2025 Series II and MTP September 2026 Series II. One template answers all three.",
+   "MM's value-of-the-firm question appears five times, always in the same two parts: the year-end price with and without dividend, then the number of new shares to be issued.",
+   "September 2025 Series II is the richest question in the chapter: one company's data taken through Walter, Gordon and MM in sequence, with the CFO and the Board taking opposite sides."
+  ],
+  "note": "Counting method: every official part mapped to this chapter from ICAI suggested answers (May 2024 to May 2026), RTPs (May 2024 to Sep 2026, using ICAI's own topic labels) and MTPs (Mar 2024 to Aug 2026). ICAI's published May 2024 suggested answers do not print the mark allocation for Q3(b), so its marks column shows a dash rather than a guessed figure."
+ },
+ "concepts": [
+  {
+   "code": "F08.01 + F08.02",
+   "title": "1–2 Dividend Decisions and the Meaning of Dividend",
+   "activity": "Foundation",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 0",
+   "understand": [
+    "==Long-term finance function decisions broadly cover three areas: **financing decision, investment decision and dividend decision**. Financing was Chapters 4 to 6 and investment was Chapter 7; this chapter is the third.==",
+    "==**ICAI's own framing of the difficulty: 'Dividend Decision is easy to understand but difficult to implement.'**== Suppose X Limited, which has been paying dividend at a normal growth rate, earns huge profits this year. If management pays a **higher** dividend, next year's growth may not support it and the dividend would have to fall. If management **stays** on the normal rate, the surplus retained earnings remain idle — ==**which will result in over capitalization if no other opportunity exists to utilise the idle funds**==.",
+    "==**Meaning of dividend** (SM §2): **dividend is that part of Profit After Tax (PAT) which is distributed to the shareholders of the company**. Profit earned after paying taxes can be used for **(i) distribution of dividend, or (ii) retaining as surplus for future growth**.==",
+    "==**Ex-dividend.** ==**Ex-dividend refers to shares that no longer carry the right to dividend. The price at which shares trade immediately on the next day after declaration of dividend is referred to as the ex-dividend price.**== The practical consequence is that when a dividend of ₹50 is declared on a share quoted at ₹200, the share trades at ₹150 the next day — the shareholder's wealth has not changed, only its form.",
+    "==**The two families of theory** (SM §1), which the whole chapter is organised around:\n**Irrelevance Theory: MM Approach**\n**Relevance Theory: Walter's Model, Gordon's Model and Lintner Model**==",
+    "One point of SM housekeeping worth knowing before you start. The chapter-overview diagram lists **four** theories including Lintner, but the body places **Lintner's Model inside §7 (Practical Considerations in Dividend Policy)** under payout policies, and the diagram at §8.1 shows only **MM, Walter and Gordon**. The register follows the body, so Lintner is §7 material — see F08.07."
+   ],
+   "example": "A company that has always paid ₹5 a share earns an exceptional profit. Paying ₹8 this year risks a visible cut next year; paying ₹5 and finding no use for the surplus risks over-capitalisation. Nothing in the arithmetic of the chapter resolves that; what the models do is tell you which choice the share price should reward.",
+   "provisions": [
+    {
+     "ref": "Meaning of dividend (SM §2)",
+     "status": "VERIFIED",
+     "requirement": "That part of profit after tax which is distributed to shareholders; the alternative use of post-tax profit is retention as surplus for future growth.",
+     "exam_angle": "'Profit after tax' is the starting point — dividend is never paid out of pre-tax profit in this chapter."
+    },
+    {
+     "ref": "Ex-dividend (SM §2)",
+     "status": "VERIFIED",
+     "requirement": "Shares that no longer carry the right to dividend; the ex-dividend price is the price at which shares trade immediately on the next day after declaration.",
+     "exam_angle": "Asked as an MCQ in MTP May 2025 Series II, where the ex-dividend price of ₹80 on a ₹100 share with a ₹20 dividend is the key to the whole computation."
+    }
+   ],
+   "keywords": [
+    "easy to understand but difficult to implement",
+    "over capitalization",
+    "part of Profit After Tax",
+    "retaining as surplus for future growth",
+    "ex-dividend price"
+   ],
+   "memory": {
+    "trick": "**Three decisions, and this is the third.** Finance it (Ch 4–6), invest it (Ch 7), then decide what to do with what is left (Ch 8).",
+    "key": [
+     ["Dividend", "The part of PAT distributed to shareholders"],
+     ["The alternative", "Retention as surplus for future growth"],
+     ["Ex-dividend", "Shares no longer carrying the right to dividend"],
+     ["Ex-dividend price", "The price on the next day after declaration"],
+     ["Irrelevance", "MM Approach"],
+     ["Relevance", "Walter · Gordon · Lintner"]
+    ],
+    "recall_trigger": "Finance it, invest it, then divide it"
+   },
+   "mistakes": [
+    "Saying dividend is paid out of profit before tax; ICAI defines it as part of PAT.",
+    "Treating the ex-dividend fall in price as a loss to the shareholder; the shareholder has the cash instead.",
+    "Listing Lintner under the §8 theories when the study material's body places it in §7."
+   ],
+   "links": [
+    "🔗 FM Ch 1 §7: the three finance functions",
+    "🔗 FM Ch 8 §8: the two families of theory in full",
+    "🔗 FM Ch 2 §8: over-capitalisation, the risk ICAI names in the opening paragraph"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Explain the meaning of dividend and of ex-dividend (2 marks)",
+     "Identify the ex-dividend price from a declared dividend (MCQ)"
+    ],
+    "approach": [
+     "Define dividend from PAT, then name the two uses of post-tax profit",
+     "For ex-dividend, state both the meaning and the pricing consequence"
+    ],
+    "official_pattern": "Not set as a standalone past-paper part; the ex-dividend price is the hinge of MTP-M25-S2-FMCQ6.",
+    "time_tip": "2 marks ≈ 3.5 minutes (study guidance)."
+   },
+   "mcqs": [
+    {
+     "id": "MCQ-F08.02-01",
+     "angle": "Definition",
+     "difficulty": "Easy",
+     "question": "The ex-dividend price of a share is:",
+     "options": {
+      "A": "The price at which the share trades immediately on the next day after declaration of dividend",
+      "B": "The price at which the share traded on the day the dividend was recommended by the Board",
+      "C": "The face value of the share increased by the dividend declared",
+      "D": "The price at which the company will buy the share back"
+     },
+     "answer": "A",
+     "explanation": "SM §2: ex-dividend refers to shares that no longer carry the right to dividend, and the price at which shares trade immediately on the next day after declaration of dividend is referred to as the ex-dividend price.",
+     "why_wrong": {
+      "B": "That is the cum-dividend price — the share still carries the right then.",
+      "C": "Face value plays no part in the definition.",
+      "D": "That is a buyback or tender price, dealt with in §10."
+     },
+     "trap": "The word 'ex' means the right has gone, so the price falls by roughly the dividend.",
+     "concept": "F08.02"
+    },
+    {
+     "id": "MCQ-F08.01-01",
+     "angle": "Risk",
+     "difficulty": "Moderate",
+     "question": "The study material warns that if a company stays on its normal rate of dividend and has no opportunity to use the surplus retained earnings, the result will be:",
+     "options": {
+      "A": "Over-trading",
+      "B": "Over-capitalization",
+      "C": "A fall in the market price to the ex-dividend level",
+      "D": "A breach of Section 123 of the Companies Act, 2013"
+     },
+     "answer": "B",
+     "explanation": "SM §1: if the company decides to stay on the normal rate of dividend, the surplus amount of retained earnings would remain idle, which will result in over capitalization if no other opportunity exists to utilise the idle funds.",
+     "why_wrong": {
+      "A": "Over-trading is too much business on too little capital — the opposite problem.",
+      "C": "The ex-dividend fall happens whenever a dividend is declared and is not a consequence of retention.",
+      "D": "Section 123 governs the source of dividend, not the decision to retain."
+     },
+     "trap": "Idle capital, not insufficient capital, is the risk ICAI names here.",
+     "concept": "F08.01"
+    }
+   ],
+   "recap": [
+    "Dividend is the part of profit after tax distributed to shareholders; the alternative is retention for future growth.",
+    "Ex-dividend shares no longer carry the right to dividend; the ex-dividend price is the next day's price after declaration.",
+    "Paying too much risks a visible cut next year; paying too little risks over-capitalisation.",
+    "Irrelevance theory is MM; relevance theory is Walter, Gordon and Lintner."
+   ]
+  },
+  {
+   "code": "F08.03",
+   "title": "3 Forms of Dividend",
+   "activity": "High",
+   "update_sensitive": true,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 2 (Jan 2025 Series II, Jan 2026 Series II)",
+   "understand": [
+    "==**Three forms** (SM §3): **1. Cash dividend** — the most common form. ==**Cash here means cash, cheque, warrant, demand draft, pay order or directly through Electronic Clearing Service (ECS) but not in kind.**==",
+    "==**2. Share repurchases** — a transaction in which the company buys back its own shares using corporate cash. The bought back shares can be classified as ==**(a) treasury shares, kept for re-issuance in future, or (b) cancelled shares, if they are retired from issued share capital**==. ==**Share repurchases are also viewed as one form of dividend distribution**, and keeping other things the same, **the effect of cash dividend and share repurchases on shareholders' wealth is the same**.==",
+    "**The equivalence worked, because ICAI prints it and an MCQ can be built on it.** HM Ltd has 1 crore equity shares and proposes a dividend of ₹50 a share — ₹50 crores in all. Market price is ₹200 on the date of declaration. A shareholder holds 10 shares.\n**Option 1 — cash dividend.** Ex-dividend price ₹200 − ₹50 = ₹150. The shareholder has ₹500 of cash (₹50 × 10) plus shares worth ₹1,500 (₹150 × 10) = ==**₹2,000**==.\n**Option 2 — repurchase of ₹50 crores of shares.** At ₹200 that is 25 lakh shares, or 25% of the 1 crore outstanding, so the shareholder's 10 shares become 6 and ₹800 is received (4 shares × ₹200). Market capitalisation falls from ₹200 crores to ₹150 crores over 75 lakh shares, so ==**the price stays at ₹200**==. Wealth = ₹800 of cash + ₹1,200 of shares (6 × ₹200) = ==**₹2,000**== — the same.",
+    "==**3. Stock dividend (Bonus Shares)** — a distribution of shares in lieu of cash dividend. When the company issues new shares to its existing shareholders without any consideration it is called bonus shares; they are distributed proportionately, ==**thereby retaining proportionate ownership**==. A holder of 100 shares receiving a 10% stock dividend gets 10 more shares, ==**increasing equity share capital and reducing reserves and surplus. The total net worth is not affected, as retained earnings are only capitalised.**==",
+    "==**SEBI conditions for a bonus issue** (SM §3): **bonus shares are issued not in lieu of cash dividends**; the issue must be **authorised by the Articles of Association**; it is **not to be declared unless all partly paid-up shares have been converted into fully paid-up shares**; the company **should not have defaulted in repayment of loan, interest or any statutory dues**; and bonus shares are to be issued **only from share premium and free reserves, and not from capital reserve arising on revaluation of fixed assets**.==",
+    "==**Why companies use bonus shares to stop selling** (SM §3): short term capital gains are taxed at **15%** and long term capital gains at **10%**, and **the period of holding for bonus shares starts from the date of issue of the bonus shares**. An investor would therefore not sell bonus shares immediately, as they might lose 5% on taxation — which indirectly helps the company, because the price does not fall further from selling pressure.== ==**Update-sensitive:** these rates are the ones printed in the current edition; check the edition in force for the January 2027 attempt before quoting them.==",
+    "==**Advantages of stock dividend.** **To shareholders:** (a) **no tax is payable by shareholders** on stock dividend received from a domestic company, as it is treated not as dividend but as a **capital asset** under the Income Tax Act, 1961; (b) a policy of paying a **fixed dividend per share** continued after a stock dividend will **increase total cash dividend** in future; (c) bonus shares **improve liquidity in the hands of shareholders**, by breaking higher priced shares into lower priced shares so that some can be sold. **To the company:** (a) **conservation of cash** for profitable investment opportunities; (b) suitable in case of **cash deficiency and restrictions imposed by lenders** on paying cash dividend.==",
+    "==**Limitations of stock dividend.** **To shareholders:** it **does not affect the wealth of shareholders and therefore has no value for them** — the declaration is a method of **capitalising past earnings** and a formal way of recognising earnings the shareholders already own. It merely divides the company's ownership into a larger number of share certificates; ==**James Porterfield regards stock dividends as a division of corporate pie into a larger number of pieces**==. Proportionate ownership does not change at all, though it **creates a favourable psychological impact** as an indication of growth. **To the company:** stock dividends are **costlier to administer than cash dividends**, and it is disadvantageous if **periodic small stock dividends** are declared."
+   ],
+   "example": "January 2026 Series II asked simply to 'EXPLAIN any common form of dividend' for two marks — a question where naming cash dividend, saying what 'cash' includes and excludes, and adding one sentence on the other two forms is a complete answer in four lines.",
+   "provisions": [
+    {
+     "ref": "Forms of dividend (SM §3)",
+     "status": "VERIFIED",
+     "requirement": "Cash dividend; share repurchases (treasury or cancelled shares); stock dividend or bonus shares.",
+     "exam_angle": "Three forms, and share repurchase counts as one — a point candidates routinely miss."
+    },
+    {
+     "ref": "SEBI conditions for bonus issue (SM §3)",
+     "status": "VERIFIED",
+     "requirement": "Not in lieu of cash dividend; authorised by the AOA; no partly paid shares outstanding; no default on loan, interest or statutory dues; only out of share premium and free reserves, not revaluation capital reserve.",
+     "exam_angle": "Five conditions; the last is the one examiners test, because a revaluation reserve is not available."
+    },
+    {
+     "ref": "Advantages and limitations of stock dividend (SM §3)",
+     "status": "VERIFIED",
+     "requirement": "To shareholders: no tax, higher future cash dividend, better liquidity. To the company: conserves cash, suits cash deficiency and lender restrictions. Limitations: no effect on shareholders' wealth; costlier to administer.",
+     "exam_angle": "ICAI splits every list between shareholders and company — mirror that split in the answer."
+    }
+   ],
+   "keywords": [
+    "not in kind",
+    "treasury shares",
+    "cancelled shares",
+    "effect on shareholders' wealth is same",
+    "capitalising past earnings",
+    "division of corporate pie",
+    "share premium and free reserves"
+   ],
+   "memory": {
+    "trick": "**Cash, buyback, bonus.** The first two hand over money; only the first reduces the share price. The third hands over paper and changes nothing but the number of certificates.",
+    "key": [
+     ["Cash dividend", "Cash, cheque, warrant, draft, pay order, ECS — but not in kind"],
+     ["Share repurchase", "Treasury shares (re-issue) or cancelled shares (retired)"],
+     ["Equivalence", "HM Ltd: ₹2,000 of wealth either way"],
+     ["Stock dividend", "Shares in lieu of cash; net worth unchanged, reserves capitalised"],
+     ["Bonus from", "Share premium and free reserves only"],
+     ["Porterfield", "A division of corporate pie into a larger number of pieces"]
+    ],
+    "recall_trigger": "Cash, buyback, bonus — only the paper one changes nothing"
+   },
+   "mistakes": [
+    "Omitting share repurchase from the forms of dividend; ICAI lists it second.",
+    "Saying a bonus issue increases net worth; it only moves reserves into share capital.",
+    "Allowing a bonus issue out of a revaluation capital reserve, which SEBI's conditions forbid.",
+    "Claiming a stock dividend makes shareholders better off; ICAI says it has no value for them."
+   ],
+   "compare": {
+    "title": "Cash dividend against share repurchase on ICAI's own HM Ltd figures (SM §3)",
+    "headers": [
+     "",
+     "Cash dividend of ₹50 a share",
+     "Repurchase of ₹50 crores of shares"
+    ],
+    "rows": [
+     ["Shares held after the event", "10", "6 (4 of the 10 repurchased)"],
+     ["Cash received", "₹500", "₹800"],
+     ["Market price after", "₹150 (ex-dividend)", "₹200 (unchanged)"],
+     ["Value of shares held", "₹1,500", "₹1,200"],
+     ["Total wealth", "**₹2,000**", "**₹2,000**"]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 8 §10: share buyback in its own right",
+    "🔗 FM Ch 8 §9: stock splits, which are not the same as a stock dividend",
+    "🔗 FM Ch 8 §8.1: MM's point that there is no meaningful distinction between dividend and share repurchases"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Explain any common form of dividend (2 marks)",
+     "Mention any one advantage of stock dividend, to the company as well as to the investor (2 marks)",
+     "State the conditions SEBI imposes on a bonus issue (2–4 marks)"
+    ],
+    "approach": [
+     "Name the form, then say what it is, then one consequence — three lines per form",
+     "Where the question says 'to the company as well as to the investor', give one of each and label them"
+    ],
+    "official_pattern": "MTP-J25-S2-FQ4c-OR; MTP-J26-S2-FQ4c-OR.",
+    "time_tip": "2 marks ≈ 3.5 minutes (study guidance)."
+   },
+   "official_questions": [
+    {
+     "id": "MTP-J25-S2-FQ4c-OR",
+     "marks": 2,
+     "status": "VERIFIED",
+     "format": "Descriptive",
+     "question": "MENTION any one advantage of stock dividend — to the company as well as to the investor. (2 Marks)",
+     "answer_points": [
+      "==**To the investor (shareholder).** **No tax is payable by shareholders on a stock dividend received from a domestic company**, because it is treated not as dividend but as a **capital asset** under the Income Tax Act, 1961 — so the benefit arrives untaxed at the time of receipt.==",
+      "Any one of ICAI's other two shareholder advantages also answers: a policy of paying a **fixed dividend per share**, continued after the stock dividend, **increases the total cash dividend** in future, because there are now more shares; and bonus shares **improve liquidity**, since a high-priced share is broken into lower-priced shares that can be sold in part.",
+      "==**To the company.** **Conservation of cash for meeting profitable investment opportunities** — the shareholders are rewarded without any cash leaving the business.==",
+      "ICAI's second company advantage is equally available: a stock dividend is **suitable in case of cash deficiency and where lenders have imposed restrictions on paying cash dividend**.",
+      "**The two-mark discipline.** The question asks for **one** of each, so give one shareholder advantage and one company advantage, each in a single labelled sentence. ==Listing all five earns the same two marks and costs three minutes.=="
+     ],
+     "conclusion": "To the investor: no tax, because it is a capital asset rather than dividend. To the company: cash is conserved for investment.",
+     "keywords": [
+      "no tax payable by shareholders",
+      "capital asset",
+      "conservation of cash",
+      "cash deficiency and lender restrictions"
+     ]
+    },
+    {
+     "id": "MTP-J26-S2-FQ4c-OR",
+     "marks": 2,
+     "status": "VERIFIED",
+     "format": "Descriptive",
+     "question": "EXPLAIN any common form of dividend. (2 Marks)",
+     "answer_points": [
+      "==**Cash dividend is the most common form of dividend.** 'Cash' here means **cash, cheque, warrant, demand draft, pay order or payment directly through Electronic Clearing Service (ECS)** — ==**but not in kind**==.",
+      "**Why it is the default form.** It converts part of profit after tax directly into money in the shareholder's hands. Its cost is that it **reduces the company's cash** and so the funds available for profitable investment, and it drives the share to its **ex-dividend price** on the following day.",
+      "**If the question is read as inviting more than one form**, the other two are: **share repurchase**, where the company buys back its own shares with corporate cash, the shares being held as **treasury shares** for re-issue or **cancelled** and retired — and ICAI notes that, other things equal, **its effect on shareholders' wealth is the same as a cash dividend**; and **stock dividend (bonus shares)**, a distribution of shares in lieu of cash, which **capitalises reserves without affecting total net worth**.",
+      "**The answer in two marks.** Name cash dividend, say precisely what cash includes and that it excludes payment in kind, and add one line on its effect. ==Naming the form without ICAI's own list of instruments is the half-mark most often lost here.=="
+     ],
+     "conclusion": "Cash dividend — cash, cheque, warrant, demand draft, pay order or ECS, but never in kind.",
+     "keywords": [
+      "most common form",
+      "ECS",
+      "not in kind",
+      "share repurchase",
+      "stock dividend"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-F08.03-01",
+     "angle": "Equivalence",
+     "difficulty": "Hard",
+     "question": "HM Ltd has 1 crore shares quoted at ₹200 and will return ₹50 crores to shareholders, either as a ₹50 dividend per share or by repurchasing shares at ₹200. For a holder of 10 shares, the wealth after the event is:",
+     "options": {
+      "A": "₹2,000 under the dividend and ₹1,200 under the repurchase",
+      "B": "₹1,500 under the dividend and ₹2,000 under the repurchase",
+      "C": "₹2,000 under either route",
+      "D": "₹2,000 under the dividend and ₹2,400 under the repurchase"
+     },
+     "answer": "C",
+     "explanation": "SM §3: under the dividend the ex-dividend price is ₹150, so the holder has ₹500 of cash and ₹1,500 of shares. Under the repurchase, 25 lakh of the 1 crore shares go, so 4 of the 10 are sold for ₹800, market capitalisation falls from ₹200 crores to ₹150 crores over 75 lakh shares leaving the price at ₹200, and the 6 remaining shares are worth ₹1,200. Both routes give ₹2,000, which is why ICAI says the effect on shareholders' wealth is the same.",
+     "why_wrong": {
+      "A": "₹1,200 is only the share component of the repurchase route; the ₹800 of cash is part of the wealth too.",
+      "B": "₹1,500 is only the share component of the dividend route.",
+      "D": "No route creates wealth; returning cash cannot."
+     },
+     "trap": "In the dividend route the price falls and the share count is unchanged; in the repurchase route the price is unchanged and the share count falls. Count the cash in both.",
+     "concept": "F08.03"
+    },
+    {
+     "id": "MCQ-F08.03-02",
+     "angle": "Bonus issue",
+     "difficulty": "Moderate",
+     "question": "Under the SEBI conditions set out in the study material, a bonus issue may be made out of:",
+     "options": {
+      "A": "Capital reserve arising on revaluation of fixed assets",
+      "B": "The current year's profit before tax",
+      "C": "Any reserve, provided the Articles of Association permit it",
+      "D": "Share premium and free reserves"
+     },
+     "answer": "D",
+     "explanation": "SM §3: bonus shares are to be issued only from share premium and free reserves and not from capital reserve on account of fixed assets revaluation. The issue must also be authorised by the Articles, must not be in lieu of cash dividend, requires all partly paid shares to be made fully paid, and is barred where the company has defaulted on loan, interest or statutory dues.",
+     "why_wrong": {
+      "A": "Expressly excluded by ICAI.",
+      "B": "A bonus issue capitalises reserves, not the current year's pre-tax profit.",
+      "C": "Authorisation by the Articles is a separate condition and does not widen the permitted sources."
+     },
+     "trap": "Authorisation by the Articles is necessary but not sufficient — the source of the reserve matters independently.",
+     "concept": "F08.03"
+    }
+   ],
+   "recap": [
+    "Three forms: cash dividend, share repurchase, and stock dividend (bonus shares).",
+    "Cash means cash, cheque, warrant, draft, pay order or ECS — never in kind.",
+    "Cash dividend and share repurchase leave shareholders' wealth the same; HM Ltd's ₹2,000 proves it.",
+    "A bonus issue capitalises reserves out of share premium and free reserves only, leaving net worth unchanged."
+   ]
+  },
+  {
+   "code": "F08.04 + F08.05",
+   "title": "4–5 Significance of Dividend Policy, and Retained Earnings and Growth",
+   "activity": "Moderate",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 0",
+   "understand": [
+    "==**Dividend policy is governed by two decisions** (SM §4): the **long term financing decision** and the **wealth maximization decision**.==",
+    "==**(i) Long Term Financing Decision.** Equity can be raised **externally** through a new issue or generated **internally** through retained earnings, and ==**retained earnings are preferable because they do not involve any floatation costs**==. Payment of cash dividend reduces the funds available to finance profitable investment opportunities, thereby **restricting financing options**. The decision therefore rests on two questions: ==**1. Does the organisation have opportunities in hand to invest the profit, if retained? 2. Will the return on such investment (ROI) be higher than the expectations of shareholders, i.e. Ke?**==",
+    "==**(ii) Wealth Maximization Decision.** The problem is what **Dividend Payout ratio (D/P)** to set in relation to the **Market price of the shares (MPS)**. ICAI gives two grounds: **because of market imperfections and uncertainty, shareholders give more importance to near dividends than to future dividends and capital gains**, so payment of dividends **influences the market price directly** — ==**higher dividends increase the value of shares and low dividends decrease it**== — and **a proper balance has to be struck between these two approaches**.==",
+    "==And the counterweight: **when the firm increases its retained earnings, shareholders' dividends decrease and the market price is affected**; but **use of retained earnings to finance profitable investments increases the future earnings per share**, because shareholders expect those investments to produce higher returns later. **On the other hand, an increase in dividends may cause the firm to forego investment opportunities for lack of funds and thereby decrease future earnings per share.**==",
+    "==ICAI's conclusion: **management should develop a dividend policy which divides net earnings into dividends and retained earnings in an optimum way so as to achieve the objective of wealth maximization for shareholders** — a policy influenced by the investment opportunities available and by the value of dividends against capital gains to shareholders.==",
+    "==**§5 Relationship between retained earnings and growth.** It is captured in one equation: ==**Growth (g) = br**==, where **g** is the growth rate of the firm, **b** the **retention ratio** and **r** the **rate of return on investment**.==",
+    "**SM Example 1, which is the whole of §5.** A Ltd and B Ltd each have capital employed of ₹50,00,000 in equity shares of ₹100, each earning 20%, with the same capital structure and the same ROI but different dividend policy. A Ltd distributes **100%** of earnings; B Ltd distributes **50%**.\n\n| | A Ltd | B Ltd |\n|---|---|---|\n| Previous year earnings @ 20% | ₹10,00,000 | ₹10,00,000 |\n| Dividend | ₹10,00,000 | ₹5,00,000 |\n| Retained earnings | Nil | ₹5,00,000 |\n| Capital employed next year | ₹50,00,000 | ₹55,00,000 |\n| **Earnings next year @ 20%** | **₹10,00,000** | **₹11,00,000** |\n\n==B Ltd's earnings grow 10%, which is exactly **b × r = 0.50 × 20% = 10%**. A Ltd, retaining nothing, grows at **0 × 20% = 0%**.==",
+    "That identity is the hinge of the whole chapter. **Gordon's denominator is Ke − br, so every change in the payout ratio changes the growth rate as well as the dividend** — which is why in Gordon's model a higher payout can lower the price even though more cash is being handed over."
+   ],
+   "example": "January 2026's RTP makes the identity do real work: ABC Industries pays a 40% dividend, so b = 60% and with r = 25% the growth rate is 15%; cut the retention to 40% and g falls to 10%. The Gordon price falls from ₹92 to ₹66 — not because the dividend fell, but because growth did.",
+   "provisions": [
+    {
+     "ref": "Two decisions governing dividend policy (SM §4)",
+     "status": "VERIFIED",
+     "requirement": "Long term financing decision and wealth maximization decision.",
+     "exam_angle": "Name both and give the two questions ICAI attaches to the first — opportunities in hand, and ROI against Ke."
+    },
+    {
+     "ref": "Growth and retention (SM §5)",
+     "status": "VERIFIED",
+     "requirement": "g = br, where b is the retention ratio and r the rate of return on investment.",
+     "exam_angle": "Used in every Gordon computation; a payout change always changes g as well as D."
+    }
+   ],
+   "keywords": [
+    "do not involve any floatation costs",
+    "opportunities in hand",
+    "ROI higher than Ke",
+    "near dividends",
+    "forego investment opportunities",
+    "g = br"
+   ],
+   "memory": {
+    "trick": "**Retain and grow, or pay and stand still.** Retention times return is growth — so the payout ratio is a growth decision disguised as a cash decision.",
+    "key": [
+     ["Decision 1", "Long term financing — retained earnings avoid floatation cost"],
+     ["Its two questions", "Are there opportunities? Is ROI above Ke?"],
+     ["Decision 2", "Wealth maximization — the D/P ratio against MPS"],
+     ["Near dividends", "Shareholders value them above future dividends and capital gains"],
+     ["Growth", "g = b × r"],
+     ["SM Example 1", "B Ltd retains 50% at r = 20% → grows 10%; A Ltd retains nothing → grows 0%"]
+    ],
+    "recall_trigger": "Retention times return is growth"
+   },
+   "mistakes": [
+    "Writing g = r rather than g = br, which overstates growth whenever anything is paid out.",
+    "Changing the payout ratio in a Gordon computation without changing g.",
+    "Saying retained earnings are cheaper than equity because they carry no cost; ICAI's reason is that they carry no floatation cost.",
+    "Giving only the wealth maximization decision when the question asks about the significance of dividend policy."
+   ],
+   "links": [
+    "🔗 FM Ch 8 §8.2: Gordon's model, whose denominator is Ke − br",
+    "🔗 FM Ch 4 §8: the cost of retained earnings against the cost of fresh equity",
+    "🔗 FM Ch 7 §9.1: the profitable investment opportunities that retention finances"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Explain the significance of dividend policy (4 marks)",
+     "Explain the relationship between retained earnings and growth (2 marks)"
+    ],
+    "approach": [
+     "Two headed paragraphs for §4, with the two questions quoted under the first",
+     "For §5, give g = br, define all three terms, and illustrate with ICAI's two companies"
+    ],
+    "official_pattern": "Not asked as a standalone part; g = br is used in every Gordon question in the chapter.",
+    "time_tip": "4 marks ≈ 7 minutes (study guidance)."
+   },
+   "mcqs": [
+    {
+     "id": "MCQ-F08.05-01",
+     "angle": "Computation",
+     "difficulty": "Easy",
+     "question": "A company earns a return on investment of 20% and distributes 50% of its earnings. Its growth rate is:",
+     "options": {
+      "A": "10%",
+      "B": "20%",
+      "C": "40%",
+      "D": "Nil, because half the earnings leave the business"
+     },
+     "answer": "A",
+     "explanation": "SM §5: g = br, so with a retention ratio of 0.50 and r of 20% the growth rate is 0.50 × 20% = 10%. ICAI's Example 1 shows the same company's earnings rising from ₹10,00,000 to ₹11,00,000 — a 10% rise.",
+     "why_wrong": {
+      "B": "20% is r, the growth a company would achieve only by retaining everything.",
+      "C": "Dividing r by the retention ratio rather than multiplying.",
+      "D": "The retained half still earns 20%, so the business does grow."
+     },
+     "trap": "g is r scaled down by the part of earnings that stays in the business, never r itself.",
+     "concept": "F08.05"
+    },
+    {
+     "id": "MCQ-F08.04-01",
+     "angle": "Significance",
+     "difficulty": "Moderate",
+     "question": "The study material's reason for preferring retained earnings to a fresh issue of equity is that retained earnings:",
+     "options": {
+      "A": "Carry no cost to the company",
+      "B": "Do not involve any floatation costs",
+      "C": "Are not subject to shareholders' approval",
+      "D": "Increase the debt-equity ratio"
+     },
+     "answer": "B",
+     "explanation": "SM §4(i): equity can be raised externally through an issue of new equity shares or generated internally through retained earnings, and for equity, retained earnings are preferable because they do not involve any floatation costs (issue expenses).",
+     "why_wrong": {
+      "A": "Retained earnings do have a cost — Chapter 4 treats it as the cost of equity.",
+      "C": "Approval is not the reason ICAI gives.",
+      "D": "Retention increases equity, so it reduces the debt-equity ratio."
+     },
+     "trap": "Option A is the common misconception; ICAI's reason is narrower and specific — issue expenses.",
+     "concept": "F08.04"
+    }
+   ],
+   "recap": [
+    "Dividend policy is governed by the long term financing decision and the wealth maximization decision.",
+    "Retained earnings are preferred to a fresh issue because they avoid floatation cost; the test is whether ROI exceeds Ke.",
+    "Shareholders value near dividends above future dividends and capital gains, so payout influences price directly.",
+    "g = br — retention times return. SM Example 1: retaining 50% at r = 20% gives 10% growth."
+   ]
+  },
+  {
+   "code": "F08.06",
+   "title": "6 Determinants of Dividend Decisions",
+   "activity": "Moderate",
+   "update_sensitive": true,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 0",
+   "understand": [
+    "==**Nine factors affect the dividend policy** (SM §6):==",
+    "==**1. Availability of funds** — if the business needs funds, retained earnings could be a good source, because they **save floatation cost and prevent dilution of control** which a new public issue would cause. **2. Cost of capital** — if the financing requirement is to be met through **debt**, a relatively cheaper source, it would be preferable to **distribute more dividend**; if through a **fresh issue of equity**, it is better to use retained earnings as much as possible. **3. Capital structure** — an **optimum debt-equity ratio** should also be considered.==",
+    "==**4. Stock price** — meaning market price of the shares: generally **higher dividends increase market value and low dividends decrease the value**. **5. Investment opportunities in hand** — if there are opportunities, the company may prefer to **retain more earnings**. **6. Trend of industry** — investors depend on some industries for regular dividend income, so in such cases **firms have to pay dividend in order to survive in the market**.==",
+    "==**7. Expectation of shareholders** — shareholders fall into two categories, **those who invest for regular income and those who invest for growth**, and ==**generally the investor prefers current dividend over the future growth**==.==",
+    "==**8. Legal constraints — Section 123 of the Companies Act, 2013.** Dividend shall be declared or paid by a company for any financial year **only**: **(a)** out of the profits of the company for that year arrived at after providing for depreciation; **(b)** out of the profits of any previous financial year or years arrived at after providing for depreciation and remaining undistributed; **(c)** out of both; or **(d)** out of money provided by the Central Government or a State Government for the payment of dividend in pursuance of a guarantee given by that Government.==\n==And a proviso worth quoting: while computing profits for payment of dividends, **any amount representing unrealised gains, notional gains or revaluation of assets, and any change in the carrying amount of an asset or a liability on measurement at fair value, shall be excluded**.==",
+    "==**9. Taxation.** Before 1st April 2020, under Section 115-O of the Income Tax Act, 1961, dividend was subject to **dividend distribution tax (DDT) in the hands of the company**, and dividend on which DDT was paid was exempt in the hands of the shareholder under section 10(34). By the amendment made by the **Finance Act 2020**, the exemption under section 10(34) does not apply to dividend received on or after **1st April 2020**, and dividend income from shares held as investment is **taxable under the head 'Other income' at the applicable slab rate**. ==**In short, dividend is now taxable in the hands of the investor.**==== ==**Update-sensitive:** the taxation and legal paragraphs follow the edition in force; verify them against the edition applicable to the January 2027 attempt.==",
+    "**How to hold nine factors.** Six of them are internal money questions — can we fund it, what does funding cost, what does it do to the capital structure, what does it do to the price, do we have somewhere better to put it, what do our shareholders want. The other three are external constraints — the industry's habit, the Companies Act, and the tax code."
+   ],
+   "example": "A mature pharmaceutical company whose investors buy it for income (factors 6 and 7) will keep paying even in a thin year, drawing on undistributed profits of earlier years as section 123(b) allows. A young company with projects in hand (factor 5) will retain, and may declare a bonus issue to keep shareholders satisfied without parting with cash.",
+   "provisions": [
+    {
+     "ref": "Determinants of dividend decisions (SM §6)",
+     "status": "VERIFIED",
+     "requirement": "Availability of funds; cost of capital; capital structure; stock price; investment opportunities in hand; trend of industry; expectation of shareholders; legal constraints; taxation.",
+     "exam_angle": "Nine factors — a 4-mark question expects all nine named with a clause each, not four explained at length."
+    },
+    {
+     "ref": "Section 123, Companies Act 2013 (SM §6(8))",
+     "status": "VERIFIED",
+     "requirement": "Dividend only out of the year's profits after depreciation, previous years' undistributed profits after depreciation, both, or money provided by Government under a guarantee; unrealised and notional gains and fair-value changes excluded.",
+     "exam_angle": "Four sources plus the exclusion proviso; the proviso is the part most often omitted."
+    },
+    {
+     "ref": "Taxation of dividend (SM §6(9))",
+     "status": "VERIFIED",
+     "requirement": "DDT under section 115-O applied before 1 April 2020; since the Finance Act 2020 dividend is taxable in the hands of the investor under 'Other income' at slab rates.",
+     "exam_angle": "State the before-and-after, and name the Finance Act 2020 as the change."
+    }
+   ],
+   "keywords": [
+    "prevention of dilution of control",
+    "trend of industry",
+    "expectation of shareholders",
+    "Section 123",
+    "remaining undistributed",
+    "unrealised gains, notional gains",
+    "Finance Act 2020",
+    "taxable in the hands of investor"
+   ],
+   "memory": {
+    "trick": "**Six money questions, three outside constraints.** Funds · cost · structure · price · opportunities · shareholders — then industry, the Act, and tax.",
+    "key": [
+     ["Availability of funds", "Retention saves floatation cost and dilution of control"],
+     ["Cost of capital", "Debt financing → pay more dividend; equity issue → retain"],
+     ["Capital structure", "Keep the optimum debt-equity ratio"],
+     ["Stock price", "Higher dividend generally raises market value"],
+     ["Opportunities in hand", "Retain more"],
+     ["Trend of industry", "Some industries must pay to survive"],
+     ["Expectation", "Income investors against growth investors; current dividend usually preferred"],
+     ["Legal", "Section 123 — this year's profit, past undistributed profit, both, or Government money"],
+     ["Taxation", "Since 1 April 2020 taxable in the investor's hands at slab rates"]
+    ],
+    "recall_trigger": "Six inside, three outside"
+   },
+   "mistakes": [
+    "Reversing factor 2: debt financing allows a larger dividend, because the funds come from elsewhere.",
+    "Omitting the section 123 proviso excluding unrealised gains, notional gains and fair-value changes.",
+    "Saying dividend is tax-free in the shareholder's hands; that ended on 1 April 2020.",
+    "Explaining three factors at length in a 4-mark answer and leaving six unnamed."
+   ],
+   "links": [
+    "🔗 FM Ch 8 §7: the practical considerations, which develop constraints (b) and the payout policies",
+    "🔗 FM Ch 4 §9: the cost of capital that factor 2 weighs",
+    "🔗 FM Ch 5 §3: the optimum capital structure of factor 3"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Discuss the determinants of dividend decisions (4 marks)",
+     "State the sources out of which dividend may be declared under the Companies Act, 2013 (2 marks)"
+    ],
+    "approach": [
+     "Nine numbered one-line points; expand only where the question asks for a discussion",
+     "For section 123 give the four sources and then the exclusion proviso"
+    ],
+    "official_pattern": "Not asked as a standalone part in Paper 6's official set; the factors supply the comment marks in every dividend-policy case scenario.",
+    "time_tip": "4 marks ≈ 7 minutes (study guidance)."
+   },
+   "mcqs": [
+    {
+     "id": "MCQ-F08.06-01",
+     "angle": "Legal",
+     "difficulty": "Moderate",
+     "question": "Under Section 123 of the Companies Act, 2013 as set out in the study material, dividend for a financial year may NOT be declared out of:",
+     "options": {
+      "A": "Profits of the company for that year after providing for depreciation",
+      "B": "Profits of previous financial years after depreciation and remaining undistributed",
+      "C": "Unrealised gains arising on measurement of an asset at fair value",
+      "D": "Money provided by the Central Government for payment of dividend under a guarantee given by it"
+     },
+     "answer": "C",
+     "explanation": "SM §6(8): dividend may be declared out of the year's profits after depreciation, out of previous years' undistributed profits after depreciation, out of both, or out of money provided by Government under a guarantee. The proviso adds that while computing profits for payment of dividends, any amount representing unrealised gains, notional gains or revaluation of assets, and any change in carrying amount on fair-value measurement, shall be excluded.",
+     "why_wrong": {
+      "A": "That is source (a).",
+      "B": "That is source (b).",
+      "D": "That is source (d)."
+     },
+     "trap": "Three of the four options are ICAI's own permitted sources; the fourth is what the proviso strikes out.",
+     "concept": "F08.06"
+    },
+    {
+     "id": "MCQ-F08.06-02",
+     "angle": "Cost of capital",
+     "difficulty": "Moderate",
+     "question": "According to the study material, where a company's financing requirements are to be met through debt rather than a fresh issue of equity, it would be preferable to:",
+     "options": {
+      "A": "Retain all earnings, because debt increases financial risk",
+      "B": "Declare a bonus issue instead of a cash dividend",
+      "C": "Distribute more dividend, debt being a relatively cheaper source of finance",
+      "D": "Reduce the dividend to maintain the optimum debt-equity ratio"
+     },
+     "answer": "C",
+     "explanation": "SM §6(2): if the financing requirements are to be executed through debt, a relatively cheaper source of finance, then it would be preferable to distribute more dividend; on the other hand, if the financing is to be done through a fresh issue of equity shares, it is better to use retained earnings as much as possible.",
+     "why_wrong": {
+      "A": "Financial risk is a capital-structure consideration (factor 3), not ICAI's point here.",
+      "B": "A bonus issue is a form of dividend, not a response to the cost of debt.",
+      "D": "Capital structure is factor 3 and is considered separately."
+     },
+     "trap": "The direction is counter-intuitive: cheap debt releases earnings for distribution rather than calling for them to be retained.",
+     "concept": "F08.06"
+    }
+   ],
+   "recap": [
+    "Nine determinants: availability of funds, cost of capital, capital structure, stock price, investment opportunities, trend of industry, expectation of shareholders, legal constraints, taxation.",
+    "Cheap debt financing argues for a larger dividend; a fresh equity issue argues for retention.",
+    "Section 123 permits dividend out of this year's profits after depreciation, past undistributed profits, both, or Government money under a guarantee — and excludes unrealised and notional gains.",
+    "Since 1 April 2020 dividend is taxable in the investor's hands at slab rates, DDT having gone."
+   ]
+  }
+ ]
+}

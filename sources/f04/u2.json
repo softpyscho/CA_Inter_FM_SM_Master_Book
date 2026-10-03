@@ -571,7 +571,7 @@
     "approach": [
      "Present the redemption value decision as a two-line working note before anything else"
     ],
-    "official_pattern": "PYQ-M24-Q2a; PYQ-J25-Q2a; PYQ-J26-Q1c; PYQ-M26-Q1b; MTP-M25-S2-FQ1b; MTP-S25-S1-FQ3a.",
+    "official_pattern": "PYQ-M24-Q2a; PYQ-J25-Q2a; PYQ-J26-MCQ1; PYQ-M26-Q1b; MTP-M25-S2-FQ1b; MTP-S25-S1-FQ3a.",
     "time_tip": "A convertible line inside a WACC question ≈ 3 to 4 minutes (study guidance)."
    },
    "write": {
@@ -808,7 +808,7 @@
     "approach": [
      "Write the formula, note that no tax adjustment applies, then substitute"
     ],
-    "official_pattern": "PYQ-M24-Q2a; PYQ-S24-Q2a; PYQ-J26-Q1c.",
+    "official_pattern": "PYQ-M24-Q2a; PYQ-S24-Q2a; PYQ-J26-MCQ1.",
     "time_tip": "A 1 to 2 mark sub-part ≈ 2 to 4 minutes (study guidance)."
    },
    "write": {

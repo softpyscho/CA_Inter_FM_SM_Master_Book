@@ -13,7 +13,7 @@ Updated 03-10-2026. Target attempt: January 2027.
 | SM Chapter 1 written and merged | Done — `book/Ch10.json` (13/13 headings, 102/102 questions placed) |
 | Builder, merge/validate, bookmark, index-link and scan scripts | Done — adapted from the Audit book for Paper 6's two sections |
 | Review PDF (front matter + both chapters) | Done — `CA_Inter_FMSM_Master_Book.pdf` |
-| FM Chapters 2–7 written and merged | Done — `book/Ch02.json` to `book/Ch07.json`; see the progress ledger below |
+| FM Chapters 2–8 written and merged | Done — `book/Ch02.json` to `book/Ch08.json`; see the progress ledger below |
 
 ## Chapter numbering used in the book
 
@@ -22,8 +22,8 @@ Topic codes: `F01.07.01` prints as "FM Ch 1 §7.1"; `S01.05.02` prints as "SM Ch
 
 ## Next steps (updated 03-10-2026)
 
-1. FM Ch 8 Dividend Decision, then FM Ch 9 Management of Working Capital (68 register headings, the
-   largest chapter in the paper). After Ch 9, run the back-fill pass listed at the end of this file.
+1. FM Ch 9 Management of Working Capital (68 register headings, the largest chapter in the paper).
+   After Ch 9, run the back-fill pass listed at the end of this file. FM is then complete.
 2. SM Ch 2–5.
 3. Full front matter: chapter weightage chart from the mark counts, whole-paper trends,
    "changes to watch", diagnostic test.
@@ -119,6 +119,52 @@ Topic codes: `F01.07.01` prints as "FM Ch 1 §7.1"; `S01.05.02` prints as "SM Ch
   capital, so it belongs to FM Ch 9, not FM Ch 7. MTP-J26-S2-FQ4b (meaning of cost of capital) and
   MTP-S25-S2-FQ2a (ABC Engineering, risk-return profile) were checked against Ch 7 and belong to
   FM Ch 4 and FM Ch 6 respectively.
+
+## FM Ch 8 — Dividend Decisions — DONE (03-10-2026)
+- sources/f08/u1..u4.json -> book/Ch08.json
+- SM headings 16/16 · official atoms 38/38 · 10 topic blocks · 38 official question entries
+- Generated MCQ keys A10 B10 C10 D10 (40) · max deviation 0.0%
+- **Two topic blocks carry the same register code, F08.10**, because SM §8.2 "Dividend's Relevance
+  Theory" holds both Walter's Model and Gordon's Model and 24 of the 38 atoms are primary to it.
+  This is safe: `renderConcept` in book/build_fmsm_book.js prints only `c.title`, never the code, so
+  the two render as "8.2 Dividend's Relevance Theory (i) — Walter's Model" and "(ii) — Gordon's
+  Model, the Bird-in-hand Theory and the Dividend Discount Model".
+- **Lintner's Model is placed in §7 (F08.07), not §8.** The SM body puts it under Practical
+  Considerations in Dividend Policy and the §8.1 diagram shows only MM, Walter and Gordon; only the
+  chapter-overview diagram on the opening page lists Lintner as a fourth theory. The register follows
+  the body. MTP-S24-S1-FQ3b therefore carries primary code F08.07 — see OV-F08-01.
+- Questions that value a share from a dividend and a growth rate are treated as Gordon / the Dividend
+  Discount Model under F08.10, whatever the question calls them.
+- Open items: OV-F08-01 (Lintner in §7 against the overview diagram), OV-F08-02 (RTP Sep 2026 Q6
+  tests the "radical position", which is not in the current SM at all — printed with the theory
+  supplied), OV-F08-03 (RTP May 2025 Q8 gives three probabilities summing to 1.40 and ICAI's answer
+  still reports an expected ROI of 21% — reproduced, with the normalised 15% noted), OV-F08-04
+  (ICAI's May 2024 answers print no mark allocation for Q3(b) and QP-M24.pdf has no text layer —
+  marks null, evidence table shows a dash, the same position as Ch 7's Q3(a)), OV-F08-05 (SA-S25
+  Q2(b) Saraswati Ltd renders its data column out of order; the arithmetic settles the reading),
+  OV-F08-06 (RTP Jan 2026 Q10 "retention ratio reduced by 20 percent" taken by ICAI as 20 percentage
+  points), OV-F08-07 (Walter's and Gordon's tables word the r = Ke case in opposite terms — both
+  reproduced, neither harmonised, and the chapter test carries an MCQ on the distinction), OV-F08-08
+  (Gordon gives a nil price at 100% retention and very large prices as br approaches Ke — properties
+  of the model, flagged where they arise), OV-F08-09 (§3 and §6 taxation paragraphs are
+  edition-sensitive and marked update_sensitive), OV-F08-10 (MTP May 2026 S1 Zanshu Ltd is a buyback
+  financed by debt to change the capital structure — a Ch 5 question, already in atoms_F05.json).
+- Every case MCQ answer field was checked against its own final reasoning line before merge, and all
+  back-matter arithmetic was re-derived independently. One chapter-test MCQ had options C and D
+  swapped purely to bring the key balance to an exact 25% each; its explanation references only
+  option A, so no text changed.
+- Chapter 4 defect found and fixed while scoping this chapter: the atom `PYQ-J26-Q1c` in
+  `sources/atoms/atoms_F04.json` was in fact SA-J26 FM **Part I Case Scenario I** (AB Infra Projects
+  Limited, MCQs 1–5), not Q1(c), and it occupied the id that Chapter 8 needs for the real Q1(c)
+  (PQR Ltd — Gordon and MM). Renamed to **`PYQ-J26-MCQ1`** across `atoms_F04.json` and
+  `sources/f04/u1..u3.json` (6 occurrences), and the pyq_table question text corrected from
+  "PQR Ltd: CAPM, irredeemable preference…" to name AB Infra Projects Limited. `book/Ch04.json`
+  regenerated; still ERRORS: none.
+- Tooling note unchanged from Ch 7: the docx builds clean (1,989,256 characters of text, zero leaked
+  internal ids, every PYQ/RTP/MTP label form rendering), but LibreOffice in the cloud container
+  cannot load any .docx the `docx` npm package produces, so **the PDF still needs `./make_pdf.ps1`
+  on Windows.**
+- Carried forward: nothing new. PYQ-S24-Q1b remains queued for FM Ch 9.
 
 ## Back-fill list found while scoping FM Ch 7 (coverage.py, 22-09-2026)
 These official questions belong to chapters already merged and were not in their atom files. Add them in a back-fill pass after FM Ch 9:
