@@ -17,6 +17,7 @@ Updated 03-10-2026. Target attempt: January 2027.
 | SM Chapter 2 written and merged | Done — `book/Ch11.json` (24/24 headings, 91/91 atoms placed) |
 | SM Chapter 3 written and merged | Done — `book/Ch12.json` (14/14 headings, 77/77 atoms placed) |
 | SM Chapter 4 written and merged | Done — `book/Ch13.json` (15/15 headings, 83/83 atoms placed) |
+| SM Chapter 5 written and merged | Done — `book/Ch14.json` (18/18 headings, 80/80 atoms placed); **Section B (SM) is complete** |
 
 ## Chapter numbering used in the book
 
@@ -25,14 +26,15 @@ Topic codes: `F01.07.01` prints as "FM Ch 1 §7.1"; `S01.05.02` prints as "SM Ch
 
 ## Next steps (updated 04-10-2026)
 
-1. SM Ch 5 (18 register headings) -> `book/Ch14.json`.
-2. Back-fill pass: the stray official questions listed at the end of this file (FM Ch 1, 3, 4, 5;
+**All fourteen chapters are now written and merged — Section A (FM Ch 1–9) and Section B (SM Ch 1–5).**
+
+1. Back-fill pass: the stray official questions listed at the end of this file (FM Ch 1, 3, 4, 5;
    SM Ch 3, 4, 5), then re-run `sources/coverage.py`.
-3. Full front matter: chapter weightage chart from the mark counts, whole-paper trends,
+2. Full front matter: chapter weightage chart from the mark counts, whole-paper trends,
    "changes to watch", diagnostic test.
-4. Back matter: cross-chapter cases, two mock exams, study plans, mistake book, 24-hour book,
+3. Back matter: cross-chapter cases, two mock exams, study plans, mistake book, 24-hour book,
    master question index, PYQ/RTP/MTP matrix, dashboard.
-5. Rebuild with `./make_pdf.ps1` (two passes so the index page numbers settle).
+4. Rebuild with `./make_pdf.ps1` (two passes so the index page numbers settle).
 
 ## Known gaps carried forward
 
@@ -428,6 +430,57 @@ repeated single question (five near-identical appearances), concentric vs conglo
 repeated distinguish (four), and BCG the most tested model (ten appearances, five of them MCQs).
 Four of the last five sittings carried a strategic-exit case at Q5.
 
+## SM Ch 5 — Strategy Implementation and Evaluation — DONE (04-10-2026)
+
+`book/Ch14.json` — 18/18 register headings, 80/80 official atoms placed, 11 topic blocks,
+28 official question entries, 24 official MCQs, 56 generated MCQs at
+`{'A': 14, 'B': 14, 'C': 14, 'D': 14}` — **0.0% deviation**, zero errors.
+**This completes Section B, and with it all fourteen chapters of the book.**
+
+Block layout (`sources/s05/u1..u6.json`):
+
+| Unit | Blocks | Codes |
+| --- | --- | --- |
+| u1 | 1–2 | `S05.01 + S05.02 + S05.03` (process and five stages), `S05.04` (formulation: strategic vs operational planning, strategic uncertainty) |
+| u2 | 3–4 | `S05.05 + S05.06` (implementation, the A-B-C-D and efficiency matrices, the difference table), `S05.07` (linkages and issues) |
+| u3 | 5–6 | `S05.08 + S05.09 + S05.10` (strategic change, Kurt Lewin, how digital transformation works), `S05.11 + S05.12` (the five SME best practices and the five pointers) |
+| u4 | 7–8 | `S05.13` (McKinsey 7S, 10 atoms), `S05.14` (Organization Structure, **18 atoms — the largest heading in the book**) |
+| u5 | 9–11 | `S05.15 + S05.16` (culture and strategic leadership), `S05.17` (strategic control), `S05.18` (strategic performance measures) |
+| u6 | — | back matter: 3 Confusing Concepts tables, 2 integrated cases, 15+6 chapter test, recall, revision, one-pager, verification (10 open items) |
+
+**The RTP chapter-label rule held again, and the count was corrected.** SM questions **15 and 16
+are Chapter 5** in all eight RTPs from May 2024 to September 2026. Note the correction recorded in
+`atoms_S05.json`: the note in `atoms_S04.json` says "all nine RTPs"; there are **eight** RTP files
+(M24, S24, J25, M25, S25, J26, M26, S26). The pattern itself is unaffected.
+
+**A wording trap worth carrying into the back-fill pass.** ICAI uses two near-identical phrasings
+for two different printed lists. *"Most preferred practices"* for a small or mid-sized business
+(Twaran, BrightWave, Nexora) → **§5.3.3's five best practices** (begin at the top; necessary and
+desired; reduce disruption; encourage communication; change is the norm). *"Key strategies for
+**navigating** change effectively"* (RTP-M24-SQ16) → **§5.3.4's five pointers** (specify aims;
+always communicate; be ready for resistance; implement gradually; offer assistance and training).
+The word *navigating* is §5.3.4's own heading, and the published answer to RTP-M24-SQ16 confirms
+it, so that atom is filed at `S05.12`, not `S05.11`.
+
+**Three stems that read like Chapter 5 were excluded** after reading the published answer:
+`MTP-S24-S1-SQ1c` (FreshDelight — market development), `MTP-S25-S1-SQ1c` (ZephyrFit — divestment)
+— both now placed in SM Ch 4 — and `MTP-M24-S2-SQ1c` (GreenThrift — threat of new entrants,
+SM Ch 2). **Two atoms were moved in**: `PYQ-M24-Q5a` (BOYA Ltd., McKinsey 7S with limitations) and
+`PYQ-M25-MCQ15` (key: special alert control).
+
+**Extractor notes for the back-fill pass.** `qa.py` returns a wrong fragment for `PYQ-M26-Q8a`, so
+that stem and answer were read directly from `sources/sa/SA-M26.txt` (lines 1694 and 1712 onward).
+`RTP-J25-SMCQ1-ii` and `-iii` have truncated option lists in `mcqd.py` output. And, as recorded
+under SM Ch 4, `sa_smcq.py` does not cover SA-S24 at all, whose SM answer key sits under the
+**second** `Answer Key` heading of that file.
+
+**The chapter's question profile**, for the front-matter weightage work: the most repeated question
+in the chapter is the five **pointers for navigating change** (four appearances); the most repeated
+case is **PQR Ltd.'s SBU restructuring** (four); **SPM** carries nine atoms across three different
+lists (six types, four reasons, four selection factors), and **organization structure** eighteen,
+of which the SBU takes seven and the matrix five. The **McKinsey 7S** is the most MCQ-heavy heading
+in the paper, with seven of its ten atoms being MCQs. Nothing in the chapter is computational.
+
 ## Back-fill list found while scoping FM Ch 7 (coverage.py, 22-09-2026)
 These official questions belong to chapters already merged and were not in their atom files. Add them in a back-fill pass after FM Ch 9:
 - MTP-J26-S2-FQ4b (meaning of cost of capital + three reasons it matters) -> FM Ch 4
@@ -475,3 +528,23 @@ in `atoms_S04.json`. Still outstanding for SM Ch 5:
 - PYQ-S24-MCQ10 (product life cycle, maturity stage, key B) -> SM Ch 2 (S02.11)
 - PYQ-S24-MCQ12 (focus differentiation strategy, key C) -> SM Ch 3 (S03.14)
 - MTP-M24-S2-SQ1c (threat of new entrants) -> SM Ch 2; MTP-J25-S2-SQ1c (focused differentiation) -> SM Ch 3
+
+## Back-fill list found while building SM Ch 5 (04-10-2026)
+The SM Ch 5 sweep covered **every** unplaced SM Part-I item and descriptive sub-part. Everything
+belonging to Ch 4 was placed there (19 atoms across three patches). What remains belongs to
+SM Ch 1, 2 and 3 and is the full input to task #18:
+
+**To SM Ch 2:** PYQ-S24-MCQ10 (product life cycle, maturity, key B) · MTP-M24-S2-SQ1c (threat of
+new entrants) · RTP-M24-SMCQ1-ii (countering innovation risk with value-added services, key b)
+**To SM Ch 3:** RTP-M24-SMCQ5 (Mendelow, key b) · RTP-S24-SMCQ4 (core competency areas, key d) ·
+RTP-M26-SMCQ5 (differentiation, key c) · PYQ-M26-MCQ14 (best-cost provider, key B) ·
+PYQ-S24-MCQ12 (focus differentiation, key C) · PYQ-J25-MCQ16 (internal analysis, key B) ·
+PYQ-J26-MCQ10 (strength, key C) · PYQ-M26-MCQ9 (initial competitive strategy, key C) ·
+RTP-J26-SMCQ1-v (differentiation, key b) · RTP-S26-SMCQ1-iii (best-cost, key c) ·
+RTP-S25-SMCQ3 (SWOT, key b) · RTP-S25-SMCQ4 (Mendelow, key c) · RTP-S25-SMCQ1-iii ·
+MTP-J25-S2-SQ1c (focused differentiation) · PYQ-J25-MCQ12 and MCQ13 (value chain) ·
+PYQ-J26-MCQ16 (synchro-marketing, key D)
+**To SM Ch 1 or 2, heading to be confirmed:** RTP-M25-SMCQ5 and PYQ-S24-MCQ11 (experience curve,
+keys a and A) · RTP-M24-SMCQ3 (Kanika/Kolor, key b) · RTP-S24-SMCQ1-i/ii/iii/v (MuseoGoa) ·
+PYQ-J26-MCQ12 (socio-cultural shift, key C) · PYQ-J26-MCQ13 (strategic driver, key A)
+**Still outstanding from earlier lists:** the FM strays to FM Ch 1, 3, 4 and 5 listed above.

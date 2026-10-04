@@ -1,0 +1,805 @@
+{
+ "confusing": [
+  {
+   "title": "The eight organization structures — one fact decides each",
+   "headers": [
+    "Structure",
+    "The single deciding fact",
+    "ICAI's own definition phrase",
+    "Where it suits"
+   ],
+   "rows": [
+    [
+     "**Simple**",
+     "The owner-manager decides everything personally",
+     "**The owner-manager makes all major decisions directly and monitors all activities, while the company's staff merely serves as an executor**",
+     "A single-business strategy, one product line, one geographic market; also focused cost leadership or focused differentiation"
+    ],
+    [
+     "**Functional**",
+     "Grouped by business function under one chief executive",
+     "**Groups tasks and activities by business function, such as production/operations, marketing, finance/accounting, research and development, and management information systems**",
+     "Larger companies with **low levels of diversification**; small firms generally (centralized)"
+    ],
+    [
+     "**Divisional**",
+     "Grouped by geography, product, customer or process — with functions performed **both** centrally and divisionally",
+     "**Can be organized in one of the four ways: by geographic area, by product or service, by customer, or by process**",
+     "Medium-size firms (decentralized); consumer goods companies favour the by-product form"
+    ],
+    [
+     "**Multi-divisional (M-form)**",
+     "A **small corporate office** sets long-term direction and exercises **overall financial control**",
+     "**Each division represents a separate business to which the top corporate officer delegates responsibility for day-to-day operations and business unit strategy**",
+     "Large firms with coordination and control problems; developed in the 1920s"
+    ],
+    [
+     "**SBU**",
+     "**Related** businesses grouped for composite planning; each has **its own set of competitors**",
+     "**An SBU is a grouping of related businesses, which is amenable to composite planning treatment**",
+     "Multi-product, multi-business enterprises; at least three levels; SBUs treated as profit centres"
+    ],
+    [
+     "**Matrix**",
+     "**Two superiors** — a functional manager and a product or project manager",
+     "**Functional and product forms are combined simultaneously at the same level of the organization**",
+     "Where product, customer, technology, geography and function have roughly equal strategic priorities; construction, healthcare, research, defence"
+    ],
+    [
+     "**Network**",
+     "In-house functions **virtually eliminated**; coordination by contract and technology",
+     "**A \"non-structure\" by its virtual elimination of in-house business functions… often called a virtual organization**",
+     "When the environment is **unstable and is expected to remain so**, with a strong need for innovation and quick response"
+    ],
+    [
+     "**Hourglass**",
+     "A **constricted middle** layer, with IT linking top and bottom",
+     "**Three layers with constricted middle layer… a short and narrow middle-management level**",
+     "Where information technology has replaced middle-management tasks; middle managers become generalists"
+    ]
+   ],
+   "spot_it": "Read the stem for one of eight facts and ignore the rest. **Owner decides** → Simple. **Function names in a list** → Functional. **Area, product, customer or process** → Divisional. **Small corporate office, financial control** → M-form. **Own set of competitors** → SBU (ICAI plants this phrase in every SBU MCQ). **Two bosses** → Matrix. **Outsourced, contracted, virtual, broker** → Network. **Squeezed middle** → Hourglass. The four ICAI actually asks are SBU, Matrix, Network and Hourglass; the other four exist to be rejected."
+  },
+  {
+   "title": "The four digital-transformation lists, and the two change lists beside them",
+   "headers": [
+    "List",
+    "Heading",
+    "How many",
+    "The items",
+    "The stem word that calls for it"
+   ],
+   "rows": [
+    [
+     "**Steps to initiate strategic change**",
+     "§5.3.1",
+     "Three",
+     "Recognize the need for change · Create a shared vision to manage change · Institutionalise the change",
+     "\"**steps to initiate**\" the change; \"**areas to be focused**\" on strategic change"
+    ],
+    [
+     "**Kurt Lewin's model of change**",
+     "§5.3.1",
+     "Three phases, with three methods inside the middle one",
+     "Unfreezing the situation · Changing to the new situation (Kellman's compliance, identification, internalization) · Refreezing",
+     "\"**phases of the process for moving the organization from the present to the future**\"; facts that run awareness → phased adoption → stabilising policies"
+    ],
+    [
+     "**Essential elements of change management in the digital transition**",
+     "§5.3.2",
+     "Four",
+     "Define the goals and objectives · assess the current state and identify **gaps** · create a **roadmap** for change · implement and manage at **every level**",
+     "\"**how does digital transformation work**\"; facts naming objectives, a gap assessment and a phased roadmap"
+    ],
+    [
+     "**Best practices for managing change in small and medium-sized businesses**",
+     "§5.3.3",
+     "Five (the third has five sub-points)",
+     "Begin at the top · ensure the change is both necessary and desired · reduce disruption · encourage communication · recognize that change is the norm, not the exception",
+     "\"**most preferred practices**\"; \"**small and mid-sized business**\"; \"**change management strategies**\""
+    ],
+    [
+     "**Pointers for navigating change during digital transformation**",
+     "§5.3.4",
+     "Five",
+     "Specify the aims and objectives · always, always, always communicate · be ready for resistance · implement changes gradually · offer assistance and training",
+     "\"**pointers for navigating change**\"; \"**key strategies for navigating change effectively**\" — the word **navigating** is §5.3.4's own heading"
+    ],
+    [
+     "**What a change management strategy helps an organization to do**",
+     "§5.3.2",
+     "Five",
+     "Specify the parameters and goals · determine which procedures and tools need modifying · make a plan for implementing the improvements · involve staff and parties involved · track progress and make required course corrections",
+     "A question on the **role** of change management in digital transformation"
+    ]
+   ],
+   "spot_it": "Six lists in four consecutive headings, and the examiner names the heading in the stem. The two that actually get confused are §5.3.3 and §5.3.4, because both have five items and both mention communication. Memorise the single discriminator: **\"practices\" for an SME = §5.3.3; \"navigating\" = §5.3.4.** RTP May 2024 Q16 proves it — a stem that reads like §5.3.3 but says *navigating*, and ICAI answers with §5.3.4's five pointers."
+  },
+  {
+   "title": "Control — three organizational types, four strategic types, and the words that give each away",
+   "headers": [
+    "Control",
+    "List it belongs to",
+    "Scope or trigger",
+    "The giveaway words",
+    "ICAI's examples"
+   ],
+   "rows": [
+    [
+     "**Operational control**",
+     "One of **three** organizational controls",
+     "An **individual task or transaction**",
+     "A clear-cut, measurable input-output relationship; 'tolerances'",
+     "Stock, production, quality, cost and budgetary control; procuring specific items for inventory"
+    ],
+    [
+     "**Management control**",
+     "One of **three** organizational controls",
+     "**A complete department, division or even entire organisation**",
+     "'More inclusive and more aggregative'; allocating resources and coordinating a whole department",
+     "Robert Anthony's definition; Nova Healthcare's hospital administrator over the diagnostics department"
+    ],
+    [
+     "**Strategic control**",
+     "One of **three** organizational controls, and the parent of the four below",
+     "**The strategy itself**",
+     "Schendel and Hofer's dual questions — implemented as planned? results as intended?",
+     "XYZ Ltd.'s international expansion going wrong six months in"
+    ],
+    [
+     "**Premise control**",
+     "One of **four** strategic controls",
+     "The **assumptions** the strategy was built on — focused",
+     "'Assumptions', 'premises', 'business assumptions', 'reviewing the basis of the strategy'",
+     "EcoTec reviewing its regulatory assumptions; Royal Pens relying on an unchallenged premise"
+    ],
+    [
+     "**Strategic surveillance**",
+     "One of **four** strategic controls",
+     "Anything at all — **unfocussed**",
+     "'Unfocussed', 'general monitoring', 'casual environmental browsing', newspapers and conferences",
+     "Reading financial newspapers and business magazines, attending meetings and conferences"
+    ],
+    [
+     "**Special alert control**",
+     "One of **four** strategic controls",
+     "A **shock**",
+     "'Unexpected', 'sudden', 'immediate and intense review', 'crisis management team' or 'core group'",
+     "M/s. B and M/s. C merging unexpectedly; sudden changes in government, natural calamities, industrial disasters"
+    ],
+    [
+     "**Implementation control**",
+     "One of **four** strategic controls",
+     "The strategy's **incremental steps**",
+     "'Milestones', 'strategic thrusts', 'is it progressing as desired'",
+     "KDH's regular evaluations of goals and performance (milestone reviews)"
+    ]
+   ],
+   "spot_it": "Two questions, asked in order. First: **is the stem about a task, a department, or the strategy?** That picks one of the three organizational controls. Then, if it is the strategy: **assumptions, anything, a shock, or milestones?** That picks one of the four strategic controls. The classic trap is a competitor's action, which premise control monitors as an industry factor — but if it is *unexpected* and triggers an *intense review* with a *core group*, it is special alert control."
+  }
+ ],
+ "cases": [
+  {
+   "id": "CASE-S05-INT-1",
+   "title": "Integrated Case 1 — Chandrika Diagnostics Ltd. (the whole chapter in one turnaround year)",
+   "facts": [
+    "Chandrika Diagnostics Ltd. runs 180 pathology collection centres and four regional laboratories across five states. A new CEO has been appointed after three flat years, and she has twelve months to produce a plan and begin executing it.",
+    "**What the board agreed last year, and what happened.** The board approved a strategy to double revenue by adding radiology to every centre, on three stated assumptions: that reimbursement rates would stay flat, that no national chain would enter the five states, and that radiologists would be hirable at the existing salary band. Twelve months on, revenue is up 4%. Reimbursement has been cut 11% by a new state scheme; a national chain has acquired two regional rivals in a single transaction nobody expected; and radiologist salaries have risen 40%.",
+    "**Inside the company.** The four regional laboratories each have their own pathologists, their own equipment and their own local competitors, and each regional head is accountable for the region's profit. Corporate keeps only finance, legal and brand. Head office has eleven management grades between the CEO and a collection-centre supervisor; the senior team holds a two-hour meeting every weekday, usually with fourteen people present, and most of it is spent settling disputes between the laboratories and the logistics team.",
+    "**The people problem.** The firm's culture was built by its founder, a pathologist who personally signed every abnormal report for twenty years. Staff still say 'the founder would never have allowed it' when a protocol is relaxed. The new strategy requires radiology technicians to work to fixed throughput targets and to escalate nothing — the opposite of that instinct. Two senior pathologists who trained under the founder have told the CEO privately that the radiology plan 'is not who we are'.",
+    "**The digital plan.** The CEO wants reports delivered through an app within four hours, which means replacing the handwritten requisition slips used at all 180 centres. The centre supervisors, mostly in their fifties, have never used a tablet. Last year's attempt at an e-requisition pilot was abandoned after three weeks when two centres refused to use it and head office withdrew the devices without explanation.",
+    "**What gets measured today.** The monthly pack reports revenue, cost per test and collections. It reports nothing on turnaround time, repeat-test rates, patient complaints, technician attrition or energy use — though the CEO knows attrition in the laboratories ran at 31% last year."
+   ],
+   "questions": [
+    {
+     "q": "Which strategic controls did Chandrika lack last year, and which does it need now? Name each, define it, and attach it to the facts.",
+     "a": [
+      "**Start with what strategic control is.** **According to Schendel and Hofer, \"strategic control focuses on the dual questions of whether: (1) the strategy is being implemented as planned; and (2) the results produced by the strategy are those intended.\"** **There is often a time gap between the stages of strategy formulation and its implementation… there is a need for warning systems to track a strategy as it is being implemented.** Chandrika had no such warning system, and a year was lost.",
+      "**Premise control was the missing one.** **A strategy is formed on the basis of certain assumptions or premises about the complex and turbulent organizational environment. Over a period of time these premises may not remain valid.** **Premise control is a tool for systematic and continuous monitoring of the environment to verify the validity and accuracy of the premises on which the strategy has been built.** All three of the board's stated assumptions failed — and the board had written them down, which is precisely what makes premise control available. It monitors **(i) environmental factors such as economic (inflation, liquidity, interest rates), technology, social and legal-regulatory** — the state reimbursement scheme — and **(ii) industry factors such as competitors, suppliers, substitutes** — the national chain and the radiologist labour market.",
+      "**The selectivity point earns a mark:** **it is neither feasible nor desirable to control all types of premises in the same manner. Different premises may require different amount of control. Thus, managers are required to select those premises that are likely to change and would severely impact the functioning of the organization and its strategy.** With only three premises stated, all three qualified.",
+      "**Special alert control was needed for the acquisition.** **At times, unexpected events may force organizations to reconsider their strategy. Sudden changes in government, natural calamities, terrorist attacks, unexpected merger/acquisition by competitors, industrial disasters and other such events may trigger an immediate and intense review of strategy. To cope up with such eventualities, the organisations form crisis management teams to handle the situation.** A national chain acquiring two regional rivals **in a single transaction nobody expected** is ICAI's own example, almost word for word.",
+      "**Strategic surveillance would have caught the salary inflation.** **Contrary to the premise control, the strategic surveillance is unfocussed. It involves general monitoring of various sources of information to uncover unanticipated information having a bearing on the organizational strategy. It involves casual environmental browsing** — trade press, conferences, professional discussions. A radiologist shortage is the kind of fact that surfaces in conversation long before it appears in a spreadsheet.",
+      "**Implementation control is what the next twelve months need.** **Managers implement strategy by converting major plans into concrete, sequential actions that form incremental steps. Implementation control is directed towards assessing the need for changes in the overall strategy in light of unfolding events and results associated with incremental steps and actions.** Its **two basic forms** are **monitoring strategic thrusts**, which **helps managers to determine whether the overall strategy is progressing as desired or whether there is need for readjustments**, and **milestone reviews**, where **all key activities necessary to implement strategy are segregated in terms of time, events or major resource allocation**, normally involving **a complete reassessment of the strategy** and assessing **the need to continue or refocus the direction of an organization**. A four-hour-report plan across 180 centres is a natural milestone structure.",
+      "**And note what implementation control is not:** **strategic implementation control is not a replacement to operational control. Unlike operational control, it continuously monitors the basic direction of the strategy.** Chandrika still needs its stock, quality and cost controls — those are **operational control**, whose thrust is **on individual tasks or transactions** with **a clear-cut and somewhat measurable relationship between inputs and outputs**.",
+      "**Close with ICAI's own line:** **these four strategic controls steer the organisation and its different sub-systems to the right track. They help the organisation to negotiate through the turbulent and complex environment.**"
+     ]
+    },
+    {
+     "q": "Identify Chandrika's present organization structure and diagnose whether it is effective. What does the study material say about changing it?",
+     "a": [
+      "**The structure is a Strategic Business Unit structure.** The three tests are met: each laboratory is **a single business or a collection of related businesses which offer scope for independent planning and which might feasibly stand alone from the rest of the organization**; each **has its own set of competitors** — the facts say so explicitly, and that phrase is the SBU's signature; and each **has a manager who has responsibility for strategic planning and profit performance, and who has control of profit-influencing factors** — the regional head accountable for regional profit.",
+      "**It is also shaped like one:** **a strategic business unit (SBU) structure consists of at least three levels, with a corporate headquarters at the top, SBU groups at the second level, and divisions grouped by relatedness within each SBU at the third level**, and **individual SBUs are treated as profit centres and controlled by corporate headquarters.** Corporate keeping only finance, legal and brand is consistent with the M-form principle of **a small corporate office that would determine the long-term strategic direction of the firm and exercise overall financial control over the semi-autonomous divisions**.",
+      "**Why the SBU form fits the firm's size:** **small firms tend to be functionally structured (centralized). Medium-size firms tend to be divisionally structured (decentralized). Large firms tend to use an SBU (strategic business unit) or matrix structure.** And the concept exists because **it is impractical for an enterprise with a multitude of businesses to provide separate strategic planning treatment to each one of its products/businesses** — the firm must **group the products/businesses into a manageable number of strategically related business units**.",
+      "**But the structure is not working, and ICAI gives the symptom list to prove it.** **Symptoms of an ineffective organizational structure include too many levels of management, too many meetings attended by too many people, too much attention being directed toward solving interdepartmental conflicts, too large a span of control, and too many unachieved objectives.** Chandrika exhibits four of the five: **eleven management grades**, a **daily two-hour meeting with fourteen people**, time **spent settling disputes between the laboratories and the logistics team**, and **three flat years**.",
+      "**What to do, and what not to expect.** **Changes in organisational structure can facilitate strategy-implementation efforts, but changes in structure should not be expected to make a bad strategy good, to make bad managers good, or to make bad products sell.** So the structural fix — flattening the eleven grades, moving the logistics dispute into a defined interface — is worth doing, but it will not rescue a radiology strategy built on three failed premises.",
+      "**And the cycle the firm is living through is Chandler's.** **According to Chandler, changes in strategy lead to changes in organizational structure. Structure should be designed or redesigned to facilitate the strategic pursuit of a firm and, therefore, structure should follow strategy.** The printed sequence runs **new strategy is formed → new administrative problems emerge → organizational performance declines → a new organizational structure is established → organizational performance improves** — Chandrika is at the third box, which is exactly when the restructuring becomes unavoidable. Note the converse too: **if a proposed strategy required massive structural changes, it would not be an attractive choice. In this way, structure can shape the choice of strategy.**",
+      "**One structure to consider for the radiology rollout specifically:** a **matrix**, since **in matrix structure, functional and product forms are combined simultaneously at the same level of the organization** and it is found where **ideas need to be cross-fertilised across projects or products, resources are scarce, and abilities to process information and to make decisions need to be improved** — all three true of a scarce-radiologist rollout across five states. But weigh the cost: it is **the most complex of all designs**, brings **dual lines of budget authority (a violation of the unity command principle)** and **is not very popular because of difficulties in implementation and trouble in managing**."
+     ]
+    },
+    {
+     "q": "The founder's culture now conflicts with the new strategy. Explain the problem in the study material's terms and set out how the CEO should address it.",
+     "a": [
+      "**Name the concept.** **Corporate culture refers to a company's values, beliefs, business principles, traditions, ways of operating, and internal work environment.** Chandrika's is unusually legible: the founder's personal signature on every abnormal report, the traditions maintained, and above all **the legends people repeat about happenings in the organization** — 'the founder would never have allowed it'. ICAI notes that **frequently, a significant part of a company's culture emerges from the stories that get told over and over again to illustrate to newcomers the importance of certain values and beliefs and ways of operating.**",
+      "**Diagnose the conflict.** **An organization's culture is either an important contributor or an obstacle to successful strategy execution.** **When they are compatible, the culture becomes a valuable ally in strategy implementation and execution. When the culture is in conflict with some aspect of the company's direction, performance targets or strategy, the culture becomes a stumbling block that impedes successful strategy implementation and execution.** A culture of personal clinical vigilance is a stumbling block to a strategy of fixed throughput targets and no escalation.",
+      "**And the conflict is costly.** **The more entrenched the mismatched aspects of the culture, the greater the difficulty of implementing new or different strategies until better strategy-culture alignment emerges. A sizable and prolonged strategy-culture conflict weakens and may even defeat managerial efforts to make the strategy work.** Two senior pathologists saying 'this is not who we are' is the entrenchment made audible.",
+      "**Decide which side gives way.** **While correcting a strategy-culture conflict can occasionally mean revamping strategy to produce cultural fit, more usually it means revamping the mismatched cultural features to produce strategy fit.** But there is a limit: **it is the strategy maker's responsibility to select a strategy compatible with the \"sacred\" or unchangeable parts of prevailing corporate culture.** In a diagnostics business, clinical escalation on an abnormal result is plausibly sacred — so here the honest answer is that **the strategy** should bend on the 'escalate nothing' instruction while the culture bends on throughput discipline.",
+      "**Then execute the culture change on ICAI's own menu.** **The first step is to diagnose which facets of the present culture are strategy supportive and which are not. Then, managers have to talk openly and forthrightly to all concerned about those aspects of the culture that have to be changed. The talk has to be followed swiftly by visible, aggressive actions to modify the culture.** **The menu of culture-changing actions includes revising policies and procedures in ways that will help drive cultural change, altering incentive compensation (to reward the desired cultural behaviour), visibly praising and recognizing people who display the new cultural traits, recruiting and hiring new managers and employees who have the desired cultural values and can serve as role models for the desired cultural behaviour, replacing key executives who are strongly associated with the old culture, and taking every opportunity to communicate to employees the basis for cultural change and its benefits to all concerned.**",
+      "**Be honest about the timescale.** **The task of making culture supportive of strategy is not a short-term exercise. It takes time for a new culture to emerge and prevail; it's unrealistic to expect an overnight transformation. In large companies, changing the corporate culture in significant ways can take two to five years. In fact, it is usually tougher to reshape a deeply ingrained culture that is not strategy-supportive than it is to instil a strategy-supportive culture from scratch in a brand-new organization.** A CEO with twelve months should plan to begin the culture change, not to finish it.",
+      "**And it is not a solo task.** **Implanting the needed culture-building values and behaviour depends on a sincere, sustained commitment by the chief executive coupled with extraordinary persistence in reinforcing the culture at every opportunity through both words and deed… Moreover, creating and sustaining a strategy-supportive culture is a job for the whole management team**, and **strategy implementers must enlist the support of first line supervisors and employee opinion leaders** — in this firm, the two senior pathologists, who are the opinion leaders whether or not they are given the title."
+     ]
+    },
+    {
+     "q": "Design the app rollout as a change-management exercise. Which lists apply, and what went wrong with last year's pilot?",
+     "a": [
+      "**Name the strategy first, because one mark usually hangs on it.** **To enable successful digital transformation, the appropriate strategy is a Change Management Strategy. It is essential to effectively manage the organizational, procedural and cultural changes brought about by the adoption of new digital technologies.** And the stakes: **digital transformation efforts are more likely to fail without change management.**",
+      "**Frame the programme on §5.3.2's four essential elements.** **Change management in the digital transition consists of four essential elements: (1) Defining the goals and objectives of the transformation. (2) Assessing the current state of the organization and identifying gaps. (3) Creating a roadmap for change that outlines the steps needed to reach the desired state. (4) Implementing and managing the change at every level of the organization.** For Chandrika: a four-hour report is the objective; the handwritten slips and the supervisors' lack of tablet experience are the gaps; a centre-by-centre sequence is the roadmap; and 'every level' means the collection-centre supervisor, not just head office.",
+      "**Now the five best practices for SMEs (§5.3.3), each against a fact.** **Begin at the top:** **a focused, invested, united leadership that is on the same page about the company's future… the culture that will motivate the rest of the organisation to accept change can only be generated and promoted in this way** — last year's pilot had no visible CEO sponsorship. **Ensure that the change is both necessary and desired:** **if a corporation doesn't have a sound strategy in place, introducing too much too fast can frequently become a major issue down the road.**",
+      "**Reduce disruption** — and here ICAI's five sub-points diagnose the failed pilot exactly: **getting the word out early and preparing for some interruption** (the pilot was sprung on the centres); **giving staff members the knowledge and tools they need to adjust to change** (fifty-something supervisors who had never used a tablet got no training); **creating an environment that encourages transformation or change**; **empowering change agents to provide context and clarity for changes, such as project managers or team leaders** (nobody on the ground owned it); and **ensuring that IT department is informed of changes in technology or infrastructure and is prepared to support them**. ICAI also notes that **employee perceptions of what is required or desirable change can differ by department, rank, or performance history** — two centres refusing is data, not insubordination.",
+      "**Encourage communication:** **create channels so that workers may contact you with queries or complaints… the people who will be affected the most by these changes are reassured that they are not in danger through effective communication, which keeps everyone on the same page.** Withdrawing the devices **without explanation** did the precise opposite, and taught 180 centres that change is something done to them. **Recognize that change is the norm, not the exception:** **change readiness may be defined as \"the ability to continuously initiate and respond to change in ways that create advantage, minimize risk, and sustain performance\"**, and **change is not a project but rather an ongoing process**.",
+      "**And the five pointers for navigating change (§5.3.4), which govern the rollout week to week:** **specify the digital transformation's aims and objectives**; **always, always, always communicate**; **be ready for resistance** — **even when a change is for the better, it can be challenging for people to embrace it. Have a strategy in place for dealing with any resistance that may arise**; **implement changes gradually** — **changes should ideally be implemented gradually rather than all at once… this will give people time to become used to the new way of doing things**; and **offer assistance and training** — **workers will need guidance in the new procedures, software applications, etc.** Last year's pilot broke the third, fourth and fifth of these in three weeks.",
+      "**Underneath all of it, Kurt Lewin.** **To make the change lasting, Kurt Lewin proposed three phases… unfreezing, changing and refreezing.** **Unfreezing simply makes the individuals aware of the necessity for change and prepares them for such a change**, and **Lewin proposes that the changes should not come as a surprise to the members of the organization. Sudden and unannounced change would be socially destructive and morale lowering** — a one-line verdict on the failed pilot. **Refreezing occurs when the new behaviour becomes a normal way of life**, and **must be continuously reinforced so that this new acquired behaviour does not diminish or extinguish**; withdrawing the devices was the opposite of refreezing. Note finally that **change process is not a one-time application but a continuous process… the process of unfreezing, changing and refreezing is a cyclical one and remains continuously in action.**"
+     ]
+    },
+    {
+     "q": "Rebuild the monthly pack. What should Chandrika measure, why, and on what basis should the measures be chosen?",
+     "a": [
+      "**Start with what SPM is.** **Strategic performance measures are key indicators that organizations use to track the effectiveness of their strategies and make informed decisions about resource allocation. The measures provide a snapshot of the organization's performance, enabling leaders to assess whether their strategies are aligned with their goals and objectives and to make necessary adjustments to improve their performance.** **SPM is a method that increases line executives' understanding of an organization's strategic goals and offers a continuous system for tracking progress towards these objectives using clear-cut performance measurements**, and it **helps to eliminate silos by establishing a common language among all divisions of the organisation so they may communicate openly and productively** — which speaks directly to the laboratory-versus-logistics disputes consuming the daily meeting.",
+      "**The present pack covers one of the six types.** Revenue, cost per test and collections are **Financial Measures: such as revenue growth, return on investment (ROI), and profit margins**, which **provide an understanding of the organization's financial performance and its ability to generate profit**. Five types are missing entirely.",
+      "**Customer Satisfaction Measures** — **customer satisfaction, customer retention, and customer loyalty**, which **provide insight into the organization's ability to meet customer needs and provide high-quality products and services**. Patient complaints and repeat-test rates belong here, and a four-hour turnaround promise cannot be managed without them. **Market Measures** — **market share, customer acquisition, and customer referrals**, which **provide information about the organization's competitiveness in the marketplace** — essential now that a national chain has entered.",
+      "**Employee Measures** — **employee satisfaction, turnover rate, and employee engagement**, which **provide insight into the organization's ability to attract and retain talented employees and create a positive work environment**. The CEO already knows laboratory attrition was **31%** and the monthly pack does not report it; that is the single clearest reporting failure in the case.",
+      "**Innovation Measures** — **research and development (R&D) spending, patent applications, and new product launches** — which for a diagnostics firm means new test panels and the radiology rollout itself. **Environmental Measures** — **energy consumption, waste reduction, and carbon emissions**, which **provide insight into the organization's impact on the environment and its efforts to operate in a sustainable manner** — material for four laboratories running heavy equipment.",
+      "**Why it matters, on ICAI's four reasons.** **Goal Alignment** — measures **help organizations align their strategies with their goals and objectives, ensuring that they are on track**; **Resource Allocation** — they **provide the information needed to make informed decisions about resource allocation, enabling them to prioritize their efforts and allocate resources to the areas that will have the greatest impact**; **Continuous Improvement** — they **provide a framework for continuous improvement**; and **External Accountability** — they **help organizations demonstrate accountability to stakeholders, including shareholders, customers, and regulatory bodies, by providing a clear and transparent picture of their performance**, which matters acutely to a firm inside a state reimbursement scheme.",
+      "**How to choose them — the four factors, each with its reason.** **Relevance**: the measure must be **relevant to the organization's goals and objectives, providing actionable and meaningful information**. **Data Availability**: **readily available and… collected and analyzed in a timely manner**. **Data Quality**: **high-quality data that is accurate and reliable**, because **accurate and reliable data are crucial for making informed decisions and assessing the true performance of the organization**. **Data Timeliness**: **current and up-to-date**, since **timely data allows organizations to make informed decisions quickly**. For a four-hour turnaround promise, timeliness is not a nicety — a monthly figure cannot manage a four-hour process.",
+      "**Two cautions, and the frontier.** **There needs to be a clear cause and effect relationship between the indicators and strategic outcomes**, and **KPIs need to be carefully chosen because they will influence the behaviour of people within the organisation** — a raw throughput target on radiology technicians is exactly the KPI that would entrench the culture conflict identified earlier. Yet **managers should be aware of paralysis by over analysis**. And beyond the financials: **the Triple Bottom Line framework (TBL) emphasises People and Planetary Concerns besides profitability or Economic Prosperity alone. The Quadruple Bottom Line adds the 4th P to add a spiritual dimension named 'Purpose.'**",
+      "**One link back to control:** the control process needs **objectives of the business system which could be operationalized into measurable and controllable standards** — so until the pack carries turnaround time, complaints and attrition, Chandrika's strategic control has nothing to compare results against. SPM is the instrument that makes §5.6 work."
+     ]
+    },
+    {
+     "q": "What leadership style should the CEO adopt, and what roles must she play? Use the study material's own categories.",
+     "a": [
+      "**Begin with what strategic leadership is.** **Strategic leadership sets the firm's direction by developing and communicating a vision of the future, formulate strategies in the light of internal and external environment, brings about changes required to implement strategies and inspire the staff to contribute to strategy execution.** It **entails the ability to anticipate, envision, maintain flexibility, and empower others to create strategic change as necessitated by external environment.**",
+      "**The style indicated is transformational.** **Transformational leadership style uses charisma and enthusiasm to inspire people to exert them for the good of the organization.** It **may be appropriate in turbulent environments, in industries at the very start or end of their life-cycles, in poorly performing organizations when there is a need to inspire a company to embrace major changes** — and Chandrika is a poorly performing organisation in a turbulent environment facing major change on all three of those counts. **Transformational leaders offer excitement, vision, intellectual stimulation and personal satisfaction. They inspire involvement in a mission, giving followers a 'dream' or 'vision' of a higher calling so as to elicit more dramatic changes in organizational performance**, and **motivate followers to do more than originally affected to do by stretching their abilities and increasing their self-confidence, and also promote innovation throughout the organization.**",
+      "**But not everywhere in the firm.** **Transactional leadership style focuses more on designing systems and controlling the organization's activities and are more likely to be associated with improving the current situation**, using **the authority of its office to exchange rewards, such as pay and status**, with **clear goals with explicit rewards or penalties for achievement or non-achievement**. It **may be appropriate in static environment, in mature industries, and in organizations that are performing well**, and **is better suited in persuading people to work efficiently and run operations smoothly** — which describes the four established laboratories running accredited protocols. The honest answer is transformational at the centre, transactional in the laboratories, which is why the study material says **sometimes it is useful to be authoritarian; sometimes it is better to be a perceptive listener and a compromising decision maker; sometimes a strongly participative, and sometimes being a coach and adviser is the proper role.**",
+      "**The five leadership roles in pushing for good strategy execution, each with a task in this case.** **1. Staying on top of what is happening, closely monitoring progress, solving out issues, and learning what obstacles lie in the path of good execution** — the app rollout needs a CEO who knows which centres are stuck. **2. Promoting a culture of esprit de corps that mobilizes and energizes organizational members to execute strategy in a competent fashion and perform at a high level** — the answer to the laboratory-logistics feud. **3. Keeping the organization responsive to changing conditions, alert for new opportunities, bubbling with innovative ideas, and ahead of rivals in developing competitively valuable competencies and capabilities** — the answer to the national chain. **4. Exercising ethical leadership and insisting that the company conduct its affairs like a model corporate citizen** — the answer to 'escalate nothing'. **5. Pushing corrective actions to improve strategy execution and overall strategic performance.**",
+      "**And the seven responsibilities, of which three are the year's work:** **making strategic decisions; formulating policies and action plans to implement strategic decision; ensuring effective communication in the organisation; managing human capital (perhaps the most critical of the strategic leader's skills); managing change in the organisation; creating and sustaining strong corporate culture; and sustaining high performance over time.** With 31% laboratory attrition and a 40% salary shift, **managing human capital** is not merely 'perhaps the most critical' here — it is the binding constraint on the radiology strategy.",
+      "**The frame to change.** **A managerial frame of reference is the set of assumptions, premises, and accepted wisdom that bounds a manager's understanding of the company, the industry in which it competes, and the core competencies that it exploits.** The founder's frame — personal vigilance over every abnormal result — built the firm and now bounds it. **Competitive battles are not between companies or products but between mindsets or managerial frames**, and the CEO's first task is to widen the frame without discarding what made it valuable.",
+      "**Finally, the change-agent duty.** **A strategic leader is a change agent who initiates strategic changes in the organisations and ensure that the changes [are] successfully implemented. For the most part, major change efforts have to be top-down and vision-driven. Leading change has to start with diagnosing the situation and then deciding which of several ways to handle it** — which is, in one sentence, the brief the board has given her."
+     ]
+    }
+   ],
+   "takeaway": "One case can carry eleven of this chapter's eighteen headings, because the headings describe one process. The discipline is to name the framework before describing it: the failed premises are **premise control**, the unexpected merger is **special alert control**, the eleven grades and the fourteen-person meeting are ICAI's **symptoms of an ineffective structure**, 'the founder would never have allowed it' is **culture as a stumbling block**, the abandoned pilot is a breach of three of the **five pointers**, the missing attrition figure is five of the **six SPM types**, and a poorly performing firm in a turbulent environment calls for **transformational** leadership at the centre and **transactional** leadership in the laboratories. Name it, define it, then apply it."
+  },
+  {
+   "id": "CASE-S05-INT-2",
+   "title": "Integrated Case 2 — Arka Mobility Ltd. (formulation, implementation and the gap between them)",
+   "facts": [
+    "Arka Mobility Ltd. assembles electric two-wheelers at one plant and sells through 240 dealers. Its strategy document, approved by the board, is widely admired: it identifies a clear position in the 90-to-110 km range segment, a cost advantage from local cell sourcing, and a dealer-first service model. Two years on, the strategy has not moved.",
+    "**What the company is good at.** The plant runs at 94% of rated capacity, scrap is 0.4% against an industry 1.1%, and unit cost has fallen 18% in two years. The operations director is widely regarded as the best in the industry at running a line.",
+    "**What the company is not good at.** Range tests by an independent magazine put Arka at 71 km against the 90 km claim. Dealers report that service parts arrive in eleven days against a four-day promise. Market share has fallen from 9% to 6%. The CFO's note to the board says: 'our costs are excellent and our customers are leaving.'",
+    "**The planning process.** The strategy was written by the CEO and two external consultants over four months. The operations director, the dealer-network head and the service head saw it for the first time at the board meeting that approved it. Since then the CEO has not attended a single rollout review, saying the plan is 'self-explanatory'. Three of the eleven functional heads have told the HR director they do not know what the strategy requires of them.",
+    "**The structure.** Arka is organised by function: operations, finance, marketing, R&D, HR and IT, each reporting to the CEO. There is no owner of the dealer experience; service parts sit under operations, dealer training under marketing and dealer credit under finance. A proposal to appoint regional heads with profit accountability has been resisted on the ground that it would 'duplicate costs'.",
+    "**The board's question.** 'Is our strategy wrong, or is our execution wrong — and what do we do about it?'"
+   ],
+   "questions": [
+    {
+     "q": "Answer the board's question using the formulation-implementation matrix. Where is Arka, and what must it do?",
+     "a": [
+      "**Arka is in Square A: sound strategy formulation, weak implementation.** **Square A is the situation where a company apparently has formulated a very competitive strategy but is showing difficulties in implementing it successfully. This can be due to various factors, such as the lack of experience (e.g. for startups), the lack of resources, missing leadership and so on. In such a situation the company will aim at moving from square A to square B, given they realize their implementation difficulties.** **Square B is the ideal situation where a company has succeeded in designing a sound and competitive strategy and has been successful in implementing it.**",
+      "**The evidence that the formulation is sound:** a defined segment, a stated cost advantage and a service model — and the plant has in fact delivered the cost advantage. **The evidence that implementation is weak:** the 90 km claim is unmet, the four-day parts promise is missed by seven days, and share has fallen by a third.",
+      "**Why the board must resist the instinct to rewrite the strategy.** **Often people blame the strategy model for the failure of a company while the main flaw might lie in failed implementation.** **Many managers fail to distinguish between strategy formulation and strategy implementation. Yet, it is crucial to realize the difference between the two because they both require very different skills.** **A company will be successful only when the strategy formulation is sound and implementation is excellent. There is no such thing as successful strategic design** — **organizational success is a function of good strategy and proper implementation.**",
+      "**Contrast with the square Arka is not in.** **Square D is the situation where the strategy formulation is flawed, but the company is showing excellent implementation skills. When a company finds itself in square D the first thing they have to do is to redesign their strategy before readjusting their implementation/execution skills.** Were Arka in D, rewriting the strategy would be right; in A it would waste another two years. **Square C denotes companies that haven't succeeded in coming up with a sound strategy formulation and in addition are bad at implementing their flawed strategic model**, whose **path to success also goes through business model redesign and implementation/execution readjustment**.",
+      "**The sentence to give the board:** **even the most technically perfect strategic plan will serve little purpose if it is not implemented effectively… Change comes through implementation and evaluation, not through the plan. A technically imperfect plan that is implemented well will achieve more than the perfect plan that never gets off the paper on which it is typed.** And: **successful strategy formulation does not guarantee successful strategy implementation. It is always more difficult to do something (strategy implementation) than to say you are going to do it (strategy formulation).**"
+     ]
+    },
+    {
+     "q": "The CFO says 'our costs are excellent and our customers are leaving'. Place Arka on the efficiency-effectiveness grid and explain why its position is more dangerous than it looks.",
+     "a": [
+      "**Define the pair first.** **Efficiency is the relationship between inputs and outputs, usually with a short time horizon**; **effectiveness is concerned with the attainment of organisational goals — including that of desired competitive position**. **While efficiency is essentially introspective, effectiveness highlights the links between the organization and its environment.** **The responsibility for efficiency lies with operational managers, with top management having the primary responsibility for the strategic orientation of the organization** — which is precisely the division of labour that has broken down at Arka.",
+      "**The crude-terms test:** **to be effective is to do the right thing, while to be efficient is to do the thing right. An emphasis on efficiency rather than on effectiveness is clearly wrong.** Arka is doing the thing right — 94% capacity, 0.4% scrap — and is not doing the right thing: a 71 km range against a 90 km promise, and an eleven-day parts cycle against a four-day promise.",
+      "**The four cells.** **Cell 1 — Efficient and Effective: Thrive.** An organization here **is well placed and thrives, since it is achieving what it aspires to achieve with an efficient output/input ratio**. **Cell 2 — Efficient but Ineffective: Die Slowly.** **Cell 3 — Inefficient but Effective: Survive.** **Cell 4 — Inefficient and Ineffective: Die Quickly.**",
+      "**Arka is in Cell 2, and this is the dangerous part.** **An organization in cell 2 or 4 is doomed, unless it can establish some strategic direction. The particular point to note is that cell 2 is a worse place to be than is cell 3 since, in the latter, the strategic direction is present to ensure effectiveness even if rather too much input is being used to generate outputs. To be effective is to survive whereas to be efficient is not in itself either necessary or sufficient for survival.** A firm with a world-class line and a product nobody wants is worse placed than a firm with the right product and a wasteful line — because waste can be engineered out, while a lost customer base must be won back from a rival.",
+      "**Why the firm cannot see it.** Its monthly numbers are efficiency numbers — capacity, scrap, unit cost — and efficiency is **essentially introspective**. The facts that matter are outside: an independent magazine's range test, dealers' parts complaints, and three points of market share. That is a strategic performance measurement failure as much as a strategic one: **customer satisfaction measures** and **market measures** are two of the six SPM types, and Arka reports neither.",
+      "**Who decides what counts as effective.** **Any organization can be portrayed as a coalition of diverse interest groups each of which participates in the coalition in order to secure some advantage** — **dividends to shareholders, wages to employees, continued business to suppliers of goods and services, satisfaction on the part of consumers, legal compliance from the viewpoint of government, responsible behaviour towards society and the environment from the perspective of pressure groups.** Arka has optimised for one member of that coalition and lost another."
+     ]
+    },
+    {
+     "q": "Diagnose the planning process. What do the linkages and the issues in strategy implementation say about what went wrong?",
+     "a": [
+      "**Start with why the two phases cannot be separated.** **It is to be noted that the division of strategic management into different phases is only for the purpose of orderly study. In real life, the formulation and implementation processes are intertwined. Two types of linkages exist between these two phases of strategic management. The forward linkages deal with the impact of strategy formulation on strategy implementation while the backward linkages are concerned with the impact in the opposite direction.**",
+      "**The forward linkage was never worked through.** **With the formulation of new strategies, or reformulation of existing strategies, many changes have to be affected within the organization. For instance, the organizational structure has to undergo a change in the light of the requirements of the modified or new strategy. The style of leadership has to be adapted to the needs of the modified or new strategies.** A dealer-first service model requires someone to own the dealer experience; Arka's functional structure leaves parts, training and credit in three different silos, and nobody changed that when the strategy was approved.",
+      "**The backward linkage was ignored.** **Organizations tend to adopt those strategies which can be implemented with the help of the present structure of resources combined with some additional efforts.** A four-day parts promise was written without asking the people who would have to keep it. Had the service head been in the room, the promise would either have been different or have come with the logistics investment it needed.",
+      "**The shift-of-responsibility problem, in ICAI's own words.** **In all but the smallest organizations, the transition from strategy formulation to strategy implementation requires a shift in responsibility from strategists to divisional and functional managers. Implementation problems can arise because of this shift in responsibility, especially if strategic decisions come as a surprise to middle and lower-level managers.** Three functional heads first saw the strategy at the board meeting that approved it — the textbook definition of a surprise. **Managers and employees are motivated more by perceived self-interests than by organizational interests, unless the two coincide. Therefore, it is essential that divisional and functional managers be involved as much as possible in the strategy-formulation process. Similarly, strategists should also be involved as much as possible in strategy-implementation activities.** Arka broke both halves of that prescription: the managers were out of the formulation, and the CEO is out of the implementation.",
+      "**And the CEO's absence has a named cost.** **Strategists' genuine personal commitment to implementation is a necessary and powerful motivational force for managers and employees. Too often, strategists are too busy to actively support strategy-implementation efforts, and their lack of interest can be detrimental to organizational success.** 'Self-explanatory' is not a delegation; it is the lack of interest the study material warns about. **The rationale for objectives and strategies should be understood clearly throughout the organization**, and **top-down flow of communication is essential for developing bottom-up support** — three heads not knowing what the strategy requires of them is the measurable failure of that flow.",
+      "**The issues the firm has skipped.** **The implementation tasks put to test the strategists' abilities to allocate resources, design organisational structure, formulate functional policies, and to provide strategic leadership.** Of the six issues in sequence — **project implementation, procedural implementation, resource allocation, structural implementation, functional implementation, behavioural implementation** — Arka has attempted none of the last three. And the chain was never built: **strategies, by themselves, do not lead to action. They are, in a sense, a statement of intent. Implementation tasks are meant to realise the intent. Strategies, therefore, have to be activated through implementation.** The strategy never became **programmes** (**goals, policies, procedures, rules, and steps to be taken in putting a plan into action**, supported by allocated funds), let alone **projects** (**a highly specific programme for which the time schedule and costs are predetermined**).",
+      "**The principal aspects of execution that are missing.** Of ICAI's eight — **developing budgets that steer ample resources into those activities that are critical to strategic success; staffing the organization with the needed skills and expertise…; ensuring that policies and operating procedures facilitate rather than impede effective execution; using the best-known practices…; installing information and operating systems…; motivating people to pursue the target objectives energetically; creating culture and climate conducive to successful strategy implementation and execution; exerting the internal leadership needed to drive implementation forward** — Arka has delivered only the fourth, inside the plant. The eighth is the one the board should raise with its CEO."
+     ]
+    },
+    {
+     "q": "Should Arka change its structure? Evaluate the regional-heads proposal and the 'duplicate costs' objection.",
+     "a": [
+      "**Arka is functionally structured.** **A functional structure groups tasks and activities by business function, such as production/operations, marketing, finance/accounting, research and development, and management information systems.** Its advantages are real and Arka enjoys them: **besides being simple and inexpensive, a functional structure also promotes specialization of labour, encourages efficiency, minimizes the need for an elaborate control system, and allows rapid decision making.** The 0.4% scrap rate is specialization of labour working as advertised.",
+      "**But the structure has produced exactly the failure the study material predicts.** **Compared to the simple structure, there also are some potential problems. Differences in functional specialization and orientation may impede communications and coordination.** **Functional specialists often may develop a myopic (or narrow) perspective, losing sight of the company's strategic vision and mission. When this happens, this problem can be overcome by implementing the multidivisional structure.** Parts under operations, training under marketing and credit under finance is the myopia made structural — three specialists each optimising their own function while the dealer experience, which is the strategy, belongs to nobody.",
+      "**The structural logic for the change.** **Structure largely dictates how operational objectives and policies will be established to achieve the strategic objectives**, and **structure dictates how resources will be allocated to achieve strategic objectives.** A strategy whose promise is dealer service cannot be delivered by a structure that allocates resources by function. **The most important issue is that the company's structure must be congruent with or fit with the company's strategy.**",
+      "**What the proposal amounts to.** Regional heads with profit accountability is a move to a **divisional structure**, which **can be organized in one of the four ways: by geographic area, by product or service, by customer, or by process**, with **functional activities performed both centrally and in each division separately**. A **divisional structure by geographic area is appropriate for organizations whose strategies are formulated to fit the particular needs and characteristics of customers in different geographic areas**, is **most appropriate for organizations that have similar branch facilities located in widely dispersed areas** — 240 dealers — and **allows local participation in decision making and improved coordination within a region**.",
+      "**Its advantages answer Arka's problem directly.** **Accountability is clear — divisional managers can be held responsible for sales and profit levels.** Because the design rests on **extensive delegation of authority**, **managers and employees can easily see the results of their good or bad performances**, and **employee morale is generally higher in a divisional structure than it is in a centralized structure**. It also **creates career development opportunities for managers, allows local control of local situations, leads to a competitive climate within an organization, and allows new businesses and products to be added easily.**",
+      "**The 'duplicate costs' objection is correct — and the study material says so.** **The divisional design is not without some limitations. Perhaps the most important limitation is that a divisional structure is costly… First, each division requires functional specialists who must be paid. Second, there exists some duplication of staff services, facilities, and personnel… Third, managers must be well qualified because the divisional design forces delegation of authority; better-qualified individuals require higher salaries. A divisional structure can also be costly because it requires an elaborate, headquarters-driven control system. Finally, certain regions, products, or customers may sometimes receive special treatment, and it may be difficult to maintain consistent, companywide practices.**",
+      "**But ICAI also supplies the answer to the objection:** **nonetheless, for most large organizations and many small firms, the advantages of a divisional structure more than offset the potential limitations.** Weigh the duplicated staff cost against three points of market share. And the size rule points the same way: **small firms tend to be functionally structured (centralized). Medium-size firms tend to be divisionally structured (decentralized).** A single-plant, 240-dealer firm that has outgrown its functional coordination is at exactly that transition.",
+      "**Two cautions to record.** First, **changes in organisational structure can facilitate strategy-implementation efforts, but changes in structure should not be expected to make a bad strategy good, to make bad managers good, or to make bad products sell** — the regional heads will not fix a 71 km range. Second, **if a proposed strategy required massive structural changes, it would not be an attractive choice. In this way, structure can shape the choice of strategy** — which is the honest reading of the resistance: the objection is not really about cost, it is the existing structure defending the strategy it can deliver."
+     ]
+    },
+    {
+     "q": "Set out the controls and measures Arka should install so that the next two years do not repeat the last two.",
+     "a": [
+      "**The gap is a control gap.** **Strategic control is the process of evaluating strategy as it is formulated and implemented. It is directed towards identifying problems and changes in premises and making necessary adjustments**, and **there is a need for warning systems to track a strategy as it is being implemented.** Arka had a plan and no warning system, which is why a 19 km range shortfall and a seven-day parts gap ran for two years.",
+      "**Implementation control is the primary need, in both its forms.** **Monitoring strategic thrusts helps managers to determine whether the overall strategy is progressing as desired or whether there is need for readjustments** — a running check on range delivered and parts cycle time. **Milestone Reviews: all key activities necessary to implement strategy are segregated in terms of time, events or major resource allocation. It normally involves a complete reassessment of the strategy. It also assesses the need to continue or refocus the direction of an organization** — a formal six-monthly reassessment that the CEO attends.",
+      "**Premise control for the two assumptions that matter.** **Premise control is a tool for systematic and continuous monitoring of the environment to verify the validity and accuracy of the premises on which the strategy has been built**, covering **environmental factors such as economic (inflation, liquidity, interest rates), technology, social and legal-regulatory** and **industry factors such as competitors, suppliers, substitutes**. Arka's cost advantage rests on local cell sourcing — a supplier premise — and its segment choice rests on the 90-to-110 km range remaining the contested band, a technology premise.",
+      "**Strategic surveillance and special alert control for what nobody has forecast.** Surveillance is **unfocussed… general monitoring of various sources of information to uncover unanticipated information having a bearing on the organizational strategy**, by **casual environmental browsing** — and an independent magazine's range test is exactly the kind of fact surveillance exists to catch, ideally before the magazine publishes it. Special alert control covers the shock: **unexpected merger/acquisition by competitors** or a **sudden change in government** policy on EV subsidies, met by a **crisis management team**.",
+      "**Keep the operational controls, and understand their place.** **Strategic implementation control is not a replacement to operational control. Unlike operational control, it continuously monitors the basic direction of the strategy.** Arka's scrap and capacity controls are **operational control**, whose examples are **stock control, production control, quality control, cost control, budgetary control** — all working well, and none of them capable of detecting the strategy's failure.",
+      "**The four elements of the control process, applied.** **(a) Objectives of the business system which could be operationalized into measurable and controllable standards** — 90 km range, four-day parts, 9% share. **(b) A mechanism for monitoring and measuring the performance of the system.** **(c) A mechanism for comparing the actual results with reference to the standards, for detecting deviations from standards and for learning new insights on standards themselves** — that third part matters here: a 71 km result may mean the 90 km standard was never achievable. **(d) A mechanism for feeding back corrective and adaptive information and instructions to the system, for effecting the desired changes to set right the system to keep it on course.**",
+      "**And the measures to report.** Arka reports **financial measures** only. It needs **customer satisfaction measures (customer satisfaction, customer retention, and customer loyalty)** and **market measures (market share, customer acquisition, and customer referrals)** at minimum, plus **employee measures** and **innovation measures** given that the range shortfall is an R&D failure. Choose them on the four factors — **Relevance, Data Availability, Data Quality and Data Timeliness** — and remember the design caution: **there needs to be a clear cause and effect relationship between the indicators and strategic outcomes**, and **KPIs need to be carefully chosen because they will influence the behaviour of people within the organisation.** Arka's current pack rewards the plant for the one thing the plant already does well, which is how a firm ends up in Cell 2."
+     ]
+    }
+   ],
+   "takeaway": "Arka is the chapter's thesis in a single company: a good plan, excellent efficiency, and no implementation. The diagnostic sequence is worth memorising because the examiner uses it — place the firm on the **A-B-C-D matrix** (is the strategy or the execution at fault?), then on the **Thrive/Die Slowly/Survive/Die Quickly grid** (and remember Die Slowly is worse than Survive), then test the **linkages** (were the implementers in the room? is the strategist in the rollout?), then the **structure** (does it fit the strategy, and what are the symptoms of misfit?), and finally the **controls and measures** (was there a warning system, and does the monthly pack measure anything outside the factory?)."
+  }
+ ],
+ "chapter_test": {
+  "mcqs": [
+   {
+    "id": "CT-MCQ-S05-01",
+    "question": "The five stages of strategic management, in the study material's order, are:",
+    "options": {
+     "A": "Developing a strategic vision and formulation of statement of mission, goals and objectives; environmental and organisational analysis; formulation of strategy; implementation of strategy; strategic evaluation and control",
+     "B": "Environmental analysis; formulation of strategy; resource allocation; implementation of strategy; feedback",
+     "C": "Vision; mission; objectives; strategy; control",
+     "D": "Formulation; implementation; evaluation; correction; renewal"
+    },
+    "answer": "A",
+    "explanation": "SM §5.2.1 lists exactly these five. Note that the first stage combines vision with the statement of mission, goals and objectives, and that the fifth — strategic evaluation and control — is the stage candidates most often omit."
+   },
+   {
+    "id": "CT-MCQ-S05-02",
+    "question": "Which of the following is a characteristic of OPERATIONAL planning as per the study material?",
+    "options": {
+     "A": "Assesses the impact of environmental variables",
+     "B": "Makes modifications to the business functions but not fundamental changes",
+     "C": "Takes a holistic view of the organisation",
+     "D": "Is concerned with the long-term success of the organisation"
+    },
+    "answer": "B",
+    "explanation": "Operational planning deals with the current deployment of resources, develops tactics rather than strategy, projects current operations into the future, makes modifications to business functions but not fundamental changes, and is the responsibility of functional managers. The other three options are characteristics of strategic planning."
+   },
+   {
+    "id": "CT-MCQ-S05-03",
+    "question": "On the study material's efficiency–effectiveness grid, an organisation that is efficient but ineffective is labelled:",
+    "options": {
+     "A": "Thrive",
+     "B": "Survive",
+     "C": "Die Slowly",
+     "D": "Die Quickly"
+    },
+    "answer": "C",
+    "explanation": "Cell 1 Efficient and Effective = Thrive; Cell 2 Efficient but Ineffective = Die Slowly; Cell 3 Inefficient but Effective = Survive; Cell 4 Inefficient and Ineffective = Die Quickly. ICAI adds that cell 2 is a worse place to be than cell 3, because effectiveness carries strategic direction."
+   },
+   {
+    "id": "CT-MCQ-S05-04",
+    "question": "\"Organizations tend to adopt those strategies which can be implemented with the help of the present structure of resources combined with some additional efforts.\" This is the study material's description of:",
+    "options": {
+     "A": "Forward linkages",
+     "B": "Procedural implementation",
+     "C": "Chandler's strategy-structure relationship",
+     "D": "Backward linkages"
+    },
+    "answer": "D",
+    "explanation": "Backward linkages concern the impact of implementation on formulation: 'the formulation process is also affected by factors related with implementation… past strategic actions also determine the choice of strategy.' Forward linkages run the other way, with the structure and leadership style changing to fit a new strategy."
+   },
+   {
+    "id": "CT-MCQ-S05-05",
+    "question": "In Kurt Lewin's model, H.C. Kellman's three methods for reassigning new patterns of behaviour are:",
+    "options": {
+     "A": "Compliance, identification and internalization",
+     "B": "Unfreezing, changing and refreezing",
+     "C": "Recognition, shared vision and institutionalisation",
+     "D": "Awareness, adoption and reinforcement"
+    },
+    "answer": "A",
+    "explanation": "SM §5.3.1 places Kellman's three methods inside Lewin's second phase, 'changing to the new situation': compliance through the reward and punishment strategy, identification with role models, and internalization through a change in the individual's own thought processes."
+   },
+   {
+    "id": "CT-MCQ-S05-06",
+    "question": "\"Reduce disruption\" is one of the five best practices for managing change in small and medium-sized businesses. Which of the following is one of the study material's ways of doing it?",
+    "options": {
+     "A": "Deferring the change until every employee has agreed to it",
+     "B": "Empowering change agents, such as project managers or team leaders, to provide context and clarity for changes",
+     "C": "Replacing the IT department before the change is announced",
+     "D": "Announcing the change only once implementation is complete"
+    },
+    "answer": "B",
+    "explanation": "The five sub-points are getting the word out early and preparing for some interruption; giving staff the knowledge and tools they need; creating an environment that encourages change; empowering change agents such as project managers or team leaders; and ensuring the IT department is informed and prepared to support the changes."
+   },
+   {
+    "id": "CT-MCQ-S05-07",
+    "question": "Which of the following is NOT one of the four limitations of the McKinsey 7S Model?",
+    "options": {
+     "A": "It ignores the importance of the external environment",
+     "B": "The model does not clearly explain the concept of organizational effectiveness or performance",
+     "C": "It gives equal weight to all seven elements, making prioritisation impossible",
+     "D": "It is generally criticized for missing out the real gaps in conceptualization and execution of strategy"
+    },
+    "answer": "C",
+    "explanation": "The four limitations are: it ignores the external environment and depicts only the most crucial internal elements; it does not clearly explain organizational effectiveness or performance; it is more static and less flexible for decision making; and it misses the real gaps in conceptualization and execution of strategy."
+   },
+   {
+    "id": "CT-MCQ-S05-08",
+    "question": "The three most important characteristics of a Strategic Business Unit include:",
+    "options": {
+     "A": "A small corporate office exercising overall financial control",
+     "B": "Functional activities performed both centrally and in each division separately",
+     "C": "Employees reporting to both a functional manager and a project manager",
+     "D": "It has its own set of competitors"
+    },
+    "answer": "D",
+    "explanation": "The three characteristics are: it is a single business or collection of related businesses offering scope for independent planning and able to stand alone; it has its own set of competitors; and it has a manager responsible for strategic planning and profit performance who controls profit-influencing factors. Option A describes the M-form, B the divisional structure and C the matrix."
+   },
+   {
+    "id": "CT-MCQ-S05-09",
+    "question": "A corporation that has virtually eliminated its in-house business functions, operates as a shell with a small headquarters acting as a broker, and contracts with people for specific projects, has adopted a:",
+    "options": {
+     "A": "Network structure",
+     "B": "Hourglass structure",
+     "C": "Multi-divisional structure",
+     "D": "Simple structure"
+    },
+    "answer": "A",
+    "explanation": "SM §5.4.1, heading G: the network structure is 'an example of what could be termed a \"non-structure\" by its virtual elimination of in-house business functions', often called a virtual organization, where 'the organization is, in effect, only a shell, with a small headquarters acting as a broker'."
+   },
+   {
+    "id": "CT-MCQ-S05-10",
+    "question": "As per the study material, changing a problem culture to align it with strategy usually means:",
+    "options": {
+     "A": "Revamping the strategy to produce cultural fit, since culture cannot be changed",
+     "B": "Revamping the mismatched cultural features to produce strategy fit",
+     "C": "Replacing the entire management team within a single financial year",
+     "D": "Leaving the culture alone, since strong cultures always help execution"
+    },
+    "answer": "B",
+    "explanation": "SM §5.4.2: 'While correcting a strategy-culture conflict can occasionally mean revamping strategy to produce cultural fit, more usually it means revamping the mismatched cultural features to produce strategy fit.' In large companies this can take two to five years."
+   },
+   {
+    "id": "CT-MCQ-S05-11",
+    "question": "Transformational leadership style is described by the study material as appropriate:",
+    "options": {
+     "A": "In static environments and mature industries",
+     "B": "Only in organisations that are already performing well",
+     "C": "In turbulent environments, in industries at the very start or end of their life-cycles, and in poorly performing organizations needing to embrace major changes",
+     "D": "Wherever the leader has formal authority to exchange pay and status for performance"
+    },
+    "answer": "C",
+    "explanation": "That is the study material's own list of settings for transformational leadership. Options A, B and D describe transactional leadership, which suits static environments, mature industries and organisations performing well, and which 'uses the authority of its office to exchange rewards, such as pay and status'."
+   },
+   {
+    "id": "CT-MCQ-S05-12",
+    "question": "A firm reads financial newspapers and business magazines and attends conferences and discussions, with no particular question in mind, in order to catch information bearing on its strategy. This is:",
+    "options": {
+     "A": "Premise control",
+     "B": "Implementation control",
+     "C": "Special alert control",
+     "D": "Strategic surveillance"
+    },
+    "answer": "D",
+    "explanation": "SM §5.6: 'Contrary to the premise control, the strategic surveillance is unfocussed. It involves general monitoring of various sources of information to uncover unanticipated information having a bearing on the organizational strategy. It involves casual environmental browsing' — and names newspapers, magazines, meetings, conferences and discussions."
+   },
+   {
+    "id": "CT-MCQ-S05-13",
+    "question": "The six types of strategic performance measure given by the study material are:",
+    "options": {
+     "A": "Financial, customer satisfaction, market, employee, innovation and environmental measures",
+     "B": "Financial, operational, managerial, strategic, competitive and environmental measures",
+     "C": "Goal alignment, resource allocation, continuous improvement, external accountability, relevance and timeliness",
+     "D": "Profit, people, planet, purpose, process and performance"
+    },
+    "answer": "A",
+    "explanation": "SM §5.7 lists exactly these six. Option C mixes the four reasons SPM is essential with two of the four selection factors; option D mixes up the Triple and Quadruple Bottom Line's Ps."
+   },
+   {
+    "id": "CT-MCQ-S05-14",
+    "question": "Which of the following is one of the four factors to consider in selecting the right strategic performance measures?",
+    "options": {
+     "A": "Goal alignment",
+     "B": "Data timeliness",
+     "C": "External accountability",
+     "D": "Continuous improvement"
+    },
+    "answer": "B",
+    "explanation": "The four selection factors are Relevance, Data Availability, Data Quality and Data Timeliness. Goal alignment, external accountability and continuous improvement are three of the four reasons strategic performance measures are essential — a different list."
+   },
+   {
+    "id": "CT-MCQ-S05-15",
+    "question": "\"Paralysis by over analysis\" is the study material's warning in relation to:",
+    "options": {
+     "A": "The number of premises a firm attempts to control",
+     "B": "The number of leadership roles a strategic leader tries to play",
+     "C": "The creation and selection of key performance measures and indicators",
+     "D": "The number of levels in an SBU structure"
+    },
+    "answer": "C",
+    "explanation": "SM §5.7: 'Key performance measures and indicators must be created, selected, combined into reports and acted upon… Firstly, there needs to be a clear cause and effect relationship between the indicators and strategic outcomes. Secondly, KPIs need to be carefully chosen because they will influence the behaviour of people within the organisation. However, managers should be aware of paralysis by over analysis.'"
+   }
+  ],
+  "descriptive": [
+   {
+    "id": "CT-D-S05-01",
+    "marks": 5,
+    "question": "Distinguish between Strategic Planning and Operational Planning.",
+    "answer_points": [
+     "**The game plan that really directs the company towards success is called \"corporate strategy\"**, and **planning may be operational or strategic**. **Senior management develops strategic plans for the entire organisation after evaluating the organization's strengths and weaknesses in light of potential possibilities and dangers in the outside world; they involve gathering and allocating resources in order to achieve organisational goals. But operational plans on the other hand are made at the middle and lower-level management; they provide specifics on how the resources are to be used effectively to achieve the goals.**",
+     "**Strategic planning shapes the organisation and its resources** | **Operational planning deals with current deployment of resources.**",
+     "**Strategic planning assesses the impact of environmental variables** | **Operational planning develops tactics rather than strategy.**",
+     "**Strategic planning takes a holistic view of the organisation** | **Operational planning projects current operations into the future.**",
+     "**Strategic planning develops overall objectives and strategies** | **Operational planning makes modifications to the business functions but not fundamental changes.**",
+     "**Strategic planning is concerned with the long-term success of the organisation** | **Operational planning is the responsibility of functional managers.**",
+     "**Strategic planning is a senior management responsibility** — the sixth characteristic, which has no counterpart in ICAI's operational column, so the two lists are deliberately uneven at six against five. Add the definition if space allows: **strategic planning is the process of determining the objectives of the firm, resources required to attain these objectives and formulation of policies to govern the acquisition, use and disposition of resources.**"
+    ]
+   },
+   {
+    "id": "CT-D-S05-02",
+    "marks": 5,
+    "question": "Describe the principal aspects of the strategy-execution process which are included in most situations.",
+    "answer_points": [
+     "**Implementation or execution is an operations-oriented activity aimed at shaping the performance of core business activities in a strategy-supportive manner. In most situations, strategy-execution process includes the following principal aspects:**",
+     "**Developing budgets that steer ample resources into those activities that are critical to strategic success.**",
+     "**Staffing the organization with the needed skills and expertise, consciously building and strengthening strategy-supportive competencies and competitive capabilities and organizing the work effort.**",
+     "**Ensuring that policies and operating procedures facilitate rather than impede effective execution.** **Using the best-known practices to perform core business activities and pushing for continuous improvement.**",
+     "**Installing information and operating systems that enable company personnel to better carry out their strategic roles day in and day out.** **Motivating people to pursue the target objectives energetically.**",
+     "**Creating culture and climate conducive to successful strategy implementation and execution.** **Exerting the internal leadership needed to drive implementation forward and keep improving strategy execution.**",
+     "**Frame the answer with the definition:** **strategy implementation concerns the managerial exercise of putting a freshly chosen strategy into action. It deals with the managerial exercise of supervising the ongoing pursuit of strategy, making it work, improving the competence with which it is executed and showing measurable progress in achieving the targeted results** — and note that **the allocation of resources to new courses of action will need to be undertaken, and there may be a need for adapting the organization's structure to handle new activities as well as training personnel and devising appropriate systems.**"
+    ]
+   },
+   {
+    "id": "CT-D-S05-03",
+    "marks": 5,
+    "question": "Explain the pointers for navigating change during digital transformation, and state why change management matters to a digital transition.",
+    "answer_points": [
+     "**Any organisation may find the work of digital transformation challenging and overwhelming. To ensure that a digital transition is effective, change management is essential.** **The use of digital technologies to develop fresh, improved, or entirely new company procedures, goods, or services is known as \"digital transformation.\" It's a fundamental adjustment that can be challenging to identify and even more challenging to implement.**",
+     "**Specify the digital transformation's aims and objectives: what is the intended outcome? What are the precise objectives that must be accomplished? It will be easier to make sure that everyone is on the same page and pursuing the same aims if everyone has a clear grasp of the goals.**",
+     "**Always, always, always communicate: it might be challenging for people to accept change and adjust to it. Ensure that you routinely and honestly discuss the objectives of the digital transformation and how they will affect stakeholders, including employees, clients, and other parties.**",
+     "**Be ready for resistance: even when a change is for the better, it can be challenging for people to embrace it. Have a strategy in place for dealing with any resistance that may arise.**",
+     "**Implement changes gradually: changes should ideally be implemented gradually rather than all at once. In order to avoid overwhelming individuals with too much change at once, this will give people time to become used to the new way of doing things.**",
+     "**Offer assistance and training: workers will need guidance in the new procedures, software applications, etc.**",
+     "**Why change management matters:** **a good change management strategy is necessary for a successful digital transformation**, and **effective completion of the massive project known as digital transformation depends on meticulous planning and change management. Digital transformation efforts are more likely to fail without change management. Organizations can successfully integrate a new digital system by planning for and managing the changes that must take place. Any project involving digital transformation must include it.**"
+    ]
+   },
+   {
+    "id": "CT-D-S05-04",
+    "marks": 5,
+    "question": "Explain the Strategic Business Unit structure. State its characteristics and the benefits a firm may derive from it.",
+    "answer_points": [
+     "**This concept is relevant to multi-product, multi-business enterprises. It is impractical for an enterprise with a multitude of businesses to provide separate strategic planning treatment to each one of its products/businesses; it has to necessarily group the products/businesses into a manageable number of strategically related business units and then take them up for strategic planning.** **An SBU is a grouping of related businesses, which is amenable to composite planning treatment.**",
+     "**The three most important characteristics of an SBU are: it is a single business or a collection of related businesses which offer scope for independent planning and which might feasibly stand alone from the rest of the organization; it has its own set of competitors; and it has a manager who has responsibility for strategic planning and profit performance, and who has control of profit-influencing factors.**",
+     "**Its shape:** **a strategic business unit (SBU) structure consists of at least three levels, with a corporate headquarters at the top, SBU groups at the second level, and divisions grouped by relatedness within each SBU at the third level.** **Within each SBU, divisions are related to each other, as also that SBU groups are unrelated to each other**, and **individual SBUs are treated as profit centres and controlled by corporate headquarters.**",
+     "**Why it arose:** large firms formerly planned **on a territorial basis**, which gave two difficulties — **since a number of territorial units handled the same product, the same product was getting varied strategic planning treatments**, and **since a given territorial planning unit carried different and unrelated products, products with dissimilar characteristics were getting identical strategic planning treatment.**",
+     "**Benefits:** **a scientific method of grouping the businesses of a multi-business corporation which helps the firm in strategic planning**; **an improvement over the territorial grouping of businesses**; **products/businesses within an SBU receive the same strategic planning treatment and priorities**; and **unrelated products/businesses in any group are separated**.",
+     "**Further benefits:** grouping on SBU lines **helps the firm in strategic planning by removing the vagueness and confusion generally seen in grouping businesses; it also facilitates the right setting for correct strategic planning and facilitates correct relative priorities and resources to the various businesses**; **each SBU is a separate business from the strategic planning standpoint — in the basic factors, viz., mission, objectives, competition and strategy, one SBU will be distinct from another**; and **each SBU will have a CEO, responsible for strategic planning for the SBU and its profit performance, with control over most of the factors affecting its profit**.",
+     "**Where relatedness can lie, on ICAI's Unilever illustration:** **SBUs might build on similar technologies, or all provide similar sorts of products or services**; **SBUs might be serving similar or different markets** — the technologies behind frozen food, washing powders and margarine differ, **but all are sold through retail operations**; **or it may be that other competences on which the competitive advantage of different SBUs are built have similarities.**"
+    ]
+   },
+   {
+    "id": "CT-D-S05-05",
+    "marks": 5,
+    "question": "Explain the four types of strategic control.",
+    "answer_points": [
+     "**According to Schendel and Hofer, \"strategic control focuses on the dual questions of whether: (1) the strategy is being implemented as planned; and (2) the results produced by the strategy are those intended.\"** **There is often a time gap between the stages of strategy formulation and its implementation… there is a need for warning systems to track a strategy as it is being implemented.** **Strategic control is the process of evaluating strategy as it is formulated and implemented. It is directed towards identifying problems and changes in premises and making necessary adjustments.**",
+     "**Premise control: a strategy is formed on the basis of certain assumptions or premises about the complex and turbulent organizational environment. Over a period of time these premises may not remain valid. Premise control is a tool for systematic and continuous monitoring of the environment to verify the validity and accuracy of the premises on which the strategy has been built.** It monitors **environmental factors such as economic (inflation, liquidity, interest rates), technology, social and legal-regulatory** and **industry factors such as competitors, suppliers, substitutes**. **It is neither feasible nor desirable to control all types of premises in the same manner**, so managers **select those premises that are likely to change and would severely impact the functioning of the organization and its strategy.**",
+     "**Strategic surveillance: contrary to the premise control, the strategic surveillance is unfocussed. It involves general monitoring of various sources of information to uncover unanticipated information having a bearing on the organizational strategy. It involves casual environmental browsing. Reading financial and other newspapers, business magazines, attending meetings, conferences, discussions and so on can help in strategic surveillance. Strategic surveillance may be a loose form of strategic control but is capable of uncovering information relevant to the strategy.**",
+     "**Special alert control: at times, unexpected events may force organizations to reconsider their strategy. Sudden changes in government, natural calamities, terrorist attacks, unexpected merger/acquisition by competitors, industrial disasters and other such events may trigger an immediate and intense review of strategy. To cope up with such eventualities, the organisations form crisis management teams to handle the situation.**",
+     "**Implementation control: managers implement strategy by converting major plans into concrete, sequential actions that form incremental steps. Implementation control is directed towards assessing the need for changes in the overall strategy in light of unfolding events and results associated with incremental steps and actions.** **Strategic implementation control is not a replacement to operational control. Unlike operational control, it continuously monitors the basic direction of the strategy.**",
+     "**The two basic forms of implementation control are: Monitoring strategic thrusts — monitoring strategic thrusts helps managers to determine whether the overall strategy is progressing as desired or whether there is need for readjustments; and Milestone Reviews — all key activities necessary to implement strategy are segregated in terms of time, events or major resource allocation. It normally involves a complete reassessment of the strategy. It also assesses the need to continue or refocus the direction of an organization.**",
+     "**Close with ICAI's own line:** **these four strategic controls steer the organisation and its different sub-systems to the right track. They help the organisation to negotiate through the turbulent and complex environment.**"
+    ]
+   },
+   {
+    "id": "CT-D-S05-06",
+    "marks": 5,
+    "question": "What do you mean by strategic performance measures? State the reasons for their importance for an organization.",
+    "answer_points": [
+     "**Strategic performance measures are key indicators that organizations use to track the effectiveness of their strategies and make informed decisions about resource allocation. The measures provide a snapshot of the organization's performance, enabling leaders to assess whether their strategies are aligned with their goals and objectives and to make necessary adjustments to improve their performance.**",
+     "**SPM is a method that increases line executives' understanding of an organization's strategic goals and offers a continuous system for tracking progress towards these objectives using clear-cut performance measurements. SPM helps to eliminate silos by establishing a common language among all divisions of the organisation so they may communicate openly and productively.** The rationale: **a company's performance depends heavily on execution of strategy; companies that continuously outperform their competitors are those who execute well.**",
+     "**Goal Alignment: strategic performance measures help organizations align their strategies with their goals and objectives, ensuring that they are on track to achieve their desired outcomes.**",
+     "**Resource Allocation: strategic performance measures provide organizations with the information they need to make informed decisions about resource allocation, enabling them to prioritize their efforts and allocate resources to the areas that will have the greatest impact on their performance.**",
+     "**Continuous Improvement: strategic performance measures provide organizations with a framework for continuous improvement, enabling them to track their progress and make adjustments to improve their performance over time.**",
+     "**External Accountability: strategic performance measures help organizations demonstrate accountability to stakeholders, including shareholders, customers, and regulatory bodies, by providing a clear and transparent picture of their performance.**",
+     "**Two cautions in design:** **there needs to be a clear cause and effect relationship between the indicators and strategic outcomes**, and **KPIs need to be carefully chosen because they will influence the behaviour of people within the organisation** — though **managers should be aware of paralysis by over analysis**. **Effective strategic performance measures should be relevant, meaningful, easy to understand, and regularly reviewed and updated to ensure their continued alignment with the organization's goals and objectives.** Note that PYQ January 2025 marked this question 1 + 4, so the definition carries its own mark."
+    ]
+   }
+  ]
+ },
+ "recall": {
+  "quick": [
+   "Five stages: vision and mission; environmental and organisational analysis; formulation; implementation; strategic evaluation and control. The model is **Fred R. David's**, and the process **never really ends**.",
+   "Strategic planning has **six** characteristics (it shapes the organisation and its resources, and is a senior management responsibility); operational planning has **five** (it deals with current deployment, and is the functional managers' responsibility).",
+   "Strategic uncertainty: **Flexibility, Diversification, Monitoring and Scenario Planning, Building Resilience, Collaboration and Partnerships** — and its impact depends on the importance of the impacted SBU.",
+   "Efficiency is **doing the thing right**; effectiveness is **doing the right thing**. Thrive, Die Slowly, Survive, Die Quickly — and **Die Slowly is worse than Survive**.",
+   "Formulation is **entrepreneurial, effective, intellectual, few at the top**; implementation is **administrative, efficient, operational, many at the middle and lower levels**.",
+   "Forward linkages: a new strategy forces changes in structure and leadership style. Backward linkages: the present resource structure narrows the strategies chosen.",
+   "Strategy → programme (goals, policies, procedures, rules, funds) → project (predetermined schedule and costs, capital budgeting).",
+   "Three steps to initiate strategic change: **recognize the need, create a shared vision, institutionalise**. Kurt Lewin: **unfreeze, change, refreeze** — cyclical, not one-time.",
+   "Four digital-transformation elements: **define goals, assess gaps, roadmap, implement at every level.** Five SME best practices: **top, necessary, disruption, communication, norm.** Five pointers: **aims, communicate, resistance, gradually, training.**",
+   "7S: three hard (**Strategy, Structure, Systems**) and four soft (**Shared Values, Style, Staff, Skills**); four limitations — external environment, effectiveness undefined, static, execution gaps.",
+   "Eight structures: Simple, Functional, Divisional, Multi-divisional, SBU, Matrix, Network, Hourglass. **Own set of competitors = SBU; two superiors = matrix; broker shell = network; squeezed middle = hourglass.**",
+   "Three organizational controls (operational, management, strategic) and four strategic controls (**premise, surveillance, special alert, implementation**). SPM: six types, four reasons, four selection factors."
+  ],
+  "fill": [
+   "Strategic control, according to ______ and ______, focuses on whether the strategy is being implemented as planned and whether the results are those intended. **(Schendel, Hofer)**",
+   "Management control is defined by ______ ______ as the process by which managers assure that resources are obtained and used effectively and efficiently. **(Robert Anthony)**",
+   "An SBU structure consists of at least ______ levels, with a corporate headquarters at the top. **(three)**",
+   "In large companies, changing the corporate culture in significant ways can take ______ to ______ years. **(two, five)**",
+   "The Quadruple Bottom Line adds a spiritual dimension named ______. **(Purpose)**",
+   "The study material warns that managers should be aware of ______ by ______ ______. **(paralysis, over analysis)**"
+  ],
+  "true_false": [
+   "Strategy is a soft element of the McKinsey 7S Model. **FALSE — Strategy, Structure and Systems are the hard elements, directly controlled by management.**",
+   "Implementation control replaces operational control. **FALSE — strategic implementation control is not a replacement to operational control; unlike operational control, it continuously monitors the basic direction of the strategy.**",
+   "Kurt Lewin's change process is a one-time application. **FALSE — it is a continuous process due to dynamism and an ever-changing environment, and the cycle remains continuously in action.**",
+   "A change in structure can be expected to make a bad strategy good. **FALSE — changes in structure should not be expected to make a bad strategy good, to make bad managers good, or to make bad products sell.**",
+   "Transactional leadership is appropriate in a static environment, in mature industries and in organizations performing well. **TRUE — and it is better suited to persuading people to work efficiently and run operations smoothly.**",
+   "Strategic uncertainty is dealt with under the heading of strategic control. **FALSE — the study material prints 'Strategic uncertainty and how to deal with it?' inside §5.2.2 Strategy Formulation.**"
+  ],
+  "one_word": [
+   "The leadership quality ICAI calls 'perhaps the most critical of the strategic leader's skills'. **(Managing human capital)**",
+   "The structure in which employees have two superiors. **(Matrix structure)**",
+   "The strategic control triggered by an unexpected merger or acquisition by competitors. **(Special alert control)**",
+   "The phrase ICAI uses for the unity and high morale a leader must promote in pushing for good strategy execution. **(Esprit de corps)**",
+   "The study material's name for a network organization. **(Virtual organization)**",
+   "The set of assumptions, premises and accepted wisdom that bounds a manager's understanding of the company and its industry. **(Managerial frame of reference)**"
+  ],
+  "match": {
+   "headers": [
+    "Term",
+    "Definition"
+   ],
+   "left": [
+    "Hourglass structure",
+    "Milestone reviews",
+    "Change readiness",
+    "Shared Values (7S)",
+    "Backward linkages",
+    "Market measures (SPM)"
+   ],
+   "right": [
+    "Three layers with a constricted middle, IT linking top and bottom, generalist middle managers",
+    "Key activities segregated by time, events or major resource allocation, normally involving a complete reassessment of the strategy",
+    "The ability to continuously initiate and respond to change in ways that create advantage, minimize risk, and sustain performance",
+    "The core values which get reflected within the organizational culture or influence the code of ethics of the management",
+    "The formulation process being affected by factors related with implementation",
+    "Market share, customer acquisition and customer referrals"
+   ]
+  },
+  "differentiate": [
+   "**Strategic planning vs operational planning** — shapes the organisation and its resources, against current deployment of resources; six characteristics against five.",
+   "**Strategy formulation vs implementation** — entrepreneurial and effective, a few at the top, against administrative and efficient, many at the middle and lower levels.",
+   "**Premise control vs strategic surveillance** — focused monitoring of the stated assumptions, against unfocussed casual environmental browsing.",
+   "**Divisional vs multi-divisional vs SBU** — functions performed centrally and divisionally; a small corporate office on financial control; related businesses with their own competitors and own CEO.",
+   "**Transformational vs transactional leadership** — charisma and vision for turbulent environments and poor performers, against systems and rewards for static environments, mature industries and good performers."
+  ],
+  "flowchart": {
+   "title": "SM Chapter 5 — the chapter as one process",
+   "steps": [
+    "**§5.2 Strategic Management Process** (Fred R. David) → **§5.2.1 Five stages**: vision and mission → environmental and organisational analysis → formulation → implementation → evaluation and control",
+    "**§5.2.2 Formulation** → strategic vs operational planning (6 vs 5 characteristics) · strategic uncertainty (5 responses, impact via the SBU)",
+    "**§5.2.3 Implementation** → the A-B-C-D matrix · efficiency vs effectiveness (Thrive / Die Slowly / Survive / Die Quickly) · the 8 principal aspects of execution",
+    "**§5.2.4 Difference** (8-row table) → **§5.2.5 Linkages** (forward and backward) and **Issues** (6, from project to behavioural implementation)",
+    "**§5.3 Strategic change through digital transformation** → §5.3.1 three steps + Kurt Lewin (unfreeze-change-refreeze, with Kellman's three methods) → §5.3.2 four essential elements → §5.3.3 five SME best practices → §5.3.4 five pointers",
+    "**§5.4 Organizational Framework** = McKinsey 7S (3 hard + 4 soft, 4 limitations) → **§5.4.1 Structure** (8 types; Chandler; symptoms of misfit) and **§5.4.2 Culture** (ally or stumbling block; the culture-changing menu)",
+    "**§5.5 Strategic Leadership** (15 roles, 5 execution roles, 7 responsibilities; transformational vs transactional) → **§5.6 Strategic Control** (3 organizational, 4 strategic) → **§5.7 Strategic Performance Measures** (6 types, 4 reasons, 4 factors; TBL and QBL)"
+   ]
+  }
+ },
+ "revision": {
+  "five": [
+   "Five stages: Vision, Environment, Formulate, Implement, Control. Implementation and evaluation are this chapter.",
+   "Effective = right thing; efficient = thing right. Thrive, Die Slowly, Survive, Die Quickly — Die Slowly is the worse of the middle two.",
+   "7S: three hard (Strategy, Structure, Systems), four soft (Shared Values, Style, Staff, Skills).",
+   "Structures: own competitors = SBU; two bosses = matrix; broker shell = network; squeezed middle = hourglass.",
+   "Controls: assumptions = premise; unfocussed = surveillance; shock = special alert; milestones = implementation."
+  ],
+  "fifteen": [
+   "Write out the six strategic-planning and five operational-planning characteristics, then the eight-row formulation-versus-implementation table.",
+   "Recite the three steps to initiate strategic change, Lewin's three phases with Kellman's three methods, and the four digital-transformation elements.",
+   "Recite the five SME best practices with the five sub-points of 'reduce disruption', then the five pointers — and say aloud which stem words call for each.",
+   "Name all eight structures with their one deciding fact, then the SBU's three characteristics and the matrix's three conditions.",
+   "Recite the four strategic controls with their trigger words, then SPM's six types, four reasons and four selection factors."
+  ],
+  "thirty": [
+   "Work Integrated Case 1 (Chandrika Diagnostics) end to end: controls, structure, culture, the app rollout, the monthly pack and the leadership style.",
+   "Work Integrated Case 2 (Arka Mobility): the A-B-C-D matrix, the efficiency grid, the linkages, the structure decision and the control design.",
+   "Write the eight principal aspects of the strategy-execution process in seven minutes, then check against ICAI's published wording.",
+   "Write the McKinsey 7S answer with all four limitations in seven minutes (the 2 + 3 split), then the hourglass short note in seven.",
+   "Build a one-page table of the eight RTPs' questions 15 and 16 with the concept each was answered on — the examiner's own map of this chapter."
+  ],
+  "sixty": [
+   "Run the full chapter test (15 MCQs + 6 descriptive) under timed conditions.",
+   "Work both integrated cases in writing rather than reading the answers.",
+   "Re-read the three Confusing Concepts tables and self-test only on the Spot It line of each.",
+   "Write out, from memory, every numbered list in the chapter with its count: 5 stages, 6+5 planning characteristics, 5 uncertainty responses, 4 control-process elements, 8 execution aspects, 8 table rows, 2 linkages, 6 issues, 3 change steps, 3 Lewin phases, 3 Kellman methods, 4 digital elements, 5 SME practices, 5 pointers, 3+4 7S elements, 4 7S limitations, 8 structures, 3 SBU characteristics, 3 matrix conditions, 15+5+7 leadership lists, 3 organizational controls, 4 strategic controls, 6 SPM types, 4 SPM reasons, 4 SPM factors. If a count is wrong, the list is not learned."
+  ]
+ },
+ "one_page": {
+  "sections": [
+   {
+    "heading": "The process and the two phases",
+    "points": [
+     "**Five stages** (§5.2.1): vision and mission · environmental and organisational analysis · formulation · implementation · **strategic evaluation and control**. Model: **Fred R. David**. The process is **dynamic, continuous, iterative and never really ends**.",
+     "**Formulation** (§5.2.2): strategic planning **shapes the organisation and its resources** (6 characteristics, senior management); operational planning **deals with current deployment** (5 characteristics, functional managers). **Strategic uncertainty** — flexibility, diversification, monitoring and scenario planning, building resilience, collaboration and partnerships; impact depends on **the importance of the impacted SBU**.",
+     "**Implementation** (§5.2.3): **putting a freshly chosen strategy into action** — allocate resources, adapt structure, train personnel, devise systems. **A-B-C-D matrix** and the **Thrive / Die Slowly / Survive / Die Quickly** grid, where **cell 2 is worse than cell 3**. Eight **principal aspects of execution**, from budgets to internal leadership."
+    ]
+   },
+   {
+    "heading": "Difference, linkages and issues",
+    "points": [
+     "**§5.2.4** — eight rows: formulation is **placing the Forces before the action**, entrepreneurial, effective, intellectual, a few at the top, needing conceptual and analytical skills; implementation is **managing forces during the action**, administrative, efficient, operational, many at the middle and lower levels, needing **motivational and leadership traits**.",
+     "**§5.2.5** — **forward linkages**: a new strategy forces changes in structure and leadership style. **Backward linkages**: firms adopt strategies implementable **with the help of the present structure of resources combined with some additional efforts**. **Strategy → programme → project.** Six issues: project, procedural, resource allocation, structural, functional, behavioural."
+    ]
+   },
+   {
+    "heading": "Strategic change and digital transformation",
+    "points": [
+     "**Three steps** (§5.3.1): recognize the need · create a shared vision · institutionalise. **Kurt Lewin**: unfreeze, change, refreeze — with **Kellman's compliance, identification, internalization** inside the middle phase. **Not a one-time application; the cycle remains continuously in action.**",
+     "**Four essential elements** (§5.3.2): define goals · assess the current state and identify gaps · create a roadmap · implement at every level.",
+     "**Five SME best practices** (§5.3.3): begin at the top · necessary and desired · reduce disruption (5 sub-points) · encourage communication · change is the norm (**change readiness**). **Five pointers** (§5.3.4): aims and objectives · always communicate · be ready for resistance · implement gradually · offer assistance and training. The stem word **navigating** means §5.3.4."
+    ]
+   },
+   {
+    "heading": "Organizational framework",
+    "points": [
+     "**7S** (§5.4): hard = **Strategy, Structure, Systems**; soft = **Shared Values, Style, Staff, Skills**; **modifying one aspect might have a ripple effect**. Four limitations: ignores the external environment · effectiveness undefined · more static and less flexible · misses the real gaps in conceptualization and execution.",
+     "**Structures** (§5.4.1): Simple · Functional · Divisional (area, product, customer, process) · Multi-divisional · **SBU** (related businesses, **own set of competitors**, own CEO, at least three levels, profit centres) · **Matrix** (two superiors, most complex, violates unity of command) · **Network** (non-structure, virtual organization, broker shell) · **Hourglass** (constricted middle, generalist managers). **Chandler: structure should follow strategy** — but structure also shapes the choice of strategy.",
+     "**Culture** (§5.4.2): a company's **values, beliefs, business principles, traditions, ways of operating, and internal work environment** — either a **valuable ally** or a **stumbling block**. Thrift → cost leadership; creativity → innovation leadership; customer focus → superior customer value. Changing it can take **two to five years**."
+    ]
+   },
+   {
+    "heading": "Leadership, control and measures",
+    "points": [
+     "**Leadership** (§5.5): 15 roles (visionary to **head cheerleader**); **five execution roles** (stay on top · **esprit de corps** · responsive · ethical · corrective); seven responsibilities (including **managing human capital**). **Transformational** for turbulent environments and poor performers; **transactional** for static environments, mature industries and good performers.",
+     "**Control** (§5.6): three organizational controls by scope — **operational** (task), **management** (department, Robert Anthony), **strategic** (the strategy, Schendel and Hofer). Four strategic controls — **premise** (assumptions), **surveillance** (unfocussed), **special alert** (shocks, crisis management teams), **implementation** (thrusts and milestone reviews).",
+     "**SPM** (§5.7): six types (financial, customer satisfaction, market, employee, innovation, environmental) · four reasons (goal alignment, resource allocation, continuous improvement, external accountability) · four factors (relevance, data availability, data quality, data timeliness). **TBL** adds People and Planet; **QBL** adds **Purpose**. Beware **paralysis by over analysis**."
+    ]
+   },
+   {
+    "heading": "The examiner's habits in this chapter",
+    "points": [
+     "**ICAI's RTPs label their own chapters:** SM questions **15 and 16 are Chapter 5** in all eight RTPs from May 2024 to September 2026 — sixteen questions, no exceptions.",
+     "**The four most repeated questions:** the five **pointers for navigating change** (four appearances), the **PQR Ltd. SBU case** (four), **'why are SPM essential'** (four, plus three more on SPM), and the **Twaran / BrightWave change-management case** (three).",
+     "**Organization structure is the largest heading in the book** at 18 atoms, of which the SBU takes seven and the matrix five. **The McKinsey 7S is the most MCQ-heavy** at seven of its ten atoms.",
+     "**Nothing here is computational.** The marks are in ICAI's own numbered lists, reproduced in ICAI's own words. Count your lists: if the count is wrong, the list is not learned."
+    ]
+   }
+  ]
+ },
+ "verification": {
+  "sources": [
+   "ICAI Study Material, Paper 6B Strategic Management, Chapter 5 — Strategy Implementation and Evaluation (sources/sm/sm_ch5.txt; §5.1 to §5.7, with the Chapter Overview, the Fred R. David and Chandler figures, the two 2×2 matrices, the eight structure sub-headings A to H, the strategic-control timeline figure and the Summary).",
+   "Past examination papers with ICAI's suggested answers: May 2024, September 2024, January 2025, May 2025, September 2025, January 2026, May 2026 (sources/sa/). Note that SA-M24 carries no SM Part-I MCQ section — that paper's Section B comprises four descriptive questions only.",
+   "Revision Test Papers May 2024 to September 2026 — eight files — using ICAI's own printed chapter labels over the SM descriptive questions (sources/rtp/).",
+   "Mock Test Papers Series 1 and 2, March 2024 to September 2026, questions and answers (sources/mtp/)."
+  ],
+  "open_items": [
+   "**A correction to the note in atoms_S04.json.** That file says the RTP chapter-label pattern holds 'across all nine RTPs from May 2024 to September 2026'. There are **eight** RTP files in sources/rtp (M24, S24, J25, M25, S25, J26, M26, S26). The pattern itself is unaffected — Chapter 5 is questions 15 and 16 in all eight — but the count was wrong and is corrected here and in atoms_S05.json.",
+   "**The two change-management lists are distinguished by one word.** ICAI answers 'most preferred practices' for an SME with §5.3.3's five best practices, but answers 'key strategies for navigating change effectively' (RTP-M24-SQ16) with §5.3.4's five pointers. The atom file records this, and RTP-M24-SQ16 is filed at S05.12 rather than S05.11 on the strength of its published answer. Watch for a stem that uses neither word.",
+   "**RTP label artefact.** In several RTP files the chapter-label line physically *follows* the question text, so RTP-S25-SQ14 and RTP-M25-SQ14 appear in the raw text under a 'Chapter 5' line that belongs to the next question. Questions 15 and 16 are Chapter 5 on the established pattern, which the published answers confirm in every case.",
+   "**PYQ-M26-Q8a could not be resolved by the extractor** — qa.py returned a fragment of the globalisation answer instead. Its stem and ICAI's answer were read directly from sources/sa/SA-M26.txt at lines 1694 and 1712 onward. Re-verify against the printed paper if available.",
+   "**'Principal aspects of the strategy-execution process' is not in §5.2.3 verbatim.** ICAI draws the eight-item list from the wider implementation discussion in its RTP September 2025 answer. It is filed at S05.05 and quoted from the published answer rather than from the study material text.",
+   "**'Strategic uncertainty' and 'strategic planning vs operational planning' both sit in §5.2.2**, under Strategy Formulation, not under strategic control or the strategic management process. Candidates expect them elsewhere; the atoms follow the study material's own placement.",
+   "**MTP-M26-S1-SQ4b is an OR question** offering either 'why Strategic Performance Measures are essential' or 'why change management is crucial during digital transformation and the key strategies'. Its primary code is S05.18 with S05.12 secondary, and both limbs are covered in the respective blocks.",
+   "**RTP-J25-SMCQ1-ii and -iii had their fourth options truncated by the extractor.** Option (a) of 1(ii) and option (c) of 1(iii) — both the keyed answers — were read in full; the remaining distractors in 1(ii) are reconstructed in the published form from the case context. ICAI's keys (a) and (c) are followed.",
+   "**Items found in this chapter's sweep that belong to earlier chapters** and are queued for the back-fill pass: RTP-M24-SMCQ1-ii, RTP-M24-SMCQ3, RTP-M24-SMCQ5, RTP-M25-SMCQ5, RTP-S24-SMCQ1-i/ii/iii/v, RTP-S24-SMCQ4, RTP-S25-SMCQ1-iii, RTP-S25-SMCQ3, RTP-S25-SMCQ4, RTP-S26-SMCQ1-iii, RTP-M26-SMCQ5, RTP-J26-SMCQ1-v, PYQ-J25-MCQ12/13/16, PYQ-J26-MCQ10/12/13/16, PYQ-M26-MCQ9/14, PYQ-S24-MCQ10/11/12, and the descriptive strays MTP-M24-S2-SQ1c (threat of new entrants, SM Ch 2) and MTP-J25-S2-SQ1c (focused differentiation, SM Ch 3).",
+   "**Three stems that read like Chapter 5 were excluded** after reading the published answer: MTP-S24-S1-SQ1c (FreshDelight — market development, SM Ch 4, now placed there), MTP-S25-S1-SQ1c (ZephyrFit — divestment, SM Ch 4, now placed there) and MTP-M24-S2-SQ1c (GreenThrift — threat of new entrants, SM Ch 2)."
+  ],
+  "qa": [
+   "**Register coverage:** all eighteen register headings S05.01 to S05.18 are carried by the eleven topic blocks of this chapter.",
+   "**Atom coverage:** all 80 atoms in atoms_S05.json are placed — each either has its own official_questions or mcqs entry, or is named by full id inside an also_asked_as string.",
+   "**Answer fidelity:** every quoted ICAI answer was resolved from the source text and read in full before mapping, not reconstructed from the stem. The sweep that built this chapter also found 19 atoms belonging to SM Ch 4 that three earlier passes had missed; those have been placed and Ch 4 re-merged.",
+   "**MCQ keys:** official-id MCQs carry ICAI's published key, stated in each explanation. RTP keys were read from the compact table under the last SUGGESTED ANSWERS heading of each RTP file; SA keys from each paper's Answer Key table — noting that SA-S24's SM key sits under the *second* such heading.",
+   "**Generated MCQs** were planned to an exact key budget and then audited; eleven were rotated to bring the block distribution to A10 B10 C10 D11, with the chapter test's 15 items completing an exact 14 per letter."
+  ]
+ }
+}

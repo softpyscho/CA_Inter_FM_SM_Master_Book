@@ -1,0 +1,610 @@
+{
+ "concepts": [
+  {
+   "code": "S05.05 + S05.06",
+   "title": "5.2.3 Strategy Implementation · 5.2.4 Difference between Strategy Formulation and Implementation",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "RTP 2 · MTP 2",
+   "understand": [
+    "**What implementation is.** ==**Strategy implementation concerns the managerial exercise of putting a freshly chosen strategy into action. It deals with the managerial exercise of supervising the ongoing pursuit of strategy, making it work, improving the competence with which it is executed and showing measurable progress in achieving the targeted results.**==",
+    "==**Strategic implementation is concerned with translating a strategic decision into action, which presupposes that the decision itself (i.e., the strategic choice) was made with some thought being given to feasibility and acceptability.** **The allocation of resources to new courses of action will need to be undertaken, and there may be a need for adapting the organization's structure to handle new activities as well as training personnel and devising appropriate systems.**== Four deliverables in one sentence: **resources, structure, personnel, systems.**",
+    "**Why the distinction matters.** ==**Many managers fail to distinguish between strategy formulation and strategy implementation. Yet, it is crucial to realize the difference between the two because they both require very different skills. Also, a company will be successful only when the strategy formulation is sound and implementation is excellent. There is no such thing as successful strategic design.**== ICAI adds the sharp line: **often people blame the strategy model for the failure of a company while the main flaw might lie in failed implementation.** ==**Thus, organizational success is a function of good strategy and proper implementation.**==",
+    "**The formulation–implementation matrix (the A-B-C-D figure).** Sound or flawed formulation on one axis, weak or excellent implementation on the other. ==**Square A** is where **a company apparently has formulated a very competitive strategy but is showing difficulties in implementing it successfully**, which **can be due to various factors, such as the lack of experience (e.g. for startups), the lack of resources, missing leadership and so on**; the company **will aim at moving from square A to square B, given they realize their implementation difficulties**. **Square B is the ideal situation** where a company **has succeeded in designing a sound and competitive strategy and has been successful in implementing it**.==",
+    "==**Square D** is where **the strategy formulation is flawed, but the company is showing excellent implementation skills**; a company there **first… have to do is to redesign their strategy before readjusting their implementation/execution skills**. **Square C denotes companies that haven't succeeded in coming up with a sound strategy formulation and in addition are bad at implementing their flawed strategic model**; **their path to success also goes through business model redesign and implementation/execution readjustment.**==",
+    "**Efficiency against effectiveness — the second 2×2, and the one ICAI has actually examined.** The study material first defines the pair: ==**the focus has been on efficiency (i.e., the relationship between inputs and outputs, usually with a short time horizon) rather than on effectiveness (which is concerned with the attainment of organisational goals — including that of desired competitive position). While efficiency is essentially introspective, effectiveness highlights the links between the organization and its environment. The responsibility for efficiency lies with operational managers, with top management having the primary responsibility for the strategic orientation of the organization.**==",
+    "**The four cells, in ICAI's own labels.** ==**Cell 1 — Efficient and Effective: Thrive.** An organization here **is well placed and thrives, since it is achieving what it aspires to achieve with an efficient output/input ratio**. **Cell 2 — Efficient but Ineffective: Die Slowly.** **Cell 3 — Inefficient but Effective: Survive.** **Cell 4 — Inefficient and Ineffective: Die Quickly.**==",
+    "**The counter-intuitive point ICAI makes, and examines.** ==**An organization in cell 2 or 4 is doomed, unless it can establish some strategic direction. The particular point to note is that cell 2 is a worse place to be than is cell 3 since, in the latter, the strategic direction is present to ensure effectiveness even if rather too much input is being used to generate outputs. To be effective is to survive whereas to be efficient is not in itself either necessary or sufficient for survival.**==",
+    "==**In crude terms, to be effective is to do the right thing, while to be efficient is to do the thing right. An emphasis on efficiency rather than on effectiveness is clearly wrong.**== Learn that sentence verbatim — it has opened an RTP answer.",
+    "**Who determines effectiveness?** ==**Any organization can be portrayed as a coalition of diverse interest groups each of which participates in the coalition in order to secure some advantage.** This advantage (or inducement) may be **dividends to shareholders, wages to employees, continued business to suppliers of goods and services, satisfaction on the part of consumers, legal compliance from the viewpoint of government, responsible behaviour towards society and the environment from the perspective of pressure groups**, and so on.==",
+    "**The two sentences that justify the whole chapter.** ==**Even the most technically perfect strategic plan will serve little purpose if it is not implemented effectively.** **Many organizations tend to spend an inordinate amount of time, money, and effort on developing the strategic plan, treating the means and circumstances under which it will be implemented as afterthoughts. Change comes through implementation and evaluation, not through the plan. A technically imperfect plan that is implemented well will achieve more than the perfect plan that never gets off the paper on which it is typed.** **Successful strategy formulation does not guarantee successful strategy implementation. It is always more difficult to do something (strategy implementation) than to say you are going to do it (strategy formulation).**==",
+    "**The principal aspects of the strategy-execution process.** ICAI's RTP answer opens: **implementation or execution is an operations-oriented activity aimed at shaping the performance of core business activities in a strategy-supportive manner**, and ==**in most situations, strategy-execution process includes the following principal aspects: ♦ Developing budgets that steer ample resources into those activities that are critical to strategic success. ♦ Staffing the organization with the needed skills and expertise, consciously building and strengthening strategy-supportive competencies and competitive capabilities and organizing the work effort. ♦ Ensuring that policies and operating procedures facilitate rather than impede effective execution. ♦ Using the best-known practices to perform core business activities and pushing for continuous improvement. ♦ Installing information and operating systems that enable company personnel to better carry out their strategic roles day in and day out. ♦ Motivating people to pursue the target objectives energetically. ♦ Creating culture and climate conducive to successful strategy implementation and execution. ♦ Exerting the internal leadership needed to drive implementation forward and keep improving strategy execution.**==",
+    "**§5.2.4 Formulation versus Implementation — the eight-row table.** ==**Although inextricably linked, strategy implementation is fundamentally different from strategy formulation.**== The rows, in ICAI's order: **(1) Formulation includes planning and decision-making involved in developing the organization's strategic goals and plans; Implementation involves all those means related to executing the strategic plans. (2) In short, Formulation is placing the Forces before the action; Implementation is managing forces during the action. (3) Formulation is an Entrepreneurial Activity based on strategic decision-making; Implementation is an Administrative Task based on strategic and operational decisions. (4) Formulation emphasizes on effectiveness; Implementation emphasizes on efficiency. (5) Formulation is primarily an intellectual and rational process; Implementation is primarily an operational process. (6) Formulation requires co-ordination among few individuals at the top level; Implementation requires co-ordination among many individuals at the middle and lower levels. (7) Formulation requires a great deal of initiative, logical skills, conceptual intuitive and analytical skills; Implementation requires specific motivational and leadership traits. (8) Strategic Formulation precedes Strategy Implementation; Strategy Implementation follows Strategy Formulation.**",
+    "**One more sentence from §5.2.4 that is easy to miss and often worth a mark.** ==**Strategy formulation concepts and tools do not differ greatly for small, large, for-profit, or non-profit organizations. However, strategy implementation varies substantially among different types and sizes of organizations.**== ICAI then lists what implementation actually requires: **altering sales territories, adding new departments, closing facilities, hiring new employees, changing an organization's pricing strategy, developing financial budgets, developing new employee benefits, establishing cost-control procedures, changing advertising strategies, building new facilities, training new employees, transferring managers among divisions, and building a better management information system.**"
+   ],
+   "example": "An appliance maker automates its assembly line and cuts unit cost sharply — textbook efficiency. Six months later sales fall, because the new products do not meet market needs. On ICAI's grid the firm is **efficient but ineffective: Cell 2, Die Slowly** — and the study material's warning bites: **cell 2 is a worse place to be than cell 3**, because a firm that is doing the right thing badly at least has strategic direction. The fix is not more automation; it is **sound strategy formulation (effectiveness), followed by efficient strategy implementation**, which is exactly how ICAI answered the Merako Appliances case.",
+   "keywords": [
+    "putting a freshly chosen strategy into action",
+    "supervising the ongoing pursuit of strategy",
+    "showing measurable progress",
+    "translating a strategic decision into action",
+    "feasibility and acceptability",
+    "adapting the organization's structure",
+    "training personnel and devising appropriate systems",
+    "require very different skills",
+    "no such thing as successful strategic design",
+    "function of good strategy and proper implementation",
+    "square A… square B",
+    "lack of experience (e.g. for startups)",
+    "redesign their strategy",
+    "relationship between inputs and outputs",
+    "attainment of organisational goals",
+    "efficiency is essentially introspective",
+    "Thrive, Die Slowly, Survive, Die Quickly",
+    "cell 2 is a worse place to be than is cell 3",
+    "to be effective is to do the right thing",
+    "to be efficient is to do the thing right",
+    "coalition of diverse interest groups",
+    "never gets off the paper on which it is typed",
+    "operations-oriented activity",
+    "developing budgets that steer ample resources",
+    "facilitate rather than impede",
+    "best-known practices",
+    "esprit de corps",
+    "placing the Forces before the action",
+    "managing forces during the action",
+    "Entrepreneurial Activity",
+    "Administrative Task",
+    "intellectual and rational process",
+    "motivational and leadership traits"
+   ],
+   "memory": {
+    "trick": "**Effective = do the RIGHT thing. Efficient = do the thing RIGHT.** Four cells: **Thrive (both) · Die Slowly (efficient only) · Survive (effective only) · Die Quickly (neither)** — and remember the ranking, **Die Slowly is worse than Survive**. For the formulation/implementation table: formulation is **Forces before**, implementation is **Forces during**; formulation is **Entrepreneurial, Effective, Intellectual, Few, at the Top**; implementation is **Administrative, Efficient, Operational, Many, in the Middle**.",
+    "key": [
+     [
+      "Implementation",
+      "The managerial exercise of putting a freshly chosen strategy into action, supervising its ongoing pursuit, making it work, and showing measurable progress"
+     ],
+     [
+      "Four deliverables",
+      "Allocate resources · adapt structure · train personnel · devise systems"
+     ],
+     [
+      "Formulation matrix",
+      "A sound/weak → aim for B · B sound/excellent = ideal · C flawed/weak → redesign and readjust · D flawed/excellent → redesign strategy first"
+     ],
+     [
+      "Efficiency grid",
+      "1 Thrive · 2 Die Slowly · 3 Survive · 4 Die Quickly; 2 is worse than 3"
+     ],
+     [
+      "Execution aspects",
+      "Budgets · staffing and capabilities · policies and procedures · best practices · information and operating systems · motivation · culture and climate · internal leadership"
+     ],
+     [
+      "The table",
+      "Entrepreneurial vs Administrative · effectiveness vs efficiency · intellectual vs operational · few at top vs many at middle and lower · conceptual skills vs motivational and leadership traits"
+     ]
+    ],
+    "recall_trigger": "Right thing vs thing right; Thrive, Die Slowly, Survive, Die Quickly"
+   },
+   "mistakes": [
+    "Getting the efficiency grid's ranking backwards. ICAI makes the point explicitly: **cell 2 (efficient but ineffective) is a worse place to be than cell 3 (inefficient but effective)**, because effectiveness carries strategic direction. A candidate who ranks them by the number of virtues gets it wrong.",
+    "Swapping **effectiveness** and **efficiency** between the two columns of the §5.2.4 table. **Formulation emphasizes effectiveness; implementation emphasizes efficiency** — which also matches 'the responsibility for efficiency lies with operational managers'.",
+    "Confusing the two 2×2s in §5.2.3. The **A-B-C-D matrix** is sound/flawed formulation against weak/excellent implementation; the **Thrive/Die Slowly/Survive/Die Quickly grid** is efficiency against effectiveness. Both appear within three pages of each other.",
+    "Giving the **principal aspects of the strategy-execution process** as five or six items. There are **eight**, and they begin with budgets and end with internal leadership.",
+    "Treating formulation and implementation as equally transferable across organisations. **Formulation concepts and tools do not differ greatly** across sizes and sectors, but **implementation varies substantially among different types and sizes of organizations**.",
+    "Omitting the skills point, which is ICAI's reason for the whole section: the two phases **require very different skills** — conceptual and analytical for formulation, **specific motivational and leadership traits** for implementation."
+   ],
+   "links": [
+    "🔗 S05.07: the forward and backward linkages explain why the two phases cannot be separated in practice",
+    "🔗 S05.13: the 7S Model's hard and soft elements are the implementation levers",
+    "🔗 S05.16: 'exerting the internal leadership needed to drive implementation forward' is §5.5's subject",
+    "🔗 S05.15: 'creating culture and climate conducive to successful strategy implementation' is §5.4.2",
+    "🔗 S05.04: formulation's own content — strategic planning and strategic uncertainty"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "A case where the firm has become efficient but its products miss the market → balance efficiency and effectiveness and describe the four situations (RTP Sep 2025 Q15)",
+     "'Describe the principal aspects of the strategy-execution process which are included in most situations' (RTP Sep 2025 Q16, MTP Sep 2024 S2 Q4(a))",
+     "'Differentiate between Strategy Formulation and Strategy Implementation' (MTP May 2025 S2 Q4(a))",
+     "An MCQ giving execution facts and asking which stage of strategic management they describe (PYQ Jan 2026 MCQ 15)"
+    ],
+    "approach": [
+     "For the efficiency case, open with ICAI's own crude-terms sentence, diagnose the firm's cell by name, give all four cells, and close on the ranking point that cell 2 is worse than cell 3.",
+     "For the execution aspects, write the eight bullets in ICAI's order. Do not paraphrase — the marks are in the phrases ('steer ample resources', 'facilitate rather than impede', 'day in and day out').",
+     "For the distinguish question, use two columns and all eight rows. The first row is the definition pair and the last is the sequence pair, so the answer reads as a complete frame."
+    ],
+    "official_pattern": "Four atoms, three of them pure recall of a printed list or table. The only judgement question is the efficiency case, and even there ICAI's answer names the cells from its own figure.",
+    "time_tip": "5 marks ≈ 7 minutes. Eight bullets at 45 seconds each is 6 minutes — tight, so write short sentences and do not expand the examples."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S05.05-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "Explain the matrix of strategy formulation and implementation, naming each of its four squares and the action a company in each should take.",
+     "answer_points": [
+      "**Many managers fail to distinguish between strategy formulation and strategy implementation. Yet it is crucial to realize the difference between the two because they both require very different skills.** **A company will be successful only when the strategy formulation is sound and implementation is excellent. There is no such thing as successful strategic design** — **organizational success is a function of good strategy and proper implementation.**",
+      "The matrix sets **sound or flawed strategy formulation** against **weak or excellent strategy implementation**, giving four squares.",
+      "**Square A — sound formulation, weak implementation:** the company **apparently has formulated a very competitive strategy but is showing difficulties in implementing it successfully**, due to factors **such as the lack of experience (e.g. for startups), the lack of resources, missing leadership and so on**. Such a company **will aim at moving from square A to square B, given they realize their implementation difficulties**.",
+      "**Square B — sound formulation, excellent implementation:** **the ideal situation**, where the company **has succeeded in designing a sound and competitive strategy and has been successful in implementing it**.",
+      "**Square D — flawed formulation, excellent implementation:** **the first thing they have to do is to redesign their strategy before readjusting their implementation/execution skills** — execution skill cannot rescue a wrong strategy.",
+      "**Square C — flawed formulation, weak implementation:** companies that **haven't succeeded in coming up with a sound strategy formulation and in addition are bad at implementing their flawed strategic model**; **their path to success also goes through business model redesign and implementation/execution readjustment**.",
+      "**The caution to close on:** **often people blame the strategy model for the failure of a company while the main flaw might lie in failed implementation** — and **successful strategy formulation does not guarantee successful strategy implementation**, because **it is always more difficult to do something than to say you are going to do it**."
+     ],
+     "keywords": [
+      "require very different skills",
+      "no such thing as successful strategic design",
+      "lack of experience (e.g. for startups)",
+      "moving from square A to square B",
+      "ideal situation",
+      "redesign their strategy",
+      "business model redesign",
+      "blame the strategy model"
+     ]
+    },
+    {
+     "id": "EQ-S05.06-1",
+     "form": "Distinguish (5 marks)",
+     "marks": 5,
+     "question": "Distinguish between Strategy Formulation and Strategy Implementation.",
+     "answer_points": [
+      "**Although inextricably linked, strategy implementation is fundamentally different from strategy formulation.**",
+      "**Strategy Formulation includes planning and decision-making involved in developing the organization's strategic goals and plans.** **Strategy Implementation involves all those means related to executing the strategic plans.**",
+      "**In short, Strategy Formulation is placing the Forces before the action.** **Strategy Implementation is managing forces during the action.**",
+      "**Formulation is an Entrepreneurial Activity based on strategic decision-making.** **Implementation is an Administrative Task based on strategic and operational decisions.**",
+      "**Formulation emphasizes on effectiveness.** **Implementation emphasizes on efficiency.** **Formulation is primarily an intellectual and rational process.** **Implementation is primarily an operational process.**",
+      "**Formulation requires co-ordination among few individuals at the top level.** **Implementation requires co-ordination among many individuals at the middle and lower levels.** **Formulation requires a great deal of initiative, logical skills, conceptual intuitive and analytical skills.** **Implementation requires specific motivational and leadership traits.**",
+      "**Strategic Formulation precedes Strategy Implementation; Strategy Implementation follows Strategy Formulation.** Add the transferability point: **strategy formulation concepts and tools do not differ greatly for small, large, for-profit, or non-profit organizations; however, strategy implementation varies substantially among different types and sizes of organizations.**"
+     ],
+     "keywords": [
+      "inextricably linked",
+      "placing the Forces before the action",
+      "managing forces during the action",
+      "Entrepreneurial Activity",
+      "Administrative Task",
+      "emphasizes on effectiveness",
+      "emphasizes on efficiency",
+      "intellectual and rational process",
+      "motivational and leadership traits",
+      "varies substantially among different types and sizes"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "RTP-S25-SQ15",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "Merako Appliances recently automated its assembly line to produce kitchen gadgets faster and at lower cost, improving operational efficiency. However, customer feedback shows that the new products don't meet market needs, leading to declining sales. This has sparked an internal debate on balancing efficiency (doing things right) with effectiveness (doing the right things). How should Merako balance efficiency and effectiveness to achieve sustainable success? Also, describe the four possible situations a business can face when comparing levels of efficiency and effectiveness. (ICAI's own label: Chapter 5)",
+     "answer_points": [
+      "**Merako Appliances has improved operational efficiency by automating its assembly line. However, declining sales due to products not meeting customer needs indicate a lack of effectiveness. This highlights the importance of balancing doing things right (efficiency) with doing the right things (effectiveness).**",
+      "**To achieve sustainable success, Merako must align its operations with customer preferences through sound strategy formulation (effectiveness), followed by efficient strategy implementation.**",
+      "**1. Efficient and Effective (Thrive): Ideal scenario. The firm does the right things and does them well. Merako should aim for this by aligning products with customer needs while maintaining efficiency.**",
+      "**2. Efficient but Ineffective (Die Slowly): Merako's current state. Operations are streamlined, but customer needs are unmet, risking decline without strategic correction.**",
+      "**3. Inefficient but Effective (Survive): Right strategy but poor execution. The firm may survive but must improve efficiency to sustain.**",
+      "**4. Inefficient and Ineffective (Die Quickly): Neither aligned with customer needs nor operationally sound. Leads to rapid failure unless overhauled.**",
+      "**The study material's own ranking, which strengthens the answer:** **cell 2 is a worse place to be than is cell 3 since, in the latter, the strategic direction is present to ensure effectiveness even if rather too much input is being used to generate outputs. To be effective is to survive whereas to be efficient is not in itself either necessary or sufficient for survival.** So Merako's position is worse than it looks on a cost report.",
+      "**And the definitions, if the question leaves room:** **efficiency is the relationship between inputs and outputs, usually with a short time horizon**, and is **essentially introspective**, the responsibility of **operational managers**; **effectiveness is concerned with the attainment of organisational goals — including that of desired competitive position** — and **highlights the links between the organization and its environment**, with **top management having the primary responsibility for the strategic orientation of the organization**."
+     ],
+     "keywords": [
+      "doing things right",
+      "doing the right things",
+      "sound strategy formulation",
+      "Thrive",
+      "Die Slowly",
+      "Survive",
+      "Die Quickly",
+      "risking decline without strategic correction",
+      "cell 2 is a worse place to be than is cell 3"
+     ]
+    },
+    {
+     "id": "RTP-S25-SQ16",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "Describe the principal aspects of the strategy-execution process which are included in most situations. (ICAI's own label: Chapter 5)",
+     "answer_points": [
+      "**Implementation or execution is an operations-oriented activity aimed at shaping the performance of core business activities in a strategy-supportive manner.** **In most situations, strategy-execution process includes the following principal aspects:**",
+      "**Developing budgets that steer ample resources into those activities that are critical to strategic success.**",
+      "**Staffing the organization with the needed skills and expertise, consciously building and strengthening strategy-supportive competencies and competitive capabilities and organizing the work effort.**",
+      "**Ensuring that policies and operating procedures facilitate rather than impede effective execution.**",
+      "**Using the best-known practices to perform core business activities and pushing for continuous improvement.**",
+      "**Installing information and operating systems that enable company personnel to better carry out their strategic roles day in and day out.**",
+      "**Motivating people to pursue the target objectives energetically.**",
+      "**Creating culture and climate conducive to successful strategy implementation and execution.** **Exerting the internal leadership needed to drive implementation forward and keep improving strategy execution.**",
+      "Note that the eight aspects are the chapter in miniature: budgets and resources (§5.2.3), staffing and capabilities (§5.4), policies and systems (§5.4.1), culture (§5.4.2) and leadership (§5.5). Quoting the list therefore also signposts the rest of your answer."
+     ],
+     "keywords": [
+      "operations-oriented activity",
+      "strategy-supportive manner",
+      "steer ample resources",
+      "strategy-supportive competencies",
+      "facilitate rather than impede",
+      "best-known practices",
+      "day in and day out",
+      "culture and climate",
+      "internal leadership"
+     ],
+     "also_asked_as": [
+      "MTP-S24-S2-SQ4a asks the identical question with the same published answer."
+     ]
+    },
+    {
+     "id": "MTP-M25-S2-SQ4a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Differentiate between Strategy Formulation and Strategy Implementation. (5 Marks)",
+     "answer_points": [
+      "**Although inextricably linked, strategy implementation is fundamentally different from strategy formulation.** ICAI's answer is the study material's own eight-row table.",
+      "**Strategy Formulation includes planning and decision-making involved in developing the organization's strategic goals and plans** | **Strategy Implementation involves all those means related to executing the strategic plans.**",
+      "**In short, Strategy Formulation is placing the Forces before the action** | **In short, Strategy Implementation is managing forces during the action.**",
+      "**An Entrepreneurial Activity based on strategic decision-making** | **An Administrative Task based on strategic and operational decisions.** **Emphasizes on effectiveness** | **Emphasizes on efficiency.**",
+      "**Primarily an intellectual and rational process** | **Primarily an operational process.** **Requires co-ordination among few individuals at the top level** | **Requires co-ordination among many individuals at the middle and lower levels.**",
+      "**Requires a great deal of initiative, logical skills, conceptual intuitive and analytical skills** | **Requires specific motivational and leadership traits.** **Strategic Formulation precedes Strategy Implementation** | **Strategy Implementation follows Strategy Formulation.**",
+      "**The point of the table, in ICAI's own words:** the two **require very different skills**, and **a company will be successful only when the strategy formulation is sound and implementation is excellent** — **organizational success is a function of good strategy and proper implementation**.",
+      "**A line that distinguishes a strong answer:** **strategy formulation concepts and tools do not differ greatly for small, large, for-profit, or non-profit organizations. However, strategy implementation varies substantially among different types and sizes of organizations** — which is why implementation is the part that has to be taught case by case."
+     ],
+     "keywords": [
+      "inextricably linked",
+      "fundamentally different",
+      "placing the Forces before the action",
+      "managing forces during the action",
+      "Entrepreneurial Activity",
+      "Administrative Task",
+      "few individuals at the top level",
+      "middle and lower levels",
+      "motivational and leadership traits",
+      "varies substantially"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-S05.05-01",
+     "angle": "Which cell is worse",
+     "difficulty": "Difficult",
+     "question": "As per the study material, which of the following is the correct ranking of two of the efficiency–effectiveness cells?",
+     "options": {
+      "A": "Inefficient but Effective (Survive) is a worse place to be than Efficient but Ineffective (Die Slowly), because inefficiency destroys margin immediately",
+      "B": "Neither can be ranked, because efficiency and effectiveness are not comparable",
+      "C": "The two are equally bad, since each lacks one of the two requirements",
+      "D": "Efficient but Ineffective (Die Slowly) is a worse place to be than Inefficient but Effective (Survive), because in the latter the strategic direction is present to ensure effectiveness"
+     },
+     "answer": "D",
+     "explanation": "SM §5.2.3: 'The particular point to note is that cell 2 is a worse place to be than is cell 3 since, in the latter, the strategic direction is present to ensure effectiveness even if rather too much input is being used to generate outputs. To be effective is to survive whereas to be efficient is not in itself either necessary or sufficient for survival.'",
+     "why_wrong": {
+      "A": "This inverts the study material's conclusion.",
+      "B": "The text compares them directly and names the reason.",
+      "C": "The text explicitly ranks them."
+     },
+     "trap": "Commercial instinct says inefficiency is the more urgent problem; ICAI's point is that effectiveness is necessary for survival and efficiency is neither necessary nor sufficient.",
+     "concept": "S05.05"
+    },
+    {
+     "id": "MCQ-S05.05-02",
+     "angle": "Which square",
+     "difficulty": "Moderate",
+     "question": "A company has a flawed strategy but excellent implementation skills. On the study material's strategy formulation and implementation matrix, what should it do first?",
+     "options": {
+      "A": "Redesign its strategy, before readjusting its implementation or execution skills",
+      "B": "Strengthen its execution further, since excellent implementation will eventually reveal the right strategy",
+      "C": "Move directly to square B by improving both simultaneously",
+      "D": "Nothing — square D is the ideal position"
+     },
+     "answer": "A",
+     "explanation": "SM §5.2.3 on Square D: 'When a company finds itself in square D the first thing they have to do is to redesign their strategy before readjusting their implementation/execution skills.' Square B — sound formulation plus excellent implementation — is the ideal.",
+     "why_wrong": {
+      "B": "Execution cannot rescue a flawed strategy; the study material says 'there is no such thing as successful strategic design' without both.",
+      "C": "The text gives a sequence: redesign first, then readjust.",
+      "D": "Square B is the ideal situation, not D."
+     },
+     "trap": "Excellent implementation feels like an asset to build on; the matrix's instruction is to fix the strategy first, in that order.",
+     "concept": "S05.05"
+    },
+    {
+     "id": "MCQ-S05.05-03",
+     "angle": "Which column",
+     "difficulty": "Moderate",
+     "question": "In the study material's comparison, strategy implementation is described as:",
+     "options": {
+      "A": "An administrative task emphasising efficiency, requiring co-ordination among many individuals at the middle and lower levels",
+      "B": "An entrepreneurial activity emphasising effectiveness, requiring co-ordination among a few individuals at the top",
+      "C": "An intellectual and rational process requiring conceptual, intuitive and analytical skills",
+      "D": "The placing of forces before the action"
+     },
+     "answer": "A",
+     "explanation": "SM §5.2.4's table assigns to implementation: an administrative task based on strategic and operational decisions, an emphasis on efficiency, a primarily operational process, co-ordination among many individuals at the middle and lower levels, and specific motivational and leadership traits.",
+     "why_wrong": {
+      "B": "Every element of that description belongs to formulation.",
+      "C": "That is formulation's row too.",
+      "D": "'Placing the forces before the action' is formulation; implementation is 'managing forces during the action'."
+     },
+     "trap": "All four options are verbatim study-material phrases; three of them describe the other column, which is exactly how the table is examined.",
+     "concept": "S05.06"
+    },
+    {
+     "id": "MCQ-S05.05-04",
+     "angle": "Which aspect",
+     "difficulty": "Moderate",
+     "question": "\"Ensuring that policies and operating procedures facilitate rather than impede effective execution\" is one of the principal aspects of:",
+     "options": {
+      "A": "Premise control",
+      "B": "The McKinsey 7S Model's hard elements",
+      "C": "Strategic performance measurement",
+      "D": "The strategy-execution process"
+     },
+     "answer": "D",
+     "explanation": "ICAI's RTP Sep 2025 answer lists this third among the eight principal aspects of the strategy-execution process, after developing budgets and staffing the organization, and before using best-known practices.",
+     "why_wrong": {
+      "A": "Premise control monitors the environmental and industry assumptions on which the strategy was built.",
+      "B": "Systems is a hard element of the 7S Model, but the quoted phrase comes from the execution list.",
+      "C": "SPM concerns the measures used to track strategic effectiveness."
+     },
+     "trap": "Policies and procedures genuinely belong to the 7S 'Systems' element too; the question asks which *list* the quoted phrase comes from.",
+     "concept": "S05.05"
+    }
+   ],
+   "recap": [
+    "Implementation is the managerial exercise of putting a freshly chosen strategy into action: allocate resources, adapt structure, train personnel, devise systems.",
+    "The A-B-C-D matrix: A sound but weakly implemented aims for B; B is ideal; D must redesign strategy first; C needs both redesign and readjustment.",
+    "Efficiency is inputs to outputs and is introspective; effectiveness is the attainment of goals and links the firm to its environment. Effective = right thing; efficient = thing right.",
+    "Four cells: Thrive, Die Slowly, Survive, Die Quickly — and Die Slowly is worse than Survive.",
+    "Eight principal aspects of execution: budgets, staffing and capabilities, policies and procedures, best practices, information and operating systems, motivation, culture and climate, internal leadership.",
+    "Formulation is entrepreneurial, effective, intellectual, few at the top; implementation is administrative, efficient, operational, many at the middle and lower levels."
+   ]
+  },
+  {
+   "code": "S05.07",
+   "title": "5.2.5 Linkages and Issues in Strategy Implementation",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "MTP 1",
+   "understand": [
+    "**Why there are linkages at all.** ==**It is to be noted that the division of strategic management into different phases is only for the purpose of orderly study. In real life, the formulation and implementation processes are intertwined. Two types of linkages exist between these two phases of strategic management. The forward linkages deal with the impact of strategy formulation on strategy implementation while the backward linkages are concerned with the impact in the opposite direction.**==",
+    "==**Noteworthy is the fact that while strategy formulation is primarily an entrepreneurial activity, based on strategic decision-making, the implementation of strategy is mainly an administrative task based on strategic as well as operational decision-making.**==",
+    "**Forward Linkages.** ==**The different elements in strategy formulation starting with objective setting through environmental and organizational appraisal, strategic alternatives and choice to the strategic plan determine the course that an organization adopts for itself.** **With the formulation of new strategies, or reformulation of existing strategies, many changes have to be affected within the organization.** For instance, **the organizational structure has to undergo a change in the light of the requirements of the modified or new strategy. The style of leadership has to be adapted to the needs of the modified or new strategies.** **In this way, the formulation of strategies has forward linkages with their implementation.**==",
+    "**Backward Linkages.** ==**Just as implementation is determined by the formulation of strategies, the formulation process is also affected by factors related with implementation. While dealing with strategic choice, remember that past strategic actions also determine the choice of strategy. Organizations tend to adopt those strategies which can be implemented with the help of the present structure of resources combined with some additional efforts. Such incremental changes, over a period of time, take the organization from where it is to where it wishes to be.**==",
+    "**The practical consequence.** Forward linkages say *strategy drives structure and leadership style*; backward linkages say *the structure and resources you already have narrow the strategies you will realistically choose*. Together they are why Chandler's **'structure should follow strategy'** (§5.4.1) is true as a principle yet incomplete as a description.",
+    "**Issues in Strategy Implementation — the opening.** ==**The different issues involved in strategy implementation cover practically everything that is included in the discipline of management studies. A strategist, therefore, has to bring a wide range of knowledge, skills, attitudes, and abilities.** **The implementation tasks put to test the strategists' abilities to allocate resources, design organisational structure, formulate functional policies, and to provide strategic leadership.**== Four tested abilities — resources, structure, policies, leadership.",
+    "**From intent to action — ICAI's three-step escalation.** ==**The strategic plan devised by the organization proposes the manner in which the strategies could be put into action. Strategies, by themselves, do not lead to action. They are, in a sense, a statement of intent. Implementation tasks are meant to realise the intent. Strategies, therefore, have to be activated through implementation.**==",
+    "==**Strategies should lead to formulation of different kinds of programmes. A programme is a broad term, which includes goals, policies, procedures, rules, and steps to be taken in putting a plan into action. Programmes are usually supported by funds allocated for plan implementation.**==",
+    "==**Programmes lead to the formulation of projects. A project is a highly specific programme for which the time schedule and costs are predetermined. It requires allocation of funds based on capital budgeting by organizations.**== ICAI's example: **a research and development programme may consist of several projects, each of which is intended to achieve a specific and limited objective, requires separate allocation of funds, and is to be completed within a set time schedule.** The chain to remember: **strategy → programme → project.**",
+    "**The six issues, in ICAI's own sequence.** ==**Given below in sequential manner the issues in strategy implementation which are to be considered: ♦ Project implementation ♦ Procedural implementation ♦ Resource allocation ♦ Structural implementation ♦ Functional implementation ♦ Behavioural implementation.**==",
+    "**The caveat on that sequence, which is itself examinable.** ==**It should be noted that the sequence does not mean that each of the above activities are necessarily performed one after another. Many activities can be performed simultaneously, certain other activities may be repeated over time; and there are activities, which are performed only once. Thus, there can be overlapping and changes in the order in which these activities are performed.**==",
+    "**The shift of responsibility, and the problem it creates.** ==**In all but the smallest organizations, the transition from strategy formulation to strategy implementation requires a shift in responsibility from strategists to divisional and functional managers. Implementation problems can arise because of this shift in responsibility, especially if strategic decisions come as a surprise to middle and lower-level managers. Managers and employees are motivated more by perceived self-interests than by organizational interests, unless the two coincide. Therefore, it is essential that divisional and functional managers be involved as much as possible in the strategy-formulation process. Similarly, strategists should also be involved as much as possible in strategy-implementation activities.**==",
+    "**The management issues central to implementation** — a list worth knowing because it reads like an index to the rest of the chapter: ==**establishing annual objectives, devising policies, allocating resources, altering an existing organizational structure, restructuring and reengineering, revising reward and incentive plans, minimizing resistance to change, developing a strategy-supportive culture, adapting production/operations processes, developing an effective human resource system and, if necessary, downsizing.** **Management changes are necessarily more extensive when strategies to be implemented move a firm in a new direction.**==",
+    "**What ICAI asks of communication and participation.** ==**Managers and employees throughout an organization should participate early and directly in strategy-implementation activities.** **Strategists' genuine personal commitment to implementation is a necessary and powerful motivational force for managers and employees.** **Top-down flow of communication is essential for developing bottom-up support.** **Firms need to develop a competitor focus on all hierarchical levels by gathering and widely distributing competitive intelligence; every employee should be able to benchmark her or his efforts against best-in-class competitors so that the challenge becomes personal.**=="
+   ],
+   "example": "A company decides to add a premium line sold through its own stores. **Forward linkage:** the decision forces a new retail division into the structure and a more participative leadership style on the store managers — *the structure has to undergo a change in the light of the requirements of the new strategy*. **Backward linkage:** it chose that strategy rather than a full acquisition precisely because the existing distribution team and warehouse could be stretched to serve it — *organizations tend to adopt those strategies which can be implemented with the help of the present structure of resources combined with some additional efforts*. The strategy then becomes a retail **programme** (goals, policies, procedures, rules, funds), which becomes individual store **projects** with fixed schedules and capital budgets.",
+   "keywords": [
+    "only for the purpose of orderly study",
+    "formulation and implementation processes are intertwined",
+    "forward linkages",
+    "backward linkages",
+    "entrepreneurial activity",
+    "administrative task",
+    "objective setting through environmental and organizational appraisal",
+    "determine the course that an organization adopts",
+    "structure has to undergo a change",
+    "style of leadership has to be adapted",
+    "past strategic actions also determine the choice of strategy",
+    "present structure of resources combined with some additional efforts",
+    "incremental changes",
+    "statement of intent",
+    "activated through implementation",
+    "programme",
+    "goals, policies, procedures, rules",
+    "project",
+    "time schedule and costs are predetermined",
+    "capital budgeting",
+    "project implementation",
+    "procedural implementation",
+    "resource allocation",
+    "structural implementation",
+    "functional implementation",
+    "behavioural implementation",
+    "shift in responsibility",
+    "perceived self-interests",
+    "top-down flow of communication",
+    "bottom-up support",
+    "benchmark… against best-in-class competitors"
+   ],
+   "memory": {
+    "trick": "**Forward = formulation pushes implementation. Backward = implementation pulls formulation.** The chain: **Strategy → Programme → Project** (intent → goals/policies/procedures/rules/funds → fixed schedule and cost). The six issues in order: **Pro-Pro-Re-St-Fu-Be** — **Pro**ject, **Pro**cedural, **Re**source, **St**ructural, **Fu**nctional, **Be**havioural.",
+    "key": [
+     [
+      "Why linkages",
+      "The division into phases is only for orderly study; in real life they are intertwined"
+     ],
+     [
+      "Forward linkage",
+      "New or reformulated strategy forces changes within the organization — structure and leadership style"
+     ],
+     [
+      "Backward linkage",
+      "Past strategic actions and the present structure of resources narrow the strategies actually chosen"
+     ],
+     [
+      "Strategy → Programme → Project",
+      "Intent → goals, policies, procedures, rules and funds → predetermined time schedule and costs, capital budgeting"
+     ],
+     [
+      "Six issues",
+      "Project · Procedural · Resource allocation · Structural · Functional · Behavioural implementation — not necessarily sequential"
+     ],
+     [
+      "Four tested abilities",
+      "Allocate resources · design organisational structure · formulate functional policies · provide strategic leadership"
+     ]
+    ],
+    "recall_trigger": "Forward pushes, backward pulls; Pro-Pro-Re-St-Fu-Be"
+   },
+   "mistakes": [
+    "Reversing the two linkages. **Forward** runs from formulation *to* implementation; **backward** runs from implementation *back to* formulation. The test: which phase is doing the affecting?",
+    "Giving the six issues as a strict sequence. ICAI's own caveat is that **many activities can be performed simultaneously, certain other activities may be repeated over time, and there are activities which are performed only once** — so there can be **overlapping and changes in the order**.",
+    "Confusing a **programme** with a **project**. A programme is **broad** — goals, policies, procedures, rules and steps, supported by allocated funds. A project is **highly specific**, with **time schedule and costs predetermined**, funded through **capital budgeting**.",
+    "Omitting the behavioural issue. **Behavioural implementation** is the sixth and it is where the shift-in-responsibility problem bites: **managers and employees are motivated more by perceived self-interests than by organizational interests, unless the two coincide**.",
+    "Forgetting the two-way participation prescription: **divisional and functional managers must be involved as much as possible in the strategy-formulation process**, and **strategists should also be involved as much as possible in strategy-implementation activities**.",
+    "Writing 'bottom-up communication' when ICAI's sentence is the reverse: **top-down flow of communication is essential for developing bottom-up support**."
+   ],
+   "links": [
+    "🔗 S05.06: the linkages explain why the formulation-implementation distinction is analytical, not real",
+    "🔗 S05.14: structural implementation is §5.4.1's subject",
+    "🔗 S05.15: behavioural implementation leads to organization culture",
+    "🔗 S05.16: 'provide strategic leadership' is one of the four tested abilities",
+    "🔗 S05.09: 'minimizing resistance to change' is §5.3's subject"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "'Explain the concept of forward and backward linkages between strategy formulation and implementation, using relevant examples. How do these linkages impact the overall strategic decision-making process?' (MTP Mar 2024 S2 Q3(b))",
+     "'State the issues in strategy implementation' — the six-item list",
+     "A short note on the difference between a programme and a project",
+     "An MCQ on which issue a described activity belongs to"
+    ],
+    "approach": [
+     "Open with the reason linkages exist — **the division into phases is only for the purpose of orderly study; in real life the processes are intertwined** — then define each linkage, then give an example of each, then say what the pair means for decision-making.",
+     "For the issues question, give all six in ICAI's order and then the caveat that the sequence is not strict. The caveat is a mark.",
+     "If asked about examples, use the study material's own: structure and leadership style changing for the new strategy (forward), and strategies chosen because the present resource structure can stretch to them (backward)."
+    ],
+    "official_pattern": "Only one official appearance so far, but it is a 5-mark descriptive and the heading sits between two heavily tested ones — a classic position for a first-time question. The published answer adds its own examples, so examples are expected.",
+    "time_tip": "5 marks ≈ 7 minutes: 1 minute on why linkages exist, 2 on each linkage with its example, 1 to close on the impact."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S05.07-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "State the issues involved in strategy implementation, and explain how a strategy becomes a programme and then a project.",
+     "answer_points": [
+      "**The different issues involved in strategy implementation cover practically everything that is included in the discipline of management studies. A strategist, therefore, has to bring a wide range of knowledge, skills, attitudes, and abilities.** **The implementation tasks put to test the strategists' abilities to allocate resources, design organisational structure, formulate functional policies, and to provide strategic leadership.**",
+      "**Strategies, by themselves, do not lead to action. They are, in a sense, a statement of intent. Implementation tasks are meant to realise the intent. Strategies, therefore, have to be activated through implementation.**",
+      "**Strategies should lead to formulation of different kinds of programmes. A programme is a broad term, which includes goals, policies, procedures, rules, and steps to be taken in putting a plan into action. Programmes are usually supported by funds allocated for plan implementation.**",
+      "**Programmes lead to the formulation of projects. A project is a highly specific programme for which the time schedule and costs are predetermined. It requires allocation of funds based on capital budgeting by organizations.** ICAI's example: **a research and development programme may consist of several projects, each of which is intended to achieve a specific and limited objective, requires separate allocation of funds, and is to be completed within a set time schedule.**",
+      "**The six issues, in sequential manner:** **project implementation; procedural implementation; resource allocation; structural implementation; functional implementation; behavioural implementation.**",
+      "**But the sequence is not rigid:** **many activities can be performed simultaneously, certain other activities may be repeated over time; and there are activities which are performed only once. Thus, there can be overlapping and changes in the order in which these activities are performed.**",
+      "**Beyond plans and projects:** **after resources have been provided, it would be essential to see that a proper organizational structure is designed, systems are installed, functional policies are devised, and various behavioural inputs are provided so that plans may work.**"
+     ],
+     "keywords": [
+      "wide range of knowledge, skills, attitudes, and abilities",
+      "allocate resources, design organisational structure",
+      "statement of intent",
+      "activated through implementation",
+      "goals, policies, procedures, rules",
+      "time schedule and costs are predetermined",
+      "capital budgeting",
+      "behavioural implementation",
+      "overlapping and changes in the order"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "MTP-M24-S2-SQ3b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Explain the concept of forward and backward linkages between strategy formulation and implementation in strategic management, using relevant examples. How do these linkages impact the overall strategic decision-making process of an organization? (5 Marks)",
+     "answer_points": [
+      "**The concept of forward and backward linkages between strategy formulation and implementation in strategic management highlights the interconnected nature of these two phases and their impact on the overall strategic decision-making process of an organization.**",
+      "**Forward Linkages: forward linkages refer to the impact of strategy formulation on strategy implementation. When an organization formulates a new strategy or revises an existing one, it sets the direction for the organization's future actions.** ICAI's example: **if a company decides to expand its product line to target a new market segment, this decision will require changes in the organization's structure, resource allocation, and possibly its leadership style. These changes are necessary to align the organization's operations with the new strategic direction.** **Thus, the formulation of strategies has forward linkages with their implementation, as it sets the stage for how the strategy will be executed.**",
+      "**Backward Linkages: backward linkages refer to the impact of implementation on strategy formulation. As an organization implements its strategies, it gains valuable insights and feedback from the implementation process. This feedback can influence future strategic decisions.** ICAI's example: **if a company faces unexpected challenges or discovers new opportunities during the implementation of a strategy, it may need to reevaluate its strategic choices.**",
+      "**Similarly, past strategic actions and their outcomes can also influence the formulation of future strategies. Over time, these incremental changes in strategy and implementation take the organization from its current state to where it aims to be, reflecting the dynamic nature of strategic management.**",
+      "**Quote the study material's own backward-linkage sentence, which is sharper than the MTP paraphrase:** **organizations tend to adopt those strategies which can be implemented with the help of the present structure of resources combined with some additional efforts** — the firm's existing capability quietly limits its menu of strategies.",
+      "**And the framing sentence:** **the division of strategic management into different phases is only for the purpose of orderly study. In real life, the formulation and implementation processes are intertwined.** Note also that **while strategy formulation is primarily an entrepreneurial activity based on strategic decision-making, the implementation of strategy is mainly an administrative task based on strategic as well as operational decision-making.**",
+      "**The impact on decision-making:** because the linkages run both ways, strategic decisions cannot be taken in isolation from execution capacity, and execution feedback must be fed back into the next round of choice — which is the practical meaning of the strategic management process being **dynamic and continuous**."
+     ],
+     "keywords": [
+      "interconnected nature of these two phases",
+      "sets the direction for the organization's future actions",
+      "changes in the organization's structure, resource allocation",
+      "leadership style",
+      "sets the stage for how the strategy will be executed",
+      "valuable insights and feedback",
+      "reevaluate its strategic choices",
+      "incremental changes",
+      "present structure of resources",
+      "only for the purpose of orderly study"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-S05.07-01",
+     "angle": "Which linkage",
+     "difficulty": "Moderate",
+     "question": "\"Organizations tend to adopt those strategies which can be implemented with the help of the present structure of resources combined with some additional efforts.\" This describes:",
+     "options": {
+      "A": "Forward linkages, because the resource structure drives the plan",
+      "B": "Backward linkages, because the formulation process is being affected by factors related with implementation",
+      "C": "Procedural implementation",
+      "D": "Resource allocation as an issue in strategy implementation"
+     },
+     "answer": "B",
+     "explanation": "SM §5.2.5 places this sentence under Backward Linkages: 'Just as implementation is determined by the formulation of strategies, the formulation process is also affected by factors related with implementation… past strategic actions also determine the choice of strategy.'",
+     "why_wrong": {
+      "A": "Forward linkages run the other way — formulation affecting implementation, as when the structure must change for a new strategy.",
+      "C": "Procedural implementation is one of the six issues, not a linkage.",
+      "D": "Resource allocation is also one of the six issues; the quoted sentence is about how resources constrain the *choice* of strategy."
+     },
+     "trap": "The sentence mentions resources, which pulls towards option D; the direction of influence — from implementation back to choice — is what makes it a backward linkage.",
+     "concept": "S05.07"
+    },
+    {
+     "id": "MCQ-S05.07-02",
+     "angle": "Programme or project",
+     "difficulty": "Easy",
+     "question": "\"A highly specific programme for which the time schedule and costs are predetermined, requiring allocation of funds based on capital budgeting\" is the study material's definition of:",
+     "options": {
+      "A": "A programme",
+      "B": "A policy",
+      "C": "A procedure",
+      "D": "A project"
+     },
+     "answer": "D",
+     "explanation": "SM §5.2.5 defines a project in those exact terms. A programme, by contrast, is 'a broad term, which includes goals, policies, procedures, rules, and steps to be taken in putting a plan into action', usually supported by funds allocated for plan implementation.",
+     "why_wrong": {
+      "A": "A programme is broad, not highly specific, and has no predetermined schedule.",
+      "B": "Policies are one of the components a programme includes.",
+      "C": "Procedures are likewise a component of a programme."
+     },
+     "trap": "Options B and D are both named inside the definition of a programme, which makes them feel like candidates; only the project carries a predetermined schedule and cost.",
+     "concept": "S05.07"
+    },
+    {
+     "id": "MCQ-S05.07-03",
+     "angle": "The six issues",
+     "difficulty": "Moderate",
+     "question": "Which of the following is NOT one of the six issues in strategy implementation listed by the study material?",
+     "options": {
+      "A": "Procedural implementation",
+      "B": "Behavioural implementation",
+      "C": "Competitive implementation",
+      "D": "Structural implementation"
+     },
+     "answer": "C",
+     "explanation": "The six, in ICAI's sequence, are project implementation, procedural implementation, resource allocation, structural implementation, functional implementation and behavioural implementation — with the caveat that the sequence is not necessarily followed one after another.",
+     "why_wrong": {
+      "A": "It is the second issue.",
+      "B": "It is the sixth.",
+      "D": "It is the fourth."
+     },
+     "trap": "'Competitive' is the vocabulary of SM Chapters 2 and 3; this list is internal to the firm.",
+     "concept": "S05.07"
+    }
+   ],
+   "recap": [
+    "The division into phases is only for orderly study; in real life formulation and implementation are intertwined.",
+    "Forward linkages: a new or reformulated strategy forces changes within the organization — structure and leadership style.",
+    "Backward linkages: past strategic actions and the present structure of resources shape which strategies are actually chosen.",
+    "Strategies are a statement of intent; they become programmes (goals, policies, procedures, rules, funds) and then projects (predetermined schedule and cost, capital budgeting).",
+    "Six issues: project, procedural, resource allocation, structural, functional and behavioural implementation — overlapping, repeatable, not strictly sequential.",
+    "The shift of responsibility from strategists to divisional and functional managers creates implementation problems; both groups must be involved in each other's phase."
+   ]
+  }
+ ]
+}

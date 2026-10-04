@@ -1,0 +1,753 @@
+{
+ "chapter": "S05",
+ "note": "Official questions mapped to SM Chapter 5 (Strategy Implementation and Evaluation). Codes: primary first. key = ICAI's published answer key for MCQs. Mapping rules. (1) **ICAI's RTPs print their own chapter headings** over the SM descriptive questions, and the pattern is exact across all eight RTPs from May 2024 to September 2026: Chapter 1 = questions 7 and 8, Chapter 2 = 9 and 10, Chapter 3 = 11 and 12, Chapter 4 = 13 and 14, **Chapter 5 = 15 and 16**. Every RTP descriptive atom here therefore carries ICAI's own label. **A correction to the note in atoms_S04.json:** there are **eight** RTP files in sources/rtp (M24, S24, J25, M25, S25, J26, M26, S26), not nine; the label pattern itself is unaffected. **A labelling artefact to know about:** in several RTP files the chapter-label line physically *follows* the question text, so RTP-S25-SQ14 and RTP-M25-SQ14 appear in the raw text under a 'Chapter 5' line that in fact belongs to the next question. Questions 15 and 16 are Chapter 5 on the pattern, which the published answers confirm in every case. (2) Past-paper and MTP descriptive questions carry no chapter label, so they are mapped by the concept of ICAI's published answer, read in full, never by the wording of the stem. (3) Part-I MCQ items are included where the tested concept is unambiguously a Chapter 5 concept. **Three stems that read like Chapter 5 were excluded** after reading the published answer: MTP-S24-S1-SQ1c (FreshDelight 'expand market presence' — answered as market development, SM Ch 4, now placed there), MTP-S25-S1-SQ1c (ZephyrFit 'leadership sold the rights' — answered as divestment, SM Ch 4, now placed there) and MTP-M24-S2-SQ1c (GreenThrift — answered as the threat of new entrants, SM Ch 2). **Two 7S atoms were moved in** from the SM Ch 3 and Ch 4 scoping lists: PYQ-M24-Q5a (BOYA Ltd, answered with the McKinsey 7S Model and its limitations) and PYQ-M25-MCQ15 (key: special alert control). **Where a question has several homes:** the strategic-uncertainty questions sit at S05.04 because the study material prints 'Strategic uncertainty and how to deal with it?' inside §5.2.2 Strategy Formulation, not in the control section; and 'Strategic planning vs Operational planning' sits at S05.04 for the same reason, even though candidates expect it under control. The 'principal aspects of strategy-execution process' answer is not in the §5.2.3 text verbatim — ICAI draws it from the wider implementation discussion — and is filed at S05.05. **Items left for the back-fill pass**, found in the same sweep but belonging to earlier chapters: RTP-M24-SMCQ1-ii, RTP-M24-SMCQ3, RTP-M24-SMCQ5, RTP-M25-SMCQ5, RTP-S24-SMCQ1-i/ii/iii/v, RTP-S24-SMCQ4, RTP-S25-SMCQ1-iii, RTP-S25-SMCQ3, RTP-S25-SMCQ4, RTP-S26-SMCQ1-iii, RTP-M26-SMCQ5, RTP-J26-SMCQ1-v, PYQ-J25-MCQ12/13/16, PYQ-J26-MCQ10/12/13/16, PYQ-M26-MCQ9/14, PYQ-S24-MCQ10/11/12 and PYQ-S25-MCQ... (the two Ch 4 ones are now placed). **A wording trap worth recording.** ICAI uses two near-identical phrasings for two different printed lists. 'Identify the strategy required for digital transformation / the most preferred practices' (Twaran, BrightWave, Nexora, the small manufacturing company) is answered with the **five best practices for managing change in small and medium-sized businesses** of 5.3.3 - begin at the top, ensure the change is necessary and desired, reduce disruption, encourage communication, recognise that change is the norm. But 'key strategies for navigating change effectively' (RTP-M24-SQ16, and the OR limb of MTP-M26-S1-SQ4b) is answered with the **five pointers** of 5.3.4 - specify aims and objectives, always communicate, be ready for resistance, implement changes gradually, offer assistance and training. The giveaway is the word 'navigating', which belongs to 5.3.4's own heading.",
+ "atoms": [
+  {
+   "id": "RTP-M25-SQ16",
+   "codes": [
+    "S05.04"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-M25 SM Q16 (ICAI label: Chapter 5) distinguish between Strategic Planning and Operational Planning; ICAI's answer is the six-against-five characteristics table from SM 5.2.2"
+  },
+  {
+   "id": "RTP-S26-SQ16",
+   "codes": [
+    "S05.04"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-S26 SM Q16 (ICAI label: Chapter 5) distinguish between Strategic Planning and Operational Planning - the second appearance of the identical question"
+  },
+  {
+   "id": "MTP-S25-S1-SQ3b",
+   "codes": [
+    "S05.04"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-S25-S1 SM Q3(b) differentiation between Strategic Planning and Operational Planning"
+  },
+  {
+   "id": "PYQ-M24-Q6b",
+   "codes": [
+    "S05.04"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "SA-M24 SM Q6(b) explain how organizations can effectively manage strategic uncertainties in a rapidly changing business environment; ICAI's answer is the five approaches from SM 5.2.2"
+  },
+  {
+   "id": "RTP-J26-SQ16",
+   "codes": [
+    "S05.04"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-J26 SM Q16 (ICAI label: Chapter 5) explain how organizations can effectively manage strategic uncertainties - the same question as SA-M24 Q6(b)"
+  },
+  {
+   "id": "PYQ-M26-Q8a",
+   "codes": [
+    "S05.04"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "SA-M26 SM Q8(a) 'Strategic uncertainty refers to the unpredictability of future events and circumstances that can impact an organization's strategy and goals' - explain in that light, with the ways of dealing with it and the impact of uncertainty"
+  },
+  {
+   "id": "RTP-S25-SQ15",
+   "codes": [
+    "S05.05"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-S25 SM Q15 (ICAI label: Chapter 5) Merako Appliances automated its assembly line but the products do not meet market needs - how to balance efficiency and effectiveness, and the four possible situations; ICAI's answer is the Thrive / Die Slowly / Survive / Die Quickly matrix"
+  },
+  {
+   "id": "RTP-S25-SQ16",
+   "codes": [
+    "S05.05"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-S25 SM Q16 (ICAI label: Chapter 5) describe the principal aspects of the strategy-execution process which are included in most situations; ICAI's answer is the eight-item list beginning with developing budgets"
+  },
+  {
+   "id": "MTP-S24-S2-SQ4a",
+   "codes": [
+    "S05.05"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-S24-S2 SM Q4(a) describe the principal aspects of the strategy-execution process - the same eight-item answer"
+  },
+  {
+   "id": "MTP-M25-S2-SQ4a",
+   "codes": [
+    "S05.06"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-M25-S2 SM Q4(a) differentiate between Strategy Formulation and Strategy Implementation; ICAI's answer is the eight-row comparison table from SM 5.2.4"
+  },
+  {
+   "id": "MTP-M24-S2-SQ3b",
+   "codes": [
+    "S05.07"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-M24-S2 SM Q3(b) explain the concept of forward and backward linkages between strategy formulation and implementation, using relevant examples"
+  },
+  {
+   "id": "PYQ-M26-Q5a",
+   "codes": [
+    "S05.09"
+   ],
+   "marks": 5,
+   "format": "Case descriptive (1 + 3 + 1)",
+   "src": "SA-M26 SM Q5(a) Eagle Manufacturing Ltd. - awareness sessions, phased integration, then revised policies and reward systems; ICAI's answer is Kurt Lewin's Three Phase Model of Change, its phases, and that it is not a one-time process"
+  },
+  {
+   "id": "PYQ-S24-MCQ16",
+   "codes": [
+    "S05.09"
+   ],
+   "marks": 1,
+   "key": "D",
+   "format": "MCQ",
+   "src": "SA-S24 SM MCQ 16 the correct sequence of the stages of Kurt Lewin's model; key: unfreezing the situation, changing to the new situation, refreezing"
+  },
+  {
+   "id": "MTP-J25-S1-SQ2a",
+   "codes": [
+    "S05.09"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-J25-S1 SM Q2(a) Connect Group, once a leading handset maker, did not adapt to market trends - what would have helped it change, adapt and survive, and the steps to initiate the change"
+  },
+  {
+   "id": "MTP-J26-S1-SQ2a",
+   "codes": [
+    "S05.09"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-J26-S1 SM Q2(a) the Connect Group case repeated verbatim"
+  },
+  {
+   "id": "MTP-S25-S2-SQ2b",
+   "codes": [
+    "S05.09"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-S25-S2 SM Q2(b) changes in environmental forces often require businesses to make modifications in their existing strategies - explain the areas to be focused on, i.e. the three steps to initiate strategic change"
+  },
+  {
+   "id": "RTP-M26-SQ15",
+   "codes": [
+    "S05.10"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-M26 SM Q15 (ICAI label: Chapter 5) FinEdge Services defined clear digital objectives, assessed existing processes and capability gaps, prepared a phased roadmap - ICAI's answer is the four essential elements of change management in the digital transition"
+  },
+  {
+   "id": "PYQ-M25-Q5b",
+   "codes": [
+    "S05.11"
+   ],
+   "marks": 5,
+   "format": "Case descriptive (1 + 4)",
+   "src": "SA-M25 SM Q5(b) 'Twaran', a small and mid-sized business, wants to use the latest digital technologies - identify the strategy and state the most preferred practices; ICAI's answer is a Change Management Strategy plus the five best practices"
+  },
+  {
+   "id": "MTP-S26-S2-SQ1b",
+   "codes": [
+    "S05.11"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-S26-S2 SM Q1(b) the 'Twaran' case repeated verbatim with the same published answer"
+  },
+  {
+   "id": "RTP-J26-SQ15",
+   "codes": [
+    "S05.11"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-J26 SM Q15 (ICAI label: Chapter 5) BrightWave Solutions, an SME in renewable energy - identify the strategy required for successful digital transformation and the most preferred practices; same answer as the Twaran case"
+  },
+  {
+   "id": "RTP-M24-SQ16",
+   "codes": [
+    "S05.12",
+    "S05.11"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-M24 SM Q16 (ICAI label: Chapter 5) why is change management crucial during digital transformation, and what are some key strategies for navigating change effectively; ICAI's published answer is the FIVE POINTERS of 5.3.4, not the five SME best practices of 5.3.3"
+  },
+  {
+   "id": "MTP-M24-S1-SQ1c",
+   "codes": [
+    "S05.11"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-M24-S1 SM Q1(c) advising a small manufacturing company on managing change effectively, using the best practices for SMEs"
+  },
+  {
+   "id": "MTP-M25-S2-SQ1c",
+   "codes": [
+    "S05.11"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-M25-S2 SM Q1(c) Nexora Innovations' cloud-based project management system met employee resistance - which key change management strategies to adopt"
+  },
+  {
+   "id": "MTP-M26-S1-SQ4b",
+   "codes": [
+    "S05.18",
+    "S05.12"
+   ],
+   "marks": 5,
+   "format": "Descriptive (OR question)",
+   "src": "MTP-M26-S1 SM Q4(b) why Strategic Performance Measures are essential for organizations OR why change management is crucial during digital transformation and the key strategies - the paper offers both limbs"
+  },
+  {
+   "id": "PYQ-S24-Q8b",
+   "codes": [
+    "S05.12"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "SA-S24 SM Q8(b) explain the pointers for navigating change during digital transformation; ICAI's answer is the five pointers from SM 5.3.4"
+  },
+  {
+   "id": "MTP-J26-S2-SQ3a",
+   "codes": [
+    "S05.12"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-J26-S2 SM Q3(a) explain the pointers for navigating change during digital transformation"
+  },
+  {
+   "id": "MTP-M25-S1-SQ3a",
+   "codes": [
+    "S05.12"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-M25-S1 SM Q3(a) explain the pointers for navigating change during digital transformation"
+  },
+  {
+   "id": "MTP-S25-S1-SQ4b",
+   "codes": [
+    "S05.12"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-S25-S1 SM Q4(b) explain the pointers for navigating change during digital transformation - the fourth appearance of this question"
+  },
+  {
+   "id": "PYQ-M24-Q5a",
+   "codes": [
+    "S05.13"
+   ],
+   "marks": 5,
+   "format": "Case descriptive (2 + 3)",
+   "src": "SA-M24 SM Q5(a) BOYA Ltd. wants to understand the hard and soft elements interrelated with each other; ICAI's answer is the McKinsey 7S Model and its four limitations; moved in from the SM Ch 4 scoping list"
+  },
+  {
+   "id": "RTP-M24-SQ15",
+   "codes": [
+    "S05.13"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-M24 SM Q15 (ICAI label: Chapter 5) York Investors invested in training, technology and communication systems to align its organizational elements; ICAI's answer is a holistic application of the McKinsey 7S Model"
+  },
+  {
+   "id": "RTP-J25-SQ16",
+   "codes": [
+    "S05.13"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-J25 SM Q16 (ICAI label: Chapter 5) GloWare Ltd., operating on its founder's principles in a limited regional market, now wants to develop new skills; ICAI's answer is the McKinsey 7S Model with its four limitations"
+  },
+  {
+   "id": "PYQ-M26-MCQ10",
+   "codes": [
+    "S05.13"
+   ],
+   "marks": 2,
+   "key": "D",
+   "format": "Case MCQ",
+   "src": "SA-M26 SM MCQ 10 use McKinsey's 7S Model to identify the soft elements that change during reinvention; key: only shared value, style and staff - strategy is a hard element"
+  },
+  {
+   "id": "PYQ-S25-MCQ15",
+   "codes": [
+    "S05.13"
+   ],
+   "marks": 2,
+   "key": "C",
+   "format": "MCQ",
+   "src": "SA-S25 SM MCQ 15 Edu Edge Learning launched a knowledge-sharing platform, communication protocols and linked appraisal to teamwork; key: System"
+  },
+  {
+   "id": "RTP-M24-SMCQ1-iii",
+   "codes": [
+    "S05.13"
+   ],
+   "marks": 2,
+   "key": "C",
+   "format": "Case MCQ",
+   "src": "RTP-M24 SM case 1(iii) why the McKinsey 7S model is significant in Swasthya's approach; key: it ensures a comprehensive alignment of strategy, structure, systems, shared values, skills, style and staff"
+  },
+  {
+   "id": "RTP-S24-SMCQ1-iv",
+   "codes": [
+    "S05.13"
+   ],
+   "marks": 2,
+   "key": "B",
+   "format": "Case MCQ",
+   "src": "RTP-S24 SM case 1(iv) which element of the 7S model is demonstrated by MuseoGoa's use of social media and pricing to attract visitors; key: Strategy"
+  },
+  {
+   "id": "RTP-S26-SMCQ1-v",
+   "codes": [
+    "S05.13"
+   ],
+   "marks": 2,
+   "key": "B",
+   "format": "Case MCQ",
+   "src": "RTP-S26 SM case 1(v) how the McKinsey 7S Model helps Green Harvest Organics achieve its expansion objectives; key: by aligning all seven elements to support organizational growth"
+  },
+  {
+   "id": "RTP-J26-SMCQ4",
+   "codes": [
+    "S05.13"
+   ],
+   "marks": 2,
+   "key": "A",
+   "format": "MCQ",
+   "src": "RTP-J26 SM MCQ 4 a financial services company with a clear strategy and automated systems but unfamiliar employees and a strict hierarchy; key: Skills and Style need urgent alignment"
+  },
+  {
+   "id": "RTP-J25-SMCQ6",
+   "codes": [
+    "S05.13"
+   ],
+   "marks": 2,
+   "key": "D",
+   "format": "MCQ",
+   "src": "RTP-J25 SM MCQ 6 Alpha Corp focusing on how leaders interact with their teams and set examples for behaviour; key: Style"
+  },
+  {
+   "id": "RTP-S24-SQ15",
+   "codes": [
+    "S05.14"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-S24 SM Q15 (ICAI label: Chapter 5) PQR Ltd. splitting its business into four separate units, each operating as a separate entity; ICAI's answer is the SBU structure with its three characteristics and benefits"
+  },
+  {
+   "id": "MTP-M24-S2-SQ1b",
+   "codes": [
+    "S05.14"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-M24-S2 SM Q1(b) the PQR Ltd. restructuring case repeated"
+  },
+  {
+   "id": "MTP-M25-S1-SQ1b",
+   "codes": [
+    "S05.14"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-M25-S1 SM Q1(b) the PQR Ltd. restructuring case repeated"
+  },
+  {
+   "id": "MTP-M26-S1-SQ1b",
+   "codes": [
+    "S05.14"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-M26-S1 SM Q1(b) the PQR Ltd. restructuring case repeated - the fourth appearance"
+  },
+  {
+   "id": "MTP-J25-S2-SQ2b",
+   "codes": [
+    "S05.14"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-J25-S2 SM Q2(b) how the Strategic Business Unit structure becomes imperative in an organization with an increase in the number, size and diversity of divisions"
+  },
+  {
+   "id": "RTP-M26-SQ16",
+   "codes": [
+    "S05.14"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-M26 SM Q16 (ICAI label: Chapter 5) write a short note on Matrix Structure"
+  },
+  {
+   "id": "MTP-S24-S1-SQ2b",
+   "codes": [
+    "S05.14"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-S24-S1 SM Q2(b) write a short note on Matrix Structure"
+  },
+  {
+   "id": "PYQ-J25-Q5a",
+   "codes": [
+    "S05.14"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "SA-J25 SM Q5(a) ABC group's five projects at different locations, each with a dedicated project manager and a CEO above; ICAI's answer is the Matrix Structure"
+  },
+  {
+   "id": "PYQ-S25-Q8b",
+   "codes": [
+    "S05.14"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "SA-S25 SM Q8(b) write a short note on the hourglass organizational structure"
+  },
+  {
+   "id": "PYQ-S24-Q5a",
+   "codes": [
+    "S05.14"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "SA-S24 SM Q5(a) M/s. MTS Ltd. outsourcing and operating through its own network; ICAI's answer is the Network Organizational Structure with its merits and demerits; moved in from the SM Ch 3 scoping list"
+  },
+  {
+   "id": "PYQ-J25-MCQ15",
+   "codes": [
+    "S05.14"
+   ],
+   "marks": 2,
+   "key": "A",
+   "format": "MCQ",
+   "src": "SA-J25 SM MCQ 15 middle management's role diminishing so that in a three-layer structure the middle level is constricted; key: hourglass structure"
+  },
+  {
+   "id": "PYQ-M25-MCQ16",
+   "codes": [
+    "S05.14"
+   ],
+   "marks": 1,
+   "key": "C",
+   "format": "MCQ",
+   "src": "SA-M25 SM MCQ 16 M/s. SPG's four divisions each an independent product centre with its own activities and division head; key: Strategic Business Unit"
+  },
+  {
+   "id": "PYQ-S24-MCQ14",
+   "codes": [
+    "S05.14"
+   ],
+   "marks": 2,
+   "key": "D",
+   "format": "MCQ",
+   "src": "SA-S24 SM MCQ 14 Super Products Ltd.'s four divisions, each an independent product centre with its own competitors and competitive advantages; key: strategic business unit"
+  },
+  {
+   "id": "RTP-M25-SMCQ2",
+   "codes": [
+    "S05.14"
+   ],
+   "marks": 2,
+   "key": "D",
+   "format": "MCQ",
+   "src": "RTP-M25 SM MCQ 2 Innovexa Solutions' four divisions, each an independent product centre contributing to the flagship product and competing in different segments; key: Strategic Business Unit"
+  },
+  {
+   "id": "RTP-M26-SMCQ4",
+   "codes": [
+    "S05.14"
+   ],
+   "marks": 2,
+   "key": "C",
+   "format": "MCQ",
+   "src": "RTP-M26 SM MCQ 4 Jayant's 'Consumer Goods' segment with its own legal and finance heads operating semi-autonomously; key: Strategic Business Unit"
+  },
+  {
+   "id": "RTP-J25-SMCQ1-ii",
+   "codes": [
+    "S05.14"
+   ],
+   "marks": 2,
+   "key": "A",
+   "format": "Case MCQ",
+   "src": "RTP-J25 SM case 1(ii) how Horizon Technologies' SBU structure differed from its previous model; key: it replaced a functional structure and empowered units to make strategic decisions"
+  },
+  {
+   "id": "RTP-J26-SMCQ1-iii",
+   "codes": [
+    "S05.14"
+   ],
+   "marks": 2,
+   "key": "C",
+   "format": "Case MCQ",
+   "src": "RTP-J26 SM case 1(iii) Hepha.io's dispersed team of scholars coordinated through technology and contracts; key: Network Structure"
+  },
+  {
+   "id": "RTP-M24-SMCQ6",
+   "codes": [
+    "S05.14"
+   ],
+   "marks": 2,
+   "key": "B",
+   "format": "MCQ",
+   "src": "RTP-M24 SM MCQ 6 the structure best suited to House of Jani's need for dynamic resource allocation with each project mentored via multiple leaders; key: Matrix Structure"
+  },
+  {
+   "id": "PYQ-J26-Q6a",
+   "codes": [
+    "S05.15"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "SA-J26 SM Q6(a) what is Corporate culture? Where does it come from?"
+  },
+  {
+   "id": "MTP-J25-S2-SQ1a",
+   "codes": [
+    "S05.15"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-J25-S2 SM Q1(a) Jupiter Electronics' path-breaking products in a relaxed and casual work environment with high performance standards; ICAI's answer is organizational culture and its role in strategy execution"
+  },
+  {
+   "id": "MTP-S24-S2-SQ1c",
+   "codes": [
+    "S05.15"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-S24-S2 SM Q1(c) Orion Tech Solutions' groundbreaking software products despite a relaxed and casual work environment - the Jupiter Electronics case restaged"
+  },
+  {
+   "id": "RTP-S25-SMCQ1-iv",
+   "codes": [
+    "S05.15"
+   ],
+   "marks": 2,
+   "key": "C",
+   "format": "Case MCQ",
+   "src": "RTP-S25 SM case 1(iv) Royal Pens' workforce remaining resilient and united through legal disputes and financial decline; key: strong company culture"
+  },
+  {
+   "id": "MTP-J26-S1-SQ3a",
+   "codes": [
+    "S05.16"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-J26-S1 SM Q3(a) 'A manager as a strategic leader has to play many leadership roles' - delineate the leadership roles a manager has to play"
+  },
+  {
+   "id": "RTP-S26-SQ15",
+   "codes": [
+    "S05.16"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-S26 SM Q15 (ICAI label: Chapter 5) Cura-Stents' Plant Director setting fixed targets, strict benchmarks and SOPs with monetary rewards and salary deductions; ICAI's answer is Transactional Leadership, distinguished from Transformational Leadership"
+  },
+  {
+   "id": "RTP-J25-SMCQ1-iii",
+   "codes": [
+    "S05.16"
+   ],
+   "marks": 2,
+   "key": "C",
+   "format": "Case MCQ",
+   "src": "RTP-J25 SM case 1(iii) how Mr. Jonathan Mercer transformed his authoritative leadership style to foster a collaborative environment; key: the transformational option"
+  },
+  {
+   "id": "RTP-J25-SQ15",
+   "codes": [
+    "S05.17"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-J25 SM Q15 (ICAI label: Chapter 5) EcoTec regularly reviewing and updating its business assumptions in the face of shifting environmental regulations; ICAI's answer is premise control among the four types of strategic control"
+  },
+  {
+   "id": "PYQ-S25-Q5c",
+   "codes": [
+    "S05.17"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "SA-S25 SM Q5(c) XYZ Ltd.'s international expansion six months in, with improper use of resources, undesirable tendencies and non-conformance to norms; ICAI's answer is the Strategic Control function and the four elements of the control process"
+  },
+  {
+   "id": "MTP-J26-S2-SQ1c",
+   "codes": [
+    "S05.17"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-J26-S2 SM Q1(c) SunSip Beverages' cost-saving strategy needing continuous monitoring and flexibility; ICAI's answer runs through the four types of strategic control"
+  },
+  {
+   "id": "PYQ-M25-MCQ15",
+   "codes": [
+    "S05.17"
+   ],
+   "marks": 2,
+   "key": "D",
+   "format": "Case MCQ",
+   "src": "SA-M25 SM MCQ 15 M/s. B and M/s. C merging unexpectedly, forcing M/s. A into an intense review of strategy with a core group; key: special alert control; moved in from the SM Ch 2 scoping list"
+  },
+  {
+   "id": "RTP-M24-SMCQ1-i",
+   "codes": [
+    "S05.17"
+   ],
+   "marks": 2,
+   "key": "B",
+   "format": "Case MCQ",
+   "src": "RTP-M24 SM case 1(i) Swasthya's stringent hygiene protocols and equipment maintenance as premise control; key: it safeguards quality and aligns with strategic risk assessment"
+  },
+  {
+   "id": "RTP-S24-SMCQ6",
+   "codes": [
+    "S05.17"
+   ],
+   "marks": 2,
+   "key": "C",
+   "format": "MCQ",
+   "src": "RTP-S24 SM MCQ 6 the KDH business's regular evaluations of goals and performance; key: Implementation Control - Milestone Reviews"
+  },
+  {
+   "id": "RTP-S25-SMCQ1-v",
+   "codes": [
+    "S05.17"
+   ],
+   "marks": 2,
+   "key": "A",
+   "format": "Case MCQ",
+   "src": "RTP-S25 SM case 1(v) Royal Pens' unchallenged reliance on its century-old reputation as the basis of its strategies; key: premise control was lacking"
+  },
+  {
+   "id": "RTP-S26-SMCQ6",
+   "codes": [
+    "S05.17"
+   ],
+   "marks": 2,
+   "key": "B",
+   "format": "MCQ",
+   "src": "RTP-S26 SM MCQ 6 Nova Healthcare's Hospital Administrator allocating resources and coordinating departmental activities for the whole diagnostics department; key: management control"
+  },
+  {
+   "id": "PYQ-J26-MCQ15",
+   "codes": [
+    "S05.03",
+    "S05.05"
+   ],
+   "marks": 2,
+   "key": "C",
+   "format": "MCQ",
+   "src": "SA-J26 SM MCQ 15 Urban Stay Realty allocating budgets, assigning projects, setting up monitoring systems and developing a conducive culture; key: Strategy Implementation"
+  },
+  {
+   "id": "RTP-S24-SQ16",
+   "codes": [
+    "S05.18"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-S24 SM Q16 (ICAI label: Chapter 5) why are Strategic Performance Measures essential for organizations; ICAI's answer is the four reasons - goal alignment, resource allocation, continuous improvement, external accountability"
+  },
+  {
+   "id": "MTP-M24-S1-SQ4a",
+   "codes": [
+    "S05.18"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-M24-S1 SM Q4(a) why Strategic Performance Measures are essential for organizations"
+  },
+  {
+   "id": "PYQ-J25-Q7b",
+   "codes": [
+    "S05.18"
+   ],
+   "marks": 5,
+   "format": "Descriptive (1 + 4)",
+   "src": "SA-J25 SM Q7(b) what do you mean by strategic performance measures, and state the reasons for their importance for an organization"
+  },
+  {
+   "id": "MTP-M24-S2-SQ4a",
+   "codes": [
+    "S05.18"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-M24-S2 SM Q4(a) define Strategic Performance Measures and explain the various types"
+  },
+  {
+   "id": "MTP-J25-S1-SQ1c",
+   "codes": [
+    "S05.18"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-J25-S1 SM Q1(c) GreenEdge Solutions seeking a systematic approach to assess key performance areas; ICAI's answer defines SPM and gives the six types"
+  },
+  {
+   "id": "MTP-S25-S2-SQ1c",
+   "codes": [
+    "S05.18"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-S25-S2 SM Q1(c) the GreenEdge Solutions case repeated verbatim"
+  },
+  {
+   "id": "RTP-M25-SQ15",
+   "codes": [
+    "S05.18"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-M25 SM Q15 (ICAI label: Chapter 5) EcoPure Ltd. facing challenges in goal alignment, resource allocation and customer satisfaction; ICAI's answer proposes a structured approach built on strategic performance measures"
+  },
+  {
+   "id": "PYQ-J26-Q7a",
+   "codes": [
+    "S05.18"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "SA-J26 SM Q7(a) an organization should select the right strategic performance measures aligned with its goals - the four factors of relevance, data availability, data quality and data timeliness"
+  }
+ ]
+}

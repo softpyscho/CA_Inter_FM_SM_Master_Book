@@ -1,0 +1,705 @@
+{
+ "meta": {
+  "section": "SM",
+  "chapter": 5,
+  "code": "S05",
+  "title": "Strategy Implementation and Evaluation",
+  "subtitle": "The longest chapter in the paper, and the one that decides a pass — eighteen headings, eighty official atoms, and the examiner's favourite hunting ground",
+  "status_summary": "SM headings 18/18 · official atoms 80/80",
+  "icai_ref": "ICAI Study Material, Paper 6B Strategic Management, Chapter 5 (§5.1 to §5.7)",
+  "last_verified": "04-10-2026"
+ },
+ "examiner_mindset": [
+  {
+   "title": "This chapter is a fifth of Section B and it behaves like it",
+   "points": [
+    "**Eighty official atoms** — more than any other SM chapter, and more than SM Chapters 1 and 2 put together once the MCQs are counted. The split is **32 RTP, 27 MTP, 21 PYQ**.",
+    "**Every RTP from May 2024 to September 2026 puts questions 15 and 16 here, under ICAI's own 'Chapter 5' heading.** Eight RTPs, sixteen questions, no exceptions. The pattern turns RTP mapping from judgement into transcription — and it tells you what the examiner thinks the chapter is for.",
+    "**Organization Structure alone carries 18 atoms** (§5.4.1), the largest single heading in the whole book. Within it, the **SBU structure** has been asked seven times and the **matrix structure** five. If you learn nothing else in this chapter, learn the eight structures and the three characteristics of an SBU."
+   ]
+  },
+  {
+   "title": "Four questions repeat so often they are effectively compulsory",
+   "points": [
+    "**'Pointers for navigating change during digital transformation'** — four appearances (PYQ Sep 2024 Q8(b), MTP Jan 2026 S2 Q3(a), MTP May 2025 S1 Q3(a), MTP Sep 2025 S1 Q4(b)). Five pointers, one published answer, word for word each time.",
+    "**The PQR Ltd. SBU case** — four appearances (RTP Sep 2024 Q15, MTP Mar 2024 S2 Q1(b), MTP May 2025 S1 Q1(b), MTP May 2026 S1 Q1(b)).",
+    "**'Why are Strategic Performance Measures essential?'** — four appearances, plus three more on SPM's definition, types and selection factors. SPM is eight atoms on its own.",
+    "**The Twaran / BrightWave change-management case** — three appearances with an identical answer: name the **Change Management Strategy**, then give the five best practices for SMEs.",
+    "The lesson: the marks in this chapter are in **named lists reproduced in ICAI's own words**. There is almost no computation and very little judgement. What there is, is memory."
+   ]
+  },
+  {
+   "title": "Where candidates lose the marks",
+   "points": [
+    "**Confusing the four digital-transformation lists.** §5.3.2 has **four essential elements**, §5.3.3 has **five best practices for SMEs**, §5.3.4 has **five pointers**, and §5.3.1 has **three steps to initiate strategic change** plus **Kurt Lewin's three phases**. Four lists, four headings, and the examiner names the heading in the stem.",
+    "**Confusing Divisional, Multi-divisional and SBU.** All three involve divisions with their own heads. The discriminators are in the text: a **divisional** structure performs functional activities 'both centrally and in each division separately'; a **multi-divisional (M-form)** structure adds 'a small corporate office that would determine the long-term strategic direction'; an **SBU** groups *related* businesses for composite strategic planning, each with **its own set of competitors** and **a manager with control of profit-influencing factors**.",
+    "**Mixing up the three organizational controls with the four strategic controls.** Operational, management and strategic control are the three *types of organizational control*; premise control, strategic surveillance, special alert control and implementation control are the four *types of strategic control*. ICAI has asked both in MCQs in the same sitting.",
+    "**Treating transformational and transactional leadership as good and bad.** The study material assigns each its own setting: transformational for **turbulent environments, industries at the very start or end of their life-cycles, and poorly performing organizations**; transactional for **static environments, mature industries, and organizations that are performing well**."
+   ]
+  }
+ ],
+ "snapshot": {
+  "what": "How a chosen strategy is actually put into effect and then judged. The chapter runs the whole arc: the strategic management process and its five stages; what separates formulation from implementation and how the two are linked; strategic change, including digital transformation and the change management it requires; the organizational framework — the McKinsey 7S Model, the eight organization structures and organization culture; strategic leadership; strategic control; and strategic performance measures.",
+  "why": "Because, as the study material puts it, **'even the most technically perfect strategic plan will serve little purpose if it is not implemented effectively'**, and **'a technically imperfect plan that is implemented well will achieve more than the perfect plan that never gets off the paper on which it is typed.'** Formulation decides what to do; this chapter decides whether anything happens.",
+  "where": "Section B, Chapter 5 — the last chapter of the paper and the one that closes the loop back to Chapter 1. Expect SM question 8 and at least one part of question 5, 6 or 7 from here in every sitting, plus two or three MCQs.",
+  "weight": "Not separately notified by ICAI; on the evidence of eight RTPs and seven past papers, this is the heaviest SM chapter — roughly a quarter of Section B's marks.",
+  "time": "A 5-mark list answer in 7 minutes. The structures, the 7S elements, the four strategic controls and the SPM lists are all pure recall, so they should take less than the time allowed; bank the surplus for the computational FM questions."
+ },
+ "evidence": {
+  "pyq_table": [
+   [
+    "§5.2.2",
+    "Strategic planning vs operational planning",
+    "RTP May 2025 Q16 · RTP Sep 2026 Q16 · MTP Sep 2025 S1 Q3(b)",
+    "3"
+   ],
+   [
+    "§5.2.2",
+    "Strategic uncertainty and how to deal with it",
+    "PYQ May 2024 Q6(b) · PYQ May 2026 Q8(a) · RTP Jan 2026 Q16",
+    "3"
+   ],
+   [
+    "§5.2.3",
+    "Strategy implementation; efficiency vs effectiveness; principal aspects of execution",
+    "RTP Sep 2025 Q15 · RTP Sep 2025 Q16 · MTP Sep 2024 S2 Q4(a) · PYQ Jan 2026 MCQ 15",
+    "4"
+   ],
+   [
+    "§5.2.4",
+    "Formulation vs implementation",
+    "MTP May 2025 S2 Q4(a)",
+    "1"
+   ],
+   [
+    "§5.2.5",
+    "Forward and backward linkages",
+    "MTP Mar 2024 S2 Q3(b)",
+    "1"
+   ],
+   [
+    "§5.3.1",
+    "Strategic change; three steps; Kurt Lewin's model",
+    "PYQ May 2026 Q5(a) · PYQ Sep 2024 MCQ 16 · MTP Jan 2025 S1 Q2(a) · MTP Jan 2026 S1 Q2(a) · MTP Sep 2025 S2 Q2(b)",
+    "5"
+   ],
+   [
+    "§5.3.2",
+    "How digital transformation works — the four elements",
+    "RTP May 2026 Q15",
+    "1"
+   ],
+   [
+    "§5.3.3",
+    "Change management strategies — the five best practices",
+    "PYQ May 2025 Q5(b) · RTP Jan 2026 Q15 · RTP May 2024 Q16 · MTP Mar 2024 S1 Q1(c) · MTP May 2025 S2 Q1(c) · MTP May 2026 S1 Q4(b) · MTP Sep 2026 S2 Q1(b)",
+    "7"
+   ],
+   [
+    "§5.3.4",
+    "Pointers for navigating change",
+    "PYQ Sep 2024 Q8(b) · MTP Jan 2026 S2 Q3(a) · MTP May 2025 S1 Q3(a) · MTP Sep 2025 S1 Q4(b)",
+    "4"
+   ],
+   [
+    "§5.4",
+    "McKinsey 7S Model and its limitations",
+    "PYQ May 2024 Q5(a) · PYQ May 2026 MCQ 10 · PYQ Sep 2025 MCQ 15 · RTP May 2024 Q15 · RTP Jan 2025 Q16 · RTP May 2024 MCQ 1(iii) · RTP Sep 2024 MCQ 1(iv) · RTP Sep 2026 MCQ 1(v) · RTP Jan 2026 MCQ 4 · RTP Jan 2025 MCQ 6",
+    "10"
+   ],
+   [
+    "§5.4.1",
+    "Organization structure — simple, functional, divisional, multi-divisional, SBU, matrix, network, hourglass",
+    "RTP Sep 2024 Q15 · RTP May 2026 Q16 · PYQ Jan 2025 Q5(a) · PYQ Sep 2024 Q5(a) · PYQ Sep 2025 Q8(b) · plus 4 MTP repeats and 8 MCQs",
+    "18"
+   ],
+   [
+    "§5.4.2",
+    "Organization culture",
+    "PYQ Jan 2026 Q6(a) · MTP Jan 2025 S2 Q1(a) · MTP Sep 2024 S2 Q1(c) · RTP Sep 2025 MCQ 1(iv)",
+    "4"
+   ],
+   [
+    "§5.5",
+    "Strategic leadership; transformational vs transactional",
+    "RTP Sep 2026 Q15 · MTP Jan 2026 S1 Q3(a) · RTP Jan 2025 MCQ 1(iii)",
+    "3"
+   ],
+   [
+    "§5.6",
+    "Strategic control — three organizational controls, four strategic controls",
+    "RTP Jan 2025 Q15 · PYQ Sep 2025 Q5(c) · MTP Jan 2026 S2 Q1(c) · PYQ May 2025 MCQ 15 · RTP May 2024 MCQ 1(i) · RTP Sep 2024 MCQ 6 · RTP Sep 2025 MCQ 1(v) · RTP Sep 2026 MCQ 6",
+    "8"
+   ],
+   [
+    "§5.7",
+    "Strategic performance measures — types, importance, selection",
+    "RTP Sep 2024 Q16 · RTP May 2025 Q15 · PYQ Jan 2025 Q7(b) · PYQ Jan 2026 Q7(a) · MTP Mar 2024 S1 Q4(a) · MTP Mar 2024 S2 Q4(a) · MTP Jan 2025 S1 Q1(c) · MTP Sep 2025 S2 Q1(c)",
+    "8"
+   ],
+   [
+    "§5.1 to §5.2.1",
+    "Introduction; the strategic management process; the five stages",
+    "No question asked on these headings alone — they are tested through the implementation questions",
+    "0"
+   ]
+  ],
+  "trend": [
+   "**The chapter is tested broadly, not deeply.** Fifteen of the eighteen headings carry at least one atom, and no heading dominates except organization structure. Selective study fails here more than anywhere else in the paper.",
+   "**Digital transformation is the growth area.** It accounts for 12 atoms across §5.3.2 to §5.3.4 and appears in every sitting from May 2024 onward. It was a 2023 syllabus addition and the examiner is still working through it.",
+   "**The McKinsey 7S Model is the most reliably asked single model in SM**, with 10 atoms — three descriptive and seven MCQs. The MCQs test only one thing: can you sort an element into hard or soft, and name which of the seven a fact illustrates.",
+   "**Strategic control MCQs turn on one word.** 'Assumptions' or 'premises' → premise control. 'Unexpected', 'sudden', 'crisis team' → special alert control. 'General browsing', 'unfocussed' → strategic surveillance. 'Milestones', 'thrusts' → implementation control.",
+   "**Structure cases are decided by counting layers and asking who reports to whom.** Two bosses → matrix. Outsourced, contract-linked, 'virtual' → network. Constricted middle → hourglass. Independent product centres with their own competitors → SBU.",
+   "**Nothing in this chapter is computational**, which means the examiner can and does demand ICAI's exact lists. Partial lists get partial marks."
+  ]
+ },
+ "concepts": [
+  {
+   "code": "S05.01 + S05.02 + S05.03",
+   "title": "5.1 Introduction · 5.2 Strategic Management Process · 5.2.1 Stages in Strategic Management",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 (MCQ)",
+   "understand": [
+    "**What this chapter is about.** ==**Strategy implementation and evaluation are critical phases of the process of strategic management in an organization.** **Implementation involves putting the plans and initiatives developed as part of the strategy into action, while evaluation refers to the process of measuring and assessing the effectiveness of these actions.**== Everything in the chapter hangs off that one distinction.",
+    "**§5.2 The process, in ICAI's own sequence.** ==**The process of developing an organisation's strategy is quite methodical. The organisation first develops a clear vision, mission, values and goals.** They then **discuss and analyse a number of themes to determine which options are most promising**. **All these aspects come together in a strategic plan that details the organisation's vision, mission, values, goals, strategic themes, a high-level implementation plan and key performance measures.**==",
+    "==**The key performance measures are included in the strategic plan and are used to link the themes back to the organisation's goals and to measure the success of the strategy after it is implemented.**== Note this sentence — it is why §5.7's strategic performance measures belong in this chapter and not in a chapter of their own.",
+    "**The process is a loop, not a line.** ==**The strategic management process is dynamic and continuous. A change in any one of the major components in the model can necessitate a change in any or all of the other components.**== ICAI's own illustrations: **a shift in the economy could represent a major opportunity and require a change in long-term objectives and strategies; a failure to accomplish annual objectives could require a change in policy; or a major competitor's change in strategy could require a change in the firm's mission.**",
+    "==**Therefore, strategy formulation, implementation, and evaluation activities should be performed on a continual basis, not just at the end of the year or semi-annually. The strategic management process never really ends.**== That last sentence is a favourite closing line for any question on the process.",
+    "**The model — Fred R. David.** The study material prints the **Strategic Management Model (Fred R David)**, which groups six boxes into three phases: **Formulation** (Environmental Analysis and Organisation Appraisal feeding Develop Vision, Mission and Objectives, then Generate, Analyse and Select Strategies), **Implementation** (Implement Strategies) and **Evaluation** (Strategic Evaluation and Control). ==It is **a widely accepted, comprehensive** model which **does not guarantee sure-shot success, but it does represent a clear and practical approach for formulating, implementing, and evaluating strategies**.==",
+    "**How it works in practice — the realism paragraph.** ==**In practice, strategists do not go through the process in lockstep fashion. Generally, there is give-and-take among hierarchical levels of an organisation. The process essentially is iterative and involves a lot of back-and-forth considerations across different stages.**== **Many organisations conduct formal meetings semi-annually to discuss and update the firm's vision/mission, opportunities/threats, strengths/weaknesses, strategies, objectives, policies, and performance.** **Creativity from participants is encouraged in meeting. Good communication and feedback are needed throughout the strategic management process.**",
+    "**§5.2.1 The five stages — the chapter's spine.** ICAI opens with a rhetorical flourish: ==**Crafting and executing strategy are the heart and soul of managing a business enterprise.**== Then: ==**Strategic management involves the following stages: 1. Developing a strategic vision and formulation of statement of mission, goals and objectives. 2. Environmental and organisational analysis. 3. Formulation of strategy. 4. Implementation of strategy. 5. Strategic evaluation and control.**==",
+    "**Stage 1 in ICAI's own words.** ==**First a company must determine what directional path the company should take and what changes in the company's product – market – customer – technology – focus would improve its current market position and its future prospect.** **Top management's views and conclusions about the company's direction and the product-customer-market-technology focus constitute a strategic vision for the company.** **A strategic vision delineates management's aspirations for the organisation and highlights a particular direction, or strategic path for it to follow in preparing for the future.**==",
+    "**How the five stages map onto this chapter.** Stages 1 and 2 are SM Chapters 1 to 3. Stage 3 is SM Chapters 3 and 4. **Stages 4 and 5 are this chapter** — and the chapter title, *Strategy Implementation and Evaluation*, names them exactly. When a case asks 'which stage of strategic management does this describe?', the answer is decided by whether the facts are about *deciding* (formulation) or about *doing and checking* (implementation and evaluation)."
+   ],
+   "example": "A realty firm plans an expansion into Tier-2 cities. Everything up to the decision — the environmental scan, the vision, the choice among options — is formulation. The moment it **allocates budgets, assigns projects to teams, collaborates with banks for financing, sets up monitoring systems and develops a conducive culture**, it has moved to Stage 4, strategy implementation. ICAI asked exactly that in January 2026 and the key is Strategy Implementation, because every fact listed is an act of execution rather than of choice.",
+   "keywords": [
+    "critical phases of the process of strategic management",
+    "putting the plans and initiatives… into action",
+    "measuring and assessing the effectiveness",
+    "quite methodical",
+    "vision, mission, values and goals",
+    "strategic themes",
+    "key performance measures",
+    "link the themes back to the organisation's goals",
+    "dynamic and continuous",
+    "never really ends",
+    "Fred R David",
+    "does not guarantee sure-shot success",
+    "not go through the process in lockstep fashion",
+    "give-and-take among hierarchical levels",
+    "iterative",
+    "back-and-forth considerations",
+    "heart and soul of managing a business enterprise",
+    "strategic vision",
+    "product – market – customer – technology – focus",
+    "delineates management's aspirations",
+    "strategic evaluation and control"
+   ],
+   "memory": {
+    "trick": "**Five stages = V-E-F-I-C: Vision, Environment, Formulate, Implement, Control.** Three phases of the David model = **Formulation, Implementation, Evaluation**, and the chapter you are reading is the last two. The one-line test for any 'which stage' question: **deciding = formulation, doing = implementation, checking = evaluation.**",
+    "key": [
+     [
+      "Stage 1",
+      "Developing a strategic vision and formulation of statement of mission, goals and objectives"
+     ],
+     [
+      "Stage 2",
+      "Environmental and organisational analysis"
+     ],
+     [
+      "Stage 3",
+      "Formulation of strategy"
+     ],
+     [
+      "Stage 4",
+      "Implementation of strategy"
+     ],
+     [
+      "Stage 5",
+      "Strategic evaluation and control"
+     ],
+     [
+      "The model",
+      "Fred R. David — formulation, implementation, evaluation; dynamic, continuous, iterative, never really ends"
+     ]
+    ],
+    "recall_trigger": "Vision, Environment, Formulate, Implement, Control"
+   },
+   "mistakes": [
+    "Giving four stages. There are **five**, and the fifth — **strategic evaluation and control** — is the one most often dropped, which is awkward because it is half of this chapter's title.",
+    "Attributing the model to the wrong author. ICAI names **Fred R. David**; Ansoff, Porter, Chandler, Mendelow, Prahalad and Hamel all belong to other chapters.",
+    "Describing the process as linear. The study material is emphatic: **strategists do not go through the process in lockstep fashion**, the process is **iterative**, and **a change in any one of the major components can necessitate a change in any or all of the other components**.",
+    "Forgetting that **key performance measures are part of the strategic plan itself**, used to link the themes back to the organisation's goals — the hook that carries §5.7 into this chapter.",
+    "Answering a 'which stage' MCQ from the industry or the strategy named rather than from the activity described. Budgets, teams, monitoring systems and culture are implementation, whatever the strategy being implemented."
+   ],
+   "links": [
+    "🔗 S01.03: the five stages restate the strategic management process introduced in SM Ch 1",
+    "🔗 S05.05: Stage 4 is this chapter's §5.2.3",
+    "🔗 S05.17: Stage 5 is this chapter's §5.6",
+    "🔗 S05.18: the key performance measures named in the strategic plan are §5.7's subject",
+    "🔗 S03.01: Stage 2's organisational analysis is SM Ch 3's internal environment"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "An MCQ giving a set of execution facts and asking which stage of strategic management they describe (PYQ Jan 2026 MCQ 15)",
+     "'Explain the strategic management process' as the opening of a longer answer on implementation",
+     "A case asking what the firm should do next, where naming the stage earns the first mark",
+     "The five stages as the framing paragraph of any §5.2 question"
+    ],
+    "approach": [
+     "Name the five stages in ICAI's order and words. Then, if the question calls for it, attribute the model to Fred R. David and say what the three phases group into.",
+     "Close with the continuity sentence — **the strategic management process never really ends** — which earns a mark in almost any process question.",
+     "For a 'which stage' MCQ, read for verbs. Analysing and choosing are formulation; allocating, assigning, building and monitoring are implementation; measuring and correcting are evaluation."
+    ],
+    "official_pattern": "These three headings have never carried a descriptive question of their own. They are tested as the framing of other answers and in the occasional MCQ, which is why this block is short and the next ten are long.",
+    "time_tip": "Never spend more than 60 seconds on the process as framing — the marks in this chapter sit in the later headings."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S05.03-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "Explain the stages in strategic management, and state why the process is described as dynamic and continuous.",
+     "answer_points": [
+      "**Crafting and executing strategy are the heart and soul of managing a business enterprise.** **Strategic management involves the following stages:**",
+      "**Stage 1 — Developing a strategic vision and formulation of statement of mission, goals and objectives.** The company must **determine what directional path it should take and what changes in its product – market – customer – technology – focus would improve its current market position and its future prospect**; **top management's views and conclusions about the company's direction and the product-customer-market-technology focus constitute a strategic vision**, which **delineates management's aspirations for the organisation and highlights a particular direction, or strategic path for it to follow in preparing for the future**.",
+      "**Stage 2 — Environmental and organisational analysis**, i.e. the appraisal of the external environment and of the organisation's own capability.",
+      "**Stage 3 — Formulation of strategy**, generating, analysing and selecting from the available strategic alternatives.",
+      "**Stage 4 — Implementation of strategy**, the managerial exercise of putting a freshly chosen strategy into action.",
+      "**Stage 5 — Strategic evaluation and control**, evaluating the strategy as it is formulated and implemented, identifying problems and changes in premises and making necessary adjustments.",
+      "**Why it is dynamic and continuous:** **a change in any one of the major components in the model can necessitate a change in any or all of the other components** — a shift in the economy may require a change in long-term objectives, a failure to accomplish annual objectives may require a change in policy, and a competitor's change in strategy may require a change in the firm's mission. **Therefore strategy formulation, implementation and evaluation activities should be performed on a continual basis, not just at the end of the year or semi-annually. The strategic management process never really ends.**"
+     ],
+     "keywords": [
+      "heart and soul of managing a business enterprise",
+      "product – market – customer – technology – focus",
+      "delineates management's aspirations",
+      "environmental and organisational analysis",
+      "strategic evaluation and control",
+      "dynamic and continuous",
+      "never really ends"
+     ]
+    }
+   ],
+   "official_questions": [],
+   "mcqs": [
+    {
+     "id": "PYQ-J26-MCQ15",
+     "question": "Urban Stay Realty decided to expand into Tier-2 cities after strategic planning. The firm allocated budgets, assigned projects to motivated teams, collaborated with local banks for financing, set up monitoring systems for construction and marketing activities, and developed a conducive culture. Within two years the company launched new housing projects successfully and captured market share in new regions. Which stage of strategic management does this case describe?",
+     "options": {
+      "A": "Environmental Scanning",
+      "B": "Strategy Formulation",
+      "C": "Strategy Implementation",
+      "D": "Strategic Evaluation and Control"
+     },
+     "answer": "C",
+     "explanation": "Strategy implementation 'concerns the managerial exercise of putting a freshly chosen strategy into action… the allocation of resources to new courses of action will need to be undertaken, and there may be a need for adapting the organization's structure… as well as training personnel and devising appropriate systems' (SM §5.2.3). Budgets, teams, financing, monitoring systems and culture are all acts of execution. ICAI key: (C).",
+     "why_wrong": {
+      "A": "Environmental scanning belongs to Stage 2 and precedes the decision; the stem says the decision was already taken 'after strategic planning'.",
+      "B": "Formulation is the planning and decision-making that developed the expansion plan — explicitly completed before the facts described.",
+      "D": "Evaluation and control would be the measurement of results against standards; the monitoring systems are being *set up* as part of implementation."
+     },
+     "trap": "'Set up monitoring systems' tempts option D. Installing the systems is implementation ('devising appropriate systems'); using them to compare results against standards is evaluation.",
+     "concept": "S05.03"
+    },
+    {
+     "id": "MCQ-S05.03-01",
+     "angle": "Whose model",
+     "difficulty": "Easy",
+     "question": "The comprehensive strategic management model printed in the study material, grouping its boxes into formulation, implementation and evaluation, is attributed to:",
+     "options": {
+      "A": "Igor H. Ansoff",
+      "B": "Fred R. David",
+      "C": "Alfred D. Chandler",
+      "D": "Arthur D. Little"
+     },
+     "answer": "B",
+     "explanation": "SM §5.2 prints the 'Figure: Strategic Management Model (Fred R David)' and calls it 'a widely accepted, comprehensive' model which 'does not guarantee sure-shot success, but it does represent a clear and practical approach for formulating, implementing, and evaluating strategies'.",
+     "why_wrong": {
+      "A": "Ansoff gave the product market growth matrix in SM Ch 4.",
+      "C": "Chandler gave the strategy-structure relationship in §5.4.1 — 'structure should follow strategy'.",
+      "D": "Arthur D. Little gave the ADL matrix in SM Ch 4."
+     },
+     "trap": "Chandler is the other name in this chapter, which makes option C the live distractor; his contribution is to structure, not to the process model.",
+     "concept": "S05.02"
+    },
+    {
+     "id": "MCQ-S05.03-02",
+     "angle": "Which statement",
+     "difficulty": "Moderate",
+     "question": "Which statement about the strategic management process is INCORRECT as per the study material?",
+     "options": {
+      "A": "A change in any one of the major components can necessitate a change in any or all of the other components",
+      "B": "Formulation, implementation and evaluation activities should be performed on a continual basis",
+      "C": "Strategists go through the process in lockstep fashion, completing each stage before beginning the next",
+      "D": "Key performance measures are included in the strategic plan and are used to link the themes back to the organisation's goals"
+     },
+     "answer": "C",
+     "explanation": "The study material says the opposite: 'in practice, strategists do not go through the process in lockstep fashion. Generally, there is give-and-take among hierarchical levels of an organisation. The process essentially is iterative and involves a lot of back-and-forth considerations across different stages.'",
+     "why_wrong": {
+      "A": "That is verbatim from §5.2, and the reason the process is called dynamic and continuous.",
+      "B": "Verbatim: 'not just at the end of the year or semi-annually'.",
+      "D": "Verbatim from §5.2's description of the strategic plan."
+     },
+     "trap": "The five numbered stages look sequential, which makes option C read like a safe restatement; the text explicitly denies lockstep progression.",
+     "concept": "S05.02"
+    }
+   ],
+   "recap": [
+    "Implementation puts the plans and initiatives into action; evaluation measures and assesses the effectiveness of those actions.",
+    "The strategic plan details vision, mission, values, goals, strategic themes, a high-level implementation plan and key performance measures.",
+    "The process is dynamic and continuous, iterative and not lockstep; it never really ends.",
+    "The model is Fred R. David's: formulation, implementation, evaluation.",
+    "Five stages: vision and mission; environmental and organisational analysis; formulation; implementation; strategic evaluation and control. Stages 4 and 5 are this chapter."
+   ]
+  },
+  {
+   "code": "S05.04",
+   "title": "5.2.2 Strategy Formulation — Strategic vs Operational Planning, and Strategic Uncertainty",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 2 · RTP 3 · MTP 1",
+   "understand": [
+    "**Where planning starts.** ==**Planning entails choosing what has to be done in the future (today, next week, next month, next year, over the next couple of years, etc.) and creating action plans. An essential element of effective management is adequate planning. Choosing a path of action to achieve defined goals is a part of planning.**==",
+    "==**The game plan that really directs the company towards success is called \"corporate strategy\".**== And corporate strategy divides planning in two: ==**Planning may be operational or strategic.**==",
+    "==**Senior management develops strategic plans for the entire organisation after evaluating the organization's strengths and weaknesses in light of potential possibilities and dangers in the outside world. They involve gathering and allocating resources in order to achieve organisational goals.** **But operational plans on the other hand are made at the middle and lower-level management. They provide specifics on how the resources are to be used effectively to achieve the goals.**==",
+    "**The six characteristics of Strategic planning** — learn them as a block, because two RTPs and one MTP ask for nothing else: ==**♦ Shapes the organisation and its resources. ♦ Assesses the impact of environmental variables. ♦ Takes a holistic view of the organisation. ♦ Develops overall objectives and strategies. ♦ Is concerned with the long-term success of the organisation. ♦ Is a senior management responsibility.**==",
+    "**The five characteristics of Operational planning:** ==**♦ Deals with current deployment of resources. ♦ Develops tactics rather than strategy. ♦ Projects current operations into the future. ♦ Makes modifications to the business functions but not fundamental changes. ♦ Is the responsibility of functional managers.**==",
+    "**Strategic planning defined, in four of ICAI's own bullets.** ==**Strategic planning is the process of determining the objectives of the firm, resources required to attain these objectives and formulation of policies to govern the acquisition, use and disposition of resources.** **Strategic planning involves a fact of interactive and overlapping decisions leading to the development of an effective strategy for the firm.** **Strategic planning determines where an organisation is going over the next year or more and the ways for going there.** **The process is organisation-wide or focused on a major function such as a division or other major function.**==",
+    "**Why the formation of corporate strategy sits at the core.** ==**The success of the company depends on how well this game plan works. Because of this, the core of the process of strategic planning is the formation of corporate strategy. The formation of corporate strategy is the result of a process known as strategic planning.**==",
+    "**Strategic uncertainty — and why it lives here.** The study material prints **'Strategic uncertainty and how to deal with it?'** inside §5.2.2, under *formulation*, not under control. ==**Strategic uncertainty refers to the unpredictability of future events and circumstances that can impact an organization's strategy and goals. It can be driven by factors such as changes in the market, technology, competition, regulation, and other external factors.**==",
+    "==**Dealing with strategic uncertainty can be challenging and organizations need to have the flexibility, resilience, and agility to quickly respond to changes in the environment and minimize its impact.** **To be manageable, they need to be grouped into logical clusters or themes. It is then useful to assess the importance of each cluster in order to set priorities with respect to information gathering and analysis.**== That clustering sentence is the one candidates omit, and it is worth a mark.",
+    "**The five ways of dealing with it.** ==**♦ Flexibility: Organizations can build flexibility into their strategies to quickly adapt to changes in the environment. ♦ Diversification: Diversifying the organization's product portfolio, markets, and customer base can reduce the impact of strategic uncertainty. ♦ Monitoring and Scenario Planning: Organizations can regularly monitor key indicators of change and conduct scenario planning to understand how different future scenarios might impact their strategies. ♦ Building Resilience: Organizations can invest in building internal resilience, such as strengthening their operational processes, increasing their financial flexibility, and improving their risk management capabilities. ♦ Collaboration and Partnerships: Collaborating with other organizations, suppliers, customers, and partners can help organizations pool resources, share risk, and gain access to new markets and technologies.**==",
+    "**Impact of uncertainty — the limb that distinguishes a 5-mark answer.** ==**Each element of strategic uncertainty involves potential trends or events that could have an impact on present, proposed, and even potential businesses.**== ICAI's example: **a trend toward natural foods may present opportunities for juices for a firm producing aerated drinks on the basis of a strategic uncertainty.** ==**The impact of a strategic uncertainty will depend on the importance of the impacted SBU to a firm. Some SBUs are more important than others. The importance of established SBUs may be indicated by their associated sales, profits, or costs. However, such measures might need to be supplemented for potential growth as present sales, profits, or costs may not reflect the true value.**=="
+   ],
+   "example": "A beverage company faces three uncertainties: a possible sugar tax, a shift in consumer taste toward natural foods, and a rival's rumoured entry. Grouping them into clusters — regulatory, demand, competitive — lets it set information priorities. It then builds **flexibility** into its bottling contracts, **diversifies** into juices (ICAI's own illustration of this exact uncertainty), sets up **monitoring and scenario planning** on the tax, strengthens **resilience** by improving its cash position, and takes a **partnership** with a fruit-processing firm. Note that the response to uncertainty is drawn from four different chapters — but the framework is here, in formulation.",
+   "keywords": [
+    "choosing what has to be done in the future",
+    "game plan that really directs the company towards success",
+    "planning may be operational or strategic",
+    "strengths and weaknesses in light of potential possibilities and dangers",
+    "gathering and allocating resources",
+    "middle and lower-level management",
+    "provide specifics on how the resources are to be used",
+    "shapes the organisation and its resources",
+    "impact of environmental variables",
+    "holistic view",
+    "long-term success",
+    "senior management responsibility",
+    "current deployment of resources",
+    "tactics rather than strategy",
+    "projects current operations into the future",
+    "not fundamental changes",
+    "responsibility of functional managers",
+    "acquisition, use and disposition of resources",
+    "interactive and overlapping decisions",
+    "unpredictability of future events",
+    "flexibility, resilience, and agility",
+    "logical clusters or themes",
+    "scenario planning",
+    "building resilience",
+    "collaboration and partnerships",
+    "importance of the impacted SBU"
+   ],
+   "memory": {
+    "trick": "**Strategic planning SHAPES; operational planning DEPLOYS.** Strategic = **S**enior, **S**hapes, **S**urroundings (environmental variables), **S**weeping (holistic), **S**trategies, **S**ustained (long-term) — six S's, six characteristics. Operational = current, tactical, projected, modified, functional — five. For strategic uncertainty: **F-D-M-B-C — Flexibility, Diversification, Monitoring, Building resilience, Collaboration.**",
+    "key": [
+     [
+      "Strategic planning",
+      "Shapes the organisation and its resources · assesses environmental variables · holistic view · overall objectives and strategies · long-term success · senior management responsibility"
+     ],
+     [
+      "Operational planning",
+      "Current deployment of resources · tactics not strategy · projects current operations forward · modifies functions, not fundamentals · functional managers' responsibility"
+     ],
+     [
+      "Strategic uncertainty",
+      "The unpredictability of future events and circumstances that can impact strategy and goals — market, technology, competition, regulation"
+     ],
+     [
+      "Five responses",
+      "Flexibility · Diversification · Monitoring and Scenario Planning · Building Resilience · Collaboration and Partnerships"
+     ],
+     [
+      "Impact",
+      "Depends on the importance of the impacted SBU — judged by sales, profits or costs, supplemented for potential growth"
+     ]
+    ],
+    "recall_trigger": "Shapes vs Deploys; F-D-M-B-C"
+   },
+   "mistakes": [
+    "Giving strategic and operational planning the same number of characteristics. ICAI prints **six** for strategic and **five** for operational; a tidy symmetrical answer is a wrong answer.",
+    "Placing strategic uncertainty under strategic control. It reads like control, but the study material prints it in **§5.2.2 Strategy Formulation**. The control section's four types are a different list.",
+    "Omitting the **clustering** sentence — that uncertainties **need to be grouped into logical clusters or themes**, and the importance of each cluster assessed **in order to set priorities with respect to information gathering and analysis**.",
+    "Dropping the **impact** limb. PYQ May 2026 Q8(a) asks for the concept, the ways of dealing with it *and* the impact; the impact turns on **the importance of the impacted SBU**.",
+    "Saying operational planning is done by senior management. It is **made at the middle and lower-level management** and is **the responsibility of functional managers**.",
+    "Treating 'diversification' here as the Chapter 4 concept. It is the same word but used as a risk response — **reducing the impact of strategic uncertainty** by spreading across products, markets and customers."
+   ],
+   "links": [
+    "🔗 S05.06: the formulation-versus-implementation table extends this distinction",
+    "🔗 S05.17: strategic control also watches premises, but it is a separate list of four",
+    "🔗 S04.09: diversification as a growth route, used here as a risk response",
+    "🔗 S02.02: environmental variables are SM Ch 2's subject",
+    "🔗 S01.06: corporate, business and functional levels map onto strategic and operational planning"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "'Distinguish between Strategic Planning and Operational Planning' (RTP May 2025 Q16, RTP Sep 2026 Q16, MTP Sep 2025 S1 Q3(b)) — three appearances, answered with the two characteristic lists",
+     "'Explain how organizations can effectively manage strategic uncertainties in a rapidly changing business environment' (PYQ May 2024 Q6(b), RTP Jan 2026 Q16)",
+     "'Strategic uncertainty refers to the unpredictability of future events…' — explain in that light (PYQ May 2026 Q8(a))",
+     "An MCQ on which level of management makes which kind of plan"
+    ],
+    "approach": [
+     "For the distinguish question, draw two columns and give all eleven characteristics. Open with the one-line distinction — strategic planning shapes the organisation and its resources, operational planning deals with the current deployment of resources — and then list.",
+     "For strategic uncertainty, define it, add the clustering sentence, give the five responses with ICAI's own one-line explanations, and close on the impact limb.",
+     "If the question is a case, attach each response to a fact. ICAI's own published answers do this and it costs nothing."
+    ],
+    "official_pattern": "Six atoms on two topics, and both are pure list recall. The distinguish question has appeared three times with an identical answer, and the uncertainty question three times. Between them they are the most predictable five marks in the chapter.",
+    "time_tip": "5 marks ≈ 7 minutes. Eleven characteristics at 25 seconds each is 4.5 minutes, leaving time for the opening distinction and a closing line."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S05.04-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "What is strategic planning? State its characteristics and distinguish it from operational planning.",
+     "answer_points": [
+      "**Planning entails choosing what has to be done in the future and creating action plans; an essential element of effective management is adequate planning.** **The game plan that really directs the company towards success is called \"corporate strategy\"**, and **planning may be operational or strategic**.",
+      "**Strategic planning is the process of determining the objectives of the firm, resources required to attain these objectives and formulation of policies to govern the acquisition, use and disposition of resources.** It **involves a fact of interactive and overlapping decisions leading to the development of an effective strategy for the firm**, **determines where an organisation is going over the next year or more and the ways for going there**, and **is organisation-wide or focused on a major function such as a division**.",
+      "**Characteristics of strategic planning:** it **shapes the organisation and its resources**; **assesses the impact of environmental variables**; **takes a holistic view of the organisation**; **develops overall objectives and strategies**; **is concerned with the long-term success of the organisation**; and **is a senior management responsibility**.",
+      "**Characteristics of operational planning:** it **deals with current deployment of resources**; **develops tactics rather than strategy**; **projects current operations into the future**; **makes modifications to the business functions but not fundamental changes**; and **is the responsibility of functional managers**.",
+      "**Who makes which:** **senior management develops strategic plans for the entire organisation after evaluating the organization's strengths and weaknesses in light of potential possibilities and dangers in the outside world**, involving **gathering and allocating resources in order to achieve organisational goals**. **Operational plans on the other hand are made at the middle and lower-level management; they provide specifics on how the resources are to be used effectively to achieve the goals.**",
+      "**The core point:** **the core of the process of strategic planning is the formation of corporate strategy**, and **the formation of corporate strategy is the result of a process known as strategic planning.**"
+     ],
+     "keywords": [
+      "acquisition, use and disposition of resources",
+      "interactive and overlapping decisions",
+      "shapes the organisation and its resources",
+      "holistic view",
+      "senior management responsibility",
+      "current deployment of resources",
+      "tactics rather than strategy",
+      "functional managers",
+      "formation of corporate strategy"
+     ]
+    },
+    {
+     "id": "EQ-S05.04-2",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "What is strategic uncertainty? How can an organization deal with it, and what determines its impact?",
+     "answer_points": [
+      "**Strategic uncertainty refers to the unpredictability of future events and circumstances that can impact an organization's strategy and goals.** **It can be driven by factors such as changes in the market, technology, competition, regulation, and other external factors.**",
+      "**Dealing with strategic uncertainty can be challenging and organizations need to have the flexibility, resilience, and agility to quickly respond to changes in the environment and minimize its impact.** **To be manageable, they need to be grouped into logical clusters or themes**, and **it is then useful to assess the importance of each cluster in order to set priorities with respect to information gathering and analysis**.",
+      "**Flexibility:** **organizations can build flexibility into their strategies to quickly adapt to changes in the environment.**",
+      "**Diversification:** **diversifying the organization's product portfolio, markets, and customer base can reduce the impact of strategic uncertainty.**",
+      "**Monitoring and Scenario Planning:** **organizations can regularly monitor key indicators of change and conduct scenario planning to understand how different future scenarios might impact their strategies.**",
+      "**Building Resilience:** **organizations can invest in building internal resilience, such as strengthening their operational processes, increasing their financial flexibility, and improving their risk management capabilities.**",
+      "**Collaboration and Partnerships:** **collaborating with other organizations, suppliers, customers, and partners can help organizations pool resources, share risk, and gain access to new markets and technologies.**",
+      "**Impact of uncertainty:** **each element of strategic uncertainty involves potential trends or events that could have an impact on present, proposed, and even potential businesses** — ICAI's example being that **a trend toward natural foods may present opportunities for juices for a firm producing aerated drinks**. **The impact of a strategic uncertainty will depend on the importance of the impacted SBU to a firm**; **the importance of established SBUs may be indicated by their associated sales, profits, or costs**, though **such measures might need to be supplemented for potential growth as present sales, profits, or costs may not reflect the true value**."
+     ],
+     "keywords": [
+      "unpredictability of future events",
+      "market, technology, competition, regulation",
+      "flexibility, resilience, and agility",
+      "logical clusters or themes",
+      "information gathering and analysis",
+      "scenario planning",
+      "financial flexibility",
+      "pool resources, share risk",
+      "importance of the impacted SBU"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "RTP-M25-SQ16",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "Distinguish between Strategic Planning and Operational Planning. (ICAI's own label on this question: Chapter 5)",
+     "answer_points": [
+      "ICAI's published answer is the study material's own two-column table, reproduced in full.",
+      "**Strategic planning shapes the organisation and its resources.** **Operational planning deals with current deployment of resources.**",
+      "**Strategic planning assesses the impact of environmental variables.** **Operational planning develops tactics rather than strategy.**",
+      "**Strategic planning takes a holistic view of the organisation.** **Operational planning projects current operations into the future.**",
+      "**Strategic planning develops overall objectives and strategies.** **Operational planning makes modifications to the business functions but not fundamental changes.**",
+      "**Strategic planning is concerned with the long-term success of the organisation.** **Operational planning is the responsibility of functional managers.**",
+      "**Strategic planning is a senior management responsibility.** — the sixth characteristic, which has no operational counterpart in ICAI's table, so the two columns are deliberately uneven at six against five.",
+      "**Worth adding if space allows:** **senior management develops strategic plans for the entire organisation after evaluating the organization's strengths and weaknesses in light of potential possibilities and dangers in the outside world**, while **operational plans are made at the middle and lower-level management** and **provide specifics on how the resources are to be used effectively to achieve the goals**."
+     ],
+     "keywords": [
+      "shapes the organisation and its resources",
+      "current deployment of resources",
+      "impact of environmental variables",
+      "tactics rather than strategy",
+      "holistic view",
+      "projects current operations into the future",
+      "overall objectives and strategies",
+      "not fundamental changes",
+      "long-term success",
+      "functional managers",
+      "senior management responsibility"
+     ],
+     "also_asked_as": [
+      "The identical question with the same published answer appears as RTP-S26-SQ16 (ICAI's label: Chapter 5) and MTP-S25-S1-SQ3b — three appearances in all, each answered with nothing but the table."
+     ]
+    },
+    {
+     "id": "PYQ-M24-Q6b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Explain how organizations can effectively manage strategic uncertainties in a rapidly changing business environment. (5 Marks)",
+     "answer_points": [
+      "**In managing strategic uncertainties in a rapidly changing business environment, organizations need to adopt proactive strategies to navigate unpredictability effectively.** ICAI then gives five key approaches.",
+      "**Flexibility: organizations should build flexibility into their strategies to enable quick adaptation to change in the environment.**",
+      "**Diversification: diversifying the organization's product portfolio, markets, and customer base can help reduce the impact of strategic uncertainty.**",
+      "**Monitoring and Scenario Planning: regularly monitoring key indicators of change and conducting scenario planning exercises can help organizations anticipate and prepare for different future scenarios.**",
+      "**Building Resilience: investing in building internal resilience is essential for weathering uncertainty. This includes strengthening operational processes, increasing financial flexibility, and improving risk management capabilities.**",
+      "**Collaboration and Partnerships: collaborating with other organizations, suppliers, customers, and partners can provide access to additional resources, expertise, and market opportunities. Strategic partnerships enable organizations to pool resources, share risk, and leverage each other's strengths to navigate uncertainty more effectively.**",
+      "**Add the definition as the opening line**, since the question says 'strategic uncertainties' without defining them: **strategic uncertainty refers to the unpredictability of future events and circumstances that can impact an organization's strategy and goals, driven by factors such as changes in the market, technology, competition, regulation and other external factors.**"
+     ],
+     "keywords": [
+      "proactive strategies to navigate unpredictability",
+      "build flexibility into their strategies",
+      "product portfolio, markets, and customer base",
+      "scenario planning exercises",
+      "internal resilience",
+      "financial flexibility",
+      "risk management capabilities",
+      "pool resources, share risk"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "RTP-J26-SQ16 asks the identical question under ICAI's own 'Chapter 5' label, with the same published answer."
+     ]
+    },
+    {
+     "id": "PYQ-M26-Q8a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "\"Strategic uncertainty refers to the unpredictability of future events and circumstances that can impact an organization's strategy and goals.\" In the light of this statement, explain strategic uncertainty and the ways in which an organization can deal with it. (5 Marks)",
+     "answer_points": [
+      "**Strategic uncertainty refers to the unpredictability of future events and circumstances that may affect an organization's strategy and goals. It may arise due to changes in market conditions, technology, competition, regulations and other external environmental factors.**",
+      "**Flexibility: organizations should build flexibility into their strategies so that they can quickly adapt to environmental changes and respond effectively to uncertainties.**",
+      "**Diversification: diversifying product portfolio, markets and customer base helps reduce dependence on a single business area and minimizes the impact of uncertainty.**",
+      "**Monitoring and Scenario Planning: organizations should continuously monitor key indicators of change and undertake scenario planning to understand how different future situations may affect strategies and business operations.**",
+      "**Building Resilience: firms should strengthen operational processes, improve financial flexibility and enhance risk management capabilities to withstand uncertain situations effectively.**",
+      "**Collaboration and Partnerships: strategic alliances and collaborations with suppliers, customers and other organizations help in sharing resources, reducing risk and accessing new markets and technologies.**",
+      "**ICAI's closing line, which is worth reproducing:** **thus, organizations can manage strategic uncertainty through flexibility, diversification, resilience, monitoring and collaboration to remain competitive and sustainable in a dynamic environment.**",
+      "Note how the May 2026 answer restates the May 2024 one almost word for word, with one addition — **reduce dependence on a single business area** — and a summarising conclusion. The list is stable across sittings, so memorise it once."
+     ],
+     "keywords": [
+      "unpredictability of future events",
+      "market conditions, technology, competition, regulations",
+      "build flexibility into their strategies",
+      "reduce dependence on a single business area",
+      "continuously monitor key indicators",
+      "scenario planning",
+      "strengthen operational processes",
+      "sharing resources, reducing risk",
+      "competitive and sustainable in a dynamic environment"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-S05.04-01",
+     "angle": "Which column",
+     "difficulty": "Moderate",
+     "question": "\"Projects current operations into the future\" is a characteristic of:",
+     "options": {
+      "A": "Operational planning",
+      "B": "Strategic planning",
+      "C": "Both, since every plan extrapolates from the present",
+      "D": "Neither — it describes scenario planning"
+     },
+     "answer": "A",
+     "explanation": "SM §5.2.2's table lists this third among the characteristics of operational planning, alongside dealing with current deployment of resources, developing tactics rather than strategy, making modifications to functions but not fundamental changes, and being the responsibility of functional managers.",
+     "why_wrong": {
+      "B": "Strategic planning shapes the organisation and its resources and assesses the impact of environmental variables; it does not merely extrapolate.",
+      "C": "The table assigns each characteristic to one column.",
+      "D": "Scenario planning is one of the five responses to strategic uncertainty, a different list."
+     },
+     "trap": "The phrase sounds forward-looking, which pulls towards strategic planning; the operative word is *current* — extrapolating today's operations rather than reshaping the organisation.",
+     "concept": "S05.04"
+    },
+    {
+     "id": "MCQ-S05.04-02",
+     "angle": "Which response",
+     "difficulty": "Moderate",
+     "question": "A firm facing an unpredictable regulatory environment strengthens its operational processes, increases its financial flexibility and improves its risk management capabilities. Under the study material's five responses to strategic uncertainty, this is:",
+     "options": {
+      "A": "Flexibility",
+      "B": "Collaboration and Partnerships",
+      "C": "Monitoring and Scenario Planning",
+      "D": "Building Resilience"
+     },
+     "answer": "D",
+     "explanation": "SM §5.2.2 defines Building Resilience in exactly those three terms — 'strengthening their operational processes, increasing their financial flexibility, and improving their risk management capabilities'.",
+     "why_wrong": {
+      "A": "Flexibility means building adaptability into the strategies themselves so the firm can change course quickly.",
+      "B": "That response is about pooling resources and sharing risk with partners.",
+      "C": "That response is about monitoring key indicators and conducting scenario planning."
+     },
+     "trap": "'Financial flexibility' contains the word flexibility, which is the other option; the study material places it inside resilience.",
+     "concept": "S05.04"
+    },
+    {
+     "id": "MCQ-S05.04-03",
+     "angle": "What determines impact",
+     "difficulty": "Difficult",
+     "question": "As per the study material, the impact of a strategic uncertainty on a firm depends principally on:",
+     "options": {
+      "A": "The number of uncertainties in the cluster to which it belongs",
+      "B": "Whether the uncertainty is regulatory or technological in origin",
+      "C": "The importance of the impacted SBU to the firm",
+      "D": "The speed at which the uncertainty is expected to resolve"
+     },
+     "answer": "C",
+     "explanation": "SM §5.2.2: 'The impact of a strategic uncertainty will depend on the importance of the impacted SBU to a firm. Some SBUs are more important than others. The importance of established SBUs may be indicated by their associated sales, profits, or costs' — supplemented for potential growth, since present figures may not reflect true value.",
+     "why_wrong": {
+      "A": "Clustering is how uncertainties are made manageable and prioritised for information gathering, not how impact is measured.",
+      "B": "Both are listed as sources of uncertainty; neither determines impact.",
+      "D": "Speed of resolution is not a criterion in the study material."
+     },
+     "trap": "Clustering appears in the same paragraph, which makes option A tempting; clustering sets information priorities, while SBU importance sets impact.",
+     "concept": "S05.04"
+    },
+    {
+     "id": "MCQ-S05.04-04",
+     "angle": "Who plans what",
+     "difficulty": "Easy",
+     "question": "As per the study material, operational plans are made at:",
+     "options": {
+      "A": "The board level, since they commit the organisation's resources",
+      "B": "The middle and lower-level management, and provide specifics on how resources are to be used effectively to achieve the goals",
+      "C": "The senior management level, after evaluating strengths and weaknesses against outside possibilities and dangers",
+      "D": "Every level simultaneously, since the process is iterative"
+     },
+     "answer": "B",
+     "explanation": "SM §5.2.2 draws the line explicitly: senior management develops the strategic plans for the entire organisation, while 'operational plans on the other hand are made at the middle and lower-level management. They provide specifics on how the resources are to be used effectively to achieve the goals.'",
+     "why_wrong": {
+      "A": "Resource gathering and allocation to achieve organisational goals is part of strategic planning.",
+      "C": "That sentence describes strategic, not operational, planning.",
+      "D": "The process is iterative, but the responsibility for each kind of plan is assigned."
+     },
+     "trap": "Option C quotes the study material accurately but about the other kind of planning — the commonest way this item is failed.",
+     "concept": "S05.04"
+    }
+   ],
+   "recap": [
+    "Planning may be strategic or operational; the game plan that directs the company to success is corporate strategy.",
+    "Strategic planning: six characteristics — shapes the organisation and its resources, assesses environmental variables, holistic, overall objectives and strategies, long-term success, senior management responsibility.",
+    "Operational planning: five characteristics — current deployment of resources, tactics not strategy, projects current operations forward, modifies functions not fundamentals, functional managers' responsibility.",
+    "Strategic uncertainty is the unpredictability of future events and circumstances that can impact strategy and goals; it must be grouped into logical clusters or themes and prioritised for information gathering.",
+    "Five responses: Flexibility, Diversification, Monitoring and Scenario Planning, Building Resilience, Collaboration and Partnerships.",
+    "Its impact depends on the importance of the impacted SBU, judged by sales, profits or costs, supplemented for potential growth."
+   ]
+  }
+ ]
+}
