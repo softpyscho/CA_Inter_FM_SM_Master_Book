@@ -14,9 +14,9 @@ Updated 03-10-2026. Target attempt: January 2027.
 | Builder, merge/validate, bookmark, index-link and scan scripts | Done — adapted from the Audit book for Paper 6's two sections |
 | Review PDF (front matter + both chapters) | Done — `CA_Inter_FMSM_Master_Book.pdf` |
 | FM Chapters 2–9 written and merged | Done — `book/Ch02.json` to `book/Ch09.json`; **Section A (FM) is complete**; see the progress ledger below |
-| SM Chapter 2 written and merged | Done — `book/Ch11.json` (24/24 headings, 91/91 atoms placed) |
-| SM Chapter 3 written and merged | Done — `book/Ch12.json` (14/14 headings, 77/77 atoms placed) |
-| SM Chapter 4 written and merged | Done — `book/Ch13.json` (15/15 headings, 83/83 atoms placed) |
+| SM Chapter 2 written and merged | Done — `book/Ch11.json` (24/24 headings, 99/99 atoms placed) |
+| SM Chapter 3 written and merged | Done — `book/Ch12.json` (14/14 headings, 95/95 atoms placed) |
+| SM Chapter 4 written and merged | Done — `book/Ch13.json` (15/15 headings, 86/86 atoms placed) |
 | SM Chapter 5 written and merged | Done — `book/Ch14.json` (18/18 headings, 80/80 atoms placed); **Section B (SM) is complete** |
 
 ## Chapter numbering used in the book
@@ -548,3 +548,44 @@ PYQ-J26-MCQ16 (synchro-marketing, key D)
 keys a and A) · RTP-M24-SMCQ3 (Kanika/Kolor, key b) · RTP-S24-SMCQ1-i/ii/iii/v (MuseoGoa) ·
 PYQ-J26-MCQ12 (socio-cultural shift, key C) · PYQ-J26-MCQ13 (strategic driver, key A)
 **Still outstanding from earlier lists:** the FM strays to FM Ch 1, 3, 4 and 5 listed above.
+
+## Back-fill pass — SM half DONE (04-10-2026)
+
+Every item on the SM back-fill lists above is now placed, and the three chapters re-merged clean.
+**29 atoms in all**, all of them official MCQs or descriptive questions that earlier passes had
+left unplaced:
+
+| Target | Added | Where they went |
+| --- | --- | --- |
+| **SM Ch 2** (91 → 99) | 8 | `S02.02` determinants analysis · `S02.06` socio-cultural shift · `S02.11` PLC maturity · `S02.12` inbound logistics · `S02.14` threat of new entrants ×2 · `S02.16` experience curve ×2 |
+| **SM Ch 3** (77 → 95) | 18 | `S03.03` Mendelow ×3 · `S03.07` marketing types and the product driver ×4 · `S03.10` core-competency areas · `S03.11` SWOT · **`S03.14` Porter's generic strategies ×9** |
+| **SM Ch 4** (83 → 86) | 3 | `S04.09` strategic alliance ×2 · `S04.12` market development |
+
+**Two headings confirmed in the process.** The **experience curve** is `S02.16` (§2.5.3), which is
+where `PYQ-S24-MCQ11` and `RTP-M25-SMCQ5` now sit — both had been held back pending that
+confirmation. And **determinants analysis** is `S02.02`: it appears in the *Framework of Strategic
+Analysis* figure in SM Chapter 2 under Internal Analysis, not in SM Chapter 3, which is why
+`PYQ-J25-MCQ16` reads like a Chapter 3 question and is not one.
+
+**The marketing-strategy types live in SM Ch 3, not Ch 2.** Social, augmented, direct,
+relationship, services, enlightened, differential and synchro marketing are all printed under
+§3.3.3 Product/Services, as part of the **strategic drivers**. Four back-filled atoms sit there.
+`RTP-M24-SMCQ1-ii` is the subtle one: its stem asks how a firm counters innovation risk, which
+reads as SM Ch 2's technological environment, but the keyed option — "introducing value-added
+services like telemedicine and wellness programs" — is ICAI's own definition of **augmented
+marketing**, so the atom is filed at `S03.07`.
+
+**`S03.14` is now the most MCQ-tested heading in SM Chapter 3** with 32 atoms, nine of them added
+here. Learn the five answers it rotates between: cost leadership, differentiation, focused cost
+leadership, focused differentiation and best-cost provider. The best-cost provider items are the
+most reliable marks in the paper, because each is decided by spotting **both** limbs — a low cost
+position *and* an upscale product — in the stem.
+
+**One case scenario, four chapters.** RTP September 2024's MuseoGoa case has five parts, and they
+are answered on Mendelow's matrix (Ch 3), cost leadership (Ch 3), market development (Ch 4), the
+7S Model (Ch 5) and strategic partnerships (Ch 4). That spread is why three earlier passes missed
+parts of it, and it is worth remembering when reading any ICAI case scenario: read each part on
+its own facts rather than carrying the previous answer forward.
+
+**Still outstanding: the FM half of the back-fill** — 15 items to FM Ch 1, 3, 4 and 5, listed in
+the two FM sections above.

@@ -8,7 +8,7 @@
   "module": "Paper 6B Strategic Management",
   "attempt": "January 2027",
   "sm_edition": "ICAI BoS Study Material, Paper 6B Strategic Management (relevant for May 2026 examination onwards), Chapter 2 (pp. 2.1–2.46)",
-  "last_verified": "03-10-2026",
+  "last_verified": "04-10-2026",
   "status_summary": "SM headings 24/24 · official atoms 91/91"
  },
  "sections_before": [
@@ -428,6 +428,25 @@
       "D": "Market analysis covers size, growth, profitability and entry barriers, not rivals' cost structures."
      },
      "trap": "'Strategic groups' tempts candidates towards market analysis; the published table files it under competitor analysis.",
+     "concept": "S02.02"
+    },
+    {
+     "id": "PYQ-J25-MCQ16",
+     "question": "In the framework of strategic analysis, which one is a constituent of internal analysis?",
+     "options": {
+      "A": "Competitor analysis",
+      "B": "Determinants analysis",
+      "C": "Market analysis",
+      "D": "Scenario analysis"
+     },
+     "answer": "B",
+     "explanation": "The study material's Framework of Strategic Analysis figure splits strategic analysis into External Analysis — customer, competitor, market and environmental analysis — and Internal Analysis, which comprises **Performance Analysis** (profitability, sales, customer satisfaction, product quality, relative cost, new products, human resources) and **Determinants Analysis** (past and current strategies, strategic problems, organizational capabilities and constraints, financial resources, strengths and weaknesses). ICAI key: (B).",
+     "why_wrong": {
+      "A": "Competitor analysis — strategic groups, performance, objectives, strategies, culture, cost structure — is external.",
+      "C": "Market analysis — size, growth, profitability, entry barriers — is external.",
+      "D": "Scenario analysis is not a box in the figure at all."
+     },
+     "trap": "Three of the four options are named in the same figure, but on the external side. Determinants analysis is the less familiar name, which is exactly why it is the answer.",
      "concept": "S02.02"
     },
     {
@@ -923,6 +942,25 @@
       "C": "Customer preference is the *symptom*; the question asks what influences the emergence of the new segment."
      },
      "trap": "The stem opens with changing customer preference, which pulls towards socio-cultural; the question asks about the emergence of the new market, which the study material attributes to technology.",
+     "concept": "S02.06"
+    },
+    {
+     "id": "PYQ-J26-MCQ12",
+     "question": "Kalpanjali Dairy faces rising competition, shifting health narratives, concern for climate change and ethical debates around animal welfare. There is external pressure on the company's traditional dairy business. Which type of strategic challenge is the company facing?",
+     "options": {
+      "A": "Supply chain inefficiency",
+      "B": "Industry deregulation",
+      "C": "Socio-cultural shift impacting demand",
+      "D": "Technological disruption"
+     },
+     "answer": "C",
+     "explanation": "Shifting health narratives and ethical debates about animal welfare are changes in society's values and beliefs — the social or socio-cultural element of the macro environment, which covers attitudes, lifestyles, values and beliefs that shape what customers are willing to buy. ICAI key: (C).",
+     "why_wrong": {
+      "A": "The case names the supply chain as a value-chain *strength* in material handling, stock control and transportation.",
+      "B": "No change in regulation is described.",
+      "D": "Vegan alternatives are a product shift driven by preferences, not a technological displacement of dairy processing."
+     },
+     "trap": "A vegan product line sounds technological, which makes option D attractive; the driver in the stem is what consumers now believe, not what the industry can now make.",
      "concept": "S02.06"
     },
     {
@@ -1991,6 +2029,25 @@
      "concept": "S02.11"
     },
     {
+     "id": "PYQ-S24-MCQ10",
+     "question": "In the context of its service of transportation through railways, Quick N Safe Logistics is analyzing the relationship between volume of business on one axis and time on the other. Growth is slow, the market for the areas covered is by and large stabilized, and the profit margin is coming down due to stiff competition. As per the Product Life Cycle, which stage is this service passing through?",
+     "options": {
+      "A": "Introduction",
+      "B": "Maturity",
+      "C": "Growth",
+      "D": "Decline"
+     },
+     "answer": "B",
+     "explanation": "At maturity the product has an established market, sales growth slows, the market is largely stabilised and competition intensifies so that margins come under pressure — all three facts in the stem. ICAI key: (B).",
+     "why_wrong": {
+      "A": "At introduction sales are low and the product is new to the market.",
+      "C": "In the growth stage sales rise rapidly, which contradicts 'growth rate is slow'.",
+      "D": "At decline sales and the market itself shrink; here the market is 'by and large stabilized', not contracting."
+     },
+     "trap": "Falling margins suggest decline, which is the commonest wrong answer. The discriminator is the market: stabilised means maturity, shrinking means decline.",
+     "concept": "S02.11"
+    },
+    {
      "id": "MCQ-S02.11-01",
      "angle": "Stated advantage",
      "difficulty": "Moderate",
@@ -2262,6 +2319,25 @@
       "D": "The 7S framework aligns internal organisational elements."
      },
      "trap": "'Improving assembly lines' could suggest the experience curve; the stem names three *different* activities across the chain.",
+     "concept": "S02.12"
+    },
+    {
+     "id": "PYQ-J26-MCQ10",
+     "question": "A Value Chain Analysis of Kalpanjali Dairy revealed strength in material handling, stock control and a better transportation system, but a gap in R&D and digital marketing. Within the context of that analysis, which of the following would be best classified as a strength?",
+     "options": {
+      "A": "Operations",
+      "B": "Service",
+      "C": "Inbound logistics",
+      "D": "Sales"
+     },
+     "answer": "C",
+     "explanation": "Inbound logistics covers receiving, storing and disseminating inputs — material handling, warehousing, inventory control and transport scheduling. The three strengths named in the case are precisely those activities. ICAI key: (C).",
+     "why_wrong": {
+      "A": "Operations transforms inputs into the final product form — machining, packaging, assembly, testing.",
+      "B": "Service covers installation, repair, training, parts supply and product adjustment.",
+      "D": "Marketing and sales is where the case identifies a *gap*, in digital marketing."
+     },
+     "trap": "Transportation appears in both inbound and outbound logistics; the stem pairs it with material handling and stock control, which are inbound activities.",
      "concept": "S02.12"
     },
     {
@@ -2665,7 +2741,8 @@
      ],
      "examiner": "No examiners' comments have been published for Paper 6.",
      "also_asked_as": [
-      "MTP-J26-S2-SQ2b asks the identical question with the identical published answer, and MTP-S26-S2-SQ4b offers it as the OR alternative to the experience-curve question. Three appearances make the seven barriers the single highest-yield list in this chapter."
+      "MTP-J26-S2-SQ2b asks the identical question with the identical published answer, and MTP-S26-S2-SQ4b offers it as the OR alternative to the experience-curve question. Three appearances make the seven barriers the single highest-yield list in this chapter.",
+      "MTP-M24-S2-SQ1c puts the same force to a case and is the cleanest short illustration of it: GreenThrift Inc., a sustainable clothing retailer enjoying a surge in popularity, is worried about **new sustainable fashion brands** using organic and recycled materials and ethical manufacturing. ICAI's answer: **\"Competition from new sustainable fashion brands falls under the 'Threat of New Entrants' category of Porter's Five Forces Model for Competitive Analysis. These new entrants pose a threat to existing sustainable clothing retailers like GreenThrift Inc. by increasing competition and potentially eroding market share. The emergence of these brands, focusing on using organic and recycled materials along with ethical manufacturing practices, aligns with the values of environmentally conscious consumers, making them strong competitors in the sustainable fashion market.\"** Note what makes it a *new entrant* question rather than a rivalry question: the firms concerned are not yet in the market when the threat is assessed."
      ]
     },
     {
@@ -2936,6 +3013,25 @@
       "D": "International expansion is a growth choice, not an entry barrier."
      },
      "trap": "All four are real competitive actions; only two of the seven published barriers appear in one option.",
+     "concept": "S02.14"
+    },
+    {
+     "id": "RTP-M24-SMCQ3",
+     "question": "Kanika, known as \"Desi Taylor Swift\", launched the lipstick brand Kolor among intense global and domestic competition. Despite a lack of groundwork, her substantial 45 million social media following gained significant attention. Which aspect of Michael Porter's force multiplier is working in favour of Kolor?",
+     "options": {
+      "A": "Social Media Influence",
+      "B": "Threat of New Entrants",
+      "C": "Supplier Bargaining Power",
+      "D": "Buyer Bargaining Power"
+     },
+     "answer": "B",
+     "explanation": "Kolor *is* the new entrant, and an established following has lowered the barriers that would normally keep it out — brand identity and access to distribution among them. The force working in its favour is therefore the threat of new entrants, which is high where entry barriers are low. ICAI key: (b).",
+     "why_wrong": {
+      "A": "Social media influence is not one of Porter's five forces; it is the *reason* the entry barrier is low.",
+      "C": "No supplier concentration or switching issue is described.",
+      "D": "No buyer concentration or price pressure is described."
+     },
+     "trap": "Option A restates the stem's own fact and is not a force at all — the classic distractor in a five-forces MCQ. Name the force, not the circumstance.",
      "concept": "S02.14"
     },
     {
@@ -3358,6 +3454,44 @@
     }
    ],
    "mcqs": [
+    {
+     "id": "PYQ-S24-MCQ11",
+     "question": "In Strategic Management, the concept of a decrease in the overall per-mile operating cost due to an increase in efficiency and cumulative volume of services is depicted as:",
+     "options": {
+      "A": "Experience curve",
+      "B": "Ansoff's growth matrix",
+      "C": "Strategic surveillance",
+      "D": "Value chain analysis"
+     },
+     "answer": "A",
+     "explanation": "The experience curve is 'akin to a learning curve which explains the efficiency increase gained by workers through repetitive productive work', and is based on the proposition that unit cost declines as cumulative volume of experience rises. ICAI key: (A).",
+     "why_wrong": {
+      "B": "Ansoff's matrix classifies growth options by whether the product and the market are new.",
+      "C": "Strategic surveillance is the unfocussed monitoring of information sources, from SM Ch 5.",
+      "D": "Value chain analysis identifies the activities through which a firm creates value."
+     },
+     "trap": "'Efficiency' and 'cost' pull towards value chain analysis; the discriminator is **cumulative volume**, which is the experience curve's defining variable.",
+     "concept": "S02.16"
+    },
+    {
+     "id": "RTP-M25-SMCQ5",
+     "question": "XYZ Logistics, a leading transportation company operating for over a decade, has expanded its fleet, optimized route planning and implemented advanced fuel efficiency techniques. As a result the company's per-mile operating cost has significantly decreased due to improved efficiency and cumulative experience in managing large-scale logistics operations. Which strategic management concept best explains this reduction in operating costs?",
+     "options": {
+      "A": "Experience curve",
+      "B": "Ansoff's growth matrix",
+      "C": "Strategic surveillance",
+      "D": "Value chain analysis"
+     },
+     "answer": "A",
+     "explanation": "Same concept, same wording: the experience curve holds that unit cost falls as cumulative experience accumulates, through learning effects, specialisation and investment in process improvement. ICAI key: (a).",
+     "why_wrong": {
+      "B": "No new product or market is being entered.",
+      "C": "Nothing is being monitored for unanticipated information.",
+      "D": "The value chain would identify *which* activities create value, not why their cost falls with volume."
+     },
+     "trap": "Note that ICAI has set this identical item twice — as SA Sep 2024 MCQ 11 and RTP May 2025 MCQ 5 — with the same four options in the same order. The phrase 'cumulative experience' or 'cumulative volume' is the trigger.",
+     "concept": "S02.16"
+    },
     {
      "id": "MCQ-S02.16-01",
      "angle": "Which cause",

@@ -855,6 +855,25 @@
      "concept": "S04.12"
     },
     {
+     "id": "RTP-S24-SMCQ1-iii",
+     "question": "How did MuseoGoa approach its expansion into new markets such as Pune and Trivandrum?",
+     "options": {
+      "A": "Outsourcing strategy",
+      "B": "Franchising strategy",
+      "C": "Product diversification strategy",
+      "D": "Market development strategy"
+     },
+     "answer": "D",
+     "explanation": "Market development is 'a growth strategy where the business seeks to sell its existing products into new markets… by identifying and developing new markets for current company products', achieved 'through new geographical markets' (SM §4.4.1). MuseoGoa took the same museum concept to two new cities. ICAI key: (d).",
+     "why_wrong": {
+      "A": "Outsourcing produces a network structure, not a growth strategy.",
+      "B": "Franchising is a route to market, not one of Ansoff's four cells.",
+      "C": "Product diversification would require a new product; the offering is unchanged."
+     },
+     "trap": "Franchising is a tempting answer because expansion into distant cities often uses it; Ansoff's grid classifies by what is new — here only the market.",
+     "concept": "S04.12"
+    },
+    {
      "id": "MCQ-S04.12-01",
      "angle": "Which cell",
      "difficulty": "Easy",

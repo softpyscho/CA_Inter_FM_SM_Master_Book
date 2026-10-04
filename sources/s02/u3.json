@@ -473,6 +473,25 @@
      "concept": "S02.11"
     },
     {
+     "id": "PYQ-S24-MCQ10",
+     "question": "In the context of its service of transportation through railways, Quick N Safe Logistics is analyzing the relationship between volume of business on one axis and time on the other. Growth is slow, the market for the areas covered is by and large stabilized, and the profit margin is coming down due to stiff competition. As per the Product Life Cycle, which stage is this service passing through?",
+     "options": {
+      "A": "Introduction",
+      "B": "Maturity",
+      "C": "Growth",
+      "D": "Decline"
+     },
+     "answer": "B",
+     "explanation": "At maturity the product has an established market, sales growth slows, the market is largely stabilised and competition intensifies so that margins come under pressure — all three facts in the stem. ICAI key: (B).",
+     "why_wrong": {
+      "A": "At introduction sales are low and the product is new to the market.",
+      "C": "In the growth stage sales rise rapidly, which contradicts 'growth rate is slow'.",
+      "D": "At decline sales and the market itself shrink; here the market is 'by and large stabilized', not contracting."
+     },
+     "trap": "Falling margins suggest decline, which is the commonest wrong answer. The discriminator is the market: stabilised means maturity, shrinking means decline.",
+     "concept": "S02.11"
+    },
+    {
      "id": "MCQ-S02.11-01",
      "angle": "Stated advantage",
      "difficulty": "Moderate",
@@ -744,6 +763,25 @@
       "D": "The 7S framework aligns internal organisational elements."
      },
      "trap": "'Improving assembly lines' could suggest the experience curve; the stem names three *different* activities across the chain.",
+     "concept": "S02.12"
+    },
+    {
+     "id": "PYQ-J26-MCQ10",
+     "question": "A Value Chain Analysis of Kalpanjali Dairy revealed strength in material handling, stock control and a better transportation system, but a gap in R&D and digital marketing. Within the context of that analysis, which of the following would be best classified as a strength?",
+     "options": {
+      "A": "Operations",
+      "B": "Service",
+      "C": "Inbound logistics",
+      "D": "Sales"
+     },
+     "answer": "C",
+     "explanation": "Inbound logistics covers receiving, storing and disseminating inputs — material handling, warehousing, inventory control and transport scheduling. The three strengths named in the case are precisely those activities. ICAI key: (C).",
+     "why_wrong": {
+      "A": "Operations transforms inputs into the final product form — machining, packaging, assembly, testing.",
+      "B": "Service covers installation, repair, training, parts supply and product adjustment.",
+      "D": "Marketing and sales is where the case identifies a *gap*, in digital marketing."
+     },
+     "trap": "Transportation appears in both inbound and outbound logistics; the stem pairs it with material handling and stock control, which are inbound activities.",
      "concept": "S02.12"
     },
     {

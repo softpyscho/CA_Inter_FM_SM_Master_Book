@@ -506,6 +506,25 @@
      "concept": "S03.10"
     },
     {
+     "id": "RTP-S24-SMCQ4",
+     "question": "A small tech company focused on enhancing their main product, which became crucial across various industries due to its increased power and adaptability. Their early partnerships and smart decisions facilitated rapid growth, leading to a $5 billion valuation in just five years. According to C.K. Prahalad and Gary Hamel, which area represents the tech company's core competency?",
+     "options": {
+      "A": "Customer Value",
+      "B": "Competitor Differentiation",
+      "C": "Product Differentiation",
+      "D": "Application to Other Markets"
+     },
+     "answer": "D",
+     "explanation": "Prahalad and Hamel's three areas are **customer value**, **competitor differentiation** and **application to other markets** — the last meaning that a core competency can be the basis for entering new products and markets. A product that 'became crucial across various industries' is that third area. ICAI key: (d).",
+     "why_wrong": {
+      "A": "Customer value means the competency must make a disproportionate contribution to perceived customer benefit.",
+      "B": "Competitor differentiation means the capability is competitively unique.",
+      "C": "'Product differentiation' is not one of the three areas — it belongs to Porter's generic strategies."
+     },
+     "trap": "Option C is the invented one, and it is attractive because the stem is about a product. The three areas are customer value, competitor differentiation and application to other markets — learn them as a trio.",
+     "concept": "S03.10"
+    },
+    {
      "id": "MCQ-S03.10-01",
      "angle": "Name the criterion",
      "difficulty": "Moderate",
@@ -742,6 +761,25 @@
     }
    ],
    "mcqs": [
+    {
+     "id": "RTP-S25-SMCQ3",
+     "question": "A startup evaluates its strategic position by identifying its unique technology as a strength, high competition as a threat, an untapped market segment as an opportunity and operational inefficiencies as a weakness. It plans to use these insights to refine its business strategy. Which strategic tool is being used?",
+     "options": {
+      "A": "Competitor benchmarking analysis",
+      "B": "SWOT analysis",
+      "C": "PESTEL analysis for market dynamics",
+      "D": "Internal capabilities evaluation"
+     },
+     "answer": "B",
+     "explanation": "SWOT analysis combines external and internal analysis: strengths and weaknesses are internal, opportunities and threats external. The stem names one of each in order. ICAI key: (b).",
+     "why_wrong": {
+      "A": "Benchmarking compares the firm's performance against rivals; it does not produce four categories.",
+      "C": "PESTLE analyses only the macro environment — political, economic, socio-cultural, technological, legal and environmental factors.",
+      "D": "An internal capabilities evaluation would cover only the strengths and weaknesses, not the opportunities and threats."
+     },
+     "trap": "Option D is half right, which is the point: SWOT's distinguishing feature is that it **combines** external and internal analysis in a single frame.",
+     "concept": "S03.11"
+    },
     {
      "id": "MCQ-S03.11-01",
      "angle": "Internal or external",

@@ -408,6 +408,82 @@
      "concept": "S03.07"
     },
     {
+     "id": "PYQ-J25-MCQ13",
+     "question": "PNL and CMP have agreed to collaborate. Once the collaboration is in place, the marketing team of both companies will cater to the needs of transporting goods with speed and agility, and, in line with basic principles, will also focus on the best long-run performance of the marketing system, roping in social media influencers to create a brand image with customer orientation. The activity of the marketing team will be called:",
+     "options": {
+      "A": "Enlightened marketing",
+      "B": "Augmented marketing",
+      "C": "Differential marketing",
+      "D": "Synchro marketing"
+     },
+     "answer": "A",
+     "explanation": "Enlightened marketing is 'a marketing philosophy holding that a company's marketing should support the best long-run performance of the marketing system… its five principles include customer-oriented marketing, innovative marketing, value marketing, sense-of-mission marketing, and societal marketing' (SM §3.3.3). The stem quotes 'best long-run performance of the marketing system' and 'customer orientation' outright. ICAI key: (A).",
+     "why_wrong": {
+      "B": "Augmented marketing adds customer services and benefits beyond the core and actual product.",
+      "C": "Differential marketing targets several segments with separate offers for each.",
+      "D": "Synchro-marketing addresses irregular demand caused by season or time of day."
+     },
+     "trap": "The examiner has lifted two phrases from ICAI's own definition into the stem; recognising either one settles the answer in seconds.",
+     "concept": "S03.07"
+    },
+    {
+     "id": "PYQ-J26-MCQ16",
+     "question": "A café is overcrowded on weekends but nearly empty on weekdays. To even out demand, it launches a \"Workday Loyalty Card\" with discounts for weekday visits. This strategy illustrates:",
+     "options": {
+      "A": "Demarketing",
+      "B": "Augmented Marketing",
+      "C": "Social Marketing",
+      "D": "Synchro-marketing"
+     },
+     "answer": "D",
+     "explanation": "Synchro-marketing applies 'when the demand for a product is irregular due to season, some parts of the day, or on hour basis, causing idle capacity' — and the remedy is to shift demand from peak to trough. A weekday discount against weekend crowding is the textbook case. ICAI key: (D).",
+     "why_wrong": {
+      "A": "Demarketing reduces demand when it exceeds what the firm can supply; here total demand is adequate but badly distributed.",
+      "B": "Augmented marketing adds services and benefits beyond the core product.",
+      "C": "Social marketing seeks to increase the acceptability of a social idea, cause or practice."
+     },
+     "trap": "Demarketing is the live distractor because the café is overcrowded. Demarketing would discourage weekend visits; synchro-marketing moves them, which is what a weekday discount does.",
+     "concept": "S03.07"
+    },
+    {
+     "id": "RTP-M24-SMCQ1-ii",
+     "question": "How does Swasthya counter the risk posed by constant innovations and disruptions in their areas of expertise?",
+     "options": {
+      "A": "By aggressively acquiring innovative startups",
+      "B": "By introducing value-added services like telemedicine and wellness programs",
+      "C": "By downsizing their operations",
+      "D": "By focusing exclusively on urban healthcare markets"
+     },
+     "answer": "B",
+     "explanation": "Augmented marketing 'includes additional customer services and benefits that a product can offer besides the core and actual product that is being offered. It can be in the form of the introduction of hi-tech services like movies on demand, online computer repair services, secretarial services, etc. Such innovative offerings provide a set of benefits that promise to elevate customer service to unprecedented levels' (SM §3.3.3). Telemedicine and wellness programmes are exactly such hi-tech value-added services. ICAI key: (b).",
+     "why_wrong": {
+      "A": "Acquisition is a growth route from SM Ch 4, and the case describes no acquisitions.",
+      "C": "Downsizing is a retrenchment measure and would not counter innovation risk.",
+      "D": "Narrowing to urban markets is a focus strategy, not a response to disruption."
+     },
+     "trap": "The stem is phrased as a risk question, which pulls towards SM Ch 2's technological environment; the keyed option is the definition of augmented marketing, which is why the atom sits here.",
+     "concept": "S03.07"
+    },
+    {
+     "id": "PYQ-J26-MCQ13",
+     "question": "Kalpanjali Dairy, facing rising competition and shifting health narratives, considered a defensive strategy, a diversification into a vegan product line and a sustainability-led repositioning, and chose to build an organic and health-based dairy range. What strategic driver did the company adopt for its long-term strategy?",
+     "options": {
+      "A": "Product",
+      "B": "Industry",
+      "C": "Pricing",
+      "D": "Channel"
+     },
+     "answer": "A",
+     "explanation": "The four strategic drivers in SM §3.3 are **industry and markets, customers, products/services and channels**. Kalpanjali's chosen route is a change in what it sells — an organic and health-based range — so the driver is the **product**. ICAI key: (A).",
+     "why_wrong": {
+      "B": "The industry and market driver would mean changing which industry or market the firm serves; Kalpanjali stays in dairy.",
+      "C": "Pricing is not one of the four strategic drivers.",
+      "D": "The channel driver concerns how the product reaches the customer; no channel change is described."
+     },
+     "trap": "Option C is not on ICAI's list at all — a reminder to recall the four drivers before reading the options, because three of the four here are real and one is a plausible invention.",
+     "concept": "S03.07"
+    },
+    {
      "id": "MCQ-S03.06-01",
      "angle": "Which governs what",
      "difficulty": "Moderate",

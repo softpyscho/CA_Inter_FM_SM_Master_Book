@@ -9,7 +9,7 @@
   "attempt": "January 2027",
   "sm_edition": "ICAI BoS Study Material, Paper 6B Strategic Management (relevant for May 2026 examination onwards), Chapter 3 (pp. 3.1–3.46)",
   "last_verified": "04-10-2026",
-  "status_summary": "SM headings 14/14 · official atoms 76/76"
+  "status_summary": "SM headings 14/14 · official atoms 77/77"
  },
  "sections_before": [
   {
@@ -21,8 +21,8 @@
      "title": "What ICAI's published papers tell us",
      "bullets": [
       "ICAI has not published examiners' comments for Paper 6, so this guidance comes from ICAI's suggested answers, RTPs and MTPs.",
-      "76 official items in the period reviewed — 13 past-paper items, 22 RTP items, 41 MTP items. The chapter appears in **every** attempt from May 2024 to May 2026.",
-      "Two headings dominate: **Porter's generic strategies** (22 atoms) and **Mendelow's Matrix** (18). Then **core competency** (14 across §3.4 and §3.4.1), **strategic drivers** (7), **channels** (6) and **SWOT** (5).",
+      "77 official items in the period reviewed — 14 past-paper items, 22 RTP items, 41 MTP items. The chapter appears in **every** attempt from May 2024 to May 2026.",
+      "Two headings dominate: **Porter's generic strategies** (23 atoms) and **Mendelow's Matrix** (18). Then **core competency** (14 across §3.4 and §3.4.1), **strategic drivers** (7), **channels** (6) and **SWOT** (5).",
       "**ICAI's RTPs print their own chapter headings, and the pattern is exact**: Chapter 1 = questions 7 and 8, Chapter 2 = 9 and 10, **Chapter 3 = 11 and 12**, Chapter 4 = 13 and 14, Chapter 5 = 15 and 16, in all nine RTPs from May 2024 to September 2026. Question 11 is a case; question 12 is a short note.",
       "Four questions repeat almost verbatim across papers: 'How can Mendelow's Matrix be used…' (four papers), 'Write a short note on the key strategic drivers' (six papers), 'the four specific criteria of sustainable competitive advantage' (three papers), 'major core competencies are identified in three areas' (four papers), and 'What are channels? Why is channel analysis important?' (five papers)."
      ]
@@ -124,6 +124,14 @@
     "concept": "S03.10",
     "marks": 5,
     "type": "Explain",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S24-Q5c",
+    "question": "M/s. Maa ki Pasand in a narrow baby-care market, pricing low for the price-conscious and at a premium for the rest — which of Porter's business-level strategies",
+    "concept": "S03.14",
+    "marks": 5,
+    "type": "Case: identify + advantages and disadvantages",
     "repeat": "R5"
    },
    {
@@ -824,6 +832,63 @@
      "concept": "S03.03"
     },
     {
+     "id": "RTP-M24-SMCQ5",
+     "question": "Quntik operates in the software industry and enjoys a strong position in the market. They have identified an opportunity to acquire a smaller company to expand their product offerings. Which quadrant of Mendelow's Matrix would the CEO of the smaller company fall into?",
+     "options": {
+      "A": "Keep Satisfied",
+      "B": "Key Player",
+      "C": "Low Priority",
+      "D": "Keep Informed"
+     },
+     "answer": "B",
+     "explanation": "The CEO of the target has high power — the acquisition cannot proceed without agreement — and high interest, since the outcome decides the future of the business. High power with high interest is the Key Players quadrant, whose prescription is to engage and consult regularly. ICAI key: (b).",
+     "why_wrong": {
+      "A": "Keep Satisfied is high power with low interest; the target's CEO is anything but uninterested.",
+      "C": "Low Priority is low power with low interest — minimal effort.",
+      "D": "Keep Informed is low power with high interest."
+     },
+     "trap": "Being the smaller company suggests low power, which is how this item is failed. Power in Mendelow's matrix is power over *this decision*, and on a sale the seller has a veto.",
+     "concept": "S03.03"
+    },
+    {
+     "id": "RTP-S24-SMCQ1-i",
+     "question": "Which strategic management concept did MuseoGoa use to address the initial concerns of the local community?",
+     "options": {
+      "A": "SWOT analysis",
+      "B": "Mendelow's matrix",
+      "C": "Cost leadership strategy",
+      "D": "Porter's Five Forces model"
+     },
+     "answer": "B",
+     "explanation": "A local community whose concerns must be addressed is a stakeholder group, and Mendelow's Matrix is the framework for identifying stakeholders, assessing their power and interest, plotting them and developing a strategy for each quadrant. ICAI key: (b).",
+     "why_wrong": {
+      "A": "SWOT combines external and internal analysis into strengths, weaknesses, opportunities and threats.",
+      "C": "Cost leadership is a competitive strategy — and it is the answer to part (ii) of this same case.",
+      "D": "The five forces analyse industry competition, not stakeholder management."
+     },
+     "trap": "Note that one case scenario can carry four different frameworks across its five parts; read each part on its own facts rather than carrying the previous answer forward.",
+     "concept": "S03.03"
+    },
+    {
+     "id": "RTP-S25-SMCQ4",
+     "question": "A health-conscious community group strongly advocates for more organic options in local eateries and shows great interest in influencing food choices. However, a small local café, whose loyal customer base prefers traditional food, remains unaffected by the group's efforts. In terms of Mendelow's Matrix, how should this stakeholder group be classified?",
+     "options": {
+      "A": "High Interest, High Power",
+      "B": "Low Interest, Low Power",
+      "C": "High Interest, Low Power",
+      "D": "Low Interest, High Power"
+     },
+     "answer": "C",
+     "explanation": "Interest is high — the group advocates strongly and wants to influence choices. Power is low — the café is unaffected, so the group cannot change its behaviour. High interest with low power is the Keep Informed quadrant. ICAI key: (c).",
+     "why_wrong": {
+      "A": "High power would mean the group could compel a change; the stem says the café is unaffected.",
+      "B": "Interest is expressly high.",
+      "D": "Interest is high, not low."
+     },
+     "trap": "Vocal stakeholders feel powerful, which is the trap. Power is measured by the ability to affect the organisation's behaviour, and the stem tells you plainly that it cannot.",
+     "concept": "S03.03"
+    },
+    {
      "id": "MCQ-S03.03-01",
      "angle": "Which quadrant",
      "difficulty": "Moderate",
@@ -1279,6 +1344,82 @@
       "D": "Concentrated marketing goes after a large share of one or a few sub-markets."
      },
      "trap": "A lounge is an additional service, which makes 'augmented' tempting; the purpose stated — binding frequent flyers — makes it relationship marketing in ICAI's own illustration.",
+     "concept": "S03.07"
+    },
+    {
+     "id": "PYQ-J25-MCQ13",
+     "question": "PNL and CMP have agreed to collaborate. Once the collaboration is in place, the marketing team of both companies will cater to the needs of transporting goods with speed and agility, and, in line with basic principles, will also focus on the best long-run performance of the marketing system, roping in social media influencers to create a brand image with customer orientation. The activity of the marketing team will be called:",
+     "options": {
+      "A": "Enlightened marketing",
+      "B": "Augmented marketing",
+      "C": "Differential marketing",
+      "D": "Synchro marketing"
+     },
+     "answer": "A",
+     "explanation": "Enlightened marketing is 'a marketing philosophy holding that a company's marketing should support the best long-run performance of the marketing system… its five principles include customer-oriented marketing, innovative marketing, value marketing, sense-of-mission marketing, and societal marketing' (SM §3.3.3). The stem quotes 'best long-run performance of the marketing system' and 'customer orientation' outright. ICAI key: (A).",
+     "why_wrong": {
+      "B": "Augmented marketing adds customer services and benefits beyond the core and actual product.",
+      "C": "Differential marketing targets several segments with separate offers for each.",
+      "D": "Synchro-marketing addresses irregular demand caused by season or time of day."
+     },
+     "trap": "The examiner has lifted two phrases from ICAI's own definition into the stem; recognising either one settles the answer in seconds.",
+     "concept": "S03.07"
+    },
+    {
+     "id": "PYQ-J26-MCQ16",
+     "question": "A café is overcrowded on weekends but nearly empty on weekdays. To even out demand, it launches a \"Workday Loyalty Card\" with discounts for weekday visits. This strategy illustrates:",
+     "options": {
+      "A": "Demarketing",
+      "B": "Augmented Marketing",
+      "C": "Social Marketing",
+      "D": "Synchro-marketing"
+     },
+     "answer": "D",
+     "explanation": "Synchro-marketing applies 'when the demand for a product is irregular due to season, some parts of the day, or on hour basis, causing idle capacity' — and the remedy is to shift demand from peak to trough. A weekday discount against weekend crowding is the textbook case. ICAI key: (D).",
+     "why_wrong": {
+      "A": "Demarketing reduces demand when it exceeds what the firm can supply; here total demand is adequate but badly distributed.",
+      "B": "Augmented marketing adds services and benefits beyond the core product.",
+      "C": "Social marketing seeks to increase the acceptability of a social idea, cause or practice."
+     },
+     "trap": "Demarketing is the live distractor because the café is overcrowded. Demarketing would discourage weekend visits; synchro-marketing moves them, which is what a weekday discount does.",
+     "concept": "S03.07"
+    },
+    {
+     "id": "RTP-M24-SMCQ1-ii",
+     "question": "How does Swasthya counter the risk posed by constant innovations and disruptions in their areas of expertise?",
+     "options": {
+      "A": "By aggressively acquiring innovative startups",
+      "B": "By introducing value-added services like telemedicine and wellness programs",
+      "C": "By downsizing their operations",
+      "D": "By focusing exclusively on urban healthcare markets"
+     },
+     "answer": "B",
+     "explanation": "Augmented marketing 'includes additional customer services and benefits that a product can offer besides the core and actual product that is being offered. It can be in the form of the introduction of hi-tech services like movies on demand, online computer repair services, secretarial services, etc. Such innovative offerings provide a set of benefits that promise to elevate customer service to unprecedented levels' (SM §3.3.3). Telemedicine and wellness programmes are exactly such hi-tech value-added services. ICAI key: (b).",
+     "why_wrong": {
+      "A": "Acquisition is a growth route from SM Ch 4, and the case describes no acquisitions.",
+      "C": "Downsizing is a retrenchment measure and would not counter innovation risk.",
+      "D": "Narrowing to urban markets is a focus strategy, not a response to disruption."
+     },
+     "trap": "The stem is phrased as a risk question, which pulls towards SM Ch 2's technological environment; the keyed option is the definition of augmented marketing, which is why the atom sits here.",
+     "concept": "S03.07"
+    },
+    {
+     "id": "PYQ-J26-MCQ13",
+     "question": "Kalpanjali Dairy, facing rising competition and shifting health narratives, considered a defensive strategy, a diversification into a vegan product line and a sustainability-led repositioning, and chose to build an organic and health-based dairy range. What strategic driver did the company adopt for its long-term strategy?",
+     "options": {
+      "A": "Product",
+      "B": "Industry",
+      "C": "Pricing",
+      "D": "Channel"
+     },
+     "answer": "A",
+     "explanation": "The four strategic drivers in SM §3.3 are **industry and markets, customers, products/services and channels**. Kalpanjali's chosen route is a change in what it sells — an organic and health-based range — so the driver is the **product**. ICAI key: (A).",
+     "why_wrong": {
+      "B": "The industry and market driver would mean changing which industry or market the firm serves; Kalpanjali stays in dairy.",
+      "C": "Pricing is not one of the four strategic drivers.",
+      "D": "The channel driver concerns how the product reaches the customer; no channel change is described."
+     },
+     "trap": "Option C is not on ICAI's list at all — a reminder to recall the four drivers before reading the options, because three of the four here are real and one is a plausible invention.",
      "concept": "S03.07"
     },
     {
@@ -2069,6 +2210,25 @@
      "concept": "S03.10"
     },
     {
+     "id": "RTP-S24-SMCQ4",
+     "question": "A small tech company focused on enhancing their main product, which became crucial across various industries due to its increased power and adaptability. Their early partnerships and smart decisions facilitated rapid growth, leading to a $5 billion valuation in just five years. According to C.K. Prahalad and Gary Hamel, which area represents the tech company's core competency?",
+     "options": {
+      "A": "Customer Value",
+      "B": "Competitor Differentiation",
+      "C": "Product Differentiation",
+      "D": "Application to Other Markets"
+     },
+     "answer": "D",
+     "explanation": "Prahalad and Hamel's three areas are **customer value**, **competitor differentiation** and **application to other markets** — the last meaning that a core competency can be the basis for entering new products and markets. A product that 'became crucial across various industries' is that third area. ICAI key: (d).",
+     "why_wrong": {
+      "A": "Customer value means the competency must make a disproportionate contribution to perceived customer benefit.",
+      "B": "Competitor differentiation means the capability is competitively unique.",
+      "C": "'Product differentiation' is not one of the three areas — it belongs to Porter's generic strategies."
+     },
+     "trap": "Option C is the invented one, and it is attractive because the stem is about a product. The three areas are customer value, competitor differentiation and application to other markets — learn them as a trio.",
+     "concept": "S03.10"
+    },
+    {
      "id": "MCQ-S03.10-01",
      "angle": "Name the criterion",
      "difficulty": "Moderate",
@@ -2305,6 +2465,25 @@
     }
    ],
    "mcqs": [
+    {
+     "id": "RTP-S25-SMCQ3",
+     "question": "A startup evaluates its strategic position by identifying its unique technology as a strength, high competition as a threat, an untapped market segment as an opportunity and operational inefficiencies as a weakness. It plans to use these insights to refine its business strategy. Which strategic tool is being used?",
+     "options": {
+      "A": "Competitor benchmarking analysis",
+      "B": "SWOT analysis",
+      "C": "PESTEL analysis for market dynamics",
+      "D": "Internal capabilities evaluation"
+     },
+     "answer": "B",
+     "explanation": "SWOT analysis combines external and internal analysis: strengths and weaknesses are internal, opportunities and threats external. The stem names one of each in order. ICAI key: (b).",
+     "why_wrong": {
+      "A": "Benchmarking compares the firm's performance against rivals; it does not produce four categories.",
+      "C": "PESTLE analyses only the macro environment — political, economic, socio-cultural, technological, legal and environmental factors.",
+      "D": "An internal capabilities evaluation would cover only the strengths and weaknesses, not the opportunities and threats."
+     },
+     "trap": "Option D is half right, which is the point: SWOT's distinguishing feature is that it **combines** external and internal analysis in a single frame.",
+     "concept": "S03.11"
+    },
     {
      "id": "MCQ-S03.11-01",
      "angle": "Internal or external",
@@ -2938,7 +3117,10 @@
       "premium prices",
       "expertise in niche markets"
      ],
-     "examiner": "No examiners' comments have been published for Paper 6."
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "MTP-J25-S2-SQ1c is the cleanest two-limb statement of the same strategy. A business consultancy firm **focuses primarily on the market for consultancy services in environmental management**, assisting clients with environmental management accounting systems, and **conducts environmental audits to verify compliance with international assurance standards — an exclusive service not offered by its competitors**; other management consultancy work is only a minor share of revenue. ICAI's answer: **\"By concentrating primarily on the market for consultancy services in environmental management, the firm is pursuing a focus strategy. Its provision of audit services, which rival firms do not offer, highlights a differentiation strategy within this specific market niche. Therefore, the firm is following a focused differentiation strategy.\"** ICAI then adds the definition: **\"A focused differentiation strategy involves offering unique features that cater to the specific needs of a narrow market segment. As with the focused low-cost strategy, narrow markets can be defined differently depending on the context. For instance, some firms using this strategy focus on a particular sales channel, such as exclusively selling online, while others may target specific demographic groups.\"** Note the structure of the answer — identify the narrowness first, then the basis of competition within it, then combine the two into the name."
+     ]
     }
    ],
    "mcqs": [
@@ -3130,6 +3312,158 @@
       "D": "No uniqueness of brand image is claimed."
      },
      "trap": "'Reliable' sounds like a differentiator; paired with 'functional' and 'affordable' it describes acceptable quality at low cost.",
+     "concept": "S03.14"
+    },
+    {
+     "id": "RTP-S24-SMCQ1-ii",
+     "question": "MuseoGoa's idyllic location in a quaint village posed a challenge as tourists preferred beaches closer to the city. To attract visitors, MuseoGoa priced their tickets affordably, cheaper than city attractions, drawing budget-conscious tourists looking for unique experiences. What business strategy did MuseoGoa employ to attract more tourists?",
+     "options": {
+      "A": "Cost leadership strategy",
+      "B": "Differentiation strategy",
+      "C": "Focus strategy",
+      "D": "Diversification strategy"
+     },
+     "answer": "A",
+     "explanation": "Competing by being cheaper than the alternatives, to win price-sensitive buyers across the market, is cost leadership — the firm seeks to be the low-cost provider and passes that into price. ICAI key: (a).",
+     "why_wrong": {
+      "B": "Differentiation competes on perceived uniqueness at a premium, not on a lower price.",
+      "C": "A focus strategy serves a narrow segment; 'budget-conscious tourists' is a broad market, not a niche.",
+      "D": "Diversification is a growth strategy from SM Ch 4, not a competitive strategy."
+     },
+     "trap": "'Unique experiences' in the stem tempts differentiation. The operative fact is the price — cheaper than city attractions — and the strategy is named by how the firm competes, not by what the product happens to be.",
+     "concept": "S03.14"
+    },
+    {
+     "id": "RTP-S25-SMCQ1-iii",
+     "question": "To regain market share, Royal Pens launched limited-edition designs and a stylus pen, targeting younger, tech-driven customers. This strategic choice most closely reflects which of the following business-level strategies?",
+     "options": {
+      "A": "Cost leadership",
+      "B": "Market development",
+      "C": "Differentiation",
+      "D": "Retrenchment"
+     },
+     "answer": "C",
+     "explanation": "Limited-edition designs and a novel stylus pen compete on perceived uniqueness rather than price — a differentiation strategy, which seeks a product or service the market regards as distinctive and is willing to pay for. ICAI key: (c).",
+     "why_wrong": {
+      "A": "Nothing in the stem concerns being the low-cost provider.",
+      "B": "Market development is an Ansoff growth cell, not a business-level competitive strategy — and the stem asks for the latter.",
+      "D": "Retrenchment reduces the scope of activity; Royal Pens is launching products."
+     },
+     "trap": "Targeting a new customer group reads as market development, and option B is there for exactly that reason. The question asks for a **business-level strategy**, which in this syllabus means one of Porter's generic strategies.",
+     "concept": "S03.14"
+    },
+    {
+     "id": "RTP-S26-SMCQ1-iii",
+     "question": "Green Harvest Organics combines premium-quality organic produce with efficient production methods to offer affordable prices. Which competitive strategy does this represent?",
+     "options": {
+      "A": "Cost Leadership Strategy",
+      "B": "Differentiation Strategy",
+      "C": "Best-Cost Provider Strategy",
+      "D": "Focus Strategy"
+     },
+     "answer": "C",
+     "explanation": "The best-cost provider strategy gives customers more value for the money by combining an upscale or differentiated product with a low-cost position — premium quality at an affordable price is precisely that combination. ICAI key: (c).",
+     "why_wrong": {
+      "A": "Cost leadership alone would not promise premium quality.",
+      "B": "Differentiation alone would not promise affordable prices.",
+      "D": "A focus strategy is defined by the narrowness of the segment, which the stem does not mention."
+     },
+     "trap": "Options A and B are each half of the answer, which is how the best-cost provider strategy is always tested: look for **both** limbs in the stem.",
+     "concept": "S03.14"
+    },
+    {
+     "id": "RTP-J26-SMCQ1-v",
+     "question": "Hepha.io's founding premise of offering \"futuristic, high value add\" AI solutions as its primary client appeal is an example of establishing a Competitive Advantage through:",
+     "options": {
+      "A": "Cost Leadership, by optimising production costs",
+      "B": "Differentiation, by providing a uniquely valuable product",
+      "C": "Focused Cost Leadership, by targeting a narrow segment with the lowest price",
+      "D": "Core Values, by adhering to ethical standards"
+     },
+     "answer": "B",
+     "explanation": "Competing on a product the client regards as futuristic and high value-add is differentiation — the firm offers something perceived as unique and charges for it, rather than competing on price. ICAI key: (b).",
+     "why_wrong": {
+      "A": "No cost optimisation is described.",
+      "C": "Neither a narrow segment nor the lowest price is described.",
+      "D": "Core values are a mission and culture matter, not one of Porter's generic strategies."
+     },
+     "trap": "Option D is not a competitive strategy at all — a reminder that in a generic-strategy MCQ the answer is always one of cost leadership, differentiation, focus (cost or differentiation) or best-cost provider.",
+     "concept": "S03.14"
+    },
+    {
+     "id": "RTP-M26-SMCQ5",
+     "question": "VitaGlow Naturals Ltd., a personal care company, launches a new herbal shampoo \"HerbaSilk\" that is sulphate-free, prevents hair fall and contains rare botanical extracts sourced from the Himalayas. Customers perceive it as superior to ordinary shampoos. The company prices HerbaSilk 25% higher than its regular shampoo range and sales rise strongly due to its perceived uniqueness. Identify the strategy adopted by VitaGlow Naturals Ltd.:",
+     "options": {
+      "A": "Cost leadership strategy",
+      "B": "Focus strategy",
+      "C": "Differentiation strategy",
+      "D": "Best-cost provider strategy"
+     },
+     "answer": "C",
+     "explanation": "A product the market perceives as superior, sold at a 25% premium, with sales rising 'due to its perceived uniqueness', is a differentiation strategy — the premium is the return on the perceived difference. ICAI key: (c).",
+     "why_wrong": {
+      "A": "The price is higher, not lower.",
+      "B": "No narrow segment is identified; the product sits alongside the regular range.",
+      "D": "A best-cost provider offers more value for the money at an affordable price, not a 25% premium."
+     },
+     "trap": "The rare Himalayan extracts suggest a niche, which makes option B tempting; a focus strategy is defined by the *buyer segment* served, not by the exoticism of the ingredients.",
+     "concept": "S03.14"
+    },
+    {
+     "id": "PYQ-M26-MCQ14",
+     "question": "Altex Ltd. produces and sells home appliances but is facing stiff competition from new entrants offering similar products at a lower price. To stay competitive, the top management decided to adopt the best-cost provider strategy. Which of the following actions should the company take to align with that strategy?",
+     "options": {
+      "A": "Reducing the price of their products without making changes in the manufacturing process and product features",
+      "B": "Streamlining manufacturing processes to reduce cost, sourcing materials from cost-effective suppliers and adding innovative features to their products",
+      "C": "Streamlining manufacturing processes to reduce cost with no innovation in product features",
+      "D": "Focusing solely on premium features, thereby increasing the cost of the products to reflect the added value"
+     },
+     "answer": "B",
+     "explanation": "A best-cost provider must deliver on **both** limbs — a genuinely low cost position *and* an upscale or differentiated product — so that the customer gets more value for the money. Only option B does both: cost reduction through process and sourcing, plus innovative features. ICAI key: (B).",
+     "why_wrong": {
+      "A": "Cutting price without cutting cost destroys margin and adds no value; it is neither limb.",
+      "C": "Cost reduction alone is cost leadership.",
+      "D": "Premium features alone, at a higher price, is differentiation."
+     },
+     "trap": "Options C and D are each one half of the strategy, and A is neither. This is the clearest single item in the bank on what 'best-cost provider' actually requires.",
+     "concept": "S03.14"
+    },
+    {
+     "id": "PYQ-S24-MCQ12",
+     "question": "As per the strategies propagated by Michael Porter, a niche marketing strategy for transporting goods through airways for a large customer segment on an assurance of 'delivery by next day' is known as:",
+     "options": {
+      "A": "Cost leadership strategy",
+      "B": "Differentiation strategy",
+      "C": "Focus differentiation strategy",
+      "D": "Focus cost leadership strategy"
+     },
+     "answer": "C",
+     "explanation": "Two features combine: the firm serves a **narrow segment** (customers who want next-day delivery regardless of cost) and competes within it on a **distinctive offering** rather than on price. Narrow segment plus differentiation is the focused differentiation strategy. ICAI key: (C).",
+     "why_wrong": {
+      "A": "Cost leadership competes on price across a broad market.",
+      "B": "Plain differentiation serves the broad market, not a niche.",
+      "D": "Focused cost leadership would compete within the niche on the lowest price; here the stem says the customers are indifferent to cost."
+     },
+     "trap": "The stem says 'for a large customer segment', which pulls away from 'niche'. The segment is large in volume but narrow in its requirement — and the stem's own word 'niche' is the examiner's signal.",
+     "concept": "S03.14"
+    },
+    {
+     "id": "PYQ-M26-MCQ9",
+     "question": "Identify the initial strategy to gain competitive advantage adopted by Alex Motor Company.",
+     "options": {
+      "A": "Growth strategy emphasizing strong and fuel-efficient vehicles",
+      "B": "Focused cost leadership strategy emphasizing fuel efficiency and easy maintenance",
+      "C": "Focused differentiation strategy emphasizing customized commercial vehicles, easy maintenance and fuel efficiency rather than mass production",
+      "D": "Expansion strategy emphasizing customized vehicles and mass production"
+     },
+     "answer": "C",
+     "explanation": "Customised commercial vehicles for a defined buyer group, competing on features rather than on scale, is focused differentiation — a narrow segment served with a distinctive offering. ICAI key: (C).",
+     "why_wrong": {
+      "A": "A growth strategy is a direction from SM Ch 4, not a means of gaining competitive advantage.",
+      "B": "Focused cost leadership would compete on the lowest price within the niche; customisation points the other way.",
+      "D": "Mass production contradicts customisation, and expansion is again a growth direction rather than a competitive strategy."
+     },
+     "trap": "Two of the four options name SM Chapter 4 growth strategies. When a stem asks how competitive advantage was *gained*, the answer is a Chapter 3 generic strategy.",
      "concept": "S03.14"
     },
     {

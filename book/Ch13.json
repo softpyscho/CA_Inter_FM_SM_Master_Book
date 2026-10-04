@@ -1560,6 +1560,44 @@
      "concept": "S04.09"
     },
     {
+     "id": "RTP-S24-SMCQ1-v",
+     "question": "What played a crucial role in MuseoGoa's success in Pune and Trivandrum?",
+     "options": {
+      "A": "Strategic partnerships",
+      "B": "Aggressive advertising",
+      "C": "Product differentiation",
+      "D": "Vertical integration"
+     },
+     "answer": "A",
+     "explanation": "A strategic alliance 'is a relationship between two or more businesses that enables each to achieve certain strategic objectives which neither would be able to achieve on its own', with the partners remaining independent and separate entities (SM §4.2.2.3). Its organizational advantage is that partners 'may also help enhance productive capacity, provide a distribution system, or extend the supply chain' — what a local partner supplies in a new city. ICAI key: (a).",
+     "why_wrong": {
+      "B": "Advertising is a penetration tactic, not what carried the entry.",
+      "C": "Differentiation is a competitive strategy from SM Ch 3.",
+      "D": "Vertical integration moves the firm along its own product-process chain."
+     },
+     "trap": "All four options are real strategic concepts; the question asks what made the *entry* work, and a local partner is the alliance's political and organizational advantage at work.",
+     "concept": "S04.09"
+    },
+    {
+     "id": "PYQ-J25-MCQ12",
+     "question": "Pacific National Logistics (PNL) has a strong presence in transporting goods by road and wants to collaborate with an operator who can bring expertise in improved technology. Cargo Movers Plc. (CMP) is a well-known transporter using state-of-the-art technology in the Asia Pacific region. Banking upon their respective core competencies, PNL and CMP would like to develop a close and collaborative relationship where both will continue to maintain their respective independent existence. The relationship being considered between PNL and CMP is indicating:",
+     "options": {
+      "A": "Horizontal Integration",
+      "B": "Merger and Acquisition",
+      "C": "Strategic Alliance",
+      "D": "Vertical Integration"
+     },
+     "answer": "C",
+     "explanation": "The stem supplies the study material's own test: **the strategic partners maintain their status as independent and separate entities, share the benefits and control over the partnership, and continue to make contributions to the alliance until it is terminated** (SM §4.2.2.3). Each party also brings a capability the other lacks, which is the organizational advantage of an alliance — learning necessary skills and obtaining certain capabilities from strategic partners. ICAI key: (C).",
+     "why_wrong": {
+      "A": "Horizontal integration acquires one or more similar businesses at the same stage of the production-marketing chain; nothing is acquired here.",
+      "B": "In a merger the organisations combine into a newly created entity, which contradicts 'maintain their respective independent existence'.",
+      "D": "Vertical integration moves the firm forward or backward within its own product-process chain."
+     },
+     "trap": "Both firms are road and air transporters at the same stage of the chain, which makes horizontal integration tempting. The deciding phrase is **independent existence** — integration ends it, an alliance preserves it.",
+     "concept": "S04.09"
+    },
+    {
      "id": "MCQ-S04.09-01",
      "angle": "Which direction",
      "difficulty": "Moderate",
@@ -2505,6 +2543,25 @@
       "D": "Retrenchment reduces the scope of activity."
      },
      "trap": "The word 'existing' in the stem fixes the product; the word 'new' fixes the market. Two adjectives decide the cell.",
+     "concept": "S04.12"
+    },
+    {
+     "id": "RTP-S24-SMCQ1-iii",
+     "question": "How did MuseoGoa approach its expansion into new markets such as Pune and Trivandrum?",
+     "options": {
+      "A": "Outsourcing strategy",
+      "B": "Franchising strategy",
+      "C": "Product diversification strategy",
+      "D": "Market development strategy"
+     },
+     "answer": "D",
+     "explanation": "Market development is 'a growth strategy where the business seeks to sell its existing products into new markets… by identifying and developing new markets for current company products', achieved 'through new geographical markets' (SM §4.4.1). MuseoGoa took the same museum concept to two new cities. ICAI key: (d).",
+     "why_wrong": {
+      "A": "Outsourcing produces a network structure, not a growth strategy.",
+      "B": "Franchising is a route to market, not one of Ansoff's four cells.",
+      "C": "Product diversification would require a new product; the offering is unchanged."
+     },
+     "trap": "Franchising is a tempting answer because expansion into distant cities often uses it; Ansoff's grid classifies by what is new — here only the market.",
      "concept": "S04.12"
     },
     {

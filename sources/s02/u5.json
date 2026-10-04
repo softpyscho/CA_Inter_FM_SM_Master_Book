@@ -325,6 +325,44 @@
    ],
    "mcqs": [
     {
+     "id": "PYQ-S24-MCQ11",
+     "question": "In Strategic Management, the concept of a decrease in the overall per-mile operating cost due to an increase in efficiency and cumulative volume of services is depicted as:",
+     "options": {
+      "A": "Experience curve",
+      "B": "Ansoff's growth matrix",
+      "C": "Strategic surveillance",
+      "D": "Value chain analysis"
+     },
+     "answer": "A",
+     "explanation": "The experience curve is 'akin to a learning curve which explains the efficiency increase gained by workers through repetitive productive work', and is based on the proposition that unit cost declines as cumulative volume of experience rises. ICAI key: (A).",
+     "why_wrong": {
+      "B": "Ansoff's matrix classifies growth options by whether the product and the market are new.",
+      "C": "Strategic surveillance is the unfocussed monitoring of information sources, from SM Ch 5.",
+      "D": "Value chain analysis identifies the activities through which a firm creates value."
+     },
+     "trap": "'Efficiency' and 'cost' pull towards value chain analysis; the discriminator is **cumulative volume**, which is the experience curve's defining variable.",
+     "concept": "S02.16"
+    },
+    {
+     "id": "RTP-M25-SMCQ5",
+     "question": "XYZ Logistics, a leading transportation company operating for over a decade, has expanded its fleet, optimized route planning and implemented advanced fuel efficiency techniques. As a result the company's per-mile operating cost has significantly decreased due to improved efficiency and cumulative experience in managing large-scale logistics operations. Which strategic management concept best explains this reduction in operating costs?",
+     "options": {
+      "A": "Experience curve",
+      "B": "Ansoff's growth matrix",
+      "C": "Strategic surveillance",
+      "D": "Value chain analysis"
+     },
+     "answer": "A",
+     "explanation": "Same concept, same wording: the experience curve holds that unit cost falls as cumulative experience accumulates, through learning effects, specialisation and investment in process improvement. ICAI key: (a).",
+     "why_wrong": {
+      "B": "No new product or market is being entered.",
+      "C": "Nothing is being monitored for unanticipated information.",
+      "D": "The value chain would identify *which* activities create value, not why their cost falls with volume."
+     },
+     "trap": "Note that ICAI has set this identical item twice — as SA Sep 2024 MCQ 11 and RTP May 2025 MCQ 5 — with the same four options in the same order. The phrase 'cumulative experience' or 'cumulative volume' is the trigger.",
+     "concept": "S02.16"
+    },
+    {
      "id": "MCQ-S02.16-01",
      "angle": "Which cause",
      "difficulty": "Moderate",

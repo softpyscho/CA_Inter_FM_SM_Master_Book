@@ -832,6 +832,63 @@
      "concept": "S03.03"
     },
     {
+     "id": "RTP-M24-SMCQ5",
+     "question": "Quntik operates in the software industry and enjoys a strong position in the market. They have identified an opportunity to acquire a smaller company to expand their product offerings. Which quadrant of Mendelow's Matrix would the CEO of the smaller company fall into?",
+     "options": {
+      "A": "Keep Satisfied",
+      "B": "Key Player",
+      "C": "Low Priority",
+      "D": "Keep Informed"
+     },
+     "answer": "B",
+     "explanation": "The CEO of the target has high power — the acquisition cannot proceed without agreement — and high interest, since the outcome decides the future of the business. High power with high interest is the Key Players quadrant, whose prescription is to engage and consult regularly. ICAI key: (b).",
+     "why_wrong": {
+      "A": "Keep Satisfied is high power with low interest; the target's CEO is anything but uninterested.",
+      "C": "Low Priority is low power with low interest — minimal effort.",
+      "D": "Keep Informed is low power with high interest."
+     },
+     "trap": "Being the smaller company suggests low power, which is how this item is failed. Power in Mendelow's matrix is power over *this decision*, and on a sale the seller has a veto.",
+     "concept": "S03.03"
+    },
+    {
+     "id": "RTP-S24-SMCQ1-i",
+     "question": "Which strategic management concept did MuseoGoa use to address the initial concerns of the local community?",
+     "options": {
+      "A": "SWOT analysis",
+      "B": "Mendelow's matrix",
+      "C": "Cost leadership strategy",
+      "D": "Porter's Five Forces model"
+     },
+     "answer": "B",
+     "explanation": "A local community whose concerns must be addressed is a stakeholder group, and Mendelow's Matrix is the framework for identifying stakeholders, assessing their power and interest, plotting them and developing a strategy for each quadrant. ICAI key: (b).",
+     "why_wrong": {
+      "A": "SWOT combines external and internal analysis into strengths, weaknesses, opportunities and threats.",
+      "C": "Cost leadership is a competitive strategy — and it is the answer to part (ii) of this same case.",
+      "D": "The five forces analyse industry competition, not stakeholder management."
+     },
+     "trap": "Note that one case scenario can carry four different frameworks across its five parts; read each part on its own facts rather than carrying the previous answer forward.",
+     "concept": "S03.03"
+    },
+    {
+     "id": "RTP-S25-SMCQ4",
+     "question": "A health-conscious community group strongly advocates for more organic options in local eateries and shows great interest in influencing food choices. However, a small local café, whose loyal customer base prefers traditional food, remains unaffected by the group's efforts. In terms of Mendelow's Matrix, how should this stakeholder group be classified?",
+     "options": {
+      "A": "High Interest, High Power",
+      "B": "Low Interest, Low Power",
+      "C": "High Interest, Low Power",
+      "D": "Low Interest, High Power"
+     },
+     "answer": "C",
+     "explanation": "Interest is high — the group advocates strongly and wants to influence choices. Power is low — the café is unaffected, so the group cannot change its behaviour. High interest with low power is the Keep Informed quadrant. ICAI key: (c).",
+     "why_wrong": {
+      "A": "High power would mean the group could compel a change; the stem says the café is unaffected.",
+      "B": "Interest is expressly high.",
+      "D": "Interest is high, not low."
+     },
+     "trap": "Vocal stakeholders feel powerful, which is the trap. Power is measured by the ability to affect the organisation's behaviour, and the stem tells you plainly that it cannot.",
+     "concept": "S03.03"
+    },
+    {
      "id": "MCQ-S03.03-01",
      "angle": "Which quadrant",
      "difficulty": "Moderate",

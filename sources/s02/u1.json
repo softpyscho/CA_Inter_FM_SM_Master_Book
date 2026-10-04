@@ -431,6 +431,25 @@
      "concept": "S02.02"
     },
     {
+     "id": "PYQ-J25-MCQ16",
+     "question": "In the framework of strategic analysis, which one is a constituent of internal analysis?",
+     "options": {
+      "A": "Competitor analysis",
+      "B": "Determinants analysis",
+      "C": "Market analysis",
+      "D": "Scenario analysis"
+     },
+     "answer": "B",
+     "explanation": "The study material's Framework of Strategic Analysis figure splits strategic analysis into External Analysis — customer, competitor, market and environmental analysis — and Internal Analysis, which comprises **Performance Analysis** (profitability, sales, customer satisfaction, product quality, relative cost, new products, human resources) and **Determinants Analysis** (past and current strategies, strategic problems, organizational capabilities and constraints, financial resources, strengths and weaknesses). ICAI key: (B).",
+     "why_wrong": {
+      "A": "Competitor analysis — strategic groups, performance, objectives, strategies, culture, cost structure — is external.",
+      "C": "Market analysis — size, growth, profitability, entry barriers — is external.",
+      "D": "Scenario analysis is not a box in the figure at all."
+     },
+     "trap": "Three of the four options are named in the same figure, but on the external side. Determinants analysis is the less familiar name, which is exactly why it is the answer.",
+     "concept": "S02.02"
+    },
+    {
      "id": "MCQ-S02.02-01",
      "angle": "How many",
      "difficulty": "Easy",

@@ -184,6 +184,25 @@
      "concept": "S02.06"
     },
     {
+     "id": "PYQ-J26-MCQ12",
+     "question": "Kalpanjali Dairy faces rising competition, shifting health narratives, concern for climate change and ethical debates around animal welfare. There is external pressure on the company's traditional dairy business. Which type of strategic challenge is the company facing?",
+     "options": {
+      "A": "Supply chain inefficiency",
+      "B": "Industry deregulation",
+      "C": "Socio-cultural shift impacting demand",
+      "D": "Technological disruption"
+     },
+     "answer": "C",
+     "explanation": "Shifting health narratives and ethical debates about animal welfare are changes in society's values and beliefs — the social or socio-cultural element of the macro environment, which covers attitudes, lifestyles, values and beliefs that shape what customers are willing to buy. ICAI key: (C).",
+     "why_wrong": {
+      "A": "The case names the supply chain as a value-chain *strength* in material handling, stock control and transportation.",
+      "B": "No change in regulation is described.",
+      "D": "Vegan alternatives are a product shift driven by preferences, not a technological displacement of dairy processing."
+     },
+     "trap": "A vegan product line sounds technological, which makes option D attractive; the driver in the stem is what consumers now believe, not what the industry can now make.",
+     "concept": "S02.06"
+    },
+    {
      "id": "MCQ-S02.06-01",
      "angle": "Who said it",
      "difficulty": "Easy",

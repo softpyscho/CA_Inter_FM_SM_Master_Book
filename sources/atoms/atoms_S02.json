@@ -1,6 +1,6 @@
 {
  "chapter": "S02 — SM Chapter 2: Strategic Analysis — External Environment",
- "note": "Official questions mapped to SM Chapter 2. Codes: primary first. key = ICAI's published answer key for MCQs. Three mapping rules were applied. (1) **ICAI's RTPs print their own chapter headings** — 'Chapter 2-Strategic Analysis: External Environment' — above the questions belonging to each chapter, so every RTP descriptive atom here carries ICAI's own label rather than this book's judgement; the labelled pairs are SQ9 and SQ10 in each of the nine RTPs from May 2024 to September 2026. (2) Past-paper and MTP descriptive questions carry no chapter label, so they are mapped by the concept tested, and where that concept sits in another chapter the question is excluded — channels (S03.08), SWOT (S03.11), the generic strategies and bases of differentiation (S03.12, S03.14), core competencies (S03.09, S03.10), Mendelow's Matrix (S03.03) and the key strategic drivers (S03.04) are all Chapter 3 under ICAI's own RTP labels, even though several of them read like external analysis. (3) Part I case-scenario MCQ items are included where the tested concept is unambiguously a Chapter 2 concept; items whose concept spans chapters are left to the chapter that owns the concept. MTP case-scenario items use the id form MTP-<paper>-S<n>-SMCQ-<A|B>-<roman>, matching the convention already used in atoms_S01.json. Two tensions worth recording: ICAI labels **strategic group mapping** questions Chapter 3 in some RTPs although the register places Competitive Landscape at S02.23, and it labels **value chain analysis** Chapter 2 (S02.12) although value chain is often taught as internal analysis — both follow ICAI's labels here. Six corrections were made after reading ICAI's published answers in full: PYQ May 2025 MCQ 15 was removed from this chapter because, although its stem is set 'in a competitive landscape', ICAI's key is 'special alert control', a Chapter 5 concept, and the atom is recorded for SM Ch 5 instead; RTP May 2024 Q9 and RTP Jan 2026 Q9 (Riya Sharma's confectionery) are answered by ICAI with the five steps to understand the competitive landscape, so they move from S02.13/S02.14 to S02.23; PYQ Jan 2026 Q5(a) (Full Health Limited) is answered with strategic group mapping, so it moves from S02.15 to S02.23; MTP May 2025 Series 2 Q1(a) (ABC Tech) is answered purely as Key Success Factors, so S02.24 becomes its primary code; and RTP Sep 2026 MCQ 3 (FreshKart Retail) has the published key 'technological environment', so S02.06 becomes its primary code ahead of S02.21. A seventh correction: PYQ May 2025 MCQ 12 (elevating customer service through a better interface, online repair and on-site service) was also removed, because ICAI's key is 'Augmented marketing', a term defined in SM Chapter 3 under types of marketing, not in the value chain of Chapter 2; the atom is recorded for SM Ch 3. An eighth item was added after the chapter was first merged: RTP May 2026 SM Q11 sits under ICAI's own 'Chapter 3' label but its published answer is Strategic Group Mapping, described there as 'an important tool of industry (competitive) environment analysis'; the register has no strategic-group-mapping heading in Chapter 3, so it is placed at S02.23 with the labelling tension recorded.",
+ "note": "Official questions mapped to SM Chapter 2. Codes: primary first. key = ICAI's published answer key for MCQs. Three mapping rules were applied. (1) **ICAI's RTPs print their own chapter headings** — 'Chapter 2-Strategic Analysis: External Environment' — above the questions belonging to each chapter, so every RTP descriptive atom here carries ICAI's own label rather than this book's judgement; the labelled pairs are SQ9 and SQ10 in each of the nine RTPs from May 2024 to September 2026. (2) Past-paper and MTP descriptive questions carry no chapter label, so they are mapped by the concept tested, and where that concept sits in another chapter the question is excluded — channels (S03.08), SWOT (S03.11), the generic strategies and bases of differentiation (S03.12, S03.14), core competencies (S03.09, S03.10), Mendelow's Matrix (S03.03) and the key strategic drivers (S03.04) are all Chapter 3 under ICAI's own RTP labels, even though several of them read like external analysis. (3) Part I case-scenario MCQ items are included where the tested concept is unambiguously a Chapter 2 concept; items whose concept spans chapters are left to the chapter that owns the concept. MTP case-scenario items use the id form MTP-<paper>-S<n>-SMCQ-<A|B>-<roman>, matching the convention already used in atoms_S01.json. Two tensions worth recording: ICAI labels **strategic group mapping** questions Chapter 3 in some RTPs although the register places Competitive Landscape at S02.23, and it labels **value chain analysis** Chapter 2 (S02.12) although value chain is often taught as internal analysis — both follow ICAI's labels here. Six corrections were made after reading ICAI's published answers in full: PYQ May 2025 MCQ 15 was removed from this chapter because, although its stem is set 'in a competitive landscape', ICAI's key is 'special alert control', a Chapter 5 concept, and the atom is recorded for SM Ch 5 instead; RTP May 2024 Q9 and RTP Jan 2026 Q9 (Riya Sharma's confectionery) are answered by ICAI with the five steps to understand the competitive landscape, so they move from S02.13/S02.14 to S02.23; PYQ Jan 2026 Q5(a) (Full Health Limited) is answered with strategic group mapping, so it moves from S02.15 to S02.23; MTP May 2025 Series 2 Q1(a) (ABC Tech) is answered purely as Key Success Factors, so S02.24 becomes its primary code; and RTP Sep 2026 MCQ 3 (FreshKart Retail) has the published key 'technological environment', so S02.06 becomes its primary code ahead of S02.21. A seventh correction: PYQ May 2025 MCQ 12 (elevating customer service through a better interface, online repair and on-site service) was also removed, because ICAI's key is 'Augmented marketing', a term defined in SM Chapter 3 under types of marketing, not in the value chain of Chapter 2; the atom is recorded for SM Ch 3. An eighth item was added after the chapter was first merged: RTP May 2026 SM Q11 sits under ICAI's own 'Chapter 3' label but its published answer is Strategic Group Mapping, described there as 'an important tool of industry (competitive) environment analysis'; the register has no strategic-group-mapping heading in Chapter 3, so it is placed at S02.23 with the labelling tension recorded. **Eight atoms were added in the back-fill pass (04-10-2026)**, found by the systematic sweep of every unplaced SM Part-I item and descriptive sub-part that was run while building SM Ch 5. They are PYQ-J25-MCQ16 (determinants analysis, which the Framework of Strategic Analysis figure prints under Internal Analysis in this chapter's 2.2, not in SM Ch 3), PYQ-J26-MCQ12 (socio-cultural shift), PYQ-S24-MCQ10 (product life cycle, maturity), PYQ-J26-MCQ10 (inbound logistics on the value chain), RTP-M24-SMCQ3 and MTP-M24-S2-SQ1c (both answered as the threat of new entrants), and PYQ-S24-MCQ11 with RTP-M25-SMCQ5 (both answered as the experience curve, 2.5.3). Note on the two experience-curve items: they were held back from the first pass pending confirmation of the heading, which is S02.16.",
  "atoms": [
   {
    "id": "RTP-J25-SQ9",
@@ -856,6 +856,86 @@
    "marks": null,
    "format": "Case descriptive",
    "src": "RTP-M26 SM Q11 (ICAI label: Chapter 3) Neha of UrbanRide Motors grouping two-wheeler firms by price range and technology before positioning among premium electric brands — ICAI's answer names Strategic Group Mapping and calls it a tool of industry (competitive) environment analysis, so the register places it at S02.23"
+  },
+  {
+   "id": "PYQ-J25-MCQ16",
+   "codes": [
+    "S02.02"
+   ],
+   "marks": 1,
+   "format": "MCQ",
+   "src": "SA-J25 SM MCQ 16 which is a constituent of internal analysis in the framework of strategic analysis; key: determinants analysis",
+   "key": "B"
+  },
+  {
+   "id": "PYQ-J26-MCQ12",
+   "codes": [
+    "S02.06",
+    "S02.07"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "SA-J26 SM MCQ 12 the external pressure on Kalpanjali Dairy's traditional dairy business; key: socio-cultural shift impacting demand",
+   "key": "C"
+  },
+  {
+   "id": "PYQ-S24-MCQ10",
+   "codes": [
+    "S02.11"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "SA-S24 SM MCQ 10 Quick N Safe Logistics' railways service - slow growth, stabilized market, falling margins; key: maturity stage of the product life cycle",
+   "key": "B"
+  },
+  {
+   "id": "PYQ-J26-MCQ10",
+   "codes": [
+    "S02.12"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "SA-J26 SM MCQ 10 Kalpanjali Dairy's value chain strength in material handling, stock control and transportation; key: inbound logistics",
+   "key": "C"
+  },
+  {
+   "id": "RTP-M24-SMCQ3",
+   "codes": [
+    "S02.14"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "src": "RTP-M24 SM MCQ 3 Kanika launching the lipstick brand Kolor on a 45-million social media following despite no groundwork; key: threat of new entrants",
+   "key": "B"
+  },
+  {
+   "id": "MTP-M24-S2-SQ1c",
+   "codes": [
+    "S02.14"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-M24-S2 SM Q1(c) GreenThrift Inc. facing new sustainable fashion brands; ICAI's answer is the Threat of New Entrants category of Porter's Five Forces Model"
+  },
+  {
+   "id": "PYQ-S24-MCQ11",
+   "codes": [
+    "S02.16"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "SA-S24 SM MCQ 11 per-mile operating cost falling with efficiency and cumulative volume of services; key: experience curve",
+   "key": "A"
+  },
+  {
+   "id": "RTP-M25-SMCQ5",
+   "codes": [
+    "S02.16"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "src": "RTP-M25 SM MCQ 5 XYZ Logistics' per-mile operating cost falling through efficiency and cumulative experience; key: experience curve",
+   "key": "A"
   }
  ]
 }

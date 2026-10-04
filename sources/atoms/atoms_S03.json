@@ -1,6 +1,6 @@
 {
  "chapter": "S03",
- "note": "Official questions mapped to SM Chapter 3 (Strategic Analysis: Internal Environment). Codes: primary first. key = ICAI's published answer key for MCQs. Mapping rules. (1) **ICAI's RTPs print their own chapter headings**, and the pattern is perfectly regular across all nine RTPs from May 2024 to September 2026: Chapter 1 = questions 7 and 8, Chapter 2 = 9 and 10, Chapter 3 = 11 and 12, Chapter 4 = 13 and 14, Chapter 5 = 15 and 16. Every RTP descriptive atom here therefore carries ICAI's own label, except where noted. (2) Past-paper and MTP descriptive questions carry no chapter label, so they are mapped by the concept of ICAI's published answer, read in full, not by the wording of the stem. (3) Part I case-scenario MCQ items are included where the tested concept is unambiguously a Chapter 3 concept. Two labelling tensions are recorded rather than smoothed over. **RTP May 2026 Q11** is printed under ICAI's 'Chapter 3' label but answered as Strategic Group Mapping, a tool the study material places in Chapter 2 (S02.23); that atom is therefore held in atoms_S02.json, not here. **RTP September 2026 Q13** is printed under ICAI's 'Chapter 4' label but answered as the Focused Differentiation Strategy, which the register places at S03.14 and which has no home among Chapter 4's headings (stability, growth, exits, Ansoff, ADL, BCG, GE); it is therefore placed here. Three questions whose stems look like Chapter 3 were excluded after reading the published answer: PYQ Sep 2024 Q5(a) (M/s MTS Ltd — the stem ends 'focusing on its core competencies' but the answer is the Network Organizational Structure, SM Ch 5); PYQ Jan 2025 Q5(c) and MTP Jan 2026 S1 Q1(c) (Organic Beverages — answered with the BCG matrix, SM Ch 4); and PYQ May 2026 Q5(c) (MM Company at maturity — answered as Stability Strategy, SM Ch 4). One atom was moved here from SM Chapter 2: PYQ May 2025 MCQ 12, whose published key is 'Augmented marketing', a term the study material defines in this chapter at §3.3.3 under types of marketing. One atom was added after the chapter was first merged, while scoping SM Ch 4: PYQ September 2024 Q5(c) (M/s. Maa ki Pasand) reads like a Chapter 4 product-market question but ICAI's published answer is a focus strategy combining focused cost leadership and focused differentiation, with the advantages and disadvantages of focus — all of which is S03.14.",
+ "note": "Official questions mapped to SM Chapter 3 (Strategic Analysis: Internal Environment). Codes: primary first. key = ICAI's published answer key for MCQs. Mapping rules. (1) **ICAI's RTPs print their own chapter headings**, and the pattern is perfectly regular across all nine RTPs from May 2024 to September 2026: Chapter 1 = questions 7 and 8, Chapter 2 = 9 and 10, Chapter 3 = 11 and 12, Chapter 4 = 13 and 14, Chapter 5 = 15 and 16. Every RTP descriptive atom here therefore carries ICAI's own label, except where noted. (2) Past-paper and MTP descriptive questions carry no chapter label, so they are mapped by the concept of ICAI's published answer, read in full, not by the wording of the stem. (3) Part I case-scenario MCQ items are included where the tested concept is unambiguously a Chapter 3 concept. Two labelling tensions are recorded rather than smoothed over. **RTP May 2026 Q11** is printed under ICAI's 'Chapter 3' label but answered as Strategic Group Mapping, a tool the study material places in Chapter 2 (S02.23); that atom is therefore held in atoms_S02.json, not here. **RTP September 2026 Q13** is printed under ICAI's 'Chapter 4' label but answered as the Focused Differentiation Strategy, which the register places at S03.14 and which has no home among Chapter 4's headings (stability, growth, exits, Ansoff, ADL, BCG, GE); it is therefore placed here. Three questions whose stems look like Chapter 3 were excluded after reading the published answer: PYQ Sep 2024 Q5(a) (M/s MTS Ltd — the stem ends 'focusing on its core competencies' but the answer is the Network Organizational Structure, SM Ch 5); PYQ Jan 2025 Q5(c) and MTP Jan 2026 S1 Q1(c) (Organic Beverages — answered with the BCG matrix, SM Ch 4); and PYQ May 2026 Q5(c) (MM Company at maturity — answered as Stability Strategy, SM Ch 4). One atom was moved here from SM Chapter 2: PYQ May 2025 MCQ 12, whose published key is 'Augmented marketing', a term the study material defines in this chapter at §3.3.3 under types of marketing. One atom was added after the chapter was first merged, while scoping SM Ch 4: PYQ September 2024 Q5(c) (M/s. Maa ki Pasand) reads like a Chapter 4 product-market question but ICAI's published answer is a focus strategy combining focused cost leadership and focused differentiation, with the advantages and disadvantages of focus — all of which is S03.14. **Eighteen atoms were added in the back-fill pass (04-10-2026)**, found by the systematic sweep of every unplaced SM Part-I item and descriptive sub-part run while building SM Ch 5. The biggest group is nine on Porter's generic strategies at S03.14 - three on differentiation, two on best-cost provider, two on focused differentiation and one each on cost leadership and the focus strategy - which makes S03.14 the most MCQ-tested heading in this chapter. Four more sit at S03.07, because the marketing-strategy types (social, augmented, direct, relationship, services, enlightened, differential, synchro) are printed in this chapter under the Product/Services strategic driver, not in SM Ch 2; three at S03.03 on Mendelow's matrix; and one each at S03.10 (Prahalad and Hamel's three areas of core competency) and S03.11 (SWOT). On RTP-M24-SMCQ1-ii: the keyed option is 'introducing value-added services like telemedicine and wellness programs', which is ICAI's own definition of augmented marketing - 'additional customer services and benefits that a product can offer besides the core and actual product', its examples being movies on demand, online computer repair services and secretarial services - so the atom is filed at S03.07 rather than in SM Ch 2's technological environment.",
  "atoms": [
   {
    "id": "RTP-J26-SQ11",
@@ -736,6 +736,186 @@
    "marks": 5,
    "format": "Case descriptive",
    "src": "SA-S24 SM Q5(c) M/s. Maa ki Pasand in the narrow baby-care market, charging low prices relative to rivals in that market for price-conscious customers and a premium based on uniqueness for the rest — ICAI's answer is a focus strategy incorporating BOTH focused cost leadership and focused differentiation, with the advantages and disadvantages of focus"
+  },
+  {
+   "id": "PYQ-J25-MCQ13",
+   "codes": [
+    "S03.07"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "SA-J25 SM MCQ 13 the PNL-CMP marketing team focusing on the best long-run performance of the marketing system with customer orientation; key: enlightened marketing",
+   "key": "A"
+  },
+  {
+   "id": "PYQ-J26-MCQ16",
+   "codes": [
+    "S03.07"
+   ],
+   "marks": 1,
+   "format": "MCQ",
+   "src": "SA-J26 SM MCQ 16 a cafe launching a Workday Loyalty Card to even out weekend-heavy demand; key: synchro-marketing",
+   "key": "D"
+  },
+  {
+   "id": "RTP-M24-SMCQ1-ii",
+   "codes": [
+    "S03.07"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "RTP-M24 SM case 1(ii) how Swasthya counters the risk from constant innovations and disruptions; key: by introducing value-added services like telemedicine and wellness programs - ICAI's definition of augmented marketing",
+   "key": "B"
+  },
+  {
+   "id": "PYQ-J26-MCQ13",
+   "codes": [
+    "S03.07",
+    "S03.04"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "SA-J26 SM MCQ 13 the strategic driver Kalpanjali Dairy adopted for its long-term strategy; key: Product",
+   "key": "A"
+  },
+  {
+   "id": "RTP-M24-SMCQ5",
+   "codes": [
+    "S03.03"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "src": "RTP-M24 SM MCQ 5 Quntik acquiring a smaller company - which Mendelow quadrant the smaller company's CEO falls into; key: Key Player",
+   "key": "B"
+  },
+  {
+   "id": "RTP-S24-SMCQ1-i",
+   "codes": [
+    "S03.03"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "RTP-S24 SM case 1(i) which concept MuseoGoa used to address the initial concerns of the local community; key: Mendelow's matrix",
+   "key": "B"
+  },
+  {
+   "id": "RTP-S25-SMCQ4",
+   "codes": [
+    "S03.03"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "src": "RTP-S25 SM MCQ 4 a health-conscious community group that advocates strongly but cannot affect a cafe with a loyal traditional customer base; key: high interest, low power",
+   "key": "C"
+  },
+  {
+   "id": "RTP-S24-SMCQ4",
+   "codes": [
+    "S03.10"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "src": "RTP-S24 SM MCQ 4 a small tech company whose main product became crucial across various industries; key: application to other markets, one of Prahalad and Hamel's three areas of core competency",
+   "key": "D"
+  },
+  {
+   "id": "RTP-S25-SMCQ3",
+   "codes": [
+    "S03.11"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "src": "RTP-S25 SM MCQ 3 a startup identifying a strength, a threat, an opportunity and a weakness; key: SWOT analysis",
+   "key": "B"
+  },
+  {
+   "id": "RTP-S24-SMCQ1-ii",
+   "codes": [
+    "S03.14"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "RTP-S24 SM case 1(ii) MuseoGoa pricing tickets affordably, cheaper than city attractions, to draw budget-conscious tourists; key: cost leadership strategy",
+   "key": "A"
+  },
+  {
+   "id": "RTP-S25-SMCQ1-iii",
+   "codes": [
+    "S03.14"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "RTP-S25 SM case 1(iii) Royal Pens launching limited-edition designs and a stylus pen for younger tech-driven customers; key: differentiation",
+   "key": "C"
+  },
+  {
+   "id": "RTP-S26-SMCQ1-iii",
+   "codes": [
+    "S03.14"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "RTP-S26 SM case 1(iii) Green Harvest Organics combining premium-quality organic produce with efficient production to offer affordable prices; key: best-cost provider strategy",
+   "key": "C"
+  },
+  {
+   "id": "RTP-J26-SMCQ1-v",
+   "codes": [
+    "S03.14"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "RTP-J26 SM case 1(v) Hepha.io's founding premise of futuristic, high value add AI solutions as its primary client appeal; key: differentiation, by providing a uniquely valuable product",
+   "key": "B"
+  },
+  {
+   "id": "RTP-M26-SMCQ5",
+   "codes": [
+    "S03.14"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "src": "RTP-M26 SM MCQ 5 VitaGlow's HerbaSilk shampoo perceived as superior and priced 25% higher, with sales rising on its perceived uniqueness; key: differentiation strategy",
+   "key": "C"
+  },
+  {
+   "id": "PYQ-M26-MCQ14",
+   "codes": [
+    "S03.14"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "SA-M26 SM MCQ 14 Altex Ltd. adopting a best-cost provider strategy - which actions align with it; key: streamlining manufacturing to reduce cost, sourcing from cost-effective suppliers AND adding innovative features",
+   "key": "B"
+  },
+  {
+   "id": "PYQ-S24-MCQ12",
+   "codes": [
+    "S03.14"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "SA-S24 SM MCQ 12 a niche air-transport service for a large customer segment on an assurance of delivery by next day; key: focus differentiation strategy",
+   "key": "C"
+  },
+  {
+   "id": "PYQ-M26-MCQ9",
+   "codes": [
+    "S03.14"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "SA-M26 SM MCQ 9 the initial strategy by which Alex Motor Company gained competitive advantage; key: focused differentiation emphasising customized commercial vehicles, easy maintenance and fuel efficiency rather than mass production",
+   "key": "C"
+  },
+  {
+   "id": "MTP-J25-S2-SQ1c",
+   "codes": [
+    "S03.14"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-J25-S2 SM Q1(c) a consultancy firm concentrating on environmental management with an exclusive audit service; ICAI's answer is a focused differentiation strategy"
   }
  ]
 }

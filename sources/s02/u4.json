@@ -350,7 +350,8 @@
      ],
      "examiner": "No examiners' comments have been published for Paper 6.",
      "also_asked_as": [
-      "MTP-J26-S2-SQ2b asks the identical question with the identical published answer, and MTP-S26-S2-SQ4b offers it as the OR alternative to the experience-curve question. Three appearances make the seven barriers the single highest-yield list in this chapter."
+      "MTP-J26-S2-SQ2b asks the identical question with the identical published answer, and MTP-S26-S2-SQ4b offers it as the OR alternative to the experience-curve question. Three appearances make the seven barriers the single highest-yield list in this chapter.",
+      "MTP-M24-S2-SQ1c puts the same force to a case and is the cleanest short illustration of it: GreenThrift Inc., a sustainable clothing retailer enjoying a surge in popularity, is worried about **new sustainable fashion brands** using organic and recycled materials and ethical manufacturing. ICAI's answer: **\"Competition from new sustainable fashion brands falls under the 'Threat of New Entrants' category of Porter's Five Forces Model for Competitive Analysis. These new entrants pose a threat to existing sustainable clothing retailers like GreenThrift Inc. by increasing competition and potentially eroding market share. The emergence of these brands, focusing on using organic and recycled materials along with ethical manufacturing practices, aligns with the values of environmentally conscious consumers, making them strong competitors in the sustainable fashion market.\"** Note what makes it a *new entrant* question rather than a rivalry question: the firms concerned are not yet in the market when the threat is assessed."
      ]
     },
     {
@@ -621,6 +622,25 @@
       "D": "International expansion is a growth choice, not an entry barrier."
      },
      "trap": "All four are real competitive actions; only two of the seven published barriers appear in one option.",
+     "concept": "S02.14"
+    },
+    {
+     "id": "RTP-M24-SMCQ3",
+     "question": "Kanika, known as \"Desi Taylor Swift\", launched the lipstick brand Kolor among intense global and domestic competition. Despite a lack of groundwork, her substantial 45 million social media following gained significant attention. Which aspect of Michael Porter's force multiplier is working in favour of Kolor?",
+     "options": {
+      "A": "Social Media Influence",
+      "B": "Threat of New Entrants",
+      "C": "Supplier Bargaining Power",
+      "D": "Buyer Bargaining Power"
+     },
+     "answer": "B",
+     "explanation": "Kolor *is* the new entrant, and an established following has lowered the barriers that would normally keep it out — brand identity and access to distribution among them. The force working in its favour is therefore the threat of new entrants, which is high where entry barriers are low. ICAI key: (b).",
+     "why_wrong": {
+      "A": "Social media influence is not one of Porter's five forces; it is the *reason* the entry barrier is low.",
+      "C": "No supplier concentration or switching issue is described.",
+      "D": "No buyer concentration or price pressure is described."
+     },
+     "trap": "Option A restates the stem's own fact and is not a force at all — the classic distractor in a five-forces MCQ. Name the force, not the circumstance.",
      "concept": "S02.14"
     },
     {

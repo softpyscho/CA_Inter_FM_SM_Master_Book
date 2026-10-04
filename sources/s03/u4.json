@@ -582,7 +582,10 @@
       "premium prices",
       "expertise in niche markets"
      ],
-     "examiner": "No examiners' comments have been published for Paper 6."
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "MTP-J25-S2-SQ1c is the cleanest two-limb statement of the same strategy. A business consultancy firm **focuses primarily on the market for consultancy services in environmental management**, assisting clients with environmental management accounting systems, and **conducts environmental audits to verify compliance with international assurance standards — an exclusive service not offered by its competitors**; other management consultancy work is only a minor share of revenue. ICAI's answer: **\"By concentrating primarily on the market for consultancy services in environmental management, the firm is pursuing a focus strategy. Its provision of audit services, which rival firms do not offer, highlights a differentiation strategy within this specific market niche. Therefore, the firm is following a focused differentiation strategy.\"** ICAI then adds the definition: **\"A focused differentiation strategy involves offering unique features that cater to the specific needs of a narrow market segment. As with the focused low-cost strategy, narrow markets can be defined differently depending on the context. For instance, some firms using this strategy focus on a particular sales channel, such as exclusively selling online, while others may target specific demographic groups.\"** Note the structure of the answer — identify the narrowness first, then the basis of competition within it, then combine the two into the name."
+     ]
     }
    ],
    "mcqs": [
@@ -774,6 +777,158 @@
       "D": "No uniqueness of brand image is claimed."
      },
      "trap": "'Reliable' sounds like a differentiator; paired with 'functional' and 'affordable' it describes acceptable quality at low cost.",
+     "concept": "S03.14"
+    },
+    {
+     "id": "RTP-S24-SMCQ1-ii",
+     "question": "MuseoGoa's idyllic location in a quaint village posed a challenge as tourists preferred beaches closer to the city. To attract visitors, MuseoGoa priced their tickets affordably, cheaper than city attractions, drawing budget-conscious tourists looking for unique experiences. What business strategy did MuseoGoa employ to attract more tourists?",
+     "options": {
+      "A": "Cost leadership strategy",
+      "B": "Differentiation strategy",
+      "C": "Focus strategy",
+      "D": "Diversification strategy"
+     },
+     "answer": "A",
+     "explanation": "Competing by being cheaper than the alternatives, to win price-sensitive buyers across the market, is cost leadership — the firm seeks to be the low-cost provider and passes that into price. ICAI key: (a).",
+     "why_wrong": {
+      "B": "Differentiation competes on perceived uniqueness at a premium, not on a lower price.",
+      "C": "A focus strategy serves a narrow segment; 'budget-conscious tourists' is a broad market, not a niche.",
+      "D": "Diversification is a growth strategy from SM Ch 4, not a competitive strategy."
+     },
+     "trap": "'Unique experiences' in the stem tempts differentiation. The operative fact is the price — cheaper than city attractions — and the strategy is named by how the firm competes, not by what the product happens to be.",
+     "concept": "S03.14"
+    },
+    {
+     "id": "RTP-S25-SMCQ1-iii",
+     "question": "To regain market share, Royal Pens launched limited-edition designs and a stylus pen, targeting younger, tech-driven customers. This strategic choice most closely reflects which of the following business-level strategies?",
+     "options": {
+      "A": "Cost leadership",
+      "B": "Market development",
+      "C": "Differentiation",
+      "D": "Retrenchment"
+     },
+     "answer": "C",
+     "explanation": "Limited-edition designs and a novel stylus pen compete on perceived uniqueness rather than price — a differentiation strategy, which seeks a product or service the market regards as distinctive and is willing to pay for. ICAI key: (c).",
+     "why_wrong": {
+      "A": "Nothing in the stem concerns being the low-cost provider.",
+      "B": "Market development is an Ansoff growth cell, not a business-level competitive strategy — and the stem asks for the latter.",
+      "D": "Retrenchment reduces the scope of activity; Royal Pens is launching products."
+     },
+     "trap": "Targeting a new customer group reads as market development, and option B is there for exactly that reason. The question asks for a **business-level strategy**, which in this syllabus means one of Porter's generic strategies.",
+     "concept": "S03.14"
+    },
+    {
+     "id": "RTP-S26-SMCQ1-iii",
+     "question": "Green Harvest Organics combines premium-quality organic produce with efficient production methods to offer affordable prices. Which competitive strategy does this represent?",
+     "options": {
+      "A": "Cost Leadership Strategy",
+      "B": "Differentiation Strategy",
+      "C": "Best-Cost Provider Strategy",
+      "D": "Focus Strategy"
+     },
+     "answer": "C",
+     "explanation": "The best-cost provider strategy gives customers more value for the money by combining an upscale or differentiated product with a low-cost position — premium quality at an affordable price is precisely that combination. ICAI key: (c).",
+     "why_wrong": {
+      "A": "Cost leadership alone would not promise premium quality.",
+      "B": "Differentiation alone would not promise affordable prices.",
+      "D": "A focus strategy is defined by the narrowness of the segment, which the stem does not mention."
+     },
+     "trap": "Options A and B are each half of the answer, which is how the best-cost provider strategy is always tested: look for **both** limbs in the stem.",
+     "concept": "S03.14"
+    },
+    {
+     "id": "RTP-J26-SMCQ1-v",
+     "question": "Hepha.io's founding premise of offering \"futuristic, high value add\" AI solutions as its primary client appeal is an example of establishing a Competitive Advantage through:",
+     "options": {
+      "A": "Cost Leadership, by optimising production costs",
+      "B": "Differentiation, by providing a uniquely valuable product",
+      "C": "Focused Cost Leadership, by targeting a narrow segment with the lowest price",
+      "D": "Core Values, by adhering to ethical standards"
+     },
+     "answer": "B",
+     "explanation": "Competing on a product the client regards as futuristic and high value-add is differentiation — the firm offers something perceived as unique and charges for it, rather than competing on price. ICAI key: (b).",
+     "why_wrong": {
+      "A": "No cost optimisation is described.",
+      "C": "Neither a narrow segment nor the lowest price is described.",
+      "D": "Core values are a mission and culture matter, not one of Porter's generic strategies."
+     },
+     "trap": "Option D is not a competitive strategy at all — a reminder that in a generic-strategy MCQ the answer is always one of cost leadership, differentiation, focus (cost or differentiation) or best-cost provider.",
+     "concept": "S03.14"
+    },
+    {
+     "id": "RTP-M26-SMCQ5",
+     "question": "VitaGlow Naturals Ltd., a personal care company, launches a new herbal shampoo \"HerbaSilk\" that is sulphate-free, prevents hair fall and contains rare botanical extracts sourced from the Himalayas. Customers perceive it as superior to ordinary shampoos. The company prices HerbaSilk 25% higher than its regular shampoo range and sales rise strongly due to its perceived uniqueness. Identify the strategy adopted by VitaGlow Naturals Ltd.:",
+     "options": {
+      "A": "Cost leadership strategy",
+      "B": "Focus strategy",
+      "C": "Differentiation strategy",
+      "D": "Best-cost provider strategy"
+     },
+     "answer": "C",
+     "explanation": "A product the market perceives as superior, sold at a 25% premium, with sales rising 'due to its perceived uniqueness', is a differentiation strategy — the premium is the return on the perceived difference. ICAI key: (c).",
+     "why_wrong": {
+      "A": "The price is higher, not lower.",
+      "B": "No narrow segment is identified; the product sits alongside the regular range.",
+      "D": "A best-cost provider offers more value for the money at an affordable price, not a 25% premium."
+     },
+     "trap": "The rare Himalayan extracts suggest a niche, which makes option B tempting; a focus strategy is defined by the *buyer segment* served, not by the exoticism of the ingredients.",
+     "concept": "S03.14"
+    },
+    {
+     "id": "PYQ-M26-MCQ14",
+     "question": "Altex Ltd. produces and sells home appliances but is facing stiff competition from new entrants offering similar products at a lower price. To stay competitive, the top management decided to adopt the best-cost provider strategy. Which of the following actions should the company take to align with that strategy?",
+     "options": {
+      "A": "Reducing the price of their products without making changes in the manufacturing process and product features",
+      "B": "Streamlining manufacturing processes to reduce cost, sourcing materials from cost-effective suppliers and adding innovative features to their products",
+      "C": "Streamlining manufacturing processes to reduce cost with no innovation in product features",
+      "D": "Focusing solely on premium features, thereby increasing the cost of the products to reflect the added value"
+     },
+     "answer": "B",
+     "explanation": "A best-cost provider must deliver on **both** limbs — a genuinely low cost position *and* an upscale or differentiated product — so that the customer gets more value for the money. Only option B does both: cost reduction through process and sourcing, plus innovative features. ICAI key: (B).",
+     "why_wrong": {
+      "A": "Cutting price without cutting cost destroys margin and adds no value; it is neither limb.",
+      "C": "Cost reduction alone is cost leadership.",
+      "D": "Premium features alone, at a higher price, is differentiation."
+     },
+     "trap": "Options C and D are each one half of the strategy, and A is neither. This is the clearest single item in the bank on what 'best-cost provider' actually requires.",
+     "concept": "S03.14"
+    },
+    {
+     "id": "PYQ-S24-MCQ12",
+     "question": "As per the strategies propagated by Michael Porter, a niche marketing strategy for transporting goods through airways for a large customer segment on an assurance of 'delivery by next day' is known as:",
+     "options": {
+      "A": "Cost leadership strategy",
+      "B": "Differentiation strategy",
+      "C": "Focus differentiation strategy",
+      "D": "Focus cost leadership strategy"
+     },
+     "answer": "C",
+     "explanation": "Two features combine: the firm serves a **narrow segment** (customers who want next-day delivery regardless of cost) and competes within it on a **distinctive offering** rather than on price. Narrow segment plus differentiation is the focused differentiation strategy. ICAI key: (C).",
+     "why_wrong": {
+      "A": "Cost leadership competes on price across a broad market.",
+      "B": "Plain differentiation serves the broad market, not a niche.",
+      "D": "Focused cost leadership would compete within the niche on the lowest price; here the stem says the customers are indifferent to cost."
+     },
+     "trap": "The stem says 'for a large customer segment', which pulls away from 'niche'. The segment is large in volume but narrow in its requirement — and the stem's own word 'niche' is the examiner's signal.",
+     "concept": "S03.14"
+    },
+    {
+     "id": "PYQ-M26-MCQ9",
+     "question": "Identify the initial strategy to gain competitive advantage adopted by Alex Motor Company.",
+     "options": {
+      "A": "Growth strategy emphasizing strong and fuel-efficient vehicles",
+      "B": "Focused cost leadership strategy emphasizing fuel efficiency and easy maintenance",
+      "C": "Focused differentiation strategy emphasizing customized commercial vehicles, easy maintenance and fuel efficiency rather than mass production",
+      "D": "Expansion strategy emphasizing customized vehicles and mass production"
+     },
+     "answer": "C",
+     "explanation": "Customised commercial vehicles for a defined buyer group, competing on features rather than on scale, is focused differentiation — a narrow segment served with a distinctive offering. ICAI key: (C).",
+     "why_wrong": {
+      "A": "A growth strategy is a direction from SM Ch 4, not a means of gaining competitive advantage.",
+      "B": "Focused cost leadership would compete on the lowest price within the niche; customisation points the other way.",
+      "D": "Mass production contradicts customisation, and expansion is again a growth direction rather than a competitive strategy."
+     },
+     "trap": "Two of the four options name SM Chapter 4 growth strategies. When a stem asks how competitive advantage was *gained*, the answer is a Chapter 3 generic strategy.",
      "concept": "S03.14"
     },
     {
