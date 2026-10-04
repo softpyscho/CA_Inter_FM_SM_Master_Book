@@ -325,6 +325,63 @@
      "concept": "S04.10"
     },
     {
+     "id": "PYQ-M26-MCQ12",
+     "question": "Ajay Sharma undertook a retrenchment strategy to save his company when its sales declined and the company was called outdated. The action plan undertaken to implement it was: (i) Assessing the current problem (ii) Providing innovative transport service (iii) Developing an action plan with specific goals (iv) Restructuring organizational hierarchy. Which of the above actions does NOT pertain to the strategy undertaken by Ajay Sharma?",
+     "options": {
+      "A": "(ii) and (iv)",
+      "B": "(iii) and (iv)",
+      "C": "(i), (iii) and (iv)",
+      "D": "Only (iii)"
+     },
+     "answer": "A",
+     "explanation": "The five stages of the turnaround action plan are assessment of current problems, analysing the situation and developing a strategic plan, implementing an emergency action plan, restructuring the business and returning to normal. Items (i) and (iii) are Stages One and Two verbatim; providing an innovative transport service is a growth initiative, and restructuring the organizational hierarchy is a structural change belonging to strategy implementation, not to the turnaround action plan's stages. ICAI key: (A).",
+     "why_wrong": {
+      "B": "Item (iii) — developing an action plan with specific goals — is Stage Two of the plan.",
+      "C": "Items (i) and (iii) are both stages of the plan.",
+      "D": "Item (iii) is part of the plan, so it cannot be the odd one out."
+     },
+     "trap": "'Restructuring the business' is Stage Four, which makes option (iv) look right; the stem says restructuring the organizational *hierarchy*, which is a structural matter, and Stage Four is about the financial state of the core business.",
+     "concept": "S04.10"
+    },
+    {
+     "id": "RTP-S25-SMCQ6",
+     "question": "A well-established clothing brand is experiencing a decline in sales and market share due to changing consumer preferences and rising competition. In response, the company restructures its operations, cuts cost, revamps its product line, enhances marketing efforts and focuses on boosting employee morale and operational efficiency. What type of strategy is the company implementing?",
+     "options": {
+      "A": "Divestment strategy",
+      "B": "Market penetration strategy",
+      "C": "Cost leadership strategy",
+      "D": "Turnaround strategy"
+     },
+     "answer": "D",
+     "explanation": "Every action named is from the turnaround action plan — Stage Three's cost reduction and product-line pruning, Stage Four's restructuring, product-mix change and morale building — and turnaround is 'internal retrenchment… emphasis is laid on improving internal efficiency' (SM §4.3). ICAI key: (d).",
+     "why_wrong": {
+      "A": "Divestment is the sale or liquidation of a portion of the business; nothing is being sold.",
+      "B": "Penetration is a growth strategy, not a response to decline through internal repair.",
+      "C": "Cost leadership is a competitive strategy from SM Chapter 3; cutting cost is only one of the actions here."
+     },
+     "trap": "Cost cutting appears in both turnaround and cost leadership; the discriminator is the whole package — morale, restructuring, product revamp — which is the turnaround action plan.",
+     "concept": "S04.10"
+    },
+    {
+     "id": "RTP-S26-SMCQ5",
+     "question": "PrimeVision Entertainment Ltd. had been incurring continuous losses for several years. After evaluating all revival options, the promoters concluded that selling the company's assets would generate higher value than continuing its operations. Accordingly, they decided to permanently close the business and pursue asset sales. Which retrenchment strategy has the company adopted?",
+     "options": {
+      "A": "Restructuring Business",
+      "B": "Liquidation Strategy",
+      "C": "Business Process Re-engineering",
+      "D": "Divestment"
+     },
+     "answer": "B",
+     "explanation": "SM §4.3: 'If none of these actions work, then it may choose to abandon the activities totally, resulting in a liquidation strategy.' All revival options were evaluated and rejected, and the business is to be permanently closed. ICAI key: (b).",
+     "why_wrong": {
+      "A": "Restructuring the business is Stage Four of the turnaround action plan, which keeps the business alive.",
+      "C": "Business process re-engineering is not one of the three strategic exits.",
+      "D": "Divestment is the sale or liquidation of a *portion* of the business, a division, profit centre or SBU — not the total abandonment of the firm."
+     },
+     "trap": "Divestment is the closest distractor and the commonest error. The discriminator is scope: a portion of the business is divestment; the whole of it, permanently closed, is liquidation. This is the only Liquidation MCQ in the official bank.",
+     "concept": "S04.10"
+    },
+    {
      "id": "MCQ-S04.10-01",
      "angle": "Which signal is not in the list",
      "difficulty": "Moderate",
@@ -715,6 +772,82 @@
       "C": "Product development takes a new product to the **existing** market."
      },
      "trap": "This is the cleanest statement of the grid in the whole question bank — both variables are explicitly new, so it is a two-second answer if the two tests are memorised.",
+     "concept": "S04.12"
+    },
+    {
+     "id": "RTP-S24-SMCQ5",
+     "question": "A women's clothing brand recognized new opportunities and researched emerging trends and consumer preferences. They introduced a new clothing line, received positive feedback from initial trials, and grew through strategic partnerships and targeted advertising. What strategic choice best describes this approach?",
+     "options": {
+      "A": "Product Development",
+      "B": "Market Development",
+      "C": "Market Penetration",
+      "D": "Diversification"
+     },
+     "answer": "A",
+     "explanation": "A new clothing line offered to the brand's existing customers is product development — 'a growth strategy where business aims to introduce new products into existing markets… by offering modified or new products to current markets' (SM §4.4.1). ICAI key: (a).",
+     "why_wrong": {
+      "B": "Market development takes the existing product to a new market; no new market is described.",
+      "C": "Penetration sells existing products in existing markets without changing products in any major way.",
+      "D": "Diversification requires new products *and* new markets."
+     },
+     "trap": "'Recognized new opportunities' and 'strategic partnerships' suggest a new market or an alliance; the only thing actually new is the product.",
+     "concept": "S04.12"
+    },
+    {
+     "id": "RTP-S25-SMCQ5",
+     "question": "A mobile phone company already has a strong customer base in its home country. To grow further, it focuses on increasing sales of its existing phones by offering promotional discounts, ramping up advertising and partnering with more local retailers for better distribution. Which growth strategy does this represent according to Ansoff's Matrix?",
+     "options": {
+      "A": "Market penetration strategy",
+      "B": "Product development strategy",
+      "C": "Market development strategy",
+      "D": "Diversification strategy"
+     },
+     "answer": "A",
+     "explanation": "Existing products, existing market, more sales to present customers without changing products in any major way — and 'penetration might require greater spending on advertising or personal selling' (SM §4.4.1). ICAI key: (a).",
+     "why_wrong": {
+      "B": "No new or modified product is introduced.",
+      "C": "The market is the existing home country.",
+      "D": "Neither the product nor the market is new."
+     },
+     "trap": "Adding local retailers reads like a new distribution channel, which is listed under market development; here the channels serve the *same* market, and the growth comes from selling more of the same phones.",
+     "concept": "S04.12"
+    },
+    {
+     "id": "RTP-S26-SMCQ1-i",
+     "question": "Green Harvest Organics adopted a market penetration strategy by introducing loyalty programmes and promotional campaigns within its existing markets. What is the primary objective of this strategy?",
+     "options": {
+      "A": "Introducing new products into existing markets",
+      "B": "Increasing market share by selling existing products in existing markets",
+      "C": "Entering new geographical markets",
+      "D": "Diversifying into unrelated businesses"
+     },
+     "answer": "B",
+     "explanation": "Market penetration 'refers to a growth strategy where the business focuses on selling existing products into existing markets… achieved by making more sales to present customers', and the Product-Market Expansion Grid lists its actions as increasing market share, product usage, frequency and quantity used (SM §4.4.1). ICAI key: (b).",
+     "why_wrong": {
+      "A": "That is product development.",
+      "C": "That is market development.",
+      "D": "That is conglomerate diversification."
+     },
+     "trap": "Each distractor is the correct definition of a different cell, so the item is really a four-way test of the grid.",
+     "concept": "S04.12"
+    },
+    {
+     "id": "RTP-J26-SMCQ1-ii",
+     "question": "The strategic move by Hepha.io to shift its existing AI services into the new Indian geographical market is a clear application of which Grand Strategy?",
+     "options": {
+      "A": "Market Penetration",
+      "B": "Market Development",
+      "C": "Product Development",
+      "D": "Retrenchment"
+     },
+     "answer": "B",
+     "explanation": "An existing service taken into a new geography is market development — 'the business seeks to sell its existing products into new markets… achieved through new geographical markets' (SM §4.4.1). ICAI key: (b).",
+     "why_wrong": {
+      "A": "Penetration keeps the market unchanged.",
+      "C": "Product development keeps the market unchanged and changes the product.",
+      "D": "Retrenchment reduces the scope of activity."
+     },
+     "trap": "The word 'existing' in the stem fixes the product; the word 'new' fixes the market. Two adjectives decide the cell.",
      "concept": "S04.12"
     },
     {

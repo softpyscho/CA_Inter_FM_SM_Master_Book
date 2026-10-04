@@ -615,6 +615,25 @@
      "concept": "S04.14"
     },
     {
+     "id": "RTP-M26-SMCQ1-iv",
+     "question": "EcoRide categorized scooters as Cash Cows and e-bikes as Stars in its portfolio planning. According to the BCG Matrix, what does this imply about the resource allocation strategy the company should follow for each product?",
+     "options": {
+      "A": "Harvest scooters & divest e-bikes",
+      "B": "Invest in scooters & maintain e-bikes",
+      "C": "Harvest scooters & invest in e-bikes",
+      "D": "Divest scooters & harvest e-bikes"
+     },
+     "answer": "C",
+     "explanation": "'A strategic alternative advocated for cash cows is Harvest' — increase short-term cash flow regardless of long-term effect — while 'Stars may follow the Build strategy', needing heavy investment to maintain their position and finance their rapid growth potential. The cash cow funds the star. ICAI key: (c).",
+     "why_wrong": {
+      "A": "Divesting a Star contradicts its being the best opportunity for expansion.",
+      "B": "Cash cows need *less* investment, not more; stars need more than maintenance.",
+      "D": "Divest is the prescription for Dogs, and Harvest contradicts a Star's growth objective."
+     },
+     "trap": "Option B inverts the whole logic of the matrix, which is why ICAI includes it — the model exists precisely to stop a firm pouring money into its mature business.",
+     "concept": "S04.14"
+    },
+    {
      "id": "MCQ-S04.14-01",
      "angle": "ICAI's own box",
      "difficulty": "Difficult",
@@ -924,6 +943,44 @@
     }
    ],
    "mcqs": [
+    {
+     "id": "PYQ-M26-MCQ16",
+     "question": "In the General Electric (GE) Nine-Cell Matrix, which two dimensions form the basis of portfolio analysis to develop the strategic options?",
+     "options": {
+      "A": "Business Strength and Market Attractiveness",
+      "B": "Company's Strength and Weakness",
+      "C": "Market Share and Market Growth Rate",
+      "D": "Competitive Intensity and Pricing Trends"
+     },
+     "answer": "A",
+     "explanation": "SM §4.4.4: 'This model uses two factors while taking strategic decisions: Business Strength and Market Attractiveness.' ICAI key: (A).",
+     "why_wrong": {
+      "B": "Strengths and weaknesses are SWOT elements from SM Chapter 3.",
+      "C": "Those are the BCG axes — and the study material says market attractiveness *replaces* market growth and competitive strength *replaces* market share.",
+      "D": "Competitive intensity and pricing trends are two of the eleven drivers *of* market attractiveness, not dimensions in themselves."
+     },
+     "trap": "Option D is the subtle one: both items are genuine GE content, but they sit inside one axis rather than forming the two axes.",
+     "concept": "S04.15"
+    },
+    {
+     "id": "PYQ-S25-MCQ16",
+     "question": "In the General Electric Matrix, what strategy is recommended for business units with high market attractiveness and strong business strength?",
+     "options": {
+      "A": "Invest/Expand",
+      "B": "Select/Earn",
+      "C": "Harvest/Divest",
+      "D": "Liquidate"
+     },
+     "answer": "A",
+     "explanation": "The top-left cell of ICAI's grid is Invest/Expand — the green section, where 'the business is at an advantageous position' and 'the strategic decision can be to expand, to invest and grow'. ICAI key: (A).",
+     "why_wrong": {
+      "B": "Select/Earn is the amber prescription — High × Weak, Medium × Average and Low × Strong.",
+      "C": "Harvest/Divest is the red prescription — Medium × Weak, Low × Average and Low × Weak.",
+      "D": "Liquidate is not a cell label; the red zone calls for retrenchment, divestment or liquidation."
+     },
+     "trap": "Option D borrows a real word from the red-zone sentence; the nine cells carry only three labels.",
+     "concept": "S04.15"
+    },
     {
      "id": "MCQ-S04.15-01",
      "angle": "Which zone",

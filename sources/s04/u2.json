@@ -503,6 +503,101 @@
      "concept": "S04.09"
     },
     {
+     "id": "PYQ-M25-MCQ11",
+     "question": "A company operating in telecom services enters into the business of manufacturing of Robots. This can best be described as:",
+     "options": {
+      "A": "Backward vertical integration",
+      "B": "Co-generic diversification",
+      "C": "Conglomerate diversification",
+      "D": "Divestment"
+     },
+     "answer": "C",
+     "explanation": "In conglomerate diversification 'no linkages related to product, market or technology exist; the new businesses or products are disjointed from the existing businesses in every way' with 'no common thread at all' (SM §4.2.2.3). Robot manufacturing shares no customer group, customer function or technology with telecom services. ICAI key: (C).",
+     "why_wrong": {
+      "A": "Backward integration enters the business of input providers in the same chain.",
+      "B": "A co-generic relationship needs related production processes, markets or technologies.",
+      "D": "Divestment is a strategic exit, not an entry."
+     },
+     "trap": "Option B is attractive because 'co-generic' sounds like a halfway house; it still requires a relationship through processes, markets or technologies, and here there is none.",
+     "concept": "S04.09"
+    },
+    {
+     "id": "PYQ-J26-MCQ11",
+     "question": "Kalpanjali Dairy has decided to launch a new product line featuring vegan yogurt and organic milk in response to shifting consumer preferences. This initiative represents which type of strategic option?",
+     "options": {
+      "A": "Market Penetration",
+      "B": "Concentric Diversification",
+      "C": "Conglomerate Diversification",
+      "D": "Innovation"
+     },
+     "answer": "B",
+     "explanation": "Vegan yogurt and organic milk are linked to the existing dairy business through process, technology and marketing, and are a spin-off from existing facilities — the definition of concentric diversification, which 'takes place when the products are related' (SM §4.2.2.3). ICAI key: (B).",
+     "why_wrong": {
+      "A": "Penetration sells the existing product in the existing market without changing products in any major way.",
+      "C": "Conglomerate diversification requires no common thread at all; dairy and vegan dairy share process and marketing.",
+      "D": "Innovation is the third limb of diversification, but the question asks which type of diversification the new line represents."
+     },
+     "trap": "Option D is defensible in ordinary language — a new product line is innovative — but the study material uses 'Innovation' as a separate limb, and the examiner wants the linkage test applied.",
+     "concept": "S04.09"
+    },
+    {
+     "id": "RTP-M26-SMCQ6",
+     "question": "Rajesh Textiles Ltd., a leading fabric manufacturer, establishes MedCare Hospitals to enter the healthcare services industry, which has no technological or market linkage with its existing textile business. The management expects growth through sectoral expansion and risk spreading. This move represents which type of diversification?",
+     "options": {
+      "A": "Concentric diversification",
+      "B": "Conglomerate diversification",
+      "C": "Horizontal diversification",
+      "D": "Vertical diversification"
+     },
+     "answer": "B",
+     "explanation": "The stem states the test outright — no technological or market linkage — so this is 'a totally unrelated diversification' with 'no common thread at all with the firm's present position' (SM §4.2.2.3). The risk-spreading motive is ICAI's own 'reducing risk by operating in multiple product markets'. ICAI key: (b).",
+     "why_wrong": {
+      "A": "Concentric diversification requires linkage through process, technology or marketing.",
+      "C": "Horizontal integration acquires similar businesses at the same stage of the production-marketing chain.",
+      "D": "Vertical diversification keeps the firm in the vertically linked product-process chain."
+     },
+     "trap": "None in the stem — this is the examiner's clean statement of the conglomerate test, and ICAI's parallel example is the cement manufacturer entering steel and rubber.",
+     "concept": "S04.09"
+    },
+    {
+     "id": "RTP-S26-SMCQ1-ii",
+     "question": "Green Harvest Organics plans to establish branded farm-to-table cafés to directly serve consumers. Which growth strategy is being adopted?",
+     "options": {
+      "A": "Backward Integration",
+      "B": "Horizontal Integration",
+      "C": "Vertical Forward Integration",
+      "D": "Market Development"
+     },
+     "answer": "C",
+     "explanation": "Serving consumers directly through its own cafés is 'moving forward in the value chain and entering business lines that use existing products', which also 'takes place where organizations enter into businesses of distribution channels' (SM §4.2.2.3). ICAI key: (c).",
+     "why_wrong": {
+      "A": "Backward integration moves towards input providers — here, the farms.",
+      "B": "Horizontal integration acquires similar businesses at the same stage of the chain.",
+      "D": "Market development takes the existing product to a new market; a café is a new business, not a new market."
+     },
+     "trap": "A café does reach new customers, which tempts market development; the model answer turns on the firm entering a downstream business that uses its own produce.",
+     "concept": "S04.09"
+    },
+    {
+     "id": "RTP-M25-SMCQ3",
+     "question": "AeroGlide Inc., a global aviation company, approached Rajesh K, an Indian entrepreneur, to collaborate with his team on a next-generation aircraft manufacturing project. Their goal is to expand into South Asia, a region with a growing demand for advanced aviation technology. What strategy is AeroGlide Inc. trying to implement?",
+     "options": {
+      "A": "Market Penetration",
+      "B": "Market Development",
+      "C": "Strategic Alliance",
+      "D": "Diversification"
+     },
+     "answer": "C",
+     "explanation": "Partnering with a local business to enter a foreign market is the political advantage of a strategic alliance — formed 'with a local foreign business to gain entry into a foreign market either because of local prejudices or legal barriers to entry' — with the partners remaining independent and separate entities (SM §4.2.2.3). ICAI key: (c).",
+     "why_wrong": {
+      "A": "No existing product is being pushed harder in an existing market.",
+      "B": "Market development is what the alliance achieves; the strategy named is the alliance.",
+      "D": "Aircraft manufacturing is AeroGlide's own field, so no unrelated product is added."
+     },
+     "trap": "Identical in structure to the UN&T solar question: entering a new geography reads as market development, but the question asks what strategy is being implemented, and the vehicle is the alliance.",
+     "concept": "S04.09"
+    },
+    {
      "id": "MCQ-S04.09-01",
      "angle": "Which direction",
      "difficulty": "Moderate",

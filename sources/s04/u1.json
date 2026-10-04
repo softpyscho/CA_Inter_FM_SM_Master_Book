@@ -623,6 +623,25 @@
    ],
    "mcqs": [
     {
+     "id": "PYQ-J25-MCQ14",
+     "question": "Farm Fresh Ltd., a family-owned organic farming business, has been operating successfully over the past 10 years. Currently the company is facing stiff competition from the large farming houses. Hence, to maintain status quo, the management decided to adopt a stability strategy. Which of the following initiatives best supports Farm Fresh Ltd.'s stability strategy?",
+     "options": {
+      "A": "Develop a new range of organic produce to attract a new segment of customers",
+      "B": "Improve functional efficiency of its farm equipment to increase productivity and reduce cost of production",
+      "C": "Purchase a number of farms to increase production",
+      "D": "Add a few channels of distribution to attract customers in related market areas"
+     },
+     "answer": "B",
+     "explanation": "A stability strategy is pursued when the firm continues in the same business with the same customers and the same products, and attempts incremental improvement of its functional performance. Improving functional efficiency is exactly that. ICAI key: (B).",
+     "why_wrong": {
+      "A": "A new range for a new segment is diversification or product development, i.e. growth.",
+      "C": "Buying farms is backward integration, a form of concentric diversification.",
+      "D": "Adding channels in related market areas is market development."
+     },
+     "trap": "Every wrong option is a genuine growth strategy from this chapter; only the functional-efficiency option keeps the product-market posture unchanged, which is the test for stability.",
+     "concept": "S04.04"
+    },
+    {
      "id": "MCQ-S04.03-01",
      "angle": "Not a characteristic",
      "difficulty": "Moderate",
