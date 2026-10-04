@@ -14,7 +14,7 @@ Updated 03-10-2026. Target attempt: January 2027.
 | Builder, merge/validate, bookmark, index-link and scan scripts | Done — adapted from the Audit book for Paper 6's two sections |
 | Review PDF (front matter + both chapters) | Done — `CA_Inter_FMSM_Master_Book.pdf` |
 | FM Chapters 2–9 written and merged | Done — `book/Ch02.json` to `book/Ch09.json`; **Section A (FM) is complete**; see the progress ledger below |
-| SM Chapter 2 written and merged | Done — `book/Ch11.json` (24/24 headings, 90/90 atoms placed) |
+| SM Chapter 2 written and merged | Done — `book/Ch11.json` (24/24 headings, 91/91 atoms placed) |
 
 ## Chapter numbering used in the book
 
@@ -216,16 +216,21 @@ Topic codes: `F01.07.01` prints as "FM Ch 1 §7.1"; `S01.05.02` prints as "SM Ch
 
 `book/Ch11.json`, built from `sources/s02/u1.json` to `u8.json` and `sources/atoms/atoms_S02.json`.
 
-Merge output: 24/24 register headings covered, 90/90 official atoms placed, 19 topic blocks,
-37 official question entries, 30 official MCQ entries, 64 generated MCQs with keys
+Merge output: 24/24 register headings covered, 91/91 official atoms placed, 19 topic blocks,
+38 official question entries, 30 official MCQ entries, 64 generated MCQs with keys
 **A16 B16 C16 D16 (deviation 0.0%)**, 2 integrated cases, 13+6 chapter test, zero errors and
 zero placement warnings. Docx scan: no raw official ids, no `S02.xx` codes, no internal ids,
 no placeholder words.
 
-This is the largest SM chapter in the paper. Atom mix: 21 past-paper items, 16 RTP descriptive
+This is the largest SM chapter in the paper. Atom mix: 21 past-paper items, 17 RTP descriptive
 questions, 17 RTP MCQ items, 29 MTP descriptive questions, 7 MTP case-MCQ items.
-Heaviest headings: Porter's Five Forces (17 atoms), Competitive Landscape (15), PESTLE (10),
+Heaviest headings: Porter's Five Forces (17 atoms), Competitive Landscape (16), PESTLE (10),
 Value Chain (8), Product Life Cycle (7).
+
+One atom was added after the first merge, while scoping SM Ch 3: RTP May 2026 SM Q11 sits
+under ICAI's own "Chapter 3" label but its published answer is Strategic Group Mapping,
+described there as "an important tool of industry (competitive) environment analysis". The
+register has no strategic-group-mapping heading in Chapter 3, so it is placed at S02.23.
 
 **The mapping discovery that made SM mapping tractable:** ICAI's RTPs print their own chapter
 headings — "Chapter 2-Strategic Analysis: External Environment" — above the questions belonging
