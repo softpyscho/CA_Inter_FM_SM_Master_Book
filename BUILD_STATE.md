@@ -16,6 +16,7 @@ Updated 03-10-2026. Target attempt: January 2027.
 | FM Chapters 2–9 written and merged | Done — `book/Ch02.json` to `book/Ch09.json`; **Section A (FM) is complete**; see the progress ledger below |
 | SM Chapter 2 written and merged | Done — `book/Ch11.json` (24/24 headings, 91/91 atoms placed) |
 | SM Chapter 3 written and merged | Done — `book/Ch12.json` (14/14 headings, 77/77 atoms placed) |
+| SM Chapter 4 written and merged | Done — `book/Ch13.json` (15/15 headings, 64/64 atoms placed) |
 
 ## Chapter numbering used in the book
 
@@ -24,7 +25,7 @@ Topic codes: `F01.07.01` prints as "FM Ch 1 §7.1"; `S01.05.02` prints as "SM Ch
 
 ## Next steps (updated 04-10-2026)
 
-1. SM Ch 4–5 (15 and 18 register headings) -> `book/Ch13.json` and `book/Ch14.json`.
+1. SM Ch 5 (18 register headings) -> `book/Ch14.json`.
 2. Back-fill pass: the stray official questions listed at the end of this file (FM Ch 1, 3, 4, 5;
    SM Ch 3, 4, 5), then re-run `sources/coverage.py`.
 3. Full front matter: chapter weightage chart from the mark counts, whole-paper trends,
@@ -337,6 +338,72 @@ and Q7(b) (channels) were read directly from `sources/sa/SA-M26.txt` at lines 14
 1659–1695. The line numbers are recorded in the chapter's verification block so the quotations
 can be re-checked.
 
+## SM Ch 4 — Strategic Choices — DONE (04-10-2026)
+
+`book/Ch13.json` — 15/15 register headings, 64/64 official atoms placed, 9 topic blocks,
+28 official question entries, 15 official MCQs, 44 generated MCQs at
+`{'A': 11, 'B': 11, 'C': 11, 'D': 11}` — **0.0% deviation on the first merge**, zero errors.
+
+Block layout (`sources/s04/u1..u5.json`):
+
+| Unit | Blocks | Codes |
+| --- | --- | --- |
+| u1 | 1–3 | `S04.01 + S04.02`, `S04.03 + S04.04 + S04.05` (Stability), `S04.06 + S04.07 + S04.08` (Growth) |
+| u2 | 4 | `S04.09` — Types of Growth/Expansion, 23 atoms (the chapter's largest block) |
+| u3 | 5–6 | `S04.10` Strategic Exits (10 atoms), `S04.11 + S04.12` Strategic Options and Ansoff (11 atoms) |
+| u4 | 7–9 | `S04.13` ADL, `S04.14` BCG (10 atoms), `S04.15` GE Stop-Light |
+| u5 | — | back matter: 3 Confusing Concepts tables, 2 integrated cases, 13+6 chapter test, recall, revision, one-pager, verification (9 open items) |
+
+**The RTP chapter-label rule held exactly.** Every RTP from May 2024 to September 2026 prints
+its own chapter headings over the SM descriptive questions, and **SM questions 13 and 14 are
+Chapter 4** in all nine. Eighteen RTP questions, all on this chapter's material, with one
+exception: `RTP-S26-SQ13` sits under the "Chapter 4" label but is answered as the **Focused
+Differentiation Strategy**, which none of this chapter's fifteen headings can house — that atom
+stays in `atoms_S03.json` at `S03.14`. A labelling artefact to know about: in several RTP files
+the chapter-label line physically *follows* the question text, so `RTP-S25-SQ14` and
+`RTP-M25-SQ14` appear in the raw text under a "Chapter 5" line that belongs to the next question.
+
+**Two atoms moved in** after reading the published answers in full: `PYQ-J25-Q5c` with
+`MTP-J26-S1-SQ1c` (Organic Beverages 'Say no to Sugar' — BCG classification, post-identification
+strategies, limitations) and `PYQ-M26-Q5c` (MM Company at maturity — Stability Strategy). Both
+were on the SM Ch 3 back-fill list and are now cleared.
+
+**One atom clash resolved against this chapter.** `MTP-S25-S2-SMCQ-A-iv` appeared in both
+`atoms_S01.json` and the S04 draft; its four options are corporate / business / functional /
+network **level**, with ICAI's key (a) = corporate-level strategy, so S01 was right and the atom
+was removed from S04.
+
+**Three stems that look like Chapter 4 were excluded** after reading the answer:
+`PYQ-S24-Q5c` (M/s. Maa ki Pasand — answered as a focus strategy, SM Ch 3), `PYQ-M24-Q5a`
+(BOYA Ltd — answered with the McKinsey 7S Model, SM Ch 5) and `MTP-M24-S2` case A(iii)
+(Café Delight — marketing tactics, no named growth strategy). A fourth, `MTP-S25-S2` case A(iv)
+(Nav-Uday exporting to less competitive markets), looks like Ansoff market development but its
+published key is "Corporate-level strategy", so it stays at `S01.06`.
+
+**Two ICAI inconsistencies documented rather than smoothed over:**
+
+1. **The GE colour-zone conflict.** The study material's printed nine-cell grid places
+   *Low market attractiveness × Average business strength* in **Harvest/Divest**, which §4.4.4
+   describes as the **red** zone ("the appropriate strategy should be retrenchment, divestment
+   or liquidation"). ICAI's suggested answer to `RTP-S26-SQ14` calls the same cell the
+   **"Yellow Zone (Selective Growth/Earnings Zone)"**. Both texts are quoted verbatim in the
+   `S04.15` block, and the exam advice given is to lead with the substance both readings share —
+   selective investment if the position can be improved, otherwise harvest or divest.
+2. **Liquidation has no numbered sub-section.** The Chapter Overview diagram lists Liquidation as
+   the third strategic exit, but §4.3 numbers only *I. Turnaround* and *II. Divestment*, defining
+   liquidation in its lead-in sentence alone. It reappears in the BCG dog prescription and the
+   GE red zone. Also noted: the heading "Major Reasons for Retrenchment/Turnaround Strategy"
+   introduces a seven-item list that is really the five divestment reasons plus two more.
+
+**Extractor note.** `PYQ-S25-MCQ14` (Bio Cure, ADL) returned no candidate block from `mcqd.py`,
+so its stem and options were read directly from `sources/sa/SA-S25.txt` lines 208–220; recorded
+in the chapter's `verification.open_items` so the quotation can be re-checked.
+
+**The chapter's question profile**, for the front-matter weightage work: Ansoff's grid is the most
+repeated single question (five near-identical appearances), concentric vs conglomerate the most
+repeated distinguish (four), and BCG the most tested model (ten appearances, five of them MCQs).
+Four of the last five sittings carried a strategic-exit case at Q5.
+
 ## Back-fill list found while scoping FM Ch 7 (coverage.py, 22-09-2026)
 These official questions belong to chapters already merged and were not in their atom files. Add them in a back-fill pass after FM Ch 9:
 - MTP-J26-S2-FQ4b (meaning of cost of capital + three reasons it matters) -> FM Ch 4
@@ -371,3 +438,11 @@ Official SM questions whose published answer belongs to a chapter not yet built:
 - PYQ-J25-Q5c and MTP-J26-S1-SQ1c (Organic Beverages 'Say no to Sugar'; answered with the BCG
   growth-share matrix, the strategies after classification and the technique's limitations) -> SM Ch 4
 - PYQ-M26-Q5c (MM Company's tubeless tyre at maturity; answered as Stability Strategy) -> SM Ch 4
+
+## Back-fill list found while building SM Ch 4 (04-10-2026)
+Cleared from the SM Ch 3 list: `PYQ-J25-Q5c`, `MTP-J26-S1-SQ1c` and `PYQ-M26-Q5c` are now placed
+in `atoms_S04.json`. Still outstanding for SM Ch 5:
+- PYQ-S24-Q5a (M/s MTS Ltd — Network Organizational Structure, with merits and demerits) -> SM Ch 5 (S05.14)
+- PYQ-M24-Q5a (BOYA Ltd — answered with the **McKinsey 7S Model**) -> SM Ch 5
+- PYQ-M25-MCQ15 (key: **special alert control**) -> SM Ch 5
+- RTP-M24-SMCQ5 (a **Mendelow** MCQ found while building SM Ch 4) -> SM Ch 3 back-fill

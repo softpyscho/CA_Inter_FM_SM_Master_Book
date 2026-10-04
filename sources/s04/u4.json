@@ -1,0 +1,1001 @@
+{
+ "concepts": [
+  {
+   "code": "S04.13",
+   "title": "4.4.2 ADL Matrix",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 · RTP 1",
+   "understand": [
+    "==**The ADL matrix (derived its name from Arthur D. Little) is a portfolio analysis technique that is based on product life cycle.** **The approach forms a two-dimensional matrix based on stage of industry maturity and the firm's competitive position, environmental assessment and business strength assessment.**== Note the double description ICAI gives of the two axes — maturity *is* the environmental assessment, competitive position *is* the business strength assessment.",
+    "==**Stage of industry maturity is an environmental measure that represents a position in the industry's life cycle.** **Competitive position is a measure of business strengths that helps in categorization of products or SBUs into one of five competitive positions: ♦ dominant ♦ strong ♦ favourable ♦ tenable and ♦ weak.**==",
+    "==**It is a four by five matrix**== — **four stages of industry maturity (Embryonic, Growth, Mature, Ageing) across the top and five competitive positions (Dominant, Strong, Favourable, Tenable, Weak) down the side**, giving twenty cells. ICAI calls the figure the **Arthur D. Little Strategic Condition Matrix**.",
+    "**The five competitive positions, in ICAI's own words — this is the part every question has asked.** ==**The competitive position of a firm is based on an assessment of the following criteria:**==",
+    "==**Dominant:** **this is a comparatively rare position and in many cases is attributable either to a monopoly or a strong and protected technological leadership.**==",
+    "==**Strong:** **by virtue of this position, the firm has a considerable degree of freedom over its choice of strategies and is often able to act without its market position being unduly threatened by its competitors.**==",
+    "==**Favourable:** **this position, which generally comes about when the industry is fragmented and no one competitor stands out clearly, results in the market leaders a reasonable degree of freedom.**==",
+    "==**Tenable:** **although the firms within this category are able to perform satisfactorily and can justify staying in the industry, they are generally vulnerable in the face of increased competition from stronger and more proactive companies in the market.**==",
+    "==**Weak:** **the performance of firms in this category is generally unsatisfactory although the opportunities for improvement do exist.**==",
+    "**What the twenty cells prescribe.** The matrix does not stop at classification — each cell carries strategic actions, and the vocabulary moves predictably from aggression to exit as you go right and down. **Dominant** reads **fast grow, build barriers, act offensively, attend cost leadership, renew, defend position** across the first three stages and only in **Ageing** turns to **defend position, renew, focus, consider withdrawal**. **Strong** moves from **differentiate and fast grow** to **lower cost, focus, differentiate, grow with industry** and finally **find niche, hold niche, harvest**.",
+    "**Favourable** runs **differentiate, focus, fast grow** → **focus, differentiate, defend** → **focus, differentiate, harvest, find niche** → **hold niche, turnaround, grow with industry, hit smaller firms, harvest, turnaround** in Ageing. **Tenable** runs **grow with industry, focus** → **hold niche, turnaround, focus** → **grow with industry, withdraw, turnaround** → **hold niche, retrench, divest, retrench**. **Weak** runs **find niche, catch-up, grow with industry** → **turnaround, retrench** → **niche or withdraw, withdraw, divest** → **withdraw**.",
+    "**The pattern to carry into the exam:** ==the upper-left cells (strong position, young industry) prescribe **growth and aggression**; the lower-right cells (weak position, ageing industry) prescribe **withdrawal, divestment and retrenchment**; the middle prescribes **niche, focus, harvest and turnaround**.== This is why the chapter's retrenchment vocabulary (turnaround, retrench, divest, withdraw) reappears inside a portfolio model.",
+    "**Where ADL sits among the four models.** It is the only one of the four built on the **product life cycle**, which is why the industry-maturity axis has four named stages rather than a high/low split. BCG uses market growth rate against relative market share; GE uses market attractiveness against business strength; Ansoff uses products against markets. If a stem mentions **a maturing or ageing industry** together with a **named competitive standing**, it is an ADL question."
+   ],
+   "example": "A pioneer of low-cost diagnostic kits has proprietary technology, wide distribution and strong brand loyalty — but regulation is tightening, the industry is consolidating and growth is slowing. Competitive position: **strong** (considerable freedom of strategic choice, not unduly threatened). Industry maturity: **mature**. So the cell prescribes **lower cost, focus, differentiate, grow with industry** — which is precisely ICAI's answer in the September 2025 MCQ: a strong position in a maturing industry.",
+   "keywords": [
+    "derived its name from Arthur D. Little",
+    "portfolio analysis technique",
+    "based on product life cycle",
+    "two-dimensional matrix",
+    "stage of industry maturity",
+    "environmental assessment",
+    "business strength assessment",
+    "position in industry's life cycle",
+    "dominant, strong, favourable, tenable, weak",
+    "four by five matrix",
+    "Strategic Condition Matrix",
+    "comparatively rare position",
+    "monopoly or a strong and protected technological leadership",
+    "considerable degree of freedom over its choice of strategies",
+    "unduly threatened by its competitors",
+    "industry is fragmented and no one competitor stands out clearly",
+    "reasonable degree of freedom",
+    "perform satisfactorily and can justify staying in the industry",
+    "vulnerable in the face of increased competition",
+    "generally unsatisfactory although the opportunities for improvement do exist",
+    "embryonic, growth, mature, ageing",
+    "fast grow",
+    "build barriers",
+    "hold niche",
+    "consider withdrawal"
+   ],
+   "memory": {
+    "trick": "**D-S-F-T-W going down: Dominant, Strong, Favourable, Tenable, Weak** — 'Don't Sell Fine Tea Weakly.' Across: **E-G-M-A — Embryonic, Growth, Mature, Ageing.** 4 × 5 = 20 cells. The single sentence that distinguishes each position: Dominant = rare, monopoly or protected technology. Strong = freedom of choice, not threatened. Favourable = fragmented industry, no one stands out. Tenable = satisfactory but vulnerable. Weak = unsatisfactory but improvable.",
+    "key": [
+     [
+      "Axes",
+      "Stage of industry maturity (environmental measure) × competitive position (business strength measure)"
+     ],
+     [
+      "Size",
+      "Four by five — Embryonic, Growth, Mature, Ageing × Dominant, Strong, Favourable, Tenable, Weak"
+     ],
+     [
+      "Basis",
+      "Product life cycle — the only one of the four models built on it"
+     ],
+     [
+      "Dominant",
+      "Rare; monopoly or strong and protected technological leadership"
+     ],
+     [
+      "Weak",
+      "Performance generally unsatisfactory, though opportunities for improvement exist"
+     ]
+    ],
+    "recall_trigger": "Four maturity stages, five positions, twenty cells"
+   },
+   "mistakes": [
+    "Giving four competitive positions. There are **five** — candidates typically drop **tenable**, which is the one most often tested because it is the hardest to define.",
+    "Calling it a 5 × 5 or 4 × 4 matrix. The study material says **it is four by five**: four maturity stages, five competitive positions.",
+    "Describing the axes as market share and market growth. Those are the **BCG** axes. ADL's are **stage of industry maturity** and **competitive position**.",
+    "Defining **favourable** without the fragmentation point. ICAI's definition turns on the industry being **fragmented with no one competitor standing out clearly**.",
+    "Confusing **tenable** with **weak**. Tenable firms **perform satisfactorily and can justify staying in the industry** but are **vulnerable**; weak firms' performance is **generally unsatisfactory**.",
+    "Forgetting that ADL is built on the **product life cycle** — the sentence that explains why the maturity axis has four named stages."
+   ],
+   "links": [
+    "🔗 S04.12: ADL is the second of the four portfolio models under Strategic Options",
+    "🔗 S04.14: BCG uses market growth against relative market share instead of maturity against position",
+    "🔗 S04.15: GE uses market attractiveness against business strength — the closest cousin to ADL",
+    "🔗 S04.10: the ADL cells prescribe turnaround, retrench, divest and withdraw — the strategic exits",
+    "🔗 S02.11: the industry life cycle supplies the maturity axis"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "'Write a short note on the role of the ADL Matrix in assessing the competitive position of a firm' (RTP May 2025 Q14) — answered with the definition plus the five positions",
+     "A case MCQ placing a firm on the grid from its described standing and industry stage (PYQ Sep 2025 MCQ 14, Bio Cure)",
+     "A distinguish-style question against the BCG or GE matrix",
+     "'It is a four by five matrix' — a one-mark factual MCQ on the dimensions"
+    ],
+    "approach": [
+     "Open with the derivation and basis — Arthur D. Little, portfolio analysis based on product life cycle — then the two axes with both of ICAI's descriptions, then the five positions with their one-line definitions.",
+     "If the question says 'role in assessing the competitive position', the five positions are the answer; the twenty-cell grid is context, not the deliverable.",
+     "In a case MCQ, fix the two coordinates separately: first the industry stage from words like maturing, consolidating, slowing or declining; then the position from words like pioneer, leading, proprietary, vulnerable or unsatisfactory."
+    ],
+    "official_pattern": "ADL is the least-asked of the four models — one RTP and one MCQ in nine sittings — but it is also the cheapest to secure, because ICAI's answer is a definition plus five memorised lines.",
+    "time_tip": "A short note is worth about 4 marks: 1 minute for the definition and axes, 3 for the five positions at roughly 35 seconds each."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S04.13-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "Explain the ADL matrix. State its dimensions and the strategic vocabulary it prescribes as a firm moves from the upper-left to the lower-right of the grid.",
+     "answer_points": [
+      "**The ADL matrix (derived its name from Arthur D. Little) is a portfolio analysis technique that is based on product life cycle.** **The approach forms a two-dimensional matrix based on stage of industry maturity and the firm's competitive position, environmental assessment and business strength assessment.**",
+      "**Stage of industry maturity is an environmental measure that represents a position in the industry's life cycle**, with four stages — **Embryonic, Growth, Mature and Ageing**.",
+      "**Competitive position is a measure of business strengths that helps in categorization of products or SBUs into one of five competitive positions: dominant, strong, favourable, tenable and weak.** **It is a four by five matrix**, printed by ICAI as the **Arthur D. Little Strategic Condition Matrix**.",
+      "**Upper-left cells (strong position, young industry) prescribe growth and aggression:** for a **dominant** firm in an **embryonic** industry, **fast grow, build barriers, act offensively**; in **growth**, **fast grow, attend cost leadership, renew, defend position, act offensively**.",
+      "**Middle cells prescribe focus, niche and harvest:** a **strong** firm in a **mature** industry is told to **lower cost, focus, differentiate, grow with industry**, and in **ageing** to **find niche, hold niche, harvest**; a **favourable** firm in **ageing** is told to **hold niche, turnaround, grow with industry, hit smaller firms, harvest**.",
+      "**Lower-right cells prescribe exit:** a **tenable** firm in **ageing** is told to **hold niche, retrench, divest, retrench**; a **weak** firm in **mature** is told **niche or withdraw, withdraw, divest**, and in **ageing** simply **withdraw**.",
+      "**The reading rule:** the further right (older industry) and the further down (weaker position), the closer the prescription moves to the strategic exits of §4.3 — turnaround, retrenchment, divestment and withdrawal."
+     ],
+     "keywords": [
+      "Arthur D. Little",
+      "based on product life cycle",
+      "stage of industry maturity",
+      "competitive position",
+      "four by five matrix",
+      "fast grow",
+      "build barriers",
+      "hold niche",
+      "withdraw",
+      "divest"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "RTP-M25-SQ14",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "Write a short note on the role of the ADL Matrix in assessing the competitive position of a firm. (ICAI's own label: Chapter 4)",
+     "answer_points": [
+      "**The ADL matrix has derived its name from Arthur D. Little, which is a portfolio analysis method based on product life cycle.** **The approach forms a two-dimensional matrix based on stage of industry maturity and the firm's competitive position, environmental assessment and business strength assessment.**",
+      "**The role of the ADL matrix is to assess the competitive position of a firm based on an assessment of the following criteria:**",
+      "**Dominant:** **this is a comparatively rare position and in many cases is attributable either to a monopoly or a strong and protected technological leadership.**",
+      "**Strong:** **by virtue of this position, the firm has a considerable degree of freedom over its choice of strategies and is often able to act without its market position being unduly threatened by its competitors.**",
+      "**Favourable:** **this position, which generally comes about when the industry is fragmented and no one competitor stands out clearly, results in the market leaders a reasonable degree of freedom.**",
+      "**Tenable:** **although the firms within this category are able to perform satisfactorily and can justify staying in the industry, they are generally vulnerable in the face of increased competition from stronger and more proactive companies in the market.**",
+      "**Weak:** **the performance of firms in this category is generally unsatisfactory although the opportunities for improvement do exist.**",
+      "Note what ICAI's answer does **not** include: the twenty-cell grid. The question asks about the role in assessing *competitive position*, and the five criteria are the whole of the published answer."
+     ],
+     "keywords": [
+      "derived its name from Arthur D. Little",
+      "portfolio analysis method based on product life cycle",
+      "stage of industry maturity",
+      "environmental assessment and business strength assessment",
+      "comparatively rare position",
+      "considerable degree of freedom",
+      "industry is fragmented",
+      "perform satisfactorily",
+      "generally unsatisfactory"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "PYQ-S25-MCQ14",
+     "question": "Bio Cure is a pioneer in low-cost rapid diagnostic kits and commands strong brand loyalty in Tier-2 and Tier-3 Indian cities. The company holds a leading competitive position, thanks to its proprietary technology and wide distribution network. However, the rapid diagnostic industry is maturing, with new regulations, consolidation, and slowing growth rates. Many firms are shifting their focus to AI-powered health platforms, making it harder for traditional players to innovate without high R&D spend. Based on the ADL matrix, where is Bio Cure positioned?",
+     "options": {
+      "A": "Dominant position in a declining industry",
+      "B": "Strong position in a mature industry",
+      "C": "Tenable position in a growing industry",
+      "D": "Weak position in an ageing industry"
+     },
+     "answer": "B",
+     "explanation": "Fix the two coordinates separately. Industry maturity: 'the industry is maturing, with new regulations, consolidation, and slowing growth rates' = **Mature**. Competitive position: a leading position with proprietary technology and wide distribution, with a considerable degree of freedom over its choice of strategies, is **Strong** — not Dominant, which the study material calls 'a comparatively rare position… attributable either to a monopoly or a strong and protected technological leadership'. ICAI key: (B).",
+     "why_wrong": {
+      "A": "Dominant requires a monopoly or protected technological leadership, and the industry is maturing, not declining.",
+      "C": "Tenable firms are vulnerable and merely perform satisfactorily, and growth has slowed.",
+      "D": "Weak means generally unsatisfactory performance, which contradicts the pioneer's brand loyalty and leading position."
+     },
+     "trap": "'Pioneer' and 'proprietary technology' tempt Dominant; the study material reserves that cell for a monopoly or protected technological leadership, and here many firms are shifting to AI platforms. 'Leading competitive position' is the examiner's signal for Strong.",
+     "concept": "S04.13"
+    },
+    {
+     "id": "MCQ-S04.13-01",
+     "angle": "Dimensions",
+     "difficulty": "Easy",
+     "question": "The ADL matrix is:",
+     "options": {
+      "A": "A three by three matrix of market attractiveness against business strength",
+      "B": "A four by five matrix of industry maturity against competitive position",
+      "C": "A two by two matrix of market growth rate against relative market share",
+      "D": "A two by two matrix of products against markets"
+     },
+     "answer": "B",
+     "explanation": "SM §4.4.2: 'It is four by five matrix' — four stages of industry maturity (embryonic, growth, mature, ageing) against five competitive positions (dominant, strong, favourable, tenable, weak).",
+     "why_wrong": {
+      "A": "That is the GE nine-cell matrix.",
+      "C": "That is the BCG growth-share matrix.",
+      "D": "That is Ansoff's product market growth matrix."
+     },
+     "trap": "Every wrong option is a real model from the same section, so the dimensions must be attached to the right name.",
+     "concept": "S04.13"
+    },
+    {
+     "id": "MCQ-S04.13-02",
+     "angle": "Which position",
+     "difficulty": "Moderate",
+     "question": "\"Although the firms within this category are able to perform satisfactorily and can justify staying in the industry, they are generally vulnerable in the face of increased competition from stronger and more proactive companies.\" Which ADL competitive position is this?",
+     "options": {
+      "A": "Weak",
+      "B": "Favourable",
+      "C": "Tenable",
+      "D": "Strong"
+     },
+     "answer": "C",
+     "explanation": "This is the study material's definition of **tenable** — the fourth of the five positions, and the one candidates most often omit.",
+     "why_wrong": {
+      "A": "A weak firm's performance is **generally unsatisfactory**, though opportunities for improvement exist.",
+      "B": "A favourable position arises when the industry is fragmented and no one competitor stands out clearly.",
+      "D": "A strong firm has considerable freedom over its choice of strategies and is not unduly threatened."
+     },
+     "trap": "'Can justify staying in the industry' sounds weak; the discriminator is that performance is **satisfactory**, which rules out Weak.",
+     "concept": "S04.13"
+    },
+    {
+     "id": "MCQ-S04.13-03",
+     "angle": "What the cell prescribes",
+     "difficulty": "Difficult",
+     "question": "On the Arthur D. Little Strategic Condition Matrix, a firm in a WEAK competitive position in an AGEING industry is prescribed:",
+     "options": {
+      "A": "Find niche, catch-up, grow with industry",
+      "B": "Withdraw",
+      "C": "Hold niche, retrench, divest",
+      "D": "Turnaround, retrench"
+     },
+     "answer": "B",
+     "explanation": "The bottom-right cell of ICAI's grid carries a single prescription — **withdraw**. The grid's logic is that prescriptions move from growth and aggression in the upper left to exit in the lower right.",
+     "why_wrong": {
+      "A": "That is the weak position in an **embryonic** industry.",
+      "C": "That is the **tenable** position in an ageing industry.",
+      "D": "That is the weak position in a **growth** industry."
+     },
+     "trap": "Three of the options are genuine cells from the same row or column, so the answer depends on reading both coordinates, not one.",
+     "concept": "S04.13"
+    }
+   ],
+   "recap": [
+    "ADL = Arthur D. Little; a portfolio analysis technique based on the product life cycle.",
+    "Axes: stage of industry maturity (an environmental measure) against competitive position (a business strength measure).",
+    "Four by five: embryonic, growth, mature, ageing × dominant, strong, favourable, tenable, weak.",
+    "Dominant = rare, monopoly or protected technological leadership. Strong = freedom of strategic choice, not unduly threatened. Favourable = fragmented industry, no one stands out. Tenable = satisfactory but vulnerable. Weak = unsatisfactory but improvable.",
+    "Prescriptions run from fast grow and build barriers in the upper left to withdraw and divest in the lower right."
+   ]
+  },
+  {
+   "code": "S04.14",
+   "title": "4.4.3 Boston Consulting Group (BCG) Growth-Share Matrix · 4.4.3.1 Post-Identification Strategies",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 · RTP 2 · MTP 7",
+   "understand": [
+    "==**The BCG growth-share matrix is the simplest way to portray a corporation's portfolio of investments.** **Growth share matrix, also known for its cow and dog metaphors, is popularly used for resource allocation in a diversified company.** **Using the BCG approach, a company classifies its different businesses on a two-dimensional growth-share matrix.**==",
+    "==**The vertical axis represents market growth rate and provides a measure of market attractiveness.** **The horizontal axis represents relative market share and serves as a measure of company strength in the market.**== Mind the orientation of ICAI's own figure: **relative market share runs High on the left and low on the right**, so Stars and Cash Cows sit in the left column.",
+    "==**Using the matrix, organisations can identify four different types of products or SBU:** high growth × high share = **Stars**; high growth × low share = **Question Marks**; low growth × high share = **Cash Cows**; low growth × low share = **Dogs**.==",
+    "==**Stars** are **products or SBUs that are growing rapidly**. **They also need heavy investment to maintain their position and finance their rapid growth potential.** **They represent best opportunities for expansion.**==",
+    "==**Cash Cows** are **low-growth, high market share businesses or products**. **They generate cash and have low costs.** **They are established, successful, and need less investment to maintain their market share.** **In the long run, when the growth rate slows down, stars become cash cows.**==",
+    "==**Question Marks**, **sometimes called problem children or wildcats**, are **low market share businesses in high-growth markets**. **They require a lot of cash to hold their share.** **They need heavy investments with low potential to generate cash.** **Question marks if left unattended are capable of becoming cash traps.** **Since growth rate is high, increasing it should be relatively easier** — **it is for business organisations to turn them into stars and then to cash cows when the growth rate reduces.**==",
+    "==**Dogs** are **low-growth, low-share businesses and products**. **They may generate enough cash to maintain themselves, but do not have much future.** **Sometimes they may need cash to survive.** **Dogs should be minimised by means of divestment or liquidation.**==",
+    "**The life-cycle story inside the matrix** — worth one line in every BCG answer: a **question mark** in a high-growth market is turned into a **star** by investment; when growth slows the star becomes a **cash cow**; a product that never gains share and then loses growth becomes a **dog**. ICAI's own sentences carry both transitions.",
+    "**§4.4.3.1 BCG Matrix: Post Identification Strategies.** ==**After a firm has classified its products or SBUs, it must determine what role each will play in the future. The four strategies that can be pursued are:** **1. Build** — **here the objective is to increase market share, even by forgoing short-term earnings in favour of building a strong future with large market share**. **2. Hold** — **here the objective is to preserve market share**. **3. Harvest** — **here the objective is to increase short-term cash flow regardless of long-term effect**. **4. Divest** — **here the objective is to sell or liquidate the business because resources can be better used elsewhere**.==",
+    "**Which strategy for which box — as ICAI itself has answered it.** In its RTP May 2026 answer: ==**Stars may follow the Build strategy**; **a strategic alternative advocated for cash cows is Harvest**; **a strategic option for question marks is Hold, for which they need heavy investments**; **the relevant strategy for dogs is Divest**.== Learn that mapping, because the four strategies and the four boxes are examined together.",
+    "**ICAI's own box: is the BCG matrix really helpful?** ==**The growth-share matrix has done much to help strategic planning; however, there are some problems and limitations with the technique.** **BCG matrix can be difficult, time-consuming, and costly to implement.** **Management may find it difficult to define SBUs and measure market share and growth.** **It also focuses on classifying current businesses but provides little advice for future planning.** **They can lead the company to placing too much emphasis on market-share growth or growth through entry into attractive new markets.** **This can cause unwise expansion into hot, new, risky ventures or divesting established units too quickly.**==",
+    "**ICAI's own worked example — star or cash cow?** SO Pharma's 'COUFIX' cures cough in three hours, cost ₹80 crore in R&D, **needs a lot of marketing spend to create awareness and funds to get licences from the regulators**, and has **gained 60% market share within six months and been profitable since day one**. ICAI's answer: ==**It is a Star.** Stars are products or SBUs that are growing rapidly; they also need heavy investment to maintain their position and finance their rapid growth potential; they represent the best opportunities for expansion. **Just one parameter of market share cannot define the status of an SBU — it should be categorised on the basis of the inherent characteristics**, and hence Coufix has more representation as a Star.== The last sentence is the rule for every BCG case: high share alone does not make a cash cow; the **need for heavy investment** marks a star.",
+    "**Why the matrix is used at all.** It is **popularly used for resource allocation in a diversified company**, which ties back to §4.4's advantage of the portfolio approach — **resources could be channelised at the corporate level to those businesses that possess the greatest potential**. The practical reading: cash cows fund the question marks and stars."
+   ],
+   "example": "A soft-drink maker's new sugar-free beverage has absorbed heavy R&D, marketing and licensing spend, has taken a major and rapidly growing share in five months, is already more profitable than the rest, and now needs heavy investment to hold its position in current and new markets. Growth high, share high, cash hungry — a **Star**, and ICAI said so for 'Say no to Sugar'. Its proper strategy is **Build**, with **Hold** as the fallback; **Harvest** contradicts a star's growth objective and **Divest** is absurd for the firm's best expansion opportunity.",
+   "keywords": [
+    "simplest way to portray a corporation's portfolio of investments",
+    "cow and dog metaphors",
+    "resource allocation in a diversified company",
+    "vertical axis represents market growth rate",
+    "measure of market attractiveness",
+    "horizontal axis represents relative market share",
+    "measure of company strength in the market",
+    "growing rapidly",
+    "heavy investment to maintain their position",
+    "best opportunities for expansion",
+    "low-growth, high market share",
+    "generate cash and have low costs",
+    "established, successful",
+    "stars become cash cows",
+    "problem children or wildcats",
+    "low market share business in high-growth markets",
+    "a lot of cash to hold their share",
+    "cash traps",
+    "turn them stars and then to cash cows",
+    "do not have much future",
+    "minimised by means of divestment or liquidation",
+    "Build",
+    "forgoing short-term earnings",
+    "Hold",
+    "preserve market share",
+    "Harvest",
+    "short-term cash flow regardless of long-term effect",
+    "Divest",
+    "resources can be better used elsewhere",
+    "difficult, time-consuming, and costly to implement",
+    "difficult to define SBUs",
+    "little advice for future planning",
+    "unwise expansion into hot, new, risky ventures",
+    "divesting established units too quickly",
+    "inherent characteristics"
+   ],
+   "memory": {
+    "trick": "**Growth down the side, Share across the top — and share runs High on the LEFT.** High-high = Star; high growth but low share = Question Mark; low growth but high share = Cash Cow; low-low = Dog. Strategies: **Build the Star, Hold the Question Mark, Harvest the Cash Cow, Divest the Dog** — B-H-H-D. The cash story: cows feed the question marks; question marks become stars; stars become cows; failures become dogs.",
+    "key": [
+     [
+      "Axes",
+      "Vertical = market growth rate (market attractiveness) · Horizontal = relative market share (company strength)"
+     ],
+     [
+      "Star",
+      "Growing rapidly; needs heavy investment; best opportunity for expansion → Build"
+     ],
+     [
+      "Cash Cow",
+      "Low growth, high share; generates cash, low costs, needs less investment → Harvest"
+     ],
+     [
+      "Question Mark",
+      "Low share in high-growth market; problem children or wildcats; capable of becoming cash traps → Hold"
+     ],
+     [
+      "Dog",
+      "Low growth, low share; no future; minimise by divestment or liquidation → Divest"
+     ],
+     [
+      "Limitations",
+      "Difficult/costly · hard to define SBUs and measure share · classifies the present, little future advice · over-emphasis on share growth → unwise expansion or premature divestment"
+     ]
+    ],
+    "recall_trigger": "Build the Star, Hold the Question, Harvest the Cow, Divest the Dog"
+   },
+   "mistakes": [
+    "Calling a high-share product a cash cow because of the share alone. ICAI's own box says **just one parameter of market share cannot define the status of an SBU — it should be categorised on the basis of the inherent characteristics**. A product that still needs heavy investment in a growing market is a **Star**.",
+    "Describing Question Marks as high-share businesses. They are **low market share businesses in high-growth markets** — the share is what is missing.",
+    "Forgetting the alternative names. Question marks are **sometimes called problem children or wildcats**, and the matrix itself is **known for its cow and dog metaphors**.",
+    "Giving the four boxes but not the four post-identification strategies when the question asks for 'the strategies which can be pursued post identification'. Build, Hold, Harvest and Divest carry their own marks — in PYQ Jan 2025 Q5(c) they were worth 2 of the 5.",
+    "Omitting the limitations when asked. ICAI's own five limitations are difficulty and cost, subjectivity in defining SBUs and measuring share, focus on the present with little future advice, over-emphasis on share growth, and the resulting unwise expansion or premature divestment.",
+    "Mis-drawing the grid. In ICAI's figure **relative market share is High on the left and low on the right**, so Stars sit top-left and Question Marks top-right."
+   ],
+   "links": [
+    "🔗 S04.15: the GE matrix replaces market growth with market attractiveness and market share with business strength",
+    "🔗 S04.13: ADL classifies by industry maturity and competitive position instead",
+    "🔗 S04.10: divestment and liquidation are the prescriptions for dogs",
+    "🔗 S04.12: the portfolio approach channelises resources to the businesses with the greatest potential",
+    "🔗 S02.11: the growth-rate axis is the industry life-cycle stage in another form"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "'Explain the strategic implications of each of the following types of business in a corporate portfolio: Stars, Question Marks, Cash Cows, Dogs' (RTP May 2026 Q14, MTP Jan 2025 S2 Q4(b))",
+     "A case requiring classification + post-identification strategies + limitations, split 1 + 2 + 2 (PYQ Jan 2025 Q5(c), MTP Jan 2026 S1 Q1(c))",
+     "A portfolio of four divisions, asking which is the Star (RTP Mar 2024 Q13)",
+     "Case MCQs on a single box — LED TVs with high share in a fast-growing segment, laser printers with high share in a slow-growing market, a new innovative product in a rapidly growing market, which product funds the new investment (five MCQs across MTP Mar 2024 S1, MTP Sep 2025 S1 and S2, MTP May 2026 S1, MTP Jan 2026 S2)"
+    ],
+    "approach": [
+     "Classify first, in one line, with the two coordinates named — growth rate and relative market share. Then define the box in ICAI's words. Then give the strategy. Then, if asked, the limitations.",
+     "In a classification case, say why the *other* boxes do not fit; ICAI's 'Say no to Sugar' answer explicitly rejects Harvest and Divest as unsuitable for a Star.",
+     "For 'strategic implications of each type', pair every box with its strategy — Build for Stars, Hold for Question Marks, Harvest for Cash Cows, Divest for Dogs — because that is how ICAI's published answer is written."
+    ],
+    "official_pattern": "BCG is the most-tested model in the chapter — ten official appearances, five of them MCQs built on the same two coordinates. The MCQs are decided by two adjectives in the stem: one about growth, one about share.",
+    "time_tip": "A 1 + 2 + 2 case: 1 minute to classify with reasons, 2.5 minutes for the four strategies, 2.5 for the limitations, with 1 minute to close."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S04.14-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "Explain the four post-identification strategies of the BCG matrix, and state which box each is normally advocated for.",
+     "answer_points": [
+      "**After a firm has classified its products or SBUs, it must determine what role each will play in the future.** The four strategies that can be pursued are Build, Hold, Harvest and Divest.",
+      "**Build:** **here the objective is to increase market share, even by forgoing short-term earnings in favour of building a strong future with large market share.** **Stars may follow the Build strategy** — they are growing rapidly, **need heavy investment to maintain their position and finance their rapid growth potential**, and **represent the best opportunities for expansion**.",
+      "**Hold:** **here the objective is to preserve market share.** **A strategic option for question marks is Hold, for which they need heavy investments** — they are **low market share businesses in high-growth markets** that **require a lot of cash to hold their share**, and **if left unattended are capable of becoming cash traps**.",
+      "**Harvest:** **here the objective is to increase short-term cash flow regardless of long-term effect.** **A strategic alternative advocated for cash cows is Harvest** — they are **low-growth, high market share businesses that generate cash, have low costs, are established and successful, and need less investment to maintain their market share**.",
+      "**Divest:** **here the objective is to sell or liquidate the business because resources can be better used elsewhere.** **The relevant strategy for dogs is Divest** — they are **low-growth, low-share businesses that may generate enough cash to maintain themselves but do not have much future**, and **should be minimised by means of divestment or liquidation**.",
+      "**A caution to add:** the mapping is normal, not mechanical. ICAI's own answer on 'Say no to Sugar' rejected **Harvest** for a Star because it **prioritises short-term cash flow over long-term growth, which contradicts the objectives for a Star**, and rejected **Divest** because **Stars represent the best opportunities for expansion**."
+     ],
+     "keywords": [
+      "increase market share, even by forgoing short-term earnings",
+      "preserve market share",
+      "short-term cash flow regardless of long-term effect",
+      "sell or liquidate the business",
+      "resources can be better used elsewhere",
+      "Stars may follow the Build strategy",
+      "advocated for cash cows is Harvest",
+      "option for question marks is Hold",
+      "relevant strategy for dogs is Divest"
+     ]
+    },
+    {
+     "id": "EQ-S04.14-2",
+     "form": "Evaluate (5 marks)",
+     "marks": 5,
+     "question": "\"The BCG matrix is a simple and therefore an unreliable guide to portfolio decisions.\" Evaluate, stating the limitations ICAI itself records.",
+     "answer_points": [
+      "**A balanced position:** **the growth-share matrix has done much to help strategic planning; however, there are some problems and limitations with the technique.** It remains **the simplest way to portray a corporation's portfolio of investments** and is **popularly used for resource allocation in a diversified company**.",
+      "**Limitation — complexity and cost:** **BCG matrix can be difficult, time-consuming, and costly to implement.**",
+      "**Limitation — subjectivity:** **management may find it difficult to define SBUs and measure market share and growth.**",
+      "**Limitation — focus on the present:** **it also focuses on classifying current businesses but provides little advice for future planning.**",
+      "**Limitation — over-emphasis on share growth:** **they can lead the company to placing too much emphasis on market-share growth or growth through entry into attractive new markets**, which **can cause unwise expansion into hot, new, risky ventures or divesting established units too quickly**.",
+      "**Limitation — two parameters only:** ICAI's own worked example adds that **just one parameter of market share cannot define the status of an SBU — it should be categorised on the basis of the inherent characteristics**; a model with two axes cannot capture those characteristics by itself.",
+      "**Conclusion:** **while the BCG matrix provides a simplified framework for portfolio analysis, it should be used alongside other strategic tools** — the ADL matrix, the GE matrix and Ansoff's grid — **for balanced decision-making**."
+     ],
+     "keywords": [
+      "has done much to help strategic planning",
+      "difficult, time-consuming, and costly",
+      "difficult to define SBUs",
+      "little advice for future planning",
+      "too much emphasis on market-share growth",
+      "unwise expansion into hot, new, risky ventures",
+      "divesting established units too quickly",
+      "used alongside other strategic tools"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "RTP-M26-SQ14",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "Explain the strategic implications of each of the following types of business in a corporate portfolio: (a) Stars, (b) Question Marks, (c) Cash Cows, (d) Dogs. (ICAI's own label: Chapter 4)",
+     "answer_points": [
+      "**In the BCG growth-share matrix, a portfolio of investments is represented in two-dimensional space. The vertical axis represents market growth rate, and the horizontal axis represents relative market share.** The strategic implications for the various business types are as follows.",
+      "**Stars** are **products or businesses that are growing rapidly and are the best opportunity for expansion**. **Stars may follow the Build strategy.** **They need heavy investments to maintain their position and finance their rapid growth potential.**",
+      "**Cash Cows** are **low-growth, high market share businesses or products**. **They generate cash and have low costs.** **They are established, successful, and need less investment to maintain their market share.** **A strategic alternative advocated for cash cows is Harvest.**",
+      "**Question Marks** are **low market share businesses in high-growth markets**. **A strategic option for them is Hold, for which they need heavy investments.** **Question marks if left unattended are capable of becoming cash traps.**",
+      "**Dogs** are **low-growth, low-share businesses and products**. **The relevant strategy is Divest.** **Dogs may generate enough cash to maintain themselves, but do not have much future.** **Dogs should be minimized by means of divestment or liquidation.**",
+      "**What makes this answer full-marks:** every box is paired with its post-identification strategy. A classification-only answer loses the strategy marks, and that pairing — Build, Harvest, Hold, Divest — is ICAI's own.",
+      "Add, if space allows, the life-cycle transitions ICAI states elsewhere: **in the long run when the growth rate slows down, stars become cash cows**, and **it is for business organisations to turn question marks into stars and then to cash cows when the growth rate reduces**."
+     ],
+     "keywords": [
+      "two-dimensional space",
+      "vertical axis represents market growth rate",
+      "relative market share",
+      "best opportunity for expansion",
+      "Build strategy",
+      "advocated for cash cows is Harvest",
+      "Hold",
+      "cash traps",
+      "relevant strategy is Divest",
+      "minimized by means of divestment or liquidation"
+     ],
+     "also_asked_as": [
+      "MTP-J25-S2-SQ4b asks the identical question with the same published answer."
+     ]
+    },
+    {
+     "id": "PYQ-J25-Q5c",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Organic Beverages has been manufacturing various soft drinks for over a decade. It has developed a sugar-free beverage to cater to the needs of specific customers by spending heavily on research and development, and a lot of money was spent on marketing (branded as 'Say no to Sugar') and in obtaining a licence for it. In a span of five months the company has gained a major share in the market for this new product and it is growing rapidly; profitability of this product is also better. In order to take advantage of the best opportunity for expansion, it has to make heavy investment to maintain its position in current and new markets. Classify 'Say no to Sugar' in the most related category in the two-dimensional growth-share matrix as per the Boston Consulting Group. Explain the strategies which can be pursued post identification and classification of products in such a matrix. Also state the limitations of this technique as one of the strategic options. (1 + 2 + 2 = 5 Marks)",
+     "answer_points": [
+      "**The 'Say No to Sugar' product by Organic Beverages can be classified as a Star in the BCG Growth-Share Matrix.** **This classification is due to the product's rapid market growth and the company's strong market share achieved within a short span of five months.** **Additionally, the product requires heavy investment to maintain its market position and expand further, which aligns with the characteristics of a Star.**",
+      "**Build Strategy:** **increase market share through sustained investments in marketing, distribution, and product development.** **This ensures the product remains competitive and capitalizes on its growth potential.**",
+      "**Hold Strategy:** **focus on maintaining the current market share and profitability by optimizing resources and sustaining brand reputation.**",
+      "**Harvest Strategy:** **this strategy is not suitable for Stars as it prioritizes short-term cash flow over long-term growth, which contradicts the objectives for a Star.**",
+      "**Divest Strategy:** **selling or liquidating the product is unsuitable here, as Stars represent the best opportunities for expansion.**",
+      "**Limitations — Complexity and Cost:** **the matrix can be difficult, time-consuming, and costly to implement.** **Subjectivity:** **defining SBUs and measuring market share or growth can be challenging and subjective.** **Focus on Present:** **it emphasizes current business scenarios but provides limited guidance for future strategic planning.** **Overemphasis on Growth:** **this may lead to unwise investments in high-growth markets or premature divestment of established products.**",
+      "**Conclusion:** **while the BCG matrix provides a simplified framework for portfolio analysis, it should be used alongside other strategic tools for balanced decision-making.**",
+      "**Note the mark split:** 1 for the classification, 2 for all four strategies — including the two ICAI rejects, with reasons — and 2 for the limitations. Listing only the two suitable strategies forfeits half of the middle block."
+     ],
+     "keywords": [
+      "classified as a Star",
+      "rapid market growth",
+      "strong market share achieved within a short span",
+      "requires heavy investment",
+      "Build Strategy",
+      "Hold Strategy",
+      "not suitable for Stars",
+      "best opportunities for expansion",
+      "Complexity and Cost",
+      "Subjectivity",
+      "Focus on Present",
+      "Overemphasis on Growth"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "MTP-J26-S1-SQ1c repeats the Organic Beverages case word for word with the same published answer — classification, the four post-identification strategies and the limitations."
+     ]
+    },
+    {
+     "id": "RTP-M24-SQ13",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "XYZ Corporation is a multinational conglomerate operating in various industries. They have a diverse portfolio of businesses, including a leading consumer electronics division, a growing e-commerce platform, a mature industrial machinery division, and a newly established software development unit. Which division of XYZ Corporation would most likely be classified as a \"Star\" in the BCG Growth-Share Matrix? (ICAI's own label: Chapter 4)",
+     "answer_points": [
+      "**In the BCG Growth-Share Matrix, divisions or business units are classified into four categories: Stars, Cash Cows, Question Marks, and Dogs. These classifications are based on a combination of market share and market growth rate.**",
+      "**A \"Star\" in the BCG Matrix represents a business unit with a high market share in a high-growth market.**",
+      "**In the scenario, the newly established software development unit would be classified as a \"Star.\"** **The software development unit is described as \"newly established,\" suggesting that it is operating in a high-growth market.** **Additionally, the potential for high market share can be inferred if the unit is strategically positioned to become a leader in the software development industry.**",
+      "**Stars typically require significant investment to fuel their growth, but they have the potential to become future Cash Cows as the market matures.** **Therefore, the software development unit's high growth potential and the opportunity to capture a substantial market share align with the characteristics of a BCG Matrix \"Star.\"**",
+      "**The contrast with the other three divisions** is what earns the marks: the **mature industrial machinery division** points to a **Cash Cow** (low growth, high share, generating cash with low costs); the **leading consumer electronics division** is also a mature high-share business; and a **growing e-commerce platform** without a stated share reads as a **Question Mark** until its share is established.",
+      "Note that ICAI is candid about the inference — the share **can be inferred** rather than being stated — which is a reminder that BCG cases are decided on the two coordinates and that a missing coordinate must be reasoned, and the reasoning shown."
+     ],
+     "keywords": [
+      "four categories",
+      "combination of market share and market growth rate",
+      "high market share in a high-growth market",
+      "newly established software development unit",
+      "significant investment to fuel their growth",
+      "future Cash Cows as the market matures"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MTP-M26-S1-SMCQ-B-i",
+     "question": "Bright Screens' LED TV division has high market share in a fast-growing electronics segment. It invests heavily in advertising and R&D to stay ahead of competitors. How should this division be classified in the BCG Matrix?",
+     "options": {
+      "A": "Dog",
+      "B": "Star",
+      "C": "Cash Cow",
+      "D": "Question Mark"
+     },
+     "answer": "B",
+     "explanation": "High growth plus high relative market share is a Star — 'products or SBUs that are growing rapidly… they also need heavy investment to maintain their position and finance their rapid growth potential' (SM §4.4.3). The heavy advertising and R&D spend confirms it. ICAI key: (b).",
+     "why_wrong": {
+      "A": "A Dog is low growth and low share.",
+      "C": "A Cash Cow is in a **slow-growing** market and needs **less** investment.",
+      "D": "A Question Mark has **low** market share."
+     },
+     "trap": "'Invests heavily' can suggest a cash-hungry Question Mark; the share is high, so it is a Star.",
+     "concept": "S04.14"
+    },
+    {
+     "id": "MTP-S25-S1-SMCQ-B-ii",
+     "question": "PrintPro's laser printer division has stable revenue and a high market share, but operates in a slow-growing market. It generates steady cash with minimal investment needs. Where does this division fall in the BCG Matrix?",
+     "options": {
+      "A": "Dog",
+      "B": "Question Mark",
+      "C": "Star",
+      "D": "Cash Cow"
+     },
+     "answer": "D",
+     "explanation": "'Cash Cows are low-growth, high market share businesses or products. They generate cash and have low costs. They are established, successful, and need less investment to maintain their market share' (SM §4.4.3) — every clause of the stem matches. ICAI key: (d).",
+     "why_wrong": {
+      "A": "A Dog has **low** market share and does not generate steady surplus cash.",
+      "B": "A Question Mark has low share in a **high**-growth market and consumes cash.",
+      "C": "A Star is in a **high**-growth market and needs heavy investment."
+     },
+     "trap": "This is the clean case: all three distinguishing facts — high share, slow growth, minimal investment need — point one way. Contrast ICAI's COUFIX box, where high share alone did **not** make a cash cow.",
+     "concept": "S04.14"
+    },
+    {
+     "id": "MTP-M24-S1-SMCQ-B-i",
+     "question": "TechMex Inc., a leading technology company, offers a diverse portfolio of products ranging from established cash cows to promising question marks. As part of its strategic planning process, the company aims to assess its product portfolio's performance and allocate resources effectively. In which quadrant of the BCG Matrix would TechMex's new innovative product, recently launched in a rapidly growing market, likely fall into?",
+     "options": {
+      "A": "Cash Cow",
+      "B": "Dog",
+      "C": "Question Mark",
+      "D": "Star"
+     },
+     "answer": "C",
+     "explanation": "A newly launched product in a rapidly growing market has high growth but has not yet built share, so it is a Question Mark — 'low market share business in high-growth markets… they require a lot of cash to hold their share' (SM §4.4.3). ICAI key: (c).",
+     "why_wrong": {
+      "A": "A Cash Cow is established in a low-growth market.",
+      "B": "A Dog is low growth and low share.",
+      "D": "A Star needs **high** share as well as high growth; a product just launched has not achieved it."
+     },
+     "trap": "Star is the tempting answer because the market is growing fast. The discriminator is time: 'recently launched' means share is still low. Compare 'Say no to Sugar', where ICAI said Star **because** a major share had already been gained in five months.",
+     "concept": "S04.14"
+    },
+    {
+     "id": "MTP-S25-S2-SMCQ-B-i",
+     "question": "GreenSprout Organics, a sustainable agriculture company, offers a range of eco-friendly farming products. Its portfolio includes mature products generating steady cash flow and several new offerings with high growth potential. Recently, GreenSprout launched a cutting-edge organic bio-fertilizer in a rapidly expanding market. In which quadrant of the BCG Matrix would this new product most likely be placed?",
+     "options": {
+      "A": "Cash Cow",
+      "B": "Dog",
+      "C": "Question Mark",
+      "D": "Star"
+     },
+     "answer": "C",
+     "explanation": "Same structure as the TechMex item: high market growth, share not yet established, heavy cash requirement to hold share — a Question Mark, which 'if left unattended [is] capable of becoming a cash trap'. ICAI key: (c).",
+     "why_wrong": {
+      "A": "The mature products generating steady cash flow are the Cash Cows; the new launch is not.",
+      "B": "A Dog is in a low-growth market with low share.",
+      "D": "A Star requires high relative market share, which a just-launched product lacks."
+     },
+     "trap": "The stem deliberately mentions the firm's mature cash-generating products so that the candidate has the other box in mind; the question asks only about the new launch.",
+     "concept": "S04.14"
+    },
+    {
+     "id": "MTP-J26-S2-SMCQ-A-iii",
+     "question": "Which product in Titan Tech's portfolio is most likely funding the company's investment in AI-driven analytics?",
+     "options": {
+      "A": "BizEase",
+      "B": "The legacy ERP product",
+      "C": "The failed project management tool",
+      "D": "AI-driven analytics offerings"
+     },
+     "answer": "B",
+     "explanation": "The funding question is the Cash Cow question. Cash Cows are 'low-growth, high market share businesses or products. They generate cash and have low costs… need less investment to maintain their market share' — the legacy ERP product. ICAI key: (b).",
+     "why_wrong": {
+      "A": "A newer growth product consumes cash rather than supplying it.",
+      "C": "A failed product is a Dog, which 'may generate enough cash to maintain [itself], but do not have much future'.",
+      "D": "The AI offering is the investment being funded, not the source of funds."
+     },
+     "trap": "The word 'legacy' sounds like a Dog; a legacy product with high share in a slow-growing market is the classic Cash Cow, and the cash it throws off funds the question marks and stars.",
+     "concept": "S04.14"
+    },
+    {
+     "id": "MCQ-S04.14-01",
+     "angle": "ICAI's own box",
+     "difficulty": "Difficult",
+     "question": "SO Pharma's 'COUFIX' needs a lot of marketing spend to create awareness and funds to obtain regulatory licences, yet has gained 60% market share within six months of launch and has been profitable since day one. Per the study material's own illustration, COUFIX is:",
+     "options": {
+      "A": "A Cash Cow, because a 60% market share with profitability from day one is the definition of a cash-generating business",
+      "B": "A Question Mark, because it still needs heavy marketing and licensing spend",
+      "C": "A Star, because it is growing rapidly and needs heavy investment to maintain its position and finance its growth potential",
+      "D": "Neither, because the matrix cannot classify a product less than a year old"
+     },
+     "answer": "C",
+     "explanation": "ICAI's box answers 'It is a Star', adding that 'just one parameter of market share cannot define the status of an SBU, it should be categorised basis the inherent characteristics'. The continuing need for heavy investment is the inherent characteristic of a Star.",
+     "why_wrong": {
+      "A": "High share alone does not make a cash cow — the study material rejects exactly this reasoning.",
+      "B": "A Question Mark has **low** market share; COUFIX has 60%.",
+      "D": "The matrix classifies on growth and share, with no minimum age."
+     },
+     "trap": "Option A is the reasoning ICAI wrote the box to refute, and it is the error most candidates make.",
+     "concept": "S04.14"
+    },
+    {
+     "id": "MCQ-S04.14-02",
+     "angle": "Which strategy",
+     "difficulty": "Moderate",
+     "question": "\"Here the objective is to increase short-term cash flow regardless of long-term effect.\" Which post-identification BCG strategy is this, and for which box is it normally advocated?",
+     "options": {
+      "A": "Build — for Stars",
+      "B": "Harvest — for Cash Cows",
+      "C": "Hold — for Question Marks",
+      "D": "Divest — for Dogs"
+     },
+     "answer": "B",
+     "explanation": "SM §4.4.3.1 defines Harvest in exactly those words, and ICAI's RTP May 2026 answer states that 'a strategic alternative advocated for cash cows is Harvest'.",
+     "why_wrong": {
+      "A": "Build is to increase market share, even by forgoing short-term earnings.",
+      "C": "Hold is to preserve market share.",
+      "D": "Divest is to sell or liquidate because resources can be better used elsewhere."
+     },
+     "trap": "Harvest and Divest both sound like withdrawal; Harvest keeps the business and milks it, Divest exits it.",
+     "concept": "S04.14"
+    },
+    {
+     "id": "MCQ-S04.14-03",
+     "angle": "Alternative names",
+     "difficulty": "Easy",
+     "question": "In the BCG matrix, which category is \"sometimes called problem children or wildcats\"?",
+     "options": {
+      "A": "Dogs",
+      "B": "Question Marks",
+      "C": "Cash Cows",
+      "D": "Stars"
+     },
+     "answer": "B",
+     "explanation": "SM §4.4.3: 'Question Marks, sometimes called problem children or wildcats, are low market share business in high-growth markets.'",
+     "why_wrong": {
+      "A": "Dogs have no alternative name in the study material; the matrix as a whole is 'known for its cow and dog metaphors'.",
+      "C": "Cash Cows are named for the metaphor itself.",
+      "D": "Stars carry no alternative name."
+     },
+     "trap": "An easy mark that is lost only by not having read the parenthesis.",
+     "concept": "S04.14"
+    },
+    {
+     "id": "MCQ-S04.14-04",
+     "angle": "Limitation",
+     "difficulty": "Moderate",
+     "question": "Which of the following is a limitation of the BCG matrix recorded in the study material?",
+     "options": {
+      "A": "It requires a four-by-five grid, which is too detailed for most firms",
+      "B": "It ignores relative market share, concentrating only on market growth",
+      "C": "It focuses on classifying current businesses but provides little advice for future planning",
+      "D": "It cannot be used in a diversified company"
+     },
+     "answer": "C",
+     "explanation": "This is one of the five limitations in ICAI's 'Is BCG Matrix really helpful?' box, alongside difficulty and cost, the trouble of defining SBUs and measuring share and growth, over-emphasis on share growth, and the resulting unwise expansion or premature divestment.",
+     "why_wrong": {
+      "A": "The four-by-five grid is the ADL matrix; BCG is a two-by-two.",
+      "B": "Relative market share is the horizontal axis of the matrix.",
+      "D": "It is 'popularly used for resource allocation in a diversified company' — its principal use."
+     },
+     "trap": "Option D inverts the matrix's stated purpose, and option A borrows ADL's dimensions.",
+     "concept": "S04.14"
+    },
+    {
+     "id": "MCQ-S04.14-05",
+     "angle": "The transitions",
+     "difficulty": "Moderate",
+     "question": "As per the study material, what happens to a Star in the long run?",
+     "options": {
+      "A": "It becomes a Question Mark, because competitors enter the high-growth market",
+      "B": "It becomes a Dog once the heavy investment stops",
+      "C": "It remains a Star, since stars represent the best opportunities for expansion",
+      "D": "It becomes a Cash Cow when the growth rate slows down"
+     },
+     "answer": "D",
+     "explanation": "SM §4.4.3, under Cash Cows: 'In long run when the growth rate slows down, stars become cash cows.' The companion sentence under Question Marks completes the cycle — organisations should 'turn them stars and then to cash cows when the growth rate reduces'.",
+     "why_wrong": {
+      "A": "A fall in share, not in growth, would move a Star rightwards; the study material's stated transition is downwards.",
+      "B": "A Dog is low growth **and** low share; a Star that keeps its share becomes a Cash Cow.",
+      "C": "Stars are the best expansion opportunity, but market growth does not last for ever."
+     },
+     "trap": "Option C quotes a true sentence about Stars to support a false conclusion about their future.",
+     "concept": "S04.14"
+    }
+   ],
+   "recap": [
+    "BCG: vertical axis = market growth rate (market attractiveness); horizontal axis = relative market share (company strength), High on the left.",
+    "Stars: rapid growth, high share, need heavy investment, best opportunity for expansion → Build.",
+    "Cash Cows: low growth, high share, generate cash with low costs, need less investment → Harvest. Stars become cash cows when growth slows.",
+    "Question Marks (problem children or wildcats): low share in high-growth markets, need a lot of cash, can become cash traps → Hold; turn them into stars, then cash cows.",
+    "Dogs: low growth, low share, no future → Divest; minimise by divestment or liquidation.",
+    "Limitations: difficult, time-consuming and costly; hard to define SBUs and measure share and growth; classifies the present with little future advice; over-emphasis on share growth causing unwise expansion or premature divestment."
+   ]
+  },
+  {
+   "code": "S04.15",
+   "title": "4.4.4 General Electric Matrix [\"Stop-Light\" Strategy Model]",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "RTP 2",
+   "understand": [
+    "==**This model has been used by General Electric Company (developed by GE with the assistance of the consulting firm McKinsey and Company).** **This model is also known as Business Planning Matrix, GE Nine-Cell Matrix and GE Model.**== Four names for one model, and ICAI has used three of them in question stems — learn all of them.",
+    "==**The strategic planning approach in this model has been inspired from traffic control lights.** **The lights that are used at crossings to manage traffic are: green for go, amber or yellow for caution, and red for stop.** **This model uses two factors while taking strategic decisions: Business Strength and Market Attractiveness.**==",
+    "==**The vertical axis indicates market attractiveness, and the horizontal axis shows the business strength in the industry.**== Each axis is split three ways — **market attractiveness High / Medium / Low** and **business strength Strong / Average / Weak** — giving the **nine cells** that name the model.",
+    "**The eleven drivers of market attractiveness.** ==**♦ Size of the market ♦ Market growth rate ♦ Industry profitability ♦ Competitive intensity ♦ Availability of technology ♦ Pricing trends ♦ Overall risk of returns in the industry ♦ Opportunity for differentiation of products and services ♦ Demand variability ♦ Segmentation ♦ Distribution structure (e.g. direct marketing, retail, wholesale).**==",
+    "**The eleven drivers of business strength.** ==**♦ Market share ♦ Market share growth rate ♦ Profit margin ♦ Distribution efficiency ♦ Brand image ♦ Ability to compete on price and quality ♦ Customer loyalty ♦ Production capacity ♦ Technological capability ♦ Relative cost position ♦ Management calibre.**== You will not be asked for all twenty-two, but quoting four or five from each list is what separates a full answer from a bare one.",
+    "**The nine cells, as the study material prints them.** ==**High attractiveness:** Strong → **Invest/Expand**; Average → **Invest/Expand**; Weak → **Select/Earn**. **Medium attractiveness:** Strong → **Invest/Expand**; Average → **Select/Earn**; Weak → **Harvest/Divest**. **Low attractiveness:** Strong → **Select/Earn**; Average → **Harvest/Divest**; Weak → **Harvest/Divest**.==",
+    "**The traffic-light reading.** ==**If a product falls in the green section, the business is at an advantageous position; to reap the benefits, the strategic decision can be to expand, to invest and grow.** **If a product is in the amber or yellow zone, it needs caution and managerial discretion is called for in making the strategic choices.** **If a product is in the red zone, it will eventually lead to losses that would make things difficult for organisations; in such cases, the appropriate strategy should be retrenchment, divestment or liquidation.**== So **green = Invest/Expand, yellow = Select/Earn, red = Harvest/Divest**.",
+    "**GE against BCG — the two differences the study material names.** ==**This model is similar to the BCG growth-share matrix. However, there are differences. Firstly, market attractiveness replaces market growth as the dimension of industry attractiveness and includes a broader range of factors other than just the market growth rate. Secondly, competitive strength replaces market share as the dimension by which the competitive position of each SBU is assessed.**== Both differences point the same way: GE uses **broader, multi-factor** axes where BCG uses **single measures**.",
+    "**⚠️ An inconsistency to know about, because ICAI has examined the cell it concerns.** The study material's printed grid places **Low market attractiveness × Average business strength** in **Harvest/Divest** — the **red** zone. ICAI's own suggested answer to RTP September 2026 Q14, however, states: ==**\"The business division falls in the Yellow Zone (Selective Growth/Earnings Zone) of the GE Stop-Light Matrix… a business with medium business strength operating in a low market attractiveness industry is placed in the Yellow Zone.\"**== The two cannot both be right on the colour. **What to do in the exam:** follow the published answer's *substance*, which is in fact the safer reading — **selective investment only if the division can improve its competitive position or generate satisfactory returns, otherwise harvest or divest** — and, if you have a line to spare, note that the printed grid labels that cell Harvest/Divest. An answer that gives the strategy correctly cannot be marked wrong on the colour label."
+   ],
+   "example": "A technology group scores each unit on industry attractiveness and unit strength. Its AI solutions division sits in a highly attractive industry with a strong competitive edge, so it gets a 'go ahead' — the green cell, Invest/Expand. Its legacy software division sits in a less attractive industry with a weaker position, so it gets a 'be careful' rating with limited investment — the amber judgement, Select/Earn shading into Harvest/Divest. That is ICAI's InnovaTech case, and the stem's traffic-light words ('go ahead', 'be careful') are the giveaway that the GE matrix is wanted.",
+   "keywords": [
+    "General Electric Company",
+    "McKinsey and Company",
+    "Business Planning Matrix",
+    "GE Nine-Cell Matrix",
+    "GE Model",
+    "inspired from traffic control lights",
+    "green for go, amber or yellow for caution, and red for stop",
+    "Business Strength and Market Attractiveness",
+    "vertical axis indicates market attractiveness",
+    "horizontal axis shows the business strength",
+    "size of the market",
+    "competitive intensity",
+    "overall risk of returns",
+    "demand variability",
+    "distribution structure",
+    "market share growth rate",
+    "distribution efficiency",
+    "brand image",
+    "customer loyalty",
+    "relative cost position",
+    "management calibre",
+    "Invest/Expand",
+    "Select/Earn",
+    "Harvest/Divest",
+    "advantageous position",
+    "caution and managerial discretion",
+    "retrenchment, divestment or liquidation",
+    "market attractiveness replaces market growth",
+    "competitive strength replaces market share"
+   ],
+   "memory": {
+    "trick": "**Traffic lights on a 3 × 3.** Green (Invest/Expand) runs along the top-left diagonal band; yellow (Select/Earn) runs along the main diagonal; red (Harvest/Divest) fills the bottom-right band. Count the cells: **3 green, 3 yellow, 3 red.** Against BCG: **attractiveness replaces growth; strength replaces share** — broader axes, same idea.",
+    "key": [
+     [
+      "Names",
+      "GE Matrix · Stop-Light Strategy Model · Business Planning Matrix · GE Nine-Cell Matrix · GE Model"
+     ],
+     [
+      "Axes",
+      "Vertical = market attractiveness (High/Medium/Low) · Horizontal = business strength (Strong/Average/Weak)"
+     ],
+     [
+      "Green",
+      "Invest/Expand — advantageous position; expand, invest and grow"
+     ],
+     [
+      "Yellow",
+      "Select/Earn — caution; managerial discretion in making strategic choices"
+     ],
+     [
+      "Red",
+      "Harvest/Divest — will eventually lead to losses; retrenchment, divestment or liquidation"
+     ],
+     [
+      "vs BCG",
+      "Market attractiveness replaces market growth; competitive strength replaces market share"
+     ]
+    ],
+    "recall_trigger": "Green go, Amber caution, Red stop — on attractiveness by strength"
+   },
+   "mistakes": [
+    "Reversing the axes. **Market attractiveness is vertical; business strength is horizontal** — the same orientation as BCG, where growth is vertical and share horizontal.",
+    "Giving two zones instead of three. The model is named for **three** lights, and each has its own prescription: expand/invest/grow, caution with managerial discretion, and retrenchment/divestment/liquidation.",
+    "Naming only one difference from BCG. The study material names **two**, and they are symmetrical: attractiveness replaces growth, strength replaces share.",
+    "Treating GE's axes as single measures. Both are **composite** — eleven drivers each — which is exactly why the model is said to include 'a broader range of factors other than just the market growth rate'.",
+    "Missing the colour-label tension in the Low attractiveness × Average strength cell. The printed grid says Harvest/Divest; ICAI's September 2026 answer calls it the Yellow Zone. Give the strategy (selective investment, else harvest or divest) and you are safe either way.",
+    "Forgetting the alternative names. A stem may say **Business Planning Matrix** or **GE Nine-Cell Matrix** and expect you to recognise the same model."
+   ],
+   "links": [
+    "🔗 S04.14: BCG is the model GE refines — single-measure axes become composite ones",
+    "🔗 S04.13: ADL is the other multi-cell portfolio model, built on the product life cycle",
+    "🔗 S04.10: the red zone prescribes retrenchment, divestment or liquidation",
+    "🔗 S02.14: competitive intensity, one of GE's attractiveness drivers, is Porter's rivalry force",
+    "🔗 S03.09: technological capability and relative cost position are core-competence measures"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "A case describing resource allocation on industry attractiveness and business unit strength, with 'go ahead' and 'be careful' ratings → identify and explain the tool (RTP Jan 2025 Q13)",
+     "A case giving one cell's coordinates and asking for the colour zone, the strategic action and reasons (RTP Sep 2026 Q14)",
+     "'Distinguish between the BCG matrix and the GE matrix' — answered with the two replacements",
+     "'Explain the \"Stop-Light\" strategy model' with the factors on each axis"
+    ],
+    "approach": [
+     "Name the model and all its aliases, then the traffic-light inspiration, then the two axes with four or five drivers from each list, then the nine cells, then the three zone prescriptions.",
+     "In a cell-identification case, state the coordinates first, then the colour, then the action, then the reason — the order of ICAI's own answer.",
+     "When comparing with BCG, give the similarity first ('this model is similar to the BCG growth-share matrix') and then both differences."
+    ],
+    "official_pattern": "Both official appearances are RTP cases, and both are decided by reading two coordinates out of the stem. The marks sit in the zone prescription, not in the classification.",
+    "time_tip": "A 5-mark GE question: 1 minute on names and the traffic-light idea, 1.5 on the axes and their drivers, 1.5 on the grid, 2 on the zones and application."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S04.15-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "Explain the General Electric \"Stop-Light\" Strategy Model, and state how it differs from the BCG growth-share matrix.",
+     "answer_points": [
+      "**This model has been used by General Electric Company (developed by GE with the assistance of the consulting firm McKinsey and Company).** **It is also known as the Business Planning Matrix, GE Nine-Cell Matrix and GE Model.**",
+      "**The strategic planning approach in this model has been inspired from traffic control lights** — **green for go, amber or yellow for caution, and red for stop**. **The model uses two factors while taking strategic decisions: Business Strength and Market Attractiveness.**",
+      "**The vertical axis indicates market attractiveness**, measured by factors such as **size of the market, market growth rate, industry profitability, competitive intensity, availability of technology, pricing trends, overall risk of returns in the industry, opportunity for differentiation of products and services, demand variability, segmentation and distribution structure**.",
+      "**The horizontal axis shows the business strength in the industry**, measured by drivers such as **market share, market share growth rate, profit margin, distribution efficiency, brand image, ability to compete on price and quality, customer loyalty, production capacity, technological capability, relative cost position and management calibre**.",
+      "**The nine cells:** High attractiveness gives **Invest/Expand, Invest/Expand, Select/Earn** across Strong, Average and Weak strength; Medium gives **Invest/Expand, Select/Earn, Harvest/Divest**; Low gives **Select/Earn, Harvest/Divest, Harvest/Divest**.",
+      "**The zones:** **if a product falls in the green section, the business is at an advantageous position, and to reap the benefits the strategic decision can be to expand, to invest and grow**; **if a product is in the amber or yellow zone, it needs caution and managerial discretion is called for in making the strategic choices**; **if a product is in the red zone, it will eventually lead to losses that would make things difficult for organisations — in such cases the appropriate strategy should be retrenchment, divestment or liquidation**.",
+      "**The two differences from BCG:** **this model is similar to the BCG growth-share matrix; however, firstly, market attractiveness replaces market growth as the dimension of industry attractiveness and includes a broader range of factors other than just the market growth rate; and secondly, competitive strength replaces market share as the dimension by which the competitive position of each SBU is assessed.**"
+     ],
+     "keywords": [
+      "McKinsey and Company",
+      "Business Planning Matrix",
+      "inspired from traffic control lights",
+      "Business Strength and Market Attractiveness",
+      "competitive intensity",
+      "management calibre",
+      "Invest/Expand",
+      "Select/Earn",
+      "Harvest/Divest",
+      "market attractiveness replaces market growth",
+      "competitive strength replaces market share"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "RTP-J25-SQ13",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "InnovaTech, a technology company with a range of business units, is assessing its investment opportunities. To allocate resources effectively, InnovaTech uses a matrix that evaluates each business unit based on two key factors: industry attractiveness and business unit strength. For example, the AI solutions division, positioned in a highly attractive industry with a strong competitive edge, receives a \"go ahead\" for further investment. In contrast, its legacy software division, operating in a less attractive industry with a weaker position, receives a \"be careful\" rating, suggesting limited investment. Identify and explain which analytical tool InnovaTech is using. (ICAI's own label: Chapter 4)",
+     "answer_points": [
+      "**InnovaTech is using the GE Matrix, a strategic tool designed to assess the resource allocation needs of different business units based on two factors: industry attractiveness and business unit strength.** **This matrix is a nine-cell grid that helps companies prioritize investments by categorizing units into \"grow,\" \"hold,\" or \"harvest\" zones, depending on their positions within the matrix.**",
+      "**For InnovaTech, the AI solutions division, which operates in a highly attractive industry with a strong competitive position, falls into the \"grow\" category, meriting further investment.** On the printed grid that is **High attractiveness × Strong strength = Invest/Expand**, the green section where **the business is at an advantageous position and the strategic decision can be to expand, to invest and grow**.",
+      "**Meanwhile, the legacy software division operates in a less attractive industry with weaker positioning, likely placing it in the \"harvest\" or \"hold\" category, where investments are minimized.** The 'be careful' rating is the **amber or yellow zone**, which **needs caution and managerial discretion in making the strategic choices**.",
+      "**The GE Matrix enables companies like InnovaTech to systematically evaluate each business unit's potential, optimize resource allocation, and focus on divisions that align with long-term growth and profitability goals.**",
+      "**Why the stem can only be the GE matrix:** the two named factors are **industry attractiveness and business unit strength**, not market growth and market share (BCG), not maturity and competitive position (ADL), and not products and markets (Ansoff). The 'go ahead' and 'be careful' language is the traffic-light model showing through.",
+      "**Add the aliases** — **Business Planning Matrix, GE Nine-Cell Matrix, GE Model and the \"Stop-Light\" Strategy Model** — and the note that it was **developed by GE with the assistance of McKinsey and Company**."
+     ],
+     "keywords": [
+      "GE Matrix",
+      "resource allocation needs",
+      "industry attractiveness and business unit strength",
+      "nine-cell grid",
+      "grow, hold or harvest zones",
+      "go ahead",
+      "be careful",
+      "optimize resource allocation"
+     ]
+    },
+    {
+     "id": "RTP-S26-SQ14",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "EcoBuild Materials Ltd. manufactures specialised construction materials. One of its business divisions has been evaluated using the GE Stop-Light Matrix. The analysis indicates that the division possesses medium business strength but operates in an industry with low market attractiveness. The management is reviewing the future course of action for this division. Identify the colour zone in which this business falls under the GE Stop-Light Matrix. What strategic action should the company adopt for this division? Give reasons for your answer. (ICAI's own label: Chapter 4)",
+     "answer_points": [
+      "**ICAI's published answer:** **\"The business division falls in the Yellow Zone (Selective Growth/Earnings Zone) of the GE Stop-Light Matrix.\"** **\"In the GE Stop-Light Matrix, a business with medium business strength operating in a low market attractiveness industry is placed in the Yellow Zone. Businesses in this zone require selective investment and careful evaluation rather than aggressive expansion.\"**",
+      "**The strategic action:** **\"The appropriate strategic action is to selectively invest only if the division has the potential to improve its competitive position or generate satisfactory returns.\"**",
+      "**\"If the prospects for improvement are limited and the business is unlikely to create long-term value, the company should harvest the business by maximising short-term cash flows or divest it to redeploy resources to more attractive business units.\"**",
+      "**\"Thus, the division belongs to the Yellow Zone, where the strategy is selective investment, with harvesting or divestment considered if future growth prospects remain weak.\"**",
+      "**⚠️ The tension with the printed grid, stated plainly.** The study material's own nine-cell figure places **Low market attractiveness × Average business strength** in **Harvest/Divest**, which §4.4.4 describes as the **red** zone — where **\"it will eventually lead to losses that would make things difficult for organisations; in such cases, the appropriate strategy should be retrenchment, divestment or liquidation.\"** ICAI's answer labels the same cell **Yellow**. The substance of the two is close — selective investment *or* harvest/divest — but the colour labels differ.",
+      "**How to write it in the exam:** lead with the substance, which is common ground — **selective investment only if the competitive position can be improved or satisfactory returns earned, failing which harvest or divest and redeploy the resources**. Then name the zone; if you have a line to spare, note that the printed grid shows this cell as **Harvest/Divest**. A correct strategy cannot be marked down over a colour word.",
+      "**The underlying principle either way:** the amber zone **needs caution and managerial discretion in making the strategic choices**, and the red zone leads to **retrenchment, divestment or liquidation** — so both readings converge on 'invest only selectively, and be ready to exit'."
+     ],
+     "keywords": [
+      "Yellow Zone",
+      "Selective Growth/Earnings Zone",
+      "medium business strength",
+      "low market attractiveness",
+      "selective investment and careful evaluation",
+      "rather than aggressive expansion",
+      "improve its competitive position",
+      "maximising short-term cash flows",
+      "redeploy resources",
+      "Harvest/Divest"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-S04.15-01",
+     "angle": "Which zone",
+     "difficulty": "Moderate",
+     "question": "On the study material's printed GE nine-cell grid, a business with HIGH market attractiveness and WEAK business strength is placed in:",
+     "options": {
+      "A": "Invest/Expand",
+      "B": "Harvest/Divest",
+      "C": "Select/Earn",
+      "D": "Retrench/Liquidate"
+     },
+     "answer": "C",
+     "explanation": "ICAI's grid reads, for High attractiveness: Strong → Invest/Expand, Average → Invest/Expand, Weak → Select/Earn. An attractive industry justifies staying, but weak strength justifies only selective investment — the amber judgement.",
+     "why_wrong": {
+      "A": "Invest/Expand is reserved for Strong and Average strength in a High-attractiveness industry, and Strong strength in a Medium one.",
+      "B": "Harvest/Divest appears at Medium × Weak, Low × Average and Low × Weak.",
+      "D": "Retrench/Liquidate is not a cell label; retrenchment, divestment or liquidation is the prescription for the red zone."
+     },
+     "trap": "Weak strength suggests exit, but the attractiveness of the industry pulls the cell up to Select/Earn.",
+     "concept": "S04.15"
+    },
+    {
+     "id": "MCQ-S04.15-02",
+     "angle": "GE against BCG",
+     "difficulty": "Moderate",
+     "question": "According to the study material, how does the GE matrix differ from the BCG growth-share matrix?",
+     "options": {
+      "A": "Market attractiveness replaces market growth, and competitive strength replaces market share",
+      "B": "It uses the product life cycle instead of market growth",
+      "C": "It uses four cells instead of nine",
+      "D": "It classifies products rather than strategic business units"
+     },
+     "answer": "A",
+     "explanation": "SM §4.4.4 names exactly two differences: 'firstly, market attractiveness replaces market growth as the dimension of industry attractiveness and includes a broader range of factors other than just the market growth rate. Secondly, competitive strength replaces market share as the dimension by which the competitive position of each SBU is assessed.'",
+     "why_wrong": {
+      "B": "The product life cycle is the basis of the **ADL** matrix.",
+      "C": "GE has **nine** cells; BCG has four.",
+      "D": "Both models classify products or SBUs."
+     },
+     "trap": "Option C states a true fact about cell counts but is not one of the two differences the study material records.",
+     "concept": "S04.15"
+    },
+    {
+     "id": "MCQ-S04.15-03",
+     "angle": "Which axis",
+     "difficulty": "Easy",
+     "question": "\"Brand image\", \"customer loyalty\", \"relative cost position\" and \"management calibre\" are drivers of which GE matrix dimension?",
+     "options": {
+      "A": "Market attractiveness",
+      "B": "Stage of industry maturity",
+      "C": "Relative market share",
+      "D": "Business strength"
+     },
+     "answer": "D",
+     "explanation": "SM §4.4.4 lists these among the typical drivers of business strength, alongside market share, market share growth rate, profit margin, distribution efficiency, ability to compete on price and quality, production capacity and technological capability.",
+     "why_wrong": {
+      "A": "Market attractiveness is driven by market size, growth rate, industry profitability, competitive intensity, technology availability, pricing trends, risk, differentiation opportunity, demand variability, segmentation and distribution structure.",
+      "B": "That is the ADL matrix's environmental axis.",
+      "C": "Relative market share is BCG's horizontal axis — and only one of GE's eleven strength drivers."
+     },
+     "trap": "All four named items are about the firm rather than the industry, which is the test: firm facts → business strength; industry facts → market attractiveness.",
+     "concept": "S04.15"
+    }
+   ],
+   "recap": [
+    "GE Matrix = Stop-Light Strategy Model = Business Planning Matrix = GE Nine-Cell Matrix; developed by GE with McKinsey and Company.",
+    "Inspired by traffic lights: green for go, amber or yellow for caution, red for stop. Two factors: Business Strength and Market Attractiveness.",
+    "Vertical axis = market attractiveness (eleven drivers from market size to distribution structure); horizontal axis = business strength (eleven drivers from market share to management calibre).",
+    "Nine cells: Invest/Expand (green), Select/Earn (yellow), Harvest/Divest (red). The red zone calls for retrenchment, divestment or liquidation.",
+    "Two differences from BCG: market attractiveness replaces market growth; competitive strength replaces market share — broader, composite axes.",
+    "Know the colour-label tension in the Low attractiveness × Average strength cell: the printed grid says Harvest/Divest, ICAI's Sep 2026 answer says Yellow Zone. Lead with the strategy, not the colour."
+   ]
+  }
+ ]
+}

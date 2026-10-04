@@ -1,0 +1,611 @@
+{
+ "chapter": "S04",
+ "note": "Official questions mapped to SM Chapter 4 (Strategic Choices). Codes: primary first. key = ICAI's published answer key for MCQs. Mapping rules. (1) **ICAI's RTPs print their own chapter headings**, and the pattern is exact across all nine RTPs from May 2024 to September 2026: Chapter 1 = questions 7 and 8, Chapter 2 = 9 and 10, Chapter 3 = 11 and 12, **Chapter 4 = 13 and 14**, Chapter 5 = 15 and 16. Every RTP descriptive atom here therefore carries ICAI's own label, with one exception noted below. (2) Past-paper and MTP descriptive questions carry no chapter label, so they are mapped by the concept of ICAI's published answer, read in full, not by the wording of the stem. (3) Part I case-scenario MCQ items are included where the tested concept is unambiguously a Chapter 4 concept; items whose concept belongs to another chapter are left to that chapter. **The one RTP exception:** RTP September 2026 Q13 sits under ICAI's 'Chapter 4' label but is answered as the Focused Differentiation Strategy, which Chapter 4's headings (stability, growth, exits, Ansoff, ADL, BCG, GE) cannot house; that atom is held in atoms_S03.json at S03.14. **Two atoms were moved in from elsewhere after reading the published answers:** PYQ January 2025 Q5(c) and MTP January 2026 Series 1 Q1(c) (Organic Beverages 'Say no to Sugar'), both answered with the BCG growth-share matrix, the strategies that follow classification and the technique's limitations; and PYQ May 2026 Q5(c) (MM Company's tubeless tyre at maturity), answered as Stability Strategy. **Three questions whose stems look like Chapter 4 were excluded** after reading the published answer: PYQ September 2024 Q5(c) (M/s. Maa ki Pasand — new products for existing and new customers, but answered as a focus strategy, SM Ch 3 S03.14); PYQ May 2024 Q5(a) (BOYA Ltd — answered with the McKinsey 7S Model, SM Ch 5); and MTP March 2024 Series 2 case A(iii) (Café Delight's expansion from one café to three, whose option set is about marketing tactics rather than a named growth strategy). A fourth exclusion: MTP September 2025 Series 2 case A(iv) (Nav-Uday exporting to less competitive markets) looks like market development under Ansoff, but its published key is 'Corporate-level strategy', so the atom belongs to SM Ch 1 at S01.06, where it already sits.",
+ "atoms": [
+  {
+   "id": "PYQ-M26-Q6b",
+   "codes": [
+    "S04.02",
+    "S04.03",
+    "S04.06",
+    "S04.10"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "SA-M26 SM Q6(b) what is meant by corporate level strategies — identify and explain the basic features represented by each of a set of decisions; ICAI's answer names stability, expansion, retrenchment and combination"
+  },
+  {
+   "id": "RTP-M24-SQ14",
+   "codes": [
+    "S04.03",
+    "S04.06"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-M24 SM Q14 (ICAI label: Chapter 4) justify the statement 'Stability strategy is opposite of Expansion strategy'"
+  },
+  {
+   "id": "PYQ-S24-Q7b",
+   "codes": [
+    "S04.05",
+    "S04.03"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "SA-S24 SM Q7(b) start-ups rarely aim for stability strategy — agree or otherwise, state when stability strategy is meaningful, and the major reasons for it"
+  },
+  {
+   "id": "PYQ-M26-Q5c",
+   "codes": [
+    "S04.03",
+    "S04.04"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "SA-M26 SM Q5(c) MM Company's tubeless tyre has reached the maturity stage of the product life cycle and the company is aware of the competitive scene — ICAI's answer is Stability Strategy; moved here from the SM Ch 3 scoping list"
+  },
+  {
+   "id": "PYQ-M25-Q8b",
+   "codes": [
+    "S04.07",
+    "S04.06"
+   ],
+   "marks": 5,
+   "format": "Descriptive (1 + 4)",
+   "src": "SA-M25 SM Q8(b) explain in brief the expansion strategy as one of the corporate strategies, and state the characteristics of expansion strategy"
+  },
+  {
+   "id": "MTP-S24-S2-SQ3b",
+   "codes": [
+    "S04.08",
+    "S04.06"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-S24-S2 SM Q3(b) which strategy is implemented by redefining the business, enlarging its scope and substantially increasing investment — explain the major reasons for adopting it"
+  },
+  {
+   "id": "PYQ-M24-Q8b",
+   "codes": [
+    "S04.09"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "SA-M24 SM Q8(b) explain the concept of vertically integrated diversification — how is forward integration different from backward integration"
+  },
+  {
+   "id": "MTP-J26-S2-SQ4a",
+   "codes": [
+    "S04.09"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-J26-S2 SM Q4(a) explain the concept of vertically integrated diversification; how is forward integration different from backward integration"
+  },
+  {
+   "id": "RTP-S25-SQ13",
+   "codes": [
+    "S04.09"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-S25 SM Q13 (ICAI label: Chapter 4) Zeon Beverages acquiring a nationwide cold-storage logistics company having earlier set up its own fruit-processing unit — ICAI's answer is vertically integrated diversification, a form of concentric diversification, with backward and forward integration identified"
+  },
+  {
+   "id": "RTP-S24-SQ14",
+   "codes": [
+    "S04.09"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-S24 SM Q14 (ICAI label: Chapter 4) distinguish between concentric diversification and conglomerate diversification"
+  },
+  {
+   "id": "MTP-J26-S1-SQ3b",
+   "codes": [
+    "S04.09"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-J26-S1 SM Q3(b) distinguish between concentric diversification and conglomerate diversification"
+  },
+  {
+   "id": "MTP-M25-S1-SQ3b",
+   "codes": [
+    "S04.09"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-M25-S1 SM Q3(b) differentiate between concentric diversification and conglomerate diversification"
+  },
+  {
+   "id": "MTP-S25-S2-SQ4a",
+   "codes": [
+    "S04.09"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-S25-S2 SM Q4(a) distinguish between concentric diversification and conglomerate diversification — the fourth appearance of this question"
+  },
+  {
+   "id": "RTP-M25-SQ13",
+   "codes": [
+    "S04.09"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-M25 SM Q13 (ICAI label: Chapter 4) Jynklo Ltd., an online children's gaming company, starting a premium sports drink for athletes — no links in customer groups, customer functions or technology, so ICAI's answer is conglomerate diversification"
+  },
+  {
+   "id": "MTP-M25-S2-SQ2a",
+   "codes": [
+    "S04.09"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-M25-S2 SM Q2(a) NovaTech Pvt. Ltd., an EdTech company, launching GlowNova, a luxury skincare brand — no connection with the existing business, so conglomerate diversification"
+  },
+  {
+   "id": "RTP-M26-SQ13",
+   "codes": [
+    "S04.09",
+    "S04.02"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-M26 SM Q13 (ICAI label: Chapter 4) Stellar Electronics entering the renewable energy equipment business with a new division for solar panels and batteries to achieve long-term growth and reduce business risk — ICAI's answer is the diversification strategy, a corporate-level strategy"
+  },
+  {
+   "id": "MTP-J25-S1-SQ4a",
+   "codes": [
+    "S04.09"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-J25-S1 SM Q4(a) Leatherite Ltd., a footwear manufacturer, expanding into leather bags — both products similar in nature within the same industry, so concentric diversification"
+  },
+  {
+   "id": "RTP-J25-SQ14",
+   "codes": [
+    "S04.09"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-J25 SM Q14 (ICAI label: Chapter 4) what do you understand by Strategic Alliance — discuss its advantages"
+  },
+  {
+   "id": "MTP-S25-S2-SQ1b",
+   "codes": [
+    "S04.09"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-S25-S2 SM Q1(b) a smartphone manufacturer partnering with a software firm to jointly develop an AI-enabled operating system while both maintain independent operations — ICAI's answer is a Strategic Alliance"
+  },
+  {
+   "id": "MTP-S24-S2-SQ1a",
+   "codes": [
+    "S04.09"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-S24-S2 SM Q1(a) TechNova, a software firm, collaborating with ElectroWave, an electronics and hardware manufacturer — ICAI's answer is a co-generic merger, companies from related but non-competing industries leveraging complementary strengths"
+  },
+  {
+   "id": "PYQ-S25-Q7b",
+   "codes": [
+    "S04.09"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "SA-S25 SM Q7(b) 'merger serves as a critical tool for companies seeking expansion, synergy creation and competitive advantage' — discuss the concept of mergers, their classifications and their impact on business"
+  },
+  {
+   "id": "PYQ-M24-Q6a",
+   "codes": [
+    "S04.09"
+   ],
+   "marks": 5,
+   "format": "Descriptive (1 + 4)",
+   "src": "SA-M24 SM Q6(a) 'Innovation leads to unnecessary expenses that do not give as many returns' — do you agree; give reasons in support of your answer"
+  },
+  {
+   "id": "MTP-M25-S2-SQ3b",
+   "codes": [
+    "S04.09"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-M25-S2 SM Q3(b) 'Innovation leads to unnecessary expenses that do not give as many returns' — do you agree; give reasons"
+  },
+  {
+   "id": "PYQ-J26-Q7b",
+   "codes": [
+    "S04.09"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "SA-J26 SM Q7(b) innovation as a catalyst for business growth — explain what innovation is and what it offers a business for long-term growth"
+  },
+  {
+   "id": "RTP-J25-SMCQ5",
+   "codes": [
+    "S04.09",
+    "S04.12"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "key": "D",
+   "src": "RTP-J25 SM MCQ 5 EcoGreen, a sustainable home products company, entering the energy sector with solar panels and home energy storage — a completely new product line beyond its traditional goods"
+  },
+  {
+   "id": "RTP-J26-SMCQ6",
+   "codes": [
+    "S04.09"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "key": "C",
+   "src": "RTP-J26 SM MCQ 6 TechNova Inc. partnering with Mechtron India to jointly design and manufacture affordable industrial robots, sharing technology, production facilities and marketing channels"
+  },
+  {
+   "id": "MTP-J25-S1-SMCQ-B-ii",
+   "codes": [
+    "S04.09"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "key": "C",
+   "src": "MTP-J25-S1 SM case B(ii) UN&T reaching out to an Indian entrepreneur to get his team to work on a mega solar energy project and enter India's deccan plateau"
+  },
+  {
+   "id": "MTP-J25-S2-SMCQ-A-iii",
+   "codes": [
+    "S04.09"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "key": "D",
+   "src": "MTP-J25-S2 SM case A(iii) GEL's decision to enter the EV market represents a diversification strategy — evaluate which type"
+  },
+  {
+   "id": "MTP-M25-S2-SMCQ-A-ii",
+   "codes": [
+    "S04.09"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "key": "C",
+   "src": "MTP-M25-S2 SM case A(ii) Rachini Group's emphasis on acquiring spice farms and processing facilities to gain supply-chain control — which type of strategy it aligns with"
+  },
+  {
+   "id": "RTP-S24-SQ13",
+   "codes": [
+    "S04.10"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-S24 SM Q13 (ICAI label: Chapter 4) Pizza Galleria struggling after the entry of Modino and Uncle Jack with four years of losses — whether to go for a turnaround strategy, and the components of the action plan"
+  },
+  {
+   "id": "RTP-S25-SQ14",
+   "codes": [
+    "S04.10"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-S25 SM Q14 (ICAI label: Chapter 4) 'There are certain conditions or indicators which point out that a turnaround is needed if the company has to survive' — discuss"
+  },
+  {
+   "id": "RTP-J26-SQ13",
+   "codes": [
+    "S04.10"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-J26 SM Q13 (ICAI label: Chapter 4) ReInnovate Electronics Ltd. with declining market share, accumulated losses, an adverse cash flow position and deteriorating employee morale — ICAI's answer is the Turnaround Strategy with its stages"
+  },
+  {
+   "id": "PYQ-S24-Q5b",
+   "codes": [
+    "S04.10"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "SA-S24 SM Q5(b) Symergy Ltd. manufacturing since 2010, doing well till 2022, then declining market share, mounting accumulated losses and a persistent negative image — ICAI's answer is the Turnaround Strategy with the stages of the action plan"
+  },
+  {
+   "id": "PYQ-J26-Q5b",
+   "codes": [
+    "S04.10"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "SA-J26 SM Q5(b) Next Tech Solutions with declining client retention, rising operational costs, outdated service offerings, low morale and a faded reputation — the Board decides not to wind up and appoints a young visionary leader, so ICAI's answer is the Turnaround Strategy"
+  },
+  {
+   "id": "PYQ-M25-Q5c",
+   "codes": [
+    "S04.10"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "SA-M25 SM Q5(c) MaAi group's change of management and internal efficiency drive in 2023, then its decision in 2024 to get rid of the business in product 'Nota' — ICAI's answer identifies a Turnaround Strategy followed by a Divestment Strategy"
+  },
+  {
+   "id": "PYQ-S25-Q5b",
+   "codes": [
+    "S04.10"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "SA-S25 SM Q5(b) a multinational's business unit with three years of declining profitability, negative cash flows and intense competition — ICAI's answer is the Divestment Strategy with its reasons"
+  },
+  {
+   "id": "MTP-M24-S1-SQ3b",
+   "codes": [
+    "S04.10"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-M24-S1 SM Q3(b) the CEO of a textile mill operating at a loss believes it can be turned around — develop an action plan outlining the steps"
+  },
+  {
+   "id": "MTP-S24-S1-SQ2a",
+   "codes": [
+    "S04.10"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-S24-S1 SM Q2(a) the CEO of a textile mill is convinced his loss-making company can be turned around — suggest an action plan for a turnaround"
+  },
+  {
+   "id": "MTP-M25-S1-SMCQ-B-iii",
+   "codes": [
+    "S04.10"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "key": "C",
+   "src": "MTP-M25-S1 SM case B(iii) which strategy is implemented after the failure of a turnaround strategy"
+  },
+  {
+   "id": "PYQ-J25-Q8b",
+   "codes": [
+    "S04.12",
+    "S04.11"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "SA-J25 SM Q8(b) explain the 'product market growth matrix' as propagated by Igor Ansoff as a device for identifying growth opportunities for the future"
+  },
+  {
+   "id": "RTP-J26-SQ14",
+   "codes": [
+    "S04.12"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-J26 SM Q14 (ICAI label: Chapter 4) explain the 'product market growth matrix' as propagated by Igor Ansoff as a device for identifying growth opportunities"
+  },
+  {
+   "id": "MTP-J26-S2-SQ2a",
+   "codes": [
+    "S04.12"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-J26-S2 SM Q2(a) Sky chemical industry intends to grow its business — advise the company on the available options using Ansoff's product market growth matrix"
+  },
+  {
+   "id": "MTP-M26-S1-SQ4a",
+   "codes": [
+    "S04.12"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-M26-S1 SM Q4(a) explain the 'product market growth matrix' as propagated by Igor Ansoff"
+  },
+  {
+   "id": "MTP-S25-S1-SQ4a",
+   "codes": [
+    "S04.12"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-S25-S1 SM Q4(a) explain the 'product market growth matrix' as propagated by Igor Ansoff"
+  },
+  {
+   "id": "MTP-S26-S2-SQ4a",
+   "codes": [
+    "S04.12"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-S26-S2 SM Q4(a) explain the 'product market growth matrix' as propagated by Igor Ansoff — the fifth appearance of this question"
+  },
+  {
+   "id": "MTP-M25-S1-SQ1c",
+   "codes": [
+    "S04.12",
+    "S04.09"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-M25-S1 SM Q1(c) ABC Fashion venturing into international markets with a variety of products tailored to unique tastes — ICAI's answer is the diversification quadrant of Ansoff's Product-Market Growth Matrix, new products to new markets"
+  },
+  {
+   "id": "MTP-M26-S1-SQ1c",
+   "codes": [
+    "S04.12",
+    "S04.09"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-M26-S1 SM Q1(c) GreenHarvest Foods expanding globally with region-specific organic products — ICAI's answer is Diversification, new products in new markets"
+  },
+  {
+   "id": "MTP-J25-S1-SMCQ-A-iv",
+   "codes": [
+    "S04.12"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "key": "B",
+   "src": "MTP-J25-S1 SM case A(iv) EcoForge's strategy to deepen its presence in existing markets and explore new ones — which growth strategy in Ansoff's Matrix"
+  },
+  {
+   "id": "MTP-J25-S2-SMCQ-A-v",
+   "codes": [
+    "S04.12",
+    "S04.09"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "key": "D",
+   "src": "MTP-J25-S2 SM case A(v) by approving modernization in renewable energy and diversification into EVs, what corporate strategy GEL is pursuing and how it positions the company in Ansoff's matrix"
+  },
+  {
+   "id": "MTP-S25-S2-SMCQ-B-iii",
+   "codes": [
+    "S04.12"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "key": "D",
+   "src": "MTP-S25-S2 SM case B(iii) a tech startup entering a new market by introducing a new AI-powered product to an entirely new customer segment — which Ansoff quadrant"
+  },
+  {
+   "id": "RTP-M25-SQ14",
+   "codes": [
+    "S04.13"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-M25 SM Q14 (ICAI label: Chapter 4) write a short note on the role of the ADL Matrix in assessing the competitive position of a firm"
+  },
+  {
+   "id": "PYQ-S25-MCQ14",
+   "codes": [
+    "S04.13"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "key": "B",
+   "src": "SA-S25 SM MCQ 14 Bio Cure, a pioneer in low-cost rapid diagnostic kits with strong brand loyalty and a leading competitive position in a maturing industry — where it is positioned on the ADL matrix"
+  },
+  {
+   "id": "RTP-M24-SQ13",
+   "codes": [
+    "S04.14"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-M24 SM Q13 (ICAI label: Chapter 4) XYZ Corporation's portfolio of a leading consumer electronics division, a growing e-commerce platform, a mature industrial machinery division and a new venture — classify them using the BCG matrix"
+  },
+  {
+   "id": "RTP-M26-SQ14",
+   "codes": [
+    "S04.14"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-M26 SM Q14 (ICAI label: Chapter 4) explain the strategic implications of each of the following types of business in a corporate portfolio — stars, question marks, cash cows and dogs"
+  },
+  {
+   "id": "MTP-J25-S2-SQ4b",
+   "codes": [
+    "S04.14"
+   ],
+   "marks": 5,
+   "format": "Descriptive",
+   "src": "MTP-J25-S2 SM Q4(b) explain the strategic implications of each of the following types of business in a corporate portfolio — the BCG categories"
+  },
+  {
+   "id": "PYQ-J25-Q5c",
+   "codes": [
+    "S04.14"
+   ],
+   "marks": 5,
+   "format": "Case descriptive (1 + 2 + 2)",
+   "src": "SA-J25 SM Q5(c) Organic Beverages' 'Say no to Sugar' sugar-free beverage, heavy R&D and marketing spend, a major and rapidly growing market share needing heavy investment — classify it in the BCG two-dimensional growth share matrix, explain the strategies after classification, and state the limitations of the technique; moved here from the SM Ch 3 scoping list"
+  },
+  {
+   "id": "MTP-J26-S1-SQ1c",
+   "codes": [
+    "S04.14"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "MTP-J26-S1 SM Q1(c) the Organic Beverages 'Say no to Sugar' case repeated — BCG classification, the strategies that follow, and the limitations of the technique"
+  },
+  {
+   "id": "MTP-M26-S1-SMCQ-B-i",
+   "codes": [
+    "S04.14"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "key": "B",
+   "src": "MTP-M26-S1 SM case B(i) Bright Screens' LED TV division with high market share in a fast-growing electronics segment, investing heavily in advertising — which BCG quadrant"
+  },
+  {
+   "id": "MTP-S25-S1-SMCQ-B-ii",
+   "codes": [
+    "S04.14"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "key": "D",
+   "src": "MTP-S25-S1 SM case B(ii) PrintPro's laser printer division with stable revenue and high market share in a slow-growing market, generating surplus cash — which BCG quadrant"
+  },
+  {
+   "id": "MTP-M24-S1-SMCQ-B-i",
+   "codes": [
+    "S04.14"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "key": "C",
+   "src": "MTP-M24-S1 SM case B(i) TechMex Inc.'s new innovative product, recently launched in a rapidly growing market — which BCG quadrant it would likely fall into"
+  },
+  {
+   "id": "MTP-S25-S2-SMCQ-B-i",
+   "codes": [
+    "S04.14"
+   ],
+   "marks": 2,
+   "format": "MCQ",
+   "key": "C",
+   "src": "MTP-S25-S2 SM case B(i) GreenSprout Organics' cutting-edge organic bio-fertilizer newly launched in a rapidly expanding market — which BCG quadrant"
+  },
+  {
+   "id": "MTP-J26-S2-SMCQ-A-iii",
+   "codes": [
+    "S04.14"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "key": "B",
+   "src": "MTP-J26-S2 SM case A(iii) which product in Titan Tech's portfolio is most likely funding the company's investment in AI-driven analytics — the cash-cow question"
+  },
+  {
+   "id": "RTP-J25-SQ13",
+   "codes": [
+    "S04.15"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-J25 SM Q13 (ICAI label: Chapter 4) InnovaTech allocating resources using a matrix that evaluates each business unit on industry attractiveness and business strength — the GE nine-cell matrix"
+  },
+  {
+   "id": "RTP-S26-SQ14",
+   "codes": [
+    "S04.15"
+   ],
+   "marks": null,
+   "format": "Case descriptive",
+   "src": "RTP-S26 SM Q14 (ICAI label: Chapter 4) EcoBuild Materials Ltd.'s division with medium business strength in an industry of low market attractiveness — identify the colour zone under the GE Stop-Light Matrix and the strategic action to adopt, with reasons"
+  }
+ ]
+}
