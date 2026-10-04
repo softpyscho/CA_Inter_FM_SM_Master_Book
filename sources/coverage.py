@@ -76,7 +76,7 @@ def parts(path):
                 if ANS_LIKE.match(seg):
                     continue        # an answer fragment that survived the span cut
                 is_or = bool(ORM.search(qt[:s.start()][-40:]))
-                yield qn, s.group(1), is_or, seg[:120]
+                yield qn, s.group(1), is_or, seg[:200]
 
 
 placed = {}
