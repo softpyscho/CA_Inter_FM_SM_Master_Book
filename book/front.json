@@ -1,45 +1,1076 @@
 {
- "note": "Review-build front matter (Chapter 1 stage). The full front matter (weightage chart, trends, changes to watch, diagnostic test) is generated after all chapters are built.",
+ "note": "Full front matter, generated after all fourteen chapters were built (04-10-2026). The weightage chart and the trend tables are computed from this project's own atom files — every official question part from seven past papers, eight RTPs and fourteen MTP series, mapped to the study material's own headings — not from any published weightage. Figures are reproducible: run sources/coverage.py and the counts in BUILD_STATE.md.",
  "sections": [
-  {"heading": "How to Use This Book",
+  {
+   "heading": "How to Use This Book",
    "blocks": [
-    {"type": "para", "text": "Every chapter follows the same route. Use this five-step routine for each topic:"},
-    {"type": "bullets", "items": [
-     "**1. Understand:** read the blue UNDERSTAND IT box. It follows the ICAI study material heading by heading; nothing is left out.",
-     "**2. Lock the words:** read the ICAI KEYWORDS and MEMORY TRICK boxes. ICAI's suggested answers reuse study-material phrases, and marks go to those phrases.",
-     "**3. Attempt before reading:** cover the answer part of every OFFICIAL ICAI QUESTION (past paper, RTP, MTP) and write your answer first.",
-     "**4. Practise:** do the practice MCQs and expected questions, then the integrated cases and chapter test at the end of the chapter.",
-     "**5. Revise:** use the recall tests, the 5/15/30/60-minute revision ladder and the one-page sheet."
-    ]},
-    {"type": "box", "tag": "quick", "title": "Reading the question labels",
+    {
+     "type": "para",
+     "text": "Every chapter follows the same route. Use this five-step routine for each topic:"
+    },
+    {
+     "type": "bullets",
+     "items": [
+      "**1. Understand:** read the blue UNDERSTAND IT box. It follows the ICAI study material heading by heading; nothing is left out.",
+      "**2. Lock the words:** read the ICAI KEYWORDS and MEMORY TRICK boxes. ICAI's suggested answers reuse study-material phrases, and marks go to those phrases.",
+      "**3. Attempt before reading:** cover the answer part of every OFFICIAL ICAI QUESTION (past paper, RTP, MTP) and write your answer first.",
+      "**4. Practise:** do the practice MCQs and expected questions, then the integrated cases and chapter test at the end of the chapter.",
+      "**5. Revise:** use the recall tests, the 5/15/30/60-minute revision ladder and the one-page sheet."
+     ]
+    },
+    {
+     "type": "box",
+     "tag": "quick",
+     "title": "Reading the question labels",
      "bullets": [
       "**PYQ May 2025 · Q4(a)** = ICAI exam paper, May 2025, question 4(a). In past papers Q1–Q4 are Financial Management and Q5–Q8 are Strategic Management; MCQ 1–8 are FM and MCQ 9–16 are SM.",
       "**RTP Sep 2024 · FM Q12(a)** = ICAI Revision Test Paper for September 2024, FM section, question 12(a).",
       "**MTP May 2026 Series I · SM Q2(a)** = ICAI Mock Test Paper for May 2026, Series I, SM section, question 2(a). **SM MCQ 1(A)(i)** = case-scenario MCQ (i) in Part I.",
       "**FM Ch 1 §7.1** = Financial Management Chapter 1, study-material heading 7.1; **SM Ch 1 §1.5.2** = Strategic Management Chapter 1, heading 1.5.2."
-     ]},
-    {"type": "box", "tag": "alert", "title": "Study guidance, not ICAI rules",
+     ]
+    },
+    {
+     "type": "box",
+     "tag": "alert",
+     "title": "Study guidance, not ICAI rules",
      "bullets": [
       "Time guides, answer lengths, mark splits and memory tricks are study guidance written for this book, not ICAI rules.",
       "ICAI questions are presented in our own words, with answers based on ICAI's suggested answers. Practice questions, cases and MCQs are written for this book on ICAI study-material topics.",
       "ICAI has not published examiners' comments for Paper 6 (the Group II comments cover Papers 4 and 5), so no examiner comment is quoted in this book."
-     ]}
-   ]},
-  {"heading": "Exam at a Glance — Paper 6: FM & SM",
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Exam at a Glance — Paper 6: FM & SM",
    "blocks": [
-    {"type": "para", "text": "Pattern verified from ICAI's question papers and suggested answers for Sep 2024 to May 2026 (100 marks, 3 hours):"},
-    {"type": "table", "headers": ["Section", "Part I — MCQs", "Part II — Descriptive", "Total"],
-     "rows": [
-      ["6A Financial Management", "15 marks: one case scenario with 5 MCQs × 2 marks, plus 2 independent MCQs × 2 marks and 1 MCQ × 1 mark", "35 marks: Q1 compulsory (15 marks, 5 + 5 + 5); attempt any two of Q2–Q4 (10 marks each)", "50"],
-      ["6B Strategic Management", "15 marks: one case scenario with 5 MCQs × 2 marks, plus 2 independent MCQs × 2 marks and 1 MCQ × 1 mark", "35 marks: Q5 compulsory (15 marks, 5 + 5 + 5); attempt any two of Q6–Q8 (10 marks each)", "50"]
+    {
+     "type": "para",
+     "text": "Pattern verified from ICAI's question papers and suggested answers for Sep 2024 to May 2026 (100 marks, 3 hours):"
+    },
+    {
+     "type": "table",
+     "headers": [
+      "Section",
+      "Part I — MCQs",
+      "Part II — Descriptive",
+      "Total"
      ],
-     "widths": [1900, 3400, 3400, 1206]},
-    {"type": "box", "tag": "face", "title": "Time per mark (study guidance)",
+     "rows": [
+      [
+       "6A Financial Management",
+       "15 marks: one case scenario with 5 MCQs × 2 marks, plus 2 independent MCQs × 2 marks and 1 MCQ × 1 mark",
+       "35 marks: Q1 compulsory (15 marks, 5 + 5 + 5); attempt any two of Q2–Q4 (10 marks each)",
+       "50"
+      ],
+      [
+       "6B Strategic Management",
+       "15 marks: one case scenario with 5 MCQs × 2 marks, plus 2 independent MCQs × 2 marks and 1 MCQ × 1 mark",
+       "35 marks: Q5 compulsory (15 marks, 5 + 5 + 5); attempt any two of Q6–Q8 (10 marks each)",
+       "50"
+      ]
+     ],
+     "widths": [
+      1900,
+      3400,
+      3400,
+      1206
+     ]
+    },
+    {
+     "type": "box",
+     "tag": "face",
+     "title": "Time per mark (study guidance)",
      "bullets": [
       "180 minutes ÷ 100 marks ≈ 1.8 minutes per mark. Keep about 10 minutes for reading the paper.",
       "A 2-mark theory part ≈ 3–4 minutes; a 4-mark part ≈ 7 minutes; a 5-mark SM part ≈ 9 minutes.",
       "FM Q4 is always theory (4 + 4 + 2 with an OR in part c); FM Chapter 1 and FM Chapter 2 supply most of it."
-     ]}
-   ]}
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Where the Marks Actually Are — Chapter Weightage",
+   "blocks": [
+    {
+     "type": "para",
+     "text": "ICAI does not publish a chapter-wise weightage for Paper 6. The figures below are counted, not estimated. Every lettered question part and every Part-I MCQ from the **seven past papers** (May 2024, Sep 2024, Jan 2025, May 2025, Sep 2025, Jan 2026, May 2026) was mapped to the study material's own headings, and its marks added to the chapter that ICAI's published answer actually belongs to — not to the chapter its stem appears to be about. Eleven questions changed chapter on that test; they are listed in each chapter's verification block."
+    },
+    {
+     "type": "box",
+     "tag": "alert",
+     "title": "How to read these numbers",
+     "bullets": [
+      "**Marks** are the total over all seven papers, so divide by seven for a per-paper average. The totals exceed 50 per section because **both limbs of an OR question are counted** — a candidate attempts one, but either may appear.",
+      "**Share** is the chapter's percentage of its own section's past-paper marks. FM shares are of 356 marks, SM shares of 410.",
+      "**Atoms** is the number of distinct official question parts this book maps to that chapter, across past papers, RTPs and MTPs. It measures how much *practice material* exists, which is not the same as exam weight — SM Chapter 1 has 102 atoms but a fifth of SM's marks.",
+      "This is study guidance built from past behaviour. It is not an ICAI weightage and the examiner is not bound by it."
+     ]
+    },
+    {
+     "type": "h3",
+     "text": "Section A — Financial Management (356 past-paper marks)"
+    },
+    {
+     "type": "barchart",
+     "labels": [
+      "FM 1  Scope and Objectives",
+      "FM 2  Types of Financing",
+      "FM 3  Ratio Analysis",
+      "FM 4  Cost of Capital",
+      "FM 5  Capital Structure",
+      "FM 6  Leverages",
+      "FM 7  Investment Decisions",
+      "FM 8  Dividend Decisions",
+      "FM 9  Working Capital"
+     ],
+     "unit": "%",
+     "max": 25,
+     "series": [
+      {
+       "name": "Share of FM past-paper marks",
+       "color": "1D4ED8",
+       "values": [
+        6.2,
+        8.4,
+        12.6,
+        14.3,
+        6.7,
+        9.6,
+        12.9,
+        8.7,
+        20.5
+       ]
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "headers": [
+      "FM chapter",
+      "Marks (7 papers)",
+      "Avg per paper",
+      "Share",
+      "Atoms"
+     ],
+     "widths": [
+      3300,
+      1700,
+      1500,
+      1200,
+      1206
+     ],
+     "rows": [
+      [
+       "FM 1  Scope and Objectives",
+       "22",
+       "3.1",
+       "6.2%",
+       "31"
+      ],
+      [
+       "FM 2  Types of Financing",
+       "30",
+       "4.3",
+       "8.4%",
+       "30"
+      ],
+      [
+       "FM 3  Ratio Analysis",
+       "45",
+       "6.4",
+       "12.6%",
+       "41"
+      ],
+      [
+       "FM 4  Cost of Capital",
+       "51",
+       "7.3",
+       "14.3%",
+       "32"
+      ],
+      [
+       "FM 5  Capital Structure",
+       "24",
+       "3.4",
+       "6.7%",
+       "36"
+      ],
+      [
+       "FM 6  Leverages",
+       "34",
+       "4.9",
+       "9.6%",
+       "33"
+      ],
+      [
+       "FM 7  Investment Decisions",
+       "46",
+       "6.6",
+       "12.9%",
+       "35"
+      ],
+      [
+       "FM 8  Dividend Decisions",
+       "31",
+       "4.4",
+       "8.7%",
+       "38"
+      ],
+      [
+       "FM 9  Working Capital",
+       "73",
+       "10.4",
+       "20.5%",
+       "51"
+      ],
+      [
+       "**Total**",
+       "**356**",
+       "**50.9**",
+       "**100%**",
+       "**327**"
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "tag": "quick",
+     "title": "What the FM numbers say",
+     "bullets": [
+      "**Working capital is the biggest chapter in the paper, by a wide margin** — 73 marks over seven papers, 20.5% of FM, and 51 atoms. It has appeared in every sitting. If you ration your revision, ration it elsewhere.",
+      "**Cost of capital and investment decisions are the next tier** (14.3% and 12.9%), and they are the two most computation-heavy chapters. Together with working capital they are **48% of FM** on three chapters.",
+      "**Capital structure is the surprise at the bottom** (6.7%). It is conceptually the hardest FM chapter and among the least rewarded — the MM two-company problem recurs in RTPs and MTPs far more than in the papers themselves.",
+      "**Chapters 1 and 2 are cheap marks.** 14.6% between them, almost all of it theory, and FM Q4 (4 + 4 + 2 with an OR) is where it lands. Learn the lists."
+     ]
+    },
+    {
+     "type": "h3",
+     "text": "Section B — Strategic Management (410 past-paper marks)"
+    },
+    {
+     "type": "barchart",
+     "labels": [
+      "SM 1  Introduction to SM",
+      "SM 2  External Environment",
+      "SM 3  Internal Environment",
+      "SM 4  Strategic Choices",
+      "SM 5  Implementation and Evaluation"
+     ],
+     "unit": "%",
+     "max": 25,
+     "series": [
+      {
+       "name": "Share of SM past-paper marks",
+       "color": "047857",
+       "values": [
+        20.0,
+        22.2,
+        17.6,
+        21.0,
+        19.3
+       ]
+      }
+     ]
+    },
+    {
+     "type": "table",
+     "headers": [
+      "SM chapter",
+      "Marks (7 papers)",
+      "Avg per paper",
+      "Share",
+      "Atoms"
+     ],
+     "widths": [
+      3300,
+      1700,
+      1500,
+      1200,
+      1206
+     ],
+     "rows": [
+      [
+       "SM 1  Introduction to SM",
+       "82",
+       "11.7",
+       "20.0%",
+       "102"
+      ],
+      [
+       "SM 2  External Environment",
+       "91",
+       "13.0",
+       "22.2%",
+       "99"
+      ],
+      [
+       "SM 3  Internal Environment",
+       "72",
+       "10.3",
+       "17.6%",
+       "95"
+      ],
+      [
+       "SM 4  Strategic Choices",
+       "86",
+       "12.3",
+       "21.0%",
+       "86"
+      ],
+      [
+       "SM 5  Implementation and Evaluation",
+       "79",
+       "11.3",
+       "19.3%",
+       "80"
+      ],
+      [
+       "**Total**",
+       "**410**",
+       "**58.6**",
+       "**100%**",
+       "**462**"
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "tag": "quick",
+     "title": "What the SM numbers say",
+     "bullets": [
+      "**SM has no light chapter.** The range is 17.6% to 22.2% — the flattest distribution in the paper. Selective study fails here more reliably than anywhere else in Paper 6.",
+      "**The five chapters average about 12 marks a sitting each**, and every one of them has carried a 5-mark descriptive part in every paper since May 2024.",
+      "**SM carries more atoms than FM (462 against 327) on the same 50 marks**, because its MCQs are concept-identification items that recur with new company names. Learning one well disposes of several.",
+      "**ICAI's RTPs label their own chapters.** SM questions 7–8 are Chapter 1, 9–10 Chapter 2, 11–12 Chapter 3, 13–14 Chapter 4 and 15–16 Chapter 5 — in all eight RTPs from May 2024 to Sep 2026, without exception. That is eighty labelled questions telling you what the examiner thinks each chapter is for."
+     ]
+    },
+    {
+     "type": "pagebreak"
+    }
+   ]
+  },
+  {
+   "heading": "Whole-Paper Trends",
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Patterns that hold across the whole of Paper 6, drawn from the same evidence base. Each is stated so you can check it against the papers yourself."
+    },
+    {
+     "type": "h3",
+     "text": "1. The paper is built from repeats"
+    },
+    {
+     "type": "para",
+     "text": "Across the official bank this book maps **789 question parts**, but far fewer distinct questions. The most repeated items:"
+    },
+    {
+     "type": "table",
+     "headers": [
+      "Question",
+      "Appearances",
+      "Where"
+     ],
+     "widths": [
+      4600,
+      1300,
+      3206
+     ],
+     "rows": [
+      [
+       "**Pointers for navigating change during digital transformation** (SM 5)",
+       "4",
+       "PYQ Sep 2024 Q8(b) · MTP Jan 2026 S2 · MTP May 2025 S1 · MTP Sep 2025 S1"
+      ],
+      [
+       "**Ansoff's product market growth matrix** (SM 4)",
+       "5",
+       "PYQ Jan 2025 Q8(b) · RTP Jan 2026 · MTP May 2026 S1 · MTP Sep 2025 S1 · MTP Sep 2026 S2"
+      ],
+      [
+       "**PQR Ltd. splitting into four units → SBU structure** (SM 5)",
+       "4",
+       "RTP Sep 2024 Q15 · MTP Mar 2024 S2 · MTP May 2025 S1 · MTP May 2026 S1"
+      ],
+      [
+       "**Concentric vs conglomerate diversification** (SM 4)",
+       "4",
+       "RTP Sep 2024 Q14 · MTP Jan 2026 S1 · MTP May 2025 S1 · MTP Sep 2025 S2"
+      ],
+      [
+       "**Why are Strategic Performance Measures essential?** (SM 5)",
+       "4",
+       "RTP Sep 2024 Q16 · PYQ Jan 2025 Q7(b) · MTP Mar 2024 S1 · MTP May 2026 S1"
+      ],
+      [
+       "**The MM two-company problem, no tax and 40% tax** (FM 5)",
+       "4+",
+       "RTP Sep 2024 Q7 · RTP May 2026 Q6 · MTP Sep 2025 S1 · and more"
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "tag": "quick",
+     "title": "What to do with that",
+     "bullets": [
+      "A question that has appeared four times is not a topic to revise — it is an answer to **memorise in ICAI's own words**, because the published answer has not changed between appearances.",
+      "Every chapter's **Face in Exam** box lists that topic's forms and appearance counts. Work those first.",
+      "The repeats cluster in SM 4 and SM 5. Section B rewards memory more than Section A does."
+     ]
+    },
+    {
+     "type": "h3",
+     "text": "2. The stem is designed to mislead; the published answer decides"
+    },
+    {
+     "type": "para",
+     "text": "Eleven official SM questions in this bank are answered on a concept from a **different chapter** than their stem suggests. A few, with what the stem looks like and what ICAI actually answered:"
+    },
+    {
+     "type": "table",
+     "headers": [
+      "Question",
+      "The stem reads as",
+      "ICAI's published answer"
+     ],
+     "widths": [
+      2600,
+      3300,
+      3206
+     ],
+     "rows": [
+      [
+       "PYQ Sep 2024 Q5(c)",
+       "\"New products for existing and new customers\" — diversification",
+       "A **focus strategy** (SM 3)"
+      ],
+      [
+       "PYQ May 2025 MCQ 12",
+       "A robot-servicing offer — technology",
+       "**Augmented marketing** (SM 3)"
+      ],
+      [
+       "RTP May 2024 Q9 (Riya Sharma)",
+       "\"Competitive landscape\" — Porter's five forces",
+       "The **five steps of competitive-landscape analysis** (SM 2)"
+      ],
+      [
+       "PYQ Jan 2026 Q5(a) (Full Health)",
+       "Attractiveness of an industry",
+       "**Strategic group mapping** (SM 2)"
+      ],
+      [
+       "PYQ May 2024 Q5(a) (BOYA Ltd.)",
+       "Growth opportunities and new skills",
+       "The **McKinsey 7S Model** (SM 5)"
+      ],
+      [
+       "RTP Sep 2026 Q13",
+       "Printed under ICAI's own \"Chapter 4\" label",
+       "**Focused differentiation** (SM 3)"
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "tag": "alert",
+     "title": "The rule this gives you",
+     "bullets": [
+      "**Never answer from the vocabulary of the stem.** Read the facts, decide what is actually being asked, and name the framework the facts fit.",
+      "In a case MCQ, find the one discriminating fact and ignore the scenery: *its own set of competitors* means SBU; *two superiors* means matrix; *assumptions* means premise control; *cumulative volume* means the experience curve.",
+      "When a stem supplies a framework's own phrase — \"ripple effect\", \"best long-run performance of the marketing system\", \"maintain their respective independent existence\" — the examiner is naming the answer for you."
+     ]
+    },
+    {
+     "type": "h3",
+     "text": "3. FM is computational, SM is not"
+    },
+    {
+     "type": "box",
+     "tag": "quick",
+     "title": "Two different exams in one paper",
+     "bullets": [
+      "**FM:** six of nine chapters are dominated by computation. The marks are in the **working**, and the format of the answer matters — ICAI's own solutions set out a statement, then the formula, then the substitution.",
+      "**SM:** nothing is computational. The marks are in **named lists reproduced in ICAI's words**, and a partial list gets partial marks. Count your lists: three hard and four soft elements, five turnaround stages, eight execution aspects, six SPM types, four reasons, four factors. If the count is wrong, the list is not learned.",
+      "**The practical consequence for the three hours:** FM parts can overrun, SM parts should not. Finish each SM 5-mark part inside its 7 minutes and bank the surplus for FM Q1."
+     ]
+    },
+    {
+     "type": "h3",
+     "text": "4. Where the examiner has been inconsistent"
+    },
+    {
+     "type": "para",
+     "text": "Four places where ICAI's own material disagrees with itself. Each is documented in the chapter concerned, with both texts quoted, so that you can answer either way and say why."
+    },
+    {
+     "type": "table",
+     "headers": [
+      "Where",
+      "The disagreement",
+      "What to write"
+     ],
+     "widths": [
+      2200,
+      4300,
+      2606
+     ],
+     "rows": [
+      [
+       "SM 2 · consumer behaviour",
+       "The text names **three domains** of consumer behaviour, then prints **four headings** under them",
+       "Give ICAI's own two resolutions and note the tension"
+      ],
+      [
+       "SM 4 · GE matrix",
+       "The printed grid puts *Low attractiveness × Average strength* in **Harvest/Divest** (red); the Sep 2026 RTP answer calls the same cell the **Yellow Zone**",
+       "Lead with the strategy — selective investment, else harvest or divest — which both readings share"
+      ],
+      [
+       "SM 4 · liquidation",
+       "The chapter overview lists **Liquidation** as a strategic exit; §4.3 gives it no numbered sub-section",
+       "Define it from §4.3's lead-in: abandon the activities totally"
+      ],
+      [
+       "SM 2 · PESTLE",
+       "The third factor is headed **\"Social\"** in answers but **\"socio-cultural\"** in the study material",
+       "Either is accepted; use the study material's term and gloss it"
+      ]
+     ]
+    },
+    {
+     "type": "pagebreak"
+    }
+   ]
+  },
+  {
+   "heading": "Changes to Watch",
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Eleven of this book's 186 topic blocks are flagged **update-sensitive**: their content depends on a rate, a rule or a statutory position that can move between editions, or on a syllabus area the examiner is still working through. Check each against the edition of the study material you are sitting on."
+    },
+    {
+     "type": "h3",
+     "text": "Rate- and rule-dependent — verify against your edition"
+    },
+    {
+     "type": "table",
+     "headers": [
+      "Chapter / heading",
+      "What can move",
+      "How to check"
+     ],
+     "widths": [
+      2900,
+      3600,
+      2606
+     ],
+     "rows": [
+      [
+       "**FM 7 · §6.1** Block of assets and depreciation",
+       "The depreciation rate and the block-of-assets treatment used in capital-budgeting cash flows",
+       "Compare the rate in your study material's own illustration before using any worked example here"
+      ],
+      [
+       "**FM 8 · §3** Forms of dividend",
+       "The treatment of **buy-back** and of dividend distribution tax; who is taxed on dividend income",
+       "Read the chapter's own tax note; the position changed with the abolition of DDT"
+      ],
+      [
+       "**FM 8 · §6** Determinants of dividend decisions",
+       "The legal and contractual constraints listed, which track the Companies Act",
+       "Check the statutory list rather than reciting it from memory"
+      ],
+      [
+       "**FM 9 · §12–12.7** Recent developments in cash management",
+       "Electronic fund transfer and payment-system names and mechanics",
+       "The fastest-moving content in FM; names change faster than the syllabus"
+      ],
+      [
+       "**FM 9 · §27.2–27.5** Inter-corporate loans, commercial paper",
+       "Eligibility, tenor and rating requirements for commercial paper",
+       "RBI-driven; verify tenor and minimum denomination"
+      ],
+      [
+       "**FM 9 · §28–29** Bank finance for working capital",
+       "The RBI's instructions and the method of lending",
+       "The most frequently revised passage in the FM study material"
+      ]
+     ]
+    },
+    {
+     "type": "h3",
+     "text": "Syllabus areas the examiner is still developing"
+    },
+    {
+     "type": "box",
+     "tag": "face",
+     "title": "Where new questions are most likely",
+     "bullets": [
+      "**SM 5 · Strategic change through digital transformation (§5.3 to §5.3.4)** — twelve atoms, and a question in every sitting since May 2024. It was a 2023 syllabus addition and ICAI is still working through its four lists. Expect a new wording rather than a new concept: watch whether the stem says *practices* (§5.3.3) or *navigating* (§5.3.4).",
+      "**SM 2 · Value creation (§2.5.4), Market and Customer (§2.6), Customer analysis (§2.6.2)** — thinly tested so far relative to their length, and the section carries the consumer-behaviour inconsistency. A first full question here would not be a surprise.",
+      "**SM 3 · Best-cost provider strategy** — three of the nine generic-strategy MCQs added in the latest sweep test it, and it is the one Porter variant candidates routinely get wrong. Learn that it needs **both** limbs: a low cost position *and* an upscale product.",
+      "**FM 1 · The finance executive's role and the treasury function** — the \"emerging issues affecting the future role of the CFO\" and treasury-department questions appear in RTPs more than in papers. Cheap marks if they land."
+     ]
+    },
+    {
+     "type": "box",
+     "tag": "alert",
+     "title": "What this book does not do",
+     "bullets": [
+      "It does not reproduce ICAI's study material in full. It maps every official question to the material's own headings and quotes the published answers; the material itself remains the authority.",
+      "Where ICAI's answer and its own text disagree, this book **quotes both and says so**, rather than choosing silently. Those places are listed in the previous section and in each chapter's verification block.",
+      "Mark splits, time guides and answer lengths outside a quoted ICAI mark allocation are **study guidance**, not ICAI rules."
+     ]
+    },
+    {
+     "type": "pagebreak"
+    }
+   ]
+  },
+  {
+   "heading": "Diagnostic Test — Find Your Starting Point",
+   "blocks": [
+    {
+     "type": "para",
+     "text": "Eighteen questions, one or two from every chapter, to be attempted **before** you start studying. The point is not the score. The point is the pattern: each question is labelled with its chapter, so a wrong answer tells you exactly where to begin."
+    },
+    {
+     "type": "box",
+     "tag": "quick",
+     "title": "How to use it",
+     "bullets": [
+      "**Allow 30 minutes.** Write the letter only. Do not look anything up.",
+      "**Mark it against the answers overleaf**, and list the chapters you got wrong.",
+      "**Two or more wrong in a chapter** means start that chapter from its UNDERSTAND IT boxes. **One wrong** means go straight to its Confusing Concepts table — the error is almost certainly a look-alike, and that table is where look-alikes are separated.",
+      "**All correct in a chapter** does not mean skip it. It means you can start at that chapter's Face in Exam box and its chapter test, which is a different and faster route.",
+      "Re-attempt the whole thing in your last week. The questions are deliberately the ones the examiner reuses, so the second score is a fair predictor."
+     ]
+    },
+    {
+     "type": "h3",
+     "text": "Diagnostic Test — 18 questions, 30 minutes"
+    },
+    {
+     "type": "mcq",
+     "label": "Q1  ·  FM 1",
+     "with_answer": false,
+     "id": "DIAG-01",
+     "question": "The primary objective of financial management, as the study material resolves the conflict, is:",
+     "options": {
+      "A": "Profit maximisation, because profit is the only objective measure of performance",
+      "B": "Wealth maximisation, because it accounts for the timing and risk of returns and uses cash flows rather than accounting profit",
+      "C": "Sales maximisation, because it drives market share",
+      "D": "Cost minimisation, because it protects margin in every state of the world"
+     },
+     "answer": "B",
+     "explanation": "Profit maximisation ignores the timing of benefits, the risk attaching to them, and the difference between accounting profit and cash flow. Wealth maximisation addresses all three, which is why the study material treats it as the operating objective."
+    },
+    {
+     "type": "mcq",
+     "label": "Q2  ·  FM 2",
+     "with_answer": false,
+     "id": "DIAG-02",
+     "question": "An instrument that carries a fixed periodic return, grants no voting rights, has characteristics of both equity and debt, and ranks above equity shareholders but below debenture holders on liquidation is:",
+     "options": {
+      "A": "A debenture",
+      "B": "A preference share",
+      "C": "An equity share with differential rights",
+      "D": "A commercial paper"
+     },
+     "answer": "B",
+     "explanation": "That ranking — above equity, below debt — with a fixed return and no vote is the defining profile of a preference share, which is why the study material calls it a hybrid."
+    },
+    {
+     "type": "mcq",
+     "label": "Q3  ·  FM 3",
+     "with_answer": false,
+     "id": "DIAG-03",
+     "question": "A company has a current ratio of 1.5:1 and a quick ratio of 1:1. If its inventory is ₹20 lakh, its current liabilities are:",
+     "options": {
+      "A": "₹20 lakh",
+      "B": "₹30 lakh",
+      "C": "₹40 lakh",
+      "D": "₹50 lakh"
+     },
+     "answer": "C",
+     "explanation": "Inventory equals the gap between the two ratios applied to current liabilities: (1.5 − 1.0) × CL = 0.5 CL = ₹20 lakh, so CL = ₹40 lakh. This is ICAI's Jan 2025 Case Scenario II in one line."
+    },
+    {
+     "type": "mcq",
+     "label": "Q4  ·  FM 4",
+     "with_answer": false,
+     "id": "DIAG-04",
+     "question": "A project's cash flows are discounted at the cost of capital. The study material's first stated reason why the cost of capital matters is:",
+     "options": {
+      "A": "It fixes the dividend the company must pay",
+      "B": "It determines the company's credit rating",
+      "C": "Evaluation of investment options — future benefits are converted to present value using the relevant cost of capital, and every option may have a different one",
+      "D": "It is prescribed by the Companies Act for impairment testing"
+     },
+     "answer": "C",
+     "explanation": "ICAI lists three decisions the cost of capital informs, and evaluation of investment options is the first: the discount rate must be the one relevant to the option being appraised."
+    },
+    {
+     "type": "mcq",
+     "label": "Q5  ·  FM 5",
+     "with_answer": false,
+     "id": "DIAG-05",
+     "question": "Under the Modigliani-Miller approach **without** taxes, the value of a levered firm compared with an identical unlevered firm is:",
+     "options": {
+      "A": "Higher, by the present value of the interest tax shield",
+      "B": "The same, because value depends on operating earnings and business risk, not on the financing mix",
+      "C": "Lower, because debt adds financial risk",
+      "D": "Indeterminate without knowing the equity capitalisation rate"
+     },
+     "answer": "B",
+     "explanation": "Without taxes MM's propositions make value independent of capital structure; the tax shield that makes the levered firm more valuable appears only once corporate tax is introduced."
+    },
+    {
+     "type": "mcq",
+     "label": "Q6  ·  FM 6",
+     "with_answer": false,
+     "id": "DIAG-06",
+     "question": "Operating leverage measures:",
+     "options": {
+      "A": "The sensitivity of EPS to a change in EBIT",
+      "B": "The sensitivity of EBIT to a change in sales, arising from fixed operating costs",
+      "C": "The ratio of debt to equity in the capital structure",
+      "D": "The sensitivity of EPS to a change in sales"
+     },
+     "answer": "B",
+     "explanation": "Operating leverage comes from fixed operating costs and links sales to EBIT. Financial leverage links EBIT to EPS; combined leverage links sales to EPS."
+    },
+    {
+     "type": "mcq",
+     "label": "Q7  ·  FM 7",
+     "with_answer": false,
+     "id": "DIAG-07",
+     "question": "Do the profitability index and the NPV criterion always give the same accept-reject decision?",
+     "options": {
+      "A": "Yes on accept-reject, and yes on ranking",
+      "B": "Yes on accept-reject, but they can conflict on ranking when projects differ in scale and funds are rationed",
+      "C": "No on accept-reject, because PI ignores the cost of capital",
+      "D": "No, because PI cannot be computed for projects with uneven cash flows"
+     },
+     "answer": "B",
+     "explanation": "Both use discounted cash flows, so a PI above 1 is an NPV above zero — accept-reject agrees. Ranking can diverge where the projects are of different size, which matters under capital rationing."
+    },
+    {
+     "type": "mcq",
+     "label": "Q8  ·  FM 8",
+     "with_answer": false,
+     "id": "DIAG-08",
+     "question": "Under Walter's model, if the firm's return on investment exceeds its cost of capital, the optimum payout ratio is:",
+     "options": {
+      "A": "100%",
+      "B": "Zero",
+      "C": "Equal to the industry average",
+      "D": "Indeterminate, because Walter's model assumes a constant payout"
+     },
+     "answer": "B",
+     "explanation": "Walter's model holds that a growth firm (r > Ke) maximises price by retaining everything, so the optimum payout is nil; the mirror case (r < Ke) gives a 100% payout."
+    },
+    {
+     "type": "mcq",
+     "label": "Q9  ·  FM 9",
+     "with_answer": false,
+     "id": "DIAG-09",
+     "question": "The operating cycle of a manufacturing company is:",
+     "options": {
+      "A": "The period between paying for raw material and selling the finished goods",
+      "B": "The period between buying raw material and collecting cash from the sale of finished goods",
+      "C": "The accounting year over which working capital is budgeted",
+      "D": "The period over which fixed assets are depreciated"
+     },
+     "answer": "B",
+     "explanation": "The cycle runs from the acquisition of raw material through work-in-progress, finished goods and receivables back to cash. Deducting the creditors period from it gives the net operating cycle."
+    },
+    {
+     "type": "mcq",
+     "label": "Q10  ·  SM 1",
+     "with_answer": false,
+     "id": "DIAG-10",
+     "question": "Strategy is best described by the study material as:",
+     "options": {
+      "A": "Entirely proactive, because it is planned in advance",
+      "B": "Entirely reactive, because the environment cannot be predicted",
+      "C": "Partly proactive and partly reactive — deliberate plans combined with responses to unforeseen developments",
+      "D": "Neither, because strategy is an outcome rather than a choice"
+     },
+     "answer": "C",
+     "explanation": "ICAI's own formulation, and the basis of several case MCQs: the planned initiatives are the proactive part, the responses to what was not foreseen the reactive part."
+    },
+    {
+     "type": "mcq",
+     "label": "Q11  ·  SM 2",
+     "with_answer": false,
+     "id": "DIAG-11",
+     "question": "In Porter's five forces model, the entry of a new brand that overcomes the usual entry barriers through an established following illustrates:",
+     "options": {
+      "A": "Bargaining power of buyers",
+      "B": "Threat of new entrants",
+      "C": "Rivalry among existing competitors",
+      "D": "Bargaining power of suppliers"
+     },
+     "answer": "B",
+     "explanation": "The force is named from the position of the incumbent industry: a firm coming in, with the barriers lowered, is the threat of new entrants. Social-media reach is the reason the barrier is low, not a force in itself."
+    },
+    {
+     "type": "mcq",
+     "label": "Q12  ·  SM 3",
+     "with_answer": false,
+     "id": "DIAG-12",
+     "question": "A firm combines premium-quality produce with efficient production to offer affordable prices. Its competitive strategy is:",
+     "options": {
+      "A": "Cost leadership",
+      "B": "Differentiation",
+      "C": "Best-cost provider",
+      "D": "Focused cost leadership"
+     },
+     "answer": "C",
+     "explanation": "The best-cost provider strategy requires **both** limbs — a genuinely low cost position and an upscale or differentiated product — so that the customer gets more value for the money. One limb alone is cost leadership or differentiation."
+    },
+    {
+     "type": "mcq",
+     "label": "Q13  ·  SM 4",
+     "with_answer": false,
+     "id": "DIAG-13",
+     "question": "A cement manufacturer begins making steel and rubber products. This is:",
+     "options": {
+      "A": "Concentric diversification",
+      "B": "Vertically integrated diversification",
+      "C": "Horizontal integration",
+      "D": "Conglomerate diversification"
+     },
+     "answer": "D",
+     "explanation": "ICAI's own example of conglomerate diversification: no linkage in product, market or technology, and **no common thread at all** with the firm's present position. The test is linkage, not industry distance."
+    },
+    {
+     "type": "mcq",
+     "label": "Q14  ·  SM 4",
+     "with_answer": false,
+     "id": "DIAG-14",
+     "question": "After a turnaround has been attempted and has failed, the strategy a firm adopts is:",
+     "options": {
+      "A": "Expansion",
+      "B": "Divestment",
+      "C": "Diversification",
+      "D": "Market penetration"
+     },
+     "answer": "B",
+     "explanation": "Divestment is 'adopted when a turnaround has been attempted but has proved to be unsuccessful' — though the turnaround may be skipped entirely if divestment is obviously the only answer."
+    },
+    {
+     "type": "mcq",
+     "label": "Q15  ·  SM 5",
+     "with_answer": false,
+     "id": "DIAG-15",
+     "question": "Which of the following is a **hard** element of the McKinsey 7S Model?",
+     "options": {
+      "A": "Shared Values",
+      "B": "Style",
+      "C": "Systems",
+      "D": "Staff"
+     },
+     "answer": "C",
+     "explanation": "The three hard elements — Strategy, Structure, Systems — are those 'directly controlled by the management'. The four soft ones are Shared Values, Style, Staff and Skills, 'more governed by the culture'."
+    },
+    {
+     "type": "mcq",
+     "label": "Q16  ·  SM 5",
+     "with_answer": false,
+     "id": "DIAG-16",
+     "question": "A firm regularly reviews and updates the business assumptions on which its strategy was built. This is:",
+     "options": {
+      "A": "Premise control",
+      "B": "Strategic surveillance",
+      "C": "Special alert control",
+      "D": "Implementation control"
+     },
+     "answer": "A",
+     "explanation": "Premise control is the focused, continuous monitoring of the premises the strategy rests on. Strategic surveillance is deliberately **unfocussed**; special alert control responds to shocks; implementation control watches thrusts and milestones."
+    },
+    {
+     "type": "mcq",
+     "label": "Q17  ·  SM 5",
+     "with_answer": false,
+     "id": "DIAG-17",
+     "question": "Four divisions each operate as an independent product centre, each with **its own set of competitors** and a head accountable for its profit. The structure is:",
+     "options": {
+      "A": "Divisional structure",
+      "B": "Multi-divisional structure",
+      "C": "Matrix structure",
+      "D": "Strategic Business Unit structure"
+     },
+     "answer": "D",
+     "explanation": "'Its own set of competitors' is the second of the SBU's three characteristics and the phrase ICAI plants in every SBU item. The M-form is identified instead by a small corporate office exercising financial control."
+    },
+    {
+     "type": "mcq",
+     "label": "Q18  ·  SM 5",
+     "with_answer": false,
+     "id": "DIAG-18",
+     "question": "Transactional leadership is appropriate, as per the study material, in:",
+     "options": {
+      "A": "Turbulent environments and poorly performing organisations",
+      "B": "Industries at the very start or end of their life-cycles",
+      "C": "Static environments, mature industries, and organisations that are performing well",
+      "D": "Any organisation undergoing a digital transformation"
+     },
+     "answer": "C",
+     "explanation": "Each style has its stated setting. Transformational suits turbulence, life-cycle extremes and poor performance; transactional suits stability, maturity and good performance, being 'better suited in persuading people to work efficiently and run operations smoothly'."
+    },
+    {
+     "type": "pagebreak"
+    },
+    {
+     "type": "h3",
+     "text": "Diagnostic Test — Answers and where to go next"
+    },
+    {
+     "type": "table",
+     "headers": [
+      "Q",
+      "Chapter",
+      "Answer",
+      "Why"
+     ],
+     "widths": [
+      600,
+      1500,
+      700,
+      7606
+     ],
+     "rows": [
+      [
+       "1",
+       "FM 1",
+       "B",
+       "Profit maximisation ignores the timing of benefits, the risk attaching to them, and the difference between accounting profit and cash flow. Wealth maximisation addresses all three, which is why the study material treats it as the operating objective."
+      ],
+      [
+       "2",
+       "FM 2",
+       "B",
+       "That ranking — above equity, below debt — with a fixed return and no vote is the defining profile of a preference share, which is why the study material calls it a hybrid."
+      ],
+      [
+       "3",
+       "FM 3",
+       "C",
+       "Inventory equals the gap between the two ratios applied to current liabilities: (1.5 − 1.0) × CL = 0.5 CL = ₹20 lakh, so CL = ₹40 lakh. This is ICAI's Jan 2025 Case Scenario II in one line."
+      ],
+      [
+       "4",
+       "FM 4",
+       "C",
+       "ICAI lists three decisions the cost of capital informs, and evaluation of investment options is the first: the discount rate must be the one relevant to the option being appraised."
+      ],
+      [
+       "5",
+       "FM 5",
+       "B",
+       "Without taxes MM's propositions make value independent of capital structure; the tax shield that makes the levered firm more valuable appears only once corporate tax is introduced."
+      ],
+      [
+       "6",
+       "FM 6",
+       "B",
+       "Operating leverage comes from fixed operating costs and links sales to EBIT. Financial leverage links EBIT to EPS; combined leverage links sales to EPS."
+      ],
+      [
+       "7",
+       "FM 7",
+       "B",
+       "Both use discounted cash flows, so a PI above 1 is an NPV above zero — accept-reject agrees. Ranking can diverge where the projects are of different size, which matters under capital rationing."
+      ],
+      [
+       "8",
+       "FM 8",
+       "B",
+       "Walter's model holds that a growth firm (r > Ke) maximises price by retaining everything, so the optimum payout is nil; the mirror case (r < Ke) gives a 100% payout."
+      ],
+      [
+       "9",
+       "FM 9",
+       "B",
+       "The cycle runs from the acquisition of raw material through work-in-progress, finished goods and receivables back to cash. Deducting the creditors period from it gives the net operating cycle."
+      ],
+      [
+       "10",
+       "SM 1",
+       "C",
+       "ICAI's own formulation, and the basis of several case MCQs: the planned initiatives are the proactive part, the responses to what was not foreseen the reactive part."
+      ],
+      [
+       "11",
+       "SM 2",
+       "B",
+       "The force is named from the position of the incumbent industry: a firm coming in, with the barriers lowered, is the threat of new entrants. Social-media reach is the reason the barrier is low, not a force in itself."
+      ],
+      [
+       "12",
+       "SM 3",
+       "C",
+       "The best-cost provider strategy requires **both** limbs — a genuinely low cost position and an upscale or differentiated product — so that the customer gets more value for the money. One limb alone is cost leadership or differentiation."
+      ],
+      [
+       "13",
+       "SM 4",
+       "D",
+       "ICAI's own example of conglomerate diversification: no linkage in product, market or technology, and **no common thread at all** with the firm's present position. The test is linkage, not industry distance."
+      ],
+      [
+       "14",
+       "SM 4",
+       "B",
+       "Divestment is 'adopted when a turnaround has been attempted but has proved to be unsuccessful' — though the turnaround may be skipped entirely if divestment is obviously the only answer."
+      ],
+      [
+       "15",
+       "SM 5",
+       "C",
+       "The three hard elements — Strategy, Structure, Systems — are those 'directly controlled by the management'. The four soft ones are Shared Values, Style, Staff and Skills, 'more governed by the culture'."
+      ],
+      [
+       "16",
+       "SM 5",
+       "A",
+       "Premise control is the focused, continuous monitoring of the premises the strategy rests on. Strategic surveillance is deliberately **unfocussed**; special alert control responds to shocks; implementation control watches thrusts and milestones."
+      ],
+      [
+       "17",
+       "SM 5",
+       "D",
+       "'Its own set of competitors' is the second of the SBU's three characteristics and the phrase ICAI plants in every SBU item. The M-form is identified instead by a small corporate office exercising financial control."
+      ],
+      [
+       "18",
+       "SM 5",
+       "C",
+       "Each style has its stated setting. Transformational suits turbulence, life-cycle extremes and poor performance; transactional suits stability, maturity and good performance, being 'better suited in persuading people to work efficiently and run operations smoothly'."
+      ]
+     ]
+    },
+    {
+     "type": "box",
+     "tag": "face",
+     "title": "Reading your result",
+     "bullets": [
+      "**14 or more right:** you have a working base. Use the book's 30- and 60-minute revision tiers and the chapter tests, not the UNDERSTAND IT boxes.",
+      "**9 to 13:** standard starting point. Work the chapters in the order of the weightage chart — FM 9, FM 4, FM 7 first in Section A; any order in Section B, because SM has no light chapter.",
+      "**8 or fewer:** start at the front of each chapter and do not skip the Confusing Concepts tables. Most of the loss at this level is look-alike confusion, not ignorance.",
+      "**A section imbalance matters more than the total.** Scoring well in FM and badly in SM (or the reverse) is the commonest profile, and the fix is simply to give the weak section the first hour of every study day for a fortnight."
+     ]
+    },
+    {
+     "type": "pagebreak"
+    }
+   ]
+  }
  ]
 }

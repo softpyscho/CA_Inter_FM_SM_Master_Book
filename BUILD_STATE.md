@@ -30,8 +30,7 @@ Topic codes: `F01.07.01` prints as "FM Ch 1 §7.1"; `S01.05.02` prints as "SM Ch
 
 1. Back-fill pass: the stray official questions listed at the end of this file (FM Ch 1, 3, 4, 5;
    SM Ch 3, 4, 5), then re-run `sources/coverage.py`.
-2. Full front matter: chapter weightage chart from the mark counts, whole-paper trends,
-   "changes to watch", diagnostic test.
+2. ~~Full front matter~~ — **DONE 04-10-2026**, see the section below.
 3. Back matter: cross-chapter cases, two mock exams, study plans, mistake book, 24-hour book,
    master question index, PYQ/RTP/MTP matrix, dashboard.
 4. Rebuild with `./make_pdf.ps1` (two passes so the index page numbers settle).
@@ -649,3 +648,47 @@ Known false positives still in the coverage output, for the record, so they are 
 RTP-J25-FQ9a/9b and RTP-M24-FQ7a/7b and MTP-M26-S1-FQ3a/3b/3c are **sub-conditions inside one
 question** (credit terms, ageing bands, stock and debtor assumptions), not separate parts;
 MTP-S24-S1-FQ5a and RTP-J26-FQ5c are answer fragments.
+
+## Front matter — DONE (04-10-2026)
+
+`book/front.json` now carries six sections. The two review-build sections are unchanged; four are new.
+
+**1. Where the Marks Actually Are — Chapter Weightage.** ICAI publishes no chapter weightage for
+Paper 6, so this is **counted, not estimated**: every lettered part and Part-I MCQ from the seven
+past papers (May 2024 to May 2026) mapped to the chapter its *published answer* belongs to, with
+the marks added up. Two bar charts and two tables. The headline figures, which are reproducible
+from the atom files:
+
+| | FM | SM |
+| --- | --- | --- |
+| Past-paper marks over 7 papers | 356 | 410 |
+| Atoms mapped | 327 | 462 |
+| Heaviest chapter | **FM 9 Working Capital — 73 marks, 20.5%** | **SM 2 External Environment — 91 marks, 22.2%** |
+| Lightest chapter | FM 5 Capital Structure — 24 marks, 6.7% | SM 3 Internal Environment — 72 marks, 17.6% |
+| Spread | 6.7% to 20.5% — concentrated | 17.6% to 22.2% — flat |
+
+Two findings worth carrying into the back matter: **FM 9, FM 4 and FM 7 are 48% of Section A on
+three chapters**, and **SM has no light chapter**, which is why selective study fails there. The
+totals exceed 50 marks per section because both limbs of an OR question are counted; the chart
+states that caveat.
+
+**2. Whole-Paper Trends.** Four trends, each stated so a reader can check it: the paper is built
+from repeats (a table of the six most-repeated questions with their appearance counts); the stem is
+designed to mislead and the published answer decides (six worked examples of the eleven
+chapter-changing questions); FM is computational and SM is not; and the four places where ICAI's
+own material disagrees with itself, with what to write in each case.
+
+**3. Changes to Watch.** The eleven `update_sensitive` topic blocks, split into rate- and
+rule-dependent content to verify against your edition (six, all in FM 7, 8 and 9) and syllabus
+areas the examiner is still developing (four, led by SM 5's digital transformation). Closes with
+what the book does not do.
+
+**4. Diagnostic Test.** Eighteen MCQs, one or two per chapter, each labelled with its chapter so a
+wrong answer points at where to start. Questions printed without answers, then an answer table with
+a one-line reason for each, then a "reading your result" box with three score bands and the note
+that a section imbalance matters more than the total. The questions are deliberately drawn from the
+concepts the examiner reuses.
+
+**Content inventory at this point:** 186 topic blocks · 608 MCQs · 424 official question entries ·
+121 expected questions · 252 chapter-test items · 28 integrated cases · 38 Confusing Concepts
+tables · 789 official atoms.
