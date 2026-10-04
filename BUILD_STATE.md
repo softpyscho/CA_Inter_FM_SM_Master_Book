@@ -15,18 +15,18 @@ Updated 03-10-2026. Target attempt: January 2027.
 | Review PDF (front matter + both chapters) | Done — `CA_Inter_FMSM_Master_Book.pdf` |
 | FM Chapters 2–9 written and merged | Done — `book/Ch02.json` to `book/Ch09.json`; **Section A (FM) is complete**; see the progress ledger below |
 | SM Chapter 2 written and merged | Done — `book/Ch11.json` (24/24 headings, 91/91 atoms placed) |
+| SM Chapter 3 written and merged | Done — `book/Ch12.json` (14/14 headings, 76/76 atoms placed) |
 
 ## Chapter numbering used in the book
 
 `Ch01`–`Ch09` = FM chapters 1–9; `Ch10`–`Ch14` = SM chapters 1–5.
 Topic codes: `F01.07.01` prints as "FM Ch 1 §7.1"; `S01.05.02` prints as "SM Ch 1 §1.5.2".
 
-## Next steps (updated 03-10-2026)
+## Next steps (updated 04-10-2026)
 
-1. SM Ch 3–5 (14, 15 and 18 register headings) -> `book/Ch12.json` to `book/Ch14.json`.
-2. Back-fill pass: the stray official questions listed at the end of this file (FM Ch 1, 3, 4, 5)
-   plus the two SM atoms displaced out of SM Ch 2 (see the SM Ch 2 section), then re-run
-   `sources/coverage.py`.
+1. SM Ch 4–5 (15 and 18 register headings) -> `book/Ch13.json` and `book/Ch14.json`.
+2. Back-fill pass: the stray official questions listed at the end of this file (FM Ch 1, 3, 4, 5;
+   SM Ch 3, 4, 5), then re-run `sources/coverage.py`.
 3. Full front matter: chapter weightage chart from the mark counts, whole-paper trends,
    "changes to watch", diagnostic test.
 4. Back matter: cross-chapter cases, two mock exams, study plans, mistake book, 24-hour book,
@@ -278,6 +278,60 @@ because four of them are new in the 2026 syllabus edition and are overdue for ex
 its full published question text plus ICAI's answer across SA, RTP and MTP files; `mcqd.py`
 resolves an MCQ atom id to its stem and four options. Both will be reused for SM Ch 3–5.
 
+## SM Ch 3 — Strategic Analysis: Internal Environment — DONE (04-10-2026)
+
+`book/Ch12.json`, built from `sources/s03/u1.json` to `u5.json` and `sources/atoms/atoms_S03.json`.
+
+Merge output: 14/14 register headings covered, 76/76 official atoms placed, 10 topic blocks,
+25 official question entries, 30 official MCQ entries, 44 generated MCQs with keys
+**A11 B11 C11 D11 (deviation 0.0%)**, 2 integrated cases, 13+6 chapter test, zero errors and
+zero placement warnings. Docx scan: no raw official ids, no `S03.xx` codes, no internal ids,
+no placeholder words. The whole book is now 3,393,608 characters.
+
+Atom mix: 13 past-paper items, 22 RTP items, 41 MTP items. Heaviest headings: Porter's generic
+strategies (22 atoms), Mendelow's Matrix (18), core competency (14 across §3.4 and §3.4.1),
+strategic drivers (7), channels (6), SWOT (5).
+
+**The RTP labelling pattern is now established as exact.** Across all nine RTPs from May 2024 to
+September 2026, ICAI places Chapter 1 at questions 7–8, Chapter 2 at 9–10, Chapter 3 at 11–12,
+Chapter 4 at 13–14 and Chapter 5 at 15–16, without exception. That converts RTP mapping for the
+remaining SM chapters from judgement into transcription: **SM Ch 4 takes RTP Q13 and Q14, SM Ch 5
+takes RTP Q15 and Q16**, nine papers each.
+
+**Two labelling tensions recorded rather than smoothed over:**
+
+- `RTP-M26-SQ11` is labelled Chapter 3 but answered as strategic group mapping, so it is held in
+  `atoms_S02.json` at S02.23 (committed separately before this chapter).
+- `RTP-S26-SQ13` is labelled Chapter 4 but answered as the Focused Differentiation Strategy, which
+  Chapter 4's headings (stability, growth, exits, Ansoff, ADL, BCG, GE) have no home for, so it is
+  placed here at S03.14.
+
+**Three atoms excluded after reading the published answer in full** — each stem reads like
+Chapter 3 but the answer belongs elsewhere (all three are in the back-fill list):
+
+- `PYQ-S24-Q5a` (M/s MTS Ltd) — the stem ends "focusing on its core competencies" but ICAI's
+  answer is the **Network Organizational Structure** -> SM Ch 5.
+- `PYQ-J25-Q5c` and `MTP-J26-S1-SQ1c` (Organic Beverages) — answered with the **BCG matrix** -> SM Ch 4.
+- `PYQ-M26-Q5c` (MM Company at maturity) — answered as **Stability Strategy** -> SM Ch 4.
+
+**One atom moved in**: `PYQ-M25-MCQ12`, whose published key is "Augmented marketing", a term the
+study material defines in this chapter at §3.3.3 under types of marketing. It had been removed
+from SM Ch 2 for that reason and is now placed.
+
+**The chapter's own hazard, handled with a dedicated table.** Three four-item lists and one
+three-item list sit within four pages of each other and are examined separately: the three areas
+of core competency (§3.4), the four criteria that qualify a capability as one (§3.4.1, VRIN), and
+the four characteristics that determine how long the resulting advantage lasts (§3.6.1,
+durability/transferability/imitability/appropriability). The back matter opens with a
+trigger-word table that selects the right list from the stem's wording, because the registers of
+the three stems are nearly identical.
+
+**Extraction note**: the automated sub-part slicer mis-aligned the (a)/(b) boundaries in the
+May 2026 suggested answers, so the answers to PYQ May 2026 Q5(b) (Pearl India, differentiation)
+and Q7(b) (channels) were read directly from `sources/sa/SA-M26.txt` at lines 1439–1475 and
+1659–1695. The line numbers are recorded in the chapter's verification block so the quotations
+can be re-checked.
+
 ## Back-fill list found while scoping FM Ch 7 (coverage.py, 22-09-2026)
 These official questions belong to chapters already merged and were not in their atom files. Add them in a back-fill pass after FM Ch 9:
 - MTP-J26-S2-FQ4b (meaning of cost of capital + three reasons it matters) -> FM Ch 4
@@ -304,3 +358,11 @@ concept that belongs to another chapter. Place them when those chapters are buil
   alert control) -> SM Ch 5
 - PYQ-M25-MCQ12 (elevating customer service through a better interface, online repair and on-site
   service; key: augmented marketing) -> SM Ch 3
+
+## Back-fill list found while building SM Ch 3 (04-10-2026)
+Official SM questions whose published answer belongs to a chapter not yet built:
+- PYQ-S24-Q5a (M/s MTS Ltd — outsourcing and core competencies; key: Network Organizational
+  Structure, with merits and demerits) -> SM Ch 5 (S05.14)
+- PYQ-J25-Q5c and MTP-J26-S1-SQ1c (Organic Beverages 'Say no to Sugar'; answered with the BCG
+  growth-share matrix, the strategies after classification and the technique's limitations) -> SM Ch 4
+- PYQ-M26-Q5c (MM Company's tubeless tyre at maturity; answered as Stability Strategy) -> SM Ch 4

@@ -1,0 +1,878 @@
+{
+ "meta": {
+  "chapter_no": 3,
+  "section": "SM",
+  "paper": "CA Intermediate · Paper 6B · Strategic Management",
+  "chapter_title": "SM Chapter 3 — Strategic Analysis: Internal Environment",
+  "short_title": "SM Ch 3 Strategic Analysis: Internal Environment",
+  "module": "Paper 6B Strategic Management",
+  "attempt": "January 2027",
+  "sm_edition": "ICAI BoS Study Material, Paper 6B Strategic Management (relevant for May 2026 examination onwards), Chapter 3 (pp. 3.1–3.46)",
+  "last_verified": "04-10-2026",
+  "status_summary": "SM headings 14/14 · official atoms 76/76"
+ },
+ "sections_before": [
+  {
+   "heading": "Examiner Mindset — SM Chapter 3",
+   "blocks": [
+    {
+     "type": "box",
+     "tag": "pyq",
+     "title": "What ICAI's published papers tell us",
+     "bullets": [
+      "ICAI has not published examiners' comments for Paper 6, so this guidance comes from ICAI's suggested answers, RTPs and MTPs.",
+      "76 official items in the period reviewed — 13 past-paper items, 22 RTP items, 41 MTP items. The chapter appears in **every** attempt from May 2024 to May 2026.",
+      "Two headings dominate: **Porter's generic strategies** (22 atoms) and **Mendelow's Matrix** (18). Then **core competency** (14 across §3.4 and §3.4.1), **strategic drivers** (7), **channels** (6) and **SWOT** (5).",
+      "**ICAI's RTPs print their own chapter headings, and the pattern is exact**: Chapter 1 = questions 7 and 8, Chapter 2 = 9 and 10, **Chapter 3 = 11 and 12**, Chapter 4 = 13 and 14, Chapter 5 = 15 and 16, in all nine RTPs from May 2024 to September 2026. Question 11 is a case; question 12 is a short note.",
+      "Four questions repeat almost verbatim across papers: 'How can Mendelow's Matrix be used…' (four papers), 'Write a short note on the key strategic drivers' (six papers), 'the four specific criteria of sustainable competitive advantage' (three papers), 'major core competencies are identified in three areas' (four papers), and 'What are channels? Why is channel analysis important?' (five papers)."
+     ]
+    },
+    {
+     "type": "box",
+     "tag": "face",
+     "title": "How ICAI answers this chapter (study guidance)",
+     "bullets": [
+      "**Generic-strategy cases always follow the same three steps.** ICAI's answer opens 'According to Porter, strategies allow organizations to gain competitive advantage from three different bases: cost leadership, differentiation, and focus', then names the one the facts show, then applies it to the facts. Write that opening sentence every time.",
+      "**Mendelow questions want both the process and the quadrants.** ICAI's RTP answer gives four steps — identify stakeholders, assess power and interest, plot on the grid, develop strategies for each quadrant — and its past-paper answer gives the four quadrant names with the management response to each. A full-mark answer carries both.",
+      "**'Short note' questions are not short.** ICAI's answer to 'write a short note on the key strategic drivers' runs to a definition plus four numbered drivers with three or four lines each, and closes with an alignment sentence.",
+      "Where a case names a **niche or narrow segment plus a premium**, the answer is **focused differentiation** (RTP May 2025 Q11, MTP Mar 2024 S2 Q4(b), RTP Sep 2026 Q13). Where it names **affordability plus premium features together**, the answer is the **best-cost provider strategy** (PYQ Sep 2025 Q5(a), MTP Sep 2026 S2 Q1(c))."
+     ]
+    },
+    {
+     "type": "box",
+     "tag": "trap",
+     "title": "Where candidates lose marks here",
+     "bullets": [
+      "Confusing the **three areas** in which core competencies are identified (competitor differentiation, customer value, application to other markets — Prahalad and Hamel) with the **four criteria** of sustainable competitive advantage (valuable, rare, costly to imitate, non-substitutable). Both are asked, separately, and three times each.",
+      "Confusing those four criteria with the **four characteristics** that determine the *sustainability* of competitive advantage (durability, transferability, imitability, appropriability — §3.6.1). Three different four-item lists sit within four pages of each other.",
+      "Treating SWOT as purely internal. The study material is explicit that SWOT is **a tool used for both internal and external analysis**, and names its major criticism: it does not generally provide for evaluation in the **competitive context**.",
+      "Writing 'focus' when the facts show a narrow segment competing on **price** (focused cost leadership) rather than on **uniqueness** (focused differentiation). ICAI's five-strategy figure distinguishes them.",
+      "Forgetting that stakeholders **move between quadrants**: ICAI's own illustration is a GST compliance lapse moving the Indirect Taxes Department from high power / low interest to high power / high interest, and the media from low power / low interest to low power / high interest."
+     ]
+    }
+   ]
+  }
+ ],
+ "snapshot": {
+  "about": "The internal half of strategic analysis: what the internal environment is; who the key stakeholders are and how Mendelow's Power-Interest matrix sorts them; the four strategic drivers (industry and markets, customers, products and services, channels) that assess current performance; resources, capabilities and the building of core competency with the four criteria that qualify one; SWOT as the bridge between external and internal analysis; and competitive advantage through Michael Porter's generic strategies — cost leadership, differentiation, focus, their focused variants and the best-cost provider strategy — together with what makes an advantage sustainable.",
+  "why": "It is the second-largest SM chapter and the most list-dense. Every one of its major answers is a fixed ICAI list applied to a short case, and five of those lists have each been asked three or more times in three years.",
+  "core_concepts": [
+   "S03.02 / S03.03 Stakeholders as a coalition; Mendelow's Matrix — four quadrants, four steps, and movement between quadrants",
+   "S03.04 to S03.08 The four strategic drivers: industry and markets (with strategic group mapping), customers (customer versus consumer), products and services (with the thirteen marketing types), channels (sales, product, service)",
+   "S03.09 / S03.10 Core competency per Prahalad and Hamel — three areas; and the four criteria: valuable, rare, costly to imitate, non-substitutable",
+   "S03.11 SWOT analysis — primary objective, benefit, and its criticism",
+   "S03.12 / S03.13 Competitive advantage and the four characteristics of its sustainability: durability, transferability, imitability, appropriability",
+   "S03.14 Porter's generic strategies: cost leadership, differentiation, focus; focused cost leadership and focused differentiation; the best-cost provider strategy"
+  ],
+  "key_provisions": [
+   "C.K. Prahalad and Gary Hamel on core competency — 'the collective learning in the organization'",
+   "Mendelow on Power and Interest",
+   "Michael Porter's generic strategies and the five-strategy figure",
+   "Jack Welch — 'If you don't have a competitive advantage, don't compete'"
+  ],
+  "tested_areas": [
+   {
+    "text": "Porter's generic strategies — identification from a case, conditions, risks and bases of differentiation",
+    "evidence": "PYQ Jan 2026 Q6(b), May 2025 Q7(b), May 2026 Q5(b), Sep 2025 Q5(a); RTP May 2024 Q11, May 2025 Q11, Sep 2024 Q11, Sep 2026 Q13; MTP Jan 2025 S1 Q3(b), Mar 2024 S2 Q4(b), May 2025 S2 Q1(b), Sep 2026 S2 Q1(c); plus nine MCQs"
+   },
+   {
+    "text": "Mendelow's Matrix and stakeholder management",
+    "evidence": "PYQ Jan 2025 Q6(b), May 2025 MCQ 13, Sep 2025 MCQ 13; RTP Jan 2026 Q11, Sep 2024 Q12, Sep 2025 Q11, Jan 2025 MCQ 4, May 2025 MCQ 1(iv), May 2026 MCQ 1(v); MTP Mar 2024 S1 Q4(b), Jan 2026 S1 Q4(b), Sep 2025 S2 Q4(b), Jan 2025 S1 Q1(a) and five case MCQs"
+   },
+   {
+    "text": "Core competency — three areas and four criteria",
+    "evidence": "PYQ Sep 2024 Q7(a); RTP May 2024 Q12, Sep 2026 Q11, May 2025 MCQ 1(v); MTP Jan 2025 S1 Q4(b), May 2025 S1 Q4(b), May 2025 S2 Q3(a), Sep 2024 S1 Q4(b), Jan 2025 S2 Q3(a) and five MCQs"
+   },
+   {
+    "text": "Strategic drivers and channels",
+    "evidence": "RTP Jan 2026 Q12, May 2026 Q12, Sep 2025 Q12, Sep 2026 Q12, Jan 2025 Q12; PYQ May 2024 Q8(a), May 2026 Q7(b); MTP May 2026 S1 Q3(a), Sep 2025 S1 Q3(a), Jan 2026 S2 Q1(b), Jan 2026 S2 Q3(b), Sep 2024 S2 Q2(b)"
+   },
+   {
+    "text": "SWOT analysis and the sustainability of competitive advantage",
+    "evidence": "PYQ Sep 2025 Q7(a), May 2025 Q6(b); RTP Jan 2025 Q11, May 2025 Q12; MTP Mar 2024 S2 Q3(a), Sep 2024 S1 Q1(b)"
+   }
+  ],
+  "mistakes": [
+   "Mixing the three areas of core competency with the four criteria of sustainable competitive advantage, and both with the four characteristics of sustainability.",
+   "Calling SWOT an internal-analysis tool only; the study material calls it a tool for both.",
+   "Naming 'focus' without saying whether it is focused cost leadership or focused differentiation.",
+   "Omitting the best-cost provider strategy, which ICAI calls 'the new model' and 'a further development of the above three generic strategies' and has now examined twice.",
+   "Writing only the four Mendelow quadrants when the question asks how the matrix is *used* — the four process steps carry their own marks."
+  ],
+  "links": [
+   "SM Ch 2 §2.2 — external analysis; this chapter supplies the internal half, and SWOT joins them",
+   "SM Ch 2 §2.7.1 — strategic group mapping, which this chapter cross-refers to as the tool for analysing industry and markets",
+   "SM Ch 2 §2.5.4 — Porter's two routes to advantage, developed here into the five generic strategies",
+   "SM Ch 4 — strategic choices; the BCG, GE and ADL matrices use the competitive position this chapter establishes",
+   "SM Ch 5 §5.4 — organisation structure and culture, which the internal environment includes"
+  ],
+  "revision_path": "5 min: Mendelow's four quadrants, the four strategic drivers, the three generic strategies, the four core-competency criteria · 15 min: add the four Mendelow steps, the three areas of core competency, the three channel types, the SWOT objective and criticism · 30 min: add the five generic strategies with conditions, risks, advantages and disadvantages, and the four characteristics of sustainability · 60 min: write full answers to the five recurring questions and work both integrated cases."
+ },
+ "evidence": {
+  "pyq_table": [
+   {
+    "id": "PYQ-M24-Q8a",
+    "question": "What are channels? Why is channel analysis important? Explain the different types of channels",
+    "concept": "S03.08",
+    "marks": 5,
+    "type": "Define + explain + list (1 + 1 + 3)",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S24-Q7a",
+    "question": "The four specific criteria of sustainable competitive advantage that identify core competencies",
+    "concept": "S03.10",
+    "marks": 5,
+    "type": "Explain",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-J25-Q6b",
+    "question": "'Managing stakeholders is critical to the success of a project' — Mendelow's Matrix and the stakeholder groups",
+    "concept": "S03.03",
+    "marks": 5,
+    "type": "Explain + categorise",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M25-MCQ12",
+    "question": "Elevating customer service through a better interface, online repair and on-site service is known as",
+    "concept": "S03.07",
+    "marks": 2,
+    "type": "Case MCQ",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M25-MCQ13",
+    "question": "Greatest efforts to satisfy the CEO by taking his advice and keeping him informed — which Power-Interest quadrant",
+    "concept": "S03.03",
+    "marks": 2,
+    "type": "Case MCQ",
+    "repeat": "R2 (PYQ-J25-Q6b)"
+   },
+   {
+    "id": "PYQ-M25-Q6b",
+    "question": "The major characteristics of resources and capabilities that sustain competitive advantage",
+    "concept": "S03.13",
+    "marks": 5,
+    "type": "Explain",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-M25-Q7b",
+    "question": "Differentiation strategy, the major bases of differentiation, and the strategies that achieve it",
+    "concept": "S03.14",
+    "marks": 5,
+    "type": "Explain + list (1 + 2 + 2)",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S25-MCQ13",
+    "question": "Green Habitat Constructions integrating Solar Tech's panels — where it falls in Mendelow's Matrix",
+    "concept": "S03.03",
+    "marks": 2,
+    "type": "Case MCQ",
+    "repeat": "R2 (PYQ-M25-MCQ13)"
+   },
+   {
+    "id": "PYQ-S25-Q5a",
+    "question": "ARP Motors launching a compact SUV balancing affordability with premium features — identify the strategy",
+    "concept": "S03.14",
+    "marks": 5,
+    "type": "Case: identify + apply",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S25-Q7a",
+    "question": "Why is SWOT analysis necessary before using a strategy",
+    "concept": "S03.11",
+    "marks": 5,
+    "type": "Explain",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-J26-Q6b",
+    "question": "Cost leadership — the key conditions that must be present, and its risks",
+    "concept": "S03.14",
+    "marks": 5,
+    "type": "Explain + evaluate",
+    "repeat": "R2 (PYQ-M25-Q7b)"
+   },
+   {
+    "id": "PYQ-M26-Q5b",
+    "question": "Pearl India Ltd.'s premium unique packaged foods — identify the generic strategy and its disadvantages",
+    "concept": "S03.14",
+    "marks": 5,
+    "type": "Case: identify + explain (1 + 1 + 3)",
+    "repeat": "R1 (PYQ-M25-Q7b)"
+   },
+   {
+    "id": "PYQ-M26-Q7b",
+    "question": "'The wider and stronger the channel…' — define channels, why channel analysis matters, and the types",
+    "concept": "S03.08",
+    "marks": 5,
+    "type": "Define + explain + list",
+    "repeat": "R1 (PYQ-M24-Q8a)"
+   }
+  ],
+  "trend": [
+   "Present in every attempt from May 2024 to May 2026, and in May 2025 and May 2026 it carried **three** parts each.",
+   "Porter's generic strategies have been asked in four of the last six papers, each time on a different limb: differentiation and its bases (May 2025), cost leadership conditions and risks (Jan 2026), differentiation disadvantages (May 2026), best-cost provider (Sep 2025).",
+   "Channels have been asked twice in past papers (May 2024, May 2026) and three times in MTPs and RTPs with the same three-type answer.",
+   "Mendelow's Matrix reaches the paper mostly through MCQs — three past-paper MCQs and eight RTP/MTP case MCQs — but carried a full 5-mark part in January 2025.",
+   "The 'short note on key strategic drivers' question has appeared six times in RTPs and MTPs but has not yet reached a past paper; it is overdue."
+  ]
+ },
+ "concepts": [
+  {
+   "code": "S03.01 + S03.02",
+   "title": "3.1–3.2 Introduction; Understanding Key Stakeholders",
+   "activity": "Foundation",
+   "update_sensitive": false,
+   "multi_source": false,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 0 · MTP 1",
+   "understand": [
+    "**Introduction (§3.1).** ==Strategic analysis is equally important when it comes to internal environment assessment.== The internal environment is ==**the sum total of people — individuals and groups, stakeholders; processes — input-throughput-output; physical infrastructure — space, equipment and physical conditions of work; administrative apparatus — lines of authority and power, responsibility, accountability; and organizational culture — intangible aspects of working, relationships, philosophy, values, ethics — that shape an organization's identity.**==",
+    "==**The internal environment is specific to each organisation.**== It is based on its **structure and business model** and includes all stakeholders like top management, investors, employees and the board of directors. It also involves understanding of the **ethics, principles, work environment, employee friendliness, confidence of investors** and other philosophical and cultural aspects of business, which aim for the success of the organisation.",
+    "**Understanding key stakeholders (§3.2).** ==**A firm may be viewed as a coalition of stakeholders — all those individuals and entities that have a stake in its success and can impact it as well.**== They may be employees, shareholders, investors, suppliers, customers, regulators and so on. ==This view of the firm is **in contrast to the earlier view** of the firm, which was considered to be an extension of the owners and shareholders alone.==",
+    "==**Stakeholders can be defined as any person or group of individuals, internal or external, that has an interest in, or impact on, the business or corporate strategy of the organisation. They have the power to influence the strategy or performance of that organisation.**==",
+    "Generally, stakeholders include **management, employees, shareholders, customers and vendors**. Additionally, **governments, labour unions and local groups** are often considered stakeholders depending on their impact on the particular organisation. ==Each stakeholder or stakeholder group will be **affected by the business strategy** that the organisation chooses and implements.==",
+    "**Why identification comes first.** ==Each stakeholder exerts a **different level of influence** and can have **differing levels of interest** in the organisation.== ICAI's illustration: an organisation involved in **healthcare innovation** needs a long-term perspective on its return on investment, because there may be a long time between research timelines and a commercial outcome — while **shareholders, whose main concern is quick profits, may be more hesitant** to support spending on something whose return they may not see in the near future.",
+    "==Since the expectations of key stakeholders can influence the organisation's strategy, **a clash of objectives may have unfavourable consequences for the organisation**.==",
+    "**ICAI's worked table — key stakeholders of an OTT platform and their requirements.** **Shareholders:** innovation and continuous creative content; total shareholder return (RoI); corporate social responsibility; top rankings of the organisation; highest market share. **CEO and Board of Directors:** prestige; market share; revenue and profit growth; market rankings. **Major vendors (production houses):** growth; stability of ordering; stable margins. **Consumers (viewers):** new content and innovation; better deals and pricing benefits; value for money; continuous supply. **Employees:** wages and benefits; stability of employment; pride of working for a reputed organisation.",
+    "Notice what the table teaches: the same organisation owes **five different and partly incompatible things** to five groups. Shareholders want CSR spending and the highest market share at once; vendors want stable margins while consumers want better deals. That incompatibility is the 'clash of objectives' the study material warns about, and it is why the next heading supplies a tool for ranking the groups."
+   ],
+   "example": "An OTT platform's board approves a ₹500 crore original-content slate. Shareholders read it as innovation (good) and as cash burn delaying returns (bad); production houses read it as stability of ordering (good); viewers read it as new content (good); employees read it as job security (good). All four are stakeholders with a stake in the same decision, and the board cannot satisfy all of them on every dimension — which is exactly why it must first identify which groups hold power and which hold interest.",
+   "keywords": [
+    "sum total of people",
+    "input-throughput-output",
+    "lines of authority & power",
+    "intangible aspects of working",
+    "shape an organization's identity",
+    "specific to each organisation",
+    "coalition of stakeholders",
+    "in contrast to the earlier view",
+    "interest in, or impact on",
+    "power to influence the strategy or performance",
+    "different level of influence",
+    "clash of objectives"
+   ],
+   "memory": {
+    "trick": "The internal environment has five ingredients — \"P-P-P-A-C\" (\"People, Processes, Physical, Administrative, Culture\").",
+    "key": [
+     [
+      "P",
+      "People — individuals, groups, stakeholders"
+     ],
+     [
+      "P",
+      "Processes — input, throughput, output"
+     ],
+     [
+      "P",
+      "Physical infrastructure — space, equipment, conditions of work"
+     ],
+     [
+      "A",
+      "Administrative apparatus — authority, power, responsibility, accountability"
+     ],
+     [
+      "C",
+      "Culture — relationships, philosophy, values, ethics"
+     ]
+    ],
+    "recall_trigger": "People, Processes, Physical, Administrative, Culture"
+   },
+   "mistakes": [
+    "Defining stakeholders as shareholders. The study material expressly contrasts the coalition view with 'the earlier view of the firm that was considered to be an extension of the owners and shareholders alone'.",
+    "Leaving culture out of the internal environment. It is one of the five named ingredients, and SM Ch 5 develops it.",
+    "Forgetting that stakeholders include government, labour unions and local groups 'depending on their impact on the particular organisation'."
+   ],
+   "links": [
+    "🔗 S03.03: Mendelow's Matrix ranks the stakeholders identified here",
+    "🔗 SM Ch 1 §1.5.4: values — the ethical dimension of the internal environment",
+    "🔗 SM Ch 5 §5.4.2: organisation culture",
+    "🔗 FM Ch 1 §7: the conflict between shareholders' wealth maximisation and other stakeholders' claims"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "Rarely asked alone; it supplies the opening paragraph of every Mendelow answer",
+     "MTP Jan 2025 Series 1 Q1(a) (Chic Threads) is answered by placing a stakeholder group in Mendelow's Matrix, so this heading does its work there",
+     "A likely stand-alone form: 'Who are stakeholders and how do we identify them?' or 'What does the internal environment of an organisation comprise?'"
+    ],
+    "approach": [
+     "Define the internal environment with its five ingredients, then define stakeholders with the 'interest in, or impact on' wording, then say that each exerts a different level of influence and interest — which leads into Mendelow.",
+     "If the question gives an organisation, build ICAI's own table: stakeholder group in one column, its requirements in the other."
+    ],
+    "official_pattern": "No stand-alone published question. ICAI's published answers always use this heading as the two-sentence lead-in to the matrix.",
+    "time_tip": "If asked as a 5-mark part, allow two minutes for the definitions and five for a worked stakeholder-requirements table (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S03.02-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "\"A firm may be viewed as a coalition of stakeholders.\" Explain this view, define stakeholders, and state why identifying the key stakeholders is the first step of internal analysis.",
+     "answer_points": [
+      "A firm may be viewed as a **coalition of stakeholders** — all those individuals and entities that have a stake in its success and can impact it as well: employees, shareholders, investors, suppliers, customers, regulators and so on. This view is **in contrast to the earlier view** of the firm as an extension of the owners and shareholders alone.",
+      "**Stakeholders** are any person or group of individuals, internal or external, that has an **interest in, or impact on, the business or corporate strategy** of the organisation, and who have the **power to influence the strategy or performance** of that organisation.",
+      "Generally they include management, employees, shareholders, customers and vendors; governments, labour unions and local groups are often included depending on their impact on the particular organisation. Each group will be affected by the business strategy the organisation chooses and implements.",
+      "**Why identification comes first:** each stakeholder exerts a **different level of influence** and can have **differing levels of interest**. ICAI's illustration is a healthcare-innovation firm that needs a long-term view of return on investment, while shareholders concerned with quick profits may hesitate to support research spending whose return is distant.",
+      "Since the expectations of key stakeholders can influence strategy, **a clash of objectives may have unfavourable consequences for the organisation** — which is why the groups must then be ranked on power and interest using Mendelow's Matrix."
+     ],
+     "keywords": [
+      "coalition of stakeholders",
+      "interest in, or impact on",
+      "power to influence",
+      "different level of influence",
+      "clash of objectives"
+     ]
+    }
+   ],
+   "official_questions": [],
+   "mcqs": [
+    {
+     "id": "MTP-M24-S2-SMCQ-A-ii",
+     "question": "What stakeholder group did Café Delight engage through targeted marketing campaigns and community involvement initiatives?",
+     "options": {
+      "A": "Shareholders",
+      "B": "Suppliers",
+      "C": "Customers and the local community",
+      "D": "Regulators"
+     },
+     "answer": "C",
+     "explanation": "Targeted marketing campaigns reach customers and community involvement reaches local groups — both named stakeholder categories in SM §3.2, which lists management, employees, shareholders, customers and vendors, adding governments, labour unions and local groups depending on their impact. ICAI key: (c).",
+     "why_wrong": {
+      "A": "Shareholders are engaged through disclosure and returns, not marketing campaigns.",
+      "B": "Suppliers are engaged through ordering and contracts.",
+      "D": "Regulators are engaged through compliance."
+     },
+     "trap": "All four are genuine stakeholder groups; the engagement method in the stem identifies which.",
+     "concept": "S03.02"
+    },
+    {
+     "id": "MCQ-S03.01-01",
+     "angle": "What it comprises",
+     "difficulty": "Moderate",
+     "question": "Which of the following is **not** named in the study material as part of the internal environment of an organisation?",
+     "options": {
+      "A": "Lines of authority and power, responsibility and accountability",
+      "B": "Input-throughput-output processes",
+      "C": "The rate of inflation and the exchange rate",
+      "D": "Intangible aspects of working — relationships, philosophy, values, ethics"
+     },
+     "answer": "C",
+     "explanation": "SM §3.1 names people, processes, physical infrastructure, administrative apparatus and organizational culture. Inflation and exchange rates belong to the economic environment, which is external (SM §2.3.2).",
+     "why_wrong": {
+      "A": "The administrative apparatus.",
+      "B": "The processes.",
+      "D": "Organizational culture."
+     },
+     "trap": "Three options quote the study material's own phrases; the fourth quotes the previous chapter's.",
+     "concept": "S03.01"
+    },
+    {
+     "id": "MCQ-S03.02-01",
+     "angle": "Definition precision",
+     "difficulty": "Easy",
+     "question": "As per the study material, stakeholders are any person or group of individuals, internal or external, that:",
+     "options": {
+      "A": "Has invested equity capital in the organisation",
+      "B": "Has an interest in, or impact on, the business or corporate strategy of the organisation, and has the power to influence its strategy or performance",
+      "C": "Is employed by the organisation or its vendors",
+      "D": "Is legally entitled to receive the organisation's financial statements"
+     },
+     "answer": "B",
+     "explanation": "SM §3.2 defines stakeholders in exactly these words, and contrasts the coalition view with the earlier view of the firm as an extension of owners and shareholders alone.",
+     "why_wrong": {
+      "A": "That is a shareholder — the narrow view the study material rejects.",
+      "C": "Employees and vendors are stakeholders, but the definition is wider.",
+      "D": "A legal entitlement is not the test."
+     },
+     "trap": "Option A is the 'earlier view' the study material names and sets aside.",
+     "concept": "S03.02"
+    }
+   ],
+   "recap": [
+    "Internal environment = people, processes, physical infrastructure, administrative apparatus, culture — specific to each organisation.",
+    "The firm is a coalition of stakeholders, not an extension of its owners.",
+    "Stakeholders: internal or external, with an interest in or impact on strategy, and power to influence strategy or performance.",
+    "Each has a different level of influence and interest; a clash of objectives can hurt the organisation.",
+    "ICAI's OTT table gives five groups and their requirements — learn one row for each."
+   ]
+  },
+  {
+   "code": "S03.03",
+   "title": "3.2.1 Mendelow's Matrix (the Power-Interest Matrix)",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 3 · RTP 6 · MTP 9",
+   "understand": [
+    "==**The Mendelow Stakeholder matrix (also known as the Stakeholder Analysis matrix and the Power-Interest matrix) is a simple framework to help manage key stakeholders.**==",
+    "**Why it is needed.** Managing a project is extremely complicated because it involves **managing the competing interests of various stakeholders**. ==Who needs to know what and when, who needs to give their feedback and who has the final approval can be confusing. **However, managing stakeholders is critical to the success of a project.**== This is where a stakeholder analysis matrix can help.",
+    "==**Mendelow suggests that one should analyse stakeholder groups based on Power** (the ability to influence organisation strategy or resources) **and Interest** (how interested they are in the organisation succeeding).==",
+    "**The caution the study material adds.** All stakeholders may *seem* to have lots of power, and the organisation may *hope* they would have lots of interest too. But in reality **some stakeholders will hold more power than others, and some will have more interest than others**. ICAI's contrast: ==a **big shareholder** is likely to have high power and high interest; a **big competitor** would have high power to impact strategy but potentially **less interest in the success of a rival organisation**.==",
+    "**Developing the grid.** The matrix identifies which stakeholders are incredibly important — the metrics being **High Power and High Interest**, which management would need to **manage closely, while investing a lot of time and resources**. ICAI's example: the **CEO** is likely to have more power to influence the work and also high interest in its success, so **keeping them informed almost daily should be a priority**. By contrast, stakeholders with low power and low interest, **like research institutes seeking an organisation's data**, should be **monitored rarely and minimum effort expended** on them in terms of time and money.",
+    "**The four quadrants, in the study material's own words:**",
+    "==**KEEP SATISFIED — high power, less interested.** The organisation should put in enough work with these people to keep them satisfied with their intended information **on a regular basis**. Examples: **banks, government, customers**. The grid's instruction: *consult often; increase their interest; can be a hindrance to new ideas or strategic choices.*==",
+    "==**KEY PLAYERS — high power, highly interested.** The aim should be to **fully engage** this group, **making the greatest efforts to satisfy them, take their advice, build actions and keep them informed with all information on a regular basis**. Examples: **shareholders, CEO, Board of Directors**. The grid's instruction: *manage closely; involve in decision making; engage regularly and build a strong relationship.*==",
+    "==**LOW PRIORITY — low power, less interested.** The organisation should only **monitor** them with no actions to satisfy their expectations; **minimal efforts** should be spent **while keeping an eye to check if their levels of interest or power change**. Examples: **business magazines, media houses**. The grid's instruction: *monitor only, no engagement; general occasional communication.*==",
+    "==**KEEP INFORMED — low power, highly interested.** The organisation should **adequately inform** this group and communicate with them **to ensure that no major issues arise**. These audiences can also help with **real-time feedback and areas of improvement**. Examples: **employees, vendors, suppliers, legal experts**. The grid's instruction: *utilise the high interest by engaging in decisions; consult in their areas of expertise and interest.*==",
+    "**Movement between quadrants — the point candidates miss.** ==An important thing strategists should be aware of is that **the environment is highly dynamic and certain things might happen that can cause stakeholders to suddenly move between quadrants**.== ICAI's worked illustration: an organisation might inadvertently contravene a regulation, say **GST compliance**, which would cause the regulatory body — the **Indirect Taxes Department** — to move from **High Power, Low Interest to High Power, High Interest**, requiring a different way of managing and communicating with that stakeholder. ==Equally, **media houses would move from Low Power, Low Interest to Low Power, High Interest**. So it is always worth **re-analysing Mendelow's grid in the event of a change in the environment**.==",
+    "**The four process steps ICAI publishes for 'how is the matrix used'** (RTP September 2024 and RTP January 2026, identical): **(1) Identify stakeholders** — all individuals, groups or organisations that may be impacted by or have an impact on your activities. **(2) Assess power and interest** — power assessed on **authority, resources and expertise**; interest gauged by **level of involvement, expectations, and potential benefits or risks**. **(3) Plot stakeholders on the grid** — power on one axis, interest on the other, each stakeholder placed by the assessment. **(4) Develop strategies for each quadrant** — fully engage key players and seek their input; keep the high-power/low-interest group satisfied with regular updates so they do not become detractors; keep the low-power/high-interest group adequately informed; monitor the low-priority group."
+   ],
+   "example": "A hospital chain building a new wing: the municipal corporation holds high power over approvals but little interest in the hospital's success (keep satisfied); the promoter family holds both (key players); the resident welfare association of the neighbouring colony has little power but intense interest (keep informed); a medical journal requesting data has neither (low priority). If the project then breaches a building norm, the corporation's interest jumps and it becomes a key player overnight — the movement ICAI illustrates with the GST example.",
+   "keywords": [
+    "Stakeholder Analysis matrix",
+    "Power-Interest matrix",
+    "simple framework",
+    "competing interests",
+    "managing stakeholders is critical to the success of a project",
+    "ability to influence organisation strategy or resources",
+    "how interested they are in the organisation succeeding",
+    "big shareholder… big competitor",
+    "manage closely",
+    "keep satisfied",
+    "key players",
+    "low priority",
+    "keep informed",
+    "research institutes seeking an organisation data",
+    "suddenly move between quadrants",
+    "GST compliance",
+    "Indirect Taxes Department",
+    "authority, resources, and expertise",
+    "level of involvement, expectations, and potential benefits or risks"
+   ],
+   "memory": {
+    "trick": "Read the grid clockwise from the top-left: **Keep Satisfied → Key Players → Keep Informed → Low Priority** — \"Satisfied, Key, Informed, Low\". Power is the vertical axis, interest the horizontal; so the top row is powerful, the right column is interested.",
+    "key": [
+     [
+      "High power, low interest",
+      "KEEP SATISFIED — banks, government, customers; consult often, increase their interest"
+     ],
+     [
+      "High power, high interest",
+      "KEY PLAYERS — shareholders, CEO, Board; manage closely, involve in decisions"
+     ],
+     [
+      "Low power, high interest",
+      "KEEP INFORMED — employees, vendors, suppliers, legal experts; consult in their areas"
+     ],
+     [
+      "Low power, low interest",
+      "LOW PRIORITY — business magazines, media houses; monitor only"
+     ]
+    ],
+    "recall_trigger": "Satisfied, Key, Informed, Low — power up, interest across"
+   },
+   "mistakes": [
+    "Swapping 'keep satisfied' and 'keep informed'. **Satisfied = powerful but uninterested; informed = interested but powerless.** The memory hook is that you *satisfy* someone who can hurt you and *inform* someone who cares.",
+    "Giving only the quadrants when the question asks how the matrix is *used*. ICAI's published answer to that wording is the four process steps.",
+    "Omitting the movement point. A full-mark answer says the environment is highly dynamic, stakeholders can suddenly move between quadrants, and the grid should be re-analysed — with the GST illustration.",
+    "Calling customers 'key players' by default. ICAI lists customers under **keep satisfied**, alongside banks and government.",
+    "Forgetting that power is assessed on authority, resources **and expertise** — expertise alone can make a stakeholder powerful."
+   ],
+   "links": [
+    "🔗 S03.02: the stakeholders this matrix sorts",
+    "🔗 SM Ch 5 §5.3: a change in the environment can move stakeholders between quadrants, which is a trigger for strategic change",
+    "🔗 S02.06: the political-legal environment is where the GST illustration comes from",
+    "🔗 FM Ch 1: shareholders as key players whose wealth maximisation is the firm's financial objective"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "'How can Mendelow's Matrix be used to analyze and manage the stakeholders effectively?' — four process steps (RTP Sep 2024 Q12, MTP Mar 2024 S1 Q4(b), MTP Sep 2025 S2 Q4(b))",
+     "'Managing stakeholders is critical to the success of a project' — the four quadrants with management responses (PYQ Jan 2025 Q6(b), MTP Jan 2026 S1 Q4(b))",
+     "A case naming several stakeholder groups with differing power and interest (RTP Jan 2026 Q11, RTP Sep 2025 Q11, MTP Jan 2025 S1 Q1(a))",
+     "Eleven MCQs asking which quadrant a described stakeholder occupies"
+    ],
+    "approach": [
+     "Decide which the question wants: the **four steps** (how it is used) or the **four quadrants** (how stakeholders are categorised). The safest full answer gives the steps, then the quadrants inside step 4 — which is exactly how ICAI's RTP answer is built.",
+     "In a case, name each group with its quadrant and the management response in one line each, then close with the movement warning if the facts show a change in the environment."
+    ],
+    "official_pattern": "ICAI reuses two answers verbatim. The RTP/MTP answer is four numbered steps with the quadrant strategies nested in step 4. The past-paper answer opens 'The Mendelow's matrix is a simple framework to help manage key stakeholders', then gives the four groups with their power-interest tags in brackets, then closes with a summary sentence.",
+    "time_tip": "5 marks ≈ 7 minutes — about 90 seconds for the framework and a minute per quadrant (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S03.03-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "\"The environment is highly dynamic and certain things might happen that can cause stakeholders to suddenly move between quadrants.\" Explain this statement with the study material's own illustration, and state what the strategist should do about it.",
+     "answer_points": [
+      "Mendelow's Matrix plots stakeholder groups on **Power** (the ability to influence organisation strategy or resources) and **Interest** (how interested they are in the organisation succeeding), producing four quadrants — keep satisfied, key players, keep informed and low priority.",
+      "Because the environment is highly dynamic, a stakeholder's power or interest can change, moving it to a different quadrant and requiring **a different way of managing and communicating** with it.",
+      "**ICAI's illustration:** an organisation might inadvertently contravene a regulation, say GST compliance. That would cause the regulatory body — the Indirect Taxes Department — to move from **High Power, Low Interest** to **High Power, High Interest**, turning a 'keep satisfied' stakeholder into a 'key player'.",
+      "**Equally**, media houses would move from **Low Power, Low Interest** to **Low Power, High Interest** — from 'low priority' to 'keep informed'.",
+      "**What the strategist should do:** it is always worth **re-analysing Mendelow's grid for the organisation in the event of a change in the environment**; and even for the low-priority group, minimal effort should be spent **while keeping an eye to check if their levels of interest or power change**."
+     ],
+     "keywords": [
+      "suddenly move between quadrants",
+      "GST compliance",
+      "High Power, Low Interest to High Power, High Interest",
+      "media houses",
+      "re-analysing Mendelow's grid"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "RTP-S24-SQ12",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "How can Mendelow's Matrix be used to analyze and manage the stakeholders effectively?",
+     "answer_points": [
+      "Mendelow's Matrix can be used effectively to analyse and manage stakeholders through a **grid-based approach** by the following steps.",
+      "**1. Identify Stakeholders:** begin by identifying all relevant stakeholders for the project or organisation — individuals, groups or organisations that may be impacted by, or have an impact on, your activities.",
+      "**2. Assess Power and Interest:** for each stakeholder, assess their **power** to influence the project or organisation and their **level of interest** in its success. Power can be assessed on factors such as **authority, resources and expertise**, while interest can be gauged by their **level of involvement, expectations, and potential benefits or risks**.",
+      "**3. Plot Stakeholders on the Grid:** create a grid with power on one axis and interest on the other and plot each stakeholder. High power and high interest go in the **Key Players** quadrant; high power but low interest in **Keep Satisfied**; low power but high interest in **Keep Informed**; low power and low interest in **Low Priority**.",
+      "**4. Develop Strategies for each Quadrant:** **Key Players** — fully engage, seek their input and keep them informed; they are crucial to success, so their needs and expectations should be a top priority. **Keep Satisfied** — provide regular updates and address concerns **to prevent them from becoming detractors**. **Keep Informed** — communicate adequately so no major issues arise and use their feedback. **Low Priority** — monitor only, with minimal effort.",
+      "ICAI prints the grid itself alongside the steps, with the instructions 'consult often / increase their interest' for keep satisfied, 'manage closely / involve in decision making' for key players, 'monitor only, no engagement' for low priority."
+     ],
+     "keywords": [
+      "grid-based approach",
+      "authority, resources, and expertise",
+      "level of involvement, expectations",
+      "Key Players",
+      "prevent them from becoming detractors"
+     ],
+     "also_asked_as": [
+      "MTP-M24-S1-SQ4b and MTP-S25-S2-SQ4b ask the identical question with the same published answer; both offer an unrelated OR alternative. RTP-J26-SQ11 applies the same four steps to EcoBuild Constructions' smart city project."
+     ]
+    },
+    {
+     "id": "PYQ-J25-Q6b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "\"Managing stakeholders is critical to the success of a project\". Explain how Mendelow's Matrix helps in managing stakeholders and categorizing the stakeholders into groups. (5 Marks)",
+     "answer_points": [
+      "The Mendelow's matrix is a **simple framework to help manage key stakeholders**.",
+      "**Managing stakeholders:** Mendelow's Matrix is an essential tool for managing stakeholders effectively in project management, as it involves managing the **competing interests** of various stakeholders. It categorises stakeholders based on their **power and interest** levels, helping project managers identify which stakeholders are incredibly important and **prioritise their engagement strategies**.",
+      "**Key Players (High Power, High Interest):** require **close management and regular communication**; engaging them fully ensures their support and input, which is crucial for project success. CEOs and shareholders fall into this category.",
+      "**Keep Satisfied (High Power, Low Interest):** they have significant influence but may not be as invested in the project's success; it is essential to keep them satisfied with sufficient information **to prevent potential conflicts**.",
+      "**Keep Informed (Low Power, High Interest):** interested in the project but lacking the power to influence its outcome; regular updates and communication **foster goodwill and may provide valuable feedback**.",
+      "**Low Priority (Low Power, Low Interest):** require minimal attention; **monitoring their interest and power levels periodically is sufficient**, as they do not significantly impact the project. ICAI closes: the matrix provides a clear framework for categorising stakeholders based on power and interest, facilitating effective stakeholder management and enhancing the likelihood of project success."
+     ],
+     "keywords": [
+      "simple framework",
+      "competing interests",
+      "prioritize their engagement strategies",
+      "prevent potential conflicts",
+      "foster goodwill",
+      "monitoring… periodically is sufficient"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "MTP-J26-S1-SQ4b sets the identical statement question with the same published answer, offering the three areas of core competency as the OR alternative."
+     ]
+    },
+    {
+     "id": "RTP-S25-SQ11",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "Soltex Green Energy is rolling out a major wind project in a coastal town. A local business coalition with strong political ties and deep interest in the project has started influencing policy discussions. The company's strategy team is closely engaging with them while managing other stakeholders differently. What might be the reason Soltex is prioritizing engagement with this specific group? Identify and briefly explain the four types of stakeholder categories businesses typically deal with in such situations.",
+     "answer_points": [
+      "Soltex is prioritising engagement with the local business coalition because they fall under the category of **Key Players** in Mendelow's Stakeholder Matrix. The group possesses **high power** (strong political ties and the ability to influence policy) and **high interest** (deep involvement in the wind project).",
+      "As per Mendelow's Matrix, such stakeholders must be **fully engaged, informed regularly, and their advice and expectations carefully considered**, as they can significantly impact the success of the project.",
+      "**1. Key Players (High Power, High Interest):** should be closely managed and fully engaged; they are critical to strategic decisions.",
+      "**2. Keep Satisfied (High Power, Low Interest):** should be kept satisfied with regular information but **not over-communicated with**.",
+      "**3. Keep Informed (Low Power, High Interest):** must be kept adequately informed **to avoid misunderstandings and gain useful feedback**.",
+      "**4. Low Priority (Low Power, Low Interest):** require minimal effort, only to be **monitored occasionally**."
+     ],
+     "keywords": [
+      "Key Players",
+      "strong political ties",
+      "fully engaged",
+      "not over-communicated with",
+      "avoid misunderstandings",
+      "monitored occasionally"
+     ]
+    },
+    {
+     "id": "RTP-J26-SQ11",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "EcoBuild Constructions, a leading infrastructure development company, is planning to launch a large-scale smart city project. The project involves multiple stakeholders, including government bodies, investors, suppliers, local communities and environmental groups — each with varying levels of influence and interest. To ensure smooth project execution and stakeholder cooperation, the management wants to analyze and manage these stakeholders effectively. How can EcoBuild Constructions use Mendelow's Matrix to analyze and manage stakeholders in this project?",
+     "answer_points": [
+      "EcoBuild Constructions can use Mendelow's Matrix through a **structured, grid-based approach**.",
+      "**1. Identify Stakeholders:** begin by identifying all relevant stakeholders — government bodies, investors, suppliers, environmental groups and local communities — who may influence or be affected by the project.",
+      "**2. Assess Power and Interest:** assess each stakeholder's power to influence the project and level of interest in its success, using authority, resources and expertise for power, and involvement, expectations and potential benefits or risks for interest.",
+      "**3. Plot Stakeholders on the Grid:** place each in the Key Players, Keep Satisfied, Keep Informed or Low Priority quadrant.",
+      "**4. Develop Strategies for each Quadrant:** fully engage the key players (typically investors and major government approving bodies); keep the high-power, low-interest group satisfied with regular information; keep the high-interest, low-power groups such as local communities and suppliers adequately informed and use their feedback; monitor the rest.",
+      "The case is a good illustration of the movement warning: **environmental groups** sit in keep-informed while the project complies, but a single environmental breach would raise their interest and, through regulatory escalation, their power."
+     ],
+     "keywords": [
+      "structured, grid-based approach",
+      "government bodies, investors, suppliers",
+      "environmental groups",
+      "local communities",
+      "four quadrants"
+     ]
+    },
+    {
+     "id": "MTP-J25-S1-SQ1a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Chic Threads, a boutique fashion brand renowned for its commitment to sustainability and ethical practices, has recently launched a new line of eco-friendly clothing made from recycled materials. The brand recognizes the growing influence of environmentally conscious consumers who actively shape industry standards. (5 Marks)",
+     "answer_points": [
+      "ICAI's published answer places the **environmentally conscious consumers who influence industry standards** in **Mendelow's Matrix**.",
+      "Such a group combines **high interest** (they actively shape industry standards and care about sustainable practice) with **power** that grows as their numbers and voice grow — so Chic Threads must engage, not merely monitor, them.",
+      "The management response follows the quadrant: **fully engage, take their advice, build actions and keep them informed on a regular basis** if they are treated as key players; **adequately inform and communicate so that no major issues arise, and use their real-time feedback and areas of improvement** if they are treated as keep-informed.",
+      "The case is a direct application of the study material's caution that all stakeholders may *seem* to have lots of power: the correct answer depends on assessing power on **authority, resources and expertise**, not on how loudly a group speaks.",
+      "It also illustrates movement between quadrants: as environmentally conscious consumers come to 'actively shape industry standards', their power rises and the grid must be re-analysed."
+     ],
+     "keywords": [
+      "environmentally conscious consumers",
+      "shape industry standards",
+      "Mendelow's Matrix",
+      "fully engage",
+      "real time feedback"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "PYQ-M25-MCQ13",
+     "question": "M/s. ABCD Ltd. is of the considered view that meticulous analysis of its stakeholders will help it build and maintain strong relationships with each group. As an accepted practice, greatest efforts are in place to satisfy Mr. X, the Chief Executive Officer, by taking his advice and keeping him informed with all related information and developments on a regular basis. While preparing a Power Interest matrix of stakeholders, the position of Mr. X will be categorized in which one of the following quadrants?",
+     "options": {
+      "A": "Key player",
+      "B": "Keep satisfied",
+      "C": "Keep informed",
+      "D": "Low priority"
+     },
+     "answer": "A",
+     "explanation": "High power and high interest make a stakeholder a **key player**, to be fully engaged with the greatest efforts to satisfy them, taking their advice and keeping them informed on a regular basis — the study material's own example is the CEO (SM §3.2.1). ICAI key: (A).",
+     "why_wrong": {
+      "B": "Keep satisfied is high power but *low* interest — banks, government, customers.",
+      "C": "Keep informed is high interest but *low* power — employees, vendors, suppliers.",
+      "D": "Low priority is low on both — business magazines, media houses."
+     },
+     "trap": "The stem's words 'keeping him informed' pull towards 'keep informed'; the quadrant is decided by power and interest, both of which are high for a CEO.",
+     "concept": "S03.03"
+    },
+    {
+     "id": "PYQ-S25-MCQ13",
+     "question": "A leading real estate developer, Green Habitat Constructions, wants to integrate Solar Tech's next-generation panels into its residential and commercial projects. Where would Green Habitat Constructions fall in Mendelow Matrix?",
+     "options": {
+      "A": "High power, High interest (Key Players)",
+      "B": "Low power, Low interest (Low Priority)",
+      "C": "Low power, High interest (Keep informed)",
+      "D": "High power, Low interest (Keep Satisfied)"
+     },
+     "answer": "A",
+     "explanation": "A large developer adopting the product across its projects holds high power (it can make or break volumes) and high interest (its own buildings depend on the panels) — a key player to be managed closely and involved in decision making. ICAI key: (A).",
+     "why_wrong": {
+      "B": "Neither low; the partnership is material to both sides.",
+      "C": "Its purchasing scale gives it real power.",
+      "D": "Its interest is high, not low — it is integrating the panels into its own projects."
+     },
+     "trap": "Customers are listed under 'keep satisfied' in the study material's examples, but a customer whose own product depends on yours has high interest too.",
+     "concept": "S03.03"
+    },
+    {
+     "id": "RTP-J25-SMCQ4",
+     "question": "A multinational corporation is planning a merger with a local firm in a developing country. The local firm's community has high stakes in maintaining local employment and environmental standards but limited formal authority over the transaction. In Mendelow's terms, this community should be:",
+     "options": {
+      "A": "Managed closely as key players and involved in decision making",
+      "B": "Kept informed, with the organisation communicating adequately so that no major issues arise and using their feedback",
+      "C": "Monitored only, with no engagement",
+      "D": "Kept satisfied with regular information to prevent them becoming detractors"
+     },
+     "answer": "B",
+     "explanation": "High interest with low formal power is the **keep informed** quadrant: adequately inform and communicate to ensure no major issues arise, and use the group for real-time feedback and areas of improvement (SM §3.2.1). ICAI key: (b).",
+     "why_wrong": {
+      "A": "Key players need high power as well as high interest.",
+      "C": "Monitor-only is the low-priority quadrant — low on both.",
+      "D": "Keep satisfied is for the powerful but uninterested."
+     },
+     "trap": "A community's moral claim feels powerful; Mendelow's power is the ability to influence strategy or resources, assessed on authority, resources and expertise.",
+     "concept": "S03.03"
+    },
+    {
+     "id": "RTP-M25-SMCQ1-iv",
+     "question": "In accordance with Mendelow's Matrix, some stakeholder groups possess high power and high interest in a company's operations. Among the options listed below, which stakeholder group typically falls into that category?",
+     "options": {
+      "A": "Business magazines and media houses",
+      "B": "Shareholders, the CEO and the Board of Directors",
+      "C": "Research institutes seeking the organisation's data",
+      "D": "Banks and the government"
+     },
+     "answer": "B",
+     "explanation": "SM §3.2.1 names shareholders, the CEO and the Board of Directors as the examples of key players — high power, highly interested. ICAI key: (b).",
+     "why_wrong": {
+      "A": "The study material's own example of low priority.",
+      "C": "The study material's own example of low power and low interest.",
+      "D": "The study material's own example of keep satisfied."
+     },
+     "trap": "Every wrong option is a genuine example from the same paragraph, attached to a different quadrant.",
+     "concept": "S03.03"
+    },
+    {
+     "id": "RTP-M26-SMCQ1-v",
+     "question": "The rise of environmental NGOs and stricter recycling regulations highlight the importance of stakeholder management. Using Mendelow's Matrix, how should EcoRide position NGOs as stakeholders, and why?",
+     "options": {
+      "A": "Low priority, because they are not customers",
+      "B": "Key players, because they hold statutory approval powers",
+      "C": "Keep satisfied, because their interest in the company is low",
+      "D": "Keep informed moving towards key players, because their interest is high and stricter regulation is raising their power"
+     },
+     "answer": "D",
+     "explanation": "NGOs begin with high interest but limited formal power (keep informed); as regulation tightens, their power rises and they move towards key players — the study material's own point that stakeholders can suddenly move between quadrants. ICAI key: (d).",
+     "why_wrong": {
+      "A": "Their interest in the firm's environmental conduct is high.",
+      "B": "NGOs do not themselves hold statutory approval powers; regulators do.",
+      "C": "Their interest is high, not low."
+     },
+     "trap": "The static reading (keep informed) is half right; the stem's reference to stricter regulation is the movement cue.",
+     "concept": "S03.03"
+    },
+    {
+     "id": "MTP-J25-S2-SMCQ-A-iv",
+     "question": "GEL identified shareholders and the Board of Directors as key stakeholders. Analyze the rationale for classifying them as both high power and high interest.",
+     "options": {
+      "A": "They hold formal authority but little concern for day-to-day performance",
+      "B": "They can influence strategy and resources and are directly concerned with the organisation succeeding, so they must be fully engaged, consulted and kept informed regularly",
+      "C": "They are external parties whose interest must merely be monitored",
+      "D": "They have high interest but no ability to influence resources"
+     },
+     "answer": "B",
+     "explanation": "Power is the ability to influence organisation strategy or resources; interest is how interested they are in the organisation succeeding. Shareholders and the Board score high on both, so the response is full engagement, taking their advice and regular information (SM §3.2.1). ICAI key: (b).",
+     "why_wrong": {
+      "A": "That describes keep satisfied.",
+      "C": "That describes low priority.",
+      "D": "That describes keep informed."
+     },
+     "trap": "Each distractor is the correct description of a different quadrant.",
+     "concept": "S03.03"
+    },
+    {
+     "id": "MTP-J26-S2-SMCQ-A-ii",
+     "question": "According to Mendelow's Matrix, which group of stakeholders requires the highest level of engagement from Titan Tech?",
+     "options": {
+      "A": "Employees with high interest but limited influence",
+      "B": "Media houses tracking the industry",
+      "C": "Those with both high power and high interest",
+      "D": "Regulators with high power but low interest"
+     },
+     "answer": "C",
+     "explanation": "The key players quadrant — high power, high interest — is where the organisation makes 'the greatest efforts to satisfy them, take their advice, build actions and keep them informed with all information on a regular basis' (SM §3.2.1). ICAI key: (c).",
+     "why_wrong": {
+      "A": "Keep informed — adequate information, not the highest engagement.",
+      "B": "Low priority — monitor only.",
+      "D": "Keep satisfied — enough work to keep them satisfied."
+     },
+     "trap": "'Highest level of engagement' maps to the quadrant, not to the most numerous group.",
+     "concept": "S03.03"
+    },
+    {
+     "id": "MTP-M25-S1-SMCQ-A-i",
+     "question": "How did Athena Corporation effectively utilize Mendelow's Matrix to manage stakeholders based on their power and interest, ensuring long-term stability and success?",
+     "options": {
+      "A": "By treating every stakeholder group identically to avoid accusations of favouritism",
+      "B": "By ranking stakeholders only on the size of their financial stake",
+      "C": "By assessing each group's power and interest, plotting them on the grid, and developing a distinct engagement strategy for each quadrant",
+      "D": "By engaging only those stakeholders who approached the company first"
+     },
+     "answer": "C",
+     "explanation": "That is the published four-step use of the matrix: identify stakeholders, assess power and interest, plot on the grid, develop strategies for each quadrant. ICAI key: (c).",
+     "why_wrong": {
+      "A": "Uniform treatment defeats the purpose; the matrix exists because effort must be differentiated.",
+      "B": "Financial stake is not the axis; power and interest are.",
+      "D": "Stakeholder identification is proactive, covering all who impact or are impacted."
+     },
+     "trap": "Option A sounds fair-minded but contradicts the matrix's entire rationale.",
+     "concept": "S03.03"
+    },
+    {
+     "id": "MTP-M25-S2-SMCQ-B-ii",
+     "question": "A group of environmental activists consistently raises concerns about a company's environmental impact. While their opinions attract public attention, they hold no formal authority over the company's decisions. How should the company treat this group?",
+     "options": {
+      "A": "Keep informed — communicate adequately so that no major issues arise, and use their feedback on areas of improvement",
+      "B": "Key players — involve them in every decision",
+      "C": "Low priority — monitor only, with no engagement",
+      "D": "Keep satisfied — give them enough information to stop them interfering"
+     },
+     "answer": "A",
+     "explanation": "High interest with low formal power is the keep-informed quadrant, where the study material says to adequately inform and communicate to ensure no major issues arise, and notes that such audiences can help with real-time feedback and areas of improvement. ICAI key: (a).",
+     "why_wrong": {
+      "B": "Key players need power as well as interest.",
+      "C": "Monitor-only would ignore a group with high interest and public attention.",
+      "D": "Keep satisfied is for the powerful but uninterested."
+     },
+     "trap": "Public attention is not the same as power to influence strategy or resources.",
+     "concept": "S03.03"
+    },
+    {
+     "id": "MTP-S25-S2-SMCQ-A-i",
+     "question": "Based on Mendelow's Matrix, how would you categorize Dealers in the case of Nav-Uday, who have significant influence and expect alignment with the company's future strategy?",
+     "options": {
+      "A": "Low priority",
+      "B": "Keep informed",
+      "C": "Keep satisfied",
+      "D": "Key players"
+     },
+     "answer": "D",
+     "explanation": "Significant influence is power; expecting alignment with future strategy is interest. High on both makes the dealers key players, to be managed closely and involved in decision making. ICAI key: (d).",
+     "why_wrong": {
+      "A": "They are low on neither dimension.",
+      "B": "They have real influence, so not low power.",
+      "C": "Their interest in the strategy is explicitly high."
+     },
+     "trap": "Dealers are intermediaries and feel peripheral, but for a vehicle maker their influence over volumes is decisive.",
+     "concept": "S03.03"
+    },
+    {
+     "id": "MCQ-S03.03-01",
+     "angle": "Which quadrant",
+     "difficulty": "Moderate",
+     "question": "The study material's grid gives the instruction \"Consult often; increase their interest; can be a hindrance to new ideas or strategic choices.\" Which quadrant is this?",
+     "options": {
+      "A": "Keep satisfied",
+      "B": "Keep informed",
+      "C": "Key players",
+      "D": "Low priority"
+     },
+     "answer": "A",
+     "explanation": "SM §3.2.1 grid: keep satisfied (high power, low interest) carries 'consult often, increase their interest, can be hindrance to new ideas or strategic choices'. Key players carry 'manage closely, involve in decision making'; low priority 'monitor only, no engagement'; keep informed 'utilise the high interest by engaging in decisions'.",
+     "why_wrong": {
+      "B": "Keep informed is 'utilise the high interest by engaging in decisions; consult in their areas of expertise'.",
+      "C": "Key players are 'manage closely; involve in decision making; engage regularly'.",
+      "D": "Low priority is 'monitor only, no engagement; general occasional communication'."
+     },
+     "trap": "'Consult often' appears in two quadrants' instructions in different forms; the 'hindrance to new ideas' clause is unique to keep satisfied.",
+     "concept": "S03.03"
+    },
+    {
+     "id": "MCQ-S03.03-02",
+     "angle": "Assessment basis",
+     "difficulty": "Easy",
+     "question": "As per ICAI's published answer, a stakeholder's **power** is assessed on the basis of:",
+     "options": {
+      "A": "Shareholding percentage alone",
+      "B": "Public visibility and media coverage",
+      "C": "Authority, resources and expertise",
+      "D": "Level of involvement, expectations, and potential benefits or risks"
+     },
+     "answer": "C",
+     "explanation": "Power is assessed on authority, resources and expertise; interest is gauged by level of involvement, expectations, and potential benefits or risks (RTP Sep 2024 Q12 and RTP Jan 2026 Q11).",
+     "why_wrong": {
+      "A": "Too narrow — expertise alone can confer power.",
+      "B": "Visibility is not one of the three stated bases.",
+      "D": "That is the published basis for assessing **interest**, not power."
+     },
+     "trap": "Option D is the right list attached to the wrong axis.",
+     "concept": "S03.03"
+    }
+   ],
+   "recap": [
+    "Mendelow = Stakeholder Analysis matrix = Power-Interest matrix: a simple framework to manage key stakeholders.",
+    "Power = ability to influence strategy or resources (authority, resources, expertise). Interest = how interested they are in the organisation succeeding (involvement, expectations, benefits or risks).",
+    "Four quadrants: keep satisfied (banks, government, customers) · key players (shareholders, CEO, Board) · keep informed (employees, vendors, suppliers, legal experts) · low priority (business magazines, media houses).",
+    "Four steps when asked how it is used: identify → assess power and interest → plot on the grid → develop strategies per quadrant.",
+    "Stakeholders can suddenly move between quadrants — the GST / Indirect Taxes Department illustration — so re-analyse the grid when the environment changes."
+   ]
+  }
+ ]
+}

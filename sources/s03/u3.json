@@ -1,0 +1,797 @@
+{
+ "concepts": [
+  {
+   "code": "S03.09",
+   "title": "3.4 Role of Resources and Capabilities: Building Core Competency",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 0 · RTP 1 · MTP 8",
+   "understand": [
+    "==An organization may be viewed as **an entity endowed with resources and capabilities**. These resources and capabilities may be **so synergized as to impart distinct competencies** that the organization may leverage to its advantage.==",
+    "==**C.K. Prahalad and Gary Hamel** have advocated the concept of core competency. They defined core competency as **the collective learning in the organization, especially coordinating diverse production skills and integrating multiple streams of technologies.**== An organization's combination of **technological and managerial know-how, wisdom and experience** are a complex set of capabilities and resources that can lead to a competitive advantage compared to a competitor.",
+    "==**Competency is defined as a combination of skills and techniques rather than individual skill or separate technique.** For core competencies it is characteristic to have a combination of skills and techniques which makes the whole organization utilize these several separate individual capabilities. Therefore, **core competencies cannot be built on one capability or single technological know-how; instead it has to be the integration of many resources.**== ==**The optimal way to define core competence is to consider it as the sum of 5 to 15 areas of developed expertise.**==",
+    "**The three areas in which major core competencies are identified** (Prahalad and Hamel) — ==**competitor differentiation, customer value, and application to other markets**==:",
+    "==**(1) Competitor differentiation.** The company can consider having a core competence **if the competence is unique and it is difficult for competitors to imitate**. This provides an edge compared to competitors and allows the company to provide better products or services **with no fear that competitors can copy it**. The company has to **keep on improving these skills in order to sustain its competitive position**. Competence does not necessarily have to exist within one company to be defined as a core competence: although all companies in the same market would have equal skills and resources, **if one company can perform this significantly better, that company has obtained a core competence**. ICAI's example: it is quite difficult to imitate patented innovation, like **Tesla** winning over competition in electric vehicles.==",
+    "==**(2) Customer value.** When purchasing a product or service, it has to **deliver a fundamental benefit for the end customer** in order to be a core competence. It will include **all the skills needed to provide fundamental benefits**. The service or product must have **a real impact on the customer as the reason to choose to purchase**. If a customer has chosen the company without this impact, then the competence is not a core competence and it will not affect the company's market position. **The essence is that the consumer should value the differentiation offered. Without it, the core competency does not make sense.**==",
+    "==**(3) Application to other markets.** **Core competence must be applicable to the whole organization; it cannot be only one particular skill or specified area of expertise.** Therefore, although some special capability may be essential or crucial for the success of a business activity, **it will not be considered a core competence if it is not fundamental from the whole organization's point of view**. Thus a core competence is **a unique set of skills and expertise which will be used throughout the organisation to open up potential markets to be exploited**. If the three conditions are met, the company can regard its competence as a core competency.==",
+    "**Core competencies in the form of organizational functions.** ICAI's illustration: ==**Marketing and Sales is a core competence of Hindustan Unilever Limited** — HUL has used its resources to form marketing-related capabilities that allow it to market its products in ways superior to competitors, and because of this core competence HUL is capable of **launching new brands in the market successfully**.==",
+    "==**A core competency for a firm is whatever it does best.**== ICAI's second illustration: **Wal-Mart focuses on lowering its operating costs**; the cost advantage it has created has allowed the retailer to **price goods lower than most competitors**, and the core competency is derived from the company's **ability to generate large sales volume, allowing it to remain profitable with a low profit margin**.",
+    "==**Core competencies are the knowledge, skills and facilities necessary to design and produce core products.** They are **created by superior integration of technological, physical and human resources**. They represent **distinctive skills as well as intangible, invisible, intellectual assets and cultural capabilities**. **Cultural capabilities refer to the ability to manage change, the ability to learn and teamwork.**==",
+    "==**Organizations should be viewed as a bundle of a few core competencies, each supported by several individual skills.** **Core-competence-based diversification reduces risk and investment and increases the opportunities for transferring learning and best practice across business units.**==",
+    "**Core technological competencies are also corporate assets**, and as assets they **facilitate corporate access to a variety of markets and businesses**. For competitive advantage, a core technological competence should be **difficult for the competitors to imitate**.",
+    "ICAI's closing box: **Airtel's marketing campaign about 'Zero Customer Complaints' is about creating a core competency of great customer service.**"
+   ],
+   "example": "A small chemist's shop cannot out-buy an online pharmacy, but it can build competencies the online seller cannot copy: personal relations with regular patients, free home delivery, a speed of delivery that a warehouse model cannot match, extended hours, and monthly credit for chronic-medicine buyers. Each is small; together they are the 'sum of 5 to 15 areas of developed expertise' ICAI describes — and that is ICAI's own published answer to exactly this question.",
+   "keywords": [
+    "endowed with resources and capabilities",
+    "so synergized as to impart distinct competencies",
+    "C.K. Prahalad and Gary Hamel",
+    "collective learning in the organization",
+    "coordinating diverse production skills",
+    "integrating multiple streams of technologies",
+    "combination of skills and techniques",
+    "cannot be built on one capability",
+    "sum of 5-15 areas of developed expertise",
+    "competitor differentiation, customer value, application to other markets",
+    "no fear that competitors can copy it",
+    "significantly better",
+    "fundamental benefit for the end customer",
+    "the consumer should value the differentiation offered",
+    "applicable to the whole organization",
+    "open up potential markets to be exploited",
+    "Marketing and Sales is a core competence of Hindustan Unilever Limited",
+    "whatever it does best",
+    "Wal-Mart",
+    "low profit margin",
+    "superior integration of technological, physical and human resources",
+    "cultural capabilities",
+    "ability to manage change, the ability to learn and teamwork",
+    "bundle of a few core competencies",
+    "reduces risk and investment",
+    "corporate assets",
+    "Zero Customer Complaints"
+   ],
+   "memory": {
+    "trick": "Three areas = **\"C-C-A\"** (\"Competitor, Customer, Application\"): can rivals copy it? does the customer value it? can the whole organisation use it?",
+    "key": [
+     [
+      "C",
+      "Competitor differentiation — unique and difficult to imitate; must keep improving"
+     ],
+     [
+      "C",
+      "Customer value — must deliver a fundamental benefit and be the reason to buy"
+     ],
+     [
+      "A",
+      "Application to other markets — applicable to the whole organisation, not one skill"
+     ],
+     [
+      "Definition",
+      "Collective learning; coordinating diverse production skills; integrating multiple streams of technologies"
+     ],
+     [
+      "Size",
+      "The sum of 5 to 15 areas of developed expertise"
+     ]
+    ],
+    "recall_trigger": "Competitor can't copy it, Customer values it, All markets can use it"
+   },
+   "mistakes": [
+    "Confusing the **three areas** (competitor differentiation, customer value, application to other markets) with the **four criteria** (valuable, rare, costly to imitate, non-substitutable). The three are Prahalad and Hamel's; the four are the sustainable-competitive-advantage test at §3.4.1. Both are asked separately and repeatedly.",
+    "Calling a single outstanding skill a core competence. The study material is explicit: it cannot be built on one capability or single technological know-how; it is the integration of many resources, the sum of 5 to 15 areas of expertise.",
+    "Attributing the concept to Michael Porter. Core competency is **Prahalad and Hamel**; Porter owns the value chain and the generic strategies.",
+    "Omitting cultural capabilities, which the study material defines as the ability to manage change, the ability to learn, and teamwork."
+   ],
+   "links": [
+    "🔗 S03.10: the four criteria that test whether a capability qualifies as a core competence",
+    "🔗 S03.13: durability, transferability, imitability and appropriability — what makes the resulting advantage last",
+    "🔗 S02.12: the value chain, the other way Porter examines the origin of competitive advantage",
+    "🔗 SM Ch 4: core-competence-based diversification reduces risk and investment"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "'Major core competencies are identified in three areas — competitor differentiation, customer value and application to other markets. Discuss.' — asked four times: MTP Jan 2025 S1 Q4(b), MTP May 2025 S2 Q3(a), MTP Sep 2024 S1 Q4(b), MTP Jan 2026 S1 Q4(b) as the OR",
+     "A case asking what competencies a small firm can build against a larger or online rival (MTP Jan 2025 S2 Q3(a))",
+     "Five MCQs asking whether a described capability is a core competence"
+    ],
+    "approach": [
+     "Open with the Prahalad and Hamel definition, then the point that competency is a combination of skills and techniques — not one skill — then the three areas as bold headings with three or four lines each.",
+     "In a case about a small firm, give **five** concrete competencies, as ICAI's chemist-shop answer does, and open with 'Capabilities that are valuable, rare, costly to imitate and non-substitutable are core competencies' — ICAI's own first line there."
+    ],
+    "official_pattern": "The three-area answer is reproduced identically in four papers. The chemist-shop answer is five numbered competencies with no theory beyond the opening sentence — proof that applied questions want applied answers.",
+    "time_tip": "5 marks ≈ 7 minutes; roughly 90 seconds per area plus the definition (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S03.09-1",
+     "form": "Explain (5 marks)",
+     "marks": 5,
+     "question": "Define core competency as Prahalad and Hamel do, explain why it cannot rest on a single skill, and state what core competencies are created by and what they represent.",
+     "answer_points": [
+      "**Prahalad and Hamel** defined core competency as **the collective learning in the organization, especially coordinating diverse production skills and integrating multiple streams of technologies**. An organisation's combination of technological and managerial know-how, wisdom and experience is a complex set of capabilities and resources that can lead to competitive advantage.",
+      "**Why not a single skill:** competency is a **combination of skills and techniques rather than an individual skill or separate technique**. For core competencies it is characteristic to have a combination that makes the whole organisation utilise several separate individual capabilities. **Core competencies cannot be built on one capability or single technological know-how; instead it has to be the integration of many resources.** The optimal way to define core competence is as **the sum of 5 to 15 areas of developed expertise**.",
+      "**What they are:** core competencies are the **knowledge, skills and facilities necessary to design and produce core products**, and they are **created by the superior integration of technological, physical and human resources**.",
+      "**What they represent:** **distinctive skills as well as intangible, invisible, intellectual assets and cultural capabilities** — cultural capabilities being the **ability to manage change, the ability to learn, and teamwork**.",
+      "**The organisational view:** organisations should be viewed as **a bundle of a few core competencies, each supported by several individual skills**; core-competence-based diversification **reduces risk and investment and increases the opportunities for transferring learning and best practice across business units**. Core technological competencies are corporate assets that facilitate access to a variety of markets and businesses, and should be difficult for competitors to imitate."
+     ],
+     "keywords": [
+      "collective learning",
+      "integrating multiple streams of technologies",
+      "combination of skills and techniques",
+      "5-15 areas of developed expertise",
+      "superior integration",
+      "cultural capabilities",
+      "bundle of a few core competencies",
+      "reduces risk and investment"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "MTP-M25-S2-SQ3a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Major core competencies are identified in three areas - competitor differentiation, customer value and application to other markets. Discuss. (5 Marks)",
+     "answer_points": [
+      "According to **C.K. Prahalad and Gary Hamel**, major core competencies are identified in three areas — competitor differentiation, customer value, and application to other markets.",
+      "**Competitor differentiation:** the company can consider having a core competence **if the competence is unique and it is difficult for competitors to imitate**. This provides an edge compared to competitors and allows the company to provide better products or services to market **with no fear that competitors can copy it**.",
+      "**Customer value:** when purchasing a product or service it has to **deliver a fundamental benefit for the end customer** in order to be a core competence. It includes all the skills needed to provide fundamental benefits. The service or product has to have a **real impact on the customer as the reason to choose to purchase** it; if a customer has chosen the company without this impact, the competence is not a core competence.",
+      "**Application of competencies to other markets:** core competence must be **applicable to the whole organization**; it cannot be only one particular skill or specified area of expertise. Although some special capability may be essential or crucial for the success of a business activity, **it will not be considered a core competence if it is not fundamental from the whole organization's point of view**.",
+      "Thus a core competence is **a unique set of skills and expertise which will be used throughout the organisation to open up potential markets to be exploited**."
+     ],
+     "keywords": [
+      "competitor differentiation",
+      "no fear that competitors can copy it",
+      "fundamental benefit for the end customer",
+      "real impact on the customer",
+      "applicable to the whole organization",
+      "open up potential markets"
+     ],
+     "also_asked_as": [
+      "The identical question with the identical published answer appears as MTP-J25-S1-SQ4b, MTP-S24-S1-SQ4b and as the OR alternative in MTP-J26-S1-SQ4b — four appearances in fifteen MTPs."
+     ]
+    },
+    {
+     "id": "MTP-J25-S2-SQ3a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Rohit Patel has a small chemist shop in the central part of Ahmedabad. What kind of competencies Rohit can build to gain competitive advantage over online medicine sellers? (5 Marks)",
+     "answer_points": [
+      "**Capabilities that are valuable, rare, costly to imitate, and non-substitutable are core competencies.** A small chemist shop has a local presence and functions within a limited geographical area, yet it can build its own competencies to gain competitive advantage.",
+      "**(i)** Developing **personal and cordial relations with the customers**.",
+      "**(ii)** Providing **home delivery with no additional cost**.",
+      "**(iii)** Developing a system of **speedy delivery that can be difficult to match by online sellers**; being in the central part of the city, he can create a network to supply at wider locations in the city.",
+      "**(iv)** Having **extended working hours** for the convenience of buyers.",
+      "**(v)** Providing **easy credit or a system of monthly payments** to patients consuming regular medicines.",
+      "Note the shape of ICAI's answer: one line of theory, then five concrete, locally grounded competencies. Each passes the three tests — hard for an online seller to imitate, valued by the customer, and usable across the whole shop's business."
+     ],
+     "keywords": [
+      "valuable, rare, costly to imitate, and non-substitutable",
+      "personal and cordial relations",
+      "home delivery with no additional cost",
+      "speedy delivery",
+      "extended working hours",
+      "easy credit"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "RTP-M25-SMCQ1-v",
+     "question": "The case highlights one of DezineFabs' core competences, which contributes significantly to their success in the clothing industry. What specific core competence is emphasised in the given case?",
+     "options": {
+      "A": "The lowest manufacturing cost in the industry",
+      "B": "An exclusive licence to import fabric",
+      "C": "The ability to design and launch products that match evolving customer tastes, built on accumulated design and sourcing expertise",
+      "D": "The largest retail footprint among competitors"
+     },
+     "answer": "C",
+     "explanation": "A core competence is the collective learning of the organisation, integrating diverse skills, that is hard to imitate, valued by the customer and usable across the business (SM §3.4). Design-and-launch capability built on accumulated expertise meets all three tests. ICAI key: (c).",
+     "why_wrong": {
+      "A": "A cost position is an outcome; the competence behind it would have to be named.",
+      "B": "A licence is a resource, not collective learning.",
+      "D": "Footprint is scale, not competence."
+     },
+     "trap": "Resources (licences, stores, low cost) are not themselves competencies; competencies are what the organisation has learned to do with them.",
+     "concept": "S03.09"
+    },
+    {
+     "id": "MTP-J25-S1-SMCQ-B-iii",
+     "question": "Urbankey has a unique capability in rapid prototyping, allowing them to bring new products to market faster than the competitors. Such an advantage can be termed as?",
+     "options": {
+      "A": "Economies of scale",
+      "B": "Core competence",
+      "C": "Synergy benefit",
+      "D": "Experience curve"
+     },
+     "answer": "B",
+     "explanation": "A unique capability that rivals cannot match and that the customer values is a core competence — the collective learning of the organisation integrating diverse skills (SM §3.4). ICAI key: (b).",
+     "why_wrong": {
+      "A": "Economies of scale are the decline in per-unit cost as volume grows.",
+      "C": "Synergy benefit is the internal strategy of sharing resources to build advantage (SM §3.6.2.1).",
+      "D": "The experience curve is the fall in unit cost with cumulative volume (SM §2.5.3)."
+     },
+     "trap": "'Faster than competitors' could suggest learning effects; the stem says the capability itself is unique, which is the core-competence test.",
+     "concept": "S03.09"
+    },
+    {
+     "id": "MTP-S26-S2-SMCQ-B-iii",
+     "question": "Urbankey has a unique capability in rapid prototyping, allowing them to bring new products to market faster than the competitors. Such an advantage can be termed as?",
+     "options": {
+      "A": "Economies of scale",
+      "B": "Core competence",
+      "C": "Best-cost provider advantage",
+      "D": "Experience curve"
+     },
+     "answer": "B",
+     "explanation": "The identical question reappears in the September 2026 MTP with the same published key — a useful signal that this exact wording is worth memorising. ICAI key: (b).",
+     "why_wrong": {
+      "A": "A volume-driven cost effect, not a capability.",
+      "C": "A generic strategy, not a capability.",
+      "D": "A cost curve, not a capability."
+     },
+     "trap": "Repeated questions are the cheapest marks in the paper; this one has now appeared twice in two years.",
+     "concept": "S03.09"
+    },
+    {
+     "id": "MTP-J26-S1-SMCQ-B-i",
+     "question": "A manufacturing company's success is rooted in its proven ability to consistently adhere to ISO quality standards, deliver products with zero defects, and effectively manage its global supply chain. This inherent capability is a reflection of:",
+     "options": {
+      "A": "A focused differentiation strategy",
+      "B": "An entry barrier created by capital requirements",
+      "C": "A core competence built on the superior integration of technological, physical and human resources",
+      "D": "Synchro-marketing"
+     },
+     "answer": "C",
+     "explanation": "Quality systems, zero defects and global supply-chain management together are the collective learning of the organisation — core competencies 'created by superior integration of technological, physical and human resources' (SM §3.4). ICAI key: (c).",
+     "why_wrong": {
+      "A": "A strategy is what the firm does with a competence, not the competence itself.",
+      "B": "No capital barrier is described.",
+      "D": "A demand-shaping marketing technique, unrelated."
+     },
+     "trap": "Option A is tempting because quality supports differentiation; the question asks what the *capability* reflects.",
+     "concept": "S03.09"
+    },
+    {
+     "id": "MTP-S24-S1-SMCQ-B-ii",
+     "question": "StreamlineCo is examining its internal capabilities to ensure that employees possess advanced knowledge of emerging technologies. This examination is directed at:",
+     "options": {
+      "A": "Scanning the macro environment through PESTLE",
+      "B": "Mapping rivals into strategic groups",
+      "C": "Identifying and building core competencies from its resources and capabilities",
+      "D": "Measuring the bargaining power of its suppliers"
+     },
+     "answer": "C",
+     "explanation": "An organisation may be viewed as an entity endowed with resources and capabilities which may be so synergised as to impart distinct competencies (SM §3.4); examining employees' knowledge is internal analysis directed at core competency. ICAI key: (c).",
+     "why_wrong": {
+      "A": "PESTLE scans external macro factors.",
+      "B": "Strategic group mapping examines rivals.",
+      "D": "Supplier power is one of Porter's five forces."
+     },
+     "trap": "Three options are genuine analytical tools, but all external; the stem says 'internal capabilities'.",
+     "concept": "S03.09"
+    },
+    {
+     "id": "MCQ-S03.09-01",
+     "angle": "Who and what",
+     "difficulty": "Easy",
+     "question": "Core competency is defined as \"the collective learning in the organization, especially coordinating diverse production skills and integrating multiple streams of technologies\". This definition is attributed in the study material to:",
+     "options": {
+      "A": "Michael Porter",
+      "B": "Mendelow",
+      "C": "Gluek and Jauch",
+      "D": "C.K. Prahalad and Gary Hamel"
+     },
+     "answer": "D",
+     "explanation": "SM §3.4 attributes the concept and this definition to C.K. Prahalad and Gary Hamel, who also identify the three areas of core competency.",
+     "why_wrong": {
+      "A": "Porter owns the value chain, the five forces and the generic strategies.",
+      "B": "Mendelow owns the Power-Interest matrix.",
+      "C": "Gluek and Jauch are quoted in SM Ch 2 on environmental factors."
+     },
+     "trap": "All four names appear in Paper 6B; only one is attached to core competency.",
+     "concept": "S03.09"
+    },
+    {
+     "id": "MCQ-S03.09-02",
+     "angle": "Size of a competence",
+     "difficulty": "Moderate",
+     "question": "As per the study material, the optimal way to define a core competence is to consider it as:",
+     "options": {
+      "A": "A single outstanding technological know-how",
+      "B": "The sum of 5 to 15 areas of developed expertise",
+      "C": "Any capability that rivals lack",
+      "D": "The firm's largest revenue-earning function"
+     },
+     "answer": "B",
+     "explanation": "SM §3.4: 'The optimal way to define core competence is to consider it as sum of 5-15 areas of developed expertise' — which is why it cannot be built on one capability or a single technological know-how.",
+     "why_wrong": {
+      "A": "Expressly rejected by the study material.",
+      "C": "Rarity alone is only one of the four criteria.",
+      "D": "Revenue size is not the test."
+     },
+     "trap": "Option C states a necessary but insufficient condition.",
+     "concept": "S03.09"
+    }
+   ],
+   "recap": [
+    "Prahalad and Hamel: core competency is the collective learning in the organisation, coordinating diverse production skills and integrating multiple streams of technologies.",
+    "A competency is a combination of skills and techniques — the sum of 5 to 15 areas of developed expertise, never a single know-how.",
+    "Three areas: competitor differentiation · customer value · application to other markets.",
+    "Created by superior integration of technological, physical and human resources; represent distinctive skills, intangible assets and cultural capabilities (managing change, learning, teamwork).",
+    "ICAI's examples: HUL's marketing and sales, Wal-Mart's low operating costs, Airtel's 'Zero Customer Complaints'."
+   ]
+  },
+  {
+   "code": "S03.10",
+   "title": "3.4.1 Criteria for Building Core Competencies",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 · RTP 2 · MTP 2",
+   "understand": [
+    "==**Four specific criteria of sustainable competitive advantage that firms can use to determine those capabilities that are core competencies: capabilities that are valuable, rare, costly to imitate, and non-substitutable are core competencies.**==",
+    "==**(i) Valuable.** Valuable capabilities are the ones that **allow the firm to exploit opportunities or avert the threats in its external environment**. A firm creates value for customers by effectively using capabilities to exploit opportunities. ICAI's example: **finance companies build a valuable competence in financial services**; and to make such competencies highly successful requires **placing the right people in the right jobs** — **human capital is important in creating value for customers**.==",
+    "==**(ii) Rare.** Core competencies are **very rare capabilities and very few of the competitors possess these**. **Capabilities possessed by many rivals are unlikely to be sources of competitive advantage for any one of them.** Competitive advantage results **only when firms develop and exploit valuable capabilities that differ from those shared with competitors**.==",
+    "==**(iii) Costly to imitate.** Costly to imitate means **such capabilities that competing firms are unable to develop easily**. ICAI's example: **Intel has enjoyed a first-mover advantage more than once because of its rare fast R&D cycle time capability**, which brought SRAM and DRAM integrated circuit technology and microprocessors to market well ahead of the competitor. **The product could be imitated in due course of time, but it was much more difficult to imitate the R&D cycle time capability.**==",
+    "==**(iv) Non-substitutable.** **Capabilities that do not have strategic equivalents are called non-substitutable capabilities.** This final criterion is that **there must be no strategically equivalent valuable resources that are themselves either not rare or imitable.** ICAI's example: for years firms tried to imitate **Tata's low-cost strategy**, but most were unable to duplicate Tata's success — they did not realise that **Tata has a unique culture and attracts some of the top talent in the industry**, and the culture and excellent human capital worked together in implementing the strategy and are the basis for its competitive advantage. **The strategic value of capabilities increases as they become more difficult to substitute.** A second example: competitors are deeply aware of **Apple's operating system (iOS)** success, but **to date no competitor has been able to imitate Apple's capabilities**, which are also **protected through copyrights**.==",
+    "==**To sum up: only when a capability is valuable, rare, costly to imitate, and non-substitutable is it a core competence and a source of competitive advantage.** Over time, **core competencies must be supported**. **Core competencies are a source of competitive advantage only when they allow the firm to create value by exploiting opportunities in its external environment.**==",
+    "**How ICAI uses the four criteria in a case.** The September 2026 RTP case is instructive. OrthoCare Hospital's robotic knee programme rests on **surgeon expertise, specialised training protocols, coordinated teamwork and a unique organisational culture**; competing hospitals bought the same robotic technology but could not match the outcomes. ICAI's answer names the criterion at work as ==**costly to imitate**==, explaining that such a capability is **created through the superior integration of technological, physical and human resources along with organisational culture, teamwork, experience and accumulated knowledge**, is **developed over time** and **cannot be replicated merely by acquiring similar technology or resources**. That is the template: name the one criterion the facts turn on, then close with all four.",
+    "**The three four-item lists, kept apart.** It is worth fixing the difference once: the **four criteria here** (valuable, rare, costly to imitate, non-substitutable) decide **whether a capability is a core competence**. The **four characteristics at §3.6.1** (durability, transferability, imitability, appropriability) decide **how long the resulting advantage lasts and who gets the returns**. The **three areas at §3.4** (competitor differentiation, customer value, application to other markets) decide **where major core competencies are found**. Questions are set on each separately."
+   ],
+   "example": "Two hospitals buy the same surgical robot. One already has surgeons who have done 2,000 such procedures, a training protocol built over a decade, theatre teams that work as a unit, and a culture that reviews every outcome. Only the second hospital's capability is valuable, rare, costly to imitate and non-substitutable — the robot itself is none of those, because anyone can buy it.",
+   "keywords": [
+    "valuable, rare, costly to imitate, and non-substitutable",
+    "exploit opportunities or avert the threats",
+    "placing the right people in the right jobs",
+    "human capital is important in creating value",
+    "very few of the competitors possess these",
+    "unlikely to be sources of competitive advantage for any one of them",
+    "differ from those shared with competitors",
+    "unable to develop easily",
+    "Intel… fast R&D cycle time capability",
+    "SRAM and DRAM",
+    "much more difficult to imitate the R&D cycle time capability",
+    "do not have strategic equivalents",
+    "no strategically equivalent valuable resources",
+    "Tata has a unique culture",
+    "strategic value of capabilities increases",
+    "Apple's operating system",
+    "protected through copyrights",
+    "core competencies must be supported",
+    "create value by exploiting opportunities"
+   ],
+   "memory": {
+    "trick": "Four criteria = **VRIN** — **V**aluable, **R**are, **I**nimitable (costly to imitate), **N**on-substitutable. One example each: finance companies (valuable) · few rivals have it (rare) · Intel's R&D cycle time (costly to imitate) · Tata's culture and Apple's iOS (non-substitutable).",
+    "key": [
+     [
+      "V",
+      "Valuable — exploit opportunities or avert threats; human capital matters"
+     ],
+     [
+      "R",
+      "Rare — very few competitors possess it"
+     ],
+     [
+      "I",
+      "Costly to imitate — competing firms cannot develop it easily (Intel)"
+     ],
+     [
+      "N",
+      "Non-substitutable — no strategic equivalents (Tata, Apple)"
+     ]
+    ],
+    "recall_trigger": "VRIN — Valuable, Rare, Inimitable, Non-substitutable"
+   },
+   "mistakes": [
+    "Giving durability, transferability, imitability and appropriability instead. Those are the four characteristics of the **sustainability** of competitive advantage at §3.6.1 — a different question.",
+    "Writing 'inimitable' without the word **costly**. The study material's own heading is 'costly to imitate', and the Intel example turns on the cost and difficulty of building the capability rather than the product.",
+    "Treating 'rare' as 'unique'. The published wording is that core competencies are very rare and **very few** competitors possess them; capabilities possessed by many rivals cannot be a source of advantage for any one of them.",
+    "Forgetting ICAI's closing conditions: core competencies **must be supported over time**, and they are a source of advantage **only when they allow the firm to create value by exploiting opportunities in its external environment**."
+   ],
+   "links": [
+    "🔗 S03.09: the three areas in which core competencies are identified",
+    "🔗 S03.13: durability, transferability, imitability, appropriability — the sustainability test",
+    "🔗 S02.16: the experience curve, an example of a capability costly to imitate",
+    "🔗 S03.14: cost leadership and differentiation are the strategies a core competence makes possible"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "'There are four specific criteria of sustainable competitive advantage that firms can use to determine those capabilities that are known as core competencies. Explain.' — PYQ Sep 2024 Q7(a), RTP May 2024 Q12, MTP May 2025 S1 Q4(b)",
+     "A case turning on one criterion, with the others named in closing (RTP Sep 2026 Q11)",
+     "An MCQ distinguishing a replicable capability from a non-replicable one (MTP May 2026 S1 case B(ii))"
+    ],
+    "approach": [
+     "Open with the summary sentence — capabilities that are valuable, rare, costly to imitate and non-substitutable are core competencies — then the four criteria as numbered headings with ICAI's own example each.",
+     "In a case, name the operative criterion in the first line, justify it from the facts, and close with the four-criteria sentence. That is exactly how ICAI's OrthoCare answer is built."
+    ],
+    "official_pattern": "The four-criteria answer is reproduced identically in three papers, each with the finance-companies, Intel, Tata and Apple examples. The case answer names one criterion and closes with all four.",
+    "time_tip": "5 marks ≈ 7 minutes — one mark per criterion plus the summary (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S03.10-1",
+     "form": "Distinguish (5 marks)",
+     "marks": 5,
+     "question": "Distinguish between the four criteria that determine whether a capability is a core competence and the four characteristics that determine the sustainability of a competitive advantage.",
+     "answer_points": [
+      "**The four criteria (SM §3.4.1)** decide whether a capability *is* a core competence: **valuable** (allows the firm to exploit opportunities or avert threats in its external environment), **rare** (very few competitors possess it, since capabilities shared with many rivals cannot be a source of advantage for any of them), **costly to imitate** (competing firms are unable to develop it easily — Intel's fast R&D cycle time capability) and **non-substitutable** (no strategically equivalent valuable resources that are themselves not rare or imitable — Tata's culture and human capital, Apple's iOS).",
+      "**The four characteristics (SM §3.6.1)** decide how long the advantage *lasts* and who gets the returns: **durability** (the rate at which the firm's resources and capabilities deteriorate — product patents become obsolete where innovation is fast, and CEO-dependent capabilities are vulnerable to departure, while consumer brand names can be highly durable), **transferability** (the easier it is to transfer resources and capabilities between companies, the less sustainable the advantage based on them), **imitability** (if they cannot be purchased by a would-be imitator they must be built from scratch — the true test; complexity and corporate culture make imitation difficult) and **appropriability** (the ability of the firm's owners to appropriate the returns on its resource base).",
+      "**The practical difference:** the first list is a **qualification test** applied to a capability; the second is a **durability test** applied to an advantage already held.",
+      "A third list must not be confused with either: the **three areas** in which major core competencies are identified — competitor differentiation, customer value and application to other markets (Prahalad and Hamel, §3.4).",
+      "ICAI's own closing condition joins the two lists: core competencies **must be supported over time**, and they are a source of competitive advantage **only when they allow the firm to create value by exploiting opportunities in its external environment**."
+     ],
+     "keywords": [
+      "valuable, rare, costly to imitate, non-substitutable",
+      "durability, transferability, imitability, appropriability",
+      "qualification test",
+      "appropriate the returns",
+      "must be supported"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "PYQ-S24-Q7a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "Explain the four specific criteria of sustainable competitive advantages that a company can use to determine the capabilities that are core competencies. (5 Marks)",
+     "answer_points": [
+      "Capabilities that are **valuable, rare, costly to imitate, and non-substitutable** are core competencies.",
+      "**(i) Valuable:** valuable capabilities are the ones that allow the firm to **exploit opportunities or avert the threats in its external environment**. A firm creates value for customers by effectively using capabilities to exploit opportunities. Finance companies build a valuable competence in financial services; making such competencies highly successful requires **placing the right people in the right jobs**, and human capital is important in creating value for customers.",
+      "**(ii) Rare:** core competencies are **very rare capabilities and very few of the competitors possess these**. Capabilities possessed by many rivals are unlikely to be sources of competitive advantage for any one of them; competitive advantage results only when firms develop and exploit **valuable capabilities that differ from those shared with competitors**.",
+      "**(iii) Costly to imitate:** such capabilities that **competing firms are unable to develop easily**. Intel has enjoyed a first-mover advantage more than once because of its rare **fast R&D cycle time capability**, which brought SRAM and DRAM integrated circuit technology and microprocessors to market well ahead of the competitor. The product could be imitated in due course, **but it was much more difficult to imitate the R&D cycle time capability**.",
+      "**(iv) Non-substitutable:** capabilities that **do not have strategic equivalents**. There must be **no strategically equivalent valuable resources that are themselves either not rare or imitable**. Firms tried for years to imitate Tata's low-cost strategy but could not duplicate its success, because **Tata has a unique culture and attracts some of the top talent in the industry**; the culture and human capital together are the basis of its advantage. No competitor has yet imitated **Apple's iOS capabilities**, which are also protected through copyrights.",
+      "**To sum up:** only when a capability is valuable, rare, costly to imitate and non-substitutable is it a core competence and a source of competitive advantage; core competencies must be supported over time, and are a source of advantage **only when they allow the firm to create value by exploiting opportunities in its external environment**."
+     ],
+     "keywords": [
+      "valuable, rare, costly to imitate, and non-substitutable",
+      "exploit opportunities or avert the threats",
+      "very few of the competitors",
+      "fast R&D cycle time capability",
+      "strategic equivalents",
+      "unique culture",
+      "protected through copyrights"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "The identical question with the same published answer appears as RTP-M24-SQ12 (under ICAI's own 'Chapter 3' label) and MTP-M25-S1-SQ4b, which offers an OR alternative."
+     ]
+    },
+    {
+     "id": "RTP-S26-SQ11",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "OrthoCare Super Speciality Hospital has developed an advanced robotic knee replacement surgery programme supported by years of surgeon expertise, specialised training protocols, coordinated teamwork and a unique organisational culture. Although several competing hospitals have invested in similar robotic technology, they have not been able to achieve comparable surgical outcomes. Which characteristic of a core competency does this illustrate?",
+     "answer_points": [
+      "The characteristic illustrated is **Costly to Imitate** — it means that **competing firms are unable to develop or duplicate such capabilities easily**.",
+      "A capability becomes difficult to imitate because it is created through the **superior integration of technological, physical and human resources along with organisational culture, teamwork, experience and accumulated knowledge**.",
+      "**Such competencies are developed over time and cannot be replicated merely by acquiring similar technology or resources** — which is why buying the same robot does not buy the same outcome.",
+      "**Application:** although competing hospitals have invested in robotic knee replacement technology, they have failed to achieve comparable surgical outcomes because OrthoCare's expertise rests on **specialised surgeon skills, coordinated teamwork, a unique organisational culture and tacit knowledge**, all deeply embedded in the organisation and **not easily transferable or replicable**.",
+      "**ICAI's closing sentence:** OrthoCare's programme therefore represents a core competency that is costly to imitate, giving the hospital a sustainable competitive advantage — and **only capabilities that are valuable, rare, costly to imitate and non-substitutable qualify as core competencies** and become a source of sustainable competitive advantage.",
+      "The lesson on presentation: name the one criterion the facts turn on, justify it, then close by listing all four."
+     ],
+     "keywords": [
+      "Costly to Imitate",
+      "unable to develop or duplicate such capabilities easily",
+      "superior integration",
+      "tacit knowledge",
+      "not easily transferable or replicable",
+      "only capabilities that are valuable, rare, costly to imitate and non-substitutable"
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MTP-M26-S1-SMCQ-B-ii",
+     "question": "A company has strong R&D capability, but competitors can easily replicate its products. However, its organisational culture enables continuous innovation which competitors cannot imitate. What is MOST likely the firm's core competence?",
+     "options": {
+      "A": "Its product portfolio, because the products are what customers buy",
+      "B": "Its R&D spending, because it is the largest in the industry",
+      "C": "Its organisational culture that enables continuous innovation, because that capability is costly to imitate and non-substitutable",
+      "D": "Its patents, because they are legally protected"
+     },
+     "answer": "C",
+     "explanation": "A capability is a core competence only if it is valuable, rare, costly to imitate and non-substitutable (SM §3.4.1). The products are replicable, so they fail the test; the culture is not, so it passes — exactly the Tata illustration, where rivals copied the low-cost strategy but not the culture and human capital behind it. ICAI key: (c).",
+     "why_wrong": {
+      "A": "The stem says competitors can easily replicate the products.",
+      "B": "Spending is a resource input, not a capability, and size is not a criterion.",
+      "D": "No patents are mentioned, and the Intel example shows the *capability* outlasts the protected product."
+     },
+     "trap": "R&D looks like the obvious answer; the discriminator in the stem is which element rivals cannot imitate.",
+     "concept": "S03.10"
+    },
+    {
+     "id": "MCQ-S03.10-01",
+     "angle": "Name the criterion",
+     "difficulty": "Moderate",
+     "question": "\"Capabilities that do not have strategic equivalents\" is the study material's definition of which criterion?",
+     "options": {
+      "A": "Valuable",
+      "B": "Rare",
+      "C": "Costly to imitate",
+      "D": "Non-substitutable"
+     },
+     "answer": "D",
+     "explanation": "SM §3.4.1: 'Capabilities that do not have strategic equivalents are called non-substitutable capabilities… there must be no strategically equivalent valuable resources that are themselves either not rare or imitable.'",
+     "why_wrong": {
+      "A": "Valuable capabilities let the firm exploit opportunities or avert threats.",
+      "B": "Rare means very few competitors possess the capability.",
+      "C": "Costly to imitate means competing firms cannot develop it easily."
+     },
+     "trap": "'Strategic equivalents' sounds like imitation; substitution is a different route — a rival achieving the same end by other means.",
+     "concept": "S03.10"
+    },
+    {
+     "id": "MCQ-S03.10-02",
+     "angle": "The Intel point",
+     "difficulty": "Moderate",
+     "question": "The study material's Intel illustration makes which point?",
+     "options": {
+      "A": "That the product could be imitated in due course, but the fast R&D cycle time capability was much more difficult to imitate",
+      "B": "That a first-mover advantage is always permanent",
+      "C": "That patents are the only durable protection for a capability",
+      "D": "That economies of scale make a capability rare"
+     },
+     "answer": "A",
+     "explanation": "SM §3.4.1: Intel enjoyed a first-mover advantage more than once because of its rare fast R&D cycle time capability; 'The product could be imitated in due course of time, but it was much more difficult to imitate the R&D cycle time capability.'",
+     "why_wrong": {
+      "B": "The study material says the product *could* be imitated in due course.",
+      "C": "Copyrights are mentioned for Apple, but the Intel point is about the capability, not legal protection.",
+      "D": "Scale is not the Intel point."
+     },
+     "trap": "The lesson is the gap between imitating an output and imitating the capability that produced it.",
+     "concept": "S03.10"
+    }
+   ],
+   "recap": [
+    "Four criteria: valuable · rare · costly to imitate · non-substitutable (VRIN).",
+    "Valuable = exploits opportunities or averts threats; human capital matters. Rare = very few rivals have it.",
+    "Costly to imitate = rivals cannot develop it easily (Intel's R&D cycle time). Non-substitutable = no strategic equivalents (Tata's culture, Apple's iOS).",
+    "Only when all four are met is a capability a core competence and a source of competitive advantage.",
+    "Core competencies must be supported over time, and work only by creating value from external opportunities."
+   ]
+  },
+  {
+   "code": "S03.11",
+   "title": "3.5 Combining External and Internal Analysis (SWOT Analysis)",
+   "activity": "Core",
+   "update_sensitive": false,
+   "multi_source": true,
+   "status": "VERIFIED",
+   "evidence": "PYQ 1 · RTP 2 · MTP 2",
+   "understand": [
+    "==**SWOT analysis is the analysis of a business's strengths, weaknesses, opportunities and threats.** **The primary objective of a SWOT analysis is to help organizations develop a full awareness of all the factors — external as well as internal — involved in making a business decision.**==",
+    "==**When to do it.** SWOT analysis **shall be implemented before all company actions**, whether it is **exploring new initiatives, revamping internal policies, considering opportunities to grow or altering a plan midway**. One shall also use SWOT analysis **to discover recommendations and strategies, with a focus on leveraging strengths and opportunities to overcome weaknesses and threats**.==",
+    "==Since its creation, SWOT has been **the most widely used tool for business owners to grow their companies**. Sometimes it is wise to perform SWOT analysis just **to check on the current landscape** of the business to improve operations as needed. **The analysis can show areas where an organization is performing well, as well as areas that need improvement.**==",
+    "**The 2×2 frame.** The study material prints SWOT as a grid of **origin against effect**: **internal origin (attributes of the organization)** versus **external origin (attributes of the environment)**, crossed with **helpful to achieving the objective** versus **harmful to achieving the objective**. So **strengths** = internal and helpful; **weaknesses** = internal and harmful; **opportunities** = external and helpful; **threats** = external and harmful.",
+    "**ICAI's worked example — a law firm.** **Strengths:** multiple partners with varied expertise; long-term contractual service agreements; 70 years of brand value; services spread across 20 states of India; 400+ employee strength to deliver work. **Weaknesses:** run by old methods; no automation of work and documentation; not very employee-friendly culture. **Opportunities:** automation-driven advancement; start-ups can be supported with experienced partners; investment in technology can multiply returns. **Threats:** online players entering the market; AI-based solutions and applications; price point of online being very competitive; speed of work becoming faster by the day.",
+    "==**The benefit and the criticism.** **The benefit of this analysis is that it identifies the complex issues for an organisation and puts them into a simple framework.** **On the other hand, one of the major criticisms of this tool is that it does not generally provide for evaluation of strengths, weaknesses, opportunities and threats in the competitive context.**== Therefore an organisation using SWOT **should consider relative competitors and the external factors affecting the organisation**. ==**Although a simple tool, it is a useful starting point for analysis.**==",
+    "==**Internal or external? ICAI answers its own question.** 'Internal analysis is more focused on understanding the existing structure and competencies of the business, thus highlighting the Strengths and Weaknesses, while External Analysis is about identifying and preparing for uncontrollables which can either be Opportunities or threats. **Therefore, SWOT Analysis is a tool which is used for both Internal and External Analysis.**' This is why the heading is called 'Combining External and Internal Analysis' and why it sits in the internal-environment chapter.==",
+    "**What a full-mark SWOT case answer looks like.** ICAI's published case answers do not theorise: they print a **four-cell grid filled from the facts in the stem**. In the GreenGardens answer the strengths cell reads 'high-quality, pesticide-free produce' and the weaknesses cell 'limited distribution channels' — words taken straight from the question. Then they add a line of strategy: leverage the strengths against the opportunities to overcome the weaknesses and threats."
+   ],
+   "example": "A 70-year-old law firm lists five strengths, three weaknesses, three opportunities and four threats — and then notices that two of its threats (online players, AI tools) are the mirror image of one of its opportunities (automation-driven advancement). That is the criticism the study material names: SWOT puts complex issues into a simple frame but does not weigh them against what rivals are doing, so the firm must add the competitive context itself.",
+   "keywords": [
+    "strengths, weaknesses, opportunities and threats",
+    "full awareness of all the factors",
+    "before all company actions",
+    "exploring new initiatives, revamping internal policies",
+    "altering a plan midway",
+    "leveraging strengths and opportunities to overcome weaknesses and threats",
+    "most widely used tool",
+    "check on the current landscape",
+    "internal origin… external origin",
+    "helpful… harmful to achieving the objective",
+    "simple framework",
+    "does not generally provide for evaluation… in the competitive context",
+    "consider relative competitors",
+    "useful starting point",
+    "used for both Internal and External Analysis"
+   ],
+   "memory": {
+    "trick": "SWOT is a 2×2 of **origin × effect**: internal-helpful (S), internal-harmful (W), external-helpful (O), external-harmful (T). Remember **one benefit and one criticism**: it simplifies complexity; it ignores the competitive context.",
+    "key": [
+     [
+      "S",
+      "Internal + helpful — inherent capability to gain strategic advantage"
+     ],
+     [
+      "W",
+      "Internal + harmful — inherent limitation or constraint"
+     ],
+     [
+      "O",
+      "External + helpful — favourable condition that strengthens position"
+     ],
+     [
+      "T",
+      "External + harmful — unfavourable condition causing risk or damage"
+     ],
+     [
+      "Benefit / Criticism",
+      "Simple framework for complex issues / no evaluation in the competitive context"
+     ]
+    ],
+    "recall_trigger": "Origin × effect; simplifies but ignores rivals"
+   },
+   "mistakes": [
+    "Calling SWOT an internal-analysis tool. ICAI answers the question expressly: **it is a tool used for both internal and external analysis.**",
+    "Omitting the criticism. A 5-mark answer that gives only the benefit loses the mark for 'does not generally provide for evaluation… in the competitive context'.",
+    "Theorising in a case. ICAI's case answers are four-cell grids filled from the stem's own words.",
+    "Treating SWOT as a one-off exercise. The study material says it should be implemented **before all company actions** and that it is wise to perform it periodically just to check the current landscape."
+   ],
+   "links": [
+    "🔗 S02.02: external analysis produces the opportunities and threats; this chapter's internal analysis produces the strengths and weaknesses",
+    "🔗 S02.07: PESTLE feeds the O and T cells",
+    "🔗 S03.09: core competencies are the most valuable kind of strength",
+    "🔗 SM Ch 4: SWOT is the input to strategic choice"
+   ],
+   "face_in_exam": {
+    "forms": [
+     "'Write a short note on SWOT analysis' (RTP May 2025 Q12) — definition, the four terms, and the major purpose",
+     "'Why is it necessary to do SWOT analysis before using the strategy?' (PYQ Sep 2025 Q7(a)) — five reasons",
+     "A case asking the candidate to conduct a SWOT analysis for a named firm (RTP Jan 2025 Q11, MTP Mar 2024 S2 Q3(a), MTP Sep 2024 S1 Q1(b))"
+    ],
+    "approach": [
+     "For the short note, define SWOT, say where each element originates (strengths and weaknesses internal, opportunities and threats external), define all four terms, and close with the major purpose: **to enable management to create a firm-specific business model that will best align, fit or match organisational resources and capabilities to the demands of the environment**.",
+     "For a case, draw the four-cell grid and fill it from the stem. Two or three items per cell is enough; add one closing line on leveraging strengths and opportunities to overcome weaknesses and threats."
+    ],
+    "official_pattern": "ICAI's short-note answer defines the four terms in four lettered bullets and ends with the 'align, fit or match' purpose sentence. Its case answers are grids, often laid out as a two-column table of strengths against weaknesses and then opportunities against threats.",
+    "time_tip": "5 marks ≈ 7 minutes; for a case grid, two minutes on the four cells and the rest on the strategy line (study guidance)."
+   },
+   "expected_questions": [
+    {
+     "id": "EQ-S03.11-1",
+     "form": "Short note (5 marks)",
+     "marks": 5,
+     "question": "Write a short note on SWOT analysis, covering its meaning, the four terms, its benefit and its major criticism.",
+     "answer_points": [
+      "**SWOT analysis is a tool used by organizations for evolving strategic options for the future.** The term refers to the analysis of **strengths, weaknesses, opportunities and threats** facing a company. **Strengths and weaknesses are identified in the internal environment, whereas opportunities and threats are located in the external environment.**",
+      "**Strength** is an **inherent capability of the organization which it can use to gain strategic advantage over its competitor**. **Weakness** is an **inherent limitation or constraint of the organisation which creates a strategic disadvantage** to it.",
+      "**Opportunity** is a **favourable condition in the external environment which enables it to strengthen its position**. **Threat** is an **unfavourable condition in the external environment which causes a risk for, or damage to, the organisation's position**.",
+      "**The major purpose** of SWOT analysis is to enable the management to **create a firm-specific business model that will best align, fit or match organisational resources and capabilities to the demands of the environment** in which it operates.",
+      "**Benefit:** it **identifies the complex issues for an organisation and puts them into a simple framework**. **Criticism:** it **does not generally provide for evaluation of strengths, weaknesses, opportunities and threats in the competitive context**, so the organisation should also consider relative competitors and the external factors affecting it. Although a simple tool, **it is a useful starting point for analysis**."
+     ],
+     "keywords": [
+      "evolving strategic options",
+      "inherent capability",
+      "inherent limitation or constraint",
+      "favourable condition",
+      "unfavourable condition",
+      "align, fit or match",
+      "simple framework",
+      "competitive context",
+      "useful starting point"
+     ]
+    }
+   ],
+   "official_questions": [
+    {
+     "id": "RTP-M25-SQ12",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "Write short note on SWOT analysis.",
+     "answer_points": [
+      "**SWOT analysis is a tool used by organizations for evolving strategic options for the future.** The term SWOT refers to the analysis of strengths, weaknesses, opportunities and threats facing a company. **Strengths and weaknesses are identified in the internal environment, whereas opportunities and threats are located in the external environment.**",
+      "**(a) Strength:** strength is an **inherent capability of the organization which it can use to gain strategic advantage over its competitor**.",
+      "**(b) Weakness:** a weakness is an **inherent limitation or constraint of the organisation which creates strategic disadvantage** to it.",
+      "**(c) Opportunity:** an opportunity is a **favourable condition in the external environment which enables it to strengthen its position**.",
+      "**(d) Threat:** an **unfavourable condition in the external environment which causes a risk for, or damage to, the organisation's position**.",
+      "**ICAI's closing purpose sentence:** the major purpose of SWOT analysis is to enable the management to **create a firm-specific business model that will best align, fit or match organisational resources and capabilities to the demands of the environment** in which it operates."
+     ],
+     "keywords": [
+      "evolving strategic options for the future",
+      "inherent capability",
+      "inherent limitation or constraint",
+      "favourable condition",
+      "unfavourable condition",
+      "firm-specific business model",
+      "align, fit or match"
+     ]
+    },
+    {
+     "id": "PYQ-S25-Q7a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "question": "\"The primary objective of SWOT analysis is to help organizations develop a full awareness of all factor involved in making a business decision.\" In the light of the above statement, explain why is it necessary to do SWOT analysis for business organization before using the strategy. (5 Marks)",
+     "answer_points": [
+      "The primary objective of SWOT analysis is to help organisations develop a **full awareness of all the factors — internal as well as external — involved in making a business decision**. It is therefore necessary to conduct SWOT analysis before strategy formulation, for the following reasons.",
+      "**It identifies the Strengths and Weaknesses (internal factors) and Opportunities and Threats (external factors).** This ensures that **management considers all aspects before deciding on a strategic move**.",
+      "**It helps in discovering recommendations and strategies**, with a focus on **leveraging strengths and opportunities while working to overcome weaknesses and threats**. This lays the base for realistic and practical strategies.",
+      "**SWOT highlights both the areas where the business is performing well and the areas which need improvement.** This helps organisations **align resources efficiently** to achieve objectives.",
+      "**Periodic SWOT analysis helps organisations check the current landscape** of their business and make necessary improvements in operations, **keeping strategies relevant to changing circumstances**.",
+      "**It places complex internal and external issues into a simple framework**, making it easier for managers to identify challenges and opportunities — though the organisation must add the competitive context, which SWOT does not itself supply."
+     ],
+     "keywords": [
+      "full awareness of all the factors",
+      "considers all aspects",
+      "leveraging strengths and opportunities",
+      "align resources efficiently",
+      "check the current landscape",
+      "simple framework"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "RTP-J25-SQ11",
+     "marks": null,
+     "status": "VERIFIED",
+     "question": "ABC Corporation, a leading manufacturer of consumer electronics, is considering launching a new line of smart home devices. As a strategic manager, conduct a SWOT analysis for ABC Corporation to assess the feasibility and potential success of this new venture. Consider both internal and external factors that could impact on the success of the new product line.",
+     "answer_points": [
+      "ICAI's answer is a **four-cell grid filled from the facts**, not a theory essay.",
+      "**Strengths:** strong brand reputation in consumer electronics; an established distribution network.",
+      "**Weaknesses:** limited experience in the smart home devices market; the venture may require additional investments in research and development.",
+      "**Opportunities:** a growing market for smart home devices; the possibility of leveraging the existing brand and distribution to enter it quickly.",
+      "**Threats:** established competitors already in the smart-home segment; rapid technological change that can date a new product line.",
+      "**Presentation lesson:** two or three items per cell, each traceable to the stem, and then a line on using the strengths and opportunities to overcome the weaknesses and threats. ICAI prints the cells as a two-column table — strengths against weaknesses, then opportunities against threats."
+     ],
+     "keywords": [
+      "strong brand reputation",
+      "established distribution network",
+      "limited experience",
+      "additional investments in research and development",
+      "four-cell grid"
+     ],
+     "also_asked_as": [
+      "MTP-M24-S2-SQ3a sets the identical case for EasyLife Corporation with the same published grid, and MTP-S24-S1-SQ1b applies the same four-cell treatment to GreenGardens, an organic farm with high-quality pesticide-free produce but limited distribution channels."
+     ]
+    }
+   ],
+   "mcqs": [
+    {
+     "id": "MCQ-S03.11-01",
+     "angle": "Internal or external",
+     "difficulty": "Easy",
+     "question": "As per the study material, SWOT analysis is a tool used for:",
+     "options": {
+      "A": "Internal analysis only, since strengths and weaknesses are internal",
+      "B": "External analysis only, since it is about the environment",
+      "C": "Financial analysis of the firm's resource base",
+      "D": "Both internal and external analysis"
+     },
+     "answer": "D",
+     "explanation": "SM §3.5 answers its own question: 'Internal analysis is more focused on understanding the existing structure and competencies of the business, thus highlighting the Strengths and Weaknesses, while External Analysis is about identifying and preparing for uncontrollable which can either be Opportunities or threats. Therefore, SWOT Analysis is a tool which is used for both Internal and External Analysis.'",
+     "why_wrong": {
+      "A": "Half the frame — opportunities and threats are external.",
+      "B": "Half the frame — strengths and weaknesses are internal.",
+      "C": "SWOT is not a financial tool."
+     },
+     "trap": "The heading sits in the internal-environment chapter, which makes option A tempting; the chapter title is 'Combining External and Internal Analysis'.",
+     "concept": "S03.11"
+    },
+    {
+     "id": "MCQ-S03.11-02",
+     "angle": "The criticism",
+     "difficulty": "Moderate",
+     "question": "What does the study material name as a major criticism of SWOT analysis?",
+     "options": {
+      "A": "It does not generally provide for evaluation of strengths, weaknesses, opportunities and threats in the competitive context",
+      "B": "It cannot be used by small organisations",
+      "C": "It requires quantitative data that most firms do not collect",
+      "D": "It ignores the internal environment"
+     },
+     "answer": "A",
+     "explanation": "SM §3.5: 'one of the major criticisms of this tool is that it does not generally provide for evaluation of strengths, weaknesses, opportunities and threats in the competitive context', so the organisation should consider relative competitors and the external factors affecting it.",
+     "why_wrong": {
+      "B": "The study material calls SWOT the most widely used tool for business owners to grow their companies.",
+      "C": "No data requirement is stated; its benefit is simplicity.",
+      "D": "Strengths and weaknesses *are* the internal environment."
+     },
+     "trap": "Option C sounds like a practical objection but is not the published criticism.",
+     "concept": "S03.11"
+    }
+   ],
+   "recap": [
+    "SWOT = strengths and weaknesses (internal) plus opportunities and threats (external); a tool for evolving strategic options.",
+    "Primary objective: full awareness of all factors, internal and external, involved in making a business decision.",
+    "Do it before all company actions, and periodically to check the current landscape.",
+    "Benefit: puts complex issues into a simple framework. Criticism: no evaluation in the competitive context.",
+    "ICAI's case answers are four-cell grids filled from the stem — the law-firm example shows the depth expected."
+   ]
+  }
+ ]
+}

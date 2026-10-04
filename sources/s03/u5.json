@@ -1,0 +1,876 @@
+{
+ "confusing": [
+  {
+   "title": "The three four-item lists of SM Chapter 3 — and the three-item one",
+   "headers": [
+    "Basis",
+    "Three areas (§3.4)",
+    "Four criteria (§3.4.1)",
+    "Four characteristics (§3.6.1)"
+   ],
+   "rows": [
+    [
+     "The question it answers",
+     "Where are major core competencies found?",
+     "Does this capability qualify as a core competence?",
+     "Will the advantage last, and who keeps the returns?"
+    ],
+    [
+     "The items",
+     "Competitor differentiation · Customer value · Application to other markets",
+     "Valuable · Rare · Costly to imitate · Non-substitutable",
+     "Durability · Transferability · Imitability · Appropriability"
+    ],
+    [
+     "Whose list",
+     "C.K. Prahalad and Gary Hamel",
+     "The four specific criteria of sustainable competitive advantage",
+     "The four major characteristics of resources and capabilities"
+    ],
+    [
+     "ICAI's examples",
+     "Tesla's patented innovation · the consumer must value the differentiation · a skill usable across the whole organisation",
+     "Finance companies · very few rivals possess it · Intel's R&D cycle time · Tata's culture and Apple's iOS",
+     "Patents date but brand names endure · hiring key personnel · financial-services innovations are easily copied · who receives the returns"
+    ],
+    [
+     "Stem wording that selects it",
+     "'major core competencies are identified in three areas'",
+     "'four specific criteria of sustainable competitive advantage… that are core competencies'",
+     "'characteristics of its resources and capabilities' + 'sustainability'"
+    ],
+    [
+     "Times asked (3 yrs)",
+     "4 (all MTP)",
+     "3 (PYQ Sep 2024, RTP May 2024, MTP May 2025 S1)",
+     "1 (PYQ May 2025 Q6(b))"
+    ]
+   ],
+   "spot_it": "Read the stem for two trigger words. 'Three areas' → Prahalad and Hamel. 'Criteria' plus 'core competencies' → VRIN. 'Characteristics' plus 'sustainability' → durability, transferability, imitability, appropriability. Note that **imitability appears in two lists from opposite sides**: costly to imitate qualifies a competence; low imitability sustains an advantage."
+  },
+  {
+   "title": "Which generic strategy? The five-cell decision table",
+   "headers": [
+    "Facts in the stem",
+    "Strategy",
+    "ICAI's own example",
+    "Published case"
+   ],
+   "rows": [
+    [
+     "Standardised products, lowest per-unit cost, broad mass market, price-sensitive buyers, few ways to differentiate",
+     "Cost leadership",
+     "McDonald's, Decathlon",
+     "MTP Sep 2024 S2 case B(ii) ValueMart; MTP Sep 2025 S2 case A(v) Nav-Uday; RTP May 2024 MCQ 4 Mukul"
+    ],
+    [
+     "Unique industry-wide, premium price, price-insensitive buyers, brand image or service as the differentiator",
+     "Differentiation",
+     "Domino's 30-minute delivery, Amazon Prime two-hour delivery, Apple iPhone",
+     "PYQ May 2026 Q5(b) Pearl India; RTP May 2024 Q11 ABC Ltd.; RTP Sep 2024 Q11 XXP India; MTP Jan 2025 S1 case A(ii) EcoForge"
+    ],
+    [
+     "Narrow target segment, competing on price within that segment but not the industry's lowest",
+     "Focused cost leadership",
+     "—",
+     "No published case yet; MCQ-worthy"
+    ],
+    [
+     "Narrow or niche segment, exclusivity, customisation, significant premium",
+     "Focused differentiation",
+     "Ferrari, Rolls-Royce",
+     "RTP May 2025 Q11 EliteWheels; RTP Sep 2026 Q13 Elite Motors; MTP Mar 2024 S2 Q4(b) StarTech; MTP May 2025 S2 Q1(b) EcoTrend"
+    ],
+    [
+     "Affordability **and** premium features together; comparable quality at a lower price, or the same price for higher quality",
+     "Best-cost provider",
+     "OnePlus, Xiaomi, Oppo, Vivo",
+     "PYQ Sep 2025 Q5(a) and MTP Sep 2026 S2 Q1(c) ARP Motors; MTP Jan 2026 S1 case A(ii) ZGE; MTP Sep 2024 S2 case A(v) MedTech"
+    ]
+   ],
+   "spot_it": "Two questions decide it. **Broad or narrow target?** and **cheap, special, or both?** If the stem says 'balances affordability with premium features', or 'comparable quality at a lower price', stop looking at the other four — it is the best-cost provider, which ICAI has now examined three times in two years."
+  },
+  {
+   "title": "Mendelow's four quadrants — the two that get swapped",
+   "headers": [
+    "Quadrant",
+    "Power",
+    "Interest",
+    "What the organisation does",
+    "ICAI's examples"
+   ],
+   "rows": [
+    [
+     "KEY PLAYERS",
+     "High",
+     "High",
+     "Fully engage; greatest efforts to satisfy; take their advice; build actions; keep informed with all information regularly. Grid: manage closely, involve in decision making, build a strong relationship",
+     "Shareholders, CEO, Board of Directors"
+    ],
+    [
+     "KEEP SATISFIED",
+     "High",
+     "Low",
+     "Enough work to keep them satisfied with their intended information on a regular basis. Grid: consult often, increase their interest; can be a hindrance to new ideas or strategic choices",
+     "Banks, government, customers"
+    ],
+    [
+     "KEEP INFORMED",
+     "Low",
+     "High",
+     "Adequately inform and communicate so no major issues arise; they also give real-time feedback and areas of improvement. Grid: utilise the high interest by engaging in decisions; consult in their areas of expertise",
+     "Employees, vendors, suppliers, legal experts"
+    ],
+    [
+     "LOW PRIORITY",
+     "Low",
+     "Low",
+     "Only monitor, with no actions to satisfy expectations; minimal effort, while keeping an eye on whether interest or power changes. Grid: monitor only, no engagement; general occasional communication",
+     "Business magazines, media houses"
+    ]
+   ],
+   "spot_it": "You **satisfy** someone who can hurt you but does not much care; you **inform** someone who cares but cannot hurt you. And remember the movement: a GST breach moves the Indirect Taxes Department from keep-satisfied to key player, and the media from low priority to keep informed."
+  }
+ ],
+ "cases": [
+  {
+   "id": "CASE-S03-INT-1",
+   "title": "Integrated Case 1 — Vedanta Instruments Ltd. (stakeholders, competencies and strategy choice)",
+   "facts": [
+    "Vedanta Instruments Ltd. makes diagnostic equipment in Pune and sells to hospitals across India. It is preparing a five-year plan and has assembled the following facts.",
+    "**Stakeholders.** The Central Drugs Standard Control Organisation must licence every new device; it has shown little interest in the company so far, but a labelling lapse last quarter has drawn a show-cause notice. Two private-equity investors hold 38% between them and attend every board meeting. The company's 160 field service engineers are the people hospitals actually deal with, and they have no shareholding. A health-policy journal has requested the company's warranty-claim data for a study.",
+    "**Resources and capabilities.** Vedanta's calibration process, developed over eleven years, keeps its analysers within tolerance twice as long as rivals' between services; it rests on a proprietary jig, a training protocol, and a review culture in which every out-of-tolerance reading is traced to root cause. Three rivals have bought the same jig from the same vendor and have not matched the result. Separately, Vedanta holds a design patent on a sample-handling tray, which expires in two years, and its R&D head — the author of the calibration protocol — retires next year.",
+    "**Market facts.** The diagnostic-equipment market has four comparable rivals of similar size, all leasing their plants with heavy annual commitments, and none can dictate price. Hospital chains buying in bulk negotiate aggressively. A new generation of point-of-care handheld testers, sold by firms from the consumer-electronics industry, is reaching small clinics at a quarter of the price of a benchtop analyser.",
+    "**The strategy choice.** The board is considering three options. **Option 1:** standardise the product line down to two models, cut overheads hard, and underprice all four rivals for the mass hospital market. **Option 2:** sell only to the twelve largest multi-speciality chains, with bespoke integration into their laboratory systems and a dedicated engineer per site, at a 40% premium. **Option 3:** match rivals' prices while offering the longer calibration interval and a four-hour service response that none of them can match."
+   ],
+   "questions": [
+    {
+     "q": "Place the four stakeholder groups in Mendelow's Matrix as the facts now stand, and identify which group has moved quadrant.",
+     "options": {
+      "A": "Regulator: keep satisfied → key player (moved); investors: key players; service engineers: keep informed; journal: low priority",
+      "B": "Regulator: low priority; investors: keep satisfied; service engineers: key players; journal: keep informed",
+      "C": "Regulator: keep informed; investors: key players; service engineers: keep satisfied; journal: low priority",
+      "D": "All four are key players, since each can affect the five-year plan"
+     },
+     "answer": "A",
+     "reasoning": [
+      "**The regulator** has high power (it licences every device) and had low interest — the keep-satisfied quadrant, where ICAI's own examples include government. The show-cause notice raises its interest, moving it to **key players**. This is precisely ICAI's published illustration: a GST compliance lapse moves the Indirect Taxes Department from High Power, Low Interest to High Power, High Interest, 'which would then require a different way of managing and communicating with this stakeholder' (SM §3.2.1).",
+      "**The investors** hold 38% and attend every board meeting — high power, high interest. ICAI's own key-player examples are shareholders, the CEO and the Board of Directors.",
+      "**The service engineers** have high interest (their work and customer relationships depend on the plan) but no shareholding and no formal authority — **keep informed**, ICAI's examples being employees, vendors, suppliers and legal experts. The study material adds that such audiences 'can also help with real time feedback and areas of improvement for an organisation', which matters here because the engineers see every failure first.",
+      "**The journal** matches ICAI's own low-priority example almost exactly — 'research institutes seeking an organisation data… should be monitored rarely and minimum effort expended on them', with business magazines and media houses named as the examples. Note that a published study could raise its interest, which is why the study material says minimal effort should be spent 'while keeping an eye to check if their levels of interest or power change'."
+     ]
+    },
+    {
+     "q": "Apply the four criteria of §3.4.1 to the calibration process and to the design patent. Which qualifies as a core competence, and which characteristic of §3.6.1 most threatens the other?",
+     "options": {
+      "A": "Both qualify, because both are legally or practically protected",
+      "B": "Neither qualifies, because competitors have bought the same jig",
+      "C": "The patent qualifies and the calibration process does not, because only the patent is legally exclusive",
+      "D": "The calibration process qualifies on all four criteria; the patent fails on durability, and the calibration process is itself exposed on durability through the R&D head's retirement"
+     },
+     "answer": "D",
+     "reasoning": [
+      "**The calibration process is valuable** — it lets the firm exploit the opportunity of hospitals wanting fewer service interruptions. It is **rare**: 'core competencies are very rare capabilities and very few of the competitors possess these.' It is **costly to imitate**: three rivals bought the identical jig and could not match the result, which is the Intel point exactly — 'the product could be imitated in due course of time, but it was much more difficult to imitate the R&D cycle time capability.' And it is **non-substitutable**, because the result depends on a training protocol and a review culture with no strategic equivalent — ICAI's Tata illustration, where rivals copied the low-cost strategy but not 'a unique culture and… some of the top talent in the industry'.",
+      "**The patent fails on durability.** 'In industries where the rate of product innovation is fast, product patents are quite likely to become obsolete' (SM §3.6.1), and this one expires in two years in any event. It may still be valuable and rare while it lasts, but a two-year horizon is not sustainable advantage.",
+      "**The calibration process is exposed on durability too**, through a different route: 'capabilities which are the result of the management expertise of the CEO are also vulnerable to his or her retirement or departure.' The R&D head who wrote the protocol retires next year.",
+      "**The strategic implication** follows from the same paragraph: core competencies 'must be supported' over time. Documenting the protocol, training successors and embedding the review culture is how the firm converts one person's expertise into an organisational capability — which is also what makes it non-transferable, since 'the easier it is to transfer resources and capabilities between companies, the less sustainable will be the competitive advantage'."
+     ]
+    },
+    {
+     "q": "Which of Porter's five forces do the four comparable rivals with heavy leases, the bulk-buying hospital chains, and the handheld testers represent — and what does the combination say about industry attractiveness?",
+     "options": {
+      "A": "All three are rivalry, since all three reduce Vedanta's profits",
+      "B": "Rivalry (equal rivals with high fixed costs and no differentiation), buyer bargaining power (concentrated bulk buyers), and threat of substitutes (a product from another industry performing nearly the same function) — three strong forces, so the industry is unattractive to a weak competitor but may still be attractive to a strong one",
+      "C": "Threat of new entrants, supplier power and rivalry",
+      "D": "Buyer power alone, because the hospital chains set the price"
+     },
+     "answer": "B",
+     "reasoning": [
+      "**Rivalry:** four comparable rivals is the 'number of competitors' condition, the leases are the 'high fixed costs' condition — 'when rivals operate with high fixed costs, they feel strong motivation to utilize their capacity and therefore are inclined to cut prices when they have excess capacity' — and the inability of anyone to dictate price reflects the absence of a disciplining industry leader (SM §2.5.1).",
+      "**Buyer power:** bulk-buying chains 'spend a lot of money on the industry's products, i.e. they are big buyers' and are 'more concentrated than firms supplying the product'. ICAI adds that buyer power influences not only prices but 'costs and investments of the producer because powerful buyers usually bargain for better services'.",
+      "**Substitutes:** the handheld testers come from **another industry** and perform 'the same, or nearly the same, function' at a quarter of the price — the definition of a substitute, and the study material's warning that substitutes 'offering a price advantage and/or performance improvement… can drastically alter the competitive character of an industry. And they can bring it about all of a sudden.'",
+      "**On attractiveness:** the collective strength of three strong forces points to an unattractive industry — but SM §2.5.2 insists that 'attractiveness is relative, not absolute. Industry environments unattractive to weak competitors may be attractive to strong competitors.' Vedanta holds a core competence its rivals cannot copy, so the same industry reads differently for it than for them."
+     ]
+    },
+    {
+     "q": "Advise the board on the three options, naming the generic strategy each represents and the decisive objection or merit.",
+     "options": {
+      "A": "Option 1 is cost leadership and should be chosen, because the market has many price-sensitive buyers",
+      "B": "Option 2 is focused differentiation and should be chosen, because premium prices can always be charged in a niche",
+      "C": "Option 3 is the best-cost provider strategy and is the strongest fit, because it turns the calibration competence into value for money; Option 1 is cost leadership that Vedanta cannot win, and Option 2 is focused differentiation that risks the niche",
+      "D": "All three are variants of differentiation, so the choice is a matter of pricing only"
+     },
+     "answer": "C",
+     "reasoning": [
+      "**Option 1 is cost leadership** — standardised products at a low per-unit cost for a broad mass market, aiming to 'underprice competitors and thereby gain market share driving some of the competitors out of the market'. Two published conditions are met (price-sensitive buyers, few ways to differentiate in the mass segment) but two published disadvantages bite hard: 'cost leadership can succeed only if the firm can achieve higher sales volume', and cost leaders keep costs low by minimising R&D, 'but this approach can prove to be expensive in the long run' — which would destroy the very calibration capability that is Vedanta's advantage. With four equal-sized rivals also holding heavy fixed costs, the price war would be mutual.",
+      "**Option 2 is focused differentiation** — 'offering unique features that fulfil the demands of a narrow market', with bespoke integration and a dedicated engineer per site at a premium. Its merits are real: premium prices can be charged and 'due to the tremendous expertise in the goods and services that the organisations following focus strategy offer, rivals and new entrants may find it difficult to compete'. But the published disadvantages apply: 'due to the limited demand of product/services, costs are high', and 'in the long run, the niche could disappear or be taken over by larger competitors by acquiring the same distinctive competencies' — and twelve customers is a dangerous concentration against buyers who already negotiate aggressively.",
+      "**Option 3 is the best-cost provider strategy** — 'charging similar price as by the rivals for products with much higher quality and better features'. It is 'directed towards giving customers more value for the money by emphasizing on both, low cost and upscale differences', keeping costs and prices lower than other sellers of comparable products. It monetises the one thing rivals cannot copy, without betting the firm on twelve accounts or on winning a price war.",
+      "**The caveat to state in the answer:** the best-cost provider position holds only while the calibration competence does. So the recommendation comes with the §3.4.1 condition — core competencies must be supported — and the §3.6.1 warning on durability: document the protocol and build the successor bench before the R&D head retires."
+     ]
+    }
+   ],
+   "takeaway": "One case can demand four separate frameworks — Mendelow's quadrants with its movement rule, the VRIN criteria with the sustainability characteristics, three of Porter's five forces, and the five generic strategies. The marks go to naming the framework before applying it, and to noticing which published condition or disadvantage the facts have been built to trigger."
+  },
+  {
+   "id": "CASE-S03-INT-2",
+   "title": "Integrated Case 2 — Saraswati Learning Ltd. (drivers, channels, SWOT and competence)",
+   "facts": [
+    "Saraswati Learning Ltd. publishes school workbooks and has begun selling a tablet-based practice app.",
+    "**Assessing current performance.** The strategy team has mapped four things: the school-publishing industry and the three state markets it sells in; its customers, who split into school procurement committees, parents buying directly, and bookshops; its products, which run from a ₹120 workbook to a ₹4,000 annual app subscription; and its routes to market, which are 1,400 bookshops, two online marketplaces, direct school supply, and a field team that installs the app on school tablets and trains teachers.",
+    "**Customer and consumer.** The school committee signs the purchase order, the parent often pays, and the child uses the product. In the direct-to-parent channel the parent both buys and judges; in the school channel nobody who signs the order ever opens the workbook.",
+    "**Internal and external facts.** Strengths: a 40-year brand among schoolteachers; an author panel of 300 serving teachers; the field team's relationships with 1,400 bookshops. Weaknesses: no automation of order processing; the app's content is a scan of the workbook, not built for a screen; high attrition in the field team. Opportunities: state boards moving to competency-based assessment, which the author panel could serve first; falling tablet prices. Threats: two venture-funded app-only rivals pricing at a tenth of Saraswati's subscription; schools beginning to buy directly from those rivals online; a draft rule that may bar private publishers from supplying state schools.",
+    "**The capability question.** Saraswati's author panel of serving teachers produces question banks that match what state boards actually ask, and it has done so for four decades; the app-only rivals have better interfaces but demonstrably weaker question quality. The panel exists because of a stipend system, an annual residential workshop, and a culture in which teachers' names appear on the books. One rival has tried to recruit the panel away and has secured eleven of the three hundred."
+   ],
+   "questions": [
+    {
+     "q": "The four things the strategy team has mapped correspond to which published framework, and which of ICAI's statements about it does the customer/consumer split illustrate?",
+     "options": {
+      "A": "SWOT analysis; it illustrates that strengths are internal",
+      "B": "The four key strategic drivers — industry and markets, customers, products/services, channels; the split illustrates ICAI's statement that differentiating between customers (buyers) and consumers (users) is vital to tailoring pricing, design and usability strategies",
+      "C": "Porter's five forces; it illustrates buyer bargaining power",
+      "D": "Mendelow's Matrix; it illustrates the four quadrants"
+     },
+     "answer": "B",
+     "reasoning": [
+      "The four mapped items are exactly the **key strategic drivers** of SM §3.3: 'the key strategic drivers of an organisation include: industry and markets · customers · products/services · channels', and the exercise is described as **assessing the current performance of the business**, considering **what differentiates an organisation from its competitors**.",
+      "ICAI's published short-note answer says of driver 2: 'Customers are segmented based on their needs and spending capacity, which guides product development and marketing strategies. **Differentiating between customers (buyers) and consumers (users) is vital to tailoring pricing, design, and usability strategies effectively.**'",
+      "The study material's own rule applies directly: '**From a pricing perspective — the customer is of more importance and from value creation and design/usability, consumer needs to be kept at the center of decision making**' (SM §3.3.2). So the price points are set for school committees and parents; the interface and exercises are designed for the child.",
+      "ICAI's diaper illustration is the warning: parents are the customers willing to pay more for quality, but 'if babies do not accept the product i.e. if consumers aren't satisfied, it is difficult to retain the buyer i.e. customers as well'. A workbook nobody who signs the order ever opens is exposed to exactly that risk — which is what the app rivals are exploiting."
+     ]
+    },
+    {
+     "q": "Classify Saraswati's four routes to market using the study material's channel types, and state when channel analysis matters most.",
+     "options": {
+      "A": "All four are sales channels, since all four lead to a sale",
+      "B": "The bookshops and marketplaces are product channels; direct school supply is a sales channel; the field team is a relationship channel",
+      "C": "Bookshops, marketplaces and direct school supply are sales channels; the logistics moving stock to them is the product channel; the field team installing the app and training teachers is the service channel — and channel analysis matters most when the strategy is to scale up and expand beyond current geographies and markets",
+      "D": "Only the field team is a channel; the rest are customers"
+     },
+     "answer": "C",
+     "reasoning": [
+      "**Sales channel:** 'the intermediaries involved in selling the product through each channel and ultimately to the end user. The key question is: Who needs to sell to whom for your product to be sold to your end user?' Bookshops, marketplaces and the direct school route all answer that question.",
+      "**Product channel:** 'the series of intermediaries who physically handle the product on its path from its producer to the end user' — the warehousing and transport that move printed workbooks to 1,400 shops.",
+      "**Service channel:** 'the entities that provide necessary services to support the product, as it moves through the sales channel and after purchase by the end user. The service channel is an important consideration for products that are complex in terms of installation or customer assistance.' Installing an app on school tablets and training teachers is precisely that, and ICAI's Bosch dishwasher illustration is the parallel.",
+      "**When it matters:** 'Channel analysis is important when the business strategy is to scale up and expand beyond the current geographies and markets. When a business plans to grow to newer markets, they need to develop or leverage existing channels to get to new customers.' And the second-order point matters here: robust channels 'help keep new players away from entering the industry, thus acting as barriers to entry' — the 1,400 bookshops are an asset the app-only rivals do not have, and the field team is one they cannot cheaply build."
+     ]
+    },
+    {
+     "q": "Build the SWOT grid from the facts, and state the benefit and the criticism of the tool as the study material puts them.",
+     "options": {
+      "A": "Strengths: brand, author panel, bookshop relationships. Weaknesses: no order automation, screen-unsuited app content, field-team attrition. Opportunities: competency-based assessment, falling tablet prices. Threats: venture-funded app rivals, schools buying direct online, the draft procurement rule. Benefit: it puts complex issues into a simple framework. Criticism: it does not generally provide for evaluation in the competitive context",
+      "B": "The same grid, but the draft rule is a weakness because it concerns Saraswati's own business",
+      "C": "The same grid, but falling tablet prices are a strength because they help the app",
+      "D": "SWOT cannot be applied, because the company operates in both print and digital"
+     },
+     "answer": "A",
+     "reasoning": [
+      "The 2×2 is **origin against effect**: internal and helpful = strengths; internal and harmful = weaknesses; external and helpful = opportunities; external and harmful = threats (SM §3.5). The draft procurement rule is external and harmful — a threat, not a weakness, however much it concerns Saraswati. Falling tablet prices are external and helpful — an opportunity, not a strength.",
+      "ICAI's law-firm example sets the expected depth: five strengths, three weaknesses, three opportunities, four threats, each a short phrase. Its case answers are grids filled from the stem's own words, as in the GreenGardens answer where 'high-quality, pesticide-free produce' sits in strengths and 'limited distribution channels' in weaknesses.",
+      "**Benefit:** 'it identifies the complex issues for an organisation and puts them into a simple framework.' **Criticism:** 'it does not generally provide for evaluation of strengths, weaknesses, opportunities and threats in the competitive context', so the organisation 'should consider relative competitors, and external factors affecting the organisation'. Here that matters: the app rivals' weak question quality is the competitive context SWOT alone would not surface.",
+      "And the study material's own answer to the obvious question: 'SWOT Analysis is a tool which is used for both Internal and External Analysis' — which is why the heading is called 'Combining External and Internal Analysis' and sits in the internal-environment chapter."
+     ]
+    },
+    {
+     "q": "Is the author panel a core competence? Test it, and say what the rival's recruitment of eleven members tells you.",
+     "options": {
+      "A": "No — a panel of individuals is a resource, not a capability",
+      "B": "Yes on all four criteria, and the recruitment of eleven of three hundred shows the capability has low transferability: rivals can hire people but cannot acquire the stipend system, the workshop and the culture that produce the question quality",
+      "C": "Yes, but only because of the 40-year brand",
+      "D": "No — the rivals' better interfaces prove they have the stronger competence"
+     },
+     "answer": "B",
+     "reasoning": [
+      "**Valuable:** the panel lets Saraswati exploit the opportunity of competency-based assessment — 'valuable capabilities are the ones that allow the firm to exploit opportunities or avert the threats in its external environment', and ICAI adds that 'placing the right people in the right jobs… Human capital is important in creating value for customers'.",
+      "**Rare:** no rival has a 300-teacher panel. **Costly to imitate:** the capability is 'created through the superior integration of technological, physical and human resources along with organisational culture, teamwork, experience and accumulated knowledge', and is 'developed over time' — ICAI's own words in the OrthoCare answer. **Non-substitutable:** there is no strategic equivalent to four decades of knowing what state boards actually ask.",
+      "It also passes Prahalad and Hamel's three areas: it is **hard for competitors to imitate** (competitor differentiation), the **question quality is why schools buy** (customer value), and it feeds **both the print and the app lines** (application to other markets). Note the study material's test that a competence must be 'applicable to the whole organization; it cannot be only one particular skill'.",
+      "**What the eleven defections tell you** is a transferability point: 'The ability of rivals to attack position of competitive advantage relies on their gaining access to the necessary resources and capabilities. The easier it is to transfer resources and capabilities between companies, the less sustainable will be the competitive advantage.' Individual teachers are transferable; the stipend system, residential workshop and name-on-the-book culture are not — and 'where capabilities require networks of organizational routines, whose effectiveness depends on the corporate culture, imitation is difficult'. Losing 3.7% of the panel is a cost; losing the system that renews it would be the end of the advantage."
+     ]
+    }
+   ],
+   "takeaway": "The internal-environment chapter is at its most examinable when a case forces the candidate to separate a resource from a capability, a customer from a consumer, a threat from a weakness, and a channel type from a channel partner. Every one of those separations is stated explicitly in the study material, and each is worth a mark."
+  }
+ ],
+ "chapter_test": {
+  "mcqs": [
+   {
+    "id": "CT-MCQ-S03-01",
+    "question": "Which of the following is **not** named in the study material as an ingredient of the internal environment?",
+    "options": {
+     "A": "Processes — input, throughput and output",
+     "B": "Administrative apparatus — lines of authority and power, responsibility, accountability",
+     "C": "Industry-shaping competitive forces",
+     "D": "Organizational culture — relationships, philosophy, values, ethics"
+    },
+    "answer": "C",
+    "explanation": "SM §3.1 names people, processes, physical infrastructure, administrative apparatus and organizational culture. Industry-shaping competitive forces are a layer of the *external* environment in SM Ch 2's opening figure."
+   },
+   {
+    "id": "CT-MCQ-S03-02",
+    "question": "Mendelow suggests analysing stakeholder groups on:",
+    "options": {
+     "A": "Power — the ability to influence organisation strategy or resources — and Interest — how interested they are in the organisation succeeding",
+     "B": "Shareholding and seniority",
+     "C": "Contribution to revenue and length of relationship",
+     "D": "Legal standing and voting rights"
+    },
+    "answer": "A",
+    "explanation": "SM §3.2.1. Power is assessed on authority, resources and expertise; interest on level of involvement, expectations, and potential benefits or risks."
+   },
+   {
+    "id": "CT-MCQ-S03-03",
+    "question": "A GST compliance lapse causes the Indirect Taxes Department to move:",
+    "options": {
+     "A": "From low priority to keep informed",
+     "B": "Out of the matrix altogether",
+     "C": "From key player to keep satisfied",
+     "D": "From high power, low interest to high power, high interest"
+    },
+    "answer": "D",
+    "explanation": "SM §3.2.1 gives this exact illustration of stakeholders moving between quadrants, adding that media houses would simultaneously move from low power, low interest to low power, high interest."
+   },
+   {
+    "id": "CT-MCQ-S03-04",
+    "question": "As per the study material, assessing the current performance of a business through the strategic drivers is:",
+    "options": {
+     "A": "Governed by a prescribed set of metrics issued by ICAI",
+     "B": "Possible only for manufacturing firms",
+     "C": "Based solely on profitability",
+     "D": "Highly subjective, based on management's metrics and ways of doing business — it can be profit driven, purpose driven or any other metric management sees fit"
+    },
+    "answer": "D",
+    "explanation": "SM §3.3: 'There can be varied ways to assess the current performance of a business and it is highly subjective based on the managements metrics and ways of doing business. It can either be profit driven, purpose driven or any other metrics that the management seems to fit in.'"
+   },
+   {
+    "id": "CT-MCQ-S03-05",
+    "question": "In the study material's worked strategic group map of laptop companies, the y-axis and x-axis are:",
+    "options": {
+     "A": "Market share and growth rate",
+     "B": "Geographic coverage and vertical integration",
+     "C": "Price and quality",
+     "D": "Reputation amongst consumers and range of products"
+    },
+    "answer": "D",
+    "explanation": "SM §3.3.1.1: reputation is on the y-axis (and shown by the size of the bubble) and range of products on the x-axis, so ABC has few models but great reputation while GHI has both a good range and the highest reputation."
+   },
+   {
+    "id": "CT-MCQ-S03-06",
+    "question": "\"It does not matter whether the differentiation is real or imaginary. Quite often the differentiation is psychological rather than physical.\" This statement in the study material relates to:",
+    "options": {
+     "A": "The differentiation of products, formalised through brand names",
+     "B": "The sustainability of competitive advantage",
+     "C": "Mendelow's quadrants",
+     "D": "The four criteria of core competence"
+    },
+    "answer": "A",
+    "explanation": "SM §3.3.3, on products as a strategic driver: organisations seek to hammer into customers' minds that their products are different, and formalise this through brand names reinforced with legal sanctions and protection — Head & Shoulders, Olay, Old Spice and Pantene all being P&G brands."
+   },
+   {
+    "id": "CT-MCQ-S03-07",
+    "question": "Which pairing of marketing type to example matches the study material?",
+    "options": {
+     "A": "Synchro-marketing — airline lounges for frequent flyers",
+     "B": "Demarketing — HUL's Lifebuoy, Lux and Dove across segments",
+     "C": "Differential marketing — movie tickets priced lower on weekdays",
+     "D": "Social marketing — the publicity campaign for prohibition of smoking in Delhi"
+    },
+    "answer": "D",
+    "explanation": "SM §3.3.3. The lounges are relationship marketing; HUL's multi-segment brands are differential marketing; cheaper weekday movie tickets are synchro-marketing; the anti-smoking campaign is social marketing."
+   },
+   {
+    "id": "CT-MCQ-S03-08",
+    "question": "The three channels named in the study material are:",
+    "options": {
+     "A": "Direct, indirect and hybrid",
+     "B": "Sales, product and service",
+     "C": "Wholesale, retail and online",
+     "D": "Push, pull and profile"
+    },
+    "answer": "B",
+    "explanation": "SM §3.3.4: 'There are typically three channels that should be considered: sales channel, product channel and service channel.'"
+   },
+   {
+    "id": "CT-MCQ-S03-09",
+    "question": "Core competency is best defined, as per the study material, as:",
+    "options": {
+     "A": "The firm's single strongest technological know-how",
+     "B": "The sum of 5 to 15 areas of developed expertise, being the collective learning in the organization",
+     "C": "Any capability that no rival possesses",
+     "D": "The function that generates the largest share of revenue"
+    },
+    "answer": "B",
+    "explanation": "SM §3.4: Prahalad and Hamel define core competency as the collective learning in the organization, especially coordinating diverse production skills and integrating multiple streams of technologies; 'the optimal way to define core competence is to consider it as sum of 5-15 areas of developed expertise'."
+   },
+   {
+    "id": "CT-MCQ-S03-10",
+    "question": "\"Capabilities possessed by many rivals are unlikely to be sources of competitive advantage for any one of them.\" This explains which criterion?",
+    "options": {
+     "A": "Valuable",
+     "B": "Costly to imitate",
+     "C": "Rare",
+     "D": "Non-substitutable"
+    },
+    "answer": "C",
+    "explanation": "SM §3.4.1 under 'Rare': core competencies are very rare capabilities and very few competitors possess them; competitive advantage results only when firms develop and exploit valuable capabilities that differ from those shared with competitors."
+   },
+   {
+    "id": "CT-MCQ-S03-11",
+    "question": "Which is the correct set of the four characteristics on which the **sustainability** of competitive advantage depends?",
+    "options": {
+     "A": "Valuable, rare, costly to imitate, non-substitutable",
+     "B": "Competitor differentiation, customer value, application to other markets, brand",
+     "C": "Power, interest, authority, expertise",
+     "D": "Durability, transferability, imitability, appropriability"
+    },
+    "answer": "D",
+    "explanation": "SM §3.6.1. Option A is the four criteria that qualify a capability as a core competence (§3.4.1); option B mangles Prahalad and Hamel's three areas; option C belongs to Mendelow's Matrix."
+   },
+   {
+    "id": "CT-MCQ-S03-12",
+    "question": "Cost leadership is described in the study material as especially effective when:",
+    "options": {
+     "A": "Buyers are relatively price-insensitive and value unique features",
+     "B": "The market is composed of many price-sensitive buyers and there are few ways to achieve product differentiation",
+     "C": "The target segment is narrow and not crucial to other major competitors",
+     "D": "The firm can charge a premium that buyers do not negotiate"
+    },
+    "answer": "B",
+    "explanation": "SM §3.6.2.1. Option A describes differentiation's market; option C the condition for a focus strategy; option D an advantage of differentiation against buyers."
+   },
+   {
+    "id": "CT-MCQ-S03-13",
+    "question": "A firm offers products at a lower price than rivals for products of comparable quality and features. In the study material's terms this is:",
+    "options": {
+     "A": "Overall cost leadership",
+     "B": "Broad differentiation",
+     "C": "The best-cost provider strategy",
+     "D": "Focused differentiation"
+    },
+    "answer": "C",
+    "explanation": "SM §3.6.2.4: the best-cost provider strategy can be done through '(a) offering products at lower price than what is being offered by rivals for products with comparable quality and features' or '(b) charging similar price as by the rivals for products with much higher quality and better features'."
+   }
+  ],
+  "descriptive": [
+   {
+    "id": "CT-D-S03-01",
+    "marks": 5,
+    "question": "How can Mendelow's Matrix be used to analyse and manage stakeholders effectively?",
+    "answer_points": [
+     "Mendelow's Matrix — also the Stakeholder Analysis matrix and the Power-Interest matrix — is a simple framework to help manage key stakeholders, used through a grid-based approach in four steps.",
+     "**Step 1 — Identify stakeholders:** all individuals, groups or organisations that may be impacted by, or have an impact on, the organisation's activities.",
+     "**Step 2 — Assess power and interest:** power on the basis of authority, resources and expertise; interest gauged by level of involvement, expectations, and potential benefits or risks.",
+     "**Step 3 — Plot stakeholders on the grid:** power on one axis and interest on the other — high power and high interest in Key Players, high power and low interest in Keep Satisfied, low power and high interest in Keep Informed, low power and low interest in Low Priority.",
+     "**Step 4 — Develop strategies for each quadrant:** fully engage the key players, seek their input and keep them informed, since they are crucial to success; keep the high-power, low-interest group satisfied with regular updates to prevent them becoming detractors; adequately inform the high-interest, low-power group and use their feedback; monitor the low-priority group with minimal effort.",
+     "Add the dynamic warning: the environment is highly dynamic and stakeholders can suddenly move between quadrants — a GST compliance lapse moves the Indirect Taxes Department from keep satisfied to key player — so the grid should be re-analysed whenever the environment changes."
+    ]
+   },
+   {
+    "id": "CT-D-S03-02",
+    "marks": 5,
+    "question": "Write a short note on the key strategic drivers of an organisation.",
+    "answer_points": [
+     "Strategic drivers are the essential elements that influence an organisation's ability to differentiate itself from its competitors and achieve competitive advantage; they assess the current performance of the business and provide insights into areas that need focus.",
+     "**Industry and Markets:** understanding the industry and markets identifies the organisation's relative position. Industries group similar companies based on their primary products, while markets are defined by the buyers and sellers of those products; industry and market dynamics are analysed often through tools like strategic group mapping.",
+     "**Customers:** identifying and understanding customers is critical. Customers are segmented based on their needs and spending capacity, which guides product development and marketing strategies, and differentiating between customers (buyers) and consumers (users) is vital to tailoring pricing, design and usability.",
+     "**Products and Services:** central to defining the business. Organisations must assess their offerings, classify products and devise strategies for differentiation, branding and pricing; product innovation and marketing keep the business competitive.",
+     "**Channels:** the channels through which products and services are delivered affect accessibility and customer satisfaction, and strategies for direct, digital or relationship-based marketing ensure efficient distribution to target customers. By aligning these drivers with organisational goals, businesses can achieve sustained growth and maintain a competitive edge."
+    ]
+   },
+   {
+    "id": "CT-D-S03-03",
+    "marks": 5,
+    "question": "Explain the four specific criteria of sustainable competitive advantage that a firm can use to determine which capabilities are core competencies.",
+    "answer_points": [
+     "Capabilities that are **valuable, rare, costly to imitate and non-substitutable** are core competencies.",
+     "**Valuable:** capabilities that allow the firm to exploit opportunities or avert threats in its external environment. A firm creates value for customers by effectively using capabilities to exploit opportunities; finance companies build a valuable competence in financial services, and making such competencies successful requires placing the right people in the right jobs — human capital is important in creating value.",
+     "**Rare:** core competencies are very rare capabilities that very few competitors possess. Capabilities possessed by many rivals are unlikely to be sources of competitive advantage for any one of them; advantage results only from valuable capabilities that differ from those shared with competitors.",
+     "**Costly to imitate:** capabilities that competing firms are unable to develop easily. Intel enjoyed a first-mover advantage more than once because of its rare fast R&D cycle time capability; the product could be imitated in due course, but the R&D cycle time capability was much more difficult to imitate.",
+     "**Non-substitutable:** capabilities that do not have strategic equivalents — there must be no strategically equivalent valuable resources that are themselves either not rare or imitable. Firms could not duplicate Tata's low-cost success because Tata has a unique culture and attracts top talent, and no competitor has imitated Apple's iOS capabilities, which are also protected through copyrights. Only when a capability meets all four is it a core competence, and only while it allows the firm to create value by exploiting external opportunities."
+    ]
+   },
+   {
+    "id": "CT-D-S03-04",
+    "marks": 5,
+    "question": "\"The primary objective of SWOT analysis is to help organizations develop a full awareness of all the factors involved in making a business decision.\" Explain why SWOT analysis is necessary before using a strategy, and state its benefit and its major criticism.",
+    "answer_points": [
+     "SWOT analysis is the analysis of a business's strengths, weaknesses, opportunities and threats — strengths and weaknesses identified in the internal environment, opportunities and threats located in the external environment. It is therefore a tool used for **both internal and external analysis**.",
+     "**Why it is necessary:** it identifies the internal and external factors so that management considers all aspects before deciding on a strategic move; it helps discover recommendations and strategies focused on leveraging strengths and opportunities to overcome weaknesses and threats; and it highlights both where the business performs well and where it needs improvement, so resources can be aligned efficiently.",
+     "**When to do it:** it shall be implemented before all company actions — exploring new initiatives, revamping internal policies, considering opportunities to grow, or altering a plan midway — and periodically, just to check on the current landscape of the business.",
+     "**Benefit:** it identifies the complex issues for an organisation and puts them into a simple framework.",
+     "**Major criticism:** it does not generally provide for evaluation of strengths, weaknesses, opportunities and threats **in the competitive context**, so an organisation using it should also consider relative competitors and the external factors affecting it. Although a simple tool, it is a useful starting point for analysis, whose major purpose is to enable management to create a firm-specific business model that will best align, fit or match organisational resources and capabilities to the demands of the environment."
+    ]
+   },
+   {
+    "id": "CT-D-S03-05",
+    "marks": 5,
+    "question": "A regional snack brand sells standardised packs at the lowest price in its state and is considering whether to keep that position. Explain the six actions by which cost leadership is achieved, and the four disadvantages of the strategy.",
+    "answer_points": [
+     "Cost leadership is a low-cost competitive strategy aimed at a broad mass market, requiring vigorous pursuit of cost reduction in procurement, production, storage and distribution, and economies in overhead costs; the cost leader can charge a lower price than most competitors and still earn satisfactory profits.",
+     "**Actions to achieve it:** prompt forecasting of demand of the product or service; optimum utilisation of resources to achieve cost advantages; achieving economies of scale and thus a lower per-unit cost; standardisation of products for mass production to yield a lower cost per unit, as McDonald's does; investing in cost-saving technologies and using advanced technology for smart efficient working; and resistance to differentiation till it becomes essential.",
+     "**Disadvantage 1:** the cost advantage may not last long, as competitors may imitate cost reduction techniques. **Disadvantage 2:** cost leadership can succeed only if the firm can achieve higher sales volume.",
+     "**Disadvantage 3:** cost leaders tend to keep costs low by minimising the cost of advertising, market research and research and development, but this approach can prove to be expensive in the long run. **Disadvantage 4:** technological advancement is a great threat to cost leaders.",
+     "The strategy is especially effective where there are many price-sensitive buyers and few ways to achieve product differentiation, and it usually permeates the entire firm — high efficiency, low overheads, limited perks, intolerance of waste, intensive screening of budget requests, wide span of controls, rewards linked to cost containment and broad employee participation in cost control."
+    ]
+   },
+   {
+    "id": "CT-D-S03-06",
+    "marks": 5,
+    "question": "Explain the best-cost provider strategy and distinguish it from the four other generic competitive strategies.",
+    "answer_points": [
+     "The best-cost provider strategy is **the new model and a further development of the three generic strategies**. It is directed towards giving customers more value for the money by emphasising **both low cost and upscale differences**, with the objective of keeping costs and prices lower than those of other sellers of comparable products.",
+     "**Its two routes:** offering products at a lower price than rivals for products with comparable quality and features; or charging a similar price as rivals for products of much higher quality and better features. ICAI's illustration is the android flagship segment — OnePlus, Xiaomi, Oppo and Vivo giving better quality at the lowest prices to penetrate the market.",
+     "**Against cost leadership:** cost leadership produces standardised products at a very low per-unit cost for price-sensitive consumers in a broad mass market and aims to underprice competitors; the best-cost provider is not necessarily the cheapest and does not abandon upscale features.",
+     "**Against differentiation:** differentiation produces products considered unique industry-wide for relatively price-insensitive consumers and charges a premium; the best-cost provider deliberately holds its price at or below comparable rivals.",
+     "**Against the two focused strategies:** focused cost leadership competes on price within a narrow market — charging low prices relative to others in that target market rather than the industry's lowest — and focused differentiation offers unique features to a narrow market, defined for instance by sales channel or demographic group. The best-cost provider serves a **broad cross-section of buyers**. ICAI's figure names the five as overall low-cost leadership, broad differentiation, best-cost provider, focused low-cost and focused differentiation."
+    ]
+   }
+  ]
+ },
+ "recall": {
+  "quick": [
+   {
+    "q": "Name the five ingredients of the internal environment.",
+    "a": "People; processes (input-throughput-output); physical infrastructure; administrative apparatus; organizational culture."
+   },
+   {
+    "q": "Name Mendelow's four quadrants with one example each.",
+    "a": "Keep satisfied (banks, government, customers); key players (shareholders, CEO, Board); keep informed (employees, vendors, suppliers, legal experts); low priority (business magazines, media houses)."
+   },
+   {
+    "q": "State the four steps in using Mendelow's Matrix.",
+    "a": "Identify stakeholders; assess power and interest; plot on the grid; develop strategies for each quadrant."
+   },
+   {
+    "q": "Name the four key strategic drivers.",
+    "a": "Industry and markets; customers; products/services; channels."
+   },
+   {
+    "q": "What is the difference between a customer and a consumer, and which governs pricing?",
+    "a": "A customer buys, a consumer uses. Pricing follows the customer; value creation, design and usability follow the consumer."
+   },
+   {
+    "q": "Name the three channels.",
+    "a": "Sales channel (who sells to whom), product channel (who physically handles it), service channel (who supports it during and after sale)."
+   },
+   {
+    "q": "State the three areas in which major core competencies are identified, and whose list it is.",
+    "a": "Competitor differentiation, customer value, application to other markets — C.K. Prahalad and Gary Hamel."
+   },
+   {
+    "q": "State the four criteria that qualify a capability as a core competence.",
+    "a": "Valuable, rare, costly to imitate, non-substitutable."
+   },
+   {
+    "q": "State the four characteristics on which the sustainability of competitive advantage depends.",
+    "a": "Durability, transferability, imitability, appropriability."
+   },
+   {
+    "q": "What is the primary objective of SWOT analysis, and its major criticism?",
+    "a": "To help organisations develop a full awareness of all the factors — external as well as internal — involved in making a business decision. Criticism: it does not generally provide for evaluation in the competitive context."
+   },
+   {
+    "q": "Name Porter's three generic strategies and the two further ones in ICAI's five-strategy figure.",
+    "a": "Cost leadership, differentiation, focus; plus focused cost leadership and focused differentiation as the narrow-target variants, with the best-cost provider strategy as the fifth in the five-strategy figure."
+   },
+   {
+    "q": "Name the three bases of differentiation.",
+    "a": "Product, pricing and organisation."
+   }
+  ],
+  "fill": [
+   {
+    "q": "A firm may be viewed as a ______ of stakeholders.",
+    "a": "coalition"
+   },
+   {
+    "q": "The optimal way to define core competence is as the sum of ______ to ______ areas of developed expertise.",
+    "a": "5; 15"
+   },
+   {
+    "q": "The internal strategy of sharing resources to build a competitive advantage is called ______.",
+    "a": "synergy benefit"
+   },
+   {
+    "q": "An organisation has competitive advantage if its profitability is higher than the ______ for all companies in its industry.",
+    "a": "average profitability"
+   },
+   {
+    "q": "Focused cost leadership charges low prices relative to other firms that compete within the ______, not necessarily the lowest prices in the ______.",
+    "a": "target market; industry"
+   },
+   {
+    "q": "Industry grouping is based on the ______ that a company makes or sells.",
+    "a": "primary product"
+   }
+  ],
+  "true_false": [
+   {
+    "q": "SWOT analysis is a tool of internal analysis only.",
+    "a": "False. The study material says expressly that SWOT is a tool used for both internal and external analysis — which is why the heading is titled 'Combining External and Internal Analysis'."
+   },
+   {
+    "q": "Customers belong in the key-players quadrant of Mendelow's Matrix.",
+    "a": "False as a default. ICAI lists customers among the **keep satisfied** examples, with banks and government. A particular customer whose own business depends on the firm may of course have high interest too."
+   },
+   {
+    "q": "A single outstanding technological know-how can be a core competence.",
+    "a": "False. Core competencies cannot be built on one capability or single technological know-how; they are the integration of many resources, the sum of 5 to 15 areas of expertise."
+   },
+   {
+    "q": "A large firm can pursue a focus strategy on its own.",
+    "a": "False. Midsize and large firms can effectively pursue focus-based strategies **only in conjunction with** differentiation or cost leadership-based strategies."
+   },
+   {
+    "q": "Differentiation guarantees competitive advantage.",
+    "a": "False. 'Differentiation does not guarantee competitive advantage, especially if standard products sufficiently meet customer needs or if rapid imitation by competitors is possible.'"
+   },
+   {
+    "q": "The best-cost provider charges the lowest price in the industry.",
+    "a": "False. It keeps costs and prices lower than other sellers of **comparable products**, either undercutting them at comparable quality or matching their price at much higher quality."
+   }
+  ],
+  "one_word": [
+   {
+    "q": "The matrix also known as the Stakeholder Analysis matrix and the Power-Interest matrix.",
+    "a": "Mendelow's Matrix"
+   },
+   {
+    "q": "The criterion illustrated by three hospitals buying the same robot and failing to match the outcome.",
+    "a": "Costly to imitate"
+   },
+   {
+    "q": "The characteristic of sustainability threatened by a CEO's retirement.",
+    "a": "Durability"
+   },
+   {
+    "q": "The marketing type whose example is an airline lounge for frequent flyers.",
+    "a": "Relationship marketing"
+   },
+   {
+    "q": "The strategy followed by Rolls-Royce selling a limited number of high-end custom-built cars.",
+    "a": "Focused differentiation"
+   },
+   {
+    "q": "The strategy of OnePlus and Xiaomi giving better quality at the lowest prices.",
+    "a": "Best-cost provider strategy"
+   }
+  ],
+  "match": {
+   "left": [
+    "C.K. Prahalad and Gary Hamel",
+    "Mendelow",
+    "Michael Porter",
+    "Jack Welch",
+    "Hindustan Unilever Limited"
+   ],
+   "right": [
+    "Marketing and sales as a core competence, enabling successful new-brand launches",
+    "Power and Interest as the two axes for analysing stakeholder groups",
+    "\"If you don't have a competitive advantage, don't compete\"",
+    "Core competency as the collective learning in the organization",
+    "Cost leadership, differentiation and focus as the three generic bases"
+   ],
+   "key": [
+    "1-d",
+    "2-b",
+    "3-e",
+    "4-c",
+    "5-a"
+   ]
+  },
+  "differentiate": [
+   {
+    "q": "Keep satisfied vs keep informed",
+    "a": "Keep satisfied is high power and low interest — put in enough work to keep them satisfied with their intended information regularly (banks, government, customers). Keep informed is low power and high interest — adequately inform and communicate so no major issues arise, and use their feedback (employees, vendors, suppliers, legal experts)."
+   },
+   {
+    "q": "The four criteria (§3.4.1) vs the four characteristics (§3.6.1)",
+    "a": "The criteria — valuable, rare, costly to imitate, non-substitutable — decide whether a capability *is* a core competence. The characteristics — durability, transferability, imitability, appropriability — decide how long the resulting advantage *lasts* and who keeps the returns."
+   },
+   {
+    "q": "Cost leadership vs best-cost provider",
+    "a": "Cost leadership produces standardised products at the lowest per-unit cost for a price-sensitive broad market, aiming to underprice competitors. The best-cost provider gives more value for money by combining low cost with upscale differences — a lower price for comparable quality, or the same price for much higher quality."
+   },
+   {
+    "q": "Focused cost leadership vs focused differentiation",
+    "a": "Both target a narrow market. Focused cost leadership competes on price, charging low prices relative to other firms in that target market rather than the industry's lowest. Focused differentiation competes on uniqueness, offering features that fulfil the demands of that narrow market."
+   },
+   {
+    "q": "Customer analysis as a driver vs Mendelow's customer quadrant",
+    "a": "As a strategic driver, customers are segmented by needs and spending capacity to guide product and marketing decisions. In Mendelow's Matrix, customers are a **stakeholder group**, listed by ICAI under keep satisfied — high power over the firm's fortunes, but often low interest in its internal success."
+   }
+  ],
+  "flowchart": {
+   "steps": [
+    "Key stakeholders",
+    "Mendelow's Matrix",
+    "Strategic drivers",
+    "Core competency",
+    "SWOT analysis",
+    "Porter's generic strategies"
+   ],
+   "blanks": [
+    1,
+    4
+   ]
+  }
+ },
+ "revision": {
+  "five": [
+   "Mendelow: power (authority, resources, expertise) × interest; keep satisfied, key players, keep informed, low priority; stakeholders move quadrants.",
+   "Four strategic drivers: industry and markets, customers, products/services, channels.",
+   "Three channels: sales, product, service.",
+   "Core competence tests: three areas (competitor differentiation, customer value, application to other markets) and four criteria (valuable, rare, costly to imitate, non-substitutable).",
+   "Five generic strategies: cost leadership, differentiation, focused cost leadership, focused differentiation, best-cost provider."
+  ],
+  "fifteen": [
+   "The four Mendelow process steps and the grid instructions for each quadrant.",
+   "Cost leadership: six achieving actions, two conditions, four disadvantages, and the five force-by-force advantages.",
+   "Differentiation: three bases, six achieving strategies, three disadvantages, and the five force-by-force advantages.",
+   "SWOT: primary objective, the four definitions, the benefit and the competitive-context criticism, and the 'both internal and external' answer.",
+   "The four characteristics of sustainability with ICAI's examples — patents versus brand names, hiring key personnel, financial-services innovation, who receives the returns."
+  ],
+  "thirty": [
+   "The five ingredients of the internal environment and the OTT stakeholder-requirements table.",
+   "Strategic group mapping as this chapter states it, including the two extremes and the worked laptop map.",
+   "The thirteen marketing types with ICAI's example for each — at minimum augmented, relationship, synchro, differential, concentrated, demarketing, enlightened and social.",
+   "Core competency in full: the definition, the three areas, the four criteria, cultural capabilities, and the HUL, Wal-Mart, Intel, Tata, Apple and Airtel illustrations.",
+   "Focus strategies: the conditions for success, the two variants, four achieving actions, two advantages, three disadvantages; plus the best-cost provider's two routes."
+  ],
+  "sixty": [
+   "Write full 5-mark answers to the five recurring questions: Mendelow's use; the key strategic drivers; the four criteria of core competence; channels; and differentiation with its bases and achieving strategies.",
+   "Work both integrated cases and the thirteen-MCQ chapter test, then check each answer against the published list it comes from.",
+   "Redo all 30 official MCQs in this chapter and justify why each of the other three options fails.",
+   "Drill the generic-strategy decision table against all nine published cases until the identification is automatic — that is where the chapter's largest single block of marks sits."
+  ]
+ },
+ "one_page": {
+  "sections": [
+   {
+    "title": "Internal environment",
+    "points": [
+     "People, processes, physical infrastructure, administrative apparatus, culture — specific to each organisation",
+     "The firm is a coalition of stakeholders, not an extension of its owners",
+     "Stakeholders: interest in or impact on strategy, with power to influence strategy or performance",
+     "Each has a different level of influence and interest; a clash of objectives can hurt the firm"
+    ]
+   },
+   {
+    "title": "Mendelow's Matrix",
+    "points": [
+     "Power = influence over strategy or resources (authority, resources, expertise)",
+     "Interest = how interested they are in the organisation succeeding",
+     "Keep satisfied: banks, government, customers — consult often, increase interest",
+     "Key players: shareholders, CEO, Board — manage closely, involve in decisions",
+     "Keep informed: employees, vendors, suppliers, legal experts — inform, use feedback",
+     "Low priority: business magazines, media houses — monitor only",
+     "Four steps: identify → assess → plot → strategise; and re-analyse when the environment changes"
+    ]
+   },
+   {
+    "title": "Strategic drivers",
+    "points": [
+     "Assess current performance; consider what differentiates the firm",
+     "Industry and markets: industry by primary product; market = all buyers and sellers; strategic group mapping",
+     "Customers: segment by needs and spending capacity; customer buys, consumer uses",
+     "Products/services: what business are we in; differentiation real or imaginary; thirteen marketing types",
+     "Channels: sales, product, service; wider and stronger channels are barriers to entry"
+    ]
+   },
+   {
+    "title": "Core competency",
+    "points": [
+     "Prahalad and Hamel: collective learning; coordinating diverse skills; integrating technologies",
+     "Sum of 5–15 areas of expertise, never a single know-how",
+     "Three areas: competitor differentiation, customer value, application to other markets",
+     "Four criteria: valuable, rare, costly to imitate, non-substitutable",
+     "Created by superior integration of technological, physical and human resources; includes cultural capabilities",
+     "HUL marketing, Wal-Mart costs, Intel R&D cycle time, Tata culture, Apple iOS, Airtel service"
+    ]
+   },
+   {
+    "title": "SWOT",
+    "points": [
+     "Strengths and weaknesses internal; opportunities and threats external",
+     "Primary objective: full awareness of all factors in a business decision",
+     "Do it before all company actions, and periodically",
+     "Benefit: complex issues in a simple framework. Criticism: no competitive context",
+     "A tool for both internal and external analysis"
+    ]
+   },
+   {
+    "title": "Competitive advantage",
+    "points": [
+     "A set of unique features perceived as significant and superior; profitability above the industry average",
+     "Achieved only when rivals cannot duplicate the value creation strategy, and only after their efforts fail",
+     "Sustainability: durability, transferability, imitability, appropriability"
+    ]
+   },
+   {
+    "title": "Generic strategies",
+    "points": [
+     "Cost leadership: standardised, lowest per-unit cost, broad market, price-sensitive buyers; synergy benefit; risks of imitation, volume dependence, under-investment, technology",
+     "Differentiation: unique industry-wide, premium price, price-insensitive buyers; bases of product, pricing, organisation; risks of over-pricing and quick copying",
+     "Focus: segment of sufficient size, good growth, not crucial to majors; focused cost leadership and focused differentiation; large firms only in conjunction",
+     "Best-cost provider: more value for money — lower price at comparable quality, or same price at higher quality",
+     "Five in the figure: overall low-cost, broad differentiation, best-cost provider, focused low-cost, focused differentiation"
+    ]
+   }
+  ]
+ },
+ "verification": {
+  "sources": [
+   "ICAI SM Paper 6B Chapter 3 (edition relevant for May 2026 examination onwards), pp. 3.1–3.46",
+   "Suggested answers May 2024 – May 2026 (eight papers; May 2025's SM MCQs are printed in the 6A file)",
+   "RTPs May 2024 – Sep 2026 (nine papers; ICAI's own chapter labels place Chapter 3 at questions 11 and 12 in every one)",
+   "MTPs Mar 2024 – Sep 2026 (third-party copies of ICAI MTPs)"
+  ],
+  "open_items": [
+   {
+    "id": "OV-S03-01",
+    "item": "ICAI's RTP chapter labels are exact and regular — Chapter 1 = Q7–8, Chapter 2 = Q9–10, Chapter 3 = Q11–12, Chapter 4 = Q13–14, Chapter 5 = Q15–16 in all nine RTPs — but two questions sit under a label that does not match their content. RTP May 2026 Q11 is labelled Chapter 3 and answered as strategic group mapping (held in SM Ch 2 at S02.23); RTP Sep 2026 Q13 is labelled Chapter 4 and answered as focused differentiation (placed here at S03.14, since Chapter 4's headings have no home for it).",
+    "resolve_with": "No action needed for answering; recorded so a reader who finds either question under the other label is not confused"
+   },
+   {
+    "id": "OV-S03-02",
+    "item": "PYQ May 2025 MCQ 12 was moved here from SM Chapter 2 after reading ICAI's key: 'Augmented marketing' is defined in this chapter at §3.3.3 under types of marketing, not in Chapter 2's value chain, although the MCQ sits in a case scenario about robot servicing.",
+    "resolve_with": "None; the move is recorded in both chapters' atom notes"
+   },
+   {
+    "id": "OV-S03-03",
+    "item": "Three questions whose stems read like Chapter 3 were excluded after reading the published answer in full: PYQ Sep 2024 Q5(a) (M/s MTS Ltd — the stem ends 'focusing on its core competencies' but the answer is the Network Organizational Structure, SM Ch 5); PYQ Jan 2025 Q5(c) and MTP Jan 2026 S1 Q1(c) (Organic Beverages — answered with the BCG matrix, SM Ch 4); and PYQ May 2026 Q5(c) (MM Company at maturity — answered as Stability Strategy, SM Ch 4).",
+    "resolve_with": "Place each atom when SM Ch 4 and Ch 5 are built"
+   },
+   {
+    "id": "OV-S03-04",
+    "item": "The study material presents three different four-item (and one three-item) lists within four pages: the three areas of core competency (§3.4), the four criteria of sustainable competitive advantage (§3.4.1) and the four characteristics of sustainability (§3.6.1). ICAI examines each separately and the stems are near-identical in register. The confusing-pairs table at the head of this back matter sets out the trigger words that select each.",
+    "resolve_with": "None; this is a feature of the material rather than an error, and is handled by the table"
+   },
+   {
+    "id": "OV-S03-05",
+    "item": "Strategic group mapping appears in full in both SM Ch 2 §2.7.1 and SM Ch 3 §3.3.1.1, with the same four-step procedure and the same six differentiating variables. This chapter adds the two extremes (one strategic group when all strategies are identical; as many groups as competitors when all differ) and the worked laptop map, which Chapter 2 does not carry.",
+    "resolve_with": "None; both treatments are written up where the study material places them, and cross-referenced"
+   },
+   {
+    "id": "OV-S03-06",
+    "item": "S03.01 (Introduction) carries no official question of its own, and S03.05, S03.06, S03.07, S03.12 and S03.13 carry very few — S03.12 and S03.13 one between them, and S03.05 and S03.06 none as a primary code. All are written up in full with expected questions and chapter-test coverage.",
+    "resolve_with": "Revisit after the next two attempts; the 'key strategic drivers' short note has now been asked six times in RTPs and MTPs without reaching a past paper, so S03.04 to S03.08 are overdue"
+   },
+   {
+    "id": "OV-S03-07",
+    "item": "The extraction of ICAI's answer to PYQ May 2026 Q7(b) (channels) and Q5(b) (Pearl India) required reading the suggested-answer file directly, because the automated sub-part slicer mis-aligned the (a)/(b) boundaries in that paper. Both answers quoted here were read from the published text at SA-M26 lines 1439–1475 and 1659–1695.",
+    "resolve_with": "None; recorded so the quotations can be re-checked against the same lines"
+   },
+   {
+    "id": "OV-S03-08",
+    "item": "May 2024's published suggested answers contain no MCQ part, so no May 2024 MCQ appears in this chapter's evidence table; and the MTP September 2026 Series I question paper was unavailable, so only its answer file could be used.",
+    "resolve_with": "Check whether ICAI later publishes the May 2024 MCQ answers; download the Sep 2026 Series I paper from the BoS mock test portal"
+   }
+  ],
+  "qa": [
+   "All 14 register headings S03.01–S03.14 are covered by the 10 topic blocks.",
+   "All 76 atoms in atoms_S03.json are placed: 25 as official question entries and 30 as official MCQ entries, with the remaining 21 placed by full id inside also_asked_as notes on the question they repeat.",
+   "Every quoted ICAI answer in this chapter was read from the extracted text of the published paper, not reconstructed. Where the automated extraction mis-sliced a sub-part, the suggested-answer file was read directly and the line numbers are recorded above.",
+   "Every official MCQ carries ICAI's published key, taken from the Answer Key table in the suggested answers, the SUGGESTED ANSWERS/HINTS block in the RTPs, or the PART I answer block in the MTP answer files."
+  ]
+ }
+}
