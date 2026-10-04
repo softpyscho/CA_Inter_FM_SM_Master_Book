@@ -18,6 +18,8 @@ Updated 03-10-2026. Target attempt: January 2027.
 | SM Chapter 3 written and merged | Done — `book/Ch12.json` (14/14 headings, 95/95 atoms placed) |
 | SM Chapter 4 written and merged | Done — `book/Ch13.json` (15/15 headings, 86/86 atoms placed) |
 | SM Chapter 5 written and merged | Done — `book/Ch14.json` (18/18 headings, 80/80 atoms placed); **Section B (SM) is complete** |
+| Front matter written | Done — `book/front.json`, six sections (see below) |
+| Back matter written | Done — `book/back.json`, eight appendices A–H (see below) |
 
 ## Chapter numbering used in the book
 
@@ -692,3 +694,68 @@ concepts the examiner reuses.
 **Content inventory at this point:** 186 topic blocks · 608 MCQs · 424 official question entries ·
 121 expected questions · 252 chapter-test items · 28 integrated cases · 38 Confusing Concepts
 tables · 789 official atoms.
+
+## Back matter — DONE (04-10-2026)
+
+`book/back.json`, eight parts. Each part renders as a HEADING_1 section, so each appears in the
+static TOC and in the PDF bookmark panel alongside the chapters.
+
+| Appendix | Content | Size |
+| --- | --- | --- |
+| A | Cross-Chapter Integrated Cases — Mahanadi Ceramics Ltd. (FM, five chapters) and Nilgiri Organics Ltd. (SM, all five) | 1 section, 8 blocks |
+| B | Mock Exam 1 — full 100-mark paper plus answers and marking | 2 sections, 53 blocks |
+| C | Mock Exam 2 — full 100-mark paper plus answers and marking | 2 sections, 51 blocks |
+| D | Study Plans — 90-day, 45-day and 20-day plans, the last seven days, and what to cut when behind | 1 section, 14 blocks |
+| E | The Mistake Book — nine failure patterns, then 70 curated chapter-by-chapter mistakes | 2 sections, 14 blocks |
+| F | The 24-Hour Book — the six-hour last-day sequence, the FM formula sheet, twelve discriminators, nineteen SM frameworks, the exam-day minute plan | 1 section, 26 blocks |
+| G | Master Question Index — all 789 official atoms by paper, with chapter and ICAI heading | 3 sections, 23 tables |
+| H | Coverage Dashboard — the 14 × 8 chapter/sitting grid and the per-chapter atom counts | 1 section, 9 blocks |
+
+**The mock papers follow ICAI's verified pattern** for Sep 2024 to May 2026: Part I is 30 marks of
+MCQs (15 FM + 15 SM, each section being one five-MCQ case scenario plus two 2-mark and one 1-mark
+independent MCQ); Part II is 70 marks descriptive, with Q1 and Q5 compulsory at 15 marks (5+5+5)
+and any two of Q2–Q4 and any two of Q6–Q8 at 10 marks each. FM Q4 is theory in both mocks, which is
+what the papers in the period reviewed do without exception.
+
+**Every figure in both mock answer keys was computed independently in Python before the answer was
+written**, including the two case scenarios (Tungabhadra Alloys: DOL 2.40, DCL 3.20, ROE 28.13%;
+Kaveri Spinners: Ke 16%, Kp 11.43%, Kd 7.29%, WACC 13.68% on market weights and 12.08% on book
+weights) and every descriptive part (NPV ₹11,81,800 and PI 1.394; WACC 11.55%; net working capital
+₹11,68,750; EPS indifference ₹36,00,000; Walter ₹116.67/₹108.33/₹100.00; IRR 15.24%; Baumol
+₹1,00,000 with 25 conversions and ₹10,000 total cost; cash-discount saving ₹10,000; Gordon
+₹100/₹133.33; three-plan EPS ₹8.40/₹11.67/₹14.70; cash budget closings ₹24,000/₹31,000/₹16,000).
+
+**The two mocks are complementary, not duplicative.** Mock 1 covers ratio analysis, cost of capital,
+capital structure, leverage, capital budgeting, Walter and working-capital estimation on the FM
+side, and value chain, core competence, five forces, diversification, 7S, turnaround, alliances and
+GE on the SM side. Mock 2 deliberately takes the chapters Mock 1 left alone: market-value WACC, EOQ,
+receivables, IRR, reverse leverage, cash budget, Baumol, cash discount, Gordon, three-plan EPS,
+venture capital and factoring on the FM side; and PLC, Ansoff, formulation versus implementation,
+PESTLE, competitive landscape, culture, strategic leadership, performance measures and stability on
+the SM side. Between them the two papers touch all fourteen chapters.
+
+**Every register reference in the back matter was looked up in `sources/register.json` rather than
+written from memory.** Nine were wrong on the first pass and were corrected — the PLC is §2.4.1 not
+§2.3.3, PESTLE is §2.3.3, formulation-versus-implementation is §5.2.4 not §5.2.6, Walter and Gordon
+both sit under §8.2 Dividend's Relevance Theory, the Baumol model is §11.1 under §10.6, and the
+factoring/bill-discounting comparison is §27.8 with bill discounting itself at §27.6.
+
+### A renderer bug found and fixed while building this
+
+`renderCase` in `book/build_fmsm_book.js` read only `q.answer` (a string) plus `q.reasoning[]`, and
+`c.trap`. Twenty case answers written as `q.a[]` and eight `c.takeaway` fields were therefore being
+**silently dropped from the printed book** — every answer in the SM Ch 4 and SM Ch 5 integrated
+cases, and the takeaway of all four SM chapters' cases. The renderer now normalises both shapes
+(`{answer, reasoning[]}` and `{a[]}`, where `a[0]` is the verdict) and prints `takeaway` under its
+own label. Verified by scanning the rebuilt docx for answer text that previously had a zero count.
+
+All 35 tables in `back.json` were also rescaled so their column widths sum to the content width of
+9906 DXA; Word scales a table whose `columnWidths` disagree with its declared width, which was
+distorting the wider tables.
+
+## Next after this
+
+The only work left on the list is the **FM residual** recorded under *"Back-fill residual — the real
+FM gaps found by the fixed coverage.py"* above: roughly 28 real unplaced FM parts, itemised there by
+target chapter. Each adds one more official question to a chapter that already covers its register
+headings in full, which is why it was scheduled last.

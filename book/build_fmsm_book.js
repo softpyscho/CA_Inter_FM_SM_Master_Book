@@ -333,11 +333,15 @@ function renderCase(c, withAnswers = true) {
   if (withAnswers) {
     body.push(answerDivider('✔ ANSWERS'));
     arr(c.questions).forEach((q, i) => {
-      body.push(LBL(`Q${(c.start || 1) + i}:`, s(q.answer), '15803D'));
-      arr(q.reasoning).forEach((r) => body.push(B(r)));
+      // Two shapes are in use: {answer, reasoning[]} and {a[]}, where a[0] is the
+      // verdict and the rest are the working. Normalise so neither is dropped.
+      const lines = q.answer != null ? [s(q.answer), ...arr(q.reasoning)] : arr(q.a).map(s);
+      body.push(LBL(`Q${(c.start || 1) + i}:`, lines[0] || '', '15803D'));
+      lines.slice(1).forEach((r) => body.push(B(r)));
     });
     if (arr(c.concepts).length) body.push(LBL('🗺 Topics tested:', arr(c.concepts).join(', '), '475569'));
     if (c.trap) body.push(LBL('🪤 Trap:', c.trap, 'C2410C'));
+    if (c.takeaway) body.push(LBL('🎯 Takeaway:', c.takeaway, '15803D'));
   }
   return box('casebox', c.title || '', body);
 }
