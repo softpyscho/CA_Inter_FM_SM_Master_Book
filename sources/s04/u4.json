@@ -634,6 +634,25 @@
      "concept": "S04.14"
     },
     {
+     "id": "PYQ-S24-MCQ15",
+     "question": "Always Ahead Ltd. is an established player in FMCG, Herbs, Health care and White goods. The company has classified its portfolio of investments in different businesses in four quadrants as suggested by the Boston Consulting Group. On further analysis of the relationship between market growth rate and relative market share for the White goods business, it is found that opportunities to increase its market share are there. Emphasis needs to be given to make a strong future with large market share even by foregoing short-term earnings for this business. Which strategy is being pursued by the company for the White goods segment?",
+     "options": {
+      "A": "Build",
+      "B": "Hold",
+      "C": "Harvest",
+      "D": "Divest"
+     },
+     "answer": "A",
+     "explanation": "SM §4.4.3.1 defines Build in the stem's own words: 'here the objective is to increase market share, even by forgoing short-term earnings in favour of building a strong future with large market share'. ICAI key: (A).",
+     "why_wrong": {
+      "B": "Hold merely preserves market share; the stem wants it increased.",
+      "C": "Harvest increases short-term cash flow regardless of long-term effect — the opposite of forgoing short-term earnings.",
+      "D": "Divest sells or liquidates because resources can be better used elsewhere."
+     },
+     "trap": "The examiner has paraphrased the definition of Build almost verbatim; the only work is to recognise it and not be distracted by the BCG box, which the stem never names.",
+     "concept": "S04.14"
+    },
+    {
      "id": "MCQ-S04.14-01",
      "angle": "ICAI's own box",
      "difficulty": "Difficult",

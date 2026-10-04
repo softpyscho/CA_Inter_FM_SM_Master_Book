@@ -16,7 +16,7 @@ Updated 03-10-2026. Target attempt: January 2027.
 | FM Chapters 2–9 written and merged | Done — `book/Ch02.json` to `book/Ch09.json`; **Section A (FM) is complete**; see the progress ledger below |
 | SM Chapter 2 written and merged | Done — `book/Ch11.json` (24/24 headings, 91/91 atoms placed) |
 | SM Chapter 3 written and merged | Done — `book/Ch12.json` (14/14 headings, 77/77 atoms placed) |
-| SM Chapter 4 written and merged | Done — `book/Ch13.json` (15/15 headings, 80/80 atoms placed) |
+| SM Chapter 4 written and merged | Done — `book/Ch13.json` (15/15 headings, 83/83 atoms placed) |
 
 ## Chapter numbering used in the book
 
@@ -340,8 +340,8 @@ can be re-checked.
 
 ## SM Ch 4 — Strategic Choices — DONE (04-10-2026)
 
-`book/Ch13.json` — 15/15 register headings, 80/80 official atoms placed, 9 topic blocks,
-28 official question entries, 31 official MCQs, 44 generated MCQs at
+`book/Ch13.json` — 15/15 register headings, 83/83 official atoms placed, 9 topic blocks,
+28 official question entries, 32 official MCQs, 44 generated MCQs at
 `{'A': 11, 'B': 11, 'C': 11, 'D': 11}` — **0.0% deviation on the first merge**, zero errors.
 
 Block layout (`sources/s04/u1..u5.json`):
@@ -405,6 +405,15 @@ GE matrix (`S04.15`). Note for the remaining chapters: **`mcqd.py` returns zero 
 for SA files**, so SA MCQ stems have to be read directly from `sources/sa/*.txt`, and the RTP MCQ
 keys sit in a compact table under the *last* `SUGGESTED ANSWERS` heading of each RTP file.
 
+**A third pass, sweeping the descriptive bank the same way, found three more.** `MTP-S24-S1-SQ1c`
+(FreshDelight, answered as **market development** — a deliberate contrast with the ABC Fashion
+diversification case, since only the market changed), `MTP-S25-S1-SQ1c` (ZephyrFit, answered as a
+**divestment strategy**) and `PYQ-S24-MCQ15` (Always Ahead Ltd., key **Build**). The last was
+invisible to the MCQ sweep because **`sa_smcq.py` does not cover SA-S24 at all** — that paper's
+MCQ section has to be read straight out of `sources/sa/SA-S24.txt`, where the SM answer key sits
+under the *second* `Answer Key` heading (MCQs 9–16). Worth knowing before the back-fill pass: the
+same blind spot hides SA-S24 MCQs 10, 11 and 12, which belong to SM Ch 2 and Ch 3.
+
 Four MCQ atoms found in the same sweep belong to other chapters and are queued for back-fill:
 `RTP-M24-SMCQ5` (Mendelow, key b), `RTP-S24-SMCQ4` (core competency areas, key d),
 `RTP-M26-SMCQ5` (differentiation, key c) and `PYQ-M26-MCQ14` (best-cost provider, key B) to
@@ -462,4 +471,7 @@ in `atoms_S04.json`. Still outstanding for SM Ch 5:
 - PYQ-M25-MCQ15 (key: **special alert control**) -> SM Ch 5
 - RTP-M24-SMCQ5 (Mendelow, key b), RTP-S24-SMCQ4 (core competency areas, key d), RTP-M26-SMCQ5
   (differentiation strategy, key c) and PYQ-M26-MCQ14 (best-cost provider strategy, key B) -> SM Ch 3
-- RTP-M25-SMCQ5 (experience curve, key a) -> heading to be confirmed, then placed
+- RTP-M25-SMCQ5 and PYQ-S24-MCQ11 (experience curve, keys a and A) -> heading to be confirmed, then placed
+- PYQ-S24-MCQ10 (product life cycle, maturity stage, key B) -> SM Ch 2 (S02.11)
+- PYQ-S24-MCQ12 (focus differentiation strategy, key C) -> SM Ch 3 (S03.14)
+- MTP-M24-S2-SQ1c (threat of new entrants) -> SM Ch 2; MTP-J25-S2-SQ1c (focused differentiation) -> SM Ch 3

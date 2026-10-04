@@ -1954,7 +1954,10 @@
       "better alternative investment opportunity",
       "free resources and reallocate them"
      ],
-     "examiner": "No examiners' comments have been published for Paper 6."
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "MTP-S25-S1-SQ1c puts the same reasoning to ZephyrFit Pvt. Ltd., which sold the rights to high-cost, low-engagement regional wellness content and halted further development in those areas; ICAI's answer names the Divestment Strategy, cites persistent negative cash flows, severity of competition and a better alternative for investment, and closes on the characteristic that such a move 'should be seen as an integral part of corporate strategy and not with stigma'."
+     ]
     }
    ],
    "mcqs": [
@@ -2365,7 +2368,8 @@
       "significant market research, investment, and adaptation"
      ],
      "also_asked_as": [
-      "MTP-M26-S1-SQ1c repeats the structure for GreenHarvest Foods, which expands globally with region-specific organic products, and ICAI's answer again names Diversification — new products in new markets."
+      "MTP-M26-S1-SQ1c repeats the structure for GreenHarvest Foods, which expands globally with region-specific organic products, and ICAI's answer again names Diversification — new products in new markets.",
+      "MTP-S24-S1-SQ1c is the mirror image and a useful contrast: FreshDelight takes its *existing* organic fruit juices into new countries, adapting only packaging and marketing messages, and ICAI's answer is a **market development** strategy — 'introducing their existing organic fruit juices to new markets'. Same global expansion, different cell, because the product did not change."
      ]
     }
    ],
@@ -3228,6 +3232,25 @@
       "D": "Divest is the prescription for Dogs, and Harvest contradicts a Star's growth objective."
      },
      "trap": "Option B inverts the whole logic of the matrix, which is why ICAI includes it — the model exists precisely to stop a firm pouring money into its mature business.",
+     "concept": "S04.14"
+    },
+    {
+     "id": "PYQ-S24-MCQ15",
+     "question": "Always Ahead Ltd. is an established player in FMCG, Herbs, Health care and White goods. The company has classified its portfolio of investments in different businesses in four quadrants as suggested by the Boston Consulting Group. On further analysis of the relationship between market growth rate and relative market share for the White goods business, it is found that opportunities to increase its market share are there. Emphasis needs to be given to make a strong future with large market share even by foregoing short-term earnings for this business. Which strategy is being pursued by the company for the White goods segment?",
+     "options": {
+      "A": "Build",
+      "B": "Hold",
+      "C": "Harvest",
+      "D": "Divest"
+     },
+     "answer": "A",
+     "explanation": "SM §4.4.3.1 defines Build in the stem's own words: 'here the objective is to increase market share, even by forgoing short-term earnings in favour of building a strong future with large market share'. ICAI key: (A).",
+     "why_wrong": {
+      "B": "Hold merely preserves market share; the stem wants it increased.",
+      "C": "Harvest increases short-term cash flow regardless of long-term effect — the opposite of forgoing short-term earnings.",
+      "D": "Divest sells or liquidates because resources can be better used elsewhere."
+     },
+     "trap": "The examiner has paraphrased the definition of Build almost verbatim; the only work is to recognise it and not be distracted by the BCG box, which the stem never names.",
      "concept": "S04.14"
     },
     {
