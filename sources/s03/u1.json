@@ -9,7 +9,7 @@
   "attempt": "January 2027",
   "sm_edition": "ICAI BoS Study Material, Paper 6B Strategic Management (relevant for May 2026 examination onwards), Chapter 3 (pp. 3.1–3.46)",
   "last_verified": "04-10-2026",
-  "status_summary": "SM headings 14/14 · official atoms 76/76"
+  "status_summary": "SM headings 14/14 · official atoms 77/77"
  },
  "sections_before": [
   {
@@ -21,8 +21,8 @@
      "title": "What ICAI's published papers tell us",
      "bullets": [
       "ICAI has not published examiners' comments for Paper 6, so this guidance comes from ICAI's suggested answers, RTPs and MTPs.",
-      "76 official items in the period reviewed — 13 past-paper items, 22 RTP items, 41 MTP items. The chapter appears in **every** attempt from May 2024 to May 2026.",
-      "Two headings dominate: **Porter's generic strategies** (22 atoms) and **Mendelow's Matrix** (18). Then **core competency** (14 across §3.4 and §3.4.1), **strategic drivers** (7), **channels** (6) and **SWOT** (5).",
+      "77 official items in the period reviewed — 14 past-paper items, 22 RTP items, 41 MTP items. The chapter appears in **every** attempt from May 2024 to May 2026.",
+      "Two headings dominate: **Porter's generic strategies** (23 atoms) and **Mendelow's Matrix** (18). Then **core competency** (14 across §3.4 and §3.4.1), **strategic drivers** (7), **channels** (6) and **SWOT** (5).",
       "**ICAI's RTPs print their own chapter headings, and the pattern is exact**: Chapter 1 = questions 7 and 8, Chapter 2 = 9 and 10, **Chapter 3 = 11 and 12**, Chapter 4 = 13 and 14, Chapter 5 = 15 and 16, in all nine RTPs from May 2024 to September 2026. Question 11 is a case; question 12 is a short note.",
       "Four questions repeat almost verbatim across papers: 'How can Mendelow's Matrix be used…' (four papers), 'Write a short note on the key strategic drivers' (six papers), 'the four specific criteria of sustainable competitive advantage' (three papers), 'major core competencies are identified in three areas' (four papers), and 'What are channels? Why is channel analysis important?' (five papers)."
      ]
@@ -124,6 +124,14 @@
     "concept": "S03.10",
     "marks": 5,
     "type": "Explain",
+    "repeat": "R5"
+   },
+   {
+    "id": "PYQ-S24-Q5c",
+    "question": "M/s. Maa ki Pasand in a narrow baby-care market, pricing low for the price-conscious and at a premium for the rest — which of Porter's business-level strategies",
+    "concept": "S03.14",
+    "marks": 5,
+    "type": "Case: identify + advantages and disadvantages",
     "repeat": "R5"
    },
    {

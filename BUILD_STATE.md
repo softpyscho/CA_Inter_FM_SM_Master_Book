@@ -15,7 +15,7 @@ Updated 03-10-2026. Target attempt: January 2027.
 | Review PDF (front matter + both chapters) | Done — `CA_Inter_FMSM_Master_Book.pdf` |
 | FM Chapters 2–9 written and merged | Done — `book/Ch02.json` to `book/Ch09.json`; **Section A (FM) is complete**; see the progress ledger below |
 | SM Chapter 2 written and merged | Done — `book/Ch11.json` (24/24 headings, 91/91 atoms placed) |
-| SM Chapter 3 written and merged | Done — `book/Ch12.json` (14/14 headings, 76/76 atoms placed) |
+| SM Chapter 3 written and merged | Done — `book/Ch12.json` (14/14 headings, 77/77 atoms placed) |
 
 ## Chapter numbering used in the book
 
@@ -282,14 +282,14 @@ resolves an MCQ atom id to its stem and four options. Both will be reused for SM
 
 `book/Ch12.json`, built from `sources/s03/u1.json` to `u5.json` and `sources/atoms/atoms_S03.json`.
 
-Merge output: 14/14 register headings covered, 76/76 official atoms placed, 10 topic blocks,
-25 official question entries, 30 official MCQ entries, 44 generated MCQs with keys
+Merge output: 14/14 register headings covered, 77/77 official atoms placed, 10 topic blocks,
+26 official question entries, 30 official MCQ entries, 44 generated MCQs with keys
 **A11 B11 C11 D11 (deviation 0.0%)**, 2 integrated cases, 13+6 chapter test, zero errors and
 zero placement warnings. Docx scan: no raw official ids, no `S03.xx` codes, no internal ids,
 no placeholder words. The whole book is now 3,393,608 characters.
 
-Atom mix: 13 past-paper items, 22 RTP items, 41 MTP items. Heaviest headings: Porter's generic
-strategies (22 atoms), Mendelow's Matrix (18), core competency (14 across §3.4 and §3.4.1),
+Atom mix: 14 past-paper items, 22 RTP items, 41 MTP items. Heaviest headings: Porter's generic
+strategies (23 atoms), Mendelow's Matrix (18), core competency (14 across §3.4 and §3.4.1),
 strategic drivers (7), channels (6), SWOT (5).
 
 **The RTP labelling pattern is now established as exact.** Across all nine RTPs from May 2024 to
@@ -325,6 +325,11 @@ the four characteristics that determine how long the resulting advantage lasts (
 durability/transferability/imitability/appropriability). The back matter opens with a
 trigger-word table that selects the right list from the stem's wording, because the registers of
 the three stems are nearly identical.
+
+**One atom added after the first merge**, while scoping SM Ch 4: `PYQ-S24-Q5c` (M/s. Maa ki
+Pasand) is set in a Chapter 4-shaped case about new products for existing and new customers, but
+the question asks which of **Porter's business-level strategies** applies and ICAI's answer is a
+focus strategy combining focused cost leadership and focused differentiation. Placed at S03.14.
 
 **Extraction note**: the automated sub-part slicer mis-aligned the (a)/(b) boundaries in the
 May 2026 suggested answers, so the answers to PYQ May 2026 Q5(b) (Pearl India, differentiation)

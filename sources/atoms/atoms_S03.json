@@ -1,66 +1,86 @@
 {
  "chapter": "S03",
- "note": "Official questions mapped to SM Chapter 3 (Strategic Analysis: Internal Environment). Codes: primary first. key = ICAI's published answer key for MCQs. Mapping rules. (1) **ICAI's RTPs print their own chapter headings**, and the pattern is perfectly regular across all nine RTPs from May 2024 to September 2026: Chapter 1 = questions 7 and 8, Chapter 2 = 9 and 10, Chapter 3 = 11 and 12, Chapter 4 = 13 and 14, Chapter 5 = 15 and 16. Every RTP descriptive atom here therefore carries ICAI's own label, except where noted. (2) Past-paper and MTP descriptive questions carry no chapter label, so they are mapped by the concept of ICAI's published answer, read in full, not by the wording of the stem. (3) Part I case-scenario MCQ items are included where the tested concept is unambiguously a Chapter 3 concept. Two labelling tensions are recorded rather than smoothed over. **RTP May 2026 Q11** is printed under ICAI's 'Chapter 3' label but answered as Strategic Group Mapping, a tool the study material places in Chapter 2 (S02.23); that atom is therefore held in atoms_S02.json, not here. **RTP September 2026 Q13** is printed under ICAI's 'Chapter 4' label but answered as the Focused Differentiation Strategy, which the register places at S03.14 and which has no home among Chapter 4's headings (stability, growth, exits, Ansoff, ADL, BCG, GE); it is therefore placed here. Three questions whose stems look like Chapter 3 were excluded after reading the published answer: PYQ Sep 2024 Q5(a) (M/s MTS Ltd — the stem ends 'focusing on its core competencies' but the answer is the Network Organizational Structure, SM Ch 5); PYQ Jan 2025 Q5(c) and MTP Jan 2026 S1 Q1(c) (Organic Beverages — answered with the BCG matrix, SM Ch 4); and PYQ May 2026 Q5(c) (MM Company at maturity — answered as Stability Strategy, SM Ch 4). One atom was moved here from SM Chapter 2: PYQ May 2025 MCQ 12, whose published key is 'Augmented marketing', a term the study material defines in this chapter at §3.3.3 under types of marketing.",
+ "note": "Official questions mapped to SM Chapter 3 (Strategic Analysis: Internal Environment). Codes: primary first. key = ICAI's published answer key for MCQs. Mapping rules. (1) **ICAI's RTPs print their own chapter headings**, and the pattern is perfectly regular across all nine RTPs from May 2024 to September 2026: Chapter 1 = questions 7 and 8, Chapter 2 = 9 and 10, Chapter 3 = 11 and 12, Chapter 4 = 13 and 14, Chapter 5 = 15 and 16. Every RTP descriptive atom here therefore carries ICAI's own label, except where noted. (2) Past-paper and MTP descriptive questions carry no chapter label, so they are mapped by the concept of ICAI's published answer, read in full, not by the wording of the stem. (3) Part I case-scenario MCQ items are included where the tested concept is unambiguously a Chapter 3 concept. Two labelling tensions are recorded rather than smoothed over. **RTP May 2026 Q11** is printed under ICAI's 'Chapter 3' label but answered as Strategic Group Mapping, a tool the study material places in Chapter 2 (S02.23); that atom is therefore held in atoms_S02.json, not here. **RTP September 2026 Q13** is printed under ICAI's 'Chapter 4' label but answered as the Focused Differentiation Strategy, which the register places at S03.14 and which has no home among Chapter 4's headings (stability, growth, exits, Ansoff, ADL, BCG, GE); it is therefore placed here. Three questions whose stems look like Chapter 3 were excluded after reading the published answer: PYQ Sep 2024 Q5(a) (M/s MTS Ltd — the stem ends 'focusing on its core competencies' but the answer is the Network Organizational Structure, SM Ch 5); PYQ Jan 2025 Q5(c) and MTP Jan 2026 S1 Q1(c) (Organic Beverages — answered with the BCG matrix, SM Ch 4); and PYQ May 2026 Q5(c) (MM Company at maturity — answered as Stability Strategy, SM Ch 4). One atom was moved here from SM Chapter 2: PYQ May 2025 MCQ 12, whose published key is 'Augmented marketing', a term the study material defines in this chapter at §3.3.3 under types of marketing. One atom was added after the chapter was first merged, while scoping SM Ch 4: PYQ September 2024 Q5(c) (M/s. Maa ki Pasand) reads like a Chapter 4 product-market question but ICAI's published answer is a focus strategy combining focused cost leadership and focused differentiation, with the advantages and disadvantages of focus — all of which is S03.14.",
  "atoms": [
   {
    "id": "RTP-J26-SQ11",
-   "codes": ["S03.03", "S03.02"],
+   "codes": [
+    "S03.03",
+    "S03.02"
+   ],
    "marks": null,
    "format": "Case descriptive",
    "src": "RTP-J26 SM Q11 (ICAI label: Chapter 3) EcoBuild Constructions' smart city project with government bodies, investors, suppliers, local communities and environmental groups — how to use Mendelow's Matrix"
   },
   {
    "id": "RTP-S24-SQ12",
-   "codes": ["S03.03"],
+   "codes": [
+    "S03.03"
+   ],
    "marks": null,
    "format": "Descriptive",
    "src": "RTP-S24 SM Q12 (ICAI label: Chapter 3) how can Mendelow's Matrix be used to analyze and manage the stakeholders effectively"
   },
   {
    "id": "RTP-S25-SQ11",
-   "codes": ["S03.03", "S03.02"],
+   "codes": [
+    "S03.03",
+    "S03.02"
+   ],
    "marks": null,
    "format": "Case descriptive",
    "src": "RTP-S25 SM Q11 (ICAI label: Chapter 3) Soltex Green Energy's wind project and a politically connected local business coalition — why prioritise them, and the four stakeholder categories"
   },
   {
    "id": "PYQ-J25-Q6b",
-   "codes": ["S03.03"],
+   "codes": [
+    "S03.03"
+   ],
    "marks": 5,
    "format": "Descriptive",
    "src": "SA-J25 SM Q6(b) 'Managing stakeholders is critical to the success of a project' — how Mendelow's Matrix helps manage stakeholders and categorise them into groups"
   },
   {
    "id": "MTP-M24-S1-SQ4b",
-   "codes": ["S03.03"],
+   "codes": [
+    "S03.03"
+   ],
    "marks": 5,
    "format": "Descriptive",
    "src": "MTP-M24-S1 SM Q4(b) how can Mendelow's Matrix be used to analyze and manage the stakeholders effectively, with an OR alternative on concentric versus conglomerate diversification"
   },
   {
    "id": "MTP-J26-S1-SQ4b",
-   "codes": ["S03.03"],
+   "codes": [
+    "S03.03"
+   ],
    "marks": 5,
    "format": "Descriptive",
    "src": "MTP-J26-S1 SM Q4(b) 'Managing stakeholders is critical to the success of a project' — Mendelow's Matrix, with an OR alternative on the three areas of core competencies"
   },
   {
    "id": "MTP-S25-S2-SQ4b",
-   "codes": ["S03.03"],
+   "codes": [
+    "S03.03"
+   ],
    "marks": 5,
    "format": "Descriptive",
    "src": "MTP-S25-S2 SM Q4(b) how can Mendelow's Matrix be used to analyze and manage the stakeholders effectively, with an OR alternative on strategic group mapping"
   },
   {
    "id": "MTP-J25-S1-SQ1a",
-   "codes": ["S03.03"],
+   "codes": [
+    "S03.03"
+   ],
    "marks": 5,
    "format": "Case descriptive",
    "src": "MTP-J25-S1 SM Q1(a) Chic Threads' eco-friendly clothing line and the growing influence of environmentally conscious consumers who shape industry standards — ICAI's answer places them in Mendelow's Matrix"
   },
   {
    "id": "PYQ-M25-MCQ13",
-   "codes": ["S03.03"],
+   "codes": [
+    "S03.03"
+   ],
    "marks": 2,
    "format": "Case MCQ",
    "key": "A",
@@ -68,7 +88,9 @@
   },
   {
    "id": "PYQ-S25-MCQ13",
-   "codes": ["S03.03"],
+   "codes": [
+    "S03.03"
+   ],
    "marks": 2,
    "format": "Case MCQ",
    "key": "A",
@@ -76,7 +98,9 @@
   },
   {
    "id": "RTP-J25-SMCQ4",
-   "codes": ["S03.03"],
+   "codes": [
+    "S03.03"
+   ],
    "marks": 2,
    "format": "MCQ",
    "key": "B",
@@ -84,7 +108,9 @@
   },
   {
    "id": "RTP-M25-SMCQ1-iv",
-   "codes": ["S03.03"],
+   "codes": [
+    "S03.03"
+   ],
    "marks": 2,
    "format": "Case MCQ",
    "key": "B",
@@ -92,7 +118,9 @@
   },
   {
    "id": "RTP-M26-SMCQ1-v",
-   "codes": ["S03.03"],
+   "codes": [
+    "S03.03"
+   ],
    "marks": 2,
    "format": "Case MCQ",
    "key": "D",
@@ -100,7 +128,9 @@
   },
   {
    "id": "MTP-J25-S2-SMCQ-A-iv",
-   "codes": ["S03.03"],
+   "codes": [
+    "S03.03"
+   ],
    "marks": 2,
    "format": "Case MCQ",
    "key": "B",
@@ -108,7 +138,9 @@
   },
   {
    "id": "MTP-J26-S2-SMCQ-A-ii",
-   "codes": ["S03.03"],
+   "codes": [
+    "S03.03"
+   ],
    "marks": 2,
    "format": "Case MCQ",
    "key": "C",
@@ -116,7 +148,9 @@
   },
   {
    "id": "MTP-M24-S2-SMCQ-A-ii",
-   "codes": ["S03.02"],
+   "codes": [
+    "S03.02"
+   ],
    "marks": 2,
    "format": "Case MCQ",
    "key": "C",
@@ -124,7 +158,9 @@
   },
   {
    "id": "MTP-M25-S1-SMCQ-A-i",
-   "codes": ["S03.03"],
+   "codes": [
+    "S03.03"
+   ],
    "marks": 2,
    "format": "Case MCQ",
    "key": "C",
@@ -132,7 +168,9 @@
   },
   {
    "id": "MTP-M25-S2-SMCQ-B-ii",
-   "codes": ["S03.03"],
+   "codes": [
+    "S03.03"
+   ],
    "marks": 2,
    "format": "MCQ",
    "key": "A",
@@ -140,7 +178,9 @@
   },
   {
    "id": "MTP-S25-S2-SMCQ-A-i",
-   "codes": ["S03.03"],
+   "codes": [
+    "S03.03"
+   ],
    "marks": 2,
    "format": "Case MCQ",
    "key": "D",
@@ -148,56 +188,78 @@
   },
   {
    "id": "RTP-J26-SQ12",
-   "codes": ["S03.04", "S03.05", "S03.06", "S03.07", "S03.08"],
+   "codes": [
+    "S03.04",
+    "S03.05",
+    "S03.06",
+    "S03.07",
+    "S03.08"
+   ],
    "marks": null,
    "format": "Descriptive",
    "src": "RTP-J26 SM Q12 (ICAI label: Chapter 3) write a short note on the key strategic drivers of an organization"
   },
   {
    "id": "RTP-M26-SQ12",
-   "codes": ["S03.04"],
+   "codes": [
+    "S03.04"
+   ],
    "marks": null,
    "format": "Descriptive",
    "src": "RTP-M26 SM Q12 (ICAI label: Chapter 3) write a short note on the key strategic drivers of an organization — the same question repeated"
   },
   {
    "id": "RTP-S25-SQ12",
-   "codes": ["S03.04"],
+   "codes": [
+    "S03.04"
+   ],
    "marks": null,
    "format": "Descriptive",
    "src": "RTP-S25 SM Q12 (ICAI label: Chapter 3) write a short note on the Key Strategic Drivers of an organization"
   },
   {
    "id": "RTP-S26-SQ12",
-   "codes": ["S03.04"],
+   "codes": [
+    "S03.04"
+   ],
    "marks": null,
    "format": "Descriptive",
    "src": "RTP-S26 SM Q12 (ICAI label: Chapter 3) write a short note on the key strategic drivers of an organization — a fourth verbatim repeat"
   },
   {
    "id": "MTP-M26-S1-SQ3a",
-   "codes": ["S03.04"],
+   "codes": [
+    "S03.04"
+   ],
    "marks": 5,
    "format": "Descriptive",
    "src": "MTP-M26-S1 SM Q3(a) write a short note on the Key Strategic Drivers of an organization"
   },
   {
    "id": "MTP-S25-S1-SQ3a",
-   "codes": ["S03.04"],
+   "codes": [
+    "S03.04"
+   ],
    "marks": 5,
    "format": "Descriptive",
    "src": "MTP-S25-S1 SM Q3(a) write a short note on the Key Strategic Drivers of an organization"
   },
   {
    "id": "MTP-J26-S2-SQ1b",
-   "codes": ["S03.04", "S03.05", "S03.06"],
+   "codes": [
+    "S03.04",
+    "S03.05",
+    "S03.06"
+   ],
    "marks": 5,
    "format": "Case descriptive",
    "src": "MTP-J26-S2 SM Q1(b) a consumer technology startup revising its business model for shifting user behaviour, new digital platforms and rapid technological change — identify the key internal elements or strategic drivers it is responding to"
   },
   {
    "id": "PYQ-M25-MCQ12",
-   "codes": ["S03.07"],
+   "codes": [
+    "S03.07"
+   ],
    "marks": 2,
    "format": "Case MCQ",
    "key": "A",
@@ -205,7 +267,9 @@
   },
   {
    "id": "MTP-J26-S2-SMCQ-B-iii",
-   "codes": ["S03.07"],
+   "codes": [
+    "S03.07"
+   ],
    "marks": 2,
    "format": "MCQ",
    "key": "A",
@@ -213,42 +277,54 @@
   },
   {
    "id": "RTP-J25-SQ12",
-   "codes": ["S03.08"],
+   "codes": [
+    "S03.08"
+   ],
    "marks": null,
    "format": "Descriptive",
    "src": "RTP-J25 SM Q12 (ICAI label: Chapter 3) what are channels, why is channel analysis important, and the different types of channels"
   },
   {
    "id": "PYQ-M24-Q8a",
-   "codes": ["S03.08"],
+   "codes": [
+    "S03.08"
+   ],
    "marks": 5,
    "format": "Descriptive (1 + 1 + 3)",
    "src": "SA-M24 SM Q8(a) what are channels, why is channel analysis important, and the different types of channels"
   },
   {
    "id": "PYQ-M26-Q7b",
-   "codes": ["S03.08"],
+   "codes": [
+    "S03.08"
+   ],
    "marks": 5,
    "format": "Descriptive",
    "src": "SA-M26 SM Q7(b) 'The wider and stronger the channel the better position a business has to fight and win over competition' — define channels, why channel analysis matters, and the types"
   },
   {
    "id": "MTP-J26-S2-SQ3b",
-   "codes": ["S03.08"],
+   "codes": [
+    "S03.08"
+   ],
    "marks": 5,
    "format": "Descriptive",
    "src": "MTP-J26-S2 SM Q3(b) what are channels, why is channel analysis important, and the different types of channels"
   },
   {
    "id": "MTP-S24-S2-SQ2b",
-   "codes": ["S03.08"],
+   "codes": [
+    "S03.08"
+   ],
    "marks": 5,
    "format": "Descriptive",
    "src": "MTP-S24-S2 SM Q2(b) what are distribution channels, why is analysing them crucial for business expansion, and the three main types with their roles"
   },
   {
    "id": "MTP-J26-S1-SMCQ-A-iv",
-   "codes": ["S03.08"],
+   "codes": [
+    "S03.08"
+   ],
    "marks": 2,
    "format": "Case MCQ",
    "key": "B",
@@ -256,63 +332,83 @@
   },
   {
    "id": "RTP-M24-SQ12",
-   "codes": ["S03.10", "S03.09"],
+   "codes": [
+    "S03.10",
+    "S03.09"
+   ],
    "marks": null,
    "format": "Descriptive",
    "src": "RTP-M24 SM Q12 (ICAI label: Chapter 3) the four specific criteria of sustainable competitive advantage that identify core competencies"
   },
   {
    "id": "RTP-S26-SQ11",
-   "codes": ["S03.10", "S03.09"],
+   "codes": [
+    "S03.10",
+    "S03.09"
+   ],
    "marks": null,
    "format": "Case descriptive",
    "src": "RTP-S26 SM Q11 (ICAI label: Chapter 3) OrthoCare Super Speciality Hospital's robotic knee replacement programme built on surgeon expertise, training protocols, teamwork and a unique culture that rivals cannot replicate"
   },
   {
    "id": "PYQ-S24-Q7a",
-   "codes": ["S03.10"],
+   "codes": [
+    "S03.10"
+   ],
    "marks": 5,
    "format": "Descriptive",
    "src": "SA-S24 SM Q7(a) explain the four specific criteria of sustainable competitive advantage that a company can use to determine the capabilities that are core competencies"
   },
   {
    "id": "MTP-M25-S1-SQ4b",
-   "codes": ["S03.10"],
+   "codes": [
+    "S03.10"
+   ],
    "marks": 5,
    "format": "Descriptive",
    "src": "MTP-M25-S1 SM Q4(b) the four specific criteria of sustainable competitive advantage that identify core competencies, with an OR alternative"
   },
   {
    "id": "MTP-J25-S1-SQ4b",
-   "codes": ["S03.09"],
+   "codes": [
+    "S03.09"
+   ],
    "marks": 5,
    "format": "Descriptive",
    "src": "MTP-J25-S1 SM Q4(b) major core competencies are identified in three areas — competitor differentiation, customer value and application to other markets — discuss, with an OR alternative on strategic versus operational planning"
   },
   {
    "id": "MTP-M25-S2-SQ3a",
-   "codes": ["S03.09"],
+   "codes": [
+    "S03.09"
+   ],
    "marks": 5,
    "format": "Descriptive",
    "src": "MTP-M25-S2 SM Q3(a) major core competencies are identified in three areas — competitor differentiation, customer value and application to other markets — discuss"
   },
   {
    "id": "MTP-S24-S1-SQ4b",
-   "codes": ["S03.09"],
+   "codes": [
+    "S03.09"
+   ],
    "marks": 5,
    "format": "Descriptive",
    "src": "MTP-S24-S1 SM Q4(b) major core competencies are identified in three areas — discuss, with an OR alternative on choosing strategic performance measures"
   },
   {
    "id": "MTP-J25-S2-SQ3a",
-   "codes": ["S03.09"],
+   "codes": [
+    "S03.09"
+   ],
    "marks": 5,
    "format": "Case descriptive",
    "src": "MTP-J25-S2 SM Q3(a) Rohit Patel's small chemist shop in central Ahmedabad — what kind of competencies he can build to gain competitive advantage over online medicine sellers"
   },
   {
    "id": "RTP-M25-SMCQ1-v",
-   "codes": ["S03.09"],
+   "codes": [
+    "S03.09"
+   ],
    "marks": 2,
    "format": "Case MCQ",
    "key": "C",
@@ -320,7 +416,9 @@
   },
   {
    "id": "MTP-J25-S1-SMCQ-B-iii",
-   "codes": ["S03.09"],
+   "codes": [
+    "S03.09"
+   ],
    "marks": 2,
    "format": "MCQ",
    "key": "B",
@@ -328,7 +426,9 @@
   },
   {
    "id": "MTP-S26-S2-SMCQ-B-iii",
-   "codes": ["S03.09"],
+   "codes": [
+    "S03.09"
+   ],
    "marks": 2,
    "format": "MCQ",
    "key": "B",
@@ -336,7 +436,10 @@
   },
   {
    "id": "MTP-M26-S1-SMCQ-B-ii",
-   "codes": ["S03.10", "S03.09"],
+   "codes": [
+    "S03.10",
+    "S03.09"
+   ],
    "marks": 2,
    "format": "MCQ",
    "key": "C",
@@ -344,7 +447,9 @@
   },
   {
    "id": "MTP-J26-S1-SMCQ-B-i",
-   "codes": ["S03.09"],
+   "codes": [
+    "S03.09"
+   ],
    "marks": 2,
    "format": "MCQ",
    "key": "C",
@@ -352,7 +457,9 @@
   },
   {
    "id": "MTP-S24-S1-SMCQ-B-ii",
-   "codes": ["S03.09"],
+   "codes": [
+    "S03.09"
+   ],
    "marks": 2,
    "format": "MCQ",
    "key": "C",
@@ -360,133 +467,172 @@
   },
   {
    "id": "RTP-J25-SQ11",
-   "codes": ["S03.11"],
+   "codes": [
+    "S03.11"
+   ],
    "marks": null,
    "format": "Case descriptive",
    "src": "RTP-J25 SM Q11 (ICAI label: Chapter 3) conduct a SWOT analysis for ABC Corporation's new line of smart home devices, considering internal and external factors"
   },
   {
    "id": "RTP-M25-SQ12",
-   "codes": ["S03.11"],
+   "codes": [
+    "S03.11"
+   ],
    "marks": null,
    "format": "Descriptive",
    "src": "RTP-M25 SM Q12 (ICAI label: Chapter 3) write a short note on SWOT analysis"
   },
   {
    "id": "MTP-M24-S2-SQ3a",
-   "codes": ["S03.11"],
+   "codes": [
+    "S03.11"
+   ],
    "marks": 5,
    "format": "Case descriptive",
    "src": "MTP-M24-S2 SM Q3(a) conduct a SWOT analysis for EasyLife Corporation's proposed line of smart home devices"
   },
   {
    "id": "MTP-S24-S1-SQ1b",
-   "codes": ["S03.11"],
+   "codes": [
+    "S03.11"
+   ],
    "marks": 5,
    "format": "Case descriptive",
    "src": "MTP-S24-S1 SM Q1(b) GreenGardens, a small organic farm with high-quality pesticide-free crops but limited distribution — ICAI's answer is a full SWOT grid"
   },
   {
    "id": "PYQ-S25-Q7a",
-   "codes": ["S03.11"],
+   "codes": [
+    "S03.11"
+   ],
    "marks": 5,
    "format": "Descriptive",
    "src": "SA-S25 SM Q7(a) 'The primary objective of SWOT analysis is to help organizations develop a full awareness of all factors involved in making a business decision' — why is it necessary to do SWOT analysis"
   },
   {
    "id": "PYQ-M25-Q6b",
-   "codes": ["S03.13"],
+   "codes": [
+    "S03.13"
+   ],
    "marks": 5,
    "format": "Descriptive",
    "src": "SA-M25 SM Q6(b) for better performance and sustainable competitive advantage a company must focus on the characteristics of its resources and capabilities — explain the major characteristics (durability, transferability, imitability, appropriability)"
   },
   {
    "id": "RTP-M24-SQ11",
-   "codes": ["S03.14", "S03.12"],
+   "codes": [
+    "S03.14",
+    "S03.12"
+   ],
    "marks": null,
    "format": "Case descriptive",
    "src": "RTP-M24 SM Q11 (ICAI label: Chapter 3) ABC Ltd., a low-priced soft-drink leader, launches a pioneering sugar-free beverage at a higher price — identify the strategy and the measures to achieve it"
   },
   {
    "id": "RTP-M25-SQ11",
-   "codes": ["S03.14"],
+   "codes": [
+    "S03.14"
+   ],
    "marks": null,
    "format": "Case descriptive",
    "src": "RTP-M25 SM Q11 (ICAI label: Chapter 3) EliteWheels Ltd., a luxury automobile maker charging a significant premium to a niche of affluent customers — identify and explain the strategy (Focused Differentiation)"
   },
   {
    "id": "RTP-S24-SQ11",
-   "codes": ["S03.14"],
+   "codes": [
+    "S03.14"
+   ],
    "marks": null,
    "format": "Case descriptive",
    "src": "RTP-S24 SM Q11 (ICAI label: Chapter 3) XXP India in home appliances planning innovative product designs and loyalty programmes — which of Porter's generic strategies, and how it keeps the company profitable"
   },
   {
    "id": "RTP-S26-SQ13",
-   "codes": ["S03.14"],
+   "codes": [
+    "S03.14"
+   ],
    "marks": null,
    "format": "Case descriptive",
    "src": "RTP-S26 SM Q13 (ICAI label: Chapter 4, but answered as Focused Differentiation) Elite Motors Ltd. targeting ultra-high-net-worth individuals with hand-stitched leather interiors, personalised design and superior craftsmanship"
   },
   {
    "id": "PYQ-J26-Q6b",
-   "codes": ["S03.14"],
+   "codes": [
+    "S03.14"
+   ],
    "marks": 5,
    "format": "Descriptive",
    "src": "SA-J26 SM Q6(b) a firm pursuing cost leadership to become the lowest-cost producer — the key conditions that must be present, and the risks of cost leadership"
   },
   {
    "id": "PYQ-M25-Q7b",
-   "codes": ["S03.14"],
+   "codes": [
+    "S03.14"
+   ],
    "marks": 5,
    "format": "Descriptive (1 + 2 + 2)",
    "src": "SA-M25 SM Q7(b) explain differentiation strategy as one of Michael Porter's generic strategies, the major bases of differentiation, and the strategies that help achieve it"
   },
   {
    "id": "PYQ-M26-Q5b",
-   "codes": ["S03.14"],
+   "codes": [
+    "S03.14"
+   ],
    "marks": 5,
    "format": "Case descriptive (1 + 1 + 3)",
    "src": "SA-M26 SM Q5(b) Pearl India Ltd. offering high-quality unique packaged foods at a premium that buyers do not negotiate — identify and explain the generic strategy and state its disadvantages"
   },
   {
    "id": "PYQ-S25-Q5a",
-   "codes": ["S03.14"],
+   "codes": [
+    "S03.14"
+   ],
    "marks": 5,
    "format": "Case descriptive",
    "src": "SA-S25 SM Q5(a) ARP Motors launching a compact SUV that balances affordability with premium features — ICAI's answer is the Best-Cost Provider Strategy"
   },
   {
    "id": "MTP-S26-S2-SQ1c",
-   "codes": ["S03.14"],
+   "codes": [
+    "S03.14"
+   ],
    "marks": 5,
    "format": "Case descriptive",
    "src": "MTP-S26-S2 SM Q1(c) the ARP Motors compact-SUV case repeated — Best-Cost Provider Strategy"
   },
   {
    "id": "MTP-J25-S1-SQ3b",
-   "codes": ["S03.14"],
+   "codes": [
+    "S03.14"
+   ],
    "marks": 5,
    "format": "Descriptive",
    "src": "MTP-J25-S1 SM Q3(b) explain in brief the various bases of differentiation strategies"
   },
   {
    "id": "MTP-M24-S2-SQ4b",
-   "codes": ["S03.14"],
+   "codes": [
+    "S03.14"
+   ],
    "marks": 5,
    "format": "Case descriptive",
    "src": "MTP-M24-S2 SM Q4(b) StarTech Solutions, an aerospace technology firm serving unique high-end clients in a fiercely competitive industry — ICAI's answer is Focused Differentiation with its advantages"
   },
   {
    "id": "MTP-M25-S2-SQ1b",
-   "codes": ["S03.14"],
+   "codes": [
+    "S03.14"
+   ],
    "marks": 5,
    "format": "Case descriptive",
    "src": "MTP-M25-S2 SM Q1(b) EcoTrend selling premium eco-friendly products at high prices against BudgetBazaar's low-cost mass approach — identify the generic strategies of both"
   },
   {
    "id": "RTP-M24-SMCQ4",
-   "codes": ["S03.14"],
+   "codes": [
+    "S03.14"
+   ],
    "marks": 2,
    "format": "MCQ",
    "key": "C",
@@ -494,7 +640,9 @@
   },
   {
    "id": "RTP-J25-SMCQ1-iv",
-   "codes": ["S03.14"],
+   "codes": [
+    "S03.14"
+   ],
    "marks": 2,
    "format": "Case MCQ",
    "key": "C",
@@ -502,7 +650,9 @@
   },
   {
    "id": "MTP-J25-S1-SMCQ-A-ii",
-   "codes": ["S03.14"],
+   "codes": [
+    "S03.14"
+   ],
    "marks": 2,
    "format": "Case MCQ",
    "key": "B",
@@ -510,7 +660,9 @@
   },
   {
    "id": "MTP-M24-S1-SMCQ-A-iii",
-   "codes": ["S03.14"],
+   "codes": [
+    "S03.14"
+   ],
    "marks": 2,
    "format": "Case MCQ",
    "key": "C",
@@ -518,7 +670,9 @@
   },
   {
    "id": "MTP-M24-S2-SMCQ-A-v",
-   "codes": ["S03.14"],
+   "codes": [
+    "S03.14"
+   ],
    "marks": 2,
    "format": "Case MCQ",
    "key": "B",
@@ -526,7 +680,9 @@
   },
   {
    "id": "MTP-J26-S2-SMCQ-A-v",
-   "codes": ["S03.14"],
+   "codes": [
+    "S03.14"
+   ],
    "marks": 2,
    "format": "Case MCQ",
    "key": "C",
@@ -534,7 +690,9 @@
   },
   {
    "id": "MTP-J26-S1-SMCQ-A-ii",
-   "codes": ["S03.14"],
+   "codes": [
+    "S03.14"
+   ],
    "marks": 2,
    "format": "Case MCQ",
    "key": "B",
@@ -542,7 +700,9 @@
   },
   {
    "id": "MTP-S24-S2-SMCQ-A-v",
-   "codes": ["S03.14"],
+   "codes": [
+    "S03.14"
+   ],
    "marks": 2,
    "format": "Case MCQ",
    "key": "C",
@@ -550,7 +710,9 @@
   },
   {
    "id": "MTP-S24-S2-SMCQ-B-ii",
-   "codes": ["S03.14"],
+   "codes": [
+    "S03.14"
+   ],
    "marks": 2,
    "format": "MCQ",
    "key": "C",
@@ -558,11 +720,22 @@
   },
   {
    "id": "MTP-S25-S2-SMCQ-A-v",
-   "codes": ["S03.14"],
+   "codes": [
+    "S03.14"
+   ],
    "marks": 2,
    "format": "Case MCQ",
    "key": "A",
    "src": "MTP-S25-S2 SM case A(v) Nav-Uday's core model of reliable, functional scooters at an affordable price before market disruption"
+  },
+  {
+   "id": "PYQ-S24-Q5c",
+   "codes": [
+    "S03.14"
+   ],
+   "marks": 5,
+   "format": "Case descriptive",
+   "src": "SA-S24 SM Q5(c) M/s. Maa ki Pasand in the narrow baby-care market, charging low prices relative to rivals in that market for price-conscious customers and a premium based on uniqueness for the rest — ICAI's answer is a focus strategy incorporating BOTH focused cost leadership and focused differentiation, with the advantages and disadvantages of focus"
   }
  ]
 }
