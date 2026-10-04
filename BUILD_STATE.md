@@ -691,9 +691,10 @@ a one-line reason for each, then a "reading your result" box with three score ba
 that a section imbalance matters more than the total. The questions are deliberately drawn from the
 concepts the examiner reuses.
 
-**Content inventory at this point:** 186 topic blocks · 608 MCQs · 437 official question entries ·
-121 expected questions · 252 chapter-test items · 30 integrated cases · 38 Confusing Concepts
-tables · 808 official atoms · 8 back-matter appendices.
+**Content inventory at this point:** 186 topic blocks · 608 MCQs · 438 official question entries ·
+252 chapter-test items · 28 chapter integrated cases plus 2 cross-chapter cases in the back matter ·
+38 Confusing Concepts tables · 808 official atoms · 6 front-matter sections · 8 back-matter
+appendices. Counts verified against the built `book/Ch*.json`, `front.json` and `back.json`.
 tables · 789 official atoms.
 
 ## Back matter — DONE (04-10-2026)
