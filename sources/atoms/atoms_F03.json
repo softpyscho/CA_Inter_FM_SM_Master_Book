@@ -1,6 +1,6 @@
 {
  "chapter": "F03",
- "note": "Official questions mapped to FM Chapter 3 (Financial Analysis and Planning — Ratio Analysis). Primary code first. Chapter assignment for RTPs follows ICAI's own topic labels; for past papers and MTPs it follows the ratios the question is solved with.",
+ "note": "Official questions mapped to FM Chapter 3 (Financial Analysis and Planning — Ratio Analysis). Primary code first. Chapter assignment for RTPs follows ICAI's own topic labels; for past papers and MTPs it follows the ratios the question is solved with. **Two atoms were added in the back-fill pass (04-10-2026)**: PYQ-J25-MCQ6 and MCQ7, the two parts of the VP Ltd. Case Scenario II in the January 2025 paper. They were missed because sources/coverage.py skips Part I, whose (a) to (d) are MCQ options rather than question sub-parts, so FM Part-I MCQs are a blind spot of that script. The same blind spot is recorded in BUILD_STATE.md. **Five more atoms were added in the same pass**: the whole of the Solstice Biotech Ltd. Part-I case scenario of MTP September 2026 Series 2 (FMCQ1 to FMCQ5), which runs a single set of three-year financial statements through the liquidity, turnover, capital-structure, coverage and profitability ratios and then asks a credit officer to interpret two of them together. It is the most complete ratio-analysis case in the official bank and is worth working as a unit. MCQs 6, 7 and 8 of the same Part I belong to FM Ch 7 and Ch 4 and are recorded on the back-fill list.",
  "atoms": [
   {
    "id": "PYQ-J25-Q3b",
@@ -316,6 +316,79 @@
    "marks": null,
    "format": "Case numerical",
    "src": "RTP-J26 FM Q6 — continuation of the ABC Industries ratio question; fixed charges coverage and a ratio-reply table"
+  },
+  {
+   "id": "PYQ-J25-MCQ6",
+   "codes": [
+    "F03.07",
+    "F03.11"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "SA-J25 FM Case Scenario II - VP Ltd.; inventory and receivables from inventory turnover, gross profit ratio and average collection period; key: Rs 20 lakh and Rs 20 lakh",
+   "key": "A"
+  },
+  {
+   "id": "PYQ-J25-MCQ7",
+   "codes": [
+    "F03.07"
+   ],
+   "marks": 2,
+   "format": "Case MCQ",
+   "src": "SA-J25 FM Case Scenario II - VP Ltd.; current assets and current liabilities from the current ratio and quick ratio given the inventory; key: 60 lakh and 40 lakh",
+   "key": "C"
+  },
+  {
+   "id": "MTP-S26-S2-FMCQ1",
+   "codes": [
+    "F03.07"
+   ],
+   "marks": 2,
+   "key": "A",
+   "format": "Case MCQ",
+   "src": "MTP-S26-S2 FM Part I case 1 - Solstice Biotech Ltd.; current ratio and acid-test ratio for 2025-26; key: 1.60:1 and 0.79:1"
+  },
+  {
+   "id": "MTP-S26-S2-FMCQ2",
+   "codes": [
+    "F03.11"
+   ],
+   "marks": 2,
+   "key": "C",
+   "format": "Case MCQ",
+   "src": "MTP-S26-S2 FM Part I case 2 - receivable turnover and inventory turnover on average balances; key: 4.00 times and 2.56 times"
+  },
+  {
+   "id": "MTP-S26-S2-FMCQ3",
+   "codes": [
+    "F03.09"
+   ],
+   "marks": 2,
+   "key": "D",
+   "format": "Case MCQ",
+   "src": "MTP-S26-S2 FM Part I case 3 - long-term debt to total debt and debt-to-equity; key: 47.35% and 64.50%"
+  },
+  {
+   "id": "MTP-S26-S2-FMCQ4",
+   "codes": [
+    "F03.13",
+    "F03.14"
+   ],
+   "marks": 2,
+   "key": "D",
+   "format": "Case MCQ",
+   "src": "MTP-S26-S2 FM Part I case 4 - net profit ratio and return on total assets; key: 10.50% and 9.17%"
+  },
+  {
+   "id": "MTP-S26-S2-FMCQ5",
+   "codes": [
+    "F03.10",
+    "F03.09"
+   ],
+   "marks": 2,
+   "key": "B",
+   "format": "Case MCQ",
+   "src": "MTP-S26-S2 FM Part I case 5 - a credit appraisal officer's primary concern given an interest coverage of 4.53 against an industry 10, and debt-to-equity of 64.50% against 35%; key: falling coverage with rising leverage signals reduced cushion and heightened repayment risk"
   }
  ]
 }

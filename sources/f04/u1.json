@@ -326,6 +326,34 @@
     "Value = performance ÷ expectations; the cost of capital is that expectation.",
     "Also called the cut-off rate, hurdle rate or minimum rate of return.",
     "Three uses: evaluating investments, choosing a source, pricing credit."
+   ],
+   "official_questions": [
+    {
+     "id": "MTP-J26-S2-FQ4b",
+     "marks": 4,
+     "status": "VERIFIED",
+     "question": "TechWave Ltd. plans to buy new machinery worth ₹50 lakh to increase production. The Finance Manager says that before investing, the company must understand the cost of capital. Explain the meaning of cost of capital. Also briefly state three reasons why cost of capital is significant for decision-making at TechWave Ltd. (4 Marks)",
+     "answer_points": [
+      "**Cost of capital is the return expected by the providers of capital (i.e. shareholders, lenders and the debt-holders) to the business as a compensation for their contribution to the total capital.**",
+      "**The cost of capital is important to arrive at the correct amount and helps the management or an investor to take an appropriate decision.** ICAI then gives three decisions it informs.",
+      "**(i) Evaluation of investment options:** **the estimated benefits (future cash flows) from available investment opportunities (business or project) are converted into the present value of benefits by discounting them with the relevant cost of capital.** **Here it is pertinent to mention that every investment option may have different cost of capital, hence it is very important to use the cost of capital which is relevant to the options available.** For TechWave, this is the ₹50 lakh machinery decision itself — the discount rate applied to its cash flows.",
+      "**(ii) Financing Decision:** **when a finance manager has to choose one of the two sources of finance, he can simply compare their cost and choose the source which has lower cost. Besides cost, he also considers financial risk and control.**",
+      "**(iii) Designing of optimum credit policy:** **while appraising the credit period to be allowed to the customers, the cost of allowing credit period is compared against the benefit/profit earned by providing credit to customers or segments of customers. Here cost of capital is used to arrive at the present value of cost and benefits received.**",
+      "**Why the question is framed around a capital purchase:** the cost of capital is the **cut-off or hurdle rate** against which the machinery's return must be judged. A project earning less than the cost of capital destroys value however profitable it looks on an accounting measure — which ties this answer back to FM Ch 1's wealth-maximisation objective.",
+      "Note the 4-mark split implied by the question: roughly one mark for the meaning and one for each of the three reasons, so a definition without the three decisions scores a quarter."
+     ],
+     "keywords": [
+      "return expected by the providers of capital",
+      "compensation for their contribution",
+      "evaluation of investment options",
+      "present value of benefits",
+      "relevant cost of capital",
+      "financing decision",
+      "lower cost",
+      "financial risk and control",
+      "optimum credit policy"
+     ]
+    }
    ]
   },
   {

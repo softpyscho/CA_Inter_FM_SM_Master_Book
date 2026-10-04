@@ -589,3 +589,63 @@ its own facts rather than carrying the previous answer forward.
 
 **Still outstanding: the FM half of the back-fill** — 15 items to FM Ch 1, 3, 4 and 5, listed in
 the two FM sections above.
+
+## Back-fill pass — FM half, explicit lists DONE (04-10-2026)
+
+Every item on the two FM back-fill lists above is now placed. Most had already been cleared during
+the chapter builds themselves — the lists were written early and never pruned — so only **eight
+atoms** were genuinely outstanding:
+
+| Target | Added | What |
+| --- | --- | --- |
+| **FM Ch 3** (34 → 41) | 7 | `PYQ-J25-MCQ6` and `MCQ7` (VP Ltd. Case Scenario II) · `MTP-S26-S2-FMCQ1` to `FMCQ5`, the whole Solstice Biotech Ltd. ratio case |
+| **FM Ch 4** (31 → 32) | 1 | `MTP-J26-S2-FQ4b`, the meaning and significance of cost of capital |
+
+**`sources/coverage.py` was fixed, and the fix matters.** The script scans SA, RTP and MTP files
+for FM question parts, but RTP files (and some MTP question papers) carry the **suggested answers
+in the same file**, and the script was scanning those too. That produced phantom "unplaced" parts
+whose stem was a bare number or a stray phrase — `(a) 9.12%`, `(a) Gordon's formula`,
+`(b) Other Shareholders' funds - 15%` — and buried the real gaps in noise. The patch cuts each FM
+span at the suggested-answers heading and drops any remaining answer-shaped fragment. The unplaced
+count fell from **196 to 50**, of which roughly 30 are real.
+
+**A second blind spot, now documented:** `coverage.py` deliberately skips **Part I**, because an
+MCQ's (a) to (d) would otherwise look like question sub-parts. That means **FM Part-I MCQs are
+invisible to it** — which is exactly how `PYQ-J25-MCQ6`/`MCQ7` and the five Solstice items went
+unnoticed. Any future audit of FM MCQ coverage has to read the Part I sections directly, the same
+way SA MCQ stems have to be read directly because `sa_smcq.py` does not cover SA-S24.
+
+## Back-fill residual — the real FM gaps found by the fixed coverage.py (04-10-2026)
+
+These are genuine FM question parts that no chapter has placed. This is the remaining scope of the
+back-fill task:
+
+**FM Ch 1** — RTP-M26-FQ9b (the treasury department's evolving importance)
+**FM Ch 2** — MTP-J25-S2-FQ4c (Drop-Lock Bonds) · MTP-M24-S2-FQ3b (financial instruments in the
+international market) · MTP-M25-S1-FQ3b (Millenial Ltd., a Q-commerce startup's financing need) ·
+MTP-S25-S1-FQ4c and its OR (an instrument giving fixed periodic returns; sources of long-term
+funds) · MTP-S25-S2-FQ4c-OR (sale and leaseback) · RTP-M25-FQ9b (methods of venture capital
+financing) · RTP-S26-FQ9b (Global Infra Ltd. raising funds from international markets)
+**FM Ch 3** — MTP-S24-S1-FQ2a (Gurunath Ltd.) · RTP-S25-FQ4a/4b and RTP-S26-FQ4a/4b (operating
+expenses and a balance sheet from ratios) · RTP-S26-FQ2b and FQ3a (ROCE; creditors turnover)
+**FM Ch 4** — MTP-M26-S1-FQ1b (CAPM, a set of securities) · MTP-S26-S2-FQ2b (comparing the cost of
+equity of two competitors on beta) · RTP-J25-FQ9b (four methods for computing the cost of equity) ·
+RTP-S25-FQ5a/5b/5c (raising additional finance; post-tax cost of debt; cost of retained earnings
+and equity) · the Solstice Part-I MCQs 7 and 8
+**FM Ch 5** — MTP-S25-S1-FQ3b and RTP-M26-FQ6a/6b and RTP-S24-FQ7a/7b (the MM two-company
+problem) · MTP-S25-S2-FQ3b (the process for analysing optimal capital structure) ·
+MTP-S25-S2-FQ4c (practical factors for a debt-free company raising Rs 10 crore)
+**FM Ch 6** — MTP-M24-S1-FQ1a (Xee Ltd.) · MTP-S25-S2-FQ2a (ABC Engineering's risk-return profile)
+**FM Ch 7** — RTP-J25-FQ9c (do the profitability index and NPV give the same accept-reject
+decision?) · RTP-M26-FQ9c (the IRR acceptance rule) · the Solstice Part-I MCQ 6
+**FM Ch 8** — MTP-S24-S1-FQ5b (QB Ltd., Gordon) · MTP-S24-S2-FQ1b (Mr. Anand's share with a bonus)
+**FM Ch 9** — RTP-S25-FQ9b (trade credit against bank overdraft) · RTP-S25-FQ9c (ABC Ltd.'s rapid
+sales growth) · RTP-S26-FQ9c (Sunrise Healthcare's rising receivables) · RTP-S26-FQ7c (factors in
+planning the working capital requirement)
+**Needs a chapter decision** — MTP-J25-S1-FQ2c (Vyom Limited taking over Aryayash Limited, a
+two-year-old startup: the valuation basis has to be read before it can be placed)
+
+Known false positives still in the coverage output, for the record, so they are not chased again:
+RTP-J25-FQ9a/9b and RTP-M24-FQ7a/7b and MTP-M26-S1-FQ3a/3b/3c are **sub-conditions inside one
+question** (credit terms, ageing bands, stock and debtor assumptions), not separate parts;
+MTP-S24-S1-FQ5a and RTP-J26-FQ5c are answer fragments.

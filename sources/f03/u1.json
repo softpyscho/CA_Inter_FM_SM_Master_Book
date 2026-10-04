@@ -551,6 +551,63 @@
    ],
    "mcqs": [
     {
+     "id": "PYQ-J25-MCQ6",
+     "question": "VP Ltd. provides the following information: Current Ratio 1.5:1; Sales (80% credit sales) ₹150 lakh; Inventory Turnover Ratio 6 times; Average Collection Period 2 months; Gross Profit Ratio 20%; Quick Ratio 1:1. Inventory and Receivables would be:",
+     "options": {
+      "A": "₹20 Lakh and ₹20 Lakh",
+      "B": "₹10 Lakh and ₹10 Lakh",
+      "C": "₹10 Lakh and ₹20 Lakh",
+      "D": "₹20 Lakh and ₹10 Lakh"
+     },
+     "answer": "A",
+     "explanation": "**Inventory:** gross profit is 20% of sales, so COGS = 80% × ₹150 lakh = **₹120 lakh**. Inventory turnover (on COGS) is 6 times, so Inventory = 120 ÷ 6 = **₹20 lakh**. **Receivables:** credit sales = 80% × ₹150 lakh = **₹120 lakh**; with an average collection period of 2 months, Receivables = 120 × 2/12 = **₹20 lakh**. ICAI key: (A).",
+     "why_wrong": {
+      "B": "₹10 lakh each would follow from using a 12-times turnover and a 1-month collection period.",
+      "C": "This takes inventory on a 12-times turnover while getting receivables right.",
+      "D": "This reverses the receivables figure, as if the collection period applied to one month."
+     },
+     "trap": "Two traps in one item. Inventory turnover here is computed **on cost of goods sold**, not on sales, so the gross profit ratio must be used first. And the collection period applies to **credit sales only** — 80% of ₹150 lakh, not the whole ₹150 lakh. Here both errors happen to cancel in the receivables figure, which is why the examiner also asks part 7.",
+     "concept": "F03.07"
+    },
+    {
+     "id": "PYQ-J25-MCQ7",
+     "question": "Continuing with VP Ltd. (Current Ratio 1.5:1, Quick Ratio 1:1, Inventory ₹20 lakh), Current Assets and Current Liabilities would be:",
+     "options": {
+      "A": "30 Lakh and 20 Lakh",
+      "B": "45 Lakh and 30 Lakh",
+      "C": "60 Lakh and 40 Lakh",
+      "D": "75 Lakh and 50 Lakh"
+     },
+     "answer": "C",
+     "explanation": "Let current liabilities be CL. Current ratio 1.5:1 gives CA = 1.5 CL; quick ratio 1:1 gives Quick Assets = 1.0 CL. Since Quick Assets = CA − Inventory, Inventory = 1.5 CL − 1.0 CL = **0.5 CL**. Inventory is ₹20 lakh from part 6, so **CL = ₹40 lakh** and **CA = 1.5 × 40 = ₹60 lakh**. ICAI key: (C).",
+     "why_wrong": {
+      "A": "30 and 20 would need inventory of ₹10 lakh.",
+      "B": "45 and 30 would need inventory of ₹15 lakh.",
+      "D": "75 and 50 would need inventory of ₹25 lakh."
+     },
+     "trap": "The whole item turns on one line: **the difference between the current ratio and the quick ratio, multiplied by current liabilities, is the inventory**. Every option is internally consistent with some other inventory figure, so a wrong answer in part 6 propagates into part 7 — which is exactly why ICAI pairs them.",
+     "concept": "F03.07"
+    },
+    {
+     "id": "MTP-S26-S2-FMCQ1",
+     "question": "**The Solstice Biotech Ltd. case (MTP Sep 2026 Series 2, Part I).** A manufacturer of diagnostic kits scaled production to a record high after a public-health screening initiative and has approached Continental Trade Bank for a working-capital and investment loan, submitting three years of statements. For 2025-26: Sales ₹16,000k, COGS ₹9,600k, PBT ₹2,400k, Interest ₹680k, PAT ₹1,680k; Cash ₹212k, Receivables ₹4,200k (opening ₹3,000k), Inventories ₹4,500k (opening ₹3,000k), Total Assets ₹18,312k; Equity Share Capital ₹4,000k, Other Equity ₹3,752k, Non-Current Borrowings ₹5,000k, Current Liabilities ₹5,560k.\n\nBased on the FY 2025-26 figures of Solstice Biotech Ltd., what are the Current Ratio and the Acid-test (Quick) Ratio?",
+     "options": {
+      "A": "1.60 : 1 and 0.79 : 1",
+      "B": "2.30 : 1 and 1.20 : 1",
+      "C": "1.60 : 1 and 1.02 : 1",
+      "D": "1.80 : 1 and 0.93 : 1"
+     },
+     "answer": "A",
+     "explanation": "**Current Assets = Cash and Cash Equivalents + Accounts Receivable + Inventories = 212 + 4,200 + 4,500 = ₹8,912k.** **Current Ratio = 8,912 ÷ 5,560 = 1.60 : 1.** **Quick Assets = Current Assets − Inventories = 8,912 − 4,500 = ₹4,412k**, so **Quick Ratio = 4,412 ÷ 5,560 = 0.79 : 1**. ICAI key: (A).",
+     "why_wrong": {
+      "B": "2.30 : 1 and 1.20 : 1 are the **industry averages** given in the case, not the company's ratios.",
+      "C": "The current ratio is right but the quick ratio has not deducted the full inventory.",
+      "D": "1.80 : 1 and 0.93 : 1 are the company's **2024-25** ratios, one year earlier."
+     },
+     "trap": "Three of the four options are real numbers from the same table — the industry average and the prior year. Read which year and whose figures the question asks for before computing anything.",
+     "concept": "F03.07"
+    },
+    {
      "id": "MCQ-F03.07-01",
      "angle": "Formula",
      "difficulty": "Easy",
@@ -701,6 +758,25 @@
     "time_tip": "5 marks ≈ 9 minutes (study guidance)."
    },
    "mcqs": [
+    {
+     "id": "MTP-S26-S2-FMCQ3",
+     "question": "**The Solstice Biotech Ltd. case (MTP Sep 2026 Series 2, Part I).** A manufacturer of diagnostic kits scaled production to a record high after a public-health screening initiative and has approached Continental Trade Bank for a working-capital and investment loan, submitting three years of statements. For 2025-26: Sales ₹16,000k, COGS ₹9,600k, PBT ₹2,400k, Interest ₹680k, PAT ₹1,680k; Cash ₹212k, Receivables ₹4,200k (opening ₹3,000k), Inventories ₹4,500k (opening ₹3,000k), Total Assets ₹18,312k; Equity Share Capital ₹4,000k, Other Equity ₹3,752k, Non-Current Borrowings ₹5,000k, Current Liabilities ₹5,560k.\n\nWhat are the Long-term Debt to Total Debt Ratio and the Debt-to-Equity Ratio of Solstice Biotech Ltd. for FY 2025-26?",
+     "options": {
+      "A": "24.00% and 35.00%",
+      "B": "27.31% and 64.50%",
+      "C": "41.70% and 46.89%",
+      "D": "47.35% and 64.50%"
+     },
+     "answer": "D",
+     "explanation": "**Long-term Debt = Non-Current Borrowings = ₹5,000k.** **Total Debt = Non-Current Borrowings + Current Liabilities = 5,000 + 5,560 = ₹10,560k**, so **(5,000 ÷ 10,560) × 100 = 47.35%**. **Shareholders' Equity = Equity Share Capital + Other Equity = 4,000 + 3,752 = ₹7,752k**, so **Debt-to-Equity = (5,000 ÷ 7,752) × 100 = 64.50%**. ICAI key: (D).",
+     "why_wrong": {
+      "A": "24.00% and 35.00% are the **industry averages**.",
+      "B": "27.31% would follow from dividing long-term debt by total assets rather than by total debt.",
+      "C": "41.70% and 46.89% are the **2024-25** ratios."
+     },
+     "trap": "Two definitional choices decide this item, and ICAI makes both explicit in its working: **total debt includes current liabilities**, and the **debt-to-equity ratio here uses long-term debt only** against shareholders' funds. A different convention gives a different number, so follow the one the answer key uses.",
+     "concept": "F03.09"
+    },
     {
      "id": "MCQ-F03.09-01",
      "angle": "Composition",
@@ -937,6 +1013,25 @@
     }
    ],
    "mcqs": [
+    {
+     "id": "MTP-S26-S2-FMCQ5",
+     "question": "**The Solstice Biotech Ltd. case (MTP Sep 2026 Series 2, Part I).** A manufacturer of diagnostic kits scaled production to a record high after a public-health screening initiative and has approached Continental Trade Bank for a working-capital and investment loan, submitting three years of statements. For 2025-26: Sales ₹16,000k, COGS ₹9,600k, PBT ₹2,400k, Interest ₹680k, PAT ₹1,680k; Cash ₹212k, Receivables ₹4,200k (opening ₹3,000k), Inventories ₹4,500k (opening ₹3,000k), Total Assets ₹18,312k; Equity Share Capital ₹4,000k, Other Equity ₹3,752k, Non-Current Borrowings ₹5,000k, Current Liabilities ₹5,560k.\n\nThe Interest Coverage Ratio of Solstice Biotech Ltd. fell to 4.53 times in FY 2025-26 (industry average 10 times) while its Debt-to-Equity Ratio rose to 64.50% (industry average 35%). As the credit appraisal officer, what should be your primary concern in appraising this loan proposal?",
+     "options": {
+      "A": "Both figures are favourable, so the loan can be sanctioned without further scrutiny",
+      "B": "The falling interest coverage combined with rising leverage signals a reduced cushion to service debt and heightened repayment risk, warranting closer scrutiny before further lending",
+      "C": "The interest coverage ratio is irrelevant once the debt-to-equity ratio is known",
+      "D": "Since sales are growing, both ratios can be ignored in the loan decision"
+     },
+     "answer": "B",
+     "explanation": "**Interest Coverage = EBIT ÷ Interest = (PBT + Interest) ÷ Interest = (2,400 + 680) ÷ 680 = 4.53 times.** ICAI's own reasoning: **'A ratio of 4.53 times, well below the industry norm of 10 times, means earnings cover interest obligations with a much thinner margin than peers. Combined with a Debt-to-Equity Ratio of 64.50% (industry average 35%), the company is both more leveraged than its peers and less able to comfortably service that debt from operating earnings. For a loan officer, this combination — rising leverage and weakening debt-servicing capacity — is the key red flag in the proposal, not a reason for automatic approval.'** ICAI key: (B).",
+     "why_wrong": {
+      "A": "Both figures are materially **worse** than the industry average, not favourable.",
+      "C": "The two ratios answer different questions — leverage measures the stock of debt, coverage the capacity to service it — so neither makes the other irrelevant.",
+      "D": "Growing sales are what caused the receivables and inventory build-up and the extra borrowing; growth is the context for the concern, not an answer to it."
+     },
+     "trap": "This is the interpretation question the whole case builds to, and the lesson is the one the chapter's limitations section makes: a single ratio means little, and **two ratios read together** can say something neither says alone. Sales growth with falling coverage and rising leverage is the classic over-trading signature.",
+     "concept": "F03.10"
+    },
     {
      "id": "MCQ-F03.10-01",
      "angle": "Formula",

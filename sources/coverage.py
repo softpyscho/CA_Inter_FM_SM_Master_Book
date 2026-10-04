@@ -40,12 +40,23 @@ def fm_spans(t):
 
 DESC = re.compile(r'(?i)PART\s*II\s*[-–—:]?\s*Descriptive|Division\s*B\s*[-–—:]?\s*Descriptive')
 
+# RTP files, and some MTP question papers, carry the suggested answers in the same
+# file as the questions. Scanning the answer half yields phantom "parts" whose stem
+# is a number or a stray phrase ("(a) 9.12%", "(a) Gordon's formula"), which then
+# show up as unplaced atoms that do not exist. Cut each FM span at the answers.
+ANS_HEAD = re.compile(r'(?i)^[ \t]*(SUGGESTED\s+ANSWERS?(\s*/\s*HINTS)?|ANSWERS?\s+TO\s+|Answer\s+to\s+Case\s+Scenario)', re.M)
+# A real ICAI sub-part stem is prose. These are answer fragments, not questions.
+ANS_LIKE = re.compile(r'^\([a-e]\)\s*(?:[`\u20b9]|\d|[-+]?\d*\.?\d+\s*%|True|False)')
+
 
 def parts(path):
     """Yield (question-number, letter, is_or, stem) for one paper's FM side."""
     t = open(path, encoding='utf-8').read()
     for lo, hi in fm_spans(t):
         body = t[lo:hi]
+        a = ANS_HEAD.search(body)
+        if a:
+            body = body[:a.start()]
         d = DESC.search(body)          # skip Part I MCQs, whose (a)-(d) are options
         if d:
             body = body[d.start():]
@@ -62,6 +73,8 @@ def parts(path):
                 seg = re.sub(r'\s+', ' ', qt[s.start():e2]).strip()
                 if len(seg) < 35 or s.group(1) in 'de':
                     continue        # ICAI lettered FM parts run (a)-(c); (d)/(e) are MCQ options
+                if ANS_LIKE.match(seg):
+                    continue        # an answer fragment that survived the span cut
                 is_or = bool(ORM.search(qt[:s.start()][-40:]))
                 yield qn, s.group(1), is_or, seg[:120]
 

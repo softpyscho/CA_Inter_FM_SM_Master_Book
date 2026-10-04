@@ -1,6 +1,6 @@
 {
  "chapter": "F04",
- "note": "Official questions mapped to FM Chapter 4 (Cost of Capital). Primary code first. RTP assignment follows ICAI's own topic labels; past papers and MTPs follow the cost the question computes.",
+ "note": "Official questions mapped to FM Chapter 4 (Cost of Capital). Primary code first. RTP assignment follows ICAI's own topic labels; past papers and MTPs follow the cost the question computes. **One atom was added in the back-fill pass (04-10-2026)**: MTP-J26-S2-FQ4b, on the meaning and significance of cost of capital, which had sat on the FM Ch 7 scoping list since 22-09-2026.",
  "atoms": [
   {
    "id": "PYQ-J25-Q2a",
@@ -305,6 +305,16 @@
    "marks": 5,
    "format": "Case numerical",
    "src": "MTP-S26-S2 FM Q2(a) Vertex Industries Ltd — cost of equity using CAPM"
+  },
+  {
+   "id": "MTP-J26-S2-FQ4b",
+   "codes": [
+    "F04.02",
+    "F04.03"
+   ],
+   "marks": 4,
+   "format": "Descriptive",
+   "src": "MTP-J26-S2 FM Q4(b) TechWave Ltd. buying machinery worth Rs 50 lakh - explain the meaning of cost of capital and three reasons why it is significant for decision-making"
   }
  ]
 }
