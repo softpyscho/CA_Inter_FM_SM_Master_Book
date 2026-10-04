@@ -8,7 +8,7 @@
   "module": "Paper 6A Financial Management · Module 1",
   "attempt": "January 2027",
   "sm_edition": "ICAI BoS Study Material, Paper 6A (relevant for May 2026 examination onwards), Module 1, Chapter 6",
-  "last_verified": "22-09-2026",
+  "last_verified": "04-10-2026",
   "status_summary": "SM headings 16/16 · official atoms 33/33"
  },
  "sections_before": [
@@ -2059,7 +2059,7 @@
      "Draw the statement, compute DOL and DFL, multiply for DCL",
      "For a forecast, multiply the percentage change in sales by the relevant leverage"
     ],
-    "official_pattern": "PYQ-J25-Q1b; PYQ-M25-Q1c; PYQ-S24-Q1a; RTP-J26-FQ8; RTP-M24-FQ4; RTP-S24-FQ8; RTP-S26-FQ5; MTP-J25-S1-FQ1a; MTP-J25-S2-FQ1c; MTP-M24-S2-FQ2a; MTP-M25-S2-FQ1c; MTP-M26-S1-FQ2b; MTP-S24-S1-FQ1c; MTP-S25-S1-FQ2a; MTP-S25-S2-FQ2b.",
+    "official_pattern": "PYQ-J25-Q1b; PYQ-M25-Q1c; PYQ-S24-Q1a; RTP-J26-FQ8; RTP-M24-FQ4; RTP-S24-FQ8; RTP-S26-FQ5; MTP-J25-S1-FQ1a; MTP-J25-S2-FQ1c; MTP-M24-S2-FQ2a; MTP-M25-S2-FQ1c; MTP-M26-S1-FQ2b; MTP-S24-S1-FQ1c; MTP-S25-S1-FQ2a; MTP-S25-S2-FQ2a; MTP-S26-S2-FQ2b.",
     "time_tip": "5 marks ≈ 9 minutes (study guidance)."
    },
    "write": {
@@ -2153,11 +2153,37 @@
       "MTP-M24-S2-FQ2a (companies P and Q — prepare income statements from the leverages)",
       "MTP-S24-S1-FQ1c (X Ltd — prepare the income statement)",
       "MTP-M25-S2-FQ1c (operating, financial and combined leverage under two situations)",
-      "MTP-S25-S2-FQ2b (calculate DOL, DFL and DCL)",
+      "MTP-S25-S2-FQ2a (calculate DOL, DFL and DCL)",
       "MTP-M26-S1-FQ2b (PQR Ltd)",
       "MTP-J25-S1-FQ1a (ABC Industries — combined leverage and the impact of a 10% sales increase)",
       "MTP-J25-S2-FQ1c (Beta Limited)",
       "MTP-S25-S1-FQ2a (Majestic Ltd — leverages and an expansion plan)"
+     ]
+    },
+    {
+     "id": "MTP-S26-S2-FQ2b",
+     "marks": 6,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Sunrise Foods Limited, a mid-sized packaged-foods company, is reviewing its cost structure and capital mix. Its balance sheet as on 31 March 2026 shows equity share capital of ₹12 crore (1.20 crore shares of ₹10 each), reserves and surplus ₹3 crore, 12% debentures ₹25 crore and current liabilities ₹10 crore, against net fixed assets of ₹32 crore and current assets of ₹18 crore — ₹50 crore in all. Fixed costs per annum excluding interest are ₹10 crore, the variable operating cost ratio is 60%, the total assets turnover ratio is 3 and the income-tax rate is 30%. CALCULATE and comment on (i) earnings per share, (ii) operating leverage, (iii) financial leverage and (iv) combined leverage.",
+     "answer_points": [
+      "==**Get to sales from the turnover ratio first — nothing else can be computed until you do.** Total assets = ₹50 crore, and total assets turnover = Sales ÷ Total assets = 3, so **Sales = 50 × 3 = ₹150 crore**.==",
+      "==**Build the statement down to EAT.** Sales ₹150 crore; less variable operating cost at 60% ₹90 crore; **contribution ₹60 crore**; less fixed cost other than interest ₹10 crore; **EBIT ₹50 crore**; less interest on debentures 12% × ₹25 crore = ₹3 crore; **EBT ₹47 crore**; less tax at 30% ₹14.10 crore; **EAT ₹32.90 crore**.==",
+      "==**(i) Earnings per share.** ₹32.90 crore ÷ 1.20 crore shares = **₹27.42**.==",
+      "==**(ii) Operating leverage.** Contribution ÷ EBIT = 60 ÷ 50 = **1.20**. A DOL of 1.20 shows fixed costs form a **modest** part of Sunrise Foods' cost structure: a 1% change in sales changes EBIT by about 1.20%, so operating profit is only mildly sensitive to swings in volume.==",
+      "==**(iii) Financial leverage.** EBIT ÷ EBT = 50 ÷ 47 = **1.06**. The interest burden is small relative to operating profit — the ₹3 crore debenture obligation is covered nearly seventeen times by EBIT — so the company is financially comfortable.==",
+      "==**(iv) Combined leverage.** DOL × DFL = 1.20 × 1.06 = **1.28**. A 1% change in sales moves pre-tax profit and EPS by about 1.28%.==",
+      "**What the set of four says about the company, which is the 'comment' half of the question.** Both leverages are low, so Sunrise Foods carries **little business risk and little financial risk** — earnings will not collapse if sales fall. The other side of the same fact is that it has **little gearing to work with**: a recovery in sales will not lift EPS sharply either. A company with a DCL of 1.28 is safe and unexciting, and if the board wants EPS growth it must either take on more fixed cost to buy scale or borrow more to buy the tax shield — deliberately, and knowing it is buying risk.",
+      "**The structural check worth stating.** Note that capital employed is ₹40 crore (12 + 3 + 25) while total assets are ₹50 crore; the ₹10 crore difference is the current liabilities. The turnover ratio in this question is on **total assets**, not on capital employed, and taking the wrong base gives sales of ₹120 crore and wrecks every figure after it."
+     ],
+     "conclusion": "EPS ₹27.42; DOL 1.20; DFL 1.06; DCL 1.28. Sunrise Foods carries modest fixed operating costs and a small interest burden, so a 1% movement in sales moves its EPS by only about 1.28% — a low-risk structure that also offers the shareholders little leverage on a recovery.",
+     "marks_split": "1 mark for deriving sales from the turnover ratio, 2 marks for the statement down to EAT, 1 mark for EPS, 1 mark for the three leverages, 1 mark for the comment on what each means.",
+     "mistake": "Using capital employed of ₹40 crore instead of total assets of ₹50 crore for the turnover ratio. The question says total assets turnover, and the error carries through every line of the answer. The second is deducting interest before fixed cost, which makes the contribution and the DOL wrong even where the final EAT comes out right.",
+     "topics": [
+      "FM Ch 6 §5 Combined Leverage",
+      "FM Ch 6 §5.1 Degree of Combined Leverage (DCL)",
+      "FM Ch 6 §3.1 Degree of Operating Leverage (DOL)",
+      "FM Ch 6 §4.1 Degree of Financial Leverage (DFL)"
      ]
     }
    ],

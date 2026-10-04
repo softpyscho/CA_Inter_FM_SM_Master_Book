@@ -315,6 +315,24 @@
    "marks": 4,
    "format": "Descriptive",
    "src": "MTP-J26-S2 FM Q4(b) TechWave Ltd. buying machinery worth Rs 50 lakh - explain the meaning of cost of capital and three reasons why it is significant for decision-making"
+  },
+  {
+   "id": "RTP-J25-FQ11b",
+   "codes": [
+    "F04.15"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-J25 FM Q11(b) EXPLAIN any four methods for computation of the cost of equity share capital"
+  },
+  {
+   "id": "MTP-M26-S1-FQ1b",
+   "codes": [
+    "F04.20"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-M26-S1 FM Q1(b) Mr. Raman's portfolio — complete the CAPM table (Rf 8%, Rm 14%, C Ltd 14.6%, cash and treasury bill beta nil, Nifty beta 1) and discuss the beta-return relationship"
   }
  ]
 }

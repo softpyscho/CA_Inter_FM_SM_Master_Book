@@ -22,40 +22,153 @@
    ],
    "example": "M Ltd. is worth ₹2,13,043 and N Ltd. ₹2,00,000 on identical earnings. Selling M, borrowing ₹10,000 personally and buying N leaves the investor with the same ₹1,300 of income and ₹1,304.30 of cash — until the two values converge.",
    "provisions": [
-    {"ref": "MM 1958 propositions (SM §2.4)", "status": "VERIFIED",
+    {
+     "ref": "MM 1958 propositions (SM §2.4)",
+     "status": "VERIFIED",
      "requirement": "Vg = Vu = NOI ÷ Ko; Ke = Ko + (Ko − Kd) × D/E; overall cost of capital is unaffected by leverage and depends only on business risk.",
-     "exam_angle": "Value both firms, name the overvalued one, then show the four arbitrage steps."},
-    {"ref": "MM 1963 with tax (SM §2.4)", "status": "VERIFIED",
+     "exam_angle": "Value both firms, name the overvalued one, then show the four arbitrage steps."
+    },
+    {
+     "ref": "MM 1963 with tax (SM §2.4)",
+     "status": "VERIFIED",
      "requirement": "Vg = Vu + TB, the tax benefit being debt × tax rate; Keg = Keu + (Keu − Kd) × D/(D+E); Kog = Keu(1 − tL).",
-     "exam_angle": "A buyback funded by debt is the standard setting — value rises by exactly the tax shield."},
-    {"ref": "Why arbitrage fails in practice (SM §2.4)", "status": "VERIFIED",
+     "exam_angle": "A buyback funded by debt is the standard setting — value rises by exactly the tax shield."
+    },
+    {
+     "ref": "Why arbitrage fails in practice (SM §2.4)",
+     "status": "VERIFIED",
      "requirement": "Imperfections in the capital market, transaction costs and corporate income taxes.",
-     "exam_angle": "The closing line of a 'limitations of MM' answer."}
+     "exam_angle": "The closing line of a 'limitations of MM' answer."
+    }
    ],
-   "keywords": ["behavioural justification", "perfect capital market", "equivalent risk classes", "expected net operating income", "risk premium for the financial risk", "arbitrage", "personal leverage", "conservation of investment value", "sum of the parts", "tax benefit", "present value of tax shields"],
+   "keywords": [
+    "behavioural justification",
+    "perfect capital market",
+    "equivalent risk classes",
+    "expected net operating income",
+    "risk premium for the financial risk",
+    "arbitrage",
+    "personal leverage",
+    "conservation of investment value",
+    "sum of the parts",
+    "tax benefit",
+    "present value of tax shields"
+   ],
    "memory": {
     "trick": "MM 1958: **the pie does not change size when you cut it differently.** MM 1963: **the taxman pays for one slice**, so the levered pie is bigger by debt × tax rate.",
-    "key": [["1958 proposition I", "Vg = Vu = NOI ÷ Ko"], ["1958 proposition II", "Ke = Ko + (Ko − Kd) × D/E"], ["1958 proposition III", "Leverage does not affect Ko; only business risk does"], ["1963", "Vg = Vu + TB, where TB = debt × tax rate"], ["Keg", "Keu + (Keu − Kd) × D/(D+E)"], ["Kog", "Keu(1 − tL)"], ["Arbitrage fails because", "Market imperfections, transaction costs, corporate taxes"]],
+    "key": [
+     [
+      "1958 proposition I",
+      "Vg = Vu = NOI ÷ Ko"
+     ],
+     [
+      "1958 proposition II",
+      "Ke = Ko + (Ko − Kd) × D/E"
+     ],
+     [
+      "1958 proposition III",
+      "Leverage does not affect Ko; only business risk does"
+     ],
+     [
+      "1963",
+      "Vg = Vu + TB, where TB = debt × tax rate"
+     ],
+     [
+      "Keg",
+      "Keu + (Keu − Kd) × D/(D+E)"
+     ],
+     [
+      "Kog",
+      "Keu(1 − tL)"
+     ],
+     [
+      "Arbitrage fails because",
+      "Market imperfections, transaction costs, corporate taxes"
+     ]
+    ],
     "recall_trigger": "Same pie, bigger only by the tax shield"
    },
-   "mistakes": ["Using D/E in the 1963 cost of equity formula; there it is D/(D + E).", "Forgetting the personal borrowing step in the arbitrage — without it the risk is not matched.", "Applying the 1963 formulae when the question says taxes are ignored."],
-   "compare": {"title": "MM 1958 versus MM 1963 (SM §2.4)", "headers": ["Basis", "MM 1958, without tax", "MM 1963, with tax"], "rows": [["Value", "Vg = Vu", "Vg = Vu + TB, where TB = debt × tax rate"], ["Cost of equity", "Ke = Ko + (Ko − Kd) × D/E", "Keg = Keu + (Keu − Kd) × D/(D + E)"], ["Overall cost", "Unaffected by leverage", "Kog = Keu(1 − tL), so it falls as leverage rises"], ["Is structure relevant?", "No", "Yes — debt adds value through the tax shield"], ["Justification", "The arbitrage process and personal leverage", "The interest tax shield"]]},
-   "links": ["🔗 FM Ch 5 §2.3: the NOI approach MM justifies", "🔗 FM Ch 5 §2.5: the trade-off theory, which puts a limit on the 1963 conclusion", "🔗 FM Ch 4 §5.1: the interest tax shield itself"],
+   "mistakes": [
+    "Using D/E in the 1963 cost of equity formula; there it is D/(D + E).",
+    "Forgetting the personal borrowing step in the arbitrage — without it the risk is not matched.",
+    "Applying the 1963 formulae when the question says taxes are ignored."
+   ],
+   "compare": {
+    "title": "MM 1958 versus MM 1963 (SM §2.4)",
+    "headers": [
+     "Basis",
+     "MM 1958, without tax",
+     "MM 1963, with tax"
+    ],
+    "rows": [
+     [
+      "Value",
+      "Vg = Vu",
+      "Vg = Vu + TB, where TB = debt × tax rate"
+     ],
+     [
+      "Cost of equity",
+      "Ke = Ko + (Ko − Kd) × D/E",
+      "Keg = Keu + (Keu − Kd) × D/(D + E)"
+     ],
+     [
+      "Overall cost",
+      "Unaffected by leverage",
+      "Kog = Keu(1 − tL), so it falls as leverage rises"
+     ],
+     [
+      "Is structure relevant?",
+      "No",
+      "Yes — debt adds value through the tax shield"
+     ],
+     [
+      "Justification",
+      "The arbitrage process and personal leverage",
+      "The interest tax shield"
+     ]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 5 §2.3: the NOI approach MM justifies",
+    "🔗 FM Ch 5 §2.5: the trade-off theory, which puts a limit on the 1963 conclusion",
+    "🔗 FM Ch 4 §5.1: the interest tax shield itself"
+   ],
    "face_in_exam": {
-    "forms": ["Two firms of the same risk class: value both, say which is overvalued, show the arbitrage (May 2024, and five RTPs)", "A buyback funded by perpetual debt under MM with taxes: new value, new Ke, new WACC (May 2025, MTP May 2026 Series I)"],
-    "approach": ["Value both firms in a two-column statement before saying anything else", "In an arbitrage answer, use the four steps: sell, borrow, invest, compare"],
+    "forms": [
+     "Two firms of the same risk class: value both, say which is overvalued, show the arbitrage (May 2024, and five RTPs)",
+     "A buyback funded by perpetual debt under MM with taxes: new value, new Ke, new WACC (May 2025, MTP May 2026 Series I)"
+    ],
+    "approach": [
+     "Value both firms in a two-column statement before saying anything else",
+     "In an arbitrage answer, use the four steps: sell, borrow, invest, compare"
+    ],
     "official_pattern": "PYQ-M24-Q2b; PYQ-M25-Q3b; RTP-J26-FQ7; RTP-M24-FQ3; RTP-M26-FQ6; RTP-S24-FQ6; RTP-S24-FQ7; MTP-J26-S1-FQ3a; MTP-M26-S1-FQ2a; MTP-S26-S1-FQ1a.",
     "time_tip": "5 to 6 marks ≈ 9 to 11 minutes (study guidance)."
    },
    "write": {
-    "structure": ["Two-column valuation of both firms", "Name the overvalued firm", "Arbitrage: sell, borrow, invest, compare return and outlay", "Conclude that values must converge"],
-    "keywords": ["equivalent risk class", "personal leverage", "arbitrage", "tax benefit"],
+    "structure": [
+     "Two-column valuation of both firms",
+     "Name the overvalued firm",
+     "Arbitrage: sell, borrow, invest, compare return and outlay",
+     "Conclude that values must converge"
+    ],
+    "keywords": [
+     "equivalent risk class",
+     "personal leverage",
+     "arbitrage",
+     "tax benefit"
+    ],
     "length": "5 to 6 marks: a valuation table plus four arbitrage lines",
     "conclusion": "State that the process continues until the two values are equal.",
-    "avoid": ["Omitting the borrowing step, which is what equalises the risk"]
+    "avoid": [
+     "Omitting the borrowing step, which is what equalises the risk"
+    ]
    },
    "official_questions": [
-    {"id": "PYQ-M24-Q2b", "marks": 5, "status": "VERIFIED",
+    {
+     "id": "PYQ-M24-Q2b",
+     "marks": 5,
+     "status": "VERIFIED",
      "question": "Following data is available in respect of levered and unlevered companies having the same business risk: capital employed ₹2,00,000, EBIT ₹25,000. Show how arbitrage will work.",
      "answer_points": [
       "**Value both firms first.** For the levered firm, **value of equity = (EBIT − interest) ÷ Ke** and **value of the firm = equity + debt**. For the unlevered firm, **value = EBIT ÷ Ke**. ICAI's published answer sets these out side by side under the heading 'Valuation of firms'.",
@@ -65,9 +178,18 @@
       "**Conclude.** As investors do this, the overvalued firm's share price falls and the undervalued firm's rises, until the two values are equal — so the value of the levered firm can neither be greater nor lower than that of the unlevered firm."
      ],
      "conclusion": "Valuation, identification, four steps, conclusion — the same skeleton every time.",
-     "keywords": ["same business risk", "arbitrage", "personal leverage", "surplus cash"],
-     "examiner": "No examiners' comments have been published for Paper 6."},
-    {"id": "PYQ-M25-Q3b", "marks": 5, "status": "VERIFIED",
+     "keywords": [
+      "same business risk",
+      "arbitrage",
+      "personal leverage",
+      "surplus cash"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "PYQ-M25-Q3b",
+     "marks": 5,
+     "status": "VERIFIED",
      "question": "Z Ltd. is an unlevered company. It wants to repurchase its equity shares of ₹300 lakh by issue of 12% debentures of the same amount. Compute the effect on the value of the firm, the cost of equity and the weighted average cost of capital, using MM with taxes.",
      "answer_points": [
       "**Value of the levered company (SM §2.4).** **Vg = Vu + TB**, where the tax benefit is the **amount of debt multiplied by the corporate tax rate** — here ₹300 lakh × t. So the value of the firm rises by exactly that amount on restructuring.",
@@ -77,9 +199,18 @@
       "Where the question also asks for the market value of equity after restructuring, deduct the debt of ₹300 lakh from the new value of the firm."
      ],
      "conclusion": "Three formulae in order: Vg, then Keg, then Kog.",
-     "keywords": ["Vg = Vu + TB", "Keg", "Kog = Keu(1 − tL)", "tax benefit"],
-     "examiner": "No examiners' comments have been published for Paper 6."},
-    {"id": "MTP-M26-S1-FQ2a", "marks": 6, "status": "VERIFIED",
+     "keywords": [
+      "Vg = Vu + TB",
+      "Keg",
+      "Kog = Keu(1 − tL)",
+      "tax benefit"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "MTP-M26-S1-FQ2a",
+     "marks": 6,
+     "status": "VERIFIED",
      "question": "Zanshu Ltd. is an all-equity financed company with a market value of ₹25,00,000 and a cost of equity (Ke) of 21%. The company wants to buy back equity shares worth ₹5,00,000 by issuing and raising 15% perpetual debt of the same amount. The rate of tax is 30%. After the capital restructuring and applying the MM model with taxes, calculate (i) the market value of Zanshu Ltd., (ii) the cost of equity, and (iii) the weighted average cost of capital using market weights, and comment.",
      "answer_points": [
       "**(i) Market value after restructuring.** Vg = Vu + TB = ₹25,00,000 + (₹5,00,000 × 0.30) = ₹25,00,000 + ₹1,50,000 = **₹26,50,000**. Market value of equity = ₹26,50,000 − ₹5,00,000 = **₹21,50,000**.",
@@ -89,8 +220,16 @@
       "**Comment.** The value of the firm has risen by ₹1,50,000 — exactly the present value of the tax shield — and the overall cost of capital has fallen from 21% to about 19.8%, even though the cost of equity rose, because the cheaper after-tax debt carries a weight in the mix."
      ],
      "conclusion": "Value first, then Ke, then Ko; the comment is that the whole gain is the tax shield.",
-     "keywords": ["all-equity financed", "perpetual debt", "Vg = Vu + TB", "market weights"]},
-    {"id": "RTP-S24-FQ6", "status": "VERIFIED",
+     "keywords": [
+      "all-equity financed",
+      "perpetual debt",
+      "Vg = Vu + TB",
+      "market weights"
+     ]
+    },
+    {
+     "id": "RTP-S24-FQ6",
+     "status": "VERIFIED",
      "question": "Company XYZ is unlevered and has a cost of equity of 20 per cent and a total market value as given. Compute the effect of introducing debt into its capital structure.",
      "answer_points": [
       "**Without tax (MM 1958).** Vg = Vu, so introducing debt leaves the total value unchanged. The cost of equity rises to **Ke = Ko + (Ko − Kd) × Debt ÷ Equity**, and the overall cost of capital stays at 20%.",
@@ -100,28 +239,73 @@
       "ICAI labels this question 'Capital Structure' in the September 2024 RTP, and follows it immediately with a second question on two companies of the same risk class — the arbitrage version of the same idea."
      ],
      "conclusion": "State the tax assumption first; everything else follows from it.",
-     "keywords": ["unlevered", "cost of equity", "tax benefit", "overall cost of capital"],
-     "also_asked_as": ["RTP-S24-FQ7 (two companies belonging to the same risk class)", "RTP-M24-FQ3 (two companies having the same business risk)", "RTP-M26-FQ6 (two companies belonging to the same risk class)", "RTP-J26-FQ7 (J Ltd — buyback funded by 15% perpetual debt, MM with taxes)", "MTP-S26-S1-FQ1a (valuation of a levered and an unlevered firm)", "MTP-J26-S1-FQ3a (Vastupal Limited — a levered company converting 70% of its debt to equity)"]}
+     "keywords": [
+      "unlevered",
+      "cost of equity",
+      "tax benefit",
+      "overall cost of capital"
+     ],
+     "also_asked_as": [
+      "RTP-S24-FQ7 (two companies belonging to the same risk class)",
+      "RTP-M24-FQ3 (two companies having the same business risk)",
+      "RTP-M26-FQ6 (two companies belonging to the same risk class)",
+      "RTP-J26-FQ7 (J Ltd — buyback funded by 15% perpetual debt, MM with taxes)",
+      "MTP-S26-S1-FQ1a (valuation of a levered and an unlevered firm)",
+      "MTP-J26-S1-FQ3a (Vastupal Limited — a levered company converting 70% of its debt to equity)",
+      "MTP-S25-S1-FQ3b (A Ltd. and B Ltd. in the same risk class, with an expected net operating income of ₹19,00,000 each, A Ltd. carrying ₹57,00,000 of 12% debt and B Ltd. none, B Ltd.'s equity capitalisation rate 19% — the same problem asked twice over, once with no tax and once at 40%. **With no tax:** Vu = 19,00,000 ÷ 0.19 = ₹1,00,00,000, and VL = Vu because debt adds nothing, so both firms are worth ₹1,00,00,000; A Ltd.'s equity is ₹43,00,000, its net income to equity ₹12,16,000, so its Ke rises to 28.28% while its WACC stays at 19%. **At 40% tax:** Vu = 19,00,000 × 0.6 ÷ 0.19 = ₹60,00,000, and VL = Vu + Dt = 60,00,000 + 57,00,000 × 0.4 = ₹82,80,000; A Ltd.'s equity is ₹25,80,000, its earnings for equity ₹7,29,600, Ke again 28.28%, and its WACC falls to 13.77% against B Ltd.'s 19%. The pair is the cleanest illustration in the bank of what the tax shield does: with no tax, leverage moves Ke but not WACC or value; with tax, it raises value by exactly Dt and lowers WACC.)"
+     ]
+    }
    ],
    "mcqs": [
-    {"id": "MCQ-F05.06-01", "angle": "Formula", "difficulty": "Moderate",
+    {
+     "id": "MCQ-F05.06-01",
+     "angle": "Formula",
+     "difficulty": "Moderate",
      "question": "Under MM with taxes, the value of a levered firm exceeds that of an unlevered firm by:",
-     "options": {"A": "The amount of the debt", "B": "The interest payable on the debt", "C": "The amount of debt multiplied by the corporate tax rate", "D": "Nothing; the two are always equal"},
+     "options": {
+      "A": "The amount of the debt",
+      "B": "The interest payable on the debt",
+      "C": "The amount of debt multiplied by the corporate tax rate",
+      "D": "Nothing; the two are always equal"
+     },
      "answer": "C",
      "explanation": "SM §2.4: the value of the levered firm will be greater than the value of the unlevered firm by an amount equal to the amount of debt multiplied by the corporate tax rate.",
-     "why_wrong": {"A": "Debt is not itself a gain; it must be repaid.", "B": "Interest is a cost, not the value added.", "D": "That is the 1958 position, before tax was introduced."},
+     "why_wrong": {
+      "A": "Debt is not itself a gain; it must be repaid.",
+      "B": "Interest is a cost, not the value added.",
+      "D": "That is the 1958 position, before tax was introduced."
+     },
      "trap": "Option D is correct for MM 1958 and wrong for MM 1963 — read which model the question uses.",
-     "concept": "F05.06"},
-    {"id": "MCQ-F05.06-02", "angle": "Arbitrage", "difficulty": "Moderate",
+     "concept": "F05.06"
+    },
+    {
+     "id": "MCQ-F05.06-02",
+     "angle": "Arbitrage",
+     "difficulty": "Moderate",
      "question": "In the MM arbitrage process, an investor who sells shares in the overvalued levered firm must also:",
-     "options": {"A": "Borrow personally in the same proportion as that firm's debt, before investing in the unlevered firm", "B": "Lend the sale proceeds at the risk-free rate", "C": "Wait for the corporate tax rate to change", "D": "Buy debentures of the unlevered firm"},
+     "options": {
+      "A": "Borrow personally in the same proportion as that firm's debt, before investing in the unlevered firm",
+      "B": "Lend the sale proceeds at the risk-free rate",
+      "C": "Wait for the corporate tax rate to change",
+      "D": "Buy debentures of the unlevered firm"
+     },
      "answer": "A",
      "explanation": "SM §2.4: the operational justification is the arbitrage process and the substitution of corporate leverage by personal leverage; in the study material's own illustration the investor sells the 10% holding and borrows 10% of the levered firm's debt before investing in the unlevered firm.",
-     "why_wrong": {"B": "That would reduce the risk and the return, so the comparison would not be like for like.", "C": "The 1958 model assumes no taxes.", "D": "The unlevered firm has no debt to buy."},
+     "why_wrong": {
+      "B": "That would reduce the risk and the return, so the comparison would not be like for like.",
+      "C": "The 1958 model assumes no taxes.",
+      "D": "The unlevered firm has no debt to buy."
+     },
      "trap": "Without the personal borrowing the two positions carry different risk, and the argument collapses.",
-     "concept": "F05.06"}
+     "concept": "F05.06"
+    }
    ],
-   "recap": ["MM 1958: Vg = Vu; Ke rises with leverage; Ko depends only on business risk.", "The justification is arbitrage, with personal leverage substituting for corporate leverage.", "It fails in practice because of market imperfections, transaction costs and taxes.", "MM 1963: Vg = Vu + debt × tax rate; Keg = Keu + (Keu − Kd) × D/(D+E); Kog = Keu(1 − tL)."]
+   "recap": [
+    "MM 1958: Vg = Vu; Ke rises with leverage; Ko depends only on business risk.",
+    "The justification is arbitrage, with personal leverage substituting for corporate leverage.",
+    "It fails in practice because of market imperfections, transaction costs and taxes.",
+    "MM 1963: Vg = Vu + debt × tax rate; Keg = Keu + (Keu − Kd) × D/(D+E); Kog = Keu(1 − tL)."
+   ]
   },
   {
    "code": "F05.07",
@@ -143,26 +327,82 @@
    ],
    "example": "The first tranche of debt is nearly free money — the tax shield is real and distress is remote. The tenth tranche buys the same shield but brings suppliers demanding cash on delivery; somewhere between the two lies the optimum.",
    "provisions": [
-    {"ref": "Trade-off theory (SM §2.5)", "status": "VERIFIED",
+    {
+     "ref": "Trade-off theory (SM §2.5)",
+     "status": "VERIFIED",
      "requirement": "Offsets the tax benefits of debt against the costs of financial distress and agency costs; the marginal benefit declines and the marginal cost rises, giving an optimum.",
-     "exam_angle": "The theory that explains why real companies use some debt but not only debt."}
+     "exam_angle": "The theory that explains why real companies use some debt but not only debt."
+    }
    ],
-   "keywords": ["balancing the costs and benefits", "cost of financial distress", "agency costs", "partly with debt and partly with equity", "bankruptcy costs", "non-bankruptcy costs", "marginal benefit declines", "distress price", "administrative and legal costs", "shareholders-managers conflict", "shareholders-debt holders conflict", "interest tax shield and bankruptcy"],
+   "keywords": [
+    "balancing the costs and benefits",
+    "cost of financial distress",
+    "agency costs",
+    "partly with debt and partly with equity",
+    "bankruptcy costs",
+    "non-bankruptcy costs",
+    "marginal benefit declines",
+    "distress price",
+    "administrative and legal costs",
+    "shareholders-managers conflict",
+    "shareholders-debt holders conflict",
+    "interest tax shield and bankruptcy"
+   ],
    "memory": {
     "trick": "Trade-off = **tax shield versus trouble.** Every extra rupee of debt buys a little less shield and a little more trouble; the optimum is where the two curves cross.",
-    "key": [["Benefit of debt", "The tax shield"], ["Cost of debt", "Financial distress: bankruptcy and non-bankruptcy costs"], ["Direct distress cost", "Assets sold at a distress price; administrative and legal costs"], ["Indirect distress costs", "Employees, customers, suppliers, investors, managers, shareholders"], ["Agency conflicts", "Shareholders versus managers; shareholders versus debt holders"], ["Result", "An optimum capital structure"]],
+    "key": [
+     [
+      "Benefit of debt",
+      "The tax shield"
+     ],
+     [
+      "Cost of debt",
+      "Financial distress: bankruptcy and non-bankruptcy costs"
+     ],
+     [
+      "Direct distress cost",
+      "Assets sold at a distress price; administrative and legal costs"
+     ],
+     [
+      "Indirect distress costs",
+      "Employees, customers, suppliers, investors, managers, shareholders"
+     ],
+     [
+      "Agency conflicts",
+      "Shareholders versus managers; shareholders versus debt holders"
+     ],
+     [
+      "Result",
+      "An optimum capital structure"
+     ]
+    ],
     "recall_trigger": "Tax shield versus trouble"
    },
-   "mistakes": ["Listing only bankruptcy costs; the study material names non-bankruptcy costs and six indirect costs too.", "Saying MM 1963 already gave the optimum; the study material says later work led to it through the trade-off theory."],
-   "links": ["🔗 FM Ch 1 §10: financial distress and insolvency", "🔗 FM Ch 1 §12: the agency problem and agency cost", "🔗 FM Ch 5 §2.4: the tax benefit this theory puts a limit on"],
+   "mistakes": [
+    "Listing only bankruptcy costs; the study material names non-bankruptcy costs and six indirect costs too.",
+    "Saying MM 1963 already gave the optimum; the study material says later work led to it through the trade-off theory."
+   ],
+   "links": [
+    "🔗 FM Ch 1 §10: financial distress and insolvency",
+    "🔗 FM Ch 1 §12: the agency problem and agency cost",
+    "🔗 FM Ch 5 §2.4: the tax benefit this theory puts a limit on"
+   ],
    "face_in_exam": {
-    "forms": ["Short note on the trade-off theory", "Explain why companies use both debt and equity"],
-    "approach": ["Name the benefit, name the two families of cost, then say where the optimum sits"],
+    "forms": [
+     "Short note on the trade-off theory",
+     "Explain why companies use both debt and equity"
+    ],
+    "approach": [
+     "Name the benefit, name the two families of cost, then say where the optimum sits"
+    ],
     "official_pattern": "Not yet asked directly; it is the bridge between MM and the practical factors of §3.",
     "time_tip": "4 marks ≈ 7 minutes (study guidance)."
    },
    "expected_questions": [
-    {"id": "EQ-F05.07-1", "form": "Explain (4 marks)", "marks": 4,
+    {
+     "id": "EQ-F05.07-1",
+     "form": "Explain (4 marks)",
+     "marks": 4,
      "question": "Explain the trade-off theory of capital structure, and the costs it weighs against the benefits of debt.",
      "answer_points": [
       "The trade-off theory refers to the idea that a company chooses how much debt finance and how much equity finance to use by balancing the costs and benefits; it entails offsetting the costs of debt against the benefits of debt. An important purpose of the theory is to explain the fact that corporations usually are financed partly with debt and partly with equity.",
@@ -172,27 +412,64 @@
       "**Agency costs** arise from disputes of interest among management, debt holders and shareholders — the shareholders-managers conflict and the shareholders-debt holders conflict — and these may affect the capital structure of a firm.",
       "As the debt-equity ratio increases, there is a trade-off between the interest tax shield and bankruptcy, causing an optimum capital structure."
      ],
-     "keywords": ["offsetting the costs of debt against the benefits", "financial distress", "agency costs", "optimum capital structure"]}
+     "keywords": [
+      "offsetting the costs of debt against the benefits",
+      "financial distress",
+      "agency costs",
+      "optimum capital structure"
+     ]
+    }
    ],
    "mcqs": [
-    {"id": "MCQ-F05.07-01", "angle": "Concept", "difficulty": "Easy",
+    {
+     "id": "MCQ-F05.07-01",
+     "angle": "Concept",
+     "difficulty": "Easy",
      "question": "The trade-off theory of capital structure primarily deals with two concepts:",
-     "options": {"A": "Liquidity and solvency", "B": "Cost of financial distress and agency costs", "C": "Systematic and unsystematic risk", "D": "Operating and financial leverage"},
+     "options": {
+      "A": "Liquidity and solvency",
+      "B": "Cost of financial distress and agency costs",
+      "C": "Systematic and unsystematic risk",
+      "D": "Operating and financial leverage"
+     },
      "answer": "B",
      "explanation": "SM §2.5: trade-off theory of capital structure primarily deals with two concepts — cost of financial distress and agency costs.",
-     "why_wrong": {"A": "Those are ratio families from Chapter 3.", "C": "Those belong to CAPM in Chapter 4.", "D": "Those are Chapter 6's subject."},
+     "why_wrong": {
+      "A": "Those are ratio families from Chapter 3.",
+      "C": "Those belong to CAPM in Chapter 4.",
+      "D": "Those are Chapter 6's subject."
+     },
      "trap": "Both named concepts are costs; the benefit side is simply the tax shield.",
-     "concept": "F05.07"},
-    {"id": "MCQ-F05.07-02", "angle": "Cost", "difficulty": "Moderate",
+     "concept": "F05.07"
+    },
+    {
+     "id": "MCQ-F05.07-02",
+     "angle": "Cost",
+     "difficulty": "Moderate",
      "question": "Which of the following does the study material give as a NON-bankruptcy cost of financial distress?",
-     "options": {"A": "Administrative and legal costs of insolvency", "B": "Sale of assets at a distress price", "C": "Suppliers demanding disadvantageous payment terms", "D": "Payment of corporate tax"},
+     "options": {
+      "A": "Administrative and legal costs of insolvency",
+      "B": "Sale of assets at a distress price",
+      "C": "Suppliers demanding disadvantageous payment terms",
+      "D": "Payment of corporate tax"
+     },
      "answer": "C",
      "explanation": "SM §2.5: the costs of financial distress include bankruptcy costs of debt and non-bankruptcy costs, e.g. staff leaving, suppliers demanding disadvantageous payment terms, and bondholder or stockholder infighting.",
-     "why_wrong": {"A": "That is a direct cost of insolvency, i.e. a bankruptcy cost.", "B": "Also a direct cost of insolvency.", "D": "Tax is the source of the benefit, not a distress cost."},
+     "why_wrong": {
+      "A": "That is a direct cost of insolvency, i.e. a bankruptcy cost.",
+      "B": "Also a direct cost of insolvency.",
+      "D": "Tax is the source of the benefit, not a distress cost."
+     },
      "trap": "Non-bankruptcy costs bite long before any insolvency proceeding starts.",
-     "concept": "F05.07"}
+     "concept": "F05.07"
+    }
    ],
-   "recap": ["Trade-off balances the tax benefit of debt against financial distress and agency costs.", "Distress costs are direct (distress sale prices, legal and administrative) and indirect (six named stakeholder costs).", "Two agency conflicts: shareholders versus managers, and shareholders versus debt holders.", "The balance point is the optimum capital structure."]
+   "recap": [
+    "Trade-off balances the tax benefit of debt against financial distress and agency costs.",
+    "Distress costs are direct (distress sale prices, legal and administrative) and indirect (six named stakeholder costs).",
+    "Two agency conflicts: shareholders versus managers, and shareholders versus debt holders.",
+    "The balance point is the optimum capital structure."
+   ]
   },
   {
    "code": "F05.08",
@@ -211,34 +488,138 @@
    ],
    "example": "A profitable company funds a new plant from reserves, then from a term loan, and only issues shares when both are exhausted — not because it is targeting a ratio, but because issuing shares tells the market the least flattering story.",
    "provisions": [
-    {"ref": "Pecking order (SM §2.6)", "status": "VERIFIED",
+    {
+     "ref": "Pecking order (SM §2.6)",
+     "status": "VERIFIED",
      "requirement": "Internal finance first; then secured debt, unsecured debt, hybrid debt; new equity shares as a last option. Based on asymmetric information; no well-defined debt-equity target.",
-     "exam_angle": "Asked verbatim in May 2025 for 2 marks, and again in the May 2026 MTP."}
+     "exam_angle": "Asked verbatim in May 2025 for 2 marks, and again in the May 2026 MTP."
+    }
    ],
-   "keywords": ["asymmetric information", "managers will have better information than investors", "positive about future earnings", "reveal the least amount of information", "Myers", "no well-defined debt-equity target", "internal finance", "secured debt", "unsecured debt", "hybrid debt", "last option"],
+   "keywords": [
+    "asymmetric information",
+    "managers will have better information than investors",
+    "positive about future earnings",
+    "reveal the least amount of information",
+    "Myers",
+    "no well-defined debt-equity target",
+    "internal finance",
+    "secured debt",
+    "unsecured debt",
+    "hybrid debt",
+    "last option"
+   ],
    "memory": {
     "trick": "**I-D-E: Internal, Debt, Equity.** Managers pick the source that tells the market the least — and issuing shares tells it the most.",
-    "key": [["Based on", "Asymmetric information; managers know more than investors"], ["Debt signals", "Confidence about future earnings"], ["Equity signals", "Doubt, and only when internal finance is insufficient"], ["First", "Internal finance"], ["Second", "Secured debt, unsecured debt, hybrid debt"], ["Last", "New equity shares"], ["Named by", "Myers — because there is no well-defined debt-equity target"]],
+    "key": [
+     [
+      "Based on",
+      "Asymmetric information; managers know more than investors"
+     ],
+     [
+      "Debt signals",
+      "Confidence about future earnings"
+     ],
+     [
+      "Equity signals",
+      "Doubt, and only when internal finance is insufficient"
+     ],
+     [
+      "First",
+      "Internal finance"
+     ],
+     [
+      "Second",
+      "Secured debt, unsecured debt, hybrid debt"
+     ],
+     [
+      "Last",
+      "New equity shares"
+     ],
+     [
+      "Named by",
+      "Myers — because there is no well-defined debt-equity target"
+     ]
+    ],
     "recall_trigger": "Internal, Debt, Equity"
    },
-   "mistakes": ["Reversing the order and putting debt first; internal finance leads.", "Saying the theory sets a target debt-equity ratio; its defining feature is that it does not."],
-   "compare": {"title": "Pecking order versus trade-off (SM §2.6)", "headers": ["Basis", "Pecking order theory", "Trade-off theory"], "rows": [["Based on", "Asymmetric information", "Balancing the costs and benefits of debt"], ["Target ratio", "No well-defined debt-equity target", "An optimum debt-equity ratio exists"], ["Hierarchy", "Internal financing → debt → equity", "Debt → equity, around the target"], ["Why the order", "Managers prefer sources revealing the least information", "Marginal tax benefit against marginal distress cost"], ["Equity is", "The last option", "Part of the deliberate mix"]]},
-   "links": ["🔗 FM Ch 2 §3.3: retained earnings, the first port of call", "🔗 FM Ch 4 §8: why internal equity costs less than external equity", "🔗 FM Ch 1 §12: information asymmetry behind the agency problem"],
+   "mistakes": [
+    "Reversing the order and putting debt first; internal finance leads.",
+    "Saying the theory sets a target debt-equity ratio; its defining feature is that it does not."
+   ],
+   "compare": {
+    "title": "Pecking order versus trade-off (SM §2.6)",
+    "headers": [
+     "Basis",
+     "Pecking order theory",
+     "Trade-off theory"
+    ],
+    "rows": [
+     [
+      "Based on",
+      "Asymmetric information",
+      "Balancing the costs and benefits of debt"
+     ],
+     [
+      "Target ratio",
+      "No well-defined debt-equity target",
+      "An optimum debt-equity ratio exists"
+     ],
+     [
+      "Hierarchy",
+      "Internal financing → debt → equity",
+      "Debt → equity, around the target"
+     ],
+     [
+      "Why the order",
+      "Managers prefer sources revealing the least information",
+      "Marginal tax benefit against marginal distress cost"
+     ],
+     [
+      "Equity is",
+      "The last option",
+      "Part of the deliberate mix"
+     ]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 2 §3.3: retained earnings, the first port of call",
+    "🔗 FM Ch 4 §8: why internal equity costs less than external equity",
+    "🔗 FM Ch 1 §12: information asymmetry behind the agency problem"
+   ],
    "face_in_exam": {
-    "forms": ["What is the hierarchy of financing under the pecking order theory and why does it exist? (2 marks, May 2025)", "Explain the preference order under the pecking order theory (MTP May 2026 Series I)"],
-    "approach": ["Give the three-step hierarchy, then the asymmetric-information reason, then the 'no target' point"],
+    "forms": [
+     "What is the hierarchy of financing under the pecking order theory and why does it exist? (2 marks, May 2025)",
+     "Explain the preference order under the pecking order theory (MTP May 2026 Series I)"
+    ],
+    "approach": [
+     "Give the three-step hierarchy, then the asymmetric-information reason, then the 'no target' point"
+    ],
     "official_pattern": "PYQ-M25-Q4c; MTP-M26-S1-FQ4c-OR.",
     "time_tip": "2 marks ≈ 3 minutes (study guidance)."
    },
    "write": {
-    "structure": ["The three-step hierarchy, numbered", "The reason: asymmetric information and least disclosure", "The reason it exists, in ICAI's own words"],
-    "keywords": ["internal finance", "secured debt", "last option", "asymmetric information"],
+    "structure": [
+     "The three-step hierarchy, numbered",
+     "The reason: asymmetric information and least disclosure",
+     "The reason it exists, in ICAI's own words"
+    ],
+    "keywords": [
+     "internal finance",
+     "secured debt",
+     "last option",
+     "asymmetric information"
+    ],
     "length": "2 marks: three numbered steps plus one line of reason",
     "conclusion": "It exists to minimise the cost of capital, keep financial control and avoid negative market signals.",
-    "avoid": ["Adding a target debt-equity ratio, which this theory denies"]
+    "avoid": [
+     "Adding a target debt-equity ratio, which this theory denies"
+    ]
    },
    "official_questions": [
-    {"id": "PYQ-M25-Q4c", "marks": 2, "status": "VERIFIED",
+    {
+     "id": "PYQ-M25-Q4c",
+     "marks": 2,
+     "status": "VERIFIED",
      "question": "What is the hierarchy of financing under the 'pecking order' theory, and why does it exist?",
      "answer_points": [
       "Pecking order theory suggests that managers may use various sources for raising funds in the following order:",
@@ -249,29 +630,68 @@
       "The underlying reason is asymmetric information: managers have better information than investors, so they prefer sources that reveal the least amount of information. Firms issue debt when positive about future earnings and equity only when doubtful and internal finance is insufficient."
      ],
      "conclusion": "Three steps and one reason — ICAI's published answer is exactly this length.",
-     "keywords": ["internal finance", "secured debt, unsecured debt, hybrid debt", "last option", "negative market signals"],
+     "keywords": [
+      "internal finance",
+      "secured debt, unsecured debt, hybrid debt",
+      "last option",
+      "negative market signals"
+     ],
      "examiner": "No examiners' comments have been published for Paper 6.",
-     "also_asked_as": ["MTP-M26-S1-FQ4c-OR (pecking order theory suggests managers may use various sources in an order — explain the preference)"]}
+     "also_asked_as": [
+      "MTP-M26-S1-FQ4c-OR (pecking order theory suggests managers may use various sources in an order — explain the preference)"
+     ]
+    }
    ],
    "mcqs": [
-    {"id": "MCQ-F05.08-01", "angle": "Order", "difficulty": "Easy",
+    {
+     "id": "MCQ-F05.08-01",
+     "angle": "Order",
+     "difficulty": "Easy",
      "question": "Under the pecking order theory, the order in which managers prefer to raise funds is:",
-     "options": {"A": "Equity, then debt, then internal finance", "B": "Debt, then equity, then internal finance", "C": "Internal finance, then debt, then new equity shares", "D": "Preference capital, then equity, then debt"},
+     "options": {
+      "A": "Equity, then debt, then internal finance",
+      "B": "Debt, then equity, then internal finance",
+      "C": "Internal finance, then debt, then new equity shares",
+      "D": "Preference capital, then equity, then debt"
+     },
      "answer": "C",
      "explanation": "SM §2.6: managers' first choice is internal finance; in its absence they use secured, unsecured or hybrid debt; new equity shares are the last option.",
-     "why_wrong": {"A": "Equity is the last option, not the first.", "B": "Internal finance comes before debt.", "D": "Preference capital is not given a separate rung."},
+     "why_wrong": {
+      "A": "Equity is the last option, not the first.",
+      "B": "Internal finance comes before debt.",
+      "D": "Preference capital is not given a separate rung."
+     },
      "trap": "The order is driven by how much information each source reveals, not by cost alone.",
-     "concept": "F05.08"},
-    {"id": "MCQ-F05.08-02", "angle": "Basis", "difficulty": "Moderate",
+     "concept": "F05.08"
+    },
+    {
+     "id": "MCQ-F05.08-02",
+     "angle": "Basis",
+     "difficulty": "Moderate",
      "question": "The pecking order theory is based on asymmetric information, which means:",
-     "options": {"A": "Different parties have different information, and in a firm managers have better information than investors", "B": "Debt holders and shareholders receive the same information at different times", "C": "The market price always reflects all available information", "D": "Information is costly to produce"},
+     "options": {
+      "A": "Different parties have different information, and in a firm managers have better information than investors",
+      "B": "Debt holders and shareholders receive the same information at different times",
+      "C": "The market price always reflects all available information",
+      "D": "Information is costly to produce"
+     },
      "answer": "A",
      "explanation": "SM §2.6: asymmetric information refers to a situation in which different parties have different information; in a firm, managers will have better information than investors.",
-     "why_wrong": {"B": "Timing is not the study material's definition.", "C": "That is the efficient market idea, the opposite assumption.", "D": "Cost of information is not the point."},
+     "why_wrong": {
+      "B": "Timing is not the study material's definition.",
+      "C": "That is the efficient market idea, the opposite assumption.",
+      "D": "Cost of information is not the point."
+     },
      "trap": "It is the information gap, not the information cost, that drives the hierarchy.",
-     "concept": "F05.08"}
+     "concept": "F05.08"
+    }
    ],
-   "recap": ["Pecking order: internal finance, then debt, then new equity as a last option.", "Based on asymmetric information — managers know more than investors.", "Debt signals confidence; equity signals doubt.", "Myers named it because there is no well-defined debt-equity target."]
+   "recap": [
+    "Pecking order: internal finance, then debt, then new equity as a last option.",
+    "Based on asymmetric information — managers know more than investors.",
+    "Debt signals confidence; equity signals doubt.",
+    "Myers named it because there is no well-defined debt-equity target."
+   ]
   },
   {
    "code": "F05.09 + F05.10",
@@ -289,43 +709,110 @@
    ],
    "example": "A new company can realistically choose only from (b), (d) and (e); an established one with equity already in place has all six open to it.",
    "provisions": [
-    {"ref": "Capital structure mix (SM §3.1)", "status": "VERIFIED",
+    {
+     "ref": "Capital structure mix (SM §3.1)",
+     "status": "VERIFIED",
      "requirement": "Six possible patterns, three of which are available only to an existing company; the chosen combination is the capital structure mix.",
-     "exam_angle": "The framing for a 'choice of source of funds' short note."}
+     "exam_angle": "The framing for a 'choice of source of funds' short note."
+    }
    ],
-   "keywords": ["different sources in different proportions", "exclusively use debt", "in case of existing company", "capital structure mix"],
+   "keywords": [
+    "different sources in different proportions",
+    "exclusively use debt",
+    "in case of existing company",
+    "capital structure mix"
+   ],
    "memory": {
     "trick": "Six patterns, three markers: **anything without equity is open only to an existing company**, because equity has to exist before anything can rank ahead of it.",
-    "key": [["Pure options", "Debt only · equity only · preference only"], ["Mixed options", "Debt + equity · debt + equity + preference · debt + preference"], ["Restriction", "Debt only, preference only, and debt + preference: existing companies only"], ["The chosen combination", "The capital structure mix"]],
+    "key": [
+     [
+      "Pure options",
+      "Debt only · equity only · preference only"
+     ],
+     [
+      "Mixed options",
+      "Debt + equity · debt + equity + preference · debt + preference"
+     ],
+     [
+      "Restriction",
+      "Debt only, preference only, and debt + preference: existing companies only"
+     ],
+     [
+      "The chosen combination",
+      "The capital structure mix"
+     ]
+    ],
     "recall_trigger": "Six patterns, one mix"
    },
-   "mistakes": ["Listing only debt and equity; the study material gives six patterns including preference capital.", "Overlooking the 'in case of existing company' qualification on three of them."],
-   "links": ["🔗 FM Ch 2: the sources themselves", "🔗 FM Ch 5 §3.2: the principles for choosing among these patterns"],
+   "mistakes": [
+    "Listing only debt and equity; the study material gives six patterns including preference capital.",
+    "Overlooking the 'in case of existing company' qualification on three of them."
+   ],
+   "links": [
+    "🔗 FM Ch 2: the sources themselves",
+    "🔗 FM Ch 5 §3.2: the principles for choosing among these patterns"
+   ],
    "face_in_exam": {
-    "forms": ["Short note on the choice of source of funds", "MCQ on which pattern is available only to an existing company"],
-    "approach": ["List the six, marking the three that need an existing equity base"],
+    "forms": [
+     "Short note on the choice of source of funds",
+     "MCQ on which pattern is available only to an existing company"
+    ],
+    "approach": [
+     "List the six, marking the three that need an existing equity base"
+    ],
     "official_pattern": "Not yet asked directly; it frames the factors question that is.",
     "time_tip": "2 marks ≈ 3 minutes (study guidance)."
    },
    "mcqs": [
-    {"id": "MCQ-F05.10-01", "angle": "Restriction", "difficulty": "Moderate",
+    {
+     "id": "MCQ-F05.10-01",
+     "angle": "Restriction",
+     "difficulty": "Moderate",
      "question": "Which financing pattern does the study material mark as available only 'in case of existing company'?",
-     "options": {"A": "A combination of debt and equity in different proportions", "B": "Exclusively using equity capital", "C": "A combination of debt, equity and preference capital", "D": "Exclusively using preference share capital"},
+     "options": {
+      "A": "A combination of debt and equity in different proportions",
+      "B": "Exclusively using equity capital",
+      "C": "A combination of debt, equity and preference capital",
+      "D": "Exclusively using preference share capital"
+     },
      "answer": "D",
      "explanation": "SM §3.1 marks three patterns 'in case of existing company': exclusively debt, exclusively preference share capital, and a combination of debt and preference capital.",
-     "why_wrong": {"A": "Open to any company.", "B": "Open to any company — indeed the usual starting point.", "C": "Open to any company."},
+     "why_wrong": {
+      "A": "Open to any company.",
+      "B": "Open to any company — indeed the usual starting point.",
+      "C": "Open to any company."
+     },
      "trap": "The three restricted patterns are exactly those with no equity component.",
-     "concept": "F05.10"},
-    {"id": "MCQ-F05.10-02", "angle": "Terminology", "difficulty": "Easy",
+     "concept": "F05.10"
+    },
+    {
+     "id": "MCQ-F05.10-02",
+     "angle": "Terminology",
+     "difficulty": "Easy",
      "question": "The chosen combination of sources of finance is called:",
-     "options": {"A": "The capital structure mix", "B": "The marginal cost of capital", "C": "The financial break-even point", "D": "The indifference point"},
+     "options": {
+      "A": "The capital structure mix",
+      "B": "The marginal cost of capital",
+      "C": "The financial break-even point",
+      "D": "The indifference point"
+     },
      "answer": "A",
      "explanation": "SM §3.1: the choice of the combination of these sources is called the capital structure mix.",
-     "why_wrong": {"B": "The cost of raising an additional rupee, from Chapter 4.", "C": "The EBIT at which EPS is zero.", "D": "The EBIT at which two plans give the same EPS."},
+     "why_wrong": {
+      "B": "The cost of raising an additional rupee, from Chapter 4.",
+      "C": "The EBIT at which EPS is zero.",
+      "D": "The EBIT at which two plans give the same EPS."
+     },
      "trap": "Options C and D are real terms from later in this same chapter.",
-     "concept": "F05.10"}
+     "concept": "F05.10"
+    }
    ],
-   "recap": ["Six financing patterns, from pure debt to a three-way mix.", "Three of them — those without equity — are open only to an existing company.", "The combination chosen is the capital structure mix.", "The rest of the chapter is about how to choose among them."]
+   "recap": [
+    "Six financing patterns, from pure debt to a three-way mix.",
+    "Three of them — those without equity — are open only to an existing company.",
+    "The combination chosen is the capital structure mix.",
+    "The rest of the chapter is about how to choose among them."
+   ]
   }
  ]
 }

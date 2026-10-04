@@ -274,6 +274,60 @@
    "marks": null,
    "format": "Descriptive",
    "src": "RTP-J26 FM Q11(b) spontaneous sources of finance"
+  },
+  {
+   "id": "RTP-S26-FQ10b",
+   "codes": [
+    "F02.24"
+   ],
+   "marks": null,
+   "format": "Case-based descriptive",
+   "src": "RTP-S26 FM Q10(b) Global Infra Ltd — explain the various foreign bonds available to an Indian infrastructure company raising funds abroad, and their key features"
+  },
+  {
+   "id": "MTP-M24-S2-FQ3b",
+   "codes": [
+    "F02.24"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-M24-S2 FM Q3(b) NAME the various financial instruments dealt with in the international market"
+  },
+  {
+   "id": "MTP-J25-S2-FQ4c",
+   "codes": [
+    "F02.11"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-J25-S2 FM Q4(c) drop lock bonds — the interest rate on a floating-rate note becomes fixed if it falls to a specified level"
+  },
+  {
+   "id": "MTP-S25-S1-FQ4c",
+   "codes": [
+    "F02.08"
+   ],
+   "marks": 2,
+   "format": "Identify the instrument",
+   "src": "MTP-S25-S1 FM Q4(c) identify the instrument giving fixed periodic returns without voting rights, ranking above equity but below debentures — preference shares"
+  },
+  {
+   "id": "MTP-S25-S1-FQ4c-OR",
+   "codes": [
+    "F02.04"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-S25-S1 FM Q4(c) OR a firm evaluating equity, debt, retained earnings and supplier credit for long-term access to funds — sources of finance by maturity of payment"
+  },
+  {
+   "id": "MTP-S25-S2-FQ4c-OR",
+   "codes": [
+    "F02.21"
+   ],
+   "marks": 2,
+   "format": "Case-based descriptive",
+   "src": "MTP-S25-S2 FM Q4(c) OR a company facing a cash crunch and offered a sale and leaseback of its commercial building — the practical benefits and risks"
   }
  ]
 }

@@ -364,6 +364,52 @@
    "marks": null,
    "format": "Case numerical",
    "src": "MTP-J26-S2 FM Q1(c) Orion Aerospace Ltd — video conferencing at eight locations appraised against the executive travel cost it saves"
+  },
+  {
+   "id": "RTP-J25-FQ11c",
+   "codes": [
+    "F07.20",
+    "F07.19"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-J25 FM Q11(c) do the profitability index and the NPV criterion lead to the same acceptance-rejection and ranking decisions, and in what situations do they conflict"
+  },
+  {
+   "id": "RTP-M26-FQ10c",
+   "codes": [
+    "F07.21"
+   ],
+   "marks": null,
+   "format": "Descriptive",
+   "src": "RTP-M26 FM Q10(c) STATE the acceptance rule under the internal rate of return method"
+  },
+  {
+   "id": "MTP-M25-S1-FQ3b",
+   "codes": [
+    "F07.19"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-M25-S1 FM Q3(b) Millenial Limited, a Q-commerce startup — NPV of buying four new electric delivery vehicles against buying second-hand vehicles every five years; Option B wins with an NPV of Rs 16,60,441"
+  },
+  {
+   "id": "MTP-S24-S2-FQ1b",
+   "codes": [
+    "F07.19"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-S24-S2 FM Q1(b) Mr. Anand's share purchase at Rs 500 with a 1:5 bonus at the end of year 4 and sale in year 7 at Rs 900 — NPV of the acquisition Rs 36.14 at 12%"
+  },
+  {
+   "id": "MTP-J25-S1-FQ2c",
+   "codes": [
+    "F07.19"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-J25-S1 FM Q2(c) Vyom Limited valuing the startup Aryayash Limited for a buyout — fair value Rs 200.28 lakh, being Rs 20.08 lakh of years 1 to 6 plus Rs 180.20 lakh for a terminal value of Rs 417.12 lakh discounted at the acquirer's 15%"
   }
  ]
 }

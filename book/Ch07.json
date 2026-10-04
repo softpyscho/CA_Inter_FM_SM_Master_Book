@@ -8,7 +8,7 @@
   "module": "Paper 6A Financial Management · Module 2",
   "attempt": "January 2027",
   "sm_edition": "ICAI BoS Study Material, Paper 6A (relevant for May 2026 examination onwards), Module 2, Chapter 7",
-  "last_verified": "03-10-2026",
+  "last_verified": "04-10-2026",
   "status_summary": "SM headings 33/33 · official atoms 35/35"
  },
  "sections_before": [
@@ -2464,7 +2464,7 @@
      "Use the annuity factor where the annual flow is level, and year-by-year factors where it is not",
      "Finish with a sentence that states the decision, and the reason, in words"
     ],
-    "official_pattern": "PYQ-M24-Q3a; PYQ-J25-Q3a; PYQ-S25-Q1c; RTP-M24-FQ5; RTP-M25-FQ1; MTP-M26-S1-FQ1c.",
+    "official_pattern": "PYQ-M24-Q3a; PYQ-J25-Q3a; PYQ-S25-Q1c; RTP-M24-FQ5; RTP-M25-FQ1; MTP-M26-S1-FQ1c; MTP-S24-S2-FQ1b; MTP-J25-S1-FQ2c; MTP-M25-S1-FQ3b.",
     "time_tip": "6 marks ≈ 11 minutes; a 10-mark replacement NPV ≈ 18 minutes (study guidance)."
    },
    "official_questions": [
@@ -2493,7 +2493,10 @@
       "PVAF 3.888",
       "discounted payback"
      ],
-     "examiner": "No examiners' comments have been published for Paper 6."
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "MTP-M25-S1-FQ3b (Millenial Limited, a quick-commerce startup needing delivery vehicles — Option A, buying four brand-new electric vehicles at ₹1,50,000 each plus 5% GST not eligible for set-off, with a ₹20,000 per vehicle government subsidy receivable at the end of the year, a ten-year life and scrap at 10% of gross cost, against Option B, buying second-hand e-vehicles and replacing them every five years. Answered by NPV of each option: **Option B has the higher NPV at ₹16,60,441, so Millenial should buy second-hand vehicles every five years rather than own brand-new ones.** Two features of the data do the work: the **GST is not eligible for set-off**, so it is part of the capital cost rather than a recoverable tax, and the **subsidy arrives at the end of the year**, so it is discounted one period and not netted off the outlay. Both are the kind of detail that changes the ranking rather than merely the arithmetic.)"
+     ]
     },
     {
      "id": "PYQ-J25-Q3a",
@@ -2618,6 +2621,56 @@
       "scrap added to the final year's inflow",
       "positive but very low",
       "discount reduces year-0 outflow"
+     ]
+    },
+    {
+     "id": "MTP-S24-S2-FQ1b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Mr. Anand is thinking of buying a share at ₹500 whose face value per share is ₹100. He is expecting a bonus at the ratio 1 : 5 at the end of the fourth year. The annual expected dividend is 20% and the same rate is expected to be maintained on the expanded capital base. He intends to sell the shares at the end of the seventh year at an expected price of ₹900 each. Incidental expenses for purchase and sale of shares are estimated to be 5% of the market price. Assuming a discount rate of 12% per annum, COMPUTE the net present value from the acquisition of the shares.",
+     "answer_points": [
+      "==**The two things the 1 : 5 bonus changes, and the point of the whole question.** From the end of year 4, Mr. Anand holds **1.2 shares** — one bought share plus one-fifth of a bonus share. So from **year 5 onwards** both the dividend and the eventual sale proceeds are computed on 1.2 shares, not on 1.==",
+      "==**Dividend per share.** 20% on the **face value of ₹100** = **₹20 per share per year**, not 20% of the ₹500 purchase price. On the expanded base from year 5 the annual dividend becomes ₹100 × 1.2 × 20% = **₹24**.==",
+      "==**Years 1 to 4 — dividends of ₹20.** × 0.893 = 17.86; × 0.797 = 15.94; × 0.712 = 14.24; × 0.636 = 12.72.==",
+      "==**Years 5 to 7 — dividends of ₹24.** × 0.567 = 13.61; × 0.507 = 12.17; × 0.452 = 10.85.==",
+      "==**Year 7 — net sale proceeds.** ₹900 × 1.2 = ₹1,080, less incidental expenses of 5% = **₹1,026**; × 0.452 = **463.75**.==",
+      "==**Present value of inflows** = 17.86 + 15.94 + 14.24 + 12.72 + 13.61 + 12.17 + 10.85 + 463.75 = **₹561.14**.==",
+      "==**Initial outflow at year 0.** Purchase price ₹500 **plus** incidental expenses of 5% = **₹525**, taken at a discount factor of 1.==",
+      "==**Net present value** = ₹561.14 − ₹525.00 = **₹36.14**.==",
+      "**Where the value actually comes from.** Of the ₹561.14 of inflows, ₹463.75 — **83%** — is the terminal sale. Seven years of dividends contribute ₹97.39. The investment is a bet on the exit price, and the NPV of ₹36.14 on an outlay of ₹525 is a margin of under 7%: a small fall in the expected ₹900 would wipe it out.",
+      "**Note on the incidental expenses.** They work in opposite directions and both must be applied: on purchase they **increase** the outflow (₹500 → ₹525); on sale they **reduce** the inflow (₹1,080 → ₹1,026). Applying them once, or in the same direction twice, is the commonest arithmetic slip in this question."
+     ],
+     "conclusion": "The net present value from the acquisition is ₹36.14, so the purchase is worthwhile at a discount rate of 12% — but 83% of the value rests on the terminal sale price of ₹900, which leaves a thin margin of safety.",
+     "marks_split": "1 mark for the 1.2-share position from year 4, 1 mark for the dividend on face value and its increase from year 5, 1 mark for the net sale proceeds, 1 mark for the grossed-up initial outflow, 1 mark for the NPV.",
+     "mistake": "Computing the dividend as 20% of the ₹500 market price (₹100 a year) rather than 20% of the ₹100 face value (₹20 a year). The second is applying the bonus from year 4's dividend rather than from year 5 — the bonus arrives **at the end** of year 4, so year 4's dividend is still on one share.",
+     "topics": [
+      "FM Ch 7 §9.1 Net Present Value Technique"
+     ]
+    },
+    {
+     "id": "MTP-J25-S1-FQ2c",
+     "marks": 5,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Vyom Limited, an IT conglomerate, is planning to take over Aryayash Limited, a startup incorporated two years ago but holding a lot of prospects. To determine the buyout consideration, Vyom Limited has asked you to estimate the fair value of the startup today based on future earnings estimates. Expected sales in the coming year are ₹25 lakh with a P/V ratio of 40%. Sales are expected to grow at 20% for the next two years, at 40% for a further two years and at 25% in the sixth year, and thereafter cash flows grow at a constant 10%. Fixed costs are ₹12 lakh for the first two years and ₹10 lakh thereafter. Tax is 25% and Vyom Limited's desired rate of return is 15%.",
+     "answer_points": [
+      "==**The principle, stated first.** Fair value of a company = the **present value of all its future cash flows discounted at the expected rate of return of the acquiring company**. The discount rate is **Vyom Limited's** 15%, not the startup's — ICAI prints that as a note because it is the step candidates get wrong.==",
+      "==**Contribution at 40% of sales, year by year (₹ lakh).** Year 1: 10.00 on sales of 25. Year 2: 12.00 (sales 30, +20%). Year 3: 14.40 (sales 36, +20%). Year 4: 20.16 (sales 50.4, +40%). Year 5: 28.22 (sales 70.56, +40%). Year 6: 35.28 (sales 88.20, +25%).==",
+      "==**Less fixed cost** (12 for years 1 and 2, 10 thereafter) gives **NPBT**: −2.00, 0.00, 4.40, 10.16, 18.22, 25.28.==",
+      "==**The loss set-off, which is the second thing candidates miss.** Year 1's loss of ₹2 lakh is carried forward and set off in **year 3**, so year 3's taxable income is 4.40 − 2.00 = **2.40**, not 4.40. Years 2 and 4 to 6 need no adjustment.==",
+      "==**Tax at 25% and cash flow (NPBT less tax).** Year 1 tax nil, cash flow **−2.00**. Year 2 nil, **0.00**. Year 3 tax 0.60, **3.80**. Year 4 tax 2.54, **7.62**. Year 5 tax 4.55, **13.66**. Year 6 tax 6.32, **18.96**.==",
+      "==**Discount years 1 to 6 at 15%:** −1.740, 0, 2.50, 4.35, 6.79, 8.19 — a total present value of **₹20.08 lakh**.==",
+      "==**The terminal value, which is where almost all the value sits.** From year 7 the cash flow grows at a constant 10%, so the value at the end of year 6 = 18.96 × 1.10 ÷ (0.15 − 0.10) = **₹417.12 lakh**. Discounted back at the 15% six-year factor of 0.432: **₹180.20 lakh**.==",
+      "==**Total fair value of Aryayash Limited** = 20.08 + 180.20 = **₹200.28 lakh**.==",
+      "**What the structure of the answer tells Vyom Limited's board.** ₹180.20 lakh of the ₹200.28 lakh — **90%** — is the terminal value, which rests entirely on the assumption that cash flows grow at 10% for ever from year 7. The six years that have actually been forecast are worth only ₹20.08 lakh. A valuation with that shape should be stress-tested on the terminal growth rate before any price is offered: at 8% perpetual growth the terminal value falls to ₹297.94 lakh and the fair value to about ₹149 lakh.",
+      "**ICAI's second note, worth one line.** The terminal value is the value at the point **from which** cash flows grow at a constant rate, and it is assumed that from year 7 the **cash flow or NPAT** grows at the constant rate — not sales. Growing sales at 10% and recomputing contribution and tax would give a different and wrong figure."
+     ],
+     "conclusion": "The fair value of Aryayash Limited today is ₹200.28 lakh — ₹20.08 lakh from the six forecast years and ₹180.20 lakh from the terminal value of ₹417.12 lakh discounted at Vyom Limited's own required return of 15%. Ninety per cent of the value is terminal, so the price Vyom offers should be tested against a lower perpetual growth assumption.",
+     "marks_split": "1 mark for the contribution schedule, 1 mark for the loss set-off in year 3, 1 mark for the discounted cash flows of years 1 to 6, 1½ marks for the terminal value and its discounting, ½ mark for using the acquirer's discount rate.",
+     "mistake": "Discounting at a rate built for the startup rather than Vyom Limited's desired 15%. The second is forgetting the carry-forward of year 1's loss into year 3, which overstates year 3's tax by ₹50,000 and the fair value with it. The third is growing **sales** at 10% beyond year 6 instead of growing the **cash flow**.",
+     "topics": [
+      "FM Ch 7 §9.1 Net Present Value Technique"
      ]
     }
    ],
@@ -2806,7 +2859,7 @@
      "Recover PV of inflows as NPV + investment, then divide",
      "Where asked about conflict, separate accept-reject (never conflicts) from ranking (conflicts whenever outlays differ)"
     ],
-    "official_pattern": "RTP-J26-FQ2; PI is also required in PYQ-M24-Q3a, PYQ-J25-Q3a, PYQ-M25-Q3a and PYQ-M26-Q2a.",
+    "official_pattern": "RTP-J26-FQ2; PI is also required in PYQ-M24-Q3a, PYQ-J25-Q3a, PYQ-M25-Q3a and PYQ-M26-Q2a; RTP-J25-FQ11c.",
     "time_tip": "A PI sub-part inside a larger question ≈ 2 minutes (study guidance)."
    },
    "official_questions": [
@@ -2830,6 +2883,28 @@
       "PI = PV ÷ I",
       "ranking conflict",
       "relative against absolute"
+     ]
+    },
+    {
+     "id": "RTP-J25-FQ11c",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Descriptive",
+     "question": "Do the profitability index and the NPV criterion of evaluating investment proposals lead to the same acceptance-rejection and ranking decisions? In what SITUATIONS will they give conflicting results?",
+     "answer_points": [
+      "==**On acceptance and rejection — yes, always.** The two are linked by the identity **PI = 1 + NPV ÷ I**. So NPV ≥ 0 if and only if PI ≥ 1, and a project accepted on one criterion is accepted on the other. There is no set of cash flows on which they disagree about accept or reject.==",
+      "==**On ranking — no, not always.** NPV measures the **absolute** addition to wealth in rupees; PI measures the **relative** return per rupee invested. A project can be first on one and last on the other, and that is not an anomaly but the consequence of measuring two different things.==",
+      "==**The situation in which they conflict: mutually exclusive projects of different size.** Where the initial outlays differ, a large project may have the higher NPV while a small one has the higher PI, because the large project's bigger denominator holds its ratio down. ICAI's own illustration is the clearest form of it — Project A with an NPV of ₹15 thousand on ₹60 thousand (PI 1.25) against Project C with an NPV of ₹25 thousand on ₹150 thousand (PI 1.167): A wins on PI, C wins on NPV.==",
+      "**The second situation: capital rationing.** Where the capital available is limited, the question stops being 'which project adds most?' and becomes 'which combination adds most within the budget?'. PI, being NPV per rupee of capital, answers the second question and NPV does not — which is why §11.1 uses the PI ranking under rationing.",
+      "==**Which one to follow when they conflict.** **With no capital constraint, follow NPV**, because it measures the addition to the shareholders' wealth and that is the firm's objective; a higher ratio on a smaller base leaves money on the table. **Under capital rationing with divisible projects, follow PI**, because the constraint makes the return per rupee the binding consideration.==",
+      "**The limitation to record.** ICAI states that the profitability index **fails as a guide in resolving capital rationing where projects are indivisible**: once a single large project with a high NPV is selected, the possibility of accepting several small projects which together have a higher NPV is excluded. So PI's own home ground has a boundary."
+     ],
+     "conclusion": "They always agree on acceptance and rejection, because PI = 1 + NPV ÷ I. They can disagree on ranking whenever mutually exclusive projects differ in size, and the disagreement is resolved in favour of NPV where capital is unconstrained and in favour of PI where capital is rationed and the projects are divisible.",
+     "marks_split": "1 mark for the identity and the accept-reject agreement, 2 marks for the ranking conflict with an illustration, 1 mark for which criterion to follow in each situation, 1 mark for the indivisibility limitation.",
+     "mistake": "Answering only that 'NPV and IRR always agree for a single project' — true, but about a different pair of techniques, and irrelevant when the question is about ranking. The second is asserting that PI is always superior because it is relative: it is superior only when capital is the binding constraint.",
+     "topics": [
+      "FM Ch 7 §9.2 Profitability Index",
+      "FM Ch 7 §9.1 Net Present Value Technique"
      ]
     }
    ],
@@ -3035,7 +3110,10 @@
       "terminal value",
       "MIRR between k and IRR"
      ],
-     "examiner": "No examiners' comments have been published for Paper 6."
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "RTP-M26-FQ10c (STATE the acceptance rule under the internal rate of return method — asked bare, for marks, with no computation. The rule has three limbs and all three are expected: **accept** the proposal where the IRR **exceeds** the cost of capital or the required rate of return, because the project then earns more than the funds cost; **reject** it where the IRR is **below** that rate; and where the IRR **equals** the cost of capital, the firm is **indifferent** — the project exactly covers its cost of capital, adds nothing and takes nothing away, which is the same point at which the NPV is nil. For mutually exclusive proposals, the one with the highest IRR above the cut-off is preferred, subject to §9.3.2's warning that IRR misleads on projects of different scale.)"
+     ]
     },
     {
      "id": "PYQ-M26-MCQ8",

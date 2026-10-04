@@ -8,7 +8,7 @@
   "module": "Paper 6A Financial Management · Module 1",
   "attempt": "January 2027",
   "sm_edition": "ICAI BoS Study Material, Paper 6A (relevant for May 2026 examination onwards), Module 1, Chapter 2 (pp. 2.1–2.46)",
-  "last_verified": "18-09-2026",
+  "last_verified": "04-10-2026",
   "status_summary": "SM headings 25/25 · official atoms 31/31"
  },
  "sections_before": [
@@ -334,6 +334,30 @@
     "Three needs: long (5–10 yrs+), medium (1–5 yrs), short (≤1 yr).",
     "Match the source to the period; permanent working capital is long term.",
     "Classify by basic source, maturity, and ownership and control."
+   ],
+   "official_questions": [
+    {
+     "id": "MTP-S25-S1-FQ4c-OR",
+     "marks": 2,
+     "status": "VERIFIED",
+     "format": "Case-based descriptive",
+     "question": "A firm is managing its finances and aims to ensure that it has access to funds for the long term. It evaluates various sources like equity, debt, retained earnings, and also credit offered by suppliers. WHICH of these are long-term sources and why does the classification matter?",
+     "answer_points": [
+      "==**The classification the stem is testing is §2.2 — sources of finance based on the maturity of payment.** ICAI splits every source into long-term, medium-term and short-term, and the governing principle of §1 is that **short-term needs are met from short-term sources, medium-term needs from medium-term sources and long-term needs from long-term sources**.==",
+      "==**Long-term sources (§2.2).** Share capital or equity shares; preference shares; **retained earnings**; debentures or bonds of different types; loans from financial institutions; loans from State Financial Corporations; loans from commercial banks; venture capital funding; asset securitisation; and international financing such as Euro-issues and foreign currency loans.==",
+      "**Medium-term sources.** Preference shares; debentures or bonds; public or fixed deposits for three years; medium-term loans from commercial banks, financial institutions and State Financial Corporations; lease financing and hire-purchase financing; external commercial borrowings; Euro-issues; foreign currency bonds. Note that preference shares and debentures appear in **both** the long-term and the medium-term list — the maturity, not the instrument, decides.",
+      "==**Short-term sources.** Trade credit; accrued expenses and deferred income; short-term loans such as working capital loans from commercial banks; advances received from customers; and various short-term provisions. **The credit offered by suppliers is trade credit, and so is a short-term source** — it is the one item in the stem's list that does not belong to the firm's long-term funding.==",
+      "**Applying it to the firm.** Of the four sources named, **equity, debt and retained earnings are long-term** and are available to fund the firm's long-term needs; **supplier credit is short-term** and must be matched against current assets.",
+      "==**Why the classification matters.** Funding a long-term asset from a short-term source leaves the firm having to refinance the same asset repeatedly, and exposes it to the risk that the source is withdrawn before the asset has paid for itself — which is why ICAI states the matching principle as the **basic principle** of funding and says the method of raising funds is decided by reference to the period for which the funds are required.=="
+     ],
+     "conclusion": "Equity, debt and retained earnings are long-term sources; the credit offered by suppliers is trade credit and is a short-term source. The classification matters because of ICAI's matching principle — long-term needs must be met from long-term sources, since financing a long-lived asset with a source that must be repaid within the year creates a refinancing risk the asset's own cash flows cannot cover.",
+     "marks_split": "1 mark for identifying the three long-term sources and excluding supplier credit, 1 mark for the matching principle as the reason.",
+     "mistake": "Listing retained earnings as an external source. It is the principal **internal** source, and it is long-term. The other is treating trade credit as long-term because the supplier relationship is long-standing — the maturity of the **payment** is what classifies a source, not the durability of the relationship.",
+     "topics": [
+      "FM Ch 2 §2.2 Sources of Finance based on Maturity of Payment",
+      "FM Ch 2 §1 Financial Needs and Sources of Finance of a Business"
+     ]
+    }
    ]
   },
   {
@@ -591,7 +615,7 @@
      "Answer the types question as a two-column table: type and salient feature",
      "For advantages, remember EPS, leverage, takeover, fixed dividend, redemption"
     ],
-    "official_pattern": "RTP-S24-FQ12b; MTP-M26-S1-FQ4b.",
+    "official_pattern": "RTP-S24-FQ12b; MTP-M26-S1-FQ4b; MTP-S25-S1-FQ4c.",
     "time_tip": "4 marks ≈ 7 minutes (study guidance)."
    },
    "write": {
@@ -633,6 +657,27 @@
      ],
      "also_asked_as": [
       "RTP-S24-FQ12b (explain in brief the features of various types of preference shares)"
+     ]
+    },
+    {
+     "id": "MTP-S25-S1-FQ4c",
+     "marks": 2,
+     "status": "VERIFIED",
+     "format": "Identify the instrument",
+     "question": "A company is looking to raise funds through an instrument that provides fixed periodic returns to the investor but does not grant voting rights. Interestingly, this instrument is considered to have characteristics of both equity and debt. It ranks above equity shareholders but below debenture holders in case of liquidation. WHICH type of financing instrument should the company use and why?",
+     "answer_points": [
+      "==**The instrument is preference share capital.** Every one of the four clues in the stem is one of ICAI's own listed features of it.==",
+      "**Fixed periodic return.** A preference share carries a **fixed rate of dividend**, which is why the stem says fixed periodic returns rather than a fixed rate of interest.",
+      "**No voting rights.** Preference shareholders ordinarily carry **no voting rights** on matters not directly affecting them, which is why the instrument raises money without diluting control.",
+      "==**Hybrid character.** Preference capital is a **hybrid of equity and debt**: like debt it carries a fixed, prior claim on income; like equity it is part of the company's own capital, the dividend is payable only out of profits and is **not a charge against profit**, and non-payment does not put the company in default.==",
+      "==**Priority on liquidation.** On winding up, preference shareholders rank **after all creditors, including debenture holders, but ahead of equity shareholders**, both for the return of capital and for arrears of dividend where the shares are cumulative. That is exactly the position the stem describes.==",
+      "**Why the company should use it here.** It wants a fixed, predictable cost without surrendering control and without the default risk that a debenture would create. Preference capital delivers all three. The price is that the dividend is **not deductible for tax**, which makes preference capital dearer than debt of the same rate — state that qualification and the answer is complete."
+     ],
+     "conclusion": "The company should raise preference share capital. It gives the investor a fixed dividend and a claim ranking above equity but below debentures, gives the company finance without voting dilution and without the default risk of debt, and is the one source ICAI describes as carrying the characteristics of both equity and debt. The qualification is that the dividend carries no tax shield.",
+     "marks_split": "1 mark for naming preference share capital, 1 mark for any two of the four features matched to the stem.",
+     "mistake": "Answering 'debentures' because of the words 'fixed periodic returns'. The stem's own ranking clue — below debenture holders — rules debentures out, and debentures carry interest that is a charge against profit, not a return payable out of profits.",
+     "topics": [
+      "FM Ch 2 §3.2 Preference Share Capital"
      ]
     }
    ],
@@ -828,7 +873,7 @@
      "Name each item in bold, then two lines of SM description",
      "For advantages/disadvantages give three each in SM order"
     ],
-    "official_pattern": "PYQ-S24-Q4a; PYQ-S25-Q4b; MTP-M25-S2-FQ4b; MTP-S26-S2-FQ4c.",
+    "official_pattern": "PYQ-S24-Q4a; PYQ-S25-Q4b; MTP-M25-S2-FQ4b; MTP-S26-S2-FQ4c; MTP-J25-S2-FQ4c.",
     "time_tip": "4 marks ≈ 7 minutes; 2 marks ≈ 3–4 minutes (study guidance)."
    },
    "write": {
@@ -915,6 +960,26 @@
       "maturity period",
       "redemption value",
       "tax shield"
+     ]
+    },
+    {
+     "id": "MTP-J25-S2-FQ4c",
+     "marks": 2,
+     "status": "VERIFIED",
+     "format": "Descriptive",
+     "question": "EXPLAIN the concept of drop lock bonds.",
+     "answer_points": [
+      "==**ICAI's own sentence.** 'A drop lock is an arrangement whereby the interest rate on a floating-rate note becomes fixed if it falls to a specified level.'==",
+      "==**How it behaves above that level.** Above the specified level the rate **floats** based on a benchmark market rate, typically with a **semi-annual reset**. It only stops floating when the benchmark falls to the trigger.==",
+      "==**What the instrument therefore is.** 'In other words, drop lock bonds marry the attributes of both floating-rate securities and fixed-rate securities.' The drop lock **effectively sets a floor on the rate and a guaranteed minimum return** to the investor.==",
+      "**Who gains what.** The investor gains protection against a collapse in rates — the coupon cannot fall below the trigger. The issuer gains a lower coupon while rates are high, and accepts the risk of being locked into the trigger rate if rates fall and stay low.",
+      "**The one-line way to remember it.** A floating-rate note with a trapdoor that shuts: once the rate drops to the trigger, it is fixed there for the rest of the life of the bond."
+     ],
+     "conclusion": "A drop lock bond is a floating-rate note whose rate becomes fixed if it falls to a specified level, so it combines the features of a floating-rate and a fixed-rate security and gives the investor a floor and a guaranteed minimum return.",
+     "marks_split": "1 mark for the arrangement itself, 1 mark for the floor and the floating-plus-fixed characterisation.",
+     "mistake": "Describing it as a bond whose rate is fixed from the outset, or as one that floats only downwards. The rate floats until it hits the trigger and is fixed thereafter — the direction of the lock is what the name records.",
+     "topics": [
+      "FM Ch 2 §3.5 Bond"
      ]
     }
    ],
@@ -1981,7 +2046,10 @@
       "surplus",
       "depreciation allowance"
      ],
-     "examiner": "No examiners' comments have been published for Paper 6."
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "MTP-S25-S2-FQ4c-OR (a company owning a commercial building and facing a cash crunch, offered a sale and leaseback by its CFO — the practical benefits and risks. The benefits are the immediate release of the capital locked in the building without losing its use, the conversion of an illiquid asset into cash at a time when cash is what the company lacks, and lease rentals that are deductible in full. The risks are the permanent loss of ownership and of any future appreciation in the property, a rental stream that becomes a fixed obligation for the whole lease term and so raises the company's financial risk, the possibility that the sale price obtainable in a distress situation is below the asset's worth, and the loss of the asset as security for future borrowing. ICAI's own framing of §6.2 is that in a sale and leaseback the owner sells the asset to the leasing company and takes it back on lease, so the company continues to use the asset it no longer owns.)"
+     ]
     },
     {
      "id": "MTP-M25-S2-FQ4a",
@@ -2767,7 +2835,7 @@
      "Name each instrument in bold and give the SM's two defining lines",
      "For ESG, always show the project-based versus target-based split"
     ],
-    "official_pattern": "PYQ-J25-Q4a; MTP-S24-S1-FQ4b; MTP-M24-S2-FQ4c-OR; RTP-J26-FQ11a; PYQ-M24-Q4c-OR; MTP-S25-S2-FQ4b.",
+    "official_pattern": "PYQ-J25-Q4a; MTP-S24-S1-FQ4b; MTP-M24-S2-FQ4c-OR; RTP-J26-FQ11a; PYQ-M24-Q4c-OR; MTP-S25-S2-FQ4b; RTP-S26-FQ10b; MTP-M24-S2-FQ3b.",
     "time_tip": "4 marks ≈ 7 minutes; 2 marks ≈ 3 minutes (study guidance)."
    },
    "write": {
@@ -2903,6 +2971,30 @@
       "broader concept",
       "unsecured loans through online platform",
       "risk of defaults"
+     ]
+    },
+    {
+     "id": "RTP-S26-FQ10b",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case-based descriptive",
+     "question": "Global Infra Ltd., an Indian infrastructure company, plans to raise funds from international markets for its expansion project. The Finance Director is evaluating various foreign bond options. EXPLAIN the various foreign bonds available to Global Infra Ltd. and their key features.",
+     "answer_points": [
+      "==**Start by separating the two families, because the whole answer turns on it.** A **foreign bond** is issued in a particular country's domestic market, in that country's currency, by a non-resident borrower. A **euro bond** is denominated in a currency other than that of the country in which it is issued. Global Infra Ltd. can use either, and they carry different risks.==",
+      "==**Foreign bonds.** Debt instruments issued by foreign corporations or foreign governments in a host country's market and currency. They are exposed to **default risk**, and they are denominated in the currency of the country in which they are issued — so for Global Infra Ltd., the exchange risk stays with the company.==",
+      "==**Euro bonds.** Debt instruments **not denominated in the currency of the country in which they are issued** — ICAI's own example is a yen note floated in Germany. They are generally issued in **bearer** form rather than as registered bonds, so they do not contain the investor's name or country of origin, which makes them attractive to investors seeking privacy.==",
+      "**The named varieties, which are the marks in this question.** A foreign bond issued in the United States in US dollars is a **Yankee bond**; in Japan in yen, a **Samurai bond**; in the United Kingdom in sterling, a **Bulldog bond**. A rupee-denominated bond issued **outside** India is a **masala bond** — note carefully that it is rupee-denominated, so the **exchange risk sits with the investor, not with Global Infra Ltd.**, which is precisely why an Indian infrastructure borrower would want one.",
+      "**Euro convertible bonds and related instruments.** A **euro convertible bond** carries an option to convert into equity at a stated price; a **euro convertible zero bond** is structured as a convertible with no interest; **euro bonds with warrants** attach a detachable warrant to buy equity later. Each lowers the coupon the company pays in exchange for a possible dilution.",
+      "==**How Global Infra Ltd. should choose.** Three questions decide it: **who bears the exchange risk** (the company on a Yankee, Samurai or Bulldog; the investor on a masala bond); **what coupon the market will demand**, which falls as conversion or warrant rights are attached; and **what the host market's regulatory and disclosure burden is**, which is heaviest in the United States. For a rupee-earning infrastructure company with no natural dollar revenue, the masala bond removes the mismatch that would otherwise sit on its balance sheet.=="
+     ],
+     "conclusion": "Global Infra Ltd. can raise money through foreign bonds (Yankee, Samurai, Bulldog — each in the host country's currency, leaving the exchange risk with the company), through euro bonds (denominated in a currency other than that of the country of issue, usually in bearer form), or through masala bonds (rupee-denominated but issued overseas, so the exchange risk passes to the investor). For an infrastructure company whose revenue is in rupees, the masala bond is the structure that does not create a currency mismatch.",
+     "marks_split": "1 mark for the foreign-bond versus euro-bond distinction, 2 marks for the named varieties with their currencies and markets, 1 mark for the convertible and warrant forms, 1 mark for relating the choice to the company's facts.",
+     "mistake": "Saying the 'euro' in euro bond refers to the euro currency. A euro bond is simply denominated in a currency other than that of the country of issue. The second is describing masala bonds as foreign-currency bonds — they are rupee-denominated, and that is their entire point.",
+     "topics": [
+      "FM Ch 2 §9 International Financing"
+     ],
+     "also_asked_as": [
+      "MTP-M24-S2-FQ3b (NAME the various financial instruments dealt with in the international market — the same ground asked as a bare 2-mark list: American Depository Receipts, Global Depository Receipts, foreign bonds, euro bonds, euro convertible bonds, euro convertible zero bonds, euro bonds with warrants, foreign currency convertible bonds, external commercial borrowings and masala bonds. Where the stem says NAME, a list earns the marks; where it says EXPLAIN, each name needs its one distinguishing feature.)"
      ]
     }
    ],

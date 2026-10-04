@@ -2,40 +2,320 @@
  "chapter": "F06",
  "note": "Official questions mapped to FM Chapter 6 (Financing Decisions — Leverages). Primary code first. RTP assignment follows ICAI's own topic labels; past papers and MTPs follow the leverage the question computes.",
  "atoms": [
-  {"id": "PYQ-J25-Q1b", "codes": ["F06.15", "F06.07", "F06.11"], "marks": 5, "format": "Case numerical", "src": "SA-J25 Q1(b) EXIM Ltd — EPS, operating, financial and combined leverage"},
-  {"id": "PYQ-M24-Q1b", "codes": ["F06.07", "F06.11"], "marks": 5, "format": "Case numerical", "src": "SA-M24 Q1(b) Alpha Limited — decrease in EPS, degree of operating and financial leverage"},
-  {"id": "PYQ-M25-Q1c", "codes": ["F06.15"], "marks": 5, "format": "Case numerical", "src": "SA-M25 Q1(c) A Ltd — profit volume ratio, operating leverage and financial leverage"},
-  {"id": "PYQ-M25-Q4c-OR", "codes": ["F06.16"], "marks": 2, "format": "Descriptive", "src": "SA-M25 Q4(c) OR total risk as the combination of operating and financial risk"},
-  {"id": "PYQ-S24-Q1a", "codes": ["F06.15", "F06.09"], "marks": 5, "format": "Case numerical", "src": "SA-S24 Q1(a) N Limited and C Limited — contribution, margin of safety and sales from combined and financial leverage"},
-  {"id": "PYQ-S25-Q2a", "codes": ["F06.07", "F06.11"], "marks": 5, "format": "Case numerical", "src": "SA-S25 Q2(a) M/s KRY Limited — EBIT, fixed cost, bank loan, EPS and MPS from operating leverage"},
-  {"id": "PYQ-M26-Q1a", "codes": ["F06.07"], "marks": 5, "format": "Case numerical", "src": "SA-M26 Q1(a) A Ltd — a 5% increase in sales raising operating profit by ₹9,000"},
-  {"id": "PYQ-J26-Q3b", "codes": ["F06.13"], "marks": 2, "format": "Descriptive", "src": "SA-J26 Q3(b) in what ways financial leverage operates as a double edged sword"},
-
-  {"id": "RTP-J26-FQ4", "codes": ["F06.11"], "marks": null, "format": "MCQ", "src": "RTP-J26 FM Q4 degree of financial leverage of 5/4 — the interest implied"},
-  {"id": "RTP-J26-FQ8", "codes": ["F06.15"], "marks": null, "format": "Case numerical", "src": "RTP-J26 FM Q8 Pinaca Pvt. Ltd — leverages from the balance sheet and income statement (ICAI label: Leverage)"},
-  {"id": "RTP-M24-FQ4", "codes": ["F06.15"], "marks": null, "format": "Case numerical", "src": "RTP-M24 FM Q4 Company A and Company B — prepare income statements from the leverages (ICAI label: Leverage)"},
-  {"id": "RTP-M26-FQ7", "codes": ["F06.16"], "marks": null, "format": "Case numerical", "src": "RTP-M26 FM Q7 ABC Manufacturing Limited (ICAI label: Leverage Analysis)"},
-  {"id": "RTP-S24-FQ3", "codes": ["F06.11"], "marks": null, "format": "MCQ", "src": "RTP-S24 FM Q3 sales ₹75,00,000, variable cost ₹42,00,000, fixed cost ₹6,00,000 — is the financial leverage favourable (ICAI label: Leverage)"},
-  {"id": "RTP-S24-FQ8", "codes": ["F06.15"], "marks": null, "format": "Case numerical", "src": "RTP-S24 FM Q8 PC Ltd under Situations 1, 2 and 3 and Financial Plans A and B (ICAI label: Leverage)"},
-  {"id": "RTP-S25-FQ2", "codes": ["F06.11"], "marks": null, "format": "MCQ", "src": "RTP-S25 FM Q2 a growing company's financial leverage (ICAI label: Ratio Analysis and Leverages)"},
-  {"id": "RTP-S26-FQ5", "codes": ["F06.15"], "marks": null, "format": "Case numerical", "src": "RTP-S26 FM Q5 Anirban Ltd (ICAI label: Leverage)"},
-
-  {"id": "MTP-J25-S1-FQ1a", "codes": ["F06.15"], "marks": 5, "format": "Case numerical", "src": "MTP-J25-S1 FM Q1(a) ABC Industries — combined leverage and the impact of a 10% sales increase"},
-  {"id": "MTP-J25-S2-FQ1c", "codes": ["F06.15"], "marks": 5, "format": "Case numerical", "src": "MTP-J25-S2 FM Q1(c) Beta Limited — sales, variable expenses and contribution"},
-  {"id": "MTP-J26-S1-FQ2b", "codes": ["F06.16"], "marks": 2, "format": "Descriptive", "src": "MTP-J26-S1 FM Q2(b) differentiate between business risk and financial risk"},
-  {"id": "MTP-J26-S2-FQ3a", "codes": ["F06.07", "F06.08"], "marks": 5, "format": "Case numerical", "src": "MTP-J26-S2 FM Q3(a) ShirtCo — 10,000 shirts, cost and revenue structure"},
-  {"id": "MTP-M24-S1-FQ4c-OR", "codes": ["F06.12"], "marks": 2, "format": "Descriptive", "src": "MTP-M24-S1 FM Q4(c) OR financial leverage as trading on equity"},
-  {"id": "MTP-M24-S2-FQ2a", "codes": ["F06.15"], "marks": 5, "format": "Case numerical", "src": "MTP-M24-S2 FM Q2(a) companies P and Q — prepare income statements from the leverages"},
-  {"id": "MTP-M25-S1-FQ1b", "codes": ["F06.09", "F06.11"], "marks": 5, "format": "Case numerical", "src": "MTP-M25-S1 FM Q1(b) Punyakalash Limited — margin of safety 0.40 and financial leverage 1.50"},
-  {"id": "MTP-M25-S1-FQ1c", "codes": ["F06.11", "F06.07"], "marks": 5, "format": "Case numerical", "src": "MTP-M25-S1 FM Q1(c) financial leverage 4 and P/V ratio 40%"},
-  {"id": "MTP-M25-S1-FQ4c", "codes": ["F06.13"], "marks": 2, "format": "Descriptive", "src": "MTP-M25-S1 FM Q4(c) the double edged sword in financial leverage analysis"},
-  {"id": "MTP-M25-S2-FQ1c", "codes": ["F06.15"], "marks": 5, "format": "Case numerical", "src": "MTP-M25-S2 FM Q1(c) operating, financial and combined leverage under two situations"},
-  {"id": "MTP-M26-S1-FQ2b", "codes": ["F06.15"], "marks": 5, "format": "Case numerical", "src": "MTP-M26-S1 FM Q2(b) PQR Ltd — sales ₹1,50,00,000, variable cost ₹84,00,000, fixed cost ₹12,00,000"},
-  {"id": "MTP-M26-S1-FQ4c", "codes": ["F06.16"], "marks": 2, "format": "Descriptive", "src": "MTP-M26-S1 FM Q4(c) a company analysing its risk profile using combined leverage"},
-  {"id": "MTP-S24-S1-FQ1c", "codes": ["F06.15"], "marks": 5, "format": "Case numerical", "src": "MTP-S24-S1 FM Q1(c) X Ltd — prepare the income statement from the leverages"},
-  {"id": "MTP-S24-S1-FQ4c", "codes": ["F06.07"], "marks": 2, "format": "Descriptive", "src": "MTP-S24-S1 FM Q4(c) what is the range of the degree of operating leverage"},
-  {"id": "MTP-S24-S2-FQ4c-OR", "codes": ["F06.13"], "marks": 2, "format": "Descriptive", "src": "MTP-S24-S2 FM Q4(c) OR financial leverage as a double edged sword"},
-  {"id": "MTP-S25-S1-FQ2a", "codes": ["F06.15"], "marks": 5, "format": "Case numerical", "src": "MTP-S25-S1 FM Q2(a) Majestic Ltd — leverages and an expansion plan"},
-  {"id": "MTP-S25-S2-FQ2b", "codes": ["F06.15"], "marks": 5, "format": "Case numerical", "src": "MTP-S25-S2 FM Q2(b) calculate DOL, DFL and DCL"}
+  {
+   "id": "PYQ-J25-Q1b",
+   "codes": [
+    "F06.15",
+    "F06.07",
+    "F06.11"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-J25 Q1(b) EXIM Ltd — EPS, operating, financial and combined leverage"
+  },
+  {
+   "id": "PYQ-M24-Q1b",
+   "codes": [
+    "F06.07",
+    "F06.11"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-M24 Q1(b) Alpha Limited — decrease in EPS, degree of operating and financial leverage"
+  },
+  {
+   "id": "PYQ-M25-Q1c",
+   "codes": [
+    "F06.15"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-M25 Q1(c) A Ltd — profit volume ratio, operating leverage and financial leverage"
+  },
+  {
+   "id": "PYQ-M25-Q4c-OR",
+   "codes": [
+    "F06.16"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "SA-M25 Q4(c) OR total risk as the combination of operating and financial risk"
+  },
+  {
+   "id": "PYQ-S24-Q1a",
+   "codes": [
+    "F06.15",
+    "F06.09"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-S24 Q1(a) N Limited and C Limited — contribution, margin of safety and sales from combined and financial leverage"
+  },
+  {
+   "id": "PYQ-S25-Q2a",
+   "codes": [
+    "F06.07",
+    "F06.11"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-S25 Q2(a) M/s KRY Limited — EBIT, fixed cost, bank loan, EPS and MPS from operating leverage"
+  },
+  {
+   "id": "PYQ-M26-Q1a",
+   "codes": [
+    "F06.07"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "SA-M26 Q1(a) A Ltd — a 5% increase in sales raising operating profit by ₹9,000"
+  },
+  {
+   "id": "PYQ-J26-Q3b",
+   "codes": [
+    "F06.13"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "SA-J26 Q3(b) in what ways financial leverage operates as a double edged sword"
+  },
+  {
+   "id": "RTP-J26-FQ4",
+   "codes": [
+    "F06.11"
+   ],
+   "marks": null,
+   "format": "MCQ",
+   "src": "RTP-J26 FM Q4 degree of financial leverage of 5/4 — the interest implied"
+  },
+  {
+   "id": "RTP-J26-FQ8",
+   "codes": [
+    "F06.15"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-J26 FM Q8 Pinaca Pvt. Ltd — leverages from the balance sheet and income statement (ICAI label: Leverage)"
+  },
+  {
+   "id": "RTP-M24-FQ4",
+   "codes": [
+    "F06.15"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-M24 FM Q4 Company A and Company B — prepare income statements from the leverages (ICAI label: Leverage)"
+  },
+  {
+   "id": "RTP-M26-FQ7",
+   "codes": [
+    "F06.16"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-M26 FM Q7 ABC Manufacturing Limited (ICAI label: Leverage Analysis)"
+  },
+  {
+   "id": "RTP-S24-FQ3",
+   "codes": [
+    "F06.11"
+   ],
+   "marks": null,
+   "format": "MCQ",
+   "src": "RTP-S24 FM Q3 sales ₹75,00,000, variable cost ₹42,00,000, fixed cost ₹6,00,000 — is the financial leverage favourable (ICAI label: Leverage)"
+  },
+  {
+   "id": "RTP-S24-FQ8",
+   "codes": [
+    "F06.15"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-S24 FM Q8 PC Ltd under Situations 1, 2 and 3 and Financial Plans A and B (ICAI label: Leverage)"
+  },
+  {
+   "id": "RTP-S25-FQ2",
+   "codes": [
+    "F06.11"
+   ],
+   "marks": null,
+   "format": "MCQ",
+   "src": "RTP-S25 FM Q2 a growing company's financial leverage (ICAI label: Ratio Analysis and Leverages)"
+  },
+  {
+   "id": "RTP-S26-FQ5",
+   "codes": [
+    "F06.15"
+   ],
+   "marks": null,
+   "format": "Case numerical",
+   "src": "RTP-S26 FM Q5 Anirban Ltd (ICAI label: Leverage)"
+  },
+  {
+   "id": "MTP-J25-S1-FQ1a",
+   "codes": [
+    "F06.15"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-J25-S1 FM Q1(a) ABC Industries — combined leverage and the impact of a 10% sales increase"
+  },
+  {
+   "id": "MTP-J25-S2-FQ1c",
+   "codes": [
+    "F06.15"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-J25-S2 FM Q1(c) Beta Limited — sales, variable expenses and contribution"
+  },
+  {
+   "id": "MTP-J26-S1-FQ2b",
+   "codes": [
+    "F06.16"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-J26-S1 FM Q2(b) differentiate between business risk and financial risk"
+  },
+  {
+   "id": "MTP-J26-S2-FQ3a",
+   "codes": [
+    "F06.07",
+    "F06.08"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-J26-S2 FM Q3(a) ShirtCo — 10,000 shirts, cost and revenue structure"
+  },
+  {
+   "id": "MTP-M24-S1-FQ4c-OR",
+   "codes": [
+    "F06.12"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-M24-S1 FM Q4(c) OR financial leverage as trading on equity"
+  },
+  {
+   "id": "MTP-M24-S2-FQ2a",
+   "codes": [
+    "F06.15"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-M24-S2 FM Q2(a) companies P and Q — prepare income statements from the leverages"
+  },
+  {
+   "id": "MTP-M25-S1-FQ1b",
+   "codes": [
+    "F06.09",
+    "F06.11"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-M25-S1 FM Q1(b) Punyakalash Limited — margin of safety 0.40 and financial leverage 1.50"
+  },
+  {
+   "id": "MTP-M25-S1-FQ1c",
+   "codes": [
+    "F06.11",
+    "F06.07"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-M25-S1 FM Q1(c) financial leverage 4 and P/V ratio 40%"
+  },
+  {
+   "id": "MTP-M25-S1-FQ4c",
+   "codes": [
+    "F06.13"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-M25-S1 FM Q4(c) the double edged sword in financial leverage analysis"
+  },
+  {
+   "id": "MTP-M25-S2-FQ1c",
+   "codes": [
+    "F06.15"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-M25-S2 FM Q1(c) operating, financial and combined leverage under two situations"
+  },
+  {
+   "id": "MTP-M26-S1-FQ2b",
+   "codes": [
+    "F06.15"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-M26-S1 FM Q2(b) PQR Ltd — sales ₹1,50,00,000, variable cost ₹84,00,000, fixed cost ₹12,00,000"
+  },
+  {
+   "id": "MTP-M26-S1-FQ4c",
+   "codes": [
+    "F06.16"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-M26-S1 FM Q4(c) a company analysing its risk profile using combined leverage"
+  },
+  {
+   "id": "MTP-S24-S1-FQ1c",
+   "codes": [
+    "F06.15"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-S24-S1 FM Q1(c) X Ltd — prepare the income statement from the leverages"
+  },
+  {
+   "id": "MTP-S24-S1-FQ4c",
+   "codes": [
+    "F06.07"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-S24-S1 FM Q4(c) what is the range of the degree of operating leverage"
+  },
+  {
+   "id": "MTP-S24-S2-FQ4c-OR",
+   "codes": [
+    "F06.13"
+   ],
+   "marks": 2,
+   "format": "Descriptive",
+   "src": "MTP-S24-S2 FM Q4(c) OR financial leverage as a double edged sword"
+  },
+  {
+   "id": "MTP-S25-S1-FQ2a",
+   "codes": [
+    "F06.15"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-S25-S1 FM Q2(a) Majestic Ltd — leverages and an expansion plan"
+  },
+  {
+   "id": "MTP-S25-S2-FQ2a",
+   "codes": [
+    "F06.15"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-S25-S2 FM Q2(a) ABC Engineering Ltd — DOL 1.67, DFL 1.11 and DCL 1.85 at 75% capacity, then 1.57, 1.12 and 1.76 at 90% with 13% debentures added; EPS rises from 5.67 to 7.19"
+  },
+  {
+   "id": "MTP-S26-S2-FQ2b",
+   "codes": [
+    "F06.14",
+    "F06.15"
+   ],
+   "marks": 6,
+   "format": "Case numerical",
+   "src": "MTP-S26-S2 FM Q2(b) Sunrise Foods Limited — EPS 27.42, DOL 1.20, DFL 1.06 and DCL 1.28 derived from the balance sheet and a total assets turnover of 3, with a comment on what each result means"
+  }
  ]
 }

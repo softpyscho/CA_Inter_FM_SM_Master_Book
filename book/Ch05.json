@@ -8,7 +8,7 @@
   "module": "Paper 6A Financial Management · Module 1",
   "attempt": "January 2027",
   "sm_edition": "ICAI BoS Study Material, Paper 6A (relevant for May 2026 examination onwards), Module 1, Chapter 5",
-  "last_verified": "18-09-2026",
+  "last_verified": "04-10-2026",
   "status_summary": "SM headings 19/19 · official atoms 34/34"
  },
  "sections_before": [
@@ -614,7 +614,7 @@
      "Compute Ko for every option in a single table and pick the minimum",
      "State that the lowest WACC is also the highest value"
     ],
-    "official_pattern": "MTP-M24-S1-FQ4c; MTP-M25-S1-FQ4c-OR; MTP-S25-S2-FQ4b.",
+    "official_pattern": "MTP-M24-S1-FQ4c; MTP-M25-S1-FQ4c-OR; MTP-S25-S2-FQ3b.",
     "time_tip": "5 marks ≈ 9 minutes; 2 marks ≈ 3 minutes (study guidance)."
    },
    "write": {
@@ -1216,7 +1216,8 @@
       "RTP-M26-FQ6 (two companies belonging to the same risk class)",
       "RTP-J26-FQ7 (J Ltd — buyback funded by 15% perpetual debt, MM with taxes)",
       "MTP-S26-S1-FQ1a (valuation of a levered and an unlevered firm)",
-      "MTP-J26-S1-FQ3a (Vastupal Limited — a levered company converting 70% of its debt to equity)"
+      "MTP-J26-S1-FQ3a (Vastupal Limited — a levered company converting 70% of its debt to equity)",
+      "MTP-S25-S1-FQ3b (A Ltd. and B Ltd. in the same risk class, with an expected net operating income of ₹19,00,000 each, A Ltd. carrying ₹57,00,000 of 12% debt and B Ltd. none, B Ltd.'s equity capitalisation rate 19% — the same problem asked twice over, once with no tax and once at 40%. **With no tax:** Vu = 19,00,000 ÷ 0.19 = ₹1,00,00,000, and VL = Vu because debt adds nothing, so both firms are worth ₹1,00,00,000; A Ltd.'s equity is ₹43,00,000, its net income to equity ₹12,16,000, so its Ke rises to 28.28% while its WACC stays at 19%. **At 40% tax:** Vu = 19,00,000 × 0.6 ÷ 0.19 = ₹60,00,000, and VL = Vu + Dt = 60,00,000 + 57,00,000 × 0.4 = ₹82,80,000; A Ltd.'s equity is ₹25,80,000, its earnings for equity ₹7,29,600, Ke again 28.28%, and its WACC falls to 13.77% against B Ltd.'s 19%. The pair is the cleanest illustration in the bank of what the tax shield does: with no tax, leverage moves Ke but not WACC or value; with tax, it raises value by exactly Dt and lowers WACC.)"
      ]
     }
    ],
@@ -1974,6 +1975,32 @@
     "Trading on equity = using fixed-charge capital alongside equity; it cuts both ways.",
     "Stable or growing sales support debt; volatile sales do not.",
     "The manager weights the principles and compromises; no one of them decides."
+   ],
+   "official_questions": [
+    {
+     "id": "MTP-S25-S2-FQ4c",
+     "marks": 2,
+     "status": "VERIFIED",
+     "format": "Case-based descriptive",
+     "question": "A company is currently debt-free and is considering raising ₹10 crore. As a finance manager, WHAT practical factors would you evaluate before deciding whether to raise funds through debt, equity, or a mix of both? JUSTIFY your approach briefly.",
+     "answer_points": [
+      "==**Cost.** Debt is the cheaper source, because interest is **deductible for tax** and lenders accept a lower return for a prior claim; equity is the costliest. A debt-free company is therefore leaving a tax shield unused, which is the first thing to price.==",
+      "==**Risk.** Debt brings a **fixed obligation** that must be met in a bad year as well as a good one. The question to ask is how stable this company's EBIT is: stable earnings can carry debt, volatile earnings cannot, and a debt-free company has no existing cover to fall back on.==",
+      "==**Control.** An equity issue **dilutes** the existing shareholders' holding and their voting power; debt does not. Where the promoters' control matters, that consideration can outweigh the cost advantage of equity.==",
+      "==**Flexibility and future capacity.** Raising the whole ₹10 crore as debt now consumes the company's borrowing capacity and leaves nothing in reserve. Preserving some unused capacity is itself worth paying for, because the next opportunity may arrive when equity is not available on good terms.==",
+      "**Return on capital employed against the cost of debt.** Debt works for the shareholders only while the return on capital employed **exceeds** the interest rate — §4.2's trading-on-equity condition. If the ₹10 crore will earn less than the rate the lenders want, debt destroys shareholder value however cheap it looks.",
+      "**Capital market conditions and the company's own standing.** The rate lenders will quote depends on the company's credit standing; the price an equity issue will fetch depends on the state of the market. A debt-free company usually borrows on finer terms than a leveraged one, which argues for using some of that advantage now.",
+      "**The remaining factors in ICAI's §3.2 list.** The nature and size of the firm; the stability of its sales and cash flows; the asset structure, since tangible assets support secured borrowing; the growth rate; the attitude of the management and of the lenders; and the requirements of the regulator and of any existing covenant.",
+      "==**The justification to close with.** None of these factors decides on its own, and ICAI's own position is that the capital structure decision is a **compromise** between them. For a debt-free company, a **mix** is normally the right answer: it captures part of the tax shield and the lower cost, keeps dilution limited, and leaves borrowing capacity in reserve — with the exact proportion set by how stable the company's EBIT is and how far its return on capital employed sits above the cost of debt.=="
+     ],
+     "conclusion": "The factors to evaluate are cost, risk, control, flexibility and future borrowing capacity, the return on capital employed against the cost of debt, and the company's own credit standing and market conditions, alongside ICAI's §3.2 list. For a debt-free company a mix is usually right — it takes some of the tax shield without surrendering control or exhausting capacity — and the proportions should be set by the stability of EBIT and the margin between return on capital employed and the interest rate.",
+     "marks_split": "2 marks for any four factors stated with the reason each matters, with credit for the compromise conclusion.",
+     "mistake": "Listing the factors without relating any of them to the fact that the company is currently **debt-free**. That fact changes two of the answers — the whole tax shield is unused, and the whole borrowing capacity is intact — and a 2-mark answer that does not use it is a generic answer.",
+     "topics": [
+      "FM Ch 5 §3.2 Factors Affecting Capital Structure",
+      "FM Ch 5 §3 Factors Determining Capital Structure"
+     ]
+    }
    ]
   },
   {
@@ -2050,7 +2077,7 @@
     "approach": [
      "Define the optimum, then list the three analyses in the study material's order"
     ],
-    "official_pattern": "MTP-M24-S1-FQ4c; MTP-M25-S1-FQ4c-OR; MTP-S25-S2-FQ4b; MTP-J26-S2-FQ1b.",
+    "official_pattern": "MTP-M24-S1-FQ4c; MTP-M25-S1-FQ4c-OR; MTP-S25-S2-FQ3b; MTP-J26-S2-FQ1b.",
     "time_tip": "2 marks ≈ 3 minutes (study guidance)."
    },
    "write": {
@@ -2090,7 +2117,7 @@
      ],
      "also_asked_as": [
       "MTP-M25-S1-FQ4c-OR (discuss optimal capital structure and how to analyse it)",
-      "MTP-S25-S2-FQ4b (briefly explain the process for analysing optimal capital structure)"
+      "MTP-S25-S2-FQ3b (briefly explain the process for analysing optimal capital structure)"
      ]
     },
     {
@@ -2290,7 +2317,7 @@
      "Parallel columns, one per plan, from EBIT down to EPS",
      "Convert to MPS, then recommend in a single sentence with a reason"
     ],
-    "official_pattern": "PYQ-S24-Q3b; PYQ-S25-Q3a; RTP-J25-FQ6; RTP-M25-FQ6; RTP-S25-FQ6; RTP-S25-FQ7; MTP-J26-S1-FQ3b; MTP-M24-S2-FQ2b; MTP-S24-S2-FQ1a; MTP-S24-S2-FQ4c; MTP-S26-S2-FQ3a.",
+    "official_pattern": "PYQ-S24-Q3b; PYQ-S25-Q3a; RTP-J25-FQ6; RTP-M25-FQ6; RTP-S25-FQ6; RTP-S25-FQ7; MTP-J26-S1-FQ3b; MTP-M24-S2-FQ2b; MTP-S24-S2-FQ1a; MTP-S24-S2-FQ4c; MTP-S26-S2-FQ3a; MTP-S25-S2-FQ2b.",
     "time_tip": "5 to 6 marks ≈ 9 to 11 minutes (study guidance)."
    },
    "write": {
@@ -2380,6 +2407,31 @@
       "RTP-M25-FQ6 (Namra Limited)",
       "RTP-S25-FQ6 (ABC Ltd raising ₹50,00,000)",
       "RTP-S25-FQ7 (X Limited and Y Limited — best option on EPS and WACC)"
+     ]
+    },
+    {
+     "id": "MTP-S25-S2-FQ2b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Excellent Automation Ltd. reports profit before interest and tax of ₹78,00,000, interest on debentures at 12% of ₹18,00,000, profit before tax ₹60,00,000, income tax at 50% of ₹30,00,000 and profit after tax of ₹30,00,000, on 12,00,000 equity shares of ₹10 each — an EPS of ₹2.50, a PE ratio of 10 and a market price of ₹25. Retained earnings are ₹1.8 crore. The company plans a new project needing a capital outlay of ₹60,00,000. A debt ratio D ÷ (D + E) higher than 35% pushes Ke up to 12.5%, reduces the PE ratio to 8 and raises the interest rate on the additional borrowing to 14%. FIND OUT the probable price of the share if (i) the additional funds are raised as a loan, and (ii) the amount is raised by issuing equity shares.",
+     "answer_points": [
+      "==**First, the missing input.** The EBIT after the extension is **not given**, so ICAI's own answer states the assumption: **the existing return on capital employed will be maintained**. Say so before you compute anything — the mark is for recognising that the figure has to be derived.==",
+      "==**Existing capital employed.** Debt ₹1,50,00,000 (because ₹18,00,000 of interest at 12% implies that principal) + equity share capital ₹1,20,00,000 + retained earnings ₹1,80,00,000 = **₹4,50,00,000**.==",
+      "==**Existing return on capital employed.** ₹78,00,000 ÷ ₹4,50,00,000 = **17.33%**.==",
+      "==**Proposed EBIT.** (₹4,50,00,000 + ₹60,00,000) × 17.33% = **₹88,38,300**. The same EBIT applies under both options, because the project is the same project however it is funded.==",
+      "==**Test the 35% trigger under each option.** *Loan option:* debt becomes ₹1,50,00,000 + ₹60,00,000 = ₹2,10,00,000 against equity of ₹3,00,00,000, so D ÷ (D + E) = 2.1 ÷ 5.1 = **41.18%** — **above 35%**, so the PE ratio falls to **8** and the new borrowing costs **14%**. *Equity option:* debt stays at ₹1,50,00,000 while equity rises to ₹3,60,00,000, so the ratio is 1.5 ÷ 5.1 = **29.41%** — **below 35%**, so the PE ratio stays at **10**.==",
+      "**Shares issued under the equity option.** At the current market price of ₹25, ₹60,00,000 ÷ ₹25 = **2,40,000 new shares**, taking the total to 14,40,000.",
+      "==**Option I — the 14% loan.** PBIT ₹88,38,300; less old interest ₹18,00,000; less new interest 14% × ₹60,00,000 = ₹8,40,000; PBT ₹61,98,300; tax at 50% ₹30,99,150; earnings for equity ₹30,99,150; ÷ 12,00,000 shares = **EPS ₹2.58**; × PE of 8 = **MPS ₹20.64**.==",
+      "==**Option II — equity.** PBIT ₹88,38,300; less interest ₹18,00,000; PBT ₹70,38,300; tax ₹35,19,150; earnings for equity ₹35,19,150; ÷ 14,40,000 shares = **EPS ₹2.44**; × PE of 10 = **MPS ₹24.40**.==",
+      "==**Read the result carefully, because it is counter-intuitive.** The loan option gives the **higher EPS** (₹2.58 against ₹2.44) and the **lower share price** (₹20.64 against ₹24.40). The debt raises earnings per share and simultaneously raises the risk the market perceives, and the fall in the PE multiple from 10 to 8 more than cancels the gain in EPS. This is the whole lesson of §5.1: **EPS maximisation and market-price maximisation are not the same objective.**=="
+     ],
+     "conclusion": "Probable price per share: ₹20.64 under the loan option and ₹24.40 under the equity option. The equity option should be chosen. Although the loan gives the higher EPS, crossing the 35% debt ratio cuts the PE multiple from 10 to 8, and the loss of multiple outweighs the gain in earnings — the market prices the added financial risk at more than the extra earnings are worth.",
+     "marks_split": "1 mark for stating the ROCE assumption and deriving the proposed EBIT, 1 mark for testing the 35% trigger under each option, 1 mark for each option's EPS, 1 mark for the two market prices and the recommendation.",
+     "mistake": "Applying the PE ratio of 10 to both options, which makes the loan option look better and reverses the answer. The whole question is built on the PE ratio changing when the debt ratio crosses 35%. The second error is computing the debt ratio as D ÷ E rather than D ÷ (D + E) — the question defines it explicitly, and on the wrong base the loan option reads 70% and the equity option 41.7%, which does not change this answer but will change others.",
+     "topics": [
+      "FM Ch 5 §5 EBIT-EPS-MPS Analysis",
+      "FM Ch 5 §5.1 Relationship between EBIT-EPS-MPS"
      ]
     }
    ],

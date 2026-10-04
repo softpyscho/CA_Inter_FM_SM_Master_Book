@@ -146,7 +146,10 @@
       "surplus",
       "depreciation allowance"
      ],
-     "examiner": "No examiners' comments have been published for Paper 6."
+     "examiner": "No examiners' comments have been published for Paper 6.",
+     "also_asked_as": [
+      "MTP-S25-S2-FQ4c-OR (a company owning a commercial building and facing a cash crunch, offered a sale and leaseback by its CFO — the practical benefits and risks. The benefits are the immediate release of the capital locked in the building without losing its use, the conversion of an illiquid asset into cash at a time when cash is what the company lacks, and lease rentals that are deductible in full. The risks are the permanent loss of ownership and of any future appreciation in the property, a rental stream that becomes a fixed obligation for the whole lease term and so raises the company's financial risk, the possibility that the sale price obtainable in a distress situation is below the asset's worth, and the loss of the asset as security for future borrowing. ICAI's own framing of §6.2 is that in a sale and leaseback the owner sells the asset to the leasing company and takes it back on lease, so the company continues to use the asset it no longer owns.)"
+     ]
     },
     {
      "id": "MTP-M25-S2-FQ4a",
@@ -932,7 +935,7 @@
      "Name each instrument in bold and give the SM's two defining lines",
      "For ESG, always show the project-based versus target-based split"
     ],
-    "official_pattern": "PYQ-J25-Q4a; MTP-S24-S1-FQ4b; MTP-M24-S2-FQ4c-OR; RTP-J26-FQ11a; PYQ-M24-Q4c-OR; MTP-S25-S2-FQ4b.",
+    "official_pattern": "PYQ-J25-Q4a; MTP-S24-S1-FQ4b; MTP-M24-S2-FQ4c-OR; RTP-J26-FQ11a; PYQ-M24-Q4c-OR; MTP-S25-S2-FQ4b; RTP-S26-FQ10b; MTP-M24-S2-FQ3b.",
     "time_tip": "4 marks ≈ 7 minutes; 2 marks ≈ 3 minutes (study guidance)."
    },
    "write": {
@@ -1068,6 +1071,30 @@
       "broader concept",
       "unsecured loans through online platform",
       "risk of defaults"
+     ]
+    },
+    {
+     "id": "RTP-S26-FQ10b",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Case-based descriptive",
+     "question": "Global Infra Ltd., an Indian infrastructure company, plans to raise funds from international markets for its expansion project. The Finance Director is evaluating various foreign bond options. EXPLAIN the various foreign bonds available to Global Infra Ltd. and their key features.",
+     "answer_points": [
+      "==**Start by separating the two families, because the whole answer turns on it.** A **foreign bond** is issued in a particular country's domestic market, in that country's currency, by a non-resident borrower. A **euro bond** is denominated in a currency other than that of the country in which it is issued. Global Infra Ltd. can use either, and they carry different risks.==",
+      "==**Foreign bonds.** Debt instruments issued by foreign corporations or foreign governments in a host country's market and currency. They are exposed to **default risk**, and they are denominated in the currency of the country in which they are issued — so for Global Infra Ltd., the exchange risk stays with the company.==",
+      "==**Euro bonds.** Debt instruments **not denominated in the currency of the country in which they are issued** — ICAI's own example is a yen note floated in Germany. They are generally issued in **bearer** form rather than as registered bonds, so they do not contain the investor's name or country of origin, which makes them attractive to investors seeking privacy.==",
+      "**The named varieties, which are the marks in this question.** A foreign bond issued in the United States in US dollars is a **Yankee bond**; in Japan in yen, a **Samurai bond**; in the United Kingdom in sterling, a **Bulldog bond**. A rupee-denominated bond issued **outside** India is a **masala bond** — note carefully that it is rupee-denominated, so the **exchange risk sits with the investor, not with Global Infra Ltd.**, which is precisely why an Indian infrastructure borrower would want one.",
+      "**Euro convertible bonds and related instruments.** A **euro convertible bond** carries an option to convert into equity at a stated price; a **euro convertible zero bond** is structured as a convertible with no interest; **euro bonds with warrants** attach a detachable warrant to buy equity later. Each lowers the coupon the company pays in exchange for a possible dilution.",
+      "==**How Global Infra Ltd. should choose.** Three questions decide it: **who bears the exchange risk** (the company on a Yankee, Samurai or Bulldog; the investor on a masala bond); **what coupon the market will demand**, which falls as conversion or warrant rights are attached; and **what the host market's regulatory and disclosure burden is**, which is heaviest in the United States. For a rupee-earning infrastructure company with no natural dollar revenue, the masala bond removes the mismatch that would otherwise sit on its balance sheet.=="
+     ],
+     "conclusion": "Global Infra Ltd. can raise money through foreign bonds (Yankee, Samurai, Bulldog — each in the host country's currency, leaving the exchange risk with the company), through euro bonds (denominated in a currency other than that of the country of issue, usually in bearer form), or through masala bonds (rupee-denominated but issued overseas, so the exchange risk passes to the investor). For an infrastructure company whose revenue is in rupees, the masala bond is the structure that does not create a currency mismatch.",
+     "marks_split": "1 mark for the foreign-bond versus euro-bond distinction, 2 marks for the named varieties with their currencies and markets, 1 mark for the convertible and warrant forms, 1 mark for relating the choice to the company's facts.",
+     "mistake": "Saying the 'euro' in euro bond refers to the euro currency. A euro bond is simply denominated in a currency other than that of the country of issue. The second is describing masala bonds as foreign-currency bonds — they are rupee-denominated, and that is their entire point.",
+     "topics": [
+      "FM Ch 2 §9 International Financing"
+     ],
+     "also_asked_as": [
+      "MTP-M24-S2-FQ3b (NAME the various financial instruments dealt with in the international market — the same ground asked as a bare 2-mark list: American Depository Receipts, Global Depository Receipts, foreign bonds, euro bonds, euro convertible bonds, euro convertible zero bonds, euro bonds with warrants, foreign currency convertible bonds, external commercial borrowings and masala bonds. Where the stem says NAME, a list earns the marks; where it says EXPLAIN, each name needs its one distinguishing feature.)"
      ]
     }
    ],

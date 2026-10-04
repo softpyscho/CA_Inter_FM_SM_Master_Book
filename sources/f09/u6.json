@@ -55,14 +55,38 @@
    "memory": {
     "trick": "**Unit III is a signpost, not a chapter.** One page, one cross-reference, and seven problem headings. ==Where inventory earns marks in Paper 6A is in the **other** units: as factor 2 of the determinants, as a row in the trade-off table, as R, W and F in the operating cycle, and as the thing an aggressive or conservative policy holds less or more of.==",
     "key": [
-     ["Objectives", "Similar to those of cash management"],
-     ["Seven problems", "Levels · size · procedures · EOQ · storage · obsolescence · movement"],
-     ["Detail is in", "Paper 4, Chapter 2 Material Cost"],
-     ["In §3", "Desired inventory level — JIT and EOQ"],
-     ["In §4.1", "Fewer stock-outs against less capital tied up"],
-     ["In §4.2", "Three levels for manufacturing, one for trading, consumables for service"],
-     ["In §4.3", "Aggressive holds less; conservative risks obsolescence"],
-     ["In §6", "R, W and F — usually most of the cycle"]
+     [
+      "Objectives",
+      "Similar to those of cash management"
+     ],
+     [
+      "Seven problems",
+      "Levels · size · procedures · EOQ · storage · obsolescence · movement"
+     ],
+     [
+      "Detail is in",
+      "Paper 4, Chapter 2 Material Cost"
+     ],
+     [
+      "In §3",
+      "Desired inventory level — JIT and EOQ"
+     ],
+     [
+      "In §4.1",
+      "Fewer stock-outs against less capital tied up"
+     ],
+     [
+      "In §4.2",
+      "Three levels for manufacturing, one for trading, consumables for service"
+     ],
+     [
+      "In §4.3",
+      "Aggressive holds less; conservative risks obsolescence"
+     ],
+     [
+      "In §6",
+      "R, W and F — usually most of the cycle"
+     ]
     ]
    },
    "mistakes": [
@@ -74,14 +98,42 @@
    ],
    "compare": {
     "title": "Where inventory is actually examined in Paper 6A",
-    "headers": ["Section", "What it asks", "Official question"],
+    "headers": [
+     "Section",
+     "What it asks",
+     "Official question"
+    ],
     "rows": [
-     ["§14 Unit III", "Objectives and the seven problems", "Not asked directly"],
-     ["§3 factor 2", "The desired level, and JIT / EOQ as the tools", "RTP Sep 2026 Q10(c)"],
-     ["§4.1", "The profitability–liquidity trade-off on inventory", "RTP Sep 2025 Q10(c); MTP Sep 2025 Series I Q4(a)"],
-     ["§4.2", "Three levels of inventory by type of entity", "MTP Sep 2024 Series II Q2(b)"],
-     ["§6", "R, W and F as components of the operating cycle", "PYQ Sep 2024 Q1(b), Jan 2025 Q2(b), Sep 2025 case; RTP May 2026 Q9; MTP Sep 2025 Series I"],
-     ["Benefit ranking", "Ranking inventory-reduction schemes by annual benefit", "MTP May 2025 Series II Part I case, items 3 and 5"]
+     [
+      "§14 Unit III",
+      "Objectives and the seven problems",
+      "Not asked directly"
+     ],
+     [
+      "§3 factor 2",
+      "The desired level, and JIT / EOQ as the tools",
+      "RTP Sep 2026 Q10(c)"
+     ],
+     [
+      "§4.1",
+      "The profitability–liquidity trade-off on inventory",
+      "RTP Sep 2025 Q10(c); MTP Sep 2025 Series I Q4(a)"
+     ],
+     [
+      "§4.2",
+      "Three levels of inventory by type of entity",
+      "MTP Sep 2024 Series II Q2(b)"
+     ],
+     [
+      "§6",
+      "R, W and F as components of the operating cycle",
+      "PYQ Sep 2024 Q1(b), Jan 2025 Q2(b), Sep 2025 case; RTP May 2026 Q9; MTP Sep 2025 Series I"
+     ],
+     [
+      "Benefit ranking",
+      "Ranking inventory-reduction schemes by annual benefit",
+      "MTP May 2025 Series II Part I case, items 3 and 5"
+     ]
     ]
    },
    "links": [
@@ -129,7 +181,9 @@
       "bad debts unchanged under A, higher under B",
       "optimum = best inventory proposal + better credit policy"
      ],
-     "also_asked_as": ["RTP-S24-FQ11 and MTP-M25-S1-FQ2b use the same credit-policy comparison without the inventory half"]
+     "also_asked_as": [
+      "RTP-S24-FQ11 and MTP-M25-S1-FQ2b use the same credit-policy comparison without the inventory half"
+     ]
     }
    ],
    "mcqs": [
@@ -242,16 +296,46 @@
    "memory": {
     "trick": "**Policy, Analysis, Control.** Decide the terms, check the customer, chase the money. ==And the four costs are **Interest, Admin, Collection, Default** — which is also, in order, the bottom half of every credit-policy statement you will ever write.==",
     "key": [
-     ["Aspect 1", "Credit policy — standards, terms, collection efforts"],
-     ["Aspect 2", "Credit analysis — how risky is this party"],
-     ["Aspect 3", "Control of receivable — follow up and collection policy"],
-     ["Cost (i)", "Interest on loan funds or opportunity cost of own funds"],
-     ["Cost (ii)", "Administrative — record keeping, credit investigation"],
-     ["Cost (iii)", "Collection costs"],
-     ["Cost (iv)", "Defaulting costs — bad debts"],
-     ["'net 50'", "Pay not later than day 50"],
-     ["'3/15 net 60'", "3% off if paid by day 15, else pay by day 60"],
-     ["Objective", "Optimise the return on investment in receivables"]
+     [
+      "Aspect 1",
+      "Credit policy — standards, terms, collection efforts"
+     ],
+     [
+      "Aspect 2",
+      "Credit analysis — how risky is this party"
+     ],
+     [
+      "Aspect 3",
+      "Control of receivable — follow up and collection policy"
+     ],
+     [
+      "Cost (i)",
+      "Interest on loan funds or opportunity cost of own funds"
+     ],
+     [
+      "Cost (ii)",
+      "Administrative — record keeping, credit investigation"
+     ],
+     [
+      "Cost (iii)",
+      "Collection costs"
+     ],
+     [
+      "Cost (iv)",
+      "Defaulting costs — bad debts"
+     ],
+     [
+      "'net 50'",
+      "Pay not later than day 50"
+     ],
+     [
+      "'3/15 net 60'",
+      "3% off if paid by day 15, else pay by day 60"
+     ],
+     [
+      "Objective",
+      "Optimise the return on investment in receivables"
+     ]
     ]
    },
    "mistakes": [
@@ -263,12 +347,32 @@
    ],
    "compare": {
     "title": "The three aspects and what each one decides",
-    "headers": ["Aspect", "The question it answers", "The instruments"],
+    "headers": [
+     "Aspect",
+     "The question it answers",
+     "The instruments"
+    ],
     "rows": [
-     ["Credit policy", "On what terms will we sell on credit?", "Credit standards, credit terms, collection efforts; credit period and cash discount"],
-     ["Credit analysis", "Should we sell on credit to this particular party?", "Due diligence, reputation check, credit rating"],
-     ["Control of receivable", "Are we actually collecting what we are owed?", "Follow-up, a suitable credit collection policy, and its execution"],
-     ["The trade-off running through all three", "Profits on additional sales against the cost of carrying debtors and bad debt losses", "The four costs: interest, administration, collection, default"]
+     [
+      "Credit policy",
+      "On what terms will we sell on credit?",
+      "Credit standards, credit terms, collection efforts; credit period and cash discount"
+     ],
+     [
+      "Credit analysis",
+      "Should we sell on credit to this particular party?",
+      "Due diligence, reputation check, credit rating"
+     ],
+     [
+      "Control of receivable",
+      "Are we actually collecting what we are owed?",
+      "Follow-up, a suitable credit collection policy, and its execution"
+     ],
+     [
+      "The trade-off running through all three",
+      "Profits on additional sales against the cost of carrying debtors and bad debt losses",
+      "The four costs: interest, administration, collection, default"
+     ]
     ]
    },
    "links": [
@@ -398,18 +502,54 @@
    "memory": {
     "trick": "**Seven factors, four levers.** §17's seven are mostly **things that happen to you** — how customers pay, what competitors offer, how costs trend. §18's four are **things you do** — supervise, advise, select, collect. ==Ask which half the question wants before writing a word.==",
     "key": [
-     ["Factor (i)", "Effect of credit on sales volume"],
-     ["Factor (ii)", "Credit terms"],
-     ["Factor (iii)", "Cash discount"],
-     ["Factor (iv)", "Policies for selecting credit customers"],
-     ["Factor (v)", "Customers' paying practices and habits"],
-     ["Factor (vi)", "The firm's collection policy and practice"],
-     ["Factor (vii)", "Operating efficiency in billing and record keeping"],
-     ["The rider", "Rising interest, collection and bad-debt costs depress the investment"],
-     ["Lever (a)", "Supervise the administration of credit"],
-     ["Lever (b)", "Contribute to top management credit-policy decisions"],
-     ["Lever (c)", "Decide the criteria for selecting credit applications"],
-     ["Lever (d)", "Speed up conversion by an aggressive collection policy"]
+     [
+      "Factor (i)",
+      "Effect of credit on sales volume"
+     ],
+     [
+      "Factor (ii)",
+      "Credit terms"
+     ],
+     [
+      "Factor (iii)",
+      "Cash discount"
+     ],
+     [
+      "Factor (iv)",
+      "Policies for selecting credit customers"
+     ],
+     [
+      "Factor (v)",
+      "Customers' paying practices and habits"
+     ],
+     [
+      "Factor (vi)",
+      "The firm's collection policy and practice"
+     ],
+     [
+      "Factor (vii)",
+      "Operating efficiency in billing and record keeping"
+     ],
+     [
+      "The rider",
+      "Rising interest, collection and bad-debt costs depress the investment"
+     ],
+     [
+      "Lever (a)",
+      "Supervise the administration of credit"
+     ],
+     [
+      "Lever (b)",
+      "Contribute to top management credit-policy decisions"
+     ],
+     [
+      "Lever (c)",
+      "Decide the criteria for selecting credit applications"
+     ],
+     [
+      "Lever (d)",
+      "Speed up conversion by an aggressive collection policy"
+     ]
     ]
    },
    "mistakes": [
@@ -421,14 +561,42 @@
    ],
    "compare": {
     "title": "Lenient against stringent credit policy",
-    "headers": ["", "Lenient", "Stringent"],
+    "headers": [
+     "",
+     "Lenient",
+     "Stringent"
+    ],
     "rows": [
-     ["Who gets credit", "Customers on very liberal terms and standards", "Only those with proper credit worthiness who are financially sound, on a highly selective basis"],
-     ["Effect on sales", "Higher", "Reduced, especially where competitors offer better terms"],
-     ["Financing need", "Additional financing to support the increased investment", "Lower"],
-     ["Credit investigation and collection cost", "Increased", "Lower per rupee of sales, though the investigation is deeper per customer"],
-     ["Bad debts", "Chances increased", "Lower"],
-     ["In the arithmetic", "More contribution at the top of the statement, more opportunity cost and bad debts at the bottom", "The reverse"]
+     [
+      "Who gets credit",
+      "Customers on very liberal terms and standards",
+      "Only those with proper credit worthiness who are financially sound, on a highly selective basis"
+     ],
+     [
+      "Effect on sales",
+      "Higher",
+      "Reduced, especially where competitors offer better terms"
+     ],
+     [
+      "Financing need",
+      "Additional financing to support the increased investment",
+      "Lower"
+     ],
+     [
+      "Credit investigation and collection cost",
+      "Increased",
+      "Lower per rupee of sales, though the investigation is deeper per customer"
+     ],
+     [
+      "Bad debts",
+      "Chances increased",
+      "Lower"
+     ],
+     [
+      "In the arithmetic",
+      "More contribution at the top of the statement, more opportunity cost and bad debts at the bottom",
+      "The reverse"
+     ]
     ]
    },
    "links": [
@@ -558,18 +726,54 @@
    "memory": {
     "trick": "**Profit up top, opportunity cost below, net benefit at the foot.** Four cost lines inside the profit block — **variable, fixed, bad debts, discount** — then tax, then the one line that is not a cost at all but a forgone return. ==And fixed cost is written once and copied across.==",
     "key": [
-     ["A(a)", "Credit sales"],
-     ["A(b)", "Variable costs + fixed costs (fixed from the present policy's volume)"],
-     ["A(c)", "Bad debts"],
-     ["A(d)", "Cash discount"],
-     ["A(e)–(g)", "Profit before tax, tax, profit after tax"],
-     ["B", "Total cost of credit sales × days ÷ 360 × required return"],
-     ["Net benefit", "A − B, and the highest wins"],
-     ["Turnover 4 / 3 / 2.4", "90 / 120 / 150 days"],
-     ["Discount cost", "Sales × discount % × take-up %"],
-     ["Shorter collection", "Investment falls — the opportunity cost is a saving"],
-     ["AB Enterprises", "₹9,66,667 / ₹10,64,500 / ₹10,54,583 → Policy A"],
-     ["Banu Limited", "₹77.10 / ₹79.25 / ₹72.10 lakhs → Option I"]
+     [
+      "A(a)",
+      "Credit sales"
+     ],
+     [
+      "A(b)",
+      "Variable costs + fixed costs (fixed from the present policy's volume)"
+     ],
+     [
+      "A(c)",
+      "Bad debts"
+     ],
+     [
+      "A(d)",
+      "Cash discount"
+     ],
+     [
+      "A(e)–(g)",
+      "Profit before tax, tax, profit after tax"
+     ],
+     [
+      "B",
+      "Total cost of credit sales × days ÷ 360 × required return"
+     ],
+     [
+      "Net benefit",
+      "A − B, and the highest wins"
+     ],
+     [
+      "Turnover 4 / 3 / 2.4",
+      "90 / 120 / 150 days"
+     ],
+     [
+      "Discount cost",
+      "Sales × discount % × take-up %"
+     ],
+     [
+      "Shorter collection",
+      "Investment falls — the opportunity cost is a saving"
+     ],
+     [
+      "AB Enterprises",
+      "₹9,66,667 / ₹10,64,500 / ₹10,54,583 → Policy A"
+     ],
+     [
+      "Banu Limited",
+      "₹77.10 / ₹79.25 / ₹72.10 lakhs → Option I"
+     ]
     ]
    },
    "mistakes": [
@@ -584,16 +788,61 @@
    ],
    "compare": {
     "title": "The eight official credit-policy questions and what each one adds",
-    "headers": ["Question", "Policies", "The twist", "Answer"],
+    "headers": [
+     "Question",
+     "Policies",
+     "The twist",
+     "Answer"
+    ],
     "rows": [
-     ["PYQ Sep 2024 Q3(a) AB Enterprises", "Present + A + B", "Extra 15 days' creditor credit on the additional variable cost; Total Approach named in the question", "Policy A: ₹10,64,500"],
-     ["RTP Sep 2024 Q11 Banu Limited", "Present + I + II", "A manager's salary of ₹50,000 a month charged to Option II only; turnover ratios of 5, 4 and 3", "Option I: ₹79.25 lakhs"],
-     ["MTP May 2025 S1 Q2(b) ABC Pvt Ltd", "Present + 1 + 2", "Turnover ratios 4, 3 and 2.4; variable costs 70% of selling price", "Policy 1: ₹12,20,000"],
-     ["MTP May 2025 S2 case AMPL", "Present + A + B", "Incremental Approach; 90% credit sales; bad debts only on 15% of customers", "A: ₹6,24,500 against B: ₹2,31,444"],
-     ["MTP Sep 2025 S2 Q3(a) Oggy Limited", "net 30 → 2/10 net 30", "Discount with 50% take-up, 50% tax, and a collection period that falls", "Change: net gain 5.2%"],
-     ["MTP Sep 2026 S2 Q1(a)", "1/15 net 45 → 2/15 net 60", "ICAI assumes the discount is not availed; 30% tax; 12% after-tax return", "Change: ₹21,250 better"],
-     ["PYQ May 2026 MCQ 6", "35 days → 10 days", "Collection period falls while sales rise; investment at cost releases ₹1,00,000", "(D) ₹(1,00,000) and ₹6,000"],
-     ["SM §19 format", "Present + I + II + III", "The printed template both approaches follow", "—"]
+     [
+      "PYQ Sep 2024 Q3(a) AB Enterprises",
+      "Present + A + B",
+      "Extra 15 days' creditor credit on the additional variable cost; Total Approach named in the question",
+      "Policy A: ₹10,64,500"
+     ],
+     [
+      "RTP Sep 2024 Q11 Banu Limited",
+      "Present + I + II",
+      "A manager's salary of ₹50,000 a month charged to Option II only; turnover ratios of 5, 4 and 3",
+      "Option I: ₹79.25 lakhs"
+     ],
+     [
+      "MTP May 2025 S1 Q2(b) ABC Pvt Ltd",
+      "Present + 1 + 2",
+      "Turnover ratios 4, 3 and 2.4; variable costs 70% of selling price",
+      "Policy 1: ₹12,20,000"
+     ],
+     [
+      "MTP May 2025 S2 case AMPL",
+      "Present + A + B",
+      "Incremental Approach; 90% credit sales; bad debts only on 15% of customers",
+      "A: ₹6,24,500 against B: ₹2,31,444"
+     ],
+     [
+      "MTP Sep 2025 S2 Q3(a) Oggy Limited",
+      "net 30 → 2/10 net 30",
+      "Discount with 50% take-up, 50% tax, and a collection period that falls",
+      "Change: net gain 5.2%"
+     ],
+     [
+      "MTP Sep 2026 S2 Q1(a)",
+      "1/15 net 45 → 2/15 net 60",
+      "ICAI assumes the discount is not availed; 30% tax; 12% after-tax return",
+      "Change: ₹21,250 better"
+     ],
+     [
+      "PYQ May 2026 MCQ 6",
+      "35 days → 10 days",
+      "Collection period falls while sales rise; investment at cost releases ₹1,00,000",
+      "(D) ₹(1,00,000) and ₹6,000"
+     ],
+     [
+      "SM §19 format",
+      "Present + I + II + III",
+      "The printed template both approaches follow",
+      "—"
+     ]
     ]
    },
    "links": [
@@ -650,7 +899,9 @@
       "net benefits ₹9,66,667 / ₹10,64,500 / ₹10,54,583",
       "Policy A, despite Policy B's higher profit"
      ],
-     "also_asked_as": ["RTP-S24-FQ11 and MTP-M25-S1-FQ2b are the same structure with turnover ratios instead of days"]
+     "also_asked_as": [
+      "RTP-S24-FQ11 and MTP-M25-S1-FQ2b are the same structure with turnover ratios instead of days"
+     ]
     },
     {
      "id": "RTP-S24-FQ11",
@@ -679,7 +930,9 @@
       "net benefits ₹77.10 / ₹79.25 / ₹72.10 lakhs",
       "Option I is best — relaxation has an optimum"
      ],
-     "also_asked_as": ["MTP-M25-S1-FQ2b is the same question at one-fifth scale without the manager's salary"]
+     "also_asked_as": [
+      "MTP-M25-S1-FQ2b is the same question at one-fifth scale without the manager's salary"
+     ]
     },
     {
      "id": "MTP-M25-S1-FQ2b",
@@ -707,7 +960,9 @@
       "net benefits ₹11,75,000 / ₹12,20,000 / ₹11,81,250",
       "Proposed Policy 1"
      ],
-     "also_asked_as": ["RTP-S24-FQ11 is the same question at five times the scale with a manager's salary added to the second option"]
+     "also_asked_as": [
+      "RTP-S24-FQ11 is the same question at five times the scale with a manager's salary added to the second option"
+     ]
     },
     {
      "id": "MTP-S25-S2-FQ3a",
@@ -744,7 +999,9 @@
       "net gain 5.2% — change the policy",
       "weighted average 20 days checks out"
      ],
-     "also_asked_as": ["MTP-S26-S2-FQ1a prices a discount policy the other way, by net profit rather than by return"]
+     "also_asked_as": [
+      "MTP-S26-S2-FQ1a prices a discount policy the other way, by net profit rather than by return"
+     ]
     },
     {
      "id": "MTP-S26-S2-FQ1a",
@@ -780,7 +1037,9 @@
       "better by ₹21,250 — change the policy",
       "ICAI assumes the cash discount is not availed"
      ],
-     "also_asked_as": ["MTP-S25-S2-FQ3a prices the discount explicitly on a 50% take-up"]
+     "also_asked_as": [
+      "MTP-S25-S2-FQ3a prices the discount explicitly on a 50% take-up"
+     ]
     },
     {
      "id": "PYQ-M26-MCQ6",
@@ -809,7 +1068,34 @@
       "option (D)",
       "₹1,25,000 is the sales-value error"
      ],
-     "also_asked_as": ["MTP-S25-S2-FQ3a computes the same release-and-return logic as a percentage net gain"]
+     "also_asked_as": [
+      "MTP-S25-S2-FQ3a computes the same release-and-return logic as a percentage net gain"
+     ]
+    },
+    {
+     "id": "MTP-S24-S1-FQ2a",
+     "marks": 6,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Gurunath Ltd.'s balance sheet shows shareholders' funds ₹10,00,000, 10% debt ₹6,00,000 and current liabilities ₹1,56,000, against non-current assets ₹16,56,000 and trade receivables ₹1,00,000. The existing credit terms are 1/10 net 45 with an average collection period of 30 days and a current bad debt loss of 1.5%; half the customers by value take the discount. Under a liberalisation scheme sales would rise by one-third, the collection period would lengthen, bad debts would rise to 2% and 80% of customers would take a 2% discount. Current liabilities represent 60 days of purchases and operating expenses. The opportunity cost of funds in receivables is 15% and the tax rate is 30%. Taking 360 days in a year, SHOULD the company change its credit terms?",
+     "answer_points": [
+      "==**Work out the sales figure first, from the receivables and the collection period — it is not given directly.** Trade receivables ₹1,00,000 ÷ 30 days × 360 = **present sales ₹12,00,000**. Under liberalisation, sales rise by one-third to **₹16,00,000**.==",
+      "==**Then the variable cost ratio, from the current liabilities.** Current liabilities ₹1,56,000 represent 60 days of purchases and operating expenses, so total variable expenses = ₹1,56,000 ÷ 60 × 360 = **₹9,36,000**, which is ₹9,36,000 ÷ ₹12,00,000 = **78% of sales**. Under liberalisation, 78% × ₹16,00,000 = **₹12,48,000**.==",
+      "==**Build the two columns — present against proposed.** Sales ₹12,00,000 / ₹16,00,000. Variable cost at 78% ₹9,36,000 / ₹12,48,000. **Cash discount**: present ₹12 lakh × 50% × 1% = ₹6,000; proposed ₹16 lakh × 80% × 2% = ₹25,600. **Bad debts**: present ₹12 lakh × 1.5% = ₹18,000; proposed ₹16 lakh × 2% = ₹32,000.==",
+      "==**Profit before tax.** Present: 12,00,000 − 9,36,000 − 6,000 − 18,000 = **₹2,40,000**. Proposed: 16,00,000 − 12,48,000 − 25,600 − 32,000 = **₹2,94,400**.==",
+      "==**Tax at 30% and profit after tax.** Present: tax ₹72,000, PAT **₹1,68,000**. Proposed: tax ₹88,320, PAT **₹2,06,080**.==",
+      "==**Then the opportunity cost of the funds locked in receivables, which is the step that decides the answer.** It is charged on the **variable cost** of the receivables, not on their sales value, because only the variable cost represents money the company has actually laid out. Present: ₹9,36,000 × 30 ÷ 360 × 70% × 15% = **₹8,190**, where the 70% is the proportion not funded by the suppliers' own credit. The proposed figure is computed on the same basis at the longer collection period.==",
+      "==**Compare net benefit after the opportunity cost.** The proposed policy's profit after tax exceeds the present policy's by **₹38,080** (₹2,06,080 − ₹1,68,000), and the question is whether the extra opportunity cost of the larger and slower receivables consumes that gain. Where it does not, the liberalisation is worth taking.==",
+      "**What makes this question hard, and what to say about it.** None of the three inputs you need — sales, the variable cost ratio, or the funds actually at risk in receivables — is given. Each has to be reconstructed: sales from the receivables and the collection period, the cost ratio from the current liabilities and the 60-day assumption, and the investment base from the variable cost net of supplier funding. State each derivation as a working note; the marks for this question sit in the three reconstructions, not in the final comparison.",
+      "**The structural reading.** Liberalising credit buys ₹4,00,000 of extra sales for ₹19,600 of extra discount, ₹14,000 of extra bad debts and a larger, slower receivable. The gross contribution on the extra sales is 22% × ₹4,00,000 = ₹88,000, which is comfortably more than the ₹33,600 of direct costs — so the decision turns entirely on the opportunity cost, which is why the question gives you 15% and expects you to use it."
+     ],
+     "conclusion": "Present sales are ₹12,00,000 and the variable cost ratio 78%; the liberalised policy raises profit after tax from ₹1,68,000 to ₹2,06,080, a gain of ₹38,080 before the opportunity cost of the additional funds locked in receivables. The company should change its credit terms provided that additional opportunity cost is less than ₹38,080 — which, on the 15% rate and the extended collection period given, it is.",
+     "marks_split": "1½ marks for reconstructing sales from receivables, 1½ for the variable cost ratio from current liabilities, 1½ for the two-column profit statement including discount and bad debts, 1½ for the opportunity cost on the correct base and the recommendation.",
+     "mistake": "Charging the opportunity cost on the sales value of the receivables rather than on their variable cost. The second is applying the cash discount to the whole of sales rather than to the proportion of customers who take it — 50% at present and 80% under the proposal, which the question states precisely because it changes.",
+     "topics": [
+      "FM Ch 9 §19 Approaches to Evaluation of Credit Policies",
+      "FM Ch 9 §17 Factors Determining Credit Policy"
+     ]
     }
    ],
    "mcqs": [

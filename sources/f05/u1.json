@@ -284,7 +284,7 @@
    "face_in_exam": {
     "forms": ["Determine the optimal capital structure from a table of Kd, Ke and debt ratios", "Compute the value of the firm and Ko under the traditional approach", "2-mark theory: what is optimum capital structure"],
     "approach": ["Compute Ko for every option in a single table and pick the minimum", "State that the lowest WACC is also the highest value"],
-    "official_pattern": "MTP-M24-S1-FQ4c; MTP-M25-S1-FQ4c-OR; MTP-S25-S2-FQ4b.",
+    "official_pattern": "MTP-M24-S1-FQ4c; MTP-M25-S1-FQ4c-OR; MTP-S25-S2-FQ3b.",
     "time_tip": "5 marks ≈ 9 minutes; 2 marks ≈ 3 minutes (study guidance)."
    },
    "write": {

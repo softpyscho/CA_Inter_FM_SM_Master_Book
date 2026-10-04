@@ -63,14 +63,38 @@
    "memory": {
     "trick": "**Constant fixes the rupee; stable fixes the ratio.** And Lintner closes a fraction of the gap between last year's rupee and the target ratio's rupee.",
     "key": [
-     ["Two questions", "A stable pattern, or each decision independent?"],
-     ["Mature company", "High payout, price-sensitive, small retention"],
-     ["Growth company", "Low payout, retain and give bonus shares"],
-     ["Four constraints", "Legal · liquidity · access to the capital market · investment opportunities"],
-     ["Constant dividend policy", "Fixed amount; Dividend Equalisation Reserve Fund"],
-     ["Stable dividend policy", "Fixed payout ratio; amount varies with earnings"],
-     ["Lintner's two parameters", "Target payout ratio · the spread (speed) of adjustment"],
-     ["Lintner formula", "D₁ = D₀ + [(EPS × Target payout) − D₀] × Af"]
+     [
+      "Two questions",
+      "A stable pattern, or each decision independent?"
+     ],
+     [
+      "Mature company",
+      "High payout, price-sensitive, small retention"
+     ],
+     [
+      "Growth company",
+      "Low payout, retain and give bonus shares"
+     ],
+     [
+      "Four constraints",
+      "Legal · liquidity · access to the capital market · investment opportunities"
+     ],
+     [
+      "Constant dividend policy",
+      "Fixed amount; Dividend Equalisation Reserve Fund"
+     ],
+     [
+      "Stable dividend policy",
+      "Fixed payout ratio; amount varies with earnings"
+     ],
+     [
+      "Lintner's two parameters",
+      "Target payout ratio · the spread (speed) of adjustment"
+     ],
+     [
+      "Lintner formula",
+      "D₁ = D₀ + [(EPS × Target payout) − D₀] × Af"
+     ]
     ],
     "recall_trigger": "Constant fixes the rupee; stable fixes the ratio"
    },
@@ -88,11 +112,31 @@
      "Stable dividend policy"
     ],
     "rows": [
-     ["What is fixed", "The amount or rate of dividend", "The payout ratio"],
-     ["Behaviour in a bad year", "The same amount is paid, drawing on the Dividend Equalisation Reserve Fund", "The dividend falls with earnings; no dividend where there is a loss"],
-     ["Who prefers it", "Persons and institutions depending on dividend income for living and operating expenses", "Companies wanting internal financing to adjust automatically"],
-     ["Treatment of shareholders", "Treats common shareholders at par with preference shareholders", "Keeps dividend related to the company's ability to pay"],
-     ["Short-term behaviour", "Dividend fluctuates with earnings in the short term", "A conservative approach that guarantees against over- or under-payment"]
+     [
+      "What is fixed",
+      "The amount or rate of dividend",
+      "The payout ratio"
+     ],
+     [
+      "Behaviour in a bad year",
+      "The same amount is paid, drawing on the Dividend Equalisation Reserve Fund",
+      "The dividend falls with earnings; no dividend where there is a loss"
+     ],
+     [
+      "Who prefers it",
+      "Persons and institutions depending on dividend income for living and operating expenses",
+      "Companies wanting internal financing to adjust automatically"
+     ],
+     [
+      "Treatment of shareholders",
+      "Treats common shareholders at par with preference shareholders",
+      "Keeps dividend related to the company's ability to pay"
+     ],
+     [
+      "Short-term behaviour",
+      "Dividend fluctuates with earnings in the short term",
+      "A conservative approach that guarantees against over- or under-payment"
+     ]
     ]
    },
    "links": [
@@ -248,15 +292,42 @@
    "memory": {
     "trick": "**Cash out of one pocket into another.** Pay from reserves, pay from a new issue, or pay nothing and let the shareholder sell — all three leave the shareholder with the same wealth, so dividend policy cannot matter.",
     "key": [
-     ["MM's claim", "Value depends solely on earning power, not on the dividend split"],
-     ["Five assumptions", "Perfect markets · no taxes · fixed investment policy · no floatation cost · no uncertainty"],
-     ["Price relation", "P₁ = P₀(1 + Ke) − D₁"],
-     ["Value of firm", "nP₀ = [(n + Δn)P₁ − I + E] ÷ (1 + Ke)"],
-     ["New shares", "Δn = [I − (E − nD₁)] ÷ P₁"],
-     ["Situation 1", "Dividend from reserves — a transfer between pockets"],
-     ["Situation 2", "Dividend from a new issue — cash offset by dilution"],
-     ["Situation 3", "No dividend — the shareholder makes a home-made dividend"],
-     ["SM Example 2", "Dev Ltd: ₹22,00,000 either way, with 75,000 new shares if the dividend is paid"]
+     [
+      "MM's claim",
+      "Value depends solely on earning power, not on the dividend split"
+     ],
+     [
+      "Five assumptions",
+      "Perfect markets · no taxes · fixed investment policy · no floatation cost · no uncertainty"
+     ],
+     [
+      "Price relation",
+      "P₁ = P₀(1 + Ke) − D₁"
+     ],
+     [
+      "Value of firm",
+      "nP₀ = [(n + Δn)P₁ − I + E] ÷ (1 + Ke)"
+     ],
+     [
+      "New shares",
+      "Δn = [I − (E − nD₁)] ÷ P₁"
+     ],
+     [
+      "Situation 1",
+      "Dividend from reserves — a transfer between pockets"
+     ],
+     [
+      "Situation 2",
+      "Dividend from a new issue — cash offset by dilution"
+     ],
+     [
+      "Situation 3",
+      "No dividend — the shareholder makes a home-made dividend"
+     ],
+     [
+      "SM Example 2",
+      "Dev Ltd: ₹22,00,000 either way, with 75,000 new shares if the dividend is paid"
+     ]
     ],
     "recall_trigger": "One pocket to another pocket"
    },
@@ -276,9 +347,24 @@
      "Effect on value"
     ],
     "rows": [
-     ["Dividend paid from Reserve & Surplus", "Cash dividend", "The firm's cash balance falls — a transfer from one pocket to another", "None"],
-     ["Dividend paid from a new issue of shares", "Cash dividend", "Capital loss from dilution of control over the assets and dilution in EPS", "None"],
-     ["No dividend paid", "Cash from selling part of the holding — a home-made dividend", "Capital loss from dilution of control among existing and new shareholders", "None"]
+     [
+      "Dividend paid from Reserve & Surplus",
+      "Cash dividend",
+      "The firm's cash balance falls — a transfer from one pocket to another",
+      "None"
+     ],
+     [
+      "Dividend paid from a new issue of shares",
+      "Cash dividend",
+      "Capital loss from dilution of control over the assets and dilution in EPS",
+      "None"
+     ],
+     [
+      "No dividend paid",
+      "Cash from selling part of the holding — a home-made dividend",
+      "Capital loss from dilution of control among existing and new shareholders",
+      "None"
+     ]
     ]
    },
    "links": [
@@ -615,15 +701,42 @@
    "memory": {
     "trick": "**Walter asks one question: can the company beat what shareholders want?** If r > Ke, keep the money (payout zero). If r < Ke, hand it all back (payout 100%). If r = Ke, it makes no difference.",
     "key": [
-     ["Walter", "P = [D + (r ÷ Ke)(E − D)] ÷ Ke"],
-     ["EPS first", "Net profit − preference dividend ÷ number of equity shares"],
-     ["P/E given", "Ke = 1 ÷ (P/E)"],
-     ["r > Ke", "Growth · negative correlation · optimum payout zero"],
-     ["r = Ke", "Constant · no correlation · every payout optimum"],
-     ["r < Ke", "Decline · positive correlation · optimum payout 100%"],
-     ["SM Illustration 2", "₹120 at zero payout falling to ₹100 at 100% payout"],
-     ["SM Illustration 3", "D = ₹3.12 on EPS ₹6 to hold the price at ₹42 — payout 52%"],
-     ["Unique assumptions", "Retained earnings only · perpetual life"]
+     [
+      "Walter",
+      "P = [D + (r ÷ Ke)(E − D)] ÷ Ke"
+     ],
+     [
+      "EPS first",
+      "Net profit − preference dividend ÷ number of equity shares"
+     ],
+     [
+      "P/E given",
+      "Ke = 1 ÷ (P/E)"
+     ],
+     [
+      "r > Ke",
+      "Growth · negative correlation · optimum payout zero"
+     ],
+     [
+      "r = Ke",
+      "Constant · no correlation · every payout optimum"
+     ],
+     [
+      "r < Ke",
+      "Decline · positive correlation · optimum payout 100%"
+     ],
+     [
+      "SM Illustration 2",
+      "₹120 at zero payout falling to ₹100 at 100% payout"
+     ],
+     [
+      "SM Illustration 3",
+      "D = ₹3.12 on EPS ₹6 to hold the price at ₹42 — payout 52%"
+     ],
+     [
+      "Unique assumptions",
+      "Retained earnings only · perpetual life"
+     ]
     ],
     "recall_trigger": "Can the company beat what shareholders want?"
    },
@@ -642,11 +755,31 @@
      "Price under Walter"
     ],
     "rows": [
-     ["0%", "₹0", "**₹120**"],
-     ["25%", "₹2.50", "₹115"],
-     ["50%", "₹5.00", "₹110"],
-     ["75%", "₹7.50", "₹105"],
-     ["100%", "₹10.00", "₹100"]
+     [
+      "0%",
+      "₹0",
+      "**₹120**"
+     ],
+     [
+      "25%",
+      "₹2.50",
+      "₹115"
+     ],
+     [
+      "50%",
+      "₹5.00",
+      "₹110"
+     ],
+     [
+      "75%",
+      "₹7.50",
+      "₹105"
+     ],
+     [
+      "100%",
+      "₹10.00",
+      "₹100"
+     ]
     ]
    },
    "links": [
@@ -661,13 +794,13 @@
      "Compute the dividend, payout ratio or retention ratio implied by a given price (reverse working, 2–3 marks)",
      "Analyse whether the policy is optimal and find the P/E at which dividend policy has no effect (4–5 marks)",
      "State the limitations of Walter's Model (2 marks)"
-     ],
+    ],
     "approach": [
      "Write EPS as a labelled working, then Ke (from the P/E if given), then r",
      "Substitute into the formula with every symbol defined, then compare r with Ke in a sentence",
      "For a reverse working, put D as the unknown and solve the single linear equation"
     ],
-    "official_pattern": "PYQ-J25-Q1c; PYQ-M25-Q2b; PYQ-M26-Q3a; RTP-J25-FQ8; RTP-J26-FQ10; MTP-J26-S1-FQ4c; MTP-M25-S2-FQ2a; MTP-M26-S1-FMCQ7; MTP-S25-S1-FQ1a; MTP-S25-S2-FQ1a; MTP-S26-S2-FQ1b.",
+    "official_pattern": "PYQ-J25-Q1c; PYQ-M25-Q2b; PYQ-M26-Q3a; RTP-J25-FQ8; RTP-J26-FQ10; MTP-J26-S1-FQ4c; MTP-M25-S2-FQ2a; MTP-M26-S1-FMCQ7; MTP-S25-S1-FQ1a; MTP-S25-S2-FQ1a; MTP-S26-S2-FQ1b; MTP-M24-S1-FQ1a.",
     "time_tip": "2 marks ≈ 3.5 minutes; a 5-mark Walter question with a reverse working ≈ 9 minutes (study guidance)."
    },
    "official_questions": [
@@ -928,6 +1061,30 @@
       "ignores taxation",
       "legal and contractual obligations",
       "constant r and Ke"
+     ]
+    },
+    {
+     "id": "MTP-M24-S1-FQ1a",
+     "marks": 5,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "The following figures have been extracted from the annual report of Xee Ltd.: net profit ₹54 lakh; outstanding 12% preference shares ₹200 lakh; number of equity shares 2 lakh; return on investment 22%; cost of capital (Ke) 15%. COMPUTE the approximate dividend payout ratio so as to keep the share price at ₹120, using Walter's model. (Decimals may be taken up to 2 units.)",
+     "answer_points": [
+      "==**This is Walter's model run backwards.** The usual question gives the payout and asks for the price; this one gives the price and asks for the payout. Nothing changes except which symbol is the unknown — but you must get the earnings per share right first, and that is where the preference shares come in.==",
+      "==**Earnings per share.** Net profit ₹54 lakh **less preference dividend** of 12% × ₹200 lakh = ₹24 lakh, leaving ₹30 lakh for the equity shareholders. ÷ 2 lakh shares = **EPS ₹15**.==",
+      "==**Write Walter's formula with D as the unknown.** P = [D + (r ÷ Ke)(E − D)] ÷ Ke, so 120 = [D + (0.22 ÷ 0.15)(15 − D)] ÷ 0.15.==",
+      "==**Multiply through by Ke.** 120 × 0.15 = **18** = D + 1.4667 (15 − D).==",
+      "==**Expand and collect.** 18 = D + 22 − 1.4667 D, so 18 = 22 − 0.4667 D, so 0.4667 D = 4 and **D = ₹8.57**.==",
+      "==**Dividend payout ratio** = DPS ÷ EPS × 100 = 8.57 ÷ 15 × 100 = **57.13%**.==",
+      "**The check that confirms the answer, and is worth writing.** Put D = 8.57 back in: [8.57 + 1.4667 (15 − 8.57)] ÷ 0.15 = (8.57 + 9.43) ÷ 0.15 = 18 ÷ 0.15 = **₹120**. ✓",
+      "==**Why ₹120 needs a payout of only 57% here.** r (22%) exceeds Ke (15%), so Xee Ltd. is a **growth firm** and Walter's model says value rises as the payout falls. At a nil payout the price would be (0.22 ÷ 0.15 × 15) ÷ 0.15 = **₹146.67**, and at a 100% payout it would be 15 ÷ 0.15 = **₹100**. The target of ₹120 sits between the two, so the payout that achieves it sits between 0% and 100% — nearer the top because the price target is nearer ₹100.==",
+      "**The sanity test to apply before you start.** Compute the price at 0% and at 100% payout first. If the target price lies outside that range, no payout ratio can produce it and the question has no solution — which is itself an answer worth stating."
+     ],
+     "conclusion": "The required dividend payout ratio is 57.13%, being a dividend of ₹8.57 on an EPS of ₹15. Because r (22%) exceeds Ke (15%), the share is worth ₹146.67 at a nil payout and ₹100 at a full payout, and ₹120 is reached at a payout of about 57%.",
+     "marks_split": "1½ marks for the EPS after deducting the preference dividend, 1 mark for setting up the formula with D as the unknown, 1½ marks for solving it, 1 mark for the payout ratio with a verification.",
+     "mistake": "Dividing the whole ₹54 lakh by 2 lakh shares and working from an EPS of ₹27. The preference dividend of ₹24 lakh is not available to the equity shareholders, and on an EPS of ₹27 the arithmetic gives a payout above 100%, which should itself be the signal that the earnings figure is wrong.",
+     "topics": [
+      "FM Ch 8 §8.2 Dividend's Relevance Theory (Walter's model)"
      ]
     }
    ],

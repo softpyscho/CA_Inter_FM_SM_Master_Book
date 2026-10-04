@@ -1759,7 +1759,7 @@
     "approach": [
      "Name the approach, state its assumption, then substitute"
     ],
-    "official_pattern": "PYQ-S25-Q1a; MTP-M24-S1-FQ3b; MTP-S26-S1-FQ1b.",
+    "official_pattern": "PYQ-S25-Q1a; MTP-M24-S1-FQ3b; MTP-S26-S1-FQ1b; RTP-J25-FQ11b.",
     "time_tip": "2 marks ≈ 3 minutes (study guidance)."
    },
    "official_questions": [
@@ -1802,6 +1802,28 @@
       "weighted average"
      ],
      "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "RTP-J25-FQ11b",
+     "marks": null,
+     "status": "VERIFIED",
+     "format": "Descriptive",
+     "question": "EXPLAIN any four methods for computation of cost of equity capital.",
+     "answer_points": [
+      "==**Why a method is needed at all.** Equity carries no contractual rate, so its cost has to be **inferred from what shareholders expect**. ICAI's §7 gives several routes, and each infers that expectation from a different observable.==",
+      "==**1. Dividend price approach (§7.1).** Ke = D1 ÷ P0. The cost of equity is the dividend expected at the end of the year divided by the current market price. It assumes the dividend stays constant and that the market price reflects the expected return.==",
+      "==**2. Dividend price plus growth approach (§7.2).** Ke = (D1 ÷ P0) + g. Where dividends are expected to grow at a constant rate, the shareholder's return is the dividend yield **plus** that growth. This is the form used in most examination questions, because the growth rate is usually supplied or derivable from the retention ratio as g = b × r.==",
+      "==**3. Earnings price approach (§7.3).** Ke = EPS ÷ Net proceeds (or market price). It treats the whole of the earnings, distributed or not, as the shareholder's return. It is appropriate where the payout is stable or where the entire earnings are expected to accrue to the shareholder, and it is the approach a question signals by giving you EPS rather than a dividend.==",
+      "==**4. Realised yield approach (§7.4).** Ke is taken as the **actual return realised by shareholders in the past** — dividends received plus the capital appreciation — on the assumption that past realised yields are a reasonable estimate of future expectations. It needs the further assumptions that there is no significant change in the firm's risk and that shareholders reinvest at the same rate.==",
+      "**5. Capital asset pricing model approach (§7.5), if a fifth is wanted.** Ke = Rf + β (Rm − Rf). It builds the cost from a risk-free rate plus a premium scaled by the share's **systematic** risk, and is the only one of the five that prices risk explicitly rather than reading it out of a price.",
+      "**The distinguishing sentence to add.** The first four infer the expected return from **prices and payments already observable in the market**; CAPM derives it from **risk**. That is why CAPM can value an unlisted or non-dividend-paying share, which the dividend approaches cannot."
+     ],
+     "conclusion": "The four methods are the dividend price approach, the dividend price plus growth approach, the earnings price approach and the realised yield approach, with CAPM as the fifth. Each infers the shareholders' expected return from a different observable — the dividend, the dividend and its growth, the earnings, the past realised yield, or the share's systematic risk.",
+     "marks_split": "1 mark for each method named with its formula and the assumption it rests on.",
+     "mistake": "Giving the four methods as four different formulae without the assumption behind each. ICAI's marks here attach to the assumption — constant dividend, constant growth, whole earnings accruing, past yields representing future expectations — because that is what tells a candidate which method a question's data is pointing at.",
+     "topics": [
+      "FM Ch 4 §7 Cost of Equity Share Capital (Ke)"
+     ]
     }
    ],
    "expected_questions": [
@@ -2281,7 +2303,7 @@
     "approach": [
      "Write the formula, identify Rf, β and (Rm − Rf) separately, then substitute"
     ],
-    "official_pattern": "PYQ-S24-Q2a; PYQ-J25-Q2a; PYQ-J26-MCQ1; RTP-M26-FQ5; MTP-S26-S2-FQ2a.",
+    "official_pattern": "PYQ-S24-Q2a; PYQ-J25-Q2a; PYQ-J26-MCQ1; RTP-M26-FQ5; MTP-S26-S2-FQ2a; MTP-M26-S1-FQ1b.",
     "time_tip": "A 1-mark CAPM line ≈ 1 to 2 minutes (study guidance)."
    },
    "write": {
@@ -2366,6 +2388,29 @@
       "market risk premium",
       "linear relationship",
       "non-diversifiable risk"
+     ]
+    },
+    {
+     "id": "MTP-M26-S1-FQ1b",
+     "marks": 5,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Mr. Raman, a portfolio manager, is analysing a set of securities using the capital asset pricing model. A Ltd. has a beta of 1.2 and a CAPM return of 15.20%; B Ltd. has a beta of 0.8 and a CAPM return of 12.80%; C Ltd. has a beta of 1.1 and an unknown return; cash in hand, a treasury bill and the stock market (Nifty) have unknown betas and returns. (i) Complete the table with all the missing values. (ii) CAPM explains the relationship between systematic risk and expected return on a security. DISCUSS the nature of the relationship between beta and expected return under CAPM.",
+     "answer_points": [
+      "==**Set up two equations from the two complete rows.** A Ltd.: 15.20 = Rf + 1.2 (Rm − Rf). B Ltd.: 12.80 = Rf + 0.8 (Rm − Rf).==",
+      "==**Subtract the second from the first** and the Rf terms cancel: 2.40 = 0.4 (Rm − Rf), so the **market risk premium (Rm − Rf) = 6%**.==",
+      "==**Back-substitute.** Rf = 15.20 − 1.2 × 6 = 15.20 − 7.20 = **8%**, and therefore **Rm = 8 + 6 = 14%**.==",
+      "==**C Ltd.** Rs = 8% + 1.1 × 6% = **14.60%**.==",
+      "==**The three reference rows, which are the point of the question.** **Cash in hand** has a beta of **0** and a return of **nil** — it is riskless and earns nothing. The **treasury bill** has a beta of **0** and a return of **8%**, because it *is* the risk-free asset. The **stock market (Nifty)** has a beta of **1** by definition and a return of **14%**, because it is the market portfolio against which every other beta is measured.==",
+      "**The completed table.** A Ltd. β 1.2, return 15.20%; B Ltd. β 0.8, return 12.80%; C Ltd. β 1.1, return 14.60%; cash in hand β 0, return nil; treasury bill β 0, return 8.00%; Nifty β 1, return 14.00%.",
+      "==**(ii) The nature of the relationship.** It is **linear and positive**: expected return rises in direct proportion to beta, at the rate of the market risk premium, from Rf at β = 0 to Rm at β = 1 and beyond. CAPM prices **only systematic (non-diversifiable) risk**, because unsystematic risk can be removed by diversification and the market will not pay a premium for a risk an investor could have avoided for free.==",
+      "**What that means for Mr. Raman's clients.** Risk-averse investors prefer securities with a beta below 1 — here **B Ltd.** Aggressive investors choose high-beta securities for the higher potential return — here **A Ltd. or C Ltd.** Beta is therefore not a measure of a 'good' or 'bad' share but a dial that matches a security to an investor's risk appetite."
+     ],
+     "conclusion": "Rf is 8%, the market risk premium 6% and Rm 14%; C Ltd.'s CAPM return is 14.60%; cash has a beta of nil and a nil return, the treasury bill a beta of nil and 8%, and the Nifty a beta of 1 and 14%. The relationship between beta and expected return is linear and positive, and CAPM prices systematic risk alone.",
+     "marks_split": "2 marks for solving the simultaneous equations for Rf and Rm, 1 mark for C Ltd., 1 mark for the three reference rows, 1 mark for the nature of the relationship and its application to the two investor types.",
+     "mistake": "Giving the treasury bill a beta of 1 and the Nifty a beta of 0. It is the other way round: the market portfolio has a beta of exactly 1 by construction, and the risk-free asset has a beta of nil. The second error is trying to solve for Rf from one row alone — two unknowns need the two complete rows.",
+     "topics": [
+      "FM Ch 4 §7.5 Capital Asset Pricing Model (CAPM) Approach"
      ]
     }
    ],

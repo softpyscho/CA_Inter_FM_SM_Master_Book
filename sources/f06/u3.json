@@ -18,26 +18,72 @@
    ],
    "example": "A company with ₹10 lakh of equity borrows ₹10 lakh at 12% and earns 18% on the whole ₹20 lakh. The extra 6% on the borrowed half belongs entirely to the equity holders — that is trading on equity.",
    "provisions": [
-    {"ref": "Trading on equity (SM §4.2)", "status": "VERIFIED",
+    {
+     "ref": "Trading on equity (SM §4.2)",
+     "status": "VERIFIED",
      "requirement": "The use of fixed-cost funds — long-term debt and preference capital — alongside equity; favourable when earnings exceed the cost of debt, unfavourable when equal or less.",
-     "exam_angle": "A 2-mark theory part and an SM theoretical question in its own right."}
+     "exam_angle": "A 2-mark theory part and an SM theoretical question in its own right."
+    }
    ],
-   "keywords": ["funds with fixed cost", "long term debts and preference share capital", "trading on equity", "increase the earnings available to equity shareholders", "positive/favourable leverage", "negative/unfavourable leverage", "relatively high in comparison to equity capital"],
+   "keywords": [
+    "funds with fixed cost",
+    "long term debts and preference share capital",
+    "trading on equity",
+    "increase the earnings available to equity shareholders",
+    "positive/favourable leverage",
+    "negative/unfavourable leverage",
+    "relatively high in comparison to equity capital"
+   ],
    "memory": {
     "trick": "**Trading on equity = borrowing on the strength of the shareholders' money.** Favourable when what you earn beats what you pay; unfavourable the moment it does not.",
-    "key": [["What", "Using fixed-cost funds alongside equity share capital"], ["Aim", "Increase the earnings available to equity shareholders"], ["Favourable", "Earnings more than the cost of debt"], ["Unfavourable", "Earnings equal to or less than the cost of debt"], ["The phrase applies", "When fixed-cost funds are relatively high compared with equity capital"]],
+    "key": [
+     [
+      "What",
+      "Using fixed-cost funds alongside equity share capital"
+     ],
+     [
+      "Aim",
+      "Increase the earnings available to equity shareholders"
+     ],
+     [
+      "Favourable",
+      "Earnings more than the cost of debt"
+     ],
+     [
+      "Unfavourable",
+      "Earnings equal to or less than the cost of debt"
+     ],
+     [
+      "The phrase applies",
+      "When fixed-cost funds are relatively high compared with equity capital"
+     ]
+    ],
     "recall_trigger": "Borrowing on the shareholders' strength"
    },
-   "mistakes": ["Saying leverage is favourable whenever the company has debt; it depends on the comparison with the cost of that debt.", "Treating 'equal to the cost of debt' as favourable; the study material puts it with unfavourable."],
-   "links": ["🔗 FM Ch 5 §3.2: trading on equity as a capital structure principle", "🔗 FM Ch 6 §4.3: what happens when the wager loses"],
+   "mistakes": [
+    "Saying leverage is favourable whenever the company has debt; it depends on the comparison with the cost of that debt.",
+    "Treating 'equal to the cost of debt' as favourable; the study material puts it with unfavourable."
+   ],
+   "links": [
+    "🔗 FM Ch 5 §3.2: trading on equity as a capital structure principle",
+    "🔗 FM Ch 6 §4.3: what happens when the wager loses"
+   ],
    "face_in_exam": {
-    "forms": ["Explain the concept of financial leverage as trading on equity (2 marks)", "Explain the principles of trading on equity (SM theoretical question)"],
-    "approach": ["Define it, state the aim, then give the favourable and unfavourable conditions"],
+    "forms": [
+     "Explain the concept of financial leverage as trading on equity (2 marks)",
+     "Explain the principles of trading on equity (SM theoretical question)"
+    ],
+    "approach": [
+     "Define it, state the aim, then give the favourable and unfavourable conditions"
+    ],
     "official_pattern": "MTP-M24-S1-FQ4c-OR.",
     "time_tip": "2 marks ≈ 3 minutes (study guidance)."
    },
    "official_questions": [
-    {"id": "MTP-M24-S1-FQ4c-OR", "marks": 2, "status": "VERIFIED",
+    {
+     "id": "MTP-M24-S1-FQ4c-OR",
+     "marks": 2,
+     "status": "VERIFIED",
      "question": "Explain the concept of financial leverage as 'trading on equity'.",
      "answer_points": [
       "**Financial leverage indicates the use of funds with fixed cost — like long-term debts and preference share capital — along with equity share capital, which is known as trading on equity.**",
@@ -47,27 +93,64 @@
       "The leverage impact of debt is greater than that of preference share capital, because interest is allowed as a deduction in computing tax while preference dividend is not."
      ],
      "conclusion": "Two marks: definition, aim, and the favourable/unfavourable test.",
-     "keywords": ["funds with fixed cost", "trading on equity", "favourable leverage", "relatively high in comparison to equity capital"]}
+     "keywords": [
+      "funds with fixed cost",
+      "trading on equity",
+      "favourable leverage",
+      "relatively high in comparison to equity capital"
+     ]
+    }
    ],
    "mcqs": [
-    {"id": "MCQ-F06.12-01", "angle": "Condition", "difficulty": "Easy",
+    {
+     "id": "MCQ-F06.12-01",
+     "angle": "Condition",
+     "difficulty": "Easy",
      "question": "A firm has favourable financial leverage when its earnings are:",
-     "options": {"A": "More than the cost of debt", "B": "Equal to the cost of debt", "C": "Less than the cost of debt", "D": "Equal to its fixed operating cost"},
+     "options": {
+      "A": "More than the cost of debt",
+      "B": "Equal to the cost of debt",
+      "C": "Less than the cost of debt",
+      "D": "Equal to its fixed operating cost"
+     },
      "answer": "A",
      "explanation": "SM §4.2: a firm is known to have a positive or favourable leverage when its earnings are more than the cost of debt; if earnings are equal to or less than the cost of debt it will be a negative or unfavourable leverage.",
-     "why_wrong": {"B": "The study material groups 'equal to' with unfavourable.", "C": "Plainly unfavourable.", "D": "Fixed operating cost is an operating matter."},
+     "why_wrong": {
+      "B": "The study material groups 'equal to' with unfavourable.",
+      "C": "Plainly unfavourable.",
+      "D": "Fixed operating cost is an operating matter."
+     },
      "trap": "Equality is not neutral in this sentence — ICAI places it on the unfavourable side.",
-     "concept": "F06.12"},
-    {"id": "MCQ-F06.12-02", "angle": "Meaning", "difficulty": "Moderate",
+     "concept": "F06.12"
+    },
+    {
+     "id": "MCQ-F06.12-02",
+     "angle": "Meaning",
+     "difficulty": "Moderate",
      "question": "A firm is said to be 'trading on equity' when:",
-     "options": {"A": "Its shares are actively traded on a stock exchange", "B": "It buys back its own equity shares", "C": "It issues equity shares at a premium", "D": "The quantity of fixed cost fund is relatively high in comparison to equity capital"},
+     "options": {
+      "A": "Its shares are actively traded on a stock exchange",
+      "B": "It buys back its own equity shares",
+      "C": "It issues equity shares at a premium",
+      "D": "The quantity of fixed cost fund is relatively high in comparison to equity capital"
+     },
      "answer": "D",
      "explanation": "SM §4.2: when the quantity of fixed cost fund is relatively high in comparison to equity capital, it is said that the firm is trading on equity.",
-     "why_wrong": {"A": "The phrase has nothing to do with share trading.", "B": "A buyback reduces equity but is not what the phrase describes.", "C": "An equity issue is the opposite of relying on fixed-cost funds."},
+     "why_wrong": {
+      "A": "The phrase has nothing to do with share trading.",
+      "B": "A buyback reduces equity but is not what the phrase describes.",
+      "C": "An equity issue is the opposite of relying on fixed-cost funds."
+     },
      "trap": "The everyday meaning of 'trading' misleads; here it means trading upon the equity base.",
-     "concept": "F06.12"}
+     "concept": "F06.12"
+    }
    ],
-   "recap": ["Trading on equity = using fixed-cost funds alongside equity share capital.", "The aim is to raise the earnings available to equity shareholders.", "Favourable when earnings exceed the cost of debt; unfavourable when equal or less.", "The phrase applies when fixed-cost funds are high relative to equity capital."]
+   "recap": [
+    "Trading on equity = using fixed-cost funds alongside equity share capital.",
+    "The aim is to raise the earnings available to equity shareholders.",
+    "Favourable when earnings exceed the cost of debt; unfavourable when equal or less.",
+    "The phrase applies when fixed-cost funds are high relative to equity capital."
+   ]
   },
   {
    "code": "F06.13",
@@ -87,33 +170,89 @@
    ],
    "example": "Borrow at 12% and earn 18%: EPS rises, and the taxman funds part of the interest. Earn 8% on the same borrowing and EPS falls, the interest is still payable in full, and financial distress begins.",
    "provisions": [
-    {"ref": "Double edged sword (SM §4.3)", "status": "VERIFIED",
+    {
+     "ref": "Double edged sword (SM §4.3)",
+     "status": "VERIFIED",
      "requirement": "Where the cost of fixed-cost funds is below the return on investment, leverage raises return on equity and EPS, with a tax saving on interest; where it exceeds the return, EPS falls and the firm can be under financial distress.",
-     "exam_angle": "Asked as a 2-mark part in January 2026 and twice in the MTPs; the ROI-versus-interest table is the mark."}
+     "exam_angle": "Asked as a 2-mark part in January 2026 and twice in the MTPs; the ROI-versus-interest table is the mark."
+    }
    ],
-   "keywords": ["cost of fixed cost fund", "return on investment", "return on equity", "saving of tax on interest", "affect return of equity and EPS unfavourably", "financial distress", "double edged sword", "neither advantage nor disadvantage"],
+   "keywords": [
+    "cost of fixed cost fund",
+    "return on investment",
+    "return on equity",
+    "saving of tax on interest",
+    "affect return of equity and EPS unfavourably",
+    "financial distress",
+    "double edged sword",
+    "neither advantage nor disadvantage"
+   ],
    "memory": {
     "trick": "**One blade, two edges: ROI above interest cuts in your favour; ROI below it cuts back.** Equality is the flat of the blade — neither advantage nor disadvantage.",
-    "key": [["ROI > Interest", "Favourable — advantage; ROE and EPS rise, plus the tax shield"], ["ROI < Interest", "Unfavourable — disadvantage; ROE and EPS fall, distress possible"], ["ROI = Interest", "Neutral — neither advantage nor disadvantage"], ["Why 'double edged'", "The same fixed interest magnifies both good and bad years"]],
+    "key": [
+     [
+      "ROI > Interest",
+      "Favourable — advantage; ROE and EPS rise, plus the tax shield"
+     ],
+     [
+      "ROI < Interest",
+      "Unfavourable — disadvantage; ROE and EPS fall, distress possible"
+     ],
+     [
+      "ROI = Interest",
+      "Neutral — neither advantage nor disadvantage"
+     ],
+     [
+      "Why 'double edged'",
+      "The same fixed interest magnifies both good and bad years"
+     ]
+    ],
     "recall_trigger": "Two edges, one blade"
    },
-   "mistakes": ["Explaining only the upside; the phrase exists because of the downside.", "Omitting the tax saving on interest, which is part of the study material's favourable case.", "Forgetting to name financial distress as the consequence when the leverage turns against the firm."],
-   "links": ["🔗 FM Ch 1 §10: financial distress and insolvency", "🔗 FM Ch 5 §2.5: the trade-off theory, which prices this downside", "🔗 FM Ch 4 §5.1: the interest tax shield"],
+   "mistakes": [
+    "Explaining only the upside; the phrase exists because of the downside.",
+    "Omitting the tax saving on interest, which is part of the study material's favourable case.",
+    "Forgetting to name financial distress as the consequence when the leverage turns against the firm."
+   ],
+   "links": [
+    "🔗 FM Ch 1 §10: financial distress and insolvency",
+    "🔗 FM Ch 5 §2.5: the trade-off theory, which prices this downside",
+    "🔗 FM Ch 4 §5.1: the interest tax shield"
+   ],
    "face_in_exam": {
-    "forms": ["Explain in what ways financial leverage operates as a double edged sword (2 marks, Jan 2026)", "Explain the concept of double edged sword in financial leverage analysis (2 marks, MTP May 2025 Series I)"],
-    "approach": ["Give the favourable case, the unfavourable case, then the three-line ROI table"],
+    "forms": [
+     "Explain in what ways financial leverage operates as a double edged sword (2 marks, Jan 2026)",
+     "Explain the concept of double edged sword in financial leverage analysis (2 marks, MTP May 2025 Series I)"
+    ],
+    "approach": [
+     "Give the favourable case, the unfavourable case, then the three-line ROI table"
+    ],
     "official_pattern": "PYQ-J26-Q3b; MTP-M25-S1-FQ4c; MTP-S24-S2-FQ4c-OR.",
     "time_tip": "2 marks ≈ 3 minutes (study guidance)."
    },
    "write": {
-    "structure": ["The favourable case, including the tax saving", "The unfavourable case, including distress", "The three-line ROI table", "The name and why it fits"],
-    "keywords": ["return on investment", "financial distress", "double edged sword"],
+    "structure": [
+     "The favourable case, including the tax saving",
+     "The unfavourable case, including distress",
+     "The three-line ROI table",
+     "The name and why it fits"
+    ],
+    "keywords": [
+     "return on investment",
+     "financial distress",
+     "double edged sword"
+    ],
     "length": "2 marks: two sentences plus the table",
     "conclusion": "The same instrument raises and destroys EPS, which is why it carries this name.",
-    "avoid": ["Turning it into a capital structure essay"]
+    "avoid": [
+     "Turning it into a capital structure essay"
+    ]
    },
    "official_questions": [
-    {"id": "PYQ-J26-Q3b", "marks": 2, "status": "VERIFIED",
+    {
+     "id": "PYQ-J26-Q3b",
+     "marks": 2,
+     "status": "VERIFIED",
      "question": "Explain in what ways financial leverage operates as a \"double edged sword\".",
      "answer_points": [
       "**When the cost of 'fixed cost fund' is less than the return on investment, financial leverage will help to increase return on equity and EPS.** The firm will also benefit from the saving of tax on interest on debts.",
@@ -122,29 +261,69 @@
       "The reason the same instrument cuts both ways is that the interest charge is fixed: it does not fall when earnings fall, so it magnifies a decline in EBIT exactly as it magnifies a rise."
      ],
      "conclusion": "Two marks: the two cases and the three-line table. ICAI's own published answer is this length.",
-     "keywords": ["cost of fixed cost fund", "return on investment", "saving of tax on interest", "financial distress"],
+     "keywords": [
+      "cost of fixed cost fund",
+      "return on investment",
+      "saving of tax on interest",
+      "financial distress"
+     ],
      "examiner": "No examiners' comments have been published for Paper 6.",
-     "also_asked_as": ["MTP-M25-S1-FQ4c (explain the concept of double edged sword in financial leverage analysis, 2 marks)", "MTP-S24-S2-FQ4c-OR (explain financial leverage as a double edged sword, 2 marks)"]}
+     "also_asked_as": [
+      "MTP-M25-S1-FQ4c (explain the concept of double edged sword in financial leverage analysis, 2 marks)",
+      "MTP-S24-S2-FQ4c-OR (explain financial leverage as a double edged sword, 2 marks)"
+     ]
+    }
    ],
    "mcqs": [
-    {"id": "MCQ-F06.13-01", "angle": "Rule", "difficulty": "Easy",
+    {
+     "id": "MCQ-F06.13-01",
+     "angle": "Rule",
+     "difficulty": "Easy",
      "question": "As per the study material's table on the effect on EPS and return on equity, when ROI equals the interest rate the position is:",
-     "options": {"A": "Neutral — neither advantage nor disadvantage", "B": "Favourable, because the tax shield still applies", "C": "Unfavourable, because interest is still payable", "D": "Undefined"},
+     "options": {
+      "A": "Neutral — neither advantage nor disadvantage",
+      "B": "Favourable, because the tax shield still applies",
+      "C": "Unfavourable, because interest is still payable",
+      "D": "Undefined"
+     },
      "answer": "A",
      "explanation": "SM §4.3: when ROI > interest, favourable — advantage; when ROI < interest, unfavourable — disadvantage; when ROI = interest, neutral — neither advantage nor disadvantage.",
-     "why_wrong": {"B": "The table does not treat equality as favourable.", "C": "Nor as unfavourable.", "D": "The table gives a definite answer."},
+     "why_wrong": {
+      "B": "The table does not treat equality as favourable.",
+      "C": "Nor as unfavourable.",
+      "D": "The table gives a definite answer."
+     },
      "trap": "Section 4.2 groups 'equal to' with unfavourable while §4.3 calls it neutral; answer from the table the question is testing.",
-     "concept": "F06.13"},
-    {"id": "MCQ-F06.13-02", "angle": "Consequence", "difficulty": "Moderate",
+     "concept": "F06.13"
+    },
+    {
+     "id": "MCQ-F06.13-02",
+     "angle": "Consequence",
+     "difficulty": "Moderate",
      "question": "When the cost of debt exceeds the return on investment, the study material says the firm:",
-     "options": {"A": "Should issue more debt to average the cost down", "B": "Will still benefit from the tax shield on balance", "C": "Can be under financial distress", "D": "Will have a degree of financial leverage of exactly one"},
+     "options": {
+      "A": "Should issue more debt to average the cost down",
+      "B": "Will still benefit from the tax shield on balance",
+      "C": "Can be under financial distress",
+      "D": "Will have a degree of financial leverage of exactly one"
+     },
      "answer": "C",
      "explanation": "SM §4.3: when the cost of debt is more than the return it will affect return of equity and EPS unfavourably, and as a result the firm can be under financial distress.",
-     "why_wrong": {"A": "More expensive debt worsens the position.", "B": "The tax shield does not offset a negative spread.", "D": "A DFL of one means no fixed financial charge at all."},
+     "why_wrong": {
+      "A": "More expensive debt worsens the position.",
+      "B": "The tax shield does not offset a negative spread.",
+      "D": "A DFL of one means no fixed financial charge at all."
+     },
      "trap": "The tax shield is real but it only reduces the cost of interest; it cannot turn a loss-making spread into a gain.",
-     "concept": "F06.13"}
+     "concept": "F06.13"
+    }
    ],
-   "recap": ["ROI above the cost of debt: leverage raises ROE and EPS, with a tax saving on interest.", "ROI below it: EPS falls and financial distress can follow.", "ROI equal to it: neutral, neither advantage nor disadvantage.", "The fixed interest magnifies bad years as surely as good ones — hence the name."]
+   "recap": [
+    "ROI above the cost of debt: leverage raises ROE and EPS, with a tax saving on interest.",
+    "ROI below it: EPS falls and financial distress can follow.",
+    "ROI equal to it: neutral, neither advantage nor disadvantage.",
+    "The fixed interest magnifies bad years as surely as good ones — hence the name."
+   ]
   },
   {
    "code": "F06.14 + F06.15",
@@ -166,36 +345,100 @@
    ],
    "example": "A DCL of 12 means a 1% change in sales swings EPS by 12%. On a 10% fall in sales, EPS is more than wiped out — which is the number a finance director actually needs to know.",
    "provisions": [
-    {"ref": "Combined leverage (SM §5)", "status": "VERIFIED",
+    {
+     "ref": "Combined leverage (SM §5)",
+     "status": "VERIFIED",
      "requirement": "The potential use of fixed costs, both operating and financial, magnifying the effect of a sales volume change on EPS; CL = OL × FL = Contribution ÷ EBT.",
-     "exam_angle": "Every three-leverage question ends here, and most reverse-working questions start here."},
-    {"ref": "DCL (SM §5.1)", "status": "VERIFIED",
+     "exam_angle": "Every three-leverage question ends here, and most reverse-working questions start here."
+    },
+    {
+     "ref": "DCL (SM §5.1)",
+     "status": "VERIFIED",
      "requirement": "The ratio of the percentage change in EPS to the percentage change in sales; DCL = DOL × DFL.",
-     "exam_angle": "The bridge that lets a question give two leverages and ask for the third."}
+     "exam_angle": "The bridge that lets a question give two leverages and ask for the third."
+    }
    ],
-   "keywords": ["potential use of fixed costs", "both operating and financial", "magnifies the effect of sales volume change", "Contribution ÷ EBT", "percentage change in earning per share", "effect the changes in sales will have on EPS", "positive and negative"],
+   "keywords": [
+    "potential use of fixed costs",
+    "both operating and financial",
+    "magnifies the effect of sales volume change",
+    "Contribution ÷ EBT",
+    "percentage change in earning per share",
+    "effect the changes in sales will have on EPS",
+    "positive and negative"
+   ],
    "memory": {
     "trick": "**DCL = Contribution ÷ EBT.** The EBIT cancels out of DOL × DFL, so the combined leverage spans the statement from contribution straight down to earnings before tax.",
-    "key": [["Definition", "Fixed costs, operating and financial, magnifying sales change on EPS"], ["Formula", "DOL × DFL = Contribution ÷ EBT"], ["Degree", "% change in EPS ÷ % change in sales"], ["Use", "One multiplication forecasts EPS from a sales change"], ["Sign", "Can be positive or negative"]],
+    "key": [
+     [
+      "Definition",
+      "Fixed costs, operating and financial, magnifying sales change on EPS"
+     ],
+     [
+      "Formula",
+      "DOL × DFL = Contribution ÷ EBT"
+     ],
+     [
+      "Degree",
+      "% change in EPS ÷ % change in sales"
+     ],
+     [
+      "Use",
+      "One multiplication forecasts EPS from a sales change"
+     ],
+     [
+      "Sign",
+      "Can be positive or negative"
+     ]
+    ],
     "recall_trigger": "Contribution over EBT"
    },
-   "mistakes": ["Adding DOL and DFL instead of multiplying them.", "Using PAT instead of EBT in Contribution ÷ EBT.", "Applying the combined leverage to a change in EBIT; it works on a change in sales."],
-   "links": ["🔗 FM Ch 6 §5.2: what the combination of high and low leverages means", "🔗 FM Ch 5 §5.1: the same statement used to compare financing plans"],
+   "mistakes": [
+    "Adding DOL and DFL instead of multiplying them.",
+    "Using PAT instead of EBT in Contribution ÷ EBT.",
+    "Applying the combined leverage to a change in EBIT; it works on a change in sales."
+   ],
+   "links": [
+    "🔗 FM Ch 6 §5.2: what the combination of high and low leverages means",
+    "🔗 FM Ch 5 §5.1: the same statement used to compare financing plans"
+   ],
    "face_in_exam": {
-    "forms": ["Compute all three leverages from a cost structure (Jan 2025 Q1(b), and eight MTPs)", "Rebuild the income statement from two given leverages (May 2025 Q1(c), Sep 2024 Q1(a))", "Forecast the new EBIT or EPS after a stated change in sales"],
-    "approach": ["Draw the statement, compute DOL and DFL, multiply for DCL", "For a forecast, multiply the percentage change in sales by the relevant leverage"],
-    "official_pattern": "PYQ-J25-Q1b; PYQ-M25-Q1c; PYQ-S24-Q1a; RTP-J26-FQ8; RTP-M24-FQ4; RTP-S24-FQ8; RTP-S26-FQ5; MTP-J25-S1-FQ1a; MTP-J25-S2-FQ1c; MTP-M24-S2-FQ2a; MTP-M25-S2-FQ1c; MTP-M26-S1-FQ2b; MTP-S24-S1-FQ1c; MTP-S25-S1-FQ2a; MTP-S25-S2-FQ2b.",
+    "forms": [
+     "Compute all three leverages from a cost structure (Jan 2025 Q1(b), and eight MTPs)",
+     "Rebuild the income statement from two given leverages (May 2025 Q1(c), Sep 2024 Q1(a))",
+     "Forecast the new EBIT or EPS after a stated change in sales"
+    ],
+    "approach": [
+     "Draw the statement, compute DOL and DFL, multiply for DCL",
+     "For a forecast, multiply the percentage change in sales by the relevant leverage"
+    ],
+    "official_pattern": "PYQ-J25-Q1b; PYQ-M25-Q1c; PYQ-S24-Q1a; RTP-J26-FQ8; RTP-M24-FQ4; RTP-S24-FQ8; RTP-S26-FQ5; MTP-J25-S1-FQ1a; MTP-J25-S2-FQ1c; MTP-M24-S2-FQ2a; MTP-M25-S2-FQ1c; MTP-M26-S1-FQ2b; MTP-S24-S1-FQ1c; MTP-S25-S1-FQ2a; MTP-S25-S2-FQ2a; MTP-S26-S2-FQ2b.",
     "time_tip": "5 marks ≈ 9 minutes (study guidance)."
    },
    "write": {
-    "structure": ["The profitability statement in full", "DOL, DFL and DCL each with its formula and substitution", "Any forecast asked for", "A line on what the combined figure means"],
-    "keywords": ["contribution", "EBIT", "EBT", "combined leverage"],
+    "structure": [
+     "The profitability statement in full",
+     "DOL, DFL and DCL each with its formula and substitution",
+     "Any forecast asked for",
+     "A line on what the combined figure means"
+    ],
+    "keywords": [
+     "contribution",
+     "EBIT",
+     "EBT",
+     "combined leverage"
+    ],
     "length": "5 marks: one statement plus three divisions",
     "conclusion": "A 1% change in sales moves EPS by DCL%.",
-    "avoid": ["Presenting the leverages without the statement that produced them"]
+    "avoid": [
+     "Presenting the leverages without the statement that produced them"
+    ]
    },
    "official_questions": [
-    {"id": "PYQ-J25-Q1b", "marks": 5, "status": "VERIFIED",
+    {
+     "id": "PYQ-J25-Q1b",
+     "marks": 5,
+     "status": "VERIFIED",
      "question": "Balance Sheet of EXIM Ltd. as on 31st March 2024: equity share capital of ₹100 each ₹20,00,000; retained earnings ₹4,00,000; 12.5% debentures ₹40,00,000; current liabilities ₹16,00,000; fixed assets ₹50,00,000; current assets ₹30,00,000 — total ₹80,00,000. Fixed costs per annum (exclusive of interest) ₹16,00,000; variable operating cost ratio 70%; total assets turnover ratio 2.5; income tax rate 30%. Calculate (i) earnings per share, (ii) operating leverage, (iii) financial leverage, (iv) combined leverage.",
      "answer_points": [
       "**Step 1 — Sales.** Total assets turnover ratio 2.5 on total assets of ₹80,00,000 gives **Sales = ₹2,00,00,000**.",
@@ -207,9 +450,18 @@
       "The marks are split 2 + 1 + 1 + 1, and the two-mark item is the EPS — which requires the whole statement, so build it first."
      ],
      "conclusion": "Turnover ratio gives sales; sales gives the statement; the statement gives all four answers.",
-     "keywords": ["total assets turnover ratio", "variable operating cost ratio", "contribution", "combined leverage"],
-     "examiner": "No examiners' comments have been published for Paper 6."},
-    {"id": "PYQ-M25-Q1c", "marks": 5, "status": "VERIFIED",
+     "keywords": [
+      "total assets turnover ratio",
+      "variable operating cost ratio",
+      "contribution",
+      "combined leverage"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "PYQ-M25-Q1c",
+     "marks": 5,
+     "status": "VERIFIED",
      "question": "Following information relates to A Ltd. for the year ended 31st March 2025: profit volume ratio 24%; operating leverage 2.00; financial leverage 1.50; and other data given. Prepare the income statement, calculate EPS, and calculate the percentage change asked for.",
      "answer_points": [
       "**Work upward from the leverages.** Financial leverage of 1.50 means **EBIT ÷ EBT = 1.5**, so EBT is two-thirds of EBIT and **interest is one-third of EBIT**. Operating leverage of 2.00 means **Contribution ÷ EBIT = 2**, so contribution is twice EBIT and **fixed cost equals EBIT**.",
@@ -220,9 +472,17 @@
       "The habit worth forming: **every leverage given is a ratio between two adjacent lines of the statement**, so two leverages plus one absolute figure fill in the whole thing."
      ],
      "conclusion": "Two leverages and a P/V ratio are enough to reconstruct the entire statement.",
-     "keywords": ["profit volume ratio", "operating leverage", "financial leverage", "combined leverage"],
-     "examiner": "No examiners' comments have been published for Paper 6."},
-    {"id": "RTP-M24-FQ4", "status": "VERIFIED",
+     "keywords": [
+      "profit volume ratio",
+      "operating leverage",
+      "financial leverage",
+      "combined leverage"
+     ],
+     "examiner": "No examiners' comments have been published for Paper 6."
+    },
+    {
+     "id": "RTP-M24-FQ4",
+     "status": "VERIFIED",
      "question": "From the following financial data of Company A and Company B, prepare their income statements. (ICAI label: Leverage.)",
      "answer_points": [
       "**Work from the bottom of each given leverage upward.** Where the **financial leverage** is given with the interest, EBIT = Interest × DFL ÷ (DFL − 1); where EBIT is given, EBT = EBIT ÷ DFL.",
@@ -233,11 +493,58 @@
       "This 'prepare the income statement' instruction is the single most repeated form in the chapter, appearing in the May 2024 and September 2024 RTPs and in at least four mock test papers."
      ],
      "conclusion": "Every leverage is a ratio between two adjacent lines; use them to walk up the statement.",
-     "keywords": ["prepare income statement", "operating leverage", "financial leverage", "combined leverage"],
-     "also_asked_as": ["RTP-S24-FQ8 (PC Ltd under Situations 1, 2 and 3 and Financial Plans A and B)", "RTP-J26-FQ8 (Pinaca Pvt. Ltd — leverages from the balance sheet and income statement)", "RTP-S26-FQ5 (Anirban Ltd)", "MTP-M24-S2-FQ2a (companies P and Q — prepare income statements from the leverages)", "MTP-S24-S1-FQ1c (X Ltd — prepare the income statement)", "MTP-M25-S2-FQ1c (operating, financial and combined leverage under two situations)", "MTP-S25-S2-FQ2b (calculate DOL, DFL and DCL)", "MTP-M26-S1-FQ2b (PQR Ltd)", "MTP-J25-S1-FQ1a (ABC Industries — combined leverage and the impact of a 10% sales increase)", "MTP-J25-S2-FQ1c (Beta Limited)", "MTP-S25-S1-FQ2a (Majestic Ltd — leverages and an expansion plan)"]}
+     "keywords": [
+      "prepare income statement",
+      "operating leverage",
+      "financial leverage",
+      "combined leverage"
+     ],
+     "also_asked_as": [
+      "RTP-S24-FQ8 (PC Ltd under Situations 1, 2 and 3 and Financial Plans A and B)",
+      "RTP-J26-FQ8 (Pinaca Pvt. Ltd — leverages from the balance sheet and income statement)",
+      "RTP-S26-FQ5 (Anirban Ltd)",
+      "MTP-M24-S2-FQ2a (companies P and Q — prepare income statements from the leverages)",
+      "MTP-S24-S1-FQ1c (X Ltd — prepare the income statement)",
+      "MTP-M25-S2-FQ1c (operating, financial and combined leverage under two situations)",
+      "MTP-S25-S2-FQ2a (calculate DOL, DFL and DCL)",
+      "MTP-M26-S1-FQ2b (PQR Ltd)",
+      "MTP-J25-S1-FQ1a (ABC Industries — combined leverage and the impact of a 10% sales increase)",
+      "MTP-J25-S2-FQ1c (Beta Limited)",
+      "MTP-S25-S1-FQ2a (Majestic Ltd — leverages and an expansion plan)"
+     ]
+    },
+    {
+     "id": "MTP-S26-S2-FQ2b",
+     "marks": 6,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Sunrise Foods Limited, a mid-sized packaged-foods company, is reviewing its cost structure and capital mix. Its balance sheet as on 31 March 2026 shows equity share capital of ₹12 crore (1.20 crore shares of ₹10 each), reserves and surplus ₹3 crore, 12% debentures ₹25 crore and current liabilities ₹10 crore, against net fixed assets of ₹32 crore and current assets of ₹18 crore — ₹50 crore in all. Fixed costs per annum excluding interest are ₹10 crore, the variable operating cost ratio is 60%, the total assets turnover ratio is 3 and the income-tax rate is 30%. CALCULATE and comment on (i) earnings per share, (ii) operating leverage, (iii) financial leverage and (iv) combined leverage.",
+     "answer_points": [
+      "==**Get to sales from the turnover ratio first — nothing else can be computed until you do.** Total assets = ₹50 crore, and total assets turnover = Sales ÷ Total assets = 3, so **Sales = 50 × 3 = ₹150 crore**.==",
+      "==**Build the statement down to EAT.** Sales ₹150 crore; less variable operating cost at 60% ₹90 crore; **contribution ₹60 crore**; less fixed cost other than interest ₹10 crore; **EBIT ₹50 crore**; less interest on debentures 12% × ₹25 crore = ₹3 crore; **EBT ₹47 crore**; less tax at 30% ₹14.10 crore; **EAT ₹32.90 crore**.==",
+      "==**(i) Earnings per share.** ₹32.90 crore ÷ 1.20 crore shares = **₹27.42**.==",
+      "==**(ii) Operating leverage.** Contribution ÷ EBIT = 60 ÷ 50 = **1.20**. A DOL of 1.20 shows fixed costs form a **modest** part of Sunrise Foods' cost structure: a 1% change in sales changes EBIT by about 1.20%, so operating profit is only mildly sensitive to swings in volume.==",
+      "==**(iii) Financial leverage.** EBIT ÷ EBT = 50 ÷ 47 = **1.06**. The interest burden is small relative to operating profit — the ₹3 crore debenture obligation is covered nearly seventeen times by EBIT — so the company is financially comfortable.==",
+      "==**(iv) Combined leverage.** DOL × DFL = 1.20 × 1.06 = **1.28**. A 1% change in sales moves pre-tax profit and EPS by about 1.28%.==",
+      "**What the set of four says about the company, which is the 'comment' half of the question.** Both leverages are low, so Sunrise Foods carries **little business risk and little financial risk** — earnings will not collapse if sales fall. The other side of the same fact is that it has **little gearing to work with**: a recovery in sales will not lift EPS sharply either. A company with a DCL of 1.28 is safe and unexciting, and if the board wants EPS growth it must either take on more fixed cost to buy scale or borrow more to buy the tax shield — deliberately, and knowing it is buying risk.",
+      "**The structural check worth stating.** Note that capital employed is ₹40 crore (12 + 3 + 25) while total assets are ₹50 crore; the ₹10 crore difference is the current liabilities. The turnover ratio in this question is on **total assets**, not on capital employed, and taking the wrong base gives sales of ₹120 crore and wrecks every figure after it."
+     ],
+     "conclusion": "EPS ₹27.42; DOL 1.20; DFL 1.06; DCL 1.28. Sunrise Foods carries modest fixed operating costs and a small interest burden, so a 1% movement in sales moves its EPS by only about 1.28% — a low-risk structure that also offers the shareholders little leverage on a recovery.",
+     "marks_split": "1 mark for deriving sales from the turnover ratio, 2 marks for the statement down to EAT, 1 mark for EPS, 1 mark for the three leverages, 1 mark for the comment on what each means.",
+     "mistake": "Using capital employed of ₹40 crore instead of total assets of ₹50 crore for the turnover ratio. The question says total assets turnover, and the error carries through every line of the answer. The second is deducting interest before fixed cost, which makes the contribution and the DOL wrong even where the final EAT comes out right.",
+     "topics": [
+      "FM Ch 6 §5 Combined Leverage",
+      "FM Ch 6 §5.1 Degree of Combined Leverage (DCL)",
+      "FM Ch 6 §3.1 Degree of Operating Leverage (DOL)",
+      "FM Ch 6 §4.1 Degree of Financial Leverage (DFL)"
+     ]
+    }
    ],
    "expected_questions": [
-    {"id": "EQ-F06.15-1", "form": "Compute (5 marks)", "marks": 5,
+    {
+     "id": "EQ-F06.15-1",
+     "form": "Compute (5 marks)",
+     "marks": 5,
      "question": "A firm's details: sales at ₹100 per unit ₹24,00,000; variable cost 50%; fixed cost ₹10,00,000. It has borrowed ₹10,00,000 at 10% per annum and its equity share capital is ₹10,00,000 (₹100 each). Tax is 50%. Calculate (a) operating leverage, (b) financial leverage, (c) combined leverage, (d) return on investment, and (e) the new EBIT if sales increase by ₹6,00,000.",
      "answer_points": [
       "**Statement.** Sales ₹24,00,000; less variable cost ₹12,00,000; **contribution ₹12,00,000**; less fixed cost ₹10,00,000; **EBIT ₹2,00,000**; less interest ₹1,00,000; **EBT ₹1,00,000**; less tax at 50% ₹50,000; **EAT ₹50,000**. Number of equity shares = 10,000, so **EPS = ₹5**.",
@@ -247,27 +554,65 @@
       "**(d) Return on investment** = ₹50,000 ÷ ₹10,00,000 × 100 = **5%**. Here ROI is calculated as return on equity, i.e. earnings after tax less preference dividend over equity shareholders' funds.",
       "**(e) New EBIT.** An increase of ₹6,00,000 on sales of ₹24,00,000 is a **25% rise**. Operating leverage of 6 gives a change in EBIT of 6 × 25% = **150%**, so the increase in EBIT is ₹2,00,000 × 1.5 = ₹3,00,000 and the **new EBIT is ₹5,00,000**."
      ],
-     "keywords": ["contribution", "operating leverage", "combined leverage", "return on investment", "new EBIT"]}
+     "keywords": [
+      "contribution",
+      "operating leverage",
+      "combined leverage",
+      "return on investment",
+      "new EBIT"
+     ]
+    }
    ],
    "mcqs": [
-    {"id": "MCQ-F06.15-01", "angle": "Formula", "difficulty": "Easy",
+    {
+     "id": "MCQ-F06.15-01",
+     "angle": "Formula",
+     "difficulty": "Easy",
      "question": "Combined leverage can be read directly off the profitability statement as:",
-     "options": {"A": "Contribution ÷ EBT", "B": "Contribution ÷ EBIT", "C": "EBIT ÷ EBT", "D": "Contribution ÷ PAT"},
+     "options": {
+      "A": "Contribution ÷ EBT",
+      "B": "Contribution ÷ EBIT",
+      "C": "EBIT ÷ EBT",
+      "D": "Contribution ÷ PAT"
+     },
      "answer": "A",
      "explanation": "SM §5: CL = OL × FL = (Contribution ÷ EBIT) × (EBIT ÷ EBT) = Contribution ÷ EBT; the EBIT cancels.",
-     "why_wrong": {"B": "That is operating leverage.", "C": "That is financial leverage.", "D": "Tax is applied after the leverages are measured."},
+     "why_wrong": {
+      "B": "That is operating leverage.",
+      "C": "That is financial leverage.",
+      "D": "Tax is applied after the leverages are measured."
+     },
      "trap": "The cancellation of EBIT is what makes the combined leverage a single division.",
-     "concept": "F06.15"},
-    {"id": "MCQ-F06.15-02", "angle": "Use", "difficulty": "Moderate",
+     "concept": "F06.15"
+    },
+    {
+     "id": "MCQ-F06.15-02",
+     "angle": "Use",
+     "difficulty": "Moderate",
      "question": "A firm has an operating leverage of 6 and a financial leverage of 2. If sales rise by 25%, EPS will rise by:",
-     "options": {"A": "8%", "B": "150%", "C": "300%", "D": "25%"},
+     "options": {
+      "A": "8%",
+      "B": "150%",
+      "C": "300%",
+      "D": "25%"
+     },
      "answer": "C",
      "explanation": "DCL = DOL × DFL = 6 × 2 = 12; the degree of combined leverage is the ratio of the percentage change in EPS to the percentage change in sales, so EPS rises by 12 × 25% = 300%.",
-     "why_wrong": {"A": "That adds the leverages instead of multiplying them.", "B": "That is the change in EBIT, using the operating leverage alone.", "D": "That is the change in sales itself."},
+     "why_wrong": {
+      "A": "That adds the leverages instead of multiplying them.",
+      "B": "That is the change in EBIT, using the operating leverage alone.",
+      "D": "That is the change in sales itself."
+     },
      "trap": "Option B is a genuine intermediate answer — the EBIT change — but the question asks about EPS.",
-     "concept": "F06.15"}
+     "concept": "F06.15"
+    }
    ],
-   "recap": ["Combined leverage uses both fixed costs to magnify a sales change into an EPS change.", "DCL = DOL × DFL = Contribution ÷ EBT.", "The degree is the % change in EPS per % change in sales.", "One multiplication forecasts EPS from a sales change."]
+   "recap": [
+    "Combined leverage uses both fixed costs to magnify a sales change into an EPS change.",
+    "DCL = DOL × DFL = Contribution ÷ EBT.",
+    "The degree is the % change in EPS per % change in sales.",
+    "One multiplication forecasts EPS from a sales change."
+   ]
   },
   {
    "code": "F06.16",
@@ -289,34 +634,124 @@
    ],
    "example": "May 2025 gave candidates three of these four rows and asked them to fill in the comment column using only the words 'lower', 'higher' and 'moderate' — then to name the best combination.",
    "provisions": [
-    {"ref": "The four combinations (SM §5.2)", "status": "VERIFIED",
+    {
+     "ref": "The four combinations (SM §5.2)",
+     "status": "VERIFIED",
      "requirement": "Low-low: lower total risk, cannot take advantage of trading on equity. High-high: higher total risk, very risky. High-low: moderate, not a good combination. Low-high: moderate, best combination.",
-     "exam_angle": "Asked verbatim in May 2025 and in two mock test papers; the comments must be given in ICAI's own words."}
+     "exam_angle": "Asked verbatim in May 2025 and in two mock test papers; the comments must be given in ICAI's own words."
+    }
    ],
-   "keywords": ["combined leverage measures total risk", "lower total risk", "cannot take advantage of trading on equity", "very risky combination", "not a good combination", "lower advantage of trading on equity", "best combination", "balanced by lower total business risk"],
+   "keywords": [
+    "combined leverage measures total risk",
+    "lower total risk",
+    "cannot take advantage of trading on equity",
+    "very risky combination",
+    "not a good combination",
+    "lower advantage of trading on equity",
+    "best combination",
+    "balanced by lower total business risk"
+   ],
    "memory": {
     "trick": "**Low business risk earns the right to take financial risk.** Low DOL with high DFL is the best combination; high with high is the one that ends in distress.",
-    "key": [["Low DOL, Low DFL", "Lower total risk · cannot take advantage of trading on equity"], ["High DOL, High DFL", "Higher total risk · very risky combination"], ["High DOL, Low DFL", "Moderate total risk · not a good combination"], ["Low DOL, High DFL", "Moderate total risk · best combination"]],
+    "key": [
+     [
+      "Low DOL, Low DFL",
+      "Lower total risk · cannot take advantage of trading on equity"
+     ],
+     [
+      "High DOL, High DFL",
+      "Higher total risk · very risky combination"
+     ],
+     [
+      "High DOL, Low DFL",
+      "Moderate total risk · not a good combination"
+     ],
+     [
+      "Low DOL, High DFL",
+      "Moderate total risk · best combination"
+     ]
+    ],
     "recall_trigger": "Low business risk buys financial risk"
    },
-   "mistakes": ["Naming low-low as the best combination; the study material calls it lower risk but says the firm cannot take advantage of trading on equity.", "Treating the two 'moderate' rows as equivalent; one is called the best combination and the other not a good one.", "Answering in your own words where ICAI expects its own phrases."],
-   "compare": {"title": "The four DOL–DFL combinations (SM §5.2)", "headers": ["DOL", "DFL", "Total risk", "The study material's comment"], "rows": [["Low", "Low", "Lower", "Cannot take advantage of trading on equity"], ["High", "High", "Higher", "Very risky combination"], ["High", "Low", "Moderate", "Not a good combination — lower EBIT due to higher DOL and lower advantage of trading on equity due to low DFL"], ["Low", "High", "Moderate", "Best combination — higher financial risk is balanced by lower total business risk"]]},
-   "links": ["🔗 FM Ch 5 §3.2: the risk principle in choosing a capital structure", "🔗 FM Ch 6 §4.2: trading on equity, the advantage these combinations do or do not capture"],
+   "mistakes": [
+    "Naming low-low as the best combination; the study material calls it lower risk but says the firm cannot take advantage of trading on equity.",
+    "Treating the two 'moderate' rows as equivalent; one is called the best combination and the other not a good one.",
+    "Answering in your own words where ICAI expects its own phrases."
+   ],
+   "compare": {
+    "title": "The four DOL–DFL combinations (SM §5.2)",
+    "headers": [
+     "DOL",
+     "DFL",
+     "Total risk",
+     "The study material's comment"
+    ],
+    "rows": [
+     [
+      "Low",
+      "Low",
+      "Lower",
+      "Cannot take advantage of trading on equity"
+     ],
+     [
+      "High",
+      "High",
+      "Higher",
+      "Very risky combination"
+     ],
+     [
+      "High",
+      "Low",
+      "Moderate",
+      "Not a good combination — lower EBIT due to higher DOL and lower advantage of trading on equity due to low DFL"
+     ],
+     [
+      "Low",
+      "High",
+      "Moderate",
+      "Best combination — higher financial risk is balanced by lower total business risk"
+     ]
+    ]
+   },
+   "links": [
+    "🔗 FM Ch 5 §3.2: the risk principle in choosing a capital structure",
+    "🔗 FM Ch 6 §4.2: trading on equity, the advantage these combinations do or do not capture"
+   ],
    "face_in_exam": {
-    "forms": ["Fill in the comment column for given DOL-DFL combinations and name the best (May 2025 Q4(c) OR)", "A company analysing its risk profile using combined leverage (MTP May 2026 Series I)", "Explain how combined leverage measures total risk"],
-    "approach": ["Reproduce the four-row table; use ICAI's own words 'very risky combination', 'not a good combination', 'best combination'"],
+    "forms": [
+     "Fill in the comment column for given DOL-DFL combinations and name the best (May 2025 Q4(c) OR)",
+     "A company analysing its risk profile using combined leverage (MTP May 2026 Series I)",
+     "Explain how combined leverage measures total risk"
+    ],
+    "approach": [
+     "Reproduce the four-row table; use ICAI's own words 'very risky combination', 'not a good combination', 'best combination'"
+    ],
     "official_pattern": "PYQ-M25-Q4c-OR; RTP-M26-FQ7; MTP-M26-S1-FQ4c.",
     "time_tip": "2 marks ≈ 3 minutes (study guidance)."
    },
    "write": {
-    "structure": ["State that combined leverage measures total risk", "The four-row table", "Name the best combination and say why"],
-    "keywords": ["total risk", "trading on equity", "best combination", "very risky"],
+    "structure": [
+     "State that combined leverage measures total risk",
+     "The four-row table",
+     "Name the best combination and say why"
+    ],
+    "keywords": [
+     "total risk",
+     "trading on equity",
+     "best combination",
+     "very risky"
+    ],
     "length": "2 marks: the table alone earns them",
     "conclusion": "Low business risk with high financial risk is the best combination.",
-    "avoid": ["Paraphrasing the comments; ICAI's wording is the answer"]
+    "avoid": [
+     "Paraphrasing the comments; ICAI's wording is the answer"
+    ]
    },
    "official_questions": [
-    {"id": "PYQ-M25-Q4c-OR", "marks": 2, "status": "VERIFIED",
+    {
+     "id": "PYQ-M25-Q4c-OR",
+     "marks": 2,
+     "status": "VERIFIED",
      "question": "\"The total risk of any business is the combination of degree of operating and financial risk.\" In the light of the above statement, consider the first two columns of the given table and give your comments in the 3rd column, depicting the total risk profile using only the words Lower, Higher and Moderate. Also select the best combination of DOL and DFL. The combinations given are: DOL Low with DFL High; DOL High with DFL Low; DOL High with DFL High.",
      "answer_points": [
       "**DOL Low, DFL High — Moderate total risk. Best combination.** Higher financial risk is balanced by lower total business risk.",
@@ -327,29 +762,69 @@
       "ICAI's published answer uses exactly these phrases, so they are worth reproducing rather than paraphrasing."
      ],
      "conclusion": "Three rows of comment plus the named best combination — two marks.",
-     "keywords": ["moderate total risk", "best combination", "not a good combination", "very risky combination"],
+     "keywords": [
+      "moderate total risk",
+      "best combination",
+      "not a good combination",
+      "very risky combination"
+     ],
      "examiner": "No examiners' comments have been published for Paper 6.",
-     "also_asked_as": ["MTP-M26-S1-FQ4c (a company analysing its risk profile using combined leverage, observing its degree of operating leverage)", "RTP-M26-FQ7 (ABC Manufacturing Limited — ICAI label: Leverage Analysis)"]}
+     "also_asked_as": [
+      "MTP-M26-S1-FQ4c (a company analysing its risk profile using combined leverage, observing its degree of operating leverage)",
+      "RTP-M26-FQ7 (ABC Manufacturing Limited — ICAI label: Leverage Analysis)"
+     ]
+    }
    ],
    "mcqs": [
-    {"id": "MCQ-F06.16-01", "angle": "Verdict", "difficulty": "Moderate",
+    {
+     "id": "MCQ-F06.16-01",
+     "angle": "Verdict",
+     "difficulty": "Moderate",
      "question": "Which combination does the study material describe as the best?",
-     "options": {"A": "Low DOL with high DFL", "B": "Low DOL with low DFL", "C": "High DOL with high DFL", "D": "High DOL with low DFL"},
+     "options": {
+      "A": "Low DOL with high DFL",
+      "B": "Low DOL with low DFL",
+      "C": "High DOL with high DFL",
+      "D": "High DOL with low DFL"
+     },
      "answer": "A",
      "explanation": "SM §5.2: low DOL with high DFL gives moderate total risk and is the best combination, because higher financial risk is balanced by lower total business risk.",
-     "why_wrong": {"B": "Lower total risk, but the firm cannot take advantage of trading on equity.", "C": "Higher total risk — a very risky combination.", "D": "Moderate total risk, but not a good combination."},
+     "why_wrong": {
+      "B": "Lower total risk, but the firm cannot take advantage of trading on equity.",
+      "C": "Higher total risk — a very risky combination.",
+      "D": "Moderate total risk, but not a good combination."
+     },
      "trap": "The lowest-risk combination is not the best one; the study material rewards risk that is put to work.",
-     "concept": "F06.16"},
-    {"id": "MCQ-F06.16-02", "angle": "Verdict", "difficulty": "Moderate",
+     "concept": "F06.16"
+    },
+    {
+     "id": "MCQ-F06.16-02",
+     "angle": "Verdict",
+     "difficulty": "Moderate",
      "question": "The study material's objection to a high DOL combined with a low DFL is that:",
-     "options": {"A": "It produces the highest total risk of the four combinations", "B": "The degree of combined leverage becomes undefined", "C": "It cannot be measured by combined leverage", "D": "EBIT is lower due to the higher DOL and the advantage of trading on equity is lower due to the low DFL"},
+     "options": {
+      "A": "It produces the highest total risk of the four combinations",
+      "B": "The degree of combined leverage becomes undefined",
+      "C": "It cannot be measured by combined leverage",
+      "D": "EBIT is lower due to the higher DOL and the advantage of trading on equity is lower due to the low DFL"
+     },
      "answer": "D",
      "explanation": "SM §5.2: high DOL with low DFL gives moderate total risk and is not a good combination — lower EBIT due to higher DOL and lower advantage of trading on equity due to low DFL.",
-     "why_wrong": {"A": "High with high carries the highest total risk.", "B": "DCL is undefined only where EBT is nil.", "C": "Combined leverage measures exactly this."},
+     "why_wrong": {
+      "A": "High with high carries the highest total risk.",
+      "B": "DCL is undefined only where EBT is nil.",
+      "C": "Combined leverage measures exactly this."
+     },
      "trap": "It is not the riskiest combination — it is the one that takes risk without being paid for it.",
-     "concept": "F06.16"}
+     "concept": "F06.16"
+    }
    ],
-   "recap": ["Combined leverage measures total risk, depending on the mix of operating and financial risk.", "Low-low: lower risk but no benefit from trading on equity.", "High-high: higher risk, very risky.", "High-low: moderate, not a good combination. Low-high: moderate, the best combination."]
+   "recap": [
+    "Combined leverage measures total risk, depending on the mix of operating and financial risk.",
+    "Low-low: lower risk but no benefit from trading on equity.",
+    "High-high: higher risk, very risky.",
+    "High-low: moderate, not a good combination. Low-high: moderate, the best combination."
+   ]
   }
  ]
 }

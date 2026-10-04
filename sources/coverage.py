@@ -49,7 +49,7 @@ ANS_HEAD = re.compile(r'(?i)^[ \t]*(SUGGESTED\s+ANSWERS?(\s*/\s*HINTS)?|ANSWERS?
 ANS_LIKE = re.compile(r'^\([a-e]\)\s*(?:[`\u20b9]|\d|[-+]?\d*\.?\d+\s*%|True|False)')
 
 
-def parts(path):
+def parts(path, maxq=99):
     """Yield (question-number, letter, is_or, stem) for one paper's FM side."""
     t = open(path, encoding='utf-8').read()
     for lo, hi in fm_spans(t):
@@ -60,7 +60,18 @@ def parts(path):
         d = DESC.search(body)          # skip Part I MCQs, whose (a)-(d) are options
         if d:
             body = body[d.start():]
-        qs = list(QH.finditer(body))
+        # RTPs print the "Miscellaneous" theory question as "10.  (a) DISCUSS ..." with the
+        # number and the first sub-part on one line. QH wants the number alone on its line,
+        # so that question head was invisible and all of its sub-parts were attributed to the
+        # question before it -- which is why the unplaced list used to show RTP-M26-FQ9b for a
+        # part that is really Q10(b). Split the two onto separate lines before scanning.
+        body = re.sub(r'(?m)^([ \t]*\d{1,2}\.)[ \t]+(\([a-e]\)\s)', r'\1\n\2', body)
+        # A candidate head numbered above the paper's highest descriptive question is not a
+        # question head but a numbered condition inside the question before it. Every MTP in
+        # this bank has exactly Q1-Q4 on the FM side, and MTP-S24-S1's Gurunath Ltd. carries
+        # five such conditions -- its "5." was being read as Question 5, which pushed the QB
+        # Ltd. part after it out to a question number the paper does not have.
+        qs = [q for q in QH.finditer(body) if int(q.group(1) or q.group(2)) <= maxq]
         for i, q in enumerate(qs):
             qn = q.group(1) or q.group(2)
             end = qs[i + 1].start() if i + 1 < len(qs) else len(body)
@@ -97,11 +108,21 @@ for f in sorted(glob.glob('sources/sa/*.txt') + glob.glob('sources/rtp/*.txt') +
     else:
         pid = 'MTP-' + base[4:-2]
         fmt = '{p}-FQ{q}{l}{o}'
-    for qn, letter, is_or, stem in parts(f):
+    for qn, letter, is_or, stem in parts(f, 4 if base.startswith('MTP-') else 99):
         aid = fmt.format(p=pid, q=qn, l=letter, o='-OR' if is_or else '')
-        (rows if aid in placed else miss).append((aid, placed.get(aid, ''), stem))
+        # Past-paper and RTP atoms are recorded at whole-question level (RTP-S25-FQ4, not
+        # FQ4a and FQ4b), because ICAI's own answer treats those questions as one. A
+        # sub-part whose parent question is placed is therefore covered, not missing.
+        parent = fmt.format(p=pid, q=qn, l='', o='-OR' if is_or else '')
+        if aid in placed:
+            rows.append((aid, placed[aid], stem))
+        elif parent in placed:
+            rows.append((aid, placed[parent] + '†', stem))
+        else:
+            miss.append((aid, '', stem))
 
 print(f'placed {len(rows)} · unplaced {len(miss)}')
+print('(† = covered by the whole-question atom, this project recording RTP and past-paper questions at question level)')
 if SHOW_ALL:
     for aid, ch, stem in rows:
         print(f'  [{ch}] {aid:<22} {stem}')

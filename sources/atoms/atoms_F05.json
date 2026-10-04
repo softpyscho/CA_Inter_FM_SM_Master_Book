@@ -158,13 +158,13 @@
    "src": "MTP-S24-S2 FM Q4(c) the relationship between EBIT, EPS and MPS"
   },
   {
-   "id": "MTP-S25-S2-FQ4b",
+   "id": "MTP-S25-S2-FQ3b",
    "codes": [
     "F05.12"
    ],
    "marks": 2,
    "format": "Descriptive",
-   "src": "MTP-S25-S2 FM Q4(b) the process for analysing an optimal capital structure"
+   "src": "MTP-S25-S2 FM Q3(b) briefly EXPLAIN the process for analysing an optimal capital structure"
   },
   {
    "id": "MTP-S26-S1-FQ1a",
@@ -329,6 +329,34 @@
    "marks": null,
    "format": "Case numerical",
    "src": "RTP-S25 FM Q7 X Limited and Y Limited — which financing option is best on EPS and WACC"
+  },
+  {
+   "id": "MTP-S25-S1-FQ3b",
+   "codes": [
+    "F05.06"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-S25-S1 FM Q3(b) A Ltd and B Ltd in the same risk class — total market value, equity capitalisation rate and WACC under MM with no tax and with 40% tax"
+  },
+  {
+   "id": "MTP-S25-S2-FQ2b",
+   "codes": [
+    "F05.13",
+    "F05.14"
+   ],
+   "marks": 5,
+   "format": "Case numerical",
+   "src": "MTP-S25-S2 FM Q2(b) Excellent Automation Ltd — probable share price if a Rs 60,00,000 project is funded by loan (MPS 20.64) or by equity (MPS 24.40), where crossing a 35% debt ratio cuts the PE ratio from 10 to 8"
+  },
+  {
+   "id": "MTP-S25-S2-FQ4c",
+   "codes": [
+    "F05.11"
+   ],
+   "marks": 2,
+   "format": "Case-based descriptive",
+   "src": "MTP-S25-S2 FM Q4(c) a debt-free company raising Rs 10 crore — the practical factors to evaluate before choosing debt, equity or a mix"
   }
  ]
 }

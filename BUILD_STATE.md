@@ -691,8 +691,9 @@ a one-line reason for each, then a "reading your result" box with three score ba
 that a section imbalance matters more than the total. The questions are deliberately drawn from the
 concepts the examiner reuses.
 
-**Content inventory at this point:** 186 topic blocks · 608 MCQs · 424 official question entries ·
-121 expected questions · 252 chapter-test items · 28 integrated cases · 38 Confusing Concepts
+**Content inventory at this point:** 186 topic blocks · 608 MCQs · 437 official question entries ·
+121 expected questions · 252 chapter-test items · 30 integrated cases · 38 Confusing Concepts
+tables · 808 official atoms · 8 back-matter appendices.
 tables · 789 official atoms.
 
 ## Back matter — DONE (04-10-2026)
@@ -753,9 +754,79 @@ All 35 tables in `back.json` were also rescaled so their column widths sum to th
 9906 DXA; Word scales a table whose `columnWidths` disagree with its declared width, which was
 distorting the wider tables.
 
-## Next after this
+## Back-fill residual — CLEARED (04-10-2026)
 
-The only work left on the list is the **FM residual** recorded under *"Back-fill residual — the real
-FM gaps found by the fixed coverage.py"* above: roughly 28 real unplaced FM parts, itemised there by
-target chapter. Each adds one more official question to a chapter that already covers its register
-headings in full, which is why it was scheduled last.
+`python3 sources/coverage.py` now reports **placed 203 · unplaced 0** on the FM side. Getting there
+took two separate pieces of work, and they are worth separating because only one of them was about
+the book.
+
+### 1. Nineteen genuine gaps, each read from the source before it was placed
+
+Every item on the residual list was traced to its stem **and its published answer** before a chapter
+was chosen. Four of the chapter guesses carried forward on the old list turned out to be wrong, so
+reading the answer was not a formality:
+
+| Atom | What it actually is | Guessed | Placed |
+| --- | --- | --- | --- |
+| `RTP-S26-FQ10b` | Global Infra Ltd. — the foreign bonds available to an Indian borrower | FM 2 | FM 2 §9, full entry |
+| `MTP-M24-S2-FQ3b` | NAME the financial instruments of the international market | FM 2 | FM 2 §9, also-asked-as |
+| `MTP-J25-S2-FQ4c` | drop lock bonds | FM 2 | FM 2 §3.5, full entry |
+| `MTP-S25-S1-FQ4c` | identify the hybrid instrument — preference shares | FM 2 | FM 2 §3.2, full entry |
+| `MTP-S25-S1-FQ4c-OR` | sources of long-term funds, supplier credit among them | FM 2 | FM 2 §2.2, full entry (block had no official question before) |
+| `MTP-S25-S2-FQ4c-OR` | sale and leaseback — benefits and risks | FM 2 | FM 2 §6.2, also-asked-as |
+| `RTP-J25-FQ11b` | four methods of computing the cost of equity | FM 4 | FM 4 §7, full entry |
+| `MTP-M26-S1-FQ1b` | Mr. Raman's CAPM table (Rf 8%, Rm 14%, C Ltd 14.6%) | FM 4 | FM 4 §7.5, full entry |
+| `MTP-S25-S1-FQ3b` | A Ltd / B Ltd under MM, with and without 40% tax | FM 5 | FM 5 §2.4, also-asked-as |
+| `MTP-S25-S2-FQ2b` | Excellent Automation Ltd. — probable share price, loan ₹20.64 against equity ₹24.40 | **FM 5 (process for optimal capital structure)** | FM 5 §5, full entry |
+| `MTP-S25-S2-FQ4c` | a debt-free company raising ₹10 crore — practical factors | FM 5 | FM 5 §3.2, full entry (block had no official question before) |
+| `MTP-S26-S2-FQ2b` | Sunrise Foods Ltd. — EPS ₹27.42, DOL 1.20, DFL 1.06, DCL 1.28 | **FM 4** | FM 6 §5, full entry |
+| `RTP-J25-FQ11c` | do PI and NPV give the same decision, and when do they conflict | FM 7 | FM 7 §9.2, full entry |
+| `RTP-M26-FQ10c` | the IRR acceptance rule | FM 7 | FM 7 §9.3, also-asked-as |
+| `MTP-M25-S1-FQ3b` | Millenial Ltd. — new against second-hand e-vehicles, NPV ₹16,60,441 | **FM 2** | FM 7 §9.1, also-asked-as |
+| `MTP-S24-S2-FQ1b` | Mr. Anand's share with a 1:5 bonus — NPV ₹36.14 | FM 8 | FM 7 §9.1, full entry |
+| `MTP-J25-S1-FQ2c` | Vyom Ltd. valuing Aryayash Ltd. — fair value ₹200.28 lakh | **undecided** | FM 7 §9.1, full entry |
+| `MTP-M24-S1-FQ1a` | Xee Ltd. — Walter run backwards, payout 57.13% for a price of ₹120 | **FM 6** | FM 8 §8.2, full entry |
+| `MTP-S24-S1-FQ2a` | Gurunath Ltd. — credit policy evaluation | **FM 3** | FM 9 §19, full entry |
+
+Thirteen became full `official_questions` entries with a worked answer; six became `also_asked_as`
+notes on the entry that already covers the ground. **Every figure quoted in the thirteen worked
+answers was checked against ICAI's published answer**, which caught two of my own arithmetic slips
+in the Vyom entry (the six-year discount factor product, and the 8%-growth stress test).
+
+Two mislabelled ids were also corrected, which removed a duplicate id across two chapters:
+`MTP-S25-S2-FQ2b` in FM 6 was really that paper's **Q2(a)** (ABC Engineering Ltd., DOL 1.67 → 1.57),
+and `MTP-S25-S2-FQ4b` in FM 5 was really its **Q3(b)** (the optimal capital structure process) — the
+genuine Q4(b) is FM 2's crowd funding against peer-to-peer lending.
+
+All seven touched chapters re-merge with **ERRORS: none** and their MCQ keys still balanced:
+FM 2 36/36, FM 4 34/34, FM 5 39/39, FM 6 34/34, FM 7 40/40, FM 8 39/39, FM 9 52/52.
+Atom totals: FM 346, SM 462, **808** in all (up from 789).
+
+### 2. Two real defects in `sources/coverage.py`, which produced most of the old list
+
+Of the 38 items on the residual list, **19 were not gaps at all** — they were the script mis-reading
+the papers. Both causes are now fixed in the script rather than worked around:
+
+**(a) The Miscellaneous question head was invisible.** RTPs print their theory question as
+`10.  (a) DISCUSS ...`, with the number and the first sub-part on one line. `QH` requires the number
+alone on its line, so that head was never found and **every one of its sub-parts was attributed to
+the question before it** — which is why the list showed `RTP-M26-FQ9b` for a part that is really
+Q10(b), and `RTP-J25-FQ9b/9c` for parts that are really Q11(b) and Q11(c). Fixed by splitting the
+number and the sub-part onto separate lines before scanning. The index in Appendix G now carries the
+correct `FQ10a/b/c` and `FQ11a/b/c` labels.
+
+**(b) A numbered condition inside a question was read as a question head.** MTP-S24-S1's Gurunath
+Ltd. question carries five numbered conditions, and its `5.` was taken for Question 5 — pushing the
+QB Ltd. part that follows out to `MTP-S24-S1-FQ5b`, a question number that paper does not have.
+Fixed with a per-source cap: every MTP in this bank has exactly Q1–Q4 on the FM side, so a candidate
+head above 4 is not one. (A sequence rule was tried first and rejected — one missed head shifts
+every number after it, and it broke MTP-J25-S1.)
+
+**(c) Sub-parts of whole-question atoms are now counted as covered.** Past-paper and RTP atoms are
+deliberately recorded at question level (`RTP-S25-FQ4`, not `FQ4a` and `FQ4b`) because ICAI's own
+answer treats those questions as one. The script now resolves a sub-part to its parent and marks it
+`†`, which accounts for 21 of the 203 placed rows — `RTP-S25-FQ4a/4b`, `RTP-S26-FQ2b/FQ3a/FQ4a/4b`,
+`RTP-S25-FQ5a/5b/5c`, `RTP-S24-FQ7a/7b`, `RTP-M26-FQ6a/6b` and the rest of the old false positives.
+
+The upshot: the FM coverage figure went **196 → 50 → 31 → 0** across three passes, and only 19 of
+those were ever missing content. The other 177 were tooling.

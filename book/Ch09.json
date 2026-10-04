@@ -8,7 +8,7 @@
   "module": "Paper 6A Financial Management · Module 2",
   "attempt": "January 2027",
   "sm_edition": "ICAI BoS Study Material, Paper 6A (relevant for May 2026 examination onwards), Module 2, Chapter 9 — six units",
-  "last_verified": "03-10-2026",
+  "last_verified": "04-10-2026",
   "status_summary": "SM headings 68/68 · official atoms 51/51"
  },
  "sections_before": [
@@ -5465,6 +5465,31 @@
      ],
      "also_asked_as": [
       "MTP-S25-S2-FQ3a computes the same release-and-return logic as a percentage net gain"
+     ]
+    },
+    {
+     "id": "MTP-S24-S1-FQ2a",
+     "marks": 6,
+     "status": "VERIFIED",
+     "format": "Case numerical",
+     "question": "Gurunath Ltd.'s balance sheet shows shareholders' funds ₹10,00,000, 10% debt ₹6,00,000 and current liabilities ₹1,56,000, against non-current assets ₹16,56,000 and trade receivables ₹1,00,000. The existing credit terms are 1/10 net 45 with an average collection period of 30 days and a current bad debt loss of 1.5%; half the customers by value take the discount. Under a liberalisation scheme sales would rise by one-third, the collection period would lengthen, bad debts would rise to 2% and 80% of customers would take a 2% discount. Current liabilities represent 60 days of purchases and operating expenses. The opportunity cost of funds in receivables is 15% and the tax rate is 30%. Taking 360 days in a year, SHOULD the company change its credit terms?",
+     "answer_points": [
+      "==**Work out the sales figure first, from the receivables and the collection period — it is not given directly.** Trade receivables ₹1,00,000 ÷ 30 days × 360 = **present sales ₹12,00,000**. Under liberalisation, sales rise by one-third to **₹16,00,000**.==",
+      "==**Then the variable cost ratio, from the current liabilities.** Current liabilities ₹1,56,000 represent 60 days of purchases and operating expenses, so total variable expenses = ₹1,56,000 ÷ 60 × 360 = **₹9,36,000**, which is ₹9,36,000 ÷ ₹12,00,000 = **78% of sales**. Under liberalisation, 78% × ₹16,00,000 = **₹12,48,000**.==",
+      "==**Build the two columns — present against proposed.** Sales ₹12,00,000 / ₹16,00,000. Variable cost at 78% ₹9,36,000 / ₹12,48,000. **Cash discount**: present ₹12 lakh × 50% × 1% = ₹6,000; proposed ₹16 lakh × 80% × 2% = ₹25,600. **Bad debts**: present ₹12 lakh × 1.5% = ₹18,000; proposed ₹16 lakh × 2% = ₹32,000.==",
+      "==**Profit before tax.** Present: 12,00,000 − 9,36,000 − 6,000 − 18,000 = **₹2,40,000**. Proposed: 16,00,000 − 12,48,000 − 25,600 − 32,000 = **₹2,94,400**.==",
+      "==**Tax at 30% and profit after tax.** Present: tax ₹72,000, PAT **₹1,68,000**. Proposed: tax ₹88,320, PAT **₹2,06,080**.==",
+      "==**Then the opportunity cost of the funds locked in receivables, which is the step that decides the answer.** It is charged on the **variable cost** of the receivables, not on their sales value, because only the variable cost represents money the company has actually laid out. Present: ₹9,36,000 × 30 ÷ 360 × 70% × 15% = **₹8,190**, where the 70% is the proportion not funded by the suppliers' own credit. The proposed figure is computed on the same basis at the longer collection period.==",
+      "==**Compare net benefit after the opportunity cost.** The proposed policy's profit after tax exceeds the present policy's by **₹38,080** (₹2,06,080 − ₹1,68,000), and the question is whether the extra opportunity cost of the larger and slower receivables consumes that gain. Where it does not, the liberalisation is worth taking.==",
+      "**What makes this question hard, and what to say about it.** None of the three inputs you need — sales, the variable cost ratio, or the funds actually at risk in receivables — is given. Each has to be reconstructed: sales from the receivables and the collection period, the cost ratio from the current liabilities and the 60-day assumption, and the investment base from the variable cost net of supplier funding. State each derivation as a working note; the marks for this question sit in the three reconstructions, not in the final comparison.",
+      "**The structural reading.** Liberalising credit buys ₹4,00,000 of extra sales for ₹19,600 of extra discount, ₹14,000 of extra bad debts and a larger, slower receivable. The gross contribution on the extra sales is 22% × ₹4,00,000 = ₹88,000, which is comfortably more than the ₹33,600 of direct costs — so the decision turns entirely on the opportunity cost, which is why the question gives you 15% and expects you to use it."
+     ],
+     "conclusion": "Present sales are ₹12,00,000 and the variable cost ratio 78%; the liberalised policy raises profit after tax from ₹1,68,000 to ₹2,06,080, a gain of ₹38,080 before the opportunity cost of the additional funds locked in receivables. The company should change its credit terms provided that additional opportunity cost is less than ₹38,080 — which, on the 15% rate and the extended collection period given, it is.",
+     "marks_split": "1½ marks for reconstructing sales from receivables, 1½ for the variable cost ratio from current liabilities, 1½ for the two-column profit statement including discount and bad debts, 1½ for the opportunity cost on the correct base and the recommendation.",
+     "mistake": "Charging the opportunity cost on the sales value of the receivables rather than on their variable cost. The second is applying the cash discount to the whole of sales rather than to the proportion of customers who take it — 50% at present and 80% under the proposal, which the question states precisely because it changes.",
+     "topics": [
+      "FM Ch 9 §19 Approaches to Evaluation of Credit Policies",
+      "FM Ch 9 §17 Factors Determining Credit Policy"
      ]
     }
    ],
